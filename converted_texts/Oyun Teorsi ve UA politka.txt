@@ -1,0 +1,878 @@
+--- Sayfa 1 ---
+METU Studies in Development, 30 (Aralık), 2003, 163-180
+
+Oyun kuramı ve uluslararası
+politika
+
+Serdar Güner
+Bilkent Üniversitesi Uluslararası İlişkiler Bölümü, Ankara 06533Türkiye
+
+Özet
+Oyun kuramı kararların etkileşimini matematiksel olarak inceler.  Uluslararası
+politika ise büyük ölçüde dış politika kararlarının kesişiminden oluşur.  Bu nedenle
+oyun kuramı uluslararası ilişkilerde yalın ve formel açıklayıcı modellerin
+kurulmasında ana araçtır. Bu çalışma oyun kuramının kısa bir tarifini ve analiz
+düzeylerini birkaç örnekle vermektedir. Ayrıca oyun kuramının uluslararası
+ilişkilerde uygulanması ile ilgili kaynaklar gösterilmekte ve kuramla ilgili olarak
+birçok yazı ya da konuşmada dile getirilen yanlış anlamalara da bir yanıt
+aranmaktadır. Verilen birkaç örnek kuramın son derece basit uygulamalarının bile
+uluslararası ilişkilerde daha evvelden bilinen ya da bilindiği zannedilen
+sorunsalların modellenmesinde yardımcı olabileceklerini gösterebilir.
+
+1. Oyun kuramı nedir?
+Oyun deyince herhalde akla ilk gelen belli kuralları olan eğlenceler
+olur. Satranç, poker, futbol gibi oyunların ortak bölenleri bunların belli
+kuralları, kendilerine özgü stratejik yapılar ve sonuçlara sahip
+olmalarıdır. Bu kurallar aynı zamanda oyunların birbirlerinden nasıl
+ayrıldıklarını gösterir. Temel ortak bölen sonuçların ve sonuçların
+içerdiği değerlerin sadece tek bir karar verenin, yani tek bir oyuncunun,
+alacağı kararlara bağlı olmamasıdır: sonuçlar oyuncuların birbirine bağlı
+davranışlarının neticesi olarak ortaya çıkarlar. Her oyuncu karşısındaki
+oyuncunun ne karar vereceğini düşünerek hareket eder. Bir oyuncunun
+kararı diğer oyuncu ya da oyuncuların kararlarına bağlı olarak değişebilir.
+Buna karar etkileşimi, ya da etkileşimli karar verme süreci de denilebilir.
+Davranışıyla bir başka oyuncunun durumunu etkileyemeyen karar verici
+oyuncu olarak nitelendirilmez.
+En az iki karar vericinin etkileşim içinde olduğu her durum bir
+oyundur. Etkileşimler karşılıklı, birbirine bağlı kararlar anlamında
+
+--- Sayfa 2 ---
+164
+                                                          Serdar GÜNER
+
+stratejiktir. Stratejik yapı alınan bazı kararların veya yapılan hareket
+seçimlerinin daha iyi ya da kötü sonuçlar doğurması ile bağlantılıdır.
+Oyun kuramı bu etkileşimleri ve süreçlerini matematiksel olarak inceler.
+Kurallar, belirgin sonuçlar ve etkileşim, oyunların üç ana
+belirleyicileridirler. Uluslararası ilişkilerde stratejik çok sayıda etkileşim
+vardır. Örneğin, hükümetler, askeri, uluslararası çevre, ticaret ile ilgili
+kararları, diğer hükümetlerin de bu konuda alabilecekleri ya da aldıkları
+kararları göz önünde bulundurarak alırlar. Karar etkileşimi böylelikle
+küresel
+boyutlara
+ulaşabilir.
+Hükümetler
+diğerlerinin
+tepkisini
+öngörmeden pek hareket etmezler. Aynı zamanda oyun olarak
+düşünemediğimiz ilişkiler de bu ortak bölenlere sahip olabilir ve
+böylelikle oyun olarak algılanabilirler. Herhangi bir anlaşmaya giden
+müzakereler, savaş, caydırıcılık, işbirliği oyun durumuna gelirler.
+Kuramın kurucuları yirminci yüzyılın matematik dehası Von
+Neumann ve ekonomist Morgenstern’dir1. 1944 yılında basımı
+gerçekleşen, oyun kuramının temel kitabı The Theory of Games and
+Economic Behavior hakkında Bulletin of the American Mathematical
+Society adlı dergide şunlar yazılmıştır: “bundan sonra gelecek kuşaklar bu
+kitaba yirminci yüzyılın ilk yarısının en önemli bilimsel başarılarından
+biri olarak bakabilirler” (McMillan, 1992: 5). Bu değerlendirme artık
+büyük ölçüde yerinde bir öngörü olarak karşımıza çıkmaktadır. Bugün
+oyun kuramı ekonomi, politika bilimi, toplumbilim, sosyal psikoloji,
+uluslararası ilişkiler gibi sosyal bilimlerden, biyoloji, bilgisayar
+mühendisliğine kadar uzanan geniş yelpazede kullanılmaktadır.
+
+Kreps (1990a: 5) oyun kuramının ekonomistlerin daha iyi
+açıklamalar getirmelerini ve öngörüler yapabilmelerini sağladığını
+belirtmektedir. Bu fikre paralel olarak oyun kuramının uluslararası
+ilişkilerdeki yerini uluslararası politik açıklamalar ve öngörüler
+yapılmasına yardımcı olan bir araç olarak belirleyebiliriz. Oyun
+kuramının uygulanması gerekir, oyun kuramı tek başına uluslararası
+ilişkilerde açıklamalar ortaya çıkartamaz. Bu uygulamaların ortak özelliği
+hepsinin matematik modeller olmalarıdır (Kreps, 1990a: 6).
+
+Oyun kuramı uygulaması, oyun kuramsal temel ögelerle
+açıklanması amaçlanan etkileşim arasında ilintiler kurulması anlamına
+gelir. Bu temel ögeler oyuncu, araçsal ussallık, stratejiler, etkileşim
+sonuçları, bu sonuçlar üzerinde oyuncuların tercih sıralamaları ve
+denge(ler)dir. Soyut oyun kuramında tercih sıralamaları veri olarak analiz
+
+1  Sonsuz serilerin limitini bir-iki saniyede bulabilen, henüz altı yaşındayken iki sekiz haneli rakamı
+bölebilen, hemen hemen her matematik dalında temel çalışmalar yapmış ve bilgisayar buluşunun
+öncüsü Von Neumann bazılarına göre insanları çok iyi taklit eden bir üstün varlıktı (McMillan,
+1992: 4). Morgenstern ise Von Neumann ile kuramsal çalışmaların yanı sıra parasal ekonomi,
+matematiksel ekonomi, istatistik karar kuramı, ve savunma stratejileri konularında araştırmalar
+yaptı.
+
+--- Sayfa 3 ---
+METU STUDIES IN DEVELOPMENT
+165
+
+yapılır, bu sıralamaların nasıl ortaya çıktığı ya da çıkartıldığı kuramsal
+çerçeveyi aşar. Oyun kuramsal uygulamalarda uluslararası ilişkiler
+kuramları tercih sıralamalarının savunulmasında önemli rol oynarlar.
+Araçsal ussallık ise temelde istekler arasında tutarlılık ve buna bağlı karar
+alma anlamına gelir, ve oyun kuramına getirilen eleştiriler ve yanlış
+anlamalar arasında ilk yeri alır. Etkileşim sonuçları üzerinde değişik
+tercih sıralamaları oyuncular ve stratejiler sabit kalsalar da farklı oyunlar
+ortaya çıkarır. Oyun kuramı ve uluslararası ilişkiler kuramlarının
+kesişimlerindeki bu temel ögelerin açıklığa kavuşturulmaları oyun
+kuramsal uluslararası ilişkiler çözümlemelerinin temel taşlarıdır.
+2. Neden uluslararası politika analizlerinde oyun kuramı
+kullanılabilir?
+Uluslararası ilişkilerde oyun kuramsal çözümleme, gözlemlediğimiz
+meselelere ve sorduğumuz sorulara açıklama getirme gereğinden
+kaynaklanır. Uluslararası etkileşimler şüphesiz çetrefilli ve karmaşıktır.
+Ama bunların bütün ayrıntıları ile ortaya konulmaları tarifseldir.
+Uluslararası meselelerin ve sorunların ayrıntılı şekilde betimlenmeleri
+sorduğumuz sorulara kendiliklerinden yanıt oluşturmazlar. Örneğin, bir
+müzakerenin bütün ayrıntılarıyla betimlenmesi onu anlaşılır kılmaz, tam
+tersine bu müzakerenin anlaşılamayacak kadar zor bir konu olduğunu
+belirtebilir. Halbuki bu müzakere bir oyun olarak düşünüldüğünde ve
+bunu belirten ana değişken ve ilişkiler ele alınıp ayrıntılar analiz dışı
+bırakıldığında, elde edilen bu müzakerenin temeline inen açıklamalar
+yapmamızı sağlayabilecek bir modeldir.
+Model sadece açıklama yaratmayı hedefleyen bir araçtır. Fazla
+karmaşık olması modelin açıklama getirme kapasitesini azaltır. Doğal
+olarak ayrıntılar bilim adamından bilim adamına değişir, bu nedenle bir
+etkileşimi incelemek isteyen ilgilendiği ayrıntılara da inebilir. Kuram,
+model kurumu için hangi temel ögelerin seçilmesi ve hangi ayrıntıların
+analiz dışı bırakılması gerektiğini belirler. Oyun kuramsal bakış
+uluslararası ilişkilerde stratejik ögeleri böylelikle daha iyi kavramamıza
+yardımcı olur, karşılıklı etkileşim modelleri kurmamızı sağlar. Burada
+akılda tutulması gereken oyun kuramının bir araç olduğudur: oyun
+kuramı tek başına hiçbir uluslararası sorunu açıklayamaz, uygulanması
+gerekir, aksi takdirde bir teoremler ve ispatlar bütünü olarak kalır.
+Karmaşık uluslararası ilişkiler modeller sayesinde basite indirgenirler
+ve analiz dışı bırakılan ayrıntılarla ilgili sorular yanıtlanmaz. Basite
+indirgeme temelde neleri tam olarak kavrayıp kavrayamadığımızı da
+ortaya çıkartabilirler, çünkü modeller bazı varsayımlarda bulunmamızı ve
+çözümlemede kullanılan tüm terimlerin tarif edilmesini gerekli kılarlar.
+Herhangi oyun kuramsal bir model son derece karmaşık bir meselenin
+
+--- Sayfa 4 ---
+166
+                                                          Serdar GÜNER
+
+ana boyutlarını oyun kuramsal anlamda formüle eder, ve, bunun çözümü
+(ki bu oyunun dengesini ya da dengelerini bulmak anlamına gelir)
+araştırma sorusunu yanıtlar.
+Modeller genelde neyin neye bağlı olduğunu belirtir ve bu
+bağlantıları doğrular. Oyun kuramsal modellerin matematik yapısı
+düşüncelerimizin disipline edilmesini, çelişkiye düşülmemesini, ve
+mantıksal tutarlılık elde edilmesini sağlar (Powell, 1999b: 97).
+Formalizasyon bizi argümanlarımızı açık bir şekilde ortaya koymamıza
+zorlar ve elde ettiğimiz sonuçların hangi varsayımlardan çıkartıldığını
+herkesin görmesine olanak verir. Varsayımlar ve bunlardan tümden
+gelimle elde edilen sonuçlar berraklaşır. Oyun kuramsal modellerin
+sağladığı en büyük avantajlardan biri de fikir alışverişleri için böyle
+şeffaf bir iletişim olanağı sağlamalarıdır.
+Bir oyun kuramsal model kurmak ve çözümlemesini yapmak,
+stratejik önsezilerimizden hangi sonuçlara gidilebileceğini anlamamıza ve
+gözlemlerde bu içeriğin doğrulanıp doğrulanmadığını görmemize yarar.
+Bir uluslararası ilişkiler sorunsalında sahip olduğumuz stratejik
+fikirlerimiz oyun kuramsal şekilde formüle edilebilirler, stratejik yeni
+bakış açıları ortaya konulabilir. Eğer oyun kuramsal çözümleme daha
+evvel böyle bir model kullanmadan ileri sürülen bir açıklamayla
+uyuşursa, bu, o açıklamanın oyun kuramsal ispatı haline dönüşür ya da
+salt gözlemlere dayanan bir çalışmaya kuramsal destek sağlayabilir.
+Doğal olarak, mantıksal tutarlılık yanında gözlemleri açıklayabilmek
+kuramsal analizlerin temel amacıdır. Bir modelden çıkan sonuçların
+gözlemlere tıpatıp uyması basite indirgeme çerçevesinde olanak dışıdır.
+Burada önemli olan, analiz dışı bırakılan faktörlerin çözümlemeleri ne
+kadar çarpıttığının ortaya çıkarılmasıdır. Yoksa basite indirgemelerde her
+sorunun doğru yanıtlanması mümkün değildir. Temel soruların model
+tarafından doğru yanıtlanması yeterlidir.
+Aslında bir modelleme sonucu olan açıklamaların başarısız olmaları
+halinde de bir şey öğrenilir.  Çünkü bu durumda başta önemli saydığımız
+unsurların ve ilişkilerin yetersiz kaldıklarını görürüz, bu da bizi bu
+unsurların yerine yenilerini araştırmaya iter. Model ne kadar basitse
+yenisini kurmak o kadar kolay olur.
+Genelde şu özellikler oyun kuramının bir paradigma oluşturduğunu
+gösterir:
+1) Her oyun kuramsal kavram açıklıkla tarif edilmiştir.
+2) Oyun kuramsal varsayımlar bellidir.
+3) Oyun kuramı hangi sonuçların hangi varsayımlardan geldiğini
+gösterir.
+4) Oyun
+kuramı
+etkileşimler
+konusundaki
+fikirlerimiz
+ve
+önsezilerimizi yeniden gözden geçirmemize yardımcı olur.
+
+--- Sayfa 5 ---
+METU STUDIES IN DEVELOPMENT
+167
+
+Bu şekilde hiçbir oyun kuramsal kavram bir çalışmadan diğerine
+değişmez ve farklı şekilde kullanılamaz, anlaşılamaz. Örneğin, oyun
+kuramcılar çözümlemelerinde birbirlerinin stratejiden ne anladıklarını
+bilirler, ne anladıklarını bildiklerini bilirler. Dikkat, bu nedenle,
+uluslararası bir problemin etkileşim yönüne yoğunlaşır. Eldeki araçlar
+hemen temele inmeyi sağlayabilecek yöndedir: etkileşim içerisinde olan
+karar verici sayıları, bunların ellerindeki seçenekler, stratejiler, tercih
+sıralamaları, birbirlerinin tercih, seçenek, strateji durumlarıyla ilgili bilgi
+durumları, birbirlerinin aldıkları kararları bilerek ya da bilmeyerek
+hareket edip etmedikleri, ve işbirliği olanakları. Bu ögeler karmaşıklığı
+etkileşimsel anlamda basite indirgerler.
+3. Oyun kuramı nasıl kullanılır?
+Oyun kuramsal çözümlemeleri uluslararası ilişkilerde yapabilmek
+için aşağıdaki soruları yanıtlamamız gerekir.
+1) Oyuncular kimlerdir?
+2) Oyuncular hangi kararları alabilirler?
+3) Bu kararlar alınırken oyuncuların diğerlerinin tercih sıralamaları
+ve aldıkları kararlar  hakkında bilgileri nelerdir?
+4) Bu kararlar belli bir sırayı mı takip etmektedir?
+Bir oyun yapısını ortaya çıkartılması için oyuncuların amaçları,
+seçenekleri, bu seçeneklerin kesişimleri, bu kesişimlerin oyuncular
+tarafından nasıl değerlendirildiği belirlenir. Çeşitli uluslararası kuramlar
+bu ögelerle ilgili varsayımlar yapılmasında yardımcı olurlar. Aynı
+etkileşim için farklı kuramlar farklı varsayımlar getirebilir. Bunlar bizi
+farklı dengelere götürebilir ya da dengeyi (ya da dengeleri)
+değiştiremeyebilirler. Benzer biçimde, farklı kuramlar bir konu için
+yapılacak oyun kuramsal varsayımlarda bir değişiklik yapılmasını
+gerektirmeyebilirler.
+Oyun kuramının birçok dalı ve farklı analiz düzeyleri vardır. Bunlar
+kapsamlı (extensive form), stratejik, ve koalisyonel düzeylerdir.
+3.1. Kapsamlı düzey
+Bu düzey bir oyunu temelde ifade edebilecek hemen hemen tüm
+ögeleri kapsar.  Bu ögeler şunlardır:
+1) Oyuncu sayısı,
+2) Oyuncuların karar kümeleri,
+3) Oyuncuların karar alırken önceden alınmış olan kararlar
+hakkındaki bilgileri (perfect, imperfect information), ya da
+kendilerinin daha
+evvel
+aldıkları
+kararları
+hatırlayabilip
+hatırlayamadıkları (perfect and imperfect recall),
+4) Oyuncuların karar alma sıraları,
+
+--- Sayfa 6 ---
+168
+                                                          Serdar GÜNER
+
+5) Şans faktörü oyuna giriyorsa bunun nasıl olduğu,
+6) Oyuncuların kâr (fayda ya da değer) fonksiyonları,
+7) Oyuncuların birbirlerinin karar kümeleri, kâr fonksiyonları, ya da
+bütün oyun kuralları hakkındaki bilgileri (tam bilgi ya da eksik
+bilgi (complete/incomplete information), ve
+8) Oyunun bitişi.
+ 3.1.1. Örnek 1
+Kapsamlı düzeyde bir analize örnek olarak Türkiye ve Yunanistan
+arasındaki
+Ege
+karasuları
+konusundaki
+anlaşmazlığı
+verebiliriz.
+Bildiğimiz gibi şu an Ege denizinde Türk ve Yunan karasularının
+genişliği 6 deniz milidir, fakat Yunanistan karasuları genişliğini 12 deniz
+miline kadar çıkartabileceğini belirtmiş ve Türkiye böyle bir Yunan
+kararını savaş sebebi saymıştır. Türkiye ve Yunanistan burada
+oyunculardır, çünkü verdikleri kararlar birbirini etkilemektedir ve iki
+taraf birbirlerinin kararlarına göre davranmaktadırlar. Bu durumu bir
+oyun olarak modelleyebiliriz.
+
+Şekil 1
+
+Son olarak iki oyuncunun bu sonuçlar üzerindeki tercih sıralamalarını
+belirleyelim.  Türkiye’nin en çok statükoyu, en az ise Ege’de statükonun
+Yunanistan lehine değişmesini tercih ettiğini varsayabiliriz. Yunanistan
+doğal olarak en çok savaş olmadan statükonun kendi lehine değişmesini,
+en az ise savaşı tercih edebilir. Statükodan tarafların elde ettiklerini
+sıfırlıyarak diğer sonuçları statükoya göre belirliyebiliriz. Yunanistan
+lehine statükonun değişiminde Yunanistan çok büyük bir kazanç elde
+eder, Türkiye ise çok büyük bir kayıpla karşılaşır. Bu kazanç ve kayıpları
+
+--- Sayfa 7 ---
+METU STUDIES IN DEVELOPMENT
+169
+
+sırasıyla ey > 0 ve et > 0 olarak varsayarsak bu sonuçtan Yunanistan (ey),
+Türkiye ise (−et) elde ederler.  Savaş iki taraf için de maliyetli olacaktır.
+Bu maliyetler altında Yunanistan ve Türkiye için savaşın değerleri ise
+sırasıyla
+(−ry),
+(−rt)
+olsun.
+Bu
+parametreler
+iki
+oyuncunun
+etkileşimlerinin üç sonucu, yani statüko, savaş, Yunanistan lehine
+savaşsız bir statüko değişimi üzerinde tercih sıralamalarını verir.
+Aşağıdaki şekil bu varsayımlar altında elde edilen oyunu göstermektedir.
+
+Şekil 2
+
+Burada yapılan varsayımlar her iki oyuncunun da ikişer harekette
+bulunmaları, Türkiye’nin Yunanistan’ın aldığı karasularını genişletme
+kararını bilerek tepki göstermesi, bu hareketler sonucu oyunun belli
+sonuçları olduğu, ve oyuncuların bunlar üzerinde belirli tercih
+sıralamalarının bulunduğudur.  Doğal olarak, bu basit model varsayımları
+değiştirilerek daha karmaşıklaştırılabilir ve denge koşulları buna bağlı
+olarak değişebilir.
+Bu oyunun sondan başa çözümü (backward induction) kolaydır.
+Önce son hareket eden oyuncunun kararının ne olacağı bulunur. Türkiye
+son hareket eden oyuncudur ve Yunanistan karasularını 12 mile
+çıkarttığında savaş ilan etme ve etmeme arasında karar vermektedir.  Eğer
+savaş ilan ederse Türkiye (−rt), etmezse (−et) elde etmektedir.  Eğer (−rt),
+(−et) değerinden daha yüksekse Türkiye savaş ilan eder. Bu ise
+Türkiye’nin Ege’de yeni bir statükodan savaştan daha fazla zarar gördüğü
+anlamına gelir (rt < et). Böyle olduğunu varsayarsak, Yunanistan,
+karasularını 12 mile çıkarttığı zaman Türkiye’nin muhakkak savaş ilan
+edeceğini öngörür ve savaş maliyetleri ile karasularını 12 mile
+çıkartmama eylemlerinin getireceği değerleri bir karar almadan önce
+karşılaştırır. Statükodan daha fazla bir değer elde ettiği için (0 > −ry), 6
+milde kalmayı seçer. Böylece iki taraf da Ege’de karasularını 6 mille
+
+--- Sayfa 8 ---
+170
+                                                          Serdar GÜNER
+
+sınırlandırmaya devam ederler. Yani (rt < et) varsayımı altında oyunun
+tek dengesi Ege’de statükonun devam etmesidir.
+Eğer rt > et varsayımını yaparsak, yani savaş maliyeti Türkiye için
+Ege’de yeni bir statüko altında uğrayacağı zarardan büyükse, bu defa
+Türkiye savaş açmayacak, Yunanistan, Ege’de yeni statükonun getirisiyle
+şimdiki statükodan elde ettiğini karşılaştırarak karasularını 12 mile
+çıkartacaktır. Bu varsayım altında, denge, Yunanistan’ın lehine Ege’de
+yeni bir statüko oluşması haline gelir. Bu dengenin yorumu şudur: eğer
+Yunanistan ve Türkiye savaş maliyetlerinin ve Ege’de elde edilecek
+kazanç ve kayıplarının ne olduklarını bilmekte ve birbirlerinin bu kazanç
+ve kayıplarının ne olduklarını biliyorlar ve bunları bildiklerini biliyorlarsa
+(tam bilgi koşulu), bugün Ege’deki statükonun devam etmesi sadece
+Türkiye’nin Yunanistan’ın karasularını 12 mile çıkartmasını savaş sebebi
+saymasına ya da böyle bir hareketi savaş sebebi saymasının Yunanistan
+tarafından
+anlaşılmasına
+bağlanamaz.
+Statükonun
+değişmemesi,
+Yunanistan’ın karasularını genişletmesi durumunda Türkiye’nin savaş
+açmama gibi seçeneği olmasına rağmen, yeni statükoda Türkiye’nin
+kaybının Türkiye’nin savaş maliyetlerinden daha yüksek olduğunu
+bilmesi ve Yunanistan’ın, karasularını genişletmesine karşılık olarak,
+Türkiye’nin bu koşul altında kesinlikle savaş ilan edeceğini öngörmesiyle
+açıklanabilir.
+Bu oyunun Nash dengeleri de kolayca bulunabilir2. Nash dengesi
+karşılıklı en iyi kararlardan oluşur. Bu oyunda dört karar profili vardır:
+(1) Yunanistan’ın 6 milde kalması, Türkiye’nin savaş ilan etmesi, (2)
+Yunanistan’ın 6 milde kalması, Türkiye’nin savaş ilan etmemesi, (3)
+Yunanistan’ın karasularını 12 mile çıkartması ve Türkiye’nin savaş ilan
+etmemesi, ve (4) Yunanistan’ın karasularını 12 mile çıkartması ve
+Türkiye’nin savaş ilan etmesi.  Türkiye’nin savaş ilan etmesine karşılık
+Yunanistan’ın alacağı en iyi karar karasularını 6 milde bırakmaktır,
+Yunan kararına karşılık Türkiye’nin savaş ilan etme kararı da Nash denge
+koşulunu sağlar. Yani birinci profil, statüko, bu tercih koşulları altında bir
+Nash dengesidir. İkinci profil bir denge oluşturmaz çünkü Türkiye’nin
+savaş ilan etmemesine Yunanistan’ın en iyi yanıtı karasularını
+genişletmektir.
+Üçüncü
+profil
+de
+Nash
+dengesi
+oluşturmaz:
+Yunanistan’ın karasularını genişletmesine en iyi yanıt savaş ilan etmektir.
+Benzer şekilde, dördüncü profil de bir Nash dengesi değildir: Türkiye’nin
+savaş ilan etmesine en iyi yanıt Yunanistan’ın 6 milde kalmasıdır.
+Eğer Türkiye için savaş, Yunanistan lehine yeni bir statükodan daha
+az tercih edilirse (rt > et), Türkiye’nin savaş ilanına karşı Yunanistan’ın 6
+
+2  Oyun modelleri bu makalede daha çok örnek amaçlı verildiklerinden teknik tariflere girilmemekte,
+doğrudan dengelerin altında yatan ussal hesap verilmektedir. Nash ve alt-yetkin Nash (subgame-
+perfect Nash) dengeleri için okunabilir birkaç kaynak şunlardır: Kreps (1990a, 1990b) ve Gibbons
+(1992).
+
+--- Sayfa 9 ---
+METU STUDIES IN DEVELOPMENT
+171
+
+milde kalması en iyi yanıttır. Yunanistan’ın bu kararına karşı Türkiye’nin
+savaş ilanı en iyi yanıt durumuna gelir. Böylece statüko gene bir Nash
+dengesi olur. Bu tercih değişikliği altında bir Nash dengesi daha ortaya
+çıkar: Yunanistan’ın karasularını genişletmesi ve Türkiye’nin savaş ilan
+etmemesi. Ama birinci Nash dengesi alt-yetkin Nash denge (subgame-
+perfect) değildir. Bir Nash dengesinin alt-yetkin olması için o dengenin
+her alt-oyunda da denge oluşturması gerekir. Türkiye’nin karar alma
+durumuna geldiği oyun bir alt oyundur ve buradaki Nash dengesi
+Türkiye’nin savaş ilan etmemesidir. Yani Yunanistan’ın kararı
+karasularını genişletmek olursa Türkiye’nin alacağı en iyi karar savaş ilan
+etmemek olacaktır. Bunun yorumu ise şöyle yapılabilir: savaşın Türkiye
+için Ege’de uğrayacağı zarardan daha maliyetli olması durumunda
+statükonun devamı Türkiye’nin boş bir savaş tehdidi altında mümkün
+olmaktadır3.
+
+3.2. Stratejik düzey
+Bu analiz düzeyinde sadece şunlar ele alınır:
+1) oyuncu sayısı,
+2) strateji kümeleri,
+3) kâr (fayda-değer) fonksiyonları.
+Bu düzey tek cümle ile her strateji kombinasyonuna oyuncuların
+kârlarını iliştiren bir fonksiyondur (Aumann, 1987:  460). Oyunlar bu
+analiz düzeyinde matrislerle gösterilirler.
+3.2.1 Örnek 2
+Şimdi bu düzeye kapsamlı düzeydekinden daha genel ama basit bir
+örnek verelim. Aşağıdaki oyunda iki oyuncu (karar verici devlet) ve
+herbirinin ikişer stratejisi vardır. Bu stratejileri ‘saldır’ ve ‘saldırma’
+olarak saptayalım.
+Şekil 3
+
+Oyuncu 2
+
+Saldır
+Saldırma
+Saldır
+
+(0, 0)
+(0.5, – 0.5)
+
+Oyuncu 1
+
+Saldırma
+
+(– 0.5, – 0.2)
+
+(1, 1)
+
+Matrisin her hücresi alınan strateji kararlarının sonuçlarını
+vermektedir.  İki tarafın birbirine saldırmaması, yani barış durumunda iki
+
+3  Bu oyun Yunanistan’ın tek taraflı olarak Türkiye’nin savaş maliyetlerini bilmeme koşulu altında
+da çözülebilir ve yetkin Bayes-Nash dengeler (perfect-Bayesian equilibria) elde edilebilir.
+
+--- Sayfa 10 ---
+172
+                                                          Serdar GÜNER
+
+taraf en yüksek değeri elde ediyorlar (1, 1). Birbirlerine saldırırlarsa her
+ikisi sıfır elde ediyorlar (0,0). Birinci oyuncu saldırıp ikinci oyuncu
+saldırmazsa o zaman birinci oyuncu 0.5, ikincisi ise –0.5 elde ediyorlar.
+Ama ikinci oyuncu saldırır, birinci saldırmazsa o zaman ikinci oyuncu
+–0.2, birincisi ise –0.5 elde ediyor. Birinci oyuncunun ikincisine
+saldırmasında 0.5, buna karşın ikinci oyuncunun birinciye saldırmasında
+–0.2 elde etmelerini birinci oyuncunun daha güçlü bir devlet olması
+varsayımı destekleyebilir4.
+Bu oyunun Nash denge çözümü tarafların birbirlerine karşı
+alabilecekleri en iyi kararların bulunması anlamına gelir. Önce ikinci
+oyuncuya bakalım: birinci oyuncunun saldırısına saldırı ile karşılık
+vermek 0, saldırmama ile karşılık vermek ise –0.5 vermektedir.  Saldırıya
+saldırı ile karşılık vermek en iyisidir. Eğer birinci saldırmazsa, ikinci
+saldırmaktan –0.2, saldırmamaktan ise 1 elde etmektedir, yani
+saldırmamak daha iyidir. Birinci oyuncu ise ikinci oyuncunun saldırısı
+durumunda saldırı ile karşılık verdiğinde 0, saldırmama ile karşılık
+verdiğinde ise –0.5 aldığı için saldırı daha iyidir. Ama ikinci saldırmazsa,
+birinciye saldırmama 1, saldırma ise  0.5 getirir ve birincinin en iyi yanıtı
+saldırmama olur. Yani iki oyuncunun birbirlerinin strateji seçimlerine en
+iyi yanıtları (saldır, saldır) ve (saldırma, saldırma) hücrelerinde oluşur ve
+Nash dengeleri durumuna gelirler.
+Bu iki Nash dengesi şöyle yorumlanabilir: böyle bir etkileşimde
+bulunan devletlerin ilişkilerinde birinin saldırıp diğerinin saldırmaması
+olanaksızdır. Ya ikisi de saldıracak, ya da hiç saldırmayacaklardır.
+İkisinin de saldırmadıkları durum iki oyuncu için de en yüksek değerleri
+vermesine rağmen bir savaş da denge oluşturmaktadır, yani bu durumda
+savaş da beklenebilir. Dengeler iki tarafın barış içinde birbirlerine
+saldırmadan yaşamaları en iyi durum iken, savaşın da çıkabileceğine
+işaret etmektedirler.
+Schelling (1980: 207-216) buna benzer bir oyunu, tarafların her
+zaman bir hata yapabilip birbirlerine bu durumda bile saldırabileceğini
+varsayarak, belli parametreler altında incelemiş, bu tip hataların tarafların
+ussal
+olmayan
+davranışlarından
+ya
+da
+yanlış
+algılamalarından
+kaynaklanabileceğini belirtmiştir. Schelling’in bu oyun için varsayımı
+şudur: eğer taraflar birbirlerine saldırmadıkları durumun en yüksek değeri
+ifade ettiğini algılarlarsa, denge o iki tarafın birbirlerine saldırmadıkları
+durumdan oluşur. Bu denge tanımı Nash denge tanımından farklıdır ve
+oyunda sadece sağ-alt hücreyi denge durumuna getirir. Ama gene de
+
+4  Bu oyun Schelling (1980: 210) tarafından  incelenen oyunun bir benzeridir.  Schelling oyunda
+ikinci oyuncuya da kendisi saldırdığı, diğeri saldırmadığı durum için 0.5 değerini uygun
+görmüştür. Burada verilen örneğin tersine, Schelling’in kurduğu oyunda, oyuncular birbirlerine
+karşı simetrik pozisyondadırlar.
+
+--- Sayfa 11 ---
+METU STUDIES IN DEVELOPMENT
+173
+
+oyuncular hata sonucu birbirlerine saldırabilirler. Şimdi Schelling’in
+analizine uyarak bu oyunun içerdiği dengeleri bulalım.
+Birinci oyuncunun saldırmamayı seçmişken saldırma hata payını p,
+ikinci oyuncunun saldırmamayı seçmişken saldırma hata payını da q
+olasılıkları ile gösterelim.  Bu varsayım altında sağ alt hücrede, iki tarafın
+birbirlerine saldırmaması sonucu oluşan (1, 1) değerleri değişecektir.  Bu
+durumda iki oyuncu da saldırmamayı seçmişken biri ya da ikisi birden
+hata yapabilir ya da yapmayabilirler. İki tarafın da hata yapmaması
+olasılığı (1 ─ p)(1 ─ q), birincinin hata yapıp, diğerininin yapmaması
+olasılığı p(1 ─ q), birincinin hata yapmayıp ikincisinin yapması olasılığı
+(1 ─ p)q, ve iki tarafın da hata yapması olasılığı pq olur.  Sonuç olarak iki
+taraf ta birbirlerine saldırmamayı seçerken biri ya da diğeri hata yapabilir,
+birlikte hata yapabilirler, ya da hiç hata yapmazlar.
+Hata payları p ve q olasılıklarına bir değer vererek sabitleştirelim,
+örneğin, iki olasılığın da 0.2 değeri aldığını varsayalım. Birinci
+oyuncunun sağ alt hücrede elde ettiği şudur:
+(1 ─ p)(1 ─ q)(1) + p(1 ─ q) (0.5) + (1 ─ p)q(-0.5) + pq(0)
+= (0.8)(0.8)(1) + (0.2)(0.8)(0.5) + (0.8)(0.2)(-0.5) + pq(0)
+= 0.64.
+İkinci oyuncunun elde ettiği:
+(1 ─ p)(1 ─ q)(1) + p(1 ─ q)(─0.5) + (1 ─ p)q(-0.2) + pq(0)
+= (0.8)(0.8)(1) + (0.2)(0.8)( ─ 0.5) + (0.8)(0.2)(-0.2) + pq(0)
+= 0.528.
+Sol üst hücredeki değerler değişmezler, çünkü iki taraf ta birbirlerine
+saldırmayı seçmektedirler. Sol alt hücrede birinci oyuncu saldırmamakta
+ama ikinci oyuncu saldırmaktadır. Birinci oyuncu hatayla saldırabilir. Bu
+nedenle birinci oyuncu saldırıya hatayla saldırıyla karşılık verip 0 elde
+edebilir, ya da saldırıya saldırmamakla yanıt verebilir. Birinci oyuncunun
+bu hücredeki değeri (1 ─ p)(-0.5) + p(0) = (0.8)(-0.5) =  -0.4 olur. İkinci
+oyuncu ise saldırısına saldırıyla yanıt gelmediği durumda -0.2, saldırısına
+saldırıyla yanıt geldiğinde 0 elde ettiği ve bunlar birinci oyuncunun
+hatalarının sonuçları olduğu için sol alt hücredeki beklentisi p(0) +
+(1 ─ p)(-0.2) = (0.8)(-0.2) = -0.16 haline gelir. Benzer bir şekilde, sağ üst
+hücrede birinci oyuncu saldırmakta ama ikinci oyuncu saldırmamaktadır.
+Yani burada hata yapabilecek olan ikinci oyuncudur.  Birinci oyuncunun
+bu hücredeki beklentisi q(0) + (1 ─ q)(0.5) = (0.8)(0.5) = 0.4, ikinci
+oyuncunun beklentisi ise q(0) + (1 ─ q)(-0.5) = -0.4 haline gelir. Elde
+edilen bu yeni değerler sonucu aşağıdaki matrisle verilen yeni oyun
+ortaya çıkar.
+Bu oyun iki devletin barış içinde yaşamasına rağmen iki tarafın da
+birbirlerinin hata sonucu diğerine saldırabileceği kuşkusunu ve bu
+kuşkuların etkileşim sonuçlarını vermektedir. Bir devlet diğerine
+
+--- Sayfa 12 ---
+174
+                                                          Serdar GÜNER
+
+saldırmamayı düşünse bile, diğerinin bir hata yaparak saldırabileceğini
+aklına getirerek savunma amaçlı olarak önceden saldırabilir. Yeni oyunun
+dengesi bu kuşkular ve  korkular altında da değişmemiştir: hâlâ iki tarafın
+da birbirlerine saldırmadıkları durum iki taraf için de en iyi olandır. Yeni
+dengede iki oyuncu da eskisinde olduğu gibi 1 elde etmemekte, birinci
+oyuncu 0.64, ikinci oyuncu 0.53 almasına rağmen barış tercih edilir.
+Karşılıklı kuşkular altında da barış iki devlet arasında oluşacaktır ama
+barışın getirdiği değer iki taraf için de düşmüştür. Doğal olarak bu analiz
+orijinal oyunun ve oyuncuların hata olasılıklarının değiştirilmesiyle
+zenginleştirilebilir.
+
+Şekil 4
+
+Oyuncu 2
+
+Saldır
+Saldırma
+Saldır
+
+(0, 0)
+(0.4, – 0.4)
+
+Oyuncu 1
+
+Saldırma
+
+(– 0.4, – 0.16)
+
+(0.64, 0.64)
+
+3.3. Koalisyonel düzey
+Bu düzeyde oyuncu kümeleri (koalisyonlar) ve bu kümelerin elde
+edebilecekleri değerler verilir.  Oyuncu sayısı iki ya da ikiden daha fazla
+olabilir. Koalisyonel düzey aslında her koalisyona değerini iliştiren bir
+fonksiyondur. Bu değerlerin bulunması için her oyunda her zaman bir
+koalisyona karşı o koalisyona üye olmayan oyuncuların tümünün bir
+karşıt koalisyon oluşturacağı, yani ikiden fazla oyuncunun bulunduğu her
+etkileşimin iki karşıt koalisyona bölüneceği varsayımı yapılır5.
+Koalisyon değerlerinin paylaşımında üyelerin birbirlerine değer
+transferleri yapabildikleri ve bu transferlerin tarafları bağlayıcı
+anlaşmalar sayesinde oldukları varsayılıyorsa o zaman koalisyonel
+düzeyde kooperatif bir oyun, eğer bu varsayım yapılmıyorsa o zaman
+koalisyonel düzeyde kooperatif olmayan bir oyun analiz ediliyor
+demektir.  Kooperatif olmayan oyunlar kooperatif oyunlara göre daha çok
+kuramsal ilgi çekmiştir. Böyle oyunlarda sadece denge değil, oyuncular
+arası
+pazarlıklar
+sonucu
+hangi
+istikrarlı
+değer
+paylaşımlarının
+oluşabileceği de önem kazanır. Kooperatif olmayan oyunların çözümleri
+böyle paylaşımları vermez.   Şimdi bu düzeyde bir analize örnek verelim.
+
+5 Luce ve Raiffa (1957: 180-219) halen bu düzeyde en iyi referans kaynaklardan birini
+oluşturmaktadır.  Bu düzeyde daha yeni çözümler hakkında bilgi veren kaynaklar arasında New
+Palgrave: A Dictionary for Economics kısa ve öz bilgiler vermesi nedeniyle tercih edilebilir.
+
+--- Sayfa 13 ---
+METU STUDIES IN DEVELOPMENT
+175
+
+3.3.1 Örnek 3
+Bu oyunda üç ülke, A, B, C, vardır ve bu ülkeler birbirlerine değer
+aktarımı konusunda tarafları bağlayıcı anlaşmalar yapabilmektedir. Her
+ülke müttefiki olmadan belli bir değere sahiptir. A’nın değerine a, B’nin
+değerine b, ve C’nin değerine de c diyelim ve bunların sıfırdan büyük
+olduklarını varsayalım.  Eğer A ve B, C’ye karşı ya da B ve C, A’ya karşı
+bir ittifak kurarlarsa toplam değerlerine bir değer eklenmekte, ama A ve
+C, B’ye karşı bir ittifak kurarlarsa toplam değerlerine iki değer
+eklenmekte, son olarak bu üç ülke hep birlikte bir koalisyon kurarlarsa
+toplam değerlerine üç değer eklenmekte olduğunu varsayalım. Elde
+edilen oyun şu olur:
+v(A) = a, v(B) = b, v(C) = c,
+v(AB) = a + b + 1, v(BC) = b + c + 1, v(AC) = a + c + 2,
+v(ABC) = a + b + c + 3.
+Taraflar bu oyunda daha yüksek bir değeri elde etmek için pazarlık
+yapacaklardır. Örneğin, A, B’ye, b’nin daha üzerinde bir değeri teklif
+edebilir ve AB ittifakının kalan değerini kendisine ayırmak isteyebilir.
+Buna karşılık, C, B’ye, kendisiyle birlikte A’ya karşı bir ittifak kurması
+durumunda, B’ye A’nın önerdiğinden daha yüksek bir değer teklif
+edebilir. Ama bu defa A, C’ye, B’ye karşı bir ittifak kurarlarsa, BC
+ittifakından elde ettiğinden daha yüksek bir değeri teklif edebilir. Bu
+teklif-karşı teklif zinciri durmaksızın devam edebilir. Analizi basite
+indirgemek için a = b = c = 1 varsayımı yapalım. Böylece oyun şu hale
+gelir:
+v(A) = v(B) = v(C) = 1,
+v(AB) = v(BC) = 3, v(AC) = 4,
+v(ABC) = 6.
+Pazarlıklarda hiçbir ülke tek başına elde ettiğinden daha azını almaya
+yanaşmaz (bireysel ussallık). Yani oluşabilecek ittifaklarda üç ülke de
+1’den daha az bir değeri kabul etmez. Ayrıca üç ülke hep birlikte hareket
+ettikleri zaman toplam 6 elde ettikleri için, pazarlık sonucu oluşan her
+bölüşümde toplam değerin 6’ya eşit olması gerekir (Pareto ussallık). Bu
+varsayımlara bir de her koalisyonun toplam değerinden daha azını kabul
+etmeyeceği varsayımını (koalisyonel ussallık) eklersek, pazarlıklardan
+elde edilebilecek değerler için şu eşitsizlikler sistemi elde edilir:
+XA  ≥ 1,  XB  ≥ 1, XC  ≥ 1,
+XA +  XB  ≥ 3,  XB + XC  ≥ 3,  XA + XC = 4,
+XA +  XB  +  XC =  6.
+Bu sistemin çözümü şu olur: 1 ≤  XA  ≤  3,  1 ≤  XB  ≤  2,  1  ≤  XC  ≤  3.
+Bu eşitsizliklere uyan bütün (XA, XB, XC) bölüşümleri bir küme
+
+--- Sayfa 14 ---
+176
+                                                          Serdar GÜNER
+
+oluştururlar6. Bu kümenin özelliği içerdiği bölüşümlerden hiçbirinin
+diğerine bir üstünlük sağlayamamasıdır. Hiçbir koalisyon bu değer
+bölüşümlerinin dışında üyeleri için daha iyi bir paylaşıma erişemez. Bu
+küme elde edilmemiş olsaydı o zaman oyunun son derece istikrarsız
+olduğunu, ittifakların peşi sıra parçalanıp yerlerine yenilerinin kurulduğu
+bir durum ortaya çıkardığını ifade edebilirdik.
+Koalisyonların değerleri toprakla ya da çevresel bir zenginlikle
+ölçülebilir ve oyunun içi bu zenginliğin hiçbir ülkenin itiraz edemeyeceği
+şekilde bölüşülmesinin olanaklı olduğunu gösterir7. Yukarda analizi
+yapılan oyunda, B ülkesinin diğerleri ile yaptığı ittifakların, diğer iki ikili
+ittifaka göre daha az değerli olduğu varsayılmıştır. Böyle bir varsayım,
+B’nin elverişsiz coğrafi konumu, ya da ittifaklara yaptığı katkıların nicel
+olarak diğerlerine göre daha düşük olmasıyla desteklenebilir.
+4. Oyun kuramının yanlış bilinenleri
+Oyun kuramı ussal (rasyonel) karar alımı varsayımını yapar.
+Oyuncular tercih sıralamalarına göre en iyi (ya da en uygun) kararı
+alanlar olarak varsayılırlar. Tercih sıralamaları karar vericilerin kâr
+(fayda-değer) fonksiyonlarını belirler8. Bu tercihler özneldir, karar
+vericiye özgüdür. Bir kişinin tercih sıralaması diğerine anlaşılmaz, itici,
+ya da çılgın gelebilir. Ama kendi içinde tutarlı olduktan sonra her tercih
+sıralaması ussaldır ve oyun kuramsal bir çerçevede kullanılabilir.
+Genelde oyuncuların sadece bencil değer yükseltimi güdüsüyle
+hareket ettikleri zannedilir. Karar vericinin bencil, ya da tam tersi,
+başkalarını kayıran ve düşünen bir yapıda olması, bu yapıya uygun
+amaçlar için hareket etmesi de doğal olarak mümkündür. Oyun
+kuramında, ussallık varsayımı altında, karar vericinin hangi güdüyle
+hareket ettiği değil, tutarlı tercihleri olup olmadığı göz önünde
+bulundurulur. Bu nedenle, ussallık varsayımı altında oyun kuramı
+normatiftir ve ahlaki açıdan tarafsızdır (Aumann, 1987: 479; O’Neill,
+2001: 253-59).
+
+6  Bu kümeye “core” adı verilir. Bunu Türkçeye “oyunun özü” olarak çevirebiliriz.
+7 Gardner (2003: 367-9) bu çözümü Vance-Owen Bosna Barış Planına uygulamıştır. Gardner
+uygulamasında koalisyonların ve oyuncuların değerlerini bunların kontrol edebildikleri toprak
+genişlikleri ile ölçmüştür. Bir başka uygulamada müttefiklerin coğrafi konumlarının oyunun özünü
+nasıl değiştirdiği irdelenmektedir: Sandler (1999).
+8 Tercihler, fayda fonksiyonları, ve ussallık varsayımlarının oyun kuramındaki yeri ve bu
+kavramların yanlış anlaşılmaları konularında kolay okunabilir kaynaklardan ikisi şunlardır:
+Morrow (1994) ve O’Neill (2001). Schelling (1980) ve Dixit ve Nalebuff (1993) oyun kuramının
+müzakerelere ve uluslararası ilişkilere uygulanmasında temel kaynaklardır. Davis (1993) ve
+McMillan (1992) fazla matematiksel olmayan bir düzeyde oyun kuramını sunmaktadırlar. Heap ve
+Varoufakis (1995) oyun kuramı eleştirileri ve felsefi kaynakları konusunda bir kaynaktır. O’Neill
+(1994) oyun kuramsal uygulamalar hakkında son derece detaylı bilgiler vermektedir.
+
+--- Sayfa 15 ---
+METU STUDIES IN DEVELOPMENT
+177
+
+Ussal kararlar illa diğerlerini altetmeyi amaçlamaz, bu tip oyunlar
+kuramda daha çok sıfır-toplam (zero-sum) olarak belirlenmiştir. Sıfır-
+toplam oyunlarda karar vericilerin tercihleri birbirlerinin zıttıdır. Bunun
+sonucu olarak bir oyuncunun kazandığı diğerinin kaybına eşittir ve
+böylelikle kazanç-kayıp toplamı sıfırlanır. Ama bir oyunda birinin
+kazancının diğerinin kaybına eşit olması da oyunu sıfır-toplam bir oyuna
+dönüştürmez. Tercihler aynı yönde ise kazanç-kayıp toplamının sıfır
+olduğu oyunlar sıfır-toplam oyunlar değildir. Örneğin bir baba ve kızının
+tavla oynadıklarını düşünelim, ve varsayalım ki baba kızının oyunu
+kazanmasını tercih etsin. Kızın da oyunu kazanmak istediğini
+düşünürsek, bu tavla oyunu sıfır-toplam bir oyun olmaktan çıkar. Fakat
+tavla oyununun sonunda muhakkak biri kaybedecek, diğeri kazanacaktır9.
+Oyun kuramı sadece fayda maksimizasyonunun karar etkileşimsel
+sonuçlarını ortaya çıkartmaz, altrüizmi de inceleyebilir. Bunun
+yapılabilmesi için altrüizmin oyuncuların amaçları doğrultusunda
+şekillendirilmesi gerekir, yani tercih sıralamalarında. Kuramın heyecan
+ve hislerden uzak karar etkileşimlerini irdeleyebileceği yanılgısı da bu
+genel kanıdan kaynaklanır. Örneğin özel bir günleri için birbirlerine
+hediye almayı düşünen eşlerin karşı karşıya olabilecekleri duruma
+bakalım. Kadın eşi için bir pipoluk almayı düşünmektedir ama onu alacak
+kadar parası olmadığı ve bir sürpriz yapmayı düşündüğü için ancak
+saçlarını kestirip satmayı, ve bundan kazanacağı parayı bu hediye için
+kullanmayı düşünmektedir. Yani önemli bir fedakârlıktır söz konusu
+olan. Benzer bir şekilde eşi için hediye olarak saç tokası almayı düşünen
+ve aynı şekilde yeterli parası olmadığı için piposunu satarak aldığı parayı
+bu hediye için kullanmayı düşünen erkeği düşünelim. İkisi de
+birbirlerinden habersiz hareket ettiklerinden stratejik form bu analiz için
+uygundur.
+Şimdi kadın ve erkeğin tercih sıralamalarına bakalım. İkisinin en çok
+istediği işe yarabilecek, en az istediği ise hiçbir işe yaramayacak bir
+hediye almaktır. Bu hiç hediye almamaktan daha iyidir. Her iki oyuncu
+için en iyi durumdan en kötüye doğruyu gösteren 4, 3, 2, 1 sıralamasını
+yaparsak aşağıdaki fedakârlık oyununu stratejik düzeyde elde ederiz
+(O’Neill, 1988).
+Erkeğin tercih sıralaması (en iyiden en kötüye doğru): Saç tokası
+almış ol ama eşin saçlarını kestirmemiş olsun, pipoyu satma ama
+karından pipoluk hediyesi al (böylece o işe yarar bir hediye vermenin
+mutluluğunu yaşasın ben de o hediyeyi almanın), pipoyu satmamış ol,
+eşin de saçlarını kestirmemiş olsun (işe yaramayan bir hediyenin ne
+önemi var?), saç tokası almamış ol ama eşin sana pipoluk almış olsun
+
+9  Bu nedenle uluslararası ilişkilerde sıfır-toplam teriminin kullanımı dikkat gerektirir.
+
+--- Sayfa 16 ---
+178
+                                                          Serdar GÜNER
+
+(böylelikle, ne sen pipoluğu ne de o saç tokasını kullanabilsin). Kadının
+tercih sıralaması ise şöyle varsayılabilir (en iyiden en kötüye doğru):
+
+Şekil 5
+
+Kadın
+
+Pipoluk al
+Saçlarını
+kesme
+Saç tokası al
+
+(1, 1)
+(4, 3)*
+
+Erkek
+
+Pipoyu satma
+
+(3, 4)*
+
+(2, 2)
+
+Pipoluk almış ol ama eşin piposunu satmamış olsun, saçlarını
+kestirmemiş ol ama eşinden saç tokası hediyesi al, saçlarını kestirmemiş
+ama eşin piposunu satmamış olsun, eşine pipoluk al ama o da piposunu
+satmış olsun.
+Bu oyunun Nash dengeleri yıldızlarla gösterilmiş hücrelerde oluşur.
+Yani ya koca piposunu satmaz ama karısından pipoluk hediyesi alır, ya
+da, kadın saçlarını kestirmez ama kocasından saç tokası hediyesi alır.
+Bunu nedeni şudur: erkek karısının pipoluk alma ihtimalinde piposunu
+satarak saç tokası hediyesi alması onun elde ettiği değerde bir azalma
+meydana getirmektedir. Kadın için de kocasının piposunu satmama
+durumunda saçlarını kestirmemesi bir değer kaybı anlamına gelir.
+Ussallık varsayımı hata yapılmasının olanaksız olduğu sonucunu
+vermez. Stratejik düzeyde analizi yapılan oyun tarafların hiç hata
+yapmamasının oyun kuramında olmazsa olmaz bir koşul oluşturmadığını
+göstermektedir. Oyuncuların hata yapabilecekleri varsayımına dayalı
+olarak geliştirilen çözüm tipleri oyun kuramında aslında uzun zamandan
+beri önemli araştırma programı oluşturmuşlardır (Selten, 1975: Kreps ve
+Wilson, 1982).
+Matematikte
+aksiyom
+kümelerinden
+tümdengelim
+metoduyla
+teoremler elde edilir. Bu teoremlerin doğruluğu ya da yanlışlığı
+aksiyomların doğruluğuna ve tümdengelimin geçerliliğine bağlıdır.  Oyun
+kuramı da matematiksel çatışma ve işbirliği teorisi olduğundan
+normatifdir ve gözlemler oyun kuramsal açıklamaları doğrulamayabilir.
+Oyun kuramsal bir analiz gözlemlenen kararlar yanında bir ‘karikatür’
+gibi de kalabilir ya da onları aşağı yukarı açıklayabilir (Schelling,
+1980: 4). Böyle bir durum modelden çıkarımı yapılan teoremlerin
+(normatif anlamda) geçersiz olduğu anlamına gelmez.
+
+--- Sayfa 17 ---
+METU STUDIES IN DEVELOPMENT
+179
+
+5. Sonuç
+Bu makalede sadece birkaç örneğe yer verilebilmiştir. Uluslararası
+ilişkilerde oyun kuramsal analiz konusunda ilerlemek ya da bilgi edinmek
+isteyenlere kaynakçada verilen eserler yardımcı olabilirler. Oyun kuramı
+son yıllarda büyük bir ivme kazanmıştır. Bunun nedeni özellikle
+ekonomist ve yönetim bilimcilerinin (endüstriyel örgütlenme) oyun
+kuramını daha verimli bir şekilde karşılaşılan problemlere uygulayabilmiş
+olmalarıdır10. Doğal olarak bütün bu çalışmalar
+ilk okunuşta
+anlaşılamayabilirler. Fakat bilimsel açıdan uluslararası politikada analitik
+çalışmaların bu şekilde ne yöne doğru gittiği gözlemlenebilir.
+Kaynaklar
+AUMANN, R. J.  (1987),  “Game Theory”, New Palgrave (vol. 2), Londra: Macmillan,
+460-82.
+DAVIS, M. (1983), Game Theory: A Nontechnical Introduction, New York: Harper,
+Basic Books.
+DIXIT, A. ve NALEBUFF, B. (1993), Thinking Strategically: The Competitive Edge in
+Business, Politics, and Everyday Life, New York: W. W. Norton.
+GARDNER, R. (2003), Games for Business and Economics, New Jersey: John Wiley.
+GIBBONS, R. (1992), A Primer in Game Theory, New York: Harvester ve Wheatsheaf.
+HEAP HARGREAVES, S. P. ve VAROUFAKIS, Y. (1995), Game Theory: A Critical
+Introduction, Londra ve New York: Routledge.
+KREPS, D. (1990a), Game Theory and Economic Modelling, Oxford: Clarendon Press.
+————(1990b), A Course in Microeconomic Theory, Princeton: Princeton
+University Press.
+KREPS, D. ve R. WILSON (1982), “Sequential Equilibria”, Econometrica, 50, 863-94.
+LUCE, D. ve H. RAIFFA (1957), Games and Decisions, New York: John Wiley.
+MCMILLAN, J. (1992), Games, Strategies and Managers, Oxford: Oxford University
+Press.
+MORROW, J. D. (1994), Game Theory for Political Scientists, Princeton, New Jersey:
+Princeton University Press.
+O’NEILL, B. (2001), Honor, Symbols, and War, Ann Arbor: University of Michigan
+Press.
+————(1994), “Game Theory Models of Peace and War”, in R. Aumann ve S.
+Hart (eds.), Handbook of Game Theory with Economic Applications, volume II,
+New York: North-Holland, 1996-2031.
+————(1988), “Game Theory Sources For International Relations Specialists,”
+unpublished manuscript.
+
+10  American Political Science Review, Journal of Conflict Resolution, World Politics, International
+Organization, American Journal of Political Science, Theory and Decision, Journal of Theoretical
+Politics, International Studies Quarterly, Journal of Peace Science, Conflict Management and
+Peace Science gibi bilimsel dergilerde birçok oyun kuramsal uluslararası politik modeller
+yayınlanmıştır.
+
+--- Sayfa 18 ---
+180
+                                                          Serdar GÜNER
+
+POWELL, R. (1999a), In the Shadow of Power: States and Strategies in International
+Politics, Princeton, New Jersey: Princeton University Press.
+POWELL, R. (1999b), “The Modeling Enterprise and Security Studies”, International
+Security, 24(2), 97-106.
+SANDLER, T. (1999), “Alliance Formation, Alliance Expansion, and the Core”,
+Journal of Conflict Resolution, 43(6), 727-47.
+SCHELLING, T. (1980), The Strategy of Conflict, Cambridge, Massachusetts: Harvard
+University Press.
+SELTEN, R. (1975), “Reexamination of the Perfectness Concept for Equilibrium
+Points in Extensive Games”, International Journal of Game Theory, 4, 25-55.
+VON NEUMANN, J. ve MORGENSTERN, O. (1944), Theory of Games and Economic
+Behavior, Princeton: Princeton University Press.
+
+Abstract
+
+Game Theory and International Politics
+
+Game theory is a mathematical tool for analyzing interactive decision-making.
+Because international politics mostly involves interactive foreign-policy decisions, game
+theory is a particularly useful tool for constructing simple and formal models to explain
+and analyze international relations. This article defines game theory and provides a
+succinct illustration of game-theoretic levels of analysis with the help of a few examples.
+It refers to several sources on the application of the theory in international politics in order
+to answer some misunderstandings. The examples may help interested analysts to
+appreciate that even simple game-theoretic applications could refine, revise, or reject
+existing explanations of international relations.

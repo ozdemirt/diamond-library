@@ -1,0 +1,2614 @@
+--- Sayfa 1 ---
+Artificial Intelligence, Game Theory and
+Mechanism Design in International
+Politics Tshilidzi Marwala
+Visit to download the full and correct content document:
+https://ebookmass.com/product/artificial-intelligence-game-theory-and-mechanism-de
+sign-in-international-politics-tshilidzi-marwala/
+
+--- Sayfa 2 ---
+Artificial Intelligence,
+Game Theory and
+Mechanism Design
+in Politics
+Tshilidzi Marwala
+
+--- Sayfa 3 ---
+Artiﬁcial Intelligence, Game Theory and Mechanism
+Design in Politics
+
+--- Sayfa 4 ---
+Tshilidzi Marwala
+Artiﬁcial Intelligence,
+Game Theory
+and Mechanism
+Design in Politics
+
+--- Sayfa 5 ---
+Tshilidzi Marwala
+United Nations University
+Tokyo, Japan
+ISBN 978-981-99-5102-4
+ISBN 978-981-99-5103-1
+(eBook)
+https://doi.org/10.1007/978-981-99-5103-1
+© The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer
+Nature Singapore Pte Ltd. 2023
+This work is subject to copyright. All rights are solely and exclusively licensed by the
+Publisher, whether the whole or part of the material is concerned, speciﬁcally the rights
+of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on
+microﬁlms or in any other physical way, and transmission or information storage and
+retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology
+now known or hereafter developed.
+The use of general descriptive names, registered names, trademarks, service marks, etc.
+in this publication does not imply, even in the absence of a speciﬁc statement, that such
+names are exempt from the relevant protective laws and regulations and therefore free for
+general use.
+The publisher, the authors, and the editors are safe to assume that the advice and informa-
+tion in this book are believed to be true and accurate at the date of publication. Neither
+the publisher nor the authors or the editors give a warranty, expressed or implied, with
+respect to the material contained herein or for any errors or omissions that may have been
+made. The publisher remains neutral with regard to jurisdictional claims in published maps
+and institutional afﬁliations.
+Cover illustration: Maram_shutterstock.com
+This Palgrave Macmillan imprint is published by the registered company Springer Nature
+Singapore Pte Ltd.
+The registered company address is: 152 Beach Road, #21-01/04 Gateway East, Singapore
+189721, Singapore
+
+--- Sayfa 6 ---
+Preface
+In this book, we study the convergence of artiﬁcial intelligence (AI), game
+theory, and mechanism design in providing ideas and novel tools to the
+intricate world of politics in the constantly changing world. This work,
+located at the crossroads of these ﬁelds, attempts to understand their
+enormous consequences for political science.
+AI now impacts almost every facet of our lives, including politics. It is
+transforming political processes from policy formulation to public opinion
+analyses. However, AI is a tool with enormous power that may be used
+for good or evil; hence, it necessitates our comprehension, investigation,
+and ethical evaluation.
+Game theory, the mathematical study of strategic interaction, provides
+a solid foundation for studying political behavior. It enables us to decipher
+the intricate network of acts and reactions among political actors, whether
+people, groups, or nations. Furthermore, by outlining probable strategies
+and outcomes, game theory equips us with a toolbox for navigating the
+volatile waters of politics.
+Mechanism design, a branch of game theory, enables us to create
+systems that incentivize rational people to achieve socially desirable
+outcomes. As a result, mechanism design can offer a more equal and
+efﬁcient political landscape, from developing fair voting systems to formu-
+lating public goods-providing programs.
+This book investigates how these technologies are used in political
+contexts, highlighting their possible beneﬁts and drawbacks. The book
+v
+
+--- Sayfa 7 ---
+vi
+PREFACE
+draws on my substantial research in artiﬁcial intelligence and related tech-
+nologies, as well as real-world examples, to offer a picture of a political
+environment that is both inspiring and frightening.
+This book is intended for students, academics, policymakers, and
+everyone else interested in the future of politics. It does not necessitate
+a technical background because it has been designed with accessibility in
+mind, transforming complicated concepts into exciting and understand-
+able text. Above all, it is intended to elicit thought, create conversation,
+and motivate action.
+As you read this book, I hope you will share my excitement and
+curiosity about the potential of combining AI, game theory, and mecha-
+nism design. These are enormously powerful weapons; how we use them
+in politics will inﬂuence our shared future. This is more than a book; it
+is an invitation to embark on a journey to comprehend and shape that
+future.
+Welcome to the fascinating world of politics, artiﬁcial intelligence,
+game theory, and mechanism design.
+Tokyo, Japan
+July 2023
+Tshilidzi Marwala
+
+--- Sayfa 8 ---
+Acknowledgments
+First and foremost, I am grateful to my family for their constant support
+and patience while writing this book. Thank you to my wife, Jabulile, for
+her unique viewpoint and to our children, Khathu, Thendo, and Denga,
+whose laughter and curiosity inspire me daily.
+I want to thank my editor, Uma Vinesh, for her thorough review and
+insightful comments. She improved this book in ways I could not have
+predicted.
+Thank you to the Palgrave Macmillan team for believing in my initia-
+tive and assisting in its completion. Your effort and professionalism are
+much appreciated.
+I would also want to thank the authors and researchers whose works
+were the foundation and inspiration for this book. I am grateful for your
+insight and contributions to the ﬁeld.
+Finally, I want to express my heartfelt gratitude to you, dear reader.
+This book is for you, and I hope it inspires and enlightens you as much
+as it had me when I was writing it.
+Thank you very much. Ndi a livhuwa nga maanda!
+vii
+
+--- Sayfa 9 ---
+Contents
+1
+Introduction to Artiﬁcial Intelligence, Game Theory,
+and Mechanism Design in Politics
+1
+1.1
+Introduction to International Politics
+1
+1.2
+AI
+3
+1.3
+Game Theory
+4
+1.4
+Mechanism Development
+6
+1.5
+Conclusion and Outline of the Book
+8
+References
+9
+2
+Game Theory in Politics
+11
+2.1
+Introduction to Game Theory
+11
+2.2
+Types of Games
+12
+2.3
+Cooperative vs Non-Cooperative Games
+in International Politics
+13
+2.4
+Simultaneous vs Sequential Games
+and International Politics
+15
+2.5
+Zero-Sum vs Non-Zero-Sum Games
+17
+2.6
+Symmetric vs Asymmetric Games
+18
+2.7
+Static vs Dynamic Games
+19
+2.8
+Game Theory and International Politics
+21
+2.9
+Conclusion
+22
+References
+23
+ix
+
+--- Sayfa 10 ---
+x
+CONTENTS
+3
+Mechanism Design in Politics
+25
+3.1
+Introduction to Mechanism Design
+25
+3.2
+Types of Mechanism Design
+26
+3.3
+Auction Mechanism
+27
+3.4
+Voting Mechanism
+29
+3.5
+Matching Mechanism
+29
+3.6
+Market Mechanisms
+31
+3.7
+Contract Mechanisms
+32
+3.8
+Public Goods Mechanisms
+33
+3.9
+Mechanism Design in Politics
+35
+3.10
+Conclusion
+36
+References
+37
+4
+Artiﬁcial Intelligence in Politics
+41
+4.1
+Introduction to Artiﬁcial Intelligence
+41
+4.2
+Types of Artiﬁcial Intelligence
+42
+4.3
+AI Narrow
+43
+4.4
+General AI
+44
+4.5
+Superintelligent AI
+45
+4.6
+Neural Networks
+46
+4.7
+Reinforcement Learning
+49
+4.8
+AI and Politics
+52
+4.9
+Conclusion
+53
+References
+54
+5
+Data in Politics
+59
+5.1
+Introduction to Data and International Relations
+59
+5.2
+Data Gathering and International Politics
+60
+5.3
+Data and Game Theory
+61
+5.4
+Data and Mechanism Design
+63
+5.5
+Data and Artiﬁcial Intelligence
+65
+5.6
+Missing and Imperfect Data
+66
+5.7
+Missing Data Estimation
+67
+5.8
+Cross-Border Data Flow
+69
+5.9
+Data Ethics
+70
+5.10
+Data Governance
+72
+5.11
+Conclusion
+73
+References
+74
+
+--- Sayfa 11 ---
+CONTENTS
+xi
+6
+Deep Learning in Politics
+79
+6.1
+Deep Learning and Politics Overview
+79
+6.2
+Deep Learning Types
+80
+6.3
+Feedforward Neural Networks
+81
+6.4
+Deep Learning
+84
+6.5
+Convolutional Neural Networks (CNNs)
+87
+6.6
+Generative Adversarial Networks (GANs)
+88
+6.7
+Deep Learning and International Politics
+90
+6.8
+Conclusions
+93
+References
+93
+7
+Natural Language Processing in Politics
+99
+7.1
+Natural Language Processing (NLP) and Politics
+Overview
+99
+7.2
+Topic Modelling
+101
+7.3
+Sentiment Analysis
+102
+7.4
+Text Classiﬁcation
+104
+7.5
+Machine Translation
+106
+7.6
+Under-Resourced Languages
+107
+7.7
+African Languages
+108
+7.8
+Language Preservation
+109
+7.9
+Hate Speech
+110
+7.10
+Conclusion
+112
+References
+112
+8
+Evolutionary Programming in Politics
+117
+8.1
+Evolutionary Programming and Politics Overview
+117
+8.2
+Evolutionary Programming and Politics
+118
+8.3
+Genetic Algorithms and Politics
+119
+8.4
+Ant Colony Optimization and Politics
+121
+8.5
+Particle Swarm Optimization and Politics
+123
+8.6
+Simulated Annealing and Politics
+125
+8.7
+Artiﬁcial Immune System and Politics
+127
+8.8
+Conclusion
+129
+References
+130
+9
+Cybersecurity in Politics
+135
+9.1
+What is Cybersecurity?
+135
+9.2
+Cybersecurity and Politics
+137
+9.3
+Types of Cybersecurity
+138
+
+--- Sayfa 12 ---
+xii
+CONTENTS
+9.4
+Network Security and Politics
+139
+9.5
+Application Security and Politics
+140
+9.6
+Information Security and Politics
+141
+9.7
+Operational Security and Politics
+142
+9.8
+Disaster Recovery, Business Continuity, and Politics
+143
+9.9
+Firewalls and Intrusion Detection/Prevention
+Systems
+144
+9.10
+Encryption and Virtual Private Networks (VPNs)
+146
+9.11
+Security Information and Event Management
+Systems (SIEM)
+147
+9.12
+Investment in Cybersecurity
+149
+9.13
+Conclusion
+150
+References
+150
+10
+Social Media in Politics
+157
+10.1
+What Is Social Media?
+157
+10.2
+Social Media and Politics
+158
+10.3
+Social Media as a Political Discourse Platform
+159
+10.4
+Activism and Social Media
+161
+10.5
+Digital Diplomacy
+162
+10.6
+Elections and Social Media
+163
+10.7
+Online Echo Chambers
+165
+10.8
+Social Media, Conﬂict and Politics
+166
+10.9
+Social Media, AI, and Mechanism Design
+in International Politics
+167
+10.10
+Policy and Regulation
+168
+10.11
+Conclusion
+170
+References
+170
+11
+Robotics in Politics
+175
+11.1
+What is Robotics?
+175
+11.2
+Robotics and Politics
+177
+11.3
+Robotics in Diplomacy
+178
+11.4
+Robotics in Conﬂict
+179
+11.5
+Autonomous Weapons
+180
+11.6
+Robotics and Economic Relations
+182
+11.7
+Robot Tax
+183
+11.8
+Robotic Norms and Regulations
+184
+
+--- Sayfa 13 ---
+CONTENTS
+xiii
+11.9
+AI, Game Theory, Mechanism Design, and Robotics
+185
+11.10
+Conclusion
+187
+References
+188
+12
+AI-Powered Blockchain in Politics
+191
+12.1
+Artiﬁcial Intelligence-Powered Blockchain in Politics
+191
+12.2
+Blockchain Technology
+193
+12.3
+Diplomacy and Communication
+194
+12.4
+Security and Cyberdefense
+196
+12.5
+Economic Relations and Trade
+197
+12.6
+Governance and Regulation
+199
+12.7
+Blockchain and Energy Consumption
+200
+12.8
+Challenges and Risks of AI and Blockchain
+in Politics
+202
+12.9
+Conclusion
+203
+References
+204
+13
+Conclusion
+207
+13.1
+Introduction
+207
+13.2
+Artiﬁcial Intelligence
+207
+13.3
+Game Theory
+208
+13.4
+Mechanism Design
+208
+13.5
+Artiﬁcial Intelligence, Game Theory,
+and Mechanism Design
+208
+13.6
+Conclusion
+209
+References
+209
+Index
+211
+
+--- Sayfa 14 ---
+About the Author
+Tshilidzi Marwala is the Rector of the United Nations (UN) University
+and UN Under-Secretary-General. He was previously the Vice-Chancellor
+and Principal of the University of Johannesburg. He was born at Duthuni
+Village in the Limpopo Province of South Africa. He obtained a Ph.D.
+in Artiﬁcial Intelligence from the University of Cambridge in 2000 and
+a Bachelor of Science in Mechanical Engineering from Case Western
+Reserve University, graduating with a Magna Cum Laude in 1995. He is
+an artiﬁcial intelligence engineer, computer scientist, mechanical engineer,
+and university administrator. He has also served as a trustee of the Nelson
+Mandela Foundation and on the board of Nedbank. He has published 27
+books and over 300 papers, supervised 37 doctoral graduates, and holds
+ﬁve patents. He is a fellow of the American Academy of Arts and Sciences,
+the World Academy of Science, the African Academy of Science, and the
+Academy of Science of South Africa.
+xv
+
+--- Sayfa 15 ---
+Abbreviations
+ACO
+Ant Colony Optimization
+AI
+Artiﬁcial Intelligence
+AIS
+Artiﬁcial Immune System
+ANNs
+Artiﬁcial Neural Networks
+AU
+African Union
+BC
+Business Continuity
+CNNs
+Convolutional Neural Networks
+DQN
+Deep Q-Network
+DR
+Disaster Recovery
+EP
+Evolutionary Programming
+EU
+European Union
+FNNs
+Feedforward Neural Networks
+GANs
+Generative Adversarial Networks
+GRU
+Gated Recurrent Unit
+IDS
+Intrusion Detection Systems
+IPS
+Intrusion Prevention Systems
+LSTM
+Long Short-Term Memory
+MAD
+Mutually Assured Destruction
+MLPs
+Multi-layer Perceptrons
+NLP
+Natural Language Processing
+PPO
+Proximal Policy Optimization
+PSO
+Particle Swarm Optimization
+RL
+Reinforcement Learning
+RNNs
+Recurrent Neural Networks
+SA
+Simulated Annealing
+xvii
+
+--- Sayfa 16 ---
+xviii
+ABBREVIATIONS
+UN
+United Nations
+VPNs
+Virtual Private Networks
+WTO
+World Trade Organization
+
+--- Sayfa 17 ---
+List of Figures
+Fig. 1.1
+Illustration of game theory
+4
+Fig. 1.2
+Illustration of mechanism design
+6
+Fig. 4.1
+A feedforward multi-layer perceptron with three input
+units, two hidden nodes, and one output unit
+47
+Fig. 4.2
+Reinforcement learning
+50
+Fig. 5.1
+Data-enhanced game theory
+62
+Fig. 5.2
+Data-aided mechanism design
+64
+Fig. 6.1
+A feedforward system having three input units, one
+hidden layer with four nodes, and one output unit
+82
+Fig. 6.2
+A three-layer deep learning network
+85
+Fig. 6.3
+Convolution neural network
+87
+Fig. 6.4
+Generative adversarial network
+89
+Fig. 10.1
+The ecosystem of social network
+158
+Fig. 11.1
+An illustration of the report interacting with the world
+176
+Fig. 12.1
+An example of a blockchain process
+193
+xix
+
+--- Sayfa 18 ---
+List of Tables
+Table 1.1
+Prisoner’s Dilemma
+5
+Table 2.1
+Payoff Matrix for countries cooperating
+14
+Table 3.1
+Mechanism design vs game theory
+26
+xxi
+
+--- Sayfa 19 ---
+CHAPTER 1
+Introduction to Artiﬁcial Intelligence, Game
+Theory, and Mechanism Design in Politics
+1.1
+Introduction to International Politics
+Politics has always been a complicated, ever-changing ﬁeld marked by
+shifting power, conﬂict, and cooperative dynamics. However, in today’s
+fast-changing globe, various issues, such as globalization, technical break-
+throughs, and altering geopolitical landscapes, inﬂuence the international
+political arena, presenting states with both difﬁculties and opportunities
+(Alexander, 1998). Here, we look at the fundamental concerns affecting
+politics, the causes of change, and the techniques governments can use to
+adapt and survive in this volatile climate.
+Globalization has signiﬁcantly altered the international political scene,
+resulting in greater interdependence among nations and the distribution
+of power among state and non-state actors (Ampuja, 2012; Conner &
+Torimoto, 2004; Horvath & Szakolczai, 2018; Mimiko, 2012). While
+growing connectivity has aided trade, investment, and cooperation, it has
+also created new problems, such as the spread of transnational threats
+such as terrorism, cybercrime, and climate change. As a result, old ideas
+of power and sovereignty are changing, necessitating the development of
+new tactics and frameworks for controlling and responding to these new
+problems.
+Technological advancements in areas such as artiﬁcial intelligence
+(AI), blockchain, and cybersecurity have had a profound impact on
+international politics (Crossingham et al., 2008; Habtemariam et al.,
+© The Author(s), under exclusive license to Springer Nature
+Singapore Pte Ltd. 2023
+T. Marwala, Artiﬁcial Intelligence, Game Theory and Mechanism Design
+in Politics, https://doi.org/10.1007/978-981-99-5103-1_1
+1
+
+--- Sayfa 20 ---
+2
+T. MARWALA
+2005; Lagazio & Marwala, 2006; Marwala & Lagazio, 2004, 2011;
+Ndzendze & Marwala, 2021, 2022). These technologies provide new
+prospects for improving efﬁciency, security, and international coopera-
+tion but also introduce risks and vulnerabilities that must be handled.
+Therefore, nations must establish comprehensive policies to manage the
+associated problems and dangers as they continue to invest in and adopt
+cutting-edge technology, ensuring that these breakthroughs are used
+responsibly and ethically.
+The geopolitical environment is continually altering, with growing
+countries like Russia and China confronting the United States (US)
+and European powers (Carmody, 2013; Chun, 2016). As governments
+compete for inﬂuence and resources, the shifting balance of power is
+causing growing competition and tensions in diverse regions. In this
+situation, governments must engage in proactive diplomacy and create
+international collaboration to address common concerns and maintain
+global stability.
+Multilateralism and international institutions play an essential role in
+global politics by offering frameworks and methods for nations to collab-
+orate on common challenges and goals (Newman et al., 2006; Yahuda,
+2011). However, multilateralism has come under strain in recent years,
+with some countries pursuing more nationalist and protectionist policies
+that jeopardize the efﬁcacy and credibility of international organizations.
+Nations must reafﬁrm their commitment to international cooperation,
+collaborating to reform and improve these institutions in the face of
+growing challenges to ensure multilateralism’s future relevance and effec-
+tiveness.
+Climate change and environmental issues have gained prominence in
+international politics, with governments acknowledging the critical need
+to address these serious issues (Dessler & Parson, 2019). As the effects of
+climate change worsen, nations must adopt and execute aggressive climate
+policies, collaborate on innovative solutions, and invest in the transition
+to a more sustainable and resilient global economy. As a result, nations
+can safeguard the environment while creating new economic growth and
+development prospects.
+This book investigates AI, game theory, and mechanism design in
+politics.
+
+--- Sayfa 21 ---
+1
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE, GAME …
+3
+1.2
+AI
+AI has quickly progressed from a fascinating branch of computer science
+to a revolutionary worldwide phenomenon, impacting many industries
+and redeﬁning modern discourse (Marwala, 2021; Marwala & Hunt,
+1999; Moloi & Marwala, 2021; Muller et al., 2022). Its dynamic inter-
+actions with international politics are beginning to take shape, impacting
+diplomatic relations, power dynamics, security, and economic develop-
+ment. AI introduces new difﬁculties and uncertainties that require careful
+handling by presenting signiﬁcant possibilities for improving governance.
+AI technologies such as machine learning and natural language
+processing have far-reaching ramiﬁcations in international politics. These
+technologies can analyze massive amounts of data faster and more
+precisely than human analysts, giving governments and institutions crucial
+decision-making insights. However, AI’s dual-use character—its ability
+to be used for both positive and destructive purposes—has enormous
+consequences for international security and political relations.
+AI is altering ﬁghting and defense strategies in worldwide security.
+Drones, cyber warfare tools, and surveillance technology are increasingly
+becoming part of national security systems. Moreover, the race for arti-
+ﬁcial intelligence mastery among signiﬁcant powers such as the United
+States and China is creating a new battleground in which technological
+prowess dictates geopolitical inﬂuence and security strength.
+AI tools can help in diplomacy by forecasting political trends, assessing
+foreign policy, and even engaging in digital diplomacy. However, diplo-
+macy automation might dehumanize diplomatic operations, raising ques-
+tions regarding accountability, transparency, and ethical implications.
+AI provides a lot of promise for economic development. It can
+potentially increase efﬁciency, stimulate innovation, and generate income.
+However, AI’s ﬁnancial gains are now unequally distributed, with tech-
+nologically advanced countries enjoying the lion’s share. This condition
+exacerbates global inequality and can potentially create an “AI digital
+divide” across nations, causing difﬁculties in international relations.
+Furthermore, AI’s impact on labor markets can cause socio-economic
+upheavals, potentially leading to political instability. As certain jobs are
+replaced by technology, countries must handle the risk of greater unem-
+ployment and social discontent, which can echo through international
+politics.
+
+--- Sayfa 22 ---
+4
+T. MARWALA
+As AI pervades international politics, the necessity for effective gover-
+nance and ethical principles becomes more pressing. Privacy, data owner-
+ship, AI bias, and the threat of autonomous weapons are all controversial
+issues that necessitate international collaboration.
+However, due to various cultural norms, political systems, and
+economic interests, attaining worldwide consensus on AI ethics and legis-
+lation is a big task. Furthermore, the tension between AI as a weapon
+for social control in authoritarian regimes and a tool for boosting demo-
+cratic processes in liberal democracies confuses the situation even further.
+This polarization raises the possibility of a “splinternet,” in which the
+internet fragments along national or regional lines, diminishing global
+connectedness and cooperation.
+1.3
+Game Theory
+The study of strategic interaction through game theory has proven
+beneﬁcial in comprehending the complex dynamics of political science
+(Aumann & Shapley, 1974; Dutta, 1999; Luce & Raiffa, 1957). Game
+theory provides a framework for analyzing and forecasting the outcomes
+of international disputes, cooperation, and negotiation by modelling
+states as rational players attempting to maximize their interests. This book
+examines how game theory is used in politics, focusing on diplomacy,
+conﬂict resolution, and international law. Figure 1.1 depicts the method
+of game theory.
+As depicted in Fig. 1.1, in game theory, we have players and rules, and
+the players interact until they achieve an equilibrium which is undeter-
+mined at the start. As a result, the game’s conclusion is unknowable in
+game theory.
+In diplomacy, game theory models can depict the dynamics of state
+negotiation, cooperation, and competition. The “Prisoner’s Dilemma,”
+Players
+Rules
+Outcome
+(?)
+Fig. 1.1
+Illustration of game theory
+
+--- Sayfa 23 ---
+1
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE, GAME …
+5
+a classic game theory model described in Table 1.1, is an effective tool
+for comprehending the difﬁculties of international collaboration. When
+two persons commit a crime, they are separated and given the following
+options: If one player confesses and the other player does not, the person
+who confesses receives three years in prison. In contrast, the person who
+does not confess is sentenced to 20 years in prison. They are both set
+free if they do not confess. Both are sentenced to ﬁve years in prison if
+they confess. Nash equilibrium is a concept in game theory that describes
+a stable state of strategic interaction among multiple players in which no
+individual player has the incentive to alter their strategy unilaterally. In the
+case above, the Nash equilibrium inevitably leads to confession. It demon-
+strates how two rational actors may refuse to cooperate even though it is
+in their best interests because they fear being used by the other (Nash,
+1950). In diplomacy, such scenarios frequently play out, where mutual
+distrust can lead to squandered opportunities for cooperation.
+Climate change is one example of this, as countries may hesitate to
+invest in costly environmental protection measures unless they are satisﬁed
+that others would do the same. Policymakers can use game theory models
+to understand these dynamics better and devise methods to increase
+collaboration.
+Game theory is also essential in conﬂict resolution. The “Chicken
+Game,” in which two parties rush at each other, and the ﬁrst to yield
+is the “chicken,” is a model that is frequently used in conﬂicts where the
+consequence of not backing down is disastrous. For example, the Cold
+War’s nuclear arms race can be viewed as a “Chicken Game,” in which
+the United States and the Soviet Union faced the decision of escalation
+or retreat to avoid mutual devastation.
+Game
+theory
+assists
+policymakers
+in
+understanding
+alternative
+outcomes and designing ways to minimize conﬂict by offering a math-
+ematical description of such circumstances. In international law, game
+theory helps to explain why states comply with unenforceable rules and
+accords. The concept of the “Iterated Prisoner’s Dilemma,” in which the
+Table 1.1
+Prisoner’s
+Dilemma
+Player 2
+Confess
+Don’t Confess
+Player 1
+Confess
+(5,5)
+(3,20)
+Don’t Confess
+(20,3)
+(0,0)
+
+--- Sayfa 24 ---
+6
+T. MARWALA
+game is played repeatedly, demonstrates how states might adopt coopera-
+tive methods over time. Even without an enforcement mechanism, states
+may follow international law to establish a reputation for cooperation and
+prevent reprisal.
+The World Trade Organization’s dispute resolution system is one
+example. Despite the lack of a binding enforcement mechanism, most
+countries follow the rules because failure to do so could result in
+retaliation and damage to their reputation, inﬂuencing future encounters.
+Despite its usefulness, game theory has limitations when applied to
+international politics. It frequently assumes governments are unitary and
+rational actors, an oversimpliﬁcation that may fail to account for domestic
+politics, irrational conduct, or the complexities of international interac-
+tions. Furthermore, because game theory is strategic, it can overlook the
+relevance of norms, values, and culture in molding state behavior.
+1.4
+Mechanism Development
+Mechanism design theory, a subset of game theory, is becoming
+more widely recognized as a useful instrument in international politics
+(Diamantaras et al., 2009; Marwala & Hurwitz, 2017; Milgrom, 2004).
+In contrast to classical game theory, which investigates how rational
+players operate under a given set of rules, mechanism design is concerned
+with developing the rules to accomplish desired results, as shown in
+Fig. 1.2. We have players and a desired outcome here. The goal is to
+identify the rules to achieve the desired outcome.
+This section investigates the use of mechanism design in international
+politics, namely in international collaboration, conﬂict resolution, and
+global governance.
+Due to asymmetric knowledge, competing interests, and the free-rider
+dilemma, international collaboration frequently confronts difﬁculties.
+
+Players
+Rules
+(?)
+Outcome
+Fig. 1.2
+Illustration of mechanism design
+
+--- Sayfa 25 ---
+1
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE, GAME …
+7
+Mechanism design can assist in addressing these difﬁculties by establishing
+processes that align the interests of various parties toward cooperation.
+This is accomplished by carefully arranging incentives and disincentives
+so that, given the tactics of others, the best plan for each player leads to
+the desired collective outcome.
+For example, in the case of climate change, countries may be hesitant
+to reduce emissions for fear that others may beneﬁt from their efforts.
+Mechanism design can contribute to developing international agreements
+that incentivize emission reductions while penalizing non-compliance and
+fostering global cooperation.
+Mechanism design can also be helpful in dispute resolution. Mech-
+anism design can aid in resolving international conﬂicts by developing
+norms and protocols that encourage peaceful resolution and discourage
+escalation. Furthermore, utilizing mechanism design, the negotiation
+process, which frequently involves strategic considerations, asymmetric
+information, and bargaining, may be modelled and optimized.
+Consider discussions on resource allocation or territorial disputes.
+Mechanisms can be created to guarantee that distribution is equitable and
+agreeable to all stakeholders, lowering the probability of conﬂict. In addi-
+tion, protocols that reward compromise and penalize aggressive posture
+could be used to incentivize peaceful dialogue.
+The design of mechanisms has signiﬁcant consequences for global
+governance because various players with disparate interests must be coor-
+dinated toward common aims. Furthermore, mechanism design can help
+with the construction of international organizations, the execution of
+international law, and the creation of global economic systems.
+For example, voting procedures in international organizations might
+be devised to improve fairness, efﬁciency, and representation. Similarly,
+international trade laws can be developed to balance different countries’
+interests while promoting global economic progress. Given the strategic
+behavior of governments, mechanism design allows these systems to be
+carefully built to accomplish desired outcomes.
+While mechanism design provides intriguing tools for international
+politics, it also poses some difﬁculties. The complexity of global interac-
+tions, the diversity of participants, and a lack of enforcement skills might
+make it challenging to put designed procedures in place and execute
+them. Furthermore, the theory implies rational behavior, which may not
+always be true in practice. Moreover, the question of “who” designs the
+mechanisms is an important issue to consider.
+
+--- Sayfa 26 ---
+8
+T. MARWALA
+1.5
+Conclusion and Outline of the Book
+AI, game theory, and mechanism design are increasingly inﬂuential factors
+in international politics. Together, the computing capacity of AI, the
+strategic concepts of game theory, and the ability of mechanism design
+can engineer desired outcomes to form a potent mix that can poten-
+tially transform the landscape of world politics. This section looks at how
+the junction of these three ideas might inﬂuence international diplomacy,
+conﬂict resolution, and global government.
+AI can improve the use of game theory in international diplomacy
+by enabling real-time analysis of massive volumes of data, predicting
+outcomes, and strategizing effective responses. For example, machine
+learning algorithms can forecast states’ behavior in negotiations or
+conﬂicts by modelling complex game theory situations such as the Pris-
+oner’s Dilemma or the Chicken Game. This capability can give politicians
+and diplomats crucial insights, allowing them to foresee the maneuvers of
+other actors and make strategic judgments.
+Mechanism design can improve these processes by introducing mecha-
+nisms that encourage cooperation while discouraging adversarial behavior.
+For example, diplomats can build agreements and treaties that are more
+likely to be approved and adhered to by all sides by combining AI’s
+predictive capability with the strategic structure of mechanism design.
+AI and game theory can give a framework for understanding and
+managing disputes in conﬂict resolution. AI can model and anticipate
+conﬂict scenarios, while game theory can provide insights into these
+conﬂicts’ strategic dynamics. AI can also help create dispute resolution
+mechanisms by modelling and forecasting the impact of various strategies.
+In territorial disputes or arms control discussions, for example, AI
+can model various allocation tactics or disarmament stages, and game
+theory can provide insights into how governments would respond to
+these strategies. The design of a mechanism can then be used to shape
+the negotiating process to incentivize a peaceful conclusion.
+AI, game theory, and mechanism design can revolutionize the design
+of international institutions, the execution of international law, and the
+administration of global economic systems in global governance. For
+example, AI can evaluate global patterns and forecast the impact of poli-
+cies; game theory can provide insights into state strategy; and mechanism
+design can develop rules and incentives that promote collaboration and
+mutual gain.
+
+--- Sayfa 27 ---
+1
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE, GAME …
+9
+Integrating AI, game theory, and mechanism design in international
+politics, on the other hand, is complicated. Effective modelling and
+prediction of outcomes can be challenging because of global affairs’
+complexity, the actors’ diversity, and the unpredictable nature of human
+behavior. Furthermore, ethical concerns about the employment of AI,
+such as privacy, bias, and the risk of autonomous decision-making, present
+substantial obstacles that must be addressed.
+The second chapter discusses game theory and politics, while the
+third chapter discusses mechanism design and politics. The fourth chapter
+discusses artiﬁcial intelligence and politics, while the ﬁfth chapter discusses
+data and politics. Deep learning and politics are discussed in Chapter 6,
+while natural language processing and politics are discussed in Chapter 7.
+Chapter 8 concerns evolutionary programming and politics, whereas
+Chapter 9 concerns cybersecurity and international politics. Chapter 10
+concerns social media and politics, while Chapter 11 concerns robotics
+and politics. Chapter 12 is on AI-powered blockchain and politics. Finally,
+the conclusion and lessons from mechanism design, game theory, and AI
+in politics are covered in Chapter 13.
+References
+Alexander, F. (1998). Encyclopedia of world history. Oxford University Press.
+Ampuja, M. (2012). Theorizing globalization: A critique of the mediatization of
+social theory (Vol. 47). Brill.
+Aumann, R. J., & Shapley, L. S. (2015 [1974]). Values of non-atomic games.
+Princeton University Press.
+Carmody, P. (2013). The rise of the BRICS in Africa: The geopolitics of South-South
+relations. Bloomsbury Publishing.
+Chun, K. H. (2016). The BRICs superpower challenge: Foreign and security policy
+analysis. Routledge.
+Conner, T., & Torimoto, I. (Eds.). (2004). Globalization redux: New name.
+University Press of America.
+Crossingham, B., Marwala, T., & Lagazio, M. (2008). Optimized rough sets
+for modelling interstate conﬂict. In 2008 IEEE International Conference on
+Systems, Man and Cybernetics (pp. 1198–1204). IEEE.
+Dessler, A. E., & Parson, E. A. (2019). The science and politics of global climate
+change: A guide to the debate. Cambridge University Press.
+Diamantaras, D., Cardamone, E. I., Campbell, K., Deacle, S., & Delgado, L.
+(2009). A toolbox for economic design. Palgrave Macmillan.
+Dutta, P. K. (1999). Strategies and games: Theory and practice. MIT Press.
+
+--- Sayfa 28 ---
+10
+T. MARWALA
+Habtemariam, E., Marwala, T., & Lagazio, M. (2005). Artiﬁcial intelligence
+for conﬂict management. In Proceedings. 2005 IEEE International Joint
+Conference on Neural Networks, 2005 (Vol. 4, pp. 2583–2588). IEEE.
+Horvath, A., & Szakolczai, A. (2018). Political anthropology. In W. Outhwaite &
+S. Turner (Eds.), Sage handbook of political sociology (pp. 189–204). Sage.
+Lagazio, M., & Marwala, T. (2006). Assessing different Bayesian neural network
+models for militarized interstate dispute: Outcomes and variable inﬂuences.
+Social Science Computer Review, 24(1), 119–131.
+Luce, R. D., & Raiffa, H. (1957). Games and decisions: Introduction and critical
+survey. Wiley.
+Marwala, T. (2021). Rational machines and artiﬁcial intelligence. Academic
+Press.
+Marwala, T., & Hunt, H. E. M. (1999). Fault identiﬁcation using ﬁnite element
+models and neural networks. Mechanical Systems and Signal Processing, 13(3),
+475–490.
+Marwala, T., & Hurwitz, E. (2017). Mechanism design. In Artiﬁcial intelligence
+and economic theory: Skynet in the market (pp. 111–124). Springer.
+Marwala, T., & Lagazio, M. (2004). Modeling and controlling interstate conﬂict.
+In 2004 IEEE International Joint Conference on Neural Networks (IEEE Cat.
+No. 04CH37541) (Vol. 2, pp. 1233–1238). IEEE.
+Marwala, T., & Lagazio, M. (2011). Militarized conﬂict modeling using compu-
+tational intelligence. Springer Science & Business Media.
+Milgrom, P. R. (2004). Putting auction theory to work. Cambridge University
+Press.
+Mimiko, N. O. (2012). Globalization: The politics of global economic relations and
+international business. Carolina Academic Press.
+Moloi, T., & Marwala, T. (2021). Artiﬁcial intelligence and the changing nature
+of a ﬁrm. Springer International Publishing.
+Muller, D., Buarque, F., & Marwala, T. (2022). On rationality, artiﬁcial
+intelligence and economics. World Scientiﬁc Press.
+Nash, J. F., Jr. (1950). Equilibrium points in n-person games. Proceedings of the
+National Academy of Sciences, 36(1), 48–49.
+Ndzendze, B., & Marwala, T. (2021). AI and emerging technologies in interna-
+tional relations. World Scientiﬁc.
+Ndzendze, B., & Marwala, T. (2022). Artiﬁcial intelligence and international
+relations theories. Palgrave Macmillan.
+Newman, E., Rhakur, R., & Tirman, J. (2006). Multilateralism under challenge.
+United Nations Press.
+Yahuda, M. (2011). The international politics of the Asia-Paciﬁc. Routledge.
+
+--- Sayfa 29 ---
+CHAPTER 2
+Game Theory in Politics
+2.1
+Introduction to Game Theory
+Game theory, a branch of mathematics, is an analytical tool used to model
+and predict strategic interactions among rational individuals (Aumann,
+1987; Bierman & Fernandez, 1998; Camerer, 2011; Dutta, 1999; Fisher,
+1930; Marwala, 2013; Marwala & Hurwitz, 2017). These interactions
+often involve situations where the outcome for an individual depends
+not only on their own decisions but also on the decisions made by
+others. Since its inception, game theory has found applications in various
+ﬁelds, such as economics, political science, psychology, computer science,
+biology, and philosophy.
+The foundation of game theory lies in the idea of a “game,” a theo-
+retical construct representing a situation where multiple players interact.
+Each player, or “agent,” has a set of possible actions or “strategies,”
+and the game’s outcomes depend on the strategies chosen by all players.
+Furthermore, these outcomes are typically associated with “payoffs,”
+which can be considered the numerical representation of the players’
+preferences.
+Game theory is divided into two main branches: cooperative and non-
+cooperative game theory. Cooperative game theory deals with games
+where binding agreements are possible, while non-cooperative game
+theory deals with games where players cannot commit.
+© The Author(s), under exclusive license to Springer Nature
+Singapore Pte Ltd. 2023
+T. Marwala, Artiﬁcial Intelligence, Game Theory and Mechanism Design
+in Politics, https://doi.org/10.1007/978-981-99-5103-1_2
+11
+
+--- Sayfa 30 ---
+12
+T. MARWALA
+Several important concepts are fundamental to understanding game
+theory. One such concept is the “Nash Equilibrium,” named after the
+mathematician John Nash, which represents a state of the game where
+no player can unilaterally improve their payoff by changing their strategy,
+given the other players’ strategies (Bernheim et al., 1987; Carmona &
+Podczeck, 2009; Harsanyi, 1973; Kreps, 1987; Nash, 1950; Wilson,
+1971). Another important concept is “dominant strategy,” which is a
+strategy that is best for a player regardless of what strategies the other
+players choose.
+Through these and other concepts, game theory provides a mathe-
+matical way to analyze strategic situations. It helps us understand how
+rational decision-makers interact and how these interactions inﬂuence the
+overall outcome. Whether it is understanding international trade agree-
+ments, predicting election strategies, or designing auctions for internet
+advertising, game theory provides a robust framework for analyzing and
+predicting the complex world of strategic interactions.
+2.2
+Types of Games
+In game theory, games can be classiﬁed into different types based on
+various factors, such as the number of players, the timing of players’
+moves, the nature of payoffs, and the ability to cooperate. Below we
+discuss the main types of games.
+In cooperative games, players can form binding agreements and collab-
+orate to achieve a common goal. In addition, these agreements often
+involve the sharing of payoffs. In contrast, in non-cooperative games,
+players cannot make binding agreements; each player acts independently
+to maximize their own payoff.
+In simultaneous games, all players make their decisions simultaneously
+without knowing the other players’ decisions. A payoff matrix often repre-
+sents these games. Sequential games, conversely, involve players making
+their decisions in turns, with each player aware of the previous players’
+decisions. These games are typically represented using a game tree.
+In a zero-sum game, the sum of the payoffs to all players is zero for
+every combination of strategies. In other words, one player’s gain is the
+other player’s loss. Poker is an example of a zero-sum game. On the other
+hand, non-zero-sum games are games in which the total gain or loss is not
+ﬁxed. As a result, the players’ interests are not always directly opposed,
+and both players can gain or lose simultaneously.
+
+--- Sayfa 31 ---
+Another random document with
+no related content on Scribd:
+
+--- Sayfa 32 ---
+ornamentalen Schmuckes auf die Firnisdecke verzichtet und
+als das
+kleinasiatische Dekorationsprinzip bezeichnet werden kann.
+In dem Bestreben, beide Prinzipien zu vereinigen, liegt der
+Anfang
+des rotfigurigen Stiles. Den Übergang vom schwarzfigurigen
+zum
+ rotfigurigen Stile bilden jene Vasen, welche die Malerei auf
+einzelne
+ rechtwinkelige abgegrenzte Felder beschränken und im
+übrigen den
+ schwarzen Firnisüberzug aufweisen. Beispiele solcher
+Art in den beiden
+gegenüberliegenden freistehenden Schränken. So
+die prächtige Hydria
+Nr. 222 und die Amphoren (Vorratsgefäße für Öl
+oder Wein) Nr. 223 bis
+225. Der daneben befindliche Deinos Nr. 235
+mit einer figurenreichen
+Darstellung auf dem oberen Rande gehört
+einer jüngeren Stilrichtung an.
+Unter den attischen Vasen des späteren schwarzfigurigen Stils
+mit
+Meisternamen, von welchen die Sammlung mehrere besitzt, sind
+namentlich
+ die Amphoren des Nikosthenes (Nr. 231 und 232)
+hervorzuheben.
+Sie
+lehnen
+sich
+mit
+Rücksicht
+auf
+ihr
+Hauptabsatzgebiet an etruskische
+Formen an, haben breite, wie aus
+Metallblech
+geschnittene
+Henkel
+und
+wie
+aus
+Streifen
+zusammengesetzte Körper. Bevor die rotfigurige Technik
+ den Sieg
+davontrug, gab es eine Übergangszeit, in der beide Techniken
+verquickt erscheinen, wie dies bei der Amphora Nr. 319 im dritten
+der freistehenden Schränke der Fall ist, einem Stücke, das in mehr
+als einer Hinsicht zu den bedeutendsten der Sammlung zählt und
+drei
+ Entwicklungsperioden an sich vereinigt: Am unteren Teile des
+Gefäßes
+ Ornamente des älteren Stiles, am oberen rotfigurige
+Darstellungen,
+ am Halse Dionysische Gruppen in schwarzfiguriger
+Technik. Der
+ Übergang von der schwarzfigurigen zur rotfigurigen
+Technik geschah
+an den sogenannten „Augenschalen“, Schalen mit
+großen menschlichen
+ Augenpaaren zum Schutze vor dem „bösen
+Blick“, wie zum Beispiel Nr.
+285. Hier ist das Innere der Schale bis
+auf ein Mittelrund, in dem
+ das Gorgonenhaupt erscheint, gefirnißt.
+Wahre Prachtstücke aus der
+ Blütezeit der Schalenmalerei sind im
+vierten freistehenden Schranke Nr.
+ 323, 324 und 3235, eine von
+Hieron, zwei von Duris bemalt; namentlich
+muß Nr. 325 mit Szenen
+aus dem troischen Sagenkreis als eine typische
+Musterleistung des
+letztgenannten Malers bezeichnet werden.
+
+--- Sayfa 33 ---
+Die
+Krone
+der
+ganzen
+Sammlung
+ist
+aber
+das
+im
+danebenstehenden
+Schranke
+befindliche
+große
+napfförmige
+Mischgefäß Nr. 328 mit Szenen aus der
+Ilias. Ihre Ergänzung finden
+diese Stücke zum Teil in der darunter
+befindlichen Reihe. Hier ist die
+Schale Nr. 321 „Hermes als Schelm“
+ besonders interessant. Auch
+die Vasen der unteren Reihe in dem vor dem
+ Fenster stehenden
+Schranke Nr. 340 ff. gehören hierher.
+Wurden im strengen Stile die für das Symposion bestimmten
+Vasenformen
+von den Malern bevorzugt, so begünstigt der schöne
+Stil die Gefäße
+ für den Putztisch der Frauen. Als Beispiel hierfür
+mögen die kleinen
+Salbgefäße, Fensterschrank obere Reihe, Nr. 354
+ff., dienen, Stücke,
+ bei welchen überdies in der Anwendung
+aufgehöhten Goldes und
+ polychromer Malerei eine weitere
+technische Wandlung zu verzeichnen ist.
+Eine eigenartige Gruppe attischer Keramik bilden die Salbgefäße
+für
+den Totenkult, die Grab-Lekythoi. Bei der feierlichen Aufbahrung
+des Leichnams wurden sie, mit Wohlgerüchen gefüllt, neben
+demselben
+ aufgestellt, bei seiner Bestattung folgten sie ihm als
+Liebesgabe in
+das Grab. Diese Gefäße sind häufig mit einer weißen
+Engobe versehen,
+und die Konturen der Figuren sind mit Deckfarben
+ausgefüllt. Die
+ Darstellungen stehen in naher Beziehung zu ihrer
+Bestimmung. Unter
+den Lekythen unserer Sammlung ist Nr. 351 mit
+der Darstellung
+einer Totenklage ein Stück von seltener Schönheit.
+In demselben
+ Schranke verdienen ferner zwei Becher, ein
+„Kantharos“ in Form eines
+ Mohrenkopfes, untere Reihe, Nr. 347,
+eine treffliche, sorgfältige
+Arbeit, und ein „Rhyton“ (Trinkbecher) in
+Form eines Fuchskopfes, Nr.
+ 380 (obere Reihe), besonders
+hervorgehoben zu werden.
+Attische Gefäße aus der Zeit des rotfigurigen Stiles ohne
+Bemalung
+ finden wir im folgenden Wandschrank, obere Reihe, Nr.
+401 ff.
+Hierher gehört auch der einzeln aufgestellte große prächtige
+Krater
+(Mischgefäß) mit vergoldeten Weinranken aus Capua.
+Im
+vorher
+beschriebenen
+Wandschrank
+sowie
+in
+dem
+zweitfolgenden
+ befinden sich hauptsächlich etruskische, zum Teil
+unter attischem
+ Einflusse entstandene, ferner apulische und
+
+--- Sayfa 34 ---
+unteritalische Arbeiten.
+Unter den erstgenannten ragt die Kanne in
+der obersten Reihe links, Nr.
+452, durch reiche sorgfältige Bemalung
+mit dionysischer Szene besonders
+ hervor. Ferner verdienen die
+einer späteren Periode angehörenden
+ apulischen Kopfvasen, Nr.
+489 bis 491, und die mit weißer, gelber
+ und roter Farbe bemalten
+sogenannten Vasi di Gnathia, Nr. 508 ff.,
+hervorgehoben zu werden.
+Zwischen diesen beiden Vitrinen befindet sich die mit der
+Sammlung
+griechischer Terrakotten aus Lokris, Cypern, Kleinasien,
+Syrakus,
+Tarent und aus unbestimmten griechischen und italischen
+Fundorten.
+ Unter diesen Arbeiten sind einige Tanagrafiguren von
+hervorragender
+ Schönheit besonders bemerkenswert. So die
+weibliche Figur, Reihe 3,
+Nr. 794, eine der besten Schöpfungen der
+tanagräischen Tonplastik, und
+ Nr. 795, eine sorgfältige, schöne
+Arbeit von unzweifelhafter Echtheit,
+ der Hermaphrodit aus Myrina
+der alexandrinischen Zeit angehörend, die
+Appliken mit Spuren von
+Vergoldung aus Tarent und die drei Puppen mit
+ beweglichen
+Gliedern Nr. 891 ff. Überdies ist hier die große Anzahl
+von Repliken
+aus der Niobidengruppe (Reihe 1 und 2, Nr. 860 ff.)
+hervorzuheben.
+Im letzten Schranke dieser Reihe sind verschiedene Typen
+italischer
+Lampen ausgestellt: Nr. 638 und 639 in Figurenform, 641
+und 642
+ maskenförmig, 673 bis 696 mit figuraler Reliefpressung
+usw. Überdies
+ sind hier die Calener Schale, Nr. 573, die
+Stempelform zu einer
+ solchen Schale, Nr. 574, die sogenannten
+megarischen oder samischen
+Reliefschalen, Nr. 580 und 581, ein in
+der Masse krebsrot gefärbtes
+sogenanntes Terrasigillata-Gefäß, Nr.
+587, und der römische Trinkbecher
+ mit Reliefs und grüngelber
+Bleiglasur hervorzuheben.
+In dem Schranke an der Eingangsseite rechts befindet sich die
+Sammlung Blum-Blankenegg. Hier sind in der untersten Reihe
+besonders
+ bemerkenswert die zu den ältesten Vasengattungen
+gehörende ringförmige
+böotische Kanne Nr. 36, die Amphora späten
+korinthischen Stiles mit
+ dem laufenden geflügelten Gorgonen Nr.
+136, der altattische Teller
+ mit Herakles, den kretischen Stier
+einfangend, Mitte Nr. 240, und der
+Aryballos mit dem Brustbilde der
+Artemis Nr. 363.
+
+--- Sayfa 35 ---
+Frei aufgestellt finden wir ferner kolossale rottonige Vasen und
+große
+ Schüsseln mit Reliefs sogenannte „Rotware“, in prächtigen
+Exemplaren.
+ Die Dekoration ist mit Stempeln hergestellt, statt der
+Malerei
+sehen
+wir
+fries-
+oder
+streifenartig
+angeordnete
+Reliefverzierungen. Die
+ Vorratsgefäße (Pithoi) zeigen überdies
+Riefelungen, die zugleich als
+ Verstärkungsrippen dienen, und
+aufgelegte einfache Dekorationsmotive,
+ wie Bogen, Zickzacklinien,
+Augen u. dgl.
+Sodann haben, ebenfalls in freier Aufstellung, große spätantike
+Spitzamphoren, provinzielle Erzeugnisse aus Tharros in Sardinien,
+Platz
+gefunden. Überdies befinden sich an der Wand oberhalb der
+Schränke
+griechische und italische Architekturdetails dekorativer Art,
+zum Teil
+Spuren von Bemalung aufweisend.
+Auf dem Eckschranke, frei aufgestellt, befindet sich eine
+Frauengestalt, eine Klagefrau mit erhobenen Händen und mit
+Spuren von
+ Bemalung. Daneben eine große Grabvase, mit
+Gorgonenrelief und frei
+ abstehenden Figuren, beide Stücke aus
+Apulien.
+Unterhalb des Schrankes mit den römischen Lampen haben,
+obwohl sie
+das Gebiet der Keramik nicht berühren, Mumienmasken
+und Büsten der
+ griechisch-römischen Periode aus Oberägypten
+Aufstellung gefunden.
+Die Sammlung keramischer Objekte vom Ausgange der Antike
+bis in
+die Gegenwart umfaßt über 6000 Objekte, von welchen jedoch
+wegen
+ Raummangels ein Teil in der ostasiatischen Sammlung im
+zweiten Stock
+ und ein anderer ausgeschieden und im Depot
+untergebracht ist. Die
+Objekte sind nach historisch-topographischen
+Gesichtspunkten in der
+Weise systematisch aufgestellt, daß man an
+der Eingangsseite zunächst
+die orientalischen Erzeugnisse vor sich
+hat.
+PERSISCHE UND TÜRKISCHE FLIESEN,
+WANDBEKLEIDUNGSPLATTEN AUS MOSCHEEN,
+
+--- Sayfa 36 ---
+GRABBAUTEN ETC.
+Die echte Fayence, das heißt die keramischen Erzeugnisse mit
+undurchsichtiger Zinnglasur, reicht im Orient in sehr frühe Zeit
+zurück. Die ältesten auf uns gekommenen Stücke, in den Trümmern
+von
+Susa entdeckte, in Relief geformte Wandbekleidungsziegel mit
+bunten
+ Zinnglasuren, stammen vom Palaste Darius I. (um 500
+v.  Chr.), sind
+ aber ohne Zweifel späte Produkte einer aus älteren
+Kulturen Babylons
+ oder Ninivehs stammenden Technik. Neben der
+Anwendung von Zinnglasuren
+ging unausgesetzt die Erzeugung von
+Fliesen mit durchsichtigen
+ Bleiglasuren einher. Die einen wie die
+andern bestehen aus einer
+ sandigen mit wenig Ton gemengten
+Masse, die mittels einer alkalischen
+ Fritte zusammengebacken ist.
+Die ältesten Stücke unserer Sammlung
+ reichen in das XIII.
+Jahrhundert zurück, das ist die Zeit, aus welcher
+die ältesten Fliesen
+mit Metallüster bekannt sind. Hierher gehören
+ die mit braunrotem
+Kupferlüster verzierten Stern- und Kreuzfliesen
+ aus der Imamzade
+Jahya (Heiligengrab des Johannes) zu Veramim bei
+ Teheran. Zu
+dieser Gattung zählen auch die kleinen lüstrierten
+ Sternfliesen mit
+Tierfiguren und blauen Rändern, deren Erzeugung vom
+XIII. bis zum
+XV. Jahrhundert reicht. Aus dem XIV. Jahrhundert stammen
+ die in
+Relief
+geformten
+Fliesen
+mit
+blauen
+Koraninschriften
+auf
+ornamentiertem Lüstergrunde. Ebenfalls noch dem Mittelalter
+gehören die
+lasurblauen und türkisblauen Fliesen mit Vergoldung in
+Blattgold an.
+ Die dunkelblauen Stücke zeigen überdies eine
+ungemein
+zarte
+Musterung
+mit
+kleinen
+weiß
+aufgemalten
+Ornamenten. In der Art der berühmten
+Fliesen von den Bauten des
+Osmanensultans Muhamed I. in Brussa (XV.
+Jahrhundert) sind die
+Stücke mit weiß ausgesparten Inschriften oder
+ Ornamenten auf
+kobaltblauem Grunde, wobei in die weißen Ornamente
+ bunte
+Pflanzenmotive hineingemalt sind. Derselben Periode gehören
+ die
+geschnittenen Mosaikfliesen mit Inschriften und Ornamenten an.
+Ihre
+Entstehung ist auf das Einlassen von Koransprüchen u. dgl.,
+die aus
+glasierten Fliesen geschnitten waren, in die Rohziegelwand
+hervorragender Gebäude zurückzuführen. Im weiteren Verlauf
+entwickelte
+ sich aus dieser Bauverzierung eine der schwierigsten
+
+--- Sayfa 37 ---
+keramischen
+ Techniken, die des vollständigen, ganze Flächen mit
+Ornamenten und
+ Inschriften überziehenden Fliesenmosaiks aus
+eigens geschnittenen
+ farbigen Platten verschiedenster Form. Zu
+höchster Prachtentfaltung
+hat sich diese Technik in der gegenwärtig
+dem Verfall entgegengehenden
+ sogenannten Blauen Moschee in
+Täbris aufgeschwungen. Eine Gattung, die
+namentlich im XVI. und
+XVII. Jahrhundert zur Zeit der Sefevidendynastie
+ eifrig gepflegt
+wurde, repräsentieren die Fliesen mit prächtigen
+ Blumen und
+Rankenverzierungen in Dunkel- oder Türkisblau, Grün und
+Manganviolett auf weißem Grunde. In der neupersischen Kunst, das
+heißt
+seit dem XVI. Jahrhundert, nähern sich diese Pflanzenformen
+immer mehr
+der natürlichen Erscheinung der Pflanze. Ein besonders
+prächtiges
+ Beispiel ist die in der Mitte der Wand angebrachte und
+über diese
+ emporragende Kielbogenfüllung, aus 16 Fliesen
+bestehend, mit persischem
+ Rankenwerk, von großem, rotem
+chinesischen Wolkenband durchzogen, ein
+ Wandschmuck aus der
+Moschee Piali Pascha in Konstantinopel, 1565 bis
+1570.
+Eine Ergänzung findet diese Fliesenkeramik in den Gefäßen und
+Moscheekugeln, welche in den beiden Schränken an den
+gegenüberliegenden
+ Wandpfeilern ausgestellt sind. Besonders
+bemerkenswert ein dunkelblaues
+ vasenartiges Gießgefäß des XIII.
+Jahrhunderts aus Rhages, mit
+ Überglasurdekor in Weiß, Rot und
+Gold, eine hellgrüne Flasche mit
+weißen Blumenstauden (Untersatz
+einer
+Wasserpfeife),
+XVII.
+Jahrhundert,
+eine
+ebensolche
+Moscheekugel und eine besonders große derartige
+Kugel des XVI.
+Jahrhunderts,
+im
+Rhodos-Stil
+verziert.
+Überdies
+zahlreiche
+sogenannte Rhodos-Teller und persische Nachahmungen
+ des
+chinesischen Porzellans. Die sogenannten Rhodos-Fayencen sind
+keramische Arbeiten, die an den Ufern des Bosporus, in Kleinasien,
+Syrien und Ägypten angefertigt wurden. Die Masse ist ähnlich der
+der
+persischen Fayencen. Der vorwiegend weiß gelassene Grund ist
+auf eine
+ Angusschicht zurückzuführen, über welcher die farblose
+Glasur liegt.
+Die zur Bemalung verwendeten Farben sind dieselben
+wie in Persien,
+bereichert durch ein feuriges Rot, eine Farbe, die aus
+verriebenem
+Bolus besteht, der dick aufliegend, eine etwas erhöhte
+Schichte bildet
+und unter dem Schutze der Glasur vor dem Abreiben
+bewahrt wird. Die
+Ornamentik setzt sich der Hauptsache nach aus
+
+--- Sayfa 38 ---
+Blumen (Tulpe, Nelke,
+ Rose, Hyazinthe), aus den federartigen
+Blättern und blütenartigen
+Palmetten des persischen Rankenwerkes
+und sonstigen Elementen, wie
+ Zypresse, Wolkenband etc.,
+zusammen.
+Einige
+vorzügliche
+Schüsseln
+mit
+dem
+charakteristischen schwarzen Schnörkelwerk aus kleinen
+ Spiralen,
+ein Blumentopf mit eckigem Henkel und Spuren von Vergoldung,
+Krüge und sonstige Gefäße veranschaulichen diese eigenartige und
+zu
+ den mustergültigsten Schöpfungen der Keramik gehörende
+Gruppe in
+mannigfacher Art. Eine Zuweisung der einzelnen Objekte
+an bestimmte
+ Fabrikationsorte ist der Forschung bisher nicht
+gelungen, nur eine
+Gruppe von Erzeugnissen, für welche der Krug
+mit Zinndeckel (Reihe 3)
+charakteristisch ist, wird als damaszenisch
+angesehen.
+An der über Eck gestellten Wand, anschließend an die
+persischen
+ Fliesen, sind spanische Azulejos ausgestellt. An Stelle
+der
+ursprünglichen kleinen Mosaikfliesen in geometrischen Formen
+hat man
+ im XV. Jahrhundert auf orientalische Anregung hin der
+einfacheren
+Herstellung
+wegen
+größere
+quadratische
+Wandverkleidungsplatten
+ angefertigt, auf welchen die Umrisse des
+Musters durch Formpressung
+ in erhabenen Linien erscheinen,
+zwischen denen die farbigen Glasuren
+eingebettet waren, wodurch
+man eine mosaikartige Wirkung erreichte.
+Im XV. Jahrhundert trat an
+Stelle des alten geometrischen Musters und
+ der geradlinigen
+Bandverschlingungen das Renaissanceornament. Hauptort
+ dieser
+Industrie war Sevilla.
+SPANISCH-MAURISCHE FAYENCEN.
+Im ersten Schranke des auf die antiken Vasen folgenden
+Kompartiments
+sind
+die
+spanisch-maurischen
+Fayencen
+mit
+Lüsterdekor ausgestellt,
+ Arbeiten, die den Übergang von den
+orientalischen Fayencen zu den
+ italienischen Majoliken bilden. Die
+ältesten Nachrichten über diese
+ Fabrikation reichen bis ins XII.
+Jahrhundert zurück. Mittelalterliche
+ Stücke aus sarazenischer Zeit
+sind aber äußerst selten. Von der
+ berühmten Alhambra-Vase aus
+
+--- Sayfa 39 ---
+dem XIV. Jahrhundert in Goldlüster und
+Blau gibt eine Kopie von Th.
+Deck in der Ecke links neben dem Eingange
+ ungefähr eine
+Vorstellung. Die Mehrzahl der auf uns gekommenen
+ spanisch-
+maurischen Fayencen besteht aus Schüsseln, Becken und Töpfen.
+Sie sind innen und außen mit gelblich getönter Zinnglasur überzogen
+und auf der Rückseite wie auf der Schauseite mit einer Verzierung in
+Goldlüster versehen. Manchmal tritt stellenweise Bemalung in
+Kobaltblau
+hinzu,
+auch
+Buckelungen
+nach
+Art
+getriebener
+Metallgefäße sind beliebt.
+Im XV. und XVI. Jahrhundert werden die
+Flächen durch Verteilung der
+ Muster in Felder und Bordüren noch
+scharf gegliedert, Blattwerk
+ erscheint hierbei gotisch stilisiert, die
+maurischen
+Schriftzeichen
+werden
+verständnislos
+ornamental
+verwendet, wovon die große Schüssel
+ mit Kupferlüster, Reihe 3
+rechts, ein Beispiel gibt. In späterer Zeit
+ erscheinen an Stelle des
+prächtigen Goldlüsters dunklere Töne und vom
+XVIII. Jahrhundert an
+beginnt der Lüster eine grelle kupferrote Färbung
+ anzunehmen. In
+der untersten Reihe sind Schüsseln, ebenfalls mit
+ Metallreflex aus
+Diruta unweit Perugia ausgestellt.
+ITALIENISCHE FAYENCEN (MAJOLIKEN).
+Die
+italienischen
+Fayencen
+sind
+Töpfererzeugnisse
+mit
+deckender
+Zinnglasur,
+welche
+noch
+vor
+dem
+Brande
+mit
+Scharffeuerfarben bemalt
+ wurden. Im Brande verschmolzen die
+Farben mit der Glasur und erhielten
+dadurch Glanz und Leuchtkraft.
+Um die Mitte des XV. Jahrhunderts
+ erreichte die italienische
+Majolikamalerei eine künstlerische Höhe, von
+ der sie gegen Ende
+des XVI. Jahrhunderts durch das erwachende Interesse
+ für
+chinesisches Porzellan allmählich herabsank. Nur in Castelli, wo
+man
+sich
+zu
+Beginn
+des
+XVIII.
+Jahrhunderts
+dem
+Porzellangeschmacke
+anzunähern suchte, trat eine kurze Nachblüte
+ein.
+In der ersten Blüteperiode (1490-1530) dominiert Faenza (daher
+Fayencen), in der zweiten (1530-1560) Urbino. Wegen der
+Ähnlichkeit der
+ älteren Fayencen mit Produkten, die von der im
+
+--- Sayfa 40 ---
+Mittelalter Majolika
+ benannten balearischen Insel Majorca kamen,
+nannten die Italiener
+ diese Stücke Majolika. Unsere Zeit übertrug
+diese Bezeichnung auf die
+italienischen Fayencen der Renaissance
+überhaupt.
+Zwischen dem vorher beschriebenen und dem folgenden
+Schranke befindet
+ sich eine von milchweißer Zinnglasur in dünner
+Schicht überzogene
+ Reliefplastik, Madonna mit dem Kinde, eine
+Arbeit aus den Werkstätten
+der Della Robia. Luca della Robia, der
+berühmte Florentiner Bildhauer
+ (1399-1482), gilt nach Vasari
+fälschlich für den Erfinder der
+Zinnglasur in Italien. Der übliche blaue
+Hintergrund und die bunten
+Fruchtkränze der Umrahmung sind bei
+diesem Werke weggeblieben, dagegen
+ finden sich Spuren von
+Goldornamenten am Saume des Kleides der Madonna.
+Modellierung
+der Arme und Hände, Ausdruck und Gesamthaltung verweisen
+das
+Werk in die Zeit um 1450.
+Im
+folgenden
+Schranke
+sind
+Erzeugnisse
+verschiedener
+italienischer
+ Fabriken des XVI. Jahrhunderts ausgestellt. In der
+obersten Reihe
+ besonders bemerkenswert die Schüsseln aus
+Caffagiolo, Gubbio (mit
+Rubinlüster), Pavia (mit Sgraffitodekoration),
+Castel Durante und
+ Urbino, dem Hauptorte der italienischen
+Fayenceindustrie, von dem
+ zwischen 1530 und 1620 jene
+ungeheure Menge von Majoliken ausgegangen
+ist, die den Weltruhm
+dieser Industrie begründet hat. Bildmäßige
+ Darstellungen pflegen
+hier ohne Rücksicht auf die Form die ganze
+Fläche des Gefäßes zu
+bedecken. Szenen aus dem Alten Testamente,
+geschichtliche oder
+der Sage angehörende Vorgänge nach Livius oder
+ Virgil und die
+Liebschaften der olympischen Götter nach Ovids
+ Metamorphosen
+bilden die Hauptgegenstände der Darstellung. In der
+nächsten Reihe
+finden wir nebst Stücken aus Ravenna und Castelli
+in der Mitte eine
+hervorragend schöne Schüssel aus Siena mit dem
+ Violine
+spielenden Apollo in der Mitte. Die unterste Reihe enthält
+durchwegs
+Arbeiten aus Castelli. Ebenso der folgende Schrank. In
+dieser zum
+Königreich Neapel gehörenden Stadt der Abruzzen und in
+zahlreichen Ortschaften ihrer Umgebung erfuhr die Fayenceindustrie
+im
+ XVII. Jahrhundert eine späte Nachblüte. Ein Streben, dem
+Porzellan
+nahezukommen, ist dabei unverkennbar und kommt in der
+
+--- Sayfa 41 ---
+feinen Masse der
+ gleichmäßigen Glasur sowie in den kalten,
+zarteren, nur in gebrochenen
+ Tönen zur Verwendung kommenden
+Farben zum Ausdruck.
+Zur duftigen Malweise gesellt sich bei feineren Stücken reichlich
+verwendete
+Aufhöhung
+mit
+Gold.
+Die
+Motive
+sind
+der
+bolognesischen
+Schule entlehnt, Tierstück, Landschaft, bäuerliches
+Genre, Bilder
+religiösen Inhalts, später auch Blumen. Die Ränder der
+Teller erhalten
+einen von der Fläche getrennten, oft äußerst reizvoll
+komponierten
+Dekor mit Putten und Blumengewinden. An Stelle der
+Schüsseln
+ treten häufig viereckige oder kreisrunde ebene Platten,
+manche
+mit
+Malersignaturen
+von
+Mitgliedern
+der
+mit
+der
+neapolitanischen
+ Fayencemalerei durch anderthalb Jahrhunderte
+eng verknüpften Familie
+Grue. Der hier vorkommende Dr. F. A. Grue
+lebte von 1686 bis 1746.
+Zwischen beiden Schränken: Bacchusknabe der Fabrik Talavera
+in Spanien
+ (XVIII. Jahrhundert). Im großen Mittelschranke sind
+besonders die
+ prächtigen Urbino-Fayencen hervorzuheben, an der
+Stirnseite eine große
+ Schüssel mit dem Sturze der Giganten und
+darüber eine kleinere mit
+Venus in der Schmiede des Vulkan, die in
+Gubbio, wo sich die durch
+ ihren Lüsterdekor berühmte Werkstätte
+des Maestro Gurgio Andreoli
+ befand, mit Rubinlüster versehen
+wurde. Zu beiden Seiten und auf der
+ obersten Stufe schöne
+sogenannte Pilgerflaschen. Die beiden Deckelvasen
+ zu Seiten der
+Gigantenschüssel sind charakteristische Stücke aus
+Castel Durante.
+An beiden Langseiten sind hauptsächlich Venedig, ferner Urbino
+und Castel Durante in Schüsseln, verschiedenen Apothekergefäßen
+und Vasen vertreten, unter welchen zwei muschelförmige Becken
+mit
+Schlangengewinden besonders hervorragen. An der Schmalseite
+am Fenster
+eine vorzügliche Faentiner Schüssel mit der Anbetung
+der drei Könige.
+Die meisten dieser Majoliken sind Eigentum des Stiftes
+Neukloster in
+Wiener-Neustadt.
+Im folgenden Schranke an der Fensterseite sind in der obersten
+Reihe die durch ihr geringes Gewicht auffallenden venezianischen
+Relieffayencen des XVIII. Jahrhunderts aus der Fabrik Bertolini
+
+--- Sayfa 42 ---
+aufgestellt, dann folgen venezianische Fayencen mit bläulich
+getönten
+Glasuren (a berettino), in der dritten Reihe in der Mitte zwei
+blaue
+ Schüsseln mit Golddekor, eine davon mit dem Wappen des
+Kardinals
+ Ghislieri (Pius V.), links eine graublau bemalte Schüssel
+aus Castel
+ Durante, im Fond Herkules im Kampfe mit der
+lernäischen Schlange,
+auf dem Rande von Hunden gehetzte Stiere,
+in der untersten Reihe
+ oberitalienische Fayencen des XVIII.
+Jahrhunderts, hauptsächlich aus
+Nove.
+Im links folgenden Schranke finden wir in den oberen Reihen
+Majoliken
+minderer Qualität aus bereits genannten Fabriken, in der
+unteren
+ Reihe dagegen prächtige Sieneser Fußbodenfliesen aus
+dem Palazzo del
+ Magnifico (Pandulfo Petrucci), um 1513, und
+solche aus dem Hause
+ der heil. Katharina, um 1520. An der
+Pfeilerwand
+zwei
+Schüsseln
+aus
+Candiana
+bei
+Padua,
+Nachahmungen
+der
+sogenannten
+Rhodos-Schüsseln,
+mit
+Hinweglassung des charakteristischen Rot.
+Am Pfeiler gegenüber dem großen Schweizer Ofen sind noch
+mehrere
+ toskanische Majoliken des XVII. Jahrhunderts aus
+Montelupo ausgestellt.
+FRANZÖSISCHE FAYENCEN.
+An der Spitze der Fayenceproduktion der französischen
+Renaissance
+stehen
+die
+eigenartigen
+Erzeugnisse
+des
+als
+Autodidakt und ruheloser
+Erfinder berühmten Bernard Palissy (1506
+bis 1590). Seine buntfarbig
+ glasierten und mit plastischen
+Verzierungen geschmückten Gefäße bilden
+ eine Gruppe von
+Arbeiten, die eine Zeitlang von andern Werkstätten
+nachgeahmt und
+weiter ausgebildet wurde, so daß eine zweifellose
+ Zuweisung
+derartiger Arbeiten an den Meister vielfach unmöglich ist.
+ Es sind
+meist große Zierschüsseln mit Schlangen, Eidechsen, Muscheln,
+allerlei Kräutern und sonstigen Formen, die ihm die Natur seines
+Aufenthaltsortes in der Saintonge, dem Mündungsgebiete der
+Charente,
+ darbot. Diese Objekte befestigte Palissy mittels Fäden
+durch Löcher
+ auf Zinnschüsseln, nahm danach eine Gipshohlform
+
+--- Sayfa 43 ---
+und benutzte diese
+als Matrizze für seine Tongefäße. In späterer Zeit
+dienten ihm auch
+ die Metallarbeiten seines Zeitgenossen François
+Briot als Modelle.
+ Vier Beispiele im ersten Schrank, Reihe 2, der
+folgenden Abteilung
+repräsentieren beide Gattungen.
+Die Fayenceindustrie von Nevers wurde durch italienische
+Arbeiter
+ begründet, die Louis von Gonzaga, der Gemahl der
+Herzogin von Nevers,
+ gegen Ende des XVI. Jahrhunderts dahin
+berufen hatte. Sie sind in
+ unserer Sammlung durch zwei Objekte,
+eine Vase und einen Teller in
+ jener schönen blauen Glasur mit
+Malerei in Weiß und in Gelb und
+Weiß, vertreten, die für die Arbeiten
+von Nevers um die Mitte des
+ XVII. Jahrhunderts charakteristisch
+war, Reihe 2 links. Im XVIII.
+ Jahrhundert wurde in Nevers roh
+bemalte weiße Fayence erzeugt, wofür
+ die in Reihe 1 an zweiter
+Stelle befindliche Flasche mit St. Nikolaus
+ ein für die in Nevers
+beliebte
+volkstümliche
+„faience
+parlante“
+mit
+figürlichen
+Darstellungen und Inschriften bezeichnendes Stück ist. Die
+Fayenceindustrie
+von
+Rouen
+in
+ihren
+zwei
+berühmten
+Verzierungsweisen,
+ dem „style rayonnant“, und dem „décor à la
+corne“ ist durch eine Reihe
+ guter Beispiele vertreten. Der „style
+rayonnant“, vom Ende des XVII.
+ Jahrhunderts bis etwa 1740
+herrschend und so benannt wegen seines
+ strahlenförmig von der
+Mitte ausgehenden Dekors mit Ornamentreserven,
+ wird durch drei
+große Schüsseln und eine Kanne repräsentiert, Reihe 1,
+ weitere
+Varianten in der Reihe 3 und 4. Den „décor à la corne“ mit dem
+Füllhorn, den bunten Schmetterlingen und Blumen finden wir in einer
+Schüssel mit dazugehörender Terrine und in zwei achteckigen
+kleinen
+ Schalen vertreten (Reihe 3). Im Stile der beiden Bérain,
+leicht,
+lose
+und
+luftig,
+nicht
+strahlig
+angeordnet,
+sondern
+symmetrisch aufsteigend
+ist das Ornamentierungssystem, das in der
+ersten Hälfte des XVIII.
+Jahrhunderts für Moustiers charakteristisch
+geworden ist, und das
+ die keramische Produktion dieses kleinen
+Städtchens der Provence zu
+ähnlich hervorragendem Rang erhoben
+hat wie die von Nevers und Rouen.
+Die Muster erscheinen in zarter
+Blaumalerei auf weißem Grunde,
+ wie es die vier Beispiele der
+untersten Reihe zeigen. Gegen die
+ Mitte des Jahrhunderts waren
+neben der berühmten, von Paul Clerissy
+ begründeten Fabrik noch
+mehrere andere entstanden, die neben Blau auch
+andere Farben in
+
+--- Sayfa 44 ---
+zarten duftigen Tönen verwendeten, wofür das fünfte
+ Stück dieser
+Gruppe, der Teller mit Landschaft, Reihe 3, links, ein
+Beispiel bietet.
+Die nächste größere Gruppe bilden die Straßburger
+ Fayencen der
+beiden Hannong, des Paul, 1730 bis 1755, und seines
+ Sohnes
+Josef. Reinheit der Zinnglasur und ein prachtvolles Karminrot
+zeichnen diese Fayencen aus, zu deren Charakteristik überdies die
+spärliche und nur in Muffelfarben vorkommende Verwendung von
+Blau und
+die schwungvolle Zeichnung der in einem konventionellen
+Naturalismus
+ durchgeführten Blumen gehören. Beispiele sind im
+folgenden Schranke
+ am Fenster in kleinen Gruppen vereinigt.
+Außerdem befinden sich
+ hier noch einige Fayencen aus Marseille,
+wo gegen Ende des XVII.
+ Jahrhunderts eine Fayenceindustrie
+emporblühte, aber kein Genre von
+stark ausgesprochener Eigenart
+entstand. Die Formen ahmen vielfach
+die Muster der Silberschmiede
+mit ihren aus Fischen, Früchten und
+ Gemüsen gebildeten
+Deckelknäufen nach, der malerische Dekor folgte dem
+ Beispiele
+Straßburgs. In dem einen Punkte weicht er aber davon ab, daß
+an
+Stelle konventioneller Zeichnung häufig direktes Naturstudium tritt,
+wie dies namentlich an den in Reihe 1 und 2 ausgestellten Tellern
+und
+ Schüsseln ersichtlich ist. Wie bei Straßburg das Karminrot,
+bildet hier
+das „vert de Savy“, ein besonders leuchtendes Grün, eine
+Spezialität.
+Überdies sind die Fabriken von Luxemburg und Creil in
+der Sammlung
+durch Einzelstücke vertreten. Ein zierlicher Korb aus
+dem Ende des
+ vorigen Jahrhunderts und einige Teller bilden zwei
+frühe Beispiele für
+Kupferdruck auf Fayence.
+DEUTSCHES STEINZEUG.
+An Härte dem Porzellan nahekommend, aber weder dessen feine
+durchscheinende Masse noch dessen Widerstandsfähigkeit gegen
+raschen
+ Temperaturwechsel aufweisend, bildete das Steinzeug in
+Deutschland
+ bereits im Mittelalter ein beliebtes Material für Trink-
+und
+ Schenkkrüge. Die Gegend von Koblenz bis Köln, wo sich die
+geeignetsten
+ Tonlager für diese Ware befinden, war mit ihren
+Hauptorten Höhr,
+ Grenzhausen, Siegburg, Köln, Frechen und
+Raeren im XVI. und XVII.
+ Jahrhundert der Mittelpunkt ihrer
+
+--- Sayfa 45 ---
+Fabrikation. Die Masse brannte sich
+ weiß, grau oder braun und
+erhielt eine einfache Salzglasur, das heißt
+ in einem bestimmten
+Stadium des Brandes wurde Kochsalz in den Ofen
+ geworfen, das
+Chlor entwich als Chlorwasserstoff, und das Natrium
+ verband sich
+mit der Kieselsäure des Tones und bildete eine dünne
+ Glasur.
+Aufgelegte
+Reliefverzierung,
+den
+Vorbildern
+deutscher
+und
+französischer Kleinmeister folgend, und mit eingepreßten Zierformen
+abwechselnd, bildeten das Charakteristische dieser Arbeiten. Sie
+sind in den folgenden beiden Schränken ausgestellt. In der obersten
+Reihe des nächst dem Pfeiler befindlichen Schrankes finden wir
+Westerwälder und Raerener Krüge darunter einen Schnabelkrug
+nach einem
+ Modell von Hans Hilgers, einen Musketierkrug, einen
+besonders großen
+Steinkrug, in der Mitte, und einen Raerener Krug
+mit Bauerntanz. Die
+darunter befindliche Reihe besteht aus weißen
+Siegburger Krügen
+ vom Anfang bis über die Mitte des XVI.
+Jahrhunderts, beginnend mit
+den frühen Trichterbechern. In der Mitte
+zwei prächtige Schnellen
+ mit figuralem Reliefschmuck, am Schluß
+der Reihe ein Birnkrug des
+ Meisters Anno Knütgen mit dem
+kursächsischen Wappen, datiert 1574. In
+ der folgenden Reihe
+spätere niederrheinische Krüge, in der Mitte ein
+ Westerwälder
+Sternkrug. Zu unterst Steinzeuggefäße des XVII. und XVIII.
+Jahrhunderts, darunter zwei Perlenkrüge aus Sachsen-Altenburg.
+Im folgenden Schranke in der obersten Reihe zwei sogenannte
+Trauerkrüge mit Kerbschnitt aus Freiberg in Sachsen. Anschließend
+oben und an der einen Langseite die dunkelbraunen Krüge aus
+Kreußen
+ bei Bayreuth. Darunter zwei Apostelkrüge, ein Jagdkrug
+und einer
+ mit den vier Kirchenvätern. Charakteristisch ist ihre
+niedere Form
+ und der mit Emailfarben und Gold bemalte
+Reliefdekor. An der andern
+ Langseite besonders hübsche braune
+Steinzeugkrüge aus Raeren und
+Köln: Sündenfall-Schnelle, Krug mit
+Bauerntanz, Schnelle mit den
+ drei göttlichen Tugenden aus der
+Eigelstein-Werkstatt und andere. In
+ der folgenden Reihe ein
+Meckenheimer Maßkrug und andere größtenteils
+ niederrheinische
+Trinkkrüge des XVII. und XVIII. Jahrhunderts, die in
+ der untersten
+Reihe, wo auch das Steinzeug aus Marburg in Hessen und
+ aus
+Bunzlau in Preußisch-Schlesien vertreten ist, ihre Fortsetzung
+finden.
+
+--- Sayfa 46 ---
+ÖSTERREICHISCHE UND DEUTSCHE
+HAFNERWARE ETC.
+Im folgenden Schrank an der Pfeilerseite ist hauptsächlich die
+österreichische und deutsche Hafnerware mit Bleiglasur ausgestellt.
+In der obersten Reihe Ofenmodelle des XVI. bis XVIII. Jahrhunderts
+und eine Schüssel mit eingeritztem, buntem Flachmuster aus Stadt
+Steyr. In der folgenden Reihe namentlich bunte Keramiken aus
+Gmunden:
+Wöchnerinnenschalen,
+Weihbrunnkessel,
+die
+Henkelschale des Peter Graf,
+ 1627, mit doppelter, durchbrochener
+Wandung, ein Vogelfutterhäuschen
+von Ende des XVI. Jahrhunderts
+ferner Nürnberger Krüge mit bunten
+ Relieffiguren, der eine mit
+Sandanwurf und Reliefauflagen, polnische
+Adelige, der andere mit
+Beerennuppen und der Verkündigung, eine alte
+ deutsche Palissy-
+Nachahmung mit der Taufe Christi u.  a. In der dritten
+ und vierten
+Reihe
+einfachere
+Gmundener
+Erzeugnisse
+und
+Salzburger
+Keramiken des XVII. bis XVIII. Jahrhunderts. In der Mitte der dritten
+Reihe Krug mit geflammter Manganglasur und Reliefauflagen aus
+Brieg in
+ Preußisch-Schlesien. In der letzten Reihe schöne
+Winterthurer Schüssel
+von 1691.
+Der entsprechende Schrank an der Fensterseite enthält
+Fayencen und
+Steingutarbeiten. In der obersten Reihe schwedische
+Fayencen des XVIII.
+Jahrhunderts, in den zwei folgenden Trinkkrüge
+u. dgl. aus Potsdam,
+Kelsterbach, Nürnberg, Ansbach, Magdeburg,
+Rheinsberg, Göggingen und
+ Künersberg. An österreichischen
+Fabriken sind Holitsch, Prag, Teinitz
+und Frain vertreten.
+ÖFEN UND OFENKACHELN.
+Neben diesem Schrank befindet sich ein großer achtseitiger bunt
+bemalter Ofen aus dem Zimmer der Weggenzunft in Zürich, ein
+Werk des
+Meisters Ottmar Vogler in Elgg vom Jahre 1725, dekoriert
+von David
+ Sulzer aus Winterthur. Weitere Öfen sind an den
+Außenseiten der Pfeiler
+ aufgestellt; beim Eingange ein Schweizer
+
+--- Sayfa 47 ---
+Ofen aus dem Ende des XVII.
+Jahrhunderts mit bunten, reliefierten
+Kacheln, die vier Tageszeiten
+ in biblischen Allegorien darstellend,
+die drei folgenden deutsche
+ Erzeugnisse des XVIII. Jahrhunderts,
+der letzte in der Ecke, mit
+ vergoldeten Ornamenten, eine Grazer
+Arbeit der Rokokozeit.
+Ofen der Weggenzunft in Zürich, bemalt von David
+Sulzer
+aus Winterthur, 1725.
+An der Wand gegenüber den Öfen bemerken wir zunächst frei
+ausgestellt
+ein
+großes
+Weingefäß,
+eine
+in
+Sgraffitotechnik
+ausgeführte Arbeit des
+ XVII. Jahrhunderts aus Montelupo. Im
+Anschlusse ist die große Sammlung
+ von Ofenkacheln ausgestellt.
+
+--- Sayfa 48 ---
+Die Reihe beginnt beim Eingang mit einigen
+ zum Teil noch
+mittelalterlichen Topfkacheln. Es folgen sodann fünf
+ Kacheln des
+gotischen Ofens aus der Sakristei von St. Stephan in Wien.
+ Nach
+dem Prinzip der ältesten Ofenkacheln, die napfförmig vertieft
+waren,
+um die Ausstrahlungsfläche zu vergrößern, bilden diese Kacheln
+tiefe Nischen, aus denen die figuralen Darstellungen auf weißem
+Tongrunde, mit bunten Bleiglasuren bemalt, im Relief hervortreten.
+Die Eckkachel in der Mitte stellt beiderseitig den Kampf Simsons
+mit
+dem Löwen dar und zeigt über Eck gestellt eine frei modellierte
+weibliche Figur im Kostüm des XVI. Jahrhunderts, ein Wappenschild
+mit dem Doppeladler, der den österreichischen Bindenschild als
+Brustschild trägt, haltend. Unterhalb dieser Kacheln befinden sich
+mit Graphit geschwärzte Reliefkacheln mit Einzelfiguren aus der
+Folge
+der drei guten Heiden, Juden und Christen nach Virgil Solis.
+Eine
+ schöne Salzburger Kachel aus dem Anfange des XVI.
+Jahrhunderts ist
+ferner die bunte Kachel links unten in der Ecke mit
+der Figur eines
+ der heiligen drei Könige. In der folgenden Gruppe
+sind hauptsächlich
+ Nürnberger Kacheln des XVI. Jahrhunderts
+zusammengestellt, darunter
+Kacheln mit perspektivisch dargestellten
+Renaissancehallen, grün mit
+stellenweiser Vergoldung und zwischen
+ihnen die Kachel mit der Venus,
+ eine der besten Arbeiten der
+deutschen Renaissance auf diesem Gebiete,
+ ferner ornamental
+verzierte Kacheln von besonderer Schönheit. In der
+ folgenden
+Abteilung bildet die bunte Bekrönungskachel in der obersten
+Reihe
+mit dem Stadtwappen von Vöcklabruck, zwei Schriftbändern und an
+den
+Seiten
+Schutzengel
+und
+Bergknappe,
+ein
+besonders
+hervorragendes
+ Stück. Anschließend auf einem Sockel großer
+Salzburger Weinkrug mit
+aufgelegten Medaillons, Löwenköpfen und
+sonstigen Verzierungen, um
+1600. Ein zweites, ähnliches Stück auf
+dem folgenden Sockel, darüber
+ ein Schneideraushängeschild,
+doppelseitig mit Kostümfiguren und der
+Datierung 1605. Nach dem
+ersten der Salzburger Weinkrüge prächtige
+ bunte Ofenkacheln mit
+allegorischen Figuren aus der Werkstätte des
+Salzburger Hafners H
+R um 1570, eine große figurenreiche Kachel mit
+der Kreuzigung und
+Teile eines Ofens mit Band- und Rankenmuster. Es
+folgt sodann eine
+Abteilung mit modernen Ausformungen aus alten, im
+ Besitze des
+Museums
+befindlichen
+Originalmodeln
+des
+XVI.
+und
+XVII.
+
+--- Sayfa 49 ---
+Jahrhunderts. Daran schließen sich bunte Ofenkacheln mit den vier
+Jahreszeiten und schwarz glasierte Reliefkacheln, süddeutsche
+Arbeiten
+des XVII. Jahrhunderts, darunter eine ehemals kalt bemalte
+Kachel
+mit dem Wappen des Bischofs Julius von Würzburg. An die
+folgenden
+ zwei Kachelreihen, siebenbürgische Arbeiten des XVIII.
+Jahrhunderts,
+schließt sich eine Gruppe bunt oder einfarbig bemalter
+Kacheln,
+ die hauptsächlich Schweizer- und deutsche Arbeiten des
+XVII. und
+ XVIII. Jahrhunderts sind. An der Ecke befindet sich ein
+Riesenkrug
+oberösterreichischer Herkunft mit der Inschrift Christoph
+Gschir 1741.
+Über Eck gestellt finden wir eine kleine Sammlung von Delfter
+und
+ hessischen Wandfliesen und zu unterst mittelalterliche
+Fußbodenfliesen
+mit Gravierungen aus der Kirche zu Heiligenkreuz.
+Von hier in den Hauptraum zurückkehrend, haben wir in dem am
+Pfeiler
+ stehenden Schrank zahlreiche Holitscher Fayencen. Die im
+XVIII.
+Jahrhundert gegründete Fabrik ging nach 1740 in kaiserlichen
+Besitz
+über, erlangte bald einen bedeutenden Ruf und wurde erst um
+die
+ Mitte des XIX. Jahrhunderts aufgelassen. Es wurden daselbst
+zuerst
+ Erzeugnisse in der Art von Castelli, dann solche nach
+chinesischen
+Vorbildern,
+darunter
+viele
+Figuren
+angefertigt.
+Einfacheres Geschirr
+war mit Blaumalerei sowie mit manganbrauner
+und grüner Malerei
+ ornamentalen Charakters versehen. Weitere
+Gattungen waren die meist
+ mit Obst, seltener mit Blumen bunt
+bemalten Service, die Stücke mit
+ Rot-, Gold- und Buntmalerei,
+ähnlich wie die beiden hier ausgestellten
+ Krüge, mit Susanna im
+Bade und der satirischen Darstellung eines
+ handeltreibenden
+Bettelmönches. Häufig waren auch Gefäße mit
+ plastischen bunten
+Blumen, solche in Form von Tieren, wie Papageien,
+ Hühnern,
+Gänsen usw., reichgebildete Tafelaufsätze und von 1786 an, als
+die
+Fabrik auch Steingut erzeugte, die Imitationen von Wiener Porzellan
+und ein mittels Druckverfahrens erzeugter Dekor. Fast alle diese
+Gattungen sind in den oberen drei Reihen des Schrankes vertreten.
+In der untersten Reihe Salzburger und Gmundener Fayencen
+des
+ XVIII. und beginnenden XIX. Jahrhunderts. Im folgenden
+Schrank an
+ der Fensterseite ist die deutsche Fayence in
+Blaumalerei, wie sie
+namentlich in Braunschweig, Hanau, Nürnberg,
+
+--- Sayfa 50 ---
+Ansbach, Bayreuth,
+ Künersberg, Straßburg, Hamburg usw. nach
+holländischer Art schon im
+ XVII., besonders aber im XVIII.
+Jahrhundert erzeugt wurde, ausgestellt.
+Sie hatte die Aufgabe, der
+holländischen über Frankfurt auch nach
+ dem deutschen Süden
+eindringenden Ware durch möglichst gleichwertige
+ heimische
+Erzeugnisse entgegenzuwirken.
+Die Ähnlichkeit mit Delft erreichte namentlich Hanau in einem
+hohen
+ Grade. In unserer Sammlung ist besonders Bayreuth, 1720
+gegründet und
+von 1735 bis 1763 in vollster Blüte, gut vertreten. Die
+Bayreuther
+Arbeiten zeichnen sich gewöhnlich durch lichtes, durch
+weiße Pünktchen
+getrübtes Blau aus. Besonders hervorzuhebende
+Stücke
+sind:
+in
+der
+obersten
+Reihe
+zwei
+Vasen
+mit
+Rokokoornamenten aus Braunschweig, in der
+ zweiten Reihe die
+Nürnberger Deckelkrüge, der erste mit Stadtansichten,
+der folgende
+mit der Darstellung einer Wochenstube und ein dritter mit
+der einer
+Straßenpflasterung sowie die Ansbacher Sternschüssel. In der
+folgenden Reihe die achteckige Künersberger Servierplatte, die drei
+Straßburger Fayencen von K. Hannong im „Style rayonnant“ von
+Rouen
+und
+die
+figurenreiche
+sechseckige
+fränkische
+Schraubenflasche mit
+ Hirschjagd und Mahlzeit im Freien; in der
+untersten Reihe die ovale
+ Platte auf vier Füßen von Knöller in
+Bayreuth. Außen am Schrank ist
+eine Schweizer Fayenceplatte mit
+reicher Renaissancearchitektur, den
+ Hof des Königspalastes zu
+Jerusalem mit David und Bathseba darstellend
+ und mit der frühen
+Datierung „1533“ angebracht.
+In derselben Abteilung befinden sich zwei Schränke mit Delfter
+Fayencen
+ des XVII. und XVIII. Jahrhunderts. Die Fayenceindustrie
+der Stadt
+ Delft beginnt in den letzten Dezennien des XVI.
+Jahrhunderts und
+ gewinnt um die Mitte des XVII. Jahrhunderts,
+unterstützt durch eine
+ununterbrochene Einfuhr als Muster dienender
+ostasiatischer Porzellane,
+ sowie durch einen tüchtig organisierten
+Handel einen Weltmarkt, dessen
+ Bedeutung erst durch die
+allmähliche Entwicklung des europäischen
+Porzellans im Laufe des
+XVIII.
+Jahrhunderts
+nach
+und
+nach
+schwindet.
+Von
+den
+verschiedenen Dekorationstypen, die während dieser Periode
+üblich
+waren, sind eine ziemliche Anzahl in der Sammlung vertreten. Wir
+
+--- Sayfa 51 ---
+finden
+chinesische
+Genreszenen,
+Stücke
+mit
+Inschriften,
+Übertragungen
+ des „style rayonnant“ von Rouen, ferner Schüsseln
+mit Wappen, Tieren,
+Landschaften, Seebildern, Emblemen, Heiligen-
+und biblischen Figuren
+ und ein Beispiel von Porträtmalerei. Was
+jedoch vorherrscht, das sind
+die ostasiatischen Motive. Die Objekte
+in Blaumalerei zeichnen sich
+ durch besonderen Glanz der
+Zinnglasur aus, den sie durch Bestäuben mit
+ fein zerriebenem
+Bleiglaspulver erlangt haben, der im Brande schmelzend
+die bemalte
+Oberfläche überzieht. Die vielfarbige Malerei entwickelte
+ sich erst
+gegen Ende des XVII. Jahrhunderts und beruht hauptsächlich
+ auf
+dem Dreiklang von Rot, Blau Grün. (Das Rot aus mehrfach
+gebranntem
+ feinsten Bolus.) Eine andere Gattung, bei der
+gewöhnlich
+auch
+Gold
+zur
+Verwendung
+kam,
+imitiert
+die
+Farbenwirkung
+der
+japanischen
+Hizen-Ware
+und
+umfaßt
+Prachtstücke ersten Ranges, die an Schönheit die japanischen
+Vorbilder weit übertreffen. Dieser blau-rot-goldene Dekor (das Rot
+ein auf die fertiggebrannte Glasur aufgemaltes Eisenrot) ist durch
+vier Teller, wovon einer das Brustbild Karls VI. zeigt, und durch
+einen
+Krug mit vergoldetem Deckel charakterisiert. Die in der Sammlung
+vertretenen Meister sind in der Reihe, wie sie in den beiden
+Schränken
+ aufeinander folgen: Adrian Pynaker, Lambert van
+Eenhorn, Huibrecht
+ Brouwer, Cornelis van der Hoeve, Cornelis de
+Keizer, Jan Pieters,
+ Geertruy Verstelle, Joost Brouwer und im
+Schranke nächst dem Fenster C.
+ J. Messchert und A. C. van
+Noorden, Aebreyt de Keiser, J. G. van der
+ Hoeven, Augestijn
+Reygens, J. G. L. Kruyk und J. Verburg.

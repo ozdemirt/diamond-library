@@ -1,0 +1,142 @@
+--- Sayfa 10 ---
+BAŞ
+BAŞBAŞ
+
+AĞRISI
+AĞRISIAĞRISI
+
+SIRT
+&
+OMURGA
+BOYUN
+OMUZ
+OMUZOMUZ
+
+DİRSEK
+10
+
+--- Sayfa 11 ---
+11
+KALÇA
+Kesici
+Kesici + Köpek
+Ön azılar
+Azılar
+20 Yaş
+DİŞLER
+
+--- Sayfa 12 ---
+12
+DİZ
+
+DİZ
+
+--- Sayfa 13 ---
+13
+GIRTLAK
+GIRTLAKGIRTLAK
+
+BADEMCİK
+AKCİĞER
+ADRENAL
+
+--- Sayfa 14 ---
+14
+BURUN
+SİNÜZİT
+
+--- Sayfa 15 ---
+15
+AĞIZ
+MİDE
+MİDE
+SAFRA
+KESESİ
+KARACİĞER
+
+--- Sayfa 16 ---
+16
+İNCE
+BARSAK
+ANÜS
+
+--- Sayfa 17 ---
+17
+TANSİYON
+Tiroid
+Adrenal
+Hipofiz
+&
+Hipotalamus
+
+--- Sayfa 18 ---
+18
+BÖBREK
+İDRAR
+KESESİ
+İDRAR
+KESESİ
+
+--- Sayfa 19 ---
+19
+Kadın
+Üreme
+Organları
+Zihin
+Rahim
+
+--- Sayfa 20 ---
+20
+Mide
+Mide
+Yemek
+Borusu
+Hipofiz
+MEMELER İLE İLGİLİ PROBLEMLER
+Hipofiz
+Memeler
+
+--- Sayfa 21 ---
+21
+Hipofiz
+Tiroid
+Yumurtalık
+
+--- Sayfa 22 ---
+22
+Hipofiz
+Tiroid
+
+--- Sayfa 23 ---
+23
+Akciğer
+Adrenal
+
+--- Sayfa 24 ---
+24
+Tiroid
+Beyin
+Tiroid
+Testis
+Yumurtalık
+Hipofiz
+
+--- Sayfa 25 ---
+25
+Adrenal
+Tiroid
+Diyafram
+
+--- Sayfa 26 ---
+26
+Beyin
+Hipo-
+talamus
+Kulak
+Beyin
+Beyin
+
+Beyin
+Kulak
+
+Kulak

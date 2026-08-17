@@ -1,0 +1,5402 @@
+--- Sayfa 1 ---
+Hegemons, Leaders and Followers:
+A Game-Theoretic Approach
+to the Postwar Dynamics
+of International Political Economy
+Kjell Hausken and Thomas Plümper
+96/1
+Max-Planck-Institut für Gesellschaftsforschung
+Lothringer Str. 78
+D-50677 Köln
+Germany
+Telephone
+0221 / 33605-0
+Fax
+0221 / 33605-55
+MPIFG Discussion Paper 96/1
+E-Mail
+mpi@mpi-fg-koeln.mpg.de
+ISSN 0944–2073
+Home Page
+http: //www.mpi-fg-koeln.mpg.de
+January 1996
+
+--- Sayfa 2 ---
+2
+MPIFG Discussion Paper 96/1
+Abstract
+The article introduces the concept of hegemony to leadership theory, which has
+developed mainly as a critique of hegemonic stability theory. We argue that it
+makes sense to combine the two theories by introducing the concept of ‘size’ into
+neoliberal thinking about International Political Economy. We accept the neo-
+institutional hypothesis that a hegemon is not needed to provide public goods,
+and demonstrate with non-cooperative games how multiple leaders may jointly
+provide public goods. A game-theoretic model is developed illustrating with
+Nash equilibria the conditions under which a hegemon rationally switches from
+hegemony to leadership. It also shows why followers rationally switch from
+free-riding in their consumption of the public goods to taking part in leading, in
+the sense of contributing to covering the cost of the production of the public
+goods. The emergence of joint leadership leads to multiple equilibria in the sense
+of allowing for multiple stable leadership constellations. The actors are in a
+mixed-motive or coordination game where they have different preferences for
+the equilibria, and thus different preferences for which strategies to choose, and
+for who is to take part in covering the cost of the production of the public goods.
+Two aspects of joint leadership ‘after hegemony’ are treated, namely coercive
+and benevolent leadership on the one hand, and collective action in the sense of
+joint leadership on the other hand. Finally, future leadership constellations and
+the quest for international order are discussed.
+Zusammenfassung
+Der Artikel führt das Konzept der Hegemonie in die Leadership-Theorie ein, die
+ursprünglich als Kritik an der Theorie hegemonialer Stabilität entstand. Es macht
+jedoch Sinn, die zwei Theorien auf der Grundlage einer Konzeption der Akteurs-
+größe innerhalb der neoliberalen Internationalen Politischen Ökonomie zu kom-
+binieren. Ausgehend von der These des Neo-Institutionalismus, daß die Existenz
+eines Hegemons keine notwendige Bedingung für die Produktion öffentlicher
+Güter ist, wird mit Hilfe der nicht-kooperativen Spieltheorie gezeigt, wie ver-
+schiedene ‘leaders’ gemeinsam öffentliche Güter produzieren können. Darauf
+aufbauend wird ein spieltheoretisches Modell entwickelt, welches Nash-
+Gleichgewichte benutzt, um die Bedingungen zu illustrieren, unter denen es für
+ein Hegemon rational ist, für gemeinsame ‘leadership’ zu optieren. Gleichzeitig
+wird verdeutlicht, warum ‘followers’ rational ihr Trittbrettfahren einstellen und
+sich an der Bereitstellung der öffentlichen Güter beteiligen. Dies führt zur Aus-
+prägung von multiplen Gleichgewichten. Die Akteure finden sich in einem Ko-
+ordinationsspiel, in dem sie jeweils unterschiedliche Gleichgewichte und damit
+auch unterschiedliche individuelle Strategien präferieren. Der Konflikt entsteht
+an der Frage, welche Akteure sich ‘after hegemony’ an der Produktion der öf-
+fentlichen Güter beteiligen. Dabei sollte zwischen wohlwollend und zwangsge-
+stützten ‘Joint-leadership’-Systemen einerseits und impliziten gemeinsamen Ak-
+tionen andererseits unterschieden werden. Abschließend werden mögliche, vom
+Modell nahegelegte, künftige Leadership-Konstellationen und die sich daraus
+ergebende internationale Ordnung diskutiert.
+
+--- Sayfa 3 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+3
+Contents
+1
+Introduction
+5
+2
+The Theory of Public Goods in International Political Economy
+6
+3
+A Game-Theoretic Model of Hegemony and Joint Leadership
+12
+4
+Analysis of the Model
+16
+5
+Implications of Parametric Changes Within the Model
+23
+6
+Coercive and Benevolent Hegemony and Leadership
+28
+7
+An Exhaustive Characterization of the Equilibrium Strategies
+30
+8
+Future Leadership Constellations and the Quest for
+International Order
+37
+Appendix:     The Relative Size of OECD Actors
+40
+References
+42
+
+--- Sayfa 5 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+5
+1
+Introduction1
+Hegemonic stability theory has over the last two decades emerged as one of
+the predominant theories within international relations theory and interna-
+tional political economy. Briefly, it holds that a dominant actor uses its power
+to create international economic regimes, most notably the International
+Monetary Funds in finance and exchange-rate politics, and the General
+Agreement of Tariffs and Trade. Drawing on the theory of public goods, the
+hegemonic stability theory argues that only a dominant actor, a hegemon, has
+the interest and capacity to maintain the stability of an open international
+economic system (Kindleberger 1976; Keohane/ Nye 1977: 44). Stated boldly,
+the advocates of the theory assume that a single hegemonic power creates a
+stable international economic order by providing international public goods.
+The theory also asserts that the decline of the hegemon leads to global eco-
+nomic instability and to regionalization of international economic affairs
+(Kindleberger 1986).
+Hegemonic stability theory has also received criticism for its various limita-
+tions, such as limitations in the applicability of the public-goods hypothesis.
+Critics suggest that collective action on the part of small groups in the inter-
+national system may be possible (Snidal 1985a; Gowa 1989: 307) and argue
+that the provision of openness and stability in the world political economy
+implies the supply of excludable rather than public goods (Conybeare 1984).
+In both respects it is crucial to note that there are different versions of heg-
+emonic stability theory. Keohane (1980) and, in particular, Lake (1993) have
+distinguished between a deterministic theory of hegemony and a far less de-
+terministic leadership theory. The crucial point separating both theories is the
+possibility of international cooperation, defined as change in the behavior of
+actors in response to the actual or anticipated preferences of other actors
+through a process of policy coordination (Keohane 1984: 51; Milner 1992: 467).
+The distinguishing feature between hegemonic and leadership theory lies in
+their explanation of international stability and international institutions.
+While hegemonic theory relies upon power differences, neoliberal coopera-
+tion theory considers international regimes constituted by international coop-
+eration.
+
+1
+We would like to thank the National Bureau of Economic Research, which pro-
+vides the scientific community with the public good of the Penn World Tables
+via the Internet. Our thanks go also to Matthias Kenter, Institut der deutschen
+Wirtschaft, Cologne, for helpful hints concerning the data. For their various
+constructive comments we are indebted to Margaret Levi, Matthias Mohr and
+Fritz W. Scharpf.
+
+--- Sayfa 6 ---
+6
+MPIFG Discussion Paper 96/1
+This article illustrates the possibility of introducing a concept of power and
+the notion of hegemony into leadership theory, thus uniting a couple of pre-
+viously competing perspectives. Most important, in applying game-theoretic
+models, the article both rationalizes the strategic shift of followers from free-
+riding to taking part in leading, and shows the exact sense in which inter-
+action between leaders occurs. In the international relations literature, several
+simultaneous leaders are often referred to as cooperating, while cooperation
+is defined as the adjustment of policies between several countries. However,
+not to obfuscate matters unnecessarily, we try to avoid the term since game
+theory distinguishes between cooperative and non-cooperative games. We
+make no reference to cooperative game theory. If two or three actors are all
+adopting a strategy of leading, they do not do so because of binding agree-
+ments but because this constitutes a Nash equilibrium in a non-cooperative
+game. Subsequently, we discuss the nature of conflict in joint-leadership
+models, stemming from the second-order problem of which actors contribute
+to the production of the public good. The main objective of this article is to
+show how various kinds of games between a hegemon and followers or be-
+tween a group of leaders can be used to describe the changing structure of
+postwar international political economy, distinguishing between different
+epochs, 1945–1950, 1951–1970, 1971–1995.
+Section 2 provides background material, introduces the theory of hegemonic
+stability, focusing especially on the concept of public goods in international
+political economy, and discusses briefly its neoliberal critique. Section 3 pres-
+ents a game-theoretic model of hegemony and joint leadership. Section 4
+analyzes the model, illustrates the changing equilibria in postwar world poli-
+tics, and discusses the United States’ hegemonic decline and the emergence of
+joint leadership. Section 5 considers further implications of parametric
+changes within the model. Section 6 discusses coercive and benevolent he-
+gemony and leadership. Section 7 provides an exhaustive characterization of
+all possible equilibria given the three strategies hegemon, leader, follower for
+different costs of producing the public good. Section 8 evaluates the prospects
+for prediction and the quest for international order.
+2
+The Theory of Public Goods in International Political Economy
+For more than three decades since the publication of Morgenthau’s seminal
+work Politics among Nations (Morgenthau 1948/1973), the dominant theory of
+international relations, realism, was based on the assumption that interna-
+tional politics takes place within the shadow of war (Aron 1962: 6). The anar-
+chical international system and especially the absence of an authoritative
+
+--- Sayfa 7 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+7
+government creates a permanent threat to all countries, which have to rely on
+the means they can generate and the arrangement they can make for them-
+selves (Waltz 1979: 111). Therefore, to ensure their survival and independence
+in the long run, countries have a predominant interest in avoiding a loss in
+their relative capabilities even in the short run. In consequence, realism ar-
+gues, economic well-being is not the prime interest of countries. Only if their
+survival is assured can countries seek other goals among which welfare holds
+a prominent role (Carr 1946: 145; Waltz 1979: 126; Grieco 1990: 39).
+Arguing from these points of view, realism postulates a mercantilist world
+economic system as a natural consequence of international politics. While
+seeking to avoid relative losses, countries turn out to be anxious about the
+distribution of benefits and they are therefore very pessimistic about the pos-
+sibility of international cooperation. Nevertheless, cooperation is considered a
+necessary condition for the existence of a liberal international trading system.
+A liberal international economic order presupposes the joint and, to some
+extent, coordinated political action of countries.
+The resulting gap between realist expectations and the observable reality of
+postwar economic politics was not discussed until Charles Kindleberger
+(1973) analyzed the great depression and concluded that there is a crucial
+relationship between global economic stability and the existence of a single
+leader, a country which provides international public goods. Public goods are
+the kind of goods where exclusion of consumers is impossible and consump-
+tion by one actor does not exhaust its availability for other actors. In interna-
+tional economic affairs an open trading system, well-defined property rights,
+common standards of measures including international money, consistent
+macroeconomics policies, proper action in case of economic crisis, and stabi-
+lized exchange rates2 are said to be public goods (Kindleberger 1981).
+It is not surprising that the foundations of the ‘theory of hegemonic stability’
+were developed by an economist. Ever since David Hume the economics pro-
+fession has been fully aware that a liberal international economic order is in
+the interest of all countries. However, the theory still breaks with classic lib-
+eral political economy (Frey 1984: 15–20). Countries may prefer protectionism
+if other countries do not reciprocate. David Ricardo’s theorem of comparative
+advantage argues that free trade is in the interest of countries even if other
+actors do not liberalize their trade regimes. The theory of hegemonic stability
+
+2
+It is much disputed whether stabilized exchange rates are to be considered a
+public good or public bad. We are not concerned with this question, but in gen-
+eral we agree with the economic mainstream that fixed exchange rates are a
+public bad while stable and stabilized exchange rates are a public good.
+
+--- Sayfa 8 ---
+8
+MPIFG Discussion Paper 96/1
+is not a liberal theory in the sense of neoclassical economics. All the same, it is
+less mercantilistic and therefore closer to the liberal economic tradition than
+realism had been before. Furthermore, the notion of free trade being a public
+good is nowadays much more plausible than Ricardo’s theory, which as-
+sumed capital to be nationally bounded.
+The idea that a liberal international economic order is based on reciprocity is
+crucial for the analysis of international political economy. If we assume, con-
+trary to Ricardo, that the reciprocal structure is considered a fair approxima-
+tion of the world economy, then it follows that a common interest in an open
+and stable world economy does not necessarily lead to the provision of public
+goods since all actors have an incentive to free-ride (Olson 1965). The public-
+goods analysis of international political economy gained prominence parallel
+to the ascent of regime analysis. Regimes, international institutions, and the
+decision-making procedures which led to them, have been considered to
+serve the interest of all countries. However, in the absence of external en-
+forcement, countries are reluctant to negotiate international regimes since all
+actors have an incentive to free-ride. Stated game-theoretically, defection is
+the dominant strategy of countries.
+As Mancur Olson has argued, the probability that public goods (including
+those constituting a liberal international economic order) will not be provided
+is high if the number of actors is large. According to Olson, one way to solve
+the problem is to introduce selective incentives. If a ‘private good’ is unavoid-
+ably linked to the public good, the latter may result as a by-product. Another
+explanation of the origins and persistence of collective action emphasizes the
+role of a dominant power.3 Early contributions to this theory (Wagner 1966;
+Breton/ Breton 1969; Frohlich/ Oppenheimer/ Young 1971) were apprecia-
+ted by Olson (1971), but considered valid only if the imaginative leaders were
+to find selective incentives:
+A leader or entrepreneur, who is generally trusted (or feared), or who can
+guess who is bluffing in the bargaining, or who can simply save bargaining
+time, can sometimes work out an arrangement that is better for all concerned
+. . .  There is no certainty, and often not even a presumption, that an entrepre-
+neur will sometimes be able to work out an arrangement that is agreeable to
+the parties concerned . . .  When the group in need of a collective good is suf-
+
+3
+Confusingly, economists define this role as leadership, while international rela-
+tions scholars distinguish between a single leader, called hegemon, and a group
+of leaders. These differences are mainly ignored in economic theory. However,
+as we show later, the analytical separation of hegemons and leaders does make
+sense. Therefore, we rigidly differentiate between a single leader, referred to as a
+hegemon, and multiple joint leaders.
+
+--- Sayfa 9 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+9
+ficiently large, an entrepreneur cannot possibly provide an optimal supply of
+the good through bargains or voluntary cost-sharing agreements with those in
+the group.  (Olson 1971: 176–177)
+Mancur Olson and Richard Zeckhauser argue in their economic theory of alli-
+ances that in the provision of collective goods there is a tendency for the larg-
+est member to bear a disproportionately large share of the costs (Olson/
+Zeckhauser 1966). Natural leaders gain more from the provision of public
+goods and they place a higher absolute value upon it. Likewise, it can be ar-
+gued that hegemons are more interested in international economic stability
+and openness and will therefore construct international regimes serving this
+end.
+Even though hegemonic theory originated in the work of an economic histo-
+rian, it is nevertheless hardly surprising that realism has adopted the power-
+based theory of public goods with only slight differences. Most important,
+political scientists argue that hegemons create liberal international economic
+orders not from altruism but from their own self-interest in open markets
+(Stein 1984: 357). According to Robert Keohane (Keohane 1980; Keohane 1984:
+31) two statements are central for the realist theory of international stability:
+First, order in world politics is created by a single great power, a hegemon,
+who will stabilize the world economy (Kindleberger 1973: 305; Krasner 1976).
+Second, cooperation, the mutual adjustment of policies, depends on the per-
+petuation of hegemony, since the dominant power must enforce the rules and
+institutions.
+Deviating from Mancur Olson’s formal theory, realism assumes different con-
+straints and capabilities of actors (Kindleberger 1976: 57). Countries simply
+differ in power, size, and wealth, and they therefore have different interests.
+How countries choose between their options depends strongly upon their
+position within the international system (Krasner 1976). This position is de-
+termined by economic factors such as availability of capital, the size of the
+internal market, and a competitive advantage in the production of manufac-
+tured goods. To be considered hegemonic, a country must have access to
+crucial raw material, control major sources of capital, maintain a large market
+for imports, and hold an absolute advantage in the production of advanced
+goods and services (Keohane 1984: 33).
+From time to time through history, a hegemon emerges (Kennedy 1987)
+which has a strong incentive and the capabilities to produce a liberal world
+economic order. Since the hegemon has efficient production capabilities, the
+dominant power will be the primary beneficiary of a free international eco-
+nomic system (Wallerstein 1980: 38). More importantly, the hegemon also has
+the ability to ‘punish’ defectors (Alt/ Calvert/ Humes 1988: 446). If the domi-
+
+--- Sayfa 10 ---
+10
+MPIFG Discussion Paper 96/1
+nant power also desires an open world economy, this power accepts its heg-
+emonic role and stabilizes international economic relations and coerces other
+countries, i.e. followers, to open their economies as well. The hegemon might
+also tolerate the free-riding of small countries (Kindleberger 1976: 19). There-
+fore, the theory of hegemonic stability rests on a simple causal relationship,
+namely that a liberal and stable world economic system requires a single great
+power (Kindleberger 1973: 305). Consequently, if no hegemon exists, the
+public good of international economic stability will not be provided.
+This argumentation was challenged by the neoliberal theory of international
+cooperation, namely by Duncan Snidal (Snidal 1985a). Following Robert Keo-
+hane’s After Hegemony (Keohane 1984), Duncan Snidal argues convincingly
+that a small group of cooperating actors, what we refer to as ‘joint leaders’,
+can replace a hegemon, thus jointly providing international public goods.
+Openness, therefore, can arise or be maintained in the absence of a hegemon.
+Leadership theory, as David Lake (1993) coined this research program, is able
+to argue, without referring to hegemons, that joint leaders may provide in-
+ternational public goods. Countries are able to adjust their economic policies
+through a process of policy coordination. The problem that countries face in
+regard to the production of stability and wealth in the world political econ-
+omy is dominantly expressed by the prisoners’ dilemma (Conybeare 1984),
+which is considered to resemble the logic of collective action (Brams 1975:
+144; Taylor 1976: 17–25; Hardin 1982: 25–30, Morrow 1994b: 281).
+For Conybeare, the analytical shift from pure public-goods theory to the pris-
+oners’ dilemma is crucial since he denies that free trade, for example, is a
+public good. First, he stresses that the principle of non-excludability is not
+given. Countries may hinder economic subjects from one particular country
+from entering their markets. Tariffs and even more so quotas can be em-
+ployed against different actors to quite different extents. Secondly, Conybeare
+points out that there is rivalry in the consumption of the benefits from free
+trade (Conybeare 1984: 9). It is therefore, as Timothy McKeown puts it, “not
+very sensible to view the international system as isomorphic with an eco-
+nomic system of perfect competition” (McKeown 1983: 78).
+The possibility of monitoring the behavior of other actors and the resulting
+rivalry and excludability explain not only that the burdens of providing a
+public good can be shared; they also make clear that the benefits from an in-
+ternational public good may not be equal. This is crucial since it is quite
+common to assume that larger countries in general gain more from an open
+world economy than small countries do (although other factors such as the
+[export+import]/GDP ratio also play a role). Therefore, one should expect
+that larger countries have a higher incentive to invest in international open-
+
+--- Sayfa 11 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+11
+ness (Krasner 1976: 322). However, by trying to maximize its own payoffs, a
+hegemon serves the benefits of other countries, and international public
+goods might be created as a by-product of the hegemon’s production of pri-
+vate goods (Russett 1987: 222).
+The problem Conybeare refers to depends heavily on the dichotomous notion
+of goods being either purely public or purely private. Conybeare is correct in
+stating that a liberal economic order and international economic stability are
+not pure public goods, but neither are they pure private goods.4 In all cases
+but monetary affairs the possibility of excluding single actors exists. How-
+ever, this possibility is costly, for example in regard to the monitoring of
+norm-deviant behavior and to enforcement measures. Quite different from
+the production of private goods, the exclusion of other actors requires a po-
+litical act. Therefore, the definition of a collective good in the narrow sense is
+not met. On the other hand, without costly discriminatory measures, open-
+ness and stability come close to resembling public goods. Moreover, if the
+enforcement of a cooperative agreement is costly (Oye 1985: 15), the policy
+measures themselves become a public good (Gowa 1989: 315).
+It is currently undisputed that the connection between hegemony and open-
+ness in the world economy is more complex than previous contributions to
+the theory have so far considered. But it is also widely appreciated that an
+interrelation between power distribution and the maintenance and creation of
+international institutions does exist. Therefore, the hegemonic and the leader-
+ship strands of argument about international economic stability are not nec-
+essarily in competition. The present article shows that they are easily and
+fruitfully linked if one presupposes both, that is both the possibility of a heg-
+emon as well as several joint leaders. In this regard we distinguish between
+hegemonic and leadership provision of public goods. Joint leadership be-
+tween two or several large powers is possible, but unilateral, hegemonic
+provision of international public goods demands less transaction costs and
+will pay off for all actors under certain circumstances.
+More important, the following game-theoretic model develops simple expla-
+nations, illustrating how and why a hegemonic system turns into a joint-
+leadership system. It indicates the conditions which presuppose unilateral or
+collective action. In addition, we discuss the consequences of joint-leadership
+systems in general, pointing out the relevance of disagreement and political
+struggle among second-dominant powers, namely the EC and Japan, over the
+participation in covering the cost of producing international public goods.
+
+4
+For the suggestion that there is a continuum between pure public and pure pri-
+vate goods rather than a dichotomy, see Bruce Russett (1987: 225).
+
+--- Sayfa 12 ---
+12
+MPIFG Discussion Paper 96/1
+These aspects, which resemble either a battle-of-the-sexes or a coordination
+situation, are ignored in the dominant prisoners’ dilemma model of interna-
+tional politics, which focuses on commitment, enforcement and strategic in-
+teraction.
+3
+A Game-Theoretic Model of Hegemony and Joint Leadership
+Game theory provides a powerful tool for the analysis of international affairs
+since strategy is the essence of politics. In world politics and international
+political economy game theory is used to illustrate the structure of decision-
+making of countries confronted with collective dilemmas. Unfortunately,
+game theory very seldom takes into account that actors differ. The game-
+theoretic approach to international politics has been restricted to equal-actor
+games and treats, as Duncan Snidal puts it, “very large and very small ones
+as equal partners in a prisoners’ dilemma” (Snidal 1985b: 47). As a result, its
+direct usefulness to the analysis of international relations and more particular
+to the analysis of the consequences of power distribution is limited. This re-
+striction obviously limits also the game-theoretical analysis of hegemonic
+decline. Furthermore, it is quite common for international-relations theorists
+to restrict game-theoretic models to their simplest form, namely 2x2 matrixes.
+To illustrate the concepts of hegemony, free-riding, and joint leadership,
+however, a more complex model is required. We present in this section five
+assumptions underlying the model and the model itself, which is able to illus-
+trate much more than previous models how a decline in interest in interna-
+tional public goods leads to an increase in joint action. The hegemonic decline
+of a leading actor, therefore, should lead to more ‘cooperation’ as this phrase
+is used in international relations theories. In section 4 we analyze the impli-
+cations of changing the one variable in the three-actor model, namely the size
+of each country, and in section 5 we discuss the implications of changing four
+parameters in the model, namely production costs of public goods, transac-
+tion costs, and the sharing rules of the hegemon and of the leaders.
+We use size to reflect a country’s interest in stable international economic re-
+lations. Even though small countries may profit more in relative terms, larger
+economies import and export more in absolute terms and they also partici-
+pate more in the production of international liquidity. The interest in inter-
+national public goods and the gains from the provision of these, therefore,
+depends to some extent on relative size.
+In order to keep the model as simple as possible, we introduce a 3x2x2-model
+which is based on the following five assumptions:
+
+--- Sayfa 13 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+13
+Assumption 1
+Public goods are produced if a minimum of either one hegemon or two lead-
+ers exist.5
+This is a rigid assumption and it may seem to be implausible. But since we
+introduce this assumption to a three-actor model, it can be reformulated so
+that contribution to covering the costs by a suitably chosen majority of the
+actors involved leads to the production of international public goods.
+Assumption 2
+Only the US has so far been capable of acting as a hegemon. The EC and Japan
+can at most act as leaders. Therefore, the US has three strategies: to act as heg-
+emon (H), to lead (L), or to follow (F). The EC and Japan can either lead (L) or
+follow (F).
+The literature holds that only the largest countries are willing to act as heg-
+emons (Lake 1984: 150). The model allows for the assumption that either the
+EC or Japan acts as a hegemon. However, the model also indicates that this
+will lead to huge losses, which can be referred to as ‘imperial overstretch’. To
+keep the model as simple as possible, we have opted for a 3x2x2-matrix in-
+stead of a 3x3x3-matrix, assuming that only the largest actor can be a heg-
+emon. In the general analysis in section 7, the EC and Japan are also allowed
+to be hegemons.
+Assumption 3
+There is costly excludability of consumption. However, countries with ‘larger
+economies’ are likely to receive a higher payoff from the consumption. We
+roughly indicate the payoff from the consumption as the size of a country’s
+economy relative to the aggregated size of the OECD economies, that is
+us/oecd, ec/oecd, and j/oecd.
+The empirical relevance of this assumption is open to discussion, though we
+consider it to be an approximation to reality. For any model a tradeoff has to
+be struck between simplicity, generality, empirical support, etc. Using the
+empirical data available today, it is not clear that an alternative to assumption
+3 is more appropriate, because a multiplicity of other factors interact in many
+different directions. In the light of this, there is virtue in simplicity. However,
+it is important to note that assumption 3 can be varied in any way for which
+one might find an argument or empirical support without altering the deeper
+nature of our argument presented in this article. Assumption 3 nevertheless
+needs a few comments. Competing concepts would argue that it is not size
+
+5
+We will discuss and amend this assumption in sections 5 and 7.
+
+--- Sayfa 14 ---
+14
+MPIFG Discussion Paper 96/1
+but world market integration that is causing an interest in a stable and open
+world economy. In this regard, there are both a relative and an absolute mea-
+surement of world market integration. The relative one is called openness and
+is calculated as exports plus imports divided by the countries nominal gross
+domestic product. This assumption would lead to the hypothesis that highly
+specialized and small countries like Sweden (which has an export/GDP ratio
+about five times that of the US), Taiwan, and Korea have a larger interest in
+stabilizing the liberal world economy than large countries such as the US and
+Japan. The absolute indices of world market integration are simply exports.
+Countries which export more goods and services have an higher interest in a
+liberal trading system. Again, there are good reasons to doubt this. Countries
+with a highly specialized export industry that has a world market monopoly
+have no interest in open trading structures since they are able to sell their
+goods anyway. The oil-exporting countries are a good example for this case.
+Furthermore, even if we consider exports as the basis of an interest in inter-
+national public goods, the US, EC, and Japan can be considered the dominant
+actors. The only difference would be that the three actors are more similar,
+which leads to political results that we discuss in more detail in sections 7 and
+8. There may be a better measurement of the payoffs a country gains from the
+world economy than size. However, there is no obviously better, simpler way
+to measure this.
+Assumption 4
+Both the political process to reach an agreement on providing a public good
+and the coordination of policies are costly. If we denote the total costs of pro-
+ducing a public good as cs(c+cT), where c is the cost of hegemony if there are
+one hegemon and two followers, cT are transaction costs of coordinating poli-
+cies, and cs, 0≤cs≤1, is a sharing rule specifying what fraction of the costs each
+actor incurs. The transaction costs are then cT=0 if the public good is provided
+by a hegemon and cT>0 when there is joint leadership.
+The production cost of an international public good includes the political-
+economic process of coordinating macroeconomic policies. It is perhaps im-
+possible to measure this cost exactly, and it may make sense to assume that
+this cost is higher in the early years of an international regime than in later
+ones. However, international regimes do not work perfectly immediately
+upon implementation. They have to be maintained, which requires continued
+input of political and economic resources. The same can be said about trans-
+action costs, which include the costs of reaching an agreement, the costs of
+monitoring the political action of cooperative actors, and the cost of agreeing
+to maintain an international regime.
+
+--- Sayfa 15 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+15
+Assumption 5
+A follower does not take part in covering the cost of producing the public
+good.
+This is self-evident since a free-rider does not change its policies but rather
+gains from the policy changes of other actors.
+Let us assume for expositional convenience linearly increasing transaction
+costs,
+(
+)
+c
+h
+l
+h
+l
+for
+h
+l
+T (
+)
+,
++
+=
++ −
++ ≥
+12
+5
+1
+1
+(3.1)
+where h, h=0,1, is the number of hegemons l, l=0,1,...,3–h, is the number of
+leaders.6 This means that the more actors are involved, the more difficult it is
+to reach an agreement and the higher are the monitoring costs. Hence it is
+easier to integrate a limited number of similar countries than to integrate the
+world economy.
+The sharing rule we use for the hegemon’s cost is cs= csh=1 for l=0, csh=2/3 for
+l=1, and csh=1/2 for l=2. A function that satisfies this for the hegemon is
+c
+H h
+l
+l
+l
+sh(
+/
+, )
+,
+=
+=
+−
++
+1
+1
+12
+5
+12
+1
+2
+(3.2)
+which allows for the possible joint presence of a hegemon and one or two
+leaders. We refer to this constellation as coercive hegemony, which we dis-
+cuss in further detail in section 7. Briefly, coercive hegemony refers to an in-
+termediate political constellation between pure hegemony and joint leader-
+ship, and thus introduces the possibility that a hegemon may urge followers
+to bear some production costs of the international public good.
+In the absence of a hegemon (h=0) assume cs=csl=1/2 for l=1 or l=2, and
+csl=1/3 for l=3. With a hegemon (h=1) assume csl=1/3 for l=1 and csl=1/4 for
+l=2. Consistent with equation 3.2 a function that satisfies this is
+c
+L
+h l
+l
+h
+l
+h
+sl (
+/ , )
+(
+)
+.
+= −
+−
++
+−
+
+
+
++
+1
+12
+1
+1
+4
+1
+4
+3
+1
+3
+2
+(3.3)
+Summing up, if there is a benevolent hegemon, it bears all the costs. If the
+hegemon urges followers to participate, the hegemon bears twice the costs of
+
+6
+We have experimented with logistic functions of arbitrary complexity for the
+transaction costs, which do not change the nature of the results.
+
+--- Sayfa 16 ---
+16
+MPIFG Discussion Paper 96/1
+each leader. If there is a joint-leadership constellation, the costs are shared
+equally.
+The payoff for being a hegemon is
+(
+)
+P H
+h
+l
+country
+oecd
+c
+H
+l c
+c
+l
+sh
+T
+(
+/
+, )
+(
+/ , )
+(
+)
+,
+=
+=
+−
++
++
+1
+10
+1
+1
+(3.4)
+where we multiply by 10 to get conveniently sized payoffs.
+The payoff for being a leader is
+(
+)
+(
+)
+P L
+h l
+country
+oecd
+c
+L
+h l c
+c
+h
+l
+if
+h
+or
+l
+c
+L
+h l c
+c
+h
+l
+else
+sl
+T
+sl
+T
+(
+/ , )
+(
+/ , )
+(
+)
+(
+/ , )
+(
+)
+.
+=
+−
++
++
+=
+≥
+−
++
++
+
+
+
+
+
+
+10
+1
+2
+(3.5)
+The payoff for following is
+P F
+h l
+country
+oecd
+if
+h
+or
+l
+else
+(
+/ , )
+.
+=
+=
+≥
+
+
+
+
+
+
+10
+1
+2
+0
+(3.6)
+Obviously, it is more expensive to act as hegemon than to act as a leader. And
+it is more expensive to lead than to follow. But since the provision of an in-
+ternational public good is a positive-sum game for all countries involved, it
+may pay for countries to be a hegemon or to participate in joint leadership.
+The requirements of these constellations are discussed in the following sec-
+tions.
+4
+Analysis of the Model
+We have already discussed the fact that no unequivocal indicator for the size
+of an economy exists. To keep the model as simple as possible7 and adhering
+
+7
+We acknowledge the critique of John Ruggie (1982) and David Lake (1984) that
+relative size can explain only the necessary, but not the sufficient, conditions for
+the emergence of a liberal international economy. We nevertheless think it
+makes sense to provide international relations scholars with the analytical tools
+to analyze the political-economic consequences of size within the game-
+theoretic approach to international politics.
+
+--- Sayfa 17 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+17
+to what is common in the literature (Krasner 1976; Kindleberger 1981: 249),
+we estimate the interest of countries in an open and stable world economy
+according to their size. We lay down the size of an economy as real gross do-
+mestic product in accordance with the Penn World Tables, which permit
+cross-country comparisons.8 Our model is such that other values for the sizes
+of the various economies, and also other factors not pertaining to size, can be
+used without altering the nature of our argument. Moreover, we do not in-
+tend to argue about the ability of actors, especially the US, to operate as a
+hegemon (Strange 1987; Russett 1987).
+For 1960 we estimate the size of the economies as a percentage of the OECD
+economy as (us,ec,j)=(50,35,5), where oecd=100. If we assume c=21/5=4.2,
+equation (3.1) gives cT(h+l=1)=0, cT(h+l=2)=12/5=2.4, and cT(h+l=3)=24/5=4.8,
+indicating that the total gains from the provision of the public good are
+roughly two and a half times the costs of its production. With these parame-
+ter values, equations (3.1)–(3.6) can be illustrated by the game in Table 4.1.
+Table 4.1 has two Nash equilibria in pure strategies, viz [H,F,F]=[0.8, 3.5, 0.5]
+and [L,L,F]=[1.7, 0.2, 0.5]. A situation in which two leaders provide the public
+good, even if the hegemon is able to produce the public good unilaterally, can
+be defined as coercive hegemony. Our model implies that after a point in
+time, which we estimate to be about 1950, the US would have preferred the
+latter of these options. However, historically determined by even larger differ-
+ences in the sizes of actors in the advent of the second World War, the former has
+been chosen, in preference to the EC9 and Japan. Since [H,F,F] constitutes a Nash
+
+8
+The Penn World Tables, also known as the Summers-Heston Tables, display a
+set of national accounts economic time-series covering a large number of coun-
+tries. It is an attempt to get closer to a system of real national accounts, and its
+unique feature is that it allows for international, not just intertemporal, compari-
+sons (Summers/ Heston 1991).
+9
+It is debatable whether the EC (or an equivalent thereof) had the strategic ca-
+pability of acting as an actor in the 1950s and early 1960s. An interesting discus-
+sion of whether corporate actors, coalitions, collective actors, and aggregate ac-
+EC
+EC
+F
+L
+F
+L
+F
+0
+0
+0
+0 –2.1
+0
+F
+0
+0 –2.1
+5.0
+0.2 –2.8
+US
+L
+–2.1
+0
+0
+1.7
+0.2
+0.5
+L
+1.7
+3.5 –2.8
+2.0
+0.5 –2.5
+H
+0.8
+3.5
+0.5
+0.6
+1.3
+0.5
+H
+0.6
+3.5 –1.7
+0.5
+1.3 –1.8
+Japan follows
+Japan leads
+Table 4.1  The game in 1960 with c=4.2
+
+--- Sayfa 18 ---
+18
+MPIFG Discussion Paper 96/1
+equilibrium, it is costly for the US to choose the leadership option unless it co-
+erces the EC to switch from following to leading simultaneously. Therefore, a
+declining relative advantage may lead to a political struggle between the heg-
+emon and the second ranking powers even before the hegemonic period comes to
+a definite end. Since coercion is costly even for a dominant power and more so for
+a declining power, the hegemon may opt to ignore the possibility of coercive
+burden-sharing.
+Furthermore, the model also illustrates that the hegemonic strategy [H,F,F] is
+not just the historical equilibrium but also has a higher ‘collective payoff’ for
+all involved. This is a plausible assumption at least for the period from 1945
+to 1965. What is important for the production of order in the international
+system, since there are just two equilibria and both lead to the production of a
+public good, is that the public good continues to be provided even though
+political struggle may occur between the US and the EC over the participa-
+tion of the latter. Game-theoretically, Table 4.1 illustrates a mixed-motive
+game where the US prefers the equilibrium [L,L,F]=[1.7, 0.2, 0.5], the EC prefers
+the equilibrium [H,F,F]=[0.8, 3.5, 0.5], and Japan is indifferent toward the
+equilibria.
+For 1975 we estimate the size of the economies as a percentage of the OECD
+economy according to the Penn World Tables as (us,ec,j)=(40,35,15), where
+oecd=100. With c=4.2, equations (3.1)–(3.6) give the game in Table 4.2.
+Table 4.2 has only one Nash equilibrium in pure strategies providing the
+public good, viz [L,L,F]=(0.7, 0.2, 1.5) which means that the EC has an interest
+in emerging as a leader and accepting part of the cost of producing the public
+goods, while the US changes from being a hegemon to being a leader. Japan
+still has a dominant strategy in following. Note that [H,F,F]=(–0.2, 3.5, 1.5) is
+no longer an equilibrium as hegemonic leadership becomes too costly for the
+US. Table 4.2 also has a Nash equilibrium where all actors choose the strategy
+of following, thus indicating that the probability of the public good being
+produced diminishes. This situation corresponds to a coordination game be-
+tween the US and the EC. If the US and the EC agree upon the mutual de-
+structibility of the situation should both opt for following, then negotiations
+
+tors can be treated as unitary players applicable for game-theoretic analysis is
+provided by Scharpf (1991). It might be argued that the EC until the early 1960s
+was an aggregate actor without strategic capability and thus only capable of
+choosing the strategy of following, which provides further support for the early
+[H,F,F] equilibrium. However, the early EC consisted of certain dominant
+subactors such as Germany, France, and the UK, which either alone or through
+some mechanism of tacit self-coordination could engage in strategic action. This
+justifies considering the EC as an actor in its own right as early as the 1950s.
+
+--- Sayfa 19 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+19
+and eventually joint action may be expected to follow. The emergence of an
+[F,F,F] equilibrium indicates that joint-leadership systems are much more vul-
+nerable against instability than hegemonic systems. In cases of emergency or
+crisis it is not at all clear whether joint action will be achieved. Moreover, a
+time gap between hegemonic and collective leadership systems should be
+expected since there is a conflict between the former hegemon and the former
+follower over the conditions and the distribution of costs between major ac-
+tors in a joint-leadership system. It is at this point crucial that countries learn
+that structural conditions have changed and that thorough analysis is re-
+quired.
+The model discussed so far has a number of satisfactory implications, which
+in general illustrate the postwar development of international political econo-
+my. Fig. 4.1 shows the chronological development from 1945 to 1995 of the
+payoff to the US of choosing H (hegemony) when both the EC and Japan
+choose to follow; the payoff to the US of choosing L (joint leadership) given
+that either the EC or Japan choose L; and the payoff to the US of choosing F
+when the public good is not provided, that is, if either EC or Japan or both
+choose F.
+Observe in Fig. 4.1 that the curve for the US payoff for hegemony goes
+through the points (1960, 0.8) and (1975, –0.2), and that the curve for the US
+payoff for joint leadership goes through the points (1960, 1.7) and (1975, 0.7).
+This is consistent with the payoffs in the matrixes in Tables 4.1 and 4.2. The
+US hegemony payoff turns negative circa 1968, which conforms with the
+broadly accepted views of the situation. The US joint-leadership payoff is
+higher than the US hegemony payoff after circa 1950, which can be given a
+game-theoretic justification. Some supporters of hegemonic stability theory
+(Kindleberger 1976) hold that US hegemony was also beneficial for all, both
+the hegemon and its followers, during the period 1950–1968. Joint leadership
+was not observed during the period 1950–1968, and it is therefore difficult to
+estimate the accompanying payoffs. On game-theoretic grounds, however, it
+EC
+EC
+F
+L
+F
+L
+F
+0
+0
+0
+0 –2.1
+0
+F
+0
+0 –2.1
+4.0
+0.2 –1.8
+US
+L
+–2.1
+0
+0
+0.7
+0.2
+1.5
+L
+0.7
+3.5 –1.8
+1.0
+0.5 –1.5
+H
+–0.2
+3.5
+1.5 –0.4
+1.3
+1.5
+H
+–0.4
+3.5 –0.7 –0.5
+1.3 –0.8
+Japan follows
+Japan leads
+Table 4.2  The game in 1975 with c=4.2
+
+--- Sayfa 20 ---
+20
+MPIFG Discussion Paper 96/1
+seems more plausible to argue that US hegemony during the period 1950–
+1968 was chosen because it gave a positive US payoff, and that the alternative
+was a follower strategy yielding zero payoff. That is, no non-US actor was
+willing to opt for joint leadership during this period, and the joint leadership
+payoff for the US was thus not attainable. The reason can be seen from the
+Tables 4.1 and 4.2. For the EC, the payoff for joint US/EC leadership was 0.2
+both in these years, whereas the EC follower payoff was 3.5 in 1960 as well as
+in 1975.
+This considerable difference constituted a powerful disincentive for the EC to
+opt for anything other than a follower strategy, leaving the burden to the US,
+which was not capable of coercing the EC into joint leadership. The situation
+was even more pronounced for Japan. The joint US/Japan leadership payoff
+for Japan was –2.8 in 1960 and –1.8 in 1975, whereas the Japan follower payoff
+was a considerably higher: 0.5 in 1960 and 1.5 in 1975. Hence it seems plausi-
+ble to argue that the US accepted hegemony during the period 1950–1968 not
+because hegemony gave a larger payoff than joint leadership (which it did
+not), but because it gave a larger payoff than 0 for the follower strategy, and
+because no one could be enticed or coerced into joint leadership. Before 1950,
+however, the US hegemony payoff was plausibly larger than a hypothetical
+joint-leadership payoff. Europe lay in ruins after the war. The US provided
+1
+2
+3
+4
+0
+5
+Hegemony
+Joint Leadership
+Following, no Public Good
+S Payoff
+Time
+45        50         55         60          65         70        75          80         85         90         95
+Fig. 4.1  Chronological development from 1945–1995 of US payoffs
+
+--- Sayfa 21 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+21
+not only economic aid in the form of the Marshal Plan and facilitated Euro-
+pean integration, but was also the dominant actor in the establishment of glo-
+bal economic institutions. This helps explain how US hegemony first got star-
+ted. Once established, the HFF equilibrium became historically entrenched
+and remained for decades a salient focal point (Schelling 1960).
+The following sample of 3x2 models shows the development of international
+postwar politics. In order to explain the central findings as simply and famil-
+iarly as possible, the Tables 4.3–4.6 operate with two rather than three actors.
+The actor labeled ‘rest of the world’ does not refer to all other actors in the
+world aside from the US, but rather to any actor endowed with sufficient
+unity and power to choose between the two strategies of following and lead-
+ing. The games are illustrated from the US’s viewpoint relative to the rest of
+the world, showing the strategic dilemma of a hegemon in decline and the
+strategic dilemma of followers given hegemonic decline. Confining attention
+to the ordinally ranked preferences of these two actors, Table 4.3 shows the
+situation during the period 1945–1950.
+Rest of World
+Follower
+Leader
+Follower
+1,1
+1,0
+US
+Leader
+0,1
+3,2
+Hegemon
+4,4
+2,3
+Table 4.3  A simple model of the world political economy, 1945–1950
+Between 1945 and 1950 there was no political struggle between the US and
+other actors over the distribution of costs in the provision of international
+public goods. Table 4.4 illustrates two equilibria, [H,F] giving (4,4) and [L,L]
+giving (3,2), and the actors easily coordinate on the former. The situation can
+be interpreted as one in which the transaction costs of coordinating joint
+leadership exceed the additional costs a hegemon incurs if it provides the
+public good on its own.
+Rest of World
+Follower
+Leader
+Follower
+1,1
+1,0
+US
+Leader
+0,1
+4,2
+Hegemon
+3,4
+2,3
+Table 4.4  A simple model of the world political economy, 1950–1970
+
+--- Sayfa 22 ---
+22
+MPIFG Discussion Paper 96/1
+Around 1950, due to the recovery of the European countries from the Second
+World War, the equilibrium strategies from Table 4.3 remain, while the equi-
+librium payoffs change to (3,4) and (4,2), as shown in Table 4.4. That is, the
+game changes from a coordination game in Table 4.3 to a battle-of-the-sexes
+game in Table 4.4, the latter introducing distributional conflict over who is to
+provide the public good. Table 4.4 shows that the hegemonic role of the US
+had been an historical equilibrium, not maximizing its utility.
+Since 1970 the payoff to the US for choosing the hegemonic strategy has fallen
+short of the payoff for choosing the follower-strategy. Increasing costs and
+decreasing capabilities have led to a situation in which the hegemon has
+opted to contribute only partly (in the sense of leading short of hegemony) or
+not to contribute at all (in the sense of following, i.e. defecting) to covering
+the cost of the production of the public good. This situation is shown in Table
+4.5.
+Rest of World
+Follower
+Leader
+Follower
+1,1
+1,0
+US
+Leader
+0,1
+4,3
+Hegemon
+0,5
+3,4
+Table 4.5  A simple model of the world political economy, 1971–1995
+In Table 4.5, [H,F] has disappeared as an equilibrium strategy and has been
+replaced by the equilibrium strategy [F,F]. The equilibrium strategy [L,L]
+from the Tables 4.3 and 4.4, however, remains. Hence the battle-of-the-sexes
+situation in Table 4.4 has been replaced by a new coordination game, where
+the actors have to coordinate on the strategy combinations [F,F] and [L,L].
+Although the latter might seem most appropriate, it took about five years to
+realize it, probably mainly because of historically entrenched inertia and rigid
+perceptions of the situation in international relations. First, the EC was reluc-
+tant to opt for joint leadership since it hoped that the US would proceed in its
+hegemonic role of providing the public good of openness and stability in eco-
+nomic affairs. Secondly, realizing that even a minimum degree of leadership
+in the form of cooperative behavior is vulnerable to exploitation, the US
+opted for the very opposite of hegemonic leadership, viz a follower strategy,
+yielding the payoff [1,1]. The [F,F] strategy during the period 1970–1975 led,
+among other things, to the collapse of the Bretton Woods system of fixed ex-
+change rates. Since 1975 the actors have gradually realized the alternative
+equilibrium strategies [L,L], with the accompanying payoffs (4,3), and have
+started to explore the various manners in which this equilibrium can be rea-
+lized.
+
+--- Sayfa 23 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+23
+The equilibrium development over the last half century, as discussed in the
+Tables 4.3–4.5, can be characterized as in Table 4.6. The structural change
+from a coordination game between [H,F] and [L,L] to a battle-of-the-sexes
+game between [H,F] and [L,L] and then to a coordination game with a differ-
+ent set of equilibrium strategies, [F,F] and [L,L], explains why post-
+hegemonic international governance has become more complicated. The first
+transition involved no change in equilibrium strategies, and the same focal
+point equilibrium (Schelling 1960) could be maintained. The latter transition,
+however, shattered the focal point equilibrium [H,F], and introduced a new
+one [F,F], leading to uncertainty about whether this latter equilibrium or an
+unexplored joint-leadership equilibrium [L,L] is to be chosen.
+5
+Implications of Parametric Changes Within the Model
+Our model allows for changes of one variable, country-size, and the four pa-
+rameters: production costs of public goods, c, the transaction costs, cT, and the
+sharing rules of the hegemon, csh(H/h,l), and of the leaders, csl(H/h,l). Addi-
+tionally, assumption 1 in section 3 about the minimum requirement for pro-
+ducing a public good can be changed. Our main concern in the preceding
+section has been to differentiate between the size of the actors. In this section
+we discuss changes in the c/cT ratio and changes in the (c+cT)/(us+ec+j) ratio.
+It is also possible to vary the shape of the transaction-costs function (3.1), al-
+though this does not change the nature of our argument and will thus not be
+discussed further. Moreover, it is possible to vary the distribution of costs
+between the actors and to change the minimum requirements for the provi-
+sion of a public good. We can replace the assumption 1 in section 3 that either
+one hegemon or at least two joint leaders are sufficient to produce an inter-
+national public good with the assumption that the provision of the public
+good requires a minimum of input. The latter two modifications are discussed
+in section 7. All changes have theoretical as well as empirical implications,
+with richer implications if parameters vary concurrently.
+US
+hegemon
+follower
+leader
+EC, JAP
+followers
+leaders
+results
+(4,4)
+(3,4)
+(1,1)
+(4,3)
+                     ‘45             ‘50                                                                  ‘70             ‘75                                                               ‘95
+Table 4.6  Equilibria from Hegemony to Joint leadership:
+A Model of Postwar Developments
+
+--- Sayfa 24 ---
+24
+MPIFG Discussion Paper 96/1
+Most important for our study, the general structure of the game, which
+strongly advocates bilateral leadership, does not change unless the size of the
+Japanese economy rises well above .25 and/or the size of the dominant actor
+decreases to about .30. This implies that joint leadership of more than two
+countries only pays if the actors are similar or even equal in size. Tripartite
+leadership is unlikely to occur even when the public good yields a high pay-
+off and the costs, including transaction costs, of its production are low.
+Transaction costs originate from policy changes and international negotia-
+tions. They emerge when actors have to identify the possible effects of their
+action, when they are trying to identify their best option, and when actors are
+bargaining about an agreement (Scharpf/ Mohr 1994: 46). These aspects can
+but need not be quite costly. Generally, one should expect that rising transac-
+tion costs increase the probability that a public good will not be provided. In
+our model decreasing transaction costs lead to a greater number of possible
+equilibria in which the public good is provided. Most important to note, even
+in the period after 1970, as shown in Table 5.1, the [F,F,F] option is no longer
+an equilibrium if transaction costs are low. Instead, the US has an incentive to
+provide the public good unilaterally if it is unable to coerce the EC or Japan to
+lead jointly. Therefore, the model implicates a sharp increase in the probabil-
+ity that the public good will be produced in the event of the transaction costs
+CT being low. The lower the cost c of producing the public good, the more
+probable is unilateral or joint leadership. As we discuss in more detail over
+the next sections, a multiplicity of possible equilibria leads to a second-order
+problem of which equilibria to choose. There will be disagreement between
+the actors, stemming from the different distribution of net gains from the dif-
+ferent equilibria. While the US is indifferent in regard to which actor it will
+share the leadership role with, either the EC and Japan have a strong incen-
+tive to follow if the other actor (EC or Japan) leads. Between the EC and Japan
+there is a first-mover advantage in committing to follow, which involves let-
+ting the other bear the cost of leadership. Conflict occurs not only between
+the EC and Japan, but also between Japan and the US as well as between the
+EC and the US if the US tries to coerce one of the former to join in leadership.
+Considered from the EC’s viewpoint, the preference structure is PUS/Jap = 3.5 >
+PUS/EC = 0.2 > PUS sole leader = 0. However, since Japan has a dominant strategy of
+following for all public goods whose production and transaction costs c+cT
+exceed 3.0, the EC has a weak incentive to lead.
+It is important to note, however, that the absence of transaction costs and low
+costs of the public good lead to a situation in which more than two Nash-
+equilibria are possible. With c=2.4 and no transaction costs, that is cT=0, our
+3x2x2-model gives the payoff matrix in Table 5.1.
+
+--- Sayfa 25 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+25
+Table 5.1 has four equilibria, namely [H,F,F], [L,L,F], [L,F,L] and [F,L,L]. The
+joint triple-leadership option [L,L,L] gives, not surprisingly, the same total
+(collective) payoff of 6.6 as the [H,F,F] equilibrium. This implies that each
+actor has an incentive of switching to following, i.e. free-riding, since the pro-
+duction of the public good requires only two actors. If joint leadership in this
+regard is considered to be fair, the actors are in a collective dilemma, which
+resembles a prisoners’ dilemma. Conflict occurs since the costs of providing
+the public good must be distributed while each actor has a first-mover advan-
+tage of switching to free-riding. The assumptions of this payoff matrix, there-
+fore, are the closest approximation of our simple 3x2x2-model to Olson’s
+(1965/1971) theory.
+The most controversial assumption of our model, assumption 1 of section 3,
+holds that the production of an international public good requires either one
+hegemon or two leaders. This assumption was helpful in modeling the
+changes in the strategies of the hegemon and the followers during hegemonic
+decline. However, this assumption is far less convincing when the nature of
+joint leadership is discussed.
+There are at least two ways of changing the model in a manner that allows for
+a discussion of minimum requirements in the provision of public goods. First,
+the requirement that the existence of and the coordination between two lead-
+ers is sufficient for the production of a public good can be relaxed or given
+up. The requirement that three actors are necessary for the provision of a
+public good implies that the public good most probably will not be provided
+if the transaction costs and the production costs of the public good are high.
+Only if actors are more similar in size than we have assumed, or actors’ sizes
+become more similar in the future, is tripartite leadership likely to occur.
+The second way of allowing for a closer approximation to reality involves the
+introduction of a distributive function of production costs. So far we have
+assumed an equal distribution of costs between all actors in a joint-leadership
+EC
+EC
+F
+L
+F
+L
+F
+0
+0
+0
+0 –2.1
+0
+F
+0
+0 –1.2
+4.0
+2.3
+0.3
+US
+L
+–1.2
+0
+0
+2.8
+2.3
+1.5
+L
+2.8
+3.5
+0.3
+3.2
+2.7
+0.7
+H
+1.6
+3.5
+1.5 –2.4
+2.7
+1.5
+H
+2.8
+3.5
+0.7
+2.8
+2.9
+0.9
+Japan follows
+Japan leads
+Table 5.1  The game in 1975 with c=2.4 and c =0
+
+--- Sayfa 26 ---
+26
+MPIFG Discussion Paper 96/1
+group. As Yoichi Funabashi has shown, it is – at least in some issue-areas –
+possible to distribute costs between actors unequally. In his analysis of ex-
+change-rate management within the Group of 5 and the Group of 7, he
+pointed out that the distribution of intervention shares was a major source of
+political conflict. While in the first draft proposal of joint action the distribu-
+tion was 25% for the US, 25% for Japan and 50% for the EC, the compromise
+plan proposed a share of 30% each for the US and Japan and 40% for the EC
+(Funabashi 1988: 20). Incorporating these assumptions into our model while
+using the comparative sizes of 1985 from the Penn World Tables, we arrive at
+what resembles a prisoners’ dilemma with [F,F,F] as the unique Nash equi-
+librium. However, with joint action, all actors can receive a higher payoff
+both collectively and individually. The distribution of costs within the Euro-
+pean Community has involved smaller shares for Great Britain, France and
+the smaller countries than it has for Germany. It seems that Germany has
+found this distribution unfair and has thus not covered the cost in full. Hence
+it is hardly surprising that Germany has later been accused of free-riding by
+the US. The smooth cooperation of Japan, however, is not predicted by the
+model. The model predicts that Japan should be much more reluctant to lead
+than has actually happened. It is feasible, however, that the US coerced Japan
+to lead, since the economic imbalances between both countries made Japan
+vulnerable to political pressure.
+Concluding this section, we now summarize the implications of our model.
+The following hypotheses emerge from the preceding analysis:
+1.
+Increasing the cost c of producing the public good reduces the possibility
+for one single actor to act as a hegemon because this becomes too costly.
+Increasing the cost of producing the public good, in response to a world
+economic crisis for example, requires joint leadership even if the capabili-
+ties of the hegemon are sufficient to stabilize international regimes in
+normal situations.
+2.
+Decreasing the transaction costs cT of producing the public good increases
+the likelihood of the emergence of joint leadership. In our model it in-
+creases the number of Nash equilibria in which multiple leaders jointly
+provide the public good.
+3.
+The possibility of distributing production costs of a public good among
+multiple actors increases the likelihood of joint leadership even though
+the situation still resembles a coordination game and distributive conflict
+might prevent actors from reaching a joint-leadership equilibrium.
+
+--- Sayfa 27 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+27
+4.
+The number of actors participating in joint leadership depends predomi-
+nantly on the minimum requirement for their production. In addition, it
+is influenced by the shape of the transaction-cost function, cT in equation
+(3.1). If additional actors do not significantly increase the transaction costs
+of decision-making, the probability of tripartite leadership increases.
+Joint-leadership systems require an agreement between the members of a
+small or a ‘k-group’ on every political action which needs policy coordina-
+tion. Contrary to what is the case for a hegemonic system, different interests
+have to be taken into account. This not only increases transaction costs, but
+also makes agreement problematic even if actors agree that a coordinated
+solution is in the interest of all actors. Considerations of this kind have led
+Robert Keohane to distinguish between harmony and cooperation (Keohane
+1984: 51). While harmony refers to a situation in which the pursuit of self-
+interest by one actor contributes to the interest of all, cooperation requires
+that conflicting viewpoints and actions are brought into conformity:
+Cooperation therefore does not imply an absence of conflict. On the contrary,
+it is typically mixed with conflict and reflects partially successful efforts to
+overcome conflict, real or potential. Cooperation takes place only in situations
+in which actors perceive that their policies are actually or potentially in con-
+flict, not where there is harmony.  (Keohane 1984: 53–54)
+In other words, Keohane argues that cooperation is needed to overcome con-
+flict stemming from uncoordinated policies that lead to suboptimal outcomes
+for all actors. The situation Keohane has in mind and analyzes resembles a
+typical prisoners’ dilemma. Joint action can help the actors to achieve a better
+outcome if an institution is implemented. This allows for an easy observation
+of the noncooperative behavior of actors and helps to enforce rules.
+In a prisoners’ dilemma an agreement on mutual cooperation should be easy
+to negotiate, but the enforcement of the norms is difficult. This is the reason
+why a strong institutional setting, a dominant group of countries which seek
+to enforce the agreement, may help to create and stabilize international re-
+gimes (Martin 1993: 99). However, from this perspective it is quite unclear
+why a hegemon should unilaterally create and maintain international public
+goods. With the assistance of other main actors it would be easier to ensure
+rule compliance. A similar assumption holds for joint leadership exercised by
+a limited number of countries. We discuss this topic, based on the notion of
+transaction costs, in the following section. Returning to the assumption of
+equation (3.2) that coercive hegemony is possible, we analyze the structural
+requirements, which lead to such a constellation in one issue-area.
+
+--- Sayfa 28 ---
+28
+MPIFG Discussion Paper 96/1
+6
+Coercive and Benevolent Hegemony and Leadership
+The assumption that multiple actors join in the production of public goods
+partly contradicts the empirical findings of hegemonic eras as well as contem-
+porary world politics. The central decision-making body for international eco-
+nomic leadership is the world economic summit. This institution embodies
+the United States, Canada, Japan, Germany, France, Great Britain and Italy.
+Our model accounts for disagreement, since it assumes increasing transaction
+costs when the number of actors participating in the decision-making process
+increases. Furthermore, our model also encapsulates a second and more poli-
+tical notion of disagreement: in all cases in which more than one equilibrium
+leads to the provision of international public goods, we should expect politi-
+cal conflict over the proper way to produce it.
+The analysis of our model has led to the conclusion that the emergence of
+joint leadership yields multiple equilibria, implying that contemporary world
+politics does not resemble a prisoners’ dilemma but rather a coordination
+game emerging from an earlier battle-of-the-sexes game. In this case as well
+as in classical hegemonic constellations, actors can use power resources to cause
+other countries to participate in the production of international public goods.
+During the declining phase of US hegemony, the main source of conflict has
+been whether other countries, most notably European countries or Japan,
+should share the leadership role with the US. It had been possible for the US
+to force European countries and Japan to share the burdens of international
+leadership. In current world politics, the main source of disagreement is
+rather which two leaders should contribute to the provision of international
+public goods, or whether trilateral leadership is appropriate. The leaders can
+be selected ‘randomly’ or based on their interest in special issue-areas. Actors
+can also use power to change ‘natural’ leadership constellations. They can
+urge followers to participate in the production of an international public good.
+Pertaining to these issues, there is currently much ongoing debate regarding
+whether the leader acts benevolently or coercively. Beth and Robert Yar-
+brough (1992: 50), for example, state that the main source of disagreement
+within hegemonic stability theory stems from the extent of benevolence or
+exploitation (coercion) by the hegemon. The model in section 3 allows us to
+make a more succinct specification of whether the hegemon will act benevo-
+lently or coercively.10 If we assume that coercion is more costly than benevo-
+
+10
+See also James Morrow (1994a) for an integration of coercive and benevolent
+leadership. Note that our model differs from Morrow’s model, even though we
+agree that leaders need not be superior. We assume that they must have a
+
+--- Sayfa 29 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+29
+lence, the cost of coercion can then be considered as part of the hegemon’s
+transaction costs cThco=cT given in equation (3.1). We thus rewrite (3.1) so that
+(
+)
+c
+h
+l
+k h
+l
+for
+h
+l
+Thco(
+)
+,
++
+=
++ −
++ ≥
+12
+5
+1
+1
+(6.1)
+where the parameter k increases as the cost of coercion increases. We assume
+that the nature of hegemonic coercion of other actors, whether it is through
+providing positive incentives or negative sanctions, is such that the other ac-
+tors get a higher payoff from compliance than from non-compliance. The heg-
+emon will act benevolently if
+P H
+h
+l
+P H
+h
+l
+B
+C
+(
+/
+,
+)
+(
+/
+, )
+.
+=
+=
+>
+=
+1
+0
+1
+(6.2)
+Inserting (3.4) into (6.2) gives
+(
+)
+c
+H
+l c
+c
+l
+c
+sh
+Thco
+(
+/ , )
+(
+)
+.
+1
+1
++
++
+>
+(6.3)
+Inserting (6.1) into (6.3) for h=1 and resolving with regard to k gives that the
+hegemon will act benevolently if
+k
+c
+l
+c
+H
+l
+sh
+>
+−
+
+
+
+
+5
+12
+1
+1
+1
+(
+/ , )
+.
+(6.4)
+If (6.4) is not satisfied, the hegemon will coerce two other actors rather than
+one to lead if, analogously to (6.2) and (6.3),
+(
+)
+(
+)
+−
++
+> −
++
+c
+H
+c
+c
+c
+H
+c
+c
+sh
+Thco
+sh
+Thco
+(
+/ ,2)
+( )
+(
+/ , )
+( )
+.
+1
+3
+11
+2
+(6.5)
+Inserting (6.1) into (6.5) for h=1 and resolving with regard to k gives that the
+hegemon will coerce two other actors rather than one to lead if
+k
+c
+c
+H
+c
+H
+c
+H
+c
+H
+sh
+sh
+sh
+sh
+<
+−
+−
+
+
+
+
+5
+12
+11
+1
+2
+1
+11
+(
+/ , )
+(
+/ ,2)
+(
+/ ,2)
+(
+/ , )
+.
+(6.6)
+Let us assume c=4.2=21/5. Inserting the sharing rule (3.2) into (6.4) and (6.6)
+then implies that the hegemon will act benevolently if k>7/8 and will coerce
+the two other actors to lead if k<7/8. With a sharing rule csh(H/1,1)=2/3 (as
+before) and csh(H/1,2)=3/5, the hegemon will act benevolently if k>7/8, will
+coerce one other actor to lead if 7/32<k<7/8, and will coerce the two other
+actors to lead if k<7/32. With a sharing rule csh(H/1,1)=3/5 and
+csh(H/1,2)=1/2 (as before), the hegemon will act benevolently if k>7/6, will
+
+minimum size, which is determined by the cost of the public good. Therefore,
+actors can be leaders in one issue-area while they fail to lead in another.
+
+--- Sayfa 30 ---
+30
+MPIFG Discussion Paper 96/1
+coerce one other actor to lead if 7/16<k<7/6, and will coerce the two other
+actors to lead if k<7/16. A hegemon therefore acts unilaterally if it considers the
+costs of coercion higher than the possible contribution of followers. The probabil-
+ity of coercion increases the more costly an international public good is and the
+lower the transaction costs are.
+The question of benevolence versus coercion is also relevant in a situation of
+joint leadership where hegemony is absent. Benevolent leadership occurs if a
+couple or a group of actors can produce the public good without other possi-
+ble leaders since the institutional costs of rule enforcement exceed the en-
+forceable contribution of followers. Coercive leadership occurs if the cost of
+punishing defectors is outweighed by the contribution defectors make when
+they switch to cooperation. A case of coercive leadership is the multilateral
+exchange-rate management within the institutional setting of the world eco-
+nomic summit between the Plaza and the Louvre agreement (Funabashi
+1988).11
+7
+An Exhaustive Characterization of the Equilibrium Strategies
+This section provides an exhaustive characterization of all the possible equili-
+bria for the model in section 3: for four different costs c of producing the pub-
+lic good, that is c=4.2, c=4.8, c=6 and c=3.6, given transaction costs cT accor-
+ding to equation (3.1), that is given cT(2)=2.4 and cT(3)=4.8. The change we
+make in the assumption is to allow all three actors, the US, the EC and Japan,
+to choose between the three strategies of being a hegemon, a leader or a follo-
+wer. Both changes bring symmetry into the analysis and provide for a more
+timeless evaluation which is valid for any three actors, any of which may
+emerge as a future hegemon. We also assume for simplicity that
+us+ec+j=90=constant. A cost c=4.2 of producing the public good gives the
+equilibrium characterization in Fig. 7.1.
+Fig. 7.1 shows that one predominant actor, say the US, leads to the unique he-
+gemonic equilibrium HFF (simplified writing of [H,F,F]). (The analysis is
+symmetric and yields the unique hegemonic equilibrium FHF or FFH if the
+EC or Japan, respectively, is predominant.) As the predominance of the one
+actor decreases to (us,ec,j), where us<42=10c, HFF is no longer an equilib-
+rium. If the size j of Japan is close to zero and the size of the US is sufficiently
+
+11
+For a more general discussion of whether actors have the incentives to punish
+deviators to ensure cooperation or rule compliance, see Boyd and Richerson
+(1985, 1992).
+
+--- Sayfa 31 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+31
+larger than the EC beyond the minimum of us=10c=42, then LLF emerges as a
+second equilibrium, as illustrated by the trapezium in the upper left part. The
+reason is that the relative sizes of the EC and the US converge, resulting in the
+joint equilibria HFF and LLF. There are analogously two joint equilibria HFF
+and LFL when the size ec of the EC is close to zero, for us>42, as illustrated by
+the upper right trapezium. If the size j of Japan is close to zero and the size of
+the US is sufficiently larger than the EC beyond the minimum of us=42 and
+below the maximum of us=48, then FHF also emerges as a possible equilib-
+rium, as illustrated by the HFF/LLF/FHF triangle in the center left part. If
+the EC and Japan have comparable sizes and 24<us<42, there is a unique de-
+fection equilibrium FFF, as illustrated by the not entirely circumscribed tri-
+angle pointing down between us=42 and the point (24,33,33). The reason is
+that the three actors then have comparable sizes, no single actor being suffi-
+ciently large to act as a hegemon, and no two actors jointly being sufficiently
+large to engage in joint leadership. However, for 10(c+cT(2))/2=33<us<42, and
+the sizes of the EC and Japan being sufficiently unequal, say ec>j, there are
+two equilibria FFF and LLF, as illustrated by the parallelogram slightly to the
+left from the center (30,30,30). The reason is that the US and the EC are then
+both sufficiently large to provide joint leadership. If the sizes of the EC and
+Japan become more unequal, j approaching 0, given 33<us<42, FFF disap-
+HFF
+HFF
+LLF
+HFF
+LFL
+FFF
+LLF
+FFF
+LFL
+FHF
+LLF
+FFH
+LFL
+FFF
+FLL
+FHF
+FFH
+FHF
+FLL
+FFH
+FLL
+us
+(90,0,0)
+jap
+(0,0,90)
+ec
+(0,90,0)
+FFF
+    HFF
+1=LLF
+    FHF
+    HFF
+2=LFL
+    FFH
+    FHF
+3=FLL
+    FFH
+1
+2
+3
+Fig. 7.1  Equilibrium characterization for c=4.2
+
+--- Sayfa 32 ---
+32
+MPIFG Discussion Paper 96/1
+pears as an equilibrium and is substituted with FHF, as illustrated by the
+FHF/LLF trapezium on the left in Fig. 7.1.
+Increasing the cost c of producing the public good to c=4.8 gives the equilib-
+rium characterization in Fig. 7.2. Fig. 7.2 illustrates a more strict requirement
+for attaining a hegemonic equilibrium, viz that an actor has a size larger than
+10c=48, say HFF for us>48. The HFF/LLF trapezium in Fig. 7.1 has moved
+leftward and has been replaced by the tiny triangle far left in Fig. 7.2 for the
+size of the US being slightly larger than us=48 and the size of Japan being
+sufficiently close to j=0. The ‘downwardly’ directed triangle, giving the
+unique defection equilibrium FFF, will expand upward to us=48 and down-
+ward to the point (18,36,36). Further, the FFF/LLF parallelogram in Fig. 7.1
+has moved leftward and been replaced by the five-edged area to the left in
+Fig. 7.2. Finally, the small HFF/LLF/FHF area to the left in Fig. 7.1 surround-
+ing the point (45,45,0) has disappeared since hegemony is no longer possible
+when the size of an actor is less than 48.
+Note especially that Fig. 7.2 has fewer areas with multiple equilibria than Fig.
+7.1. We find that this is a general trend when the cost c of producing the pub-
+lic good increases. The reason is that the more strict requirement for hegem-
+HFF
+1=HFF
+    LLF
+3=HFF
+   LFL
+FFF
+LLF
+FFF
+LFL
+4=FFH
+    LFL
+FFF
+FLL
+FHF
+FFH
+6=FFH
+    FLL
+us
+(90,0,0)
+jap
+(0,0,90)
+ec
+(0,90,0)
+FFF
+5=FHF
+    LFL
+2=FHF
+    LLF
+1
+2
+3
+4
+5
+6
+Fig. 7.2  Equilibrium characterization for c=4.8
+
+--- Sayfa 33 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+33
+ony yields a smaller HFF area (if an actor is sufficiently large, which is less
+likely), a larger FFF area (if the actor sizes converge, which is more likely),
+and very few areas where joint leadership alone or combined with a hegem-
+ony or a follower strategy is possible (if two actors are comparably large and
+the third actor is small, which also is less likely).
+Increasing the cost c of producing the public good further to c=6 leads to the
+equilibrium characterization in Fig. 7.3. Fig. 7.3 illustrates a unique HFF
+equilibrium for us>10c=60. The ‘downwardly’ directed triangle from Fig. 7.2
+has increased in size and been replaced by what is virtually a hexagon sur-
+rounding the center in Fig. 7.3. Finally, the five-edged area to the left in Fig.
+7.2 has become smaller and been replaced by the tiny FFF/LLF triangle to the
+left in Fig. 7.1 surrounding the point (45,45,0).
+The decreasing number of areas with multiple equilibria is even more pro-
+nounced in Fig. 7.3 than in Fig. 7.2. For an increasing cost c of producing the
+public good, one either gets unique hegemony (if the strict requirement is
+met), a unique all-follower FFF scenario (if the strict requirement is not met),
+or an unlikely third FFF/LLF option if two actors (e.g. the US and the EC)
+HFF
+2=FFF
+   LFL
+3=FFF
+   FLL
+FHF
+FFH
+us
+(90,0,0)
+jap
+(0,0,90)
+ec
+(0,90,0)
+1=FFF
+   LLF
+FFF
+1
+2
+3
+Fig. 7.3  Equilibrium characterization for c=6
+
+--- Sayfa 34 ---
+34
+MPIFG Discussion Paper 96/1
+have sufficiently equal sizes and the third actor (e.g. Japan) has a size suffi-
+ciently close to zero.
+As the cost c of producing the public good increases beyond c=6, the
+FFF/LLF area (with the corresponding FFF/LFL and FFF/FLL areas) van-
+ishes, which happens at c=6.6 (since this gives 10(c+cT(2))/2=45). Further-
+more, the HFF area decreases and the FFF area increases. For c>9 the entire
+triangle gives a unique FFF equilibrium, which means that the cost of produc-
+ing the public good is too high. Decreasing the cost c of producing the public
+good to c=3.6 results in the equilibrium characterization in Fig. 7.4.
+Fig. 7.4 should be compared with Fig. 7.1 and the description thereafter. The
+HFF/LLF trapezium gets longer, the HFF/LLF/FHF triangle gets larger, the
+‘downwardly’ directed triangle around the center gets smaller and now ex-
+tends from us=36 and down to the center (30,30,30) (as 10(c+cT(2))/2=30), and
+the FFF/LLF parallelogram slightly up to the left moves toward the center
+(30,30,30) and impinges on it.
+As c decreases further, given 3<c<3.6, the two trapezia HFF/LLF and
+FHF/LLF (and their analogs) become narrower and gradually turn into paral-
+HFF
+HFF
+LLF
+HFF
+LFL
+FFH
+FHF
+LLF
+FFH
+LFL
+FHF
+FFH
+FFH
+FLL
+us
+(90,0,0)
+jap
+(0,0,90)
+ec
+(0,90,0)
+FFF
+HFF
+LLF
+FHF
+FHF
+FLL
+FFH
+FFF
+LLF
+FFF
+LFL
+FFF
+FLL
+FFF
+FFF
+HFF
+LFL
+FFH
+LFL
+Fig. 7.4  Equilibrium characterization for c=3.6
+
+--- Sayfa 35 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+35
+lelograms, the FFF/LLF parallelogram and the FFF triangle (and their ana-
+logs) gradually vanish, and the HFF/LLF/FHF triangle (and its analogs) be-
+comes larger and gradually turns into a trapezium. For c=3 hegemony is
+possible for all combinations of 0≤us,ec,j≤90, where us+ec+j=90. More specifi-
+cally, for c=3 the center ‘upwardly’ directed triangle stretching from
+us=10(c+cT(2))/2=27 to the point (36,27,27) consists of three sub-triangles and
+three sub-parallelograms. All these six areas allow for the three equilibria
+LLF, LFL, and FLL. Each sub-parallelogram also allows for one hegemonic
+option, the upper one e.g. for HFF. Each sub-triangle also allows for two heg-
+emonic options, the left one e.g. for HFF and FHF.
+As c decreases further to c=2.4, in which case 10c=10(c+cT(2))/2=24, the center
+triangle gradually increases in size to stretch from us=24 to the point
+(42,24,24) and gradually changes in content of equilibria to allow for all the
+six equilibria HFF, FHF, FFH, LLF, LFL, FLL. Simultaneously, the two paral-
+lelograms HFF/LLF and FHF/LLF (and their analogs) gradually vanish, be-
+ing replaced by the HFF/LLF/FHF trapezium (and its analogs), which is in-
+creasing in size. The area for each unique hegemonic equilibrium in each cor-
+ner, e.g. HFF close to the upper point (90,0,0), also gradually decreases in size.
+Decreasing the cost c of producing the public good to c=1.8 results in the
+equilibrium characterization in Fig. 7.5.
+Fig. 7.5 is noteworthy since unilateral production of public goods, for c>2.4, is
+less costly for a single actor than half the cost of bilateral joint production of
+public goods. This constellation appears if c is smaller than cT. Nevertheless,
+joint leadership remains a viable option when two actors are nearly equal in
+size.
+Decreasing c further to c=0 moves the us=10c=18 line in Fig. 7.5 gradually
+downwards to the us=10c=0 line, while the us=10(c+cT(2))/2=21 line in Fig.
+7.5 is moved gradually downwards to the us=10(c+cT(2))/2=12 line. As the
+reader can see, each of the three corner parallelograms allows for all the three
+hegemonic options HFF, FHF, and FFH. Further, the center triangle gets
+larger, spanned by the points (66,12,12), (12,66,12), and (12,12,66).
+Analyzing the triangles in political terms leads to the following conclusions.
+The way an international public good will be produced greatly depends on
+the costs which are necessary to produce it and on the relative size of the ac-
+tors. Observe that in the discussion from c=3.6 in Fig. 7.4, to c=3, then to
+c=2.4, then to c=1.8 in Fig. 7.5, and finally to c=0 in the previous paragraph,
+there is a gradual increase in the number of multiple equilibria in each of the
+various areas. The ‘cheaper’ an international public good is, the easier it is to
+
+--- Sayfa 36 ---
+36
+MPIFG Discussion Paper 96/1
+produce political solutions, but the higher is the political conflict resulting
+from the free-rider problem. This is the reverse effect, which is consistent
+with the trend described above that the number of areas with multiple
+equilibria decreases as the cost c of producing the public good increases. The
+reason is, conversely, that both the requirements for hegemony and joint
+leadership are now less strict, as well as that FFF is still an option if c>3 and
+the sizes of the three actors are sufficiently equal. In other words, for small
+costs c of producing the public good, there are many possible leadership con-
+stellations, viz hegemony (always possible given c<3), or joint leadership, or
+an all-follower situation (if no single actor is comparably large and c>3). Even
+if there was a hypothetical international public good that any country in the
+world was able to produce, it would still be possible for all countries to stay
+aside. Extremely expensive international public goods can only be provided
+by a hegemon. The problem stemming from joint leadership in regard to
+costly provision of the public good is that transaction costs exceed the gains
+from joint action.
+HFF
+HFF
+LLF
+FHF
+FHF    HFF
+FHF
+FFH
+FLL
+FHF
+FFH
+us
+(90,0,0)
+jap
+(0,0,90)
+ec
+(0,90,0)
+HFF
+FHF
+FFH
+LLF
+LFL
+FLL
+HFF
+FFH
+LFL
+FFH    HFF
+    HFF
+3=FHF
+    FFH
+    HFF
+2=FHF
+    FFH
+    HFF
+1=FHF
+    FFH
+HFF    FHF    FFH    FLL
+1
+2
+3
+Fig. 7.5  Equilibrium characterization for c=1.8
+
+--- Sayfa 37 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+37
+8
+Future Leadership Constellations and the Quest for International
+Order
+Any stylized model has its limitations. This model analyzes the problem of
+size in collective action. Its limitations mainly stem from the neglect of varia-
+tions in the cost of providing international public goods. In the case of global
+economic crises, for instance, the transaction costs needed to reach an agree-
+ment may decrease considerably. Having learned the lessons from the disas-
+trous economic consequences of the Great Depression in the 1930s, countries
+today may, when confronted with an economic threat of collapsing growth
+rates, increasing inflation and unemployment, more easily opt for joint lead-
+ership. On the other hand, the continuing integration of economic affairs
+leads to an increase in the price of policy changes. Our model allows for
+parametric changes of the cost c of producing public goods and transaction
+costs cT, but it does not treat these as variables; the only variable in our model
+is size.
+The strength of the model presented in this article is that it permits predic-
+tions of future leadership constellations in international political relations,
+given estimates of the sizes of the actors’ economies, that is any combination
+(us,ec,j). It is also possible to assume other actors than us, ec, and j, and it is of
+course possible to increase the complexity of the model to four or more than
+four actors, although this will complicate the analysis.
+Predictions are necessarily speculative though not without precedent (Ken-
+nedy 1987; Gilpin 1987; Thurow 1992). In this concluding section we discuss
+the relationship between actor size and the costs of providing an international
+public good. We have assumed (us,ec,j)=(50,35,5) in 1960, (us,ec,j)=(40,35,15)
+in 1975, and we may assume (us,ec,j)=(38,35,18) in 1995. The relative sizes in
+1975 and 1995 are sufficiently similar so as to give no changes in the Nash
+equilibria. With the possible further size convergence of the three actors we
+may assume (us,ec,j)=(35,30,25), which would lead to a significant increase in
+the degree of conflict about leadership. Future development may lead to the
+emergence of a ‘Pacific bloc’, pac, agreed upon either by the ASEAN and Ja-
+pan, by the APEC, or by an other institutional form. Let us assume
+(us,ec,pac)=(25,25,25), which leads to the game in Table 8.1.
+The game in Table 8.1 resembles a three-person prisoners’ dilemma. Everyone
+would benefit and receive a positive payoff 0.1 from LLL. However, each ac-
+tor has an incentive to deviate unilaterally to F to receive the free-rider payoff
+2.5. If everyone deviates to F, however, the unique mutual-defection equilib-
+rium FFF ensues.
+
+--- Sayfa 38 ---
+38
+MPIFG Discussion Paper 96/1
+EC
+EC
+F
+L
+F
+L
+F
+0
+0
+0
+0 –2.4
+0
+F
+0
+0 –2.4
+2.5 –0.5 –0.5
+US
+L
+–2.4
+0
+0 –0.5 –0.5
+2.5
+L
+–0.5
+2.5 –0.5
+0.1
+0.1
+0.1
+‘Pacific bloc’ follows
+‘Pacific bloc’ leads
+Table 8.1  Prediction of a future game with c=4.8
+With size convergence and a cost c=4.8 of producing the public good, the
+challenge in international relations is thus to overcome the logic of the pris-
+oners’ dilemma. This can be done if the actors can mutually agree to reduce
+the cost c of producing the public good. Table 8.2 shows the game when c=3.
+EC
+EC
+F
+L
+F
+L
+F
+0
+0
+0
+0 –3.0
+0
+F
+0
+0 –3.0
+2.5
+0.4
+0.4
+US
+L
+–3.0
+0
+0
+0.4
+0.4
+2.5
+L
+0.4
+2.5
+0.4
+0.7
+0.7
+0.7
+‘Pacific bloc’ follows
+‘Pacific bloc’ leads
+Table 8.2  Prediction of a future game with c=3
+Table 8.2 illustrates four equilibria, LLF, LFL, FLL and FFF, the former three
+providing the public good. Hence, a low cost c allows for producing the pub-
+lic good since two actors then have an incentive to lead. The game for the
+low-cost public good, therefore, does not resemble a prisoners’ dilemma, but
+rather a coordination game.
+Table 8.2 illustrates the second-order problem of future leadership constella-
+tions. All the three actors have a first-mover advantage of committing not to
+lead, illustrated by the first-mover receiving 2.5 rather than 0.4. Hence, al-
+though the actors may possibly be capable of avoiding the mutual defection
+equilibrium FFF, there is conflict regarding which actor constellation should
+provide the public good, which may easily lead to an ‘undersupply’ of joint-
+leadership activity.
+Although the model used in this article has shown a multiplicity of equilibria
+allowing for hegemonic or joint leadership, the all-follower FFF equilibrium
+is also a prevalent option for c>3. Comparable to a hegemonic era where in-
+ternational public goods are produced with a high degree of certainty, our
+
+--- Sayfa 39 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+39
+model predicts an increasing likelihood of international public goods not be-
+ing produced if the sizes of the various actors converge. Thus, the most sali-
+ent problem of contemporary and future world politics seems not to be heg-
+emonic decline but rather the emergence and existence of multiple joint-
+leadership equilibria. If multiple constellations of joint leaders are able to
+produce international public goods, the increasing number of available
+strategies for each actor easily leads to situations where international public
+goods turn out not to be producible. That is, the probability increases that the
+actors find themselves in a deadlock. The possibility of agreeing upon tripar-
+tite leadership does not necessarily resolve the deadlock, both because that
+leads to rising transaction costs and because one actor will have an incentive
+to free-ride in the sense of not contributing to the production of the public
+goods.
+It is typically the case that expensive public goods are much more likely to be
+provided by a hegemon than by a group of leaders. This is illustrated, for ex-
+ample, by Fig. 7.3, which suggests that international public goods will be
+provided with probability one if the size of an actor is larger than 60 (e.g. the
+HFF area), whereas both the all-follower FFF and the joint leadership LLF
+options are realizable equilibria if the US and the EC are equally large and
+Japan is very small in size, say (us,ec,j)=(45,45,0).
+Furthermore, given hegemonic decline and the emergence of joint leadership,
+the probability increases that the largest actor may be too small to provide
+costly international public goods unilaterally, while the followers are too
+small to join in the production. This is illustrated by the center portion of Fig.
+7.4. This is a plausible constellation if the second- and third-ranked actors are
+almost equal in size. The increasing difficulty in producing expensive public
+goods may lead to a situation where the actors become less likely to agree
+upon the establishment of international regimes which are broad in scope.
+One should expect, therefore, that the international regimes agreed upon by
+countries in the foreseeable future are more limited or sectorial in scope.
+Most important, however, the article shows that ‘after hegemony’ interna-
+tional regimes can be established, and international stability and openness can
+be provided. A joint-leadership system does not lead to anarchy and chaos,
+but it does require more cooperation among countries. However, a joint-
+leadership system leads to a different international order than the hegemonic
+system we have been accustomed to over the last half century.
+
+--- Sayfa 40 ---
+40
+MPIFG Discussion Paper 96/1
+Appendix: The Relative Size of OECD Actors
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+USA (49.7%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+Canada (3.3%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+Japan (4.5%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+France (6.3%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Germany (6.4%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+Italy (4.8%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+UK (10.2%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+Rest-OECD (15.0%)
+1950
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+USA (47.7%)
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+Canada (3.2%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+Japan (5.5%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+France (6.1%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Germany (8.0%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+Italy (5.1%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+UK (9.4%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+Rest-OECD (15.0%)
+1955
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+USA (44.3%)
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+Canada (3.2%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+Japan (6.9%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+France (6.6%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Germany (9.0%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+Italy (5.7%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+UK (8.9%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+Rest-OECD (15.4%)
+1960
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+USA (43.2%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+Canada (3.3%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+Japan (8.5%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+France (6.8%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Germany (8.9%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+Italy (5.7%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+UK (8.0%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+Rest-OECD (15.7%)
+1965
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+USA (40.2%)
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Canada (3.3%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+Japan (11.5%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+France (7.1%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Germany (8.6%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+Italy (6.2%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+UK (7.2%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+Rest-OECD (16.0%)
+1970
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+USA (38.8%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Canada (3.7%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+Japan (12.3%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+France (7.1%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Germany (8.2%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+Italy (6.0%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+UK (6.9%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+Rest-OECD (17.0%)
+1975
+
+--- Sayfa 41 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+41
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+USA (38.8%)
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+Canada (3.8%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+Japan (13.1%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+France (7.1%)
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+Germany (8.2%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+Italy (6.5%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+UK (6.4%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+Rest-OECD (16.2%)
+1980
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+USA (39.4%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+Canada (3.9%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+Japan (14.1%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+France (6.7%)
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+Germany (7.6%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+Italy (6.1%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+UK (6.3%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+Rest-OECD (15.9%)
+1985
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+USA (38.2%)
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+Canada (3.8%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Japan (15.0%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+France (6.7%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+Germany (7.7%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+Italy (6.1%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AA
+AA
+AA
+AA
+AA
+AA
+AA
+UK (6.4%)
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+Rest-OECD (16.2%)
+1990
+
+--- Sayfa 42 ---
+42
+MPIFG Discussion Paper 96/1
+References
+Alt, James E./Randell L. Calvert/Brian D. Humes, 1988: Reputation and Hegemonic
+Stability: A Game-Theoretic Analysis. In: American Political Science Review 82, 445–
+466.
+Aron, Raymond, 1962: Peace and War: A Theory of International Relations. Garden City:
+Doubleday.
+Axelrod, Robert, 1984: The Evolution of Cooperation. New York: Basic Books.
+Brams, Stephen J., 1975: Game Theory and Politics. New York: Macmillan.
+Boyd, Robert/Peter J. Richerson, 1985: Culture and the Evolutionary Process. Chicago:
+University of Chicago Press.
+Boyd, Robert/Peter J. Richerson, 1992: Punishment Allows the Evolution of Coop-
+eration (or Anything Else) in Sizable Groups. In: Ethology and Sociobiology 13, 171–
+195.
+Carr, Edward H., 1946: The Twenty Years’ Crisis. London: St. Martin’s Press.
+Colomer, J.M., 1995: Leadership Games in Collective Action. In: Rationality and Soci-
+ety 7, 225–246.
+Conybeare, John A.C., 1984: Public Goods, Prisoners’ Dilemmas and the Internatio-
+nal Political Economy. In: International Studies Quarterly 28, 5–22.
+Frey, Bruno, 1984: The Public Choice View of International Political Economy. In:
+International Organization 38, 199–223.
+Funabashi, Yoichi, 1988: Managing the Dollar: From the Plaza to the Louvre. Washing-
+ton: Institute for International Economics.
+Gilpin, Robert, 1987: The Political Economy of International Relations. Princeton: Prince-
+ton University Press.
+Grieco, Joseph M., 1990: Cooperation among Nations. Ithaca: Cornell University Press.
+Gowa, Joanne, 1989: Rational Hegemons, Excludable Goods, and Small Groups. In:
+World Politics 41, 307–324.
+Hardin, Russell, 1982: Collective Action. Baltimore: Johns Hopkins University Press.
+Kennedy, Paul, 1987: The Rise and Decline of Great Powers: Economic Change and Mili-
+tary Conflict from 1500–2000. New York: Random House.
+Keohane, Robert O., 1980: The Theory of Hegemonic Stability and Changes in Inter-
+national Economic Regimes, 1967–1977. In: Ole Holsti et al. (eds.), Change in the
+International System. Boulder, CO: Westview Press, 131–162.
+Keohane, Robert O., 1984: After Hegemony: Cooperation and Discord in the World Politi-
+cal Economy. Princeton: Princeton University Press.
+Keohane, Robert O./Joseph Nye, 1977: Power and Interdependence. Boston: Little,
+Brown.
+Kindleberger, Charles P., 1973: The World in Depression, 1929–39. Berkeley: University
+of California Press.
+Kindleberger, Charles P., 1976: Systems of International Economic Organization. In:
+David P. Calleo (ed.), Money and the Coming World Order. New York: New York
+University Press, 15–39.
+
+--- Sayfa 43 ---
+Hausken, Plümper: Hegemons, Leaders and Followers
+43
+Kindleberger, Charles P., 1981: Dominance and Leadership in the International
+Economy: Exploitation, Public Goods, and Free-Rides. In: International Studies
+Quarterly 25, 242–254.
+Kindleberger, Charles P., 1986: International Public Goods without International
+Government. In: American Economic Review 76, 1–13.
+Krasner, Stephen D., 1976: State Power and the Structure of International Trade. In:
+World Politics 28, 317–345.
+Lake, David A., 1984: Beneath the Commerce of Nations: A Theory of International
+Economic Structures. In: International Studies Quarterly 28, 143–170.
+Lake, David A., 1993: Leadership, Hegemony, and the International Economy: Na-
+ked Emperor or Tattered Monarch with Potential. In: International Studies Quar-
+terly 37, 459–489.
+Martin, Lisa L., 1993: The Rational State Choice of Multilateralism. In: John Gerard
+Ruggie (ed.), Multilateralism Matters. The Theory and Praxis of an Institutional Form.
+New York: Columbia University Press, 91–121.
+McKeown, Timothy J., 1983: Hegemonic Stability Theory and 19th Century Tariff
+Levels in Europe. In: International Organization 37, 73–91.
+Milner, Helen, 1992: International Theories of Cooperation among Nations: Strengths
+and Weaknesses. In: World Politics 44, 466–496.
+Morgenthau, Hans J., 1948/1973: Politics among Nations. New York: Knopf.
+Morrow, James D., 1994a: Modeling the Forms of International Cooperation: Distri-
+bution versus Information. In: International Organization 48, 387–423.
+Morrow, James D., 1994b: Game Theory for for Political Scientists. Princeton: Princeton
+University Press.
+Olson, Mancur, 1965/1971: The Logic of Collective Action: Public Goods and the Theory of
+Groups. Cambridge, MA: Harvard University Press.
+Olson, Mancur/Richard Zeckhauser, 1966: An Economic Theory of Alliances. In:
+Review of Economics and Statistics 48, 266–279.
+Oye, Kenneth A., 1985: Explaining Cooperation under Anarchy: Strategies and Insti-
+tutions. In: World Politics 38, 1–24.
+Ruggie, John G., 1982: International Regimes, Transactions, and Change: Embedded
+Liberalism in the Postwar Economic Order. In: International Organization 36, 379–
+415.
+Russett, Bruce, 1987: The Mysterious Case of Vanishing Hegemony: Or, Is Mark
+Twain Really Dead? In: International Organization 39, 207–231.
+Scharpf, Fritz W., 1991: Games Real Actors Could Play: The Challenge of Complex-
+ity. In: Journal of Theoretical Politics 3, 277–304.
+Scharpf, Fritz W./Matthias Mohr, 1994: Efficient Self-Coordination in Policy Networks:
+A Simulation Study. MPIFG Discussion Paper 94/1. Köln: Max-Planck-Institut für
+Gesellschaftsforschung.
+Schelling, Thomas C., 1960: Strategy of Conflict. Cambridge, MA: Harvard University
+Press.
+Snidal, Duncan, 1985a: The Limits of Hegemonic Stability Theory. In: International
+Organization 39, 579–603.
+
+--- Sayfa 44 ---
+44
+MPIFG Discussion Paper 96/1
+Snidal, Duncan, 1985b: The Game Theory of International Politics. In: World Politics
+38, 25–57.
+Stein, Arthur A., 1984: The Hegemon’s Dilemma: Great Britain, the United States,
+and the International Economic Order. In: International Organization 38, 355–386.
+Strange, Susan, 1987: The Persistent Myth of Lost Hegemony. In: International Orga-
+nization 41, 551–574.
+Summers, Robert/Alan Heston, 1991: The Penn World Table (Mark 5): An Expanded
+Set of International Comparisons, 1950–1988. In: Quarterly Journal of Economics
+106, 327–368.
+Taylor, Michael, 1976: Anarchy and Cooperation. London: Wiley.
+Thurow, Lester, 1992: Head to Head: The Coming Economic Battle among Japan, Europe,
+and America, London: Nicholas Brealy.
+Tsebelis, George, 1990: Nested Games: Rational Choice in Comparative Politics. Berkeley:
+University of California Press.
+Wallerstein, Immanuel, 1980: The Modern World-System II: Mercantilism and the Con-
+solidation of the European World-Economy, 1600–1750. New York: Academic Press.
+Waltz, Kenneth N., 1979: Theory of International Politics. New York: McGraw-Hill.
+Yarbrough, Beth V./ Robert M. Yarbrough, 1992: Cooperation and Governance in Inter-
+national Trade: The Strategic Organizational Approach. Princeton: Princeton Uni-
+versity Press.

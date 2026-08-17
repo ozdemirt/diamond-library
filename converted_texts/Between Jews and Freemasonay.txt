@@ -1,0 +1,2451 @@
+--- Sayfa 1 ---
+University of Pennsylvania
+University of Pennsylvania
+ScholarlyCommons
+ScholarlyCommons
+CUREJ - College Undergraduate Research
+Electronic Journal
+College of Arts and Sciences
+3-19-2014
+“Men of Honour and Honesty”: Connections Between Jews and
+“Men of Honour and Honesty”: Connections Between Jews and
+Freemasons in Early America
+Freemasons in Early America
+Sara A. Zimmerman
+University of Pennsylvania, sa@saraz.net
+Follow this and additional works at: https://repository.upenn.edu/curej
+ Part of the American Studies Commons, Jewish Studies Commons, Social History Commons, and the
+United States History Commons
+Recommended Citation
+Recommended Citation
+Zimmerman, Sara A., "“Men of Honour and Honesty”: Connections Between Jews and
+Freemasons in Early America" 19 March 2014. CUREJ: College Undergraduate Research
+Electronic Journal, University of Pennsylvania, https://repository.upenn.edu/curej/186.
+This paper is posted at ScholarlyCommons. https://repository.upenn.edu/curej/186
+For more information, please contact repository@pobox.upenn.edu.
+
+--- Sayfa 2 ---
+“Men of Honour and Honesty”: Connections Between Jews and Freemasons in
+“Men of Honour and Honesty”: Connections Between Jews and Freemasons in
+Early America
+Early America
+Abstract
+Abstract
+This paper is an exploration of the intersections between the Jewish community and Freemasons in early
+American history, largely during the eighteenth century. Most people don’t even realize that there were
+Jews in America at this point, let alone that many of them were important enough in their community to
+merit membership in an elite organization like the Freemasons. This paper tries to understand the overlap
+between these two groups by using an increasingly narrow examination of the Masonic organization.
+Ultimately, my findings can be summarized by this line from my paper: “although it sounds surprising that
+many of the early Jews in America were Masons, upon further investigation, it would be more surprising if
+they weren't.”
+Keywords
+Keywords
+Jews, Freemasons, eighteenth century, history, america, King David's Lodge, Sublime Lodge of Perfection,
+Isaac da Costa, Moses Michael Hays, Solomon Bush, Humanities, Michael Zuckerman, Zuckerman,
+Michael, Mike Zuckerman
+Disciplines
+Disciplines
+American Studies | History | Jewish Studies | Social History | United States History
+This article is available at ScholarlyCommons: https://repository.upenn.edu/curej/186
+
+--- Sayfa 3 ---
+“MEN OF HONOUR AND HONESTY”:
+CONNECTIONS BETWEEN JEWS AND FREEMASONS IN EARLY AMERICA
+
+Sara Arielle Zimmerman
+
+AN HONORS THESIS
+
+in
+
+History
+
+Presented to the Faculty of the
+Department of History of the University of Pennsylvania
+in Partial Fulfillment of the Requirements for the Degree of
+Bachelor of Arts with Honors
+
+2014
+
+Dr. Thomas Max Safley, Honors Seminar Director
+
+Dr. Beth S. Wenger and Dr. Michael W. Zuckerman, Thesis Advisors
+
+_______________________________
+Dr. Thomas Max Safley
+Undergraduate Chair, Department of History
+
+--- Sayfa 4 ---
+ii
+
+“A Mason is oblig’d, by his Tenure, to obey the moral Law; and if he rightly understands
+the Art, he will never be a stupid Atheist, nor an irreligious Libertine”
+--James Anderson, The Constitutions of the Free-Masons
+
+--- Sayfa 5 ---
+iii
+
+Acknowledgments
+It may seem odd for a mere Honors Thesis to have an acknowledgments page, but
+I believe that, particularly in my case, it is necessary. This experience has not been an
+easy or simple process and it would not have been possible without a number of people
+who deserve to be acknowledged as part of it.
+First, I would like to acknowledge the University Scholars program and the
+History Department for inspiring and funding my research during my time here at Penn.
+Both of these groups have allowed me to learn so much about the research process and
+have given me opportunities that have proven invaluable.
+Secondly, this project would not have been possible without my Advisors, Dr.
+Beth S. Wenger and Dr. Michael W. Zuckerman, and my Honors Professor, Dr. Thomas
+Max Safley. Together they helped me to narrow down and settle on a topic and they
+calmed me down every time that I freaked out or felt like I couldn’t do it. Also, their
+knowledge of sources, people, and the research process in general have been a guiding
+light for me.  I will be forever grateful to have had the opportunity to work with and learn
+from these incredible academics. Included in this group are my classmates whose
+questions informed my research methods and whose advice was always helpful. They are
+such an incredible and intelligent group of people and their research and dedication was a
+constant inspiration to do better.
+In addition, I cannot forget the libraries and organizations that provided the
+materials and resources without which this project would, literally, never have come to
+fruition. These are the Center for Jewish History, the University of Pennsylvania
+libraries, particularly the Herbert D. Katz Center for Advanced Judaic Studies, and the
+
+--- Sayfa 6 ---
+iv
+
+Grand Lodges of the Freemasons. These organizations, as well as others, have amazing
+collections of primary and secondary sources which have proven invaluable to my
+research.  Specifically, I would like to thank Nick Okrent, Jim Green, Jessica Roney,
+Margaret Jacob, and Glenys Waldman, although there are many other people who
+assisted me and responded to my requests for help.
+Finally, last but certainly not least, I have to thank my parents, John Zimmerman
+and Martha Kramer, my sister, Julia Zimmerman, and my roommate, Rachel Zurier, who
+have provided moral support for me throughout this process. Rachel was there whenever
+I needed to talk and helped me through many of the crises that I experienced.  My parents
+and sister have always been supportive of me and were there whenever I needed to talk,
+whether it was excitement about something that I found, a crisis about not finding things,
+or just talking through the information that I had. My parents have always given me such
+good advice and have served as inspirations for me for my entire life, and this project was
+no different. This, my first significant work, is dedicated to my family.
+
+--- Sayfa 7 ---
+v
+
+Table of Contents
+
+Introduction........................................................................................................................1
+1: Masonic Symbols and Judaism..................................................................................14
+Star of David/Seal of Solomon
+King Solomon's Temple
+Biblical Figures
+Symbolic Significance for Jews
+2: Judaism Within Masonic Lodges...............................................................................28
+Significance of Lodge Interactions for Jews
+Formation of “Jewish Lodges”
+Jews and Lodges in America
+3: American Jewish Freemasons....................................................................................45
+Moses Michael Hays
+Solomon Bush
+Isaac da Costa
+Jewish Freemasons
+Conclusion........................................................................................................................62
+Bibliography.....................................................................................................................70
+
+--- Sayfa 8 ---
+1
+
+Introduction
+Many people are not aware that there were Jews in Colonial America, let alone
+among the ranks of Freemasons. This is unsurprising as, by the time of the Revolution,
+the Jewish population numbered about 2,500 across the colonies, only about one tenth of
+one percent of the population.1 In the federal period, this number dropped to about 1,500
+due to a combination of migration back to Europe or to the West Indies, and conversion
+and intermarriage.2 However, despite being a small population, the Jews were a
+significant one.  Jews were some of the most prominent members of their society.  Most
+of them were middle class shopkeepers and merchants, and some were even rich by
+eighteenth century standards.
+In 1772, the height of Newport, Rhode Island’s commercial peak, nearly all of the
+Jewish heads of household ranked among the top 135 tax payers, out of about 1200 total.
+Aaron Lopez, a Jew, paid twice the tax of anyone else at £37 11s. 10d., his Father-in-
+Law, Jacob Rodrigues Rivera, ranked fifth on the list, and Moses Levy ranked 22nd.3  In
+addition to monetary wealth, Jews also owned large amounts of land.  In 1769, David
+Franks was the 13th largest landowner in Philadelphia with 235 acres of land,4 and in
+1773 Francis Salvador was the largest landowner in his district in South Carolina.  As a
+result of this, Salvador became one of two representatives to the provincial congress and
+served in the state’s first general assembly, despite the fact that Jews couldn’t hold office
+
+1 Jonathan D. Sarna, "The Impact of the American Revolution on American Jews," in The American Jewish
+Experience, ed. Jonathan D. Sarna (New York: Holmes & Meier, 1997), 20.
+2 Oscar Reiss, The Jews in Colonial America (Jefferson, North Carolina: McFarland & Company, Inc.,
+Publishers, 2004), 1.
+3 William Pencak, Jews & Gentiles in Early America, 1654-1800 (Ann Arbor, Michigan: The University of
+Michigan Press, 2005), 5.
+4 "Proprietary Tax of the City of Philadelphia—1769," Pennsylvania Archives: Third Series, Edited by
+William Henry Egle (Harrisburg, Pennsylvania: Wm. Stanley Ray, State Printer, 1897), 14:151-220.
+
+--- Sayfa 9 ---
+2
+
+or vote.5  Whether monetary or proprietary, Jews had tremendous assets in society which
+forced people to pay attention and respect them.  “There were very few Jews who did not
+enjoy a degree of comfort; most of them made a ‘good living’ and survived
+economically, though severe business reverses were by no means uncommon among
+them at some time or other”.6  It was this overwhelming majority of middle and upper
+class Jews that led to a significant Jewish presence in the fraternity of the Freemasons.
+Unlike other fraternal organizations that categorically denied Jewish membership,
+the Freemasons were tolerant of multiple religions. However, this did not mean that they
+were an entirely accepting organization. Freemasonry, especially during the Colonial Era,
+was almost exclusively for men of rank: the urban elites.7 It was the economic success of
+Jews in America that made them eligible for membership among the Freemasons, and
+they took advantage of this opportunity. Many of them even became officers and helped
+to spread Masonry throughout the colonies. In addition, while not all people in early
+America were accepting of Jews, and some anti-Semitism does appear, the elites of the
+major cities where Jews lived (Newport, New York, Philadelphia, Charleston, and
+Savannah) tended to be philo-semitic, or appreciative of the Jewish religion.8 This
+combination of Jewish elites and the elites’ interest in Judaism created a confluence of
+events that led to the acceptance of Jews among the Freemasons, as evidenced by the
+early membership records.
+
+5 Pencak, Jews & Gentiles in Early America, 1654-1800, 124.
+6 Jacob R. Marcus, "The American Colonial Jew: A Study in Acculturation," in The American Jewish
+Experience, ed. Jonathan D. Sarna (New York: Holmes & Meier, 1997), 9.
+7 Steven C. Bullock, Revolutionary Brotherhood: Freemasonry and the Transformation of the American
+Social Order, 1730-1840 (Chapel Hill, North Carolina: University of North Carolina Press, 1996), 51.
+8 Pencak, Jews & Gentiles in Early America, 1654-1800, 5.
+
+--- Sayfa 10 ---
+3
+
+This thesis will endeavor to look at the relationship between Jews and Freemasons
+in the eighteenth and early nineteenth centuries. It follows an increasingly narrow
+structure, observing and analyzing the Masonic organization at a number of levels and its
+intersection with Judaism. Chapter One is a discussion of Masonic symbols and how they
+overlap with Judaism and Jewish symbolism. The purpose of this is to understand what,
+on a fundamental level, might have been an attraction for Jews to Masonry or, at the very
+least, why they were not deterred from joining. Chapter Two is an examination of
+Masonic lodges and how both the structure of the lodge and its setting, may have
+facilitated Jewish involvement. Chapter Three looks at specific Jewish Masons to see
+how their involvement in the Jewish community interacted with their Masonic
+involvement, whether the two were related, and what their experience was.
+It is important to note that, in my research, I have been unable to find another
+source that does the same thing that I am attempting to do or that asks the same questions.
+My research draws on work done by both Jewish-American historians and Masonic
+historians to, I hope, create a work that reconciles both sides and provides some clarity on
+the little-known connection between Jews and Masons. Within the secondary literature,
+the most similar work that I could find is the article entitled “The Jews and Masonry in
+the United States before 1810” by Samuel Oppenheim, published in the American Jewish
+Historical Quarterly in 1910. However, this source and my own work are fundamentally
+different. Oppenheim seeks to discuss the various Jews involved in Masonry in each
+colony and what their roles were, while only one of my chapters has similar goals.
+Instead, my view is more holistic, trying to understand the phenomenon of American
+Jewish Masonry at several levels rather than documenting its occurrence. This is not
+
+--- Sayfa 11 ---
+4
+
+meant to be disparaging. In fact, Oppenheim's work was extremely useful to me and was
+mentioned by several of the other Masonic historians that I reference throughout this
+thesis. This comparison is only meant to show how different my project is from its most
+closely related work. The rest of the secondary literature tends to focus on either Jewish
+American history or Masonic history. While these two groups of historians may
+occasionally mention the other group, their primary focus is either the Jews or the
+Masons, not both.
+In regard to primary sources, there were relatively few relevant materials. While
+there were Jews with surviving Masonic correspondence, very little of it differed from
+any other type of correspondence and none of the documents that I found mentioned their
+religion at all. Within Masonic sources, because the Freemasons were a non-religious
+organization, religion of any sort was rarely mentioned. Therefore, the useful primary
+sources that I was able to find are highly varied. Some are speeches, some are
+administrative documents, and some are images, but none are in abundance. However,
+after searching a variety of libraries and archives, I am confident that I have done due
+diligence. Still, it is important to establish from the beginning that, because of the relative
+dearth of sources, much of this thesis is speculative. I use my knowledge of Masonry and
+my knowledge of early Jewish American history to hypothesize about why certain things
+may have (or may not have) happened and to theorize about the relationships between
+Judaism and Masonry during the time. It is the historian's job to work with what material
+survives to help us understand, to the best of our abilities, what happened in the past, and
+I am confident that this thesis fulfills that definition.
+
+--- Sayfa 12 ---
+5
+
+However, before we begin our discussion of the connections between Jews and
+Masons, it is important to understand the history of Jews and Masons in America
+individually and who the prototypical Jew and Mason were. This will help us to examine
+what the relationship between the two groups was and why we might think of them as
+incompatible.
+Interestingly, the story of Jews in America is linked to the discovery of America
+by Christopher Columbus. On March 31, 1492, the Edict of Expulsion was published
+which gave Jews until the end of July to leave Spain. As part of this treaty, Jews were
+allowed to bring all of their belongings except “gold or silver or coined money”.9 It is no
+coincidence that Columbus's first voyage left in early August, right after all Jews were
+supposed to have left; it is largely thought that the money that Jews were required to
+leave behind went, in part, to funding Columbus's journey.
+The three hundred thousand Jews who were living in Spain in 149210 spread out
+across Europe with most going east, but some going west to Portugal and some going
+north to Holland. Jews were soon expelled or forcibly converted in Portugal and the
+secret Jews, or Marranos as they are often called, were sent to Brazil with criminals when
+the Portuguese had trouble finding colonists for their new lands. Meanwhile, in Holland,
+Jews were not given full rights, but were allowed to practice their religion freely, and set
+up successful merchant and trading companies with the connections that they had made
+throughout their history of expulsion.11 This helped make Amsterdam one of the
+wealthiest cities of the seventeenth century; when the Dutch West Indies Company
+
+9 Edward Peters, “The Edict of Expulsion of the Jews,” Foundation for the Advancement of Sephardic
+Studies and Culture, accessed August 22, 2013, http://www.sephardicstudies.org/decree.html.
+10 Harry L. Golden and Martin Rywell, Jews in American History: Their Contribution To The United States,
+1492-1950 (Charlotte, North Carolina: H.A. Stalls Printing Company, 1950), 5.
+11Ibid., 10.
+
+--- Sayfa 13 ---
+6
+
+formed in 1621, Amsterdam Jews flocked to it, eventually representing ten percent of its
+wealth.12
+Holland's official policy of religious toleration encouraged the Marranos who had
+settled in Brazil to help the Dutch conquer. By 1631, the Dutch had captured Recife, the
+capitol of Portuguese Brazil.13 Many of the Marranos converted back to Judaism, and
+Jews came from all over Europe to move to the newly Dutch Brazil. However, by 1654,
+Brazil had been retaken by the Portuguese, and the Jews were forced to flee.14 Many went
+back to Holland, but a group of twenty three fled from Recife to the Dutch colony of New
+Amsterdam, arriving in September of 1654 aboard the ship Sainte Catherine.15 This
+group, the Recife Jews, became the first Jewish community in what would become the
+American colonies.
+Although it is believed that this group quickly dispersed, in many ways, they were
+indicators of who the early American Jews would be.  Today, most American Jews are
+Ashkenazi, meaning that they came from Central and Eastern Europe.  However, this first
+wave of Jewish migration to America is often categorized as Sephardic, meaning that
+they came from the Mediterranean area.  Although these groups are defined by ethnicity,
+they are also differentiated by variances in religious practice.16 By the late eighteenth
+century, the Ashkenazim were starting to outnumber the Sephardim in certain areas, the
+practices of the existing synagogues remained overwhelmingly Sephardic.  The Recife
+
+12 Golden and Rywell, Jews in American History, 11
+13 Ibid., 10-1.
+14 Ibid., 12.
+15 Hasia R. Diner, The Jews of the United States, 1654 to 2000 (Los Angeles: University of California Press,
+2004), 13.
+16 For example, today an Ashkenazi Jew might not eat rice on Passover because, when you cook it, it
+absorbs water and “rises”. However, because rice is integral to the diet of many Sephardic Jews, they
+continue to eat rice and have their own standards for what is Kosher for Passover.
+
+--- Sayfa 14 ---
+7
+
+Jews were Sephardic and, as the first Jewish community in America, had brought their
+customs with them. While they were not responsible for the spread of Sephardic Judaism
+throughout the colonies, they were indicative of the type of Jews who came to the
+colonies.
+In addition, the Jews who arrived in America tended to be wealthy and well
+connected. Through their many expulsions and the financial jobs that they were often
+legally limited to in Europe, Jews had accrued a number of contacts across European
+countries which gave them an advantage in business and trade. That is why many of them
+became merchants and shopkeepers when they came to America and why they were
+concentrated in port cities. These professions tended to place people in the middle and
+upper classes, thus, the Jewish population in America tended to be middle and upper
+class.
+The Recife Jews used these connections to their wealthy friends and family in the
+Netherlands when the Dutch Calvinist governor of New Amsterdam, Peter Stuyvesant,
+had asked the Dutch West India Company to remove them from the New Netherland
+colony. In response, the Recife wrote to Amsterdam, asking their friends and families to
+petition the Dutch West India Company.  These petitions carried weight since many Jews
+had invested in the company. The Dutch West India Company's response to Stuyvesant
+indicates this, saying:
+We would have liked to effectuate and fulfill your wishes and request that
+the new territories should no more be allowed to be infected by people of
+the Jewish nation...but...we observe that this would be somewhat
+unreasonable and unfair, especially because of the considerable loss
+sustained by this nation, with others, in the taking of Brazil, as also
+because of the large amount of capital which they still have invested in the
+shares of this company. Therefore after many deliberations we have
+finally decided and resolved to apostille upon a certain petition presented
+
+--- Sayfa 15 ---
+8
+
+by said Portuguese Jews that these people may travel and trade to and in
+New Netherland and live and remain there, provided the poor among them
+shall not become a burden to the company or to the community, but be
+supported by their own nation.17
+
+As is clear from this quote, they, somewhat unwillingly, agreed to accept Jews into their
+colony. Jews were allowed to live and do business there, which is more than could be
+said for many of the other places that they had lived. However, what this example most
+demonstrates about the early American Jewish community as a whole is their powerful
+connections. This is what facilitated their rise in status and, eventually, what allowed
+them to join organizations like the Freemasons.
+The Freemasons were an elite organization made up, primarily, of middle and
+upper class urban males. While this organization didn't start in America, American lodges
+developed their own character and made significant contributions to society as a whole.
+However, the origins of Masonry are not known for certain. Freemasonry, as it exists
+today and as it existed in the eighteenth century, refers to speculative Masonry rather than
+operative Masonry.  The distinction between these two types of masonry is that modern
+Freemasonry is “a male fraternal order, not an association of stonelayers.”18  By 1717,
+these non-craftsmen had taken over, but they adopted the mythology and the history of
+the stone masons.19  It was this transformation of what was initially the guild for stone
+masons that allowed it to survive and “transition into modern market conditions.”20
+
+17 Dutch West India Company, "The Jew in the Modern World: A Documentary History," Reply to
+Stuyvesant's Petition (April 26, 1655), Edited by Paul Mendes-Flohr and Jehuda Reinharz (New York:
+Oxford University Press, 2010), 453.
+18 Bullock, Revolutionary Brotherhood: Freemasonry and the Transformation of the American Social Order,
+1730-1840, 10.
+19 Ibid., 9.
+20 Margaret C. Jacob, The Origins of Freemasonry Facts & Fictions (Philadelphia: University of Pennsylvania
+Press, 2006), 11.
+
+--- Sayfa 16 ---
+9
+
+Historian of American Freemasonry, Steven Bullock, lays out three traditions that
+speculative Masonry was built upon. First is the “belief in the great antiquity of the
+builder's practices.”21 This was the connection to the original stone masons guild and
+provided the ancient narrative of the organization, much of which came from biblical
+sources. This is, at least in part, the reason that the Freemasons are seen as an ancient
+organization. They are relatively recent in historical terms, but, since their beginnings,
+they drew on ancient rituals which, in addition to giving them a history, gave them
+legitimacy. Second is the brotherhood's connection “with sociability and science”22; in
+other words, their connection to the enlightenment. This is ideology is reflected in some
+of their practices, like elections, having a centralized Grand Lodge, and their
+Constitution, as well as the values that they espouse.23 Third, and finally, is the link of
+Masonry to high social status. Not only did its connections to gentility help to establish
+the authority of elites within society, but the elites who were involved in Masonry soon
+dominated the Masonic hierarchy as well as their public image.24 Thus, membership in
+the Masonic organization quickly left the literal masons behind in favor of the elite,
+enlightened members of society.
+Freemasonry as it is structured today, with a Grand Lodge at its center, is thought
+to have originated in 1717. In June of that year, four existing London lodges joined
+together to create a Grand Lodge. Although these lodges contained both craftsmen and
+non-craftsmen, they placed a gentleman at their head, indicating how pervasive the shift
+from operative to speculative Masonry had become. In fact, “no craft Mason would ever
+
+21 Bullock, Revolutionary Brotherhood, 10.
+22 Ibid.
+23 Jacob, The Origins of Freemasonry Facts & Fictions, 15.
+24 Bullock, Revolutionary Brotherhood, 10.
+
+--- Sayfa 17 ---
+10
+
+serve as grand master.”25 Soon after, in 1723, James Anderson's Masonic Constitutions
+was published and would quickly become a canonical Masonic text. In the version of
+Anderson's 1723 Constitutions reprinted in Philadelphia in 1734, the first section under
+“The Charges Of a FREE-MASON” is entitled “Concerning GOD and RELIGION.”26 In
+this section, it clearly states:
+A Mason is oblig'd, by his Tenure, to obey the moral Law; and if he
+rightly understands the Art, he will never be a stupid Atheist, nor an
+irreligious Libertine. But though in ancient Times Masons were charg'd in
+every Country to be of the Religion of that Country or Nation, whatever it
+was, yet 'tis now thought more expedient only to oblige them to that
+Religion in which all Men agree, leaving their particular Opinions to
+themselves; that is, to be good Men and true, or Men of Honour and
+Honesty, by whatever Denominations of Persuasions they may be
+distinguish'd.27
+
+This is extremely important because it is an explicit statement that people of any religion,
+as long as they believed in a God and were good people, could become Masons. The
+presence of the Constitution, as well as the egalitarian ideology that it espouses in this
+section, are products of the Enlightenment period in which it was written.  These ideas
+are also evident in American political documents from the time, possibly explaining why
+Masonry became so important in early America.
+Colonial American Masonry began in the 1730s and was not, at least initially,
+welcoming to a wide range of members. In fact, membership was limited to upper class
+elite males. Through membership in the fraternity, these men sought to establish their
+place in society through “selective anglicization.”28 However, American Masons would
+
+25 Bullock, Revolutionary Brotherhood, 15.
+26 James Anderson, The Constitutions of the Free-Masons. Containing the History, Charges, Regulations,
+&c. of That Most Ancient and Right Worshipful Fraternity (Philadelphia, 1734), 47-8.
+27 Ibid., 48.
+28 Bullock, Revolutionary Brotherhood, 51.
+
+--- Sayfa 18 ---
+11
+
+not always seek to imitate their English brethren. Although the earliest American lodges,
+had needed permission from London to become established and had modeled themselves
+on the system found there, by the 1760s, Americans had “broken with the orthodoxy of
+the Grand Lodge and its official history.”29 This was through the shift from the Moderns
+to the Ancients. Somewhat counterintuitively, the Moderns are the older form of Masonry
+and the Ancients are the newer form.
+It is uncertain exactly when the Ancients split from the Moderns, but it was
+sometime before 1756 when Laurence Dermott wrote the separate Book of Constitutions
+of the Ancients.30  Dermott was an Irishman and, thus, the more formal aspects of
+Ancient Masonry were based off of practices found in Ireland. However, the differences
+between the practices of the Ancients and Moderns were relatively minor.  The primary
+difference between the way that each group practiced Masonry was that the Ancients
+were more committed to preserving rituals, thus, retaining their “ancient” character while
+the Moderns were more amenable to change. By the time that the American Grand
+Lodges were formed after the American Revolution, 55 percent of them claimed that they
+had come from Ancient lodges, showing that Ancient Masonry had firmly established
+itself in the colonies.31 This statistic alone may seem unconvincing, but, when the
+statistics are broken down by state, this trend appears more significant. Although the
+Ancient lodges appeared after the Moderns had been established, in Pennsylvania,
+Maryland, and Delaware 100 percent of the Grand Lodges claimed Ancient Masonry and
+
+29 Jacob, The Origins of Freemasonry Facts & Fictions, 31.
+30 Barnes A. Sharitt, Jr, “Ancients and Moderns: Differences and Similarities,” The Grand Lodge of
+Minnesota Ancient Free & Accepted Masons (November 12, 2001), accessed October 20, 2013,
+http://www.mn-masons.org/sites/mn-masons.org/files/3571.pdf.
+31 Ibid.
+
+--- Sayfa 19 ---
+12
+
+all other American Grand Lodges, except for Rhode Island, Connecticut, and North
+Carolina claimed at least 50 percent Ancient Masonry.32
+However, Ancient Masonry was not the only variation that found a home in the
+American colonies.  Organizations that utilized symbolic Masonry formed, including the
+York Rite and Scottish Rite groups, which were characterized by their own hierarchical
+systems.33  The Scottish Rite, also referred to as Perfect and Sublime Masonry, and later
+known as the Ancient and Accepted Scottish Rite, emerged through the Ancients as a
+system of higher degrees, or rankings.34 While there had only been three degrees in
+Masonry, the Scottish Rite innovation initially introduced 25 degrees and would
+eventually have 33. This contrasted with the York Rite which retained the original three
+degrees, but had three distinct subsections that contained three or four additional degrees
+which could be obtained.35  While the York Rite would find great popularity in America,
+the Scottish Rite was very popular among Jews. These two groups were not exclusive to
+America, and were also seen in European Masonry but, for the purposes of the thesis, it is
+most important to understand the place of the Scottish Rite in America, since it was the
+type of Masonry with a distinct connection to American Jews.
+It is hard to say exactly what attracted Jews to this type of Masonry, but, perhaps,
+it was because of the work that Moses Michael Hays, a Jew, did to advance symbolic
+Masonry and to introduce the 'Perfect and Sublime Degrees' to the United States.36
+
+32 Sharitt, Jr, “Ancients and Moderns: Differences and Similarities,” The Grand Lodge of Minnesota Ancient
+Free & Accepted Masons, http://www.mn-masons.org/sites/mn-masons.org/files/3571.pdf
+33 Mark A. Tabbert, American Freemasons: Three Centuries of Building Communities (New York: New York
+University Press, 2005), xviii.
+34 Bullock, Revolutionary Brotherhood, 240.
+35 "The York Rite." http://www.yorkrite.com/getrifold.html (accessed November 15, 2013).
+36 Julius F. Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania (Philadelphia: The New Era Printing Company, 1915), 19.
+
+--- Sayfa 20 ---
+13
+
+Philadelphia, the enlightened colonial city, was the “mother city” of symbolic Masonry in
+the Western World and was the revival site for 'Perfect and Sublime' Masonry, allowing it
+to become the active Ancient and Accepted Scottish Rite.37 It was also here that symbolic
+Masonry became established in the Jewish community and spread, through them, across
+the states.38
+It is from this point that we can begin to establish the connections between
+Judaism and Masonry in America. Through looking at the symbols of Masonry, the
+lodges, and individual Jewish Masons, we can observe at every level the integration of
+the two organizations and how they relate to each other. Ultimately, although it sounds
+surprising that many of the early Jews in America were Masons, upon further
+investigation, it would be more surprising if they weren't.
+
+37 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 12.
+38 Read more in Chapters 2 and 3.
+
+--- Sayfa 21 ---
+14
+
+Chapter One: Masonic Symbols and Judaism
+Because the connection between Jews and Masons seems so surprising to our
+modern sensibilities, it is important to take an overarching look at where these groups
+overlap. One way to understand this connection, at the broadest level, is to look at the
+history and symbols that are common to both organizations. An organization's
+appropriation of symbols and the stories that they tell about their past can be revealing of
+their values and can tell us about how they want to be seen by others. Particularly in an
+exploration of the intersections between two groups, shared symbols reflect shared values
+and, in the case of Jews and Masons, give us some insight into why Jews might have
+been open to joining Masonry as well as why Masons may have allowed Jewish
+membership.
+The Freemasons are an organization tied to ancient history and ritual, thus their
+symbols serve a very important role in the characterization of the fraternity. Although the
+practices and rituals of Masons can vary, much of the symbolism that is used seems to be
+consistent throughout the organization and its affiliates, thus allowing an in-depth look at
+symbols to be representative of the organization as whole. Many Masonic symbols are
+biblical, largely from the Old Testament, so, although they are part of Christian lore, they
+have Jewish significance as well. The discussion of Masonic symbolism and its Jewish
+connections is not one of why Masons incorporated Jewish symbols into their traditions,
+but, rather, speculation about how the Jewish significance of specific Masonic symbols
+may have been an attraction of Masonry for Jews.
+
+Star of David/Seal of Solomon
+
+--- Sayfa 22 ---
+15
+
+For the modern Jew, the most recognizable symbol is probably the Star of David.
+This six-sided star is often called a “Jewish Star” and even appears on the flag of the state
+of Israel, a country created to be a nation for the Jews. However, this exclusivity as a
+Jewish symbol is a modern development. Like so many other shapes that serve as
+symbols, it has a long history.
+The Star of David was used as early as the Bronze Age in areas ranging from
+Europe to South-East Asia. It can be found on ancient Jewish artifacts, but doesn't appear
+to have any particular religious significance in that context.  Instead, it was used widely
+by Jews, Christians, and Muslims and, over time, it earned a general significance as a
+symbol which carried magical powers, although it was not explicitly connected to any
+group.1  In its magical applications, it is normally referred to as the “Seal of Solomon”,
+referring to the son of King David and the biblical King known for his wisdom. Its first
+appearance as a specifically Jewish symbol was in the seventeenth century when
+followers of Shabbetai Tsevi, a false prophet who claimed to be the messiah, adopted it.
+In the late eighteenth century, its Jewish significance spread to western Europe.2 Yet,
+despite this connotation, it still continued to be widely used by other groups, including
+the Freemasons.
+In Masonry, it seems, the meaning of the Seal of Solomon was about as unspecific
+as it was for the Jews of the period. In fact, it is more likely that it was included in
+
+1 Michael Berenbaum and Fred Skolnik, ed., Encyclopaedia Judaica (Detroit: Macmillan Reference USA,
+2007) s.v. "Magen David,"
+http://go.galegroup.com/ps/i.do?id=GALE|CX2587512997&v=2.1&u=upenn_main&it=r&p=GVRL&sw=w&
+asid=740b1aaf546b49c9f5f2eac94498c2cd (accessed November 27, 2013).
+2 Lindsay Jones, ed., Encyclopedia of Religion (Detroit: Macmillan Reference USA, 2005) s.v. "Magen
+David.,"
+http://go.galegroup.com/ps/i.do?id=GALE|CX3424501887&v=2.1&u=upenn_main&it=r&p=GVRL&sw=w&
+asid=51db7ff1856b5b043f0e65bf6cbb55f0 (accessed November 27, 2013).
+
+--- Sayfa 23 ---
+16
+
+Masonic symbolism for its connections to King Solomon than for its independent
+meaning as a talisman to protect a home or business. The star was said to have magical
+properties and its inscription on the signet of Solomon was said to have given him access
+to genii to help build his Temple.3  The Temple was of specific significance for Masons
+because they traced their history back to the stonemasons who worked on it.  Thus, this
+story of the star using its powers to help build the Temple would have been important to
+Masons.
+In addition to its connection to Solomon, the star's longevity and ancient roots are
+things that would help contribute to a rich Masonic history.  Use of this symbol
+connected them to many ancient civilizations, which is something that they sought for
+legitimacy. In fact, other than the cross, the Seal of Solomon was one of the most
+prevalent symbols in the ancient world, being found from Europe to India.4  So, not only
+did it connect them to the ancient past, but it furthered their idea that they were a group
+that was accepting of all people despite their beliefs.
+Despite the symbol's lack of specific significance for both Masons and Jews of the
+time, its presence in both is important to note. The incorporation of the Seal of Solomon,
+a symbol that Jews were familiar with, into visible symbols of Masonry may have been
+part of what attracted Jews to Masonry as an organization. Although the Seal of Solomon
+did not yet have the same significance to Jews as the cross did to Christians, it was a
+symbol that was part of their Jewish history and, certainly, it was not one that excluded
+them.  While the cross was a symbol used in Masonry, it was not as prolific as the Seal of
+
+3 Albert G. Mackey et. al., An Encyclopaedia of Freemasonry and Its Kindred Sciences Comprising the
+Whole Range of Art, Sciences and Literature as Connected with the Institution (New York: The Masonic
+History Company, 1919), 674.
+4 Ibid., 674-5.
+
+--- Sayfa 24 ---
+17
+
+Solomon. Therefore, it probably would not serve as a force of opposition to Jewish
+membership.
+While this star is certainly not one of the most important symbols of Masonry, it
+does appear in a number of areas including on seals and as part of the architecture. One
+notable example is on the seal of the Charleston Lodge of Perfection.5 This seal contains
+a number of Masonic symbols including the most famous and identifiable one, the square
+and compass. In the corner directly above the square and compass, there is the Seal of
+Solomon. This placement would seem to indicate a similar regard for the two symbols.
+In fact, one could argue that the Seal of Solomon is the most visible symbol, as it is
+surrounded by a light circle against a dark background.  It was clearly not something that
+they were trying to hide.
+
+5 Refer to Image 1.
+Image 1: The Seal of the Lodge of Perfection in Charleston, South Carolina
+Julius F. Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and Accepted
+Masons of Pennsylvania (Philadelphia: The New Era Printing Company, 1915).
+
+--- Sayfa 25 ---
+18
+
+The presence on this seal in particular is notable, because this lodge was started
+by a Jewish Mason, Isaac da Costa.6 While it is unlikely that he included the Seal of
+Solomon as an indicator of a Jewish or Jewish-friendly lodge since it was not a
+specifically Jewish symbol at the time, its presence indicates that the Seal was significant
+for the character of the lodge. It is possible that da Costa included it as a symbol of
+religious tolerance and a connection to the ancient world.  While its Jewish significance
+cannot be totally overlooked or cast aside because of da Costa's connection to the lodge
+as well as the relative absence of this symbol on a variety of other Masonic seals, it
+cannot be considered a solely Jewish symbol within this context.
+While it was uncommon to include this symbol on a seal of a lodge, it was more
+common to include it in Masonic architecture. The star's presence in Masonic architecture
+
+6 The story of this lodge will be elaborated on in the following chapters.
+Image 2: A Fireback from Massachusetts, c. 1756-1787
+John D. Hamilton, Material Culture of the American Freemasons (Hanover: University Press of New England, 1994),
+72.
+
+--- Sayfa 26 ---
+19
+
+is probably linked to its significance as a talismanic protection against things like fire.7 In
+the case of the fireback with the Seal of Solomon, there is a clear applicability to the
+protective powers of the symbol. On the seal, there is less of a clear connection, thus, its
+presence is important to note because it is unusual.
+
+King Solomon's Temple
+In a discussion of objects of Masonic importance that also have Jewish
+significance, the Temple of King Solomon is probably the most important for the
+Masons. Because the Freemasons trace their lineage to the stone masons who helped to
+build King Solomon's Temple, it has particular significance to them. The form that this
+symbol took, besides its discussion in speeches and its role in the origin of Masonry, was
+in the Masons' attempts to recreate the Temple in their lodges. Each lodge is considered a
+part of the Temple created by the Grand Architect of the Universe, or God, to help
+humanity.8 Thus, it must pass the scrutiny of the almighty, or risk being destroyed.9
+In addition to holding Masons to a moral code, the concept of the Temple took the
+wisdom, strength, and beauty associated with the three basic elements of the Masonic
+framework (religion, stonemasons, and Enlightenment) and united them. As Brother
+Mark A. Tabbert said “Within a lodge, men of differing faiths accepted the Temple as a
+symbol from which respect and brotherly love could grow.”10 Because the Temple was
+familiar to the various religions categorized under the Masonic requirement of believing
+in a God, it was able to serve as a symbol of the brotherhood of the lodge as well as the
+
+7 Refer to Image 2.
+8 J.S.M. Ward, An Interpretation of Our Masonic Symbols (London: A. Lewis, 1924), 138.
+9 Ibid., 138-9.
+10 Mark A. Tabbert, American Freemasons: Three Centuries of Building Communities (New York: New York
+University Press, 2005), 22.
+
+--- Sayfa 27 ---
+20
+
+spirituality of Masonry. After all, although the Masons had no connection to a particular
+religion, their rituals and connections to ancient times created a pseudo-religion that its
+members could practice in addition to whatever religion they affiliated themselves with.
+Besides being present in the symbolism of the lodge, discussion of Solomon's
+Temple was a theme that often appeared in Masonic speeches. One such speech was
+given by David M'Clure at the installation of Village Lodge in Simsbury, Connecticut.11
+This speech was entitled “Solomon and Hiram; or Jews and Gentiles united, in building
+the Church of God” and it attempts to use “the happy peace and mutual friendship and
+esteem, which existed between the ancient monarchs Solomon and Hiram, to explain the
+nature and recommend the obligations of brotherly love.”12 M'Clure talks about the
+kinship of Solomon and Hiram and how Hiram “tho' king over an idolatrous people”
+worshiped the one true God, whom he learned of from the Jews.13  Together, with the
+vision and laborers from Solomon and the craftsmen and laborers from Hiram, they were
+able to create a worthy temple for God. M'Clure uses this story as an allegory to talk
+about how mankind belongs together. He says “Man is weak and wretched in solitude,
+but powerful and happy in society”14, arguing that it is best for men to work together and
+love and help each other because, when they do, they achieve greatness.
+What is interesting about the structure of this speech is that M'Clure does not
+explicitly mention Masons until nearly the end. In fact, most of the speech is composed
+of the stories of Solomon and Hiram. He doesn't explicitly make the connection between
+Masons and Solomon until the end of his speech when he says “Bear the Hod of patience
+
+11 David M'Clure, A Sermon, Delivered at the Installation of Village Lodge (Hartford: Hudson & Goodwin,
+1795).
+12Ibid., 5-6.
+13 Ibid., 9.
+14 Ibid., 14.
+
+--- Sayfa 28 ---
+21
+
+in the necessary labors and sufferings of life, and ascend to the Ladder of honorable
+promotion, and be worthy of a seat in Solomon's chair. And let the white and fair Apron,
+be truly significant of your innocency and purity of character, and fidelity in all
+business.”15 Here, he finally relates the glory of Solomon to the Masonic symbol of the
+stonemason’s Apron and, as in the rest of the sermon, encourages them to take the
+lessons of King Solomon to heart in their interactions with others and charitable causes.
+Besides showing the importance of Solomon in Masonic lore, this speech shows
+us that Solomon had enough of a Masonic connection that an outsider, like David
+M'Clure, knew its Masonic significance and thought it an appropriate sermon topic at the
+installation of a lodge. This is important because, if M'Clure knew about the Masonic
+connection to Solomon, it is likely that Jews not already involved in Masonry might have
+been aware of this connection between their beliefs and Masonry. This is vital because, if
+it was not something that they might be aware of, then it is not something that could have
+attracted them to the Masonic fraternity.  Thus, the apparent public knowledge of King
+Solomon's importance as a historical figure for Masons could have made Masonry more
+appealing to Jews.
+In this way, the importance and prominence of the symbol of Solomon's Temple
+was a huge advantage for attracting Jewish membership. Although it was deeply
+engrained in Masonic symbolism and history, its neutral character among religions that
+believed in a deity allowed Jews and Christians alike to find meaning in its incorporation
+and find a place within Masonry.  Solomon is widely respected in Judaism for his
+wisdom, so the Enlightenment values of the Masons were not opposed to his elevation as,
+in some ways, a founding father of Masonry.  Seeing a Jew from the Bible exalted in
+
+15 M'Clure, A Sermon, Delivered at the Installation of Village Lodge, 22.
+
+--- Sayfa 29 ---
+22
+
+such a way was probably comforting and welcoming for Jews who were interested in
+becoming Masons.
+
+Biblical Figures
+In addition to Solomon, other biblical figures appear as part of the Masonic
+canon.  While not all of them are Old Testament and, thus, Jewish figures, many of them
+are. One place that these Biblical figures commonly appear is in the names of various
+lodges. While there are certainly lodges names after Christian saints, particularly St.
+John, it is also common to see lodges named after King David and King Solomon. One
+example is King David's Lodge, originally in New York City and moved to Newport,
+Rhode Island. This lodge is worth noting because its founder was Moses Michael Hays, a
+Jew and one of the most important Masons in early America, and it had many Jewish
+members in both locations.  Because the founder of a lodge gets to choose its name, his
+choice of King David is notable. In all likelihood, it was his way of connecting the lodge
+to the ancient Jewish King in an attempt to incorporate Jewish-friendly or neutral
+symbols into his lodge. While Hays might have thought to use the name of a lodge as a
+religious indicator, it was possible that the name was chosen arbitrarily or was just
+chosen because it was something that he felt a connection to.
+In addition to David and Solomon, another Old Testament figure that appears in
+Masonry is Noah. In the Constitutions of the Grand Lodge of New York, published in
+1794, the section entitled “Concerning God and Religion” discusses the Masonic goal of
+emulating Noah.16 This is an important section for Jewish Masons because it is the part
+
+16 Grand Lodge of New York, The Constitutions of the Ancient and Honorable Fraternity of Free and
+Accepted Masons in the State of New York (New York: Childs and Swaine, 1794), 5.
+
+--- Sayfa 30 ---
+23
+
+that establishes the, relative, religious tolerance of the Masons. This section exists in
+every copy of the Constitution that I have seen and much of it reads the same from
+version to version. However, although I have seen references to Noah in other Masonic
+works, this was the first time that I saw it incorporated into the Constitution.  It says “A
+mason is also obliged, by his tenure, to observe the moral law, as a true Noachida”, or
+son of Noah.17 In this way, Masons would unite brothers of all different religions, who
+otherwise might not join together, to strengthen the “divine obligations of religion and
+love!”18
+Biblically, Noah was a good man in a world of sinners who brought animals from
+all over the world together on his ark to save them from a flood that destroyed the world.
+After 40 days and 40 nights, the rain stopped and the waters started to subside. Then,
+with his family and all of the animals on his ark, Noah started the world anew. In their
+attempt to be like Noah, Masons emphasize their charitable goals as well as their diverse
+backgrounds. As Noah brought together animals from all over, the Masons bring together
+people from all different beliefs and backgrounds and unite them to make the world a
+better place. For the Masons, the incorporation of Noah was likely a way of emphasizing
+their religious tolerance, rather than reaching out to Jews specifically. They were trying
+to emphasize their enlightened acceptance of people from different backgrounds by
+incorporating people of different religions, but only if those religions fit with Masonic
+ideals. The Jewish significance of Noah is only notable because Jews were accepted by
+Masons.
+
+17 Grand Lodge of New York, The Constitutions of the Ancient and Honorable Fraternity of Free and
+Accepted Masons in the State of New York, 5.
+18 Ibid., 6.
+
+--- Sayfa 31 ---
+24
+
+Although Noah was not a part of the Masonic canon in the way that Solomon was,
+his presence in a document as important as the Constitution indicates that he was a
+significant Masonic figure. Because he was an Old Testament figure, the respect that
+Masons had for him as a model character was probably welcoming for Jews. They did not
+need to feel alienated by aspirations that they could not relate to, like an emulation of
+Jesus.  Instead, the widespread use of Old Testament figures like Noah and Solomon
+allowed most of those in the religions that were accepted by Masons (all those except for
+the “unhappy libertine, the deist, or stupid atheist”19) to find common roots in the
+connections to these characters. Although Jews may not have emulated Noah themselves,
+the respect that Masons showed to the Old Testament through the use of its characters
+certainly would not have been off-putting, and would likely have been welcoming, for
+Jews interested in becoming Masons.
+
+Symbolic Significance for Jews
+Ultimately, the significance of looking at Masonic symbols and their connections
+to Judaism is an attempt to understand how, at the most basic and foundational level, the
+Masonic brotherhood might have appealed to Jews and been compatible with their
+lifestyle and their beliefs. Many fraternal organizations of the time did not allow Jews to
+join, so the Masons were already seen as more open.  However, if they had been opposed
+to Jewish beliefs, it is possible that Jews would not have joined in such significant
+numbers.
+
+19 Grand Lodge of New York, The Constitutions of the Ancient and Honorable Fraternity of Free and
+Accepted Masons in the State of New York, 5.
+
+--- Sayfa 32 ---
+25
+
+This raises the questions of why Jews joined the Masons and why the Masons
+accepted Jews. The reasons that Jews joined the Masons seem to be clearer. The Masons
+were an elite organization, so, by joining the Masons, Jews established themselves as part
+of the American elite. In addition, it expanded their social networks beyond the Jewish
+community to other powerful people. This helped in their personal business ventures, but
+would also help in their more long term goals of increased acceptance and equality. This
+is evidenced by one of the most famous interactions in American Jewish history, the
+letter sent by the Touro synagogue in Newport, Rhode Island from Congregation Yeshuat
+Israel to President George Washington, dated August 17, 1790. Interestingly enough,
+Moses Seixas, the man who delivered this letter, also delivered one from King David's
+Lodge, the largely Jewish lodge that had been started by Moses Michael Hays, at the
+same time. The letter from Yeshuat Israel, states:
+Deprived as we heretofore have been of the invaluable rights of free
+Citizens, we now with a deep sense of gratitude to the Almighty disposer
+of all events behold a Government, erected by the Majesty of the People --
+a Government, which to bigotry gives no sanction, to persecution no
+assistance -- but generously affording to all Liberty of conscience, and
+immunities of Citizenship: deeming every one, of whatever Nation,
+tongue, or language equal parts of the great governmental Machine.20
+
+This clearly expresses the Jews' desire to be treated as equals within society. This is
+something that they found in Masonry. The connections that they made opened up
+opportunities for them and put them in contact with some of the most important
+politicians of the day who could actually improve their lives, as seen through their
+
+20 Moses Seixas, "Moses Seixas' Letter from Congregation Yeshuat Israel," Touro Synagogue,
+http://www.tourosynagogue.org/index.php/history-learning/tsf-intro-menu/slom-scholarship/85-seixas-
+letter (accessed December 1, 2013).
+
+--- Sayfa 33 ---
+26
+
+contact with President Washington. It is noteworthy that the same man was representative
+of both Masons and Jews, and this connection certainly helped the Jewish cause.
+In addition, the Jews were treated as equals within the Masonic organization.
+Although they may not have had complete rights within American law, they were given
+the same rights within Masonry. Because Masonry is a religiously neutral organization,
+religion was not a basis for the denial of rights and, in fact, many Jews were able to form
+lodges and gain some of the most respected positions in American Masonry.
+The other side of the question is also important to address: why would Masons
+want to accept Jews? In America, their desire to remain an organization for elites meant
+that the class from which they were drawing their membership had many Jews in it,
+particularly in major urban areas. Although Masonry may have helped Jews become
+more elite, Jews were already some of the richest men in the country and the connections
+that other Masons made with them could only help economically.
+Another possible reason for Masonic acceptance of Jews is the simultaneous
+desire for ancient roots as well as a commitment to Enlightenment philosophy that lay at
+the core of Masonic development. The Jewish religion had the ancient roots that the
+Freemasons were seeking and, like the Puritans who sought legitimacy through Jewish
+converts, felt that the presence of Jews in their organization legitimized and gave weight
+to their use of Old Testament biblical figures in their canon.  In addition, Enlightenment
+principles of human and natural rights pushed for increased toleration and acceptance,
+thus making it harder for Masons to appropriate them without accepting people from a
+variety of religions.
+
+--- Sayfa 34 ---
+27
+
+In the end, the relationship that developed between Masons and Jews was good
+for both sides. They each gained access and acceptance, on an individual level as well as
+on an organizational one, and their histories fit together nicely.  Masonry was one of the
+few fraternal organizations open to Jews and their canon, which was consistent with
+Jewish beliefs and actually incorporated Jewish symbols and figures, allowed Jews to feel
+comfortable joining without sacrificing their beliefs and culture.
+
+--- Sayfa 35 ---
+28
+
+Chapter Two: Judaism Within Masonic Lodges
+While symbols tell us about the Masonic organization as a whole, a look at lodges
+gives us a more local and specific understanding of the Masonry that people in the
+eighteenth century experienced. This can help reveal connections between Jewish
+Masons and their Christian brothers within the lodges, both in their formation and in their
+more ideological functions. Beyond the Jewish significance of the names of certain
+lodges, the membership and the structure of the lodge itself incorporated Jews, and likely
+gave them a degree of comfort among Masons.
+The “lodge” served as both the physical building where Masons met and the
+group of Masons who met there1, thus it was the thing that was most likely to attract or
+deter Jews from joining.  The people who made up the lodge could have rejected Jews or
+made them feel uncomfortable but, instead, we see them welcoming them as brothers and
+even letting them start their own lodges. Thus, an examination of American lodges
+reveals that the structure, membership, and opportunities provided by Masonic lodges
+were all things that helped to facilitate Jewish involvement in Masonry.
+
+Significance of Lodge Interactions for Jews
+In Europe and in America, Jews were used to being excluded from social
+organizations because of their religion. Masons were an exception. They were a non-
+religious organization that welcomed all people as long as they were of good moral
+character and they believed in God. Jews took advantage of this opportunity and quickly
+joined. For the Jews of the American colonies, the lodges were where they were able to
+interact with their non-Jewish brothers and make connections among the urban economic
+
+1 J.S.M. Ward, An Interpretation of Our Masonic Symbols (London: A. Lewis, 1924), 135.
+
+--- Sayfa 36 ---
+29
+
+elite, not only in their cities, but around the world. This helped give the developing
+Jewish communities in America legitimacy and acceptance that they might not otherwise
+have received by cementing their status among the elites and adding to their, already
+extensive, networks.
+One instance in which we see the result of lodge connections is in the building of
+Mikveh Israel in Philadelphia, PA. In 1788, when the Jews of Philadelphia needed money
+to finish the synagogue for their congregation, some elite Gentiles stepped in to help.
+These men included Benjamin Franklin, Thomas McKean, David Rittenhouse, and
+Charles Biddle.2 While all of these men were prominent, Franklin is the only one that we
+know to have been a Mason. It is hard to say definitively that Franklin donated to Mikveh
+Israel because he knew some of the Jews involved in that community through the
+Masons. However, although the participation of non-Jewish elites in funding the building
+of the synagogue may not have been directly the result of brother to brother interactions,
+many of the non-Jewish elite networks were accessed by Jews through the Masonic
+brotherhood.
+Beyond the opportunity to connect with non-Jews, the interactions in the lodges
+also helped Jews to acculturate, both in Europe and in America. In Europe, this was
+largely a matter of timing. The Grand Lodges that appeared, particularly in England, from
+1730 to 1750, coincided with the evolution of the more acculturated Jew.3 Prior to this
+period, the European Jews were often confined to certain jobs and certain spaces by the
+countries in which they resided. This led to a concentrated community that created its
+
+2 William Pencak, Jews & Gentiles in Early America, 1654-1800 (Ann Arbor, Michigan: The University of
+Michigan Press, 2005), 182.
+3 Jacob Katz, Jews and Freemasons in Europe 1723-1939, translated by Leonard Oschry (Cambridge, MA:
+Harvard University Press, 1970), 2.
+
+--- Sayfa 37 ---
+30
+
+own culture, independent of its location. In the eighteenth century, however, with
+discussions of Jewish emancipation and increased opportunities, Jews began to adapt to
+their environment and become more acculturated.4 When Jews were allowed to join
+Masonic lodges, it put them into direct contact with non-Jews and customs that were
+foreign to them, which only served as a catalyst to their acculturation.
+This brings up a question of why Jews remained Jews when acculturation
+provided so much opportunity that could only be furthered by conversion. Ultimately, the
+truth is that not all of them did. In fact, many converted or married outside of the Jewish
+faith which, at the time, was considered just as bad as conversion. In fact, when Phila
+Franks, a member of the prominent Jewish Franks family, married Oliver Delancey, a
+wealthy gentile, her mother, Abigaill Franks, wrote a letter to Phila's brother Naphtali
+saying “as for his [Oliver Delancey's] wife, I am Determined I never will See nor Lett
+none of ye Family Goe near her,”5 essentially disowning her daughter.
+Yet, those who continued to practice Judaism faced relatively little opposition to
+their religion in America. They were, in general, allowed to practice their religion and
+were even granted the right of residence, even if they did not have equal political rights.6
+As historian Hasia Diner argues, in the colonies, “no one group could claim significantly
+longer roots than anyone else” so someone's ability to be successful and help the colony
+profit was more important than their religion. Jew could help with this, so they were
+tolerated, and Jews were happy with what rights they were given; after all, in America,
+
+4 Beth Wenger, "Jews in the Modern World," Lecture, Class at the University of Pennsylvania,
+Philadelphia, PA, January 18, 2011.
+5 Abigaill Franks, "Abigaill Franks to Naphtali Franks, June 7, 1743," The Letters of Abigaill Levy Franks,
+1733-1748, Edited by Edith B. Gelles (New Haven: Yale University Press, 2004), 127.
+6 Hasia R. Diner, The Jews of the United States, 1654 to 2000 (Los Angeles: University of California Press,
+2004), 23.
+
+--- Sayfa 38 ---
+31
+
+Jews were able to reach a higher status than they had access to almost anywhere else in
+the world.7
+In America, Jews were already more inclined to acculturate based on their
+environment. They were such a small population (less than one tenth of one percent of
+the total population) that it was in their best interest to get to know those outside of the
+Jewish community and develop relationships with them. It was unlikely that they would
+find success through isolation, and the opportunities, both political and economic, that
+branching out afforded them provided little reason for resistance. By acting like the other
+elites in American society, they helped to remove any label that Jews were given as an
+“other” and gained acceptance in society.
+The Jewish willingness to behave like those around them opened them up to more
+extended interactions with the non-Jewish elite. Masonry was one of the organizations
+that helped to facilitate this acculturation. Jews could observe things like style of dress
+and actions, but to be able to interact with elite society in an acculturated manner, Jews
+needed to understand the beliefs and ideas of their target society. Through Masonic
+participation, they became familiar with parliamentary law, rationalistic thought, and the
+views of their non-Jewish neighbors, allowing them to participate more freely in society.
+Any Mason was allowed to go to any lodge and were to be welcomed as peers, thus,
+allowing them to get to know some of the most important men from each colony and
+learn from them.  “The order was thus an instrument of anglicization and
+americanization.”8
+
+7 Diner, The Jews of the United States, 1654 to 2000, 24.
+8 Jacob R. Marcus, The Colonial American Jew 1492-1776 (Detroit: Wayne State University Press, 1970),
+3:1169.
+
+--- Sayfa 39 ---
+32
+
+Formation of “Jewish Lodges”
+American Freemasonry was a product of European Masonry and thus, at least
+with early lodge formation, many of the trends started there carried over. These
+connections were sometimes structural or ideological, but they also may have affected
+membership. In Europe, Jews had been allowed to join lodges from early on. The earliest
+record that we have of this was in London in 1732 when Edward Rose was initiated into
+the London Lodge. This led to a discussion among lodges about whether or not they
+would admit Jews. We know that the results of their discussion were positive because, in
+the following years, many Jews became members of various London lodges.9
+However, despite lodges being open to Jews, at least in name, separate Jewish
+lodges formed. This reflects actions by both the Jews and the Christian Masons. In order
+to become a Mason, one had to be initiated into a lodge. This was determined by the
+brothers already in that lodge, and they were not required to give any justification as to
+why they were rejecting a candidate. Jews could have been rejected solely based on their
+religion, finding a way around the explicit declaration of acceptance in the Masonic
+Constitution by saying it was due to moral corruption.  For example, a lodge in London in
+1793 decided that any Jews who applied would be denied membership since there was no
+possibility of their acceptance.10 While documented instances of discrimination against
+Jews were rare, they did happen, and some Jews who were already Masons may have
+responded in kind by starting their own lodges.
+On the other hand, when Jews joined European lodges, they sought to retain as
+much of their religion as possible. In 1756, an anthology was published which contained
+
+9 Katz, Jews and Freemasons in Europe 1723-1939, 16.
+10 Ibid., 18.
+
+--- Sayfa 40 ---
+33
+
+an altered prayer for Jews to use at the opening of a lodge meeting. This changed sections
+that did not fit with Jewish belief, such as an address to “the Father, the Son, and the
+Holy Ghost”. This new version was intended to be used at a Jewish lodge, indicating that
+they were already in existence by the 1750s, but it reflects an attitude that existed prior to
+their development.11 Jews who joined the Masonic brotherhood wanted to be accepted,
+without having to sacrifice their beliefs. The opening of Jewish lodges may just as easily
+been as a result of a desire to dictate the terms and practices of their lodge as much as it
+was the result of discrimination against Jews. Jews who opened their own lodges could
+use the prayers that they wanted, practice Masonry how they wanted, and adapt Masonic
+culture to fit their needs and beliefs.12 This would allow them to continue interacting with
+other Masons13 and incorporating more Jews into Masonry without giving up their
+connections to the Jewish community and Jewish faith.
+In America, we see a version of this idea of a “Jewish lodge”,14 although it was
+implemented very differently from the ones that we see in Europe.  Lodges in America
+were accepting of Jews and readily allowed them to join.  In fact, some of the most
+important Masons in America were Jewish.15  The Jewish population in America was
+small yet, even in areas where few Jews settled, Jews were allowed to join Masonic
+lodges.  One example of this is the acceptance of Moses Michael Hays into the
+Massachusetts Lodge in Boston in November 1782. That December he was elected
+
+11 Katz, Jews and Freemasons in Europe 1723-1939,16.
+12 Ibid., 16-7.
+13 Membership in a lodge meant that you were welcomed in any lodge; Ibid., 17-8.
+14 I intentionally put “Jewish lodge” in quotations here. The American “Jewish lodge” differs from the
+European one because it is only the term that I am using to connect the two. In America, anyone could
+join a “Jewish lodge”, but its membership was primarily Jewish, at least for a period of time. As far as I can
+tell, they did not alter their practice of Masonry to fit their religion in the same way that the Europeans
+did, nor were they forced to start their own through discrimination.
+15 This will be elaborated on further in Chapter 3.
+
+--- Sayfa 41 ---
+34
+
+Master16, a position which he served in for three years, and then became the “Most
+Worshipful Grand Master” from 1788 to 1793.17 To be fair, Hays was already an
+established Mason by the late 1700s and had been the Deputy Inspector General for
+Masonry for North America,18 so his acceptance by the Boston Lodge is not equivalent to
+a Jewish non-Mason requesting admission. However, it is still notable that he was readily
+accepted, and even promoted, in a colony that was generally intolerant of religions other
+than Puritanism. This contrasted with what happened in Europe because, in America,
+there was no discussion of whether or not to accept Jews (possibly because this
+conversation had already happened in Europe); they just did.
+Yet, despite the Masonic willingness to accept Jews, lodges that could be
+considered an American version of “Jewish lodges” appeared. These were lodges that
+don't appear to have changed their practices to incorporate Judaism the way some
+European Jewish lodges did, but still appear to have either entirely or largely Jewish
+membership. Two examples of this phenomenon are King David's Lodge in Newport,
+Rhode Island and the Sublime Lodge of Perfection in Philadelphia.
+King David's Lodge is an interesting case because it was started in New York, but
+was moved to Newport. However, in both places, it had significant ties to the Jewish
+community.  King David's Lodge of Freemasons received its warrant on February 17,
+1769 from the Provincial Grand Master of New York, George Harrison Esq.  Moses
+Michael Hays was appointed the first Master Mason of this lodge, which appears to have
+
+16 This is more of an administrative title than a rank-based one.
+17 Julius F. Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania (Philadelphia: The New Era Printing Company, 1915), 22.
+18 Ibid., 19.; This is, again, an administrative title.  However, it would not have been appointed if he was
+not respected within Masonry.
+
+--- Sayfa 42 ---
+35
+
+been entirely Jewish.19  Hays is often considered the father of the Scottish Rite in
+America as he was appointed the Deputy Inspector General for the West Indies and North
+America by a Scottish Rite patent.20 Thus, because he started King David's Lodge, it is
+not a stretch to believe that this lodge adopted the degree system of the Scottish Rite.21
+Subsequently, Moses Michael Hays moved from New York and, eventually, was
+able to get the warrant for King David's Lodge transferred to Newport, where he was in
+residence. Hays was able to do this, in part, by citing the names of those who were
+interested in joining, many of whom were Jews.22 These men included Moses Seixas and
+David Lopez, members of two of the most prominent Jewish families of the time who
+would, at least for their first meeting, serve as the Senior and Junior Wardens.23 However,
+it is important to note that not all of the members of the Newport lodge were Jewish. The
+document also appoints non-Jews Jeremiah Clarke as Treasurer, and Henry Dayton as
+Secretary.24 It goes on to say “Robert Elliot ; John Handy ; Peleg Clarke and Daniel Box
+were Modern Masons, but were truly desirous to be initiated into our Ancient Fraternity
+and that they were worthy thereof ; they were all accordingly entered as Apprentices and
+
+19 Grand Lodge of New York, F. & A.M., Official Exposition Record and History of Masonry in the State of
+New York in Connection with First Annual Fashion Exposition for the Benefit of Masonic Hospital Activities
+(New York: Eaton & Gettinger, 1922), 49.
+20 Catherine Swanson, "A Brittle and Torn Manuscript: Conservation of an early Scottish Rite Patent,"
+Scottish Rite Masonic Museum & Library,
+http://nationalheritagemuseum.typepad.com/library_and_archives/moses-michael-hayes/ (accessed
+November 15, 2013).
+21 The Sublime Lodge of Perfection in Philadelphia was also Scottish Rite.  This will be elaborated on later
+in the chapter.
+22 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 21-2.
+23 “From the East Cometh Light," in Henry W. Rugg, History of Freemasonry in Rhode Island (Providence:
+E.L. Freedman & Son, State Printers, 1895), 44.; Once again, these are administrative positions for the
+lodge, rather than ranking ones.
+24 Ibid.
+
+--- Sayfa 43 ---
+36
+
+afterwards passed to Fellow Craft.”25  This is important to note because none of those
+new Apprentices were Jewish. In the shift from New York to Newport, the lodge went
+from being entirely Jewish to having several non-Jewish members.  It is unclear whether
+the lodge in New York was entirely Jewish because they were exclusionary or because
+Christians decided to join other lodges. One thing is clear though: when the lodge moved
+to Newport it was no longer an entirely Jewish lodge.
+This is an interesting phenomenon. Why don't Christians join the lodge in New
+York and why do they join in Newport? Because the exclusivity of the lodge in each
+place in unclear, it makes sense to look at the population and lodge data to try to get some
+insight into this occurrence. Although New York City is often credited with having the
+largest Jewish community during the colonial period,26 the numbers of Jews are not that
+different between New York and Newport. In 1773, New York was home to about 242
+Jews27 while, in a census taken the next year in Newport recorded 200 Jews.28 This is not
+a significantly different population so likely cannot be an excuse for exclusivity.
+However, when the number of lodges in each city is introduced, a possible
+explanation appears. In New York City, there appear to be at least six other lodges that
+were in existence before King David's Lodge.29 Meanwhile, in Newport, there only
+appears to have been one other lodge before King David's Lodge was moved there.30 This
+is a possible explanation for why there were more Christians in the Newport iteration of
+
+25 Rugg, History of Freemasonry in Rhode Island, 44.; These are the first two ranks in the Scottish Rite.
+26 Diner, The Jews of the United States, 1654 to 2000, 27.
+27 Ibid.
+28 Marilyn Kaplan, "The Jewish Merchants of Newport, 1749-1790,” The Jews of Rhode Island, Edited by
+George M. Goodwin and Ellen Smith (Hanover, New Hampshire: University Press of New England, 2004),
+16.
+29 Peter Ross, A Standard History of Freemasonry in the State of New York including Lodge, Chapter,
+Council, Commandery and Scottish Rite Bodies (New York: The Lewis Publishing Company, 1899), 4.; It is
+possible that not all of these were still in existence upon the arrival of King David's Lodge.
+30 Rugg, History of Freemasonry in Rhode Island, 34-43.
+
+--- Sayfa 44 ---
+37
+
+the lodge than in the New York one.  Christians in New York had more variety to choose
+from and, thus, may not have joined King David's Lodge.  This may have been prejudice
+(although it is unlikely considering that, under British rule, New York Jews were the only
+ones with the right to vote and hold office, a right that was affirmed by the independent
+state in 177731), but was more likely a product of the variety of lodges that people could
+choose from.  Many of these lodges were over a decade old by the time King David's
+Lodge received its warrant32 and, thus, had been more established. Therefore, while Jews
+may have joined the same lodge because that was the network of people that they knew,
+there were plenty of options for others. This may have resulted in what appears to be a
+“Jewish lodge”.33
+When the lodge moved to Newport, the only other option was St. John's Lodge,
+which had stopped holding meetings just before the outbreak of the Revolution.34 The
+population of Newport was much smaller than the population of New York, so the
+existence of fewer lodges is unsurprising.  However, the existence of only one other
+lodge, particularly one that was relatively inactive, gave the Masons who lived there little
+choice in how they could become involved in the organization. Thus, upon the arrival of
+King David's Lodge in 1780, it makes sense that Jews and non-Jews alike sought to join.
+This may explain the change in the demographics of this lodge between New York and
+Newport.
+
+31 Pencak, Jews & Gentiles in Early America, 19.; The people who would have given these rights to Jews
+would have been powerful and, thus, part of the target population for Masons. That doesn't mean that
+they were definitely Masons, but chances are that, at least some of them, were
+32 Ross, A Standard History of Freemasonry in the State of New York, 4.
+33 Even though the members of this lodge were Jewish, chances are that they were still able to gain the
+connections discussed earlier through interactions with the other New York lodges. Once a Mason joins a
+lodge, they are part of the whole organization and other lodges are supposed to treat them as peers.
+Thus, joining a lodge with primarily Jewish membership did not remove the networks of non-Jews.
+34 Rugg, History of Freemasonry in Rhode Island, 41.
+
+--- Sayfa 45 ---
+38
+
+Within Newport, the proportion of Jews involved in Masonry is astounding.35
+When the membership of Newport lodges is compared to the estimated number of Jews
+living there, as recorded by Ezra Stiles (a contemporary who was fascinated with the
+Jewish community if somewhat disgusted by their religious practices) we find that most
+of the eligible Jews in Newport were involved in Masonry.  The estimate that we get
+from Stiles that most closely coincides with the opening of King David's Lodge comes
+from 1770 when he estimated that there were about 30 Jewish families living in Newport.
+In 1774, there was an official census taken by order of the General Assembly that
+calculated about 25 Jewish families, or about 200 Jews living in Newport at the time.36
+Compared to the 15 Jews belonging to St. Johns Lodge midcentury, and the 16 who
+helped to organize King David's Lodge, even allowing for some overlap, it seems that
+most of the heads of the Jewish households in Newport belonged to a Masonic lodge.37
+While Jews may have been a small part of the population, only 2 percent of the total
+population of Newport,38 they had a significant presence in the Masonic organization, in
+part, through primarily Jewish lodges like King David's Lodge.
+We see a similarly “Jewish lodge” in Philadelphia with the Sublime Lodge of
+Perfection. This lodge is particularly notable because, according to Masonic Librarian
+Julius F. Sachse, when it first opened in 1781 all of the members were Jewish.  However,
+
+35 The membership numbers of Jewish Masons in New York has proven elusive, so I was unable to do a
+similar proportional study. However, from what I know, it seems that the situation was probably similar
+and most Jews in New York probably had a connection to Masonry, if they weren't Masons themselves.
+This assumption is based off of the similarity in the number of Jews in Newport and New York and how
+that would translate numerically to Jews eligible for Masonry (i.e. not children or women).
+36 Kaplan, "The Jewish Merchants of Newport, 1749-1790,” 16.
+37 Pencak, Jews & Gentiles in Early America, 92.
+38 Kaplan, "The Jewish Merchants of Newport, 1749-1790,” 16.
+
+--- Sayfa 46 ---
+39
+
+by the time that the surviving minute book39 ends in 1789, all of the officers and most of
+the members were Christian.40  In fact, the last mention of a definitively Jewish Mason
+being present at a meeting is on November 7, 1788, when Solomon Bush “installed Bro.
+Gavin Hamilton..., Bro. Asheton Humphreys..., [and] Bro., Benja. Mason” as the new
+leaders of the lodge.41 This was three months before their final recorded meeting. Based
+on the names of the men listed at the beginning of the minute book and my knowledge of
+the Jewish families of this period, I question Sachse's assertion that all of the members
+were Jewish at the start of the lodge. While people like Samuel Myers and Moses Cohen
+were certainly Jews, it is unlikely that Thomas Randal was.42  Still, the trend that he notes
+from a mostly, if not entirely, Jewish membership to a largely gentile membership is
+accurate.
+This shift cannot be accounted for by a shift in location since the lodge did not
+move in that seven-year period, and it is unlikely that the other lodges in Philadelphia
+changed significantly enough to warrant such a change.  Although it is unclear exactly
+which lodges were in existence upon the arrival of the Sublime Lodge of Perfection, there
+had been at least five other lodges up to that point.43  To begin to understand this
+demographic change, we must look at where the lodge started.  This lodge was
+established by a meeting of the Grand Council held on June 25, 1781, although
+
+39 A minute book logs a general summary of each meeting of a lodge. It is not a detailed account, but
+states, generally, who was present and what happened.
+40 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 35.
+41 “Minute Book for the Lodge of Grand Elect Perfect & Sublime Masons in the City of Philadelphia," in
+Ibid., 161.
+42 Ibid., 40.
+43 Francis Vicente, "An Overview of Early Freemasonry in Pennsylvania," Pietre-Stones Review of
+Freemasonry, http://www.freemasons-freemasonry.com/pennsylvania_freemasonry.html (accessed
+November 15, 2013).
+
+--- Sayfa 47 ---
+40
+
+arrangements for this lodge were not completed until the Autumn of 1782.44  It was
+established as a Lodge of “Grand Elect Perfect & Sublime Masons”,45 meaning that they
+followed the Sublime Rite practices, which would later be known as the Ancient and
+Accepted Scottish Rite.46 The Scottish Rite was an innovation that went against the
+conservatism of the Grand Lodge of London.  Not only did it add degrees, but members
+of the Scottish Rite believed that their lodges practiced a more pure form of Masonry that
+was more egalitarian as opposed to the Grand Lodge's oligarchy.47
+Although Moses Michael Hays had introduced the Scottish Rite to America in
+1768,48 it is the Sublime Lodge of Perfection in Philadelphia that, through its
+membership, is given credit for popularizing it throughout the States.49  This was, in part,
+because of the movement of Jews through this lodge and back to their original colonies.50
+At the first official meeting, recorded on October 23rd, 1782, of the 11 people listed as
+present, over half of them are decisively Jewish, and the two top officials, Isaac da Costa
+and Solomon Bush,51 were both Jewish.52
+The immediate question that we have to address is why there were so many Jews
+right from the beginning when it was not an exclusively Jewish lodge and other lodges
+
+44 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 29.
+45 “Minute Book for the Lodge of Grand Elect Perfect & Sublime Masons in the City of Philadelphia," in
+Ibid., 40.
+46 Ibid., 29.
+47 Margaret C. Jacob, The Origins of Freemasonry Facts & Fictions (Philadelphia: University of Pennsylvania
+Press, 2006), 105.
+48 Harry L. Golden and Martin Rywell, Jews in American History: Their Contribution To The United States,
+1492-1950 (Charlotte, North Carolina: H.A. Stalls Printing Company, 1950), 27.
+49 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 29.
+50 This was the result of the American Revolution, and will be explained in more detail later in the chapter.
+51 Both of these men will be further discussed in Chapter 3
+52 “Minute Book for the Lodge of Grand Elect Perfect & Sublime Masons in the City of Philadelphia," in
+Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and Accepted
+Masons of Pennsylvania, 41.
+
+--- Sayfa 48 ---
+41
+
+already existed. When we look at the rosters for other Philadelphia lodges which existed
+in the eighteenth-century, it is striking to note that the Jewish membership of the Sublime
+Lodge was an exceptional event.53 Among the members of the Tun Tavern Lodge, a
+group that used the practices of Modern Freemasonry, very few, if any members were
+Jewish.54 The same is observed with the roster of the Freemason's Lodge No. 2, another
+group of Moderns which was warranted by Benjamin Franklin.55 To be fair, these lodges
+started much earlier than the Sublime Lodge of Perfection and they may not have
+overlapped with the Sublime Lodge.  Still, this difference is important to note because it
+indicates that there was something different about the Sublime Lodge of Perfection, at
+least initially, that attracted more Jews.
+One possibility for the large number of Jews in this lodge is the sheer number of
+Jews who were residing in Philadelphia at this time. While there had been a notable
+Jewish population in Philadelphia before the Revolution, it increased significantly as a
+result of the Revolution.  During the war, many Jews fled to Philadelphia from the other
+major Jewish settlements in the colonies when their home cities were taken over by the
+British.56  This was a particularly noticeable trend among the Jewish populations of New
+York and Charleston because most Jews in these areas were no longer loyal to the Crown.
+
+53 In other colonies we don't see this same trend. It is possible that Jews belonged to other lodges which
+don't have surviving rosters.
+54 Julius Frederick Sachse, “Roster of the Lodge of Free and Accepted Masons Which Met at the Tun
+Tavern, Philadelphia,” The Pennsylvania Magazine of History and Biography 20, no. 1 (1896),
+http://www.jstor.org/stable/20085679 (accessed October 12, 2013).
+55 Julius F. Sachse, “Roster of the Freemason's Lodge of Philadelphia No. 2, of the Moderns,” The
+Pennsylvania Magazine of History and Biography 31, no. 1 (1907), http://www.jstor.org/stable/20085367
+(accessed October 12, 2013).; To be clear, these estimates are based off of the names on the roster and
+they don't entirely discount the presence of Jews in these lodges. The name Isaac Meyers appears on the
+list of Lodge No. 2 and the last name Nunes appears on the list of Tun Tavern. Both of these could have
+been Jews as the Myers family and the Nones family were wealthy Jewish families at this time. However,
+the point that, if Jews were there, there weren't very many, still stands.
+56 Diner, The Jews of the United States, 1654 to 2000, 47-8.
+
+--- Sayfa 49 ---
+42
+
+Thus, they fled when their cities were occupied by the British.  Because this was a period
+where more Jews, many of whom were likely already Masons, came to Philadelphia, it
+would make sense that many of them would seek out a lodge to join upon arrival.
+In addition, this would, at least partially, explain why the Jewish membership
+decreased over time because, after the end of the war, many of these Jews moved back to
+their original communities. This is part of what helped spread Scottish Rite Masonry
+through the colonies and is a reasonable explanation for why Jewish membership had
+drastically decreased in the Lodge of Perfection by 1788. This is illustrated by Isaac da
+Costa, a Charleston Jew who was one of the high ranking officers at the start of the Grand
+Lodge of Perfection, but who left Philadelphia to return to Charleston in Fall of 1782
+where he organized his own Lodge of Perfection the following February.57
+In conjunction with this, more Christians joined the lodge.  By the end of the
+minute book in 1788, none of the names listed as present Masons were the same as the
+ones at the beginning.58  This would seem to indicate a high level of turnover. This
+reflects a trend that we see among the Jewish population.  People may have come to
+Philadelphia during the war because their communities were occupied by the British, but
+they left after the war.  However, because there was a larger population of non-Jews in
+Philadelphia, these people were easily replaced.  This was part of a period of immigration
+with relatively few Jews.  The next wave of Jewish immigration wouldn't really appear
+until 1820.59 This meant that more non-Jews were arriving in Philadelphia, replacing the
+Jews who were leaving. Although the two groups were never comparable in size, this
+
+57 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 32-3.
+58 “Minute Book for the Lodge of Grand Elect Perfect & Sublime Masons in the City of Philadelphia," in
+Ibid., 41, 165.
+59 Diner, The Jews of the United States, 1654 to 2000, 4.
+
+--- Sayfa 50 ---
+43
+
+affected the proportions of the population which would make it more likely for a non-Jew
+to join the lodge.  The combination of Jews leaving and others arriving may help to
+explain the shift in the religious make up of this lodge.
+
+Jews and Lodges in America
+Ultimately, what can be drawn from this information is that Jews used
+Freemasons largely as a way to connect with others and adapt to American society.  They
+became involved in lodges, and even started their own, although these “Jewish lodges”
+were not as exclusive or as different as the lodges in Europe seemed to be. The tight
+networks of Jews were expanded, in part, through their interactions with non-Jews in
+Masonry and this offered them a higher social standing as well as more opportunities for
+business. These interactions can be seen in events such as the Gentile funding of Mikveh
+Israel, and even in the willingness of President Washington to support the Jewish
+community in Newport. Clearly, if the President of the United States was responding to
+this group, they were seen to have some significance.
+Although lodges appeared that had predominately Jewish membership, most of
+these, eventually, were able to incorporate a more diverse demographic group, and some
+even ended up without many Jews.  Still, even in lodges with significantly Jewish
+membership, the networks of non-Jews were still open to them.  Once they became
+Masons, Jews were welcomed at different lodges and could freely travel and form
+relationships with non-Jews as Masonic brothers. Therefore, joining a lodge with other
+Jews allowed Jews to use their existing network to gain access to another network.
+
+--- Sayfa 51 ---
+44
+
+Jewish attraction to Masonry through lodges is understandable.  It provided
+opportunities for them, and the presence of other Jewish Masons allowed them a
+comfortable environment.  For Masons, the advantage at a lodge based level is a little bit
+less clear.  In America, the clearest connection is through the Scottish Rite.  Although this
+was not a characteristically Jewish part of Masonry, the involvement of Moses Michael
+Hays, a Jew, as Deputy Inspector General for Masonry for North America through a
+Scottish Rite patent linked the two. Thus, the advantage for Masonry of Jewish
+involvement in lodges was the spread of the Scottish Rite.
+
+--- Sayfa 52 ---
+45
+
+Chapter Three: American Jewish Freemasons
+Ultimately, no understanding of how Jews interacted within the Masonic
+organization would be complete without a look at some of the most important American
+Jewish Masons. Jewish Masons in America tended to be elites who were also part of
+other civic organizations and were considered significant within their communities. They
+were not isolated to just the Jewish community, but branched out, in part through joining
+the Masons, but also in a variety of other spheres including through merchant networks
+and through government.
+For the purposes of examining this relationship, this section will focus on three
+men (Moses Michael Hays, Solomon Bush, and Isaac da Costa) from different regions of
+the country who represent three of the five major cities where Jews settled. These men, in
+particular, show how participation in Masonry did not preclude involvement in the
+Jewish community.  In fact, many Jews who were involved in Masonry also served in
+leadership positions within their Jewish communities. These three men show us how,
+despite our modern perceptions, there was no contradiction for a Jew at the time between
+practicing their religion and becoming a Mason.
+
+Moses Michael Hays
+Moses Michael Hays is often considered one of the most important American
+Masons and the most important Jew in American Freemasonry. He is credited with
+spreading the Sublime, or Scottish Rite across America1 through his efforts to deputize
+
+1 Julius F. Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania (Philadelphia: The New Era Printing Company, 1915), 19.
+
+--- Sayfa 53 ---
+46
+
+fellow, well-known brethren across states.2 This created a network that was actively
+working to introduce Masons to the Sublime Rite, thus spreading its influence as quickly
+and efficiently as possible. Hays was also given several important titles throughout his
+time in the Masonic brotherhood including Grand Master of Sublime Masonry3 and Most
+Worshipful Grand Master of the Massachusetts Lodge in Boston.4  He was also an
+involved member of the Jewish community and continued to practice his religion until
+the day he died, something that could not be said for all Jews of the time. His ability to
+participate in these communities in meaningful ways enriches our understanding of how,
+on an individual level, the Jewish and Masonic communities interacted.
+Hays was born to Judah Hays and Rebecca Michaels Hays in 1739.  The Hays
+family was one of the most important Jewish families in New York with connections to
+other wealthy Jewish families across the colonies through marriage. This family network
+gave him access to a large network of Jews which, in turn, provided economic and
+religious opportunities for him. As a young man, he was involved in his father's
+successful import and export business5 and was a prominent member of the New York
+congregation Shearith Israel. As part of this congregation, he served as Second Parnas6
+
+2 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 12.
+3 Ibid., 11.
+4 Ibid., 23.
+5 William Weisberger, "Hays, Moses Michael," American National Biography Online (Sept. 2000),
+http://www.anb.org/articles/01/01-00388.html (accessed October 28, 2013).
+6 The closest thing to a parnas today is the President of a congregation. At the time, they held both
+religious and administrative duties, but were a lay leader, rather than a rabbi. via Jewish Encyclopedia, s.v.
+“Parnas (colloquially pronounced parnes),” http://www.jewishencyclopedia.com/articles/11915-parnas
+(accessed November 5, 2013).
+
+--- Sayfa 54 ---
+47
+
+and as a Trustee.7 On August 13, 1766, he married Rachel Myers, a member of another
+well-known Jewish family.
+Two years later, he is credited as introducing the Sublime Rite degrees of
+Freemasonry to the American colonies. At the same time, he was appointed Deputy
+Inspector General of Masonry for North America by Henry Andrew Francken.8 This
+deputation on December 6, 1768 is the earliest Masonic record that we have of Moses
+Michael Hays.  It reads:
+Our Dear Brother, Moses M. Hays, (of the Jewish nation, native,
+inhabitant and merchant of the city and province of New York, in North
+America,) is known and approved Master Mason of the Blue Lodge,
+Grand Elected, Perfect, and Sublime Mason, Knight of the East and Prince
+of Jerusalem, &ca. &ca &ca And, that having with firmness, and
+constancy, sustained the brightness of the Grand Luminary, and given us
+the most solid proofs of his fervency, constancy, and zeal, in support of
+the Royal Craft, and his submission to the Supreme Tribunal of the
+Sovereign Princes of the Royal Secret; We have initiated him Patriarch,
+Noachite, Sovereign Knight of the Sun...we have consented to grant,
+constitute, and appoint our said dear brother Moses M. Hays, by these
+presents, Deputy Inspector General and Grand Master of and over all
+Lodges of the Royal Arch, Grand Elected and Perfect Masons, Councils of
+the Knights of the East, and Princes of Jerusalem, &ca. &ca &ca...and
+hereby give him full power to constitue Lodges of Royal Arch and
+Perfection, also Councils, and Grand Councils of Knights of the East...in
+the West Indies and North America.9
+
+It is important to note that, in their description of Hays, they mention that he is a member
+of the Jewish “nation”. This is used to describe him separately from the fact that he is
+native to New York, thus describing his ethnic, and perhaps religious, identity.
+
+7 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 19.
+8 Ibid.; Some Masonic historians speculate that Francken, as well as Brother Stephen Morin who
+introduced the Sublime Rite from France to San Domingo, were Jewish. However, there is no evidence
+that this is the case. Unlike Hays, their religion is not explicitly mentioned in Masonic texts.
+9 Deputation of Moses Michael Hays, December 6, 1768 quoted in Sachse, Ancient Documents relating to
+the A. and A. Scottish Rite in the Archives of the Free and Accepted Masons of Pennsylvania, 20.
+
+--- Sayfa 55 ---
+48
+
+By contrast, when Abraham Forst, another Masonic Jew, received his deputation
+from Moses Michael Hays, he was not defined by his religion.10  Perhaps this is because
+the appointment was being bestowed from one Jew to another, or perhaps Hays felt that
+mentioning their shared religion would be counter to the religiously tolerant nature of
+Masonry.  Nevertheless, the mention of religion at all on Hay's deputation is significant
+because it shows that, although Freemasons allowed people into their organization
+regardless of their religious affiliation, they still felt it was noteworthy as a mark of
+identity.  That being said, there is no indication that his religion limited him, either in
+access or in rank, within the Masonic fraternity.  The ease with which it was allowed to
+be left off of the Forst patent reinforces the relative insignificance of religion within
+Masonry.  After all, if it was important, someone would likely have insisted that it
+appear.
+In 1769, Hays organized King David's Lodge of Freemasons in New York. The
+warrant for this was issued by Provincial Grand Master of New York George Harrison
+Esq., and made Moses Michael Hays its first Master Mason.11 However, the next year, he
+and his family moved to Newport, Rhode Island, another major city for Early American
+Jews.  Jews were already established in Newport's Masonic community, with 15
+belonging to St. John's Lodge in the mid-eighteenth century.12 The initial leaders of this
+lodge were all Christians who wanted a lodge that would be easily accessible.  By May
+
+10 “Health, Stability and Power By the Glory of Ye Grand Architect of the Universe Lux Ex Tenebris” in
+Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and Accepted
+Masons of Pennsylvania, 15-7.
+11 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 21.
+12 William Pencak, Jews & Gentiles in Early America, 1654-1800 (Ann Arbor, Michigan: The University of
+Michigan Press, 2005), 92.
+
+--- Sayfa 56 ---
+49
+
+1763, there had been 22 candidates accepted to the lodge.13 It is unclear exactly how this
+lines up chronologically with the 15 Jews in the lodge, but it certainly indicates that a
+significant proportion of the lodge was Jewish.
+In 1780, Hays was able to move King David's Lodge from New York to Newport
+under the same warrant.  He did this, in part, by citing the names of those who would
+serve as the lodge's leadership, many of whom were Jews14 and some of whom
+transferred their membership from St. John's Lodge.15  King David's Lodge flourished
+and, until the Jewish community in Newport spit apart in the 1790s, many of the
+members and officers of King David's Lodge were Jews.  Jews may have been a small
+section of the population, only 2 percent in Newport,16 but, it seems that most of the ones
+who were eligible for membership in the Masonic fraternity, joined this lodge.  On
+October 19, 1790, as the Jewish community split apart, St. John's Lodge and King
+David's Lodge agreed to merge, adopting the name of St. John's Lodge and creating a
+membership that was 141 strong, with the leadership incorporating Jews (Moses Seixas)
+and non-Jews (John Breese and John Topham) alike.17
+It is unclear exactly when, but during the 1780s, Hays moved to Boston, possibly
+to start over after the economic difficulties that many Jewish merchants had faced prior to
+
+13 Robert E. Brinton and John M. Johnston, "The History of St. John's Lodge No.1," St. John's Lodge No. 1,
+http://www.stjohnslodgeno1.com/Lodge_History.html (accessed December 1, 2013).
+14 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 21-2.
+15 Brinton and Johnston, "The History of St. John's Lodge No.1," St. John's Lodge No. 1,
+http://www.stjohnslodgeno1.com/Lodge_History.html.
+16 Marilyn Kaplan, "The Jewish Merchants of Newport, 1749-1790,” The Jews of Rhode Island, Edited by
+George M. Goodwin and Ellen Smith (Hanover, New Hampshire: University Press of New England, 2004),
+16.
+17 Brinton and Johnston, "The History of St. John's Lodge No.1," St. John's Lodge No. 1,
+http://www.stjohnslodgeno1.com/Lodge_History.html.
+
+--- Sayfa 57 ---
+50
+
+the Revolution.18  While in Boston he became involved in brokerage and insurance and
+owned a shipping office and counting house with his son Judah.19  Here he became the
+first Jewish benefactor of Harvard College20 and, from 1788 to 1793, he served as the
+Most Worshipful Grand Master of the Lodge in Boston.21  Boston, while a major city of
+the era, was not a major Jewish city, in part because the Puritans were not tolerant of
+other religions. He became successful here despite his religion, since he did not have the
+large Jewish network of support here that he had had in Newport and New York.
+Eventually, on May 9, 1805, he died at his home in Boston and his remains were taken to
+Newport to be buried in the Jewish cemetery there.22
+At the time of his death, he was generally very well remembered.  His death
+notice was published in no fewer than seven newspapers in Massachusetts alone.  Many
+of these articles read similarly, mentioning his admirable character, his strong intellect,
+his love for all men, and his virtuous life.23  The fact that his death notice was so wide
+spread and that, in most cases, so much space was dedicated to a recounting of his
+
+18 Kaplan, "The Jewish Merchants of Newport, 1749-1790,” 20.
+19 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 23.
+20 Harry L. Golden and Martin Rywell, Jews in American History: Their Contribution To The United States,
+1492-1950 (Charlotte, North Carolina: H.A. Stalls Printing Company, 1950), 29.
+21 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 22.
+22 Ibid., 26.
+23 Columbian Centinel, May 11, 1805, http://www.readex.com/content/early-american-newspapers-1690-
+1922 (accessed October 25, 2013).; Independent Chronicle, May 13, 1805,
+http://www.readex.com/content/early-american-newspapers-1690-1922 (accessed October 25, 2013).;
+Boston Commercial Gazette, May 13, 1805, http://www.readex.com/content/early-american-
+newspapers-1690-1922 (accessed October 25, 2013).; Repertory, May 14, 1805,
+http://www.readex.com/content/early-american-newspapers-1690-1922 (accessed October 25, 2013).;
+New England Palladium, May 14, 1805, http://www.readex.com/content/early-american-newspapers-
+1690-1922 (accessed October 25, 2013).; Newburyport Herald, May 14, 1805,
+http://www.readex.com/content/early-american-newspapers-1690-1922 (accessed October 25, 2013).
+
+--- Sayfa 58 ---
+51
+
+character, was probably both an expression of how well known he was and how respected
+he was in the greater community, thus, making his death a noteworthy event.
+Robert Treat Paine Jr., the son of a signer of the Declaration of Independence,
+even wrote an elegiac sonnet inscribed to his memory.24  It is interesting to note that,
+within this poem, there is no mention of his religion.  Instead, he is described as “Man of
+Soul” and Treat Paine recalls his “Wit” and “Friendship.”25 It is interesting that religion
+was not something that Treat Paine used to define Hays. This may have been the context
+of their friendship. Treat Paine was a fellow Mason,26 so it was possible that their
+interactions were religiously neutral. That may not have been something that was part of
+Hays' identity to Treat Paine. Instead, it was their friendship and his virtuous qualities
+that he chose to memorialize in this poem.  It is clear that, in his life, he was loved and
+admired by all, both Jew and Gentile.
+
+Solomon Bush
+Philadelphia was the hub for American Jews during the Revolution, many of
+whom were patriots and found safety among Philadelphians when their hometowns were
+captured by the British.  Philadelphia was also a hub for Masons.  It was one of the most
+enlightened cities in the colonies with many intellectual organizations, including the
+Masons.  Solomon Bush was a Philadelphia resident, both prior to and after the
+Revolution, and was well known in Philadelphia for his Masonic involvement and for his
+
+24 Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and
+Accepted Masons of Pennsylvania, 26.
+25 Elegiac Sonnet Inscribed to the Memory of M. M. Hays, Esq., American Jewish Archives,
+http://americanjewisharchives.org/publications/journal/PDF/1956_08_01_00_doc_paine.pdf (accessed
+June 5, 2013)
+26 "Famous Masons." Mariner Lodge No. 2. http://www.marinerlodge2afm.org/page4.htm (accessed
+November 5, 2013).
+
+--- Sayfa 59 ---
+52
+
+heroism during the American Revolution. Not much is known about his early life, but his
+role within the Sublime Lodge of Perfection in Philadelphia is well documented.
+Solomon Bush was born in Philadelphia to Mathias Bush, a prominent
+Philadelphia merchant, and Tabitha Mears on October 13, 1753. There is very little
+additional information about Solomon Bush's early life until 1776 when he “distinguished
+himself” as part of the Pennsylvania militia “when the service was Critical &
+Hazardous”.27  This was most likely through his participation in the 'Flying Camp of
+Associators of Pennsylvania', troops that served on the front lines and bore the brunt of
+most attacks,28 and his participation in the Battle of Long Island.29
+On July 5, 1777, the Supreme Council of Pennsylvania appointed him adjutant-
+general of the state militia, making him its chief administrative officer. This was
+significant because it was a promotion in response to his work on the front lines. He was
+singled out for being a good soldier, despite his religion and his relative youth.  However,
+in September of that year, he had to be taken to Chestnut Hill after being wounded in the
+thigh during a skirmish.  He wrote of this injury in a letter to his friend Henry Lazarus in
+November 1777 saying “I suppose you heard of my being wounded the 18th of Sept when
+with difficulty was brot home in a most deplorable condition with my thigh broke, and
+the surgeons pronounced my wound Mortal.”30  The next month he was imprisoned by
+
+27 Pennsylvania Colonial Records, XXI, 140 quoted in Edwin Wolf and Maxwell Whiteman, The history of
+the Jews of Philadelphia from Colonial times to the Age of Jackson (Philadelphia: The Jewish Publication
+Society of America, 1957), 83.
+28 "Revolutionary War Records at the Pennsylvania State Archives," Pennsylvania Historical & Museum
+Commission, http://www.portal.state.pa.us/portal/server.pt/community/revolutionary_war/3852
+(accessed November 15, 2013).
+29 Peter Egill Brownfeld, "From Private to Colonel: Jewish Service in the Revolutionary War," The American
+Council for Judaism, http://www.acjna.org/acjna/articles_detail.aspx?id=405 (accessed November 1,
+2013).
+30 Solomon Bush to Henry Lazarus, Chestnut Hill, Nov. 15, 1777, MS quoted in Wolf and Whiteman, The
+history of the Jews of Philadelphia from Colonial times to the Age of Jackson , 84.
+
+--- Sayfa 60 ---
+53
+
+the British Army, but was released in exchange for British prisoners held by the
+Continental army. Because of his injury, he could not work, so, on October 27, 1779, the
+supreme council of Pennsylvania promoted Bush to lieutenant-colonel which provided a
+salary.31  With this promotion, Solomon Bush became the most militarily distinguished
+Jew in the Revolution.32
+After his military service, his interest was in government. He applied for a
+number of federally appointed positions including the Secretary of the Treasury, the
+Naval Officer for the Port of Philadelphia, and the Postmaster-General of the United
+States.  Although he was unsuccessful at gaining any of these federal roles, he was the
+first Jew to be considered for a Cabinet position.  On a local level, he found more
+success, with his name appearing in various Pennsylvania newspapers as part of local
+committees or other governmental organizations, including the Grand Inquest of
+Montgomery County and “a meeting of the delegates from a majority of the townships of
+the county of Philadelphia.”33
+In addition to becoming involved in government, Bush got involved in Masonry.
+Although it is not exactly clear when Bush first became a Mason, in 1781, he was made
+the Deputy Inspector General of Masonry for Pennsylvania by Moses Michael Hays.34
+The role of the Deputy Inspector General was administrative and unrelated to the degree
+
+31 Jewish Encyclopedia, s.v. “Bush, Solomon,” http://www.jewishencyclopedia.com/articles/3852-bush-
+solomon (accessed November 5, 2013).
+32 Pencak, Jews & Gentiles in Early America, 1654-1800, 203.
+33 "Germantown, February 14, 1785," Pennsylvania Packet, February 17, 1785,
+http://www.readex.com/content/early-american-newspapers-1690-1922 (accessed October 25, 2013).;
+"The Grand Inquest of Montgomery County, for May Term 1793," General Advertiser, May 17, 1793,
+http://www.readex.com/content/early-american-newspapers-1690-1922 (accessed October 25, 2013).
+34 Wolf and Whiteman, The history of the Jews of Philadelphia from Colonial times to the Age of Jackson ,
+155.
+
+--- Sayfa 61 ---
+54
+
+of Masonry that one had achieved.35 They were the ones who oversaw the lodges in their
+assigned area. Soon, he was made a Grand Master36 and is recorded as being “in the
+Chair” at almost every meeting of the Sublime Lodge of Perfection from 1782 to 1788.37
+In November 1788, he resigned as Grand Master of the Sublime Lodge of Perfection for
+the purposes of connecting the Pennsylvania Grand Lodge with the Ancient and Modern
+Grand Lodges in England.38
+Soon after his return, he married Nancy Marshall, daughter of the wealthy
+Christopher Marshall Jr.39  His marriage to a non-Jew was an indicator of his gradual
+assimilation and separation from his Jewish roots. While he had given money to aid the
+construction of Mikveh Israel in 1782,40 upon his death in 1796, by his request, he was
+buried in the Quaker Friends burial ground in Germantown.41  This early death was, in
+part, a result of complications from the injury that he had sustained during the war. It is
+interesting to note that his death notice states that he bore his illness with “uncommon
+christian fortitude”, even though he was not Christian.42
+
+35 Encyclopedia of Freemasonry, s.v. “Sovereign Grand Inspector-General,”
+http://encyclopediaoffreemasonry.com/s/sovereign-grand-inspector-general/ (accessed November 5,
+2013).
+36 Wolf and Whiteman, The history of the Jews of Philadelphia from Colonial times to the Age of Jackson ,
+155.
+37 “Minute Book for the Lodge of Grand Elect Perfect & Sublime Masons in the City of Philadelphia," in
+Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and Accepted
+Masons of Pennsylvania, 41-161.
+38 Wolf and Whiteman, The history of the Jews of Philadelphia from Colonial times to the Age of Jackson ,
+156.
+39 Independent Gazetteer, April 9, 1791, http://www.readex.com/content/early-american-newspapers-
+1690-1922 (accessed October 25, 2013).; Wolf and Whiteman, The history of the Jews of Philadelphia from
+Colonial times to the Age of Jackson , 157.
+40 Jewish Virtual Library, s.v. “Bush, Solomon,”
+http://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0004_0_03772.html (accessed
+November 5, 2013).
+41 Philadelphia Minerva, June 13, 1795, http://www.readex.com/content/early-american-newspapers-
+1690-1922 (accessed October 25, 2013).
+42 Ibid.
+
+--- Sayfa 62 ---
+55
+
+Although he chose not to be buried in the Jewish cemetery, there is no evidence
+that he ever formally converted or even that he cast off Judaism.  Therefore, it is
+interesting that they used the word “christian” to describe him when, even Jews who did
+formally convert, could not escape their association with the Jewish nation.43  In addition,
+his death notice describes him as “a good husband...a true patriot and friend of
+mankind.”44  It is clear that he was perceived fondly by his peers and that the religion that
+he identified himself with had relatively little impact on his life, both within and outside
+of Masonry.
+
+Isaac da Costa
+Isaac da Costa was an important Mason, but primarily in his hometown of
+Charleston, South Carolina.  He did spend some time in Philadelphia during the
+Revolution and his name appears as Grand Warden in accounts found in the minute book
+of the Sublime Lodge of Perfection in Philadelphia,45 but he was one of the Jews who
+quickly returned to Charleston after the Revolutionary War ended.
+Similarly to Solomon Bush, we know little about the early life of Isaac da Costa.
+We do know that he was born to Joseph and Sarah da Costa in London in 1722, and that
+he married his wife, also named Sarah, in 1745. It is not exactly clear when he came to
+the colonies, although it seems to have been around 1750 since he was about 29 at the
+
+43 One example is David Franks who, although he formally converted, was still commonly referred to as a
+member of the Jewish nation.
+44 Philadelphia Minerva, June 13, 1795, http://www.readex.com/content/early-american-newspapers-
+1690-1922.
+45 “Minute Book for the Lodge of Grand Elect Perfect & Sublime Masons in the City of Philadelphia," in
+Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and Accepted
+Masons of Pennsylvania, 41-161.
+
+--- Sayfa 63 ---
+56
+
+time of his arrival.46  Upon arrival, he seems to have settled in Charleston, South Carolina
+and become a merchant, an occupation that would have connected him to many
+prominent people across the colonies, particularly other Jews.
+He also quickly became involved in the new congregation that was forming in
+Charleston around the time of his arrival.  Between 1750 and 1757, this Congregation,
+known as Kahal Kadosh Beth Elohim, met in a small home to pray.47  Isaac Da Costa was
+the first hazan, or reader, of the congregation.  This role is the equivalent of the modern
+cantor, meaning that he led prayers and read the Torah at services.  This was a vital role
+for the congregation and was an honor that would not have been taken lightly.  At this
+time, most of the religious leaders in America were lay-leaders who had received some
+education, rather than formally trained rabbis.48  Thus, these men were the leaders of their
+local Jewish communities.  Da Costa served in this role until 1764, when he resigned.49
+During his tenure, his family bought a cemetery in Charleston and gave it to the
+congregation in 1762, leaving a legacy that would remain important to the congregation
+for years to come.50
+As he got involved in the Jewish community, da Costa also joined the Masonic
+fraternity.  By 1753, he was a member of King Solomon's Lodge of Charleston, making
+him the first Jewish Mason, that we know of, in South Carolina.51  In 1759, he was made
+the treasurer of King Solomon's Lodge.  He remained involved in this lodge until 1781
+
+46 Charles Reznikoff, The Jews of Charleston: A History of an American Jewish Community (Philadelphia:
+The Jewish Publication Society of America, 1950), 15.
+47 Ibid., 17.
+48 Wolf and Whiteman, The history of the Jews of Philadelphia from Colonial times to the Age of Jackson ,
+128.
+49 Reznikoff, The Jews of Charleston, 47.
+50 Pencak, Jews & Gentiles in Early America, 1654-1800 (Ann Arbor, Michigan: The University of Michigan
+Press, 2005), 123.
+51 Samuel Oppenheim, "The Jews and Masonry in the United States before 1810," American Jewish
+Historical Quarterly (1910): 76.
+
+--- Sayfa 64 ---
+57
+
+when he refused to take the oath of allegiance to the occupying British forces.  As a
+result, he was banned from Charleston and had all of his property confiscated.52  Needing
+somewhere to go, he and his family moved to Philadelphia along with fellow banished
+Jew Benjamin Nones and eight other Jews.  The Jews of South Carolina were
+overwhelmingly supportive of the patriot cause.  Of the 56 men in Charleston at the time
+who were definitively identifiable as Jewish, 36 of them identified as patriots, with 26
+officially enlisting in units of the Continental Army.53 Thus, it was not surprising that da
+Costa was dedicated enough to the patriot cause to risk banishment.
+In 1783, da Costa returned to Charleston, but, in the approximately two years that
+he spent in Philadelphia, he left his mark. Upon arrival, he recreated, to the best of his
+abilities, his life in Charleston, getting involved in the Jewish and Masonic communities
+that existed in Philadelphia.  On June 25, 1781, at a meeting to establish the Sublime
+Lodge of Perfection in Philadelphia, Isaac da Costa is listed as present and as “Grand
+Warden, Inspector General for the W.I. [West Indies] and North America”.54 In the next
+entry, he is listed as the Chair, followed by the Grand Warden in the next few entries,55
+and stops appearing in the minute book of the Sublime Lodge of Perfection after the entry
+on October 31, 1782.56  Considering that the next entry is in 1784 and da Costa went back
+to Charleston in 1783, this absence of his name is not surprising.
+
+52 Reznikoff, The Jews of Charleston, 50.
+53 Pencak, Jews & Gentiles in Early America, 1654-1800 (Ann Arbor, Michigan: The University of Michigan
+Press, 2005), 125.
+54 “Minute Book for the Lodge of Grand Elect Perfect & Sublime Masons in the City of Philadelphia," in
+Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and Accepted
+Masons of Pennsylvania, 40.
+55 These are all administrative, rather than ranking, titles.
+56 “Minute Book for the Lodge of Grand Elect Perfect & Sublime Masons in the City of Philadelphia," in
+Sachse, Ancient Documents relating to the A. and A. Scottish Rite in the Archives of the Free and Accepted
+Masons of Pennsylvania, 40-7.
+
+--- Sayfa 65 ---
+58
+
+He also became involved in Jewish life in Philadelphia.  In 1782, he became one
+of the original members of Congregation Mikveh Israel.57 During the years between the
+start of the Revolution and the time that the Treaty of Paris was signed ending it, the
+Philadelphia Jewish community underwent intense change.  This was, in part, due to the
+threefold increase in the Jewish population between 1765 and 1775 as a result of the
+arrival of refugees from many different colonies.58  These refugees brought ideas from
+their communities, particularly the New York community which already had strong
+connections to the Jews of Philadelphia, which were implemented in their new home.
+One such idea was the formal election of officers and established rules for the
+congregation.  As part of the implementation of this policy, Isaac da Costa was appointed
+as chairman pro tempore, and helped to create the structure of Mikveh Israel.59
+However, despite his involvement and dedication to these Jewish and Masonic
+organizations, he moved back to Charleston in 1783, almost as soon as he was able to.
+Just as he had brought some ideas to Philadelphia, da Costa brought some Philadelphia
+ideas back to Charleston.  In February 1783, after being appointed Deputy Inspector
+General of Masonry for South Carolina by Moses Michael Hays, he started a Sublime
+Lodge of Perfection in Charleston.60 His membership in the Sublime Lodge of
+Philadelphia almost certainly influenced his decision to start his own in Charleston, a
+
+57 Oppenheim, "The Jews and Masonry in the United States before 1810," 76.
+58 Wolf and Whiteman, The history of the Jews of Philadelphia from Colonial times to the Age of Jackson ,
+114.
+59 Ibid., 115.
+60 Oppenheim, "The Jews and Masonry in the United States before 1810," 76.
+
+--- Sayfa 66 ---
+59
+
+lodge that would continue in existence for many years and would help to establish
+Sublime Rite Masonry in the South.61
+Despite some small changes, da Costa sought to return to his previous life when
+he returned to Charleston.  In April 1783, he bought an advertisement informing people
+of his return and his intent to continue “on the Commission and the Vendue business, at
+his Store No. 36, on the Bay, where he is provided with every necessary Store for the
+reception of all kinds of goods.”62  This served as both an advertisement for his business
+and a public notice that he had returned after being away for two years.  Unfortunately,
+he would not be around for long.
+In November 1783, he died in Charleston, less than a year after his return. Upon
+his death, another Jew, Joseph M. Myers, was appointed by Moses Michael Hays as his
+replacement in the role of Deputy Inspector General of Masonry for South Carolina.  Da
+Costa's son, Joseph da Costa, would continue to be involved in Masonry.63  While
+nothing was published after da Costa's death that was quite as elaborate as what was
+published after the deaths of Hays and Bush, the short line referencing his death is kind.
+It reads “Mr. ISAAC DA-COSTA...a respectable citizen and an honest man.”64 This is
+not distinguished in any way from the other deaths listed on that day, but it does reflect
+the positive way that people saw him.
+
+61 It is unclear how this lodge interacted with Solomon's Lodge and other lodges that had appeared in
+Charleston. In 1783, the York Rite also came to Charleston, creating tensions between Masonic groups,
+but this seems to be separate from the appearance of the Sublime Lodge of Perfection. Via Albert G.
+Mackey, The History of Freemasonry in South Carolina, from its origin in the year 1736 to the present time,
+(Columbia, South Carolina: South Carolinian Steam Power Press, 1861), 55.
+62 South-Carolina Gazette and General Advertiser, April 26, 1783, http://www.readex.com/content/early-
+american-newspapers-1690-1922 (accessed October 25, 2013).
+63 Oppenheim, "The Jews and Masonry in the United States before 1810," 76.
+64 South Carolina Weekly Gazette, November 28, 1783, http://www.readex.com/content/early-american-
+newspapers-1690-1922 (accessed October 25, 2013).
+
+--- Sayfa 67 ---
+60
+
+There is nothing about his religion in this notice, something that is unsurprising in
+the context of Masonry, but the fact that something was published at all is an indicator of
+both his social status and his public persona.  He seems to have been well respected and
+trusted. He was able to participate freely in both Masonry and the Jewish community, no
+matter where he went, without sacrificing either one or his reputation.
+
+Jewish Freemasons
+Each of these men is an example of Jews in specific American regions who had
+an impact on both their local Jewish community as well as their local Masonic
+community. As is to be expected, there is a varying amount known about all of them and
+not all of them contributed equally, yet all were seen as significant and important
+members of the community by their contemporaries.
+One thing that is important to note is the interrelatedness of all of them, through
+the Jewish networks, but also through Masonic connections. For example, Solomon Bush
+and Isaac da Costa served together as Masons in the Sublime Lodge of Perfection in
+Philadelphia, a lodge which Hays had authorized and had helped to create through his
+involvement in the spread of Sublime Rite Masonry.  This interaction was something that
+happened largely as a consequence of the Revolution and circumstances which caused
+Jews to centralize in Philadelphia.  As well off merchants and traders, as well as
+prominent members of their local Jewish communities, there were already networks that
+stretched across colonies to connect these men, but the Revolution and their Masonic
+brotherhood helped to facilitate these previously existing relations.
+
+--- Sayfa 68 ---
+61
+
+Another important similarity was that these men were important in both their
+Masonic organizations as well as their Jewish ones.  They held important titles and were
+very involved in both groups. Rather than arguing that one influenced the other, it is more
+likely that this is an indicator of their general status and level of education and wealth.
+Masons tended to be members of the elite class and lay leaders of the Jewish community
+were required to have a certain amount of education as a traditional rabbi was highly
+educated.  The elite classes were the ones who could afford to educate their children;
+therefore, it makes sense that, in the limited scope of Jewish Masons, there would be
+overlap.
+Ultimately, what is most important to note is that these men could all participate
+equally in both the Jewish and Masonic communities without having to choose one.
+While people like Solomon Bush gradually became less connected to Judaism, Moses
+Michael Hays and Isaac da Costa retained their Jewish connections.  For people like Bush
+it was a choice and not an obligation. This is important to note because we normally see
+these two groups as opposed.  We are surprised when we find people who are members
+of both groups. However, as evidenced by these three men, across colonies, this seemed
+to be standard. Masons lived up to their declarations of being a non-religious organization
+in America and didn't require Jews to choose or change. This also benefitted Masons
+because it helped to affirm their assertions of Enlightenment ideals and attracted some of
+the most active members of their organization, facilitating the spread of Masonry into a
+new community and across the states.
+
+--- Sayfa 69 ---
+62
+
+Conclusion
+The connections between Jews and Masons in early America are interesting
+precisely because we find them so surprising. People today are shocked to find out that
+there were Jewish Masons, let alone that some of the most important Masons of the
+eighteenth century were Jews.  This is likely, in part, a product of the mystery of the
+Masonic organization as a whole.  The only thing that the general population knows
+about Masonry is that it is a secret fraternity1 and that many of our founding fathers were
+members. This may be the key to why the fact that there were Jewish Masons is so
+surprising to people.  If the only Masons that people know of are Christians, then they
+may assume that all Masons are Christian.  In addition, the modern assertions that our
+founders wanted to establish a Christian country, whether or not historically accurate,
+would seem to indicate that Christianity was something that would be fundamental to the
+groups that they joined.
+Yet, as should now be clear, the Jewish and Masonic organizations were naturally
+connected. At all levels of Masonry, there were things that attracted Jews to Masonry and
+that encouraged Masons to accept Jews. Most generally, some of the most important
+Masonic symbols had Jewish significance and, most importantly, did not conflict with
+Jewish beliefs. For the Masons, Jewish involvement in their organization helped give
+legitimacy to their claims of antiquity and the connections that they claimed to have to
+the Old Testament.
+At a more local level, there were lodges that were largely made up of Jews that
+were able to bring more Jews into the organization. Because most Jews were urban elites
+
+1 Some Masons deny that they are a secret society, but, considering that their rituals aren't public, it is fair
+to at least classify them as a secretive society.
+
+--- Sayfa 70 ---
+63
+
+and middle class shopkeepers (the classes that Masons drew from) it was natural that
+some Jews would join the organization. Yet, it was the presence of fellow Jews at the
+head of the fraternity that made it so popular among the Jews of early America.  Jewish
+involvement in lodges also helped Masons by spreading the Scottish Rite.  Although not
+all Masons favored this form of Masonry, and although there was nothing particularly
+Jewish about its character, in America it was spread largely through the movement of
+Jews and under Jewish leadership.  Spreading the Scottish Rite attracted more Brothers,
+both Jewish and non-Jewish, and helped the organization to grow throughout the states.
+Finally, in looking at the experiences of individual Jewish Masons, it becomes
+apparent that Jews, both religious and otherwise, could participate in Freemasonry
+without it conflicting with their Jewish involvement and beliefs.  In fact, many important
+Masons also had significant roles within their local Jewish communities.  This was an
+attraction to Masonry for Jews because it did not force them to choose.  Instead, they
+could freely continue the practice of their religion while enjoying the benefits of
+Masonry.  By allowing Jews to become Masons, the Masonic organization was able to
+access a new community as well as obtain some of its most involved members. In several
+sources Moses Michael Hays is highlighted, not only for his religion, but for the work
+that he did establishing lodges and appointing officers. If Masons had excluded Jews,
+they would have limited the growth of their organization, in addition to contradicting
+their espoused values.2
+
+2 To be clear, just because we know that it would be a contradiction of their values, doesn't mean that
+they would necessarily have seen it that way. Still, when the principle of religious toleration is written into
+something as fundamental as a Constitution, it is hard to deny that failure to comply would be a
+contradiction.
+
+--- Sayfa 71 ---
+64
+
+The presence of Jews in American Masonry is important to study precisely
+because their religion was relatively unimportant within the organization.  While this
+point may occasionally be lost in an attempt to find connections between the two groups,
+it should not be forgotten.  The average Jew in America during this time, despite enjoying
+more rights than they had in Europe, was still denied basic political rights.3  For example,
+after petitioning for naturalization in 1761 under the Naturalization Act of 1740, a group
+of Rhode Island Jews were rejected by both the Rhode Island legislature and Superior
+Court.  Rhode Island had espoused religious toleration, and they followed through,4 but
+they clearly did not view Jews as equals.5  Some states wouldn't give Jews the right to
+vote until into the nineteenth century and Maryland didn't allow Jews to hold public
+office until 1826.6  Yet, within Masonry, Jews were equals.  Perhaps because of the
+exclusivity of Masons in regards to social status, religion and other classifications
+became less important.
+It is through their Masonic connections that Jews are able to petition effectively
+for their equal rights. In President George Washington's response to the famous letter that
+congregation Yeshuat Israel sent in 1790, he wrote:
+The citizens of the United States of America have a right to applaud
+themselves for having given to mankind examples of an enlarged and
+liberal policy—a policy worthy of imitation. All possess alike liberty of
+conscience and immunities of citizenship. It is now no more that toleration
+is spoken of as if it were the indulgence of one class of people that another
+enjoyed the exercise of their inherent natural rights, for, happily, the
+Government of the United States, which gives to bigotry no sanction, to
+persecution no assistance, requires only that they who live under its
+
+3 New York was the only exception.
+4 Religious tolerance is different than acceptance of people despite their religion. At the time, it meant
+that Jews were allowed to reside there and to practice their religion.
+5 Hasia R. Diner, The Jews of the United States, 1654 to 2000 (Los Angeles: University of California Press,
+2004), 23.
+6 Ibid., 49.
+
+--- Sayfa 72 ---
+65
+
+protection should demean themselves as good citizens in giving it on all
+occasions their effectual support.7
+
+This reflects the belief that Jews should have the rights that they were denied in the
+colonies and an assertion of the equality of Jews as “citizens of the United States of
+America.”8  As has been extensively noted in American history, the ideals of the
+Revolution were not extended to all groups, in particular, African Americans.  Yet, it
+seems they were extended to Jews.  This was, at least partially, because of the networks
+of powerful elites that Jews had joined through the Masons.  After all, when Moses
+Seixas delivered the letter from Yeshuat Israel to George Washington, he was also
+carrying a letter from a Masonic lodge. He was one representative sent for two
+organizations.
+But why is this important? How do the connections that existed between Jews and
+Masons in early America help further the study of Masonry and the study of Jews in
+America, and what significance does this connection have for people today?
+In regards to the future study of Masonry, this analysis reveals new interpretations
+of Masonic canon by looking at a subsection of their population.  Masonry is such a
+large, expansive organization that attempts to study it often ignore more specific
+explorations of small details.  However, because the focus of this thesis was so narrow, it
+allowed a more thorough examination and analysis of small details like Masonic
+symbolism and the role of the lodge in attracting members.  This thesis is by no means a
+
+7 George Washington, "George Washington's Letter to the Hebrew Congregation of Newport," Touro
+Synagogue, http://www.tourosynagogue.org/index.php/history-learning/tsf-intro-menu/slom-
+scholarship/86-washington-letter (accessed December 1, 2013).
+8 Ibid.
+
+--- Sayfa 73 ---
+66
+
+complete work, but, because it represents the perspective of an informed outsider, it may
+bring up some analyses that Masons have overlooked.
+In addition, it adds a new dimension to the study of Masonry.  Other works
+studying groups within Masonry have recently been released,9 indicating that it may be a
+growing field of study.  Masons are often studied as a group within society, but there are
+groups within that group which experienced Masonry very differently than others
+because of what their lives were like outside of a Masonic context.  This study of a group
+within the Masonic fraternity adds to our understanding of early American Masons as
+well as what we know about early American society as a whole.
+For future Jewish scholarship, this thesis contains an analysis of Jewish
+interaction in early America, a subject that is often overlooked in favor of other topics
+like political rights or economic success.  Scholars note Jewish participation in
+organizations like the Masons, but don't often analyze them.  Instead, it is used as
+evidence of class or Jewish participation in society.  In addition, scholars of Jewish
+American history often contrast the relatively free system of interaction that was open to
+American Jews with some of the more limited systems in Europe. However, they too
+often overlook how Jewish interaction functions in specific organization and how the
+organizations that they participated in may have furthered their interactions by extending
+their networks.
+Within the study of Jewish American history, particularly in the early period, the
+utilization of a Masonic perspective can also serve as a counterbalance to the societal
+forces that heavily influence other parts of colonial society.  While Jews of the era often
+
+9 For example, Peter P. Hinks and Stephen Kantrowitz's All Men Free and Brethren: Essays on the History
+of African American Freemasonry.
+
+--- Sayfa 74 ---
+67
+
+appear to be discriminated against for their religion, the relative unimportance of any
+religion in Masonry stands out.  This shows the importance of context in history.  It is
+likely that some of the Masons were part of the governmental organizations that denied
+Jews naturalization, yet, as brothers, their Masonic bonds transcended those differences.
+Jews used these networks to assert their equality, potentially allowing them to gain their
+political rights more quickly and without as much conflict.
+Examining the relationships between Judaism and Freemasonry allows for more
+detailed analysis, revealing characterizations of both groups and introducing a new, more
+detailed topic of discussion.  Both groups limit the relevant sources of the other, forcing
+intense scrutiny and educated speculation.  This is a starting point which poses ideas
+which should be used by future scholars as theories to test and as questions to answer.
+It is important to note that this is not a completely comprehensive source.  There
+are things that the scope of my research was not able to address, especially because it is
+the first work, as far as I know, that attempts to understand this connection.  This is
+merely the starting point for future scholarship. Questions of how “Jewish lodges”
+interacted with other, more Christian lodges, what the experience of Jewish Masons was
+like in non-urban or less Jewish areas (if it existed at all), and why lodges with Jews tend
+to attract large groups of them, would all be interesting and valuable questions that could
+come from some of the ideas that I have presented.  While I have tried to address some of
+these issues to the best of my ability, there is more work to be done.
+However, beyond a starting point for future scholarship, one might question the
+value of this work for the general population.  What does this study tell us about the past
+and the human experience?  As I have often found with the study of history, the study of
+
+--- Sayfa 75 ---
+68
+
+an individual group can be representative of the experience of another group.  In
+America, Jews were not the only religious group that faced marginalization. In
+Charleston, South Carolina four Jews joined with Huguenots in 1697 to petition for the
+right of full citizenship. Even Catholics, a group that modern Americans rarely
+distinguish from other Christians, were discriminated against based on their religion.10
+Thus, the struggles of Jews to find a place in society, and the home that they found within
+Masonry, may be reflective of the experiences of other groups.  Or, if, in fact, it was
+harder for Catholics to join a lodge than it was for Jews, that opens up an equally
+interesting set of questions.  No matter what the specifics are, all groups have their stories
+of finding acceptance in an oppositional society.  Thus, the story of Jews, and the
+acceptance that they found in Masonry, has themes that are universal.
+The continued existences of both the American Jewish community and the
+organization of the Freemasons also allows for future topics of study and brings the
+relevance of this study into the present.  In fact, in discussing my thesis with my family, I
+discovered that my maternal grandfather was a Mason.  Of course, the American Jewish
+community, and probably the Masonic fraternity, are very different today than they were
+in the eighteenth century.  However, by understanding the origins of this relationship and
+the foundation upon which it was built, modern Jewish Masons can better understand and
+appreciate their history and what allowed them to join the fraternity. Even non-Masonic
+Jews can appreciate this story as a part of their history, since it tells a new part of the
+story of the early American Jewish community.
+The fact that, as a whole, the Masons were never explicitly opposed to Jewish
+membership makes them exceptional and, thus, worthy of study. With a study such as
+
+10 Diner, The Jews of the United States, 1654 to 2000, 23-4.
+
+--- Sayfa 76 ---
+69
+
+this one which breaks down the Masonic organization into different levels, the
+connections between organizations can be understood and appreciated more thoroughly.
+A detailed analysis reveals information about the goals of Jews and Masons, and what
+they valued that might not otherwise appear and that likely has applicability for a more
+diverse group.  Thus, although narrow, the study of connections between Jews and
+Masonry is a story of the early American experience as a whole.
+
+--- Sayfa 77 ---
+70
+
+Bibliography
+
+Anderson, James. The Constitutions of the Free-Masons. Containing the History,
+Charges, Regulations, &c. of That Most Ancient and Right Worshipful Fraternity.
+Philadelphia, 1734.
+
+Berenbaum, Michael, and Fred Skolnik, ed. Encyclopaedia Judaica. Detroit: Macmillan
+Reference USA, 2007. s.v. "Magen David."
+http://go.galegroup.com/ps/i.do?id=GALE|CX2587512997&v=2.1&u=upenn_mai
+n&it=r&p=GVRL&sw=w&asid=740b1aaf546b49c9f5f2eac94498c2cd (accessed
+November 27, 2013).
+
+Boston Commercial Gazette, May 13, 1805, http://www.readex.com/content/early-
+american-newspapers-1690-1922 (accessed October 25, 2013).
+
+Brinton, Robert E., & Johnston, John M. "The History of St. John's Lodge No.1." St.
+John's Lodge No. 1. http://www.stjohnslodgeno1.com/Lodge_History.html
+(accessed December 1, 2013).
+
+Brownfeld, Peter Egill. "From Private to Colonel: Jewish Service in the Revolutionary
+War." The American Council for Judaism.
+http://www.acjna.org/acjna/articles_detail.aspx?id=405 (accessed November 1,
+2013).
+
+Bullock, Steven C. Revolutionary Brotherhood: Freemasonry and the Transformation of
+the American Social Order, 1730-1840. Chapel Hill, North Carolina: University
+of North Carolina Press, 1996.
+
+Columbian Centinel, May 11, 1805, http://www.readex.com/content/early-american-
+newspapers-1690-1922 (accessed October 25, 2013).
+
+Diner, Hasia R. The Jews of the United States, 1654 to 2000. Los Angeles: University of
+California Press, 2004.
+
+Dutch West India Company. "The Jew in the Modern World: A Documentary
+History." Reply to Stuyvesant's Petition (April 26, 1655), Edited by Paul Mendes-
+Flohr and Jehuda Reinharz, 453. New York: Oxford University Press, 2010.
+
+Elegiac Sonnet Inscribed to the Memory of M. M. Hays, Esq., American Jewish Archives,
+http://americanjewisharchives.org/publications/journal/PDF/1956_08_01_00_doc
+_paine.pdf (accessed June 5, 2013)
+
+Faber, Eli. A Time for Planting: The First Migration, 1654-1820. Baltimore: Johns
+Hopkins University Press, 1992.
+
+--- Sayfa 78 ---
+71
+
+"Famous Masons." Mariner Lodge No. 2. http://www.marinerlodge2afm.org/page4.htm
+(accessed November 5, 2013).
+
+Franks, Abigaill. "Abigaill Franks to Naphtali Franks, June 7, 1743." The Letters of
+Abigaill Levy Franks, 1733-1748, Edited by Edith B. Gelles, 123-132. New
+Haven: Yale University Press, 2004.
+
+George Washington, "George Washington's Letter to the Hebrew Congregation of
+Newport," Touro Synagogue, http://www.tourosynagogue.org/index.php/history-
+learning/tsf-intro-menu/slom-scholarship/86-washington-letter (accessed
+December 1, 2013).
+
+"Germantown, February 14, 1785." Pennsylvania Packet, February 17, 1785.
+http://www.readex.com/content/early-american-newspapers-1690-1922 (accessed
+October 25, 2013).
+
+Golden, Harry L. and Martin Rywell. Jews in American History: Their Contribution To
+The United States, 1492-1950. Charlotte, North Carolina: H.A. Stalls Printing
+Company, 1950.
+
+Grand Lodge of New York. The Constitutions of the Ancient and Honorable Fraternity of
+Free and Accepted Masons in the State of New York. New York: Childs and
+Swaine, 1794.
+
+Grand Lodge of New York, F. & A.M., Official Exposition Record and History of
+Masonry in the State of New York in Connection with First Annual Fashion
+Exposition for the Benefit of Masonic Hospital Activities. New York: Eaton &
+Gettinger, 1922.
+
+Hamilton, John D. Material Culture of the American Freemasons. Hanover: University
+Press of New England, 1994.
+
+Hertzberg, Arthur. The Jews in America, Four Centuries of an Uneasy Encounter: A
+History. New York: Columbia University Press, 1997.
+
+Independent Chronicle, May 13, 1805, http://www.readex.com/content/early-american-
+newspapers-1690-1922 (accessed October 25, 2013).
+
+Independent Gazetteer, April 9, 1791, http://www.readex.com/content/early-american-
+newspapers-1690-1922 (accessed October 25, 2013).
+
+Jacob, Margaret C. The Origins of Freemasonry Facts & Fictions. Philadelphia:
+University of Pennsylvania Press, 2006.
+
+--- Sayfa 79 ---
+72
+
+Jewish Encyclopedia, s.v. “Bush, Solomon,”
+http://www.jewishencyclopedia.com/articles/3852-bush-solomon (accessed
+November 5, 2013).
+
+Jewish Encyclopedia, s.v. “Parnas (colloquially pronounced parnes),”
+http://www.jewishencyclopedia.com/articles/11915-parnas (accessed November
+5, 2013).
+
+Jewish Virtual Library, s.v. “Bush, Solomon,”
+http://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0004_0_03772.ht
+ml (accessed November 5, 2013).
+
+Jones, Lindsay, ed. Encyclopedia of Religion. Detroit: Macmillan Reference USA, 2005.
+s.v. "Magen David."
+http://go.galegroup.com/ps/i.do?id=GALE|CX3424501887&v=2.1&u=upenn_mai
+n&it=r&p=GVRL&sw=w&asid=51db7ff1856b5b043f0e65bf6cbb55f0 (accessed
+November 27, 2013).
+
+Katz, Jacob. Jews and Freemasons in Europe 1723-1939. Translated by Leonard Oschry.
+Cambridge, MA: Harvard University Press, 1970.
+
+Kaplan, Marilyn. "The Jewish Merchants of Newport, 1749-1790.” The Jews of Rhode
+Island, Edited by George M. Goodwin and Ellen Smith, 13-26. Hanover, New
+Hampshire: University Press of New England, 2004.
+
+Mackey, Albert G., William J. Hughan, and Edward L. Hawkins. An Encyclopaedia of
+Freemasonry and Its Kindred Sciences Comprising the Whole Range of Art,
+Sciences and Literature as Connected with the Institution. New York: The
+Masonic History Company, 1919.
+
+Mackey, Albert G. The History of Freemasonry in South Carolina, from its origin in the
+year 1736 to the present time. Columbia, South Carolina: South Carolinian Steam
+Power Press, 1861.
+
+Marcus, Jacob R. "The American Colonial Jew: A Study in Acculturation," in The
+American Jewish Experience. ed. Jonathan D. Sarna, New York: Holmes &
+Meier, 1997.
+
+Marcus, Jacob R. The Colonial American Jew 1492-1776. Vol. 3. Detriot: Wayne State
+University Press, 1970.
+
+Newburyport Herald, May 14, 1805, http://www.readex.com/content/early-american-
+newspapers-1690-1922 (accessed October 25, 2013).
+
+New England Palladium, May 14, 1805, http://www.readex.com/content/early-american-
+newspapers-1690-1922 (accessed October 25, 2013).
+
+--- Sayfa 80 ---
+73
+
+Oppenheim, Samuel. "The Jews and Masonry in the United States before
+1810." American Jewish Historical Quarterly (1910): 1-94.
+
+Pencak, William. Jews & Gentiles in Early America, 1654-1800. Ann Arbor, Michigan:
+The University of Michigan Press, 2005.
+
+Peters, Edward. “The Edict of Expulsion of the Jews.” Foundation for the Advancement
+of Sephardic Studies and Culture, http://www.sephardicstudies.org/decree.html
+(accessed August 22, 2013).
+
+"Proprietary Tax of the City of Philadelphia—1769," Pennsylvania Archives: Third
+Series, Vol. 14. Edited by William Henry Egle,151-220. Harrisburg,
+Pennsylvania: Wm. Stanley Ray, State Printer, 1897.
+
+Reiss, Oscar. The Jews in Colonial America. Jefferson, North Carolina: McFarland &
+Company, Inc., Publishers, 2004.
+
+Repertory, May 14, 1805, http://www.readex.com/content/early-american-newspapers-
+1690-1922 (accessed October 25, 2013).
+
+"Revolutionary War Records at the Pennsylvania State Archives." Pennsylvania
+Historical & Museum Commission.
+http://www.portal.state.pa.us/portal/server.pt/community/revolutionary_war/3852
+(accessed November 15, 2013).
+
+Reznikoff, Charles. The Jews of Charleston: A History of an American Jewish
+Community. Philadelphia: The Jewish Publication Society of America, 1950.
+
+Ross, Peter. A Standard History of Freemasonry in the State of New York including
+Lodge, Chapter, Council, Commandery and Scottish Rite Bodies. New York: The
+Lewis Publishing Company, 1899.
+
+Rugg, Henry W. History of Freemasonry in Rhode Island. Providence: E.L. Freedman &
+Son, State Printers, 1895.
+
+Sachse, Julius F. Ancient Documents relating to the A. and A. Scottish Rite in the
+Archives of the Free and Accepted Masons of Pennsylvania. Philadelphia: The
+New Era Printing Company, 1915.
+
+Sachse, Julius F. “Roster of the Freemason's Lodge of Philadelphia No. 2, of the
+Moderns.” The Pennsylvania Magazine of History and Biography 31, no. 1
+(1907). http://www.jstor.org/stable/20085367 (accessed October 12, 2013).
+
+Sachse, Julius Frederick. “Roster of the Lodge of Free and Accepted Masons Which Met
+at the Tun Tavern, Philadelphia.” The Pennsylvania Magazine of History and
+
+--- Sayfa 81 ---
+74
+
+Biography 20, no. 1 (1896). http://www.jstor.org/stable/20085679 (accessed
+October 12, 2013).
+
+Sarna, Jonathan D. "The Impact of the American Revolution on American Jews," in The
+American Jewish Experience. ed. Jonathan D. Sarna. New York: Holmes &
+Meier, 1997.
+
+Seixas, Moses. "Moses Seixas' Letter from Congregation Yeshuat Israel." Touro
+Synagogue. http://www.tourosynagogue.org/index.php/history-learning/tsf-intro-
+menu/slom-scholarship/85-seixas-letter (accessed December 1, 2013).
+
+Sharitt, Jr, Barnes A. “Ancients and Moderns: Differences and Similarities.”The Grand
+Lodge of Minnesota Ancient Free & Accepted Masons, November 12, 2001,
+http://www.mn-masons.org/sites/mn-masons.org/files/3571.pdf (accessed October
+20, 2013).
+
+South Carolina Weekly Gazette, November 28, 1783,
+http://www.readex.com/content/early-american-newspapers-1690-1922 (accessed
+October 25, 2013).
+
+South-Carolina Gazette and General Advertiser, April 26, 1783,
+http://www.readex.com/content/early-american-newspapers-1690-1922 (accessed
+October 25, 2013).
+
+Swanson, Catherine. "A Brittle and Torn Manuscript: Conservation of an early Scottish
+Rite Patent." Scottish Rite Masonic Museum & Library.
+http://nationalheritagemuseum.typepad.com/library_and_archives/moses-michael-
+hayes/ (accessed November 15, 2013).
+
+Tabbert, Mark A. American Freemasons: Three Centuries of Building Communities. New
+York: New York University Press, 2005.
+
+"The Grand Inquest of Montgomery County, for May Term 1793," General Advertiser,
+May 17, 1793, http://www.readex.com/content/early-american-newspapers-1690-
+1922 (accessed October 25, 2013).
+
+"The York Rite." http://www.yorkrite.com/getrifold.html (accessed November 15, 2013).
+
+Vicente, Francis. "An Overview of Early Freemasonry in Pennsylvania." Pietre-Stones
+Review of Freemasonry. http://www.freemasons-
+freemasonry.com/pennsylvania_freemasonry.html (accessed November 15, 2013).
+
+Ward, J.S.M. An Interpretation of Our Masonic Symbols. London: A. Lewis, 1924.
+
+--- Sayfa 82 ---
+75
+
+Weisberger, William. "Hays, Moses Michael." American National Biography Online
+(Sept. 2000). http://www.anb.org/articles/01/01-00388.html (accessed October 28,
+2013).
+
+Wenger, Beth. "Jews in the Modern World." Lecture, Class at the University of
+Pennsylvania, Philadelphia, PA, January 18, 2011.
+
+Wolf, Edwin and Maxwell Whiteman. The history of the Jews of Philadelphia from
+Colonial times to the Age of Jackson. Philadelphia: The Jewish Publication
+Society of America, 1957.

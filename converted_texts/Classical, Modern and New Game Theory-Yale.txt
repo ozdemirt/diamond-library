@@ -1,0 +1,1709 @@
+--- Sayfa 1 ---
+gameth1, August 4, 2001 - latest version
+Classical, Modern and
+New Game Theory
+
+by
+
+Manfred J. Holler*
+
+Abstract: This paper is a brief history of game theory with its main theme being
+the nature of the decision makers assumed in the various stages of its historical
+development. It demonstrates that changes in the "image of man" nourished the
+developments of what many believe to be progress in game theory. The first
+stage, classical game theory, is defined by John von Neumann's and Oskar
+Morgenstern's pioneering book "Game Theory and Economic Behavior" which
+introduced the concept of individual rational players and focuses on conflicting
+interests. The second stage, modern game theory, is defined by the Nash player
+who is not only rational but, at least implicitly, assumes that all players are
+rational to such a degree that players can coordinate their strategies so that a
+Nash equilibrium prevails. The third stage, new game theory, is defined by the
+Harsanyi player who is rational but knows very little about the other players,
+e.g., their payoff functions or the way they form beliefs about other players'
+payoff functions or beliefs. The Harsanyi player either plays a highly
+sophisticated epistemic game on the forming of beliefs or rests content with
+himself by imitating the observed successful behavior of other agents.
+
+* Institute of SocioEconomics, University of Hamburg, Von-Melle-Park 5, D-20146 Hamburg, Germany,
+ Fax: +49 40 428 38 6329, holler@hermes1.econ.uni-hamburg.de. The author would like to thank Heidrun
+Hoppe, Ines Lindner and Matthew Braham for helpful comments.
+
+--- Sayfa 2 ---
+2
+1. Introduction
+
+Is there progress in game theory? Do we know more today in this field than the
+scholars in the decade after John von Neumann and Oskar Morgenstern published
+their pioneering Game Theory and Economic Behavior in 1944. Or, did we only
+experience a change in style and language over the last fifty years?1 The
+hypothesis of the following brief history of game theory is that the various stages
+of development are the result of different assumptions bout the nature of the
+decision makers underlying the alternative game theoretical approaches. The
+following text will not give a historical overview which aims for completeness.2
+Rather, it will trace the changes in  the "image of man" implicit in the
+development of game theory and demonstrate some of consequences that follow.
+
+We will distinguish three major stages in the development of game theory.
+The first one, classical game theory, is defined by John von Neumann's and
+Oskar Morgenstern's book. It introduced axioms for the concept of the individual
+rational player. Such a player makes consistent decisions in the face of certain
+and uncertain alternatives. But, such a player does not necessarily assume that
+other players also act rationally. In contrast,  modern game theory is defined by
+the Nash player who is not only rational but assumes that all players are rational
+to such a degree that they can coordinate their strategies so that a Nash
+equilibrium prevails. The more recent, third stage in the development of game
+theory, new game theory, is defined by the Harsanyi player. This player is
+
+1In the categories of Paul Feyerabend, game theory is an art and thus follows its dynamic pattern:
+"There is no progress in art, but there are different styles and each style is perfect in itself and follows
+its own law. Art is the production of styles and art history is the history of their sequence"
+(Feyerabend, 1984, p.29).
+2For example, we will not discuss whether John von Neumann or Emile Borel should get the credit for
+having introduced the minimax  theorem: in any case, it was von Neumann who demonstrated its general
+validity (see Rives, 1975). Nor will we discuss the work of Ernst Zermelo, Denes König and Laszlo
+Kalmar on the finiteness and determinedness of  the chess game. This work preceded the book of von
+Neumann and Morgenstern (1944), however, it focuses on analyzing of properties of  chess and does
+not ask the question which characterizes modern game theory: how should a player behave to achieve a
+good result? (See Schwalbe and Walker, 2001.)
+
+--- Sayfa 3 ---
+3
+rational but knows very little about the other players, e.g., their payoff functions
+or the way they form beliefs about other players' payoff functions or beliefs. This
+limitation initiated two complementary strings of research: the more traditional
+one, based on a rational choice model, is characterized by the analysis of
+interactive gedankenexperiments about forming beliefs  (i.e., epistemic games),
+while the second string follows an evolutionary approach where the agents rest
+content with themselves by imitating the observed successful behavior of other
+agents. The latter can be interpreted as the "rational conclusion" of the
+constrained cognitive capacity of the decision maker, on the one hand, and the
+complexity of the decision situation, on the other, or seen as the consequence
+suggested by the results of empirical research which challenge the rational
+choice model and its teleological background (see Frohn et al., 2001).
+
+The discussion of these three stages forms the core of this paper. While
+much of the material is elementary and accessible to the non-specialist, the paper
+does contain some interpretive points that should be of interest to the advanced
+student of game theory.
+
+2.   Classical Game Theory and the Autonomously Rational Player
+
+Game theorists consider the axiomatization of the utility function in the case of
+uncertainty a major contribution in von Neumann and Morgenstern (1944). It
+paved the ground for the modeling of  rational decision-making when a decision-
+maker is faced by lotteries. Thereafter a utility function, ui(.), which satisfies the
+expected utility hypothesis, i.e.
+
+(1)    ui([A,p;B,1-p]) = pui(A) + (1-p)ui(B)
+
+is called a von Neumann-Morgenstern utility function. In (1), A and B are events
+(or alternatives), p is the probability that event A occurs while 1-p is the
+
+--- Sayfa 4 ---
+4
+probability of B occuring. Thus [A,p;B,1-p] is a lottery (or prospect). It is a
+notational convention to write  [A,p;B,1-p] = A if p = 1 and [A,p;B,1-p] = B if p =
+0. Of course, [A,p;X,1-p] = A for every alternative X if p = 1.
+
+The probabilities p can be related to a model of relative frequencies and
+are, in this sense, objective and thus represent risk; or they can be subjective (i.e.
+expectations or beliefs) and thus represent uncertainty. The classical distinction
+between  risk and uncertainty going back to Frank Knight (1921) appears,
+however, to be somewhat outdated today. For it does not seem to really matter in
+the end whether we believe in the objectivity of relative frequencies as an
+outcome of a random mechanism, or whether we derive our expectations from
+introspection and gedankenexperiments. One way or the other, they are all based
+on beliefs which reflect uncertainty and thus are subjective. If we follow this view
+and define rational behavior under uncertainty as maximizing expected utility in
+terms with (1), then our approach is Bayesian.
+
+The utility values which the function ui(.) assigns to events (such as
+money, cars, or strawberries) are called payoffs. Because of (1) we do not have
+to distinguish between payoff and expected payoffs: if player i is indifferent
+between the lottery [A,p;B,1-p] and the sure event C  then  ui([A,p;B,1-p]) = ui(C),
+i.e.,  the payoffs are identical. If ui(.) satisfies (1) then it is well defined as utility
+function of individual i up to a linear order-preserving transformation. That is, if
+vi(.) = aiui(.) + bi and ai > 0 then ui(.) and vi(.) represent identical utility
+functions: thus ui(.) defines not a function but a family of functions and
+interpersonal comparison of utility is excluded because ai and bi are not
+determined.
+
+The utility function of individual i can be linear, concave or convex in
+money - which coincides with risk neutrality, risk aversion, and risk affinity in so
+far as money defines the events of a lottery - or ui(.) can be related with money in
+a less rigid way without violating (1).  There is, however, ample empirical
+evidence that individual behavior does normally not follow a pattern which is
+
+--- Sayfa 5 ---
+5
+consistent with (1).3 There are  also strong intuitive arguments which challenge
+the adequacy of individual axioms which underlie the theory expressed in (1)
+such as the so-called Allais paradox. Later Nobel Laureate Maurice Allais
+(1953, p 527) demonstrated the proposed inconsistency of the axioms of the von
+Neumann Morgenstern utility theory by means of the following example:
+
+(1) People are asked whether they prefer alternative A or alternative B
+where
+Alternative A: 100 millions for sure
+
+Alternative B:
+a chance of
+to win
+millions
+a chance of
+to win
+millions
+a chance of
+to win nothing
+0 1
+500
+0 89
+100
+0 01
+.
+.
+.
+R
+S|
+T
+|
+
+(2) People are asked whether they prefer alternative C or alternative D
+where
+
+Alternative C:
+a chance of
+to win
+millions
+a chance of
+to win nothing
+0 11
+100
+0 89
+.
+.
+R
+ST
+
+Alternative D:
+a chance of
+to win
+millions
+a chance of
+to win nothing
+0 1
+500
+0 9
+.
+.
+R
+ST
+
+The money values are probably in "old" French francs. The expected values of A,
+B, C, and D are (measured in millions) 100, 139, 11 and 50, respectively.
+
+Allais argues that for a large number of people, especially for those who
+are averse against taking risk, one observes that they prefer A to B and D to C.
+However,  von Neumann Morgenstern utility theory suggests that if A is
+preferred B then C is preferred to D. In order to see this, we write these
+
+3See the seminal paper of Kahneman and Tversky (1979) for a prominent critique of the von Neumann
+Morgenstern utility function and Machina (1987) for a summary review of the discussion.
+
+--- Sayfa 6 ---
+6
+preference relations in terms of the von Neumann Morgenstern utility function
+of an agent i:
+
+"A preferred to B" implies:  ui(100) > 0.1ui(500) + 0.89ui(100) +
+0.01ui(0)
+
+"C preferred to D" implies: 0.11ui(100) + 0.89 ui(0) > 0.1ui(500) +
+0.9ui(0)
+
+Both inequalities can be reduced to 0.11ui(100)  > 0.1ui(500) + 0.01ui(0). Thus
+"A preferred to B" implies "C preferred to D". Consequently, "D preferred to C" is
+inconsistent with "A preferred to B" and corresponding behavior violates the
+expected utility hypothesis (1).
+
+There are, however, also strong arguments in favor of (1) and the
+underlying axioms formalized in von Neumann and Morgenstern (1944). Firstly,
+there is empirical evidence that people tend to correct their behavior if they are
+aware that it deviates from (1) or one of its implications. Secondly, the
+generalization of alternative approaches to decision-making under uncertainty
+(such as the prospect theory of Kahneman and Tversky (1979) and the similarity
+approach of Rubinstein (1988)) are also criticized on the basis of contradicting
+empirical results and implausibility of underlying assumptions. Moreover, the
+alternative approaches tend to be more complicated than the theory behind (1)
+and therefore more difficult to apply to real life decision-making and textbook
+analysis. This is perhaps the main reason why game theorists stick to the von
+Neumann-Morgenstern utility function when it comes to decision-making under
+uncertainty. The maximization of such a utility function defines the rational
+player in game situations, i.e. if the outcome of a choice depends on the action
+of at least two agents and the agents, in principle, put themselves into the shoes
+
+--- Sayfa 7 ---
+7
+of the other agents when they make their decisions because they know of the
+interdependence of decisions.
+
+There are however many ways to specify this knowledge and thus the
+image which a player has of the other player(s). Von Neumann and Morgenstern
+(1944) assumed that a player i does not expect that player j is necessarily
+rational: j's behavior may violate the theory embedded in (1) and its implications.
+In their theory of games, they propose that players should act rational even under
+the assumption that other players are irrational, i.e. inconsistent with (1): "... the
+rules of rational behavior must provide definitely for the possibility of irrational
+conduct on the part of others. ... In whatever way we formulate the guiding
+principles and the objective justification of 'rational behavior,' provisios will have
+to be made for every possible conduct of 'the others'" (p. 32). To characterize this
+proposition we will speak of autonomously rational players in the theory of von
+Neumann and Morgenstern.
+
+2.1 The Minimax Theorem
+
+It may come somewhat of a surprise, but von Neumann and Morgenstern's theory
+provides convincing results only if we have a situation in which there is pure
+conflict of interest  between two players and the decision situation can be
+modeled as a zero-sum game. For example, if we assume that the payoff (bi-
+)matrix in Figure 1 is specified by the payoff values a = -α, b = -β , c = -γ , and d
+= -δ, then it describes a zero-sum (two -by-two) game where player 1 has the pure
+strategies s11 and s12 and player 2 has the pure strategies s21 and s22.
+
+Figure 1: Generalized two-by-two game
+
+s21
+s22
+
+--- Sayfa 8 ---
+8
+
+s11
+
+(a,α)
+
+(b,β)
+
+s12
+
+(c,γ)
+
+(d,δ)
+
+In principle, the definition of utility functions given in (1) does not allow for
+interpersonal comparison of utility as implied by the zero-sum property.
+However, if there is pure conflict of interest between two players then the
+assumption that a utility gain to player 1 is a utility loss to player 2, and vice
+versa, seems appropriate. Note that, if the payoff values of the two players in each
+cell add to the same constant value, then the game is equivalent to a zero-sum
+game and can, without loss of information, be transformed into such a game.
+
+Given a zero-sum game, von Neumann and Morgenstern (1944) suggest
+that each player will choose his maximin strategy. Thus player 1 looks for the
+minimum payoff in each line and then earmarks the strategy which is related to
+the highest payoff of these (two) minima while player 2 does likewise for his
+payoffs in each column. If the earmarked value of player 1 and the earmarked
+value of player 2 add up to zero, then the corresponding strategy pair
+characterizes the solution and the related payoff pair describes the outcome.
+
+If the earmarked values do not add up to zero, then player i (i = 1, 2) will
+randomize on his strategies such that the expected value is independent of
+whether the other player chooses his first or second strategy or any mixture of
+these strategies. For instance, if player 1 chooses his first strategy with
+probability p and player 2 chooses his first strategy with probability q, then p and
+q are determined by the two equalities:
+
+pa + (1-p)c = pb + (1-p)d and qα + (1-q)β = qγ + (1-q)δ
+
+--- Sayfa 9 ---
+9
+
+Solving these equalities, we get
+
+(2)
+
+p° =
+d
+c
+a
+b
+c
+d
+−
+−
+−
++
+   and  q° =
+δ
+β
+α
+β
+γ
+δ
+−
+−
+−
++
+
+It is easy to show that the (expected) payoff player 1 is equal to the negative of
+the payoff of player 2 if they choose their corresponding first strategies with
+probabilities p° and q°. This is the essence of the so-called minimax theorem of
+von Neumann and Morgenstern which says that, given a two-person zero-sum
+game, there is always a pair of strategies, either in pure or mixed strategies, such
+that the maximin payoff  equals the minimax payoff of player 1. Note that in two-
+person zero-sum games the maximin payoff of player 2 with respect to his own
+payoff values is identical to the minimax value with respect to the payoffs of
+player 1. (Because the payoffs of player 2 are the negative values of the payoffs
+of player 1, it is sufficient to specify the payoffs of player 1 only.)
+
+2.2 Limitations of Classical Game Theory
+
+Baumol (1972, p. 575) summarizes the classical view on game theory which
+derives from the minimax theorem: "In game theory, at least in the zero-sum,
+two-person case, there is a major element of predictability in the behavior of the
+second player. He is out to do everything he can to oppose the first player. If he
+knows any way to reduce the first player's payoff, he can be counted upon to
+employ it." However, the minimax theorem loses its power if the players'
+interests do not contain pure conflict and the zero-sum modeling becomes
+inappropriate. This is particularly the case if strategic coordination problems
+become eminent. For instance, let's assume that a > 0, α > 0, d > 0, δ > 0, and all
+
+--- Sayfa 10 ---
+10
+other payoffs in Figure 1 are zero. Then the matrix in Figure 1 represents a
+variable-sum game and the minimax theorem does not, in general, apply
+anymore. Assume further, player 1 and 2 have to choose their strategies
+simultaneously - or in such a way such that they cannot see what the other player
+has chosen. Then a player has to solve the problem of how to coordinate his
+strategy with the strategy of the other player in order to gain positive payoffs. The
+fact that the theory of von Neumann and Morgenstern says little about
+coordination problems, in particular, and variable-sum games, in general, concurs
+with the problem that the guiding hand of self-interest becomes weak in strategic
+situations if there is no pure conflict of interest and players have difficulties to
+form expectations about the behavior of their fellow players.
+
+It is not surprising that the textbook representation of game theory of the
+1950s and still in the early 1960s focused on the two-person zero-sum game and
+problems of how to calculate the maximin solution if players have more than two
+pure strategies (see, e.g.,  Allen, 1960). An exception is the ingenious book by
+Luce and Raiffa (1957) which is still a great source of inspiration for game
+theorists.
+
+The assumption of a pure conflict of interest seems also questionable if
+there are more than two players. If we try to formulate a zero-sum game for three
+players then the problem becomes rather obvious. Moreover, in the case of more
+than two players there is a potential for coalitions. Von Neumann and
+Morgenstern (1944)  developed the concept of the characteristic function in
+order to express the value of a coalition. They also suggested a solution concept
+for the case of more than two players which may take care of coalition
+formation: they simply called this concept solution.4 However, neither does its
+application give an answer which coalition will form nor does it determine the
+payoffs which the individual players get in the course of the game.
+
+4It is identical with the concept of stable s ets of modern game theory (see Owen, 1995, pp. 243-249).
+
+--- Sayfa 11 ---
+11
+
+It is fair to mention that even more than fifty years later the existing
+theories of coalition formation provide answers to these two problems only if the
+coalition games are rather specific and the competing theories generally provide
+divergent answers. However,  for the case of variable-sum games and games with
+more than two players (if they do not form coalitions) a very promising solution
+concept has been suggested: the Nash equilibrium and its refinements.
+
+3. Nash Equilibrium and Modern Game Theory
+
+In his doctoral dissertation, John Nash (1951) proved that for finite game - a
+game with a finite number of pure strategies assigned to each member of a finite
+set N of n players  - an equilibrium s* exists. s* is a strategy vector s* = (s1*,
+...,si*, ..., sn*), where s1* is the strategy of player, si* is the strategy i, and sn* is
+the strategy of player n, such that  ui(s1*, ...,si*, ..., sn*) ###  ui(s1*, ...,si, ...,
+sn*) for all (pure or mixed) strategies si which player i can choose and for all
+players i in N. Thus, if player i chooses si* then he cannot achieve a higher payoff
+by choosing an alternative strategy si, given that the other players choose their
+strategies in accordance with vector s*. We say that the strategies in s* are
+mutually best replies to each other and, consequently, s* is a Nash equilibrium.
+
+If mutually best replies are the result of decisionmaking then, obviously,
+the Nash equilibrium assumes that players are rational and that they expect the
+other players be also rational. This assumption is quite different from the
+autonomously rational player which characterizes the theory of von Neumann and
+Morgenstern. In fact, the underlying assumption is more general and even
+stronger: "...an equilibrium strategy describes a player's plan of action as well as
+those considerations which support the optimality of this plan" (Rubinstein,
+2000, p.77). One of the considerations is that the other players are rational -
+another is that the other players choose the (equilibrium) strategies such that the
+chosen strategy is a best reply.
+
+--- Sayfa 12 ---
+12
+
+3.1 Dominant Strategies and Refinements
+
+It is straightforward that Nash equilibrium and maximin solution proposed by von
+Neumann and Morgenstern are identical for zero-sum games. If we assume c > a
+> d > b and  β > α > δ > γ  in Figure 1, then the matrix represents a variable-sum
+game and the strategy pair (s12,s22) is a Nash equilibrium of this game. In fact,
+because of the assumed preference relation the matrix describes a specification
+of the famous prisoners' dilemma game as both players have a dominant strategy
+and the Nash equilibrium is inefficient inasmuch as it is payoff dominated by the
+result of playing strategies s11and s21- however, these strategies are strictly
+dominated by the equilibrium strategies and rational players will not choose them
+if the game is played only once and independent of any other decision situation. It
+is therefore sufficient to rely on dominant strategies to obtain the strategy
+choices (s12,s22) for rational decisionmakers.
+
+It is obvious that the Nash equilibrium is identical with the equilibrium in
+strictly dominating strategies if the latter exists. However, let us look at the
+matrix in Figure 2 which is characterized by the weakly dominating strategies s12
+and s22. The game has two Nash equilibria: the strategy pairs (s11,s21) and
+(s12,s22). The latter, however, is not very convincing because it contains weakly
+dominated strategies. A player cannot do worse by choosing his first instead of
+his second strategy.
+
+Figure 2: Nash equilibrium in weakly dominated strategies
+
+s21
+s22
+
+s11
+
+(1,1)
+
+(0,0)
+
+--- Sayfa 13 ---
+13
+
+s12
+
+(0,0)
+
+(0,0)
+
+We can get rid of the Nash equilibrium (s12,s22) if we apply Reinhard Selten's
+concept of trembling-hand perfectness.5 In order to test whether the equilibrium
+(s12,s22) is trembling-hand perfect, we assume that player 1 considers the
+possibility that with a small probability ε the hand of player 2 may tremble and 2
+selects strategy s21 instead of s22. Then player 1's expected value of strategy
+s11 is higher than of s12 and he will be very hesitant to choose the latter although
+it is a Nash equilibrium strategy. In the end, both players will choose their first
+strategies with probabilities 1 and do the right thing for the wrong reason.
+
+3. 2 The Multiplicity of Nash Equilibria
+
+It seems that Selten's trembling-hand perfectness is a rather powerful concept
+although a trembling-hand is rather peculiar in a game of complete information
+when players are rational (i.e. both players know the game matrix as it is printed
+in Figure 2). Trembling-hand perfectness is not, however, very helpful for
+discriminating among the three Nash equilibria in the game of Figure 3: the
+strategies pairs (s11,s22) and (s12,s21) and the pair of mixed strategies given by
+p* = q* = 1/2. The equality p* = q* is due to the symmetry of the game. If
+players choose these mixed strategies none of them can reach a higher payoff by
+choosing a different strategy, i.e., p* and q* are mutually best replies. The
+corresponding payoffs of the equilibrium (p*, q*) are 1.5 for each player  -
+therefore the mixed strategy equilibrium is inefficient because both players are
+better off by choosing their first strategies.
+
+5Reinhard Selten (1975) introduced this concept as a refinement of the Nash equilibrium.
+
+--- Sayfa 14 ---
+14
+Figure 3: Chicken game
+
+s21
+s22
+
+s11
+
+(2,2)
+
+(1,3)
+
+s12
+
+(3,1)
+
+(0,0)
+
+How we should discriminate among the three Nash equilibria of this game and
+how players can coordinate their choices so as to achieve one of them, is not
+obvious at all. For example, both equilibria in pure strategies are trembling-hand
+perfect. Of course, if player 1's hand trembles and he mixes his pure strategy by
+another probability than p* then player 2 has a best reply which is a pure strategy.
+By this standard, the mixed strategy Nash equilibrium does not appear to be a
+likely candidate for describing the result of the game. Moreover, this equilibrium
+is payoff-dominated by the strategy pair (s11,s21) which gives a value of 2 to
+each player. However, (s11,s21) is not a Nash equilibrium.
+
+The nicety of the mixed strategy equilibrium is its symmetry; in contrast,
+the two pure strategy equilibria of the game in Figure 3 discriminate against one
+of the players. The symmetry seems advantageous if players have to coordinate
+their strategies without knowing the other player's strategy.
+
+Obviously, it is not sufficient to assume that players are rational and
+maximize their utility as defined by a function which satisfies (1) to guarantee
+that a Nash equilibrium actually occurs. If there are more than one Nash
+equilibrium then we have to make rather strong assumptions so that the players
+can coordinate their strategies on a Nash equilibrium.6 It is not sufficient to
+assume that player 1 assumes that player 2 is rational, and vice versa. Under this
+
+6Tan and da Costa Werlang (1988) have analyzed these assumptions on an axiomatic basis.
+
+--- Sayfa 15 ---
+15
+assumption, the strategy pair (s11,s21) and a payoff of 0 to each of the two
+players - as outcomes of coordination failure - cannot be excluded. With a shot
+of irony Mailath (1998, p.1351) concluded that "the consistency in Nash
+equilibrium seems to require that players know what the other players are doing."
+The discussion of the epistemic conditions for Nash equilibria below will
+demonstrate that this statement does not fall far from the truth.
+
+It is not easy to see how players should manage to coordinate on one of
+the efficient pure strategy equilibria of the chicken game in Figure 3, even if they
+can communicate before they choose their strategies, given that this game is
+played only once. Aumann (1985) contains a nice example of 50-person game
+with non-cooperative coalition formation which demonstrates that pre-play
+communication does not help to select a favourable equilibrium outcome: "Three
+million dollars are to be divi ded. Each of the players 1 through 49 can form a
+two-person coalition with player 50, which must split 59:1 (in favor of 50),
+yielding the 'small' partner $50,000. The only other coalition that can get
+anything consists of all the players 1 through 49, which must split evenly,
+yielding each player about $61,000." What will happen if player 50 calls player 1
+and asks him to join with him and get a share of $50,000? Will player 1 reject
+this offer trying to round up the fellow players 2 to 49 in order to form an
+alternative coalition, S, and get the higher share of  $61,000? The latter only
+makes  sense if player 1 can be sure that none of his fellow players will be
+phoned by player 50 to get lured into a coalition with him.
+
+Player 1 must have very strong opinions about his fellow players and this
+must hold for each individual player in the group of players 1 to 49 so that player
+1's beliefs are justified. If one of them does not trust the integrity of every single
+player to reject the offer of player 50 then coalition S is not feasible. In this
+game situation, we can expect that there will be more players who do not trust the
+others than those who do - in fact, it might be hard to find a single player who will
+resist a proposition made by player 50. If players can converse with each other
+
+--- Sayfa 16 ---
+16
+and make tentative, however, non-binding agreements before decisions have to be
+made, it could well be that more than one gets "fooled" into the belief that
+coalition S will form, but not every potential member of S will be a "fool" and
+believe in the forming of this coalition. Of course, whether a player is a fool
+depends what other players believe and do.
+
+3.3 Unprofitability of Mixed Strategy Equilibria
+
+Not only is the multiplicity of Nash equilibria a drawback of this concept if we
+want to derive principles of individual choice from it - or perhaps even try to
+make use of it for forecasting  or proposing rational decisions. If we assume that
+the payoffs in Figure 1 (above) satisfy one of the following two orderings
+
+A.1
+a > c, a > b, d > b, d > c
+          β > α, β > δ, γ > α, γ > δ
+
+Α.2     b > a, b > d, c > a, c > d
+           α > β, α > γ, δ > β, δ > γ
+
+then both the Nash equilibrium and the maximin solution are in mixed strategies.
+The maximin solution is defined by p° and q° as in (2) above while the Nash
+equilibrium strategies are
+
+(3)
+
+p* =
+δ
+γ
+α
+β
+γ
+δ
+−
+−
+−
++
+
+q* =
+d
+b
+a
+b
+c
+d
+−
+−
+−+
+
+Note that the Nash equilibrium strategy of player 1, p*, is exclusively determined
+by the payoffs of player 2 and the Nash equilibrium strategy of player 2, q*, is
+
+--- Sayfa 17 ---
+17
+exclusively determined by the payoffs of player 2. Consequently, if there are
+changes in the payoffs of player 1 but A.1 or A.2 still apply,7 then the equilibrium
+behavior of player 2 is affected while p* remains unaffected. This rather
+paradoxical result has produced a series of applications, however, some are of
+rather dubious empirical value. (See Frey and Holler, 1998, and a review of
+related results therein.) Moreover, it is easy to show that the payoffs in the Nash
+equilibrium (p*, q*) and the maximin solution (p°, q°) are identical (Holler,
+1990). It is therefore not "profitable" to play the Nash equilibrium strategy, and
+thus rely on the rather specific rationality of the other player required by the
+Nash equilibrium, because a player can assure himself the identical value by
+choosing maximin, irrespective of the strategy choice of the other player. In
+terms of Harsanyi (1977, p. 104-107) we can state the "unprofitability of Nash
+equilibrium" in two -by-two games if both Nash equilibrium and maximin solution
+are in mixed strategies.
+
+In case of unprofitable mixed-strategy equilibria, Harsanyi (1977, p. 125)
+strongly suggests that players choose maximin strategies instead of trying to
+reach an equilibrium. As Aumann (1985, p. 668) concludes from studying an
+unprofitable mixed strategy equilibrium: "Under these circumstances, it is hard to
+see why the players would use their equilibrium strategies."
+
+Perhaps an answer to this question could be found in an evolutionary
+context: Andreozzi (2001) shows for a dynamic replicator model (see section 5
+below) of the game in Figure 1 for which payoffs are constrained by assumption
+A.2 that the averages of strategy choices concur with p* and q*.  He also shows
+that maximin strategies and Nash equilibrium strategies can co-exist in a dynamic
+model.
+
+3.4 Incomplete Information and Mixed Strategy Equilibrium
+
+7There are weaker conditions such that the Nash equilibrium is mixed and the maximin solution might be
+in pure strategies.
+
+--- Sayfa 18 ---
+18
+
+Another answer to the Aumann's question "why the players would use their
+equilibrium strategies" can be found in Harsanyi (1973). Harsanyi proposes a
+model under which both players' actual behavior seems to coincide with the
+strategies of the mixed-strategy equilibrium.8 The model assumes that players
+derive payoffs which are subject to small random fluctuations: each player knows
+his true payoff values, but player i is only informed of the mean of player j's
+payoffs. As a consequence, both players will in fact use only pure strategies in
+the equilibrium.
+
+The reasoning behind this result is as follows: Suppose that players 1 and 2
+know the payoffs in Figure 1 only approximately and ordering A.2 applies. This
+defines a game G*. Given the random fluctuation in payoffs,  players will be
+close to being indifferent between their two pure strategies in G* if they assume
+that the other player will play his first strategy with a probability p* or q*,
+respectively. At some times their first strategies give them more utility, while at
+other times the second strategy is more profitable. In the perturbed G*  the
+equilibrium strategies of both players are: "Always use your pure strategy
+yielding a higher  - even if only slightly higher - payoff; but if both of your pure
+strategies yield the same payoff then you may use either of them" (Harsanyi,
+1992, p.58). Note that these strategies do not contain any randomization.
+Moreover, if the probability distributions of the random fluctuations are
+continuous then the probability that the two pure strategies of a player yield the
+same payoff is zero and the possible indifference of the players can be ignored.
+
+Given the pure-strategy equilibrium of the G*, the random fluctuations in
+the payoffs will make, on the one hand,  strategy s11 with a probability slightly
+greater than p* more profitable to player 1 than his second strategy, s12.9 On the
+
+8See also Harsanyi (1992) for an introductory discussion.
+9Recall that (p*, q*) represents the mixed strategy equilibrium of the game in Figure 1 in accordance
+with (3), here specified by payoffs corresponding to A.2.
+
+--- Sayfa 19 ---
+19
+other hand, s12 will be more profitable with a probability slightly smaller than (1-
+p*). Consequently, player 1 will choose s11 with a probability slightly larger than
+p* and s12 with probability slightly smaller than (1- p*). Likewise player 2 will
+choose s21 with a probability slightly smaller than q* and s22 with probability
+slightly larger than (1- q*).
+
+If the amplitudes of the random fluctuations are small, the probabilities p*
+and q* are good estimates for the expected equilibrium behavior: if the
+amplitudes of the fluctuations go to zero, the probabilities for choosing s11 and
+s21 will converge to p* and q*, respectively. However, in the equilibrium of G*,
+both players will play pure strategies and the equilibrium will be strict: deviations
+would inflict utility losses depending on the degree of fluctuation. If the game is
+repeated and payoffs obteined are randomly distributed in each round, outside
+observers can interpret the relative frequencies for the alternative pure strategies
+as players playing mixed strategies.
+
+The random fluctuations on the payoffs represent the incomplete
+information of the players with respect to the other player's payoffs, i.e. his or
+her identity as a player. If players do not know their own strategy sets or the
+strategy sets of the other players, then this also implies incomplete information:
+again the identity of at least one player is not determined. This also means that
+from the perspective of at least one player the rules of the game are not well
+defined since the rules of a game determine the strategy sets available for the
+various player. However, incomplete information about the rules of the game can
+be seen as higher order of incomplete information and "different players may
+have different beliefs about the game that is played" (Vilks, 2001, p. 89). If,
+however, the identity of the players is undetermined, the game situation is also
+undetermined and cannot be analyzed in terms of game theory proper. This was
+the state of the art before Harsanyi (1967/68) demonstrated how to describe a
+game of incomplete information in terms of a game of imperfect information
+and then find a solution to the latter.
+
+--- Sayfa 20 ---
+20
+
+A game is characterized by perfect information if a player knows all the
+decisions made by him and other players before he has to make a choice. (This is
+the case if all information sets have only one element.) Cases of imperfect
+information prevail if a player forgets how he has decided earlier in the game or
+if he cannot see the choices of the other players which are simultaneous, at least
+in strategic time. Now, Harsanyi's idea was that, if player 1 does not know the
+payoffs of player 2,  let us assume that "nature" decides the payoffs of player 2,
+i.e. what type of player he is. However, we further assume that player 1 cannot
+see the move of nature which makes it an imperfect information game.
+
+If player 1 is a Bayesian decision maker and has some prior information
+about the possible types of player 2, he will assign probabilities p1,...,pm if there
+are, in his view, m possible types of player 2. If he has no specific information
+about the probabilities of the various types of player 2, but still distinguishes m
+possible types, player 1 may well apply the principle of insufficient reason and
+assign p = 1/m to each of the m types of player 2.
+If the probabilities are
+given - or, in a continuous model, the density function over the type interval -
+then player 1's equilibrium decision coincides with maximizing the expected
+utility under the assumption that each type of player 2 chooses an equilibrium
+strategy.
+
+Correspondingly, a mixed strategy of player i can be interpreted as a
+conjecture which expresses the player j's uncertainty about the player i's strategy
+choices while player i will, in fact, choose a pure strategy. Thus, the pair of
+equilibrium strategies (p*, q*) above represents a pair of consistent conjectures
+such that any pair of pure strategies concurs with them - while the selected pure
+strategies are in general not best replies to each other.
+
+4. The Forming of Beliefs
+
+--- Sayfa 21 ---
+21
+Not surprisingly,  mixed strategy equilibria have been interpreted as the belief
+held by all other players concerning a player's action (e.g., Aumann, 1987). The
+uncertainties implied by the mixed-strategy equilibrium have been viewed as an
+expression of the lack of certainty which characterizes the underlying strategic
+situation rather than the result of intentional plans and strategy choices of
+rational players. Given the beliefs incorporated in a mixed strategy equilibrium,
+all actions with strictly positive probabilities are optimal and a player is "free too
+choose" any pure or mixed strategy - and regret after the decisions of the other
+players have been disclosed that he has chosen the "wrong" strategy.
+
+Strategic uncertainty, as in mixed strategy equilibrium or in cases of a
+multiplicity of equilibria, are however but one instance where players, explicitly
+or implicitly, form beliefs. A second instance, as we have seen, is given if the
+information of a player is incomplete.  Strategy-related or payoff-related
+uncertainties are of first-order and players have to form expectations - i.e.,
+beliefs - about the facts which create these uncertainties, in order to make
+"adequate" decisions. Whether a decision is adequate, however, will depend on the
+decision and thus on the beliefs of the other players and the beliefs which they
+hold on the beliefs of the other players. The uncertainty about beliefs can be
+modeled in a similar fashion to uncertainty about payoffs, etc. by introducing
+additional types of players. If players are uncertain about what beliefs other
+players hold about other players,  the game is characterized by second-order
+uncertainty - which is, in this case, the result of first-order uncertainty.
+
+4. 1 Beliefs and Solution Concepts
+
+As we have seen, second-order uncertainty can also be the result of strategic
+uncertainty which is the result of the players' mutually interdependent reciprocal
+
+--- Sayfa 22 ---
+22
+expectations about each other's behavior.10 Solution concepts such as Nash
+equilibrium, trembling-hand perfect equilibrium or maximin are tools to reduce
+this interdependency and to get around the problem of discussing beliefs. In cases
+of zero-sum games, the prisoners' dilemma or the game in Figure 2 these tools
+work quite successfully. However, the trembling-hand perfect Nash equilibrium,
+applied to eliminate the Nash equilibrium in weakly dominated strategies in
+Figure 2, makes rather strong assumptions on the beliefs of the players.
+Moreover, these beliefs are inconsistent with the outcome which proposes that
+the weakly dominant strategies are played with certainty. It is the assumed
+"trembling of the hand" which creates the uncertainty in a game of complete
+information which allows the application of the Bayesian principle (i.e., the
+maximization of expected utility) which sorts out weakly dominated strategies to
+be considered as outcomes of the game, even if they are rationalizable as Nash
+equilibrium strategies.
+
+In the standard case, Bayesian decisionmaking is applied more directly to
+games of incomplete information, when the beliefs related to the incompleteness
+are transformed by the move of "nature" into probabilities à la Harsanyi
+(1967/68) so that the expected utility calculation (1) applies. This calculation,
+combined with a game structure, defines a Bayesian equilibrium which consists
+of mutually best replies of strategies for all type of players,11 qualified by the
+probability estimates that a specific type prevails. Bayesian decision makers are
+assumed to revise their beliefs by conditioning on new information. However,
+there are hardly any constraints on these probability estimates. A possible
+restriction is given by the assumption of common priors which assumes that the
+probability estimates derive from empirical observations or abstract reasoning
+which are common for all players.
+
+10The Nash equilibrium is "based on the idea that a rational theory should not be a self-destroying
+prophecy which creates an incentive (not) to deviate for those who believe in it" (Selten, 1987, p.79).
+11Note that a type of player can be "justified" by incomplete information on strategy sets, payoffs or
+beliefs.
+
+--- Sayfa 23 ---
+23
+
+Alternative restrictions define the sequential equilibrium as introduced by
+Kreps and Wilson (1982a). In the case of a two-person game, it is a combination
+of a pair of strategies which are mutually best replies and a pair of consistent
+beliefs that reflect each player's probability assessment over the nodes in each
+information set. This reflects what players believe what has happened in the
+course of the game so far. Beliefs are consistent if they are consistent with the
+equilibrium strategies and satisfy Bayes' rule whenever it applies. Consequently,
+"starting with every information set, the player whose turn it is to move is using a
+strategy that is optimal for the remainder of the game against the hypothesized
+future moves of its opponent (given by the strategies) and the assessment of past
+moves by other players and by 'nature' " (Kreps and Wilson, 1982b, p. 257). This
+is also required for information sets that will not be reached if players follow the
+prescription of the equilibrium strategies.
+
+On the one hand, sequential equilibria are subgame perfect,12  while, on the
+other, the set of trembling-hand perfect equilibria form a subset of sequential
+equilibria. The difference is in the assumption about the information and beliefs
+of the players. Obviously, the beliefs in the trembling-hand perfect equilibria are
+more restrictive than in sequential equilibria.
+
+4. 2 Epistemic Analysis
+
+The refinements of the Nash equilibrium are characterized by more or less
+informal assumptions about how players form and revise their beliefs. Interactive
+
+12Given a game Γ in extensive form (described by a game tree). A Nash equilibrium pair (σ, µ) is
+subgame perfect if, wherever Γ decomposes (at a node X), the corresponding restrictions of  σ and  µ are
+an equilibrium pair for the "remaining" subgame ΓX (Owen, 1995, p.169). In games of perfect information,
+subgame perfectness implies that in each decision node the corresponding player chooses a partial
+strategy (which is part of his subgame perfect strategy) such that it is a best reply to the decisions of
+the other players and his own decisions that follow. If the game is finite, subgame perfect equilibria are
+determined by backward induction. (See, e.g., the centipede game in Figure 5 below.)
+
+--- Sayfa 24 ---
+24
+epistemology13 is the formal analysis which helps to clarify the assumptions
+about the beliefs and reasoning of  players that are implicit in the various solution
+concepts, i.e.,  what players know and believe about the facts of the game
+(players, strategies and payoffs) and each other's knowledge and beliefs.
+Interactive epistemology is about rigorously and explicitly formulating
+assumptions about the knowledge, the beliefs, and the rationality of the players
+and thus directly tackles the core issue of game theory: the formation of
+expectations when decisions are interdependent. On the one hand, it generalizes
+the idea of a solution concept and, on the other hand,  it substitutes, when it
+seems appropriate, the choice of a specific solution concept, and thus can
+possibly add new insight about the strategic contents of game situations -
+particularly for games of incomplete information and for repeated games in
+which the history may serve to signal the intentions of the players in future
+rounds.14 From this perspective, solution concepts such as Nash equilibrium and
+its refinement are just shorthand concepts of the strategic interaction and the
+related belief formation of a game situation.
+
+Applying interactive epistemology, a state of a game comprises a profile
+of strategies, which encode each player's potential to act,  and epistemic types
+which summarize each player's dispositions to hold conditional beliefs about the
+other players' strategies and types. The latter are expressed by means of
+conditional probabilities which satisfy Bayes' rule whenever it applies. Thus the
+players dispositions to hold beliefs is described by a conditional probability
+system.  Higher-order beliefs, i.e., beliefs about beliefs, beliefs about be beliefs
+about beliefs, and so on,  are a constituent element and reflect corresponding
+levels of uncertainty. An epistemic type is, in analogy to the modeling of
+incomplete information on strategy sets or payoffs, a complete and explicit
+
+13See Aumann (1999a,b), Battigalli and Siniscalchi (1999), and Battigalli and Bonanno (1999) for this
+concept.
+14To illustrate the latter: what does it mean if the first player does not choose "down" at the initial
+"history" of the centipede game? For the centipede game, see Figure 5 below.
+
+--- Sayfa 25 ---
+25
+description of an agent's conditional beliefs of arbitrary order. Thus we can
+model the incomplete information on belief systems by sets of epistemic types -
+or, equivalently, by hierarchies of conditional beliefs.
+
+In addition to the constraints through applying Bayes' rule, a conditional
+probability systems is assumed to satisfy the notion of common certainty of
+opponent's rationality. Although the intuition behind this concept is self-
+explanatory, however, its formal elaboration is beyond the scope of this paper.
+Instead I will illustrate major features of the concepts of epistemic analysis by
+means of an example borrowed from Battigalli and Siniscalchi (1999). Figure 4
+illustrates a signalling game. The set of payoff-relevant types of players 1 and 2
+are given by Θ1 = {θ11,θ12} and  Θ2 = {θ2}, respectively. Since  Θ2 is a
+singleton there is no payoff-related uncertainty about player 2. However, it is
+player 1's private information whether he is of type θ11 or θ12 . This models the
+incomplete information of player 2 with respect to the payoffs of player 1 by the
+imperfect information of whether "nature" has chosen θ11 or θ12. The set of
+pairs of types is  Θ1 × Θ2 = {(θ11,θ2), (θ12,θ2)} = {θ',θ"} where × is the
+Cartesian product. Player 2's belief about the opponent's payoff-relevant type will
+be specified within an epistemic model.
+
+Figure 4: Signalling Game
+
+The set of (final) outcomes is {(L), (R,u), (R,d)} × {θ',θ"}. H = {φ, (R)} is the set
+of partial histories where φ represents the empty history (nothing has been
+observed) and (R) expresses the intermediate outcome "player 2 observed that
+player 1 had chosen R"  For each type θi and each partial history  h (which is an
+element of H), the Cartesian product {h} × {θi}× Θi corresponds to an
+information set for player i in Figure 4. For example, I = {((R), θ2,
+θ11), ((R), θ2, θ12)} describes the information set of payer 2.
+
+--- Sayfa 26 ---
+26
+
+In principle, we are interested in players' conditional beliefs for each
+commonly observed partial history h. In the game of Figure 4, however, only the
+belief of player 2 in information set I is relevant - which is conditional to the
+partial history h = (R). Note that formally it is assumed that players have beliefs
+about their own strategies and payoffs, however, it seems appropriate to focus on
+the players' beliefs about their opponents.
+
+A rational player i is assumed to be certain of his strategy and type and
+that he makes a best response in terms of beliefs about the other players.
+Moreover, in a dynamic model he might change his beliefs about the other
+players simply because he deviated from his own plan.
+
+ Battigalli and Siniscalchi (1999) constructed an epistemic model of the
+game in Figure 4. We will not reproduce this model here because this would
+necessitate to introduce a series of definitions and a quite voluminous formal
+apparatus. Instead we will give some intuitive interpretations of the model. First
+assume x > 1. If player 2 observes a partial history (R) then he should "believe"
+that player 1 is of payoff-type θ12 and choose u. This necessitates that (i) player
+1 is of type θ12 , (ii)  he "believes" that player 2 is rational and (iii) he "believes"
+that player 2 believes that he (player 1) is rational and "believes" in the rationality
+of player 2. Of course, this hierarchy of beliefs can be further expanded and
+formalized as common certainty of opponent's rationality. Only if player 2
+assumes that his beliefs are consistent with the beliefs of player 1, including his
+belief that player 1 is rational,  he can interpret the partial history (R) as a signal
+that player 1 is a θ12 payoff-type and will choose strategy u.
+
+It is interesting to see that player 1 has no incentive to mislead player 2 in
+forming his beliefs. In case that player 1 is of type θ11, and player 2 chooses u,
+both players are worse off. In this case, player 1 is even worse off than if he
+chooses strategy L.
+
+Common certainty of an opponent's rationality refines our prediction
+about the behavior of player 1. This holds in every partial history of the game
+
+--- Sayfa 27 ---
+27
+described by set H.  Battigalli and Siniscalchi point out that the underlying
+argument has the flavor of forward induction. Let us assume player 2's initial
+belief (in partial history φ) was that player 1 is of type θ11. Then he predicts that
+player 1 will select strategy L. If faced with partial history (R) and thus a
+deviation from his original prediction, player 2 attempts to find an explanation
+for this result that is consistent with the assumption that player 1 is rational. This
+implies that player 2 assigns a conditional probability of 1 to payoff-type θ12,
+and results in his decision to pick strategy u. Given common certainty of
+opponent's rationality, player 1 anticipates that player 2 will choose u if he picks
+R so that R is optimal for partial history φ - i.e., at the beginning of the game.
+
+ If x < 0, however, then rationality and common certainty of an opponent's
+rationality lead to inconsistency. If player 1 is rational and is certain that player 2
+is rational and certain about player 1's rationality in φ and (R), the player 1 should
+expect player 2 to choose d, and he should therefore choose L. Then, however,
+player 2 cannot be certain about player 2's rationality because the latter should
+pick L instead of R if he expects that player 2 chooses d.
+
+4. 3 Rationalizable Strategies
+
+Forward induction implies that a player seeks explanations of his opponent's
+observed behavior under the assumption that the latter is rational. Standard
+solution concepts can restrict the alternative explanations of a player and thus
+lead to outcomes that are, at least empirically, descriptively questionable. For
+instance, this applies to the subgame perfect equilibrium of the centipede game
+in Figure 5 which suggests that the first player chooses "down" (D) at his first
+more. However, if player 2 gets a chance to make a decision then this clearly
+indicates that player 1 does not follow the recipe of subgame perfectness. Now,
+player 2 could think that this is because player 1 does not understand the game or
+is not able to apply the backward induction principle, which subgame
+
+--- Sayfa 28 ---
+28
+perfectness prescribes for finite games; or that player 1 wants to signal that he
+does not intend to follow the logic of subgame perfectness and thereby aim for a
+payoff larger than 1. Obviously, player 1 cannot hope for the payoff n if player 2
+is payoff maximizing, since player 2 does not expect that he will have a chance to
+gain n+1while player 1 will receive 0 "with certainty" if the second player's last
+decision node is reached. Note that this is the round which backward induction
+considers first. Player 1 will reason player 2 will choose "down" in period n+1,
+and therefore choose "down" in round n if this period is ever reached. By the
+same reasoning, however, player 2 will choose "down" in round n-1, if he ever has
+a choice.
+
+Now following the decision tree backwards from round n+1 to round 1, we
+see that the reasoning of rounds n+1 and n then applies to rounds 1 and 2.
+Consequently, backward induction and subgame perfectness prescribe that player
+1 chooses "down" in the first period. Thus, if player 2 has the possibility to make
+a decision in round 2 he concludes that player 1 does not follow the backward
+induction principle or is a different type then assumed by the game tree - or
+player 1 assumes that player 2 is a different type. Then player 2 finds himself in a
+guessing game to which we apply the epistemic model.
+
+Figure 5: The Centipede Game
+
+The epistemic model amounts to looking for an epistemic type that rationalizes
+the opponents' actions. Because it is based on infinite hierarchies of conditional
+probabilities, it is not, therefore, very restrictive;  in fact, it does not exclude any
+conceivable type of beliefs. It generalizes the idea of rationalizable strategies
+which was simultaneously introduced by Bernheim (1984) and Pearce (1984).  In
+short, a strategy is rationalizable if it is a best reply to a strategy which is
+rationalizable. Obviously, the mutually best-reply strategies of a Nash
+equilibrium are rationalizable. However, rationalizable strategies are not
+
+--- Sayfa 29 ---
+29
+necessarily equilibrium strategies as is straightforward from the example given in
+Figure 6 (which is borrowed from Bernheim (1984)).
+
+Figure 6: Rationalizable strategies
+
+b1
+b2
+b3
+b4
+a1
+(0,7)
+(2,5)
+(7,0)
+(0,1)
+a2
+(5,2)
+(3,3)
+(5,2)
+(0,1)
+a3
+(7,0)
+(2,5)
+(0,7)
+(0,1)
+a4
+(0,0)
+(0,-2)
+(0,0)
+(10,-1)
+
+In the game of Figure 6, {a1,a2,a3,a4} and {b1,b2,b3,b4} are the sets of pure
+strategies of players 1 and 2, respectively. Note that strategy b4 is never a best
+reply to any of the a-strategies of player 1. It is not, therefore, in the set of
+rationalizable strategies. However, we have to then see that a4 is not
+rationalizable because it is not a best reply to any of the strategies in set
+{b1,b2,b3}. The strategies in the sets {a1,a2,a3} and {b1,b2,b3} are
+rationalizable. The pair (a2, b2) is a Nash equilibrium and the corresponding
+strategies thus are mutually best replies. The remaining strategies in the sets {a1,
+a3} and {b1, b3} form a cycle of best replies: a1 is a best reply to b3 and  b3 is
+best reply to a3 and a3 is a best to b1, while b1 is a best reply to a1, the latter
+relation closes the cycle.
+
+The set of rationalizable strategies in a game with complete information is
+obtained by an iterative deletion procedure as applied above. In two -person games
+the outcome coincides with the result of iterated strict dominance.
+Rationalizability selects the strategies which are consistent with common
+certainty of rationality (Tan and da Costa Werlang, 1988). It is straightforward
+
+--- Sayfa 30 ---
+30
+from the above example that beliefs can be consistent with strategies which are
+not mutually best replies, but are rationalizable.
+
+4. 4 Epistemic Conditions for Nash Equilibrium
+
+Aumann and Brandenburger (1995) discuss sufficient epistemic conditions for
+Nash equilibria. They show that, contrary a wide-spread belief in the game
+theoretical literature, common knowledge is not a necessary condition for Nash
+equilibrium. They prove the following theorem (Theorem A) for the 2-Player
+case: "Suppose that the game being played ..., the rationality of the players, and
+their conjectures are mutually known. Then the conjectures constitute a Nash
+equilibrium" (p.1162). - This is an interesting result, but the question is, do
+conjectures constitute a Nash equilibrium as stated in Theorem A? If we follow
+Aumann and Brandenburger and define a mixed strategy of a player as his or her
+conjecture which expresses the player's uncertainty about the other player's
+choices in the form of a probability distribution on the pure strategies of the
+other player, then it could be misleading to speak of a Nash equilibrium if the
+conjectures are consistent as the selected pure strategies are in general not
+mutually best replies to each other. The fact that player i's pure strategy concurs
+with i's conjecture of player j and is consistent j's conjecture, does not imply that
+the conditions for a Nash equilibrium are satisfied by the pure strategies chosen.
+There is a price if we assume that players do not randomize in a mixed strategy
+equilibrium but merely choose pure strategies which are consistent with their
+own conjectures about the choices of other players.
+
+Aumann and Brandenburger point out that Theorem A does not call for
+common knowledge, which requires that all know, all know that all know, and so
+on ad infinitum. It is sufficient to know the other player's conjecture and his
+disposition to rationality to make a rational choice. Player i's choice of strategy x
+is rational if the conjecture of player j assigns a positive probability to x and x is
+
+--- Sayfa 31 ---
+31
+optimal against i's conjecture (about j's strategy decision) and i's payoff function.
+Of course, i's conjecture depends on his knowledge of j's  payoff function and j's
+disposition to rationality.
+
+The formation of conjectures becomes more problematic if there are
+more then two players involved: players i and j can form different conjectures
+with respect to player k. Aumann and Brandenburger assume that players have
+common priors so that differences between conjectures are exclusively due to
+differences in their information. They prove Theorem B: "In an n-Player game,
+suppose that the players have common prior, that their payoff functions and their
+rationality are mutually known, and their conjectures are commonly known. Then
+for each player j, all other players i agree on the same conjecture σj about j; and
+the resulting profile (σ1 ,...,σn ) of mixed actions is a Nash equilibrium."
+
+Interestingly, here the Nash equilibrium refers to mixed actions (where
+actions are pure strategies) which, of course, are assumed to concur with the
+conjectures. Does this mean that all players i assume that player j mixes his pure
+strategies in accordance with σj? The answer is not obvious from Aumann and
+Brandenburger, however, they point out that the Nash equilibrium in accordance
+with Theorem B merely needs common knowledge of the players' conjectures,
+not of the game or of the players' rationality. They also argue that the results in
+Theorem A and B are "tight" in the sense that none of the underlying conditions
+can be left out, or even significantly weakened. Nevertheless, as Polak (1999)
+shows, there is a possible trade-off between these conditions. Polak
+demonstrates that if we assume common knowledge of payoffs (i.e. complete
+information) then the common knowledge of rationality is implicit and we do not
+need to assume common priors to assure a Nash equilibrium in case of more than
+two players (see Theorem B).
+.
+5.  Experimental Research and  Evolutionary Game Theory
+
+--- Sayfa 32 ---
+32
+We have seen that the formal apparatus of epistemic games is substantial, even
+for a rather simple game as in Figure 4.  Modeling of infinite hierarchies of
+conditional probabilities is, in particular,  "costly". Consequently, we can expect
+that the analysis of game situations will continue to make use of the Nash
+equilibrium and its refinements and other less sophisticated solution concepts.
+We have seen that these concepts do not always make sense and sometimes they
+describe outcomes that are far off what common sense predicts - and thus
+perhaps not very helpful to describe human behavior. They have, however,
+immensely helped us to increase our understanding of social interaction as, for
+instance, in the fields of industrial organization and of the emergence of norms.15
+Moreover, there is work which elaborates the epistemic conditions of solution
+concepts (see Aumann, 1995, and Aumann and Brandenburger, 1995) and thus
+may help to choose adequate solution concepts or to interpret the results of
+applying them adequately.
+
+5. 1 Ultimatum Game and Fairness
+
+Applying solution concepts concurs with our need to reduce complexity and to
+apply recipes in real-life decision situations. The implications of the interactive
+epistemology concept seem too demanding for real-world decision makers and
+even the application of less demanding solution concepts is often constrained by
+the human capacity for problem solving - the knowledge of appropriate skills and
+their applications and the ability to adequately interpret the results. In many
+cases, people neither analyze infinite hierarchies of beliefs nor choose that what
+the solution concepts prescribe. For instance, there has been a series tests of the
+so-called ultimatum game. The game is as follows: Players 1 and 2 are "invited"
+to share $100 subject that they agree how to divide this amount: if they do not
+
+15See Aumann (1985) for this argument.
+
+--- Sayfa 33 ---
+33
+agree they get nothing. Player 1 is first to make a proposition how to share the
+money. Player 2's decision to accept or to reject this proposition concludes the
+game. (There is no second round or possibility of renegotiation, etc.).
+
+The nicety of this game is that subgame perfectness describes a
+straightforward unique outcome: Player 1 will demand almost all of the money,
+and player 2 will accept a share which is as close to zero as the divisibility of the
+money allows. There is however ample empirical evidence that real-life decision-
+makers do not accept the crumbs assigned to them by this equilibrium if they are
+in the position of player 2. Experiments show that they ask for about one quarter
+of the money and reject the proposition of player if it offers less than this
+share.16
+
+One explanation for this result is that the money does not represent the
+preferences such that the players' payoffs in the game are identical with money.
+Weibull (2000) maintains that experimental researchers have first of all to test
+for the players' payoff functions before they can claim that their experiments
+analyze the sharing of a fixed cake and test for subgame perfect outcomes. What
+if player 2's payoffs not only depend on his own share but also on the share of the
+other player or the distribution of the cake - and apply concepts of fairness to
+evaluate the outcome?
+
+Now, if players apply notions of fairness to the ultimatum game then, of
+course, the subgame perfect equilibrium is an unlikely outcome even if payoffs
+are linear in money. Note that in this case we have two alternatives of modeling
+fairness: either as an argument of the payoff function, as implied by Weibull's
+proposal, or as the application of a solution concept which is different from
+subgame perfectness. It is well known that we can formulate strategy pairs such
+that any sharing proposition can be the outcome of a Nash equilibrium - which is,
+however, generally not subgame perfect  (see, e.g., Rubinstein, 1982).
+
+16See, e.g.,  Güth and Tietz  (1990),  Binmore et al. (1991), Güth et al. (1996), and Bolle (1990) for
+experimental results which falsify the subgame perfectness hypothesis.
+
+--- Sayfa 34 ---
+34
+
+Since Nash equilibrium strategies are rationalizable there should be an
+epistemic model implying a belief system which supports any specific sharing
+proposition. Alternatively, the application of a fairness norm can select a specific
+Nash equilibrium. This concurs with Binmore's (widely discussed) view that
+morality is merely a means of coordination: "Just as it is actually within our
+power to move a bishop like a knight when playing Chess, so we can steal,
+defraud, break promises, tell lies, jump lines, talk too much, or eat peas with our
+knives when playing a morality game. But rational folk choose not to cheat for
+much the same reason that they obey traffic signals" (1998, p.6). The problem
+here is that morality is not well defined, e.g., there are almost as many different
+notions of fairness as there are applications and it is not obvious how a society
+can refer to one of them to coordinate on a Nash equilibrium in a voluntary (and
+not exogenously enforceable) way.
+
+5.2 Evolution and Descriptive Theory
+
+Binmore suggests that we leave it to social evolution to develop consistent rules
+of fairness which can be applied to solve the coordination problems of a society.
+If it does not, and  if there are competing societies which are more successful in
+solving the coordination problem, then the society is likely to "die out". Here,
+"dying out" could simply mean that the society chooses different rules and thus
+becomes a society different from the former one. However, history shows that,
+invaded by a competing society (i.e. a mutant), societies also literally vanish
+without transforming into another one.
+
+On a personal level, evolution is synonymous with learning rather than
+genetic selection: applying new behavioral concepts, new ways of thinking and
+forms of social interaction. This can be result of deep insights or intensive
+observation of repeating phenomena, scientific studies, or simply imitating other
+individuals who are generally more successful - instead of calculating best
+
+--- Sayfa 35 ---
+35
+replies. In this case, "players need know only what was successful, not why it was
+successful" (Mailath, 1998, p. 1355).  Successful behavior thus becomes more
+prevalent not only because, for instance, market competition selects against
+"unprofitable" behavior, but also because agents imitate successful behavior.
+However, imitating successful behavior is not always a successful pattern of
+behavior: a market might be large enough for two suppliers but overcrowded if
+there are three.17
+
+In a recent paper, Selten and Ostmann (2001) introduce the concept of an
+imitation equilibrium. The underlying model consists of a normal form game G
+and a reference structure R. The latter assigns a set R(i) of players to each player
+i of game G which contains those players "who are sufficiently similar to be
+imitated if they are more successful" (p. 113). A second constituent element of
+the model is the strategy of explorative deviations of those players who have
+profits after imitation which are at least as high as the highest in their reference
+groups. Then, an imitation equilibrium is characterized by a strategy vector
+which (a) contains no opportunities of profitable imitations and (b) and is stable
+against exploratory deviations. Of course, an imitation equilibrium depends (a) on
+the reference structure - whether it is universal such that the reference set of a
+player is always the set of all other players, or constrained to subsets - and (b) on
+the available strategies of exploratory deviations: a global imitation equilibrium
+requires stability against any exploratory deviation.
+
+Contrary to genetic evolution, the selection mechanism ("market") in
+social evolution is, at least to some extent, subject to the players' discretion and
+therefore possibly under the influence of successful social groups or individuals
+who are then able "to define the rules of the game". Moreover, social evolution
+does not necessarily follow the dynamic patterns of genetic evolution studied in
+
+17Sherman and Willett (1967) contains a market model, which can be modeled as volunteer's dilemma
+(see Diekmann, 1985),  in which the threat of potential entry and overcrowding, resulting in losses,
+discourages entry if suppliers choose their maximin strategy.
+
+--- Sayfa 36 ---
+36
+biology: learning can be fast, especially when it is in the form of imitation, and
+communication can allow for almost immediate changes on a large scale.
+
+In situations where we lack sufficient observations, learning has to refer to
+descriptive theories of game behavior if the decision situation is characterized by
+strategic interaction. Experimental studies deliver building blocks for such a
+theory: "Typically, such descriptive theories formalize ideas on limited
+rationality decision-making. Satisficing and the adaptation of aspiration levels
+rather than optimization play an important role" (Selten, 1987, pp. 84f.).
+
+5. 3 An Evolutionary Game
+
+Accordingly, evolutionary game theory takes an equilibrium as the outcome of
+adaptation (or learning) and selection rather than as the result of strategic
+reasoning by rational agent. This idea has been formalized by two sets of solution
+concepts: static equilibrium concepts, the evolutionary stable strategies (ESS)
+and its variants, which are closely related to the Nash equilibrium, and a set of
+dynamic concepts which examine the stability of the evolutionary process
+(asymptotic stability or Liapunov stability). In the latter case, the dynamics of the
+process is often described by the standard replicator equation which says that the
+growth of state variable xit (in time t) is defined by the difference between its
+fitness, f(i,xt), and the average fitness of the population, f(xt,xt) where xt is a
+vector which has the elements xit  with i = 1,...,n. Here, xit can be the share of a
+social group in a population, or the share of a strategy (or a mode of behavior)
+picked by a set of players. In the latter case, fitness can be identified by payoffs.
+
+The formal expression of the replicator function is:
+
+(R)
+       dxit/dt = xit [f(i,xt) - f(xt,xt)]
+
+--- Sayfa 37 ---
+37
+A state is a rest point if the state variables xit, i = 1, ....,n, do not change, i.e., if
+dxit/dt = 0  holds for all derivatives with respect to time t. A rest point is
+Liapunov stable if the dynamic process does not take states which are close to
+the rest point far away in case that the system is destabilized by a external shock.
+A rest point is asymptotically stable if any  dynamically process which starts
+sufficiently close to the rest point converges to this rest point. The specification
+of closeness decides whether the dynamic model is globally or only locally
+asymptotically stable. If the basin of attraction covers the full domain of each
+state variable, then the dynamic system is globally stable.
+Figure 6: Rest Points and Liapunov Stability
+                        Player 2
+
+L
+R
+                           Player 1
+T
+(1,1)
+(1,0)
+
+B
+(1,1)
+(0,0)
+
+We can illustrate some of these concepts by means of the game in Figure 6.18
+First, we can observe that the game has two obvious Nash equilibria in pure
+strategies, however, any mixed strategy on T and B is part of a Nash equilibrium if
+player 2 picks L. But all Nash equilibria of this game are weak. To prepare for the
+evolutionary interpretation of the game, we assume that p is the share of strategy
+T in the population of player 1: either we assume that population 1 consists of  p
+players of type 1 who pick T and (1-p) players of this type who pick B, or we
+think of  type 1 players who randomize on picking T and B with probabilities p
+and (1-p). Correspondingly, q represents the probability (or share) of L in
+population 2.
+
+We now describe the possible development of pt and qt by means of
+replicator functions of the type in (R). We get:
+
+18The game is in Samuelson and Zhang (1992); we follow its use and interpretation in Mailath (1998).
+
+--- Sayfa 38 ---
+38
+
+(R1)               dpt/dt = pt (1-pt)(1- qt)    and
+
+(R2)
+dqt/dt = qt (1- qt)
+
+These two differential equations indicate that the system has a rest point for qt =
+1; irrespective of pt, i.e., the composition or behavior of population 1. If qt = 1
+both (R1) and (R2) are zero, i.e., nothing will change as long as there is no
+external shock such that an agent chooses a different strategy. Moreover, the
+system will not be destabilized if there is an external shock so that pt changes as
+long qt = 1. However, what happens if "suddenly" some members of population 2
+choose R instead of L such that qt < 1. (Of course, this change in behavior is not
+"rational" because the R strategy is strictly dominated by L.) As a consequence we
+expect from (R2) that the qt will grow  till qt = 1is achieved and, again, all
+members of population 2 pick L. Moreover, we expect from (R1) that pt , the
+share of members of population 1 who pick T, will increase till either qt = 1 or pt
+= 1 or both conditions are satisfied. If pt is far away from pt = 1 while qt is close
+to qt =  1, since the shock which lead to qt  <1 was small, then we expect that qt =
+1 is reached before pt = 1and there will be a new rest point (pt',1) close the
+combination (pt,1) which characterized the earlier rest point (with t' > t). Thus the
+rest points of the dynamic system described by (R1) and (R2) are Liapunov
+stable. However, they are not asymptotically stable because the derivatives in
+(R1) and (R2) are nonnegative and external shocks will always lead to an increase
+of pt  until pt =1 is reached. As a consequence, an earlier rest point can never be
+reached after a perturbation which affected qt. The exception seems to be with
+state pt =1 and qt = 1. A shock in qt , which implies that parts of the population 2
+play R, induces a growth of  qt till qt = 1 is reached while  pt ( = 1) will not
+change. However, if there is (only) a perturbation in pt such  pt  < 1 and  qt = 1,
+
+--- Sayfa 39 ---
+39
+then it follows from the replicator functions that no forces exist that bring pt
+back to pt = 1. Thus, the state pt =1 and qt = 1 is not asymptotically stable.
+
+5.4 Evolutionary Solution Concepts
+
+For the analysis of an evolutionary game the dynamics is often of interest in
+order to see whether the game describes a stable environment: Liapunov stable or
+even asymptotically stable. If not, the social or political controller (e.g.,
+government) might consider to modify the game, possibly by changing the
+payoffs. Evolutionary game also offers static concepts, like ESS, to analyze
+stability problems, which are inherently dynamic, without explicitly analyzing
+dynamics. A (monomorphic) population is evolutionary stable if it satisfies the
+following condition (ESS) if a "mutant strategy" m invades the established
+population described by strategy s.
+
+(ESS)
+There is a ε° such that for every ε < ε° :
+
+(1-ε)f(s,s) + εf(s,m) > (1-ε)f(m,s) + εf(m,m)
+
+Note that the left-hand side of this inequality represents the expected fitness of
+the "established strategy" s, where f(s,s) is the fitness of s when meeting a
+strategy of the same kind and f(s,m) is the fitness of s when meeting a mutant
+strategy. The right-hand side represents the expected fitness of the mutant m
+where f(m,s) and f(m,m) express the fitness of m when m meets s and  m,
+respectively.
+
+The value of ε° can be very small, in any case, the inequality condition has
+to hold for all ε < ε°. Thus, if we find a very small ε°, so that entry of m is only
+"marginal", and the inequality condition in ESS holds, then the population s is
+evolutionary stable. ESS implies that
+
+(i)  f(s,s) ≥ f(m,s) and
+
+--- Sayfa 40 ---
+40
+
+(ii) if f(s,s) = f(m,s) then  f(s,m) > f(m,m)
+It is straightforward from (i) that ESS implies a Nash equilibrium where m
+represents the possible deviation. It is also straightforward that there are Nash
+equilibria which do not satisfy ESS, e.g., if  f(s,s) = f(s,m) = f(m,m) holds for all
+and the Nash equilibrium (s,s) is weak.
+
+Static solution concepts to evolution seem especially appropriate when
+the dynamics of social evolution is not continuous and the replicator functions
+are inappropriate. I have argued above that learning can be fast and
+communication can allow for almost immediate changes on a large scale. It
+therefore seems appropriate to consider values of ε° which are non-marginal
+when we apply ESS to human interaction. For example, Peters (1997) discusses a
+modified ESS-concept for the analysis of larger invasions by making ε° an
+exogenous parameter. He applies this concept to the emergence of standards
+where critical mass effects and threshold values are substantial and
+communication and learning are essential.
+
+There is a strong relationship between static solution concepts, such as
+ESS and Nash equilibrium,  the stability results of the dynamic analysis captured
+by the replicator function.19 For example, if a state xt is asymptotically stable
+then it coincides with a Nash equilibrium. If  xt satisfies ESS then it is
+asymptotically stable if the continuous replicator dynamics apply. However,
+asymptotically stable rest points of the replicator dynamics do not necessarily
+satisfy ESS, e.g, if some of the mutants are  considered with zero probabilities,
+only.
+
+If a game is asymmetric, like in Figure 6, then a Nash equilibrium is
+asymptotically stable if and only if it is strict (which is not the case in the game
+of Figure 6) and the dynamics is described by replicator functions. However, if a
+game is asymmetric then ESS does not exist. ESS exists for the symmetrized
+
+19Results are summerized, e.g. in Mailath (1998).
+
+--- Sayfa 41 ---
+41
+game, where players have equal chances to be in the alternative roles which imply
+the asymmetry, if a strict Nash equilibrium exists for this game. From this we can
+conclude that ESS is a more rigorous concept for testing stability than
+asymptotic stability while the latter is more rigorous in this test than the Nash
+equilibrium concept. The Nash equilibrium is, however, more rigorous than the
+rest point concept. For instance, if only strategy R will be played in the game of
+Figure 6, so that qt = 0 then the state pt =1 and qt = 0 is a rest point, but not an
+equilibrium.
+
+These results can be directly applied to problem of equilibrium selection
+which,  however, is only relevant if one works in this category. We have outlined
+a series of  arguments above which do not necessarily support this approach. But
+the evolutionary approach does give a nice interpretation of mixed strategy by
+means of introducing heteromorphous populations with members who
+characterized by different pure strategies. (See the game in Figure 6 above.)
+Unfortunately, so far no systematic analysis exists which relates the formation of
+beliefs with the evolutionary approach. Are we more successful, i.e., more likely
+to survive, if we solve the epistemic game for infinite levels of belief formation?
+Or should we simply be more optimistic about the beliefs which other players
+have about ourselves?
+
+6. Final Remarks
+
+The hypothesis of the above brief history of game theory is that the various stages
+of its development are the result of different assumptions on the nature of the
+decision makers, i.e., of the "image of man" underlying the various approaches.
+This explains why I did not discuss cooperative game theory which is
+characterized by the assumption that the players can make binding (and
+enforceable) agreements. As a consequence, the coordination of strategies and
+
+--- Sayfa 42 ---
+42
+solving conflicts are no problem if player want to solve them. What remains is
+the question on what result the players will agree.20
+
+Of course, this brief history has omitted many issues of game theory but
+my intention was not to give a complete overview - only to discuss the changes in
+"style" and to relate them to changes in the "image of man".
+
+20See, e.g., Owen (1995) for the Nash solution ( pp. 190-197), the core and stable sets (pp. 218-232) and
+related solution concepts of cooperative game theory.
+
+--- Sayfa 43 ---
+43
+References
+
+Allais, M.. (1953). Le comportment de L'homme rational devant le risque:
+critique des postulats et axiomes de L'Ecole Americaine. Econometrica, 21,
+503-546
+
+Allen, R.G.D. (1960). Mathematical Economics (2nd edition). London:
+MacMillan.
+
+Andreozzi, L. (2001). Oscillations in the enforcement of law: An evolutionary
+analysis. Homo Oeconomicus, 18, forthcoming.
+
+Aumann, R.J. (1985). On the non-transferable utility value: a comment on the
+Roth-Shafer examples. Econometrica, 53, 667-677.
+
+Aumann, R.J. (1987). What is game theory trying to accomplish? In K.J. Arrow
+and S. Honkapohja (Eds.), Frontiers of economics (pp. 28-76). Oxford:
+Blackwell.
+
+Aumann, R.J. (1999a). Interactive epistemology I: Knowledge. International
+Journal of Game Theory, 28, 263-300.
+
+Aumann, R.J. (1999b). Interactive epistemology I: Knowledge. International
+Journal of Game Theory, 28, 301-314.
+
+Aumann, R. and Brandenburger, A. (1995). Epistemic conditions for Nash
+equilibrium. Econometrica, 63, 1161-1180.
+
+Battigalli, P. (1997). On rationalizability in extensive games. Journal of
+Economic Theory, 74, 40-61.
+
+Battigalli, P., and Bonanno, B. (1999). Editors' note. Research in Economics, 53,
+113-116.
+
+Battigalli, P., and Siniscalchi, M. (1999). Hierarchies of conditional beliefs and
+interactive epistemology in dynamic games. Journal of Economic Theory, 88,
+188-230.
+
+Baumol, W. J. (1972). Economic Theory and Operations Analysis (3rd ed.).
+Englewood Cliffs, NJ: Prentice Hall.
+
+Bernheim, D. (1984). Rationalizable strategic behavior. Econometrica, 52, 1002-
+1028.
+
+--- Sayfa 44 ---
+44
+Binmore, K. (1998), Just Playing: Game Theory and the Social Contract,
+Volume II. Cambridge, Mass., and London: MIT Press.
+
+Binmore, K., Morgan, P., Shaked, A., and  Sutton, J. (1991). Do people exploit
+their bargaining power? An experimental study. Games and Economic Behavior,
+3, 295-322.
+
+Bolle, F. (1990). High reward experiments without high expenditure for the
+experimenter? Journal of Economic Psychology, 11, 157-167.
+
+Cho, I.K., and  Kreps, D. (1987). Signalling games and stable equilibria.
+Quarterly Journal of Economics, 102, 179-221.
+
+Diekmann, A. (1985). Volunteer's dilemma. Journal of Conflict Resolution, 29,
+605-610.
+
+Feyerabend, P. (1984). Wissenschaft als Kunst. Frankfurt: Suhrkamp Verlag.
+
+Frey, B.S., and Holler, M.J. (1998). Tax compliance policy reconsidered. Homo
+Oeconomicus, 15, 27-44.
+
+Frohn, J., Güth, W., Kliemt, H., and Selten, R. (2001). Editors' introduction to
+"Making Choices I". Homo Oeconomicus, 18, 1-17.
+
+Güth, W. and Tietz, R. (1990). Ultimatum bargaining behavior – a survey and
+comparison of experimental results. Journal of Economic Psychology, 11, 417-
+449.
+
+Güth, W., Huck, S., and Ockenfels, P. (1996). Two level ultimatum bargaining
+with incomplete information: an experimental study. Economic Journal, 106,
+593-604.
+
+Harsanyi, J.C. (1967/68). Games with incomplete information played by
+'Bayesian' players. Management Science, 14, 159-182, 320-334, and 486-502.
+
+Harsanyi, J.C. (1973). Games with randomly distributed payoffs: a new rational
+for mixed-strategy equilibrium points. International Journal of Game Theory,
+2, 1-23.
+
+Harsanyi, J.C. (1977). Rational behavior and bargaining  in games and social
+situations. Cambridge: Cambridge University Press.
+
+--- Sayfa 45 ---
+45
+Harsanyi, J.C. (1992). In defense of game theory. Rationality and Society, 4, 51-
+61.
+
+Holler, M.J. (1990). The unprofitability of mixed strategy equilibria in two-
+person games. Economics Letters, 32,  319-323.
+
+Kahneman, D., and Tversky, A. (1979). Prospect theory: An analysis of decision
+under risk. Econometrica, 47, 263-291.
+
+Knight, F. H. (1921). Risk, uncertainty and profit. Boston: Houghton-Mifflin.
+
+Kreps, D.M., and Wilson, R. (1982a). Sequential equilibrium. Econometrica, 50,
+863-894.
+
+Kreps, D.M., and Wilson, R. (1982b). Reputation and imperfect information.
+Journal of Economic Theory, 27,  253-279.
+
+Luce, R.D., and Raiffa, H. (1957). Games and decisions: Introduction and
+critical survey. New York: Wiley.
+
+Machina, M.J. (1987). Choice under uncertainty: Problems solved and unsolved.
+Journal of Economic Perspectives, 1, 121-154.
+
+Mailath, G. J. (1998). Do people play Nash equilibrium? Lessons from
+evolutionary game theory. Journal of Economic Literature, 36, 1347-1374.
+
+Morgenstern, O. (1976). Perfect foresight and economic equilibrium. In A.
+Schotter (ed.), Selected economic writings of Oskar Morgenstern (pp. 169-
+181), New York: New York University Press. (This article originally appeared in
+Zeitschrift für Nationalökonomie, 6, Part 3, 1935.)
+
+Nash, J.F. (1951). Non-cooperative games. Annals of Mathematics, 54, 286-
+295.
+
+Owen, G. (1995), Game Theory, 3rd edition. New York: Academic Press.
+
+Pearce, D. (1984). Rationalizable strategic behavior and the problem of
+perfection. Econometrica, 52, 1029-1050.
+
+Peters, R. (1997). The stability of networks: an evolutionary approach to
+standardization. Homo Oeconomicus, 14, 347-355.
+
+Polak, B. (1999). Epistemic conditions for Nash equilibrium, and common
+knowledge of rationality. Econometrica, 67, 673-676.
+
+--- Sayfa 46 ---
+46
+Rives, N.W. (1975). On the history of the mathematical theory of games. History
+of Political Economy, 7, 549-565.
+
+Rubinstein, A. (1982). Perfect equilibrium in a bargaining model, Econometrica,
+50, 97-111.
+
+Rubinstein, A. (1998). Similarity and decision-making under risk (Is there a
+utility theory resolution to the Allais paradox?). Journal of Economic Theory,
+46, 145-153.
+
+Rubinstein, A. (2000), Economics and language: Five essays. Cambridge:
+Cambridge University Press.
+
+Samuelson, L., and Zhang, J. (1992). Evolutionary stability in asymmetric games.
+Journal of Economics Theory, 57, 363-391.
+
+Schwalbe, U., and Walker, P. (2001). Zermelo and the early history of game
+theory. Games and Economic Behavior, 34, 123-137.
+
+Selten, R. (1975). Reexamination of the perfectness concept for equilibrium
+points in extensive games. International Journal of Game Theory, 4, 25-55.
+
+Selten, R. (1987), Comment on "R.J. Aumann,What is game theory trying to
+accomplish?" In K.J. Arrow and S. Honkapohja (Eds.), Frontiers of economics
+(pp. 77-87). Oxford: Blackwell.
+
+Selten, R., and Ostmann, A. (2001). Imitation equilibrium. Homo Oeconomicus,
+18, 111-150.
+
+Sherman, R, and Willett, T.D. (1967). Potential entrants discourage entry.
+Journal of Political Economy, 75, 400-403.
+
+Tan, T. C.-C., and da Costa Werlang, S.R. (1988), The Bayesian foundations of
+solution concepts of games. Journal of Economic Theory, 45, 370-391.
+
+von Neumann, J.,  and Morgenstern, O. (1944), The theory of games and
+economic behavior. Princeton: Princeton University Press.
+
+Weibull, J.W. (2000). Testing game theory. Stockholm School of Economics,
+SSE/EF1 Working Paper Series in Economics and Finance, No. 382.
+
+Vilks, A. (2001). What is a game? The winner tales it all.  In F. Bolle and M.
+Carlberg (eds.), Advances in behavioral economics. Essays in honor of Horst
+Todt (pp. 87-96), Heidelberg and New York: Physica-Verlag.

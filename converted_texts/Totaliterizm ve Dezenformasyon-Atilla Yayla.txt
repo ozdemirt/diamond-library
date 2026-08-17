@@ -1,0 +1,868 @@
+--- Sayfa 1 ---
+125
+                   Makale / Article
+Totaliterizm ve Dezenformasyon
+Atilla Yayla*
+
+Öz
+Bilgi, devlet-vatandaş ilişkisinde önemli unsurlardan biridir. Bu ilişkide devlet bilgi­
+nin hem toplayıcısı, hem üreticisi, hem de dağıtıcısı konumundadır. Bu durum devlet
+kaynaklı bilgilerde şeffaflık ve doğruluğu halk açısından önemli bir hale getirmek­
+tedir. Dezenformasyon ise bilginin kasıtlı şekilde yanıltma, yönlendirme, yanlış bilgi
+verme amacıyla kullanılmasını ifade eden bir terimdir. Dezenformasyon çabaları ve
+faaliyetleri gerek demokratik gerekse antidemokratik devletlerde görülmekle bir­
+likte, bu faaliyetler totaliter ülkelerde daha sistematik bir biçimde yürütülmektedir.
+Totaliter devletlerde dezenformasyon faaliyetlerinin en açık tezahürlerinin Sovyetler
+Birliği’nde bulunduğunu söylemek mümkündür. Bununla birlikte Sovyetler Birliği’nin
+dağılması dezenformasyonu siyaset sahnesinden silmemiştir. Burada demokratik
+devletlere düşen görev dezenformasyonla legal yollardan mücadele edebilmektir.
+Bu makale dezenformasyon faaliyetlerinin anlamını, yürütülme biçimini, devletler
+tarafından gerek kendi vatandaşlarıyla gerek diğer devletlerle olan ilişkilerinde nasıl
+kullanıldığını incelemektedir.
+Anahtar Kelimeler: Totaliterizm, Dezenformasyon, Bilgi, Demokratik devlet.
+Totalitarianism and Disinformation
+Abstract
+Information is one of the important elements in the state-citizen relationship. In
+this relationship, the state is both a collector, producer, and distributor of informa­
+tion. This makes transparency and accuracy in information from state important
+for the public. Disinformation is a term that refers to the use of information for
+deliberate misleading, directing, and misinformation. Although disinformation ef­
+forts and activities are seen in both democratic and antidemocratic states, these
+activities are carried out more systematically in totalitarian countries. It is possible
+to say that the most obvious manifestations of disinformation activities in totali­
+tarian states existed in the Soviet Union. However, the disintegration of the Soviet
+Union did not delete the disinformation from the political scene. The task of dem­
+ocratic states is to fight against disinformation legally. This article examines the
+meaning of disinformation activities, how they are carried out, and how they are
+used by states in their relations with their own citizens and other states.
+Keywords: Totalitarianism, Disinformation, Information, Democratic state.
+*Prof. Dr. | İstanbul Medipol Üni. | Siyaset Bil. ve Kamu Yön. Böl. | atillayayla@yahoo.com
+ORCID: 0000-0002-8047-3128 | DOI: 10.36484/liberal.756869
+Liberal Düşünce Dergisi, Yıl: 25, Sayı: 98, Bahar 2020, ss.125-146.
+Gönderim Tarihi: 23 Haziran 2020  | Kabul Tarihi: 29 Haziran 2020
+
+--- Sayfa 2 ---
+126  |  Atilla Yayla
+Giriş
+Bu makalede ele alınacak olan konu, geniş ve genel anlamda dezenformasyo­
+nun siyasal rejimlerdeki, özellikle totaliter sistemlerdeki yeri ve fonksiyonla­
+rı. Türkçede tam bir karşılığı olmadığı için “disinformation” kelimesini Türk­
+çeye ses uyumuyla dezenformasyon olarak kullanıyoruz. Kavramın hemen
+çağrıştırdığı üzere bu konu, yine Türkçeye ses uyumu yapıp enformasyon
+olarak kullandığımız “information” kavramıyla ilişkili. Bu kavramı Türkçe­
+ye sıklıkla “bilgi” diye çeviriyoruz, ama bilgi kelimenin anlamını tam olarak
+karşılamıyor. Enformasyon bilgi yanında malumat, haber gibi anlamlara da
+geliyor (Yayla, 2014). Olağan şartlarda bu kelimeyle kastedilen doğru bilgi,
+haber, malumat. Oysa dezenformasyon faaliyetinde bilgi, haber ve maluma­
+tın bilinçli ve sistematik biçimde yanlış, uydurma, eksik, çarpıtılmış, yönlen­
+dirilmiş biçimde kullanılması söz konusu.
+Hemen vurgulamak gerekir ki dezenformasyon, günlük hayatta beyaz ya­
+lan biçiminde tezahür ettiği kimi durumlar dışında, kendi başına bir amaç
+değil. Bir ara form. Bir amaca hizmet eden bir araç. Bu makale dezenformas­
+yon faaliyetlerinin ne olduğunu, nasıl yürütüldüğünü ve devletler tarafından
+kendi ülkelerinde kendi vatandaşlarına karşı niçin ve nasıl kullanıldığını ve
+devletler arasındaki çekişme ve yarışmalarda hangi amaçlarla, ne gibi metot­
+larla devreye sokulduğunu tespit ve tahlil masasına yatırmaya çalışmakta.1
+Bilgi ve İnsanlık
+Bütün canlıların hayatı bir şekilde bilgiye dayanmakta. Bu bilgi bazen can­
+lının tabiatına gömülü olarak var olmakta ve fonksiyonlarını kendiliğinden
+ifa etmekte. Meselâ, bitkiler yapraklarının yüzünü güneşe çevirmekte, tiz ve
+yüksek bir ses duyan veya ani bir hareket hisseden hemen her hayvan bunun
+bir tehlike habercisi olabileceği bilgisi tabiatına gömülü olduğu için yer de­
+ğiştirmekte; meselâ kuşlar havalanmakta, kediler kaçmakta, köstebekler yer
+altına inmekte. İnsanın bilgiyle ilişkisi ise, kuşkusuz, diğer canlılarınkinden
+çok daha kapsamlı ve teferruatlı. İnsan diğer canlıların çoğundan farklı olarak
+bilgi üreten, depolayan, nakleden ve kullanan bir varlık. Beş duyusu, tekrarla­
+ma yeteneği, aklı, hafızası, dili ve yazma kabiliyeti insanın bilgiyle ilişkisini
+diğer canlılarınkinden çok daha farklı bir mecraya taşımakta.
+İnsanın bilgiyle bu çok yönlü ilişkisi yüzünden, toplumsal hayat, bir ba­
+kıma, hareketli bir bilgi yumağı. Her toplum bir bilgi stokuna sahip. Bütün
+1	 Yazım ve anlatım kolaylığı için makalede enformasyon kelimesinin karşılığı olarak, çoğu yerde, diğer
+anlamlarını da ihtiva edecek biçimde, yalnızca bilgi kelimesi kullanılacak.
+
+--- Sayfa 3 ---
+Totaliterizm ve Dezenformasyon |  127
+insanlık da. Aynı zamanda, toplumların ve insanlığın bilgi stoku statik değil
+dinamik. Çoğu durumda bilgi miktarının artması insanlığın ilerlemesi, azal­
+ması insanlığın gerilemesi anlamına geliyor. Bilgi açık ve doğrudan olabildi­
+ği gibi dolaylı ve zımnî de olabiliyor. Modern sosyal bilim kalıplarıyla tespit
+ve dille ifade edilebilir olduğu gibi anlık olarak tespit edilmesi zor ve dille
+ifade edilemez de olabiliyor.
+Toplumlarda bilgi parçalı, dağınık ve ortam bağımlı (Hayek, 2007). Her bi­
+reyin de dinamik, akışkan ve değişken bir bilgi stoku var. Yazının var olmadığı,
+zamanlarda bireylerin bilgisinin toplamı mantıksal olarak toplumun toplam
+bilgisini oluşturuyordu. Bugün adeta bireylerden bağımsız biçimde bilgiyi
+kaydetme ve nakletme imkânı var, dolayısıyla toplumların ve insanlığı bilgi
+birikimi başka bir form aldı.  Bazı bilgiler bazılarınca bilinebilir, ancak, her bil­
+ginin, tüm bilgilerin, topluca, bir bireyin veya bir grup bireyin elinde olması
+imkânsız (Yayla, 2014). Bu yüzden toplu bilgiye ilişkin her fotoğraf o fotoğrafı
+çekenin eline geçtiğinde eskimiş oluyor, fotoğrafın ele alındığı andaki bilgi
+durumunu değil, fotoğrafın çekildiği andaki bilgi durumunu yansıtıyor.
+Bilginin güç olduğu her fırsatta söylenir. Şüphesiz, bilgi ona sahip olana
+olmayana nispetle bir güç verir. Toplumların gücü de, sahip oldukları (ölçü­
+lebilir, kıyaslanabilir) bilgiye gör sıralanabilir. Bilginin güç olduğu fikri kla­
+sik felsefede en bariz biçimde Platon’da karşımıza çıkar. Sınıflı ve disiplinli
+toplum arayışının ilk teorisyenlerinden olan Platon, bilginin soyut olduğu,
+insanlar arasında en fazla bilgiye filozofların sahip olduğu kanaatindedir. Bil­
+gi aynı zamanda erdemdir ve en erdemlinin (dolayısıyla en bilgilinin ve en
+güçlünün) toplumu yönetmesi toplum için en iyisidir. Toplumu yönetme işi
+bilge kral, filozof kral tarafından yerine getirilmelidir.2
+Platon’dan bugüne bilgiyi üretme, toplama, depolama, analiz etme ve nak­
+letme araçları ve imkânları çok değişti ve gelişti. Bilimsel bilgi felsefî bilgi­
+nin ve ilahiyat bilgisinin kendisine taktığı boyundurukları kıracak kadar arttı,
+genişledi. Bilgi patlamalarına yol açacak bilimsel keşifler gerçekleşti. Büyük
+insanî tecrübeler yaşandı. Bugün insanlık daha önceki zamanlarda olduğun­
+dan çok daha fazla bilgiye sahip.
+Bilgi ve Siyasal Rejimler
+Niteliği zamana ve şartlara bağlı olarak değişse de, insan toplumlarında dai­
+ma bir tür kamusal otorite var oldu (Mayor, 2013). Başka bir deyişle insanlar
+hemen her zaman yönetenler ve yönetilenler olarak ikiye ayrıldı. Yöneticilerin
+2	 Palton’un siyasî fikirleri için bkz: Lary Arnhart, Siyasi Düşünce Tarihi, Ankara: Liberte Yayınları, 2008.
+
+--- Sayfa 4 ---
+128  |  Atilla Yayla
+bulunmadığı insan toplumları ideali daha ziyade bir ütopya (veya distopya)
+olarak kaldı.
+Elbette, ilk insan topluluklarındaki kamu otoritesi ile zamanımızın insan
+toplumlarındaki kamu otoritesi arasında büyük farklar var. Bugünkü kamu
+otoritesine daha çok devlet adını veriyoruz. Devlet, her siyaset bilimcinin
+vurguladığı üzere, modern bir fenomen. Siyaset bilimciler modern devletin
+Avrupa’da uzun savaşlardan sonra 1648’de imzalanan Westfalya Antlaşması
+ile doğmaya başladığını kabul ediyor (Yayla, 2016). Daha öncesinde de kamu
+otoritesi var, ama daha küçük, zayıf ve sınırlı biçimde. Modern devlet ise ge­
+nişlemekte neredeyse hudut tanımayan, bireylerin ve sivil toplumun hemen
+hemen her hayat ve faaliyet alanına el atabilen, kendisinden neredeyse yer­
+yüzü Tanrısı rolünü oynaması beklenebilen, eski zamanlardaki kamu otorite­
+siyle karşılaştırılamayacak ölçüde büyük ve yaygın, daimî ve yerleşik bürok­
+ratik kadrolara ve mevzuata sahip bulunan, hükmettikleri ile arasındaki güç
+dengesi kendi lehine muazzam ölçüde bozulmuş olan bir aygıt.
+Ülkeleri demokratik olanlar ve demokratik olmayanlar diye iki gruba ayı­
+rırsak, demokratik olmayan devletlerle demokratik olmayan devletler arasın­
+da devlet yapılanmaları ve devletlerin insanlarla ilişkileri açısından esaslı
+farklar görebilir miyiz? Elbette görürüz. Devlet, dar anlamda teknik yönleri
+de bulunan bir aygıt olmakla beraber, bir motor veya bir bisiklet zincirinin
+olduğu manada teknik bir cihaz değildir. Motorlar ve bisiklet zincir düzenek­
+leri mekanik özellikleri tarafından belirlenir ve tanımlanır, devletlerde ise
+hem bu tarz olmayan bir mekaniklik hem de bu mekanikliği aşan bir özellik
+vardır: Bir siyasal felsefeye dayanmak.
+Cihazlar kendi kendileriyle sınırlı fonksiyonlara sahiptir. Bu, onları kulla­
+nanların onlardan beklediği fonksiyonları yerine getirmektir. Motor tepkime
+yapmalı, bisiklet zincir düzeneği bisikletin tekerlerini çevirmelidir. Ancak,
+cihazın bu fonksiyonunun hangi amacın hizmetine koşulacağı cihazın kendisi
+tarafından değil cihazın dışından belirlenir. Motor bir uçak bünyesinde acil
+servise hasta yetiştirmek için de bir savaş uçağında masum sivilleri öldüre­
+cek bombalar yağdırmak için de kullanılabilir. Bisiklet zincir düzeneği bir bi­
+siklette kır gezisi için de bir maratonda derece kapmak için de kullanılabilir.
+Devletlerin ne yapacağı da devlet cihazının dışındaki veya devlet cihazının
+üzerine dayandığı, benimsediği siyasal felsefe tarafından tayin edilir. Bir dev­
+let, insan haklarını benimseyen bir siyasal felsefenin elindeyse, insan haklarını
+korumak ve geliştirmek için çaba sarf edecektir. İnsanı değil devletin kendisini
+veya bireylerin kimliğini bastırmayı gerektiren bir toplum idealini öngören bir
+siyasal felsefeye dayanan bir devlet insan haklarının korkulu rüyası olacaktır.
+
+--- Sayfa 5 ---
+Totaliterizm ve Dezenformasyon |  129
+Devletlere amaç, yön, gaye sağlayan şey, nihaî tahlilde, devlet gücünü elinde
+tutan faniler değil, onların benimsediği ve takip ettiği siyasal felsefedir. Bu
+yüzden, devlet, insan hakları açısından, iyi istikamette de kötü istikamette de
+kullanılabilecek bir silah gibidir.
+“Demokratik devletler insan haklarına saygılı, demokratik olmayan
+devletler insan haklarına saygısız devletlerdir” ifadesi özünde doğru olan ama
+devletle ilgili meselelerin tamamına açıklık getirmeyen bir genellemedir. Bu
+genelleme, dikkat edilmese, demokratik olmayan devletlerin yarattığı insan
+hakları ihlâllerine bizi uyanık tutarken, demokratik devletlerin sebep olduğu
+insan hakları ihlâllerini gözden kaçırmamıza neden olabilir. Demokratik
+devletlerde de insan hakları ihlâlleri olmakta ve bunlara ilişkin tartışmalar
+devamlı yapılmaktadır. Bu tartışmaların bir kısmının bir insan hakkının
+gerçekten ihlâline ilişkin olup olmadığı müphem olsa bile, bazılarının kesin
+insan hakları ihlâli teşkil ettiği tarihî bir gerçektir. Buna rağmen, insan
+haklarını (verme, bahşetme değil) tanıma ve koruma bakımından demokratik
+devletlerin demokratik olmayan devletlerden çok daha üstün olduğu emin
+biçimde söylenebilir.
+Devletlerin tebaalarına-vatandaşlarına muamelelerinde önemli araçlardan
+biri bilgidir. Devlet hem bilgi toplayan hem de bilgi üreten bir yapılanmadır.
+Önemli mesele devletin bilgi toplamasının, üretmesinin ve kullanmasının
+şeffaf, alenî ve dürüst olup olmayacağı. İster demokratik olun, ister
+demokratik olmasın, her devletin şeffaflığa ve aleniyete kapalı bilgi toplama
+ve kullanma faaliyetleri var. Ancak, tabiatıyla, demokratik olmayan devletler,
+bu alanda, hemen hemen her bakımdan demokratik devletlerinkinden
+çok daha kötü sicillere sahip. Bunun ana sebebi, yukarda da işaret edildiği
+üzere, devlete ruh veren siyasal felsefenin niteliği. Bu felsefe hem bizatihi
+devlet cihazı üzerinde etkili hem de bireyleri ve sivil toplumu devletin bilgi
+istismarı denebilecek faaliyetlerine karşı korunaklı veya korunaksız kılmakta
+belirleyici. Demokratik ülkelerde bilgi kaynaklarının çokluğu, bilgileri
+çapraz kontrole tabi tutma imkânı, hür ve çoğulcu medya, hükümetin siyasal
+denetime tâbi olması, iyi kötü işleyen bağımsız ve tarafsız yargının birey
+haklarını korumada fonksiyonel olması gibi unsurlar devletlerin demokratik
+olmayan ülkelerdeki devletler kadar bilgi istismarı yapmasına set çekmekte,
+sınır çizmekte işe yarayabilecek faktörler.
+Bununla beraber, demokratik devletlerde nereye ait olduğunun tespit
+edilmesi zor gri alanlar ve demokratik olmayan devletlerdekilerle şu veya
+bu derecede örtüşen şüpheli ve şaibeli bilgi istismarı faaliyetleri var. Burada
+bilgi istismarı terimi, daha önce işaret edildiği üzere, bilginin saklanmasını,
+
+--- Sayfa 6 ---
+130  |  Atilla Yayla
+çarpıtılmasını, eksik veya fazla bildirilmesini, seçilerek veya yalıtılarak kul­
+lanılmasını ve keza yanlış, manipülatif, suni bilgi üretilmesini, yani dezen­
+formasyonu kapsayacak şekilde kullanılıyor. Demokratik ülkelerdeki dezen­
+formasyonla demokratik olmayan ülkelerdeki dezenformasyon arasındaki
+temel farklar, diğer bazı faktörler yanında, dezenformasyonun genişliği ta­
+rafından belirleniyor. Demokratik olmayan ülkelerde, dezenformasyon alanı
+çok genişliyor ve adeta merkezî bir konum kazanıyor. Demokratik ülkelerde
+politikacıların ve bürokratların ağzından dökülen “beyaz yalan” denebilecek
+nispeten masum ve izole yalanlar demokratik olmayan ülkelerde sistematik
+yalana ve toplu dezenformasyona dönüşüyor (Kolakowski, 1999).
+Bununla beraber, dezenformasyon konusu demokratik olmayan ülkeler
+arasından otoriter sistemler ve totaliter sistemler ayrımının dikkate alın­
+masını gerektiriyor.3 Siyasal sistemin, başka bir deyişle devletin, ayakları­
+mızı yere basacak olursak, devlet gücünü elinde tutan ve kullanan kişilerin
+ve grupların bağlandıkları siyasal felsefeden hareket ederek devlete biçtikle­
+ri misyon, yükledikleri görev, kendilerine atfettikleri toplumsal ve tarihsel
+rol, dezenformasyonun alacağı genişliği ve derinliği tayin ediyor. Otoriter
+sistemlerde devlet modernleştirmeci-kalkınmacı-uluslaştırıcı bir güç olarak
+dezenformasyona başvuruyor. Ancak, yeni bir birey, yeni bir toplum yaratma
+veya hatta insanlığa yeni bir şekil verme gibi iddialı ve ihtiraslı devasa hedef­
+lerinin bulunmayışı otoriter devletleri dezenformasyon faaliyetleri bakımın­
+dan totaliter devletlere nispetle daha mütevazı yahut deyim yerindeyse, daha
+masum bir konuma yerleştiriyor (Yayla, 2014).
+Totaliter sistemler dezenformasyonu devletin temel dayanaklarından ve fa­
+aliyetlerinden biri hâline getiriyor (Kolakowski, 1999). Totaliter devletler her
+ülkede bir ölçüde var olan ve bilinen dezenformasyon metotlarını mükemmel­
+leştirmekle kalmıyor, yeni dezenformasyon metotları da yaratıyor. Bu metot­
+ları hem ülke içinde hem de ülke dışında uygulamakla görevli devlet organları
+kuruyor ve tabiri caizse dezenformasyon uzmanları yetiştiriyor. Bu organlar
+ve uzmanlar dezenformasyon metotlarını o ülkenin halkına veya çekişmekte
+olduğu ülkelerin halkına ve devletine karşı kullanıyor. Yeni bir insan, yeni bir
+toplum yaratma hırsı, hasım ülkeyi dize getirme ve dünyaya hâkim olma ide­
+ali bu faaliyetlere büyük bir enerji ve dinamizm katıyor. Bu ideallerin kaynağı
+olan üniversal niteliğe sahip olma iddiasındaki ideoloji dezenformasyon faali­
+yetlerine aktif olunan her ülkede yerli ortaklar bulmayı kolaylaştırıyor.
+3	 Otoriter sistemlerle totaliter sistemler arasında farklar hakkında daha fazla bilgi için bkz. Atilla
+Yayla, Karşılaştırmalı Siyasal Sistemler, Ankara: Adres Yayınları, 2014.
+
+--- Sayfa 7 ---
+Totaliterizm ve Dezenformasyon |  131
+Yirminci yüzyıl bir totaliterizm çağı olduğu gibi, onunla iç içe, bir dezen­
+formasyon çağıdır da. Bilgi çeşitli aktörlerce her zaman istismar edildi ama
+20’nci yüzyıldaki kadar yoğun, derin ve sistematik bilgi istismarına daha önce
+hiç rastlanmadı. Bunda ortodoks sosyalist ideolojinin küresel bir ideoloji hâli­
+ne gelebilmesi, kitle medyasının doğması, sürü psikolojisinin gelişmesi gibi
+faktörler etkili oldu. Yirminci yüzyılın totaliter sistemleri, özellikle Alman
+nasyonal sosyalist rejimi ve Sovyet Marksist sosyalist rejimi dezenformas­
+yon tekniklerini ustaca kulandı. Daha önce var olan teknikleri teknolojiden ve
+savaşları globalleşmesinden de yararlanarak akıl almayacak boyutlara taşıdı.4
+Sovyetler Birliği bu bakımdan kardeşi ve rakibi nasyonal sosyalist Alman
+rejimini de, daha uzun ömürlü olması, ideolojisinin üstün çekiciliği (Yayla,
+2015), demokrasilerin gevşekliği gibi sebeplerle çok gerilerde bıraktı. Dünya­
+daki en üstün, en acımasız, en etkili dezenformasyon metotlarını geliştirdi ve
+kullandı. O kadar ki, demokratik dünya bu metotları ya hiç anlayamadı, ya da,
+bir ölçüde anladıysa bile, aynı güç ve etkinlikte cevap veremedi.
+Sovyetler Birliği’nin Dezenformasyon Makinası ve Metotları
+Her türden totaliter sistem için propaganda hayatî öne taşır. O kadar ki, bu
+devletlere propaganda imparatorlukları adını versek yanlış bir şey yapmış
+olmayız. Totaliter sistemlerde propaganda toplumu endoktrine etmek ka­
+dar mobilize etmek için de gereklidir. Halkın mobilizasyonu totaliter sistem
+açından çok önemlidir ve totaliter sistemler bu bakımdan otoriter sistem­
+lerden farklıdır. Otoriter sistemler halkın ilgisiz ve kayıtsız kalmasını dert
+etmezken, hatta böyle olmasını tercih ederken totaliter sistem halkın resmi
+ideolojiye, hedeflere, heyecana coşkulu katılımını ister ve bunda gösterilen
+eksiklik ve gevşekliği suç olarak görür (Yayla, 2015).
+Propaganda her devlet tarafından, fakat totaliter devletler tarafından daha
+yoğun olmak üzere, devletlerarası mücadelede de istihdam edilir. Bir dev­
+letin propagandaya bağlılığı ve bağımlılığı arttıkça, o devletin propaganda
+araçlarını ve tekniklerini de o derece geliştirmesi beklenir. Tarih bu tespiti
+kuvvetli delillerle desteklemekte. Bu açıdan en ileri gitmiş olan devlet, hiç
+kuşkusuz, 20. yüzyılın başlarında, 1917’de, ilk sosyalist rejim olarak kurulan,
+4	 Bu iki totaliter rejim arasında hem dezenformasyon faaliyetleri açısından hem diğer bakımlardan
+benzerlik ve farklılıkları görmek için şu eser çok faydalı: Richard Overy, Hitler ve  Almanya’sı ve
+Stalin ve Rusya’sı, çev. Ceren Günger, İstanbul: Erko Yayıncılık, 2004. Bu kitabın asıl adı Dictators
+(Diktatörler). Kitabın alt başlığı ise  Hitler’s Germany and Stalin’s Russia (Hitler Almanya’sı ve Stalin
+Rusya’sı). Öyle sanıyorum ki, yayınevi ya sol görüşlü olduğundan, ya sol muhitlerin kitaba tepki
+göstermesinden korktuğundan, ya da orijinal başlığın kitabın satış şansını azaltabileceği endişesiyle
+kitabın alt başlığını Türkçe baskıda asıl başlık gibi kullanmış. Yani “diktatörler”  kelimesini, Stalin’i de
+diktatör olarak göstereceği için olsa gerek, gizlemeyi tercih etmiş.
+
+--- Sayfa 8 ---
+132  |  Atilla Yayla
+kendisinden sonraki kırk Marksist rejime model teşkil eden ve yetmiş dört
+yıllık ilginç hayatı 1991’de dış müdahaleyle değil içten çöküşle son bulan
+Sovyet Sosyalist Cumhuriyetler Birliği’dir.
+Beyaz Rus asıllı göçmen, Fransa’da ve ABD’de yaşamış olan Vladimir Vol­
+koff Sovyet dezenformasyon tekniklerini ve metotlarını, en iyi anlatan değil­
+se, en iyi anlatan yazarlardan biri. Volkoff’un İngilizceye The Set Up (Tezgâh,
+Fransızca orijinali Le Montage) adıyla çevrilen romanında Fransa’daki Sovyet
+dezenformasyon faaliyetlerinin bir bölümü ve kullanılan metotlar bir Sovyet
+etki ajanının (influence agent) merkezinde olduğu olaylar üzerinden anlatılı­
+yor (Volkoff, 1985).
+Romanda Sovyetler Birliği’nin Fransa’daki dezenformasyon faaliyetlerin­
+den sorumlu olan ve Sovyetler Birliği’nin Paris elçiliğinde diplomat olarak
+çalışıyor görünen Iakov Moiseich Pitman, Rus asıllı, Beyaz Ordu ile Kızıl Ordu
+arasındaki iç savaşta Beyaz Ordu saflarında savaşıp Beyaz Ordu’nun yenilgi­
+sinden sonra Fransa’ya sığınan, sadık Çar taraftarı ve dindar bir deniz subayı
+olan Dmitri Aleksandrovich’in Fransa’da yine bir Rus anneden doğan ve Fran­
+sızca yanında mükemmel Rusça da konuşan oğlu Aleksandr Dmitrich Psar’ı
+bir etki ajanı olarak devşirmeye çalışıyor. Bu süreçte Paris’teki tarihî ve turis­
+tik mekânlarda yaptıkları uzun bir konuşmada Pitman, Tsar’a etki ajanlığının
+ve dezenformasyonun ne olduğuyla ilgili bilgileri ve dezenformasyon metot­
+larını, tekniklerini anlatıyor. Makalenin bu bölümü romandaki bilgilerin to­
+parlanmasına ayrıldı.  Romanları akademik çalışmalarda kullanmanın zorluğu
+yüzünden bu bölümde ilgili kısımları (s. 61-75) Pitman’ın ağzından, yer yer
+ifade biçimini değiştirerek ve nadiren eklemeler yaparak aktaracağız. Tekrar
+ve altını çizerek ifade etmek gerekirse, bu bölümdeki fikirlerin ve aynen veya
+biraz değiştirilerek alının ifadelerin tamamı, Volkoff’a ait. Bu yüzden, tüm bö­
+lüm bir tür serbest bir alıntı olarak görülebilir.
+Sovyet anlayışına göre casusluk faaliyetleri dezeformasyonun parçasıdır.
+Özellikle düşmanlara karşı bilgi savaşı verildiğinde dezenformasyon casus­
+luk ve karşı-casusluk biçimlerini alır. Casusluk ve karşı-casusluk (espiyonaj
+ve karşı-espiyonaj) aynı şeyin iki safhasıdır. Bu faaliyetlerle düşmanın ne
+yaptığını anlamaya ve düşmanın bizim ne yaptığımızı bilmesini önlemeye
+çalışırız. Bu işin basit kısmıdır. Biz düşmana onun gerçekleştirmeye çalışaca­
+ğı bazı amaçlar telkin ettiğimizde iş ilginçleşir.
+Çinli komünist lider Mao Tse-Tung kitlelerin bilinçlerini şekillendirme­
+miz gerektiğini ve bu şekillendirmeyi başarabildiğimiz derecede bu kitlelerin
+bizim insafımıza kalacağını söyledi. Düşmanı istediğimiz gibi davranır hâle
+getirmenin beş yolu vardır. İlki beyaz propagandadır. Bu, iki taraf arasında
+
+--- Sayfa 9 ---
+Totaliterizm ve Dezenformasyon |  133
+oynanan basit bir oyundur ve “biz sizden iyiyiz”  sözünü devamlı tekrarlama­
+ya dayanır. İkincisi siyah propagandadır. Bu, iki değil üç taraf arasındaki bir
+oyundur. Bu oyunda düşmana üçüncü tarafı rahatsız etmeye niyet eden sahte
+ifadeler atfedilir. Bu komedi üçüncü tarafın yararı için oynanır. Üçüncüsü ze­
+hirlemedir. Bu da iki veya üç kişilik bir oyundur. Hedef düşmanı aldatmaktır.
+Fakat bu yalan söylemekten daha ince (kurnaz, hilekâr) metotlarla yapılır.
+Meselâ, size sahte bilgiyi vermem ama sizin sahte bilgiyi benden çalmanızı
+sağlarım. Dördüncüsü dezenformasyondur. Dezenformasyon bütün bu tek­
+nikleri, metotları birlikte anlatmak için kullanılan bir kelime hâline geldi.
+Dar anlamda, stratejinin taktiğe karşı pozisyonu neyse, dezenformasyonun
+zehirlemeye karşı pozisyonu odur. Beşincisi etkidir. Önceki dördü bunun ya­
+nında çocuk oyuncağıdır. Karl Marx “Devrimler bilinçsiz kitlelere önderlik
+eden bilinçli azınlıkların sürpriz atakları tarafından başlatılabilir” demişti.
+Kendi zamanı için haklıydı. Fakat sosyoloji o günden bu güne büyük ilerle­
+meler kaydetti. Şimdi, biliyoruz ki, devrim yalnızca objektif sosyo-ekonomik
+şarlar tarafından değil, fakat aynı zamanda, bütün aksi kanıtlara rağmen o
+şartların var olduğuna şartlandırılmış bir kamuoyu tarafından tetiklenebilir.
+Karl Marx’a göre, devrim daha önceki bir gelişme tarafından belirlenmiş
+belli bir tarihsel anla bağlantılıydı. Eski bir düzenin yerine planı projesi ha­
+zır bir yeni düzen koyacaktı. Mecburen şiddet içeren bir olay olacak, tarihte
+bir dönüm noktası teşkil edecekti. Bu görüşler 20’nci yüzyılın gerçekleriyle
+uyumsuz. Hâlihazırda devrimi, “tarihî an”ı, Pavlov’un ziliyle tetikleriz. Yeni
+düzeni eş zamanlı olarak eski düzen karşılığında, eski düzen yıkıldığında
+sunmak gerektiğini, çünkü önceden sunulmasının onu derhal hedef hâline
+getireceğini keşfettik.
+Devamlı olarak Sovyetler Birliği’nin bir cennet olduğunu söyleyen yabancı
+komünist partiler –bizim onlara verdiğimiz isimle korporasyonlar- bizim için
+çok rahatsız edici. Herkesin işaret ettiği ve düşmanlarımızın işaret etmekte
+geri kalmadığı üzere, Sovyetler Birliği bir cennet değil. Biz onun bir gün cen­
+net olacağını biliyoruz. Bu bir inanç meselesi. Fakat halk çoğunluğundan, bir
+kumar olduğunu bildiği bir toplum ideali için kendisini feda etmesi istene­
+mez. Yapmamız gereken şey onun yerini alacak kesin bir şey vaat etmeksizin
+eski düzenin altını oymaktır. Eski düzen kendisini muhafaza etme gücünü ta­
+mamen kaybettiği zaman yeni düzen teklif (takdim) edilebilir. Dahası, hiç bir
+şey önce propaganda yapılmasından ve sonra bir isyanın tetiklenmesinden
+daha eski moda (modası geçmiş) değildir. Bunu Karl Marx’ın hayal dahi ede­
+meyeceği bir teknolojik araçla yapmaktayız. Kitle medyası.
+
+--- Sayfa 10 ---
+134  |  Atilla Yayla
+Sovyetler Birliği özellikle öbür ülkelerde etki ajanı denen kimseleri kul­
+lanmaktadır. Bunların bir kısmı para için bir kısmı ise Sovyetler Birliği’ne ve
+Marksizme bağlılık ve inançlarından dolayı bunu yapmaktadır Etki ajanları­
+nın çalışma biçimleri Etki Ajanının El Kitabı adlı bir kitapta toparlanmıştır. Bu
+kitapta ifade edildiğine göre, yapılması gereken şeyler üç biçimde icra edilir.
+Ama hepsinin ortak noktası hiçbir şeyin doğrudan yapılamasıdır. Etki ajanın
+kullandığı kimselere bağladığı bir ip (yular) vardır ve bu ip çok uzun olabilir.
+Sovyetler Birliği’nin dezenformasyon doktrini üç ayaktan, üç imajdan oluşur:
+Manivela, Üçgen ve Tel.
+İlki olan manivelada, kuvveti uygulama ucu dayanak noktasına ne kadar
+uzak olursa aynı güçle kaldırabileceğiniz ağırlık da o kadar artar. Manivelayı
+oluşturan şeyin mesafenin kendisi olduğu bilinmeli ve onu azaltmaya çalışıl­
+mamalı, aksine devamlı artırmaya çalışılmalıdır. Bundan çıkacak bir sonuç,
+etki alanında, asla bizzat hareket etmemek, fakat daima bir aracıyla veya daha
+tercihe şayan olarak bir aracılar zinciriyle hareket etmektir. Buna tarihî bir
+örnek verilebilir. Makedonyalı Philip Atina’yı almak istiyordu. Beyaz propa­
+gandayı kullanarak, “Ey Atinalılar, benim tarafımdan yönetilirseniz daha mut­
+lu olacaksınız” mı dedi? Hayır. Eubulus’un5 pasifistleri arasına sızdı ve Atina
+olgun bir meyve gibi avucuna düştü. Bu parti Philip’in manivelasıydı.
+Zamanla pasifistlerin kullanılması klasik bir taktik hâline geldi. Bir ülke
+teslim alınmak istendiği zaman önce o ülkede bir barış partisi kurdurulur ve
+popüler hâle getirilir. Sonra, pek az aklı başında insan savaş isteyeceği için,
+kendi kendinin itibarını yerle bir edecek bir savaş partisi kurdurulur.  Fransa’da
+İkinci Dünya Savaşı öncesinde vuku bulan yoğun barış propagandası, kendi
+ülkesinde güçlü ordu kültürünü teşvik eden Hitler’in bir etki operasyonuydu.
+Sonuçta, 1939’da Fransa çöktü. Şimdi benzer bir operasyon yine Fransa’da Sov­
+yetler Birliği tarafından yapılıyor. Fransa’da kolları arasında ağlayan bir çocuk
+tutan bir kadın fotoğrafı ve onun altında “Barış için mücadele edelim!” yazan
+bir poster kullanılıyor. Sovyetler Birliği’nde aynı sloganla elinde silah tutan
+bir Kızıl Ordu askerinin fotoğrafının yer aldığı bir fotoğraf kullanılıyor.
+Bu operasyondaki manivela postere bakan ve sloganı tekrarlayan
+kimsedir; meselâ barışın erdemine inanan ve barış istiyorum diyen herkesin
+samimiyetle barış talep ettiğine inanan iyi niyetli bir gazeteci. Yeterince
+güçlü, yüksek sesle bağırırsan, bir şey söylemek fakat onun tersini yapmak
+çok kolaydır. Kamuoyu dikkatle hazırlandıysa fark edilecek olan şey söylenen
+şeydir, yapılan şeyin farkına varılmayacaktır. Kitle medyasının ideal manivela
+5	 Antik Atina’da finans işleriyle de uğraşan aynı adlı bir siyasetçi tarafından başı çekilen pasifist bir
+grup.
+
+--- Sayfa 11 ---
+Totaliterizm ve Dezenformasyon |  135
+olmasının ve yakında öbür kitle medya organlarının da ideal manivela olacak
+olmasının sebebi budur. Gerekli hazırlıklar tamamlandıktan sonra bilgiyi belli
+bir istikamete yöneltmeye gerek kalmaz, bilginin yankılanmasına izin vermek
+yeter. Diyelim ki, belli bir insan topluluğunu terörize etmeye karar verdik.
+Bir bireysel terör eyleminin gerçekleştirilmesine izin veririz. Muhafazakârlar
+hemen atlayıp bu eylemi kınarlar, onlar terör eylemini daha fazla kınadıkça
+terör eylemine daha fazla önem verir. Sonunda muhafazakâr medya bizim
+için çalışır duruma gelir. Taraflı haber metoduyla toplum yönlendirilir. Bunu
+yapmak için itibarı yüksek gazetelere sızılır. Etkili şekilde bunun yapılması
+yarattığımız haberi çoğaltır ve sonsuz defa tekrarlanmasını sağlar.
+Etki Ajanının El Kitabı’na göre taraflı haberi oluşturmanın (yani dezenfor­
+masyonun) on metodu vardır: 1) Hakikatin tahkik edilemez biçimde tersine
+çevrilmesi, 2) Hakikat ile yalanın birbirine karıştırılması, 3) Hakikatin çarpı­
+tılması, 4) Muhtevanın değiştirilmesi, 5) Çeşitli seçili hakikatlerle bulanık­
+laştırma, 6) Abartılmış yorumlama, 7) Tasvir, 8) Genelleme, 9) Eşitsiz parça­
+lar, 10) Eşit parçalar.
+Bu metotların ne olduğunu ve nasıl kullanılacağını görmek için yaşanmış
+bir olayı esas alalım:   “İvanov karısını Petrov’un yatağında buldu.”6
+İlk metot hakikatin tamamen ters yüz edilmesidir. Olayın hiç şahidi yok.
+Halk gerçekte ne olduğunu bilmiyor; bilmesine ve olanı biteni öğrenmesine
+de imkân yok. Bu durumda “Petrov karısını İvanov’un yatağında buldu” denir.
+Hakikati tahkik edilemeyecek şekilde tersine çevirme dediğimiz şey budur.
+İnsanlar söylenene inanır, inanmak zorunda kalır.
+İkinci metot: Olayın bazı şahitleri var. O zaman İvanov ile karısının iyi
+geçinmediğini yazarsın ve geçen Cumartesi İvanov’un karısını Petrov ile ya­
+kaladığını itiraf edersin. Geçen hafta İvanova’nın kocasını  Petrova ile yaka­
+layanın İvanova olduğunu eklersin. Hakikat-yalan karışımı denen şey budur.
+Hakikatin ve yalanın oranları ne yapılmak istendiğine bağlı olarak değişebilir.
+Hile-yanıltma işini yapanlar düşmanı dize getirmek isterlerse %80 kadar çok
+hakikati %20 kadar az yalan ile karıştırırlar. Çünkü onlar için belli bir yalanın
+hakikat sayılması önemlidir. Yalan-yanlış bilgi yayanlar (disinformers) ve etki
+ajanları (influence agents) miktara yatırım yapar ve istediğini elde eder.7
+6	 Rus dilinde erkek isimlerinin sonuna konulan bir ekle kadın isimleri oluşabilmekte; Türkçedeki Nadir
+ve Nadire gibi. Romanda konu edilen olayda İvanov’un karısı İvanova ve Petrov’un karısı Petrova’dır.
+Okuyucunun bu isimlere dikkat etmesinde fayda var.
+7	 Volkoff bu terimi kullanmamış ama biz %80 doğru ile %20 yalanın karıştırılarak kullanılmasına
+yalanın doğrunun itibarından yararlandırılması metodu diyebiliriz. Tersi de, yani doğrunun yalanın
+itibarsızlığından etkilenmesinin sağlanması da, düşünülebilir elbette. Aynı örnekten hareketle, %80
+yalan ile %20 hakikat karıştırılırsa bu sefer yalanın itibarsızlığının hakikate bulaşması sağlanmış
+olur. Böylece kitlelerden hakikatin saklanması veya kitlelerce hakikatin reddedilmesi temin edilebilir.
+
+--- Sayfa 12 ---
+136  |  Atilla Yayla
+Üçüncü metot: Vatandaş İvanova’nın geçen Cumartesi Petrov’larda bulun­
+duğunu kabul edersin, fakat beraber yatıp yatmadıkları sorusunu ciddiye al­
+mayı reddedersin. Odadaki mobilyanın bununla alâkası olmadığını söylersin.
+İvanova muhtemelen bir sandalyede oturmaktaydı, fakat İvanov talihsiz karı­
+sına iftira atmaktadır. İvanova odada ne yapıyordu? Sabi çocuklarını da ala­
+rak Petrov’lara sığınmanın vazifesi olduğunu düşünmüş olabilir. İvanova’nın
+yavrularını zalim İvanov’un merhametine bırakmasını bekleyemeyiz. İvanova
+ile Petrov buluştuğu zaman Petrov’un karısı Petrova’nın orada bulunmadığına
+dair bir delil yok. Muhtemelen oradaydı, çünkü olay Petrovların İvanovlarla
+paylaştığı apartmanda vuku buldu. Bu, gerçeği çarpıtma metodudur.
+Dördüncü metot muhtevanın değiştirilmesidir. Şöyle anlatırsın: İvanov’un
+karısını Petrov’un yatağında bulduğu doğrudur, fakat herkes bilmektedir ki
+Petrov azılı bir zamparadır. On dört defa bu tür olaylar  yaratmıştır. O gün
+Petrov, İvanova ile koridorda karşılaştı, üstüne atlayıp onu kendisinin (Pet­
+rov’un) odasına sürükledi. Neredeyse ona tecavüz etmek üzereydi. Neyse ki,
+tam o sırada işten eve dönen İvanov (çalıştığı fabrikada 2 saat 25 dakikada 3
+bin vida sıktığı için geçenlerde bir kere daha ödül kazanmıştı) kapıyı kırarak
+içeri girdi ve iffetli karısını ölümden beter bir akıbetten kurtardı. Bu çizgide
+gidersin ve her yere İvanova’nın kocası İvanov tarafından eleştirilmesini hiç
+kapsamayan bu tür bilgileri yayarsın.
+Beşinci metot bulanıklaştırmadır. Gerçek olayı bol miktarda başka ilgili il­
+gisiz bilgi içinde boğarsın. Dersin ki, Petrov çok çalışan bir işçidir, iyi mızıka
+çalar ve aynı zamanda halter şampiyonudur. Nizhni-Novgord’da doğmuştur.
+Savaş sırasında aşçı olarak görev yapmıştır. Annesine 60. yaş gününde bir
+kanarya hediye etmiştir. İvanova dâhil çok sayıda metresi vardır. Sarımsaklı
+sosisi sever. Sırt üstü çok iyi yüzer. İyi yemek yapar.
+Bulandırmanın tersi olan bir metot daha vardır: Seçili gerçekler. Yaşanan
+olaydan rapor edeceğin doğru fakat eksik detayları seçersin. Meselâ,  İva­
+nov’un Petrov’un odasına kapıyı çalmadan girdiğini, İvanova’nın, sinirli oldu­
+ğu için İvanov’un bu hareketinden ürktüğünü, Petrov’un İvanov’un kaba ve
+kötü tavrı tarafından şok edilmiş göründüğünü söylersin. Veya eski düzenin
+bir kalıntısı olan ahlâkî çöküş üzerine biraz konuştuktan sonra İvanov’ların
+eve gittiğini söylersin.
+Altıncı metot abartılı yorumlamadır (exaggerated commnentary). Tarihî
+gerçekteki hiç bir şeyi değiştirmezsin, fakat ondan örneğin hızla ortadan
+kalkmakta olan fakat aşıklar ve kocalar arasındaki karşılaşmaların Beş Yıllık
+Plan’da öngörülenden daha fazla gerçekleştiği komünal apartmanlara yönelik
+bir eleştiri çıkartırsın. Sonra aşık kumruların kalplerinin sahibiyle cilveleşe­
+
+--- Sayfa 13 ---
+Totaliterizm ve Dezenformasyon |  137
+bileceği bir küçük daireye sahip olabileceği modern bir şehri anlatırsın ve
+İvanovları bekleyen gıpta edilecek talihin sevimli bir resmini tasvir edersin.
+Yedinci metot altıncı metodun bir başka biçimidir: Örnek (illüstrasyon).
+Bunda özelden genele gitmekten ziyade genelden özele gidilir. Aynı temayı
+geliştirebilirsin: Sovyet rejiminin hayırhah kabiliyeti sayesinde inşa edilen
+yeni şehirlerdeki çiftlerin mutluluğu. Fakat şunun gibi bazı nidalarla sözleri­
+ni bitirirsin: İvanov’un karısını komşusunun yatağında bulması gibi müessif
+hadiselerin vuku bulduğu eski komünal apartmanlara bakıldığında, yeni şe­
+hirler ne muazzam bir gelişme!
+Sekizinci metot genelleştirmedir. Meselâ, Petrov’un suç ortaklığından
+bahsetmemek için İvanaov’un davranışlarından, kadınların nankörlüğü, sa­
+dakatsizliği ve ahlâksızlığıyla ilgili sonuçlar çıkartırsın. Yahut bunun tersi­
+ni yaparak, aşağılık tecavüzcü Kazanova Petrov’u azarlarsın ve utanç verici
+şekilde istismar edilmiş bir cinsiyetin talihsiz temsilcisini, yani İvanova’yı,
+suçsuz çıkartabilirsin.
+Dokuzuncu metot eşit parçalardır. Okurlarına seslenip bu olay hakkında
+yorum yapmalarını istersin. İvanova’yı kınayan yüzlerce mektup almış olsan
+bile, bu mektupların yalnızca bir tanesini yayınlarsın. İvanova’yı destekleyen
+toplam on mektup aldıysan bile bu mektupların hepsini yayınlarsın.
+Onuncu metot eşit parçalar metodudur. Parlak bir üniversite profesörüne
+veya kabiliyetli ve tanınmış bir polemikçiye aşıkları savunan elli satırlık bir
+yazı sipariş edersin. Bir ahmağa da yine elli satırlık aşıkları kınayan bir yazı
+ısmarlasın. İki metni de yayınlarsın. Her ikisine de aynı ölçüde yer ayırman
+senin tarafsız olduğun kanaatini oluşturur, destekler, pekiştirir.
+Dezenformasyon faaliyetlerinde üç model olduğu söylenmiş ve bunlardan
+biri olan Manivela hakkında bilgi verilmişti. Bu modellerin ikincisi Üçgen­
+dir. Üçgen de temel ilkenin uygulanmasına dayanır: Hiç bir şeyi doğrudan
+yapma, daima aracı veya aracılar kullan. Düşmanla asla kendi sahanda veya
+onu sahasında dövüşme, başka bir yerde, söz gelimi başka bir ülkede, başka
+bir sosyal muhtevada, çatışmanın vuku bulduğundan farklı bir entelektüel
+alanda dövüş.  Bu bakış üç katılımcı varsayar: Biz, düşman ve yansıtıcı-ara­
+cı tabaka (foil), yani bizim manevralarımız nakleden bir unsur. Varsayalım
+ki büyük bir imparatorluğa saldırmak istiyoruz. Ona doğrudan saldırmayız.
+Onu müttefikleri, müşterileri ve onun dünya gücünün dayandığı herkes ara­
+sında-nazarında itibarsızlaştırırız. Varsayalım ki belli bir ülkeyle ilgili plan­
+larımız var. O ülkeye karşı büyük dostluk gösterisi yaparız ve içinden kendi
+kendisine çökecek kadar altını oyarız.
+
+--- Sayfa 14 ---
+138  |  Atilla Yayla
+Bu altını oyma işini de belli metotlarla yaparız. Her şeyden önce üzerin­
+de çalışılan toplum hakkında tam (mükemmel) bilgiye sahip olmak gerekir.
+Bizim keşfettiğimiz ve düşmanlarımızın bizden sonra keşfedeceği metotların
+onlara hiçbir faydası olmayacaktır. Kapitalistler yabancı bir ortamda suda ba­
+lık gibi olmak için çok tembel. Hedef aldığımız toplumu onun mensupların­
+dan daha iyi bilmemiz gerekir. Bunu yapmanın “ele geçirme”8 (entryism-sız­
+ma, nüfuz) olarak gruplandırılabilecek teknikleri vardır. Diyelim ki bir ülke
+üstündeki tesirimizi genişletmeye karar verdik. Üçgen o ülkenin otoriteleri,
+halkı ve bizden oluşacaktır. Halkı düşman olarak değil fakat yansıtıcı taba­
+ka (foil) olarak görmeliyiz. Üç hedefimiz olacaktır: Birincisi, geleneksel refe­
+ransları –halkı bizim eylemlerimizden koruyabilecek grupları- parçalamak.
+İkincisi, düşmanımız otoriteleri, yansıtıcı tabakanın eylemleri ile itibarsız­
+laştırmak. Üçüncüsü, halkın kendisini nötralize etmek. Harekâtımızın bu üç
+safhasının her biri için uygulanacak özel prosedürler vardır.
+Geleneksel grupları parçalamak için ilk olarak onları başkalarının gözünde
+olduğu kadar kendi nazarlarında da suçlu olarak resmetmeye çalışırız. Halkın
+geri kalanını ve bu grupların en zayıf üyelerinin kendilerini geçmişte yan­
+lış davranmış olduklarına ve hâlâ yanlış davrandıklarına inandırırız. Sonra,
+çelişkiyi görmezden gelerek, bu grupların işe yaramaz, asalak olduklarını ve
+gerçek olmaktan çok illüzyon olduklarını gösteririz. Bu şekilde ebeveynler ile
+çocuklar, işverenler ile çalışanlar, liderler ile liderlik edilenler arasında büyük
+bir hendek kazarız. Ajanlarımızın üç sloganı olur İyi güven” (good faith), iyi
+hukuk (good law), iyi his (good sense). Ajanlarımız bu güçlü konumdan oto­
+ritelere, hayalî problemlere ilâveten, hedef toplumda mevcut tüm problemle­
+ri, hastalıkları da onlara bağlayarak saldıracaklardır. Bu durumda gerçekten
+otoriteryen bir toplum bize şehitler temin edecek ve bizi dünya kamuoyunu
+geçirmeye muktedir kılacak zorla bastırma yolunu başvuracaktır. Liberal bir
+toplum ise, cezalandırılmadan ona saldırmanın mümkün olduğunu göstermiş
+olarak -ki bu iyi anlaşıldığında terörizmin gerçek hedefidir-  daha da çabuk tes­
+lim olacaktır. Böylece harekâtımızın üçüncü safhasına varırız. Ondan önce bi­
+raz planlanmış propaganda yaparız. Düşmanı bizim kullanmayı tasarladığımız
+metotları kullanmakla suçlarız. Bu bizi meşru müdafaa pozisyonunda gösterir.
+Modern devrimler, geçmişteki devrimlerden farklı olarak, bir azınlığa
+karşı değil çoğunluklara karşı yapılır. Çoğunluğu, onu genel olarak paralize
+olma durumuna getirdiğimiz zaman, avcumuza almış olacağız. Bu çeşitli yol­
+8	 Roger Scruton “entryism”i şöyle açıklamakta: bunu yapan kişinin amaçlarını teşvik etmek için
+çalışmayan politik organizasyonlara gizlice girme ve onları kendi amaçlarına yöneltmeye çalışma
+taktiği. Geleneksel olarak bu taktik komünist amaçları veya bir devrimi teşvik etmek için kullanılan bir
+taktik olarak görülmüştür ama şimdi her tür yıkma, devirme, ifsat etme faaliyeti için kullanılmaktadır,
+Dictionary of Political Thought, London: Palgrave Macmillan, 2007 (third edition), s. 215.
+
+--- Sayfa 15 ---
+Totaliterizm ve Dezenformasyon |  139
+larla yapılabilir. Bazen çoğunluğu dev bir spor kulübüne çevirmek mümkün­
+dür. İnsanlara komut veririsin:  Sol bacağını kaldır, kaldırırlar; sağ bacağını
+kaldır, kaldırırlar; iki bacağını da kaldır, kaldırırlar ve sırt üstü yere düşerler.
+Öbür taraftan, bazen toplumların milyonlarca bireye bölünmesi gerekir. Bu
+durumda her vatandaş kendisini tek başına ona sunulan Gorgon’un9 mas­
+kesine karşı duruyor bulur, savunmasız hissederek ve teslim olmaya hazır
+olarak. Bu panik, düşmanın üstünlüğü mitini propaganda ederek, biraz terö­
+rizmle, yılanın kurbağayı büyülemesi gibi büyüleme tarafından yaratılabilir.
+Bazen kehanetlerle, vizyonlarla ve çeşitli Rasputinleştirmelerle10 sahte bir
+tabiat üstü aparat ekleyebiliriz. Her hâlükârda kitleleri “mobilize etmek” ten
+bahsedildiği zaman gerçekte tek hedef vardır: Onları immobilize etmek. Bun­
+lar başarılınca, yani ara tabaka (foil) sersemletilince, düşman olgun bir meyve
+gibi avucumuza düşer.
+Üçüncü teknik Tel’dir. Tel imajı, teli kırmak için her iki tarafından bükmek
+gerekmesinden gelir. Etki ajanı propagandistin tersidir veya tam propagan­
+disttir. Saf propaganda yapan, asla lehte değil daima aleyhte propaganda ya­
+pan, zayıflatmaktan, yumuşatmaktan, gevşetmekten, çözmekten, bozmaktan
+başka amacı olmayan kimsedir. 2500 sene önce yaşayan ve zamanının Clau­
+sewitz’i olan11 Çinli düşünür Su Tzu bunu gördü. Düşmandan önce birliklerin
+tertiplenmesinden bahsetti. Bunu şu şekilde mükemmelen ifade etti. Nihaî
+hile net biçimde tanımlanabilecek bir biçim sunmamaktır. Böylece en keskin
+zekâlı casusların ne yapacağın hakkında bilgi toplamasından kaçarsın ve en
+kavrayışlı akla sahip kimselerin size karşı bir plan yapmasına izin vermezsin.
+Meselâ, Sovyet etki ajanı asla bir komünist olarak görünmeyecektir. Sistema­
+tik biçimde mevcut sistemle yollarını kesiştirecektir; bazen sağda bazen solda
+durarak. Yapması gereken budur ve bu sayede tam bir meşruiyetten (cezalan­
+dırılmamaktan) yararlanacaktır. Hiçbir Batı kanunu kişinin içinde yaşadığı
+toplumun altını oymasını yasaklamamaktadır. Etki ajanı sadece kırmızı ve
+siyahı, yani bir makasın iki kanadını oynayacaktır.
+Soğuk Savaş Sonrası Dezenformasyon
+Daha önce siyasal sistemlerin hepsinde devlet merkezli veya devlete eklemli
+dezenformasyon faaliyetlerinin olabileceğini ifade etmiştik. Bu açıdan, oto­
+9	 Gorgon: Yunan mitolojisinde keskin dişli, saç yerine başlarında canlı yılanlar olan, her bakanın taş
+kesildiği kadınlar.
+10	Rasputin: Rus tarihinde herkesi etkileyen konuşmalarıyla Çar’ın sarayı dâhil her yere girebilen ve
+herkese nüfuz edebilen tarihî bir figür.
+11	Carl von Clausewitz: 1 Haziran 1780 tarihinde Prusya’da, Magdeburg yakınlarındaki Burg’da bir
+asilzade olarak doğan ve1832’de yayınlanan Savaş Üzerine adlı eseri askerî strateji konusunda en
+itibarlı klasiklerden biri hâline gelmiş olan Alman strateji ustası.
+
+--- Sayfa 16 ---
+140  |  Atilla Yayla
+riter ve totaliter devletlerin demokratik devletlere nispetle çok daha ilerde
+olduğunu, yani dezenformasyonu kıyaslanamayacak kadar çok ve sistematik
+biçimde kullandığını belirtmiştik. Sovyet dezenformasyon teknikleriyle ilgili
+olarak Vladimir Volkoff’tan aktarılanlar Sovyetlerin dezenformasyon alanın­
+da her devleti aştığını ve belki rakiplerinin hayal dahi edemeyeceği seviyele­
+re ulaştığını gösteriyor.
+Sovyetlerin bunu yapmasında etkili olan çeşitli faktörler var. Sosyalizmin
+toplumların tabiat kanunlarına benzer gelişme kanunlarının keşfinin zorunlu
+bir sonucu olduğu inancı sanırım en başta gelen faktördür. Hiç şüphe yok ki
+bu inanç sosyalizme bağlanmayı ve sosyalizmi ülkelere ve dünyaya egemen
+kılma mücadelesi uğruna büyük fedakârlıklara katlanmayı teşvik etmiş hatta
+bir tür kutsal bir göreve dönüştürmüştür. İkinci faktör olarak, ilkiyle bağlantılı
+şekilde, sosyalizmin küresel bir ideoloji olma iddiası ve çoğu zaman öyle ka­
+bul edilmesi gelmektedir. Bu küresellik iddiası, ona bağlananların sosyalizm
+uğruna içinde yaşadıkları toplumlarda bulunan mahallî ve kültürel aidiyetleri
+ve alışkanlıkları reddetmesinin ve küresel sosyalist harekete bağlanmasının
+psikolojik maliyetini azaltmış ve yolunu açmıştır. Son olarak, sosyalizmin kü­
+resel bir mücadele olarak zafere giden, yani rakiplerine, düşmanlarına kar­
+şı zafer kazanması kaçınılmaz, yani müstakbel muazaffer bir ideoloji olduğu
+dogması da sosyalist inanca bir oportünizm eklemiş ve sosyalist olmayı ve
+sosyalist hareketlere katılmayı kolaylaştırmıştır (Yayla, 2011). Bu sayede belki
+de insanlar Sovyet etki ajanı olmayı klasik anlamda bir ajanlık olarak görme­
+miş, insanlığı mutlak iyiliği davasına yapılan bir hizmet olarak yorumlamıştır.
+Bu ve benzeri etkenler sayesinde Sovyetler Birliği, dünya sosyalist-ko­
+münist hareketinin sahibi, patronu, beyni, merkezi olarak, her ülkede bilerek
+veya bilmeyerek ona stratejisini uygulamada yardım edecek bireyler ve grup­
+lar bulmada fazla sıkıntı çekmemiştir. Dünyanın her yerindeki sosyalist hare­
+ketler de dezenformasyon tekniklerinde uzmanlaşmıştır, çünkü bu teknikler
+sosyalizmin bir alt kültürü hâline gelmiştir. Sovyetler Birliği bu sayede gizli
+dezenformasyon faaliyetlerine ilaveten açık ve legal cephe örgütleri (front
+örgütler) de kurmuş-kurdurmuş ve onları hasımlarıyla, yani Batı ile mücade­
+lede hizmetine koşmuştur. Pek çok ülkedeki ayaklarıyla dünya barış hareketi
+bunun en tipik örneklerindendir. Bu sayede Sovyetler Birliği düşmanı Batı
+bloku ülkelerinden farklı olarak bu ülkelerle ülke içinden de mücadele etme
+imkânlarına sahip olmuştur.
+Sovyetler Birliği çöküp dağılınca, en sofistike biçimde dezenformasyon
+faaliyetleri yürüten Sovyet etki ve propaganda ağlarındaki insanlar da
+bir boşluğa düşmüş olmalı. Bu insanlar Soğuk Savaş’tan sonra ne yapmış
+
+--- Sayfa 17 ---
+Totaliterizm ve Dezenformasyon |  141
+olabilirler? Artık bir büyük patron ve uluslararası sosyalist hareket olmadığına
+göre işi tamamen bıraktılar mı? Yoksa alıştıkları ve içselleştirdikleri teknikleri,
+metotları daha küçük çaplı siyasî, ekonomik hedefler veya tamamen şahsî
+amaçlar için mi kullanmaya başladılar? Bu soruların cevabını hiç bir
+zaman tam olarak bilemeyeceğiz. Ancak, bir noktayı gözden kaçırmamak
+lâzım. Biraz yukarda söylendiği gibi, dezenformasyon teknikleri Sovyetler
+tarafından geliştirilmiş ve kullanılmış olmakla beraber genel olarak sosyalist
+düşünce ve hareketler içinde bir alt kültür hâline gelmişti. Bu yüzden
+küresel bir hareket olmasa bile çeşitli coğrafyalardaki sosyalist akımların
+ve hareketlerin dezenformasyon tekniklerini kullanmaya devam ettikleri ve
+kendi yapılanmaları içinde adı konmuş veya konmamış bir dezenformasyon
+yapmayı öğrenme-öğretöme pratiğiyle ona süreklilik kazandırmış oldukları
+düşünülebilir.
+Mamafih, dezenfomasyonu sadece sosyalizme ve tarihe karışmış veya
+hâlâ ayakta olan sosyalist ülkelere bağlamak hata olur. Devletlerin maya­
+sında bu var. Batı bloku, özellikle ABD, dezenformasyon ve onunla bağlantılı
+belli faaliyetleri müttefiki olan ülkelerde bile sürdürmekten çekinmiyor.  Ka­
+naatim odur ki, hem demokratik devletler hem de sayılarının gittikçe azal­
+dığı söylenen demokratik olmayan devletler dezenformasyon faaliyetlerine
+devam ediyorlar. Ama Soğuk Savaş dönemindekine nispetle daha küçük çaplı
+olarak. Yani demokratik olan ve olmayan devletler arasında dezenformasyona
+icabında işe yarar bir araç olarak başvurma açısından bir fark yok. Ancak, ya­
+zıda tekrar tekrar belirtildiği üzere, Sovyetler Birliği tecrübesinin ve sosyalist
+blokun parçası olmuş, sayıları gittikçe azalan bireyler ile süreklilik kazan­
+mış gruplar ve ülkeler muhtemelen dezenformasyon metotlarını daha çok ve
+daha başarılı şekilde kullanıyorlar.
+Demokrasilerde Dezenformasyon
+Vladimir Volkoff’un işaret ettiği gibi demokratik ülkeler dezenformasyon fa­
+aliyetlerine diğer ülkelerden daha açık. İfade ve basın hürriyeti, akademik öz­
+gürlük, sanatçılara ve edebiyatçılara tanınan geniş serbestlik alanı, toplumsal
+çoğulluk, hoşgörü bunu kolaylaştırıyor. Yine Volkoff’un dediği üzere, demok­
+ratik-liberal toplumlar altlarını oyan faaliyetlerin farkına ya hiç varamıyor,
+ya çok geç varıyor ya da varsa bile etkili karşı tedbir alma yolları bulamıyor.
+En iyi bildiğim ülke Türkiye olduğu için Türkiye’de dezenformasyon faaliyeti
+sayılabilecek bir kaç örneğe işaret ederek makaleyi bitirmek istiyorum.
+Türkiye’de Rusya ve Birleşik Arap Emirlikleri tarafından finanse edilen ya­
+yın organları var. Bunlar Türkiye’de demokrasi olmadığı, basın özgürlüğünün
+
+--- Sayfa 18 ---
+142  |  Atilla Yayla
+çiğnendiği, insan haklarının ihlâl edildiği yolunda sistematik propaganda sa­
+yılacak yayınlar yapıyorlar. Gel gör ki adı geçen ülkelerin demokrasi ve insan
+hakları sicili Türkiye’ninkinden çok daha kötü. Kendi topraklarında demokra­
+siyi ve insan haklarını önemsemediklerine göre bu finansör ülkeler gerçekten
+Türkiye’de demokrasinin gelişmesini ve insan haklarına daha fazla saygı gös­
+terilmesini istiyor olabilir mi? Bu akla yatkın görünmüyor. O zaman neden
+çok az gerçeğe çok fazla yalana dayanan bu yayınları yapan yayın organlarını
+finanse ediyorlar? Bu makale ışığında bu soruya verilebilecek cevap belli: Bir
+tür dezenformasyon faaliyeti yürütüyorlar: İstedikleri Türkiye’de daha fazla
+demokrasi ve daha korunaklı insan hakları değil. Türkiye’nin parçası olma
+iddiasını sürdürdüğü Batı dünyası ile arasındaki mesafeyi açmak, Türkiye’yi
+Batı dünyası nezdinde itibar kaybıma uğratmak ve olabilirse müttefikleriyle
+ilişkilerini bozmak.
+Demokrasiler bu tür sorunlarla nasıl baş edebilir? Yabancı sermayeli yayın
+organlarının ülkede faaliyet yürütmesine nereye kadar müsaade edilebilir?
+Başka ülkelere bakarak kopya çekmek mümkün. Bu yolda ABD öncülük etti.
+Amerika Çinli beş medya kuruluşuna devlet medyası oldukları gerekçesiyle
+Amerika’da ofis açabilmek ve eleman çalıştırabilmek için federal devletten
+izin alma şartı getirdi. Bu bir yol olabilir. Bir diğer yol elbette mütekabiliyettir.
+Söz konusu ülkeler Türkiye sermayesiyle kendi ülkelerinde benzer yayın
+organlarının kurulmasına ve çalışmasına izin verdikleri sürece burada aynı
+hakka sahip olma şartına bağlanabilirler.
+Yine Türkiye’den bir örnek. İsrail tarafından finanse edildiği devlet kayıt­
+larına girdiği söylenen bir başka yayın organı adeta sadece dezenformasyon
+yapan başka da hiçbir şey yapmayan bir çete olarak işliyor. Bu yayın orga­
+nı toplumdaki itibarını sarsmak istediği kimselere çeşitli yollarla saldırıyor.
+Kullandığı taktiklerden biri bu kişileri dönme veya Yahudi ilan etmek. Böy­
+lece iki taş vurulmuş oluyor. İlk olarak, söz konusu kişinin itibarı, toplum­
+daki atmosferden dolayı, yara alıyor. İkinci olarak, belli çevreler ve örgütler
+tarafından bu yayınlara dayanarak Türkiye’nin anti-semitik olduğu yolunda
+dünyaya mesajlar veriliyor.
+Bunu tersi de var. Türkiye’de biri İsrail devletinin icraatlarını veya Soros
+gibi Yahudi asıllı bir zenginin ülkeleri içinden istikrarsızlaştırma faaliyetle­
+rini eleştirirse etki ajanları tarafından hemen anti-semitik olarak damgalanıp
+itibar kaybına maruz bırakılmak istenebiliyor. Buradaki kurnazlık da İsrail
+devleti ile Yahudiliği özdeşleştirmek ve İsrail devletine yöneltilen eleştirileri
+bir halkın karalanması gibi sunmak.
+
+--- Sayfa 19 ---
+Totaliterizm ve Dezenformasyon |  143
+Bu yazıda dikkat çekmek istediğim yakın tarihli başka bir dezenformasyon
+örneği var. Türkiye’de Nisan 2020’de infaz sisteminde değişiklik yapan bir
+kanun çıkartılarak 90 bin civarında mahkûm salıverildi veya ev hapsine gön­
+derildi. Koronavirüs salgını ve hapishanelerdeki aşırı doluluk bunu gündeme
+getirmeye sebep olan başlıca faktörlerdi. Bu değişiklikle ilgili tartışmalar sı­
+rasında sık sık şu sözü işittik, okuduk: “Katiller, gaspçılar, hırsızlar serbest
+bırakılıyor, gazeteciler hapiste kalıyor”. Bu söz, aslında, onu üretenler değil
+ama tekrarlayanlar ne kadar farkındaydı bilmem, tipik bir dezenformasyon
+tekniğinin kullanılmasına sahne olmaktaydı.
+Türkiye’nin ifade ve basın özgürlüğü karnesinin olması gerektiği kadar
+iyi olduğunu iddia etmeyeceğim. Başka birçok alanda olduğu gibi bu
+alanda da eksiklikler ve yanlışlıklar var. Bunun niye böyle olduğu ayrı bir
+tartışma konusu. Ancak, “hapiste bırakılan gazeteciler” meselesine daha
+yakından bakmak lâzım. Akıl ve mantık bu konuda bize şunları söyler:
+Hapisteki gazeteciler üç grup teşkil edebilir. İlk grupta gerçekten gazetecilik
+faaliyetlerinden –meselâ haber yapmaktan, siyasetçileri ve bürokratları
+eleştirmekten- dolayı hapiste olan gazeteciler bulunabilir. Üçüncü grup
+gazetecilik faaliyetleriyle uzaktan yakından alâkası olmayan –örneğin cinayet,
+yaralama, gasp, dolandırma, bombalama, terör eylemlerine destek sağlama,
+teröristlere yataklık yapma gibi- suçlardan mahkum olduğu için cezalandırılan
+gazetecilerden oluşabilir. İkinci grupta ise gazetecilik faaliyeti olup olmadığı
+duruma bağlı olarak tartışılabilecek suçlardan içeri girenler yer alabilir;
+hakaret, özel hayatın mahremiyetini ihlâl, gizli devlet bilgilerini ele geçirme
+ve yayınlama, şiddeti ve suçu övme gibi. Bu ayrım, mesleği gazetecilik olan
+bazılarının (tasnifimizdeki üçüncü grupta yer alanların) hapiste olmalarının
+sebebinin gazetecilik faaliyetleri değil dünyanın her yerinde suç kabul
+edilecek ve cezalandırılacak olan eylemler olduğunu gösterir. Fiiliyattaki
+durum da böyle. Bu şartlar altında söz konusu gazetecilerin hapiste olması
+bir adaletsizlik değil, tam da tersine adaletin bir gereği. Bundan dolayı tüm
+hapisteki gazeteciler hakkında topluca konuşmak yanlış.
+Bu ayrımı yapmadan “gazeteciler içerde” derseniz, bazı suçluların ceza­
+landırılmasını, adaletin yerini bulmasını istemiyor, gazetecilere suç işlese­
+ler bile mutlak masumiyet ve masuniyet atfediyorsunuz demektir. Dahası,
+karşılaştırılan iki grubun ilkinden meslekleriyle değil suçlarıyla bahseder­
+ken ikinci gruptan sadece başka bazı mesleklere göre daha korunaklı olan
+mesleklerinden bahsederseniz tipik bir dezenformasyon yapmış olursunuz.
+Bu suçların iticiliğinden suçlu gazetecilere masumiyet karinesi ütemeye kal­
+kışmış olma durumuna düşersiniz. Oysa saylan suçları işleyenler arasında
+insan hayatıyla ilgili kutsal bir görevi ifa eden doktorların veya gençlerin
+
+--- Sayfa 20 ---
+144  |  Atilla Yayla
+hayata hazırlanması gibi yararlı bir işi yapan öğretim üyelerinin bulunması
+da mümkündür. Meslekler masum ve masun olmaya ve cezalandırılmaktan
+muaf tutulmaya yetiyorsa birileri de bu kimselerin suç işlemiş olsalar bile
+masum sayılmaları gerektiğini ileri sürebilir.
+Son olarak işaret etmek isterim ki, 7 Şubat 2012’deki MİT operasyonu ile
+seçimle gelen meşru hükümete karşı yeni bir bürokratik vesayet kurma amaç­
+lı eylemler yapmaya başlayan FETÖ, diğer özelliklerine ilaveten, bir yönüy­
+le bir dezenformasyon örgütü. Devlet içine gömülmüş, bir istihbarat örgütü
+olarak da işleyen yapısıyla FETÖ’nün sadece darbeci ekip olarak değil bir de­
+zenformasyon şebekesi olarak da analiz edilmesi gerekir. Öyle sanıyorum ki
+FETÖ eşine az rastlanır dezenformasyon teknikleriyle medyayı büyük ölçüde
+kontrol altına almıştı. Ona karşı olduğunu sanan yayın organlarını ve gazete­
+cileri bile yanıltma ve kullanma gücüne ve becerisine sahipti. Hükümete kar­
+şı medya operasyonlarını bizzat sahip olduğu yayın organlarıyla değil daha
+ziyade içlerine yerleştirdiği etki ajanlarıyla diğer medya organları üzerinden
+yapmaktaydı. FETÖ’cü olduğunun anlaşmamasını istemediği önemli kamusal
+mevkilerdeki elemanları hakkında yayın organlarıyla aleyhte yayın yaparak
+onların kendiyle bir alâkası olmadığı izlenimini yaratmaya çalışmaktaydı… Bu
+konu hâlâ daha sistematik ve ayrıntılı biçimde araştırılmayı bekliyor.12
+Sonuç: Dezenformasyonla Birlikte Yaşamak
+Soğuk Savaş’ın bitmesi hayatımıza dezenformasyon ağlarının dağılması gibi
+bir iyilik getirdi. Bu, dezenformasyon faaliyetlerinin azalması anlamına ge­
+liyor ama tamamen bittiği veya bitebileceği manasını taşımıyor. Sovyetlerin
+çökmesi ve komünist blokun dağılması Batı ülkelerinde işleyen dezenformas­
+yon yapılanmalarını bozdu. Ancak, sosyalist muhitlerde bir alt kültür hâline
+gelmiş ve kendi kendini yeniden üretme ve sürdürme dinamizmi kazanmış
+olan dezenformasyon mantığı ve akışı daha küçük çapta da olsa yaşamaya
+ve etkili olmaya devam ediyor. Batılı devletler de, ABD başta olmak üzere,
+dezenformasyon faaliyetlerine girişebiliyor. Dezenformasyon tamamıyla öl­
+medi, küçülerek ve daralarak da olsa yaşıyor. Üstelik internetin doğması ve
+sosyal medyanın gelişmesi dezenformasyona yeni alanlar açtı ve herkesin
+kolayca ulaşabileceği, kullanabileceği araçlar kazandırdı.
+Türkiye’de de her meşrepten ve siyasi çizgiden yayın organları -gazeteler,
+dergiler, televizyonlar, internet haber siteleri vb.- kendi çaplarında dezenfor­
+masyon faaliyetleri yürütmeye çalışıyor. İtibarsızlaştırmak istenen kimsele­
+12	FETÖ’nün ne olup ne olmadığı, temel özellikleri ve nasıl faaliyet gösterdiği hakkında şu çalışmaya
+bakılabilir: Atilla Yayla, Şanlı Direniş: 15 Temmuz, Ankara: Liberte Yayınevi, 2016.
+
+--- Sayfa 21 ---
+Totaliterizm ve Dezenformasyon |  145
+rin özellikle çirkin, itici fotoğraflarını yayınlamak, sözlerini bağlamlarından
+çıkartıp başka anlamlarda kullanmak, doğrunun itibarından yalanı ve yalanın
+itibarsızlığından doğruyu yararlandırmak, düpedüz yalan haber yapmak sık
+sık başvurulan dezenformasyon taktikleri. Yani hiçbir kesim dezenformasyon­
+dan tamamen uzak değil. Ancak, sol-sosyalist  gelenekten gelenler, makalede
+işaret edilen sebepler ve faktörler yüzünden,  bu işte çok daha usta ve başarılı.
+ Bu durumda ne yapacağız? Devlet bir taraftan kendisi bir dezenformasyon
+kaynağı olabilir ama diğer taraftan da dezenformasyonla mücadele etmekte
+demokratik devlete de görev düşüyor. En doğrusu bu mücadelenin yargı sistemi
+aracılığıyla verilmesi. Hukuk mevzuatı dezenformasyon faaliyetlerine karşı
+sivil vatandaşları etkili şekilde korumalı. Sivil toplum mensubu gönüllüler
+de masum ve zayıf vatandaşların sistematik dezenformasyon faaliyetleri
+yüzünden uğradığı mağduriyetlerin giderilmesi için mücadele edecek sivil
+toplum yapılanmaları gerçekleştirmeli. Yargı bürokrasisi içinde bu konuda
+uzmanlaşmış savcı ve yargıçların bulunması bu mücadeleye çok katkı sağlar.
+Ancak, bu mücadele sayılan şeylerin hepsinin ardında toplum desteği olmadan
+başarılamaz. Uzun vadede en önemlisi, yani dezenformasyonla mücadelenin
+en etkin araçları ifade özgürlüğü, toplumsal çeşitlilik,  medyanın çoğulluğu
+ve toplumun uyanıklığıdır.
+Bereket versin, içinde yaşadığımız çağda hiç bir güç, örneğin Sovyetler
+Birliği’nin geçmişte kurduğu kadar büyük ve etkin bir dezenformasyon ağı
+ve hâkimiyeti kuramaz. Doğru bilgi, haber sonsuz kadar saklanamaz, gizlene­
+mez, çarpıtılamaz. Yalan sonsuza kadar doğru diye pazarlanamaz, gizlenemez.
+Bu yüzden, sıkıntı verici durumlar yaşasalar ve ağır aksak mukabele etseler
+de, 20. yüzyıl siyasî tarihinin kanıtladığı üzere, demokrasilerin kendilerine
+yönelik dışardan gelen dezenformasyon faaliyetleriyle de ülkeleri içindeki
+sistematik dezenformasyon faaliyetleriyle de baş edebilecek veya en azından
+hayatların onun tarafından tamamen tahrip edilmesini önleyebilecek daya­
+nıklılığa ve reflekse sahip olduğu söylenebilir.
+Kaynakça
+Arnhart, L. (2008). Siyasi Düşünce Tarihi. Liberte Yayınları: Ankara.
+Hayek, F. A. (2007). “Bilginin Toplumda Kullanımı”. Turan Yay (Çev.). Liberal Düşünce, 12(45),
+ss. 153-164.
+Kolakowski, L. (1999). “Totaliterizm ve Yalan”. Aydın Yalçın (Çev.), Atilla Yayla (Ed.) Sosyal ve
+Siyasal Teori (2. Baskı) içinde (ss. 401-411. Siyasal Kitabevi: Ankara.
+Scruton, R. (2007). Dictionary of Political Thought (Third Edition). Palgrave Macmillan: Londra.
+Mayor, T. (2013). “Avcı Toplayıcılar: Orijinal Liberteryenler”. Atilla Yayla (Çev.). Liberal
+Düşünce, 18(71), ss. 227-246.
+
+--- Sayfa 22 ---
+146  |  Atilla Yayla
+Volkoff, V. (1985). The Set Up. Alan Sheridan (Çev.). Arbor House: New York.
+Yayla, A. (2011). “Marksizm Niçin Hala Popüler?”. Liberal Düşünce, 16(61-62), ss. 7-22.
+Yayla, A. (2014). Karşılaştırmalı Siyasal Sistemler, Ankara: Adres Yayınları.
+Yayla, A. (2014). Liberal Bakışlar (3. Baskı). Profil Yayınları: İstanbul.
+Yayla, A. (2016). Siyaset Bilimi (3. Baskı). Liberte Yayınevi: Ankara.
+Yayla, A. (2016). Şanlı Direniş: 15 Temmuz. Liberte Yayınevi: Ankara.

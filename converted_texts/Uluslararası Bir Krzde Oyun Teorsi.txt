@@ -1,0 +1,517 @@
+--- Sayfa 1 ---
+BEÜ Fen Bilimleri Dergisi
+
+BEU Journal of Science
+10 (4), 1334-1341, 2021
+
+10 (4), 1334-1341, 2021
+DOI: 10.17798/bitlisfen.942655
+
+1334
+Araştırma Makalesi / Research Article
+
+Uluslararası Bir Krizin Oyun Teorisi ile Matematiksel Olarak
+Modellenmesi
+
+Murat ÖZKAYA1,2*, Burhaneddin İZGİ2
+
+1 Çanakkale Onsekiz Mart Üniversitesi, Siyasal Bilgiler Fakültesi, İşletme Bölümü, Çanakkale.
+2 İstanbul Teknik Üniversitesi, Fen Edebiyat Fakültesi, Matematik Bölümü, İstanbul.
+(ORCID: 0000-0001-7241-4710) (ORCID: 0000-0002-8441-9137)
+
+Öz
+Bu çalışmamızda, herhangi iki ülke arasında yaşanan karşılıklı can ve mal kayıplarıyla devam eden uluslararası
+bir krizi oyun teorisi kullanarak modelledik. İlk olarak, inceleyeceğimiz problemi geçmişte yaşanan bazı gerçek
+krizleri inceleyerek detaylarıyla tanımladık. Daha sonra, detaylı bir şekilde tanımladığımız bu problemi oyun
+teorisinin en bilinen oyunlarından biri olan tutuklu ikilemini temel alarak modelledik. İlk olarak, modellediğimiz
+bu oyunun saf Nash denge noktasını bulduk. Buna ek olarak, oyuncuların yani ülkelerin tekrar krize sürüklenmesi
+durumunda ne yapması gerektiğini incelemek için oyunu tekrarlı oyun haline getirdik. Daha sonra bu oyundaki
+stratejileri ve sonuçları açıkça görebilmek için oyunumuzu oyun ağacı şeklinde ifade ettik. Ardından, oluşan bu
+yeni durum için yeni oyunun getiri matrisini oluşturduk. Son olarak tekrarlı oyun haline gelen oyunun saf Nash
+denge noktalarını bulduk. Ayrıca, ikinci oyunun bir alt oyununu kullanarak oyunumuzu farklı bir açıdan tekrar
+çözdük. Böylece uluslararası bir krizi tutuklu ikilemini kullanarak başarıyla modelledik ve sonuçlarını sunduk.
+
+Anahtar kelimeler: Oyun teorisi; Bimatris oyunlar; Tutuklu ikilemi; Uluslararası ilişkiler; Uluslararası kriz.
+
+Mathematical Modeling of an International Crisis with Game Theory
+
+Abstract
+In this study, we discuss a crisis occurring between any two countries and continuing with reciprocity losses of
+life and property in terms of game theory. First of all, we describe the problem in detail taking account of the real
+crisis that has occurred in the near-past. We then model the problem which is identified on the basis of The
+Prisoner’s dilemma, which is one of the well-known game in game theory. We find the pure Nash equilibrium
+point of the first game. Later on, we model the game under the fact that these players have a crisis again, that is,
+we construct a repeated game. We expressed our game as a game tree so that we can clearly see the strategies and
+results in this game. Then, we created the payoff matrix of the new game for this new situation Finally we find the
+pure Nash equilibrium points of the new game. In addition, we solve our game again from a different perspective
+using a subgame of the second game. Hence, we successfully model an international crisis using the prisoner’s
+dilemma and present its results.
+
+Keywords: Game theory; Bimatrix games; Prisoner’s dilemma; International relations; International crisis.
+
+1. Giriş
+
+Oyun teorisi kısaca çatışma içeren durumlarda karar verme süreçlerini inceleyen bir bilim dalı olarak
+tanımlanabilir [1]. Ayrıca, oyun teorisini mücadele içeren durumları matematiksel bir yaklaşımla ele
+alan bir bilim dalı olarak da tanımlayabiliriz [2]. Bu teori ilk olarak 2. Dünya savaşındaki bazı durumlara
+matematiksel yaklaşımların uygulanması sonucu ortaya çıkmıştır [3]. Oyun teorisini detaylarıyla ele
+alan ilk kitap ise Von Neumann ve Morgenstern tarafından 1944 yılında yazılmıştır [4]. Oyun teorisinin
+literatürde farklı uygulamaları bulunmaktadır [5-8]. Biz çalışmamızda uluslararası yaşanan bir kriz
+
+*Sorumlu yazar: murat.ozkaya@comu.edu.tr
+Geliş Tarihi: 25.05.2021,  Kabul Tarihi: 16.11.2021
+
+--- Sayfa 2 ---
+M. Özkaya, B. İzgi / BEÜ Fen Bilimleri Dergisi 10 (4), 1334-1341, 2021
+
+1335
+
+durumunu ele alacağımızdan yani uluslararası bir problemi inceleyeceğimizden dolayı oyun teorisinin
+uluslararası ilişkiler açısından kullanımını içeren bazı çalışmaları şu şekilde sunabiliriz:
+
+1985 yılında Snidal yaptığı çalışmasında, oyun teorisinin uluslararası ilişkiler alanında yeni
+yeni kullanıldığını belirtmiştir. Oyun teorisinin giderek artan kullanımı sayesinde askeri-politik strateji
+analizlerinin, uluslararası ekonomi politikalarının daha iyi bir şekilde modellendiğini belirmiştir [9].
+1995 yılında ise Allan ve Dupont sosyal etkileşimi oyun teorisi kullanarak inceleyen kişilerin neler
+yapması gerektiğini ve neleri dikkate alması gerektiğini çalışmalarında ifade etmişlerdir. Daha sonra,
+bu durumun teorik karmaşıklığı ve deneysel gücü arasındaki dengeyi incelemişlerdir. Bunu yaparken
+güvenlik ve uluslararası ekonomi politikası örneklerini kullanmışlardır [10]. 2001’de Correa oyun
+teorisinin uluslararası ilişkiler açısından kısıtlarını ve olanaklarını gösteren bir çalışma yayınlamıştır.
+Bu makalesinde bazı limitler ve kısıtlamalar altında oyun teorisinin uluslararası ilişkilerle ilgili
+problemlerin çözümünde kullanılabileceği sonucunu sunmuştur [11]. 2003 yılında Sandlers ve Arce
+teröristler ve antiteröristler arasındaki stratejik etkileşimin oluşturduğu problemlere oyun teorisinin
+uygulanabileceğini göstermişlerdir. Ayrıca ilgili çalışmada konuyu detaylandıran farklı çalışmalara da
+yer vermişlerdir [12]. 2007 yılında Wishnietsky, Amerikan tarihindeki başkanların yaptıkları hataları iki
+kişilik matris oyunları şeklinde modelleyip diğer karar verme yöntemleriyle birleştirmiştir. Ardından,
+bu modelleri kullanarak Clinton, Kennedy vb. gibi başkanların örneklerini inceleyerek detaylı bir
+şekilde ele almıştır. Bu uygulamalarının sonucunda oyun teorisi ve diğer karar verme yöntemlerinin
+kombinasyonuyla modelledikleri oyunların rasyonel çözümlerini açık bir şekilde sunmuştur [13].
+Aydın 2009 yılındaki tezinde, ABD ile İran arasındaki nükleer rekabeti oyun teorisini kullanarak
+incelemiştir. İki ülke arasındaki bu gerilimi tam bilgili ve eksik bilgili oyun modellerini kullanarak ele
+almıştır [14].  Ferreira vd. 2010 yılında talep belirsizliğini uluslararası bir pazar üzerinde incelemiştir.
+Bunu yaparken Cournot ve Stackelberg duopollerini kullanıp, elde ettikleri sonuçları birbirleriyle
+kıyaslamıştır [15]. 2015 yılına gelindiğinde ise Omrani vd. çalışmalarında diğer ülkelere elektrik
+dağıtımı yapan şirketlerin verimliliğini değerlendirmek için bütünleşik bir yaklaşım sunmuştur. Daha
+gerçekçi sonuçlar elde etmek için pazarlık oyunu teorisini, temel bileşen analizini (principal component
+analysis) ve veri zarflama analizini (data envelopment analysis) birleştirmiştir [16]. Diesen oyun teorisi
+yardımıyla 2015’te Sovyetler Birliği'nin çöküşünden sonra ‘demokrasiler arası’ güvenlik kurumlarının
+yükselişini ve Rusya ile ilişkilerini takip eden etkilerini ele almıştır [17].  2016 yılında, Bhuiyan oyun
+teorisinin bazı uygulamalarını çalışmasında sunmuştur. Bu uygulamalar arasında Hindistan ve
+Bangladeş arasında yaşanan terörizm problemini ele almıştır. Oyun teorisi ile durumu modelledikten
+sonra terörizm konusunda iki ülkenin konuya karşı iş birliği yapıp yapmaması gerektiğini incelemiştir
+[18]. 2017’de Rass vd. çalışmalarında gelişmiş bir kalıcı tehdit (advanced persistent thereats) savunması
+için bir risk azaltma aracı olarak genelleştirilmiş bir matris oyunları sınıfını araştırmaktadır [19]. Aynı
+yıl içinde Levi tarafından yayınlanan çalışmada ise Kuzey Kore ve Çin arasında nükleer anlaşmazlıklar
+sebebiyle gelişemeyen ilişkiler ele alınmıştır. Bu iki ülke arasındaki ilişkiyi açıklamak için oyun teorisi
+kullanılmıştır. Oyun teorisinin Kuzey Kore ve Çin arasındaki ilişkilere uygulanmasına ilişkin bazı
+kısıtları çalışmasında sunmuştur ve iki ülke arasındaki ilişkiyi farklı bir açıdan değerlendirmiştir [20].
+2018 yılında Yin ve Hamilton gümrük tarifelerinin uygulanması ve hedefli korumacılığın uygulanması
+için ABD ve Çin arasındaki ticaret davranışındaki olası eylemleri ve bunların sonuçlarını modellemek
+ve göstermek için oyun teorisi yaklaşımını ele alarak incelemiştir [21].
+Tavares ve Tran 2019 yılındaki çalışmalarında Kanada ve ABD arasındaki iki turistik yer
+arasındaki rekabeti ve iş birliğini analiz etmek için oyun teorisini kullanmıştır. Çalışmanın sonucunda
+incelenen modelde bir Nash dengesi olduğu görülmüştür ve bu nedenle ABD’nin stratejisinin
+Kanada’nın tercihini değiştirmesi için herhangi bir gerekçe görülmediği sonucuna ulaşılmıştır [22].
+Özdamar ise aynı yılda yayınlanan çalışmasında İran’ın nükleer programı üzerine yapılan pazarlıkları
+ele alarak oyun teorisinin uluslararası ilişkilere uygulanabileceğini göstermiştir. Ayrıca oyun teorisini
+kullanarak İran’ın nükleer programı hakkında öngörüler oluşturmuştur ve bunları sonuçlarında
+sunmuştur [23]. Wen vd. 2019 yılında uluslararası ilişkilerde Çin’in iş birliğini rekabete tercih etmesi
+gerektiğini göstermek için kazan-kazan oyunu hipoteziyle beraber asimetrik bir dinamik evrim oyunu
+oluşturmuştur. Bu modeli ise Afrika’ya yapılan Çin ve Japon çevresel yardım programları üzerine
+uygulamıştır [24].
+2020 yılında Gassama vd.nin yaptığı çalışmada oyun teorisi aracılığıyla bölgesel olmayan
+güçlerin kendi çıkarlarına göre, özellikle batının artan taleplerini karşılamak için, enerji üretiminde hala
+güçlü olan Orta Doğu güçleri üzerinde hegemonik bir kontrole sahip olduklarını ileri sürmektedirler. Bu
+
+--- Sayfa 3 ---
+M. Özkaya, B. İzgi / BEÜ Fen Bilimleri Dergisi 10 (4), 1334-1341, 2021
+
+1336
+
+nedenle, Orta Doğu ülkeleri bölgesel iş birliğine gitmeyip, farklılıkları uzlaştırmaz ise başta İran ve
+Suudi Arabistan olmak üzere oyunu kaybetmeye devam edeceklerini söylemektedir [25]. Krapohl vd.
+aynı yılda yayınladıkları çalışmalarında ise uluslararası ticaret iş birliğini incelemek için oyun teorisini
+kullanmışlardır. Bunun sonucunda uluslararası ticaret iş birliğinin istikrarlı bir dengede olmadığını ve
+ticaret serbestleştirme seviyelerinin koruma ticaret politikaları tarafından başarılı bir şekilde
+kullanılabileceğini göstermiştir [26].
+Yukarıdaki örneklerden de görülebileceği gibi oyun teorisinin uluslararası ilişkilerin
+modellenmesinde etkin bir şekilde kullanıldığı anlaşılmaktadır. Biz bu çalışmamızda iki ülke arasındaki
+sınır güvenliği ve iç işlerine karışılma endişeleri sonucu ortaya çıkan çatışma durumunu oyun teorisi
+yardımıyla inceleyeceğiz. Bunu yaparken temel olarak Tutsak İkilemini kullanacağız. Çalışmanın
+devamı şu şekildedir: İkinci bölümde çalışma için gerekli olan bazı temel kavramlara yer verilmiştir.
+Üçüncü bölümde çalışmada ele alınacak problem açıklanıp, modellenmiştir. Daha sonra modellenen
+problemin çözümü sunulmuştur. Son bölümde ise sonuçlara yer verilmiştir.
+
+2. Bazı Temel Kavramlar
+
+Bu bölümde çalışma boyunca kullanılacak ve gerekli olacak bazı tanımlara ve açıklamalara yer
+vereceğiz. İlk olarak, sıfır toplamlı bir oyunun tanımından başlayarak genel toplamlı oyun, tekrarlı oyun,
+Nash dengesi ve çalışmanın temelinde kullanılacak olan tutuklu ikilemini sunacağız.
+
+Tanım 1 [27]: Sıfır toplamlı bir oyunun stratejik formu, diğer bir deyişle normal formu,
+1. 𝑃 boş olmayan ve I. oyuncunun stratejilerini içeren küme,
+2. 𝑄 boş olmayan ve II. oyuncunun stratejilerini içeren küme,
+3. 𝐴, 𝑋× 𝑌 üzerinde tanımlı reel değerli bir fonksiyon olmak üzere,
+(𝑋, 𝑌, 𝐴) üçlüsü ile tanımlanır.
+
+Kriz durumları, çıkar çatışmaları, rekabet durumları her zaman tek bir kez yaşanmayabilir,
+yani bu tür durumlar sürekli bir halde tekrarlanabilir. Böyle durumları tanımlamak için oyun teorisinde
+tekrarlı oyun kavramı ortaya konmuştur. Tekrarlı oyunlarda, oynanan oyun sayısı oyuncuların
+çıkarlarını, getirilerini etkilemektedir. Bu tür oyunlarda kayıplar daha da büyüyebileceği gibi
+kazançlarda büyüyebilir. Bu durum oyunun ilk haline bağlı olarak değişmektedir.
+
+Tekrarlı Oyun: Bir oyunun üst üste oynandığı durumlarda oluşan oyunlar bütününe tekrarlı oyun denir.
+Eğer oyunun oynanış miktarı yani tekrar sayısı, sonlu ise sonlu tekrarlı oyun, sonsuz ise sonsuz tekrarlı
+oyun şeklinde tanımlanır.
+
+Nash Dengesi [29]: Eğer bir strateji diğer stratejilere karşı en iyi karşılıksa bu stratejilerin oluşturduğu
+ikiliye saf Nash dengesi denir.
+
+Sıfır toplamlı olmayan matris oyunlarını, bimatrisler kullanarak gösterebiliriz. İlgili satır ve sütunlara
+her iki oyuncu için elde edilen getiriler sayı ikilileri şeklinde yazılarak oyunu bimatris olarak yazabiliriz.
+Aşağıda verilen tutuklu ikilemi bimatris oyunlar için bir örnek olarak kabul edilebilir.
+
+Tutuklu İkilemi [30]: İki mahkûm bir suç şüphesiyle tutuklanmıştır. Her biri iki eylem arasında seçim
+yapmak durumundadır. Bu seçimler suçu kabul etmek (strateji “Evet”) ve sessiz kalmak (strateji
+”Hayır") şeklinde iki tanedir.  Oyunun  𝐺  getiri bimatrisi aşağıdaki gibi verilmiştir.
+𝐺= 𝐸
+𝐻[
+𝐸
+𝐻
+(−6, −6)
+(0, −10)
+(−10,0)
+(−1, −1)
+]
+
+Getiri bimatrisinden de görüleceği gibi mahkûmlar suçu kabul ederse, 6 yıl ceza alırlar. Her ikisi de
+sessiz kaldığında, 1 yıl bir ceza alırlar. Suçu kabul etmenin diğer stratejilere kıyasla daha avantajlı
+olduğu görülebilir. Ayrıca bir mahkûm suçu kabul eder ve diğeri kabul etmezse, birincisi serbest
+kalırken ikincisi 10 yıl gibi daha büyük bir cezayı alır. Bu durumda oyunun Nash dengesi, yani iki
+
+--- Sayfa 4 ---
+M. Özkaya, B. İzgi / BEÜ Fen Bilimleri Dergisi 10 (4), 1334-1341, 2021
+
+1337
+
+oyuncu için en uygun tercih, oyuncuların kazançlarının (-6,-6) oluşturduğu strateji profilinde diğer bir
+deyişle (E, E) stratejisinde yatmaktadır.
+
+3. Problem
+
+Bu bölümde öncelikle A ve B ülkeleri arasındaki çatışmayı açıklayıp, modelini oluşturacağımız
+durumları tanımlayacağız. Ardından bu durumları oyun teorisi kullanarak modelleyeceğiz. Modelimizi
+öncelikle ilk durumu tutsak ikilemini temel alarak kurup, çözümünü yapacağız. Daha sonra ilk durum
+için oluşturduğumuz tutsak ikileminden yararlanarak oyunu ikinci durum için genişleteceğiz. Diğer bir
+deyişle, oyunu tekrarlı oyun haline getireceğiz. Son olarak, oluşturduğumuz tekrarlı oyunun çözümünü
+elde edeceğiz.
+Çalışma boyunca iki ülke arasındaki durumda ateşkese verilen destekler dışında dış faktörlerin
+etkisiz olduğu varsayılacaktır (üçüncü ülkelerin savaşa dahil olması, iç muhalif gruplar vs.).
+Durum I: A ve B ülkeleri sınır komşusu olan iki ülkedir. A ülkesinde uzun bir süredir süregelen
+bir iç savaş yaşanmaktadır ve bu savaş A ülkesinin B ülkesiyle olan sınırına doğru ilerlemiştir. Bu
+savaştan dolayı B ülkesi sınır güvenliği ve göç dalgası endişesi yaşamaya başlamıştır. Bu nedenle B
+ülkesi uluslararası hukuka dayanarak A ülkesi ile olan sınırını korumak amacıyla bir sınır ötesi
+operasyon düzenleme kararı almıştır. B ülkesinin düzenlediği bu sınır ötesi operasyonları A ülkesi kendi
+iç işlerine karışılması olarak algılamış ve bu sebeple B ülkesinin sınır ötesinde bulunan askeri
+personeline yönelik karşı saldırılar başlatmıştır. Buna müteakip B ülkesi A ülkesinin saldırılarına karşı
+meşru müdafaa hakkını kullanarak hukuka uygun bir şekilde karşılık vermiştir. Bütün bu yaşananlar
+sonucunda hem A ülkesi hem de B ülkesi çok sayıda can (askeri ve sivil personel) ve mal (askeri teçhizat,
+meskûn yapı hasarları gibi) kaybı yaşamıştır. Yaşananlar uluslararası basında yer bulmuş ve üçüncü
+ülkelerin arabuluculuğuyla karşıt taraflar arasında ilk ateşkes imzalanmıştır. Ateşkesin imzalanmasıyla
+iki ülkenin karşılıklı can ve mal kayıpları durmuştur.
+Durum II: İlk ateşkesin imzalanmasından bir süre sonra A ülkesinden iç savaşın şiddeti tekrar
+artmış ve B ülkesinin sınır ve göç dalgası endişesi tekrar ülke gündemine gelmiştir. Böylece B ülkesi
+operasyona kaldığı yerden devam etmeye başlamıştır. Bunun ardından A ülkesi ilk olaydaki tutumunu
+sergileyip B ülkesinin sınır ötesindeki personeline tekrar saldırmıştır. Çalışmamızda ele alacağımız
+ikinci durumu yukarıdaki gibi özetleyebiliriz. Bu durumlar altında ülkelerin nasıl bir tutum sergilemesi
+gerektiğini oyun teorisi yardımıyla inceleyeceğiz.
+İlk olarak, aşağıda Durum I’i arka planda Tutuklular ikilemini kullanarak oyun teorisi
+yardımıyla modelleyeceğiz. Satır oyuncusu A ülkesi, sütun oyuncusu B ülkesi olsun.
+A: Ateşkes ve S: Karşılıklı saldırıların devam etmesini temsil etmek üzere,
+
+𝐺𝐼.𝑑𝑢𝑟𝑢𝑚= 𝐴
+𝑆[
+𝐴
+𝑆
+(−1, −1)
+(1, −2)
+(−2,1)
+(−3, −3)
+]
+
+tutsak ikilemi şeklinde 𝐺𝐼.𝑑𝑢𝑟𝑢𝑚 getiri bimatrisini yukarıdaki gibi oluşturduk. Getiri matrisinin girdileri
+oluşturulurken aşağıdakiler temel alınmış ve bunları temsilen sayılar atanmıştır:
+
+1. Ateşkes- Ateşkes durumları için hali hazırda taraflar birbirine verdikleri zararı ilk anda
+durduracakları için kayıpları minimum olacaktır. Bu sebeple getiri olarak -1 verilmiştir.
+
+2. Ateşkes-Saldırı (ya da Saldırı-Ateşkes) durumunda ise Ateşkes ilan eden taraf uluslararası
+düzeyde iyi niyetini göstermiş olup, diğer ülkelerin desteğini kazanacak ve haklı görüleceğinden
++1, saldırıya devam eden ülke uluslararası düzeyde kötü görünüp destek ve maddi kayıplarla
+karşılaşacağında -2 değerleri verişmiştir.
+
+3. Saldırı-Saldırı durumunda ise taraflar hem maddi zararla karşılaşacak hem de uluslararası
+düzeyde gerginliği arttıracağından dolayı kayıplar diğer durumlara göre daha fazla olacaktır. Bu
+nedenle -3 değeri getiri olarak verilmiştir.
+
+--- Sayfa 5 ---
+M. Özkaya, B. İzgi / BEÜ Fen Bilimleri Dergisi 10 (4), 1334-1341, 2021
+
+1338
+
+Birinci durumu temsil eden bu oyunun çözümüne Nash denge noktalarını bularak ulaşabiliriz. Nash
+denge noktalarını bulmak için her sütunda en büyük olan ilk sayının üzerine bir işaret koyarız ve aynı
+şekilde her satırda en büyük olan ikinci sayının üzerine bir işaret koyarız. İşaretli olan herhangi bir sayı
+çifti oyunun Nash dengesini gösterir [28].
+
+𝐺𝐼.𝑑𝑢𝑟𝑢𝑚= 𝐴
+𝑆[
+𝐴
+𝑆
+(−1̅̅̅̅, −1̃)
+(1̅, −2)
+(−2, 1̃)
+(−3, −3)
+]
+
+İşaretlemeleri yapıldıktan sonra yukarıda görüldüğü gibi oyun tek bir Nash dengesi olduğunu
+görülmektedir ve bu denge noktası (A,A) stratejisidir. Her iki ülke içinde ateşkes yapmak kendi
+çıkarlarını korumak adına daha iyi bir seçenektir. Böylece taraf ülkeler can ve mal kayıplarını
+durdurabilir ya da en az seviyeye indirebilir.
+İlerleyen süreçte, iki ülke arasındaki durumun tekrar yaşandığını yani sınır güvenliği endişesi,
+göç dalgası, iç işlerine karışılması kaygısı vb. durumların, tekrar başladığını varsayıyoruz. Böylece A
+ve B ülkeleri arasındaki karşılıklı saldırıların tekrarlanması sonucu can ve mal kayıplarının hızlı bir
+şekilde arttığını görüyoruz (Durum II).
+Durum II’nin modellemesini yapmadan önce bu durumu anlatan bir oyun ağacı oluşturacağız
+(Detaylı bilgi için [31])
+
+Şekil 1. Durum II’nin oyun ağacı ile gösterilmesi
+
+Mavi çizgiler ile gösterilen kısımlar Durum I sonucu elde edilen oyun getirilerini, siyah
+çizgiler ile temsil edilen kısımdaki getiriler ise Durum II sonucu oluşan oyun getirilerini göstermektedir.
+Oyun ağacından da görüleceği üzere tekrarlı oyunlarda, tekrar sayısı arttıkça her oyuncu için strateji
+kümesi daha da genişlemektedir. Oyun ağacındaki stratejileri özetlemek için ağacı bir tablo haline
+getirirsek aşağıdaki gibi olur (Detaylar için [32]).
+
+Tablo 1. Oyun ağacındaki stratejiler
+SSSS: (-6,-6)
+SSSA: (-5,-2)
+SSAS: (-2,-5)
+SSAA: (-4,-4)
+
+--- Sayfa 6 ---
+M. Özkaya, B. İzgi / BEÜ Fen Bilimleri Dergisi 10 (4), 1334-1341, 2021
+
+1339
+
+SASS: (-5,-2)
+SASA: (-4,2)
+SAAS: (-1,-1)
+SAAA: (-3,0)
+ASSS: (-2,-5)
+ASSA: (-1,-1)
+ASAS: (2,-4)
+ASAA: (0,-3)
+AASS: (-4,-4)
+AASA: (-3,0)
+AAAS: (0,-3)
+AAAA: (-2,-2)
+
+Tablo 1.’deki SSSS ifadesi ilk durumda SS stratejisi seçilip ikinci durumda da SS stratejisinin
+kullanıldığını temsil etmektedir, benzer şekilde SAAS ise ilk durumda SA, ikinci durumda AS
+stratejilerinin seçildiğini göstermektedir. İkinci durum için oyunun getiri bimatrisini
+
+𝐺𝐼𝐼.𝑑𝑢𝑟𝑢𝑚= [
+(−6, −6)
+(−5, −2)
+(−5, −2)
+(−4,2)
+(−2, −5)
+(−4, −4)
+(−1, −1)
+(−3,0)
+(−2, −5)
+(−1, −1)
+(−4, −4)
+(−3,0)
+(2, −4)
+(0, −3)
+(0, −3)
+(−2, −2)
+]
+
+şeklinde elde ederiz (𝐺𝐼𝐼.𝑑𝑢𝑟𝑢𝑚 matrisinin oluşturulmasındaki detaylar için [32]). Daha sonra Nash
+denge noktalarını bulabilmek için ilk durumdakine benzer şekilde işaretlemeleri aşağıdaki gibi yaparız:
+
+𝐺𝐼𝐼.𝑑𝑢𝑟𝑢𝑚=
+[
+
+ (−6, −6)
+(−5, −2)
+(−5, −2)
+(−4, 2̃)
+(−2, −5)
+(−4, −4)
+(−1, −2)
+(−3, 0̃)
+(−2, −5)
+(−1, −3)
+(−4, −4)
+(−3, 0̃)
+(2̅, −4)
+(0̅, −3)
+(0̅, −3)
+(−2̅̅̅̅, −2̃)]
+
+İşaretlemeleri yaptıktan sonra Nash denge noktasını (−2, −2) olarak buluruz, bu strateji ise
+AAAA karşılık gelmektedir. Diğer bir deyişle, hem ilk durumda AA stratejisinin kullanılması
+gerektiğini, hem de ikinci durumda AA stratejisinin kullanılması gerektiğini görüyoruz. İkinci durumda
+da karşılıklı ateşkes yapılmasının hem A ülkesinin hem de B ülkesinin avantajına olacağı ve durumun
+bu şekilde sürdürülmesi gerektiği sonucuna ulaşabiliriz.
+Diğer taraftan 𝐺𝐼𝐼.𝑑𝑢𝑟𝑢𝑚 getiri matrisini oluşturan oyunun, yani ikinci durumun, ilk strateji
+durumu dikkate alınarak bir alt oyuna indirgenip, çözüldüğünde aynı stratejiye ulaşabiliriz.
+Problemdeki ilk durumda rasyonel bir oyuncunun AA stratejisinin kullanıldığı bilinmektedir, bu nedenle
+oyun ağacında sadece ilk oyunun sonunda kullanılan AA stratejinden sonra gelen dalları kullanarak ilgili
+alt oyunun getiri matrisini şu şekilde oluşturabiliriz.
+
+𝐺𝑎𝑙𝑡_𝑜𝑦𝑢𝑛= 𝐴
+𝑆[
+𝐴
+𝑆
+(−2̅̅̅̅, −2̃)
+(0̅, −3)
+(−3, 0̃)
+(−4, −4)
+]
+
+Daha sonra oluşturduğumuz bu oyunun Nash denge noktalarını yukarıdaki oyunlara benzer
+şekilde bulacak olursak Nash denge noktasının AA stratejisi olduğu görülmektedir. Diğer bir deyişle,
+rasyonel bir oyuncunun 𝐺𝑎𝑙𝑡_𝑜𝑦𝑢𝑛 oyununda da ateşkes stratejisini seçmesi gerektiği ifade edilmektedir.
+Bu çalışmada problemi ele alırken ülkeler arası gerilimin iki defa yaşandığını varsaydık. Fakat
+bu durum daha fazla ve sonlu miktarda tekrarlanacak olursa oluşacak yeni oyunlar için de benzer şekilde
+çözüme ulaşılabilir. Oyunu geriye doğru indüksyon yöntemi ile çözebiliriz. Diğer bir deyişle, her yeni
+oluşacak durumu ülkelerin son krizi olacakmış gibi değerlendirip, tek bir oyun şeklinde çözebiliriz.
+Örneğin ülkelerin onuncu krizini ele alalım, bu durumda onuncu krizin son kriz olacağını düşünüp bir
+önceki krizdeki gibi Ateşkes-Ateşkes stratejilerini seçmek, çalışmamızda da gösterdiğimiz üzere, her iki
+ülke içinde en avantajlı seçenek olacaktır. Bu durumda oyuncular, yani ülkeler, bu tarzda oluşabilecek
+her yeni bir kriz için saf Nash denge noktası olan Ateşkes-Ateşkes stratejilerini kullanmalıdır.
+
+--- Sayfa 7 ---
+M. Özkaya, B. İzgi / BEÜ Fen Bilimleri Dergisi 10 (4), 1334-1341, 2021
+
+1340
+
+4. Sonuç ve Öneriler
+
+İki ülke arasında meydana gelen uluslararası bir gerginliği tutuklu ikilemi yardımıyla iki farklı durum
+için modelledik. Durum I olarak tanımladığımız olay da krizin sadece bir kere yaşanacağı varsayımından
+yola çıktık ve bunu tutuklu ikilemi üzerine inşa ettik. Ardından, oyunun Nash denge noktasını bulduk.
+Denge noktası ateşkes seçeneğinin en iyi seçenek olduğunu göstermektedir.
+Daha sonra Durum I’de tanımladığımız gerginliğin tekrar yaşandığı varsayımı altında Durum II
+olayını tanımladık. Bundan sonra Durum II’yi oyun ağacı şeklinde modelledik ve getirilerini hesapladık.
+Oyun ağacını oluşturduktan sonra elde ettiğimiz stratejilerin getirilerini bir tablo halinde sunduk ve
+Durum II diye tanımladığımız olay için getiri matrisini oluşturduk. Bu getiri matrisini kullanarak Nash
+denge noktasını bulduk. Tekrarlı oyun haline getirdiğimiz ve çözdüğümüz bu oyunda da optimal
+seçeneğin tekrarı halinde yeniden ateşkes yaparak, kayıpları en aza indirmek olduğunu gösterdik.
+Buna ek olarak, ilk durumda ateşkes seçeneklerinin kullanıldığını bildiğimizden ikinci durum
+için oluşturduğumuz oyun ağacındaki bir alt oyunu kullanarak da çözüme ulaştık. Her iki çözümde de
+bulduğumuz strateji iki tarafında ateşkes seçeneğini tercih etmesi gerektiğini göstermektedir.  Böylece
+uluslararası bir gerginlik durumuna tutuklu ikilemini başarılı bir şekilde uygulayarak, ülkelerin
+maksimum menfaatleri için almaları gerektiği pozisyonları oyun teorisi açısından sunmuş olduk.
+
+Yazarların Katkısı
+
+Yazarların makaleye eşit miktarda katkı sağlamışlardır.
+
+Çıkar Çatışması Beyanı
+
+Yazarlar arasında herhangi bir çıkar çatışması bulunmamaktadır.
+
+Araştırma ve Yayın Etiği Beyanı
+
+Yapılan çalışmada araştırma ve yayın etiğine uyulmuştur.
+
+Kaynaklar
+
+[1]
+Shubik M. 1964. Game Theory and Related Approaches to Social Behaviour: Selections. John
+Wiley & Sons. New York, USA.
+[2]
+Guseinov K. G., Akyar E., Düzce S. A. 2010. Oyun Teorisi: Çatışma ve Anlaşmanın
+Matematiksel Modelleri. Seçkin. Ankara, Türkiye.
+[3]
+Haywood Jr, O. G. 1954. Military decision and game theory. Journal of the Operation Research
+Society of America. 2 (4): 365-462.
+[4]
+Von Neumann J., Morgenstern O. 1944. Theory of Games and Economic Behaviour. Princeton
+University Press. Princeton, New Jersey, USA.
+[5]
+İzgi B., Özkaya M. 2019. A new perspective to the solution and creation of zero sum matrix game
+with matrix norms. Applied Mathematics and Computation, 341, 148-159.
+[6]
+İzgi B., Özkaya M. 2019. Matris normları ile bir matris oyununun adilliğinin gösterilmesi.
+International Journal of Advances in Engineering and Pure Sciences, 31 (2): 126-132.
+[7]
+İzgi B., Özkaya M. 2020. Tarım sigortası gerekliliğinin oyun teorisi yardımıyla gösterilmesi:
+Matris Norm Yaklaşımı. Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilimleri Dergisi , 20
+(5): 824-831.
+[8]
+Özkaya M., İzgi B. 2021.  Effects of the quarantine on the individuals’ risk of Covid-19 infection:
+Game theoretical approach, Alexandria Engineering Journal, 60 (4): 4157-4165.
+[9]
+Snidal D. 1985. The game theory of international politics. World Politics, 38 (1): 25-55.
+[10] Allan P., Dupont C. 1999. International relation theory and game theory: baroque modeling
+choices and empirical robustness. International Political Science Review, 20 (1): 23-47.
+[11] Correa H. 2001. Game theory as an instrument for the analysis of international relations.
+Ritsumaikan International Research, 14 (2001): 197-208.
+
+--- Sayfa 8 ---
+M. Özkaya, B. İzgi / BEÜ Fen Bilimleri Dergisi 10 (4), 1334-1341, 2021
+
+1341
+
+[12] Sandler T., M. Arce, D.G. 2003. Terrorism & game theory. Simulation & Gaming, 34 (3): 319-
+337.
+[13] Wishnietsky A. 2007, Applying Game Theory to Presidental Mistakes. Ph.D. Thesis. Graduate
+Faculty of Auburn University, Auburn, Alabama, 188.
+[14] Aydın S. 2009. The Super Power versus a Regional Power: A Game Theoretical Approach to the
+Current Nuclear Tension between the US and Iran. M.Sc. Thesis. The Institute of Economic and
+Social Sciences, Bilkent University, Ankara, 103.
+[15] Ferreira F. A., Ferreira F. 2010. Simultaneous Decisions or Leadership in an International
+Competition. AIP Conference Proceedings. 1281 (2010): 804-807.
+[16] Omrani H., Beiragh G.R., Kaleibari S.S. 2015. Performance assessment of Iranian electricity
+distribution companies by an integrated cooperative game data envelopment analysis principal
+component analysis approach. Electrical Powern and Energy Systems. 64 (2015): 617-625.
+[17] Diesen G. 2015. EU and NATO relations with Russia: After the collapse of the Soviet Union.
+Routledge.
+[18] Bhuivan B.A. 2016. An overview of game theory and some applications. Philosophy and
+Progress. LIX-LX: 112-128.
+[19] Rass S., König S., Schauer S. 2017. Defending against advanced persistent threats using game
+theory. PLOS ONE, 12 (1), e0168657.
+[20] Levi N. 2017. Applying game theory to North Korea-China relations. Journal of Modern Science.
+33 (2): 355-366.
+[21] Yin J.Z., Hamilton M.H. 2018. The conundrum of US-China trade relations through game theory
+modeling. Journal of Applied Business and Economic, 20 (8): 133-150.
+[22] Tavares J.M., Tran X. 2019. Is there a strategic independence between the USA and Canada in
+the tourism sector? An Analysis Using Game Theory. Tourism Planning Development, 13 (3):
+304-317.
+[23] Özdemir Ö. 2019. An application of expected utility modeling and game theory in ır: assessment
+of ınternational bargaining on Iran’s nuclear program. All Azimuth, 8 (2): 205-230.
+[24] Wen Y., Li H., Du X., Yang K., Casazza M., Liu G. 2019. Analytical approach to win-win game
+analysis for Chinese and Japanese development assistance strategies in Africa. Ecological
+Indicators, 96 (2019): 219-229.
+[25] Gassama S.K., Ebrahimi M., Yusoff B.K. 2020. The oil hegemonic system and game theory:
+regional versus trans-regional powers in the middle east. Contemproary Review of the Middle
+East, 7 (3): 358-376.
+[26] Krapohl S., Ocelik V., Walentek D.M. 2020. The instability of globalization: applying
+evolutionary game theory to global trade cooperation. Public Choice.
+[27] Ferguson T.S. 2014. Game Theory Part II. Mathematics Department UCLA, 2nd Edition.
+[28] Ferguson T.S. 2014. Game Theory Part III. Mathematics Department UCLA, 2nd Edition.
+[29] Prisner E., G. 2014. Game Theory through Examples. The Mathematical Association of America,
+USA.
+[30] Mazalov V. 2014. Mathematical Game Theory and Applications. John Wiley & Sons. West
+Sussex, U.K.
+[31] Baron E. N. 2013. Game Theory: An Introduction. John Wiley & Sons. Hoboken, New Jersey,
+USA.
+[32] Straffin P. D. 1993. Game Theory and Strategy.The Mathematical Association of America,
+Washington, USA.

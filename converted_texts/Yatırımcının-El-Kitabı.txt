@@ -1,0 +1,8177 @@
+--- Sayfa 2 ---
+2
+
+--- Sayfa 3 ---
+İçindekiler
+
+1.
+Yatırım Nedir?
+2.
+Trading Nedir?
+3.
+Temel Analiz
+4.
+Teknik Analize Giriş
+5.
+Grafik Türleri
+6.
+Piyasa Oyuncuları
+7.
+Dip ve  Tepe
+8.
+Trend Türleri
+9.
+Mum Çubukları
+10.
+Nasıl Çizilir?
+11.
+Fibonacci
+12.
+Fiyat Döngüleri ve Tepkiler
+13.
+Formasyonlar
+14.
+Zaman Dilimleri
+15.
+İndikatörler
+16.
+Piyasa Emirleri ve Terimler
+17.
+Para ve Risk Yönetimi
+18.
+Kişilik Bilinci
+19.
+Giriş ve Çıkış Yöntemleri
+20.
+Sinyal Değerlendirme Üzerine
+21.
+Örnek Teknik Stratejiler
+22.
+Kendi Sistemini Yaratmak
+23.
+Yatırım Psikolojisi
+24.
+Platformlar
+25.
+Kaynakça
+3
+
+--- Sayfa 4 ---
+Amaç
+Kitabın amacı finansal piyasalarda işlem yapmak isteyen trader
+
+adaylarına yatırım ve analiz süreci hakkında fikir vermektir. Yazılan
+
+stratejiler ve analiz yöntemleri her seviyeden yatırımcının anlaması için
+
+olabildiğince gündelik bir dille anlatılmıştır. Son bölümde bulunan yatırım
+
+stratejileri,
+döviz,
+emtia,
+bitcoin
+veya
+hisse
+senedi
+gibi
+finansal
+
+enstrümanların
+neredeyse
+tamamında
+geçerli
+olmakla
+birlikte
+bu
+
+yöntemler işlem yaptığınız her enstrümanın ve piyasanın dinamiklerine
+
+göre farklı ayarlamalar gerektirebilir. Kitap örnekleri ağırlıklı olarak hisse
+
+senedi piyasasına yöneliktir ancak Kripto ve Forex gibi farklı piyasalarda
+
+da benzer araştırma ve analiz yöntemleri kullanılarak işlem yapılabilir.
+
+Gelişen Kitap
+Yatırımcının El Kitabı bir gelişen kitaptır. Bu Mentor Türkiye
+
+tarafından yaratılmış yeni bir kitap türüdür. Gelişen kitap, zaman içinde
+
+okurların geri bildirimlerine göre eklemeler ve çıkarmalar yapılarak
+
+güncellenir. Böylelikle okur ve yazar zaman içinde geliştikçe kitap da
+
+onlarla
+birlikte
+gelişir.
+Kitabı
+bitirdikten
+sonra
+aşağıdaki
+iletişim
+
+adreslerine
+soru,
+görüş
+ve
+tavsiyelerinizi
+yazarak
+yeni
+çıkacak
+
+versiyonların
+gelişmesine
+katkıda
+bulunabilirsiniz.
+Kitabın
+yeni
+
+versiyonları yeterli güncelleme oranına ulaşıldıktan sonra ücretsiz olarak
+
+siz okurlarımıza tekrar gönderilecektir.
+
+Instagram
+https://www.instagram.com/mentortrade/
+
+E-mail
+mentorturkiye.trade@gmail.com
+4
+
+--- Sayfa 5 ---
+Not
+Bu kitabı okurken siz okurlarımızdan tek ricam gördüğünüzde tam
+
+olarak anlamadığınız herhangi bir terim olursa bir kenara not etmeniz ve
+
+okumanız bittikten sonra bunlar üzerine kısa bir araştırma yapmanızdır.
+
+Kitap
+yazılırken
+birçok
+karmaşık
+konu olabildiğince filtrelenmiş ve
+
+sadeleştirilmiştir. Yine de günlük hayatta kullanılmayan finansal terimler
+
+içerdiği
+için
+kafa karışıklığı yaratabilir. Kitapta kullanılan terimlerin
+
+açıklamalarına olabildiğince yer verdik ancak yine de kendi araştırmanız
+
+her zaman daha verimli olacaktır. En iyi öğretmen her zaman kişinin
+
+kendisidir.
+
+Kitapta kullanılan bütün resimler yüksek çözünürlükte eklenmiştir.
+
+Okurken fiyat grafikleri üzerine yapılan çizim ve yazıları yakınlaştırarak
+
+daha net görebilirsiniz.
+
+İyi okumalar dilerim.
+Yasal Uyarı
+Söz konusu eser Yiğit Kasapoğlu tarafından yazılmış, düzenlenmiş
+
+ve kendi adına ve hesabına satışa çıkarılmıştır. Esere 5956 sayılı Fikir
+
+ve Sanat Eserleri Kanunu uygulanmaktadır. Eser sahibinin yazılı izni
+
+olmadan
+söz
+konusu
+eserin
+kopyalanması,
+bastırılıp
+çoğaltılması,
+
+değiştirilip piyasaya sürülmesi veya herhangi başka bir şekilde üzerinde
+
+tasarruf edilip faydalanılması yasaktır. Bu şekilde bir faydalanma halinde
+
+eser sahibinin yasal hakları saklıdır. İzinsiz kullanım tespit edilirse yasal
+
+işlem başlatılacaktır.
+
+5
+
+--- Sayfa 6 ---
+Yatırım Nedir?
+En
+temel
+haliyle
+gelecekte
+kâr
+getirmesi
+beklentisiyle
+satın
+
+aldığımız
+taşınır
+ve
+taşınmaz
+malların,
+kaynakların
+ve
+değerlerin
+
+geneline yatırım deriz. Bu, yatırımın sözlükte bulabileceğiniz karşılığıdır.
+
+Bu
+kitapta
+bahsettiğimiz
+yatırımlar;
+hisse
+senetleri,
+kripto paralar,
+
+emtialar ve döviz üzerine yapılan işlemler gibi tamamen bilgisayar
+
+üzerinden
+yapılabilen
+yatırımlardır.
+Başlangıç
+olarak
+finansal
+
+piyasalardaki bazı yatırım seçeneklerine kısaca göz atalım.
+
+Piyasalar
+
+Tahvil - Bono
+Tahvilleri kısaca devletin ya da ticari bir kuruluşun ödünç para
+
+sağlamak amacıyla çıkardığı, yıllık belli faiz getiren ve alınıp satılabilen
+
+değerli kâğıt olarak tanımlayabiliriz. Baktığınız zaman bono ile tahvil
+
+arasında hiçbir fark yoktur. İkisi de Devlet İç Borçlanma Senedi (DİBS)
+
+olup bir yıldan kısa vadeli olanlar hazine bonosu, bir yıldan uzun vadeli
+
+olanlar ise devlet tahvili olarak geçer. Tahvil ve bonolar uzun vadeli faiz
+
+oranlarına dayalı olduğu için düşük risk ve düşük kazanç potansiyeline
+
+sahiptir. Bankalardan ve bankaların mobil uygulamalarında “yatırım”
+
+bölümünden kolayca alım-satım yapılabilir.
+
+Yatırım Fonları
+Yatırım
+fonlarına
+yatırım
+yaptığınız
+takdirde
+fonlar,
+kendi
+
+bünyelerinde hisse senedi, tahvil, bono, altın gibi araçlara sizin yerinize
+
+yatırım yaparak kar elde etmeye çalışır ve risk dağılımı yapar. Kısacası
+
+tek bir ürüne (fona) yatırım yapıp birçok sektörün gelir fırsatını elde etmiş
+
+ve işi profesyonellere bırakmış olursunuz. Tabii karşılığında elde ettiğiniz
+
+kârın bir kısmı da alınır. Bu fonlar orta risk ve orta kazanç potansiyeli
+
+sunar.
+
+6
+
+--- Sayfa 7 ---
+Hisse Senetleri
+Şirketlerin piyasaya sürdükleri hisse senetlerini satın alarak yurt içi
+
+veya
+yurt
+dışı
+piyasalardaki
+büyük
+şirketlere
+ortak
+olabilir
+ve
+
+kazançlarından temettü (kâr payı) elde edebilirsiniz. Türkiye’de Borsa
+
+İstanbul’a kayıtlı birçok şirketin hissesine bankalarda yatırım hesabı açıp
+
+mobil uygulamalarının yatırımlar bölümünden kolaylıkla ulaşabilirsiniz.
+
+Yabancı
+piyasalarda
+işlem
+yapmak
+için
+Türkiye’de
+bulunan
+
+bankaların çoğu işlem başına 10-30$ aralığında işlem ücreti almaktadır.
+
+Bu yüzden daha uygun fiyatlar sunan farklı aracı kurumları tercih
+
+edebilirsiniz. Hisse senetleri diğer seçeneklere göre orta risk ve orta
+
+kazanç potansiyeline sahiptir.
+
+Forex
+Forex piyasası uluslararası döviz çiftlerinin işlem gördüğü merkezi
+
+olmayan bir piyasadır. Yüzlerce parite çifti gün içinde gelişen ekonomik,
+
+siyasi ve politik olaylara bağlı olarak fiyat değiştirir ve yatırımcılar bu
+
+değişimlerden yararlanarak kar elde etmeye çalışır. Forex piyasalarında
+
+USD/TRY veya EUR/USD gibi döviz pariteleri olduğu gibi aynı zamanda
+
+petrol, şeker, doğal gaz ve altın gibi emtialar üzerinden işlem açmak da
+
+mümkündür. Örneğin siz Amerika siyasetini takip edip Trump’ın petrol
+
+fiyatları üzerine attığı bir tweete dayanarak petrol paritesinde alış işlemi
+
+açarak buradan kâr elde edebilirsiniz. Bu piyasaların en dikkat çeken
+
+noktası, yüksek kaldıraç oranları sayesinde küçük yatırımcılara fırsat
+
+yaratması ve çift taraflı işleme olanak sağlamasıdır.
+
+Kaldıraç
+sistemleri
+elinizdeki
+paranın 10 katı, 100 katı gibi
+
+meblağlarda işlem açabilmenizi sağlar. Örneğin 1000$ sermayesi olan
+
+bir trader, 10 kaldıraçlı işlem açarsa 10.000$ değerinde işlem yapabilir.
+
+Ancak bu sistem çok yüksek kâr getirdiği gibi çok yüksek zararlara da yol
+
+7
+
+--- Sayfa 8 ---
+açabilir. Yani kaldıraç sistemi çift taraflı bir bıçaktır. Bu özelliklerinden
+
+dolayı Forex piyasası diğer seçeneklere göre yüksek risk ve yüksek
+
+kazanç
+potansiyeli
+sunar.
+Türkiye’de
+2017’de
+yapılan
+Sermaye
+
+Piyasaları Kurulu düzenlemesinden sonra bazı yaptırımlar uygulamaya
+
+başlanmıştır.
+Bu
+yaptırımlar
+arasında
+50.000TL
+minimum
+yatırım
+
+gereksinimi ve kaldıraçların en fazla 1:10 olacak şekilde düşürülmüş
+
+olması en öne çıkanlardandır. Bu düzenleme Forex piyasasını 10 sene
+
+geriye tekrar merdiven altı çalışıldığı döneme atmıştır. Yine de Forex
+
+piyasalarında işlem yapmak istiyor ancak 50.000TL sermayeniz yoksa
+
+yurt
+dışında
+bulunan aracı kurumlara internet üzerinden erişebilir,
+
+yabancı platformlarda 10$ gibi meblağlarla bile işlem yapabilirsiniz. Bu
+
+aracı kurumlara örnek olarak Simplefx, IQ Options gibi seçenekler
+
+verilebilir. Ne kadar işlem yapmak için alt limit bulunmasa da bu gibi
+
+aracı kurumlarda denetim eksikliği olduğu için pek güvenli olmayabilir.
+
+Paranızı emanet etmeden önce iki kere düşünmekte ve iyi araştırma
+
+yapmakta fayda var.
+
+Kripto Para
+Kripto piyasası ise Bitcoin, Ethereum, Ripple gibi dijital para
+
+birimlerini
+içeren
+fazlasıyla
+değişken
+fiyat
+hareketleri
+görülen
+bir
+
+piyasadır. Diğerlerine göre yeni olan ve birçok ülke tarafından hala
+
+tanınmayan bu piyasanın regülasyon oranı da bir hayli düşüktür. Bu
+
+sebepten ötürü kripto piyasalarında 5$ gibi küçük meblağlarla bile
+
+yatırım yapabilirsiniz.
+
+10x-50x-100x seviyelerine kadar kaldıraç kullanabilir ve bir gün
+
+içinde diğer piyasalara oranla çok daha yüksek kârlara ulaşabilirsiniz.
+
+Tabii bu piyasalarda kârlı yatırım yapmak için kripto paralar ve teknoloji
+
+dünyasını yakından takip etmeniz aynı zamanda ileri seviyede teknik
+
+analiz bilgisine sahip olmanız gereklidir. Kripto piyasası yüksek risk
+
+içermesine
+karşı
+yüksek
+kazanç
+potansiyeline
+sahiptir.
+Yatırım
+
+seçeneklerimize kısa bir göz attığımıza göre artık asıl konumuza yani
+
+Trading’e geçebiliriz.
+8
+
+--- Sayfa 9 ---
+Trading Nedir?
+Trading kelimesi ingilizce bir kelime olup tam karşılığı “ticaret” veya
+
+“takas” olarak karşımıza çıkıyor. Bu durumda “Trader” da ticareti yapan
+
+kişi yani “Tüccar” olarak çevrilebilir. Ancak son yıllarda “Trader“ kelimesi
+
+ingilizceden dilimize olduğu gibi yerleşmeye başlamıştır.
+
+Hisse, Kripto Para veya Forex gibi farklı piyasalardaki finansal
+
+enstrümanları kâr amacıyla kısa süreli al-sat yapan kişilere Trader
+
+denir. Yapılan işlem benzer enstrümanlarda olsa bile bir yatırımcı ile
+
+trader
+arasında
+büyük
+farklar
+vardır.
+Yatırımcı
+kısa
+süreli
+fiyat
+
+hareketlerini önemsemez. Şirketlerin hisselerini alırken uzun yıllar elinde
+
+tutmayı hedefler. Yatırımcı hisse seçerken şirketlerin finansal tablolarını
+
+değerlendirir ve uzun süreçte en yüksek kâr potansiyeli olanları seçmeye
+
+çalışır.
+Şirketin
+güncel
+durumu,
+güvenilirliği,
+gelecekte
+yapmayı
+
+planladığı projeler gibi temel analizin içerdiği faktörler karar aşamasında
+
+önceliklidir. İyi bir yatırımcı olmak için kapsamlı finansal bilgi birikimine ve
+
+araştırma isteğine sahip olmalısınız. Kısacası bir yatırımcı, uzun vadede
+
+potansiyeli
+yüksek
+olan
+şirket
+hisselerini
+elinde
+tutarak
+servetini
+
+arttırmaya çalışır. Yatırımcılara en iyi örnek herhalde 84.2 Milyar Dolar
+
+serveti ile Warren Buffet olacaktır.
+
+Trader ise kısa ve orta vadeli fiyat dalgalanmalarından kâr elde
+
+etmeye odaklanır. Fiyatları inceleyerek avantajlı bölgelerden alım yapıp
+
+fiyat yükseldiğinde hızlıca satarak kârını alıp çıkar, arkasına bile bakmaz.
+Şirketin finansal tabloları, gelecek potansiyeli, güvenilirliği gibi faktörler
+
+bir trader için o kadar da önemli değildir çünkü hisseyi elinde uzun süre
+
+tutmayacaktır.
+Bu
+gibi
+faktörleri
+sadece
+fikir
+olması
+açısından
+
+değerlendirmek yeterli görülebilir. Traderlar yatırımcılara göre daha çok
+
+kâr potansiyeline sahip olsalar da aynı zamanda çok daha yüksek risk
+
+altına girerler.
+
+9
+
+--- Sayfa 10 ---
+Bir trader para kazanmak için sürekli stres altında doğru kararı
+
+vermek, sabırlı olmak ve disiplinli hareket etmek zorundadır. Aynı
+
+zamanda sürekli değişen ve gelişen piyasalarda başarılı olmak için iyi bir
+
+trader sürekli öğrenmeli ve gelişmelidir. Takip ettiği piyasada sürekli
+
+güncel kalmalı, yatırımcı davranışlarında ve dolayısıyla fiyatlarda oluşan
+
+her değişikliği fark edebilmelidir. Trader’ın başarısındaki en önemli faktör
+
+doğru zamanda doğru işlemi açmaktır. Kısaca trading, bir yetenekten öte
+
+bir sanattır bile diyebiliriz.
+
+Trader Türleri Nelerdir?
+
+Trader
+türünüzü
+bilmek,
+hangi konuda gelişmeniz gerektiğini
+
+anlamanız açısından çok önemli bir faktördür. Traderları işlem yaptıkları
+
+zaman aralıklarına göre 4 ana kategoriye ayırabiliriz.
+Bunlar;
+●Pozisyon Trader
+●Swing Trader
+●Day-Trader
+●Scalper
+Pozisyon Trader: Uzun vadede işleme giren, haftalık ve aylık fiyat
+
+grafiklere
+bakarak
+işlem
+yapan
+traderlardır.
+Genelde
+uzun
+süreli
+
+pozisyonlar ararlar. Kısa süredeki fiyat değişimleri onları ilgilendirmez.
+
+Uzun süreli trend takipçileri olarak bilinirler. Pozisyonlarını birkaç aydan
+
+birkaç yıla kadar tutabilirler. Pozisyon Traderlar diğer trader türlerine
+
+göre en uzun süre açık pozisyon tutanlardır ve genel olarak yılda birkaç
+
+işlem açarlar.
+
+10
+
+--- Sayfa 11 ---
+Stratejileri, ana trenddeki değişimleri olabildiğince erken farkedip
+
+başlayan
+trend
+yönünde
+işleme
+girmek
+ve
+trend değişene kadar
+
+pozisyonu tutmaya odaklıdır. Analiz yaparken aylık, haftalık ve günlük
+
+grafiklerden yararlanırlar. Makro-ekonomik faktörler, haberler, şirketlerin
+
+finansal durumu, gerçek değeri, gelecek potansiyeli gibi konular fiyat
+
+grafiklerinden öncelikli olabilir. Yatırım yapılan enstrümanın gerçek
+
+değerinin
+piyasa fiyatından daha yüksek olduğu inancıyla hareket
+
+ederler. Uzun süreçte yüksek kâr potansiyeli olan şirketlere yatırım
+
+yaparlar.
+
+Swing Trader: Orta vadede işleme giren traderlar Swing Trader olarak
+
+bilinir. Karar aşamasında ağırlıklı olarak teknik analiz kullansalar da
+
+haberler ve güncel gelişmelere dikkat ederler. Pozisyonları birkaç saat ile
+
+birkaç gün arasında açık kalabilir ve sadece haftada bir veya birkaç
+
+işlem yaparlar. En çok 2 saat, 4 saat ve 1 günlük grafiklerden
+
+yararlanırlar.
+
+Stratejileri, geçmiş destek ve direnç seviyelerinde oluşan fiyat
+
+formasyonlarından
+ve
+kısa-orta
+vadeli
+trend
+değişimlerinden
+kâr
+
+sağlamaya yöneliktir. Pozisyon Traderdan farklı olarak giriş fiyatı çok
+
+önemlidir. Kar sağlamak için avantajlı seviyelerden alım ve satım
+
+yapmaları gerekir.
+
+11
+
+--- Sayfa 12 ---
+Day-Trader: Adından da anlaşılacağı gibi günlük traderlardır. Yani gün
+
+içerisinde girdikleri işlem asla ertesi güne kadar açık kalmaz. İşlem
+
+süreleri birkaç dakika ile birkaç saat arasındadır. Genelde 4 saat, 2 saat,
+
+15 dakika
+ve 5 dakikalık grafiklerden yararlanarak karar verirler
+
+Neredeyse tamamen teknik analiz kullanırlar. İşlemleri kısa sürede düşük
+
+yüzdeler ile kâr bıraktığı için yüksek sayıda işleme girerler. Bu yüzden
+
+Day-Traderlar ya büyük sermaye ile işlem yapar ya da yüksek kaldıraç
+
+kullanmak zorundadır.
+
+Günde ortalama 3-4 işlem yaparlar. Stratejileri, kısa sürede kâr
+
+bırakacak, likiditesi yüksek enstrümanlarda pozisyon bulmaya yöneliktir.
+
+Hızlı karar almaları, kısa sürede işleme girip çıkmaları gerekmektedir. Bu
+
+yüzden Day-Trading, başlangıç seviyesindeki yatırımcılar için tavsiye
+
+etmediğimiz yüksek risk potansiyeline sahip bir türdür.
+
+Scalper: Trader türleri arasında en riskli olanıdır. Gün içerisinde yüksek
+
+meblağlar ile bir çok kısa süreli işlem yaparak kâr elde etmeye çalışırlar.
+
+1 dakika, 15
+dakika
+ve 1 saatlik grafiklerde fırsat yakalamaya çalışır,
+
+girdikleri işlemde en fazla birkaç dakika dururlar. Fırsat arayışlarında
+
+scanner adı verilen sürekli anlık olarak teknik verileri ve fiyat değişimini
+
+ölçen uygulamalardan yararlandıkları görülür.
+
+Bir scalper olmanın en önemli gerekliliği yüksek seviyede disiplin
+
+ve hızlı karar verebilme yeteneğidir. Anlık olarak işleme nereden girip
+
+nereden çıkacaklarını hesaplayıp ani kararlar ile hareket ederler. Diğer
+
+türlere göre çok daha soğukkanlı ve sistemli olmaları gerekir. Günde
+
+5-10 işlem yaptıkları görülür.
+
+12
+
+--- Sayfa 13 ---
+Trader türleri gördüğünüz gibi işlemlerin zaman aralığına göre
+
+farklılık gösteriyor. Sizin de ait olduğunuz türü seçip onun üzerine
+
+yoğunlaşmanız ve o türün stratejilerini öğrenmeniz yararlı olacaktır.
+
+Örneğin bir scalper ile swing trader aynı şekilde işlem yapmaz. Bu
+
+yüzden tek bir tür üzerine yoğunlaşmak hepsini aynı anda öğrenmeye
+
+çalışmaktan çok daha iyidir.
+
+13
+
+--- Sayfa 14 ---
+Analiz Yöntemleri
+
+Piyasalarda işlem yaparken doğru tahminlerde bulunmak için
+
+öncelikle analiz yapmayı öğrenmeliyiz. Analiz türleri Teknik Analiz ve
+
+Temel Analiz olarak iki ana başlığa ayrılır.
+
+Temel analiz hangi hisseyi alacağımızı; teknik analiz ise hangi
+
+fiyattan alacağımızı gösterir.
+
+Temel
+analiz
+yaparken
+haberler,
+gelişmeler,
+şirketlerin
+ve
+
+sektörlerin güncel durumu gibi bilgilerden yararlanarak nerede yatırım
+
+fırsatları olabileceğine odaklanırız. Teknik analizde ise tamamen hisse
+
+fiyatının
+ne
+yaptığına
+odaklanırız.
+Geçmişteki
+fiyat
+hareketlerinin
+
+gelecekte de tekrar edeceği prensibi ile hareket eder, avantajlı yatırım
+
+pozisyonları bulmaya çalışırız.
+
+Kendinizi ormanda ava çıkmış bir avcı gibi düşünün. Temel analiz
+
+sizin duyularınız, teknik analiz ise silahınızdır. Sadece ikisini bir arada
+
+doğru şekilde kullanarak hayatta kalabilirsiniz.
+
+14
+
+--- Sayfa 15 ---
+Temel Analiz
+
+Temel Analiz uygularken yukarıdan aşağıya analiz yaparız. Tüm
+
+dünyayı etkileyen gelişmelerden yani küresel pencereden başlayıp bakış
+
+açımızı küçülterek önce ülke çapında olayları daha sonra seçtiğimiz
+
+sektörü en son da hissesini alacağımız şirketi değerlendiririz. Bu yöntem
+
+daha geniş bir perspektifle olaya yaklaşmamızı sağlar ve kapsamlı bir
+
+yaklaşım olduğu için başarı oranımızı arttırır. Temel analizde başarılı
+
+olmanın yolu sürekli güncel kalmak ve çevremizdeki olayların piyasaları
+
+nasıl etkileyeceğini doğru tahmin etmekten geçer.
+
+1. Küresel: İlk adımda global gelişmeler ve siyasal durum göz önünde
+
+bulundurulur. Tüm piyasaları etkileyecek haberler değerlendirilir ve işlem
+
+yapacağımız piyasaya nasıl bir risk teşkil edeceği hesaplanır. Örneğin
+
+ABD
+Başkanının açıklamaları, savaşlar veya doğal afetler olabilir.
+
+Kısacası ilk adımda küresel ekonomik ve siyasi durumu gözümüzde
+
+canlandırırız.
+
+2. Bölgesel: Daha sonra bir adım daha ilerleyerek işlem yapacağımız
+
+piyasanın bağlı olduğu ülke hakkında araştırmaya geçeriz. Örneğin
+
+BİST100’de işlem yapacaksak Türkiye’nin güncel ekonomik, siyasal ve
+
+toplumsal durumu hakkında bilgi edinmeye odaklanırız. Başbakanın
+
+açıklamaları, bölgesel istatistiki veriler, politik olaylar gibi konulara
+
+bakarız.
+
+15
+
+--- Sayfa 16 ---
+Makro-ekonomik Göstergeler
+Ülkelerin ekonomi ve siyaset haberlerinin yanı sıra belirli aralıklarla
+
+güncellenen istatistiksel verileri de göz önünde bulundurmalıyız. Bu
+
+veriler ülkenin güncel durumunu sayılara yansıtarak geçmişe göre nasıl
+
+bir noktada olduğumuzu değerlendirmemizde kolaylık sağlar.
+●İşsizlik seviyesi
+●Tarım dışı istihdam
+●Haftalık işsizlik başvuru oranı
+●Tüketici güven endeksi
+●ISM satın alma yöneticileri raporu
+●Enflasyon oranları
+●Kişisel gelir ve harcamalar
+●Gayrisafi milli hasıla (GSMH-GDP)
+●Sanayi üretimi verileri
+●Ticaret açıkları
+●Emlak sektörüne ilişkin veriler
+
+Bu
+gibi
+veriler,
+ülkelerin
+gidişatını
+anlamamız
+adına
+en
+iyi
+
+kaynaklardandır
+ve
+düzenli
+olarak
+güncellenen
+verilerdir.
+İşlem
+
+yapacağımız ülke dışında tüm piyasaları etkileyen ülkeleri de takip
+
+etmemiz
+doğru
+algıyı
+yakalamamız
+açısından
+yardımcı
+olacaktır.
+
+Özellikle Amerika, Euro bölgesi, Çin ve Japonya gibi küresel etkisi
+
+yüksek olan ülkelerin verilerini takip etmek gerekir.
+
+Bahsettiğimiz veriler arasında en önemlisi ABD yerel saati ile
+
+sabah 8.30’da Cuma günleri açıklanan tarım dışı istihdam verileridir.
+Yatırımcıların büyük kısmı hareket etmeden önce bu verilere bakar.
+
+Tarım dışı istihdam verisi artış gösterdiği takdirde ülkede daha fazla
+
+insanın iş gücüne katıldığı görülür ve dolayısıyla daha fazla üretim ve
+
+tüketim olacağını gösterir, pozitif bir sinyaldir ve yükseliş beklenir. Gelen
+
+veri beklenenden düşük çıkarsa daha az üretim ve tüketim beklendiği
+
+için negatif sinyaldir ve düşüş beklenir.
+Her ülkenin gelen verisini çılgınlar gibi takip etmek biraz zor olur,
+
+bize kolay yol göster diyorsanız sadece belli önemli raporları takip
+
+16
+
+--- Sayfa 17 ---
+etmeniz güncel kalmanız için yeterli olacaktır. ABD verilerinin yanında
+
+takip etmenizi önerdiğim birkaç önemli rapor var.
+Bunlar;
+●Çin satın alma yöneticileri ve sanayi endeksleri
+●Euro Bölgesi satın alma ve imalat raporları
+●Çin sanayi üretim ve emlak sektörü raporları
+●Almanya sanayi üretim ve IFO iş dünyası endeksleri
+Bu
+verilere
+https://tr.investing.com/economic-calendar/
+gibi
+
+ekonomik takvim* servisi sağlayan sitelerden ulaşabilirsiniz.
+
+3. Sektörel: Bölgesel araştırma sonrasında yatırım yapacağımız sektöre
+
+yönelik haberlere ve gelişmelere odaklanırız. Örneğin VakıfBank hissesi
+
+alacaksak banka sektörüne, Zorlu hissesi alacaksak enerji sektörüne
+
+odaklanırız. Sektör analizi sürecinde soru cevap şeklinde ilerlemek
+
+yararlı olabilir.
+Örneğin; “Banka sektörü ekonomik dalgalanmalardan ne kadar
+
+etkileniyor, banka sektörü diğer sektörlere göre nasıl bir konumda, hangi
+
+sektör revaçta, hangi sektör düşüyor, küresel alanda Türkiye’nin banka
+
+sektörü nasıl bir konumda?” gibi sorular ile analizimizi derinleştirebiliriz.
+
+Sektör seçiminde hava durumu dahil her türlü güncel gelişmeyi göz
+
+önünde bulundurmak yararlı olur. Mesela yaz aylarında turizm sektörü
+
+popülerleşeceği için yaz gelmeden bu sektördeki hisseleri araştırıp
+
+yatırım yapmak sonradan kâr elde etme fırsatı oluşturacaktır.
+
+4. Şirket: Sektörümüzü seçip araştırmamızı tamamladıktan sonra ilgili
+
+sektördeki şirketleri değerlendirmeye başlarız. Öne çıkan şirketleri seçip
+
+her biri hakkında araştırma yapmaya başlarız. Bu süreçte öncelikle hisse
+
+sahibi şirketin internet sayfasını incelemeli, hakkında çıkan haberlere
+
+bakmalısınız. Şirketin sektördeki pozisyonu, medyaya yansıyan rolü ve
+
+güncel gidişatı ile ilgili fikir edindikten sonra araştırmanızı daha da
+
+derinleştirip finansal tablolarını incelemeye başlayabilirsiniz.
+
+17
+
+--- Sayfa 18 ---
+Finansal tablolara bakarken şirketin;
+●Bilançosu
+●Gelir tablosu
+●Nakit akışı
+●Likidite oranları
+●Faaliyet oranları
+●Kârlılık oranları
+gibi
+verileri
+analiz
+edip
+şirketin
+geçmiş
+verileri
+ve
+rakipleri
+ile
+
+karşılaştırmak güncel konumu hakkında fikir edinmemizi sağlar. Bu
+
+verilere genelde şirketlerin kendi internet sitelerinden ulaşılabildiği gibi
+
+önceki adımda bahsettiğimiz tr.investing.com gibi ekonomi sitelerinden
+
+de kolayca ulaşılmaktadır.
+
+Temel analiz ile hangi hisseyi alıp satacağımızı seçtikten sonra
+
+analizimizi
+derinleştirmek
+ve
+potansiyel
+giriş
+ve
+çıkış
+seviyelerini
+
+belirlemek için “teknik analiz” kısmına geçeriz.
+
+18
+
+--- Sayfa 19 ---
+Teknik Analize Giriş
+
+Yatırıma
+teknik
+açıdan
+yaklaşmak,
+fiyatların
+trendler
+halinde
+
+hareket ettiği fikrini kabul etmekle başlar. Bu trendler yatırımcıların
+
+ekonomik, parasal, politik ve psikolojik olaylara verdikleri tepkiler ile
+
+şekillenir.
+
+Teknik analizin amacı; fiyatın yönünü en erken evrede belirleyip trend
+
+doğrultusunda
+kâr
+sağlayacak
+bir
+yatırım
+pozisyonu
+almak
+ve
+
+analizlerimiz
+trendin
+değiştiğini
+söyleyene
+kadar
+bu
+pozisyonu
+
+korumaktır.
+
+Teknik
+analiz
+genelde
+farklı
+kaynaklarda
+“geçmişteki
+fiyat
+
+hareketlerine bakarak fiyatın gelecekteki yönünü tahmin etmek” şeklinde
+
+açıklanmaktadır ancak bu kaynakların iddia ettiğinin aksine teknik analiz
+
+bir
+fal
+yöntemi
+değildir.
+Sadece
+fiyatın
+geçmiş
+hareketlerini
+
+incelememize ve olası her duruma hazırlıklı olmamızı sağlayacak akılcı
+
+bir strateji geliştirmemize yardımcı olan matematik ve istatistiğe dayalı bir
+
+analiz şeklidir. Yatırım stratejisinin başarı oranını arttırmak için temel ve
+
+teknik analiz bir arada kullanılmalıdır.
+
+19
+
+--- Sayfa 20 ---
+Grafiklere Nasıl Ulaşırız?
+
+Teknik analiz uygulamak için öncelikle aktif bir grafik programına
+
+ihtiyaç vardır. Bunun
+için yatırım şirketleri kendi platformlarında canlı
+
+grafikleri
+görebileceğiniz
+servisler
+sunar.
+Öte
+yandan
+profesyonel
+
+traderların Matriks, Meta Trader, Ninja Trader gibi trade programları da
+
+kullandığı görülür.
+
+Bu
+programların
+bir
+kısmı
+ücretli
+veya
+fazladan
+kurulum
+
+gerektirmektedir.
+Bu
+yüzden
+alım
+satım
+işlemlerimizi
+yatırım
+
+platformlarından yapsak bile analizler için tr.tradingview.com sitesi gibi
+
+daha kolay ulaşılabilen ve hızlı platformlardan yapmak başlangıçta
+
+işimizi kolaylaştırır. Kitabın devamında tüm örnekler bu site üzerinden
+
+yapılacaktır ancak diğer platformları da deneyip size en uygun olanı
+
+bulmanız yararlı olacaktır.
+
+Tradingview’e Kayıt = tr.tradingview.com
+
+Linke tıkladıktan sonra ücretsiz üye olun butonuna basarak siteye kayıt
+
+olabilirsiniz. Bu platform tamamen ücretsizdir. Talep ederseniz uygun
+
+fiyatlarda premium özellikleri de vardır ancak başlangıçta pek ihtiyaç
+
+duymazsınız.
+
+20
+
+--- Sayfa 21 ---
+Kaydınızı gerçekleştirdikten sonra karşınıza çıkan ana sayfadan
+
+grafik butonuna basarak canlı grafik platformuna geçebilirsiniz.
+
+Sonrasında karşınıza çıkan grafik aşağıdaki gibi olacaktır.
+
+21
+
+--- Sayfa 22 ---
+Sol taraftaki çubuk üstünde çizim yaparken kullanacağımız trend
+
+çizgisi,
+yatay
+çizgi
+gibi
+araçlar vardır. Üst tarafta grafiğin türünü
+
+(çizgi,mum çubuğu), göstergeleri ve zaman aralığını belirleyebileceğiniz
+
+butonlar bulunmaktadır.
+
+22
+
+--- Sayfa 23 ---
+Son olarak ekranınızın sağ tarafında kalan bu grafiğin en üstünde
+
+bulunan sembol ekle yazısına istediğiniz hisse, parite veya endeksin
+
+kodunu yazarak listeye ekleyebilirsiniz. Bu listeden grafiklere ulaşmak
+
+çok daha kolaydır.
+
+23
+
+--- Sayfa 24 ---
+Teknik Analizin Prensipleri
+
+1.Tarih Kendini Tekrar Eder
+Bu
+kural
+temel
+ve
+teknik
+analizi
+birbirinden
+ayıran
+yegane
+
+kurallardan
+biridir.
+Temel
+analist
+piyasaların
+sürekli
+değiştiğini,
+
+yatırımcıların tepkilerinin gelişen siyasi ve ekonomik olaylara göre
+
+değişerek şekillendiğini varsayar. Teknik analist ise fiyatin geçmişte
+
+yaptığı hareketleri gelecekte de tekrar edeceğini varsayarak hareket
+
+eder.
+
+2. Güncel fiyat olası tüm bilgileri içerir
+Dow Teorisinde de göreceğimiz bu prensip basitçe bir hissenin
+
+güncel fiyatının o hissenin geçmiş verilerini ve haberlerini, yatırımcıların
+
+gelecek
+beklentilerini
+ve
+şu
+anda
+bulunduğu
+durumu
+tamamen
+
+yansıttığını savunur.
+
+3. Fiyatlar trendler halinde hareket eder
+Fiyatlar en azından belirli ve anlamlı bir süre boyunca trendler
+
+halinde hareket eder. Arada küçük dalgalanmalar yaşansa bile fiyat, aksi
+
+yönde sinyaller gelmedikçe ana trendi takip edecektir.
+
+24
+
+--- Sayfa 25 ---
+Dow Teorisi
+Dow Jones şirketinin kurucusu ve The Wall Street Journal’ın
+
+editörü Charles Dow, 1900-1902 yılları arasında yayınladığı makalelerin
+
+derlemelerinden Teknik Analizin temeli olan Dow Teorisi’ni yaratmıştır.
+
+Dow Teorisi 6 kuraldan oluşur.
+Bunlar;
+1. Fiyat tüm faktörleri kapsar.
+2. Fiyatlar trendler halinde hareket eder.
+3. Ana trendler 3 aşamadan oluşur.
+4. Piyasa göstergeleri ile fiyatlar birbirlerini doğrulamalıdır.
+5. İşlem hacmi trendi onaylamalıdır.
+6. Trendin değiştiğine yönelik güçlü sinyaller alınana kadar mevcut
+
+trend devam eder.
+
+1. Fiyat Tüm Faktörleri Kapsar
+Güncel fiyat; piyasanın arz ve talebini, geçmişte ve şu anda
+
+bulunan verileri, yakın zamanda çıkan haberleri, yatırımcıların gelecek
+
+için beklentilerini yani olası tüm faktörleri yansıtır.
+
+“Teknik analist, temel analizin içerdiği politik, ekonomik, psikolojik
+
+veya siyasi olarak fiyatı etkileyen her bir faktörün hali hazırda çoktan
+
+fiyata yansıdığına inanır. Bu yüzden yalnızca fiyatları izlemek piyasada
+
+ne olup bittiğini anlamak için fazlasıyla yeterlidir. Bu görüş başta
+
+küstahça gelse de üzerine biraz düşününce, son derece mantıklı
+
+olduğunu anlayacaksınız.”
+                                                                          John J. Murphy
+
+Teknik
+Analistler
+ve
+Temel
+Analistler
+arasında
+tarih
+boyu
+
+sürtüşmeler yaşanmıştır ancak iki analiz türünü de bir arada kullanmak
+
+başarı oranını fazlasıyla arttırır.*
+
+25
+
+--- Sayfa 26 ---
+2. Fiyatlar Trendler Halinde Hareket Eder
+Yatırımcıların beklentilerini değiştirecek önemli bir olay olana kadar
+
+fiyatın küçük oynamalar haricinde belirli bir yönde ilerlemesine trend
+
+denir. Talebin arzdan fazla olduğu yani alıcıların satıcılardan güçlü
+
+olduğu döneme “boğa piyasası” denir ve fiyatlar yükselme eğilimindedir.
+Arzın talepten fazla olduğu, satıcıların güçlü olduğu döneme ise
+
+“ayı piyasası” denir ve fiyatlar düşme eğilimindedir. Arz ve talebin
+
+dengelendiği, alıcılar ve satıcılar arasında baskın taraf olmayan döneme
+
+de “yatay trend” denir. Fiyatların arka arkaya durmaksızın aynı yönde
+
+ilerlemesine ise ralli denir.
+
+3. Trendler 3 Aşamadan Oluşur
+
+Birincil (Major) trend en büyük trenddir ve hissenin ana yönünü
+
+gösterir. Genelde 1-3 yıl arası sürer.
+İkincil
+(Secondary)
+trend
+ise
+ana
+trendin
+tersi
+yönünde
+oluşan
+
+düzeltme hareketleridir. İkincil trendler genelde bir veya birkaç ay
+
+sürebilir.
+Küçük (Minor) trendler ise birkaç gün veya birkaç hafta süren kısa
+
+vadeli
+trendlerdir.
+Dow
+tarafından
+küçük
+trendler
+“anlamsız
+fiyat
+
+hareketleri” olarak tanımlamıştır. Kısa vadeli oldukları için manipülasyona
+
+maruz kalabilmektedirler.
+
+4. Piyasa Göstergeleri ile Fiyat Birbirini Doğrulamalıdır
+Endeksler ve göstergeler, fiyat ile aynı yönü göstermelidir. Piyasa
+
+ortalamaları ve fiyat aynı yönde ilerleyerek yöne onay vermelidir. Ya da
+
+endeksler üzerinden örnek vermek gerekirse metal endeksi yükselirken
+
+sanayi endeksinin aşağı yönlü hareket etmesi anormal bir durum olarak
+
+değerlendirilmelidir. Çünkü metal ve sanayi şirketleri yakından ilgilidir, bu
+
+sebeple ters yönlü hareketin uzun sürmemesi beklenir. Normal seyreden
+
+bir piyasada bu iki endeks aynı yönü göstermelidir.
+
+5. İşlem Hacmi Trendi Onaylamalıdır
+Fiyat
+hareketlerinin
+yetersiz
+kaldığı
+durumlarda
+işlem
+hacmi
+
+seviyelerine bakılır. Yukarı yönlü bir trendde fiyat artarken hacim de fiyat
+
+26
+
+--- Sayfa 27 ---
+ile birlikte artmalıdır. Eğer ki fiyat artmasına rağmen hacim düşüyorsa bu
+
+artış “onaysız” olarak değerlendirilir ve dikkatli olunmalıdır.
+
+*İşlem hacmi borsada o gün gerçekleştirilen toplam işlemlerin parasal
+
+karşılığıdır. Mesela bir hisse senedine 100$’dan 50.000 adet alım-satım
+
+emri gerçekleşmişse, hacim 100x50.000’den 5.000.000 işlem hacmi
+
+olarak hesaplanır. Bu verilere kolayca ulaşmak için hacim (volume)
+
+göstergesi kullanılır.
+6. Trendin değiştiğine yönelik güçlü sinyaller alınana kadar mevcut
+
+trend devam eder
+Mevcut trendin değiştiğine yönelik aynı anda hem fiyat hem de
+
+göstergelerden onay gelmesi gibi güçlü sinyaller oluşana kadar olağan
+
+trendin devam ettiği ilkesi ile hareket edilir.
+Grafik Türleri
+Analiz sürecimizde fiyat grafikleri, indikatörler ve formasyonlar gibi
+
+bir çok farklı araçtan yararlanırız. İlk ve en önemlisi fiyat grafikleridir.
+
+Grafikleri okumak başta biraz karmaşık ve göz korkutucu gelebilir ancak
+
+mantığını kavradığınız zaman kitap okur gibi grafik okuyabilir, “Neden
+
+daha önce öğrenmemişim bunu?” diyerek kendinize kızabilirsiniz.
+
+Aslında grafikleri okumak, indikatörleri anlamak ve formasyonları
+
+görmek çok kolaydır. İşin zor kısmı bunları bir arada değerlendirip doğru
+
+kararı vermektir.
+
+Eskiden
+borsalarda
+bilgisayar
+teknolojileri
+yokken
+borsacılar
+
+fiyatları günlük olarak defterlerine yazar, tekrar eden sayıları not eder ve
+
+bu şekilde kendilerine alım-satım stratejileri oluştururdu. Her gün işlem
+
+yapacağı hissenin açılış, kapanış, yüksek ve düşük fiyatlarını teker
+
+teker not eder, binlerce sayfa dolusu sayıyı karşılaştırıp kendini tekrar
+
+eden sayılar arasından destek/direnç seviyesi, aylık ortalamalar gibi
+
+verilere ulaşırlardı. Günümüzde teknolojinin gelişmesiyle birlikte bu
+
+verilere kolayca ulaşmamızı sağlayan grafik platformları ortaya çıktı.
+
+27
+
+--- Sayfa 28 ---
+Fiyat grafiklerinin bir çok farklı türü olsa da en yaygın kullanılan üç grafik
+
+türü çizgi, çubuk ve mum grafikleridir.
+
+Aşağıda Turkcell(TCELL) hissesinin 2016-2017 zaman aralığını
+
+temsil eden 1 günlük fiyat grafikleri vardır. Her grafik tamamen aynıdır
+
+ancak farklı çizim türlerindedir.
+
+Çizgi Grafiği
+
+Çizgi grafiği en eski grafik türlerindendir. Alt sütun tarihleri, sağdaki
+
+sütun fiyat seviyesini temsil eder. Günlük grafikten baktığımıza göre
+
+çizginin her bir hareketi o günün kapanış fiyatını göstermektedir. Diğer
+
+grafik türlerinden farklı olarak çizgi grafiğinde o günün kapanış verisine
+
+sahip olsak da açılış,yüksek veya düşük gibi verilere ulaşamadığımız için
+
+diğerlerine göre eksik bilgi verir. Yine de destek, direnç seviyelerini
+
+belirlerken birçok trader güvenilirliğinden dolayı hala bugün bile çizgi
+
+grafiği kullanmaktadır.
+28
+
+--- Sayfa 29 ---
+Çubuk Grafiği
+
+Çubuk grafikleri çizgi grafiklerinden farklı olarak yüksek, düşük,
+
+açılış ve kapanış verilerine sahiptir. Çizginin en üst noktası günlük en
+
+yüksek fiyatı, en alt noktası günlük en düşük fiyatı belirtir. Çubuğun yan
+
+tarafında oluşan çizgiler ise günlük açılış ve kapanış verilerini içerir. Açık
+
+renkli
+çubuklar
+fiyatın
+kapanış
+fiyatının
+açılış
+fiyatından
+yüksekte
+
+olduğunu, koyu renkli çubuklar ise kapanış fiyatının açılış fiyatından
+
+düşük olduğunu gösterir.
+
+29
+
+--- Sayfa 30 ---
+Mum Çubuğu Grafiği
+
+Mum çubuğu grafikleri ise 18.yy’da Munahisa Homma tarafından
+
+Japonya’da bulunmuştur. İlerleyen zamanlarda Steve Nison tarafından
+
+yazılan “Japanese Candlestick Charting Techniques” adlı eser ile
+
+batıya da yayılan mum çubukları günümüzde en çok kullanılan grafik
+
+türüdür.
+
+Mum çubuğu grafiklerinde her bir mum baktığınız grafiğin zaman
+
+diliminde oluşan fiyat hareketlerini yansıtır. Mesela yukarıdaki grafik 1
+
+günlük fiyat grafiği olduğu için her bir mum 1 günü temsil eder. Eğer 4
+
+saatlik grafiğe bakıyor olsaydık her bir mum 4 saati temsil edecekti.
+
+Aynı çubuk grafikleri gibi açık renkli (yeşil) olanlar kapanış
+
+fiyatının açılış fiyatından yüksekte olduğunu yani fiyatın yükseldiğini;
+
+koyu renkli olanlar (kırmızı) ise kapanış fiyatının açılış fiyatından düşük
+
+olduğunu yani fiyatın düştüğünü gösterir.
+
+30
+
+--- Sayfa 31 ---
+Bu açılış ve kapanışlar borsaların çalışma saatlerinde gerçekleşir.
+
+Örneğin Borsa İstanbul çalışma saatleri 09:45 - 18:00 arasıdır. Bu
+
+durumda 18:00’da günlük müm kapanışı gelirken ertesi gün 09:45’de
+
+günlük mum açılışı gelir.
+
+Forex piyasaları hisselerden farklı olarak 5/24 açıktır sadece hafta
+
+sonları kapanır. Kripto piyasalarının ise Türkiye’de günlük mum kapanışı
+
+03.00 olsa da 7/24 açık piyasalardır.
+
+Mumların alt ve üst taraflarındaki çizgilere fitil veya gölge denir.
+
+Renkli kısımlar ise gerçek gövde diye bilinir. Üst çizginin uç noktası
+
+günlük en yüksek fiyatı, alt çizginin en alt noktası ise günlük en düşük
+
+fiyatı temsil eder.
+
+Mum
+çubuklarında
+çizgi
+grafiğinden
+farklı
+olarak
+şu verilere
+
+ulaşabilirsiniz;
+Açılış: Hissenin günlük açılışta işlem gördüğü ilk fiyat
+Kapanış: Hissenin günlük kapanışta işlem gördüğü son fiyat
+Yüksek: Gün içinde hissenin işlem gördüğü en yüksek fiyat
+Düşük: Gün içinde hissenin işlem gördüğü en düşük fiyat
+
+31
+
+--- Sayfa 32 ---
+Piyasa Oyuncuları
+Boğalar ve Ayılar
+Piyasalarda iki tür oyuncu vardır; alıcılar (buyers) ve satıcılar
+
+(sellers). Bazı piyasalarda bunlara üçüncü bir tür daha eklenir, bu da
+
+açıktan satanlardır (short sellers). Alıcılara boğalar ve satıcılara ayılar
+
+denir. Alıcılar, alış gücünü yükseltirken satıcılar ve açığa satışçılar
+
+tamamen satış gücünü yükseltir. Zihnimizde görselleştirmek istersek,
+
+fiyat hareketlerini satıcıların ayı, alıcıların ise boğa olduğu bir savaş
+
+olarak düşünebiliriz.
+
+En basit şekliyle; ayılar boğalardan güçlü olursa fiyat düşer,
+
+boğalar ayılardan güçlü olursa da fiyat yükselir. Uzun süren yükseliş
+
+piyasalarına alıcılar güçlü olduğu için boğa piyasası, uzun süren düşüş
+
+piyasalarına da satıcılar güçlü olduğu için ayı piyasası denir.
+
+Boğalar hisseleri alırken fiyatın gelecekte yükseleceği ve yükseldiği
+
+zaman hisseleri satarak kâr elde edecekleri beklentisiyle işleme girer. Bu
+
+kişiler, eğer fiyat istediği seviyenin altına düşerse de elindeki hisseleri
+
+zarar ederek satar. Bu önceden ayarlanmış bir stop (zarar durdurma)
+
+noktasında olabilir. Dolayısıyla bugün boğa olan bir kişi gelecekte satış
+
+yaparak ayıya dönüşür.
+32
+
+--- Sayfa 33 ---
+Bunun yanı sıra, bazı marketler açıktan satış yapmaya izin verir.
+
+Açıktan satanlar hisseleri, gelecekte fiyatın düşeceğini umarak, ödünç
+
+alır ve gelecekte hisseyi fiyat ne yönde giderse gitsin satın alacağının
+
+sözünü verir. Eğer fiyat umduğu gibi aşağıya inerse düşük fiyattan alış
+
+yapacağından dolayı kazançlı çıkar ancak fiyat yukarı çıkarsa alışı
+
+zararda yapmak zorunda kalır.
+
+Bunu ters bir alım işlemi gibi düşünebiliriz; normalde kişi önce
+
+alım yapıp fiyat yükselince elindekini satarken burada kişi gelecekte
+
+alacağı hissenin satışını önceden yapar ve sonraki fiyata göre çoktan
+
+sattığı hisseyi daha sonra satın alır. Dolayısıyla bugünün açıktan satanı
+
+geleceğin alıcısı haline gelir. Açıktan satış kısaca fiyatın düşeceği
+
+yönünde bir tahminde bulunmaktır. Eğer fiyat tahmin ettiğinizin aksine
+
+yükselirse zarar edersiniz.
+
+33
+
+--- Sayfa 34 ---
+Destek ve Direnç Bölgeleri
+Fiyat döngüsünde alıcıların ve satıcıların güçlü oldukları bazı
+
+destek ve direnç bölgeleri  vardır.
+
+Direnç bölgeleri satıcıların yani ayıların güçlü oldukları bölgelerdir.
+
+Satış baskısı yüksek olduğu için fiyat bu direnç bölgelerinde yükselmekte
+
+zorlanır.
+
+Destek bölgelerinde ise alıcılar güçlüdür. Alış baskısı daha yüksek
+
+olduğu için fiyat bu bölgelerden yükseliş gösterebilir.
+
+Bu konuda bilinmesi gereken en önemli nokta destek ve direnç
+
+bölgeleri
+dinamiktir.
+Yani
+bir
+destek
+kırılırsa
+direnç
+bölgesine
+
+dönüşür. Aynı şekilde bir direnç kırılırsa destek olur.
+
+34
+
+--- Sayfa 35 ---
+Güçlü bir direnç veya destek kırıldığında fiyat genişleme evresine
+
+geçer ve yeni direnç veya destek seviyesi bulunana kadar kırılma
+
+yönünde ralli yani hızlı bir hareket başlar.
+
+Profesyonel
+yatırımcılar
+bazı
+durumlarda
+bu
+destek-direnç
+
+seviyelerini kırılmış gibi göstererek amatör yatırımcılara tuzak kurar. Bu
+
+tuzaklara boğa tuzağı ve ayı tuzağı denir. Tuzakların amacı amatör
+
+yatırımcıyı piyasanın tersinde bırakıp zarar etmesini sağlamaktır. Bu
+
+yüzden bir direnç veya destek kırıldıktan sonra onay gelmeden işlem
+
+yapmamak akıllıca olur.
+
+35
+
+--- Sayfa 36 ---
+Dip ve Tepe
+Fiyatın ortalamanın fazlasıyla üstünde veya altında hareket etmesi
+
+sonucunda oluşan mum çubukları ekstrem mum olarak değerlendirilir.
+
+Genelde bu mumlar fiyatın dip veya tepe oluşturduğunu gösterir.
+
+Ekstrem mumun bulunduğu zaman diliminde fiyat diğer mumlara göre
+
+çok
+fazla
+değişiklik
+göstermiştir.
+Bu
+değişim
+sonucunda
+alıcı
+ve
+
+satıcıların arasındaki güç dengesi değişmiş olabilir.
+
+Tepe ve dip seviyeleri fiyatın geçmiş destek, direnç seviyelerine ve
+
+güncel trende göre nasıl bir konumda olduğunu anlamamızı sağlar.
+
+Örneğin bir düşüş trendinde yeni oluşan tepe bir önceki tepeden yüksek
+
+ise fiyatta trend değişiyor olabilir. Ya da tam tersi şekilde bir yükseliş
+
+trendindeyken fiyat yeni bir dip oluşturursa ve bu dip bir öncekinden
+
+aşağıdaysa yükseliş trendi güç kaybediyor ve değişim yaklaşıyor olabilir.
+
+36
+
+--- Sayfa 37 ---
+Yeni oluşan dipler ve tepeler bize olası destek - direnç seviyeleri
+
+hakkında da güçlü ipuçları verir.
+
+Bu dip ve tepelerden yatay destek - dirençler ve trend çizgileri
+
+çekerek
+piyasa
+oyuncularının
+gelecekte
+tepki
+verme
+ihtimali
+olan
+
+bölgeleri bulabiliriz.
+
+37
+
+--- Sayfa 38 ---
+Trend Türleri
+
+Fiyat
+hareketlerini
+izlemenin
+yegane
+amacı
+oluşan
+trendi
+
+olabildiğince erkenden fark edip doğru yönde işleme girmektir. Buna en
+
+temel
+haliyle
+trend
+takibi
+yöntemi
+denir.
+Tarihte
+bilinen
+başarılı
+
+yatırımcıların büyük kısmı trend takipçileri arasından çıkmaktadır.
+
+Analize başlarken öncelikle sormanız gereken ilk soru şu;
+
+“Trend ne yönde ilerliyor?”
+
+Bu sorunun cevabını anlamak için “trend” kelimesini açıklayalım.
+
+Teknik
+analizde
+trend
+kelimesi
+fiyatların
+hangi
+yöne
+eğilimli
+
+olduğunu belirtmek için kullanılır. Fiyatlar 3 yönde hareket edebilir
+
+dolayısıyla 3 trend türü vardır.
+Bunlar;
+●Yükseliş Trendi
+●Düşüş Trendi
+●Yatay Trend
+38
+
+--- Sayfa 39 ---
+Yükseliş Trendi (Boğa Trendi)
+
+Yükseliş trendi aynı zamanda boğa trendi olarak da bilinir.
+
+Yükseliş trendinde alıcılar satıcılardan daha güçlüdür bu yüzden doğal
+
+olarak fiyat periyodik olarak yükselir. Fiyat grafiğine baktığınızda art
+
+arda yükselen dalga dipleri ve tepeleri görürsünüz, bunlara kısaca
+
+yüksek dip (YD) ve yüksek tepe (YT) deriz. Yükseliş trendinde dalga
+
+diplerinden çizilen destek çizgisi fiyatın eğilimini görmemizde yardımcı
+
+olur.
+Dalga dipleri ve tepelerini ilerleyen bölümlerde daha detaylı
+
+inceleyeceğiz ancak şu anda yükseliş trendine örnek olması amacıyla
+
+aşağıdaki fiyat grafiğine bir bakalım.
+39
+
+--- Sayfa 40 ---
+Grafik MGROS hissesinin Şubat 2017 - Eylül 2017 tarihleri arasını
+
+gösterir.
+
+Yukarıda gördüğünüz Migros örneğinde hisse fiyatı Mart ayının
+
+başında 20TL seviyesinde ilk defa yüksek dip (YD) yaparak yükseliş
+
+trendi sinyali vermiştir. Takip eden günlerde trend devam etmiş Nisan
+
+sonunda 22TL ve Temmuz ayının başında 27TL seviyelerinde ard arda
+
+yüksek dip (YD) yapmıştır.
+Yükseliş trendini fiyatın periyodik olarak yüksek dip (YD) ve
+
+yüksek tepe (YT) yapması şeklinde açıklayabiliriz.
+
+Örnekte de gördüğünüz gibi yeni bir düşük dip (DD) veya düşük
+
+tepe
+(DT) oluşana kadar fiyat yükseliş trendinde sayılır. Trendler
+
+değişirken iki tür fiyat hareketi oluşabilir.
+
+40
+
+--- Sayfa 41 ---
+Birinci Tür Trend Değişimi
+
+Birinci
+tür
+trend
+değişiminde
+fiyat
+son
+dalgalanmada önceki
+
+destekten
+yükselişe
+geçer
+ancak
+alıcılar güç kaybettiği için fazla
+
+yükselemez. Bunun sonucunda düşük tepe (DT) yapar. Desteğe bir
+
+daha dokunduğunda destek kırılır ve düşüş trendi başlar.
+
+İkinci Tür Trend Değişimi
+
+İkinci tür trend değişimi ise bir anda olan düşüşler ile gerçekleşir.
+
+Fiyat hiç sinyal vermeden önceki
+desteği kırarak düşük dip (DD)
+
+41
+
+--- Sayfa 42 ---
+oluşturur. Sonrasında güç kaybeden boğalar artık fiyatı daha yukarı
+
+çekemez ve düşük tepe (DT) oluşturarak düşüş trendini başlatır.
+Düşüş Trendi (Ayı Trendi)
+
+Düşüş trendi aynı zamanda ayı trendi olarak bilinir ve fiyat
+
+dalgaları
+düşüş
+trendinde
+düzenli
+olarak
+düşüş
+gösterir.
+Tahmin
+
+edeceğiniz üzere düşüş trendinde satıcılar alıcılardan daha güçlüdür
+
+ve fiyat periyodik olarak düşer. Fiyat grafiğine baktığınızda art arda
+
+düşüş gösteren dalga tepeleri yani düşük tepeler (DT) ve düşük dipler
+
+(DD) görülür. Bu dalga tepelerinden çizilen direnç çizgisi trendin yönünü
+
+anlamamızda kolaylık sağlar.
+
+42
+
+--- Sayfa 43 ---
+Aşağıdaki örneğe bir bakalım.
+
+Grafik MGROS hissesinin
+Ağustos 2017 - Ekim 2018 tarihleri arasını
+
+gösterir.
+
+Gördüğünüz gibi fiyat Kasım 2017’den itibaren periyodik olarak
+
+düşük tepe (DT) yaparak ilerlemiştir. Kasım’da 30TL’den başlayan
+
+düşüş trendindeki fiyat Şubat ayına geldiğimizde 27TL seviyelerine, takip
+
+eden Nisan ayında ise sırasıyla 25TL ve 24TL seviyelerinde düşük tepe
+
+(DT) yaparak aşağı yönlü hareketini sürdürmüştür. Satıcılar Ağustos
+
+2018’e kadar baskın taraf olarak kalmış ve fiyatı 13TL seviyelerine
+
+çekmeyi başarmıştır.
+
+Düşüş trendini fiyatın periyodik olarak düşük tepe (DT) ve düşük
+
+dip (DD)  yapması şeklinde açıklayabiliriz.
+
+Aynı yükseliş trendinde olduğu gibi düşüş trendinde de trend
+
+değişimi olacağında 2 tür değişim olabilir.
+
+43
+
+--- Sayfa 44 ---
+Birinci Tür Trend Değişimi
+
+Düşüş trendinde birinci tür değişimde fiyat son düşük tepenin
+
+yarattığı direnci test ettikten sonra yüksek dip yapar. Sonrasında
+
+yüksek tepe oluşturarak düşüş trendinin bittiğini ve yükseliş trendine
+
+geçileceğinin sinyalini verir.
+
+44
+
+--- Sayfa 45 ---
+İkinci Tür Trend Değişimi
+
+İkinci tür trend değişimi ise düşüş trendinde de herhangi bir sinyal
+
+olmadan son direncin kırılması ve yüksek tepe (YT) oluşması ile görülür.
+
+Fiyat sonrasında yüksek dip yaparak hızlı bir  trend değişimine uğrar.
+Yatay Trend
+
+Alıcılar ve satıcılar arasında bir taraf baskın değilse fiyatlar yatay
+
+trende girer. Bu dönemlerde belirgin yüksek tepeler (YT), yüksek
+
+dipler (YD) veya düşük tepeler (DT), düşük dipler (DD) olmaz. Bir
+
+taraf baskın gelene kadar fiyat belirli bir aralıkta gidip gelir.
+
+45
+
+--- Sayfa 46 ---
+Yatay trendi fiyatın belirlenmesinde baskın bir taraf olmadığı, belirli
+
+destek ve dirençler arasında gidip geldiği dönem olarak açıklayabiliriz.
+
+Grafik MGROS hissesinin Haziran 2018 - Temmuz 2019 tarihleri arasını
+
+gösterir.
+
+Önceki
+örneğimizden
+devam
+edelim.
+MGROS
+hissesi
+düşüş
+
+trendinin sonuna gelmiş ve yatay trende girmiştir. Ağustos ayında 13TL
+
+seviyesinde en son düşük dip noktasına geldikten sonra 2019 yılına
+
+kadar yatay trendde seyretmiştir. Gördüğünüz gibi bu aralıktaki 4 aylık
+
+süre boyunca alıcılar ve satıcılar arasında baskın taraf olmadığı için fiyat
+
+16.50TL direnci ve 14TL desteği arasında gidip gelmiştir.
+
+Bu gibi piyasalarda güçlü taraf belli olmadığı için işlem yapmak
+
+riskli olabilir. Amatör yatırımcıların bu piyasalarda işlem yapmaması
+
+akıllıca bir seçim olur.
+
+Öte yandan biraz daha tecrübeli yatırımcılar yatay piyasalarda
+
+destek seviyelerinden alış ve direnç seviyelerinden satış yaparak kâr
+
+sağlayabilecek basit bir sistem yaratabilir. Dikkat ederseniz yukarıdaki
+
+46
+
+--- Sayfa 47 ---
+grafikte fiyat ağustos ayından itibaren 5 kez 14TL desteğine gelmiş ve
+
+tekrar 16.50TL direncine doğru yükselişe geçmiştir.
+Bu döngünün nasıl çalıştığını bilseydiniz 5 kere bu bölgelerde alım
+
+yapıp fiyat yükseldiğinde satarak her işlemden ortalama %17 kar elde
+
+edebilirdiniz.
+
+47
+
+--- Sayfa 48 ---
+Mum Çubukları
+Mum çubukları bir tradera arz ve talep hakkında herhangi bir çizgi
+
+ya da çubuk grafiğinin verebileceğinden çok daha derinlikli bilgiler
+
+verebilir. Diğer grafiklerden daha iyi bilgiler vermesinin yegane sebebi
+
+mum çubuklarının bir işleme girmeden önce onay verebilmesidir. Destek
+
+ve
+direnç
+bölgelerinde oluşan mum çubuklarını
+izleyerek piyasa
+
+oyuncularının ne düşündüklerini anlayabiliriz.
+
+Bunun için önce mum çubuklarının anatomisini iyi bilmemiz ve
+
+yorumlamamız gerekiyor. Mum
+çubuklarının anatomilerini ve şekillerini
+
+kapsamlı olarak anladıktan sonra geriye sadece doğru bölgede oluşan
+
+sinyalleri değerlendirmek kalıyor.
+Mum Çubuğu Anatomisi
+
+Mum çubuklarının anatomisini daha iyi anlamanız adına aşağıdaki
+
+resimleri inceleyelim.
+
+48
+
+--- Sayfa 49 ---
+Mumlara yakından bakınca anatomilerini anlamak daha kolay
+
+olacaktır. Resimde gördüğümüz üzere mumlar yüksek, üst gölge,
+
+gerçek gövde, alt gölge ve düşük’ten oluşur. Her mum şekline ve
+
+uzunluğuna göre farklı bir anlam içermektedir.
+Mum çubuklarını gövdelerinin ve gölgelerinin boyutlarına göre
+
+sınıflandırırız. Bu
+gövde ve gölge boyutları bize piyasadaki arz-talep
+
+dengesini anlatır.
+
+Burada dikkatinizi çekmek istediğim nokta açılış ve kapanış
+
+seviyeleri. Gördüğünüz gibi mumun rengi açık renk olduğunda yani
+
+fiyat yükseldiğinde gövdenin üst kısmı kapanış fiyatını, alt kısmı
+
+açılış
+fiyatını
+temsil ediyor. Tam tersi şekilde fiyat düştüğünde
+
+gövdenin üst kısmı açılış fiyatını, alt kısmı ise kapanış fiyatını temsil
+
+ediyor. Bu noktaya dikkat edin.
+
+49
+
+--- Sayfa 50 ---
+Mum
+çubuklarının
+içerdiği
+veri
+sayısı
+grafiğe
+hangi
+zaman
+
+çerçevesinde bakıldığına bağlıdır. Haftalık bir zaman diliminde bakılan
+
+grafikte mum çubukları açılış günü olarak pazartesi sabahının değerini
+
+ve kapanış günü olarak cuma akşamının değerini içerecek şekilde 5
+
+günün değerlerini içerirken(5 gün açık olan piyasalar için) aylık zaman
+
+dilimindeki grafikte mum çubukları açılış olarak ayın ilk günün değerini,
+
+kapanış olarak ise son günün değerini içerir.
+
+Mum çubuğunun yüksek noktası hangi zaman dilimine bakılıyorsa
+
+o zaman dilimindeki en yüksek fiyatı, düşük noktası ise o zaman
+
+dilimindeki
+en
+düşük
+fiyatı
+gösterir.
+Örneğin
+1
+günlük
+grafiğe
+
+bakıyorsanız bir mumun üst fitilinin en yüksek noktası o gün içindeki en
+
+yüksek fiyatı gösterir. Aynı şekilde 15 dakikalık grafiğe bakıyorsanız
+
+mumun üst fitilinin en yüksek noktası 15 dakika içindeki en yüksek fiyatı
+
+temsil eder.
+
+Mum çubuğunun kapanış fiyatı açılış fiyatından daha yüksekse
+
+açık renkle gösterilir ve yükseliş mumu olarak değerlendirilir. Eğer
+
+kapanış fiyatı açılış fiyatından daha düşükse koyu renkle gösterilir ve
+
+düşüş mumu olarak değerlendirilir. Eğer kapanış fiyatı açılış fiyatına
+
+neredeyse eşitse bu arz talep dengesinin nötr olduğuna işaret eder,
+
+piyasa kararsızdır. Böyle durumlarda mumun neredeyse hiç gövdesi
+
+gözükmez (+) sembolüne benzeyen bir şekil alır.
+
+Bazı mum çubukları, çubuğun yüksek ve düşüğü arasında az bir
+
+fiyat farkı olduğunu gösterebilir, bu değişkenliğin az olduğu bir periyodu
+
+gösterir. Değişkenliği az, boyutu kısa olan mum çubukları, özellikle eğer
+
+destek
+yada
+direnç
+bölgelerindeler
+ise,
+marketin
+tersine
+dönme
+
+potansiyeli olduğuna dair sinyal verir. Ayrıca uzun gölgesi olan bir mum
+
+çubuğu açık bir fiyat reddi göstergesidir ve özellikle destek yada direnç
+
+alanlarında
+oluşmuşsa
+marketteki
+önemli
+dönüm
+noktalarını
+işaret
+
+edebilir.
+
+50
+
+--- Sayfa 51 ---
+Yukarıdaki örnekte gördüğünüz gibi düşüş trendinin sonunda
+
+destek seviyesinin üstünde oluşan gövdesi küçük mumlar önceki trendin
+
+güç kaybettiğini ve fiyatın değiştiğinin sinyallerini vermiş sonrasında yön
+
+değiştirip yükselişe geçmiştir. Yine de burada
+dikkat edilmesi gereken
+
+nokta mumların şekillerinden öte nerede oluştukları olmalı. Destek
+
+seviyesinin yakınında oldukları için dönüş sinyali sayılıyorlar. Trend
+
+ortasında olsaydı sıradan fiyat hareketleri olacaktı.
+
+İyi bir analisti diğerlerinden ayıran yegane özellik gerçek sinyaller ile
+
+sahte olanları birbirinden ayırabilme yeteneğidir.
+
+İki tip mum çubuğu vardır; ekstrem ve nötr. Daha önce de
+
+belirttiğimiz gibi, mum çubukları arz ve talep arasındaki dengenin
+
+seviyesini gösterir. Uzun gövdeli ekstrem mum çubukları güçlü ayıları
+
+yada boğaları işaret ederken, nötr yani gövdesi kısa mum çubukları
+
+ayılar ve boğalar arasında çok da büyük bir güç farkı olmadığına işaret
+
+eder. Ayılar ve boğalar arasındaki güç dengesini doğru bir şekilde
+
+inceleyebilmek bir traderın gelecek fiyat değişimleri hakkında yorum
+
+yapabilmesini kolaylaştırır.
+
+51
+
+--- Sayfa 52 ---
+Önemli Mumlar
+
+Bazı mum çubuklarının diğerlerinden daha çok önemi vardır. Diğer
+
+mumlara
+göre
+daha
+çok
+dikkat
+edilmesi
+gereken
+mumların
+ilki
+
+Marabozu’dur.
+
+ Marabozu Ayı (Bearish Marabozu)
+
+Kriterler:
+1. Diğer mumlara oranla büyük bir gövdeye sahiptir
+2. Gölgesi yoktur veya çok küçüktür
+
+Arkasındaki Psikoloji:
+Marabozu mumları kesin bir düşüş yada yükselişi temsil eder ve en
+
+güçlü mumlardandır. Marabozu mumların neredeyse hiç yada çok az
+
+gölgeleri olur ve gövdeleri çok uzundur. Bu mumlar renklerine göre
+
+marketi bir tarafın domine ettiğini gösterir ve bir Trader işleme giriş için
+
+onay bekliyorsa müthiş onay mumları olabilirler.
+
+52
+
+--- Sayfa 53 ---
+Örnek:
+
+Yukarıdaki örnekte gördüğünüz gibi fiyat yükseliş trendinin sonuna
+
+geldiğinde önce direnç seviyesinde belirgin bir Marabozu Ayı oluşuyor.
+
+Daha sonra fiyat kısa bir geri çekilme yapıp düşmeye başlıyor. Oluşan ilk
+
+Marabozu sat işlemine girmemiz için güçlü bir sinyaldir. İkinci Marabozu
+
+ise devam mumu görevindedir. Belirli bir destek veya dirençte olmasa
+
+bile trendin yön değiştirdiğini, ayıların kontrolde olduğunu ve düşüşün
+
+devam edeceğinin sinyalini verir.
+
+53
+
+--- Sayfa 54 ---
+Marabozu Boğa (Bullish Marabozu)
+
+Kriterler:
+1. Diğer mumlara göre uzun bir gövdesi vardır
+2. Gölgesi yoktur veya çok küçüktür
+
+Marabozular sadece düşüşte değil aynı zamanda yükselişte de
+
+güçlü onay mumlarıdır. Yukarıdaki örnekteki gibi eğer düşüş trendinin
+
+sonunda yükselen bir Marabozu Boğa oluşsaydı bu al işlemi için güçlü
+
+bir sinyal olacaktı.
+
+54
+
+--- Sayfa 55 ---
+Yutan Mum  Boğa (Bullish Engulfing)
+
+Kriterler:
+1. Devam eden bir düşüş trendi olmalıdır
+2. Yutan Mum bir önceki mumdan büyük gövdeye sahip olmalıdır
+3. Yükseliş mumu bir önceki mumun altında açılıp üstünde kapanarak
+
+önceki mumu tamamen yutar
+
+Arkasındaki Psikoloji:
+Başka bir ekstrem mum çubuğu tipi de yutan mumlardır. Yutan
+
+mumlar kendilerinden önce gelen mumun gövdesini, ve hatta bazı
+
+durumlarda
+gölgelerini
+de
+“yutar”
+yani
+ele
+geçirir.
+Yutan
+mumlar
+
+marketteki arz talep dengesinin ani bozulmaları ile ilgilidir ve fiyatın tam
+
+dönüş noktasına işaret edebilir.
+
+Yutan Mumlar ayrıca markette bir tarafın gücünün tükenmeye
+
+başladığını da gösteriyor olabilir. Eğer belirgin bir destek seviyesinde
+
+Yutan Mum Boğa oluşursa bu demektir ki tüm alıcılar tatmin olmuş yada
+
+tüm satıcılar ellerindeki hisseleri satmış olabilir.
+55
+
+--- Sayfa 56 ---
+Yutan Mum Ayı (Bearish Engulfing)
+
+Kriterler:
+1. Devam eden bir yükseliş trendi olmalıdır
+2. Yutan Mum bir önceki mumdan büyük gövdeye sahip olmalıdır
+3. Düşüş mumu bir önceki mumun üstünde açılıp altında kapanarak
+
+önceki mumu tamamen yutar
+
+Arkasındaki Psikoloji:
+Aynı
+yutan
+mum
+boğanın
+özelliklerine
+sahiptir.
+Eğer
+direnç
+
+seviyesinde oluşursa fiyatın yön değiştirebileceği sinyalini verir. Alıcılar
+
+güç kaybediyordur.
+
+56
+
+--- Sayfa 57 ---
+Doji
+
+Kriterler:
+1. Destek veya direnç bölgesinde oluşmalı
+2. Açılış ve Kapanış fiyatı mumun ortasında olmalı
+3. Gövde küçük olmalı veya hiç olmamalı
+
+Arkasındaki Psikoloji:
+Boğalar ve ayılar arasındaki kararsızlığı işaret eden mumlardan biri
+
+dojidir. Doji mumlarının açılış ve kapanışları birbirlerine neredeyse eşittir.
+
+Gövdeleri yoktur veya yok denecek kadar küçüktür. Piyasanın kararsız
+
+olduğunu, önceki trendin değişiyor olabileceğini işaret eder. Traderlar
+
+genellikle
+doji
+mumlarını
+marketteki
+önemli
+değişim
+noktaları
+ile
+
+özdeşleştirir çünkü arz ve talep belli bir süre dengelenmiş demektir ve bu
+
+dengeyi bozacak en ufak bir değişim fiyatta kısa bir dönüş döneminin
+
+başlangıcını tetikleyebilir.
+
+57
+
+--- Sayfa 58 ---
+Üçlü Doji Yıldızı (Tri-Star Doji)
+
+Kriterler:
+1. Devam eden bir yükseliş veya düşüş trendinin sonunda olmalı
+2. Arka arkaya 3 adet Doji olmalı
+3. Destek veya Direnç Bölgesinde oluşmalı
+
+Arkasındaki Psikoloji:
+Art arda gelen üç tane doji mumu güçlü bir fiyat değişimini gösterir
+
+ve bunların toplamına üçlü doji yıldızı denir. Genellikle nadir oluşurlar
+
+ancak grafikte görülmesi çok kolaydır. Her ne kadar kesin bir trade
+
+sonucunu garanti etmese de üçlü doji yıldızı, özellikle de günlük ya da
+
+haftalık grafiklerde oluştuğunda değişim sinyali olarak değerlendirilir.
+Bir trader, üçlü doji yıldızındaki en yüksek dojinin yükseği aşıldığı zaman
+
+alır ve en düşük dojinin düştüğünün altına stop koyar. Benzer şekilde,
+
+eğer üçlü doji yıldızı yükselen fiyat trendindeyken önemli bir direnç
+
+noktasına
+ortaya
+çıkmışsa
+trader
+en
+düşük
+dojinin
+en düşüğüne
+
+geldiğinde bir açığa satış işlemi açar ve en yüksek dojinin en yükseğine
+
+bir stop koyar.
+58
+
+--- Sayfa 59 ---
+Mezartaşı Doji (Gravestone Doji)
+
+Kriterler:
+1. Yükseliş trendinin sonunda direnç bölgesinde oluşmalı
+2. Gövdesi çok küçük olmalı veya hiç olmamalı
+3. Açılış ve kapanış fiyatı gövdenin alt bölgesinde olmalı
+4. Alt gölgesi çok kısa olmalı veya hiç olmamalı
+5. Üst gölgesi çok uzun olmalı
+
+Mezartaşı doji mumunun üst gölgesi alt gölgesine göre çok daha
+
+uzundur (en az 4 katı) ve fiyatın yüksek bir seviyeye çıktığını ancak
+
+kapanırken
+tekrar
+açılış
+ile
+aynı
+aralığa
+düştüğünü gösterir, yani
+
+yükselen fiyata karşı bir red gelmiştir. Bir başka deyişle, alıcılar başta
+
+fiyatı yukarıya itmişler ancak satıcılar gene fiyatı başlangıçtaki seviyesine
+
+çekmişlerdir, dolayısıyla bu periyotta herhangi bir net kazanç ya da kayıp
+
+olmamıştır.
+
+Mezartaşı doji mumları uzun bir fiyat rallisi sonrası ya da kritik bir direnç
+
+seviyesinde
+oluşursa
+yüksek ihtimalle o periyotta satıcılar alıcıları
+
+bastırmış dolayısıyla da fiyat aşağıya doğru inecek şekilde değişecek
+
+demektir. Özetle, satıcılar yükselen fiyatı güçlü bir şekilde reddetmiştir.
+
+Eğer ki bu mum direnç bölgesinde oluşursa trend değişimi olabilir.
+59
+
+--- Sayfa 60 ---
+Yusufçuk Doji (Dragonfly Doji)
+
+Kriterler:
+1. Düşüş trendinin sonunda destek  bölgesinde oluşmalı
+2. Gövdesi çok küçük olmalı veya hiç olmamalı
+3. Açılış ve kapanış fiyatı gövdenin üst kısmında olmalı
+4. Üst gölgesi çok kısa olmalı veya hiç olmamalı
+5. Alt Gölgesi çok uzun olmalı
+
+Mezartaşı dojinin tam tersi olan mum çubuğu yusufçuk dojidir.
+
+Mezartaşı dojinin aksine bu mum çubuğu fiyatta pozitif yönlü bir
+
+değişime işaret eder. Yani başta satıcılar fiyatı aşağı çekmiş ancak
+
+sonrasında alıcılar bu düşen fiyatı reddedip geri başlangıç fiyatına ittirmiş
+
+demektir.
+Özellikle
+aşağı
+doğru
+bir
+fiyat
+dalgalanmasından
+sonra
+
+beklenen bir destek alanında oluşmuşsa, fiyatın yukarıya çıkabileceğine
+
+dair sinyaller verir.
+
+60
+
+--- Sayfa 61 ---
+Çekiç (Bullish Hammer)
+
+Kriterler:
+1. Düşüş trendinin sonunda destek bölgesinde oluşmalı
+2. Alt gölgesi gövdesinden en az 2 kat uzunlukta olmalı
+3. Gövdesinin rengi önemsiz
+
+Arkasındaki Psikoloji:
+Şekilsel
+mantığı
+ve
+potansiyel
+bir
+fiyat
+artışını
+simgelemesi
+
+açısından yusufçuk dojiye çok benzeyen başka bir mum çubuğu da
+
+çekiçtir, özellikle de eğer düşüş trendinden sonra önemli bir destek
+
+alanında ortaya çıktıysa. Çekiç ile yusufçuğun farkı ikisinin de uzun alt
+
+gölgelerinin olması ama yusufçuğun asıl gövdesi neredeyse hiç yokken
+
+(yani açılış ve kapanış fiyatı aynıyken) çekicin kısa bir asıl gövdesi vardır
+
+(yani açılış ve kapanış fiyatı arasında az da olsa bir fark vardır). Teknik
+
+olarak, çekiç mumu açılış fiyatı kapanıştan yüksek yada alçak olması
+
+farketmeksizin fiyatta olumlu bir dönüşün olacağı sinyalini verir. Traderlar
+
+alt gölge üst gölgenin kabaca iki katı kadar olduğu sürece açılışla
+
+kapanış fiyatının hangisinin daha yüksek olduğunun önemli olmadığını
+
+kabul ederler.
+61
+
+--- Sayfa 62 ---
+Kayan Yıldız  (Shooting Star)
+
+Kriterler:
+1. Yükseliş trendinin sonunda direnç bölgesinde oluşmalı
+2. Gölgesi gövdesinin en az 2 katı uzunluğunda olmalı
+3. Gövdesinin rengi önemsiz
+
+Arkasındaki Psikoloji:
+Çekiç mumunun tam tersi şeklinde oluşan kayan yıldız mumu
+
+satıcıların
+gücünü
+simgeler.
+Yükseliş
+trendi
+sonunda
+ve
+direnç
+
+bölgesinde
+oluşması
+durumunda
+alıcıların
+gücünün
+azalmaya
+
+başladığını
+ve
+satıcıların
+baskınlaştığını
+gösterir.
+Yani
+güç
+taraf
+
+değiştiriyordur. Gövdesi alt
+tarafta olmalı ve açılış ile kapanış fiyatı
+
+arasında az fark olmalıdır. Günlük veya haftalık grafiklerde oluşması
+
+güçlü bir satış baskısı olduğunu gösterir.
+
+62
+
+--- Sayfa 63 ---
+Asılan Adam (Hanging Man)
+
+Kriterler:
+1. Yükseliş trendi sonunda direnç bölgesinde oluşmalı
+2. Alt gölgesi gövdesinin en az 2 katı boyutunda olmalı
+3. Açılış ve kapanış fiyat  gövdenin üst bölümünde olmalı
+4. Hiç veya çok az boyutta üst gölgesi olmalı
+
+Çekiç mumu uzun alt gölgesiyle bullish bir dönüş mumudur ve
+
+destek alanındaki fiyat reddinden sonra oluşur. Bunun arkasındaki
+
+mantık şudur; fiyat yüksek ihtimalle artacaktır çünkü alıcılar satıcıları
+
+bastırmıştır, talep arzdan daha fazladır ve bu sebeple Traderlar fiyatın
+
+belirlenen destek alanından yukarı çıkışının devamını beklerler. Ancak
+
+çekiç mumunun aynısı yükseliş trendinden sonra direnç alanında da
+
+oluşabilir. Bu durumda oluşan çekiç mumuna asılan adam denir ve
+
+fiyatın aşağı düşebileceğini ifade eder.
+
+63
+
+--- Sayfa 64 ---
+Ters Çekiç (Inverted Hammer)
+
+Kriterler:
+1. Düşüş trendi sonunda destek bölgesinde oluşmalı
+2. Üst gölgesinin boyu gövdesinin en az iki katı olmalı
+3. Açılış ve kapanış fiyatı gövdesinin alt bölgesine olmalı
+4. Hiç veya çok boyutta alt gölgesi olmalı
+
+Uzun bir düşüş trendinden sonra yada destek alanında ortaya
+
+çıkan kayan yıldız mumuna “ters çekiç” denir ve fiyatın yükselebileceğini
+
+işaret eder. Bu ters mumlar grafiğe mum bazlı değil de kapsamlı olarak
+
+bakmanın ne kadar önemli olduğunu gösterir.
+
+64
+
+--- Sayfa 65 ---
+Delen Mum Boğa (Bullish Piercing)
+
+Kriterler:
+1. Devam eden bir düşüş trendi olmalı
+2. Düşüş mumundan sonra yükseliş mumu gelmeli
+3. Yükseliş mumu bir önceki düşüş mumunun gövdesinin en az
+
+%50’sinde veya daha üstü seviyede kapanmalıdır
+
+Arkasındaki Psikoloji:
+Düşüş mumu ayıların bir süredir kontrolde olduğunu gösterir. Yeni
+
+mum periyodu bir öncekinin altında açıldığında ayılar güçlüdür ancak
+
+yeni yükseliş mumu bir önceki mumun yarısından yukarıda kapandığında
+
+bu ayıların zayıfladığını ve boğaların fiyat kontrolünü geri kazandığının
+
+sinyalini verir.
+
+65
+
+--- Sayfa 66 ---
+Kara Bulut  (Dark Cloud Cover)
+
+Kriterler:
+1. Devam eden bir yükseliş trendi olmalı
+2. Yükseliş  mumundan sonra düşüş mumu gelmeli
+3. Düşüş mumu bir önceki yükseliş mumunun gövdesinin en az
+
+%50’sinde veya daha aşağı seviyede kapanmalıdır
+
+Arkasındaki  Psikoloji:
+Yükseliş mumu boğaların güçlü olduğunu simgeler. Ancak yeni
+
+düşüş mumu bir önceki mumun %50’sinin altında kapandığında gücün
+
+taraf değiştiriyor olabileceğini görürüz. Trend değişimi sinyali olabilir.
+
+66
+
+--- Sayfa 67 ---
+3 Beyaz Asker (Three White Soldiers)
+
+Kriterler:
+1. Devam eden bir düşüş trendi olmalı
+2. Arka arkaya 3 tane yükseliş mumu oluşmalı
+3. İkinci
+ve
+üçüncü
+mumlar birbirine yakın açılsa da yüksekte
+
+kapanmalı
+
+Arkasındaki Psikoloji:
+İlk mum düşüş trendinin sonunda güçlü bir ivme değişimi olduğunu
+
+simgeler. Ayılar yorulmuştur ve boğalar kontrole geçmeye başlamıştır.
+
+İkinci ve üçüncü yükseliş mumu kontrolu onaylar ve güç değişimi sinyali
+
+verir.
+
+67
+
+--- Sayfa 68 ---
+3 Kara Karga (Three Black Crows)
+
+Kriterler:
+1. Devam eden bir yükseliş trendi olmalı
+2. 3 arka arkaya uzun düşüş mumu oluşmalı
+3. İkinci ve  üçüncü mumlar birbirine yakın açılsa da düşük kapanmalı
+
+Arkasındaki Psikoloji:
+İlk mum yükseliş trendinin sonunda boğaların yorulduğunu ve
+
+ayıların güç kazanmaya başladığını gösterir. İkinci ve üçüncü mum ise
+
+ayıların gücünü onaylayarak trend değişimi sinyali verir.
+
+68
+
+--- Sayfa 69 ---
+Sabah Yıldızı (Morning Star)
+
+Kriterler
+1. Devam  eden bir düşüş trendi olmalı
+2. İlk mum uzun gövdeli bir düşüş mumu olmalı
+3. İkinci mumun gövdesi doji gibi küçük olmalı
+4. Üçüncü mum uzun bir gövdeye sahip olmalı ve ilk mumun en az
+
+%50’sinde kapanmalı
+
+Arkasındaki Psikoloji:
+İlk mum düşüş trendindeki ayıların gücünü gösteriyor. İkinci mum
+
+küçük gövdesi ile ayıların baskınlığını kaybettiğinin sinyalini veriyor.
+
+Üçüncü mum ise boğaların kontrolu ele geçirip fiyatı yükseltmeye
+
+başladığını gösteriyor. Fiyatın yön değiştirdiğinin güçlü bir sinyali olabilir.
+
+69
+
+--- Sayfa 70 ---
+Akşam Yıldızı (Evening  Star)
+
+Kriterler:
+1. Devam eden bir yükseliş trendi olmalı
+2. İlk mum uzun gövdeli bir yükseliş mumu olmalı
+3. İkinci mum doji şeklinde veya küçük gövdeli  olmalı
+4. Üçüncü mum uzun gövdeli olmalı ve ilk mumun en az %50 altında
+
+kapanmalı
+
+Arkasındaki Psikoloji:
+İlk mum yükseliş trendindeki boğaların gücünü gösteriyor. Ancak
+
+ikinci mum markette güç değişimi sinyalleri veriyor. Üçüncü mumda ise
+
+ayıların
+kontrolü
+ele
+geçirmeye
+başladığını
+görüyoruz.
+Fiyat
+yön
+
+değiştiriyor olabilir.
+
+70
+
+--- Sayfa 71 ---
+Asla
+mum
+sinyalleri tek başına değerlendirilmemelidir. Trade
+
+yaparken her zaman önce büyük resimden bakmalı ve kararlar ona göre
+
+verilmelidir. Büyük resimde alıcılar mı yoksa satıcılar mı baskın bunu her
+
+zaman bilmeliyiz. Bu yüzden analizlerimize her zaman Aylık grafikten
+
+başlarız ve adım adım baktığımız zaman dilimini düşürerek yukarıdan
+
+aşağı analiz tekniğini kullanırız.
+
+Mum çubukları, indikatörler ve fiyat hareketleri her zaman bir arada
+
+değerlendirilmelidir. Her biri tek başlarına değerlendirildiğinde fiyatın
+
+yönü hakkında farklı sinyaller verir. Ancak ne bir indikatör ne de bir
+
+yatırımcı fiyatın yönünü kesin olarak asla bilemez. Sadece daha olası
+
+yön hangisi belirleyip o yönde işlem yapılırsa kazanma ihtimali artar.
+
+71
+
+--- Sayfa 72 ---
+Nasıl Çizilir?
+Fiyat
+grafiklerinde
+geçmişteki
+fiyat
+hareketlerini
+yakından
+
+inceleyerek tepki alan bölgeleri işaretleriz. Bu bize fiyatın gelecekte
+
+tepki verme potansiyeli olan bölgeler hakkında fikir verir. Bu alanlar
+
+işleme giriş seviyemizi ve hedeflerimizi belirlerken karar vermemize
+
+yardımcı olur.
+Yani bir hisseyi hangi seviyeden almak ve satmak
+
+mantıklı olur onu görebiliriz.
+
+Bu tepki alan bölgeler destek, direnç ve trend çizgileri olarak 3
+
+kategoriye ayrılır.
+Tarihi Destek ve Dirençler
+Grafik üzerinde çizime önce tarihi destek ve direnç alanlarından
+
+başlarız. Destek ve direnç alanları boğalar ve ayıların hangi bölgelerde
+
+güçlü olduğunu gösteriyor.
+
+Destek Alanları = Boğaların (alıcıların) güçlü olduğu bölge
+Direnç Alanları = Ayıların (satıcıların) güçlü olduğu bölge
+
+72
+
+--- Sayfa 73 ---
+Tarihi Destek ve Direnç alanları geçmişte tepki görmüş alanlardan
+
+oluşur bu yüzden Tarihi deriz. Aşağıdaki örneğe bir bakalım.
+
+Grafik Aselsan hissesinin 2019 Haziran - 2019 Ağustos tarihleri arasını
+
+gösterir.
+
+Yukarıda Aselsan hissesinin 4 Saatlik grafiğini görmekteyiz.
+(Yani her mum çubuğu 4 saatlik bir zaman dilimini temsil ediyor.)
+
+Destek
+ve
+Direnç
+seviyelerini
+çizerken
+önce
+yatay
+çizgi
+
+simgesinden yararlanırız. Bu simgeyi Tradingview grafik platformunda
+
+sol tarafta bulunan araç çubuğunda bulabilirsiniz. Grafikte bu simge mavi
+
+ok ile gösterilmiştir.
+
+Fiyatın tepki verdiği destek ve direnç seviyelerini belirlerken en az
+
+2 kere tepki gösterdiği bölgelerden çizmeliyiz. Fiyat bu bölgelere
+
+dokunup yön değiştirmiş olmalı. Yoksa seçtiğiniz bölge geçersiz veya
+
+zayıf sayılır. Grafikte gördüğünüz gibi çizdiğimiz destek ve direnç
+
+73
+
+--- Sayfa 74 ---
+bölgelerine fiyat birçok kez tepki vermiştir. Bu yüzden çizdiğimiz bölgeler
+
+güçlü destek ve direnç bölgeleridir.
+Unutmamanız gereken en önemli nokta destek ve direnç çizgi
+
+değil bölgedir. Çizgi aracıyla belirtiyor olmamız tam olarak o seviyeden
+
+tepki geleceği anlamına gelmez. Fiyatlar destek bölgesinden veya
+
+direnç bölgesinden dönüş yapabilir. Kısaca çizilen çizginin yakın
+
+bölgesinden tepki gelebilir. Bu yüzden de önce çizgi aracı ile çizdiğimiz
+
+destek ve direnç bölgelerini daha sonra dikdörtgen çizim aracı ile birer
+
+bölge haline getiririz.
+
+Çizgi ile belirlenmiş destek direnç seviyeleri
+
+74
+
+--- Sayfa 75 ---
+Çizgi ile belirlediğimiz tarihi destek ve dirençleri daha sonrasında
+
+aşağıdaki şekilde destek bölgesine çeviriyoruz.
+
+Destek
+ve
+dirençleri
+bölge
+olarak
+değerlendirmek
+hem
+
+tahminlerimizin tutarlılığını arttırır hem de bu sayede grafik daha temiz
+
+göründüğü için destek ve dirençleri seçmek daha kolay olur.
+Unutmayın, analiz yaparken çizim grafiğiniz her zaman temiz ve
+
+basit görünmeli. Karmaşık grafikler karar aşamasını da karmaşıklaştırır.
+
+75
+
+--- Sayfa 76 ---
+Psikolojik Destek ve Dirençler
+Piyasalarda bazı seviyeler psikolojik destek ve direnç olarak
+
+görülür. Bu seviyeler genelde 5 ve 10’un katlarıdır. Tarihi destek
+
+dirençler kadar olmasa da bu seviyelere fiyatlar tepki verir. Bunun sebebi
+
+bireysel yatırımcıların yuvarlanmış sayılara emir koymaya daha eğilimli
+
+olmasıdır. Bunu daha iyi anlamak için aşağıdaki örneğe bakalım.
+
+Grafiğe sadece 3.50 - 4.0 - 4.50 - 5.0 - 5.50 gibi yuvarlanmış seviyede
+
+çizgiler
+ekledim.
+Gördüğünüz
+gibi
+fiyat
+yine
+bu
+seviyelere
+tepki
+
+göstermektedir. Tarihi destek ve dirençler kadar etkili olmasa da karar
+
+vermeden önce bu seviyeleri de göz önünde bulundurmak akıllıca olur.
+
+Eğer fiyat yuvarlanmış bir sayının destek veya direnç bölgesine geliyorsa
+
+dikkat etmekte fayda var.
+
+76
+
+--- Sayfa 77 ---
+Dinamik Destek ve Dirençler
+Dinamik
+destek
+ve
+dirençler
+hareketli ortalama göstergeleri
+
+sayesinde belirlenir. Hareketli ortalamalar trend takipçisi olarak kullanılan
+
+önemli göstergelerden biridir. Fiyatın nereye gideceğini göstermekten
+
+ziyade gecikmeli olarak fiyatın güncel yönünü gösterir. Geçmiş verilere
+
+dayalı olduğundan dolayı oluşturduğu sinyaller de gecikmelidir.
+
+Hareketli ortalamalar hesaplanırken n tane fiyatın ortalaması alınır
+
+ve çıkan veri grafiğe çizgi olarak yansıtılır. 200 günlük hareketli ortalama
+
+(HO) 50 günlük hareketli ortalamaya göre daha ağır ve gecikmeli hareket
+
+eder.
+
+Kısa vadede işlem yapan yatırımcılar 9, 20, 50 gibi kısa vadeli
+
+hareketli ortalamalardan yararlanırken uzun vadeli yatırımcılar 100, 200
+
+gibi uzun vadeli hareketli ortalamalardan yararlanır. Özellikle 200 HO en
+
+çok kullanılan hareketli ortalama olduğu için sıkça fiyat bu seviyeye tepki
+
+verir.
+
+Bazı durumlarda iki hareketli ortalamanın birbiriyle kesişmesi al
+
+veya sat sinyali olarak değerlendirilir. Örneğin 50 günlük hareketli
+
+ortalama, 200 günlük hareketli ortalamayı yukarı yönlü kestiğinde bu
+
+güçlü bir yükseliş sinyalidir.
+
+77
+
+--- Sayfa 78 ---
+Hareketli Ortalamaların sıkça kullanılan iki türü vardır.
+1. Basit Hareketli Ortalama - Moving Average (MA): Bir hissenin
+
+belirli bir dönem içindeki fiyat hareketlerinin ortalaması alınarak
+
+oluşturulur.
+Basit
+hareketli
+ortalamalar
+sadece
+fiyatların
+
+kapanışlarını
+dikkate
+alır.
+Örneğin
+10
+günlük
+basit
+hareketli
+
+ortalama, son 10 günün kapanış fiyatlarının toplamı ve 10’a
+
+bölünmesi ile elde edilir. Üssel ‘e göre daha yavaş ilerler bu
+
+yüzden sinyaller gecikmelidir ancak daha tutarlıdır.
+
+2. Üssel
+Hareketli
+Ortalama
+-
+Exponential
+Moving
+Average
+
+(EMA):
+Yine
+bir
+hissenin
+belirli
+bir
+dönem
+içindeki
+fiyat
+
+hareketlerinin
+ortalaması
+alınır
+ancak
+yakın
+dönemdeki
+fiyat
+
+hareketlerine
+daha fazla ağırlık verilerek hesaplanır. Ağırlık
+
+eklendiği için güncel hareketleri daha hızlı yansıtır ancak daha
+
+tutarsızdır.
+
+Genelde iki hareketli ortalamanın bir arada
+kullanılması daha iyi
+
+sonuçlar verir. İki ortalama birlikte kullanırken oluşabilecek iki tür sinyal
+
+vardır.
+Bunlar;
+Altın Kesişme - Golden Cross: Kısa hareketli ortalamanın uzun
+
+hareketli ortalamayı yukarı yönlü kesmesidir. Güçlü yükseliş sinyali
+
+olarak  değerlendirilir.
+Ölüm
+Kesişimi - Death Cross: Kısa hareketli ortalamanın uzun
+
+hareketli ortalamayı
+aşağı yönlü kesmesi. Güçlü düşüş sinyali olarak
+
+değerlendirilir.
+
+78
+
+--- Sayfa 79 ---
+Grafikte
+kırmızı
+çizgi 21
+Günlük Üssel Hareketli Ortalamayı,
+
+siyah çizgi ise 55 Günlük Üssel Hareketli Ortalamayı temsil eder. Üssel
+
+hareketli ortalamaya kısaca EMA deriz. Gördüğünüz gibi fiyat ilk Ölüm
+
+Kesişmesinden sonra sert bir düşüş yaşamıştır. Bir
+süre düşüş
+
+trendinde
+seyreden
+fiyat
+Altın
+Kesişme
+geldikten
+sonra
+yükseliş
+
+trendine geçip  tekrar yükselmeye  başlamıştır.
+
+79
+
+--- Sayfa 80 ---
+Yukarıdaki örnekte ise dikkat etmenizi istediğim nokta 21 EMA ve
+
+55 EMA’in dinamik destek ve dinamik direnç olarak görev yapması.
+
+Ölüm kesişmesinden sonra fiyat 21 ve 55 EMA seviyelerine kadar
+
+yükselip buralardan reddediliyor.
+Kırmızı oklar ile belirtilen noktalar fiyatın
+dirençten reddedildiği
+
+noktalar. Yani bu iki hareketli ortalama dinamik direnç olarak görev
+
+yapıyor. Sonrasında Altın Kesişme ile başlayan yükseliş trendinde ise
+
+fiyat bu iki ortalamanın üstüne çıkıyor ve dinamik destek olarak yükseliş
+
+süresince belirli aralıklarla bu seviyelerden destek alıyor. Yeşil oklar da
+
+bu dinamik destek hareketlerini görebilirsiniz.
+
+Kısaca dinamik destek ve dirençler örnekten de anlaşılacağı gibi
+
+fiyat ile birlikte hareket eden destek ve direnç seviyeleridir. Önceki
+
+bölümde işlediğimiz psikolojik ve tarihi destek - dirençlerden farklı olarak
+
+bu hareketli ortalamalar fiyat ile birlikte sürekli güncellendiği için sürekli
+
+seviye değiştirmektedir.
+
+Fiyatın
+hangi yöne eğilimli olduğunu anlamak için fiyatın bu
+
+ortalamaların ne tarafında ilerlediğini görmek yeterli olur. Fiyat 21 ve 55
+
+EMA’in üstünde ise yukarı eğimli, altında ise aşağı eğimli diyebiliriz.
+
+İşleme girmeden önce “En yakın Ölüm Kesişmesi ve Altın Kesişme ne
+
+zaman olmuş?” gibi sorular analizimizi derinleştirmemizde faydalı olur.
+80
+
+--- Sayfa 81 ---
+Grafiğe Hareketli Ortalama Eklemek
+Hareketli Ortalamaları grafiğinize eklemek için üst araç çubuğunda
+
+bulunan indikatörler butonuna tıklayıp “EMA” veya “Hareketli Ortalama”
+
+şeklinde
+aratırsanız
+grafiğe
+ekleyebileceğiniz
+Hareketli
+Ortalama
+
+eklentileri karşınıza çıkacaktır.
+
+1. Adım
+
+2.Adım
+
+81
+
+--- Sayfa 82 ---
+3.Adım
+
+Bu
+adımları
+uyguladıktan
+sonra
+eklenen
+hareketli
+ortalama
+
+indikatörünü sol üst tarafta bulunan ayarlar butonuna basarak istediğiniz
+
+gibi özelleştirebilirsiniz. Tradingview sitesinde istediğiniz rengi ve gün
+
+aralığınızı
+seçmenizi
+sağlayan
+bir
+çok
+farklı
+indikatör
+eklentisi
+
+bulunmaktadır.
+
+82
+
+--- Sayfa 83 ---
+Trend Çizgileri
+Destek ve dirençlerden sonra fiyatın en çok tepki verdiği seviyeler
+
+trend çizgileri sayesinde bulunur. Trend çizgileri fiyatların zirve ve
+
+diplerinden çizilen uzun ve eğimli çizgilerdir. Fiyatın yönünü görmemize
+
+ve potansiyel destek-direnç bölgelerini anlamamızda kolaylık sağlar. Bir
+
+trend çizgisinin geçerli olması için en az iki noktada birleşmesi gerekir.
+
+Eğer günlük veya haftalık grafikte uzun vadeli bir trend çizgisi kırılırsa
+
+bu güçlü bir yükseliş veya düşüş sinyali olarak algılanır.
+
+Yükselen Trend Çizgisi
+Yükseliş trendinde olan bir hissenin trend çizgisi alt tarafta oluşan
+
+dalga diplerinden çizilir. Bu dipler fiyatın ekstrem hareketlerinde ortaya
+
+çıkar, destek seviyelerinde oluşur ve ayırt etmesi çok kolaydır.
+
+Aşağıda
+yükseliş
+trendinde
+olan
+bir
+hissenin
+trend
+çizgisini
+
+görebilirsiniz.
+
+Yukarıdaki örnekte gördüğünüz üzere yükseliş trendinde olan bir
+
+hisse 3 kez trend çizgisini test etmiş. Her seferinde trend çizgisi destek
+
+görevi görerek fiyatı reddetmiş ve fiyat yükselişe geçmiştir.
+
+83
+
+--- Sayfa 84 ---
+Düşen Trend Çizgisi
+
+Düşüş trendinde olan bir hissenin trend çizgisi ise üst tarafta
+
+oluşan zirvelerden çizilir. Bu zirveler yine fiyatın ekstrem hareketlerinde
+
+ortaya çıkar ve direnç seviyelerinde oluşur.
+
+Aşağıda
+düşüş
+trendinde
+olan
+bir
+hissenin
+trend
+çizgisini
+
+görebilirsiniz.
+
+Gördüğünüz gibi üst trend çizgisi 5 kez test edilmiş ve her
+
+seferinde fiyat bu noktalardan reddedilerek düşüşe devam etmiştir. Son
+
+denemesinde
+trend
+çizgisini
+kırarak
+yeni
+bir
+yükseliş
+hareketine
+
+başlamıştır.
+
+Trend çizgilerini şu ana kadar öğrendiğimiz diğer destek ve direnç
+
+türleri ile bir arada kullanarak başarı oranımızı arttrırabiliriz. Yine de bu
+
+yöntemlerin hiçbiri tek başlarına kullanırsak işe yaramaz.
+
+84
+
+--- Sayfa 85 ---
+Boğa ve Ayı Tuzakları
+Daha
+önceki
+bölümlerde
+bahsettiğimiz
+gibi
+profesyonel
+
+yatırımcıların amacı bireysel yatırımcıları piyasanın tersinde bırakıp zarar
+
+etmesini
+sağlamaktır.
+Finansal
+piyasalarda
+birinin
+kazanması
+için
+
+diğerinin kaybetmesi gerekir. Bu yüzden profesyoneller sıkça destek,
+
+direnç ve trend çizgilerini kırılmış gibi göstererek bireysel yatırımcıları
+
+tuzağa düşürmeye çalışırlar.
+
+Grafikte
+farklı
+bir
+örnek
+olarak
+kripto
+para
+piyasasından
+
+Zcash/Dolar paritesinin günlük grafiğini görmekteyiz. Diğer piyasalara
+
+göre fazlasıyla değişken ve manipülasyona açık olan kripto piyasasında
+
+her zaman diliminde Boğa ve Ayı Tuzağı görmek mümkündür.
+
+Destek seviyesinin ilk testinden sonra gördüğünüz gibi arka arkaya
+
+gelen
+düşüş
+mumları
+güçlü
+bir
+düşüş
+sinyali
+vermiştir.
+Amatör
+
+yatırımcılar bu noktada satış yapmış, daha kötüsü açığa satış işlemi
+
+açmıştır. Tabii ki bunun bir ayı tuzağı olduğunu bilmeyen amatör
+
+yatırımcılar kısa süre içerisinde piyasanın tersinde kalmış ve zarar
+
+etmiştir. Boğa ve Ayı tuzaklarını destek ve direnç seviyelerinde oluşan
+
+uzun gölgelerden ayırt edebilirsiniz.
+
+Gördüğünüz gibi destek seviyesinin ikinci testinde de ayı tuzağı
+
+oluşmuştur. Üst direnç seviyesinin ikinci testinde ise o kadar uzun bir
+
+mum gölgesi oluşmuştur ki ekrana sığdıramadık. Merak edenler için o
+
+85
+
+--- Sayfa 86 ---
+uzun gölge 28 Eylül 2017 tarihinde ZECUSD paritesinde oluşmuş. Aynı
+
+gün
+içinde
+fiyat
+310$’dan
+455$’a
+yükselmiş
+ve
+tekrar
+310$’da
+
+kapanmıştır. Kripto piyasasının ne kadar değişken olduğunu az çok
+
+tahmin ediyorsunuzdur artık.
+
+Tuzaklara bir de trend sürecinde bakalım. Bu sefer aşağıdaki
+
+grafikte Snapchat şirketinin hissesini görüyoruz.
+
+Grafikte güçlü bir yükseliş trendi var. Gördüğünüz gibi fiyat belirli
+
+aralıklarla trend çizgisinden destek alarak yükselmeye devam
+ediyor.
+
+Trend çizgisi 3 kez test edildikten sonra 4. denemede bir ayı tuzağı
+
+geliyor ve trend çizgisi kırılmış gibi gösteriliyor. Aynı strateji çizginin
+
+diğer
+denemesinde
+daha da güçlü uygulanıyor. Eminim ki birçok
+
+yatırımcı
+Temmuz
+ayında
+trend
+çizgisinin
+kırıldığını
+sanıyordu
+ve
+
+hisselerini sattı. Sattıkları gibi de fiyat yükselişe geçti. Bu duyguyu hisse
+
+piyasasında işlem yapan ve tuzaklardan haberi olmayan herkes en az 1
+
+kere yaşar.
+
+86
+
+--- Sayfa 87 ---
+Peki şu ana kadar Boğa ve Ayı tuzaklarına örnekler gördük. Nasıl
+
+tanımlandıklarını biliyoruz. O halde nasıl bu tuzaklara düşmeden işlem
+
+yapabiliriz?
+ Onay mumları sayesinde.
+
+Grafikte uzun süredir düşüş trendinde olan bir hisse görüyoruz. 2
+
+kez trend çizgisinden reddedildikten sonra üçüncü testte Boğa Tuzağı
+
+oluşmuş
+ve
+fiyat
+hemen
+aşağı
+kırarak
+amatörleri
+yine
+tuzağa
+
+düşürmüştür. Trend çizgisinin son testinde ise çizgi kırıldıktan sonra
+
+Yutan Mum ve Çekiç gibi yükseliş sinyali veren güçlü mumlar arka
+
+arkaya oluşmuş ve son olarak Altın Kesişme sinyali gelerek trend
+
+değişimini onaylamıştır. Fiyatın önceki denemelerinde ne bu kadar güçlü
+
+mumlar
+bir
+arada
+oluşmuş
+ne
+de
+hareketli
+ortalamalar
+yükselişi
+
+göstermiştir.
+
+Güçlü onay mumları ve hareketli ortalamalar sayesinde boğa ve
+
+ayı tuzaklarından kaçabilirsiniz. Grafikte tutucu bir trader giriş için altın
+
+kesişi beklerken agresif bir trader yutan mum geldikten sonra
+çekiç
+
+mumunu görür görmez işleme giriş yapabilirdi.
+87
+
+--- Sayfa 88 ---
+Fibonacci
+Fibonacci
+dizisi
+italyan
+matematikçi
+Fibonacci
+tarafından 11.
+
+yüzyılda bulunmuştur. 0 ve 1 rakamları ile başlayan Fibonacci dizisinde
+
+gelecek olan her sayı kendinden önceki iki sayının toplamı kadar olacak
+
+şekilde devam eder. Peki biz bu kitapta neden buna yer verdik?
+
+Fibonacci
+sayıları,
+insan
+DNA’sından
+tutun
+çiçeklerin yaprak
+
+dizilimine, dalgaların hareketlerinden salyangozların kabuklarına kadar
+
+evrenin her noktasında görülebilir. Evrende ve insanlar üzerinde bu
+
+kadar etkili olan bu sayılar tabii ki finansal piyasalarda da fazlasıyla
+
+görülmektedir. Özellikle Altın oran olan 0.618 seviyesi borsalarda çok
+
+büyük önem taşır.
+
+Teknik
+analizde
+Fibonacci
+Düzeltmesi
+aracı
+sayesinde
+fiyat
+
+grafiklerinde fibonacci sayılarına dayanan destek ve direnç seviyelerini
+
+kolaylıkla bulabiliriz. Bu bölgelerde oluşan fiyat hareketlerini izleyerek
+
+kazanç oranı yüksek yatırım fırsatları bulabilirsiniz.
+
+88
+
+--- Sayfa 89 ---
+Tradingview’de Fibonacci Düzeltmesi
+
+Tradingview Analiz sitesine girdiğinizde fiyat grafiği sayfasında sol
+
+tarafta
+bulunan
+Gann
+ve
+Fibonacci
+araç
+butonunda
+Fibonacci
+
+Düzeltmesi aracını kolaylıkla bulabilirsiniz.
+
+89
+
+--- Sayfa 90 ---
+Fibonacci Düzeltmesi
+Fibonacci
+Düzeltmesi
+analiz
+yaparken
+en
+çok
+kullandığımız
+
+destek-direnç bulma araçlarından biridir. Aracı seçtikten sonra fiyatın
+
+solundan sağına doğru dip ve tepe noktalarını belirleyerek aracı
+
+yerleştiririz.
+Eğer
+ki
+yükseliş
+trendinde
+Fibonacci
+Düzeltmesi
+
+kullanıyorsanız önce sol tarafta bulunan en düşük dip ve sonrasında
+
+sağ tarafta bulunan en yüksek tepeye aracımızı yerleştiririz.
+
+Örnekte
+gördüğümüz
+üzere
+Fibonacci
+Düzeltme
+aracımızı
+
+yükseliş
+trendinde
+kullandığımız
+için
+önce
+sol
+taraftaki
+düşüş
+
+hareketinin sonunda bulunan en düşük dipten başlattık ve en yüksek
+
+tepeye kadar çektik.
+Standart Fibonacci Düzeltme aracında sırasıyla yukarıdan aşağıya
+
+0.236, 0.382, 0.5, 0.618 ve 0.786 seviyeleri vardır. 0.5 bir Fibonacci
+
+sayısı olmasa da piyasalarda tepki gördüğü için daha sonradan bu araca
+
+eklenmiştir.
+
+90
+
+--- Sayfa 91 ---
+Bu seviyeler içinde en önemlileri 0.382, 0.618 ve 0.786’dır. Eğer ki
+
+bir yükseliş hareketi güçlü ise düzeltmesi sadece 0.382 seviyesine kadar
+
+düşer. Eğer bu seviye kırılırsa alım emirlerinin en yoğun olduğu ikinci
+
+bölge altın oran 0.618’dir. Fiyat bu seviyeden dönüş yaparsa orta
+
+güçte fiyat hareketi olarak değerlendirilir. Eğer ki bu bölgedeki destek de
+
+kırılırsa son güçlü Fibonacci desteği 0.786’dır. Genelde stoplar 0.786’nın
+
+altında bulunur. Bu seviyeden dönüş yapan fiyat hareketleri diğerlerine
+
+oranla  güçsüz  yükseliş dalgası olarak değerlendirilir.
+
+Fibonacci Düzeltmesini düşüş trendinde kullanmak istediğimizde
+
+ise önce sol tarafta bulunan en yüksek tepeden başlıyoruz ve sağ
+
+tarafta bulunan en düşük dip seviyesine kadar aracımızı çekiyoruz.
+
+91
+
+--- Sayfa 92 ---
+Örnekte gördüğümüz gibi soldan sağa doğru çekilmiş düşüş
+
+trendindeki Fibonacci Düzeltmesi bu şekilde görünüyor. Fiyat hem düşüş
+
+trendinde hem yükseliş trendinde bu seviyelere tepki gösteriyor.
+Bu
+yüzden
+analiz
+sürecimize
+bu
+seviyeleri
+eklemek
+kazanç
+
+oranımızı fazlasıyla arttıracaktır.
+
+Genellikle
+0.618
+Fibonacci
+seviyesinde
+güçlü
+alım
+emirleri
+
+bulunmaktadır. Bu yüzden fiyat belirli aralıklarla bu seviyeye dönüş
+
+yapar. Piyasa oyuncularının büyük kısmı 0.618 seviyesine alım emri
+
+koyar ve 0.786 seviyesinin altına stop yerleştirir. Bu bölgelere dikkat
+
+etmeniz yararlı olacaktır.
+
+92
+
+--- Sayfa 93 ---
+Fiyat Döngüleri ve Tepkiler
+Şu
+ana
+kadar
+fiyatın
+aşağı, yukarı veya yatay yönlü trend
+
+hareketlerini gördük. Sıra biraz daha geniş bir açıdan bakarak fiyatların
+
+döngülerini ve  arkasındaki yatırımcı psikolojisini incelemeye geldi.
+
+Bu döngüler doğru yerden bakarsanız petrol fiyatları dahil her
+
+yerde
+karşınıza
+çıkacaktır.
+Çünkü
+bunlar
+fiyatlara
+yani
+insanların
+
+alım-satım alışkanlıklarına dayanan döngülerdir. Her döngünün özellikleri
+
+farklıdır. Dolayısıyla her döngüde farklı yatırım stratejileri kullanılmalıdır.
+
+Bu sebeple yatırım yapacağınız hissenin hangi döngü içinde olduğunu
+
+bilmek size büyük avantaj sağlar.
+
+Fiyat döngüleri 2 aşamadan oluşur.
+Bunlar;
+
+●Daralma
+●Genişleme
+
+Tepkiler ise
+
+●Negatif Tepki
+●Pozitif Tepki olarak ikiye ayrılır.
+
+Daralma döngüsünde yatırımcılardan negatif tepki gelirken genişleme
+
+döngüsünde pozitif tepki gelir.
+
+93
+
+--- Sayfa 94 ---
+Daralma Döngüsü
+Fiyatlar direkt olarak yukarı veya aşağı yönlü hareket etmez. Doğal
+
+bir yükseliş veya düşüş için fiyatta her zaman düzeltmeler olmak
+
+zorundadır. Bu düzeltmelere aynı zamanda daralma döngüsü denir. Bu
+
+döngüde fiyat belirli destek ve direnç seviyeleri arasında gidip gelir yani
+
+yatay trend vardır. Direnç veya destek kırılana kadar bu döngü devam
+
+eder.
+
+Grafik MGROS hissesinin Eylül
+2015 - Ağustos 2017 tarihleri arasını
+
+gösterir.
+
+Önceki bölümlerden de hatırlayacağınız gibi grafikte fiyat yatay
+
+trendde hareket etmektedir. Fiyat 16TL seviyesinde desteği, 19TL
+
+seviyesinde ise direnci bulmuştur. Bu daralma döngüsü 2017 yılında
+
+direncin kırılmasına kadar devam etmiştir. Daralma döngüsünde arz ve
+
+talep birbirine eşittir. Bu yüzden bir taraf güçlenene kadar fiyat destek ve
+
+direnç
+arasında
+gidip
+gelir.
+Grafikte
+2017
+yılının
+başında
+alıcılar
+
+94
+
+--- Sayfa 95 ---
+satıcılardan daha güçlü bir konuma geçmiş ve 19TL direncini kırarak
+
+fiyatı 21TL’ye kadar yükseltmiştir.
+Burada fiyatın uzun süre sonra ilk defa Yüksek Tepe yaptığını
+
+görüyoruz. Daralma döngüsünün bitmesi ve genişleme döngüsüsünün
+
+başlaması tam olarak bu noktada gerçekleşir.
+
+Negatif
+Tepki:
+Fiyatın
+yatay trendde gittiği daralma döngülerinde
+
+yatırımcılar fiyat yükselişine negatif tepki verir. Yatırımcılar yatay
+
+trendde olduğunu düşündüğü için dirence yaklaştıkça satış yaparlar ve
+
+yatay
+trendde
+hatırlarsanız,
+baskın
+bir
+taraf
+olmadığı
+için
+direnç
+
+kırılamaz. Bu da fiyatı tekrar destek seviyesine kadar aşağı çeker. Yani
+
+fiyat yükseldikçe satışların artmasına negatif tepki denir.
+Genişleme Döngüsü
+Genişleme döngüsüne geçtiğimizde fiyat daralma döngüsünün
+
+direncini kırar ve yüksek tepeler oluşmaya başlar. Fiyatın yeni bir direnç
+
+kırması bireysel yatırımcıların dikkatini çeker ve alım hacmini arttırır. Bu
+
+da fiyatın yeni bir yükseliş trendine girmesine ve ralli başlamasına neden
+
+olur.
+95
+
+--- Sayfa 96 ---
+Grafik MGROS hissesinin Şubat
+2017 - Eylül 2017 tarihleri arasını
+
+gösterir.
+
+Önceki yükseliş trendi
+örneğinde de tam olarak aynı Migros
+
+grafiğinden
+yararlanmıştık.
+Bu
+sefer
+odaklanmamız
+gereken nokta
+
+hissenin yükseliş trendinde olmasından öte daralma döngüsünden çıkıp
+
+genişleme döngüsüne geçiş yapması. Yani önemli nokta arkasındaki
+
+yatırımcı psikolojisinde olan değişim. Daralma döngüsünde negatif
+
+tepkisi olan yatırımcılar direnç kırıldığı için fikir değiştirmiş ve pozitif
+
+tepki vermeye başlamıştır. Tepkileri değişen yatırımcılar artık fiyat
+
+yükseldikçe satmak yerine daha da çok almak istiyor ve bu yaklaşımları
+
+fiyatı sürekli daha yukarıya taşıyor. Bu da fiyatın hızlı bir şekilde
+
+yükselmesine ve genişleme döngüsüne geçmesine sebep oluyor.
+
+Gördüğünüz gibi ilk yüksek tepe sinyali geldikten sonra fiyat 6 ay
+
+boyunca
+yükseliş
+trendinde
+seyretmiş.
+Böyle
+durumlarda
+hareketli
+
+ortalamalar dinamik destek görevi görür bu yüzden yükseliş sırasında
+
+hareketli
+ortalamalardan
+yararlanmak
+akıllıca
+bir
+strateji
+olacaktır.
+
+Yükseliş döngüsünde fiyat belirli aralıklarda 21 ve 55 günlük hareketli
+
+ortalamaya dönüş yapar. İşte tam olarak o zamanlarda trend yönünde
+
+96
+
+--- Sayfa 97 ---
+alım yaparak yükselişten faydalanabilirsiniz. Yatay trendde kullanılan
+
+RSI gibi göstergeler genişleme dönemlerinde o  kadar da etkili olmaz.
+
+Pozitif tepki döneminde negatif döneme göre daha belirsiz ve hareketli
+
+bir piyasa vardır. Yatırımcılar daralma döneminde kolayca görülebilen
+
+direnç ve destek seviyelerine göre işlem yapar. Bu da girdikleri işlemlere
+
+olan güvenlerini arttırır. Ancak genişleme döneminde fiyat güvendikleri
+
+direnç
+seviyesini
+kırmıştır.
+Artık
+fiyatın
+nerede
+destek
+ve
+direnç
+
+bulacağını bilmedikleri için işlemlerine olan güvenleri azalır. Bu da
+
+yatırımcıyı tereddüte düşürür. Bir yandan yükselen fiyat hareketini
+
+kaçırmaktan korkar diğer yandan ise alım yaptığında fiyatın nereye kadar
+
+düşebileceğini bilmediği için zarara girmekten korkar. Kısaca, belirgin
+
+destek ve direnç seviyesinin olmaması açgözlülük ve panik yaratır.
+
+Böyle
+durumlarda
+amatör
+yatırımcılar
+yükselişi
+kaçırmak
+
+istemedikleri için piyasa fiyatından alım yaparak riskli işlemlere girer.
+
+Tecrübeli yatırımcılar ise fiyatın tepe ve dip seviyelerini görmeyi bekler.
+
+Bu seviyeler belirlendikten sonra hareketli ortalamalardan yararlanarak
+
+alım yaparlar.
+
+Bu bölümde gördüğünüz üzere fiyat sürekli olarak daralma ve
+
+genişleme dönemleri arasında geçiş yapar. Bunun sebebi yatırımcıların
+
+negatif tepkiden pozitif tepkiye geçiş yapmasıdır. Fiyatın güncel olarak
+
+hangi
+döngüde
+olduğunu
+bilmek
+yatırımcıların
+ne
+yapacağını
+
+anlamamızda bize ipuçları verir. Aşağıdaki  örneğe bir bakalım.
+97
+
+--- Sayfa 98 ---
+Grafik KRDMD hissesinin Nisan
+2016 - Kasım 2017 tarihleri arasını
+
+gösterir.
+
+Şu ana kadar öğrendiklerimizi grafikte tekrarlayalım. KRDMD
+
+hissesinin günlük grafiğine baktığımızda fiyat Nisan ayının başında
+
+1.60TL
+seviyesinde
+güçlü bir dirençle karşılaşmış ve bu dirençte
+
+satıcıların alıcılardan daha güçlü olmasından dolayı fiyat aşağı yönlü
+
+harekete geçmiştir. Düşüşe geçen fiyat alt tarafta 1.20TL seviyesinde
+
+destek bulmuştur. Bu destek seviyesinde alıcılar gücünü göstererek fiyatı
+
+tekrar 1.40TL seviyesine kadar yükseltmiştir. Bu noktadan dönen fiyat ilk
+
+defa
+düşük
+tepe
+yaparak
+yatırımcıların tepkisinin negatif tepkiye
+
+geçtiğinin sinyallerini vermektedir. 1.10TL Seviyesine kadar düşen fiyat
+
+artık daralma döngüsüne geçmiştir.
+
+Nisan 2016’dan Mart 2017’ye kadar daralma döngüsünde kalan
+
+fiyat uzun süren bir düşüş trendine girmiştir. Daha sonra fiyat ilk defa
+
+98
+
+--- Sayfa 99 ---
+Mayıs 2017’de 1.35TL seviyesinde yüksek tepe yaparak direnci kırmış
+
+ve yatırımcıların pozitif tepkiye geçmesine sebep olmuştur. Bu değişim
+
+ile birlikte başlayan genişleme döngüsünde fiyat artık hızla yükselmeye
+
+başlamıştır. Bu noktada akıllı bir yatırımcı fiyatın 21 Günlük Hareketli
+
+Ortalama’ya dönüş yapmasını bekler ve bu noktadan alım yapardı.
+
+Grafikte okla işaretli olan 1.50TL seviyesinde fiyat 21 HO’ya dönüş
+
+yapmıştır. İyi bir alım işlemi o anda gerçekleşir. Daha sonra yukarı yönlü
+
+bir ralli başlamış ve fiyat 2.65TL seviyesindeki dirence kadar hızla
+
+yükselmiştir. 2.65TL direncini kıramayınca yatırımcılar kar alma amacıyla
+
+satışlara başlamış ve fiyatı 2.10TL seviyesine kadar aşağı çekmiştir.
+
+Burada destek bulan fiyatta tekrar yatırımcılar negatif tepkiye ve
+
+daralma döngüsüne geçmiştir. Bir süre daha 2.65TL direncini kıramayan
+
+ve 2.10TL’de destek bulan fiyat bir süre bu iki destek-direnç seviyesi
+
+arasında gidip gelmiştir. Kasım ayına girince 2.65 direncini kırmış ve
+
+tekrardan pozitif tepkiye geçilmesiyle birlikte genişleme dönemine
+
+girmiştir.
+
+Fiyatlar sürekli bu iki döngü arasında geçiş yaparak hareket eder.
+
+İşlem yapmak istediğimiz hissenin hangi döngüde olduğunu tespit
+
+ederek yatırımcıların tepkilerini anlayabiliriz. Negatif tepkide piyasaya
+
+korku hakimdir. Pozitif tepkide ise açgözlülük. Bu yüzden negatif tepki
+
+sürecinde fiyatlar destek ve dirençleri piyasaya korku hakim olduğu için
+
+kıramazlar. Yatırımcılar çekingendir. Yatırımcı algısını değiştirecek bir
+
+olay yaşanmadıkça bu süreç devam eder. Daha sonra yeni bir haber,
+
+gelişme veya fiyatı etkileyecek bir olay olduğunda yatırımcı tepkisi
+
+pozitife döner ve artık dirençler hızla kırılmaya, algı pozitife geçmeye
+
+başlar. Bu da dirençlerin daha kolay kırılmasına ve fiyatın yükselmesine
+
+sebep olur.
+
+Formasyonlar
+Formasyon birden fazla mum çubuğunun belirli bir zaman aralığı
+
+içinde bir araya gelerek oluşturduğu şekillere verilen isimdir. Bazı
+
+kaynaklarda bu şekillerden fiyat formasyonu olarak bahsedilirken bazı
+
+kaynaklarda fiyat paterni olarak geçer, ikisi de aynı şeydir.
+
+99
+
+--- Sayfa 100 ---
+Aslında analiz yaparken en çok dikkat etmemiz gereken nokta fiyat
+
+formasyonlarıdır. Çünkü bu formasyonlar yatırımcı davranışını olduğu
+
+gibi grafiğe yansıtan tek araçlarımızdır.
+
+Piyasa
+katılımcıları
+genelde
+benzer
+olaylara
+benzer
+tepkiler
+
+vererek hareket eder. Yani geçmişte bir destek seviyesine gelen ve
+
+buradan
+dönüş
+yapan
+bir
+hisse
+fiyatı
+gelecekte
+de
+aynı
+destek
+
+seviyesine geldiğinde benzer formasyonlar oluşturuyor ise sonuç aynı
+
+olabilir.
+
+Fiyat formasyonları genelde fiyatta bir trend değişikliği olacağında
+
+veya güncel trend devam etmeden önce düzeltme yaptığında oluşur.
+
+Bizim işleme girmemiz veya işlemden çıkmamız gereken kritik zamanlar
+
+da bunlardır. Bu yüzden fiyatların daraldığı evrelerde, destek ve direnç
+
+bölgelerinde oluşan fiyat formasyonları fiyatın gelecekte hangi yöne
+
+gidebileceği üzerine bize paha biçilmez sinyaller verebilir.
+
+Formasyonlar aynı anda işleme giriş bölgemizi, stop seviyesinin
+
+nerede
+olacağını
+ve
+hedefimizin
+nerede
+olması
+gerektiğini
+bize
+
+gösterebilen tek analiz yöntemidir. Bu yüzden bu formasyonları gerekirse
+
+not defterinize elle çizerek ezberlemeniz sizin yararınıza olacaktır.
+
+Bu bölümde 21 adet farklı formasyona değinilmiştir. Arka arkaya bu
+
+kadar grafik formasyonu görmek ve tamamıyla kavramak bazen zor
+
+olabilir. Bu yüzden genel konsepti anladıktan sonra diğer bölümlere
+
+devam edebilirsiniz. Yine de bu formasyonlar bu kitapta bulacağınız ve
+
+sizin başarınızı etkileyecek en önemli faktörlerden biridir. Bu yüzden
+
+kitap bittikten sonra bile geri
+dönüp bu formasyonları iyice anlamanız,
+
+gerekirse alternatif kaynaklardan tekrar tekrar bilginizi pekiştirmenizi
+
+şiddetle tavsiye ederim.
+
+100
+
+--- Sayfa 101 ---
+Paralel Kanallar
+Fiyatlar
+trend
+sürecinde
+ve
+trend
+değişimine yakınken farklı
+
+formasyonlar
+oluşturarak
+ilerler.
+Trend
+sürecinde
+oluşturduğu
+
+formasyonlardan biri de Paralel Kanallardır.
+Kanallar iki türe ayrılır. Bunlar;
+1. Yükselen Kanallar
+2. Alçalan Kanallar
+
+Yükselen Paralel Kanal
+
+Yükselen Paralel Kanalların oluşması için fiyatın yukarı doğru
+
+eğimli iki paralel kanal arasında ilerlemesi gerekir. En az 2 kez alt destek
+
+çizgisine ve 2 kez üst direnç çizgisine tepki gösterirse kanal onaylanmış
+
+sayılır. Fiyatın kanalın üst çizgisine arka arkaya yüksek tepe ve alt
+
+çizgisine yüksek dip oluşturması beklenir. Bu formasyonda en mantıklı
+
+stratejilerden biri alt kanal seviyesinde alış, üst kanal seviyesinde satış
+
+olur.
+
+101
+
+--- Sayfa 102 ---
+Alçalan Paralel Kanal
+
+Alçalan Paralel Kanalların oluşumu için de fiyatın iki paralel kanal
+
+arasında aşağı eğimli olarak ilerlemesi gerekir. Alt ve üst kanal çizgileri
+
+en az 2 kere tepki gördükten sonra onaylanmış sayılır. Alçalan Paralel
+
+Kanalın üst direnç çizgisinde arka arkaya düşen tepeler, alt destek
+
+çizgisinde
+ise
+arka
+arkaya
+düşen
+dipler
+oluşması
+beklenir.
+Bu
+
+formasyondaki en mantıklı stratejilerden biri direnç seviyesinde açığa
+
+satış yapmak ve destek çizgisinde alış yapmak olabilir.
+
+102
+
+--- Sayfa 103 ---
+Omuz Baş Omuz (OBO)
+Kanallardan farklı olarak fiyatlar trend değişimine yaklaştığında
+
+farklı formasyonlar alır. Fiyat hareketleri sıkışmaya başlar ve potansiyel
+
+trend değişimi sinyali oluşur. Eğer ki formasyon başarılı olursa belirli bir
+
+süre ana trendin tersi yönünde hareketler görebiliriz.
+
+Bu
+sıkışma
+formasyonlarından
+ilki
+Omuz
+Baş
+Omuz
+
+formasyonudur. Kısaca OBO diye bilinir. Bir yükseliş trendi sonunda
+
+oluşan düşük tepe ve ardından gelen destek kırılımı ile tamamlanır.
+
+Giriş: Boyun Çizgisi Kırılımı
+Stop: Sağ Omuzun Üstü
+Hedef: Boyun Çizgisi ile Baş arasındaki fark kadar aşağı
+
+OBO formasyonu Sol Omuz, Baş ve Sağ Omuzdan oluşur.
+
+Genelde Sağ Omuz ile Sol Omuzun tepe ve dip seviyeleri birbirine
+
+yakındır. Sol Omuzun destek seviyesi Boyun Çizgisi sayılır ve sadece
+
+bu destek seviyesi kırılırsa formasyon onaylanmıştır. Boyun çizgisi ile
+
+Baş arasındaki fark kadar düşüş beklenir.
+
+103
+
+--- Sayfa 104 ---
+Bu formasyona giriş için boyun çizgisinin kırılmasını beklemek en
+
+güvenli seçim olur. Boyun çizgisi kırıldıktan sonra açığa satış işlemi
+
+yapılarak düşüşten kar edilebilir. Sağ omuzun üstüne stop koyulur.
+
+Canlı örnekte gördüğümüz gibi OBO formasyonu pratikte de çalışıyor.
+
+Profesyonel
+bir
+trader,
+sağ
+omuz
+oluşumundan
+itibaren
+
+formasyonu izlemeye alır. Boyun çizgisi kırıldığında açığa satış yaparak
+
+işleme girer, stop seviyesini sağ omuzun üstüne koyar. Hedef olarak
+
+baş ile boyun çizgisi arasındaki farkı belirler.
+
+104
+
+--- Sayfa 105 ---
+Ters Omuz Baş Omuz (TOBO)
+OBO’nun
+tam
+tersi
+formasyon
+olan
+Ters
+Omuz
+Baş Omuz
+
+formasyonu düşüş trendinin sonunda yeni bir yüksek dip oluşmasıyla
+
+görülür.
+
+Giriş: Boyun Çizgisi Kırılımı
+Stop: Sağ Omuz Altı
+Hedef: Baş ile Boyun Çizgisi farkı kadar yukarı
+
+Sol Omuzun direnci Boyun Çizgisi sayılır ve sadece bu çizgi
+
+kırılırsa formasyon onaylanmış olur. Aynı OBO gibi TOBO’da Sol ve
+
+Sağ omuz yakın seviyelerde dip ve tepe oluşturur. Boyun çizgisi
+
+kırıldığında alış işlemi yapılır ve stop sağ omuzun altına koyulur.
+
+Hedef olarak yine Boyun Çizgisi ile Baş arasındaki fark belirlenir.
+
+105
+
+--- Sayfa 106 ---
+Profesyonel bir trader burada yine Boyun Çizgisi kırıldığında alış
+
+işlemi yapar. Stop seviyesini sağ omuzun altına yerleştirir ve hedef
+
+olarak da Baş ile Boyun Çizgisi farkı kadar yukarıyı belirler.
+
+106
+
+--- Sayfa 107 ---
+İkili Tepe
+Güçlü düşüş sinyali veren bir diper formasyon da İkili Tepe
+
+formasyonudur. Fiyatın yükseliş trendi sonunda bir dirençten
+arka
+
+arkaya iki kez reddedilmesi sonucu oluşan bu formasyonlar açığa satış
+
+işlemleri  için iyi fırsatlar ortaya çıkarır.
+
+Giriş: Destek  Kırılması
+Stop: 2. Tepe’nin üstü veya %50’si
+Hedef: Destek ile direnç  arasındaki fark kadar aşağı
+
+1.Tepe’nin destek seviyesi beklenen kırılım seviyesidir. Fiyat 2.
+
+Tepeyi oluşturduktan sonra destek seviyesinin kırılması beklenir. Eğer
+
+ki kırılırsa, kırıldıktan sonra açığa satış işlemi yapılır. Stop 2. Tepe’nin
+
+üstüne veya
+%50 seviyesine koyulur. Hedef olarak Destek ile Direnç
+
+arasındaki fark kadar aşağı seçilir
+107
+
+--- Sayfa 108 ---
+Örnekte gördüğünüz gibi yükseliş trendinde ortaya çıkan İkili Tepe
+
+formasyonu 2.Tepe oluştuktan sonra hızla düşüşe geçmiştir. Destek ve
+
+Direnç arasındaki fark kadar aşağı yönlü hedef belirlenir. Bu hedef
+
+grafikte
+mavi
+dikdörtgen
+ile
+belirtilmiştir.
+Fiyat
+hedefe
+ulaştığında
+
+formasyon tamamlanmış sayılır. Bu noktadan sonra fiyat hızla ana
+
+trend olan yükseliş trendine dönüş yapmış ve yükselmeye başlamıştır.
+
+Piyasada bu gibi formasyonları izleyerek bilinçli bir şekilde işleme
+
+girmek kazanç oranını arttırır ancak yine de piyasa manipülasyonlarına
+
+her zaman dikkat etmek
+gerekir. Örnekte de görüldüğü gibi 1.Tepe
+
+oluştuktan sonra uzun alt gölgesi olan bir yusufçuk doji mum çubuğu ile
+
+Stop Patlatma hareketi gelmiştir. Bu gibi hareketler büyük sermayeli
+
+profesyonel yatırımcıların amatörleri piyasanın tersinde bırakmak için
+
+uyguladığı manipülasyonlara çok iyi bir örnektir.
+
+108
+
+--- Sayfa 109 ---
+İkili Dip
+İkili Tepe formasyonunun tam tersi şeklinde hareket eden İkili Dip
+
+formasyonu düşüş trendinin sonunda oluşur ve potansiyel bir trend
+
+değişiminin
+sinyalini
+verir.
+Fiyatın
+arka
+arkaya
+iki
+kez
+destek
+
+seviyesinden reddedilmesi sonucunda oluşur ve alış işlemi için fırsat
+
+yaratır.
+
+Giriş: Direnç Kırılması
+Stop: 2.Dip altı veya %50’si
+Hedef: Destek  ile Direnç arasındaki fark kadar  yukarı
+
+1.Dip
+sonrasında
+görülen
+direnç
+seviyesi
+beklenen
+kırılma
+
+noktasıdır.
+Bu
+direnç
+kırıldıktan
+sonra
+alış
+işlemi
+yapılır.
+2.Dip
+
+seviyesinin altına veya %50’si kadarına stop koyulur. Hedef olarak
+
+destek ile direnç arasındaki fark kadar yukarı seviye belirlenir.
+
+109
+
+--- Sayfa 110 ---
+Canlı örneğimizde gördüğünüz gibi fiyat 2.Dipten sonra hızla
+
+yükselişte geçer. Direncin kırılmasından sonra alış işlemi yapılır. Hedef
+
+olarak Destek ile Direnç arasındaki fark kadar yukarısı belirlenir. Örnekte
+
+gördüğünüz gibi fiyat önce bu hedefe ulaşmış sonrasında
+eski direnç
+
+seviyesini test etmiş ve desteğe dönüştüğünü onaylamıştır. Sonrasında
+
+kısa bir yükseliş dalgası daha gelmiş ve düşüş trendine geri dönmüştür.
+
+Bu formasyon da hedefe ulaşıldıktan sonra tamamlanmış sayılır.
+
+110
+
+--- Sayfa 111 ---
+Üçlü Tepe
+Üçlü tepe formasyonu ikili tepe ile aynı mantıkta çalışır ancak bu
+
+sefer
+üç
+tepe
+oluşur.
+Görünüşünden
+dolayı OBO formasyonu ile
+
+karıştırılabilir ancak yegane fark OBO’da omuzlar baş seviyesinden
+
+aşağıdayken
+üçlü
+tepede
+her
+tepenin
+birbirine
+yakın
+seviyede
+
+oluşmasıdır.
+
+Giriş: Destek Kırılması
+Stop: 3.Tepe Üstü veya %50’si
+Hedef: Destek ile Direnç arasındaki fark kadar aşağı
+
+Bu formasyonda da destek seviyesi kırılma noktasıdır. Destek
+
+kırıldıktan sonra açığa satış işlemi yapılır ve destek ile direnç arasındaki
+
+fark kadar aşağı hedef koyulur. Stop ise 3.Tepe’nin üstüne veya yarısı
+
+seviyesine ayarlanır.
+
+111
+
+--- Sayfa 112 ---
+Örnekte görüldüğü üzere destek kırılımından sonra açığa satış
+
+işlemi yapılır. H kadar aşağı hedef alınır. Örneğimizde ilk dalga H kadar
+
+düşerek formasyonu tamamlamış sonrasında eski destek seviyesinin
+
+dirence dönüştüğünü test etmiş ve onaylamıştır. Sonrasında düşüşe
+
+devam etmiştir.
+
+112
+
+--- Sayfa 113 ---
+Üçlü Dip
+Üçlü Tepe formasyonunun tam tersi şeklinde çalışan Üçlü Dip
+
+formasyonu da düşüş trendinin sonunda oluşur ve potansiyel bir yükseliş
+
+hareketinin sinyalini verir. Şekil olarak TOBO formasyonuna benzeyen
+
+Üçlü Dip formasyonunun en göze çarpan farkı diplerin birbirine yakın
+
+olmasıdır.
+
+Giriş: Direnç Kırılımı
+Stop: 3.Dip altı veya %50’si
+Hedef: Destek ile Direnç arasındaki fark kadar yukarı
+
+Bu formasyonda direnç seviyesinin kırılmasıyla birlikte işleme
+
+girilir. Stop 3.Dip’in altına veya %50’sine yerleştirilir. Hedef olaraksa
+
+destek ile direnç arasındaki fark kadar yukarısı belirlenir.
+
+113
+
+--- Sayfa 114 ---
+Örnekte gördüğümüz üzere fiyat 3.Dipten sonra hızlı bir yükselişte
+
+geçmiştir. Direnç kırılımından sonra alış yönlü işlem açılır ve destek ile
+
+direnç
+arasındaki
+fark
+kadar yukarı hedef belirlenir. Fiyat burada
+
+hedefimize ulaşıp kısa bir düzeltme sürecine girmiş sonrasında yukarı
+
+yönlü hareketine devam etmiştir.
+
+114
+
+--- Sayfa 115 ---
+V  Tepe
+Diğer formasyonlardan farklı olarak V Tepe ve V Dip formasyonları
+
+ani fiyat kırılmaları olarak bilinir. İşlem için pek fırsat tanımayan bu
+
+formasyonlar fiyatın bir anda yön değiştirdiği zamanlarda görülür.
+
+Giriş:  Direnç bölgesinde oluşan ekstrem mum  çubuğu
+Stop: Tepe seviyesinin üstü
+Hedef: Geçmiş destek seviyesi
+
+Örneğimizde geçmiş direnç seviyesinde oluşan Yutan Mum Ayı
+
+ekstrem mum çubuğu ile açığa satış işlemi açılır. Stop tepe seviyesinin
+
+üstüne, hedef ise geçmiş destek bölgesine koyulur.
+
+115
+
+--- Sayfa 116 ---
+V Dip
+Aynı V Tepe’de olduğu gibi V Dip formasyonunda fiyat bir anda
+
+yön değiştirir ve yükselmeye başlar.
+
+Giriş: Destek bölgesinde oluşan ekstrem mum çubukları
+Stop: Dip seviyesinin altı
+Hedef: Geçmiş direnç seviyesi
+
+Bu formasyonda işleme girmek için geçmiş destek seviyelerini
+
+izleyerek bu
+seviyelerde oluşan ekstrem mum çubuklarını işleme giriş
+
+sinyali olarak değerlendirebiliriz. Bu örnekte
+dip
+seviyesinden sonra
+
+oluşan Doji ve Boğa Marabozu mumuyla birlikte alış işlemi açılır, stop
+
+ise dip seviyesinin altına koyulur. Hedef olarak geçmiş direnç seviyesi
+
+belirlenir.
+116
+
+--- Sayfa 117 ---
+Çanak ve Kulp
+En
+yaygın
+formasyonlardan
+biri
+de
+Çanak
+ve
+Kulp
+
+Formasyonudur. Fiyat
+uzun süreli bir düşüş trendi sonunda fincan
+
+çanağı şeklini alarak daralma döngüsüne girer. Düşüşün başlamadan
+
+önceki direnç seviyesi kırılma noktası olarak alınır. Bu direnç kırıldığında
+
+işleme girilir ve Çanağın dip noktası ile direnç arasındaki fark kadar
+
+yukarı hedef belirlenir.
+
+Giriş: Direnç kırılımı
+Stop: %38.2 Seviyesinin altı
+Hedef: Direnç ve Çanak Dibi arası kadar yukarı
+
+117
+
+--- Sayfa 118 ---
+Örnekte gördüğümüz üzere fiyat Çanak Direncini test ettikten
+
+sonra kulp şeklini oluşturarak düzeltme yapar. Bu düzeltme Çanağın
+
+%38.2’si kadardır. İşleme giriş için üst direncin kırılması beklenir. Stop
+
+%38.2 kulp seviyesinin altına yerleştirilir ve hedef olarak çanağın dip
+
+seviyesi ile direnç arasındaki fark kadar yukarısı belirlenir.
+
+118
+
+--- Sayfa 119 ---
+Üçgen Formasyonları
+En çok görülen fiyat formasyonları arasında Üçgen Formasyonlar
+
+vardır.
+Bu
+formasyonlar
+fiyatın
+sıkıştığı
+ve
+daralmaya
+başladığı
+
+dönemlerde oluşur. Üçgenin uç noktasına gelindiğinde aşağı veya yukarı
+
+yönlü olarak fiyat genişleme evresine geçer ve hızlı bir ralli başlar.
+
+Üçgenler kendi aralarında 3 gruba ayrılır.
+Bunlar;
+1. Simetrik Üçgen
+2. Alçalan Üçgen
+3. Yükselen Üçgen
+
+119
+
+--- Sayfa 120 ---
+Simetrik Üçgen
+Bu
+formasyonda fiyat arka arkaya düşük tepeler oluşturmasına
+
+rağmen yüksek dipler de oluşarak sıkışır. Simetrik üçgenlerde alıcı ve
+
+satıcılar arasında baskın bir taraf olmadığı için ne tarafa kırılacağını
+
+bilemeyiz. Üçgenin uç noktasının kırılmasını ve genişleme evresine
+
+geçmesini bekleriz.
+
+Giriş: Üçgenin destek veya direncinin kırılması
+Stop: Kırılış yönü yukarıya ise üçgenin altına, kırılış yönü aşağı ise
+
+üçgenin üstüne
+Hedef: Üçgenin üst noktası ve alt noktası arasındaki fark kadar aşağı
+
+veya yukarı
+
+120
+
+--- Sayfa 121 ---
+Örnekte gördüğünüz gibi fiyat Simetrik Üçgen formasyonunda alt
+
+desteği kırarak işleme giriş sinyali vermiştir. Profesyonel bir yatırımcı bu
+
+seviyede açığa satış işlemi açar, stop seviyesini üçgenin üstüne koyar
+
+ve H bölgesi kadar aşağı yönlü hedef belirler.
+
+121
+
+--- Sayfa 122 ---
+Alçalan Üçgen
+Bu formasyonda satıcılar baskın olduğu için düşük tepeler oluşur
+
+ancak dipler birbirine yakın seviyelerdedir. Bu yüzden de alıcıların da her
+
+an
+kontrolu
+kazanma
+ihtimali
+olduğunu
+söyleyebiliriz.
+Üçgen
+
+formasyonlarında
+uç
+noktasından
+kırılma
+olmadan
+işleme
+girmek
+
+kesinlikle doğru değildir. Fiyat Alçalan Üçgende de olsa yön değiştirme
+
+ihtimali her zaman vardır. Bu yüzden işleme girmek için genişleme
+
+evresine geçmeyi beklemeliyiz.
+
+Giriş: Üçgenin destek veya direncinin kırılması
+Stop: Kırılış yönü yukarıya ise üçgenin altına, kırılış yönü aşağı ise
+
+üçgenin üstüne
+Hedef: Üçgenin üst noktası ve alt noktası arasındaki fark kadar aşağı
+
+veya yukarı
+
+122
+
+--- Sayfa 123 ---
+Örnekte gördüğünüz gibi Alçalan Üçgende ne kadar satıcılar
+
+baskın görünüyor olsa da alıcılar kontrolu ele geçirmiş ve direnci kırmayı
+
+başarmıştır. Profesyonel bir yatırımcı bu noktada alış yaparak işleme
+
+girer, Stopu üçgenin altına koyar ve hedef olarak üçgenin tepe noktası
+
+ile dip noktası arasındaki fark kadar yukarı yönlü bir hedef belirler.
+
+123
+
+--- Sayfa 124 ---
+Yükselen Üçgen
+Yükselen Üçgen formasyonunda alıcılar güçlüdür. Bu yüzden arka
+
+arkaya oluşan yüksek dipler görmek mümkündür. Ancak burada direnç
+
+kırılamadığı için birbirine yakın tepeler oluşur. Bu formasyonda da işleme
+
+girmek
+için
+üçgenin
+kırılmasını
+ve
+genişleme
+evresine
+geçmesini
+
+beklemeliyiz.
+
+Giriş: Üçgenin destek veya direncinin kırılması
+Stop: Kırılış yönü yukarıya ise üçgenin altına, kırılış yönü aşağı ise
+
+üçgenin üstüne
+Hedef: Üçgenin üst noktası ve alt noktası arasındaki fark kadar aşağı
+
+veya yukarı
+
+124
+
+--- Sayfa 125 ---
+Örnekte de gördüğümüz üzere fiyat arka arkaya yükselen dipler
+
+oluşturmakta ancak üst direnci kıramadığı için tepe seviyeleri birbirine
+
+yakın.
+Profesyonel
+bir
+yatırımcı
+bu
+oluşan
+yükselen
+üçgen
+
+formasyonunun kırılmasını bekler ve kırılma noktasında işleme girer,
+
+Stop seviyesini üçgenin altına koyar ve hedef olarak üçgenin tepe
+
+noktası ile dip noktası arasındaki fark kadar yukarıyı belirler.
+
+Üçgen
+formasyonları
+en
+çok
+görülen ve kolay farkedilebilen
+
+formasyonlardır. Başarı oranınızı arttırmak için kesinlikle üçgenin
+
+kırılmasını bekleyin. Fiyatın genişleme evresindeki yönünü bilmek her
+
+zaman işe yarar. Yine de bu formasyonlarda boğa ve ayı tuzakları çok
+
+yaygındır. Üçgen kırılmış gibi görünebilir. Bu tuzaklardan kaçınmak
+
+için onay mumları ile işleme girmek akıllıca olacaktır.
+
+125
+
+--- Sayfa 126 ---
+Yükselen Takoz
+Takoz formasyonları sıklıkla üçgen formasyonları ile karıştırılır
+
+ancak yegane fark Takoz formasyonunda hem yüksek tepe hem de
+
+yüksek dip oluşmasıdır. Bu formasyonlar genellikle aşağı yönlü işleme
+
+girmek
+için
+fırsat
+olarak
+değerlendirilir.
+Düşüş
+trendinde
+devam
+
+formasyonu olarak bilinir. Yine de formasyonun tamamlanması ve
+
+destek çizgisinin kırılmasını beklemek akıllıca olur.
+
+Giriş: Formasyonu desteğinin kırılması
+Stop: Son Yüksek Tepe’nin üstü
+Hedef: Formasyonun ilk dalgası kadar aşağı
+
+126
+
+--- Sayfa 127 ---
+Örnekte
+gördüğümüz üzere formasyon desteğinin kırılmasıyla
+
+birlikte işleme girilir, formasyonun son yüksek tepe noktasının üstüne
+
+stop koyulur ve ilk dalganın boyu kadar aşağı hedef  yerleştirilir.
+
+127
+
+--- Sayfa 128 ---
+Alçalan Takoz
+Alçalan
+Takoz
+formasyonu
+ise
+yükseliş
+trendinde
+düzeltme
+
+formasyonu olarak fiyatın sıkışması sonucu ortaya çıkar. Arka arkaya
+
+gelen düşük tepe ve düşük dipler oluşur. Yükselen Üçgenden yegane
+
+farkı dip seviyelerinin birbirine yakın olmamasıdır.
+
+Giriş: Formasyonu direncinin kırılması
+Stop: Son Düşük Dip seviyesinin altı
+Hedef: Formasyonun ilk dalgası kadar yukarı
+
+128
+
+--- Sayfa 129 ---
+Örnekte görüldüğü gibi formasyonun üst direnci kırılması ile alış
+
+işlemine girilir. Son dip seviyesinin altına stop koyulur ve formasyonun ilk
+
+dalgası kadar yukarı hedef belirlenir.
+
+Alçalan Üçgen formasyonu ile karıştırmamak için dip noktalarına
+
+dikkat etmeniz yeterli olur. Alçalan Üçgen formasyonunda dipler birbirine
+
+yakında oluşurken Alçalan Takoz’da arka arkaya düşük dip oluşur ve
+
+fiyat gittikçe sıkışır.
+
+129
+
+--- Sayfa 130 ---
+Elmas (Karo)
+
+Elmas formasyonu nadir görülen formasyonlardan biridir. Yükseliş
+
+trendinin sonunda oluştuğunda fiyatın düşeceğinin sinyalini verir. Önce
+
+genişleyen sonra daralan fiyat aralıklarından oluşan bu formasyon Karo
+
+veya Elmas Formasyonu olarak bilinir ve kolayca tanınabilir.
+
+Giriş: Formasyon kırılması  ile  açığa satış
+Stop: Formasyon tepe noktasının üstü
+Hedef: Formasyonun dip ve tepe noktası arasındaki fark kadar aşağı
+
+130
+
+--- Sayfa 131 ---
+Örnekte görüldüğü üzere karo formasyonunun geçerli sayılabilmesi
+
+için yükseliş trendinin sonunda oluşması gerekmektedir. Önce dar sonra
+
+bir anda genişleyen ve ardından tekrar daralan fiyat aralıkları karo
+
+formasyonunda dikkat edilmesi gereken yegane özelliklerden biridir.
+
+Hedef belirlerken formasyonun ortasında bulunan en düşük dip noktası
+
+ve en yüksek tepe
+noktası baz alınır. Aynı aralık kadar aşağı yönlü
+
+mesafe
+hedef
+olarak
+seçilir.
+Stop
+seviyesi ise formasyonun tepe
+
+noktasının üstüne veya yarısına koyulabilir.
+
+131
+
+--- Sayfa 132 ---
+Bayrak
+Devam Formasyonu olarak bilinen Bayrak Formasyonları genelde
+
+trendin
+ortasında
+oluşur.
+Daralma
+sürecinde
+ortaya
+çıkan
+Bayrak
+
+Formasyonları trendin tersi yönünde oluşan düzeltme hareketleridir.
+
+Hem boğa hem de ayı trendinde oluşabilen Bayrak Formasyonu güncel
+
+trend devam etmeden önce kısa süreli bir düzeltme yapacağının sinyalini
+
+verir. Trend yönünde işleme girmek için bir fırsattır.
+
+Boğa Bayrak Formasyonu
+Bayrak Formasyonu yükseliş trendinde oluştuğunda buna Boğa
+
+Bayrak Formasyonu denir. Fiyat hızlı bir yükselişin ardından adeta bir
+
+bayrak
+şeklini
+alarak
+daralma
+evresine girer. Sonrasında direncin
+
+kırılmasıyla tekrar yükselişe geçer ve formasyon tamamlanır.
+
+Giriş: Formasyon direnci kırılması
+Stop: Formasyon desteğinin altı
+Hedef: Bayrak Direği uzunluğu kadar yukarı
+
+132
+
+--- Sayfa 133 ---
+Örnekte gördüğümüz gibi Boğa Bayrak Formasyonu bir devam
+
+formasyonudur. Yani yükseliş trendi ortasında oluşur ve trendin devam
+
+edeceği sinyalini verir. Bu formasyon oluştuğunda örnekte gördüğümüz
+
+gibi son yükseliş dalgasından çekilen bir trend çizgisi ile formasyonun
+
+Bayrak Direği kısmını bulabiliriz. Bir süre daralma evresi geçerek düşen
+
+fiyat formasyonun direncinin kırılmasıyla genişleme evresine geçer. Bu
+
+bizim
+al
+sinyalimizdir.
+Formasyonun
+kırılımından
+sonra
+önceden
+
+belirlediğimiz Bayrak Direği’nin uzunluğu kadar yükseliş hedefleriz.
+
+133
+
+--- Sayfa 134 ---
+Ayı Bayrak Formasyonu
+Bayrak Formasyonu düşüş trendinde oluştuğu zaman buna Ayı
+
+Bayrak Formasyonu denir. Fiyat, hızlı bir düşüş hareketinin ardından
+
+daralma evresine geçer ve güçsüz bir yükseliş dalgası gelir. Sonrasında
+
+bayrak desteğinin kırılmasıyla birlikte fiyat tekrar genişleme evresine
+
+geçer ve düşüşe devam eder. Bu düşüşün bayrak direği uzunluğu kadar
+
+olması beklenir.
+
+Giriş: Formasyon desteğinin kırılması
+Stop: Formasyon direncinin üstü
+Hedef: Bayrak Direği uzunluğu kadar aşağı
+
+134
+
+--- Sayfa 135 ---
+Örnekte görüldüğü üzere Ayı Bayrak Formasyonu aynı Boğa
+
+Bayrak gibidir ancak tam tersi şekilde hareket eder ve düşüş trendinin
+
+ortasında oluşur. Güçlü bir düşüş dalgası sonunda daralma evresine
+
+giren fiyat trendin tersi yönünde düzeltme hareketine başlamıştır. Kısa
+
+bir
+süre
+yükseldikten
+sonra
+Bayrak
+Desteğinin
+kırılmasıyla
+düşüş
+
+trendine devam eder. Bu noktada açığa satış işlemine girip hedef olarak
+
+bayrak direğinin uzunlugu kadar aşağı seviyede bir hedef belirlemek
+
+akıllıca olur. Stop seviyemiz ise bayrak direncinin üst kısmına koyulabilir.
+
+135
+
+--- Sayfa 136 ---
+Flama
+Bayrak direği ve üçgen uçlardan oluşan Flama Formasyonu
+
+genellikle Üçgen Formasyonları ile karıştırılır. Ancak Üçgenlerin aksine
+
+Flama genellikle bir devam formasyonudur. Yani yükseliş trendinde
+
+oluşan bir flama güncel trendin daralma evresine girdiğini bu yüzden kısa
+
+bir düşüş yaşadığını gösterir. Trendin devam etme ihtimali yüksektir bu
+
+yüzden flama formasyonlarının kırılmasıyla birlikte trend yönünde işleme
+
+girmek akıllıca olur. Üçgenler ile Flama Formasyonunun yegane farkı
+
+Flama’nın güçlü bir yükseliş veya düşüş dalgasının hemen sonrasında
+
+trendin ortasında oluşmasıdır. Bu güçlü dalga Flama Formasyonunun
+
+direği
+görevi
+görür.
+Aynı
+Bayrak
+Formasyonu
+gibi
+Flama
+
+Formasyonunda da hedef belirlemek için direk boyutunu referans alırız.
+
+Yükseliş Trendinde Flama
+
+Giriş: Flama direncinin kırılması
+Stop: Flama desteğinin altı
+Hedef: Bayrak Direği boyu kadar yukarı
+136
+
+--- Sayfa 137 ---
+Aynı Bayrak Formasyonu gibi Flama Formasyonunda da direnç
+
+kırılması ile işleme girer ve hedef olarak bayrak direği kadar yukarıyı
+
+hedefleriz. Stop ise formasyonun destek bölgesinin altında olmalıdır.
+
+Üçgenlerden yegane farkı Flama Formasyonunun örnekteki gibi güçlü bir
+
+dalganın ortasında oluşmasıdır.
+
+137
+
+--- Sayfa 138 ---
+Düşüş Trendinde Flama
+
+Giriş: Flama desteğinin kırılması
+Stop: Flama direncinin üstü
+Hedef: Bayrak Direği boyu kadar aşağı
+
+138
+
+--- Sayfa 139 ---
+Düşüş trendinde oluşan Flama Formasyonlarında fiyat kısa süreli
+
+bir daralma evresine girerek yükselişe geçer. Daralma evresi bittiğinde
+
+destek kırılır ve düşüş trendine devam eder. Bu destek kırılımı giriş
+
+sinyalimizdir. Açığa satış işlemi açılır, hedef olarak bayrak direğinin boyu
+
+kadar aşağısı belirlenir ve stop formasyonun direncinin üstüne ayarlanır.
+
+Bu kitapta sadece başlangıç seviyesindeki formasyonlara yer
+
+verilmiştir. Karar aşamasında formasyonlar büyük rol oynasa da sadece
+
+fiyat formasyonlarına bakarak işlem yapılması doğru değildir. İşleme
+
+girilmeden önce mum çubukları, destek direnç bölgeleri, indikatörler ve
+
+fibonacci seviyeleri gibi farklı sinyalleri bir arada değerlendirilmelidir.
+
+139
+
+--- Sayfa 140 ---
+Zaman Dilimleri
+Yüksek Zaman Dilimi
+
+En çok kullanılan yüksek zaman dilimi grafikleri;
+●Aylık
+●Haftalık
+●Günlük
+●4 Saatlik
+
+Grafikleri incelerken büyük resmi görmek için birden fazla zaman
+
+dilimine bakmalıyız. Genelde 4 saat ve üzeri zaman diliminde bulunan
+
+grafikler yüksek zaman dilimini grafiği olarak bilinir. Analize başlarken
+
+önce aylık ve haftalık zaman dilimindeki grafiklere bakarak en güçlü
+
+destek-direnç bölgelerini işaretleriz. Daha sonra günlük zaman dilimine
+
+inerek güncel trendin yönünü belirler, alıcılar ve satıcılar arasındaki
+
+baskın
+tarafa
+bakarız.
+Bu
+noktada
+analizimizi
+sorular
+sorarak
+
+derinleştirebiliriz.
+Örneğin;
+●Son yıllarda trend ne yönde ilerliyor?
+●Yüksek zaman diliminde alıcılar mı yoksa satıcılar mı baskın?
+●Aylık ve haftalık grafikte en güçlü destek ve direnç bölgeleri
+
+nerede?
+●Haftalık grafikteki en son dip ve tepe hangi bölgelerde?
+140
+
+--- Sayfa 141 ---
+Mesela yukarıdaki Euro/Dolar paritesinin haftalık grafiğine bir
+
+bakalım. Destek ve Direnç seviyelerini siyah çizgiler ile işaretledik.
+
+Haftalık grafikte bu bölgeler güçlü tepkiler alan bölgeler. Haftalık grafikte
+
+tepki alan bölgelerin mavi kare içine aldığımız Günlük grafik bölgesinde
+
+de tepki aldığını görüyoruz. Aynı anda Haftalık grafikte oluşan Omuz
+
+Baş
+Omuz
+formasyonu
+günlük
+grafikte düşüş trendinin sebebini
+
+açıklıyor.
+
+141
+
+--- Sayfa 142 ---
+Aynı Euro/Dolar grafiği yukarıdaki resimde sadece mavi kare
+
+içindeki alana yani günlük grafik bölgesine bir bakalım. Haftalıkta
+
+çizdiğimiz destek ve direnç seviyeleri gördüğünüz üzere günlük grafikte
+
+fazlasıyla tepki almaktadır. Profesyonel bir yatırımcı önce aylık grafikte
+
+ana destek ve direnç bölgelerini belirler. Daha sonra haftalık grafikte
+
+tepki alan güçlü bölgelere bakar ve sonrasında da günlük grafiğe inerek
+
+güncel algıyı anlamaya çalışır.
+Unutmayın, fiyatların aylık ve haftalık grafik gibi yüksek zaman
+
+dilimi
+grafiklerinde
+bulacağınız
+destek
+ve
+direnç
+bölgelerine
+tepki
+
+gösterme olasılığı düşük zaman dilimindekilere göre çok daha yüksektir.
+Yüksek zaman diliminde piyasa oyuncularından hangi taraf baskın ise bu
+
+baskınlık düşük zaman dilimindeki fiyat hareketlerine de yansır. Örneğin;
+
+günlük
+grafikte güçlü bir düşüş trendi varsa 30 dakikalık grafiğe
+
+baktığınızda satıcıların güçlü olduğunu ve fiyatın dirençleri geçmekte
+
+zorlandığını görebilirsiniz.
+
+Düşük Zaman Dilimi
+4 saat ve altında bulunan grafikler düşük zaman dilimi grafiği
+
+olarak değerlendirilir.
+
+En çok kullanılan Düşük Zaman Dilimi grafikleri;
+●2 Saat
+●30 Dakika
+●15 Dakika
+●5 Dakika
+●1 Dakika
+
+Yüksek zaman dilimindeki önemli bölgeleri işaretledikten sonra
+
+Scalper veya Day-Trader gibi kısa süreli işlem yapmayı hedefleyen
+
+traderlar
+analizlerini
+derinleştirmek
+adına
+düşük
+zaman
+dilimlerine
+
+geçerler. Genelde sadece aynı gün işlem yapan Day-Traderlar işleme
+
+giriş için 15 ve 5 dakikalık grafikleri kullanır. Analiz içinse 2 ve 4 saatlik
+
+grafiklere bakar.
+142
+
+--- Sayfa 143 ---
+Genelde amatör traderlar konu paraya gelince pek sabretmek
+
+istemez. Bir an önce
+işleme girip çıkmak ve para kazanmak isterler.
+
+Bunun
+farkında
+olan
+profesyoneller,
+amatörleri
+piyasanın
+tersinde
+
+bırakmak adına fiyatları manipüle edebilir. Yüksek zaman dilimindeki
+
+fiyat hareketlerini manipüle etmek pek kolay olmasa da düşük zaman
+
+dilimindeki fiyat hareketleri bazı piyasalarda manipülasyona açıktır. Ani
+
+fiyat değişimleri, stop patlatma hareketleri, aynı mum içinde hem zirve
+
+hem tepe hareketleri, boğa ve ayı tuzakları gibi sıra dışı olaylar
+
+piyasadaki manipülasyonun göstergeleridir.
+Bu gibi manipülasyonlara
+
+maruz kalmamak için amatör traderların sabırlı olmayı öğrenip yüksek
+
+zaman dilimindeki temiz grafiklerle işlem yaparak başlaması ve tecrübe
+
+kazandıktan sonra yavaş yavaş kısa süreli işlemlere geçmesi daha
+
+sağlıklı olacaktır.
+
+143
+
+--- Sayfa 144 ---
+İndikatörler
+Hacim (Volume)
+İşlem hacmi bir finansal ürünün gün içerisinde gerçekleşen alım
+
+satım işlemlerinin toplam değeridir. İşlem hacmini hesaplamak için ilgili
+
+ürünün günlük işlem adeti ile işlem gördüğü fiyatı çarpılır. Tabi bunu
+
+bizim için yapan Hacim İndikatörleri varken Hacim analizi yapmak çok
+
+daha kolay olur.
+
+Tradingview’de
+grafiğinize
+otomatik
+olarak
+Hacim
+İndikatörü
+
+eklidir. Ancak yoksa eklemek için üst çubukta bulunan Göstergeler ve
+
+Stratejiler kısmından bulabilirsiniz.
+
+İndikatörü eklediğinizde aşağıdaki gibi grafiğin alt bölümüne hacim
+
+göstergesi eklenecektir.
+
+Fiyat hareketlerini onaylamak için hacim indikatöründen onay
+
+alabiliriz. Örneğin; bir fiyat yükselişinde fiyat ile birlikte hacim de
+
+yükseliyorsa ilgili ürüne talep artıyor demektir. Yani fiyat artışı doğal ve
+
+sağlıklıdır. Ancak fiyat armasına rağmen hacim yükselmiyorsa bir sahte
+
+bir artış ile karşı karşıya olabilirsiniz.
+
+144
+
+--- Sayfa 145 ---
+Yukarıdaki örnekte gördüğünüz gibi ağustos ayının başında güçlü
+
+bir yükseliş hareketi beraberinde Hacim artışı olmuştur. Bu yüzden bu
+
+yükseliş hareketinin hacim tarafından onaylandığını ve devam edeceğini
+
+söyleyebiliriz.
+
+Hacim indikatörünü hareketleri onaylamak dışında güncel trendi
+
+yorumlamak için de kullanabiliriz. Güncel trend yükseliş trendi ise fiyat
+
+yükseldikçe hacim artmalı, fiyat düştükçe hacim azalmalıdır. Çünkü
+
+yatırımcılar kazanç oranlarını yükseltmek adına genelde trend ile birlikte
+
+hareket ederler. Bu da yükseliş trendinde artış yönlü hareketlerin işlem
+
+hacminin artmasına neden olur.
+
+Tam tersi şekilde düşüş trendinde ise fiyat düştükçe işlem hacmi
+
+yükselirken fiyat yükseldikçe işlem hacmi azalır.
+
+145
+
+--- Sayfa 146 ---
+Göreceli Güç Endeksi  (RSI)
+En çok kullanılan indikatörlerden biri de RSI’dır. RSI indikatörünü
+
+grafiğinize eklediğinizde 0 ile 100
+arasında ilerleyen bir çizgi grafiği
+
+göreceksiniz.  Bu çizgi değerine bakarak 3 farklı sinyal elde edebiliriz.
+
+İlk olarak RSI çizgisinin orta değeri 50’dir. 50 nötr bölge olarak
+
+geçer. Çizgi 50’nin üstü bir değer gösterdiğinde fiyatın yükseliş eğilimli,
+
+50’nin altında bir değer gösterdiğinde ise düşüş eğilimli olduğunu
+
+varsayarız.
+
+İkinci olarak RSI’da aşırı alış ve aşırı satış bölgeleri vardır. Eğer
+
+ki RSI çizgisi 70 değerinin üzerinde ise aşırı alış bölgesindedir. Yani
+
+göstergenin ölçüm periyoduna göre fiyat son zamanlarda ortalamanın
+
+üstünde yükselmiştir. Aşırı alış yapılıyordur.
+
+Öte yandan RSI değeri 30 seviyesinin altında ise aşırı satış
+
+bölgesindedir. Yani son zamanlarda satış işlemleri ortalamaya göre çok
+
+yükselmiştir.
+
+146
+
+--- Sayfa 147 ---
+Genelde RSI aşırı satış bölgesine geldiğinde bunu bir al sinyali,
+
+aşırı alış bölgesine geldiğinde ise sat sinyali olarak değerlendirilir. Yine
+
+de sadece bu göstergeye bakarak alış ve satış yapmak uzun süreçte
+
+başarısızlıkla sonuçlanacaktır. Göstergeler fiyatın gerisinden gelen
+
+sinyaller ürettiği için size şu anki durumu anlatabilir ancak gelecekte ne
+
+olacağını söyleyen herhangi
+bir gösterge bulunmamaktadır.
+Hatta
+
+göstergeler bir çok kez yanlış sinyal vererek sizi yanlış yönlendirebilir. Bu
+
+yüzden tek bir göstergeye güvenerek hareket etmek
+pek akıllıca
+
+değildir. Fiyat hareketleri her zaman göstergelerden daha önemlidir.
+
+RSI göstergesinden bir diğer yarar sağlayabileceğimiz yöntem ise
+
+uyumsuzluk yöntemidir. Onaylanmış bir yükselişte fiyat yükseldikçe
+
+gösterge de yükselmelidir. Bu demek oluyor ki bir yükseliş trendinde
+
+fiyat her yüksek tepe ve yüksek dip oluşturduğunda RSI göstergesinde
+
+de
+yeni
+bir
+yüksek
+tepe
+ve
+yüksek
+dip
+oluşmalı.
+Ancak
+fiyat
+
+yükselmesine rağmen RSI düşüyorsa bu bir gösterge uyumsuzluğuna
+
+işaret ediyordur.
+147
+
+--- Sayfa 148 ---
+Fiyat
+hareketleri
+ile
+göstergenin
+birbirini
+doğrulamadığı
+bu
+
+uyumsuzluklarda
+güncel
+trendin
+zayıfladığını
+ve
+değişebileceğini
+
+varsayarız.
+
+Fiyat hareketi ile RSI uyumlu olduğunda yani gösterge fiyatı
+
+onayladığında aşağıdaki gibi görünür.
+
+Örneğimizde
+fiyat
+yükselişi
+ile
+birlikte
+RSI’da
+paralel
+olarak
+
+yükselmiştir.
+Bu
+göstergenin
+fiyat
+yükselişini
+onayladığını
+gösterir.
+
+Güncel trend devam ediyordur.
+
+148
+
+--- Sayfa 149 ---
+Uyumsuzluk örnekleri ise aşağıdaki grafiklere bir bakalım
+
+Örnekte
+gördüğünüz
+gibi
+fiyat
+yüksek
+tepe
+ve
+yüksek
+dip
+
+oluşturarak yükselişte geçmiştir ancak RSI indikatörü aynı şekilde
+
+hareket etmemiştir. Bu uyumsuzluktan yükselişin sahte veya güçsüz
+
+olabileceğini anlayabiliriz. Bilinçli bir yatırımcı bu fiyat yükselişinde son
+
+yüksek tepe oluştuğunda
+RSI göstergesinin hala uyumsuzluk sinyali
+
+verdiğini farkedip son dalgada oluşmuş kayan yıldız ve asılan adam gibi
+
+düşüş sinyali veren mum çubuklarını hesaba katarak pozisyonunu
+
+kapatma kararı alabilir veya açığa satış işlemi açardı.
+
+149
+
+--- Sayfa 150 ---
+Bu örneğimizde ise RSI uyumsuzluğunu çok daha net bir şekilde
+
+görebilirsiniz.
+Fiyat yükseliyor olmasına karşı RSI belirgin bir şekilde
+
+düşerek güçlü uyumsuzluk sinyalleri vermektedir. Bunun sonucunda fiyat
+
+uyumsuzluğa tepki vererek tekrar düşüş trendine geçmiştir.
+
+150
+
+--- Sayfa 151 ---
+Bu örnekte ise
+uzun süredir
+düşüş trendinde
+olan bir hissenin
+
+RSI ile uyumsuzluğunu
+görüyoruz. Fiyat düşmesine
+rağmen RSI
+
+göstergesi
+yükseliyor.
+Bu
+da
+düşüş
+trendinin
+yavaş
+yavaş
+güç
+
+kaybettiğini ve trendin tersi yönünde bir
+hareket olabileceğini bize
+
+gösterir. Fiyat periyodik olarak düşük dip oluşturmasına rağmen
+RSI
+
+aynı anlarda yüksek dip oluşturarak uyumsuzluk sinyali veriyor. En
+
+sonunda
+4. Uyumsuzluk sinyali geldikten sonra
+fiyat güçlü bir
+
+genişleme evresine geçerek yükseliş göstermiştir.
+
+Genelde arka arkaya oluşan ilk iki uyumsuzluk sinyali bir
+
+uyarıdır.Arka arkaya oluşan üç uyumsuzluk sinyali ciddiye alınması
+
+gereken bir sinyaldir ve temkinli davranılmalıdır. Arka arkaya gelen dört
+
+uyumsuzluk sinyali trend değişimine onay verir diyebiliriz.
+
+151
+
+--- Sayfa 152 ---
+MACD
+
+MACD indikatörü diğerlerinden biraz daha karmaşık ancak kullanışlı bir
+
+indikatördür. Tradingview’de yine Göstergeler ve Stratejiler bölmesinden
+
+MACD indikatörünü grafiğinize eklediğinizde aşağıdaki gibi bir eklenti
+
+oluşmalıdır.
+
+Yukarıda gördüğünüz grafiğin alt tarafında bulunan kısım MACD
+
+indikatörüdür. Standart olarak mavi ile gösterilen çizgi 12 ve 26 günlük
+
+hareketli ortalamaların birbirinden çıkarılması sonucu oluşan MACD
+
+çizgisidir. Sarı çizgi sinyal çizgisi olarak bilinir ve 9 günlük üssel hareketli
+
+ortalamayı temsil eder. Arkada bulunan yeşil ve kırmızı dökdörtgenlerin
+
+olduğu kısım ise histogram bölümüdür. Histogramın ortası ise
+sıfır
+
+çizgisidir. MACD ve Sinyal çizgisinin sıfır çizgisine göre yukarıda olması
+
+pozitif, aşağıda olması negatif bir sinyaldir.
+
+152
+
+--- Sayfa 153 ---
+Aynı zamanda iki çizginin yukarı yönlü kesişmesi yani mavi
+
+çizgisinin yukarıda, sarı çizginin aşağıda kalması pozitif sinyal olarak
+
+algılanır ve yükseliş beklenir. Mavi çizginin sarı çizgiyi
+aşağı yönlü
+
+kesmesi ise negatif
+sinyal olarak algılanır ve düşüş beklenir.
+MACD
+
+indikatörünün alım satım sinyalleri bu kesişmelerin olduğu anda gelir.
+
+Geçmişte bir kesişme
+olmuşsa ve şu anda devam ediyorsa trend
+
+önceden değişmiş şu anda ilerme sürecinde diyebiliriz.
+
+Örnekte gördüğümüz gibi 2019’un başında MACD indikatöründe
+
+mavi MACD çizgisi ve sarı sinyal çizgisini yukarı yönlü olarak keserek al
+
+sinyali vermiştir. Bu sinyal sonrasında yükselişe geçen fiyat Mart ayına
+
+kadar bu yükseliş trendinde devam etmiş ve sonrasında kısa bir daralma
+
+hareketine başlamıştır. Bu hareketin başında da mavi MACD çizgisinin
+
+sarı
+sinyal
+çizgisini
+aşağı
+yönlü
+keserek
+sat
+sinyali
+verdiğini
+
+görebilirsiniz. İlerleyen aylarda tekrar yükseliş trendinde seyreden fiyat
+
+153
+
+--- Sayfa 154 ---
+mayıs ayının başına geldiğimizde trend değişimine yaklaşmaktadır. Bu
+
+noktasa MACD çizgisi tekrar sat sinyali verecek şekilde sarı
+sinyal
+
+çizgisini aşağı yönlü kesmiştir. Buradan da anlaşılacağı üzere MACD
+
+indikatörü trend başlangıçlarını ve bitişlerini basit bir şekilde
+bize
+
+belirtmektedir. Bize düşen bu sinyalleri doğru yorumlamak ve trend
+
+doğrultusunda işleme girmektir.
+
+MACD indikatörünün bir diğer kullanım şekli ise aynı RSI gibi
+
+uyumsuzluk gösteriyor olmasıdır. Fiyat yükselirken MACD’nin düşmesi
+
+veya fiyat düşerken MACD’nin yükselmesi uyumsuzluğu temsil eder ve
+
+fiyat trendinin değişebileceğini gösterir.
+
+Yukarıdaki
+örnekte
+gördüğünüz
+gibi
+MACD
+indikatörü
+fiyat
+
+düşmesine rağmen yükselerek periyodik olarak uyumsuzluk sinyali
+
+vermiştir. Fiyatın her oluşturduğu düşük dip karşısında MACD’de
+
+yüksek dip oluşmuştur. Bu gibi uyumsuzluk durumlarında fiyata değil de
+
+göstergeye güvenmeniz akıllıca olacaktır. Ancak her uyumsuzluk sinyali
+
+al demek değildir. Örnekte 4 adet uyumsuzluk sinyali sonunda fiyat
+
+154
+
+--- Sayfa 155 ---
+uyumsuzluğu düzeltmek amacıyla kısa bir süre yön değiştirmiş ve
+
+yükseliş
+göstermiştir.
+Sonrasında
+22.
+güne
+gelindiğinde
+indikatör
+
+uyumsuzluğu düzeldiği için fiyat ana trendi olan düşüş trendinde geri
+
+dönmüştür. Bu ani düşüşten önce MACD çizgisi tekrar sarı sinyal çizgisi
+
+ile aşağı yönlü kesişerek düşüşün sinyalini vermiştir.
+
+Örnekte
+de
+gördüğümüz
+gibi
+MACD
+indikatörü
+çizgilerin
+
+kesişmesiyle al,sat sinyali verdiği gibi uyumsuzluk sinyalleri sayesinde de
+
+potansiyel trend değişimlerini önceden haber verebilmektedir. Yine de
+
+hiçbir indikatör tek başına güvenilecek kadar iyi değildir. Sadece
+
+stratejinizin bir parçası olmalıdır.
+
+Bollinger Bantları
+Bollinger
+Bantları
+1980’li
+yıllarda
+John
+Bollinger
+tarafından
+
+geliştirilmiş bir analiz yöntemidir. Fiyat etrafında oluşan 3 adet çizgiden
+
+meydana gelir. Ortada oluşan çizgi 20 Hareketli ortalamayı baz alır, alt
+
+çizgi 20 Hareketli ortalama - 2 Standart Sapma ve üst
+çizgi ise 20
+
+Hareketli Ortalama + 2 Standart Sapma şeklinde hesaplanarak grafiğe
+
+yansır.
+
+Bollinger Bantları,
+fiyatın ortalamadan ne kadar uzaklaştığını
+
+ölçerek
+sinyal oluşturur. Genelde fiyatlar periyodik olarak 20 Hareketli
+
+Ortalamaya dönüş yapar. Bu yüzden Bollinger Bantları fiyatın yönü
+
+hakkında hızlı ve kolay fikir vermesi açısından çok kullanışlıdır.
+
+Tradingview’de Göstergeler ve Stratejiler butonuna basıp Bollinger
+
+Bantları diye aratırsanız grafiğinize ekleyebilirsiniz. Eklendikten sonra
+
+grafik aşağıdaki gibi görünecektir.
+155
+
+--- Sayfa 156 ---
+Yukarıda gördüğünüz gibi fiyat etrafında oluşan 3 çizgi Bollinger
+
+Bantlarıdır. Ortada koyu kırmızı ile temsil edilen çizgi 20 Hareketli
+
+Ortalamayı gösterir. Temelde fiyat bu orta çizginin üzerinde ise yükseliş
+
+trendinde, altında ise düşüş trendinde olduğunu anlayabiliriz.
+
+Yükseliş trendindeyken Orta Çizgi destek görevi görür. Düşüş
+
+trendinde ise aynı Orta Çizgi direnç görevindedir. Üst ve alt bantlar
+
+volatilitenin
+yani
+fiyat
+değişkenliğinin
+yüksek
+olduğu
+dönemlerde
+
+genişlerken volatilitenin düşük olduğu dönemlerde daralır.
+
+Bantların daralmış olması fiyatın da daralma evresine girdiğini
+
+belirtir ve yakın zamanda bir yöne doğru genişleme başlayarak hızlı fiyat
+
+hareketleri görülecektir. Bollinger Bantlar daralıp genişleyerek fiyatın bu
+
+evrelerin hangisinde olduğunu anlamamızı kolaylaştırır ancak kırılma
+
+olduğunda ne tarafa olacağını söylemez.
+
+Genelde alt Bollinger Bandı her trend döngüsünde destek, üst
+
+Bollinger Bandı ise her trend döngüsünde direnç görevi görür. Alt
+
+banttan yükselişe geçen bir fiyat hareketi, orta bant seviyesini geçerse
+
+üst bant seviyesine kadar yükseleceği varsayılır.
+
+156
+
+--- Sayfa 157 ---
+Yukarıdaki örnekte gördüğünüz üzere Bollinger Bantları Mayıs
+
+ayının 13’ünde daralarak potansiyel bir kırılmanın sinyalini vermiştir.
+
+Takip eden günlerde fiyat aşağı yönlü güçlü bir düşüş trendine girmiş ve
+
+alt Bollinger Bandına yapışarak düşüşe devam etmiştir. Bu noktada
+
+dikkat etmemiz gereken nokta alt Bollinger Bandının fiyat her düşük dip
+
+oluşturduğunda destek olarak görev yapıyor olması.
+
+Ancak düşüş trendinde satıcılar baskın olduğu için destekler ilk 4
+
+dokunuşun hiçbirinde fiyatı yükseltecek kadar güçlü değildir. Fiyat 5.kez
+
+alt banda dokunduğunda bu seviye güçlü bir destek oluşturmuş ve fiyatı
+
+bir süreliğine yükseltmiştir. Öte yandan düşüş trendinde satıcılar güçlü
+
+olduğu için üst
+Bollinger Bandına fiyat
+her dokunduğunda güçlü bir
+
+dirençle karşılaşmış ve bu dokunuşlar düşüşü hızlandırmıştır.
+
+İndikatör bölümümüzün sonuna gelirken şunu da belirtmek isterim,
+
+hiçbir
+indikatör
+size
+%100
+doğru
+sinyaller
+vermez. Gelecekte ne
+
+157
+
+--- Sayfa 158 ---
+olacağını kesinlikle söylemez. Sadece fiyatın ne durumda olduğunu
+
+yansıtır. Sırf RSI 30’un altında aşırı satış bölgesinde
+olduğu için alım
+
+yapmak veya 70’in üstünde aşırı alış bölgesinde olduğu için satış
+
+yapmak çok riskli ve yanlış bir yaklaşımdır. Lakin finansal ürünler
+
+günlerce aşırı alış bölgesinde kalmasına rağmen yükselişe devam
+
+edebilir. Bir ürünün aşırı alış bölgesinde olması düşeceği anlamına
+
+gelmez. Sadece ortalamaya göre çok hızlı yükseliyordur ve yükselmeye
+
+her zaman devam edebilir.
+
+Aynı şekilde bir fiyat artışı hacim yükselişi olmasına rağmen bir anda
+
+sonlanıp düşüşe geçebilir. MACD indikatörü al sinyali vermesine rağmen
+
+fiyat
+yükselmeyebilir.
+Günlerdir
+devam
+eden
+uyumsuzluk
+sinyalleri
+
+olmasına rağmen fiyatta herhangi bir tepki oluşmayabilir.
+
+Kısaca, indikatörler sadece size fazladan perspektif katar. Kesin al
+
+ve sat sinyalleri vermez.
+
+Profesyonel bir yatırımcı destek, direnç, hareketli
+ortalamalar ve
+
+indikatörler
+gibi
+farklı
+kaynaklardan
+gelen
+sinyalleri
+bir
+arada
+
+değerlendirip
+alıcı
+ve
+satıcılardan
+baskın
+olan
+tarafı
+görmeli
+ve
+
+soğukkanlılıkla işlem yapabilmelidir. Bu sinyalleri ve analiz yöntemlerini
+
+sonraki bölümlerde işleyeceğimiz para ve risk yönetim teknikleri ile
+
+birleştirirseniz finansal piyasalarda kolaylıkla kazançlı bir sisteme sahip
+
+olabilirsiniz. İşin zor  kısmı sisteminizi disiplini bir şekilde uygulamaktır.
+
+158
+
+--- Sayfa 159 ---
+Piyasa Emirleri ve Terimler
+Bazı platformlarda emir defterine baktığınızda Ask, Bid ve Spread
+
+gibi değerler göreceksiniz.
+
+Ask Fiyat
+Ask Fiyat emir defterinde olan en güncel yüksek fiyattır. Eğer spot
+
+piyasada anlık alım işlemi yaparsanız Ask Fiyat üzerinden yaparsınız.
+
+Bid Fiyat
+Bid Fiyat ise emir defterinde olan en güncel düşük fiyattır. Eğer
+
+spot
+piyasada
+anlık
+satış
+işlemi
+yaparsanız
+Bid
+Fiyat
+üzerinden
+
+yaparsınız.
+
+Spread
+Spread ise Ask Fiyat ile Bid Fiyat arasındaki farktır. Spread, işlem
+
+yaptığınız aracı kurumun kazancıdır. Bu yüzden yatırımcılar genellikle
+
+düşük Spread oranlarına sahip aracı kurumlar tercih etmeye çalışır.
+
+Slipaj
+Slipaj ise açık bir işlemi kapatırken verdiğiniz emrin fiyatıyla emrin
+
+gerçekleştiği fiyat arasındaki fiyat kaymasıdır. Ani fiyat hareketlerinde
+
+slipaj neredeyse kaçınılmazdır. Piyasada bir işlemin gerçekleşmesi için
+
+ilgili fiyattan alıcı ve satıcı olması gerekir. Ancak hızlı fiyat hareketlerinde
+
+emrinizi yerine getirecek bir karşı taraf bulanamadığında işlem en yakın
+
+fiyattan gerçekleştirilir. Bu da fiyat kaymasına yol açar. Genellikle
+
+yatırımcılar bu fiyat kaymalarının farkında bile olmaz. Aslında bunu
+
+anlamak çok kolaydır. Sadece emir girdiğiniz fiyat ile gerçekleşen fiyatları
+
+bir süre izleyin. Eğer uzun süre çok fazla fark gözünüze çarparsa aracı
+
+kurumunuz
+slipajlar
+üzerinden
+paranızı
+alıyordur.
+Özellikle
+Market
+
+emirlerde net bir fiyat belirtilmediği için slipaj oranları yükselir.
+
+Piyasalarda standart olarak beş emir türü vardır. Bu emir türleri
+
+sizin işleme nasıl girdiğinizi ve çıktığınızı belirler. İşlem yaptığınız
+
+piyasaya ve platforma göre bu emir türleri değişiklik gösterebilir.
+
+159
+
+--- Sayfa 160 ---
+Limit Emir (Limit Order)
+Limit
+emir
+türünde
+belirli
+bir fiyattan işlem yaparsınız. Eğer
+
+girdiğiniz fiyattan bir alıcı veya satıcı bulunamıyorsa limit emir, bekleyen
+
+emirler sırasına alınır ve o seviyede alıcı veya satıcı bulunduğunda
+
+gerçekleşir. Fiyatın gelecekte ulaşmasını beklediğimiz seviyelere limit
+
+emir koyarız.
+
+Market Emir (Market Order)
+Market
+emir türünü anında al veya anında sat emri olarak
+
+basitleştirebiliriz.
+Eğer
+bir
+hisseyi
+Market
+Emir
+ile
+Al
+seçeneğini
+
+seçerseniz en hızlı şekilde piyasadaki güncel ask fiyattan satın alırsınız.
+
+Aynı şekilde Market Emir ile Sat seçeneğini seçerseniz emir defterinde
+
+olan güncel bid fiyattan satış yaparsınız. Bu emir türünde slipaj oranı da
+
+yüksektir. Kısacası bir bedel karşılığında hız satın alırsınız.
+
+Kâr Al (Take Profit)
+İşleme girerken önceden hedeflediğiniz çıkış seviyesini Kâr Al emir
+
+kısmına girersiniz. Böylelikle fiyat hedefinize ulaşırsa otomatik olarak
+
+işlemden çıkılır ve elde ettiğiniz kârı realize etmiş olursunuz.
+
+Zarar Durdur (Stop-Loss)
+En önemli işlem türü Stop-Loss emridir. Aldığınız riski kontrol
+
+edebilmenin tek yolu işleme girerken önceden stop seviyesi belirlemektir.
+
+Fiyat belirlediğiniz stop seviyesine gelirse zararınızı durdurmak için
+
+otomatik olarak işlemi az miktarda zarar ile kapatır. Yine de ani fiyat
+
+hareketlerinde eğer bir alıcı veya satıcı karşı taraf bulunamazsa stop
+
+çalışmayabilir veya farklı bir seviyeden gerçekleşebilir.
+
+Takip Eden Zarar Durdurma (Trailing Stop-Loss)
+Farklı bir tür Stop-Loss olan Trailing Stop emrinde belirlediğiniz
+
+fiyat aralığı kadar geriden gelen bir emir koymuş olursunuz. Örneğin
+
+fiyatın 10 puan gerisinden gelen bir Takip Eden Zarar Durdurma emri
+
+fiyat yükseldikçe fiyat ile birlikte
+yükselir ancak
+aradaki fark hep 10
+
+puandır. Eğer 10 puanlık ani bir düşüş olursa tetiklenir.
+160
+
+--- Sayfa 161 ---
+Uzun Pozisyon (Long Position)
+Forex,
+VİOP
+veya
+kontratlı
+kripto
+piyasalarında
+alış
+yönlü
+
+açacağınız işlemlerde buy veya al butonuna bastığınız zaman Uzun
+
+Pozisyon açmış olursunuz. Fiyatın yükselmesi beklenir ve aldığınız
+
+fiyattan itibaren oluşan yukarı yönlü hareketin yüzdesel farkı kadar kar
+
+elde edersiniz.
+
+Örnek: 1000  sermayeniz var. Bir hissenin fiyatı 10TL’den 50 adet
+
+hisse
+için
+al
+emri
+açarak
+uzun
+pozisyona girdiniz. Pozisyonunuz
+
+10x50’den 500TL işlem hacmine sahip. Ertesi gün fiyat 11TL’ye yükseldi
+
+yani %10 oranında bir yükseliş yaşandı ve işlemi kapatarak satış
+
+yaptınız. Bu durumda 500TL’lik işlem hacminizden %10 yani 50TL
+
+kazanç sağladınız. İşlem sonrasında güncel sermayeniz 1050TL olur.
+
+Kısa Pozisyon (Short Position)
+Daha önceden bahsettiğimiz açığa satış işlemlerinin bir diğer adı
+
+da kısa pozisyondur. Forex, VİOP veya kontratlı kripto piyasalarında
+
+sell
+veya
+sat
+butonuna
+bastığınız
+zaman
+Kısa Pozisyon açmış
+
+olursunuz. Bu durumda fiyatın düşmesi beklenir ve işlemi açtığınız
+
+fiyattan itibaren oluşan aşağı yönlü hareketin yüzdesel farkı kadar kar
+
+elde edersiniz.
+
+Örnek: 1000TL sermayeniz var. Bir hissenin fiyatı 10TL’den 50
+
+adet hisse için sat emri açarak kısa pozisyona girdiniz. Pozisyonunuz
+
+10x50’den 500TL işlem hacmine sahip. Ertesi gün fiyat 9TL’ye düştü
+
+yani %10 oranında bir düşüş yaşandı ve alış yaparak işlemi kapattınız.
+
+Bu durumda 500TL’lik işlem hacminizden %10 yani 50TL kazanç
+
+sağladınız. İşlem sonrasında güncel sermayeniz 1050TL olur.
+
+161
+
+--- Sayfa 162 ---
+Para ve Risk Yönetimi
+Şu ana kadar destek ve dirençler, trend türleri, formasyonlar, mum
+
+çubukları, Fibonacci araçları, fiyat döngüleri ve indikatörler gibi teknik
+
+analizin
+temellerini oluşturan önemli konulara değindik. Bunları iyi
+
+öğrenmek
+ve
+doğru
+şekilde
+uygulamak
+bir
+Trader’ın
+başarısının
+
+temellerini oluşturur. Ancak kazançlı bir trader’ı kaybedenlerden ayıran
+
+yegane özelliği para ve risk yönetimidir. İsterseniz yıllar boyunca teknik
+
+analiz öğrenin, her formasyonu ezberleyin, her piyasayı avucunuzun içi
+
+gibi
+bilin
+hiç
+farketmez.
+Eğer
+riski
+ve
+paranızı
+doğru
+şekilde
+
+yönetemezseniz kaybedersiniz.
+
+Teknik analiz bilgileriniz sayesinde zaman içinde kendi sisteminizi
+
+ve stratejinizi oluşturacaksınız. Ancak uzun süreli başarıyı yakalamak
+
+için aşağıdaki soruları kendinize sormalı ve size en uygun cevabı bulana
+
+kadar demo hesaplarda veya düşük sermayeli hesaplarla kendinizi
+
+denemelisiniz.
+
+Ne kadar para riske atmalıyım?
+Çok fazla sermaye koyarsanız kaybetme ihtimali psikolojinizi alt üst
+
+edebilir ve kontrolü kaybetmenize sebep olabilir. Az sermaye koyarsanız
+
+da yaptığınız işlemlerin getireceği kar, harcadığınız zamana göre sizi
+
+tatmin etmez. İkisinin ortasını bulmalı ve dengeyi kurmalısınız. Ne olursa
+
+olsun unutmamanız gereken tek kural var;
+
+Her zaman kaybetmeyi göze alabileceğiniz miktarda sermaye ile
+
+işlem yapmalısınız.
+
+Daha yeni başlayan bir traderın ortalama ilk 3 ay içinde bilinçsiz
+
+işlemler ve aşırı risk yüzünden hesabının tamamını erittiği gözlemleniyor.
+
+Herkes başlarken kendisinin farklı olduğunu ve diğer herkesten başarılı
+
+olacağını sanarak
+başlar.
+Gerçeklerin öyle olmadığını anlaması
+için
+
+birkaç ay yeterlidir.
+
+162
+
+--- Sayfa 163 ---
+Kaç tane hisse veya piyasa takip etmeliyim?
+Eğer çok fazla sayıda piyasa ve hisse takip ederseniz bilgi kirliliği
+
+içinde boğulur, fırsatları kaçırırsınız. Az sayıda izlerseniz de yeteri kadar
+
+fırsat
+bulamazsınız.
+Dengeyi
+kuracak
+sayıda
+hisse
+ve
+piyasa
+
+izlemelisiniz. Örneğin bizim izleme listemizdeki hisse sayısı asla 15’i
+
+geçmez. Aynı anda en fazla 2 piyasa takip ederiz.
+
+Duygularımı nasıl kontrol edebilirim?
+Açgözlü davranırsanız fazla risk alabilir, yüksek meblağlar ile işlem
+
+yapabilir ve çok büyük kayıplara uğrayabilirsiniz. Korkak davranırsanız
+
+ise fırsatları kaçırabilirsiniz. Duygularınızı kontrol etmeyi iyi öğrenmeniz
+
+gerekiyor. Bunun en iyi yolu tecrübe ve kendini tanımaktan geçer. Demo
+
+hesaplarda kendinizi tanıyana kadar işlem yapmalısınız.
+
+Bir diğer yol da trade günlüğü tutmaktır. Yaptığınız her işlemde
+
+analizlerinizi ve hislerinizi bir deftere yazın. İşlemin öncesi ve
+sonrası
+
+şeklinde
+ayırarak
+ilerlerseniz
+zayıflıklarınızı
+görür
+ve
+gelişiminizi
+
+izleyebilirsiniz.
+
+Ne zaman işleme girmeliyim?
+Eğer
+alış/satış
+sinyali
+gelmeden
+işleme
+girerseniz
+kaybetme
+
+ihtimalinizi arttırırsınız. Eğer sinyal geldikten sonra çok beklerseniz de
+
+geç kalır ve risk:kazanç üstünlüğünüzü kaybedersiniz. Kararsızlığın bir
+
+bedeli vardır. Doğru zamanda doğru işlemi yapmaya dikkat etmelisiniz.
+
+İşlemden ne zaman çıkmalıyım?
+İşlemden çıktığınız seviye en az girişiniz kadar önemlidir. Eğer
+
+erkenden çıkarsanız daha çok kazanma fırsatını kaçırırsınız. Çok geç
+
+çıkarsanız da kazandıklarınızı geri vermiş olur ve daha azla yetinmek
+
+zorunda kalırsınız.
+
+Nasıl grafiklere tarafsız bir şekilde bakabilirim?
+İşleme girdikten sonra insanlar yaptıkları işlemin doğru olduğuna
+
+ve piyasanın da o yönde ilerleyeceğine inanma eğilimindedir. Bu eğilim
+
+163
+
+--- Sayfa 164 ---
+izlediğiniz grafikteki fiyat hareketlerini ve sinyalleri yanlış yorumlamanıza
+
+sebep olabilir.
+
+Örneğin
+bir
+hisseyi
+alış
+yönlü
+işlem
+açtınız,
+dolayısıyla
+
+yükselmesini beklersiniz ve farkında olmadan sadece pozitif haberlere,
+
+yükseliş hareketlerine odaklanırsınız. Eğer algınız bu şekilde bir tarafa
+
+kayarsa düşüş sinyallerini kaçırabilirsiniz. Bunu kontrol etmenin en basit
+
+yolu kendinize sorular sormaktır.
+Örneğin; şu anda hiç işleme girmemiş olsaydım bu hisseyi buradan alır
+
+mıydım yoksa satar mıydım?
+
+Kendinizi sürekli sorular ile yönlendirerek kontrol edebilirsiniz.
+
+Üstünlükler
+Akıllı bir trader eğer üstünlüğü (avantajı) yoksa asla işleme girmez.
+
+Peki nedir bu üstünlükler? Finansal piyasalarda üstünlüğü sadece
+
+kazanma ihtimalinizi arttırarak yakalayabilirsiniz. Bu ihtimali arttırmak için
+
+yararlanabileceğiniz 2 farklı üstünlük türünü birazdan anlatacağız. Ama
+
+öncelikle ihtimaller sayesinde nasıl kazanıldığını anlamak için en iyi
+
+örneklerden biri olan kumarhanelerin nasıl para kazandığını anlamalıyız.
+
+Kumarhanede oynatılan rulet oyununu ele alalım. Standart bir rulet
+
+masasında 1’den 36’ya kadar numaralandırılmış kırmızı ve siyah sayılar
+
+vardır. Buna ek olarak 2 adet yeşil 0 ve 00(çift sıfır) sayıları bulunur. 18
+
+adet kırmızı ve 18 adet siyah numara vardır ve bunların arasından seçim
+
+yaparak
+atılan
+bilyenin
+nereye
+geleceği
+üzerine
+bahis koyarsınız.
+
+Kazanmak için hangi renk geldiğini bilmeniz yeterlidir. İlk bakışta
+
+kazanmak için sadece rengi bilmenin yeterli olması %50 şansınız
+
+olduğunu düşündürebilir ancak işin aslı öyle değildir. Matematiksel
+
+açıdan bakarsak kumarhanenin masaya eklediği yeşil alandaki 0 ve 00
+
+sayılarını da dahil ettiğimizde bilyenin toplam 38 sayıya gelme ihtimali
+
+vardır. Örneğin kırmızı renge bahis koymaya karar verdiniz. Kırmızının
+
+gelme ihtimalini hesaplamak için 18 (kırmızı sayıların rengi) ile 38’i
+
+böldüğümüzde
+sonuç
+%47.5
+çıkıyor.
+Yeşil
+bölgelere
+bahis
+
+koyamadığınız için istatistiksel açıdan dezavantajlı oluyorsunuz. Yani
+
+164
+
+--- Sayfa 165 ---
+kısaca sizin kazanma ihtimaliniz %47.5 olmasına karşı kumarhanenin
+
+kazanma
+ihtimali
+%52.5.
+Bu
+avantaj
+kumarhanenin
+uzun
+süreçte
+
+kazanma ihtimalini arttırıyor.
+
+Tradinge aynı kumarhane gibi düşünerek yaklaşmalıyız. Uzun
+
+süreçte kar sağlayabileceğimiz matematiksel üstünlüklerimiz olmalı. Bu
+
+üstünlükleri
+fiyatları
+izleyip
+avantajlı
+seviyelerden işlem açarak ve
+
+paramızı kontrol ederek kazanabiliriz. Kumarhane örneğinde %52.5
+
+kazanma
+ihtimali
+kumarhaneye
+her
+oyunda
+kazandırmaz
+ancak
+
+100,1000 veya 10000 oyun oynansa, zaman içinde para yavaşça
+
+kumarhaneye akacaktır. Trading’de açtığınız işlemler de aynı bu şekilde
+
+olmalıdır. Üstünlükleriniz sayesinde 10 işlem kaybetseniz bile 100 işlem
+
+açtığınızda kazanacağınız bir sistemle hareket etmelisiniz.
+
+Tutarlılık Üstünlüğü
+Tutarlılık
+üstünlüğü
+gireceğiniz
+işlemin
+kazanma
+ihtimalinin
+
+%50’den fazla olmasını temsil eder. Arka arkaya yaptığınız bir çok
+
+işlemden
+sonra
+yüzde
+kaç
+kazanma
+ihtimaliniz
+olduğunu
+
+hesaplayabilirsiniz. Örneğin 100 işlem yaptınız ve 55 tanesi kazanç ile
+
+sonuçlandı. Bu durumda aynı strateji ile gireceğiniz bir sonraki işlemin
+
+%55 kazanma ihtimali vardır. Tutarlılık üstünlüğünüzün kaç olduğunu
+
+belirlemek için her işleminizi kaydetmeli ve oranlarınızı sürekli takip
+
+etmelisiniz.
+
+Kullandığınız her stratejinin farklı tutarlılık oranları olacaktır. Her
+
+stratejiyi
+zaman
+içinde
+test
+edip
+başarı
+oranlarına
+göre
+seçim
+
+yapmalısınız. Trader kişilikleri farklı olduğu için her strateji her insana
+
+kazandıramaz. Size en uygun olanı bulup olabildiğince yüksek tutarlılık
+
+oranını yakalamaya çalışmalısınız. Yine de en iyi stratejiler kendi
+
+yarattığınız stratejilerdir.
+
+165
+
+--- Sayfa 166 ---
+Parasal Üstünlük
+Parasal üstünlük girdiğiniz işlemin risk:kazanç oranını temsil eder.
+
+Genelde traderlar en az 1:3 kazanç oranıyla işleme girmenin sağlıklı
+
+olduğunu düşünür.
+
+Peki tam olarak nedir bu 1:3 kazanç oranı? Piyasalarda işlem
+
+yaparken stop emirleri sayesinde aldığımız riski kontrol edebiliriz. Stop
+
+emirleri fiyat belirli bir seviyeye geldiğinde aktif olan emir türüdür.
+
+Örneğin yükseliş trendinde olan bir hisse buldunuz ve fiyatı 10 .
+
+Bu hisseden 10 adet aldınız. Yani toplam 1000TL yatırım yaptınız. Bu
+
+hisse
+fiyatının
+13TL’ye
+çıkmasını
+bekliyorsunuz yani %30 kazanç
+
+hedefiniz var. Öte yandan baktığınız grafiklere göre hissenin 9TL’nin
+
+altına düşerse, düşüş trendine gireceğini düşünüyorsunuz. Bu durumda
+
+stop emrini 9TL’ye koyarak eğer hisse fiyatı 9TL’ye düşerse otomatik
+
+olarak satış yap emri veriyorsunuz. Bu emir aktive olursa 100TL zarar ile
+
+işlemden çıkmış yani satış yapmış olacaksınız.
+
+İşte burada risk:kazanç oranı devreye giriyor. Açtığınız işlem
+
+9TL’ye düşerse 100TL kaybedeceksiniz yani 100TL riske attınız. Ancak
+
+13TL’ye yükselirse 300TL kar edeceksiniz.
+
+Bu durumda risk kazanç oranınız 1:3 oluyor.
+
+Bu
+oranı
+kolayca
+hesaplamak
+için tradingview sitesinde sol araç
+
+çubuğunda bulunan tahmin ve ölçüm araçlarından yararlanabilirsiniz.
+
+166
+
+--- Sayfa 167 ---
+Risk:Kazanç oranı uzun süreli başarının en temel faktörlerinden
+
+biridir. Eğer yaptığınız işlemlerde en az 1:3 risk:kazanç oranı ile hareket
+
+ederseniz 100 işlemin 70’ini kaybetseniz bile hala kazançlı olacaksınız.
+
+Örneğin her kazançlı işleminizde 30TL kazandığınızı, her kaybettiğiniz
+
+işlemde
+ise
+10TL
+kaybettiğinizi
+varsayalım.
+100
+işlemin
+30’unu
+
+kazandığınızda 900  kazanmış, 70’ini kaybettiğinizde 700TL kaybetmiş
+
+olursunuz. Sonuçta yine 200TL kardasınız. Bu yüzden her zaman
+
+risk:kazanç oranı yüksek işlemlere girmek sizin kazançlı bir trader
+
+olmanızı sağlayacak en önemli faktördür.
+
+167
+
+--- Sayfa 168 ---
+İşlem Boyutu
+İşlem boyutunuz risk kontrolünün en kritik noktalarından biridir.
+
+Eğer
+her
+işleme
+kontrolsüz
+bir
+şekilde
+sermayenizin
+tamamını
+
+koyuyorsanız bir an önce durun ve bilgisayardan uzaklaşın. Riski kontrol
+
+etmek için profesyonel Traderlar farklı sistemler kullanır. Bazıları sabit
+
+sayıda hisse alır, bazıları yüzdesel olarak işlem boyutlarını hesaplar,
+
+bazıları ise sermaye bazlı hesap yapar. Bunları kısaca inceleyelim.
+
+Sabit Hisse Yöntemi
+Trader, her işlemde aynı sayıda hisse alır. Örneğin 100.000TL
+
+sermayeli bir hesapla işlem yapıyorsunuz her işlemde 500 adet hisse
+
+alınacağına karar  verdiniz.
+
+Sermayenin
+büyük
+kısmını
+tek
+bir
+hisseye
+odaklayıp
+işlem
+
+yapılacaksa mantıklı bir yöntemdir. Bu yüzden genelde bu yöntem
+
+sürekli aynı hisseleri alıp satan Day-Trader ve Scalperlar’ın kullandığı bir
+
+yöntemdir. Agresif bir strateji olduğu için Swing Trader veya Pozisyon
+
+Traderlar tarafından pek kullanılmaz.
+
+Sabit Sermaye Yöntemi
+Bu
+yöntemde
+Trader
+her
+açılacak
+işlem
+için
+aynı
+sermaye
+
+boyutunu kullanır. Örneğin toplamda 100.000TL sermaye olduğunu, bir
+
+işlemde en fazla 2000TL kaybedebileceğimizi ve işlem başına 25.000TL
+
+ayırdığımızı varsayalım.
+Kaç hisse alındığı önemsizdir, her işlem
+
+25.000TL değerinde olacaktır. Stop seviyesi
+de en fazla 2000TL
+
+kaybedilecek şekilde ayarlanmalıdır.
+
+Örneğin adeti 10TL olan bir hisseden 25.000TL’ye 2500 adet
+
+alabilirsiniz. Bu
+durumda stop seviyeniz 9.2TL’de olmalı. Eğer fiyat
+
+9.2TL’ye düşerse 2000TL zarar etmiş olacaksınız. Sisteminize göre bu
+
+noktada ne olursa olsun işlemi kapatmalısınız.
+
+168
+
+--- Sayfa 169 ---
+Bu yöntem birden fazla şirketin hissesini alıp satmak isteyen
+
+Traderlar için uygundur. Genelde aynı anda birkaç farklı hissede işlem
+
+yapan Swing Traderlar bu yöntemi kullanır.
+
+Yüzdesel Risk Yöntemi
+Yüzdesel
+risk
+yöntemi
+ise
+her
+işlemde
+kullanacağınız
+işlem
+
+boyutunu yüzdesel olarak hesaplamaya dayanan bir yöntemdir.
+
+Örneğin her işlemde en fazla toplam sermayenin %2’si riske atılır.
+
+Her işlemin boyutu en fazla toplam sermayenin %30’u kadar olabilir.
+
+Bunun gibi bir risk yönetim yöntemi her işlemi değerlendirirken stop
+
+seviyelerini
+yüzdesel
+olarak
+dikkate
+almanızı
+gerektirecektir.
+Hem
+
+Day-Traderlar hem de Swing Traderlar tarafından kullanılan bu yöntemin
+
+tek dezavantajı dar stop seviyesi olan işlemlere giriş yapılamadığı için
+
+bazı fırsatların kaçmasına sebep olmasıdır.
+
+Size uygun işlem boyutu yöntemini seçip kullanın ancak asla
+
+unutmayın Trading’de başarının sırrı para kazanacak kadar uzun süre
+
+oyunda kalmaktır. Eğer sermayeniz birkaç kötü tahminde tükenirse
+
+mükemmel bir fırsat yakalasanız bile değerlendirecek paranız olmaz.
+
+Prensipler
+Bir Trader ancak sistemi kadar başarılı olabilir. Peki bu kitabın
+
+başından beri  bahsettiğimiz sistem  tam olarak ne?
+
+Bir sistem şunlardan oluşur:
+●Analiz Yöntemleri (Temel ve Teknik Analiz)
+●Risk ve Para Kontrolü
+●Prensipler
+
+Şu ana kadar prensipler dışında her maddeye değindik. Ancak
+
+prensipler de en az diğerleri kadar önemli bir faktör.
+169
+
+--- Sayfa 170 ---
+Her Trader’ın kesinlikle harfi harfine uyduğu prensipleri olmalı. Bu
+
+prensipler sizi olası risklerden korur ve stres altındayken mantıklı
+
+davranmanızı
+sağlar.
+Prensiplerinizi
+bir
+kağıda
+yazıp
+her
+zaman
+
+görebileceğiniz bir yere koymanız sizin için faydalı olacaktır.
+
+Prensiplere örnek olması açısından Mentor Türkiye’de Day-Trade
+
+yaparken kullandığımız başlıca prensiplere bakalım;
+
+Prensipler
+●Asla sermayenin %2’sinden fazlasını tek işlemde kaybetme
+●Asla koyduğun stop seviyesini değiştirme
+●Trendin tersi yönünde açtığın işlemleri asla uzun süre tutma
+●Bilgisayar başında değilsen veya takip edemeyeceksen işleme
+
+girme
+●Ertesi güne açık işlem bırakma (Day-Trade Kuralı)
+●Tek işlemde sermayenin %30’undan fazlasını kullanma
+●En az 1:3 oranlı işlemlere gir
+
+Bunlar
+gibi
+prensipler
+trade
+stratejinizi
+işler
+hale
+getiren
+önemli
+
+faktörlerdir. Eğer işler ters giderse stres altında ilk başvurmanız gereken
+
+yer
+bu
+prensipler
+ve
+daha
+önceden
+yaptığınız
+trade
+planınızdır.
+
+Unutmayın, borsada para kazanmak için önce para kaybetmemeyi
+
+öğrenmelisiniz.
+
+Kişilik Bilinci
+Herkesin
+tecrübeleri,
+kişilik
+özellikleri
+ve
+hedefleri
+farklıdır.
+
+Dolayısıyla risk alabilme seviyesi de kişiden kişiye fazlasıyla değişir.
+
+Bunlar gibi kişilik özellikleri Trading’de bireyin yaptığı her hareketi etkiler.
+
+Bazı insanlar fazla risk almayı sever. Bu özelliklerini sadece yatırım
+
+konusunda değil, hayatının bir çok farklı noktasında da görebilirsiniz.
+
+Risk toleransı yüksek bireylerin daha hareketli, girişken ve aktif insanlar
+
+olduğunu
+gözlemleyebiliriz.
+Bu
+gibi bireyleri agresif trader olarak
+
+tanımlarız.
+170
+
+--- Sayfa 171 ---
+Agresif Traderlar daha hızlı sonuçlar isteyen ve saldırmaya hazır
+
+bireylerdir. Hızla karar alabilir ve planlarını harekete geçirebilirler. Stres
+
+ve risk toleransları yüksektir. Agresif traderların en çok yaptığı hatalar
+
+kendilerine fazla güvenmeleri, hız için tutarlılık kaybetmeleri ve duygusal
+
+davranmaya eğilimli olmalarıdır.
+
+Öte yandan hesaplanmamış risk sevmeyen, önce durup detaylı
+
+planlar yapmayı seven ve doğru anı bekleyen bireyler de vardır. Bu
+
+bireylerin
+soğukkanlılığı
+ve
+plancılığı
+gündelik
+hayatlarına
+yansır.
+
+Hayatlarını ve çevrelerini kontrol etmeyi seven, uzun süreli hedefler
+
+doğrultusunda sabırla hareket eden bireylerdir. Bu tür bireyleri ise tutucu
+
+trader olarak tanımlarız.
+Tutucu Traderlar olası her sonuca hazırlık yapar, işlemlere girip
+
+çıkarken sakin ve planlı davranırlar. En çok yaptıkları hatalar ise işleme
+
+girmek için çok fazla bekleyip parasal üstünlüklerini kaybetmeleri ve
+
+analiz felcidir (aşırı analiz yapma sonucu oluşan kararsızlık ve işleme
+
+girememe durumu).
+
+Aynı bu iki trader kişiliği gibi stratejiler de agresif ve tutucu strateji
+
+olarak ikiye ayrılır. Genelde stratejilerin adında Agresif Strateji veya
+
+Tutucu Strateji yazmadığı için hangisinin hangisine ait olduğunu ayırt
+
+etmek,
+deneyip
+incelemeden
+pek
+kolay
+olmaz.
+Ancak
+burada
+
+öğrenmeniz
+gereken
+en
+önemli
+nokta
+şu:
+başarılı
+olmak
+için
+
+kişiliğinize uygun stratejiyi kullanmalısınız.
+
+Örneğin düşük zaman diliminde çalışan agresif giriş ve çıkış
+
+kararları gerektiren bir stratejiyi Agresif Trader özelliklerine sahip bir
+
+trader
+başarıyla
+uygulayabilirken
+aynı
+stratejiyi
+Tutucu
+Trader
+
+özelliklerine sahip biri denediğinde başarısız olabilir. Veya tam tersi
+
+şekilde sabır ve soğukkanlılık gerektiren orta vadeli bir trend takibi
+
+stratejisini Tutucu Trader olan biri başarıyla uygularken Agresif Trader
+
+özelliklerine sahip farklı biri tamamen başarısız olabilir. Bu yüzden ne bu
+
+kitapta geçen ne de başka bir kaynakta bulunan stratejileri denediğinizde
+
+başarısız oluyorsanız bu sizi durdurmamalı.
+171
+
+--- Sayfa 172 ---
+Her şeyi doğru yapmanıza rağmen bazı stratejiler sadece kişilik
+
+özelliklerinize uygun değildir ve doğru kararları alamıyor olabilirsiniz.
+
+Sizin için uygun tarzı bulana kadar sürekli deneyin.
+
+Amatör Traderların %70’inden fazlası ilk 1 sene içinde ya kendisine
+
+uygun bir strateji bulmadan işlem yaptığı için ya da bilgi eksikliği
+
+yüzünden hesaplarının tamamını kaybeder ve trade yapmayı bırakır.
+
+Hayatının kalanında “Borsa dolandırıcılıktır.” veya “Borsa para tuzağıdır.”
+
+diyerek geçiren kesim de bu %70 arasından çıkar. Borsada para
+
+kazanmak kolay değildir. Herkesin yapabileceği birşey hiç değildir.
+
+Sadece çoğunluğun arasından sıyrılan güçlü birkaç zihin piyasada kalıcı
+
+olacaktır.
+
+Giriş ve Çıkış Yöntemleri
+Kademeli Giriş
+İşleme girerken dikkat etmeniz gereken bazı kritik noktalar vardır.
+
+Öncelikle sisteminiz ve kişiliğinizi göz önünde bulundurarak nasıl bir giriş
+
+ve çıkış stratejisi izleyeceğinize karar vermelisiniz. Bazı traderlar işleme
+
+girerken toplu alımlar yaparken bazıları küçük parçalar halinde yapar ve
+
+riski dağıtmaya odaklanır. Genelde Scalper veya Day-Traderlar çok kısa
+
+zaman diliminde işlem yaptığı için büyük parçalar halinde hızlı alımlar
+
+yapmaya odaklanır. Öte yandan Poziyon Trader veya Swing Traderlar
+
+işlem için daha geniş zaman aralıklarına sahip oldukları için önceden
+
+bekledikleri ve planladıkları bölgelere parça parça alım emirleri koyarlar.
+Mesela 10.000TL değerinde bir alım yapılacak. Yükseliş trendinde
+
+bir hisse buldunuz ve düzeltme sürecine girdiğinde almak istiyorsunuz.
+
+Bu alım işlemini tek seferde gerçekleştirmek yerine 4’e bölerek parça
+
+parça yapmak riski dağıtacaktır. Bu durumda her alım işleminiz 2500TL
+
+boyutunda olacak. Fiyat aşağı düştükçe daha avantajlı bölgelerden
+
+alarak ortalama alış fiyatınızı aşağı çekersiniz. Aşağıdaki örneğe
+
+bakalım.
+172
+
+--- Sayfa 173 ---
+Grafikte
+bir
+süredir
+düşüş
+trendinde
+olan
+EUR/USD
+Forex
+
+Paritesinin 4 saatlik grafiğini görüyorsunuz. Düşüşün sonunda önceki
+
+bölümlerde işlediğimiz Ters Omuz Baş Omuz formasyonu oluşuyor.
+
+Hatırlarsanız bu formasyon fiyatın yön değiştirme ihtimalinin yükseldiğini
+
+gösteriyordu. Formasyonun boyun çizgisi kırılmış ve ilk yükseliş dalgası
+
+1.128 seviyesinde bulunan tarihi direnç bölgesine gelmiş. Bu noktada
+
+çok
+basit bir alım stratejisi kurmamız gerekirse hemen Fibonacci
+
+Düzeltmesi
+aracını
+kullanarak
+fiyatın
+dönüş
+yapabileceği
+alanları
+
+görebiliriz. Örnekte Fibonacci 0.618 seviyesi tam olarak boyun çizgisine
+
+denk geliyor. Genelde piyasada böyle uyumlu iki bölge oluştuğunda
+
+fiyatın oraya dönüş yapma ihtimali artar.
+Kısa bir analiz yaptıktan sonra artık hangi bölgeden alım yapmak
+
+istediğimizi
+biliyoruz.
+1.1240
+ve
+1.1230
+seviyeleri
+Fibonacci
+
+Düzeltmesine göre uygun alım bölgesi olacaktır. Hatırlarsanız fiyatın en
+
+çok dönüş yaptığı görülen bölge 0.618 bölgesiydi.
+173
+
+--- Sayfa 174 ---
+Biz yine de garanti olsun diyerek altında bulunan 0.786 bölgesine kadar
+
+alış işlemi koyabiliriz.
+Fiyatın tam olarak nereye düşeceğini bilmediğimiz için alış işlemimizi
+
+parçalar halinde yapmak ve riski dağıtmak akıllıca bir karar olacak.
+
+Yukarıdaki gibi alış işlemlerimizi 4’e bölerek tüm yeşil alanın içine
+
+yerleştiriyoruz. Yine 10.000 ’lik işlem yapacaksak her giriş çizgisinde
+
+2500 ’lik alım emri olmalı. Bu şekilde farklı seviyelerden parçalı işlem
+
+açmaya kademeli giriş yöntemi denir. Bu yöntem sayesinde hem
+
+işleminizin riskini dağıtmış, hem de işlemin ortalama fiyatını düşürmüş
+
+olursunuz. Bu da size daha yüksek bir risk:kazanç oranı olarak geri
+
+döner. Bazı traderlar bu yöntemde her giriş emrine eşit sermaye
+
+dağıtmak yerine aşağı düştükçe daha çok veya daha az olacak şekilde
+
+sermaye dağıtımı yapar. Girişinizi kaça böleceğiniz ve işlem boyutlarınız
+
+sizin para yönetim tercihlerinize kalmıştır. Amaç
+her zaman riski
+
+azaltmak ve kontrol etmektir.
+174
+
+--- Sayfa 175 ---
+Örneğimizin sonrasında da fiyat sadece ilk 3 giriş bölgemize
+
+değmiştir. Yani
+bu gerçek bir işlem olsaydı sadece ilk 3 alım emrimiz
+
+gerçekleşecekti ve pozisyon boyutumuz 7500TL olacaktı. Giriş emrini tek
+
+bir seviyeden vermek yerine 4’e bölerek aşağı doğru dağıtım yaptığımız
+
+için ortalama işlem fiyatımız düştü, işlemin ne yönde ilerlediğini görmek
+
+için fırsatımız oldu. İyi bir bölgeden giriş yaptık ve hala elimizde işlem
+
+yapabileceğimiz
+2500TL
+sermayemiz
+var.
+Bu
+gibi
+kademeli
+alış
+
+yöntemleri
+kesinlikle
+sisteminizde
+bulunması
+gereken
+önemli
+risk
+
+dağıtımı stratejileridir.
+
+175
+
+--- Sayfa 176 ---
+Kademeli Çıkış
+Kademeli Çıkış yöntemi ise benzer şekilde işlemden çıkarken
+
+kullanılır. Örneğin 100 hisse aldıysanız 3-4 farklı seviyeden satış emri
+
+vererek
+olası
+yükselişleri
+değerlendirmiş olursunuz. Hem de olası
+
+düşüşlerden de kârınızı korursunuz.
+
+Örneğe bakalım.
+
+Yukarıdaki örnekte gördüğünüz gibi giriş ve çıkış seviyelerimizi
+
+geçmiş destek ve dirençlere göre belirleyebiliriz. Bu örnekte Giriş 1,
+
+destek bölgesindeki 1 numaralı muma göre, Giriş 2, 2 numaralı muma
+
+göre ve Giriş 3 de 3 numaralı muma göre belirlenmiştir.
+Önceki bölümde bahsettiğimiz gibi işleme girişimizi bölerek hem
+
+riski dağıtıyor hem de kazanç oranımızı yükseltiyoruz. Çıkış seviyelerimiz
+
+ise
+üst
+dirençte
+bulunan
+1-2-3
+numaralı
+mumlar
+temel
+alınarak
+
+belirlenmiştir. Bu mumlar direnç bölgesinde oluşmuş ekstrem mumlar
+
+olduğu için onları işlem yaparken bir yol haritası olarak kullanmak akıllıca
+
+olur.
+
+176
+
+--- Sayfa 177 ---
+Örneğimize dönecek olursak Çıkış 1 direnç bölgesinin altında
+
+olduğu için en güvenli çıkış bölgemiz. Genelde ilk çıkışta pozisyonun
+
+%50’sini kapatırız. 2. Çıkışta ise kalan pozisyonun %50’sini satarak
+
+geriye sadece toplam işlemin %25’ini bırakırız. Bu örnekte de Çıkış 3 en
+
+riskli çıkış olduğu için oraya kalan pozisyon boyutu toplam pozisyonun
+
+%25’iydi. Fiyat Çıkış 3’e ulaşmadan düşüşe geçti. Burada yeni oluşan
+
+düşük dipleri ve tepeleri görünce işlemi kapatmamız gerekirdi. Yine de
+
+kademeli çıkış yaptığımız için maksimum kârın %75’ini almış olduk. Fiyat
+
+düşüşü
+sadece
+%25’lik
+pozisyonu
+etkilediği
+için
+fazla
+bir
+kayıp
+
+yaşamadık.
+Bu örnekte de görüldüğü gibi kademeli giriş ve kademeli çıkış
+
+stratejileri
+kesinlikle
+trade
+planınızda
+bulunması
+gereken
+önemli
+
+stratejiler.
+
+Stop Seviyesi
+İşlem sürecinin en önemli noktası stop seviyenizdir. Stopsuz
+
+işleme
+kesinlikle
+girmemelisiniz.
+Stop
+seviyesi
+sizi
+olası
+büyük
+
+kayıplardan koruyan tek şeydir. Stopsuz işleme girmek savaş alanında
+
+silahsız gezinmek gibidir. İşler ters gittiği an büyük kayıplar yaşayabilir,
+
+daha kötüsü tüm sermayenizi kaybedebilirsiniz.
+
+Stoplar üç türde karşımıza çıkar. Bunlar;
+●Hard-Stop
+●Mental-Stop
+●Trailing-Stop
+
+Hard Stop standart stop türüdür. Bir seviye belirtirsiniz ve fiyat oraya
+
+geldiğinde
+işleminiz
+aktive
+olur.
+Karşı
+taraf
+bulunduğu
+an
+işlem
+
+gerçekleşir.
+
+Mental Stop ise zihninizde
+koyduğunuz stop seviyesidir. Bunun için
+
+işlem açmazsınız ancak analiz sürecinde zihninizde yerleştirdiğiniz bir
+
+stop seviyesi vardır. Eğer fiyat bu seviyeye gelirse manuel olarak
+
+sisteme girer ve işlemden çıkarsınız.
+
+177
+
+--- Sayfa 178 ---
+Trailing Stop biraz daha ileri seviye platformlarda bulunur.
+Belirli bir
+
+aralıkta fiyatı izleyen stop türüdür. Örneğin; Forex piyasasında fiyatın 10
+
+pip altına stop koyarsınız ve eğer fiyat bir anda 10 pip aşağı düşerse
+
+işlem aktive
+olur. Eğer düşmezse fiyat yükseldikçe stop seviyeniz de
+
+onla birlikte yükselir.
+
+Forex, Kripto veya VİOP gibi piyasalarda işlem ekranında stop
+
+seviyenizi belirtebilirsiniz ancak sadece mobil banka uygulamasından
+
+hisse alıp satıyorsanız stopunuz mental stop olabilir. Yani otomatik satış
+
+emri veremezsiniz ancak fiyatı takip ederek stop seviyenize düşerse
+
+manuel olarak girip zararda da olsa satış yapmalısınız.
+Bu gibi
+eksiklikler yüzünden
+benim kişisel tercihim her zaman
+
+Forex
+ve
+Kripto piyasalarında
+işlem yapmak olmuştur.
+Yine
+de
+
+tradinge yeni başlayanların hisse piyasasında tecrübe kazanması iyi
+
+olur.
+
+Stop seviyenizi belirlerken genellikle para yönetim prensiplerinizi
+
+ve fiyat hareketlerini
+göz önünde bulundurmalısınız. Örneğin, “Bir
+
+işlemde en fazla
+%2 kaybedebilirim.” prensibiyle hareket
+ediyorsanız
+
+stop seviyeniz toplam sermayenin en fazla %2’sini kaybedecek şekilde
+
+ayarlanmalı. Sadece bu gereklilik ile uyumlu seviyelerden işleme giriş
+
+yapmalısınız.
+
+Örneğin toplam sermayenin 100.000TL olduğunu varsayalım.
+
+Prensiplerimiz şunlar:
+●Tek seferde toplam sermayenin en fazla %2’sini kaybedebilirsin
+●Tek
+işlemde
+toplam
+sermayenin
+%30’undan
+fazlasını
+
+kullanamazsın
+●Sadece destek ve direnç seviyelerinde işleme girebilirsin
+●En az  1:1.5 risk/kazanç  oranı olan işlemlere girebilirsin
+
+178
+
+--- Sayfa 179 ---
+Bu prensiplerden yola çıkarak az önceki örneğe göz tekrar atalım
+
+100.000TL sermayem varsa prensiplerimize göre bunun en fazla
+
+30.000TL’sini
+tek
+işleme
+alabiliriz.
+Tek
+işlemde
+en
+fazla
+toplam
+
+sermayenin
+%2’sini
+yani
+2.000TL
+kaybedebiliriz.
+Bu
+durumda
+
+30.000TL’nin en fazla %6.5’ini yani 1980TL’yi tek işlemde kaybedebiliriz.
+
+Bu demek oluyor ki top seviyemiz giriş seviyemizin en fazla %6.5
+
+aşağısında olabilir. Yukarıda gördüğünüz gibi Giriş seviyemiz ortalama
+
+Giriş 2 seviyesindeyse yani 16.70’se stop seviyemiz de
+bunun %6.5
+
+altında olabilir bu da 15.62’ye denk geliyor. Ancak burada ufak bir sorun
+
+var. Stopu bu kadar aşağı koyunca risk:kazanç oranımız 0.9’a düşüyor.
+
+Bu da risk kazanç oranı prensibimize uymuyor. Bu durumda yapmamız
+
+gereken ilk şey stopun fiyat hareketine göre nerede olmasının mantıklı
+
+olduğunu anlamak. Yani fiyat nereye değerse trend değişmiştir? Bu
+
+sorunun cevabını vermeliyiz çünkü trendin tersinde kalmak istemiyoruz.
+
+Örneğimizde destek bölgesinde oluşan 3 numaralı mumdan önce güçlü
+
+bir çekiç mumun oluşmuş. Stopumuzu işte
+o çekicin altına koymak
+
+179
+
+--- Sayfa 180 ---
+akıllıca bir seviye olur. Çünkü fiyat eğer ki bu seviyeyi geçerse düşük
+
+dip oluşturmuş olacak ve bu trend değişiminin en güçlü sinyallerinden
+
+biri olarak değerlendirilecek.
+
+Gördüğünüz gibi stop seviyesini çekiçin altına çektiğimiz zaman
+
+risk kazanç
+oranımız 0.9’dan 1.72’ye çıkıyor. Kaybedersek en fazla
+
+30.000TL’nin
+%3.41’ini
+kaybedebiliriz
+yani
+1023TL.
+Kazanırsak da
+
+ortalama %5.86 yani 1758TL kazanacağız. Prensiplerimize göre bu
+
+alınabilir oranda bir risk. Bu örnekte potansiyel bir trade nasıl incelenir
+
+onu gördük ancak yine de en az 1:2 oranında fırsatlar yakalamaya özen
+
+göstermelisiniz. Sırf işleme girmiş olmak için girmemelisiniz.
+
+180
+
+--- Sayfa 181 ---
+Sinyal Değerlendirme Üzerine
+Giriş sürecinde en önemli soru şu;
+“Ne zaman işleme girmeliyim?”
+Bu sorunun cevabını doğru şekilde vermek için şu ana kadar
+
+öğrendiğiniz
+her konuyu bir arada değerlendirmelisiniz. Bir işleme
+
+girerken indikatörlerin, formasyonların ve mum çubuklarının oluşturduğu
+
+sinyaller kadar bu sinyallerin nerede oluştuğu da çok önemlidir. Her
+
+zaman büyük resme bakarak hareket edin. Yüksek zaman dilimindeki
+
+sinyaller küçük zaman dilimindekine göre çok daha baskındır.
+Eğer ki fiyatlar yatay trendde seyrediyorsa destekten alış yapıp
+
+dirençten satış yapmayı hedefleriz. Eğer ki ortada yükseliş veya düşüş
+
+trendi varsa fiyatlar geri çekilme yaptığında hareketli ortalamalardan alış
+
+yapmayı bekleriz. Bu iki önemli noktayı asla unutmamalısınız. Trendin
+
+ortasında oluşan sinyal ve formasyonların beklediğiniz sonucu vermeme
+
+ihtimali yüksektir.
+RSI gibi ivme indikatörleri yükseliş veya düşüş trendinde sağlıklı
+
+sonuçlar vermez. Onları sadece yatay trendde kullanmalısınız. Bu
+
+yüzden fiyatın yüksek zaman diliminde nasıl durumda olduğunu anlamak
+
+son derece kritiktir. Her zaman geçmiş destek ve dirençlerde işlem
+
+yapmaya önem gösterin.
+Satış yapmak için trendin değişmesini bekleyin. Bunu RSI’da
+
+oluşan uyumsuzluk sinyallerini takip ederek önceden öngörebilirsiniz
+
+ya da biraz daha geç ancak net gelen Günlük Hareketli Ortalama
+
+kesişmelerini takip edin. Yukarı kesişim varsa alış, aşağı kesişim varsa
+
+satış yapmalısınız.
+Geçmişte oluşmuş güçlü destek ve dirençlerin gücünü anlamak için
+
+bu bölgelerde oluşan mum çubuklarının gölgelerine bakın. Eğer direnç
+
+bölgesinde arka arkaya kayan yıldız gibi uzun üst gölgeli mumlar
+
+oluşmuşsa fiyat bu direnç bölgesinden reddediliyordur. Düşüş olabilir,
+
+satış fırsatı arayın.
+181
+
+--- Sayfa 182 ---
+Eğer ki destek bölgesinde arka arkaya yusufçuk doji veya çekiç gibi alt
+
+gölgesi
+uzun
+mumlar
+oluşuyorsa
+da
+fiyat
+bu destek bölgesinden
+
+reddediliyordur. Yükselme ihtimali artıyor olabilir. Alış fırsatı arayın.
+Sinyalleri değerlendirirken yüksek zaman diliminden başlayın ve
+
+adım adım grafiğin zaman dilimini düşürün. Böylelikle en yüksek zaman
+
+diliminde fırsat arayan Pozisyon Trader’ın da ne düşündüğünü bilirsiniz,
+
+5 Dakikalık grafikte işlem yapan Scalper’ın da ne düşündüğünü bilirsiniz.
+
+Analiz sürecinizi
+basit
+ama
+tarafsız tutarsanız başarı
+oranınızı
+
+yükseltebilirsiniz.
+
+182
+
+--- Sayfa 183 ---
+Basit Teknik Stratejiler
+Fiyat Hareketi Stratejisi
+
+Bu strateji herhangi bir indikatör kullanmadan sadece grafiklerden
+
+yararlanarak uygulanır. Fiyatın
+tepe
+ve dip oluşumlarına göre trend
+
+değiştirdiği
+anda işleme girmek hedeflenir. Örneğin düşüş trendinde
+
+seyreden bir hisseye ilk yüksek dip seviyesinden sonra girmeye
+
+çalışırız. Ya da yükseliş trendinde olan bir hisseye ilk düşük tepe
+
+seviyesinden sonra açığa satış işlemi açarak girmeye çalışırız. Örneğe
+
+göz atalım.
+
+Örneğimizde Arçelik hissesinin 2018 Ocak - 2019 Ocak tarihleri
+
+arasındaki Günlük Grafiğini görüyoruz. Fiyat 2018 yılının başından beri
+
+arka arkaya düşük tepe ve düşük dip oluşturarak düşüş trendinde
+
+seyrediyordu. Ancak 1 numara ile işaretlenmiş aralıkta ilk yüksek dip
+
+seviyesini
+oluşturarak
+olası
+trend
+değişiminin
+sinyallerini
+verdi.
+
+183
+
+--- Sayfa 184 ---
+Sonrasında fiyat trend direncini kırmaya çalışmış ancak başarısız olmuş
+
+ve tekrar düşük dip oluşturmuştur. Bu noktadan sonra önceki destekten
+
+yüksek sayıda alıcı bularak tekrar yükselişe geçmiş, direnci kırmış ve ilk
+
+yüksek
+tepe
+oluşturana
+dek
+yani
+2
+numaralı
+seviyeye
+kadar
+
+yükselmiştir. Burada yapılacak en mantıklı hareket işleme giriş için yeni
+
+gelecek yüksek dip oluşumunu beklemek olurdu. Bu da 3 numara ile
+
+işaretlenmiş yeni yüksek dip seviyesinde oluşmuştur. Burada alım
+
+yapıp değişen trende katılmak son derece akıllıca olur.
+
+Fiyat Hareketi Stratejisi yüksek zaman dilimindeki grafiklerde
+
+daha iyi çalışır.
+
+Bunun
+gibi
+basit
+bir
+fiyat
+hareketi
+stratejisi
+ile
+hareketli
+
+ortalamaları bir
+arada kullanarak
+avantajlı bölgelerden alış ve
+satış
+
+yapabilir, sürekli olarak kârlı bir strateji yaratabilirsiniz.
+
+184
+
+--- Sayfa 185 ---
+RSI Uyumsuzluk Stratejisi
+Bu strateji RSI’da oluşan uyumsuzluklara dayanan bir stratejidir.
+
+Yatay trendde ilerleyen hisselerde işe yarar. Genelde uyumsuzluk
+
+sinyalleri şu şekilde değerlendirilir;
+
+1. Sinyal - Sıradan Uyumsuzluk
+2. Sinyal - Uyarı
+3. Sinyal - Çok Önemli
+4. Sinyal - Değişim Onayı
+
+Bu yorumlamalar üzerinden giderek düşük zaman diliminde yatay
+
+trendde seyreden ve en az 3 uyumsuzluk sinyali oluşmuş fırsatlar
+
+arıyoruz.
+
+Örnekte gördüğünüz gibi fiyat yatay trendin ilk evresindedir. Destek
+
+kırıldıktan sonra oluşan 3. uyumsuzluk sinyalinden sonra
+alış işlemi
+
+yapmaya başlarız
+ve hedef olarak da en yakın güçlü direnç bölgesini
+
+tercih ederiz. Bu sinyaller dalga dip ve tepelerinde ortaya çıkar.
+
+185
+
+--- Sayfa 186 ---
+Numaralandırılmış her sinyal bir dalga dibinde oluşmuştur. Bu dipleri
+
+sinyal olarak değerlendirmemizin sebebi fiyat düşük dip oluştururken
+
+RSI’da
+yüksek
+dip
+oluşmasıdır.
+Bu uyuşmazlık RSI Uyumsuzluk
+
+Stratejisinin temelini oluşturur. 3. ve 4. Sinyalde kademeli olarak işleme
+
+girilmeli
+ve
+Stop
+seviyesi
+son
+alış
+yapılan
+dalga
+dibinin
+altına
+
+yerleştirilmeli.
+
+Bu stratejinin düşük zaman diliminde daha çok işe yaradığı
+
+görülmüştür.
+
+Hareketli Ortalama Stratejisi
+Hareketli ortalama stratejisi en iyi 1 Saat - 4 Saat ve Günlük
+
+grafiklerde çalışıyor. Grafiğe sırasıyla 9-13-21 ve 55 Üssel Hareketli
+
+Ortalama(EMA)
+Ekliyoruz.
+Sonrasında
+55
+EMA
+ile
+diğerlerinin
+
+kesişimlerine göre alış veya satış işlemleri açıyoruz.
+
+Yukarıdaki örnekte gördüğünüz gibi Ölüm Kesişimi olduğunda sat,
+
+Altın Kesişim olduğunda al işlemi uyguluyoruz.
+186
+
+--- Sayfa 187 ---
+Bollinger Bantları/RSI Stratejisi
+Bu strateji için grafiğe RSI ve Bollinger Bantları indikatörlerini
+
+ekliyoruz ve geçmiş destek-direnç seviyelerinden yararlanıyoruz. Önceki
+
+RSI Stratejisinde olduğu gibi bunda da öncelikle RSI’da uyumsuzluk
+
+arıyoruz. En az 2 sinyal gerekli. Sonra fiyatın Alt Bollinger Bandının
+
+altına düşmesini ve dönüş yapmasını bekliyoruz. Eğer bu kriterler yerine
+
+gelirse alış işlemi açıyoruz. Tabii bu noktada fiyat hareketinin destek
+
+bölgesinde olması yükseliş ihtimalini arttıracaktır. Fiyat geçmiş direnç
+
+seviyesine geldiğinde üst bollinger bandını aşmışsa satış yapıyoruz.
+
+Örnekte
+gördüğünüz
+gibi
+Bollinger
+Bandı
+Stratejisi
+kolaylıkla
+
+uygulanabilen bir strateji. Ancak yine de
+her uyumsuzluğa atlayıp alış
+
+yapmamak gerekli.
+187
+
+--- Sayfa 188 ---
+Unutmayın,
+bu
+fiyat
+hareketleri
+ve
+uyumsuzluklar
+destek
+
+bölgesinde
+olursa, ekstrem mum çubukları görülürse işleme girilmeli.
+
+Stop seviyeniz
+de giriş sinyali olan ekstrem mumunun alt
+gölgesinin
+
+altında olmalı.
+
+MACD  Stratejisi
+MACD Stratejisini uygulamak için grafiğimize MACD indikatörünü
+
+eklemeliyiz. Sonrasında MACD indikatöründe fiyat ile en az 2 kere arka
+
+arkaya uyumsuzluk sinyali aramaya başlıyoruz.
+
+Yukarıdaki örnekte fiyat düşmesine rağmen MACD çizgisi ve
+
+Sinyal çizgisi yükseliyor.
+İkinci sinyalden sonra MACD’de pozitif yönlü
+
+kesişim geliyor. Yani mavi çizgi sarı çizginin üstüne çıkmış. Bu sinyali
+
+alış
+için
+bir
+fırsat
+olarak
+değerlendiriyoruz.
+Sonrasında
+yükseliş
+
+dalgasının sonunda gördüğünüz gibi bu sefer fiyat yükselirken MACD
+
+düşüyor.
+188
+
+--- Sayfa 189 ---
+İkinci
+sinyalde negatif yönlü kesişim geliyor ve bu da bizim sat
+
+sinyalimiz. Kolayca uygulanabilen bu strateji düşük zaman dilimlerinde iyi
+
+çalışıyor.
+Kendi Sistemini Yaratmak
+Kendi
+sisteminizi
+yaratmak
+için
+bu
+kitaptaki
+örneklerden
+
+yararlanarak işe başlayabilirsiniz. Mentor Türkiye’de aşağıdakine benzer
+
+bir sistem ile işlem yapıyoruz.
+
+Daha önce Temel Analiz bölümünde bahsettiğimiz gibi öncelikle
+
+Yukarıdan
+Aşağı
+Analiz
+yaparak
+işe
+başlıyoruz.
+Örneğin
+Borsa
+
+İstanbul’da işlem yapacaksınız. Önce www.borsagündem.com veya
+
+benzeri bir haber sitesinden güncel haberlere bakıyoruz. Sırasıyla
+
+küresel, bölgesel, sektörel haberlere bakıp dikkat çekici haberleri olan
+
+şirketleri bir kenara yazıyoruz.
+
+Sonrasında
+o
+hafta
+ilgi çeken şirketlerin teknik açıdan fiyat
+
+değerlendirmesini yapıyoruz.
+Teknik değerlendirmeye başlarken sırasıyla Aylık, Haftalık ve en son
+
+Günlük grafikte destek ve
+direnç bölgelerini belirliyoruz. Bu bölgeler
+
+belirlendikten sonra fiyat hareketlerini yakından incelemeye başlıyoruz.
+
+Bu noktada her hisseye uyguladığımız belli soru-cevap sistemleri
+
+var.
+
+Örneğin;
+●Hissenin ana trendi hangi yönde?(Yükseliş veya Düşüş Trendi)
+●Hisse hangi trend evresinde? (Birincil, İkincil veya Küçük)
+●Hisse hangi fiyat döngüsünde? (Daralma veya Genişleme)
+●Yüksek Zaman Diliminde belirli bir fiyat formasyonu var mı?
+●Düşük Zaman Diliminde görülen bir fiyat formasyonu var mı?
+●Destek direnç bölgelerinde ekstrem mum çubukları oluşmuş mu?
+●Fibonacci seviyelerine göre fiyat hangi bölgede? Bu bölgelere tepki
+
+vermiş mi?
+●En son dip ve tepe nerede?
+189
+
+--- Sayfa 190 ---
+Bu
+gibi
+soruları
+cevapladıktan
+sonra
+fiyat
+üzerinden
+
+değerlendirmemizi tamamlıyoruz ve indikatörlerin oluşturduğu sinyallere
+
+bakıyoruz.
+Örneğin;
+●Güncel hareketleri Hacim onaylıyor  mu?
+●Hareketli Ortalamalar ne durumda? Yakında bir Altın veya Ölüm
+
+Kesişimi var mı?
+●RSI hangi bölgede? (Aşırı Alış veya Aşırı Satış)
+●RSI’da uyumsuzluk var mı? Varsa kaçıncı sinyal gelmiş?
+●MACD hangi bölgede? Alış veya Satış sinyali var mı?
+
+Bunlar gibi sorular ile indikatör analizimizi de tamamladıktan sonra
+
+elimizdeki hisseleri oluşan formasyonların durumuna
+ve risk:kazanç
+
+oranlarına göre sıralayarak liste yapıyoruz. Buradan sonra iş sabırla
+
+beklemeye
+geliyor.
+Her
+zaman
+fiyatın
+istediğimiz
+giriş
+bölgesine
+
+gelmesini bekliyoruz. Eğer gelirse işleme girip önceden belirlenmiş hedef
+
+ve
+stop
+seviyelerini
+ayarlıyoruz.
+Bu
+noktada
+başarının
+sırrı
+stop
+
+seviyesini sadece bir kere belirlemek. Sadece kâra
+geçtikten sonra
+
+stop seviyesini giriş seviyemizin üstüne çekerek kârımızı garantiye
+
+alıyoruz. Onun dışında asla stop seviyesini değiştirmeyiz.
+
+İşleme giriş ve çıkış sistemimiz her giriş en az 3 kademe, her çıkış
+
+en az 3 kademe olacak şekilde belirlenmiş durumda. Girdiğimiz her işlem
+
+en az 1:2 risk:kazanç oranına sahip. Eğer bu oranın altında olursa
+
+değerlendirmeye almıyoruz.
+Ancak sistemimizin başarılı olmasında en önemli faktör bir Trade
+
+Günlüğü olması. Yaptığınız her işlemi kaydettiğiniz bir defter veya Excel
+
+sayfası
+olmalı.
+Buraya
+işleme
+girmeden
+önce
+ve sonraki bilgileri
+
+yazmalısınız.
+
+●Giriş, çıkış, stop seviyeleri ve nedenleri
+●Fiyatın yönü değişecek mi? Neden?
+●Fiyat trende devam  edecek mi? Neden?
+●İşleme girerken ve çıkarken kullandığınız stratejiler
+●İşleme girerken hisleriniz ve görüşleriniz
+●İşlem tamamlandıktan sonra hisleriniz ve görüşleriniz
+190
+
+--- Sayfa 191 ---
+●Yaptığınız hatalı hareketler
+●Yaptığınız doğru hareketler
+●İşlemin sonucu:  kazanç/kayıp oranları
+
+Bunlar gibi bilgileri her girdiğiniz işlemde kaydetmek daha sonra
+
+geri dönüp ders çıkarabileceğiniz bir yer olmasını sağlar. Trading’de aktif
+
+olarak sizi kontrol eden bir Mentor yoksa kendi hatalarınızı kendiniz
+
+belirlemeli ve düzeltmelisiniz. Bunun için de hatalarınızı kaydetmekten
+
+daha iyi bir yol yoktur.
+
+191
+
+--- Sayfa 192 ---
+Yatırım Psikolojisi
+Finansal
+piyasalarda
+işlem
+yaparken
+günlük
+hayatımızda
+
+olduğundan
+çok
+daha
+fazla
+duygu
+değişimi
+yaşarız.
+Aynı
+anda
+
+açgözlülük, korku, endişe, reddetme, panik , depresyon, heyecan ve kibir
+
+gibi duygular ortaya çıkar. Her birinin etkisi birbirinden güçlü ve etkilidir.
+O anda bunu anlamasak da sürekli maruz kaldığımız bu duygu
+
+durum değişimi bedeni yorar ve karar verme yetimizi etkiler. Bu yüzden
+
+profesyonel
+yatırımcılar
+duygu
+değişimlerinin
+üzerlerindeki
+etkisini
+
+azaltmak için ekran önünde harcadıkları zamanı minimuma indirmeye
+
+çalışır. Fiyat ekranına her baktığımızda bu duygu durum değişikliklerine
+
+maruz kalıyoruz ve çoğumuz farkında bile değiliz.
+Bu duyguların beden ve zihin üstünde yarattığı etkiyi azaltmanın en
+
+iyi yolu öncelikle onları tanımlamaktan geçer. Eğer ki hangi duyguyu
+
+hissettiğinizi farkederseniz ortaya çıktığında onu kontrol etme şansınız
+
+yükselir. Bu yüzden işlem yaparken aşağıdaki tanımlara uygun bir hisse
+
+sahipseniz
+kendinizi
+gözlemlemeye
+başlamalısınız.
+Daha
+sonra
+
+incelemek için işlem sürecindeki his ve düşüncelerinizi bir kağıda
+
+yazmak
+her
+zaman
+işe
+yarar.
+Trading’de
+başarının
+en
+önemli
+
+faktörlerinden biri kendini tanımaktır. Çünkü sadece bildiğiniz şeyi kontrol
+
+edebilirsiniz.
+
+Açgözlülük: Arka arkaya birkaç iyi işlem yapar ve kâra geçersek ilk
+
+ortaya çıkan his açgözlülüktür. Hemen pozisyon boyutu büyümeye
+
+başlar. Kaldıraçlar yükselir, stop aralıkları aşağı çekilir hatta daha kötüsü
+
+hiç stop koyulmaz. İlk ve en büyük hata da budur. Kendinizi yenilmez
+
+hissedersiniz. Artık
+dünyanın kralı sizsiniz! Hayatınızın geri kalanında
+
+hiç kimseye ihtiyacınız yok! Birkaç tık ile para kazanabiliyorsunuz
+
+sonuçta değil mi? Öyle değil işte. Bunu anlamanız çok kısa sürer ve
+
+bedeli büyük olur. Açgözlü davranır pozisyonunuzu büyütürseniz riskiniz
+
+de o kadar büyür. Emin olun eninde sonunda kaybedeceksiniz ve
+
+kaybettiğinizde büyük kaybetmek istemezsiniz. En büyük kayıplar en
+
+başarılı hissedilen anlarda gelir bunu asla unutmayın.
+Açgözlülüğün önüne geçmek
+için son derece sert ve kesin bir
+
+sisteminiz olmalı. Sisteminizin önceden belirlenmiş kurallarına her
+
+zaman uymalısınız. Kazandığınızda, kaybettiğinizde ne yapacağınız
+
+192
+
+--- Sayfa 193 ---
+belirli olmalı. Stop, hedef, giriş ve çıkış kriterleri, herşeyi bir kağıda
+
+yazmalı ve ona harfi harfine uymalısınız. Aynı risk/kazanç oranında, aynı
+
+sinyaller
+ile adeta bir robot gibi işlem yapmalısınız. Kuralların bir kere
+
+bozulması ikinci kez de bozulabileceği anlamına gelir.
+
+Zihninizi kendi kurallarınızı çiğnemeye alıştırmayın.
+
+Korku: Ne zaman ortada belirsizlik olsa hemen korku hissi ortaya çıkar.
+
+Bu belirsizliğin sebebi genelde bilgi eksikliği veya yüksek risk gibi
+
+faktörlerdir.
+En
+büyük
+korkularınızla
+ilk
+ayı
+piyasanızda
+
+karşılaşacaksınız. Kendinizden şüphe edecek, yaptığınız işlemleri erken
+
+kapatacaksınız. Bazı durumlarda işlem açmaya bile korkar olacaksınız.
+
+Çoğu
+trader
+ve
+yatırımcı
+bu
+belirsizlik
+korkusuna
+dayanamayıp
+
+piyasadan çekilir. Bu yüzden ayı piyasaları filtre görevi görür, amatörler
+
+silkelenir.
+Korku ve belirsizlik ile başa çıkmanın en iyi yolu tecrübedir.
+
+Sisteminiz oturana kadar demo hesaplarda veya düşük sermayeyle
+
+işlem yapın. İşler ters giderse ne yapacağınızı adım adım anlatan bir
+
+planınız
+olsun.
+Böylelikle hem zor şartlarda nasıl davrandığınızı
+
+izleyecek fırsatınız olur. Zayıf ve güçlü yönlerinizi görebilirsiniz. Zamanla
+
+mental disiplininiz ve sisteminiz oturduğunda gerçek parayla işlem
+
+yapmaya başlayabilirsiniz.
+
+Reddetme: Fiyat giriş seviyenizin altına düşer ve işler ters gitmeye
+
+başladığında sizi ele geçiren ilk şey reddetme duygusu olur. Analizleriniz
+
+ve kendinize olan güveniniz çatışmaya başlar.
+Bu noktada eğer stop seviyenizde işlemden çıkmazsanız reddetme
+
+duygusu korkuya dönüşür ve geçen sürede hem siz hem sermayeniz
+
+zarar  görürsünüz. Stop seviyesinin  önemini böyle anlarda görebilirsiniz.
+
+193
+
+--- Sayfa 194 ---
+Panik:
+Panik duygusu
+piyasada
+oluşan anlık hareketlerde ortaya
+
+çıkar. Kripto gibi hareketli piyasalarda aynı gün içinde %20’nin üstünde
+
+fiyat hareketi görmek mümkün. Böyle ani hareketler olduğunda FOMO
+
+(Fear of Missing Out) oluşur. Yani eksik veya geride kalma duygusu
+
+ortaya çıkar ve panik yaratır. Bunun önüne geçmek için işleme girmeden
+
+önce aşağı veya yukarı yönlü ekstrem hareket olursa ne yapacağınızı
+
+planlamalısınız.
+
+Plan, paniği yener.
+
+Depresyon: Depresyon periyodik olarak hissedilen başarısızlık ve stres
+
+sonucu ortaya çıkabilir. Büyük zararlar, sürekli kaybedilen işlemler ve
+
+tutarsız analizler bunun temel sebepleridir. En iyi ilacı ise bir süre
+
+ekranlardan uzaklaşmak hatta tatile çıkmaktır. En iyi trader bile böyle
+
+dönemler yaşar. Ne kadar dışarıdan sıkıcı ve ciddi bir iş gibi görünse de
+
+aslında traderlar gün içinde diğer insanlara göre çok yoğun duygu durum
+
+değişimleri yaşar. Bunu dışarıya yansıtmamak için harcanan çabayı da
+
+kattığınız zaman ortaya ciddi boyutlarda stres ve potansiyel psikolojik
+
+rahatsızlıklar
+çıkabilir.
+Bu
+yüzden
+hem
+mental
+sağlınız
+hem
+de
+
+analizlerinizin başarısını yükseltmek için bazen ara vermek gerekir.
+
+Ekranın önünde  yaşamayın.
+
+Heyecan: Özellikle piyasanın hareketlendiği,
+işleminizin
+istediğiniz
+
+yönde
+ilerlediği
+zamanlarda heyecan duygusu ortaya çıkar. Böyle
+
+anlarda hazırlıksızsanız pozisyon boyutunu arttırmaya ve
+risk almaya
+
+başlarsınız. Negatif duygulara göre başa çıkması daha kolaydır ancak
+
+hesaplanmış bir pozisyon boyutunuzu hedefiniz ve stop seviyeniz yoksa
+
+piyasanın alehinize dönmesi halinde belirsizlik oluşur ve heyecan yerini
+
+korkuya bırakır. Böyle anlarda sakin olmak ve plana sadık kalmak
+
+gerekir.
+
+194
+
+--- Sayfa 195 ---
+Platformlar
+Seçtiğiniz piyasaya göre işlem yapacağınız platformlar fazlasıyla
+
+değişiklik
+gösterir.
+Aracı
+kurumlar
+ve
+bankalarda
+hesap
+açmanız
+
+durumunda kendi yatırım platformlarını kullanabilirsiniz. Ancak birçok
+
+trader hızlı veri akışı ve daha iyi analiz imkanları için kendi tercihlerine
+
+göre farklı analiz programları veya siteleri kullanmaktadır. Bunların en
+
+çok bilinenleri aşağıdaki gibidir.
+
+●Metatrader 4  - https://www.metatrader4.com/en
+●Ninjatrader - https://ninjatrader.com/
+●Tradingview -  https://tr.tradingview.com/
+●Matriks - https://www.matriksdata.com/website/
+
+Genelde
+traderlar
+işlem
+yapacakları
+yatırım
+hesabını
+yukarıdaki
+
+programlara entegre ederek analiz ve işlemlerini daha hızlı ve kolay
+
+yapmaya çalışırlar. Yatırım hesabı açılan aracı kurum veya bankalarda
+
+Hisse Senedi, Forex ve VIOP gibi piyasalarda işlem yapma imkanı
+
+sunulmaktadır.
+
+Dünya’da çok kullanılan aracı kurum bünyesindeki platformlara ise
+
+aşağıdaki gibi örnekler verebiliriz.
+●Fidelity Investments - https://www.fidelity.com/
+●TD Ameritrade - https://www.tdameritrade.com/home.page
+●XM - https://www.xm.com/
+
+Benim kullandıklarım arasında en iyisi büyük bir farkla TD Ameritrade’in
+
+ThinkorSwim
+isimli
+platformuydu.
+Ancak
+bazı
+yabancı
+kurumlar
+
+yurtdışında yaşadığınızı kanıtlayan bir belge veya banka
+hesabı gibi
+
+farklı bilgiler istiyor. Bu yüzden hesap açmak için istenen belgeler
+
+kurumdan kuruma farklılıklar gösterebilir.
+
+195
+
+--- Sayfa 196 ---
+Türkiye’de en çok kullanılan yatırım platformlarına ise aşağıdakileri
+
+örnek verebiliriz.
+●Gedik Trader - http://gediktrader.com/
+●İşYatırım - https://www.isyatirim.com.tr/tr-tr/Sayfalar/default.aspx
+●Ak Yatırım TradeAll - https://www.akyatirim.com.tr/tradeall.aspx
+●Qnb FinansInvest - https://www.qnbfi.com/
+
+Kripto Platformları
+Kripto Para piyasasında işlem yaparken Btcturk ve Paribu gibi Türk
+
+borsalarına para yollayıp işlem yapmak kolay olsa da güvenlik, likidite ve
+
+yetersiz platform gibi sorunlardan dolayı Kucoin veya Binance gibi büyük
+
+çaplı borsalarda işlem yapmak bence daha iyi oluyor. Kaldıraçlı işlemler
+
+için ise Bitmex borsası en bilinen borsalardan biridir. Ancak gerekli
+
+eğitime sahip değilseniz kaldıraçlı işlemler yüksek risk arz etmektedir.
+Linklerin bazıları referanslı linktir, davetiye görevi görür ve işlem
+
+yaparken komisyon indiriminden yararlanmanızı sağlar.
+
+●Paribu - https://www.paribu.com/#/
+
+●Btcturk - https://www.btcturk.com/account/login
+
+●Kucoin - https://www.kucoin.com/?rcode=242fQ
+
+●Binance - https://www.binance.com/?ref=11326928
+
+●Bitmex -  https://www.bitmex.com/register/FzsYoF
+
+196
+
+--- Sayfa 197 ---
+Son Söz
+
+Artık
+son
+birkaç
+tavsiyeyle
+kitabımızı
+sonlandırıyoruz.
+Bu
+kitabı
+
+okuduktan sonra teknik ve temel analiz yöntemleri üzerine sağlam bir
+
+başlangıç
+yapmış
+olmanızı
+ve
+fiyat
+grafiklerine
+bakarken
+benim
+
+gördüklerimi görebilmenizi umuyorum. Lütfen bu kitabı gerekirse not
+
+alarak birkaç kere okuyun. İçerdiği stratejileri birleştirin, kendi sisteminizi
+
+yaratın. Yaratıcı olun. En az 3-6 ay arası demo hesapta işlem yapın.
+
+Amatörlüğünüzü atmadan paranızı riske sokmayın. Bu kitap bittiği gibi
+
+yenisini bulun. Tek bir esere bağlı kalmayın. Hep
+öğrenmeye ve
+
+gelişmeye devam edin.
+
+Son olarak bunun bir gelişen kitap olduğunu sizlere tekrar hatırlatmak
+
+isterim.
+Kitabın
+en
+başında
+yazmış
+olduğum
+platformlardan
+bana
+
+ulaşabilir, görüş ve sorularınızı mesaj atarak iletebilirsiniz. Ancak lütfen
+
+bu kitap ile ilgili mesajları sadece kitapta verilen platformlar üzerinden
+
+atın.
+Mentor
+Türkiye’nin
+ana
+hesabına
+atmayın.
+Yakın
+gelecekte
+
+aktifleşecek olan @mentortrade instagram alan adına sahip sayfada
+
+sadece trade içerikli paylaşımlar yapılacak ve trade ile ilgili her paylaşım
+
+oraya
+taşınacaktır.
+Bu
+kitabı
+geçiş
+aşamasındaki ilk adım olarak
+
+görebilirsiniz.
+
+Evet,
+umarım kitabı beğenmişsinizdir.
+Daha derin ve detaylı eğitim
+
+isteyen okurlarımız bireysel eğitim için benimle irtibata geçebilir. Daha
+
+önceden bahsettiğimiz online chat grubu
+yakın zamanda açılacak ve
+
+giriş
+linki
+tarafınıza
+yine
+email
+yoluyla
+iletilecektir.
+Görüşlerinizi
+
+sabırsızlıkla bekliyorum. Başka bir kitapta görüşmek üzere. Hoşçakalın.
+197
+
+--- Sayfa 198 ---
+Kaynakça
+
+●Bulkowski, T. (2013). Encyclopedia of chart patterns. Hoboken,
+N.J.: Wiley.
+
+●Grimes, A. (2012). The Art and Science of Technical Analysis.
+Hoboken, NJ: Wiley.
+
+●Murphy, J. (1999). Technical Analysis of the Financial Markets.
+
+New York: New York Institute of Finance.
+
+●Achelis, Steven. Technical Analysis from A to Z. New York, NY:
+
+McGraw-Hill, 2001.
+
+●Neely, G. (2000). Mastering Elliot Wave. - : Windsor.
+
+●Perşembe, A. (2001). Teknik analiz mi dedin? Hadi canım sen de!.
+
+İstanbul: Scala Yayıncılık.
+
+●Aronson, David. Evidence-Based Technical Analysis. Hoboken,
+
+NJ: John Wiley & Sons, 2006.
+
+●Brown,
+Constance.
+Technical
+Analysis
+for
+the
+Trading
+
+Professional. New York, NY: McGraw-Hill, 1999.
+
+●Douglas,
+Mark.
+The
+Disciplined
+Trader:
+Developing
+Winning
+
+Attitudes. New York: New York Institute of Finance, 1990.
+
+●Kurczek, Dion, “Basic Pullback Buyer”, Active Trader Magazine
+
+(March 2003) 4:3, 9.
+198
+
+--- Sayfa 199 ---
+●Rosenbloom, C. (2011). The Complete Trading Course. Hoboken,
+
+N.J.: John Wiley & Sons.
+
+●Shabacker, Robert. Technical Analysis of Stock Market Profits.
+
+New York, NY: Puttman Publishing, 1932.
+
+●Steenbarger,
+Brett.
+Enhancing
+Trader
+Performance:
+Proven
+
+Strategies From the Cutting Edge of Trader Psychology. Hoboken,
+
+NJ: John Wiley & Sons, 2007.
+
+●Schwager, Jack. Technical Analysis. New York, NY: John Wiley &
+
+Sons, 1996.
+
+●Douglas, M. (2004). Trading in the Zone. Wiley.
+
+●Yoder,
+Bo.
+Optimize
+Your
+Trading
+Edge.
+New
+York:
+NY:
+
+McGraw-Hill, 2008.
+199

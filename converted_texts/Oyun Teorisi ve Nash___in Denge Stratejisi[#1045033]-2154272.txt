@@ -1,0 +1,1057 @@
+--- Sayfa 1 ---
+Iğd Üniv Sos Bil Der / Igd Univ Jour Soc Sci
+Sayı / No. 14, Nisan / April 2018: 419-440
+Araştırma Makalesi / Research Article
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+419
+__________________________________________________
+Oyun Teorisi ve Nash’in Denge Stratejisi
+SEMA YILMAZ GENÇ
+HAMZA KADAH
+Öz: Oyun teorisi Augustin Cournot ile birlikte adı konulmamış biçim-
+de iktisat bilimine girmiş ve iktisatçılara tamamen farklı bir bakış açısı
+sağlamıştır. İzleyen yüzyıl boyunca oligopol rekabet biçimini açıkla-
+maya çalışan iktisatçılar tarafından sürekli geliştirilmiştir. 1940’lı ve
+1950’li yıllar oyun teorisinin yoğun olarak tartışıldığı yıllarıdır. Bu
+dönemde oyun teorisi iktisatçıların, matematikçilerin hatta psikologla-
+rın katkılarıyla daha tutarlı bir sistematiğe oturtulmuş ve iktisat teori-
+sinin vazgeçilmez parçası haline gelmiştir. Bu katkıları yapan önemli
+isimlerden biri de oyun teorisinin yanı sıra diferansiyel geometride
+kısmi diferansiyel denklemlerin incelenmesine de önemli katkılarda
+bulunmuş bir matematikçi olan John F. Nash Jr’dir. Kimi araştırmacıla-
+ra göre Nash'in işbirliksiz oyunlar kuramı ve “Nash Dengesi” formü-
+lünün, iktisada ve sosyal bilimlere yaptığı etkiler, fen bilimlerinde
+DNA çift sarmalının keşfi ile kıyaslanabilecek kadar önemlidir.
+Bu çalışmada alan yazın tarama ve derleme yöntemi kullanılarak oyun
+teorisinin tarihsel gelişimi genel hatlarıyla açıklanmıştır. Bu bağlamda
+oyun teorisne katkı sağlayan modeller karşılaştırmalı olarak incelen-
+miştir. Ayrıca Nash’in Denge Stratejisi’nin oyun teorisine katkılarının
+iktisadi analizdeki önemi ve gerekliliği açıklanmıştır.
+Anahtar Kelimeler: John Nash, Nash Dengesi, Oyun Teorisi
+
+ Dr. Öğr. Üyesi, Kocaeli Üniversitesi KMYO Muhasebe ve Vergi Uy-
+gulamaları Bölümü
+ Yüksek Lisans Öğrencisi, Dicle Üniversitesi
+
+--- Sayfa 2 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+420
+________________________________________
+The Game Theory And Nash’s Equilibrium
+Strategy
+Abstract: The game theory entered into the economics in a way that its
+name wasn’t given, and it provided the definite different viewpoint for
+the economists. It was constantly developed by the economists who
+tried to explain the oligopoly competition way for the next generation.
+The years of 1940’s and 1950’s are the years that the game theory was
+densely discussed. The game theory was put into more consistent
+systematics with the contributions of economists, mathematicians and
+even the psychologicists and it became an inevitable part of economics
+theory. One of the important people who contributed to it is John F.
+Nash Jr who is a mathematician who contributed substantially to the
+review of game theory and the partly differential equations in the
+differential geometry. According to some of the researchers, the im-
+pacts of Nash’s game theory without collaboration and “Nash Equilib-
+rium” formulas on the economics and social sicences are as important
+as comparing with the discovery of DNA double stranded in the sci-
+ences.
+In this study, historical development process of game theory is ex-
+plained in general terms by using literature review and compilation
+methods. In this context, models contributing the game theory are
+comparatively investigated. Besides, importance and essentialness of
+contributions of Nash Equilibrium Strategy to the game theory in eco-
+nomic analysis is emphasized.
+Keywords: John Nash, Nash Equilibrium, Game Theory
+
+--- Sayfa 3 ---
+Oyun Teorisi ve Nash’in Denge Stratejisi
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+421
+Giriş
+Ekonomik rekabetin, savaşların, seçimlerin ve çoğu zaman
+oyun olarak düşünmediğimiz daha pek çok etkileşimin, bir
+oyun gibi ele alınıp analiz edilebileceği fikriyle bilimsel bir me-
+tafor üzerine kurulu olan oyun teorisi; rasyonel ajanları etkile-
+şime sokarak veya başka bir deyişle etkileşimli karar teorisini
+kullanarak strateji seçiminin incelenmesidir (McCain, 2012:5).
+Oyun teorik analizinin en önemli sorunu, hangi stratejinin ra-
+kip tarafından seçilen stratejiye karşı en iyi tepki olacağıdır.
+Dolayısıyla oyun teorisi, karar birimleri arasındaki karşılıklı
+bağımlılıktan kaynaklanan, bireylerin karar aşamasında strate-
+jik olması durumunu inceleyen bir uygulamalı matematik dalı
+olarak kabul edilmekle birlikte; sosyal bilimlerde, özellikle bek-
+lentilerin, kararları belirleyen başlıca faktörlerden kabul edildi-
+ği ekonomide de büyük ilgi görmüş ve ekonomi yazınında bu
+konuda kayda değer bir entellektüel birikim oluşmuştur.
+29.12.2017 tarihinde Google Akademik’te yapılan bir aramada
+“Game Theory” için tam olarak 3 milyon 390 bin, “Nash
+Equilibrium” için 412 bin, “Prisoner's Dilemma” için 132 bin
+sonuç tespit edilmiştir. Tüm bu veriler dünya çapında oyun
+teorilerine gösterilen ilgiyi açıklamak için yeterli olacaktır.
+Bu çalışmanın amacı, Nash dengesinin yanı sıra oyun teorile-
+rinde temel kilometre taşı olarak kabul edilen modelleri formül-
+leriyle birlikte ayrıntılı olarak açıklamak suretiyle literatüre
+katkı sunmaktır. Çalışmanın ilk bölümde, oyun teorilerinin
+tarihçesine kısaca değinildikten sonra ilk sistematik teoriler
+olarak kabul edilen Waldegrave-Montmort-Bernoulli’nin çalış-
+maları ile Cournot modeli ayrı başlıklar altında açıklanacak;
+Modern oyun teorileri başlığı altında Zermelo, Borel ve Von
+Neumann-Morgenstern’in teorileri karşılaştırmalı olarak ince-
+lenecektir. John Nash’in katkıları, öncülleriyle karşılaştırması ve
+ekonomi bilimiyle ilişkilendirilmesi ayrı bir başlık altında ele
+alınacak ve ülkemizde yaygın olan Nash’in kimliği ve akade-
+mik aidiyeti hakkındaki yanlış bilgileri düzeltmeye yardımcı
+olmak adına John Nash’in hayatına da bir alt başlıkta kısaca
+değinilecektir.
+Oyun Teorisinin Tarihsel Gelişimi
+Belirsizlik koşullarında karar alma ve stratejik davranışların
+mantığını anlamaya çalışmak tarihin her döneminde, hemen
+her alandan bilim insanlarının bir şekilde uğraşısı olmuş ve
+bazen farklı amaçlarla yapılmış kimi çalışmalar dolaylı da olsa
+
+--- Sayfa 4 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+422
+oyun teorilerine temel nitelikte katkılar sağlamıştır (Gächter,
+2004:486). Şans ve strateji oyunlarında kazanma olasılıklarının
+bazı matematikçiler tarafından incelenmesiyle başlayan bu ma-
+cera, günümüzde; ekonomi, psikoloji, sosyoloji, siyaset bilimi,
+savunma, biyoloji ve hatta yapay zeka çalışmaları da dahil bi-
+lim dünyasında oldukça popüler bir konu haline gelmiştir.
+İlk çağlarda ve aynı zamanda ortaçağda askeri taktiklerin geliş-
+tirilmesi amacıyla yapılan çalışmalar, yerini matematik bilimi-
+nin gelişmesiyle onsekizinci ve ondokuzuncu yüzyıl avrupa-
+sında sosyal  hayatın önemli bir parçası haline gelen şans ve
+strateji oyunlarında başarı şansını açıklamaya yönelik çalışma-
+lara bırakmıştır. 1940’lı ve 1950’li yıllar oyun teorisinin yoğun
+olarak tartışıldığı yıllarıdır. Onyıllarca süren savaşların bir so-
+nucu olarak zafer ve politik üstünlük güdüsün hakim olduğu
+bu dönemde oyun teorisi; matematikçilerin, iktisatçıların ve
+psikologların katkılarıyla daha tutarlı bir sistematiğe oturtul-
+muş, sonradan iktisat teorisinin vazgeçilmez parçası haline
+gelmesini sağlayacak olan gelişmeler bu dönemde meydana
+gelmiştir.
+Waldegrave, Montmort Ve Bernoulli
+Oyun teorisinin ilk ortaya çıkış tarihini Babil Talmud’undaki
+(MS 500) bir evlilik ve miras örneği, (Walker, 2012:1) hatta Sun
+Tzu’nun Savaş Sanatı isimli parşömenleri (MÖ 500) üzerinden
+ilk çağlara kadar götüren araştırmacılara rastlamak mümkün
+(Shubik, 1987’den aktaran Dimand & Dimand, 1996:105). Ancak
+bildiğimiz anlamda matematiksel analizin kullanıldığı oyun
+teorisinin zemini olarak onyedinci yüzyılda Pierre de Fermat ve
+Blaise Pascal’ın mektuplaşmalarını karma strateji’nin dayanak
+noktası olan olasılık konusunun başlangıcı olarak kabul edenle-
+rin yanı sıra (Hyksová, 2013:1), şans oyunlarında stratejik karar
+verme hakında yazılmış, Pierre Remond de Montmort’un 1713
+basımı “Essay D'analyse Sur Les Jeux De Hazard” (Şans Oyunları
+Analizinin Denemesi) isimli kitabını ve yazarın Nicholas Berno-
+ulli ile James Waldegrave ile yaptığı yazışmalarını, gösterenler
+de vardır ki bu yazışmalarda oyunların minimaks ilkesi belir-
+lenmiş ve kanıtlanmıştır  (Arrow, 2003:15-16). Söz konusu ya-
+zışmalarda öne çıkan kart oyunlardan biri olan Waldegrave’in
+“Le Her” oyununu açıklamak gerekirse; Kartların değer sırası
+As < Iki < Üç ... <On < Vale < Kız < Papaz olmak üzere oyunun
+temel amacı her bir oyuncunun, elinde rakibinkinden daha
+büyük bir kart tumasıdır ve oyun şöyle oynanır:
+
+--- Sayfa 5 ---
+Oyun Teorisi ve Nash’in Denge Stratejisi
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+423
+Peter bir kart destesinden Paul'a rastgele bir kart verir ve aynı
+desteden bir kart da kendisi alır. Paul, kartıyla yetinmezse,
+kartını Peter'ın kartıyla değiştirme hakkına sahiptir; Fakat Pe-
+ter'ın kartının Papaz olması durumunda, onu vermeyebilir.
+Peter ilk çektiği karttan veya Paul'dan almak zorunda kaldığı
+karttan memnun kalmazsa o da desteden rastgele çektiği bir
+başka kartla değiştirme hakkına sahiptir; ancak çektiği kart bir
+Papaz ise, aynı şekilde değiştirmesine izin verilmez ve memnun
+olmadığı kartı elinde tutmak zorunda kalır. Paul ve Peter oyun
+sonunda aynı değeri taşıyan kartlara sahip olursa, kart dağıtan
+(Peter) kazanacaktır. Bu koşullar altında Paul’ün çektiği kart
+yedi'den küçükse değiştirecek, yedi'den büyükse elinde tuta-
+cak; Peter ise sekizden küçük herhangi bir kartı değiştirecek,
+sekizden büyükse elinde tutacaktır. Paul yedi’yi her zaman
+değiştirecek olursa, Peter sekiz’i değiştirme kuralını benimseye-
+rek kazanacaktır. Bununla birlikte Peter’ın, sekiz’ini her zaman
+değiştirdiği bir durumda Paul, değişmek yerine her zaman
+elinde bir yedi tutarak kazanabilecektir. Yani, şüpheli durum-
+larda (Peter için sekiz, Paul için yedi) Peter, Paul'unkiyle aynı
+stratejiyi benimserken (kartı elinde tutma ya da değiştirme ko-
+nusunda Paul’ü takip eder) Paul da Peter'ın tersi bir strateji
+izlemektedir. Bernoulli, şüpheli durumlarda kartların değişti-
+rilmesi gerektiğini düşünürken, Montmort hiçbir kuralın kuru-
+lamayabileceği sonucuna varmıştır (Hyksová, 2013:2; Dimand
+& Dimand, 1996:121-122; Arrow, 2003:16).
+Waldegrave, Peter'ın sekiz ve daha büyük kartları elinde tutup
+daha küçük kartları değiştirme olasılığının 5/8, sekiz ve altı
+kartları değiştirip daha yüksek kartları elinde tutma olasılığının
+da 3/8 olduğu sonucuna vardı. Paul’ün ise yedi ve üstü kartları
+elinde tutup daha küçük olanları değiştirme olasılığını 3/8,
+yedi ve daha küçük kartları değiştirip daha büyük olanları
+elinde tutma olasılığını da 5/8 olarak belirlemiştir (Baumol &
+Goldfeld, 1968:7–9).
+De Montmort, Nicolas Bernoulli ile yazışmalarını, Essai
+d'Analyze sur les jeux d'Hasard'ın ikinci baskısına bir ek olarak
+yayınlamıştı. Bu ek, Nicolas Bernoulli'nin Montmort'a gönder-
+diği St. Petersburg paradoksunu belirten mektupla ünlenmiştir
+(Dimand & Dimand, 1996:122). Bununla birlikte kimi yazarlar,
+Waldegrave'in “Le Her” çözümünde optimal karma stratejiler-
+den kazanma olasılıkları matrisini yanlış türettiğini, ayrıca kart
+dağıtıcının her zaman sekiz ve üstü kartları elinde tutması ve
+diğer oyuncunun daima yedi ve altı olanları değişmesinin, her
+
+--- Sayfa 6 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+424
+oyuncunun karma değil saf bir strateji izlediği anlamına geldi-
+ğini iddia etmektedir (Rives, 1975:54).
+
+Augustin Cournot’un Duopol Modeli ve Nash Dengesi
+Oyun teorisine sosyal bilimlerde ve ekonomide artan ilginin en
+önemli nedeni bireysel veya organizasyonel düzeyde optimal
+kararlar almayı sağlayacak ölçüde rakibin kararını öngörebilme
+ve bunu matematiksel olarak ifade edebilme ihtiyacından kay-
+naklanmaktadır. Çünkü en doğru kararı vermek, ancak rakibin
+kararının bilinmesiyle mümkün olabilir. Oysa hatırlanacağı
+üzere klasik mikro ekonomik analizde, tam rekabet, tam istih-
+dam, kusursuz enformasyon gibi varsayımlar gereği karar bi-
+rimlerinin, karar verirken birbirlerinin davranışlarını dikkate
+almaksızın, sadece veri fiyatlar çerçevesinde optimal kararlar
+veren rasyonel ajanlar olduğunu kabul ediliyordu (McCain,
+2010:1/13-20). Ekonomi alanında bir ajanın karar verirken stra-
+tejik davrandığı yani bir diğerinin kararını tahmin etmeye çalı-
+şarak dikkate aldığı ilk analiz 19. yüzyıl başlarında düopol pi-
+yasası ile ilgili çalışmalar yapan Fransız ekonomist Augustin
+Cournot tarafından yapılmış (Arrow, 2003:16) ve “Mathemati-
+cal Principles of the Theory of Wealth” (1838) (Servet Teorisinin
+Matematiksel İlkeleri) başlıklı kitabında yayımlanmıştır.
+Hassas bir matematiksel modelde Nash dengesinin ilk açık
+uygulaması, tekelci aşırılıkları sınırlandıran ve mükemmel ra-
+kipler içeren duopolün en erken çözümü ve oyun teorisinde en
+çok kullanılan denge konsepti Cournot’a (1838) aittir. İlk önce
+piyasa yapısını titizlikle analiz eden Cournot, bağımlılığı oyun-
+teorik bir bakış açısıyla ele aldı (Dimand & Dimand, 1996:18).
+Cournot, Nash'ten yüzyılı aşkın süre önce oligopolistik rekabet-
+te “Nash Dengesi” metodolojisi ile analiz ettiği oyun modelleri
+geliştirdi ve tam da bu nedenle bazı ekonomistler, "Nash den-
+gesi" yerine "Cournot-Nash dengesi" ya da "Cournot dengesi"
+demekte ısrar etmektedirler (Myerson, 1999:1070).
+Firmanın karar alma sürecini inceleyen Cournot’nun duopol
+piyasa teorisine göre işletmeler birbirinin piyasasını ele geçir-
+meye çalışmak yerine, her bir işletme rakibine bağımlıymış gibi
+davranmalıdır. İşbirliğinin söz konusu olmadığı bu modelde
+her bir firmanın tepki fonksiyonu aslında rakibin gerçek seçimi
+değil de çıktı beklentisidir. Böylesi bir beklentinin kaynağı,
+karşılıklı etkileşim içeren bir deneme yanılma süreci değil, her
+
+--- Sayfa 7 ---
+Oyun Teorisi ve Nash’in Denge Stratejisi
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+425
+iki firma yönetiminin bir anlık zihinsel aktivitesidir (Giocoli,
+2003a:176-177) Örneğin:
+Tek firmanın faaliyet gösterdiği tekelci bir piyasaya yeni gire-
+cek olan B firması, piyasada tek satıcı olan ve piyasa talebinin
+‘sini üreterek tekelci karı elde eden A firmasının üretim mikta-
+rını değiştirmeyeceğini varsayar ve arta kalan  ‘nin ‘sini yani
+toplam piyasa hacminin ’ünü üretmeye karar vererek piyasaya
+girer. Böylece başlangıçta   olan piyasa hacmi ’e çıkar. Ancak
+bu kez A firması, piyasaya yeni giren B firmasının 'lük üreti-
+mini değiştirmeyeceği varsayımıyla üretimini yeniden düzen-
+leyerek zararını telafi etmeye çalışır. Karşılıklı tepkiler sonu-
+cunda iki firmanın üretim hacimleri şöyle değişecektir:
+A firmasının üretimi  →  →
+ →
+ şeklinde değişerek piya-
+sa hacminin ’ine düşer.
+B firmasının üretimi  →
+ →
+ →
+ şeklinde değişerek piya-
+sa hacminin ’ine yükselir.
+Nihayet her bir firmanın   pay almasıyla, daha önce tek satıcı-
+nın olduğu durumda  olan piyasa hacmi ’te dengeye gelmiş
+olur.
+Cournot’un bu çalışmasından çok önceleri birçok düşünür,
+yaşadıkları dönemin başlıca ekonomik sorunları olan uluslara-
+rası ticaret, iktisadi büyüme ve milli gelirin bölüşümü üzerine
+matematiksel teoriler geliştirmeye başlamışlardı. Ne de olsa
+maddi malların üretimi, dağıtımı ve piyasada dolaşımı mate-
+matiksel analize, sosyal bilimlerin diğer dallarından çok daha
+uygundu. Çünkü bir piyasadaki para ve mal hareketleri denk-
+lemlerde kullanılmak üzere kolayca nicelleştirilebiliyordu. O
+halde iktisat biliminin, Ahlak Felsefesi’nin, maddi malların
+üretimi ve dağıtımı ile ilgili sorunların analitik yaklaşımlarına
+odaklanan özel bir kolu olarak gelişmesinden daha doğal bir
+şey olamazdı (Myerson, 1999:1068-1069). Cournot'un (1838)
+monopol ve duopol çözümlemeleri; ekonomik problemlerin
+matematikselleştirilmesi, grafiksel örneklemeler kullanılması,
+ajanların birbirine stratejik bağımlılığından kaynaklanan oyun-
+teorik sorunlarının çözümü gibi çağının ötesinde imkanlar su-
+
+--- Sayfa 8 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+426
+nuyordu (Dimand & Dimand, 1996:18). Bununla birlikte gele-
+neksel iktisadi analiz metodolojisinde ezber bozan ilk çalışma-
+nın sahibi olan Cournot’un kendisinin bile ekonomik analizler-
+de matematiksel yöntemin tatmin edici bir doğruluk içermedi-
+ğine ve dolayısıyla matematiğin bir yöntem olarak sıkça kulla-
+nılmaması gerektiğine inandığını belirtmekte de fayda var
+(Sandmo, 2011:145-147).
+Ekonomi bilimine Augustin Cournot (1838) ile birlikte adı ko-
+nulmamış biçimde girerek iktisatçılara tamamen farklı bir bakış
+açısı sunan oyun teorisi, izleyen yüzyıl boyunca; Joseph Bert-
+rand, Francis Y. Edgeworth, Edward H. Chamberlin, Heinrich
+F. Von Stackelberg ve Paul Sweezy gibi iktisatçılar tarafından
+duopol-oligopol piyasa teorileri çerçevesinde geliştirilmiş
+(Myerson,1999:1069), ve Ernst F. Zermelo, Émile Borel, John
+Von Neumann ve John Nash gibi matematikçilerin çalışmala-
+rıyla birleşerek ilerde ekonomi biliminin önemli bir bileşeni
+haline gelecek olan “Oyun Teorisi”nin de temellerini oluştur-
+muştur (Şahin & Eren, 2012:267). Kuşkusuz yukarıda zikredilen
+iktisatçıları doğrudan oyun teorisinin kurucuları olarak tanım-
+lamak yanlış olacaktır. Hatta her birinin çalışması veya bir bü-
+tün olarak monopol-oligopol piyasa teorileri de kendi içinde
+birtakım tutarsızlıklar barındırdığı için eleştirilmektedir. Bu-
+nunla birlikte bu düşünürlerden her birinin katkısıyla, eksiklik-
+ler giderilmiş ve en önemlisi ekonomik sorunların analizinde
+kullanılan yöntemlerin dönüşümü hızlanmıştır. Ekonomide
+stratejik davranışlar konusunda deneysel yöntem kullanılarak
+yapılmış ilk önemli çalışma Chamberlin’e aittir (Basılgan,
+2013:65-66). Chamberlin, 1933’te yayımladığı “The Theory of
+Monopolistic Competition” adlı kitabında rekabetçi model’e
+yönelttiği eleştirilerini kanıtlamak amacıyla 1948’de laboratuar
+koşullarında bir piyasa ortamı oluşturarak gerçekleştirdiği de-
+neyinde gerçek satış miktarının rekabetçi denge satış miktarın-
+dan ve ortalama fiyattın da rekabetçi denge fiyatından son de-
+rece farklı olduğunu tespit etmiştir (Kagel & Roth, 1995:14-16).
+Modern Oyun Teorileri
+Literatürde modern oyun teorisi çoğunlukla Von Neumann ve
+Morgenstern ile özdeşleştirilse de bu konuda yapılmış ilk
+önemli çalışmalar, Ernst Friedrich Ferdinand Zermelo (1913),
+Emil Borel (1921), Denes König (1927) ve Laszlo Kalmar (1928-
+29) gibi erken oyun teorisyenleri olarak tanımlayabileceğimiz
+matematikçilere aittir. Bu isimlerin bilinmemesi kısmen dil
+
+--- Sayfa 9 ---
+Oyun Teorisi ve Nash’in Denge Stratejisi
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+427
+engeline bağlı olabilir, zira oyun teorisindeki ilk makalelerin
+çoğu Alman, Macar ve Fransız matematikçiler tarafından yazıl-
+dı ve oyun teorileri popüler olduktan sonra dahi uzun süre
+İngilizceye tercüme edilemedi. Bazen de yanlış tercüme sonucu
+bu çalışmaların içerikleri yanlış anlaşıldı. Günümüzde oyun
+teorisi alanında ilk resmi teoremin Ernst.F. Zermelo (1913) tara-
+fından Almanca yazılmış bir makalede ortaya konduğu genel
+kabul görmektedir (Schwalbe & Walker, 1999:123-124). Söz
+konusu makalesinde Zermelo, satranç oyununda beyaz oyun-
+cunun (oyunda ilk hamleyi yapan oyuncu olduğundan) her
+zaman kazandığı bir stratejinin var olduğunu ispatlamaya ça-
+lışmıştır (Dimand & Dimand, 1996:107-108). Oyunda ilk hareket
+eden kişinin asla kaybedemeyeceği bir strateji şüphesiz var,
+ancak bu stratejinin ne olduğu bugün bile yeterince net değil
+çünkü bu belli koşullara (belki de mükemmel olmaya) bağlı
+olmak zorundadır. Örneğin beyaz oyuncu, ilk hamlesinden
+itibaren siyahın bütün olası hamlelerini öngörebiliyor olmalı ve
+buna ek olarak rakibin her bir hamlesi için önceden belirlenmiş
+bir tepki hamlesine sahip olmalı ki bu da satranç oyunu söz
+konusu olduğunda milyonlarca alternatif tahmin ve hamle an-
+lamına gelir. Kuşkusuz Zermelo’nun amacı “beyazın yenilmez-
+liği”ni sağlayan stratejinin tam olarak ne olduğunu açıklamak
+değil, ama böyle bir stratejinin mutlaka var olduğunu kanıtla-
+maktı. Bu teorem her iki oyuncunun veya sadece beyazın ku-
+sursuz olduğu varsayımı altında tutarlıydı zira bütün olası
+hamlelerin bilindiği bir durumda ilk hamleyi yapanın bir adım
+önde olması belirleyi olacağından galibiyet kaçınılmaz olacak-
+tır. Zermelo'yu takiben satranç Viyana'daki matematik çevrele-
+rinde standart bir araştırma konusu haline geldi. König’in
+(1927) “Uber eine Schlubweise aus dem Endlichen ins Unend-
+liche” (Sonludan Sonsuza Bir Sonuç Metodu Üzerine) ve Kal-
+mar’ın (1928-29), “Zur Théorie der abstrakten Spiele” (Soyut
+oyunlar teorisi) gibi çalışmaları, Zermelo ve Borel’linkilerle
+birlikte Morgenstern-Von Neumann ve Nash’in çalışmalarının
+temelini oluşturur. (Leonard, 2010:59-61; Schwalbe & Walker,
+1999:126; Dimand & Dimand, 1996:124).
+Emile Borel, 1921-27 yılları arasında stratejik oyunlar hakkında
+biri erratum olmak üzere dört makale yayınladı. Yukarıda Co-
+urnot’nun; 1. Firma üretim miktarını değiştirirken 2. firmanın
+üretim miktarını sabit tuttuğu belirtilmişti bu eleştiriye mate-
+matikçi Emile Borel (1921) kısa bir bildiri ile çözüm önerisi ge-
+tirmektedir. Basit iki kişilik sıfır toplamlı oyunları ele alan Bo-
+
+--- Sayfa 10 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+428
+rel, “diğer stratejilerden daha iyi bir strateji belirlemenin müm-
+kün olup olmadığını araştırmak” için yola çıktı. Modelinin bi-
+çimsel yapılarını ortaya koyarken, stratejiyi; "olası her durumda
+oyuncunun tam olarak ne yapması gerektiğini belirleyen bir
+kod" olarak tanımlıyordu (Myerson, 1999:1070). Borel, iki kişilik
+oyunların minimax çözümünü üç veya beş olası stratejiyle bul-
+manın yanı sıra, karışık bir stratejinin ilk modern formülasyo-
+nunu verdi. Başlangıçta daha olası stratejilere sahip oyunların
+minimax çözümleri olmayacağını savunuyordu, ancak 1927
+yılına gelindiğinde, bir karşı örnek bulamadığı için bunu açık
+bir sorun olarak kabullendi. Borel (1921), iki kişilik bir şans ve
+strateji oyununu simetrik olarak değerlendiriyordu; çünkü iki
+oyuncu aynı stratejiyi benimsediğinde kazanma şansları eşit
+oluyordu (Leonard, 2010:60).
+Olası saf stratejilerin sayısının sonlu olduğu varsayılmıştır.
+A oyuncusu
+ (saf strateji) stratejisini, B oyuncusu
+ strateji-
+sini seçerse; A’nın kazanma olasılığı α=1/2 +
+, B'nin kazan-
+ma ihtimali de, b=1-α, yani; b=1/2+
+, burada
++
+=0,
+=
+0 ve
+ -1/2 ile +1/2 arasındadır. Borel her oyuncunun, ka-
+zanma ihtimalini en üst düzeye çıkardığını varsaydı. Kazançlar
+sıfır toplamlı ve simetrik olduğu sürece, bu, beklenen kazançla-
+rın en üst düzeye çıkarılmasına eşdeğerdir.
+Borel,
+'nin negatif olduğu durumlar için veya her durumda
+ için
+ stratejilerini “kötü” olarak elemektedir. Borel'in kötü
+bir stratejinin ortadan kaldırılmasına yönelik kriterleri, Borel
+(1921)’de varsaydığı gibi simetri durumunda, şuanki oyun teo-
+risinde zayıf bir stratejinin ortadan kaldırılmasına ilişkin ölçüt
+ile eşdeğerdir. Zayıf bir strateji, diğer oyuncuların ne yaparsa
+yapsın, başka bir stratejinin getirisine eşit veya daha düşük olan
+bir kazancı ifade eder. Dolayısıyla Borel, zayıf stratejilerin kal-
+dırılmasının daha sonraki kriterlerini öngörmüş ve böyle bir
+ortadan kaldırma ile yeni saf stratejilerin zayıflamasının muh-
+temel olduğunu belirtmiştir (Dimand & Dimand, 1996:125).
+Eğer
+’nin tüm k’lar için pozitif ya da sıfır olduğu bir du-
+rumda bir
+ stratejisi mevcutsa, bu en iyi strateji olacaktır.
+Borel, böylesine en iyi bir saf stratejinin mevcut olmayabilece-
+ğini ve daha sonra, kötü stratejilerin ortadan kaldırılmasının
+ardından kalan saf stratejiler arasında kişinin oyununu değişti-
+ren karma bir stratejiyi benimsemek için avantajlı olacağını
+belirtiyordu. Her an, oyuncu A‘nın
+ stratejisini seçme olasılığı
+, ve oyuncu B'nin
+ stratejisini oynama olasılığı
+'dir. A’nın
+
+--- Sayfa 11 ---
+Oyun Teorisi ve Nash’in Denge Stratejisi
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+429
+kazanma ihtimali α=1/2+ , burada
+
+'lerdeki tüm i ve
+k’lerinin toplamıdır.
+Borel'in kötü stratejilerin ortadan kaldırılmasından sonra sade-
+ce üç saf strateji bırakıldığında karma stratejiyi seçme kararını
+veren 1921 çözümü minimax bir çözümdür. Ancak Borel’in
+çözümünde oyuncu sayısı ikiyle, strateji sayısı ise yedi ile sınır-
+landırılmıştı ve Borel, çözümünün, sosyal bilimlere uyarlanma-
+sına engel olan bu sınırlandırmaya ilişkin yanlış varsayımı açık-
+lamak için iddianın ötesinde herhangi bir kanıt sunamamıştır
+(Dimand & Dimand, 1996:125-126; Leonard, 2010:59-61).
+John Von Neumann, 1928’deki çalışmasında karma stratejili, n-
+oyunculu, sıfır toplamlı, sonlu oyunlar için n=2 özel durumun-
+da matris oyunları teorisinin temel sonucu olan minimax teo-
+remini belirtmiş ve Brouwer (1912) sabit nokta teoremine dayalı
+topolojik bir yöntem kullanarak teoremin ilk geçerli kanıtını
+sunmuştu (Giocoli, 2003b:2; Hyksová, 2013:3; Dimand & Di-
+mand, 1996:144). Sabit noktaların varlığını matematiksel olarak
+ispatlayan teoremler mevcut olmadığından önce bir fonksiyon
+tanımlanmakta, ardından bu fonksiyon için bir sabit nokta bu-
+lunmaktadır (Şahin & Eren, 2012:268).
+Kısaca: Beklenen getirisi h(p,q) olan oyuncu A, diğer oyuncula-
+rın h(p,q) karma stratejilerini seçmelerini sağlıyor.
+Burada her bir “h(p⃰ , q⃰) = max p min q, h(p, q) = min q max p
+h(p,q)” stratejisi için daima (p⃰ , q⃰) gibi karma stratejiler vardır
+(Hyksová, 2013:3)
+Borel’in aksine Von Neumann, minimax teoremini, belirli bir
+strateji çifti arasında karşılıklı optimumluk olarak değil, rakibin
+olası hamlesine bakılmaksızın, her oyuncunun kendini güven-
+ceye alabileceği değerler arasındaki eşitlik olarak formüle etti
+ve belirsizlik durumunda, her oyuncunun ödülünün beklenen
+faydasını en üst düzeye çıkarmak istediği ve faydadın ölçüle-
+bildiği kardinal varsayımı kullandı. 1928'de ve tekrar 1944’te
+Morgenstern ile yazdığı kitabında, von Neumann, bu temel
+varsayımı, parasal transfer ödemeleri ile tüm kazançları tanım-
+layarak doğrulamaya çalıştı; bu da, ödemeyi devredilebilir ve
+tüm oyunların sıfır toplamlı olduğu kısıtlamasına neden olmuş-
+tur (Myerson, 1999:1073).
+John Von Neumann ve Oskar Morgenstern'in verimli bir işbir-
+liğinin bir ürünü olan “Theory of Games and Economic Beha-
+vior”da (1944) ekonomik problemin ayrıntılı bir formülasyonu
+
+--- Sayfa 12 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+430
+ile başlayarak, ekonomide oyun teorisinin olağanüstü geniş
+uygulama alanı bulmasını sağlamış ve ardından bir aksiyoma-
+tik fayda teorisinin temellerini atmışlardır. Oyun teorisi tari-
+hinde önemli kilometre taşlarından biri olarak Kabul edilen bu
+olay, genellikle oyun teorisinin matematiksel olarak tanımlan-
+masının ilk kez başarılması ve kısmen ekonomiye uyarlanabilir
+hale gelmeye başlaması olarak kabul edilir (Hyksová, 2013:3-4).
+Arrow’a (2003) göre ise oyun teorisi Cournot’dan (1838) beri
+ekonomik analizde resmen kullanılmış ancak bir şekilde farklı
+bir fikir olarak görülmüştür Arrow, (2003:16). Bu ikili ise, askeri
+savaşlardan tutun da fiyat savaşlarına kadar pek çok alanda
+karar alma sürecinin stratejik etkileşiminin genel mantığını
+anlamak amacıyla oyunların matematiksel ifadesinin genel
+yöntemini belirlemiş ve oyuncuların çıkar çatışması halinde
+olduğu, yani A’nın kazancının B’nin kaybı anlamına geldiği
+(sıfır toplamlı) sistematik oyunlar ortaya koymuştur (Varian,
+2002). Yine oyun teorisiyle adeta özdeşleşmiş olan bu eseri Von
+Neumanla birlikte yazan Oskar Morgenstern’in, daha önce
+(1928’den itibaren) her bir karar biriminin eylemlerini rakibinin
+davranışlarından bekletilerini esas alan ekonomik tahminlerle
+gerçekleştirdiğini ifade ettiği çalışmalar ilk zamanlarda pek ses
+getirmemiştir (Arrow, 2003:16-17). Hatırlanacağı üzere olasılık
+teorisiyle ilgilenen Zermelo (1913), Borel (1921), König (1927),
+Kalmar (1928-29) ve kıta Avrupasından daha pek çok matema-
+tikçi, Von Neuman’dan önce saf şans oyunlarından strateji
+oyunlarına doğru ilk adımları atmış, ne varki bu çalışmalardan
+(kısmen dil kısıtı nedeniyle) belli çevreler dışında neredeyse hiç
+kimse haberdar olamamıştır. Von Neumann, dil engeline takıl-
+madan bu kaynaklardan istifade etme olanağına sahip olup
+ingilizce yazan ender matematikçilerden biriydi ve 1933’te
+Princetone Üniversitesinde çalışması için davet edilinceye ka-
+dar Berlin Üniversitesinde öğretim üyesi olarak görev yapmış-
+tır. Böylece Von Neumann, oyun teorileri üzerine odaklandığı
+bir dönemde tanıştığı Oscar Morgenstern’i Princetoneda kal-
+maya ikna ettikten ve ekonomik sorunları oyun teorisi çerçeve-
+sinde ele aldıkları ünlü kitaplarını yayınladıktan sonra bu konu
+popüler hale gelmiş ve bu çalışmalar gün yüzüne çıkabilmiştir
+(Dimand & Dimand, 1996:143).
+Oyun Teorisine John Nash’ın Katkıları
+Von Neumann ve Morgenstern, “Theory of Games and Econo-
+mic Behavior” ve devamındaki çalışmalarıyla oyun teorisinin
+çeşitli alanlara uygulanmasına olanak veren; rasgeleleştirilmiş
+
+--- Sayfa 13 ---
+Oyun Teorisi ve Nash’in Denge Stratejisi
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+431
+oyunlar için çözümlerin var olduğunun sabit nokta teoremiyle
+ispatlanması, normal ve geniş formların strateji konseptinde
+birbiriyle ilişkilendirilmesi ve bireysel karar almayı sağlayan
+beklenen fayda kriterinin türetilmesi gibi önemli unsurların
+çoğunu geliştirmişlerdir. Fakat bütün bu yeni fikirleri genel bir
+oyun teorisinde (sıfır toplamlı oyunlar) birleştirdikleri için bun-
+ları tutarlı bir şekilde uygulayamamışlar ve rasyonel davranışın
+genel matematiksel bir karakterizasyonu sağlayamamışlardır.
+Böylece, oyun teorisinin bütün yapısını yeniden gözden geçir-
+me kabiliyetine sahip, yetenekli genç bir matematikçinin bu
+unsurları parçalaması ve doğru bir şekilde yeniden birleştirme-
+si için koşulların yeterince olgunlaştığı bir dönemde John For-
+bes Nash Jr, Princeton'da bir lisansüstü öğrencisi olarak kayıt
+yaptırmıştır (Myerson, 1999:1073; Hyksová, 2013:3-4; Giocoli,
+2003b: 1-2).
+John F. Nash’in Hayatı
+John Forbes Nash Jr, 13 Haziran 1928'de West Virginia, şehrin-
+de, günümüzde var olmayan bir hastane olan Bluefield Sana-
+toryumunda dünyaya gelmiştir. Nash, ilkokula başlamadan
+önce anaokuluna gitme şansına sahip olmuş, ayrıca eski bir
+öğretmen olan annesi; okulun ve evde kendisinin verdiği eği-
+timle yetinmeyip onu ileri matematik dersleri alması için lise
+son sınıftayken özel bir matematik kursuna da göndermiştir.
+George Westinghouse tam bursuyla Carnegie Teknoloji Ensti-
+tüsünde kimya mühendisliği bölümüne başladığında çizgisiz
+kağıda düzgün mısralarla yazı yazmayı dahi beceremeyen
+Nash, bu bölümünün bir parçası olan teknik çizimler ve uygu-
+lamalı kurslar nedeniyle sıkılınca kimya mühendisliğinden
+kimya bölümüne geçiş yapar. Ancak bir süre sonra bu kez de
+nicel analizlerin zorluklarıyla karşı karşıya kalır (Nobelpri-
+ze.org). Sonunda matematik bölümü okuyarak ABD’de kariyer
+yapmanın imkansız olmadığını keşfeden Nash, hocalarının da
+teşvikiyle son bir kez daha bölüm değiştirerek resmen matema-
+tikçi olmuş ve 1948'de henüz 19 yaşındayken hem lisans hem
+de yüksek lisans dereceleri ile bu bölümden mezun olmuştur.
+Yüksek lisans bursu kazanan Nash, başlarda Harward’a kayıt
+yapmaya karar verdiyse de Princeton üniversitesinden Prof.
+A.W. Tucker kendisine daha yüksek burs ve geniş imkanlar
+teklif edince ve Bluefied’daki ailesine yakınlığının da etkisiyle
+kendisine daha fazla değer verdiğine inandığı Princeton Üni-
+versitesinin matematik bölümünde yüksek lisans eğitimine
+
+--- Sayfa 14 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+432
+başlamış ve burada ilerde Nash dengesi adıyla ünlenecek olan
+denge teorisi üzerinde çalışmaya başlamıştır. (Leonard,
+1994:498). Princeton'daki lisansüstü eğitimi esnasında, von Ne-
+umann ve Morgenstern'in çalışmaları ile şekillenen oyun teorisi
+çalışmalarına ilgi duymaya başlamış ve doktora dercesini de
+1950'de, danışmanı Albert W. Tucker'ın gözetiminde işbirliksiz
+oyunlarla ilgili 28 sayfalık bir tez ile elde etmiştir (Giocoli,
+2004:639-640 ; Leonard, 1994:496-497).
+John Nash, Princeton Üniversitesi'nde Kıdemli Araştırma Ma-
+tematikçisi olarak görev yaparken, Ekonomide yaygın olarak
+kullanılan oyun teorilerine katkılarından dolayı 1994 yılında
+Ekonomi alanında Nobel Ödülü’nü, takipçileri olarak kabul
+edilen Reinhard Selten ve John Harsanyi ile paylaşmıştır (No-
+belprize.org). Nash'in oyun teorileriyle ilgili çalışmaları, günlük
+hayatta karşılaşılan karmaşık sistemler içinde şans ile karar
+verme süreçlerini yöneten faktörleri açıklayan tutarlı bilgiler
+sunmuştur. John Nash, uzun bir yaşamdan sonra 23 Mayıs
+2015'te Abel Matematik Ödülü'nü aldığı Norveç'ten dönüş yo-
+lunda New Jersey Turnpike’de bindikleri taksinin kaza yapması
+sonucu 86 yaşındayken bir trafik kazasında eşiyle birlikte haya-
+tını kaybettiğinde; ardında 1950 ile 53 yılları arasında yayım-
+lanmış 28 sayfalık bir doktora tezi, üçünde ortak yazar olarak,
+dördünü tek başına (ki bunlardan biri tek sayfadan ibarettir)
+yazmış olduğu hepsi hepsi yedi makale; bu hacimsiz, yarım asrı
+devirmiş makalelerin ürünü olan geniş çaplı tartışmalar ve
+özellikle ekonomi bilimi üzerine oldukça güçlü bir etki yaratan
+“Nash Dengesi” kavramını bırakmıştır.
+Nash’in Denge Stratejisi
+Nash, (1950b) Von Neumann’ın sadece iki oyunculu sıfır top-
+lamlı oyunlara uygulayabildiği minimax kriterini, negatif-sabit
+nokta tekniğini kullanarak genelleştirmiş ve “iki oyuncu sıfır
+toplam” kısıtı olmaksızın bütün oyun türlerine uygulayabilece-
+ği bir denge noktası olan yepyeni bir çözüm konsepti geliştir-
+miştir (Giocoli, 2003:10-11). Bununla birlikte Nash, aslında yeni
+bir teori geliştirmekten ziyade Brouwer ve Kakutani'nin var
+olan sabit nokta teoremlerini başka bir teoreme (Von Neumann-
+Morgenstern teoremi) uygulamıştır. Bu durum, Von Neu-
+mann'ın Nash dengesine karşı başlarda küçümseyici bir tutum
+takınmasına
+neden
+olmuştur
+(Blaug,
+2003:149;
+Giocoli,
+2003b:11). Aslında Nash, ilk makalesi olan “Bargaining Prob-
+lem”de (Nash, 1950a) Coutnot’un monopol pazarlık sorununu
+
+--- Sayfa 15 ---
+Oyun Teorisi ve Nash’in Denge Stratejisi
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+433
+açıklamaya çalışırken, iki kişilik, ama sonucu sıfır olmayan
+farklı bir yaklaşım benimsemişti (Nash, 1950a:155). Ancak kesin
+çözümü PNAS’da yayınlanan ve kendisine daha sonra Nobel
+kazandıracak olan tek sayfalık ünlü makalesi “Equilibrium
+Points in N-Person Games” (1950b) ile sunmuştur.
+Bir Nash dengesi, her hangi bir oyuncunun, diğer oyuncuların
+stratejilerinden bağımsız olarak, sadece kendi stratejisini değiş-
+tirerek faydasını maksimize edemeyeceği stratejilerin toplamı-
+dır. Her bir oyuncu için bir tane olmak üzere; herhangi bir n-
+strateji kümesi, oyuncuların n-strateji alanlarının çarpımı ile
+elde edilen ürün alanındaki bir nokta olarak kabul edilebilir.
+Karşılıklı n-strateji kümelerindeki herhangi bir strateji, oyuncu-
+su için karşı karşıya olduğu bir diğer n-kümedeki oyuncuların
+(n-1) stratejilerine karşı elde edilebilecek en yüksek fayda bek-
+lentisi sağlıyorsa böyle bir n-strateji kümesi bir diğerine karşı
+koyabilecektir. Böylesi kendi kendine yeten bir n-strateji küme-
+si denge noktası olarak (Nash Dengesi) adlandırılır. Nash,
+(1950b) gerekli varsayımları açıkladıktan sonra n-oyunculu bir
+oyunda denge noktasının varlığını aşağıdaki formülle göster-
+mektedir:
+Her bir n-kümesinin karşı koyduğu grubun n-kümesiyle haber-
+leşmesi, ürün alanının birden çoka doğru kendi içinde harita-
+landırılmasını sağlar. Karşı koyma’nın tanımından, (Von Neu-
+mann & Morgenstern’in beklenen fayda fonksiyonunun doğru-
+sallığı nedeniyle) bir noktanın karşı koyma noktalarının dizisi-
+nin dışbükey olduğu sonucu ortaya çıkacaktır. Kazanç fonksi-
+yonlarının sürekliliği nedeniyle haritalamanın grafiği kapalıdr.
+Kapanma şuna eşdeğerdir:
+,
+, …
+ ve
+,
+, …
+'ler, üretim alanındaki noktalar dizi-
+sidir.
+Burada
+ → Q ve
+ → P olur.
+,
+’e ve Q ise P’ye karşı
+koyar. Grafik kapalı olduğundan ve haritalamadaki her bir
+noktanın görüntüsü dışbükey olduğundan, Kakutani teoremin-
+den hareketle haritalamanın sabit bir noktaya sahip olduğu
+sonucuna varılabilir  (Nash, 1950b:49). Böylece ilk kez denge
+durumu ile sabit bir nokta arasında bir ilişki kurulmuştur. Do-
+layısıyla Nash’e göre bir denge noktası vardır ve bu denge nok-
+tasının varlığı,  iki kişilik sıfır-toplam durumunda Von Neu-
+mann & Morgenstern (1944) teoremi ile eşdeğerdir. Bu durum-
+da herhangi iki denge noktası, oyuncular için aynı beklentilere
+
+--- Sayfa 16 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+434
+neden olsa da, genel olarak bunun gerçekleşmesi zorunlu de-
+ğildir.
+Annal Of Mathematics’te yayınlanan 1951 tarihli “Non-
+Cooperatıve Games“ (İşbirliksiz Oyunlar) makalesinde Nash,
+kendi yaklaşımı ile Von Neumann ve Morgenstern'in yaklaşımı
+arasındaki farkı vurgulamaktadır. Söz konusu yazarlar, iki kişi-
+lik sıfır-toplam oyunların yanı sıra; işbirlikçi olarak tanımlanan,
+oyuncular tarafından oluşturulabilen çeşitli ortaklıkların karşı-
+lıklı ilişkilerinin bir analizine dayanan n-kişilik oyun teorisini
+de ele almışlardır. Buna karşın, Nash’in teorisi, bir denge nok-
+tasının varlığına ve ortaklıkların yokluğuna dayanır (Nash,
+1951:286). Örnek çözümün üç kişilik poker oyunu üzerinden
+açıklandığı analizde, her oyuncunun diğerleriyle arasında işbir-
+liği veya iletişim olmaksızın, bağımsız olarak hareket ettiği
+varsayılmaktadır. Nash gerek işbirlikli gerekse işbirliksiz oyun-
+lar için detaylarını açıklayarak tutarlılığını kanıtladığı Nash
+dengesi özetle; herhangi bir oyuncu tarafından oynanan strate-
+jinin, en azından diğer oyuncuların stratejilerine karşı uygula-
+nabilecek herhangi bir stratejiden daha iyi bir karşı hamle ol-
+duğu bir strateji profilidir (Giocoli 2004:639-644). Yani bir oyun-
+cunun kazancı rakibinin mutlak kaybına eşit olabileceği gibi,
+daha büyük veya daha küçük değerler de alabilmektedir. Bu
+çözümlemeyle birlikte Von Neumann'ın büyük başarısı olarak
+kabul edilen minimax teoremi, kendisinden türetilen Nash'in
+denge noktasının özel bir durumuna indirgenmiş olmaktadır.
+Nash Dengesi ve Mahkumun İkilemi
+Oyun teorisinde Nash dengesini tanımlayan en basit ve sosyal
+bilimlerde en çok kullanılan bulmaca “Mahkumun İkilemi”dir.
+Mahkumun İkilemi’nin ana yapısını oluşturan ilk bulmacalar,
+askeri alanda faaliyet gösteren RAND isimli bir araştırma geliş-
+tirme şirketinin bünyesinde askeri amaçlı oyun teorisi araştır-
+malarının bir parçası olarak 1948–50 yılları arasında Merrill
+Flood ve Melvin Dresher tarafından tasarlanmış ve böylece bu
+konu yaygın bir biçimde tartışmaya açılmıştır (Kagel & Roth,
+1995:290-291). Oyuna hapis cezası faktörünü ekleyen ve başlık
+olarak “Prisoners Dilemma” (Mahkumun İkilemi) ifadesini
+kullanarak yayınlayan ilk kişi ise Princeton Üniversitesinde
+öğretim üyesi olan ve Flood ve Dresher'ın fikirlerini Stanford
+psikologlarından daha erişilebilir hale getirmek isteyen Kana-
+dalı matematikçi Albert W. Tucker’dır (Kuhn, 2017). Aynı za-
+
+--- Sayfa 17 ---
+Oyun Teorisi ve Nash’in Denge Stratejisi
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+435
+manda John Nash’in tez danışmanı olan Tucker’in açıkladığı
+Mahkum İkilemi bulmacası şu şekilde işler:
+Bir suç çetesinin iki üyesi tutuklanarak hapsedilmiştir. Her bir
+tutuklu, diğeriyle iletişim kurma olanağına sahip olmaksızın
+tecrit edilmiş durumdadır.Savcılar, tutukluları mahkûm etmek
+için yeterli delile sahip değillerdir. Her iki tutuklu da bir yıldan
+daha az ceza ile kurtulmayı ummaktadırlar. Aynı zamanda,
+savcılar her bir mahkuma bir pazarlık önermektedir. Her bir
+mahkuma, ya diğerinin suç işlemiş olduğunu dair tanıklık ede-
+rek diğerine ihanet etmesi ya da sessiz kalarak diğeriyle işbirli-
+ği yapma fırsatı verilir. Sunulan seçenekler ve sonuçları şöyle-
+dir:
+A ve B'nin ikisi de inkar ederse, ikisi de yalnızca 1 yıl hapisle
+cezalandırılır.
+A ve B, karşılıklı olarak itiraf ederse, her biri 2 yıl hapse mah-
+kum olur.
+A, itiraf eder ve B sessiz kalırsa, A serbest bırakılır ve B 3 yıl
+ceza alır. (veya tersi)
+Tablo 1. A ve B mahkumları için alternatif kararlar ve sonuçla-
+rı (Kaynak: Kuhn, 2017)
+
+İTİRAF
+İNKAR
+İTİRAF
+(-2, -2)
+(0, -3)
+İNKAR
+(-3, 0)
+(-1, -1)
+
+Yukarıdaki tablodan da anlaşılacağı üzere her iki mahkum için
+de en karlı seçim inkar gibi gözükse de; her bir bireyin rasyonel
+olduğu ve aynı zamanda karşı tarafın da kendisi gibi rasyonel
+olduğunu kabul ettiği varsayımı gereği, her iki mahkum için de
+baskın seçim itiraf olmaktadır. Burada her bir ajanın kararını
+belirleyen husus Cournot modelinde olduğu gibi rakibin kara-
+rının tahmin edilmesidir. Ancak Cournot modelinde pasif (ka-
+rarını/üretimini değiştirmeyen) olan rakip burada aktif oldu-
+ğundan tahmini belirleyen faktörün rasyonellik varsayımı ol-
+duğunu belirtmekte fayda var.
+
+--- Sayfa 18 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+436
+Her ne kadarFlood ve Dreser fikirlerini yayınlamak için acele
+etmediyse de, bulmacaya ilgi o günden bu yana çeşitli disiplin-
+lerde artan bir biçimde giderek yaygınlaştı.
+Kuhn’un (2017), Donninger’den aktardığına göre, altmışlı ve
+yetmişli yıllarda bu alanda binden fazla makale yayımlanmıştır.
+1988-1994 yıllarında yapılmış çalışmaları kapsayan bibliyograf-
+yalarında Robert Axelrod ve Lisa D’Ambrosio; bu konuda ya-
+zılmış 209 çalışma listelemişlerdir. (Axelrod & D'Ambrosio,
+1994)
+
+Sonuç
+1960’lardan itibaren sosyal bilimlerin diğer alanlarında uygu-
+lanmaya başlayan oyun teorisi, konuyla ilgilenen akademisyen-
+lerin katkılarıyla gün be gün yenilenirken; 80’li yıllara kadar
+ekonomide uygulanabilirliğine dair inanç yerleşmemiş, hatta
+belli başlı iktisat teorisyenlerinin bu konuda yapılan çalışmalara
+yaklaşımı genelde olumsuz ve küçümseyici olmuştur. Ancak
+ilerleyen yıllarda firmaların ve hükümetlerin stratejik karar
+aşamalarında oyun teorisyenleri önemli görevler üstlenmiştir.
+Nash’in Nobel ödülü aldığı 1994 yılında, ABD hükümetinin
+gerçekleştirdiği milyarlarca dolarlık telekomünikasyon ihalele-
+rinde, açık artırma analizinin gücünün pratik bir örneğini su-
+nan oyun kuramcılarının kritik rolü, bu müzayedeyi kesinlikle
+oyun teorisinin en önemli erken uygulamalardan biri olarak
+kayıtlara geçirmiştir (Nasar, 1998:447-462). 1980’lerden itibaren
+popüleritesi giderek artan ve günümüzde çeşitli disiplinlerde
+uygulama alanı bulan  oyun teorisinin en önemli mimarların-
+dan olan John Forbes Nash Jr, oyun teorisinin yanı sıra diferan-
+siyel geometride kısmi diferansiyel denklemlerin incelenmesine
+önemli katkılarda bulunmuş dünyanın en önemli matematikçi-
+lerinden biri olarak kabul edilir. Nash, aynı zamanda ekonomi
+bilimiyle ilgilenen insanların (çoğunlukla bir matematikçi değil
+de bir ekonomist olduğu zannedilse de) ismini en iyi bildiği
+matematikçilerin de başında gelir. Bunun nedeni kendisine
+ekonomi alanında Nobel ödülü kazandırmış olup ekonomi
+literatüründe önemli bir yere sahip olan “Nash Dengesi” kav-
+ramıdır. Oysa Nash ile Ekonomi bilimi arasındaki bağlantıyı
+sağlayan tek şey, Carnegie'de okuduğu esnada aldığı seçmeli
+“Uluslararası Ekonomi” dersi olmuştur. Bu ders Nash’in eko-
+nomik fikirler ve sorunlarla ilgilenmesine neden olmuş ve bu
+ilginin bir sonucu olarak daha sonra Econometrica'da yayınla-
+
+--- Sayfa 19 ---
+Oyun Teorisi ve Nash’in Denge Stratejisi
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+437
+nacak olan “Bargaining Problem” (Nash, 1950a) başlıklı bir
+makale yazmıştır. Dolayısıyla Nash bir ekonomist değil bir
+matematikçidir ve ne ekonomi alanında Nobel Ödülü almış
+olması ne de sistematik “Nash dengesi” ifadesinin iktisatta
+tekrar tekrar kullanılması onu bir iktisatçı yapmak için yeterli
+olmayacaktır.
+Nash
+dengesi,
+matematiksel
+bir
+sorunun
+(Brouwer [1912] & Kakutani [1941] sabit nokta teoremi) mate-
+matiksel bir yanıtı olarak ortaya çıkmıştır (Giocoli, 2004:639-
+640). Bununla birlikte eski ve dağınık oyun teorisinin genel
+çerçevesini oluşturan Nash, yeni bir iktisadi analiz dili için te-
+mel bir sözlük hazırlamıştır. Nash'den önce ekonomide kullanı-
+lan genel analiz yöntemi olan fiyat teorisinin analiz gücü, ikti-
+satçılara pratik politika üretmede çok kıymetli rehberlik hiz-
+metlerinde bulunmuş olsa da ekonomik sorunların analizinde;
+fiyat dışı ekonomik sorunlar, asimetrik enformasyon ve firma-
+nın örgütsel yapılanmasıyla ilgili sorunların analize dahil edi-
+lememesi gibi ciddi sınırlamalarla karşı karşıyaydı. İşbirliksiz
+oyun teorisinin soyut genelliği ve daha geniş analitik perspekti-
+fi, ekonomik analizi bu metodolojik kısıtlamalardan kurtarmış,
+ekonomistlerin piyasa ve piyasa dışı sistemleri eşit bir zeminde
+ele alıp ekonomik kalkınma sürecinde; ekonomik, sosyal ve
+politik kurumlar arasındaki temel bağlantıları tanımasını sağ-
+lamıştır. Bu nedenle fiyat teorisinin merkezinde yazılmış Wal-
+rasgil genel dengeye ilişkin daha sonraki makaleler bile,
+Nash'in tarz ve metodolojisinden oldukça etkilenmiştir (Myer-
+son, 1996:1079-1080).
+Bir dahi olarak kabul edilen Von Neumann’ın kendi ortaya
+koyduğu ama yıllarca çözemediği bir sorunu, onun öğrencisi
+olarak çözen Nash'in denge stratejisi, iktisat bilimi açısından
+yirminci yüzyılın en seçkin entelektüel gelişmelerinden biridir.
+Kimi araştırmacılara göre Nash'in işbirliksiz oyunlar kuramı ve
+“Nash Dengesi” formülünün, iktisada ve sosyal bilimlere yap-
+tığı etkiler, fen bilimlerinde DNA çift sarmalının keşfi ile kıyas-
+lanabilecek kadar önemlidir (Myerson, 1999:1067). Yüzlerce
+bildiri, makale ve kitap, iktisat teorisinde Nash Dengesi'nin
+olağanüstü konumuna tanıklık etmektedir. John Nash, ekono-
+mik birimlerin rasyonel oldukları ve aynı zamanda kendi dür-
+tülerine göre hareket ettikleri fikrini somutlaştırmış olması ne-
+deniyle, Nobel ekonomi ödülüne layık görülmüştür (Giocoli,
+2004:639; Blaug, 2003:149). Dolayısıyla, ekonomik analizde ajan-
+ların rasyonel oldukları varsayımının iktisat teorisinin itici gücü
+olduğu dikkate alındığında denilebilirki; Nash dengesi kavramı
+
+--- Sayfa 20 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+438
+Neo-klasik iktisadın temelini oluşturan fikirlerle eşdeğer öneme
+sahiptir. Bir benzetme yapmak gerekirse sıfır toplamlı oyun
+modelleri, bir ülkenin kazancının diğerinin kaybına eşit olduğu
+varsayımına dayanan merkantilist dış ticaret modelini temsil
+ederken; Nash dengesi, her iki ülkenin de kazançlı çıkabildiği
+karşılaştırmalı üstünlükler modeline denk gelmektedir ki bu
+durum Nash’in katkıları olmaksızın oyun teorilerinin günümüz
+ekonomik analizlerinde neden kullanılamayacağını açıklamak-
+tadır.
+
+Kaynakça
+Arrow, K. J. (2003). Introductory remarks on the history of ga-
+me theory. Games and Economic Behavior, 45(1), 15-18.
+Axelrod, R.& D'Ambrosio, L. (1994). Annotated bibliography on
+the evolution of cooperation, Retrieved from http://www-
+perso-
+nal.umich.edu/~axe/research/Evol_of_Coop_Bibliography.ht
+m on 29.11.2017.
+Basılgan, M. (2013). İktisat ve deneysel yöntem: deneyler, tar-
+tışmalar ve gelecek, İ.Ü. Siyasal Bilgiler Fakültesi Dergisi, 48, 61-
+89.
+Baumol, W. J. & Goldfeld, S. M. (Eds.). (1968). Precursors in mat-
+hematical economics: An anthology (No. 19). London School of
+Economics and Political Science.
+Dimand, M. A. & Dimand, R. W. (2002). The history of game the-
+ory, volume 1: from the beginnings to 1945. Routledge.
+Gächter, S. (2004). Behavioral game theory. Blackwell handbook of
+judgment and decision making, 485-503.
+Giocoli, N. (2003a). Conjecturizing Cournot: The conjectural
+variations approach to duopoly theory. History of political eco-
+nomy, 35(2), 175-204.
+Giocoli, N. (2003b). Fixing the point: the contribution of early
+game theory to the tool-box of modern economics. Journal of
+Economic Methodology, 10(1), 1-39.
+Giocoli, N. (2004). Nash equilibrium. History of political eco-
+nomy, 36(4), 639-666.
+
+--- Sayfa 21 ---
+Oyun Teorisi ve Nash’in Denge Stratejisi
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+439
+Hyksová, M. (2013). Several milestones in the history of game
+theory, doi=10.1.1.319.8082
+John
+F.
+Nash
+Jr.
+Biographical,
+Retrieved
+from
+https://www.nobelprize.org/nobel_prizes/economic-
+sciences/laureates/1994/nash-bio.html on 20.11.2017
+Kagel, J. H. & Roth, A. E. (Eds.). (2016). The Handbook of Experi-
+mental Economics, Volume 2: The Handbook of Experimental Econo-
+mics. Princeton university press.
+Kuhn,
+S.
+(1997).
+Prisoner's
+dilemma,
+Retrieved
+from
+https://seop.illc.uva.nl/entries/prisoner-dilemma/
+on
+20.11.2017.
+Leonard, R. J. (1994). Reading Cournot, reading Nash: the crea-
+tion and stabilisation of the Nash equilibrium, Economic Journal,
+104, 492-511.
+Leonard, R. (2010). Von Neumann, Morgenstern, and the creation of
+game theory: from chess to social scince 1900-1960, Cambridge,
+Cambridge University Press.
+McCain, R. A. (2010). Game theory: a nontechnical introduction to
+the analysis of strategy revised, World Scientific Publishing Com-
+pany.
+Myerson, R. B. (1999). Nash equilibrium and the history of eco-
+nomic theory. Journal of Economic Literature, 37(3), 1067-1082.
+Nash, J. F. (1950a). The bargaining problem. Econometrica: Jour-
+nal of the Econometric Society, 155-162.
+Nash, J. F. (1950b). Equilibrium points in n-person ga-
+mes. Proceedings of the national academy of sciences, 36(1), 48-49.
+Nash, J. F. (1951). Non-cooperative games. Annals of mathema-
+tics, 286-295.
+Rives, N. W. (1975). On the history of the mathematical theory
+of games. History of Political Economy, 7(4), 549-565.
+Sandmo, A. (2011). Economics evolving: A history of economic tho-
+ught. Princeton University Press.
+Schwalbe, U. & Walker, P. (2001). Zermelo and the early history
+of game theory. Games and economic behavior, 34(1), 123-137.
+
+--- Sayfa 22 ---
+SEMA YILMAZ GENÇ - HAMZA KADAH
+
+Iğdır Üniversitesi
+Sosyal Bilimler Dergisi
+Sayı: 14, Nisan 2018
+440
+Şahin, S. & Eren, E. (2012). Oyun teorisinin gelişimi ve günü-
+müz iktisat paradigmasının oluşumuna etkileri. Hukuk ve İktisat
+Araştırmaları Dergisi, 4(1), 265-274
+Varian, Hal R. (2002). Economic scene; you've seen the movie. now
+just exactly what was it that John Nash had on his beautiful mind?
+Retrieved
+from
+http://www.nytimes.com/2002/04/11/business/economic-
+scene-you-ve-seen-movie-now-just-exactly-what-was-it-that-
+john-nash-had.html on 29.11.2017.
+Walker, P. (2012). A chronology of game theory. University of
+Canterbury, New Zealand website, entry posted September.

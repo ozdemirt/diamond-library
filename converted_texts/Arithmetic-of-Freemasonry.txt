@@ -1,0 +1,943 @@
+--- Sayfa 2 ---
+An Imprint Of Stephen A. Dafoe
+PO Box 5063
+Hinton, Alberta
+Canada - T7V 1X3
+www.templarbooks.com
+Layout Copyright © 2005 by Stephen A. Dafoe
+All rights reserved. No part of this book may be reproduced or utilized in
+any form or by any means, electronic or mechanical, including
+photocopying, recording, or by any information storage and retrieval
+system, without permission in writing from the publisher.
+Library and Archives Canada Cataloguing in Publication
+Castells, F. de P. (Francis de Paula)
+Arithmetic of Freemasonry / F. de P. Castells.
+First ed. published: Leeds: Whitehead & Miller, 1914.
+ISBN 0-9731536-4-4
+1. Freemasonry--Symbolism.  2. Symbolism of numbers.  I. Title.
+HS395.C33 2005
+     366'.1
+C2005-904003-3
+                           Printed In Canada
+
+Books
+
+--- Sayfa 4 ---
+espite the title of this booklet, the reader should not get the
+impression that they are about to read a dry account of
+“Arithmetic,” one of the Seven Liberal Arts and Sciences.
+D
+While it does deal with the subject of Metrology, or the science of
+measurements, W. Brother Castells' book, “Arithmetic of
+Freemasonry” is a deeply esoteric work, dealing with a wide range of
+topic matter from how ancient civilizations developed systems of
+counting to the Kabalah and its connection to our Masonic Art.
+The author of this booklet, originally delivered the work you are
+about to read, as a lecture to the “Leeds Association of Installed
+Masters.” That lecture was delivered in 1914, nearly a century ago,
+but the material herein contained has seldom been covered since
+that time.
+Sadly few Masonic books of this present era cover the esoteric
+topic matter of W. Bro. Castells' brief lecture on Masonic Metrology.
+Today Masonic authors, as scarce as we are, tend to focus on topic
+matters that require little thought and certainly no further back-
+ground study.
+For the Masonic student, who wishes to expand his knowledge of
+one of the Seven Liberal Arts and Sciences in an esoteric and spiri-
+tual direction, I am proud to offer this work, expanded with illustra-
+tions to illustrate the knowledge imparted by our departed, but not
+forgotten Brother, the Reverend F. de P. Castells.
+Stephen Dafoe
+th
+June 24 , 2005
+
+--- Sayfa 5 ---
+By F. de P. Castells
+he leading ideas of this lecture first came to my mind when
+engaged in preparing a lecture on the Hebrew names for
+G.A.O.T.U. which I gave to the Bible Study Guide, organized
+T
+by myself at Bexley Heath, Kent. Soon afterwards I developed those
+ideas and embodied them in a lecture on “The Hebrew Words of the
+Masonic Ritual,” which I delivered at the Lodge of Instruction
+carried on in connection with the North Kent Lodge, 2499. And last
+year, having joined the Lullingstone Lodge, 1837, Dartford, when
+invited to give a lecture there, I undertook to deal exclusively with
+the Numbers of the Ritual. Before coming to Leeds, the lecture was
+given to the Mid-Kent Masters' Lodge, 3173, Chatham, and that gave
+me a further opportunity of testing my opinions before giving them
+out as I do here.
+
+--- Sayfa 6 ---
+By F. de P. Castells
+rithmetic is one of the “Seven Liberal Arts and Sciences” on
+which the Craft has been founded; it has been a potent factor
+in the development of the human mind, and may help us to
+A
+understand some of the principles which underlie our Masonic
+Ritual.
+Going back to primitive times, we find that there are two
+principle methods of counting: (1) By threes, and (2) by fives. The
+former leads us to the mysterious nine, and to the other sacred
+numbers of the ancient mysteries. The latter accounts for the ideal
+system of counting at the present time  the Decimal system.
+The evolution of the Zero or Cipher: how it originated. Its
+powerful aid: it imports infinity into the calculations of the human
+mind.
+The reasons for the adoption of the numbers 3  5  7 as elements of
+our symbolism, explained: 3 and 5 were adopted because Nature
+itself suggested them of mystic power. The number 7 is par
+excellence the Masonic number; its meaning is found by observing
+that it combines 3 and 4, thus 3 + 4 = 7. A review of the ceremonies
+and of the other matter contained in our Masonic Ritual will show
+that our ancient Brethren did not choose and of their symbolic
+numbers arbitrarily or at random.
+Some reflections on the hidden mystery of the summum
+numerorum, i.e., the composite 15. Its internal harmonies
+expounded and illustrated by the magic square and otherwise.
+The place assigned to this number 15, in the Masonic Ritual, an
+interpretation of the allegories –
+(a) The 30 F.C.'s of the traditional history.
+(b) The three figures 5  5  5 on the Tracing Board of the M.M.,
+which are found to express an idea embodied in various ancient
+symbols, all of which agree with our story about the 30 F.C.'s
+The sacred seal of the G.G.O.T.U. arithmetically explained.
+The cabalistic significance of the Hebrew letter-numeral YOD
+=X.
+
+--- Sayfa 7 ---
+Some considerations on the Divine Name JAH in its relation to
+the preceding facts.
+Didactic characters of the three elements 3  5  7 according to the
+actual statement of the Ritual.
+Some remarks on the Metrology of the Craft.
+Measures mentioned in the course of the ceremonies
+(a) The inch; (b) the foot; (c) the handbreadth; (d) the cubit; (e) the
+cable's length.
+The symbolism of the cable according to its construction.
+The dimensions of our last resting place; 3 feet wide, 6 feet long, 5
+feet deep or more. (see appendix one.)
+
+--- Sayfa 9 ---
+By F. de P. Castells
+hat we familiarly call Arithmetic has been, historically,
+one of the most potent factors in the development of the
+Whuman mind; and as it is one of the Liberal Arts and
+Sciences on which Freemasonry has been founded, the stuffy of it
+should help us to understand some of the ideas underlying the Ritual
+of the Craft. The Architect, the Geometrician, and every Mason,
+whether operative or free and speculative, are absolutely dependent
+on the Science of Numbers.
+Long ago Pythagoras made his whole system of philosophy rest
+on the conception of numbers as regulating the relations of all
+things; and on this account he may be regarded as the philosopher of
+numbers. Philolaus, the earliest exponent of his teaching, put it in a
+nutshell, thus: “Number is the principle order, the principle on
+which the cosmos, or ordered world exists.” When 500 years ago,
+King Henry VI made inquiry concerning Freemasonry, he was told
+this: “It is the knowledge of nature and the power of its various
+operations, particularly the skill of reckoning, of weights and mea-
+sures, or constructing dwellings and buildings of all kinds, and the
+truer meaner of forming all things for the use of man.” And when he
+asked: “What do Masons conceal and hide?” his informer mentioned
+among other things: “The way of obtaining the faculty of ABRAC,”
+which is, it seems, just the sort of Arithmetic of which I am to speak to
+you in this lecture.  Having regard to these facts we are justified, I
+think, in expecting that any numbers, quantities, and measurements
+mentioned in the Ritual must have a hidden significance. And,
+indeed, I am of the opinion that in the Ritual there is nothing arbi-
+trary, superfluous or meaningless.
+I am not aware that anyone has attempted to explain how the Art
+of Counting was evolved; but having travelled extensively and gained
+some knowledge of the ways of primitive races, I may venture to give
+you some of my own thoughts on the subject. At the dawn of civiliza-
+tion there seem to have been tribes counting “by threes” and tribes
+counting “by fives.” The trinal system must have been based on the
+intuitional conception which men had by nature of things and
+
+--- Sayfa 10 ---
+persons placed in three relative positions thus: --
+I  – Thou –  He.
+This –  That –  The other.
+One  – Two –  Three.
+But the quinary system was based on the five fingers of the hand,
+whence the name of digits still given to any integer under 10, a word
+which in Latin means “fingers.” As an illustration of the two systems
+let me take you on a journey Westwards, to the West Indies, and then
+afterwards to the mainland, Central America. The Caribbean people
+who dwell around the Bay of Honduras have only three indigenous
+words wherewith to express numerical values, viz., Aba, Biama,
+Urua,  meaning 1  2  3. At present they count as we do, because they
+have learned the other numerals from the French missionaries who
+Christianized them; but when Columbus discovered the West Indies
+those three words, Aba, Biama, Urua were all the numerals they had.
+Then, if we quit the shores of the Bay of Honduras and travel inland
+into the interior of Central America  we shall find that all the aborigi-
+nal tribes in that region follow the other system of counting, using
+their fingers and their toes in the operation, their name for 20 being
+Hu-winak, which means “one man,” because that number is the sum
+total of the fingers and toes on the human body.
+The crude system of the ancient Caribs may appear to us hope-
+lessly inadequate for any practical man of the present time; but of
+course the Caribs had ways of extending their calculations beyond
+three, saying for instance “twice two” for four; “tow and three” for
+five; “twice three” for six;  “three times three” for nine; and if they
+had learned the use of markers for this high number, they would be
+able to count up to at least “three times nine,,” which yields 27, a sort
+of grand and Omnific number. It was through this method of count-
+ing among primitive men that when in course of time someone was
+able to devise a system of expressing numbers as figures, each of the
+nine digits came to be expressed by a separate character as is the case
+in our Arithmetic at the present day: 1  2  3  4  5  6  7 -8 -9.
+The Greek imagination pictured Nine Goddesses, the Muses,
+who were said to be the daughters of Zeus and Mnemosune, that is,
+“God and the Memory,” each of them presiding over one of their
+“Nine Liberal Arts.” And in the Ancient Scottish Rite we find a Ninth
+Degree, in which the brethren are styled “Elected Knights of Nine.”
+Here, incidentally, I may call you attention to a curious property of
+“the Mysterious Nine,” which is that, whenever we add together the
+figures by which we express any of its multiples we always get either
+
+--- Sayfa 11 ---
+another nine or some lesser products resolvable to the same number.
+For example:  2 X 9 = 18; add 1 + 8 and you get 9; 4 X 9 = 36; add 3 + 6
+= 9; 11 X 9 = ; 99; 12 X 9 = 108; and so on.
+The tribes that counted by threes and those that counted by fives
+developed their genius independently of each other; but we should
+not imagine that there ever was any race of men completely detached
+from the rest of the world or that owed nothing to the other races.
+There always was more or less inter-tribal commerce, and by that
+means men must have learned much from one another. For
+instance, in the barter of produce or merchandise, the Caribs, who
+always counted by threes, must have observed how easy it was to
+express the idea of five by showing “one hand” with extended fingers;
+ten by showing “both hands”; fifteen by presenting “two hands and
+one foot”; twenty by calling out “one man.” And having gone so far,
+they would see how easy it was to express forty by saying “two men,”
+and sixty by saying “three men.” May we not assume that it was in
+this way that the ancient Babylonians in Central Asia came to adopt
+their own sexagesimal system, using the number 60 (or “three times
+twenty”) in the same way as we use the 100? Then, too, by the
+exchange of produce, many must have found that, however dissimi-
+lar the two methods of counting may have appeared, they could
+easily be harmonized. Imagine for a moment, two groups of men
+engaged in arranging what they have brought for barter; one group
+count “two hands” and lay down ten articles  eggs, melons, tubers,
+fowls, or as the case might be; but the other group counting by threes,
+lay down the wares they offer in piles of three, and then, for every
+complete tale of “three times three,” another article is “thrown in.”
+This extra something is placed either in front or by the side of the
+piles; and while to one party it helps to show at a glance the quantity
+of the goods involved in the transaction, to the other party it is an
+indispensable item for it turns the tale of nine into a full decade,
+completing the “two hands,” 9 + 1 = 10. It must have been in this way,
+through the intercourse of tribe and tribe, that the highly useful
+decimal marker came to be adopted; and then at length, somewhere,
+somehow, the use of this marker would also suggest the cipher of our
+arithmetical notation, the invention of which was needed for a great
+achievement, for, although the cipher when it stands by itself is but
+an empty symbol, when conjoined with any of the nine digits, may
+mean ten, hundreds, thousands of millions. The wonderful cipher or
+zero (however it may have originated) has led men to a great advance
+in the art of calculation. We may still call it nought, but it would be
+more appropriate to call it all, seeing that it imports infinity into our
+arithmetical operations.  Our way of expressing the idea of TEN is
+
+--- Sayfa 12 ---
+10, that is, a unit plus the decimal marker; and this unit signifies that
+on reaching ten we have begun a new series, v. gr. 9 + 1. to the deci-
+mal marker we have given the form of a circle, and this is quite
+fitting, too, for the circle is the emblem of eternity and infinity. I have
+illustrated the potentiality of the nine numerals when brought into
+combination with this circle in another of my diagrams, which shows
+the triple trine within the all-encircling orb. (See Appendix two.)
+What I have said thus far, explains the rise of two of our symbolic
+numbers, 3 and 5. But now, what about the number 7? This is a
+distinctively Masonic numeral, the mystic significance of which goes
+far deeper than that of the other two. It is a combination of 4 and 3,
+the square and the triangle, as we may see in the Ceremony of
+Raising by the steps which the candidate takes when advancing to
+the East, the first four describing a square in the c… of the L…, and
+the next three bringing him up to the Pedestal on which is the
+Volume of the Sacred Law. Beneath the ground so squared there is a
+yawning grave; but the candidate is a living being and his steps are
+emblematic at once of human life and of the four quarters of the
+globe. And as the last three steps indicate a triangle, which is symbol-
+ical of the G.A.O.T.U.. the two numbers 4 and 3, when conjoined or
+combined, suggest the thought of “God” brought into relations with
+his creatures and dominating human life.” I might enlarge on this,
+but it would lead me beyond the limits of our subject.
+Having explained the origin of the three symbolic numbers 3  5 7,
+we may now make a rapid review of the Ritual and see the function
+which each of them is made to discharge; and in this we ought to
+begin with the first, that is, number 3, which is recurring constantly
+in connection with (I.) our organization, (II.) the appointment of the
+Lodge, (III.) the traditional history, and (IV.) the actual mysteries or
+secret ritual acts.
+In our organization:
+Our Order stands on three grand principles, which are “Broth-
+erly Love, Relief and Truth.”
+There are three degrees, each degree with its respective signs,
+tokens and word.
+There are three principal, and three assistant, officers, the three
+principal ones occupying three different quarters of the globe, E., S.
+and W.
+The distinguishing characteristics of a good freemason are three:
+Virtue, Honor and Mercy.
+There are three main lines of duty: to God, to our neighbor, and
+
+--- Sayfa 13 ---
+to ourselves; three sacred dictates: of truth, honor, and of virtue;
+three foremost excellences of character: secrecy, fidelity and obedi-
+ence; three lowest staves in the mystic ladder, which are said to be
+emblematic of the three graces, Faith, Hope and Charity; also there
+are :the three most celebrated orders of architecture, the Ionic, the
+Doric, and the Corinthian.”
+In the appointment of the Lodge:
+There are three sets of tools for each degree, that is, a different set
+of three tools for each one of the three classes of workmen.
+There are three Masonic reasons why the Lodge should be
+situated East and West.
+The interior of a Freemason's Lodge is composed of Ornaments
+Furniture and Jewels”; the Ornaments are three in number, viz. the
+Mosaic Pavement, the Blazing Star, and the Indented or Tessellated
+Border; the Furniture, too, comprises three articles, which are the
+Volume of the Sacred Law, the Square and the Compasses; while the
+Jewels are six, three moveable and three immovable.
+Similarly the Master Mason's Lodge is said to be distinguished
+by three Ornaments; the Porch, the Dormer and the Square
+Pavement.
+The emblems of mortality are three: the coffin, the skull and the
+cross-bones.
+There are (we are told) three pillars supporting the Lodge:
+Wisdom, Strength and Beauty: there are also three greater lights and
+three lesser ones.
+In the traditional history:
+The first Lodge is said to have been consecrated with three grand
+offerings.
+The chapiters of the pillars, B. and J., are described as enriched
+with three varieties of ornamentation, viz., network, lily work and
+pomegranates; and these are said to symbolize Unity, Peace and
+Plenty.
+The Entered Apprentices employed in King Solomon's Temple
+received a weekly allowance of Corn, Wine and Oil, which may be
+said to answer to what the present day laborer still regards as three
+necessities of life: Bread, Beer and Butter.
+At the time of the great Conspiracy there were but three men who
+possessed the secrets of the Master Mason.
+There were “three Grand Masters who bore sway at the building
+
+--- Sayfa 14 ---
+of the first Temple of Jerusalem.”
+The secrets of the Master could only be imparted with the con-
+sent and by the joint action of three.
+The trusty Fellowcrafts divided themselves into three
+Companies or Lodges.
+Our Master, H.A., was slain with three blows, struck by three
+different men, on three parts of the head, with three different tools,
+at three points of exit of King Solomon's Temple, situated on the S.,
+N. and E. sides.
+In the mysteries:
+The Lodge opens and closes with three knocks and every candi-
+date gains admission by three knocks, given differently at each
+Degree.
+In every Degree the candidate who seeks the privileges corre-
+sponding to it by a three-fold plea: (I) by the help of God, being free
+and of good report; or (2) by the help of God and the assistance of the
+square and the benefit of the password; or (3) by the help of God, the
+united aid of the square and compasses, as well as the benefit of the
+password.
+On opening the Lodge the W.M. prays for three things: Order,
+Peace and Harmony.
+Every Initiate is made to strike the right sh… of the J. and S.W.'s
+with three knocks; he is made to advance to the pedestal by three
+steps; he has to answer three searching questions of the W.M.; he is
+told of the three dangers; the three reasons for soliciting his charity;
+the three aspects of his character, which are, “as a citizen of the
+world, and individual, and a Freemason.”; also of the threefold way
+of dividing the 24 hours of the day, viz., some for “prayer to Almighty
+God,” some for “labor and refreshment,” and some for “serving a
+friend or brother.”
+In the Second Degree the sign is of a threefold nature.
+In order to raise the candidate to the sublime degree of a Master
+Mason, three methods are tried; only the third can succeed.
+In closing the Fellowcraft Lodge, the dismissal formula, recited
+by the J.W. alone, is of a threefold nature.
+In the ordinary way of closing the Lodge, according to ancient
+custom, all the Brethren present unite in a threefold sign of F.F.F.
+The Master Mason, when raised, is asked to make his Solemn
+Obligation binding for as long as he shall live by sealing it with his
+lips three times on the Volume of the Sacred Law.
+We frequently have a threefold perambulation of the Lodge.
+
+--- Sayfa 15 ---
+The sign of g… and d… in Scotland, Ireland and the U.S.A. is
+given with a threefold movement of the hands accompanied with the
+threefold exclamation of “O.L. my G., etc.”
+This list does not exhaust all the references to the symbolic 3
+occurring in the Ritual, but it should suffice to show the important
+part that number plays in it.
+We may now pass on to consider the next number, 5.
+Three rule a Lodge, but five hold it, which means that there
+cannot be a lodge with less than five members.
+The Fellowcraft's of the traditional history form themselves into
+three Companies, that is three Lodges of five members.
+When the Entered Apprentice comes into a Fellowcraft Lodge, in
+order to be “passed,” he is taught to advance to the East by five steps.
+We acknowledge five Orders of Architecture.
+The Blazing Star is one of five points.
+There are five secret words, viz., those distinctive of the three
+degrees and the two passwords.
+There are five points of fellowship for us all, and these are said to
+correspond in number to the five signs of the Third Degree.
+The grave of our Grand Master was five or more feet deep.
+The chapiters on the pillars at the porchway or entrance of King
+Solomon's Temple were five cubits high.
+And now as regards the number 7:
+Seven is the number by which the Lodge is made perfect.
+In every properly constituted Lodge there are seven officers, that
+is, including the Tyler and Outer Guard.
+The first Tracing Board exhibits “seven stars, which have an
+allusion to as many regular made masons.”
+In the ceremony of Raising, the method of advancing is by seven
+steps.
+We are told that King Solomon's Temple was “seven years and
+upwards in building.”
+The height of B. and J. was 17 ½ cubits, which equals 7 + 7 +3 ½,
+or the two pillars conjointly 35 cubits, which equals 5 times 7.
+The qualifications required from the would-be Master Mason
+are given thus: (1) Just, (2) Upright, (3) Free, (4) Men, (5) of Mature
+Age, (6) Sound Judgment, and (7) Strict Morals.
+The qualification of “Mature Age” is explained as meaning “the
+full age of 21 years,” which equals 3 times 7.
+Finally there are “seven Liberal Arts and Sciences” on which
+Freemasonry has been founded, viz., Grammar, rhetoric, Logic,
+
+--- Sayfa 16 ---
+Arithmetic, Geometry, Music and Astronomy.”
+But now, after this rapid survey of the Ritual, we shall find that
+these symbolic numbers, 3  5  7, important as they appear, are but
+fractions of what may be called the summum numerorum, thus 3 + 5
++ 7 = 15. I hope to throw some new light on the mystic significance of
+this number; but first of all, I beg leave to call your attention to its
+internal harmonies. It has been said that “there is divinity in odd
+numbers”; and the number 15 is remarkable in many ways:
+It combines the first two of our symbolic numbers, for 3 x 5 = 15;
+and strangely enough the two numbers 3 and 5 joined together
+represent thirty-five, which equals 5 x 7, the other two symbolic
+numbers. Moreover, if we multiply the three numbers 3 x 5 x 7, the
+result is 105, their L.C.M., which also equals 7 x 15, and is practically
+the same number 15, with the nought inserted between the figures.
+Chronologically, a period of fifteen days is that which is enclosed
+within three Sabbaths. Many of the ancient nations held their great
+th
+Festivals on the 15 day of a month; and as they usually followed the
+lunar year, the moon must at that time Have been full.
+In Greece, the Ceremonies of Initiation into the Eleusinian
+th
+Mysteries (both in the Autumn and in the Spring) began on the 15
+day of the month, and lasted nine days. (Note these nine days, which
+equal “three times three.”)
+In Music the number 15 represents two complete scales, that is,
+the notes comprised between three C's.
+As 5 stands for “one hand,” fifteen equals “three hands”; and
+there is somewhere a Chapter which has for its distinctive Badge a
+Triangle within which we see two hands stretched out from the sides
+and grasping each other, while a third hand descending from the
+apex holds up both of them. Although the interpretation of this
+symbol belongs to the Royal Arch, we may all read a beautiful
+thought into it, that of fraternal union on earth, maintained under
+the protection of the Most High.
+In the trinal system of primitive man, the numbers 6 and 9,
+which are the first trine doubled and trebled, were considered round
+numbers, and adding them together we get 6 + 9 = 15.
+Then, too, the number 15 combines the two leading terms of the
+decimal system, 10 + 5; which reminds us of the fact that the decimal
+system, now acknowledged to be the most perfect system of
+Arithmetic, is but the early method of counting by fives, that is to say,
+by the fingers of the hand. There really is nothing new under the sun.
+But suppose we take the first five digits as representing a pro-
+gressive arithmetical series, and that we add them up, 1+2+3+4+5,
+
+--- Sayfa 17 ---
+again the total will be 15. and if we add up all the
+nine digits in the same way, we then bring the total
+to 45, which equals 3 times 15, and is half the
+number of the square 45 + 45 = 90. This I have
+illustrated by a diagram (right) which has a pile of
+bricks arranged in that same progressive order.
+Look for a moment at this magic
+square. In it, the nine digits are arranged in
+three rows, “three times three,: and
+however the figures may be added up,
+vertically, horizontally, or diagonally, the
+sum of every three is always the same, viz.,
+15. The key to the various operations
+possible is to be found in the symbols from
+which we obtain the Masonic Alphabet. #
+X No other arrangements of the numbers
+will ever yield and other such harmony.
+Please observe that the central column consists of  the symbolic 3  5
+7; the first at the bottom, 5 in the centre, 7 above; 5 stands between 1
+and 9, the unit which is the root of all number and 9 the highest digit;
+these two together complete the decade.
+My object in calling your attention to these facts is to show that
+the use of the number 15 in our Masonic symbolism is not arbitrary.
+It is the best our ancient could have chosen to convey the idea of
+fullness or completeness. Let us see, therefore, how it is that the
+number comes into the Ritual.
+I have said before that we open and close the Lodge with three
+knocks; but it would be equally correct to say that we open and close
+with 15 knocks, because the knocks prescribed by the Ritual are
+struck successively by the Worshipful Master, The Senior and Junior
+Wardens, and by both the Inner and Outer Guards, five officers in all
+and 5 times 3 make 15.
+Then we know how the candidate advances to the place of light
+by stages which are measured by a fixed number of steps: The
+Entered Apprentice takes 3; the Fellowcraft 5; the Master Mason 7.
+Add up all these and you have 15 as the total. This advancing order in
+the steps of each degree is foreshadowed by the Entered Apprentice
+at his initiation, for in his case the steps are of varying length, the
+second of a little longer than the first, and the third a little longer
+than the second, as expressed by the numerical proportion of 3  5  7.
+In the explanation of the Second Tracing Board we read that our
+ancient brethren “passed up the winding staircase, consisting of 3-5-
+7 or more steps”; and these correspond with the steps taken by our
+
+--- Sayfa 18 ---
+candidates. And it should be observed that the phrase “or more
+steps” does not imply any uncertainty as to the height of the stair-
+case; it is merely a necessary reservation, the margin allowed for the
+requirement of the higher degrees.
+In the traditional history of the Third Degree we hear of a con-
+spiracy organized by “15 Fellowcrafts.” They were “of that superior
+class appointed to preside over the rest,” which means the order now
+denominated Master Masons. Out of the fifteen, twelve recanted but
+three proved to be “of a determined and atrocious character,” and
+were responsible for a great tragedy. As against these rebellious
+Fellowcrafts, there are mentioned another 15, who went to search for
+our Master, Hiram Abif; and we read that when these fifteen “trusty
+Fellowcrafts” were commissioned by King Solomon for their work,
+they divided themselves into three Companies, which means of
+course three Fellowcraft Lodges of five members each. One
+Company sought and found not; one Company made the discovery;
+and the third Company brought the evildoers to judgment. What
+then are we to think of the 30 Fellowcrafts? In my opinion they are
+emblematic of the struggle which is ever going on in the world
+between antagonistic forces with which every human being is more
+or less acquainted; the evil being ever envious of the good; the
+ambitious seeking to achieve success by deceit and rapacity, and in
+extreme cases by the most heinous crimes; the selfish and greedy
+thwarting and defeating the very ideals they profess to admire; all
+this in the hope of obtaining wealth, position or power. And
+Freemasonry steps in and counsels to substitute virtue, industry and
+perseverance for dishonesty, covetousness and violence, and to aim
+at the happiness of the fraternity. We may see the counterpart of this
+in the two intersected triangles shown on the Second Degree Tracing
+Board; one of the triangles is black and the other
+white, and the two are united by the letter G.
+inscribed in the common centre. I believe
+that the tragedy in the forefront of the
+Volume of the Sacred Law  Cain
+slaying his brother Abel  was intended
+to illustrate the same conception of
+life which is inculcated by
+Freemasonry. And the Chinese have
+from time immemorial represented
+the struggle which is ever going on; by
+the symbol they call Yin Yang, to be seen
+in one of the diagrams used to illustrate this
+lecture (right).
+
+--- Sayfa 19 ---
+In the Tracing Board of the Master
+Mason there is another memorial of
+the death of our Master Hiram Abif;
+it takes the form of three fives
+arranged triangularly thus.
+They suggest an equilateral
+triangle, each 5 representing one
+side; but we know that histori-
+cally they correspond to the three
+methods tried for the purpose of
+bringing back to life the Ideal
+Man, our Master, Hiram Abif. The
+Junior Warden was the first to
+endeavor it, trying the g. of the E.A.,
+which proved a slip; then the Senior
+Warden tried the G. of the F.C.,
+which also proved ineffective; and
+then the W.M. applied the third
+method, which was successful. The
+three fives therefore are the three
+hands with fifteen fingers in all. There
+has been confusion over this, and some
+Rituals have been put forth that give
+the Fellowcrafts of the traditional
+history as twelve in number instead of
+fifteen. It seems to have arisen from
+certain distinctions being overlooked of
+forgotten. Let us remember that while
+the tradition mentions two Companies of
+15 Fellowcrafts, in each case, they are
+divided into 12 + 3; because one three of
+the rebellious Fellowcrafts are held
+responsible for the murder of our Master, and likewise his restora-
+tion to life is attributed to the action of three of the trusty
+Fellowcrafts. Three hands struck the fatal blows and three hands
+were exerted in raising the dead body; on this account both death
+and life may be expressed by three fives, or three hands.
+In closing the Fellowcraft Lodge, the Wardens report the discov-
+ery of “ a sacred symbol” said to be situated “in the centre of the
+building.” And this may be explained by what we read elsewhere:
+“When our ancient brethren were in the Middle Chamber of the
+Temple, their attention was peculiarly drawn to certain Hebrew
+characters, which are here depicted by a letter G., denoting God, the
+
+--- Sayfa 20 ---
+G.G.O.T.U., to whom we all must submit and whom we ought
+humbly to adore.” According to this, the cryptic G. is but our modern
+substitute for the Hebrew Characters depicted in the same Tracing
+Board just over the door at the top of the staircase,         . These
+characters are now commonly read Jehovah; but the name was
+always considered too sacred to be pronounced by human lips; and
+the Jews themselves in order not to write it have frequently
+expressed it with only the initial    , the letter Yod. In speaking of this,
+however it is necessary to bear in mind that the characters of the
+Hebrew alphabet were numbers as well as letters, that is, they could
+be made to stand alternatively for a quantity or a sound. Here are the
+first ten of them, with their corresponding numerical value: –
+We see then, that the letter Yod   , the initial of the name Jehovah,
+when used numerically, represented the number 10, a fact which has
+afforded ground for much speculation. As previously shown, the
+Yod, standing for 10, may be regarded as emblematic of the perfect
+system of arithmetic. Some Jewish Rabbis (known as “The
+Cabalists”) pointed out that the Divine name in Hebrew consists of
+four letters (hence called the TETRAGRAMMATON or Four
+Lettered Name”), and by taking 1-2-3-4 as a series they reached a
+total of ten, which agreed with the face value of the initial. In this the
+Cabalists came in touch with Pythagoras and his “Holy Quaternion”
+in Greek Tetaktys), for Pythagoras held that Four  the first square
+number  was the potential decade, and it stood for the cosmic
+elements “fire, air, earth and water.” Sometimes the four Hebrew
+letters were arranged thus: -
+
+--- Sayfa 21 ---
+When combined the numerical value of the ten characters gave a
+total of 72, which the Jews regarded as an important symbolic
+number. (See Appendix three.) .) And sometimes in seeking to
+abbreviate the incommunicable Name of God they doubled or
+trebled the initial Yod, thus: –
+In each of these cases the result is a distinct triangle, but you may
+see that while the first is pointing down, the second is pointing up;
+and numerically, while the two Yods equal 20, the three equal 30.
+There is one more way of abbreviating the Ineffable Name, one
+which did not originate with the Cabalists, but is found in actual use
+in the Psalms, and may therefore be regarded as authorized by the
+Volume of the Sacred Law; I mean that which consists in writing the
+first two letters of the Name,      . (See Psalm lxviii. 4). Read phoneti-
+cally they spell Yah or Jah; but arithmetically they should represent
+the number 15, that is 10 + 5. The Jews used to express the numbers
+from ten to twenty by writing 10 + 1, 10 + 2, 10 + 3, 10 + 4, etc.; but
+when they came to 15, they found that the two characters required
+were associated with the ineffable Name of God, and so they varied
+the order, writing, instead of 10 + 5, 9 + 6.
+We have seen that in our Masonic symbolism, the number 15 has
+been made to embody the idea of fullness or totality; and now if we
+look again into the Ritual we may find a further illustration of this
+idea. For, in the explanation of the second Tracing Board, the
+Worshipful Master refers to the practical significance of the sym-
+bolic numbers 3  5  7, and reminds us that a Lodge is ruled by 3, held
+or organized by 5, and made perfect by 7. In this way those symbolic
+numbers suggest three leading ideas, viz., Government,
+Organization, and Perfect Development. And as the number 15 is
+reached by combining the three numbers, 3 + 5 + 7 = 15, we may
+regard this sum as comprehending all those ideas, and as being a
+fitting emblem of the Grand Ideal of Freemasonry. (See Appendix
+four.) In the Ancient Scottish Rite the members of the Tenth Degree
+are called “Illustrious Knights of Fifteen” as having attained to the
+
+--- Sayfa 22 ---
+fullness of this ideal.
+I have undertaken to say something of the Metrology of the Craft,
+and I proceed to do so because it is a subject that stands closely allied
+with our arithmetic, but time compels me to be brief. The length
+measures mentioned in the Ritual are five: the two modern ones, the
+inch and the foot; the two ancient ones, the handbreadth and the
+cubit; and one which is very ancient although not a familiar one, viz.,
+the cable's length.
+The word INCH comes from the Latin uncia,  meaning “one
+twelfth part” of anything; and in this connection it indicates a twelfth
+part of a man's FOOT, which was early adopted as a length measure,
+being of course standardized everywhere. But in the Ritual, the 24-
+inch gauge is used as emblematic of time. When the Worshipful
+Master gives the Entered Apprentice his tools, he says that the 24-
+inch gauge represents the 24 hours of the day, and it may be used in
+two ways: to graduate his task and to divide each passing day so as to
+allow of his attending to everything: (i) his devotions, (2) his regular
+employment, and (3) the discharge of his social obligations.
+As the fingers of the hand have played an important part in the
+development of the art of counting, so, too, they supplied the basis
+for the art of mensuration all over the East; all  the high metrical
+values consisting of so many palms or handbreadths, which like the
+foot, had to be standardized. In the explanation of the second
+Tracing Board we learn that the outer rim of the twin pillars of the
+porchway of king Solomon's Temple was “a HANDBREADTH in
+st
+thickness.” This statement agrees with the 1 Book of Kings (vi. 15).
+Elsewhere (Jeremiah lii. 21) we read that it was “four fingers” thick;
+and so I shall point out that in this there is no real contradiction,
+because the “handbreadth” of the Ritual is to be understood as being,
+not the breadth of the open or extended hand, but that of the back of
+a clenched hand, in which only four fingers are seen.
+Theoretically, the CUBIT was the length of the forearm from the
+elbow to the tip of the middle finger; but unfortunately as each
+nation adopted a different standard, we find a great deal of variety of
+cubits; indeed, some nations had two or three sorts of cubits accord-
+ing to the objects that had to be measured. This may explain the
+confusion and the controversy that there has been as to the actual
+length of the cubit employed in designing King Solomon's Temple.
+In Egypt, there were two different cubits, the short, which was one of
+six, and the royal, which was one of seven palms of handbreadths. In
+Babylonia there were three measurements known by that name: one
+of three palms, used in measuring fine decorative work and gold
+ornaments; one of four palms, which was used ordinarily for all
+
+--- Sayfa 23 ---
+masonry work; and one of five palms, which was used in measuring
+land-spaces. By the recovery of two scales of linear measurements
+engraved on the statues of Gudea, nearly 5,000 years old, we have
+found that these three cubits equaled 10.8, 14.4 and 18.0 inches
+respectively. Some archeologists argue that both King Solomon's
+Temple and in the Tabernacle, all three cubits of ancient Babylonia
+were used. On this calculation the thickness of the pillars would be
+equivalent to 3.6 inches of our present-day measure, although even
+now we cannot be quite certain.
+Finally about the CABLE'S LENGTH. When this expression is
+now used by sailors, they mean to indicate a distance of about one
+hundred fathoms, or the tenth part of a nautical mile. But as used in
+the Ritual, “at least a cable's length from the shore,” it means a
+distance equal to the length of a coil of cable, which has always been
+understood to be 120 fathoms, that is to say, 720 feet. The idea is
+that, being buried in the sands at the bottom of the sea at that dis-
+tance from low-water mark, as a minimum, the remains of a traitor
+might be considered to be definitely consigned to everlasting dis-
+grace, and therefore as having absolutely perished, “ no trace or
+remembrance: being any longer conceivable. This cable's length
+must not be confused with “the length of my cable tow” mentioned in
+another part of the Ritual, this latter being a figure of speech
+intended to convey the idea of one's ability to execute an acknowl-
+edged obligation, the power to fulfill one's own  responsibilities in
+life. The introduction of the “cable” into the ceremonies may appear
+strange, but, apart from other considerations, if we only bear in mind
+the way the cable has been manufactured from time immemorial, we
+shall recognize that it is a very suitable emblem for the threefold cord
+which is not easily broken, of brotherly love, relief and truth. In a
+book compiled nearly one hundred years ago there is a description of
+it: “Every cable, of whatsoever thickness it be, is composed of three
+strands; every strand of three ropes; and every rope of three twists;
+the twist is made of more or less threads according as the cable is to
+be thicker or thinner.”
+The Ritual anticipates that after this life every Master Mason
+shall be “decently interred”; but the penalty of our Obligation in the
+Third Degree involves the very opposite of that idea. I shall therefore
+close this lecture with a few words on the dimensions of the grave of
+our Master Hiram Abif, and their significance. I have spoken of
+fathoms, saying that a “cable's length” equals 120 fathoms; but the
+fathom is not named in the Ritual. It may be defined as “the measure
+of a man's embrace,” fixed for all practical purposes at six feet; and
+therefore, although not expressly named, it is the length of the grave
+
+--- Sayfa 24 ---
+which the trusty Fellowcrafts of our traditional history are said to
+have prepared. It was “from the centre 3 feet East and 3 feet West.”
+(See Appendix One.) This is an unusual form of expression, but we
+may account for it by observing that the navel is regarded as lying in
+the centre. Remember where the Master Mason rests his squared
+hand when he stands to order. The navel is our link with the past; and
+inasmuch as by being buried the body returns to the bosom of our
+common Mother, the old link is very properly viewed as the central
+point in the grave. The width of the grave “between North and South”
+was 3 feet. These dimensions are still the ordinary minimum dimen-
+sions of an adult's grave at the present time; but in the ritual they are
+given for a practical purpose, being emblematic. As the area was one
+of 18 square feet, 6 x 3 = 18 (nine to the East and nine to the West);
+and as the depth was a minimum of 5 feet, the total capacity of the
+grave was of 90 cubic feet, which is the number by which we define
+the Square  “ an angle of 90 degrees.” The cubic measurement of the
+grave, therefore, is but another way of representing the Square. By
+being laid under the sod, back to the bosom of Mother Earth, we
+come into the closest possible fellowship, one with another, and the
+depth of 5 feet harmonizes with our five points of fellowship. In
+assigning such dimensions to the grave of our Master, Hiram Abif,
+therefore, the Ritual may be said to bring our symbolism into the
+reign of death; and we, by endorsing and adopting its provisions, are
+testifying to the fact that the bond which unites Master Masons in
+this life is not broken when we are let down into the tomb of trans-
+gression. Having ordered our life according to the Square, we take
+that Sign with us into the grave and we may rest assured that when
+we finally rise from the last resting place, the same old sign will
+procure our admission into the Grand Lodge above where the
+world's great Architect lives and reigns forever.
+
+--- Sayfa 25 ---
+rom the ritual referred to by the author we find the following
+in reference to the grave of referred to in the Tracing Board:
+F
+“Our Grand Master, Hiram Abif, was ordered to be interred
+as near the sanctum sanctorum as the Israelitish laws
+would permit, in a grave from the center three feet east,
+three feet west, three feet between north and south, and five
+feet or more perpendicular.”
+The following illustration is provided to add further light to the
+author's comments on the size of the grave.
+Metrological Symbolism of the Grave
+
+--- Sayfa 26 ---
+have spoken of what I observed among the Aborigines of Central
+America. In the South Sea Islands I discovered other facts which
+corroborate my views on the subject. In several of the Malay-
+I
+Polynesian languages the words used for ten are modified forms of
+some terms alluding to an action in which both hands are shown.
+Thus, for instance, the word sangpoo, “ten” in Tagalog (Philippine
+Islands) is a contraction of sangpolan, which means “the whole”; and
+turo in the Pampango dialect means “the breadth of two hands.” Still
+it was long ages after men had learned to count by tens that the
+decimal system in its complete form as we have it now was evolved.
+What is really wonderful about this system is not its having a set of
+figures, from 1 to 9, but the fact that the figures are employed in such
+a way that by the aid of the zero, their value changes according to
+position. Take for example, 333 = 300, 30, 3.
+When primitive men wanted to make a record of their count,
+they would cut notches on a stick, and on reaching ten they would cut
+a cross like the Roman X; or if they had been marking the units by
+lines on any surface, after nine of these they would run another line
+across them to indicate the completeness of a decade.
+Our numerical figures are commonly said to be Arabic, because
+they were introduced into Europe by the Arabs; but those people did
+not invent them; indeed, in the time of Caliph Walid, A.D. 705-715,
+they had as yet no signs of numeration. The Arabs obtained them
+form India, where they had been in use for one thousand years before
+the Hegira, as is evidenced by the Nana Ghat inscriptions, which
+date from about 300 B.C. Presumably this method was suggested by
+the use of an abacus or counting-board, having an upper row of nine
+balls and a space beneath with one or more balls to indicate the tens,
+the hundreds and the thousands. The system in vogue in Ancient
+Egypt implies the existence of some such mechanical aid; for in the
+hieroglyphic inscriptions we find that the digits are expressed by
+plain strokes, nine being written thus, ||| ||| ||| (“three times three”
+once more), ten by a sort of inverted u, thus    , which is repeated as
+required up to 90, and the hundreds by another character.
+Further Thoughts on the Evolution of Counting
+
+--- Sayfa 27 ---
+As to the origin of the zero it has always puzzled investigators,
+but I am able to throw some light on it. Every authority I have
+consulted derives the word zero from the Arabic sifr, “empty,”
+through the Latin zephirus.  The Arabic sifr has indeed so come to us
+in the form of Cipher; but I venture to say that the zero is a distinct
+word derived from the Hebrew oser, osarah, which means “ten.” The
+initial letter ain in the modern Hebrew script takes this form, AIN
+GOES HERE, but in ancient times, as we may see in the Moabite
+inscriptions of about 900 B.C., it took the form of a ring, whence the
+name ain, still given to the letter, which means, “an eye.”
+
+--- Sayfa 28 ---
+ome of the Rabbis have taught that there are 72 angels or
+principalities who are the bearers of the “preeminent Name,”
+the Shem Ha-Meforash, which was arranged as shown below.
+S
+These 72 angels are supposed to be alluded to in Exodus xiv.
+19,20,21, three verses which in Hebrew consist of seventy-two letters
+each.
+Exodus 14: 19  21
+19And the angel of God, which went before the camp of Israel,
+removed and went behind them; and the pillar of the cloud went
+from before their face, and stood behind them:
+20And it came between the camp of the Egyptians and the camp of
+Israel; and it was a cloud and darkness to them, but it gave light by
+night to these: so that the one came not near the other all the night.
+21And Moses stretched out his hand over the sea; and the LORD
+caused the sea to go back by a strong east wind all that night, and
+made the sea dry land, and the waters were divided.
+Some Thoughts on the Shem Ha-Meforash
+
+--- Sayfa 29 ---
+n the measurements of King
+Solomon's Temple we
+constantly find multiples of
+I
+the number 15. Here are some
+conspicuous instances: -
+The common interior height
+of the Holy Place up to the centre
+of the attic was 30 cubits, that is,
+twice 15.
+The breadth of the porchway
+or entrance was also 30 cubits.
+The circumference of the
+Molten Sea was 30 cubits.
+The joint interior length of the Holy Place and the Sanctum
+Sanctorum was 60 cubits, which is four times 15.
+The exterior width of the facade was 60 cubits.
+The total exterior length of the Sanctuary, including the Porch,
+was 90 cubits, six times 15.
+The total exterior height of the Porch, including the Middle
+Chamber and the Third Chamber, was 120 cubits, which equals eight
+times 15. (This is one-third of 360, the number of degrees into which
+we divide the circle, being equal to 4 x 90, 12 x 30, 24 x 15.)
+Between the Women's Court and the Court of Israel there were
+fifteen steps, and we are told that the worshippers used to sing the
+fifteen “Songs of Degrees” (Psalms cxx – cxxxiv.) while ascending
+those steps.
+Above all we should remember the 3-storied Chambers built for
+the Priests upon whom devolved the care of King Solomon's Temple.
+The tradition embodied in the Books of the Kings does not tell us how
+many there were; but Ezekiel gives us the number as 30; and we
+know that they were built on the three sides North, South and West.
+This number agrees with our tradition as to the 15 trusty and 15
+rebellious Fellowcrafts; also with the fact that when Samuel gave a
+The Metrology of Solomon’s Temple
+
+--- Sayfa 30 ---
+st
+Sacrificial Feast, he had 30 men to partake of it. Compare 1 Samuel
+st
+st
+ix., 22; 1 Kings vi., 5-8; 1 Chronicles ix, 26; Ezekiel xli., 6.
+st
+1 Samuel 9: 22
+22 Then Samuel brought Saul and his servant into the hall and seated
+them at the head of those who were invited about thirty in number.
+23 Samuel said to the cook, "Bring the piece of meat I gave you, the
+one I told you to lay aside."
+st
+1 Kings 6: 5-8
+5 Against the walls of the main hall and inner sanctuary he built a
+structure around the building, in which there were side rooms.
+6 The lowest floor was five cubits wide, the middle floor six cubits
+and the third floor seven. He made offset ledges around the outside
+of the temple so that nothing would be inserted into the temple
+walls.
+7 In building the temple, only blocks dressed at the quarry were
+used, and no hammer, chisel or any other iron tool was heard at the
+temple site while it was being built.
+8 The entrance to the lowest floor was on the south side of the
+temple; a stairway led up to the middle level and from there to the
+9
+third.  So he built the temple and completed it, roofing it with
+10
+beams and cedar planks.  And he built the side rooms all along the
+temple. The height of each was five cubits, and they were attached
+to the temple by beams of cedar.
+st
+1 Chronicles 9: 26
+26 But the four principal gatekeepers, who were Levites, were
+entrusted with the responsibility for the rooms and treasuries in the
+house of God.
+Ezekiel 41:6
+6 The side rooms were on three levels, one above another, thirty on
+each level. There were ledges all around the wall of the temple to
+serve as supports for the side rooms, so that the supports were not
+inserted into the wall of the temple.

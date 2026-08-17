@@ -1,0 +1,22 @@
+{
+  "name": "diamond-library",
+  "version": "1.0.0",
+  "description": "DiamondLibrary - Ultra-Fast Full-Text Book Search Engine and Reader Platform",
+  "main": "server.py",
+  "scripts": {
+    "start": "python server.py",
+    "index": "python index_search.py",
+    "convert": "python convert_to_txt.py"
+  },
+  "keywords": [
+    "diamond-library",
+    "full-text-search",
+    "fts5",
+    "books",
+    "pdf",
+    "epub",
+    "library"
+  ],
+  "author": "DiamondLibrary",
+  "license": "MIT"
+}

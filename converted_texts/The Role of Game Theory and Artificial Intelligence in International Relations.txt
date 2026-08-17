@@ -1,0 +1,1919 @@
+--- Sayfa 1 ---
+Journal of Positive School Psychology
+http://journalppw.com
+2022, Vol. 6, No. 5, 9764-9779
+
+The Role of Game Theory and Artificial Intelligence in International Relations
+
+Zahra Sharifzadeh1
+  Ph.D. Student in International Relations, Department of Human Sciences,
+Shahrood Branch,Islamic Azad University,Shahrood,Iran.
+
+Amir Hooshang Mirkooshesh2
+Department of Human Sciences, Shahrood Branch, Islamic Azad University,Shahrood,Iran,
+
+Mohammad Mahdi Hosseini3
+   Department of Computer engineering Shahrood Branch,Islamic Azad University Shahrood,Iran
+
+Abstract
+Politics might be the most challenging behavior among human behaviors for being
+automated. Politics is, in nature, a complicated affair that reflects human behavior
+considering both individual and social dimensions. Such complexity seems more real
+in international relations. Artificial Intelligence (AI) is an effective and inclusive area
+that covers technical and engineering disciplines and human sciences, especially
+international peace and security. Game theory has been used as a component of AI
+in politics and international relations, focusing on the framework of some common
+areas, including equitable distribution, political economy, public choice, bargaining
+model of war, positive political theory, and public choice theory. Researchers have
+discussed game theory models in the abovementioned areas. In this model, players
+perform as voters, governments, special interest groups, and politicians. Therefore,
+the extant study examined the role of game theory in international relations.
+
+Keywords: International Relations, Rules of The Game, Game Theory, Computational Intelligence, Artificial
+Intelligence
+
+INTRODUCTION
+No considerable association seems to exist
+between the new scientific AI field and
+international relations and security science;
+however, the ascending attempts of some
+countries in this area reject such an assumption.
+The recent AI developments imply that this
+newly-emerged technology will markedly and
+potentially influence military power, strategic
+competition, and world policy on an extensive
+scale.
+In this lieu, theories of international relations
+may soon face a crisis of explanation power
+(Slaughter & Hale, 2011). This crisis will
+change
+the
+world
+when
+determining
+policymakers to make political decisions
+
+1 Email: z_sh1348@yahoo.com .Tel: 09155656516
+
+2 Corresponding Author, Email: ammirkooshesh@gmail.com
+
+matched with political goals (Burchil et al., 2013).
+When governments trust information technologies
+to analyze policies, advise, and implement them,
+theories of international relations should consider
+the consequence of new players within the same
+information technologies of robots, AI. Other
+information (Scott, Heumann & Lorenz, 2018:
+19). Technologies that can make decisions
+through the policy-making process must treat
+individuals, states, and other players in a similar
+ontological and epistemological way (Langhelle
+et al., 2019).
+On the other hand, AI contributes to producing
+machines
+that
+can
+learn
+and
+understand
+complicated conditions, think, reason and present
+responses, and acquire knowledge without human
+
+--- Sayfa 2 ---
+9765                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9765
+
+help and interference (Ullah et al.,2020: 314-
+315). Therefore, those countries that own such
+machines and systems can change the balance of
+power in the international system in their
+desired way and create new alliances to
+dominance over other nations and countries
+(Schrodt, 1998: 71). In other words, countries
+with excellent AI have a specific competitive
+advantage that can exceed less-developed
+countries depriving them of gaining revenue and
+different political, economic, and military
+advantages. Countries that use AI have a
+competitive advantage over countries since they
+employ a large processed information volume
+and broad analytical power obtained from smart
+machines. Therefore, these countries can use
+this advantage to fulfill their diplomatic,
+economic, business, and military goals more
+successfully than others that rely on human
+capabilities
+and
+instruments
+to
+analyze
+information and decide on their profit and loss
+(Kiggins, 2018: 19).
+AI and game theory (GT) are two developed
+research scopes stemming from similar roots
+within different trajectories. However, a deep
+and fundamental association exists between AI
+and GT, so developing and searching these
+associations can contribute to considerable
+achievements in both scopes. Three main
+notions
+(learning,
+representation,
+and
+reasoning) exist in the deep relationship
+between AI and GT, which are common in two
+representation and reasoning areas (TEMA,
+2014: 1).
+In GT, learning is a descriptive tool that explains
+how Nash equilibrium occurs or agents behave
+(Assaad, 2021: 3), while this notion, especially
+reinforcement learning in AI, means learning
+some algorithms that can generate a high profit
+for an agent under uncertain environmental
+conditions based on the received feedbacks
+(Tembine, 2019). Agents are represented as
+profit maximizers in GT (Shafiei & Farah Gol,
+2019: 1), while other forms of decision-making,
+including competition analysis or maximizing
+security level (worse mode), also exist in AI
+(Ahmadi et al., 2014: 13). Finally, agents must
+infer in both scopes considering the rational and
+communicational constraints in a distributed
+space (Mirza Momen, 2011: 5).
+Game theory can be applied in different AI
+scopes, including multi-agent AI systems,
+imitation
+and
+reinforcement
+learning,
+and
+adversary training in Generative Adversarial
+Networks (GANs are algorithmic architectures
+that put two neural networks against each other).
+Therefore, the term "adversarial" is used to create
+new synthetic samples from data that can be
+transferred for real data and widely used to
+generate video, film, and audio (Zhang, 2019: 2).
+According to the mentioned points, the extant
+study aims to examine the role and effect of AI on
+future international relations (IR), considering US
+status in the investment rate, application of AI in
+the international area, and AI investment in future
+wars. Moreover, game theory considerably affects
+the configuration and design planning of an AI
+model. The core method of GT should be
+understood to find how GT improves power to AI
+models. To do this, the present paper first
+examines AI and its role in IR and then addresses
+the definitions, concepts, and applications of GT
+in IR. This study also examines the advantages
+and specifications of AI in IR and threats raised
+by using AI in military areas and the security of
+countries.
+Literature Review
+Artificial Intelligence (AI)
+AI includes a wide area of knowledge, which is
+the intersection of other important knowledge
+such
+as
+computer
+sciences,
+electronics,
+psychology, biology, linguistics, logic, and
+philosophy (Acemoglu & Restrepo, 2019). We
+can name more than 20 AI subdisciplines,
+including learning machine (Alimadadi et al.,
+2020), pattern recognition (de Souza et al., 2019),
+natural language processing (Steinkamp & Cook,
+2021), robotic (Dirican, 2015), expert systems
+(Bahrammirzaee, 2010), neural networks (Kumar
+& Thakur, 2012), fuzzy logic (Milčić et al., 2007),
+and genetic algorithm (Ansari & Bakar, 2014).
+The book entitled “game theory in international
+relations” by Mehdi Reza Darvishzadeh and
+colleagues is a relevant work. This book argues
+that politics and IR are significant areas in which
+game theory is used, while this scope has received
+less attention in Iranian academic associations due
+to its mathematical basics. Hence, this book
+introduces titles and main models of non-
+cooperative games to express models so that all
+readers with different levels of mathematical
+
+--- Sayfa 3 ---
+9766                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9766
+
+science can understand the topics. Moreover,
+each chapter presents some examples of politics
+and international relations. Another reference
+entitled “quantitative methods in futurology of
+time series and artificial intelligence” by
+Mohsen Bahrami and Payam Abbaszadeh
+examined a relatively complete range of linear-
+to-smart models. However, the mentioned
+works have not considered the role of GT or AI
+in all economic, political, cultural, and military
+aspects of IR.
+AI Functions in IR
+AI can play three analytical, predictive, and
+operational roles in IR and policy-making. The
+mentioned roles have been explained herein:
+Analytical Role
+AI systems are found in analytical roles
+assessing large datasets and concluding based
+on pattern recognition. These roles are tedious
+tasks generally known as the highest priority for
+automation. Monitoring the output of adjusted
+sensors to verify the accuracy of, for instance, a
+nuclear, chemical, or biological arms control
+treaty that provides jobs for human analysts.
+However,
+they
+require
+specialized
+and
+professional training. On the contrary, a training
+machine learning system set up to the same deed
+does not get tired of its task, while it might
+employ human specialists to oversee and correct
+the system's accuracy, especially in the learning
+process.
+Similarly, however less dramatic, AI processes
+might be very useful for optimizing the
+procedures of simpler political exchange'
+aspects. Given the increased volume of data
+immediately generated by industrial and
+commercial operations through the "internet of
+things (IoT)," it is not difficult to imagine the AI
+systems that monitor trade and feed decision-
+making processes around the economic policy.
+In other words, AI will only become important
+in how policymakers see and perceive the
+world. Doing so will effectively enhance their
+information processing capacity while causing
+new uncertainties and complexities in decision-
+making protocols (Cumming et al., 2018: 2-3).
+Predictive Role
+Another set of AI roles can be prediction rather
+than analysis. In other words, whereas analytical
+applications of AI have been considered to
+simplify current operations, AI systems may
+provide
+opportunities for
+policymakers to
+understand possible future events. One such
+example in the IR arena is the possibility of
+modeling complex negotiations. Besides using AI
+systems to monitor compliance and improve the
+efficiency of complex international documents,
+negotiation
+parties
+(whether
+economic
+or
+strategic) might use sophisticated machine
+learning methods to predict others' positions and
+tactics. However, some moderating factors should
+be considered.
+Considerably, for example, while predictive
+algorithms have been shown in some capacities
+successfully, they are not necessarily more
+accurate than their human equivalents. Time,
+accumulated knowledge, and computer hardware
+that become increasingly powerful may make
+them as accurate as human predictions. However,
+the nature of prediction causes a lack of a clear
+success standard in this field. Moreover, as seen
+in Tesla's fatal accident in 2016, the interface
+between machine and human understandings of
+the world creates a new potential for wrong
+calculations without necessarily providing a
+compensatory advantage. The truth amplifies the
+potential that complex negotiations are multi-
+party by definition: the machine system and
+human operator do not only try to obey a set of
+rules more effectively. They try to forecast or
+match measures of one or more rivals (who may
+themselves use predictive algorithms). There
+might be some advantages arising from machines
+operating
+in
+such
+predictive
+capacities-
+particularly the fact that the ability of an artificial
+system to store and compare a large number of
+historical data is almost certainly higher than a
+human or a group of humans.
+To share these advantages equitably, the
+underlying technology should be available- and,
+in this regard, strict measures must be taken to
+protect personalized data that enter the algorithms.
+It is indeed difficult to create the right balance.
+Furthermore, it is worth noting that AI may play
+other predictive roles with geopolitics that
+contribute to the more accurate forecast of
+elections, economic performance, and other
+relevant events. However, such areas are
+functions less than machine learning and more
+than the quantity of available data but must mainly
+be considered in this context (Cumming et al.,
+2018: 3-4).
+
+--- Sayfa 4 ---
+9767                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9767
+
+Operational Roles
+The last category is somewhat different and
+covers autonomous systems in the traditional
+meaning of robots. Implications of this
+application are probably scattered and indirect,
+but their potential importance receives attention
+alongside analytical and operational functions.
+Autonomous logistical systems likely have
+significant
+indirect
+implications
+for
+international politics.
+If truck drivers, ship crews, or pilots are
+replaced
+with
+autonomous
+systems,
+no
+considerable change is expected to be observed
+in the daily functioning of the international
+system. However, an extensive replacement of
+existing human labor in these capacities may
+cause a widespread economy.
+Autonomous weapons are another significant
+case, although it is further from wide acceptance
+than is generally recognized. A considerable
+public debate exists about ethics, the legality of
+the development, and the use of such weapons.
+The main principle of this debate is the
+autonomy that distinguishes it from what is
+concerned about unmanned drones. These
+systems are remotely piloted compared to fully
+autonomous systems. Ethical questions aside,
+autonomous weapons do not necessarily change
+the balance of power.
+An autonomous strike aircraft makes certain
+tradeoffs relative to piloted aircraft more
+endurance and expendability compared to
+flexibility and adaptability- but is not an
+inherently more powerful and game-changing
+weapon.
+In the long term, the ability of autonomous
+systems to react with greater speed than humans
+can make a difference in some environments.
+Autonomy may also make it possible to develop
+new classes of weapons; for instance, the swarm
+of small and interconnected robotic vehicles can
+create new military capabilities paradigms.
+However, the logistical and ethical questions
+arising from such potential systems indicate that
+we cannot declare that technology is ready for
+deployment, let alone game-changing.
+One possible expectation can be cyberweapons
+with autonomy and machine learning, with the
+potential to make them more effective and
+adaptive compared to their counterparts.
+However, like a non-military autonomous
+vehicle, the real impact probably is indirect for a
+while. A military with autonomous systems may
+be more capable than a military without a system-
+at least in the short term. However, even if the
+autonomy of an instant prospect does not cause a
+fundamental change in war, the consequences of
+changing norms and standards in policymakers'
+attitudes and reactions to threats probably change
+markedly (Cumming et al., 2018: 4-5).
+Game Theory (GT)
+GT is a notion that has been widely used in
+different
+branches
+of
+sciences,
+including
+economics, politics, military sciences, biology,
+computer sciences, and so forth, over recent
+decades (Myerson, 1997). GT is a mathematical
+theory for designing, analyzing, and describing
+conflicting situations in which the involved
+players are exposed to several choices based on
+certain rules. The GT is a study instrument used in
+different levels of analysis- from economic,
+political, and military strategies of governments to
+individual and group relations (Golparvar &
+Shahabi, 2011). It is possible to use GT to analyze
+the logical behavior of players and their strategies,
+recommend some rational methods to improve
+choices, and gain maximum profit and minimum
+loss (Khakestari et al., 2018). Moreover, this
+theory introduces some relevant concepts that can
+be used to design a framework for complicated
+phenomena (Nobakht et al., 2011). Rational
+human behaviors and choices are the most
+underlying assumption of GT (Mahmoudinia et
+al., 2016). GT is used in social and political
+contexts, including election competitions and AI
+(Ghahraman & Mohammad Javad, 2009).
+Individuals face interactive situations in decision-
+making, so the implications for every person or
+group depend on their personal and group
+decisions and behaviors and others' decisions and
+behaviors (Mahmoudi et al., 2016: 2).
+GT Concept
+Scholars have expressed various definitions for
+GT. For instance, Bruin (2005) defines game
+theory as a branch of applied mathematics used to
+investigate humans' social behavior, strategic
+interaction, and logic of conflict between humans.
+Carmichael (2005) explains that GT is a technique
+used to analyze situations where two or more
+individuals, the outcome of an action by one of
+them depends not only on the action taken by that
+individual but also on the actions taken by the
+
+--- Sayfa 5 ---
+9768                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9768
+
+others. Osborne and Rubinstein (1994) define
+GT in their book as a bag of analytical tools
+designed to help us understand the phenomena
+we observe when decision-makers interact.
+Maschler, Solan, and Zamir (2013) define GT as
+a methodology that uses mathematical tools to
+model and analyze situations where several
+decision-makers (players) exist. According to
+the abovementioned definitions, there is a
+consensus in these definitions explaining GT as
+a decision theory under interactive conditions,
+and this is the concept defined by theorists for
+GT (Mahmoudinia, 2016: 3).
+GT framework pursues the analysis within three
+steps: metaphor, allegory, and modeling.
+Metaphor is the first step to GT. Metaphors are
+used not only in literature but also in mechanics,
+biology, and social knowledge. Because
+metaphor cannot reveal all game subjects, the
+second step (allegory) is used to correspond to
+different situations to express similarities.
+Allegory creates a guide for empirical
+observation in GT to enable comparison. Since
+allegory cannot solve the game analysis
+problem that is empirical data-based, the third
+model of modeling is taken. The simplest
+definition of the model is the streamlined form
+of reality, and game theorists analyze the games
+through the modeling process (Attar, 2018: 92).
+The last goal of GT is to design some
+prescriptions and advice for the rational
+behavior of players in conflicting situations, i.e.,
+to determine the optimal strategy for each player
+(Shakibaei et al., 2021: 219). In GT, the optimal
+strategy for a player is a strategy that ensures the
+highest average privilege in repetitive cases. In
+other words, this strategy is less likely to lead to
+loss. This strategy is selected based on the
+reasoning that a rival is as rational as us and does
+anything to prevent us from achieving our goal.
+The mentioned two principles generate all
+advice in GT (Khatami, 2020: 184-185). As a
+result, hazard-seeking that inevitably exists in
+all strategies, miscalculations, or possible
+mistakes of players are not considered (Wenzel,
+1994: 17).
+In general, game theory comprises three
+concepts: assumptions, game components, and
+context. Assumptions express hypotheses that
+have created the theory. The elements and
+components required to shape a game are
+categorized as "game components," and the
+circumstances on which the game is modeled are
+called "game context." The rationality of players
+is a significant assumption in GT; it means
+decision-makers look for good exogenous defined
+objectives and consider strategic reasonings
+(Hosseini Dehaghani & Basirat, 2016: 95).
+Constituents of GT
+Every game has three underlying elements:
+players, tactics (strategies), and implications
+(outcomes).
+Decision-makers are called players in a game. A
+player is a person who decides in the game's
+strategic space, and these decisions are based on
+the player's rational behavior to achieve the best
+outcome considering rivals. Tactic or strategy
+includes a set of decisions and measures taken by
+each player. The payoffs gained by players are
+named outcome or implication (Souri, 2007: 5).
+According to the basic definition of GT, this
+theory is applied to model strategic situations. In
+other words, these situations include interaction,
+confrontation, and conflicting interests that
+require awareness. Players should cooperate and
+interact and have supplementary interests. This
+theory is an uncertain environment for each
+player, so players' behavior influences others'
+behavior (Hosseini Dehaghani & Basirat, 2016:
+96).
+
+Figure 1. GT analysis tools
+Source: Authors
+
+Every game is determined based on the following
+elements:
+Players: the player is defined as each participant
+or competitor that can choose a strategy and
+influence the game conditions and other players'
+choices (Ahmadi, 2006: 18). In other words, every
+game has several rational decision-makers called
+players. Governments are the main players in
+international relations, and two exist in all
+international conflicts and cooperation.
+
+--- Sayfa 6 ---
+9769                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9769
+
+Rules of the Game: in GT, a game includes a
+set of known rules for all players that set what
+appointment can do or what can be the results or
+outcome (Souri, 2011: 388). Rules of the game
+can become public knowledge; each player can
+know the rule of the game, and each player must
+know that another player also knows the rule of
+the game, and each player knows two former
+cases. In this case, the rule of the game is the
+general awareness or knowledge between
+players (Abdoli, 2011: 12). Each player can
+have perfect or imperfect information about the
+play. In some games, players can make aware of
+other players' outcomes and strategies, while
+such a case is not possible in other cases
+(Hatami, 2010: 1).
+Outcomes: win or loss rates and/or the result
+gained at the endpoint of players are called
+outcomes. Although the utility is an abstract
+notion, it should be quantified in GT. Everyone
+might prioritize the game in different forms
+(Poundstone, 2007: 218). Two points should be
+mentioned about outcome rates: first, interest is
+a mental concept, and outcome rates should
+fulfill the mental satisfaction in an ideal case;
+second, other players, theorists, or both consider
+outcomes uncertain (McCain, 2013: 43). The
+authors who have written about game theory
+distinguish between the result of a game (win,
+lose, draw) and outcome (the value every player
+gives to the result). The relationship between
+outcome and motivation is important which is
+inevitable. Outcomes may have different
+meanings for players, given their values,
+position in the international system, and
+domestic circumstances (Doherty, 1997: 788).
+Strategy: strategy is a mental skill used to play
+well in a game. In other words, strategy means
+the optimal application of skill in the game
+(Abdoli, 2011: 3). Moreover, strategy can be
+defined as a player's plan or action choice under
+any possible circumstance. In other words,
+strategy is a sorted chain of measures that a
+player can choose in different steps. Therefore,
+it is a complete program of measures and
+decisions that might be taken in the game.
+Although some strategies may comprise only
+one decision or measure, other strategies can
+include numerous decisions and measures. The
+general plan means a plan that considers the
+probability of any measure occurrence (Moosavi
+Jahromi, 2012: 21).
+
+GT in AI
+In AI scope, GT formulates the framework to
+study cooperative and strategic interactions within
+multi-agent systems. Moreover, GT is used in
+those AI and deep learning systems in which
+various agents should interact with each other.
+The traditional GT provided mathematical basics
+and powerful equilibrium concepts while allowing
+GT to be applied in sophisticated and large
+systems
+in
+terms
+of
+computational
+and
+demonstrative contents. Computational GT covers
+a
+range
+of
+modeling,
+presentations,
+and
+algorithms that try to simplify and remove
+constraints in traditional GT (Mirza Momen,
+2016).
+Many games like poker, solitaire, chess, ludo, etc.,
+are some games that are played digitally on
+laptops, phones, tablets, etc. All games have a
+clear set of rules and instructions, so you should
+follow the game's rules to win it. You have to
+create some algorithms that consider the number
+of players and rules if you want to make these
+games digitally; therefore, the game theory will be
+developed. The majority of popular games that we
+play digitally have been developed using AI and
+GT; GT is not just confined to games but has
+considerable applications in AI, such as
+Generative
+Adversarial
+Networks
+(GANs),
+machine learning algorithms, manipulation-
+resistant
+systems,
+multi-agent
+AI
+system,
+imitation, and reinforcement learning, etc. (Tyagi,
+2019).
+GT concept is necessary to solve many dynamic
+problems. In this case, GT assists AI so that one
+can improve traffic flow in a region by using AI-
+controlled self-driving cars and implementing GT
+in multi-agent reinforcement training. Each car
+perfectly interacts with the external environment;
+now assume that the case gets more complicated
+if cars think in a group way.
+Consider that one car conflicts with another
+because you may follow a certain route for their
+travels. This mode can be simply modeled using
+GT. Regarding GT, cars perform as players, and
+Nash Equilibrium is the point of cooperation
+between different cars. Reinforcement learning
+requires interacting with the real or virtual
+environment and augmented reality. Assume that
+
+--- Sayfa 7 ---
+9770                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9770
+
+an agent interacts with a random environment
+and learns a policy through reward or
+punishment; that environment teaches one
+agent. This is not possible no longer. The reason
+is that interaction now exists between different
+agents
+and
+the
+environment.
+Therefore,
+modeling a system with several agents is
+difficult. The increasing number of agents leads
+to an exponential increase in possible routes the
+agents use to interact with each other. GT can
+solve this problem.
+In other words, AI and GT work on intelligence
+agents embodied in a complicated world. These
+agents may interact with other agents and use
+learning and reasoning techniques to improve
+their conduct. AI and game theory (GT) are two
+developed research scopes from similar roots
+within different trajectories. However, a deep
+and fundamental association exists between AI
+and GT, so developing and searching these
+associations can contribute to considerable
+achievements in both scopes. Three main
+notions
+(learning,
+representation,
+and
+reasoning) exist in the deep relationship
+between AI and GT, which are common in two
+representation
+and
+reasoning
+areas
+(Tennenholtz, 2002: 58).
+Game theory can be applied in different AI
+scopes, including multi-agent AI systems,
+imitation and reinforcement learning, and
+adversary training in Generative Adversarial
+Networks (GANs are algorithmic architectures
+that put two neural networks against each other).
+Therefore, "adversarial" is used to create new
+synthetic samples from data that can be
+transferred for real data and widely used to
+generate video, film, and audio (Ippolito, 2019).
+Ian Goodfellow introduced GNAs in 2014. This
+network is developed based on the GT, and a
+deep learning network competes with an
+adversarial trend. This network is also used to
+generate audio and video content, amplify
+videos, convert audio, or synthesize speech
+(Soltani, 2018).
+One fake video from Nancy Pelosi indicates
+how much a deep fake can be risky in political
+issues. This video shows the house speaker of
+the US presenting a speech, but in the fake
+version, her speech speed was reduced by about
+25% and she appeared drunk and abnormal
+mood.  Deepfake videos have violated the
+privacy of politicians leaving them with numerous
+problems. The Defense Advanced Research
+Projects Agency (DARPA) has spent millions of
+dollars on detecting deep fakes. This is not the
+only research center; Facebook and Google have
+also spent money to find methods that can detect
+fake content. News agencies, such as Reuters set
+Factenchecker to fight against any deep fake in the
+United
+States
+Presidential
+election,
+2020.
+However, a responsible employee of UGC and the
+UGC verification department of Reuters states
+that good deep fakes can even mislead
+professionals. Reinforcement learning training
+can be mentioned in Multi-Agents Reinforcement
+Learning.  Reinforcement learning learns to create
+an agent through interacting with an environment
+that can be real or virtual. Reinforcement learning
+is used to detect correctness or wring cases, learn
+from signals, and do implicit measurements for
+indirect learning (IRIB News Agency, 2020).
+Since AI is based on four assumptions (systems
+that think rationally, systems that perform
+rationally, systems that think like humans, and
+systems that perform like humans), it consists of
+three general parts of neural, evolutionary
+computations, and fuzzy systems (Russell &
+Norvig, 2021: 20-22).
+Therefore, AI can understand the environment and
+take a measure based on this understanding to
+maximize the chance of fulfilling an objective.
+This resembles the rational player model in
+decision-making theory. The outcome of GT
+indicates that humans are rational creatures that
+want to maximize their profit. On the other hand,
+mathematical optimizers, statistic and probability-
+based techniques, and computational intelligence
+are applied in AI and GT. GT is not a part of AI
+and vice versa; these two methods are not
+interconnected; they can overlap each other so that
+one can use AI to solve or analyze a game.
+
+International Relations (IR)
+International relation is a branch of politics
+pertained to relations between governments and
+their foreign policies (Webster Dictionary). As the
+realm of social life at the global level,
+international relations are attractive for educated
+classes that are interested in public issues
+(Moshirzadeh, 2017: 1). International relations
+study the relationships between countries, the role
+of independent countries, interstate organizations,
+
+--- Sayfa 8 ---
+9771                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9771
+
+international non-governmental organization,
+NGOs, and multinational firms. International
+Relations is an academic discipline that can be
+normative and evidential since it analyzes the
+foreign policy of a government (Hajizadeh,
+2018: 1).
+International Relations appeared in the Wets
+and USA after its power and influence were
+enhanced at the beginning of the 20th century.
+While the study of international relations was
+damaged in the newly-established Soviet Union
+and Communist China due to formally imposed
+Marxism ideology, this discipline could
+eliminate ignorance, provide human progress,
+and make political issues, such as foreign
+affairs, public. Success stories in the West
+included increased demand for finding effective
+tools to make relations between people,
+communities, governments, and economies.
+Numerous studies and papers were also inspired
+by this belief that regular research and
+observation can destroy ignorance and develop
+human communities.
+Woodrow Wilson, president of the United States
+from 1913 to 1921, introduced this new view
+about relations between great powers after the
+settlement of the First World War. The first
+point of his fourteen points was the contact after
+his plan was outlined. In the case of "open
+covenants of peace," instead of confidential
+treaties that were the reason for war, the
+devastating aftermath made political leaders
+believe there was insufficient information about
+international
+relations.
+Accordingly,
+universities had to promote research and
+education on international collaborations, war,
+and peace issues.
+Application of GT in Politics and IR
+Politics uses GT in some scopes, including
+political economics, public choice, positive
+political theory, and social choice theory.
+Researchers have developed GT models
+differently in the mentioned scopes so that
+voters, interest group situations, and politicians
+are players. Generally, this theory is applied in
+all political aspects, especially in intra-
+government and minor competitions between
+leaders when game rules do not exist and
+personal competitions dominate the legal
+relations. No law can serve as a political conduct
+framework in the mentioned case. Hence, this
+game will become an illegal case influenced by
+personal decisions. The game will get more
+complicated in the absence of certain rules. In
+such games, that part wins the game that can
+mobilize maximum resources timely, although the
+increased mobilization cost occurs (Abdoli, 2008:
+247).
+In GT, mathematics and logic are added to the
+underlying principles of Balance of Power to
+better analyze the economic, political, and
+international coercion of governments and their
+interest-centered
+financial
+thoughts.
+The
+mentioned analysis will be beyond the assumption
+of governments' rationality, logic, and authority
+(Pourkazemi et al., 2014: 27-28). In other words,
+GT considers an international arena where each
+player must rationalize their behavior to achieve
+success.
+The
+global
+environment
+is
+a
+computational space where no irrational conduct
+can be shown, although some friends act against
+their national interests and international game
+rules and framework (Taklif, 2014).
+The international scene is a multi-player arena
+where payoffs obtained by some parties do not
+equal the loss of other players, so it is a non-zero-
+sum game. For instance, the development of
+different aspects of a country is not necessarily
+conflicting with the interests of other players. It is
+possible to reach national demands and goals in
+the framework of dual or single interests of
+countries or multiple interests of international
+arena players. The first factor for entering the
+game and taking action in the scene is accepting
+the rule of the game in the international arena
+based on logic and computational measures. This
+necessarily does not mean avoiding nature and
+national principles and values but is only a rational
+and independent game in interactions. Lack of
+totality is the main environmental characteristic of
+the mentioned interactions (Ghahremani &
+Mohammad Javad, 2016: 15). Therefore, each
+government should provide its vital and national
+interests, welfare, and security for the nation in an
+arena consisting of both conflict and cooperation.
+The best result of GT is the scene of international
+interactions that include game rules, framework,
+skill, bargaining, computational tools, rationality,
+utility, professionality, and capabilities. Those
+players capable of professional games based on
+the mentioned properties and think of rational
+success can win the game (Gibbons, 1992).
+
+--- Sayfa 9 ---
+9772                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9772
+
+Main Principles of GT in International
+Arena
+GT provides clear information about the
+diversity of competitive circumstances. GT
+points to five aspects of strategic behavior in
+terms of application in competition between
+commercial
+organizations:
+cooperation,
+deterrence,
+commitment,
+changing
+game
+structure, and signaling. A firm can use the
+mentioned aspects to improve its competitive
+results (Strategy Office of Sharif University,
+2019: 1).
+GT provides clear information about extensive
+diversity of competitive circumstances, such as
+the Cuban Missile Crisis of October 1962,
+competition between Boeing and Airbus,
+NASCAR Racing tactics, TV and Radio
+Spectrum Auctions, Financial Crisis in 2008.
+GT points to five aspects of strategic behavior
+in terms of application in competition between
+commercial
+organizations:
+cooperation,
+deterrence,
+commitment,
+changing
+game
+structure, and signaling. A firm can use the
+mentioned aspects to improve its competitive
+results.
+
+Cooperation
+The ability to compete and cooperate is one of
+the main criteria in GT. One shortcoming of the
+Five Forces framework is that this framework
+considers the nature of inter-firm relations
+completely competitive. Consideration of dual
+competition-cooperation relation is the main
+point of Adam Brandenburger and Barry
+Nalebuff’s perception. Although some relations
+are perfectly competitive (Coca -Cola and Pepsi)
+and others are completely cooperative (Intel and
+Microsoft),
+no
+branch
+exist
+between
+competition and cooperation. All commercial
+relations have elements from both. Despite the
+close competition between Coca -Cola and
+Pepsi, they cooperate on different fronts,
+including shared policies on selling non-alcohol
+drinks in schools, environmental topics, and
+health
+concerns.
+Moreover,
+they
+might
+coordinate
+their
+pricing
+and
+product
+introduction (Rahimian, 2020: 22).
+In another case, Exxon and Shell's companies
+fought for world oil leadership for over a
+century while cooperating in joint investments.
+Rivals' tendency to merge (sellers in London
+antique market or filmmaking studios in
+Hollywood) refers to the joint interests of rival
+companies to enhance their market size and
+develop infrastructures. The research author
+believes that this principle of GT indicates that
+competition leads to worse outcomes than
+cooperation in many commercial circumstances.
+Deterrence
+Deterrence is a way to change the equilibrium of
+a game. Deterrence means taking action or a set of
+actions to exceed the enemy's hostile actions.
+Deterrence theory means trying to influence
+another party to prevent it from doing any action
+that causes damage or cost for the first one (M
+Elliott & Reginald, 1999: 370).
+The notion of "deterrence" in GT has created a
+significant area in international relations. Nuclear
+arms racing between America and the Soviet
+Union was based on the logic of "definite bilateral
+devastation." However, the ability of deterrence to
+create a sustainable and peaceful equilibrium
+depends on the enemies' willingness for
+deterrence. One of the main shortcomings of
+George W. Bush’s “war on terrorism” was that
+deterrence does not threaten terrorists with
+ideologic motivations (Rahimian, 2020: 20).
+Commitment
+Deterrence should be rational to be effective; it
+means
+deterrence
+must
+be
+supported
+by
+commitment. Commitment or obligation requires
+removing
+strategic
+authorities:
+"connecting
+organization to the future solution." After Hernan
+Cortes destroyed his ships when he entered
+Mexico in 1519, he negotiated with Mendoza and
+his companions and explained that he had no way
+to defeat Aztec Empire. After Airbus decided to
+produce
+the
+giant
+A380
+plane,
+project
+commitment appeared to be a significant case.
+Airbus invested in plane promotion between
+2000-2002 before the design phase to encourage
+airlines to order and prevent Boeing from
+manufacturing a rival plane (Rahimian, 2020: 29).
+Changing Game Structure
+Creative strategies can change the structure of the
+competitive game. A firm may want to change the
+industrial structure where it competes, to enhance
+industry profitability potential or gain more share
+of available profit. Therefore, alliance and
+agreement with rivals can maximize the game
+value by increasing market size and joint power
+
+--- Sayfa 10 ---
+9773                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9773
+
+against
+possible
+new
+rivals.
+Numerous
+opportunities may exist to change win-lose (or
+even loss-loss) games to win-win games.
+For instance, the bidding war between Norfolk
+Southern- an American railway corporation
+established in 1982- and CSX was created in
+1980 after merging Chessie System and
+Seaboard Coast Line Industries (two holdings
+that controlled several railways in East USA).
+After these two firms agreed on collaborating
+for railway transportation separation and
+purchase, the bidding war ended. In some cases,
+rivals may be useful for the firm. Intel assigned
+its potential monopoly over x86 microchips by
+presenting the production license of their
+products to AMD. Although Intel created a
+competitor for itself, this firm encouraged
+computer
+manufacturers
+(including
+IBM,
+concerned about over-dependence on Intel) to
+accept x86 chips.
+Signaling
+The competitive reaction depends on the rivals'
+perception of the competitor's action. The term
+"signaling" describes the selective exchange of
+information to competitors (with customers)
+designed to influence their perception, stimulate
+or prevent certain reactions.
+Incorrect information is well used in military
+information departments. The Book “Operation
+Mincemeat" explains how Britain's military
+department uses a dead body outfitted in
+maritime military uniform and transfers fake
+secret documents to persuade senior German
+commanders that the allies' forces get off in
+Greece, not Sicily (Rahimian, 2020: 32).
+The Role of AI in Foreign Policy
+AI can be used in different fields of foreign
+policy in the current era that foreign policy is
+moving towards algorithms that aim to analyze
+data,
+predict
+events,
+and
+consult
+with
+governments. The most important applications
+of AI in foreign policy include managing public
+expectations in another country, deciding based
+on the scenario writing, and analyzing the signs
+received from speeches and positions of other
+countries' officials. However, an accurate
+understanding of foreign policy analysis is
+before the applied model selection and how AI
+tools are used. In this lieu, China introduced a
+new AI system two years ago that was
+structured for Chinese foreign policy. This
+system called the "geopolitical environment
+simulation and prediction platform,” provides
+Chinese diplomats with some recommendations
+for foreign policy after analyzing large data.
+According to an informed source, China used the
+same system to evaluate all foreign investment
+projects over the past years (Majidzadeh, 2020).
+AI assists policymakers in decision-making and
+allows them to make the final decision. AI helps
+decision-makers by enhancing their ability to use
+this information technology. Moreover, AI helps
+decision-makers
+by
+doing
+more
+mundane
+activities that distract them from focusing on the
+vital element of a subject. Because the software
+industry prepares some plans for AI, it should
+make plans for it under certain circumstances. AI
+should look for approximate solutions without
+ensuring optimality to provide a human-like
+response. A system that can provide an 80%
+solution can repeat the human function more
+accurately and creates a 20% space for human
+interpretation.
+The Role of AI in Trade and the International
+Economy
+AI development affects international trade in
+different ways: effects of AI macroeconomics and
+its relevant business effects. If AI enhances
+productivity growth, it will increase economic
+growth and create new opportunities for
+international
+trade.
+The
+present
+rate
+of
+productivity growth is low globally for various
+reasons. One of the reasons for low productivity
+growth, especially in understanding the potential
+relationship with AI, is the economic effect of AI
+in the integration of the economy and the effective
+application of new technologies, particularly in
+complicated cases. The mentioned effects include
+a huge sufficient capital to have a total effect and
+complementary investments required for the
+perfect use of AI investments, such as access to
+skilled individuals and commercial techniques
+(Naghavian, 2021).
+AI acts as the engine of productivity and economic
+growth. AI can increase the efficiency of actions
+and improve decision-making by analyzing
+numerous data. Moreover, it can create new
+products, services, markets, and industries,
+increase consumer demand, and create new
+income flow (Szczepański, 2019: 2).
+AI affects the type and quality of economic
+growth by influencing international trade. For
+
+--- Sayfa 11 ---
+9774                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9774
+
+instance,
+AI
+accelerates
+service-based
+economies. It also is used for production, and
+product value added. AI should contribute to a
+higher contribution of services in production
+and international trade.
+Economic, Social, and Military Effects of AI
+AI-based services will control and manage
+transactions to minimize errors and mistakes in
+future years because AI generates news without
+involving journalists and reporters, so many
+simple jobs provide services. This evolution
+leads to an economic revolution. According to
+forecasts, more than half of today's jobs will
+disappear within the one or two next decades,
+and smart robots and AI-based systems will
+control these jobs. According to professional
+predictions, AI development leads to the highest
+evolution in human life after the end of World
+War II. After producing self-driving cars and
+independent
+products
+without
+employing
+humans, most social processes will be
+automated (Movahedian, 2019).
+AI has been used in the military, and many
+countries are producing AI-based systems and
+weapons to minimize human presence in war
+and achieve the victory factor of information
+priority in wars. This requires designing
+advanced communication technologies-based
+network systems that provide information
+accessibility
+and
+accurate
+data
+analysis.
+Technical aspects of AI have been markedly
+developed in recent years. Like electricity, the
+internet, and steam engine, AI is a technology
+with a general goal that highly concentrates on
+machine learning and development. AI affects
+many significant variables, such as productivity,
+economic growth, inequality, market power,
+innovation, and employment in the economy
+(Jahangard, 2019: 4).
+Conclusion and Data Analysis
+Since AI is based on four assumptions (systems
+that think rationally, systems that perform
+rationally, systems that think like humans, and
+systems that perform like humans), it consists of
+three general parts: neural, evolutionary
+computations, and fuzzy systems. Therefore, AI
+can understand the environment and take a
+measure based on this understanding to
+maximize the chance of fulfilling an objective.
+This resembles the rational player model in
+decision-making theory. The outcome of GT
+indicates that humans are rational creatures that
+want to maximize their profit. On the other hand,
+mathematical optimizers, statistic and probability-
+based techniques, and computational intelligence
+are applied in AI and GT. GT is not a part of AI
+and vice versa; these two methods are not
+interconnected; they can overlap each other so that
+one can use AI to solve or analyze a game.
+According to the abovementioned points, AI can
+be used in different fields of foreign policy in the
+current era that foreign policy is moving towards
+algorithms that aim to analyze data, predict
+events, and consult with governments. The most
+important applications of AI in foreign policy
+include managing public expectations in another
+country, deciding based on the scenario writing,
+and analyzing the signs received from speeches
+and positions of other countries' officials.
+However, an accurate understanding of foreign
+policy analysis is before the applied model
+selection and how AI tools are used. Under such
+circumstances in the current era, foreign policy
+will generally change because countries are using
+AI and algorithms to predict events. In this case,
+countries interact with each other while knowing
+that their actions might have been predicted in
+previous days, weeks, or months. The changing
+business world will transform geopolitical
+relations. In this case, AI helps to select the type
+of players and choices by determining the
+assumptions based on the professional panel of
+foreign policy experts (besides other essential
+disciplines, such as social psychology, political
+sociology, anthropology, etc.). Then AI calculates
+and prioritizes the different scenarios. Although
+the results of AI applications do not indicate their
+certainty, AI can reduce the uncertainty of foreign
+policies to take the best measures and strategies.
+Furthermore, AI-GT integration in different forms
+and scopes implies that GT is a decision-making
+science, such as research in operation and
+engineering economics, with the difference that
+GT studies those problems where the results of a
+decision depend on the decisions made by two or
+more independent decision-makers. In other
+words,
+decision-makers
+cannot
+completely
+control their decisions' results. Determining
+competitive and cooperation strategies or a
+combination of them in all (commercial,
+industrial,
+social,
+political,
+military,
+etc.)
+organizations is an underlying cause. GT supports
+
+--- Sayfa 12 ---
+9775                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9775
+
+its genius founders; it provides decision-makers
+and supporters with the required tools.
+Therefore, decision-making theory can be used
+to achieve the goal, and monitor the current
+status, monitor current status, and optimal future
+situation for any change in international
+relations. Action and reaction stem from affairs
+calculated
+by
+different
+governments
+in
+international relations. In this approach,
+governments are players that try to choose a
+method in which maximizer and minimizer
+players exist to reach an equilibrium point.
+Therefore, governments can apply “Normative
+Decision Theory” and “Descriptive Decision
+Theory” that analyze the results of decisions or
+determine
+optimal
+decisions
+considering
+constraints and assumptions. The mentioned
+theories examine how individuals decide on this
+process. in other words, one pays attention to the
+decision's results, while another considers how
+a decision is made.
+Moreover, the conducted studies indicate that
+the performance of some governments implies
+sufficiently huge knowledge interest in AI.
+Investments done by some countries, such as
+France and China, indicate their expectations
+from considerable local knowledge interests of
+this
+technology.
+Many
+large
+private
+corporations in the world have invested in AI.
+Learning machine improves more data, so large
+corporations and larger countries will gain more
+benefits.
+On the other hand, AI and GT all address
+intellectual agents embodied in a complicated
+world. These agents may interact with other
+agents and use learning and reasoning techniques
+to improve their conduct. This integration and
+technology have been brainstormed and used in
+military sectors.
+AI increases exponentially and promotes its
+influence using some amenities, such as large
+databases, new data analysis technologies, and,
+more importantly, the interpretable data received
+from different sensors. The more free and
+unknown variables, the more sophisticated the
+decision-making will be. These systems help to
+enter more variables into the decision-making
+process. Moreover, one can consider the neural
+network of unknown variables, the unknown
+relationship between variables, and variables with
+an unknown effect on the outcome. Accordingly,
+these systems bring more accuracy to complicated
+decision-making processes.
+In general, it is concluded that such changes,
+approaches, and positive or negative feedback
+have led to two types of strategies for AI
+development in the policymaking scope. One
+policy focuses on the disseminating and
+developing AI model, while another emphasizes
+the implications of such dissemination and
+development. The policy should consider the most
+relevant policies associated with AI dissemination
+and
+development,
+privacy,
+trade,
+and
+responsibility. The policy design focuses on social
+value for optimal balance between AI stimulation
+and dissemination without causing risk.
+
+REFERENCE
+
+Abdekhodaei, M. (2019). Secularization
+and desecularization in the theory of
+international
+relations,
+Studies
+of
+International Relations Journal, Vol. 12,
+Issue 45, 00661, 120-150.
+Abdoli, Gh., Nakhoda M.J. (2009). An
+application of Fearon’s theory to consider
+OPEC’s stability: through a repeated game
+approach, Journal of Energy Economics
+Review, Vol. 6, Issue 20, 33-56.
+Acemoglu, D., & Restrepo, P. (2019).
+“Artificial Intelligence, Automation, and
+Work, “(pp. 197-236), University of
+Chicago Press.
+Ahmadi, S. A.A. and colleagues (2013).
+Artificial
+intelligence
+and
+business
+opportunities: identifying the applications
+of artificial intelligence in creating
+competitive advantages for technological
+firms (case of game industries), Journal of
+Entrepreneurship Development, Vol. 6,
+2(20).
+Alimadadi, A., Aryal, S., Manandhar, I.,
+Munroe, P. B., Joe, B., & Cheng, X
+(2020),”
+Artificial
+intelligence
+and
+machine learning to fight COVID-19”,
+Physiological genomics, 52 (4), 200-202
+Ansari, A., & Bakar, A. A. (2014), “A
+comparative study of three artificial
+intelligence
+techniques:
+Genetic
+algorithm, neural network, and fuzzy
+
+--- Sayfa 13 ---
+9776                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9776
+
+logic, on scheduling problem,” In 2014 4th
+International Conference on Artificial
+Intelligence
+with
+Applications
+in
+Engineering and Technology (pp. 31-36).
+IEEE.
+Assaad, R., Ahmed, M. O., El-adaway, I.
+H., Elsayegh, A., & Siddhardh Nadendla,
+V. S. (2021), “Comparing the impact of
+learning
+in
+bidding
+decision-making
+processes using algorithmic game theory,”
+Journal of Management in Engineering,
+37(1), 04020099.
+Attar, S. (2018). The study of the nuclear
+dispute between Iran and countries 5+1
+based on the game theory, Journal of
+Politics Strategic Studies, Vol. 7, Issue 72.
+Bahrammirzaee,
+A.
+(2010),
+"A
+comparative
+survey
+of
+artificial
+intelligence
+applications
+in
+finance:
+artificial neural networks, expert system,
+and hybrid intelligent systems." Neural
+Computing and Applications, 19(8), 1165-
+1195.
+Burchill, S., Linklater, A., Devetak, R.,
+Donnelly, J., Nardin, T., Paterson, M., ...
+&
+True,
+J.
+(2013).
+Theories
+of
+international
+relations.
+Macmillan
+International Higher Education.
+Cummings,
+M.L;
+Roff,
+Heather.M;
+Cukier, Kenneth; Parakilas, Jacob&Bryce,
+Hannah (2018),” Artificial Intelligence
+and
+International
+Affairs
+Disruption
+Anticipated,” Chatham House Report, the
+Royal Institute of International Affairs
+Daraei, M.R., Ahmadi, S.A.A., Jafari,
+M.R., Salamzadeh, A. (2013). Artificial
+intelligence and business opportunities:
+identifying the applications of artificial
+intelligence
+in
+creating
+competitive
+advantages for technological firms (case of
+game
+industries),
+Journal
+of
+Entrepreneurship Development, Vol. 6,
+Issue 2.
+de Souza, W. A., Garcia, F. D., Marafão,
+F. P., Da Silva, L. C. P., & Simões, M. G.
+(2019),”
+Load
+disaggregation
+using
+microscopic power features and pattern
+recognition,” Energies, 12(14), 2641.
+Dirican, C. (2015),” The impacts of
+robotics, artificial intelligence on business
+and economics,” Procedia-Social and
+Behavioral Sciences, 195, 564-573.
+Elliot, J. M., Reginald, R. (1999). Political
+and strategic encyclopedia, Translated by
+Mirhossein Raeeszadeh, Tehran, Office of
+Political and International Studies, 370.
+February 2020).
+Ghanbari, S. (2019). The concept of
+international society and attempt to link
+international
+law
+and
+international
+relations, International Studies, Vol. 16,
+Issue 1(61), 001128, 7-30.
+Gibbons. R (1992), "Games Theory for
+Applied
+Economists,"
+Princeton
+University Press.
+Golparvar, M., Shahabi, M. (2011). The
+application of games theory in describing
+the elections competitions, Journal of
+Political and International Research, Vol.
+3, Issue 6, 175-202.
+ Haji Yousefi, A.M., Nemati, A. H. (2019).
+Saudi Arabia's alignment with Israel from
+the perspective of international relations
+theories,
+Journal
+of
+Political
+and
+International Research, Vol. 11, Issue 40,
+00953, 104-124.
+Hajizadeh,
+Gh.
+(2018).
+Power
+in
+international
+relations,
+National
+Conference on Humanities Studies and
+Research, Ghanoon Yar Institute, Islamic
+Azad University Kermanshah Branch,
+2018.
+Hosseini Dehaghani, M., Basirat, M.
+(2016). A game theory approach to the
+analysis of urban power games: analysis of
+construction building processes in Tehran
+metropolis,
+Journal
+of
+Fine
+Arts-
+Architecture, Issue 1.
+Ippolito, P.P. (2019), "Game theory in
+artificial intelligence," [Online], available
+at https://
+IRIB News, (2020), What is deep fake?
+Adopted
+from:
+https://www.iribnews.ir/fa/news/2914823
+Jahangard, S. (2015), Economic and
+policies of AI, Economics Newspaper, No.
+3426, 4.
+Kaviyani Charati, M., Ghodsypour, S.H.,
+Gheidar Kheljani, J. (2018). Agility In
+competitive supply chain considering
+strategic customers, Journal of Industrial
+Engineering in Production Systems, Vol.
+6, Issue 12, 00658, 33-47.
+
+--- Sayfa 14 ---
+9777                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9777
+
+Khakestari, M., Joleini, S., Kameli, A.
+(2018). An analysis of the behavior of
+OPEC with the approach of evolutionary
+game theory, Journal of Economic
+Modeling
+Research,
+Vol.
+8,
+Issue
+31001146, 103-130.
+Khatami, S. (2020). Analysis of the
+evolutionary game theory in agent-based
+computational
+systems:
+OPEC
+oil-
+producing countries, Economic Research,
+Vol. 16, Issue 64, 001006, 183-216.
+Kiggins, R. D. (2018),” Big Data,
+Artificial Intelligence, and Autonomous
+Policy Decision-Making: A Crisis in
+International Relations Theory?”, In The
+Political Economy of Robots (pp. 211-
+234). Palgrave Macmillan, Cham.
+Kumar, K., & Thakur, G. S. M. (2012), “
+Advanced applications of neural networks
+and artificial intelligence: A review.
+International
+journal
+of
+information
+technology and computer” science, 4(6),
+57.
+Langhelle, O., Meadowcroft, J., &
+Rosenbloom, D. (2019),” Politics and
+technology:
+deploying
+the
+state
+to
+accelerate socio-technical transitions for
+sustainability.
+In
+What
+Next
+for
+Sustainable
+Development?”,
+Edward
+Elgar Publishing.
+Mahmoudinia, D., Dalali Esfahani, R.,
+Engwerda, J., Bakhshi Dastjerdi, R.
+(2016). Game theory and its role in
+determining optimal policies and strategic
+interaction between fiscal and monetary
+policymakers (application of differential
+game theory and Stackelberg games),
+Journal of Applied Economics Studies in
+Iran, Vol. 5, Issue 77, 1-34.
+Majidzadeh, R. (2020). Application of AI
+in foreign policy, Strategic Council of
+Foreign
+Relations.
+https://www.scfr.ir/fa/30030101/125202
+McCain, R. A. (2013). Game theory and
+public policy, Translated by Ali Bogheyri,
+Tehran, Imam Sadiq University Press.
+Milčić,
+D.,
+Anđelković,
+B.,
+&
+MIJAJLOVIĆ, M. (2007), “ Decisions
+making in the design process–examples of
+artificial
+intelligence
+application."
+Machine Design-Monograph, University
+of Novi Sad, Faculty of Technical
+Sciences,
+ADEKO–Association
+For
+Design, Elements And Constructions, 13-
+20.
+Moeeni S. (2019). Modeling the petroleum
+export behavior of Iran after oil sanction in
+the framework of analysis of the strategic
+relations of the oil market, Journal of
+Sustainable Growth and Development
+(Economic Research), 19(3),163-185.
+Moosavi Jahromi, Y., Sehati, E. (2012).
+Game theory handbook (strategies and
+applications),
+retrieved
+from:
+https://noandishaan.com/41678/games-
+theory/
+Moshirzadeh, H. (2017). Development in
+international
+relations
+theories,
+The
+Organization
+for
+Researching
+and
+Composing University textbooks in the
+Humanities
+or
+(SAMT),
+Humanities
+Research and Development Center.
+Movahedian,
+E.
+(2019).
+Artificial
+Intelligence: a technological threat for
+international peace and security, Iranian
+Diplomacy
+Site,
+retrieved
+from:
+http://irdiplomacy.ir/fa/news/1985459.
+Myerson, R. B. (1997), “ Game theory:
+analysis of conflict," Harvard university
+press.
+Nobakht, M. B., Gholami Nataj Amiri, S.,
+Madjidzadeh, R. (2011). An evaluation of
+the process of development in Iran in the
+recent century with an emphasis on the
+theory of chaos and game theory, Journal
+of Strategy, Vol. 20, Issue 59, 271-317.
+Norvig, P., & Russell, S. (2021). Artificial
+Intelligence:
+A
+Modern
+Approach,
+Citeseer Publications, 4th Editions.
+ Poundstone,
+W.
+(2007).
+Prisoner's
+dilemma, Translated by Ali Katiraee,
+Tehran, Maziar Publications.
+Pourkazemi, M. H., Moraddarvish, A.,
+Vali, M. (2014). The political economy of
+ninth government based on game theory,
+Economic Research, Vol. 49, Issue 1, 19-
+43.
+Rahimian,
+R.
+(2020).
+Strategic
+management in organizations, Tehran
+Press, Nasl-e-Roshan.
+Schrodt,
+P.
+A.
+(1988),”
+Artificial
+intelligence
+and
+formal
+models
+of
+international behavior,” The American
+Sociologist, 19(1), 71-85.
+
+--- Sayfa 15 ---
+9778                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9778
+
+Scott, B., Heumann, S., & Lorenz, P.
+(2018),” Artificial intelligence and foreign
+policy”, Stiftung Neue Verantwortung
+Policy Brief.
+Shafiei, M., Farah Gol, P. (2019). Using
+game theory in analyzing the supply chain
+with the customer market approach, (Case
+Study: Fars Cement), Journal of Industrial
+Management Studies, Vol. 17, Issue 35,
+193-217.
+Shakibaei, A., Nejati, M., Hosseinzadeh,
+M. (2021). Europe's reaction to our
+withdrawal from the Paris environment
+agreement: a game theory approach,
+Journal of Development and Capital, Vol.
+6, Issue 1, 209-230.
+Slaughter, A. M., & Hale, T. (2011),”
+International relations, principal theories,”
+Max Planck Encyclopedia of public
+international law, 129.
+Soltani, M. (2018). Generative Adversarial
+Networks, Part Research Center for AI,
+retrieved from: https://dataio.ir
+Souri,
+A.
+(2011).
+Mathematical
+economics, methods, and applications,
+Tehran, Samt Publications.
+Steinkamp, J., & Cook, T. S. (2021, “
+Basic Artificial Intelligence Techniques:
+Natural
+Language
+Processing
+of
+Radiology Reports”, Radiologic Clinics,
+59(6), 919-931.
+Szczepański, Marcin(2019),” Economic
+impacts of artificial intelligence (AI)”,
+European
+Parliamentary
+Research
+Service(EPRS ), PE 637.967, July 2019
+Taghavian, B. (2021). Effect of AI on
+international trade, Economists News
+Agency,
+Technology
+Department,
+retrieved from: http://www.eqtesaddan.ir
+Taklif, A. (2014). Cooperation amongst
+GECF selected member countries in LNG
+export:
+a
+cooperative
+game
+theory
+approach, Economic Research, Vol. 49,
+Issue 4, 835-868.
+Tema, M. (2014), “Basic assumptions in
+game theory and international relations”,
+International Relations Quarterly, 5(1), 1-
+4.
+Tembine, H. (2019), “Deep learning meets
+game theory: Bregman-based algorithms
+for interactive deep generative adversarial
+networks”,
+
+IEEE
+transactions
+on
+cybernetics, 50(3), 1132-1145.
+Tennenholtz, M. (2002)," Game Theory
+and Artificial Intelligence”, Foundations
+and Applications of
+Multi-Agent
+Systems
+UKMAS
+Workshops 1996-2000 Selected Papers,
+Mark d'Inverno, Mark; Luck, Michael;
+Michael Fisher, Michael;  Preist, Chris
+towardsdatascience.com/game-theory-in-
+artificial-intelligence-57a7937e1b88
+(accessed 27
+
+--- Sayfa 16 ---
+9779                                                                                       Journal of Positive School Psychology
+
+© 2021 JPPW. All rights reserved
+9779
+
+Tyagi, Neelam(2019),” What is the Game
+theory
+in
+AI?
+Nash
+Equilibrium",
+https://www.analyticssteps.com
+Ullah, Z., Al-Turjman, F., Mostarda, L., &
+Gagliardi, R. (2020), “ Applications of
+artificial intelligence and machine learning
+in
+smart
+cities”,
+Computer
+Communications, 154, 313-323.
+Wenzel, Y. S. (1994). Game Theory,
+Translated by Jalil Roshandel and Alireza
+Tayeb, Tehran: Ghoms Press.
+Zhang, H., Goodfellow, I., Metaxas, D., &
+Odena,
+A.
+(2019),
+“
+Self-attention
+generative
+adversarial
+networks.
+In
+International conference on machine
+learning “,(pp. 7354-7363). PMLR.
+Zolfaghari, V. (2013). Political behavior
+log of China’s new diplomacy: political
+tactics for continuity or strategic policy for
+alteration, Journal of Political Studies,
+Vol. 6, Issue 21, 193-214.

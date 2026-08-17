@@ -1,0 +1,2325 @@
+--- Sayfa 1 ---
+1
+
+--- Sayfa 2 ---
+2
+
+AKILLI BORSACI
+
+ÖNSÖZ
+
+Borsa, para kazanmak ve birikimi yatırıma dönüştürmek için kullanılan, bilgi
+akışının sürekli devam ettiği, alıcı, satıcı ve aracıların bulunduğu, çok büyük bir
+platformdur.
+Yatırım yaparak kazanç olduğu gibi kaybetmenin de olduğu unutulmamalıdır.
+Sürü psikolojisine kapılmamak, araştırma yapmak ve en önemlisi sabretmek borsanın
+temel kurallarıdır. Kendinize olan güveniniz, psikolojinizi kontrol etmeniz,
+analizlerinizi yapmanız, sizin için önemli durumlardır.
+Kitabın düzenleyicisi olarak bahsetmeliyim ki borsada ilk yatırımımda büyük
+kaybetmiştim ve kaybım için mutluyum diyebilirim. Eğer o zaman kaybetmeseydim
+girişimci, iş adamı, yatırımcı olamayacaktım. Benim görüşüm şudur ki; kaybetmeden,
+öğrenilmez. Eğer kaybettiğinizde küserseniz, daha büyük kaybedersiniz.
+Bu
+kitapta
+anlatılanlar
+(SPK
+Kanununca)
+Yatırım
+tavsiyesi
+olarak
+algılanmamalıdır. Borsayı öğrenmek, terimleri bilmek adına hazırlanmış bu kitap sizin
+gelişiminize katkı olarak hazırlanmıştır. Yatırım danışmanlığı hizmeti, aracı kurumlar,
+portföy yönetim şirketleri, mevduat kabul etmeyen bankalar ile müşteri arasında
+imzalanacak yatırım danışmanlığı sözleşmesi çerçevesinde sunulmaktadır.
+Hepinizin kendi yolunuzu çizmesi, kendi stratejinizin olmadı gerekir. Başkalarının
+yatırımlarını kopyalamaya çalışmayın, birilerinin başarılı olduğu yatırımlarda siz
+kaybedebilirsiniz. Unutmayın siz en iyisisiniz.
+
+Hepinize faydalı olması dileğiyle..
+Nice başarılara…
+
+--- Sayfa 3 ---
+3
+
+İÇİNDEKİLER
+
+Borsa
+
+ 4
+
+Hisse Senedi
+
+ 4
+
+Bedelli Hisse Senetleri
+
+ 4
+
+Bedelsiz Hisse Senetleri
+
+ 4
+
+Temettü Veren Hisse Senetleri
+ 5
+
+2020 Temettü Tarihleri
+
+ 6
+
+Borsada İşlem Yapmak İçin Gerekli
+Adımlar
+
+ 7
+
+Lot / Alış-Satış Emirleri / Portföy /
+BİST100-BİST30 / Açığa Satış
+ 8
+
+Hisse Senedi Seçerken Nelere Dikkat
+Edilmeli?
+
+ 12
+
+Borsada Kısa ve Uzun Vade Arasındaki
+Fark
+
+ 14
+
+Boğa Piyasası
+
+ 14
+
+Ayı Piyasası
+
+ 15
+
+Hisse Senedi Nasıl Analiz Edilir?
+ 15
+Temel Analizde En Çok Kullanılan
+
+Bilanço Tabloları
+
+ 16
+
+Teknik Analiz Nasıl Yapılır?
+ 20
+
+Trend Kavramı
+
+ 21
+
+Destek ve Direnç Kavramı
+
+ 22
+
+Yükseliş ve Düşüş Eğilimi
+
+ 23
+
+Hisse Nerede Alınır?
+Nerede Satılır?
+
+ 27
+
+Örnek Hisse Analizi
+
+ 28
+
+Fiyat Grafiklerinde Oluşan
+Formasyonlar
+
+ 30
+
+Borsada Takas Analizi
+
+ 32
+
+Neden Borsada Yatırım Yapılır?
+ 33
+
+Teknik Analizinde Faydalanılan Önemli
+Prog. Ve Göstergeler
+
+ 36
+
+Başlıca İndikatörler
+
+ 37
+
+Aracı Kurum Seçerken Dikkat Edilmesi
+Gerekenler
+
+ 39
+
+Borsa Terimleri Sözlüğü
+
+ 40
+
+Kaynakça
+
+ 67
+
+--- Sayfa 4 ---
+4
+
+BORSA
+
+Borsa; belirli kurallara göre, halka arz edilmiş şirketlerin, ticarete konu olan malların, kıymetli
+evrakların ve hisse senetlerinin, alınıp satıldığı, bu evrakların sürekli el değiştirdiği, kurumsal
+bir piyasadır.
+Bu evraklar; alıcı, satıcı ve aracı kurumlar arasında el değiştirir. Yani arz talep
+dengesi üzerine kurulu, yatırımcıların işlem yaptığı, kurumsal piyasaya borsa
+denir.
+Borsa da işlemler belirli kurallara göre gerçekleştirilir. İşlem yapmak isteyen
+yatırımcıların yüz yüze olmalarına gerek yoktur. İnsanlar artık telefonlarındaki
+bankaların veya aracı yatırım kuruluşlarının mobil uygulamalarından, istedikleri
+zaman hisse alıp satabilmektedirler. Borsa da insanların verdiği alış ve satış emirleri,
+bir havuzda toplanır. Burada emirler; birbirleri ile eşleştirilir ve alım satım gerçekleşir.
+Eğer eşleşme olmaz ise, emir de gerçekleşmez. Fakat bu çok sık karşılaşacağınız bir şey
+değildir. Çünkü borsa da neredeyse her saniye, çok fazla yatırımcı tarafından, hisse
+alım ve satım emri verilmeye devam ediyor.
+
+“Bu e-kitap sıfırdan hiçbir bilgisi olmayan, yatırımcı olmak isteyen kişilere hitap etmesi
+amacı ile hazırlandığı için, anlatmaya sıfırdan yani en başından başlayacağımı tekrar
+hatırlatmak isterim.”
+
+HİSSE SENEDİ
+Sermaye şirketlerinin ortaklarına; ortaklık ve paylarını belirlemek amacıyla verdikleri
+kıymetli evraklara hisse senedi denir. Hisse senetleri, Sermaye Piyasası Kurulu’ndan alınan
+izinle çıkarılır ve her sermaye şirketi bu hakka sahip değildir.
+
+BEDELLİ HİSSE SENETLERİ
+Kuruluş veya sermaye artırımında, şirket tarafından çıkarılan hisse senetlerine, bedelli hisse
+senetleri denmektedir.
+
+BEDELSİZ HİSSE SENETLERİ
+Şirketin bazı varlıklarında yaşanan değer artışı ve bu değer artışının sermayeye
+eklenmesi ile çıkarılan hisselerdir.
+
+--- Sayfa 5 ---
+5
+
+TEMETTÜ VEREN HİSSE SENEDİ
+Temettü, bir şirketin karından hissedarına dağıttığı paydır. Yaygın olarak kâr payı olarak
+da bilinen temettü, nakit ya da hisse senedi şeklinde dağıtılabilir. Bir şirket kar ettiğinde,
+bu karı yeniden şirkete yatırmayı seçebilir, ama bazen karının bir miktarını hissedarlara
+dağıtarak temettü ödemesi yapar. Her şirket temettü dağıtmaz. Ancak genellikle yavaş ve
+güvenilir büyümeye sahip olan şirketler temettü dağıtır.
+Temettüler, genellikle hissedarlara nakit olarak ödenir. Üç aylık veya yıllık gibi sabit bir
+sistemle dağıtımları gerçekleştirildiğinde, bunlar düzenli temettü olarak adlandırılırlar.
+Ancak bir şirket, herhangi bir zamanda özel temettü adı verilen kar payları da
+ödeyebilir.
+Örnek: Aselsan’dan 100 adet hisseye (lot) yatırım yaptınız. Şirket de bu sene %50 temettü
+dağıtacağını bildirdi. Standart olarak güncel değerle ölçülen her hisse senedinin
+borsadaki değeri 1 Türk lirasıdır. %50 temettü verileceği zaman lotunuz dahilindeki her 1
+TL için 50Krş. ödeme alırsınız. Temettü veren hisseler size ya para ya da lot kazandırır.
+Örnekteki değerlere göre, basit hesapla 1900 TL veya 1900 lot ile kâr etmiş olursunuz.
+Temettünün nakit olarak veya hisse (pay) adedi olarak dağıtılacağına şirketin genel
+kurulu karar vermektedir. Bu sebeple, her şirketin nakit olarak temettü dağıtmayacağını
+bilmenizde yarar vardır. Ayrıca temettü dağıtım tarihinde şirketin işlem değeri ise
+temettü miktarı kadar düşmektedir. Yani yukarıda örnek olarak verilen şirket, temettü
+dağıtımından 1 gün önce 2,50 TL’den işlem görüyorsa, 0,50 TL temettü dağıttığı gün bu
+şirket 2 TL’den borsada işlem görür.
+
+Temettü ne zaman hak edilir? Eğer temettü tarihlerinin açıklanması kesin olarak
+biliniyorsa, lotun 1 gün öncesinde bile alınmış olması fark etmez.  Lot sizdeyse hak ettiniz
+demektir. Temettü hisseleri açıklama tarihinden önce elden çıkarılmış ise haklar
+kaybedilir. Bu nedenle, temettü dağıtım tarihinden bir gün önce elinizde o şirkete ait hisse
+senedi varsa, siz temettüyü hak etmiş oluyorsunuz. Ayrıca temettü paraları, temettü
+dağıtım günü öğleden sonra veya ertesi gün hesabınıza geçer. Temettü ne zaman hak
+edilir sorusunun en sağlıklı yanıtını ise yatırım yaptığınız şirketin duyurularında
+bulabilirsiniz.
+
+Eğer siz bir temettü yatırımcısı olacaksanız, uzun vadeli düşünerek hareket etmelisiniz.
+
+Piyasayı sıkı takip etmeli ve kendinizi bu konuda her fırsatta eğitmelisiniz. Yatırımcısını
+koruyan kurumsal bir kimliğe sahip şirketleri yakından tanımalı ve takip etmelisiniz.
+Temettü karı elde ettiğiniz zaman, hissenin lotunu büyütüp beklemek, risk alıp
+kaybetmekten çok daha güvenli ve avantajlıdır.
+
+Bir de temettü emekliliği vardır. Düzenli temettü veren birkaç şirkette hissedar olduktan
+sonra, elinize para geçtikçe sürekli olarak hisse senedi alırsınız. Lotunuzu çoğaltmak için
+sürekli hisse senedine yatırım yapmaya devam edersiniz. İleride emekli olduğunuzda da
+size ciddi getirileri olacak bu lotlarla bugünden başlayarak ileride büyük bir gelir
+kaynağına
+dönüşecek
+bir
+portföy
+oluşturmuş
+olursunuz.
+
+--- Sayfa 6 ---
+6
+
+2020 TEMETTÜ TARİHLERİ
+
+--- Sayfa 7 ---
+7
+
+BORSADA YATIRIM YAPMAK İÇİN GEREKLİ ADIMLAR
+
+Yatırım hesabı açmak
+Borsada işlem yapmak için öncelikle, bir yatırım hesabına sahip olmanız gerekmektedir.
+Yatırım hesabı açmak, bankada sıradan bir vadeli/vadesiz hesap açmak kadar kolaydır.
+Bankaya bile gitmeye gerek kalmadan, internet veya telefon başvurusu ile
+açtırabileceğiniz yatırım hesabını, özel aracı kurumlar üzerinden de açmanız
+mümkündür. Bu aracı kurumları seçerken nelere dikkat etmeniz gerektiğini, kitabın
+ilerleyen sayfalarında sizlerle paylaşacağım.
+Açmış olduğunuz yatırım hesabına para göndermek
+Yatırım hesabını açtınız, hesabınız onaylandı. Şimdi yapmanız gereken, hesabınıza
+borsada alım satım yapabilmek için, kullanacağınız parayı göndermek. Unutmayın ki, sizi
+üzmeyecek bir rakamla başlangıç yapmalısınız. Yatırım hesaplarında komisyon ücreti ve
+yıllık ücretler alınmaktadır. Bu ücretler şu şekildedir; Komisyonlar her alım satım emri
+verdiğinizde, Banka yıllık aidatları ise, belirli zamanlarda, hesabınızdan kesilmektedir.
+
+Şimdi yatırım yapmaya hazırsınız.
+
+--- Sayfa 8 ---
+8
+
+LOT-ALIŞ EMRİ-SATIŞ EMRİ-PORTFÖY-
+EMİRLER BİST100-BİST30- AÇIĞA SATIŞ
+NEDİR?
+İlk defa borsada hisse senedi alacaklar, bu işlemi gerçekleştirirken, belli başlı terimlerle
+karşılaşacaklardır. Bunlar borsadaki temel herkesin bilmesi gereken bilmeden işlem
+yapamayacakları terimlerdir.
+Aşağıda görmüş olduğunuz, bir aracı yatırım kuruluşunun ana ekran tablosudur.
+Burada hisse senedi alırken, dikkat etmeniz gereken detayları tek-tek açıklayacağım.
+
+LOT
+En çok duyulan terim lot bir işlem birimidir. İşlem hacmini ifade eder. Borsa İstanbul’da 1 lot
+1000 TL yani 1000 adet hisse demektir.
+
+ALIŞ EMRİ
+Hisse senedini borsadaki güncel fiyattan satın almak için, alış emri sekmesini kullanarak,
+istediğimiz sayıda (lot) alış emri verebilmekteyiz. Ayrıca piyasa fiyatından düşük bir fiyatta emir
+vererek, hissenin o fiyata gelmesini ve belirlediğiniz değere ulaşınca alım yapılmasına yönelik
+emirde verebilirsiniz. Her emirde yaptığınız alım hacmine oranla komisyon ödeyeceğinizi
+unutmamalısınız. Bu komisyonun çok büyük bir rakam olmadığını bilmenizde fayda var. 1000
+de 2 veya 10000 de 5 oranında gibi aralıklarda rakamlardır bu komisyonlar. Bu komisyon
+oranları her aracı kurumda değişiklik gösterebilmektedir.
+
+--- Sayfa 9 ---
+9
+
+SATIŞ EMRİ
+Hisse senedinizi borsadaki güncel fiyatından satabilmek için, satış emri sekmesini kullanarak,
+istediğimiz sayıda(lot) satış emri verebilmekteyiz. Ayrıca piyasa fiyatından yüksek bir fiyatta
+satış emri vererek, hissenin o fiyata gelmesini ve belirlediğiniz değere ulaşınca satış yapılmasına
+yönelik emirde verebilirsiniz.
+
+PORTFÖY
+Sizin almış olduğunuz ve elinizde bulunan, hisse senetlerinin toplamına portföy denir.
+
+EMİRLER
+Burada ise alış veya satış emri verdiğiniz, henüz gerçekleşmeyen, beklemede olan işlemleriniz
+görünmektedir. Bir alım veya satım işlemi için emir verdiğinizde, bekleyen emirleriniz
+gerçekleşene kadar bu kısımda görünecektir.
+
+BİST100 VE BİST30
+Borsa İstanbul'da işlem gören, piyasa değeri ve işlem hacmi bakımından en yüksek 100 hisse
+senedinin performansını ölçmekte kullanılan göstergedir.
+Bist30 ise piyasa değeri ve işlem hacmi bakımından en yüksek
+30 hisse senedinin performansını ölçmektedir.
+Solda görecek olduğunuz tabloda bir hissenin alış
+emri aşaması görülmektedir. Burada hissenin adı en
+üstte
+Türk Hava Yolları (THYAO) yazan kısımdır. Güncel 1 adet lot
+fiyatı 6,04 yazan kısımdır.
+AÇIĞA SATIŞ
+
+Bir hisse senedinin düşeceği yönünde bir tahmininiz varsa,
+açığa satış yaparak elinizde olmayan bir hisse üzerinde,
+ödünç alıyormuş gibi bir işlem oluşturuyorsunuz. Yani
+düşeceği yönünde işlem yapıyorsunuz. Bu hisse senedinin değeri düştüğünde, hisse senedinde
+alım yaparak, arada oluşan fark kadar kar ediyorsunuz. Birçok kurumda açığa işlem izni
+olmamakla birlikte, kurumların açığa satış işlemi için yetki belgesi alması gerekmektedir.
+
+--- Sayfa 10 ---
+10
+
+Lot yazan kısım kaç adet alım yapacağınız rakamı gireceğiniz bölümdür. Fiyatlı yazan kısımda
+ise, isterseniz direk güncel fiyattan alış emri verebilir, isterseniz de piyasa emri seçeneğini
+seçerek, fiyat belirtmeden piyasadaki en iyi emirlerin eşleşmesini bekleyebilirsiniz. Başka bir
+seçenek de piyasadan limite emirdir. Fiyat belirtmeden sadece alış ya da satış yapılmak istenen
+miktarın girildiği emirlerdir. Karşı taraftaki en iyi fiyatlı emirlerle eşleşerek işleme dönüşür.
+Geçerlilik süresi günlük ise işleme dönüşmeyen kısım, gerçekleştiği son işlem fiyatını alarak limit
+fiyatlı emre dönüşür ve pasife düşer.
+Gün yazan kısım ise vereceğiniz emrin geçerlilik süresini belirttiğiniz kısımdır. Pay
+Piyasasındaki tüm pazarlarda girilen her emir, aksi belirtilmediği takdirde, girildiği
+gün boyunca geçerli olmakta ve herhangi bir işlem yapılmaması halinde, gün
+sonunda iptal edilmektedirler.
+Evet; şu ana kadar, yeni öğrenmeye sıfırdan başlayan bir yatırımcı adayı olarak, neler
+öğrendiniz;
+
+Yatırım hesabınızı açtınız. İçerisine işlem yapacağınız miktarda para yatırdınız. Herhangi
+bir hisse senedi için, güncel fiyattan alış emri vermek üzere, hisseye ait ekrana geldiniz.
+Alış emrine girerek, lot kısmına, kaç adet satın alacağınızı, rakamla girerek alış emrini
+verdiniz. En son olarak da emri onayladınız. Bu işlem sonucunda, seçilen şirkete ait,
+belirttiğiniz kadar lot adedi güncel fiyattan emir verdiğiniz için, portföyünüze anında
+eklendi. Şu an da artık
+Borsada yatırım yapmış bulunmaktasınız.
+
+“Buraya kadar anlatılanlar, hiçbir bilgisi olmadan yatırım yapmaya başlayan kişilere
+göre anlatıldığı için, buraya kadar olan kısmı, kitabı okuyan borsa hakkında birazda
+olsa bilgisi olan, aktif borsa yatırımcıların çok fazla dikkate almasına gerek yoktur.”
+Şu ana kadar, yatırım hesabı nasıl açılırdan tutunda, içine para nasıl atılacağına kadar,
+küçük büyük tüm detayları atlamadan bahsetmeye çalıştık. Hisse senedi satın almak,
+aslında bu kadar basit. Aracı kurumun uygulamasından hisse senedine girip, miktarı
+yazıp onaylıyorsunuz ve almış oluyorsunuz. Önemli olan hangi hisseyi almalı, ne zaman
+almalı, ne zaman satmalı, alırken nelere bakmalı, diye uzayıp gidiyor. Bunların hepsinden
+sırası ile bahsedeceğiz. Kitabı buraya kadar okuyan sıfırdan başlayacak arkadaşlar;
+Şimdi Google’a “gedik trader”( bir borsa yatırım aracı kuruluşu ) yazıp üye olsunlar.
+Neden gedik trader diye soracak olursanız, öncelikle belirtmek gerekirse, kendileri ile
+herhangi bir reklam anlaşmamız yok. Şu an ki aktif yatırımlarımı orada da yapmıyorum.
+Size üye olduğunuzda bir demo hesap veriyorlar. Bu demo hesabın içinde 10.000 TL sanal
+para oluyor. Siz de bu para ile hayali borsa yatırımı yapabiliyorsunuz. Ben de birçok
+borsa yatırımcısı gibi demo hesapla alım- satım yaparak, kendi paramı riske atmadan
+borsada işlem yapmayı öğrendim. Ayrıca;
+
+--- Sayfa 11 ---
+11
+
+Ara yüzü de kullanışlı ve basit. Muhtemelen üye olunca sizi ararlar. Sisteme para aktarıp, aracı
+kurum olarak kendileri ile çalışmanız için, size danışmanlık teklif ederler. Şu an öğrenme amaçlı
+üye olduğunuzu, sistemi biraz tecrübe edeceğinizi kendilerine söylerseniz, sizi tekrar bu sebeple
+aramayacaklardır. Kendi birikiminiz ile gerçek yatırıma başlamaya karar verdiğiniz zaman,
+dilerseniz, bu aracı kurum ile çalışabilirsiniz. Tercih sizin. Bu kitapta öğreneceğiniz bilgileri
+kullanarak, demo hesapta kendi paranızmış gibi, alın, tutun, satın, o parayı arttırmaya çalışın.
+Benim sizlere tavsiyem, ne zaman 10.000 liranızı en az 13.000 lira yapabilirseniz, o zaman
+gerçek paranız ile yatırım yapmaya başlayın. Borsa oyun değildir.
+Nasıl ev, arsa, tarla, bağ, bahçe, araba, hatta cep telefonu bile alırken araştırıyorsanız,
+hisse senedi alırken de araştıracaksınız. Çünkü iddia kuponu doldurmuyorsunuz, yatırım
+yapıyorsunuz. Lütfen instagram sayfalarından, twitter’dan, facebook’tan, birtakım
+forumlardan, hisse tüyosu almayın. Arkadaş ortamında, bu sene Fenerbahçe şampiyon
+olacak, hissesi uçar gider, şimdiden alan yürür gider, gibi, sözlere kapılmayın. Borsada bir
+hissenin aşağı ya da yukarı yönlü hareket etmesi, bu kadar basit bir konu değildir. Bir
+hisseyi etkileyen, en az 20’den fazla etken vardır. Hepsi tek-tek incelenmelidir. Ayrıca,
+birileri ile
+Borsa sohbeti yapacaksanız, borsa hakkında fikir alacaksanız, ben “borsa oynuyorum”
+diyen biri ile asla bu konuşmayı yapmayın. İyi ve ciddi bir borsa yatırımcısı, asla ben
+borsa oynuyorum demez. Borsa oynanmaz. Borsada yatırım yapılır.
+Başka önemli bir konudan bahsedecek olursak; Borsada yatırım yapacağınız miktar,
+en az 3yıl boyunca, ihtiyacınız olmayacak bir miktar olmalıdır. 1 ay, 3 ay, 6 ay sonra,
+ihtiyaç duyacağınız miktar ile asla borsada yatırım yapmayın.
+Yeni başlayacağınız için, özel aracı kurumları mı, bankalar mı tercih edelim diye çok
+düşünmeye gerek yoktur. İlk etapta, yeni başlayan birinin, kalkıp yüksek miktarlar ile
+işlem yapması zaten baştan hata olacağından dolayı, öncelikle küçük yatırımlarla hatta
+demo hesaplar ile başlamalısınız. Bunun içinde komisyon oranlarını o kadar da fazla
+düşünmenize gerek yok. Kullandığınız bir banka varsa, onun yatırım hesabına
+başvurabilirsiniz.
+İlerlettikten ve kendinizi geliştirdikten sonra, aracı kuruluş için gerekli araştırmalarınızı yapar,
+yatırımınızı o platform üzerinden devam ettirebilirsiniz.
+
+Yatırım yapmadan önce, buna hazır olup olmadığınıza karar vermelisiniz. Çünkü
+aldığınız hissenin her zaman için değer kaybetme riski vardır. Emin olduğunuz
+pozisyonlardan dahi zararlı çıkabilirsiniz. Bu nedenle öncelikle, kaybetme riskinin
+olduğunu bilerek adım atmalısınız. Adımlarınızı planlı bir şekilde atarsanız,
+sonucundan memnun olarak ayrılabilirsiniz.
+Başka bir konuda şu; iki günde, iki haftada, borsadan büyük paralar kazanma hayali ile
+yatırım yapma hayalleri kurmamalısınız. Kısa vadeli yatırım yapsanız bile uzun vadeli
+düşünerek hareket etmelisiniz. Meşhur borsa yatırımcılarından birinin çok güzel bir sözü
+var.
+
+--- Sayfa 12 ---
+12
+
+On yıl portföyümde tutamayacağım hisseyi, bir gün bile elimde bulundurmam diyor. Yani
+bu ne demek? Kişi hisseyi araştırmış, güvenmiş, on yıl sonra bile, gelecek gördüğü bir
+hisseye yani şirkete yatırım yapacak. Siz de eğer bir hisseye yatırım yapmayı
+düşünecekseniz, en az 5 yıl sonra bile, o hissenin değer kazanmaya devam edeceğine, tam
+anlamıyla güvenebilecek kadar iyi araştırmalısınız.
+Borsada yatırım yapmadan önce, enflasyon nedir?  Ekonomik güç, satış gücü bunlar
+nedir? Az çok fikir sahibi olmalısınız. Bir firmayı araştırırken, o firmanın 5 yıl boyunca hep
+büyümüş olduğunu görüp, güvenip yatırım yaparsınız ama enflasyon oranının altında bir
+büyüme yaşadığını göremeyebilirsiniz. O hisseden zarar etme durumu ya da yatırdığınız
+paranın enflasyon karşısında erime ihtimali ile karşılaşırsınız. Farkında olmadan siz
+hissem değerlendi kazanıyorum diye düşünürken, bir yandan paranız değer kaybeder.
+
+HİSSE SENEDİ SEÇERKEN NELERE DİKKAT ETMELİYİZ?
+
+Artık borsaya giriş yaptık. Nasıl hisse senedini alacağız bunu öğrendik. Şimdi bundan
+sonra, kitap sonuna kadar okuyacağınız her şey, hisse senedi seçerken, hangi püf
+noktaları dikkate alacağız, nasıl bir plan yapacağız, yatırım tarzımız ne olacak, hisse
+senedinde temel analiz ve teknik analiz nedir? Piyasa nelerden etkilenir, Hangi noktada
+alınır, ne zaman satılır hepsini inceleyeceğiz.
+Önce yatırım yapılacak sektöre karar vermek ve yakından takip etmek
+
+Bir hisse senedi sektördeki, şirketteki ve ülkedeki olaylardan, çok hızlı bir şekilde
+etkilenir. Takip etmeye kadar verdiğiniz şirketin, hangi sektörde faaliyet gösterdiğini
+ve sektörde ne gibi olayların hareketlenmelere sebep olduğunu ne zaman hızlandığını
+ne zaman yavaşladığını, sezonsal bir tepki verdiğini mi, yoksa yıl boyunca sabit bir
+işlem hacmine mi sahip, bunları yakından araştırmalısınız. Sektördeki atlayacağınız
+bir bilgi, siz yatırımınızı yaptıktan sonra hissenin ilerlemesini ciddi oranda etkileyebilir
+ve uzun süre sizi terste bekletebilir
+(ters = zarar)
+Bir hisse senedinin, nelerden etkilendiğini, detaylı bir şekilde incelemelisiniz.
+
+Hisse senetleri genel olarak arz ve talep doğrultusunda hareket gösterse de
+hisse senetlerinin hareketini etkileyen, çok fazla faktör bulunmaktadır.
+Hisse senetlerini etkileyen iki yönlü faktör vardır. Yurtiçi faktörler ve yurtdışı faktörler.
+
+Yurtiçi faktörler; Yurtiçindeki siyasi olaylar, ekonomik olaylar, doğal afetler gibi
+sebepler, piyasalarda aşağı veya yukarı yönlü dalgalanmalara sebep olacağından hisse
+senedinizi de yakından ilgilendirmektedir.
+
+--- Sayfa 13 ---
+13
+
+Mesela başka bir yatırım aracı, büyük avantaj sunduğu zaman, hisse senedine olan
+talep azalacak ve fiyatlarda düşüşe sebep olabilecektir.
+Yurtdışı faktörler; Bunlar ise, şirketlerin ve sektörlerin yurtdışı performansına göre,
+hisse senedinin değerini etkileyen faktörlerdir. Sektörler ülke ekonomisini yakından
+ilgilendirdiği için, yurtdışındaki büyüyen ticari hacim, hisse senedini olumlu yönde
+etkilerken, daralan yurtdışı hacmi, bu kez de hisse senedinde değer kaybına sebep
+olabilecektir.
+Hisse senetlerinin bir şirkete ait olduğunu ve bu şirketlerin, bir sektöre hizmet ettiğini
+biliyorsunuz. Sektörler ise, ülke ekonomisini oluşturan, en önemli yapılardır. Şirketlerin
+büyümesi, kar etmeleri, borçluluk durumları gibi etkenler, şirketlerin etkilenmesine
+sebep olacak, şirketlerde önce sektörü ve sektörlerde ülkedeki ekonomik durumu
+etkileyecektir. Nitekim en üst basamaktan, en alta sizin sahip olduğunuz hisse senedine
+kadar etki gösterecektir. Basit olarak, şirketin karlılığı artarken, hisse senedinin de
+değeri artış göstermektedir. Ama unutulmamalıdır ki, şirketin performansını tek başına
+ele alarak, karar vermek doğru sonuçlar doğurmayabilir. Şirketi inceledikten sonra,
+sektörü ve daha sonra da ülke ekonomisinin ve siyasi olayların durumunu da inceleyerek
+yatırım kararı vermelisiniz.
+Hisse senetlerinin nelerden etkilendiğini maddeler halinde belirtmek gerekirse, şu şekilde bir
+liste yapabiliriz;
+1.Arz ve talep.
+2.Ekonomi.
+3.Şirket haberleri ve gelişmeler.
+
+4.Beklentiler, spekülasyon ve
+manipülasyonlar. 5.Siyasi olaylar.
+6.Şirketlerde ortaya çıkacak büyük skandallar.
+7.Güçlü medya ve sosyal hesapların
+yönlendirmeleri. 8.Küresel olaylar ve gelişmeler.
+9.Doğal afetler ve salgın
+hastalıklar. 10.Savaş ve terör
+olayları.
+
+--- Sayfa 14 ---
+14
+
+BORSADA KISA VADE VE UZUN VADE ARASINDAKİ FARK
+
+İkisi de isimlerinden anlaşıldığı gibi yatırımımızın süresi ile alakalıdır.
+
+Kısa vadeli yatırımlarda, yaklaşık olarak 3 aya kadar yapılan yatırımdan, kar anlamında
+dönüş beklenir. Yani siz bir yatırım yaptıysanız, bu yatırım sizin önceden belirleyeceğiniz
+kar oranına, belirlediğiniz kısa sürede ulaşmalı ve bu aşamada elinizdeki yatırım aracını
+satışa sunarak kar elde etmelisiniz. Değeri düşünce tekrar alır ve yükselince tekrar
+satarsınız. Bu şekilde kısa vadede yapılan alım satım işlemlerinin tamamı, kısa vadeli
+yatırımı ifade etmektedir. Yüksek risk –yüksek getiri düşüncesinde olan yatırımcıların
+tercih edeceği yatırım şeklidir.
+Uzun vadeli yatırım ise, planlarını 1 yıldan uzun süreli yapan, hatta belki 10 yıl
+sonrasına kadar elinde tutacağı hisse senetlerine yönlenen yatırımcıların tercihidir.
+Uzun vadede kazanç ihtimalini arttırırlar. Çok sık alım satım yapmaz, topladıkları
+hisse senetlerini bir birikim yapıyormuş gibi, günden güne arttırarak hem birikim
+yapmış olurlar, hem de aldıkları hisse senetlerinin değerlenmesi ile yatırımlarını
+katlamaya devam ederler.
+
+BOĞA PİYASASI
+Finans piyasalarında sıklıkla karşılaşılan terimlerden olan ayı ve boğa piyasası
+kavramları piyasanın yönü (trendi) hakkında bilgi vermektedir. Boğa piyasası, piyasanın
+yükseliş trendinde olduğu yani fiyatların gelecekte iyimser bir ortamda seyredeceği ve
+yatırımcıların alıma geçeceği dönemdir. Bu terimin kökeninin, boğaların her şeyi
+boynuzlarıyla aşağıdan yukarıya kaldırdıkları inancından geldiği varsayılmaktadır. Ayı
+piyasasında ise durum boğa piyasasındakinin tam tersidir. Yani piyasa aşağı yönlü düşüş
+trendindedir ve piyasada kötümser bir hava hâkimdir. Boğa piyasasının başlaması için,
+teknik olarak ilgili piyasanın en düşük seviyesinden %20 yükselmiş olması beklenir.
+
+BOĞA PİYASASININ AŞAMALARI
+
+1. Aşama-Toplama: Zararda olan ve cesareti kırılmış yatırımcılar tarafından satışı
+gerçekleştirilen değeri çok ucuz malların büyük yatırımcılar tarafından toplanmaya başladığı
+aşamadır. Henüz belirgin bir yükseliş trendi hâkim değildir ve genel olarak piyasaya ilgi hala
+azdır.
+
+2. Aşama-Alım Dalgası: Toplama aşamasının ardından piyasada artık iyileşme
+belirtilerinin net bir şekilde fark edilmeye başlandığı ve küçük yatırımcıların da artık
+alım dalgasına dâhil olduğu, işlem hacimlerinin arttığı aşamadır.
+
+--- Sayfa 15 ---
+15
+
+3. Aşama-Doygunluk: Hacim artışıyla piyasa belirli bir doygunluğa ulaşmıştır ve piyasada
+alıcı oldukça azalmıştır. Boğa Piyasasının sonuna gelindiğini gösterir, ardından sert düşüş
+dalgasının başlaması beklenebilir.
+
+AYI PİYASASI NEDİR?
+Ayı piyasası kavramı bütün finansal piyasalar için (hisse senetleri, tahvil piyasası)
+sıkça kullanılan bir terimdir. Ayı piyasası, genellikle piyasaların karamsar durumda
+olduğu, fiyatların uzun bir süre daha düşüş trendinde olacağı beklentisi olduğu
+durumlarda kullanılır. Bir finansal ürünün ayı piyasasına girdiğini söylemek için,
+öncelikle ana trendin aşağı yönlü (düşüş trendi) olması gerekmektedir. Bununla
+birlikte eğer bir önceki tepe seviyesinden %20 aşağı yönlü bir hareket olması
+gerekmektedir.
+
+Ayı piyasasının ne kadar süreceği hakkında genel bir kanı olmamakla birlikte, fiyatların
+uzun bir süre daha düşmeye devam edeceği beklenir. Ayı piyasası etkisi altındaki bir
+piyasada bulunan ürünlere talep azalmaktadır. Talep azaldığı için de kimse o ürünleri
+almak istememekte ve fiyatlar da düşmeye devam etmektedir.
+
+Boğa piyasası ise ayı piyasasının tam tersi olarak, ilgili piyasanın uzun bir süre daha
+yükseliş trendinde olacağını, o piyasadaki ürünlere olan talebin artmakta olduğunu
+göstermektedir.
+
+HİSSE SENEDİ NASIL ANALİZ EDİLİR?
+
+Borsa yatırımcıları, hisse senedi alacağı zaman alınacak hisse senedine karar aşamasında iki yol
+izlemektedirler. Bunlar temel ve teknik analizdir.
+
+--- Sayfa 16 ---
+16
+
+TEMEL ANALİZ NEDİR?
+Temel analiz, yapılacak yatırım ne olursa olsun, yatırımcının mutlaka bilgi sahibi olması
+gereken konuların başında gelmektedir. Hatta yatırımın temel taşı temel analizdir
+diyebiliriz. Fakat temel analiz çok fazla konuyu içine aldığından dolayı, insanlar temel
+analize nereden başlayacağı konusunda problem yaşayabilmektedirler. Bu kitap borsaya
+yeni başlayanlara yönelik hazırlandığından dolayı, burada anlatılacak bilgiler, sizi
+muhteşem borsa yatırımcısı veya uzman haline getirmeyecektir. Fakat hiç bilgisi olmayan
+kişiler, bu bilgilerle en azından borsayı, borsadaki riskleri, yapabileceği hamleleri, strateji
+oluşturmayı ve genel hatları ile hisse senedi seçip, takip edip, mantıklı yatırım yapmanın
+yollarını öğrenebileceklerdir.
+TEMEL ANALİZ NASIL YAPILIR?
+Temel analiz ile hisse senedinin gelecekte varacağı noktayı tahmin etmeye çalışıyoruz. Bu
+sebeple, temel analizde şu sorulara cevap bulmak asıl amacımız olacaktır. Şirketin geliri artıyor
+mu? Gelecekte kar yapmaya devam edecek mi? İlerleyen zamanlar da rakiplerinin önüne
+geçebilecek bir şirket mi? Borçlarını ödeyen bir şirket mi? Şirket sahipleri kimler? Nasıl
+mantıkta insanlar? Hile ve spekülasyon olaylarına karışmış veya karışabilecek kişiler mi?
+Yani kısacası, yatırım yapacağımız hisse senedinin ait olduğu şirket ve şirkete bağlı
+sektör hakkında, her şeyi araştırıyor ve analiz ediyoruz. Buna da temel analiz
+denmektedir.
+Temel analizde neredeyse bütün işimiz bilanço tabloları ile ilgilidir. Bu konuda hepsini
+tek-tek incelememiz gereken belli başlı tablolar vardır. Bir hisse senedini takibe
+aldığımızda, aşağıda tek-tek başlıklar halinde açıkladığımız bu tablolar, bize hisse
+senedine güvenip güvenemeyeceğimiz konusunda, büyük oranda fikir sahibi olmamızı
+sağlayacaklardır.
+
+TEMEL ANALİZDE EN ÇOK KULLANILAN BİLANÇO TABLOLARI
+
+CARİ ORAN
+
+Dönen varlıkların kısa vadeli borçlara oranına denir. Şirketin kısa süreli borçlarını
+ödeme gücünü ve işletmenin net sermayesinin, buna yetip yetmeyeceğini gösterir. Yüksek
+değerler, şirketin iyi durumda olduğunu bize gösterir. Tabi ki bu tek başına yeterli
+değildir. Diğer tabloları da incelemeye devam etmelisiniz.
+
+NET KAR DEĞİŞİMİ
+Şirketin faaliyetleri sonucu ettiği karın, geçen senenin aynı dönemine oranla ne kadar artıp
+azaldığını gösterir. Kar artışı, şirketin iyiye gittiğini ve şirkete güvenebileceğimizi gösteren
+istatistiklerden bir diğeridir.
+
+--- Sayfa 17 ---
+17
+
+NET KAR BÜYÜMESİ
+Şirketin enflasyon oranının üzerinde bir verim göstermesini beklediğimiz istatistiktir.
+Enflasyon üzerinde bir gelir artışı görüyorsak, bu da şirket hakkında bir diğer olumlu
+veridir.
+ALACAK DEVİR HIZI
+Şirketin yaptığı satışlar sonucunda, alacaklarını ne kadar hızlı tahsil ettiğini gösteren
+veridir. Bize şirketin, satışları ne kadar hızlı nakde çevirdiğini göstermektedir. Ne kadar
+hızlı nakde dönüşen satış varsa o kadar iyidir.
+STOK DEVİR HIZI
+Şirketin üretim sonucunda stokladığı mallarını, ne kadar hızlı satabildiğini gösteren veridir.
+
+BORÇ DEVİR HIZI
+Üretimde kullanılmak üzere, yapılan satın alımlar sonucunda doğan borçlanmanın, ne
+kadar hızlı geri ödendiğini gösteren istatistiktir. Bu oranda borçlanma devir hızı ne
+kadar yavaş ise o kadar iyidir.
+
+BORÇ / ÖZSERMAYE ORANI
+Şirketin işletme sermayesi ve yatırımları için finansman ihtiyacını, borçlarla mı yoksa öz
+sermaye ile mi karşıladığını gösterir. Ülkemiz de borçlanmanın genelde, öz sermayeden daha
+yüksek maliyetli olduğunu düşünürsek, bu oranın düşük olması tercih edilir. Bu veriye sadece
+net borçlara bakarak da ulaşmak mümkündür. Net borç, finansal borçlardan hazır değerler ve
+menkul değerler cüzdanı düşülerek bulunur.
+
+TOPLAM BORÇ/ TOPLAM KAYNAK
+Şirket borçlarının, aktif borçlar içindeki payını veren tablodur. Bu oran aktiflerin yüzde kaçının
+borçlarla finanse edildiğini gösterir. %50’nin altındaki oranlar, yatırımcı için iyidir.
+
+ÖZVARLIK KARLILIĞI
+Dönem karının öz sermaye içindeki oranına denir. Bu oranın %30 üzerinde olması yatırımcı için
+iyidir.
+
+ÖZSERMAYE BÜYÜMESİ
+Şirketin öz sermayesinin, bir önceki yılın aynı dönemine oranla, ne kadar büyüdüğünü
+tespit ettiğimiz istatistiktir. Orandaki artış, şirket ortaklarının kar paylarında artış
+olacağını gösterir.
+
+--- Sayfa 18 ---
+18
+
+KAR MARJLARI
+Brüt, faaliyet ve net kar rakamları, ne kadar yüksekse o kadar iyidir.
+
+Brüt kar oranı, şirketin faaliyet giderleri ile diğer giderlerini karşılamalı ve iyi
+bir kar bırakmalıdır.
+Net kar oranı, Şirketin net karının, net satışı içindeki payını gösterir. Oranın yüksek
+olması, şirketin faaliyetlerinin iyi gittiğini gösterir. Bu oranda ise %20 üzerindeki oranlar
+tercih edilir.
+PİYASA DEĞERİ / DEFTER DEĞERİ
+Piyasa değerinin, defter değerine oranını gösterir. Bu oranın düşük çıkması yatırımcı için
+önemlidir. Piyasa Değeri / Defter Değeri (PD/DD) oranı, işletmenin toplam piyasa değerinin,
+toplam öz kaynaklarına bölünmesiyle bulunur. PD/DD oranı bize, şirketinin hisse senedi
+fiyatının iskontolu mu, yoksa primli mi işlem gördüğü konusunda fikir verir.
+
+FİYAT KAZANÇ ORANI F/K
+En önemli değerlendirme tablolarının başında gelmektedir. Sıklıkla yatırımcının
+faydalandığı bir veridir. Bir hissenin, kazancının kaç katına satıldığını bize
+göstermektedir. f/k oranının takip edilmesi, bize hisse senenin pahalı mı, ucuz mu yoksa
+değerinde mi satıldığını gösterir. Oranın düşük çıkması tercih edilir. Tekrar söyleyelim en
+önemli verilerden biridir. Hisse senedine karar vermeden önce, mutlaka bakılması
+gerekenlerin en başında gelmektedir.
+Şimdi biz buraya kadar, temel analiz ile hisse senedi seçeceğimiz zaman, başlıca
+bakmamız gereken tabloları tek-tek yazıp anlaşılır ve sade bir şekilde açıklamaya çalıştık.
+Bunlar elbette temel analizin tamamını kapsamıyor. Bunlar dışında da daha ileri seviyede
+bir temel analize ulaşabilmek için, bakmamız gereken belli başlı tablolar çokça mevcut.
+Bunları da tek-tek, uzun-uzun ayrıca incelemek gerekir. Sık-sık belirtildiği gibi, başlangıç
+seviyesinde bir yatırımcıyı hedef alarak bu rehberi oluşturduğumuzdan dolayı, biz
+şimdilik kalan tabloları maddeler halinde liste olarak yazıyoruz. Borsaya giriş yapıp,
+öncelikle üst kısımda anlatılan tabloların tamamına hâkim olduktan sonra zaten temel
+analizin çoğuna hâkim olmuş oluyorsunuz. Bunların dışında altta maddeler halinde
+belirteceğimiz, temel analizin diğer tablolarını da araştırmada ve öğrenmede fayda
+vardır.
+
+--- Sayfa 19 ---
+19
+
+Temel analizdeki diğer tablolar;
+
+-Aktif ve öz sermaye verimliliği
+
+-Değerleme tablolarının genel değerlendirmesi
+
+-Dikey analiz
+
+-Yatay analiz
+
+-Portföy yönetiminde analiz
+
+-Değerleme yöntemleri
+
+-Temettü (kar payı, dividant) modeli
+
+-Hisse senedinin değer tanımlamaları
+
+-İşleyen teşebbüs değerleri
+
+-Tasfiye değeri
+
+-Alternatif gelir değeri
+
+-Gerçek değer
+
+Bu verileri almak için sayısız formül, sayısız analiz yöntemi bulunmakta. Unutmayın ki,
+borsa öğrendim bitti gibi bir konu değildir. Borsada ve yatırımda değişkenler çok fazla
+olduğundan dolayı, araştırma ve öğrenme asla bitmez. Borsayı en iyi bilenler hatta bu
+konuda eğitim verenler bile, hala araştırmaya ve öğrenmeye devam etmektedirler. Hiçbir
+zaman ben öğrendim diyerek hareket etmemeli ve yatırım yapılacak araca karar
+verirken, tedbiri elden bırakmamalısınız.
+
+--- Sayfa 20 ---
+20
+
+TEKNİK ANALİZ NASIL YAPILIR?
+Teknik analiz, temel analizden farklı olarak, tamamı ile rakamlar ve fiyatlarla
+ilişkilidir. Aradığınız sonuçlara teknik analizle, matematik formülleri ve özel
+göstergeler vasıtası ile ulaşırsınız. Teknik analizi oluşturan ana konulardan tek-tek
+bahsedelim;
+FİYAT GRAFİKLERİ
+Yatırım araçlarının değerlerinin belirlenmesinde, teknik analizlerde, en genel araç fiyat
+grafikleridir. Şimdi grafikler hakkında fikir sahibi olmanız için, önce bazı terimleri açıklayalım.
+
+Teknik analizin temeli bize fiyat hakkındaki her şeyi söyleyen mum grafikleridir. Teknik analize
+başlayacaksanız mum grafiklerini tam anlamıyla öğrenmelisiniz.
+
+MUM GRAFİKLERİ VE MUM FORMASYONLARI
+
+Her mumun iki rengi vardır. Kırmızı mumlar bize o gün fiyatta düşüş olduysa yani kapanış
+fiyatı açılış fiyatından daha düşük kapattıysa biz bunu kırmızı mumdan anlarız. Yeşil mum
+ise fiyatın açılış fiyatına göre daha yüksek seviyede kapattığını gösterir. Mumların altında
+veya üzerinde oluşan ince çizgiler ise fiyatın gün içerisinde ne kadar aşağıya indiğini veya
+ne kadar yukarıya çıktığını ifade eder. Teknik analizdeki işin en önemli kısmını bize
+mumlar anlatır. Bu yüzden mum formasyonları konusunda kendinizi çok iyi
+geliştirmelisiniz. Çünkü sadece mumlara bakarak bile hisse senedinin gelecekte ne yönde
+bir hareket yapacağını tahmin etmek mümkündür.
+
+--- Sayfa 21 ---
+21
+
+TREND KAVRAMI
+
+Trend kavramı, fiyatların değişim yönünü ifade eden kavramdır. Grafiklerdeki verilere bakarak
+trendin aşağı mı, yoksa yukarı mı eğilimde olacağı belirlenir. Fiyatlar genellikle her zaman
+yukarı aşağı dalgalı hareket durumundadırlar. Yatırım yapacağınız zaman, trendin ileride
+yapacağı hareketin yönünü belirlemek durumundasınız. Bunun için de fiyat grafiklerinden
+yararlanmanız gerekmektedir. Tek başına eğilimin yönünü tabi ki trend kavramına göre
+belirleyemezsiniz. Diğer grafik kavramlarını da dikkate almalısınız.
+
+--- Sayfa 22 ---
+22
+
+DESTEK VE DİRENÇ KAVRAMI
+
+Yatırım araçlarında fiyatlar, bazı zamanlar belirli noktalarda takılı kalarak geri yönlü
+hareket yaşarlar. Belirli bir fiyat çizgisini aşmakta zorluk yaşayarak, birkaç kez geri
+çekilip tekrar aynı noktayı aşma denemesi yaparlar. Yani fiyat yükseliş eğilimindeyken,
+belirli bir kritik noktayı aşamıyor veya aşmakta zorluk yaşıyorsa bu noktaya “direnç
+noktası” deniliyor. Genelde bu noktada fiyatlarda düzeltme hareketi yaşanır. Bu nedenle
+yatırımcılar fiyatın yükselmeyeceğini ve geri çekileceğini düşünerek, satış yönlü işlemler
+düşünürler.
+
+Destek kavramı ise direnç kavramından farklı olarak, trend düşme eğilimindeyken, engel
+noktalarla karşılaşır ve o noktadan tekrar birkaç defa yukarı yönlü harekete geçer. Daha
+sonra tekrar o noktaya, yani fiyata birkaç defa daha gelir ve tekrar yukarı döner. Bu
+noktalarda genellikle alım yapılır ve yükseldiğinde satış yapılarak kar elde edilir. Önemli
+olan bu noktaları grafik üzerinde belirlemeyi çok iyi öğrenmenizdir.
+
+--- Sayfa 23 ---
+23
+
+YÜKSELİŞ VE DÜŞÜŞ EĞİLİMİ
+
+Fiyat grafiklerinde en tepe ve en dip noktalar üzerinden birer çizgi çekilerek, kısa vadede
+trendin yönü hakkında fikir sahibi olmak istenir. Eğer düşmekte olan fiyatın tepe ve dip
+noktaları birleştirildiğinde, çizginin doğrultusu yukarı eğilimli harekete devam ediyorsa, trend
+yükselişe geçeceği hakkında bir düşünce ortaya çıkar İlerleyen dönemde, fiyatın yükseleceği
+yönünde olumlu bir fikir ortaya çıkar. Tam tersi ise alçalmakta olan fiyat çizgisi piyasa
+fiyatından yukarıda ise düşüş yaşanacağı yönünde fikir üretilir. Tekrar hatırlatmak gerekirse,
+sadece bu bilgi ile fiyat hakkında karar vermek yanlış olacaktır diğer kavramlardan da
+faydalanmadan karar verilmemesi gerekmektedir.
+
+--- Sayfa 24 ---
+24
+
+Trend Çizgileri: En üst tepeler birleştirerek üst trend çizgisi, en alt dipler birleştirilerek
+alt trend çizgisi bulunur. Trendlerdeki mantık, alıcıların mı yoksa satıcıların mı ağırlıklı
+olduğunu öğrenmektir. Eğer bir önceki tepe diğer tepenin altındaysa düşen bir trend söz
+konusudur.
+Eğer bir önceki tepe diğer tepenin üstündeyse yükselen bir trend söz konusudur.
+Yükselen Trend: Alıcılar
+yoğundur. Düşen Trend:
+Satıcılar yoğundur.
+Not: Eğer çizdiğimiz trend çizgisi aksi yönde kırılırsa, trendin yönünün değiştiğini
+anlarız. Yani eğer düşüş trendinde üst trend çizgisi kırılırsa yükselişin geleceğini,
+Yükseliş trendinde ise alt trend çizgisi kırılırsa düşüşün geleceğini öngörebiliriz.
+Aşağıdaki örnek gibi.
+
+Ekstra bilgi: Boğa tuzağı, düşüş trendinde seyreden fiyat hareketinin geri çekilmesinin
+sonlandığı ve yükselişe geçtiği şeklinde bir yanlış algılanma durumunu anlatır.
+
+--- Sayfa 25 ---
+25
+
+Şimdi anlattıklarımız hakkında aşağıdaki resim üzerinde tekrar açıklamaya çalışalım;
+
+Yukarıdaki grafikte gördüğünüz üzere, sol tarafta aşağı yönlü bir fiyat kanalı oluşmuş.
+Üstten ve alttan destek ve direnç noktalarını çizip bunu görebilirsiniz. Fiyat tam 3 kez
+direnç çizgisini kırmayı denemiş ve 4. Temasta direnci kırıp yükseliş pozisyonuna doğru
+hareket oluşturmaya başlamış. Bu nokta da yatırımcı alım yapmayı tercih edebilir.
+Teknik analiz bize geçmişte yaşanan hareketleri ve şu an da gerçekleşmekte olan
+hareketleri gösterir. Hiçbir zaman gelecekte ne olacağı hakkında kesin bir bilgiye sahip
+olamayız. Teknik analizde, bu grafikleri kullanarak, sadece geleceğe dair strateji
+oluşturmaya çalışabiliriz. Şimdi direnci kırıp yükseliş yönlü harekete geçen bir grafikte
+nasıl yorumlama yapacağız ona bakalım.
+
+Aşağıdaki grafikte görüldüğü üzere, destek ve direnç çizgimizi çizdiğimizde, daralan bir
+kanal görüyoruz. Sonunda yuvarlak içine aldığım kısma bakın, yukarı yönlü bir kırılma
+gerçekleşmiş, fiyatımız üst kısmı yani direnç çizgisini aşmış. Bu durumda kendimize
+sormamız gereken soru şu; Şimdi kendime beni üzmeyecek bir stop noktası belirleyip
+buradan alım yapmalı mıyım? Dilerseniz bu noktada alım yapabilir ve kendinize bir stop
+noktası belirleyip, kar etmeyi beklemeye başlayabilirsiniz.
+
+--- Sayfa 26 ---
+26
+
+Kendimize sıkışan grafiğin yukarı yönlü kırıldığı noktadan, yani 20.77’den stop fiyatı
+olarak belirlediğimizi düşünelim. Eğer fiyat bu rakamın altına düşerse, burada zararına
+satış yapmamız gerekiyor. Unutmayın ki hiçbir hisse senedine, şirkete, duygusal bağ
+kurmamalı ve grafikleri kullanarak, belirlediğiniz kar veya zarar oranına ulaştığınızda
+elinizden çıkarmalısınız. Hedef fiyatımız ne olmalı. Bunu nasıl belirleyeceğiz ona bakalım
+şimdi.
+
+--- Sayfa 27 ---
+27
+
+Hisseyi incelerken destek ve direnç noktalarını çizerek, bir kanal oluşturuyoruz.
+Gördüğünüz gibi sağ tarafta üst kısımda siyah bir çizgi çizdim. O kısım fiyatın direnç
+çizgisini kırmayı başararak, yukarı yönlü harekete geçtiği nokta ve biz bu noktada
+pozisyon almalıyız. Fakat hedef fiyatı kaç olarak belirleyeceğiz, buna nasıl karar
+vereceğiz ona bakalım. Sol tarafta yine siyah çizgi ile çizdiğim bir nokta var
+görüyorsunuz. Orası bizim destek ve direnç arasında oluşturduğumuz kanalın en derin
+kısmı. Biz bu en derin kısmı alıp, fiyatın yukarıya kırıldığı noktaya koyarak, hedef
+fiyatımızı belirleyebiliyoruz. Fakat hedef fiyat her zaman bu şekilde belirlenmeyebilir.
+Mum grafiklerinde bazı formasyonlar ortaya çıkar ve biz bu oluşan şekillere bakarak
+nasıl bir hedef belirleyeceğimize karar veririz. İşte teknik analiz yaparak ve sadece destek
+ve direnç noktalarını dikkate alarak, alım satım yapmaya karar vermek için bu yöntemi
+kullanabilirsiniz. Baştan sona sık-sık uyardığım gibi tekrar söylemekte fayda var.
+Sadece bunları yaparak, alım satım yapıp kazananlar elbette var. Fakat tek başına
+yeterli değil. Bu sadece başlangıç seviyesi için verilen bilgiler. Bilgili bir borsa
+yatırımcısı olmak istiyorsanız hem teknik analizi, hem temel analizi, tüm detayları ile
+bilmenizde yarar var.
+
+HİSSE NEREDE ALINIR NEREDE SATILIR?
+
+1-Destekte alınır, dirençte satılır.
+
+Fiyat desteğe yaklaşınca alınır. Daha önce test edilen dirence yaklaşınca (dirençte değil)
+ya da formasyon hedefine yaklaşınca (hedefinde değil) satılır. Yaklaşınca ifadesinin
+Kullanılmasının nedeni alım ya da satım aralığıdır. Tam noktada alım ya da satım
+yapamazsınız.
+
+--- Sayfa 28 ---
+28
+
+ÖRNEK HİSSE ANALİZİ
+
+Bu kısımda ise bir hisseyi tertemiz bir şekilde önünüze koyup nasıl analiz edeceğinizi,
+alış ve satış noktalarınızı nasıl belirleyeceğinizi anlatacağım.
+
+Yukarıda gördüğünüz bir şirketin haftalık fiyat grafiğidir. Her bir mum 1 haftalık
+fiyat hareketini göstermektedir. Hissede teknik analize başlarken ilk yapmanız
+gereken, tüm destek ve direnç noktalarını belirlemek olmalı.
+
+Gördüğünüz gibi fiyatın kırılıp yön değiştirdiği her noktadan bir çizgi çizerek destek ve direnç
+noktalarını tespit ettik. Daha sonra ise Düşen veya yükselen trend kanallarını tespit etmelisiniz.
+Bunu da kitabın önceki sayfalarında anlattığımız gibi tepeleri ve dipleri
+
+--- Sayfa 29 ---
+29
+
+birleştirerek buluyoruz. Aşağıdaki grafikte bu işlemi de yaptıktan sonra görüyoruz ki, fiyat
+grafiğimizde bir düşen trend tespit ettik.
+
+Burada dikkat edecek olursanız, alt kısımdaki diplerin hepsi trend kanalımızla temas
+ediyor fakat, üst kısımdaki tepeler yani dirençlerin sadece ikisi kanala temas halinde. O
+halde trend kanalımızın içinde tekrar bir işlem yapacak olursak, daralan bir düşen trend
+kanalı daha göreceğiz. Buna da takoz formasyonu deniyor. Daralan üçgende denilebilir.
+Fiyat artık sıkışmış durumda ve bu noktadan sonra, gördüğünüz gibi yukarı ya da aşağı yönde
+bir hareket yapacağını buraya bakarak anlayabiliyoruz. Hatta biraz daha dikkat ederseniz
+sıkışan fiyat, daralan bir üçgenin ucunda üst kısma doğru bir yönelme eğiliminde.
+
+--- Sayfa 30 ---
+30
+
+Sondaki dipler alt trend çizgimize dokunmuyor. Bu bizim için olumlu bir veri. Fiyatın
+yukarı yönlü kırılacağının habercisi olabilir. Burada yapmanız gerekene karar vermek
+size kalıyor.
+Fiyat henüz yukarı doğru dönmemiş ama güçlü bir belirti göstermiş. Risk alanlar buradan satın
+almayı tercih ederken, biraz daha temkinli yaklaşacaklar ise bir sonraki haftalık mumun yeşil
+olmasını yani yukarı yöne tam dönmesini görmek isteyecekler ve ondan sonra pozisyon
+alacaklardır.
+Örnek bir hisse bu şekilde analiz edilir. Fakat bu sadece başlangıç seviyesi için bir
+örnek olduğundan, hiçbir hareketli ortalamadan, indikatörden teyit alınmadan
+hazırlandı. Bu şekilde de analiz yaparak yatırım yapanlar elbette var. Yanlış değil
+ama daha sağlamlaştırmakta mümkün. Bunu geliştirmeniz ve bulduğunuz veriyi
+belli başlı göstergelerle teyit ettirmelisiniz. RSI – Fibonacci - Hacim göstergelerine
+özellikle bakın. Ayrıca fiyat grafiklerinde bazı formasyonlar vardır. Örnek
+analizimizde bulduğumuz üçgen formasyonu gibi bu formasyonların size ne ifade
+ettiğini kısaca açıklamaya çalışalım.
+
+FİYAT GRAFİKLERİNDE OLUŞAN FORMASYONLAR
+
+İkili(çift) dip formasyonu:
+
+İkili(çift) dip formasyonu sıklıkla görülebilen, güvenilen bir formasyondur. Düşüşüne
+devam eden bir fiyatın dipten dönüşüne dair sinyal veren önemli bir dönüş
+formasyonudur.
+
+--- Sayfa 31 ---
+31
+
+Çift Tepe formasyonu
+
+Fiyatın iki kez kırmayı denediği tepeleri ifade eder. Bize buradaki direncin güçlü olduğunu
+ve fiyatın bu direnci kırmakta zorluk yaşadığını gösterir. İkinci temastan sonra ise fiyatın
+hızlı bir düşüş yaşayabileceğini ifade eder. Satmak için uygun bir noktadır.
+Üçgen formasyonu:
+
+Bu formasyon örnekte işlediğimiz gibi fiyatın artık sıkışmaya başladığını ve bir yönde sert
+bir şekilde kırılarak aşağı veya yukarı yönde harekete geçeceğini ifade eder
+
+--- Sayfa 32 ---
+32
+
+Omuz baş omuz formasyonu:
+
+Obo açılımı Omuz baş omuz formasyonu olan, bir süredir devam eden trendin sonunda
+oluşan, süre bittikten sonra diğer trend dönüşüne olanak sağlayan grafik fonksiyonudur.
+Yükselen trendin sonlanmasını ve düşük bir trendin başlayacağını gösterir.
+
+BORSADA TAKAS ANALİZİ
+Borsada takas analizi herhangi bir şirkete ait hisselerin hangi kurumun takas bank
+hesabında saklandığını gösteren verilerden yola çıkılarak yapılan bir analizdir. Takas
+analizine göre en başta dikkat edilmesi gereken husus bir şirketin çoğunluk hissesini
+elinde bulunduran kurumun hesabında görülen değişimlerdir. Çünkü çoğunluğu elinde
+bulunduran aracı kurumun yaptığı hareketler hissenin yönünü belirleyen ana faktörlerden
+biridir. Bu noktada, hisse senedi miktarı ve aracı kurumun büyüklüğü de etkilidir.
+
+Bu nedenle borsada daha çok yabancıların elinde bulunan hisse senetlerine yatırım
+yapmanın daha mantıklı olduğu değerlendirilir. Çünkü aracı kurum dağılımı ve takas
+analizi sonucunda yabancı yatırımcının ağırlıkta olduğu hisselerin yükselme potansiyeli
+daha fazladır. Tam tersi durumda yabancıların satış yaptığı hisse senetlerinden de uzak
+durmak daha doğru bir davranış olabilir. Sebebi ise büyük yatırımcıların sattığı
+hisselerin daha çok düşmesidir. Takas analizi yorumlanırken belirlenen aralıktaki alım
+ve satımlar dikkate alınmalı ve mutlaka aracı kurum dağılımı ile birlikte
+değerlendirmelidir.
+
+--- Sayfa 33 ---
+33
+
+Temel ve teknik analizden, giriş seviyesine uygun olacak şekilde bahsetmeye çalıştık.
+İkisine de hâkim olmanız, sizlere çok fazla avantaj sağlayacaktır. Buraya kadar borsa kavramını
+öğrendik. Hisse senetleri nedir, piyasalar nelerden etkilenir, bunları öğrendik. Temel ve teknik
+analizden bahsettik. Şimdi de borsaya girerken ve hisse senedi seçerken, işinize yarayacak,
+aklınızdan çıkarmamanız gereken tavsiyelerden maddeler halinde bahsedelim.
+Neden borsada yatırım yapılır?
+
+Borsaya yatırdığınız para sizi uykunuzdan etmemeli. Evinizi, arabanızı satıp
+borsada değerlendirmeye çalışmayın. Borsanın alternatif yatırım aracı olduğunu
+unutmayın.
+Hangi sektörde yatırım yapılmalıdır?
+Neye ne sebeple yatırım yaptığınızı bilmelisiniz. Unutulmamalıdır ki, fiyatlar hisse
+senetleri, sektörlere bağlıdır. Sektörün durgun olduğu bir dönemde, o sektöre ait bir
+firmaya yatırım yaparsanız, uzun süre beklemek durumunda kalabilirsiniz.
+Yatırım yaptığım şirketin sahibi kimdir? Yönetim şekli nasıldır?
+Yatırımcısını koruyan bir anlayışa sahip birimi. Şirketin sahibi şirketin işleri iyi
+giderken, büyümeye devam ederken yatırımcısını düşünmeden, hisse yükseldiğinde,
+firma hisse satıyorsa, bedelli sermaye arttırışı yapmaya çalışıyorsa, bu patron
+yatırımcısını düşünmüyor demektir.
+
+Hissenin son dönem takasları nasıldır?
+Yabancının yavaş-yavaş ilgisini çekmeye başlayan hisseler, genelde yatırımcısına çok
+fazla kazandırmıştır. Bu sebeple takas analizi bu işin önemli detaylarından birisidir.
+Yatırım yapılacak şirketin toplam borçlarının, toplam varlıklarına oranı nedir?
+Şirketler için büyük faizlerle alınan borçlar risk barındırır. Sektör ortalamasının
+üzerinde borçlanmaya sahip şirketler risk barındırır. Borçluluk oranı sektörden
+sektöre değişse de borçlanma oranının, varlıkların %60’ını geçmemesi tercih edilir.
+Şirketin ciro artışı nasıl?
+Ciro artışı çok önemlidir. Bize şirketlerin ne kadar iş yaptığını ve şirketin pazardaki payını
+gösterir. Mesela enflasyonun %10 olduğu bir zamanda, şirketin cirosundaki büyüme %25-
+35 civarında ise, o şirket yükselişte demektir. Buda bize güven verir.
+
+--- Sayfa 34 ---
+34
+
+Şirketin Pazar payı nasıldır?
+Bir şirketin pazar payı önemlidir. Pazar payı geçen yıl %10 olan bir firmanın bu yıl Pazar payı
+%15-20 civarına çıkmışsa, şirket çok iyiye gidiyor demektir. Buda bize seçim
+yaparken olumlu bir sonuç verir.
+Şirket cirosunun iç pazar ve dış pazar dağılımı nasıldır?
+İhracat dengesine bakma sebebimiz, Özellikle döviz kuru yükseldiği zamanlarda ihracat oranı
+yüksek olan şirketler, bu kur yükselişinden diğer şirketlere göre daha az zarar görürler.
+
+Şirketin hisse başına yaptığı kar nasıldır?
+Şirket her sene hisse başına düşen kar oranı artan bir şirket ise, kesinlikle yatırım
+yapmaya değer bir şirkettir.
+Esas faaliyet karı ne kadar?
+Şirket karını yüksek oranda arttırmış olabilir fakat o dönemde bu karı şirket yaptığı bir
+arsa satışından mı elde etmiş, bir varlık mı satmış, yoksa yaptığı işler sonucunda elde
+ettiği kar mı, buna dikkat etmek gerekir. Esas faaliyet karı %80 altına düşmemelidir.
+Temettü verimliliği ve anlayışı nasıldır?
+Temettü veren şirketlerin yatırımcıya katkısı yüksektir. Bazı şirketler bu temettüyü dağıtmayıp
+bunu yatırımlarda kullanabilir. Buda yine yatırımcı için iyi bir şeydir. Yeter ki şirket parayı neye
+harcamış objektif olarak yatırımcısına açıklasın.
+
+Şirketin öz sermayesi nasıldır?
+Öz sermayesi güçlü olan şirketler güven verir. Kriz dönemlerinde ayakta kalmayı
+başarırlar. Piyasa değerinin üzerinde öz sermayesi olan şirketlerin, yüksek potansiyelli
+olduğunu anlayabiliriz.
+F/K oranı nasıldır?
+Yüksek f/k ve düşük f/k oranlarını incelemek zorundasınız. Mantık şudur;
+
+Şirketlerde f/k oranı piyasa değerinin son bir yıllık kara bölünmesi sonucu ortaya
+çıkacak sonuca denir. Mesela fiyat kazanç oranı 10 ise, bizim bu şirkete 1tl kar elde
+etmek için 10tl ödemeyi kabul etmiş olacağımızı gösterir. Bizim için önemli olan oran
+nedir? Sektörün f/k ortalamasına bakmalıyız. F/K oranını kontrol ederken esas faaliyet
+karına ve sektörün ortalamasına dikkat etmek gerekir.
+
+--- Sayfa 35 ---
+35
+
+Ciro ve piyasa değeri dengesi nasıl olmalıdır?
+Cironun altında piyasa değeri olan şirketler pek güven vermez ve tercih etmemekte
+fayda vardır.
+
+Öz sermaye karlılığı ve yıllık aktif büyüme nasıldır?
+Öz sermaye karlılığı yüksek olan şirketlerin hisseleri değerlidir. Öz sermaye karlılık oranı
+%25’lerin altına düşmüyorsa şirketin hisselerinin değerli olduğunu bize gösterir. Şirket aktif
+büyümesi yıldan yıla düşen şirketlerden uzak durmak gerekir.
+
+Cari oran ve şirketin likit gücü nasıldır?
+Cari oranı 1,5 üzerinde olan şirketler tercih edilmelidir. Şirketlerin likit gücü ise
+piyasadaki hamle güçleri anlamına gelmektedir. Bu sebeple cari oran ve likit gücü
+yüksek şirketler tercih edilmelidir.
+Duran varlık dengesi nasıldır?
+Şirketlerin yatırım yapıyor ise duran varlıkları artmaktadır. Buda şirketin güçlenmeye
+devam ettiğini bize gösterir. Olumlu yönde bir gelişmedir.
+Hissenin teknik görünümü nasıldır?
+Şirket düşen bir trende sahip ise, trend dönmeden ve grafik yükseliş kanalına dönmeden,
+alım yapmak tehlikelidir. Kimse ne kadar daha düşmeye devam edeceğini tahmin
+edemez.
+Şirketin yatırımcının gözünde piyasa algısı nasıldır?
+Herkesin aynı görüşte birleştiği bir hissede para kazanmak zordur. Hisse senedinin bir hikayesi
+olmalı ve hisse senedinin bu hikâye ile kendine yatırımcıyı çekmesi gerekir. Mesela, Türkiye yerli
+otomobil çıkaracak ve projeye katılan bir firma bunu piyasaya duyuruyor. Bu şirketin burada
+bir hikayesi başlıyor. Yerli otomobil hikayesi ile yatırımcı bu şirketi fark etmeye ve tercih etmeye
+başlayacak. Buda hisse senetlerinin yükselişe geçmesine sebep olacaktır.
+
+İşte bir yatırım yapacağınız zaman, temel ve teknik analizi bir arada kullanarak,
+madde-madde bu soruların cevaplarını arayarak, doğru hisseyi seçebilir ve yatırım
+yapma konusunda emin adımlar atabilirsiniz.
+
+--- Sayfa 36 ---
+36
+
+TEKNİK ANALİZDE FAYDALANILAN ÖNEMLİ PROGRAMLAR VE GÖSTERGELER
+
+Temel analiz yaparken mali tablolara nereden bakacağız?
+
+Benim tabloları incelemek için kendi kullandığım Osmanlı yatırımın sitesine girerek bir
+kayıt oluşturabilir, e-şube yazan kısımdan giriş yaparak tüm şirketlerin bütün mali
+tablolarına oradan ulaşabilirsiniz. Dilerseniz arama motoruna ilgili şirketin ismini
+yazarak, internette farklı sayfalardan da bu mali tablolara ulaşabilirsiniz.
+Ayrıca KAP’ın resmî sitesine girerek de yine tüm mali tablolara ulaşabilirsiniz.
+
+Matriks Veri Terminali;
+
+Türkiye Finans Piyasaları için veri izleme, analiz ve işlem olanağını tek programda bir
+araya getiren, sermaye piyasası veri izleme ve işlem platformudur. Ücretli olması sebebi
+ile alternatif analiz seçeneklerinden de bahsedeceğim.
+
+Veri analizi yapmak destek ve direnç çizgilerinizi oluşturmak ve trend kanallarını bulmak için
+ücretsiz bir şekilde investing.com sitesinin endeks grafikleri kısmını kullanabilirsiniz.
+
+Tradingview: Ücretsiz bir veri analiz programıdır. Ücretli versiyonu da vardır. Ücretsiz
+versiyonunda 3 indikatöre kadar eklemeniz mümkündür. Mobil uygulaması da mevcuttur.
+Analiz yapmak için faydalanabileceğiniz programlardan biridir. İnvesting.com un grafik
+bölümüne göre biraz daha donanımlıdır.
+
+İndikatörler(göstergeler):
+Teknik analiz göstergeleri ‘indikatör’ olarak da adlandırılır. Hisse senetleri ile ilgili al ya da
+sat sinyali vererek yatırımcılara yardımcı olan göstergelerdir. İndikatörlerin
+hesaplanmasında fiyat verileri ve hacim verileri kullanılır. Tek başlarına alım satım için
+kullanmak her zaman doğru sonuçlar vermeyebilir. Fakat çok fazla indikatör kullanmak
+da yanlış sonuç doğurabilir.
+
+--- Sayfa 37 ---
+37
+
+BAŞLICA İNDİKATÖRLER:
+
+RSI (Relative Strength Index)
+RSI indikatörü 0 ila 100 arasında değer alır. Gösterge çizgisinin aşırı alım-satım bölgelerine
+yaklaşması işlem sinyali olarak kabul edilir. Satış işlemine başlamak için uygun seviye 75, alış
+gerçekleştirmek içinse 25’tir.
+
+75 seviyesi aşırı alım sınırı 25 seviyesi ise aşırı satım sınırı olarak kabul edilir.
+RSI osilatörünün 9 ve 14 günlük kullanımı oldukça yaygındır. RSI fiyat
+değişimine bağlı olduğundan indikatör yalnızca her kapanış fiyatından sonra
+net işlem sinyali verebilir. Fiyatlar yeni zirve yapıyorken, RSI yeni zirve
+yapmıyorsa ve işlem hacmi giderek azalıyorsa bu durum trendin döneceğine bir
+işarettir. Düşüş eğiliminde ise aynı varsayımlar aksi yönde uygulanmaktadır.
+
+Hareketli Ortalamalar (Moving Average)
+Hareketli ortalama basit bir yapıya sahiptir ve bu sebeple piyasa katılımcılarının en sık
+kullandığı teknik göstergeler arasında yer alır. Hareketli ortalama ilgili ürünün belli zaman
+aralığındaki fiyat değişimlerinin ortalamasını ifade eder. Hareketli ortalamalar eğilimin genel
+yönünü gösterir. Fakat bu indikatörlerin tek eksik tarafı, fiyat değişimlerini yakalayamamasıdır.
+
+Hareketli ortalama kullanılırken analiz edilen periyod ne kadar uzunsa o kadar kısa
+süreli hareketli ortalama seçilmelidir. Seçilen süre ne kadar kısaysa hareketli ortalama
+fiyat değişimlerine o kadar hızlı tepki verir. Süre çok büyük seçilmişse indikatör çok
+sayıda yanlış sinyal verebilir.
+
+Hareketli ortalama yorumlanırken, fiyatlar ortalamanın üzerinde veya altında olduğu
+sürece mevcut trendin devam edeceği ihtimali yüksektir. Fiyat çizgisi ortalamayı
+kırdığında ise, kapanış fiyatları ortalama çizgisinin karşı tarafına geçmişse eğilimin aksi
+yönde değişeceği ihtimali güçlenir.
+
+Teknik analiz yaparken 50-100 ve 200 günlük hareketli ortalamaları analizinize
+eklerseniz en doğru sonuçlara ulaşabilirsiniz. Bu göstergelerin hepsi hazırdır. Analiz
+yaptığınız programdaki gösterge seçeneklerinden istediğiniz göstergeyi fiyat grafiğinize
+ekleyebilirsiniz.
+
+--- Sayfa 38 ---
+38
+
+Bollinger Bandı (Bollinger Bands)
+Trend yönü hakkında da bilgi veren Bollinger bantlarının kesişmesi, mevcut trende
+aksi yönde düzeltme hareketi oluşacağının sinyalidir. Fakat fiyat dalgalanmaları
+bollinger bantlarının arasında kaldığında, piyasanın önüne dair kesin bir şey
+söylemek söz konusu değildir. Bollinger bantlarının, daralması durağan bir piyasa
+olduğuna işaret ederken, bantların kesişmesi ise, piyasada bir düzeltme hareketinin
+olacağına dair erken sinyaldir. Orta Bollinger çizgisi düşüş hareketlerinde trend
+direnç çizgisi, yükselme eğiliminde ise trend destek çizgisi olarak takip edilebilir.
+Bollinger bantları ile işlem kararı, fiyat yalnızca alt veya üst bandı kırdığında alınır.
+Fiyat dalgalanmaları bantlar arasında kaldığı sürece piyasanın yönüyle ilgili kesin
+sinyal belirlenemez.
+
+Fibonacci
+
+MACD (Moving Average Convergence
+Divergence) CCI (Commodity ChannelIndex)
+Stochastic İndikatörü (Stochastic Oscillator)
+
+Kullanmak istediğiniz indikatör hakkında detaylıca bir araştırma yapmanızı tavsiye
+ederim. Borsaya giriş seviyesi için hazırlanan bu kitapta, sadece isimlerini paylaşıyorum.
+Her biri çok fazla örnek ve inceleme ile anlatılması gerekiyor. Bu sebeple kafa
+karışıklığına sebep vermemek için şimdilik liste halinde isimlerinin bulunması yeterli
+olacaktır.
+
+--- Sayfa 39 ---
+39
+
+ARACI KURUM SEÇERKEN DİKKAT EDİLMESİ GEREKENLER
+
+Borsada aracı kurum nasıl seçilir? Seçerken nelere dikkat edilir?
+Aracı kurumları ikiye ayırıyoruz. Bankalar ve Özel yatırım
+şirketleri
+Bankalar
+Bankalardan işlem yapmanın özellikleri şunlardır. Yatırım hesabı açmak kolaydır.
+Komisyonlar özel yatırım şirketlerine göre daha yüksektir. Sizin ile ilgilenecek özel bir
+yatırım danışmanına ulaşmanız özel yatırım şirketlerine göre biraz daha zordur.
+Özel yatırımcı şirketler
+Özel yatırım şirketleri hakkında, en çok sorulan soruların başında gelen soru şu. Eğer
+yatırım için kullandığım aracı kurum batarsa ne olur? Sizin aldığınız bütün şirketler,
+merkezi kayıt kuruluşuna bağlı olduğu için, sizin hissenize hiçbir şey olmuyor. Eğer
+nakdiniz yatırım şirketinde duruyorsa, henüz hisse almadıysanız yine bir şey olmaz. O
+zamanda devlet sizin paranızı koruma altına alıyor.
+Komisyonlar
+Komisyon, aracı yatırım kuruluşu seçiminde en çok araştırılan konu olmasına rağmen,
+aslında o kadar da üzerinde durulmasına gerek yoktur. Önemli olan konu, yatırım
+danışmanınız ne kadar iyi. Size ne kadar iyi araştırılmış veriler sunuyor. Eğer size iyi
+kazandırıyorsa, size günlük ulaştırdığı verilerin doğruluk yüzdesi yeterince yüksek ise,
+zaten ödediğiniz komisyonun çok da önemi kalmıyor. Önemli olan yatırım şirketinin ara
+yüzü kullanışlı mı? Mobil uygulaması yeterince kullanılabilir mi? ve size yaptığı
+danışmanlıktan fayda görüyor musunuz?
+
+Borsa hakkında hazırlamış olduğum bu e-kitabın sonuna gelmiş bulunuyorsunuz. Buraya
+kadar okuduğunuz bilgileri bir yol haritası gibi kullanarak, kendi hisselerinizi seçip analiz
+edebilirsiniz. Hem de hiçbir yardım almadan bunu yapmanız mümkündür.
+
+--- Sayfa 40 ---
+40
+
+BORSA TERİMLERİ SÖZLÜĞÜ
+
+Açılış Seansı / Opening Session
+Belirli bir zaman dilimi boyunca emirlerin herhangi bir eşleşme yapılmaksızın Alım- Satım Sistemi’ne
+(Sistem) kabul edildiği ve bu süre sonunda en yüksek miktarda işlemin gerçekleşmesini sağlayan tek bir
+fiyat seviyesinin (Açılış Fiyatı) hesaplanarak, tüm işlemlerin bu fiyat seviyesinden gerçekleştirildiği tek
+fiyat yöntemiyle çalışan özel bir seans uygulamasıdır.
+
+A Tipi Yatırım Fonu/ Ortaklığı / A Type Mutual Fund/Investment Trust Fon
+İç tüzüklerinde /esas sözleşmelerinde asgari sınırları belirtilmek kaydıyla, portföy değerinin en az %25’ini
+devamlı olarak mevzuata göre özelleştirme kapsamına alınan kamu iktisadi teşebbüsleri dahil Türkiye’de
+kurulmuş ortaklıkların hisse senetlerine yatırmış fonlar/ortaklıklar A tipi fon/ortaklık olarak adlandırılır.
+Acente Agent Aracı kurum ile imzalanan acentelik sözleşmesi çerçevesinde, sermaye piyasası
+araçlarına ilişkin alım ve satım emirlerinin aracı kuruma iletilmesine ve gerçekleşen emirlerin tasfiyesine
+aracılık eden bankalardır.
+
+Açığa Satış / Short Selling
+Sahip olunmayan menkul kıymetlerin ödünç alınmak sureti ile satılmasıdır.
+
+Ağırlıklı Ortalama Fiyat / Weighted Average Price
+Bir sonraki seansa ait baz fiyatın hesaplanmasına esas teşkil eden hisse senedinin miktar ağırlıklı ve
+küsuratız fiyatıdır.
+
+Alım Satıma Aracılık / Intermediation For Trading in Securities
+Daha önce ihraç edilmiş sermaye piyasası araçlarının aracılık sıfatıyla ve ticari amaçla alım satımını
+ifade eder.
+
+Apel Cash / Call for the unpaid portion of capital
+Pay bedelinin taksitle ödenmesinin söz konusu olduğu durumlarda, ortaklık yönetim kurulu tarafından
+ortaklara yapılan çağrıya denir.
+
+Aracı Kuruluş / Financial Intermediary (Institution)
+Sermaye piyasası faaliyetlerinde bulunmak üzere Sermaye Piyasası Kurulu’nca yetkili kılınmış bankalar
+ve aracı kurumlardır.
+
+--- Sayfa 41 ---
+41
+
+Aracı Kuruluş Varantları / Intermediary Institutions’ Warrants
+Elinde bulunduran kişiye, dayanak varlığı ya da göstergeyi önceden belirlenen bir fiyattan belirli bir
+tarihte veya belirli bir tarihe kadar alma veya satma hakkı veren ve bu hakkın kaydi teslimat ya da nakit
+uzlaşı ile kullanıldığı menkul kıymet niteliğindeki sermaye piyasası aracını ifade eder.
+
+Aracı Kurum / Brokerage House
+Sermaye piyasası faaliyetinde bulunmak üzere Sermaye Piyasası Kurulu tarafından aracılık yetkisi
+verilmiş anonim ortaklıklardır.
+
+Aracılık / Financial Intermediation
+Sermaye piyasası araçlarının, yetkili aracı kuruluşlar tarafından, kendi nam ve hesabına, başkası nam
+ve hesabına, kendi namına ve başkası hesabına alım satımıdır.
+
+Aracılık Yüklenimi / Underwriting
+Halka arz edilecek sermaye piyasası araçlarının tamamının satılacağının aracı kuruluş veya kuruluşlar
+tarafından ihraçcı şirkete taahhüt edilmesidir. İki türlü olur: bakiyeyi yüklenim veya tümünü yüklenim.
+
+Arbitraj / Arbitrage
+Fiyat farklarından yararlanmak amacıyla para, kıymetli maden, tahvil ve hisse senedi alıp satma
+işlemidir.
+
+Ayı Piyasası / Bear Market
+Gelecek hakkında karamsarlığın ve fiyatların düşeceği beklentisinin hâkim olduğu piyasalardır. Bu
+piyasalarda kişiler ellerindeki hisse senetlerini gelecekte daha düşük fiyattan satın alabilecekleri
+düşüncesi ile satarlar.
+
+Bağımsız Dış Denetim / Independent External Auditing
+Ortaklıkların ve sermaye piyasası kurumlarının kamuya açıklanacak veya Sermaye Piyasası Kurulu’nca
+istenecek mali tablolarının, genel kabul görmüş muhasebe kavram ilke ve standartlarına uygunluğu ile
+bilgilerin doğruluğunun ve gerçeği dürüst bir biçimde yansıtıp yansıtmadığının, denetçiler tarafından
+denetim ilke ve kurallarına göre, defter, kayıt ve belgeler üzerinden incelenmesini ve tespit edilen
+sonuçların rapora bağlanmasını ifade eder.
+
+Bakiyeyi Yüklenim / Stand-by Underwriting
+Sermaye piyasası araçlarının, aracı kuruluşlarca halka arz yoluyla satışında, satılmayan kısmın
+tamamının, bedeli satış süresi sonunda tam ve nakden ödenerek satın alınacağının satışı yapana karşı
+taahhüt edilmesini ifade eder.
+
+--- Sayfa 42 ---
+42
+
+Banka Bonoları / Bank Bills
+Kalkınma ve Yatırım Bankalarının borçlu sıfatıyla düzenleyip, ihraç ettikleri emre veya hamiline yazılı bir
+sermaye piyasası aracıdır.
+
+Banka Garantili Bonolar / Bank Guaranteed Bills
+Kalkınma ve Yatırım Bankalarından kredi kullanan ortaklıkların, bu kredilerin teminatı olarak borçlu
+sıfatıyla düzenleyip, alacaklı bankaya verdikleri emre muharrer senetlerden, bu krediyi kullandırmış olan
+bankaca kendi garantisi altında ihraç edilen bir sermaye piyasası aracıdır.
+
+Baz Fiyat / Base Price
+Bir hisse senedinin seans içinde işlem görebileceği üst ve alt fiyat limitlerinin ve fiyat adımlarının
+belirlenmesine esas teşkil eden fiyattır.
+
+Başlangıç Sermayesi / Initial Capital
+Kayıtlı sermaye sistemine tabi ortaklıkların sahip olmaları zorunlu asgari çıkarılmış sermayeleridir.
+
+Başlangıç Teminatı / Initial Margin
+Vadeli işlem sözleşmesinde uzun veya kısa pozisyonalan yatırımcının pozisyon açarken yatırması
+gereken teminattır.
+
+Bedelli Sermaye Artırımı / Capital Increase Through Rights Issues
+Şirketlerin sermaye artırımı karşılığında çıkardıkları hisse senetlerini nominal değerinden veya daha
+yüksek bir fiyattan satmak suretiyle gerçekleştirdikleri sermaye artırımlarına denir. Söz konusu hisse
+senetleri ortaklara satılabileceği gibi (rüçhan hakkının kullandırılması), ortaklar dışındaki yatırımcılara da
+satılabilir. (rüçhan haklarının kısıtlanması). Bedelli sermaye artırımına katılım bedeli belli bir süre ile
+sınırlıdır.
+
+Bedelsiz Sermaye Artırımı / Capital Increase Through Bonus Issues
+Anonim ortaklıkların, iç kaynaklarından yaptıkları sermaye artırımı karşılığı çıkardıkları hisse senetlerini
+bir bedel almaksızın ortaklarına dağıtarak gerçekleştirdikleri sermaye artırımlarıdır. Bedelsiz hisse
+senedi alma hakkı bir süre ile sınırlandırılamaz.
+
+Birincil Piyasalar / Primary Market
+Menkul kıymetleri ihraç eden şirketler ile tasarruf sahiplerinin doğrudan doğruya karşılaştıkları
+piyasalardır. Diğer bir anlatımla, menkul kıymetlerin ihraçcı kuruluşlarca tasarruf sahiplerine ilk kez
+satışa sunulduğu piyasalardır.
+
+--- Sayfa 43 ---
+43
+
+Blok Satış / Block Sale
+Emir miktarı şirketin ödenmiş/çıkarılmış sermayesinin %10’unu aşan satış işlemidir.
+
+Boğa Piyasası / Bull Market
+Talebin arzdan daha çok olduğu ve borsada fiyatların tırmanışa geçtiği dönemi ifade eder.
+
+Borsa Eksperleri / Stock Exchange Experts
+Menkul kıymetlere ilişkin alım-satım emirlerinin ilgili iç yönetmelikte belirtilen esaslara göre
+karşılaştırılması ile fiyatların teşekkülünü izleme ve alım satım işlemlerinin sonuçlandırılmasını
+sağlamakla yükümlü olan görevlilerdir.
+
+Borsa Emirleri / Stock Exchange Orders
+Müşteri emirleri, aracı kurum üye temsilcileri tarafından seans içinde borsa bilgisayar sistemine
+aktarıldığında borsa emrine dönüşür.
+
+Borsa Fiyatı / Stock Exchange Price
+Borsada belirli kurallara göre işleyen organize pazarlarda işlem gören menkul kıymetlerin, borsadaki arz
+ve talep koşullarına göre oluşan fiyatıdır.
+
+Borsa Payı Exchange / Transaction Fee
+Borsa üyelerinin, Borsa’da gerçekleştirdiği işlem hacmine göre hesaplanarak Borsa’ya ödenen meblağ
+olup Borsa Yönetim Kurulu’nca belirlenir.
+
+Borsa Üyeleri / Stock Exchange Members
+Sermaye Piyasası Kurulu’ndan yetki belgesi ve Borsa’dan üyelik belgesi almış aracı kuruluşlardır.
+
+İkinci Ulusal Pazar (Kot Dışı Pazar) / Second National Market
+Kotasyon Yönetmeliği’ndeki kotasyon koşullarını sağlayamayan şirketler ile gelişme ve büyüme
+potansiyeli taşıyan Küçük ve Orta Ölçekli İşletmelerin (KOBİ) sermaye piyasalarından kaynak temin
+etmelerine olanak sağlamak, söz konusu şirketlerden Borsa Yönetim Kurulu'nca Borsa'da işlem görmesi
+uygun görülenlerin hisse senetlerine likidite sağlamak ve bu hisse senetlerinin fiyatlarının düzenli ve
+şeffaf bir piyasada, rekabet koşulları içinde oluşmasını temin etmek amacıyla kurulan pazardır.
+
+Broker (Bkz. Üye Temsilcisi)
+Borsamız mevzuatında Üye temsilcisi kavramı kabul edilmiş olduğundan tanım “Üye Temsilcisi” maddesi
+altına alınmıştır.
+
+--- Sayfa 44 ---
+44
+
+Çapraz İşlem / Cross Trade
+İşlemin alıcı ve satıcı tarafının aynı üye olması durumunu ifade eder. Bu şekilde işlem oluşturmaya
+yönelik emirler (Cross Orders), belirli kurallar dahilinde işlleme tabi olurlar.
+
+Çıkarılmış Sermaye / Issued Capital
+Kayıtlı sermaye sistemine tabi ortaklıkların satışı yapılmış hisse senetlerini temsil eden sermayeleridir.
+
+Çok Fiyat-Sürekli Müzayede Sistemi / Multiple Price Continuous Auction Method
+Çok fiyat yöntemi; bir menkul değer için verilen alım satım emirlerinin fiyat ve zaman önceliği kurallarına
+uygun olarak teker teker karşılaştırılması sonucunda oluşan fiyatlarla alım satım işleminin
+gerçekleştirilmesidir.
+
+Defter Değeri / Book Value
+İşletmenin aktif toplamından, borçlarının düşülmesi ile bulunan özvarlığının, çıkarılmış/ödenmiş hisse
+senedi sayısına bölünmesi ile bulunur.
+
+Depo Sertifikası / Depositary Receipt
+Yerel bir saklama kuruluşunda depo edilen yabancı menkul kıymetleri temsilen çıkarılan ve bu menkul
+kıymetlerin verdiği hakları aynen sağlayan, bunlara özdeş, hamiline yazılı, nominal değeri temsil ettiği
+yabancı menkul kıymetin para birimi cinsinden ifade edilen sermaye piyasası aracıdır.
+
+Devlet İç Borçlanma Senetleri / Government Debt Securities
+Devletin cari yıl bütçe kanununa dayanarak, bütçe açıklarının finansmanı amacıyla çıkarmış olduğu
+borçlanma senetlerinin genel adıdır.
+
+Devlet İç Borçlanma Senetleri Endeksleri / Government Debt Securities Indices
+Bu tür menkul kıymetlere yatırım yapanlarının kıymetleri fiyat ve getirilerindeki gelişmeleri basit ve
+anlaşılabilir göstergeler yardımıyla izleyebilmelerini sağlamak amacıyla oluşturulmuşlardır. Ayrıca
+yatırımcıların sabit getirili menkul kıymetlere yaptıkları yatırımlar ile diğer yatırım seçenekleri arasında
+kolay karşılaştırma yapabilmelerini sağlar.
+
+Devre Kırıcılar / Circuit Breakers
+Menkul kıymet borsalarında piyasanın belirlenen bir süre içerisinde, belirlenen bir seviyede düşüş
+göstermesi durumunda, hisse senedi ve vadeli endeks piyasalarında, alış ve satış emirlerindeki
+dengesizlik nedeniyle oluşabilecek aşırı düşüşlerin önlenebilmesi amacıyla, işlemlerin geçici olarak
+durdurulması uygulamasıdır.
+
+--- Sayfa 45 ---
+45
+
+Dışarıda Yerleşik Kişi / Non- Resident
+Türk Parası Kıymetini Koruma mevzuatına göre Türkiye'de yerleşik sayılmayan gerçek veya tüzel kişidir.
+(Bkz. Türkiye’de Yerleşik Kişi)
+
+Emir Bölme / Order Split
+Girilen bir emrin, orijinal emrin fiyatına eşit ya da orijinal emrin fiyatından daha iyi fiyatlı yeni emirlere
+bölünmesidir. Emir bölünmesi gerçekleştirildiğinde, bölünen emirlerin toplam miktarının (toplam emir
+miktarının) ilk miktara eşit veya daha büyük olması zorunludur.
+
+Emir İyileştirilmesi / Order Improvement
+Alış emirlerinde fiyatların yukarıya, satış emirlerinde aşağıya çekilerek fiyat önceliğinin değiştirilmesidir.
+
+Emisyon Primi / Premium on Issued Shares
+Ortaklıkların hisse senetlerini nominal değerinin üzerinde bir fiyatla ihraç etmeleri sonucunda satış fiyatı
+ile nominal değer arasında oluşan farktır. Primli hisse senedi ihraç edilmesi halinde oluşacak emisyon
+primleri vergiye tabi olmaktadır.
+
+En İyi Gayret Aracılığı / Best Effort Underwriting
+Halka arz edilecek sermaye piyasası araçlarının izah namede gösterilen satış süresi içinde satılmasını,
+satılmayan kısmın ise ihraçcıya iadesini ifade eder.
+
+Eurotahvil / Eurobond
+İhracı yapan ülkenin kendi para birimi dışındaki bir döviz cinsinden ve uluslararası bir konsorsiyum
+aracılığı ile bir banka ve/veya Sendikasyonu tarafından birden fazla ülkede eşanlı olarak ihraç edilen,
+genellikle hamiline kayıtlı tahvillerdir.
+
+Fark Sözleşmesi / CFD-Contract for Differences
+İki taraf (alıcı ve satıcı) arasında yapılan bir sözleşmedir ve buna göre bir varlık dayanak/referans kabul
+edilerek sözleşme tarihindeki değer ile varlığın cari değeri arasındaki fark, satıcı tarafından alıcıya
+ödenir. Eğer fark negatif ise o zaman ters yönde (alıcıdan satıcıya) bir ödeme söz konusudur. Diğer bir
+deyişle hisse senedi, tahvil, bono, future, opsiyon, faiz oranı vb. bir yatırım aracının açılış ve kapanış
+değeri arasındaki farkın alıcı-satıcı arasında ödeneceğini hükme bağlayan bir sözleşmedir.
+
+Fesih / Abolition
+Ortaklık faaliyetlerinin esas sözleşme şartlarına bağlı olarak ya da kanunlarda belirtilen şartlardan birinin
+gerçekleşmesi halinde sona erdirilmesidir. Sözkonusu durum gerçekleştiğinde Ortaklık hisse senetleri
+Borsa kotundan da çıkarılır.
+
+--- Sayfa 46 ---
+46
+
+Finansman Bonoları / Commercial Papers
+İhraççıların borçlu sıfatı ile düzenleyip ihraç ettikleri emre veya hamiline yazılı kısa vadeli sermaye
+piyasası aracıdır.
+
+Fiyat Adımı / Price Increments
+Her hisse senedi fiyatı için bir defada gerçekleşebilecek en küçük fiyat değişimidir.
+
+Fiyat Endeksleri / Price Indices
+Hisse senetlerinin fiyatlarındaki değişimleri dikkate alarak hesaplanan endekslerdir.
+
+Fiyat Kotasyonu Vermek / Price Quotation
+Piyasa yapıcının görevli olduğu sermaye piyasası aracında seans sırasında ilan ettiği alış ve satış
+fiyatıdır.
+
+Fiyat Marjı-Fiyat Aralığı / Price Range
+Her hisse senedi için, seans içinde önerilebilecek en düşük ve en yüksek fiyatlar o hisse senedi için fiyat
+marjını oluşturur. Mevcut uygulamada bu limitler baz fiyatın %10 altı ve üstüdür.
+
+Fiyat Önceliği / Price Priority
+Hisse Senetleri Piyasası’nda daha düşük fiyatlı satım emirlerinin, daha yüksek fiyatlı satım emirlerinden;
+daha yüksek fiyatlı alım emirlerinin, daha düşük fiyatlı alım emirlerinden önce karşılanmasını ifade eder.
+
+Forward İşlemler / Forward Transactions
+Anlaşılan miktar ve fiyattan belirli bir tarihte belli bir ürünün teslim edilerek karşılığının ödeneceğinin iki
+tarafın birbirine taahhütte bulunmasıdır.
+
+Futures Piyasaları / Futures Markets
+Fiyat dışındaki şartları standartlaştırılmış bir vadeli (forward) sözleşmenin işlem gördüğü piyasalardır. Bu
+piyasalarda sözleşmeye konu teşkil eden ürün kontrat şartlarına uygun olarak ileri bir teslimat tarihinden
+alınıp satılmaktadır.
+
+Gayrimenkul Sertifikaları / Real Estate Certificates
+İhraççıların bedelleri inşa edilecek veya edilmekte olan gayrimenkul projelerinin finansmanında
+kullanılmak üzere ihraç ettikleri, değerleri birbirine eşit, hamiline yazılı menkul kıymettir.
+
+Gayrimenkul Yatırım Ortaklıkları / Real Estate Investment Trusts
+Gayrimenkuller ve gayrimenkule dayalı sermaye piyasası araçlarından oluşan portföyü işleten ve
+gayrimenkule dayalı projelere yatırım yapan sermaye piyasası kurumlarıdır.
+
+--- Sayfa 47 ---
+47
+
+Gelir Ortaklığı Senetleri / Revenue Sharing Certificates
+Köprü, baraj, elektrik santralı, karayolu, demiryolu, telekomünikasyon sistemleri ile sivil kullanıma yönelik
+deniz ve hava limanları ile benzerlerinden, kamu kurum ve kuruluşlarına ait olanlarının gelirlerine, ortak
+olunması için çıkarılan senetlerdir.
+
+Genel Finans Ortaklıkları / General Finance Corporations (Corresponding Special Purpose
+Vehicles in Securitization)
+Alacakların temellükü ve bu alacaklar karşılık gösterilerek düzenlenen varlığa dayalı menkul kıymetlerin
+ihracı ve halka arzı amacıyla kurulan anonim şirketlerdir.
+
+Gelişen İşletmeler Piyasası / (GİP) Emerging Companies Market
+Borsa kotasyon şartlarını sağlayamayan, gelişme ve büyüme potansiyeline sahip şirketlerin menkul
+kıymetlerinin işlem görebileceği piyasadır.
+
+Getiri Endeksleri / Return Indices
+Hisse senetlerinin fiyatlarındaki değişimlerin yanı sıra şirketlerin ödedikleri kar paylarını da dikkate alarak
+hesaplanan endekslerdir.
+
+Gözaltı Pazarı / Watchlist Companies Market
+Hisse senetleri Borsa’da işlem gören şirketler ve/veya hisse senetleri işlemleri ile ilgili olarak olağan dışı
+durumların ortaya çıkması, hisse senetleri Borsa’da işlem gören şirketler tarafından kamunun
+zamanında, tam ve sürekli aydınlatılmasına ve mevcut düzenlemelere uyum konusuna gerekli özenin
+gösterilmemesi, yatırımcıların haklarının korunması ve kamu yararı gereği hisse senetlerinin Borsa
+kotundan ve/veya ilgili pazardan geçici ya da sürekli çıkarılması sonucunu doğurabilecek gelişmelerin
+oluşması nedeniyle şirketlerin izleme ve inceleme kapsamına alınması durumlarında, sürekli gözetim,
+denetim ve izleme ortamında, hisse senetlerinin likidite imkanını kesintiye uğramadan İMKB bünyesinde
+işlem görebileceği pazardır.
+
+Halka Açık Anonim Ortaklık / Publicly-Held Corporation
+Hisse senetleri halka arz edilmiş olan veya halka arz edilmiş sayılan anonim şirketlerdir.
+
+Halka Arz / Public Offering
+Halka arz, sermaye piyasası araçlarının satın alınması için her türlü yoldan halka çağrıda bulunulmasını;
+halkın bir anonim ortaklığa katılmaya veya kurucu olmaya davet edilmesini; hisse senetlerinin borsalar
+veya diğer teşkilatlanmış piyasalarda devamlı işlem görmesini; halka açık anonim ortaklıkların sermaye
+artırımları dolayısıyla hisse senetlerinin satışını ifade eder.
+
+Halka Arza Aracılık / Intermediation For Public Offering
+Sermaye piyasası araçlarının halka arz yoluyla satışına aracılıktır.
+
+--- Sayfa 48 ---
+48
+
+Hazine Bonosu / Treasury Bill
+Hazine tarafından vadesi bir yıldan kısa süreli olarak çıkarılan ve iskontolu olarak işlem gören borçlanma
+senetleridir.
+
+Hedging
+Nakit piyasada bulunulan bir pozisyondan oluşan risklerden diğer piyasalarda (futures, options vs.)
+pozisyon alarak korunmadır.
+
+Hisse Senedi / Stock
+Anonim ortaklıklar tarafından çıkarılan ve anonim ortaklığın sermayesine belirli bir katılma payını temsil
+eden, yasal şekil şartlarına uygun olarak düzenlenmiş, kıymetli evraktır.
+
+Hizmetler Endeksi / Services Index
+Hizmetler sektöründe yer alan şirketlerin hisse senetlerinin fiyatlarındaki değişmeler dikkate alınarak
+hesaplanan hisse senetleri piyasası endeksidir.
+
+İçerden Öğrenenlerin Ticareti / Insider Trading
+Sermaye piyasası araçlarının değerini etkileyebilecek, henüz kamuya açıklanmamış bilgileri kendisine
+veya üçüncü kişilere menfaat sağlamak amacı ile kullanarak, sermaye piyasasında işlem yapanlar
+arasında fırsat eşitliğini bozacak şekilde haksız yarar sağlamak veya bir zararı bertaraf etmektir.
+
+İflas / Bankruptcy
+Şirketin borçlarını ödeyemez duruma düşmesi nedeniyle faaliyetlerinin sona erdirilmesidir.
+
+İhraç / Issue
+Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp, halka arz edilerek veya halka arz
+edilmeksizin satışıdır.
+
+İhraççı / Issuer
+Sermaye piyasası araçlarını ihraç eden anonim ortaklıklar, mevzuata göre özelleştirme kapsamına
+alınanlar dahil kamu iktisadi teşebbüsleri, mahalli idareler ile bunlarla ilgili özel mevzuatları uyarınca
+faaliyet gösteren kuruluş idare ve işletmelerdir.
+
+İkincil Piyasalar / Secondary Markets
+Daha önce ihraç edilmiş sermaye piyasası araçlarının işlem gördüğü piyasalardır.
+
+İlâve Kotasyon / Additional Listing
+Hisse senetleri Borsa kotunda bulunan bir ortaklığın sermaye artırımı nedeniyle ihraç ettiği yeni hisse
+senetlerinin kotasyon işlemini ifade eder.
+
+--- Sayfa 49 ---
+49
+
+İlk Kotasyon / Initial Listing
+Ortaklık hisse senetlerinin ilk kez Borsa kotuna alınmasını, ortaklığın borçluluğu temsil eden menkul
+kıymetlerinin Borsa kotuna alınmasını ifade eder.
+
+İmtiyazlı Hisse Senedi / Preferred Stock
+Esas sözleşmede hüküm bulunmak kaydı ile, sahiplerine temettü ödemesi, rüçhan hakkı kullanımı, oy
+hakkı gibi konularda ayrıcalık tanıyan senetlerdir.
+
+İntifa Senetleri / Dividend Right Certificates
+Şirket genel kurulunun alacağı kararla bazı kimselere çeşitli hizmetler ve alacak karşılığı olarak
+kuruluştan sonra verilen ve sermaye payını temsil etmeyen hisse senetleridir.
+
+İrtibat Büroları / Liasion Offices
+Aracı kurumu ve aracı kurumun yetkili olduğu sermaye piyasası faaliyetlerinin tanıtımını yapmak amacı
+ile aracı kurumu temsil etmekle görevli hizmet birimleridir. İrtibat büroları sadece müşteri emirlerini aracı
+kuruma iletebilirler.
+
+İşlem Birimi / Trading Unit
+Bir sermaye piyasası aracının, kendisi ya da katları ile işlem yapılabilecek asgari sayısını ya da değerini
+ifade eder. İşlem birimi olarak “lot” ibaresi kullanılır. (Bkz. Lot)
+
+İşlem Hacmi / Traded Value
+Tüm hisse senetleri için gerçekleşen işlemlerdeki her emrin içerdiği hisse senedi sayısı ile işlem fiyatının
+çarpılarak elde edilen yekünlerin toplanmasıdır.
+
+İşlem Miktarı / Trading Volume
+Bir piyasada, bir seansta ya da belli bir dönemde alınıp satılan (el değiştiren) menkul kıymet adedidir.
+
+İştirak / Participation
+Bir ortaklık ile işletme arasında, söz konusu ortaklığın yönetimine ve ortaklık politikalarının
+belirlenmesine katılma anlamında devamlı bir bağ yaratan, doğrudan veya dolaylı sermaye ve yönetim
+ilişkisidir.
+
+İtfa / Redemption
+Tahvil ihraç planında belirlenen tarih ve miktarlarda ana paranın geri ödenmesidir.
+
+İzahname / Prospectus
+Sermaye piyasası araçlarının ihracında ya da halka arzında ortaklıklarca halkı şirket ve hisse senetleri
+konularında bilgilendirmek amacıyla düzenlenmesi gereken belgedir.
+
+--- Sayfa 50 ---
+50
+
+Kalanını İptal Et / (KİE) Fill or Kill Orders
+Fiyat ve miktarın girildiğiancak işlem kısmen veya tamamen gerçekleşmezse işlem görmeyen kısmın
+ekranda pasif olarak görünmeyerek sistem tarafından otomatik olarak iptal edildiği emir türüdür.
+
+Kamuyu Aydınlatma / Public Disclosure
+Sermaye piyasasının açıklık ve dürüstlük içinde işleyişini sağlamak, tasarruf sahipleri, ortaklar ve diğer
+ilgililerin zamanında bilgilendirilmesini temin etmek amacıyla, sermaye piyasası araçlarının değerini ve
+yatırımcıların yatırım kararlarını etkileyebilecek önemli olay ve gelişmelerin (özel durumların) kamuya
+açıklanmasıdır.
+
+Kapanış Fiyatı / Closing Price
+Bir seansta Borsa kaydına alınan (tescil edilen) en son işlemin fiyatıdır.
+Kar-Zarar Ortaklığı Belgesi (KOB) Profit and Loss Sharing Certificate
+Ortaklıkların, kar ve zarara ortak olmak üzere iştigal sahalarına giren tüm faaliyetlerin gerektirdiği
+finansman ihtiyaçlarını karşılamak amacıyla ihraç veya halka arz edebilecekleri bir tür sermaye piyasası
+aracıdır.
+
+Katılma İntifa Senedi / Publicly Offered Dividend Right Certificates
+Nakit karşılığı satılmak üzere, ortaklık haklarına sahip olmaksızın kardan pay alma, tasfiye bakiyesinden
+yararlanma ve yeni pay alma gibi haklar sağlayan bir kıymetli evraktır.
+
+Kaydi Takas / Book-entry Settlement
+Üyelerin, takasa olan para borçları ile takastan olan para alacaklarının hesaben ödenmesi ile menkul
+kıymet borçları ile menkul kıymet alacaklarının hesaben teslimidir.
+
+Kayıtlı Sermaye / Authorized Capital
+Ortaklıkların, esas sözleşmelerinde hüküm bulunmak kaydıyla, Yönetim Kurulu Kararıyla, Türk Ticaret
+Kanunu’nun sermayenin artırılmasına dair hükümlerine tabi olmaksızın çıkartabilecekleri, azami hisse
+senedi miktarını gösteren, Ticaret Sicili ’ne tescil edilmiş sermayeleridir.
+
+Kısa Pozisyon / Short Position
+Yatırım saikiyle, gelecekte fiyat düşüşü olacağı beklentisiyle, belirli bir an itibariyle sahip olunmayan
+finansal araçların satılması durumunu ifade eder (Bir finansal aracın satılması anlamında kullanıldığı
+durumlar da mevcuttur).
+
+--- Sayfa 51 ---
+51
+
+Konkordato / Concordat, Composition with Creditors
+Kendi kusuru olmaksızın mali durumu bozulmuş olan bir borçlunun alacaklıları ile yaptığı bir anlaşmadır.
+Bu anlaşma sonucunda alacaklıların en az üçte iki oranındaki çoğunluğu alacaklarının belirli bir
+bölümünden vazgeçer, borçlu ise geri kalan borçlarını bir plan dahilinde ödemeyi kabul eder.
+Konkordato, Ticaret Mahkemesi’nin onayı ile geçerlilik kazanır.
+
+Kotasyon / Listing
+Bir şirkete ait menkul kıymetlerin borsa listesine alınmasıdır. Menkul kıymetlerin Borsa kotuna alınması
+ile şirketin Borsa tarafından gerekli görülen şartları yerine getirmiş olduğu anlaşılır.
+
+Kredili Menkul Kıymet İşlemleri / Margin Trading
+Bir aracı kuruluş nezdinde, müşteri adına kredi hesabı açılması koşulu ile müşteri ve aracı kuruluş
+arasında yapılacak sözleşme hükümleri çerçevesinde kredi kullanarak borçlanmak suretiyle menkul
+kıymet alınmasını ifade eder.
+
+Kullanım fiyatı / Strike Price,Exercise Price
+Opsiyon sözleşmelerinde, opsiyona konu olan kıymetin, opsiyonun kullanılacağı anda alınacağı veya
+satılacağı fiyattır.
+
+Kupon / Coupon
+Hisse senedi sahiplerinin bazı ortaklık haklarının (kâr payı, bedelli/bedelsiz sermaye artırımına katılma
+hakları) kullanımını teminen hisse senetleri üzerinde bulunan ve sistematik olarak numaralandırılmış
+kıymetli evraktır.
+
+Kupür / Denomination
+Para, tahvil ve hisse senetlerinin, üzerlerinde yazılı değere göre, her birimine verilen isimdir.
+
+Kurtaj / Brokerage
+Aracı kuruluşların, aracı olarak Borsada gerçekleştirdikleri işlemler karşılığında menkul kıymetlerin işlem
+fiyatlarıyla hesaplanan tutarı üzerinden müşterilerinden aldıkları komisyondur.
+
+Kurucu Hisse Senetleri / Founder’s Shares
+Türk Ticaret Kanunu’nun (TTK. Madde: 402) verdiği yetkiye dayanarak Anonim Şirketlerin kuruluşunda
+veya sermaye artırımında, kuruculara ya da önemli hizmeti geçenlere, şirket kârının bir kısmına iştirak
+hakkı temin etmek üzere nama yazılı olarak çıkartılan bedelsiz hisse senetleridir. Kurucu hisse senetleri,
+belli bir sermaye payını temsil etmediği gibi, şirketin yönetimine katılma hakkını da vermez.
+
+--- Sayfa 52 ---
+52
+
+Kurumsal Ürünler Pazarı / Collective Products Market
+Menkul kıymet yatırım ortaklıkları, gayrimenkul yatırım ortaklıkları ve girişim sermayeleri hisse senetleri
+ile borsa yatırım fonları katılma belgeleri ve aracı kuruluş varantları kot içi pazar niteliğindeki Kurumsal
+Ürünler Pazarı'nda işlem görmektedir.
+
+Kurumsal Yatırımcılar / Institutional Investors
+Bireysel yatırımcılardan ayrı olarak, kendisine devredilen paralardan ya da tahvil ve hisse senedi
+satışıyla sağladığı kaynaklardan oluşan fonları yatırıma yönelten kurum, kuruluş veya örgütlerdir.
+
+Küsurat Emir / Odd Lot Orders
+İşlem biriminin ihtiva ettiği hisse senedi sayısından daha az miktarlar için verilmiş emirlerdir.
+
+Limitli Emir / Limit Orders
+Emri veren alıcının, işlemin gerçekleşmesi için kabul ettiği en yüksek fiyatı; satıcının ise satmaya razı
+olduğu en düşük fiyatı belli ettiği emir tipidir.
+
+Lot / Lot
+Hisse senetleri piyasasında işlem birimidir. İ.M.K.B. Hisse Senetleri Piyasası’nda, 1 lot. 1 lot 1 adet hisse
+senedi veya 1 TL nominal değerli hisse senedini ifade eder.
+
+Limit Değerli Emirler / Limit Value Orders
+Özel limit fiyatlı emirlerin belirli bir tutar sınırı konmuş şeklidir. Özel limit fiyatlı emre ilaveten maksimum
+işlem değeri “TL” olarak yazılır. Sistem, belirtilen tutardan fazla olmamak şartıyla, belirtilen fiyat
+seviyesine kadar, en iyi fiyatlı emirlerden başlayarak tüm fiyat seviyelerinde işlem gerçekleşmesine
+olanak sağlayacaktır. Eğer belirtilen fiyat seviyesine ulaşmadan girilen tutar karşılandıysa, karşılanan
+tutardan fazla işlem olmasına sistem izin vermeyecektir.
+
+Limit Fiyatlı Emirler / Limit Price Orders
+Fiyat ve Miktarın girildiği emirlerdir. İşlem kısmen veya tamamen olmazsa, gerçekleşmeyen kısım
+sistemde pasif olarak görünür.
+
+Mahsup / Netting Between Different Markets
+Üyelerin, bir piyasadan doğan alacaklarını talimatları doğrultusunda diğer bir piyasa işleminden doğan
+borçlarını ödemede kullanabilmeleridir.
+
+--- Sayfa 53 ---
+53
+
+Mali Piyasalar / Financial Markets
+Tasarruf fazlası olan ekonomik birimlerle tasarruf açığı (fon ihtiyacı) olan ekonomik birimler arasında fon
+akımlarını düzenleyen kurumlar, akımı sağlayan araç ve gereçler ile bunları düzenleyen hukuki ve idari
+kurallardan oluşan yapıya mali piyasa (finans kesimi) denir. Bu piyasalar kısa vadeli fon akımlarını
+kapsayan Para Piyasası (Money Market); orta ve uzun vadeli fon akımlarından oluşan Sermaye Piyasası
+(Capital Market); Döviz Piyasası (Foreign Exchange Market) ve Altın Piyasası (Gold Market) şeklinde
+gruplandırılabilir.
+
+Maktu Teminat / Fixed Colateral
+Borsa üyeleri tarafından hisse senetleri piyasasında işlem yapabilmek için yatırılması gereken teminatın
+tüm aracı kuruluşlar için sabit tutar olarak belirlenen kısmıdır.
+
+Maksimum Lot / Maximum Lot
+Hisse senedi bazında belirlenen ve alım satım sistemine limit fiyatlı emir olarak bir defada girilebilen en
+yüksek miktardır.
+
+Menkul Kıymet / Security
+Ortaklık veya alacaklılık sağlayan, belli bir meblağı temsil eden, yatırım aracı olarak kullanılan, dönemsel
+gelir getiren, misli nitelikte, seri halinde çıkarılan, ibareleri aynı olan ve şartları SPK’ca belirlenen kıymetli
+evraktır.
+
+Menkul Kıymet Borsaları / Securities Exchanges
+Menkul kıymetlerin arz ve talebinin karşılaştığı örgütlenmiş piyasalardır.
+
+Menkul Kıymet Ödünç İşlemleri / Securities Lending
+Aracı kuruluş ile müşteri arasında düzenlenen sözleşmede belirlenen esaslar dahilinde, ödünç veren
+taraftan açığa satış amacıyla ödünç alan tarafa, belirli bir dönem için menkul kıymetlerin verilmesi ve
+aynı cins menkul kıymetlerin mislen geri alınmasını ifade eder.
+
+Merkezi Takas / Central Settlement
+Borsa Yönetim Kurulu'nca kapsam dışında tutulanlar hariç, bütün Borsa pazar ve piyasalarında
+gerçekleşen işlemlerin takasının yine Borsa’da veya Borsa Yönetim Kurulu kararı ve yapılan anlaşma ile
+münhasıran takas ve saklama faaliyetlerinde bulunan, bir şirket ve/veya banka tarafından
+sonuçlandırılmasıdır.
+
+--- Sayfa 54 ---
+54
+
+Munzam Teminat / Additional Collateral
+Üçer aylık dönemlerde, Hisse Senetleri Piyasası işlemleri sonucunda takas yükümlülüğünü takas
+gününde yerine getirmeyerek temerrüde düşen üyelerden, günlük toplam 10.000, - TL ve üzerinde
+gerçekleşen nakit veya kıymet temerrütlerinin toplam tutarı her dönem sonunda Munzam Teminat
+hesaplaması için temerrüt matrahı olarak dikkate alınır ve söz konusu temerrüt matrahının %10’unu
+Munzam Teminat olarak yatırılması istenir. Söz konusu Munzam Teminat, teminatın hesaplanmasına
+esas alınan temerrütlerin oluştuğu dönemi izleyen 3 aylık dönemin sonuna kadar iade edilmez.
+
+Müşteri Emirleri / Customer (client) Orders
+Müşterilerin Borsa’da menkul kıymet alıp satmak amacıyla Borsa üyelerine yazılı ya da sözlü şekilde
+ilettikleri emirlerdir.
+
+Nakit Piyasalar / Cash Markets
+Vade uygulanmadan aynı gün valörlü işlemlerin yapıldığı piyasalardır.
+
+Nama Yazılı Hisse Senetleri / Registered Shares
+Hisse senedinin üzerinde sahibinin adının yazılı olduğu ve şirketin pay defterine bu adın kaydedildiği
+hisse senetleridir.
+
+Net Aktif Değeri / Net Asset Value
+Belirli bir faaliyet dönemi sonunda (genellikle bir yıl) düzenlenen bilançodaki net aktif tutarının hisse
+senedi sayısına bölünmesi ile bulunan değerdir.
+
+Net Bakiye Prensibi / Net Balance Principle
+Hisse Senetleri Piyasası’nda gün içinde yapılan iki seansta gerçekleşen işlemlerin netleştirilmesidir.
+Üyelerin, hem aynı menkul kıymet üzerinde yaptıkları alım satımları ve hem de nakit olarak borç ve
+alacakları birbirine mahsup edilir. Üyeler, takasa kalan net tutar kadar borçlu veya alacaklı olurlar.
+Böylece her aracı kuruluş için gün sonunda ve tüm işlemleri üzerinden net nakit borç/alacak tutarı ile her
+menkul kıymet için ayrı ayrı net bir kıymet borcu/alacağı bulunur.
+
+Nominal (İtibari) Değer Nominal / Face Value
+Hisse senedi için pay senedinin üzerinde yazılı olan fiyattır. Tahvillerde ise, vade sonunda ödenecek
+değerdir.
+
+Normal Emir Normal Order
+Küsuratız şekilde tam olarak, önceden belirlenmiş işlem birimi ve katları halinde verilmiş olan emirlerdir.
+
+--- Sayfa 55 ---
+55
+
+Opoze Hisse Senedi / Circulation Restricted Stock
+Üzerinde devir ve satış yasağı bulunan hisse senedidir.
+
+Opsiyon Sözleşmesi / Option Contract
+Belli miktarda bir malı, menkul kıymeti veya finansal göstergeyi belli bir fiyattan ileride önceden
+belirlenmiş bir tarihte veya öncesinde alma veya satma hakkıdır.
+
+Opsiyon Pirimi / Option Premium
+Opsiyon sözleşmesinin satın alan tarafın önceden belirlenmiş bir kullanım fiyatından belli miktarda bir
+kıymeti belli bir tarihte veya öncesinde satın alma veya satma hakkını elde etmek amacıyla opsiyon
+sözleşmesini satan tarafa ödediği fiyattır.
+
+Oransal Teminat / Proportional Collateral
+Üçer aylık dönemlerde hesaplanan ve Borsa üyelerinin Hisse Senetleri Piyasası’nda gerçekleştirdikleri
+işlemlerin günlük ortalama tutarının %5’idir.
+
+Ortalama Teminat / Average Collateral
+Üçer aylık hesaplama dönemlerinde tüm Borsa üyeleri için hesaplanan oransal teminat tutarlarının basit
+ortalamasıdır. Otomatik İşleme Kapama Freeze Bir menkul kıymet ya da menkul kıymet grubunun fiyat
+ve/veya işlem miktarının, belirlenen bir süre içerisinde belirlenen bir parametreyi aşan bir değişim
+göstermesi durumunda, o menkul kıymetlere ait işlemlerin geçici bir süre için otomatik olarak
+durdurulmasıdır.
+
+Ödenmiş Sermaye / Paid in Capital
+Esas sermaye sistemine tabi ortaklıklarda, ortaklarca taahhüt edilen sermayenin nakden ödenmiş
+kısmıdır.
+
+Özel Denetleme / Special Auditing
+Menkul kıymetlerin halka arzı için kayda alınmak üzere Sermaye Piyasası Kurulu’na başvuran veya
+Sermaye Piyasası Kanunu kapsamında olup, birleşme, devir veya tasfiye durumunda bulunan anonim
+ortaklıklar ile aracı kurumlar ve yatırım ortaklıklarından Kurul’ca belirlenenlerin mali tablo ve raporlarının
+denetlenmesidir.
+
+Özel Emir / Special Order
+Borsa Yönetim Kurulu tarafından, menkul kıymet bazında belirlenen hisse sayısını aşan ve başka bir
+özel emir ile eşlendiğinde eksper onayıyla gerçekleştirilen, bölünmez bir bütün olarak işlem gören
+emirlerdir.
+
+--- Sayfa 56 ---
+56
+
+Özel Limit Fiyatlı / (OLFE) Emirler Special Limit Price Orders
+Emir miktarının “Sıfır-0” olarak girildiği, sadece fiyat verilerek sisteme aktarılan emirlerdir. Bu emirler,
+belirtilen fiyat seviyesine kadar tüm fiyat seviyelerindeki emirleri karşılar.
+
+Özel Sektör Tahvilleri / Private Sector Bonds
+Anonim şirketler tarafından çıkarılan borçlanma senetleridir. Vadeleri en az iki yıl olmak üzere serbestçe
+belirlenebilir ve sabit veya değişken faizli olarak ihraç edilebilir. Kupon ödemeleri yılda 1,2 ya da 4 defa
+olabilir.
+
+Piyasa / Market
+Genel anlamda mal veya hizmet satıcılarının arzı ile bunları satın almak isteyenlerin taleplerinin
+karşılaşmasını ve fiyatların oluşumunu ifade eder.
+
+Piyasa Danışmanı / Authorized Market Advisors
+Gelişen İşletmeler Piyasası’nda, piyasa danışmanlığı görevini yerine getirebilecek olan şirketlerdir.
+
+Piyasa Emri / Market Order
+Menkul kıymet alım satımında en iyi piyasa fiyatından işlemin gerçekleştirileceği emir türüdür. Bu tür
+emrin en büyük avantajı, emrin hemen yerine getirilebilme olanağıdır.
+
+Piyasa Fiyatı / Market Price
+Sermaye piyasası aracının arz ve talebinin karşılaşması sonucu oluşan fiyatıdır.
+
+Piyasa Gözetimi / Market Surveillance
+Borsa’da işlem gören menkul kıymetlerde gerçekleşen olağandışı fiyat ve/veya miktar hareketlerinin, söz
+konusu borsanın ilgili birimi ve/veya piyasanın yasal düzenleyicisi konumunda olan kurum tarafından,
+yapay piyasa ve içeriden öğrenenlerin ticareti gibi yasal olmayan aktivitelerin tespit edilebilmesi amacıyla
+izlenmesi ve incelenmesi.
+
+Piyasaya Göre Ayarlama / Marking to the Market
+Vadeli işlem sözleşmesinde pozisyon alındığı tarihten itibaren cari uzlaşma fiyatı ile bir önceki gün
+piyasada oluşan uzlaşma fiyatı arasındaki farkın, açık pozisyon sahiplerinin hesaplarına yansıtılmasıdır.
+
+Piyasa Yapıcı / Market Maker
+Piyasanın dürüst, düzenli ve etkin çalışmasını sağlamak ve görevli olduğu sermaye piyasası araçlarında
+likit ve sürekli bir piyasanın oluşmasını sağlamak için kendi nam ve hesabına çift taraflı kotasyon
+vermekle yükümlü olan aracı kuruluştur.
+
+--- Sayfa 57 ---
+57
+
+Piyasa Yapıcılık İşlem Yöntemi / Market Making Trading Method
+Sürekli müzayede yöntemiyle işlem gören menkul kıymetlerde atanmış üye(ler) tarafından bu amaçla
+tanımlanacak bir portföy hesabı adına çift yönlü sürekli kotasyon (fiyat ve miktar) verilmek suretiyle o
+menkul kıymette işlem gerçekleşebilecek fiyat aralığının belirlendiği ve likiditenin artmasının sağlandığı
+işlem yöntemidir.
+
+Portföy / Portfolio
+Sahip olunan varlıkların aynı veya farklı özelliğe sahip birden fazla kıymete yatırılması sonucu oluşan
+toplam değerdir.
+
+Portföy Yöneticiliği / Portfolio Management
+Finansal varlıklardan oluşan portföylerin, her bir müşteri adına, müşterilerle yapılacak portföy yönetim
+sözleşmesi çerçevesinde maddi bir menfaat sağlamak üzere vekil sıfatıyla yönetilmesidir.
+
+Rating (reyting) / Rating
+İhraççıların (şirket, devlet, vs.) ihraç ettikleri borç niteliğindeki menkul kıymetlerin (tahvil, finansman
+bonosu vs.) anapara ve faizini zamanında geri ödeme yeterliliğine ne ölçüde sahip olduklarını göstermek
+amacıyla bağımsız kuruluşlar tarafından yapılan değerlemedir.
+
+Referans Fiyat / Reference Price
+Bir hisse senedinin işlem görebileceği en üst ve en alt fiyat limitlerinin belirlenmesinde esas teşkil
+etmeyen, fiyat tescili yapılıncaya kadar üyelerce referans değer olarak kullanılması amaçlanan fiyattır.
+
+Repo / Repurchase Agreement
+Bir menkul kıymetin işlemin başlangıç valöründe satılıp, bitiş valöründe geri alınmasıdır (Menkul kıymetin
+geri alma vaadiyle satımı).
+
+Re’sen Alım / Satım Temerrüt Alış / Satışı Buy in / Sell out
+Temerrüt halinin Borsa Yönetim Kurulu’nun belirlediği süreyi doldurması halinde, sürenin bitimini takip
+eden ilk iş günü işlem konusu hisse senetlerinin temerrüde düşen üyenin pozisyonuna göre Hisse
+Senetleri Piyasası Müdürlüğü’nce elektronik ortamda ayrı hisse koduyla, cari fiyattan alım satımının
+yapılmasıdır.
+
+Resmi Müzayede Pazarı / Official Auction Market
+Mahkemelerin, icra dairelerinin ve diğer resmi dairelerin Borsa’da yapılmasına gerek gördükleri menkul
+kıymet satım işlemlerinin yapıldığı pazardır.
+
+--- Sayfa 58 ---
+58
+
+Risk Sermayesi Yatırım Ortaklığı / Venture Capital Investment Trust
+Kayıtlı sermayeli olarak kurulan ve çıkarılmış sermayelerini esas olarak risk sermayesi yatırımlarına
+yönelten şirketlerdir.
+
+Rüçhan Hakkı / Pre-emptive Right
+Ortaklıkların bedelli sermaye artırımlarına mevcut ortakların öncelikle katılma hakkıdır.
+
+Rüçhan Hakkı Pazarı / Rights Coupon Market
+Hisse senetleri Borsa’da işlem gören şirketlerin nakdi sermaye artışı yapmak üzere belirledikleri rüçhan
+hakkı kullanma süresi içinde söz konusu hisse senedi üzerinde bulunan yeni pay alma kuponunun alınıp
+satılabilmesi için, Borsa’ca belirlenecek süre içinde açılan pazardır.
+
+Sabit Getirili Menkul Kıymetler / Fixed Income Securities
+Alacaklılık hakkı sağlayan, belirli bir meblağı temsil eden, dönemsel gelir getiren, misli nitelikte seri
+halinde çıkarılan, ibareleri aynı olan ve yatırım aracı olarak kullanılan borçlanma senetleridir. İhraç eden
+kuruluşların niteliğine göre kamu ve özel sektör menkul kıymetleri olarak ikiye ayrılırlar. Sabit getirili
+menkul kıymetler vade sonuna kadar elde tutulmaları halinde belirli bir getiriyi garanti eder.
+
+Saklama Kuruluşu / Depository Institution (Custodian)
+Müşterisi adına menkul kıymetleri saklamaya yetkili kurum ve kuruluşlardır.
+
+Seans / Session
+Borsada işlemlerin başlaması ve bitmesi arasında geçen süredir.
+
+Serbest İşlem Platformu / Free Trade Platform
+Sermaye Piyasası Kurul kaydında bulunan fakat daha önce Borsa’da payları işlem görmeyen
+şirketlerden finansal büyüklüğü ve ortaklık yapısı dikkate alınarak Kurulca belirlenecek olanların
+paylarının İMKB Hisse Senetleri Piyasası’nda işlem görebilmesi için oluşturulmuş platformdur.
+
+Sermaye Artırımı / Capital Increase
+Yeni hisse senedi ihraç edilerek mevcut ödenmiş / çıkarılmış sermayenin artırılmasıdır.
+
+Sınırlı Denetleme / Limited Auditing
+Ara mali tablo düzenlemekle yükümlü olan anonim ortaklıklar, aracı kurumlar, yatırım ortaklıkları ve
+yatırım fonlarının düzenleyecekleri ara mali tabloların, sürekli denetleme ile görevli bağımsız denetleme
+kuruluşları tarafından incelenmesi ve rapora bağlanmasıdır.
+
+--- Sayfa 59 ---
+59
+
+Sürekli Denetleme / Continuous Auditing
+Sermaye Piyasası Kanunu’na tabi ortaklıkların, mevzuat ve genel kabul görmüş denetim ve muhasebe
+esas ve ilkelerine uygunluk yönünden, defter, kayıt ve belgelerinin her yıl denetlenmesidir.
+Sürdürme Teminatı / Maintenance Margin
+Borsa tarafından belirlenen ve başlangıç teminatının, vadeli işlemler piyasasındaki olumsuz fiyat
+değişmeleri sonucu oluşan zarar dolayısıyla, ineceği asgari teminat seviyesini gösteren tutardır.
+
+Taban Fiyatı / Minimum Price
+Hisse senetlerinin bir seans içinde işlem görebileceği en düşük fiyattır. Her hisse senedi için fiyat ve fiyat
+adımı göz önüne alınarak ayrı olarak hesaplanır.
+
+Tahsisli Satış / Private Placement
+Sermaye artırımlarında artırılan sermayeyi temsil eden hisse senetleri ile mevcut hisselerin
+hissedarlarınca, halka arz edilmeyerek, doğrudan dışarıda yerleşik kişilere, kayıt öncesi belirlenmiş
+yurtiçinde yerleşik kişilere tahsisli olarak veya Borsa’nın ilgili pazarında toptan satışıdır.
+
+Tahvil / Bond
+Devletin 1 yıl, anonim ortaklıkların en az 2 yıl ve daha uzun vadeyle, ödünç para bulmak amacıyla, itibari
+kıymetleri eşit ve ibareleri aynı olmak üzere çıkardıkları borç senetleridir.
+
+Takas / Settlement
+Borsa’da gerçekleştirilen işlemler sonucunda oluşan borç ve alacakların karşılıklı olarak tasfiye
+edilmesidir.
+
+Talon / Talon
+Hisse senedinin kuponlarından oluşan kısmına verilen isimdir.
+
+Tasfiye Değeri / Likiditasyon Değeri Liquidation Value
+Şirket varlıklarının belirli bir süre içinde zorunlu satışı ile sağlanabilecek değerden tüm borçlar
+ödendikten sonra kalan miktarın, hisse senedi sayısına bölünmesi sonucu bulunan değerdir.
+
+Tavan Fiyatı / Maximum Price
+Hisse senetlerinin bir seans içinde işlem görebileceği en yüksek fiyattır. Her hisse senedi için fiyat ve
+fiyat adımı göz önüne alınarak ayrı olarak hesaplanır.
+
+--- Sayfa 60 ---
+60
+
+Tek Fiyat İşlem Yöntemi / Call Auction Trading Method
+Tek fiyat yöntemi, belirli bir zaman dilimi boyunca emirlerin herhangi bir eşleşme yapılmaksızın Alım-
+Satım Sistemi’ne kabul edilip bu süre sonunda en yüksek miktarda işlemin gerçekleşmesini sağlayan tek
+bir fiyat seviyesinin (Tek Fiyat) hesaplanarak, tüm işlemlerin bu fiyat seviyesinden gerçekleştirildiği bir
+işlem yöntemidir.
+
+Teknik Analiz / Technical Analysis
+Geçmişte piyasada oluşmuş çeşitli verilerin, bilgisayar ve grafikler yardımıyla geleceği tahmin etmede
+kullanıldığı bir değerleme yöntemidir.
+
+Temellük / Acquisition
+Alacağın devralınması. Temerrüt Default Borsa’da yapılan işlemler sonucunda, taahhütlerin gerektirdiği
+ödeme veya menkul kıymet teslimatlarının belirlenen süreler içinde gerçekleştirilmemesi sonucu oluşan
+durumdur.
+
+Temettü - Kâr Payı / Dividend
+Ortaklıkların dönem içinde elde ettikleri kârdan mevcut ortakların pay alma hakkıdır. Sözkonusu hak,
+hisse senedine bağlı “Kâr Payı Kuponları” karşılığında ve ayrıca hisse senedi ibrazına gerek kalmaksızın
+kullandırılır. Borsa’da işlem gören şirketler kâr payı dağıtmaları halinde nakit ve/veya hisse senedi
+şeklinde dağıtılabilir.
+
+Teminat / Collateral
+Borsa üyelerinin, borsa işlemleri dolayısı ile müşterilerine ve borsaya verebilecekleri zararlara karşılık
+olmak üzere, Borsa tüzel kişiliği adına yatırdıkları meblağa denir.
+
+Teminat Tamamlama Çağrısı / Margin Call
+Vadeli işlemler piyasasında alınan pozisyonlar için yatırılmış bulunan teminatın sürdürme teminatı
+düzeyine gerilemesi veya daha altına düşmesi durumunda, yatırımcının teminatını başlangıç teminatı
+seviyesine çıkarması için borsa tarafından yapılan çağrıdır.
+
+Temlik / Alienation - Assignment
+Alacağın Devredilmesi.
+
+Ters Repo Reverse Repo
+Bir menkul kıymetin işlemin başlangıç valöründe alınıp, bitiş valöründe geri satılmasıdır (Menkul kıymetin
+geri satım vaadiyle alımı).
+
+--- Sayfa 61 ---
+61
+
+Tescil / Registration
+Borsa’da gerçekleştirilen işlemlerin fiyatlarının doğruda, Borsa dışında gerçekleştirilen işlemlerin
+fiyatlarının ise bu işlemlerin Borsa’ya bildirimi sonrasında Borsa kaydına alınması işlemidir.
+
+Tescile Mesnet Belge Certificate of Registration
+Kayıtlı sermaye sistemine tabi anonim ortaklıklarda, sermaye artırımı işlemleri tamamlandıktan sonra
+sermaye artırımının tescili için, Sermaye Piyasası Kurulu’nca verilen ve ödenmiş hisse senedi tutarını
+gösteren belgedir.
+
+Teslim Karşılığı Ödeme Prensibi / Delivery Versus Payment Principle
+Borsa işlemlerinin takasında, tarafların, takasa olan borçlarını ödedikleri nisbette alacaklarının ödenmesi
+prensibidir.
+
+Tezgâh Üstü Piyasalar / Over The Counter Markets
+Organize bir borsa dışında yapılan işlemleri kapsayan gevşek ve gayri resmi nitelikteki borsa dışı
+piyasalardır.
+
+Toptan Satışlar Pazarı / Wholesale Market
+Alıcıları önceden belli olan veya olmayan, belli bir miktarın üzerindeki hisse senedi işlemlerinin Borsa’da
+güven ve şeffaflık ortamında organize bir piyasada gerçekleşmesini sağlayan pazardır.
+
+Tranş / Tranche
+Tahvil ve Bono Piyasası’nda işlem yapabilme limiti içerisindeki her bir kademedir.
+
+TÜFE / Consumer Price Index
+Tüketici fiyat endeksi
+
+Tümünü Yüklenim / Full Underwriting
+Sermaye piyasası araçlarının, bedeli satışın başlamasından önce tam ve nakden ödenmek suretiyle
+tamamının satın alınarak halka satılacağının, satışı yapana karşı taahhüt edilmesidir.
+
+Türev Piyasalar / Derivatives Market
+İlerideki bir tarihte teslimatı veya nakit uzlaşması yapılmak üzere herhangi bir malın veya finansal aracın
+bugünden alım satımının yapıldığı piyasalardır. Türev piyasaların tanımı forward, futures ve opsiyon
+işlemlerinin tamamını içermektedir.
+
+--- Sayfa 62 ---
+62
+
+İMKB 100 Endeksi / ISE 100 Index
+1986 yılında 40 şirketin hisse senedi ile başlayarak zamanla sayısı 100 şirketin hisse senedi ile
+sınırlanan Bileşik Endeks’in devamı niteliğindedir. Ulusal Pazar’da işlem gören şirketlerle, Kurumsal
+Ürünler Pazarı’nda işlem gören gayrimenkul yatırım ortaklıkları ve girişim sermayesi yatırım
+ortaklıklarından piyasa değeri ve likiditesi yüksek olanlardan önceden belirlenmiş şartlara göre seçilmiş
+hisse senetlerinden oluşmakta olup, İMKB 30 ve İMKB 50 hisse senetlerini otomatik olarak
+kapsamaktadır. Hisse Senetlerinin fiyatları ve her bir hisse senedinin; aynen saklamada bulunanlar
+hariç, M.K.K. saklamasında bulunan hisse senedi sayısının toplam hisse senedi sayısına oranları, baz
+alınarak piyasa değeri ağırlıklı olarak hesaplanır ve hisse senetleri piyasasının genel bir göstergesidir.
+İMKB 50 Endeksi ISE 50 Index
+Ulusal Pazar’da işlem gören şirketlerle, Kurumsal Ürünler Pazarı’nda işlem gören gayrimenkul yatırım
+ortaklıkları ve girişim sermayesi yatırım ortaklıklarından piyasa değeri ve likiditesi yüksek olanlardan
+önceden belirlenmiş şartlara göre seçilen 50 hisse senedinden oluşmakta olup, İMKB 30 hisse
+senetlerini otomatik olarak kapsamaktadır.
+
+İMKB 30 Endeksi / ISE 30 Index
+Vadeli İşlemler Piyasası’nda kullanılmak üzere, Ulusal Pazar’da işlem gören şirketlerle, Kurumsal
+Ürünler Pazarı’nda işlem gören gayrimenkul yatırım ortaklıkları ve girişim sermayesi yatırım
+ortaklıklarından piyasa değeri ve likiditesi yüksek olanlardan önceden belirlenmiş şartlara göre seçilen
+30 hisse senedinden oluşan endekstir. İMKB 10 Banka Endeksi ISE 10 Banks Index Ulusal Pazar’da
+işlem gören bankalardan, likiditesi ve piyasa değeri en yüksek olan 10 banka hisse senedinden
+oluşmaktadır.
+
+İMKB 100-30 Endeksi / ISE 100-30 Index
+İMKB 100 Endeksine dahil olup, İMKB 30 endeksinde yer almayan 70 hisse senedinden oluşmaktadır.
+
+İMKB Kurumsal Yönetim Endeksi / ISE Corporate Governance Index
+İMKB pazarlarında (Gözaltı Pazarı hariç) işlem gören ve kurumsal yönetim ilkelerine uyumuna ilişkin
+olarak belirlenmiş derecelendirme notuna sahip şirketlerin performanslarının ölçülmesi amacıyla
+oluşturulmuş endekstir.
+
+İMKB Tüm Endeksi / ISE All Shares Index
+Ulusal Pazar’da işlem gören şirketlerle, Kurumsal Ürünler Pazarı’nda işlem gören gayrimenkul yatırım
+ortaklıkları ve girişim sermayesi yatırım ortaklıklarının hisse senetlerinden oluşan endekstir.
+
+İMKB Tüm -100 Endeksi / ISE All-100 Index
+İMKB Tüm endeksine dahil olup, İMKB 100 endeksinde yer almayan hisse senetlerinden oluşmaktadır.
+
+--- Sayfa 63 ---
+63
+
+İMKB Menkul Kıymet Y. O. Endeksi / ISE Investment Trusts Index
+Kurumsal Ürünler Pazarı’nda işlem gören menkul kıymet yatırım ortaklıklarının performanslarının
+ölçülmesi amacıyla oluşturulmuş endekstir.
+
+İMKB Sınai Endeks / ISE Industrials Index
+Ulusal Pazar’da işlem gören ve sadece sanayi sektöründe yer alan şirketlerin hisse senetlerinin
+fiyatlarındaki değişmeler dikkate alınarak hesaplanan hisse senetleri piyasası endeksidir.
+
+İMKB Hizmetler Endeksi / ISE Services Index
+Ulusal Pazar’da işlem gören ve sadece hizmetler sektöründe yer alan şirketlerin hisse senetlerinin
+fiyatlarındaki değişmeler dikkate alınarak hesaplanan hisse senetleri piyasası endeksidir.
+
+İMKB Mali Endeks / ISE Financials Index
+Ulusal Pazar’da işlem gören şirketlerle, Kurumsal Ürünler Pazarı’nda işlem gören ve sadece mali
+sektörde yer alan şirketlerin hisse senetlerinin fiyatlarındaki değişmeler dikkate alınarak hesaplanan
+hisse senetleri piyasası endeksidir.
+
+İMKB İkinci Ulusal Pazar Endeksi / ISE Second National Index
+İkinci Ulusal Pazar’da işlem gören şirketlerin performanslarının ölçülmesi amacıyla oluşturulmuş
+endekstir. 03.03.2003 tarihinden itibaren geçerli olan yeni pazar yapılanmasına bağlı olarak İMKB
+Bölgesel, YŞP Endeksi’nin adı İMKB İkinci Ulusal Pazar Endeksi olarak değiştirilmiştir.
+
+İMKB Yeni Ekonomi Pazarı Endeksi / ISE New Economy Index
+Yeni Ekonomi Pazarı’nda işlem gören şirketlerin performanslarının ölçülmesi amacıyla oluşturulmuş
+endekstir.
+
+İMKB Şehir Endeksleri / ISE City Indices
+Hisse senetleri İMKB’de işlem gören şirketlerden üretim yeri/faaliyet merkezi aynı şehirde olanların fiyat
+ve getiri performanslarının ölçülmesi amacıyla oluşturulmuştur.
+
+Ulusal Pazar / National Market
+Borsa Yönetim Kurulu kararı ile pazarı açılmış, endekse dahil olan ve olmayan Borsa kotunda yer alan
+her şirket hisse senedi için alım satım işlemlerinin gerçekleştirildiği pazardır.
+
+Uluslararası Pazar International Market
+İMKB Uluslararası Menkul Kıymetler Serbest Bölgesi içinde “Serbest Bölgeler Mevzuatına” göre faaliyet
+gösterecek esas olarak eski Doğu Bloku Ülkeleri, Türk Cumhuriyetleri ve Orta Doğu ülkelerindeki
+şirketlere ait menkul kıymetlerin işlem göreceği pazardır.
+
+--- Sayfa 64 ---
+64
+
+Uyuşmazlık Komitesi / Dispute Committee
+Borsa işlemleri ile ilgili olarak; üyeler arasında veya üyeler ile müşterileri arasında çıkan uyuşmazlıkların
+idari yoldan çözülmesine yardımcı olan komitedir.
+
+Uzlaşma Fiyatı / Settlement Price
+Vadeli işlemler piyasasında pozisyon alan hesapların günlük kar/zarar ve teminat yükümlülüklerinin
+hesaplanmasında kullanılan fiyattır. Genelde seansın sonuna doğru oluşan fiyatların ortalaması şeklinde
+hesaplanır.
+
+Uzun Pozisyon / Long Position
+Yatırım saikiyle, gelecekte fiyat artışı olacağı beklentisiyle bir finansal araca satın alma veya diğer
+herhangi bir şekilde sahip olunması ve bu finansal aracın portföyde bulundurulması durumunu ifade eder
+(Bir finansal aracın satın alınması anlamında kullanıldığı durumlar da mevcuttur).
+
+Üye Temsilcisi / Member Representative
+Borsa’da işlem yapma yetkisine sahip aracı kuruluş temsilcisidir.
+
+Vadeli İşlem Piyasaları / Derivatives Markets
+Standartlaşmış vadeli işlem sözleşmelerinin işlem gördüğü, takası bir takas kurumu tarafından garanti
+edilen ve Borsa bünyesinde işleyen piyasalardır.
+
+Vadeli İşlem Sözleşmeleri / Futures Contracts
+Sözleşmenin taraflarına bugünden, belirlenen ileri bir tarihte üzerinde anlaşılan fiyattan,
+standartlaştırılmış miktar ve kalitedeki bir malı veya kıymeti satın alma veya satma yükümlülüğü getiren
+sözleşmedir.
+
+Vadeye Kalan Gün / DTM – Days to Maturity
+Menkul kıymetin valör tarihinden itfasına kalan gün sayısıdır.
+
+Valör / Value Date
+İşlem sonucu oluşan yükümlülüklerin yerine getirildiği, başka bir ifade ile menkul kıymet ve nakdin el
+değiştirdiği (takas) tarihtir.
+
+Varlığa Dayalı Menkul Kıymet / Asset – Backed Securities
+İhraççıların kendi ticari işlemlerinden doğmuş alacakları veya temellük edecekleri alacaklar karşılığında,
+ihraç edebilecekleri kıymetli evraktır.
+
+--- Sayfa 65 ---
+65
+
+Volatilite / Oynaklık / Volatility
+Bir menkul kıymetin fiyatının veya piyasanın genelinin kısa bir zaman aralığı içerisinde gösterdiği
+dalgalanma özelliği. Oynaklığı yüksek bir menkul kıymetin fiyatında hızlı değişim ve aşırı dalgalanma
+özellikleri görülür.
+
+Yabancı Hisse Senedi / Foreign Stock
+Yabancı ortaklıklarca bulundukları ülke mevzuatına uygun olarak çıkarılan ve ortaklık hakkını temsil
+eden menkul kıymetlerdir.
+
+Yabancı Menkul Kıymetler Piyasası “Uluslararası Tahvil Pazarı” / Foreign Securities Market
+"International Bonds Market "
+Türkiye Cumhuriyeti Hazinesi tarafından ihraç edilen dış borçlanma araçlarının (“Eurotahvil”) işlem
+gördüğü pazardır.
+
+Yabancı Ortaklık / Foreign Company
+Türk Parasını Kıymetini Koruma mevzuatına göre Türkiye’de yerleşik sayılmayan (dışarıda yerleşik)
+kişilerden ilgili ülke mevzuatına göre yabancı sermaye piyasası araçlarını çıkaran ortaklıklar ile yatırım
+ortaklıklarıdır.
+
+Yabancı Sermaye Piyasası Araçları / Foreign Capital Market Instruments
+Çıkarıldıkları ülke borsalarında alım satım konusu olan ve Sermaye Piyasası Kurulu’nca niteliği
+belirlenen menkul kıymetler ile hak ve alacakları temsil eden diğer kağıtlardır.
+
+Yabancı Yatırım Fonu / Foreign Mutual Fund
+Yurt içinde kurulan yatırım fonlarına benzer özellikleri taşıdığı Sermaye Piyasası Kurulu’nca kabul edilen,
+yurtdışında kurulmuş yatırım fonlarıdır.
+
+Yapay Piyasa / Yapay Fiyat Artificial Market / Artificial Price
+Yapay piyasa; sermaye piyasası araçlarının arz ve talebini yapay olarak etkilemek ve görünürde aktif bir
+piyasa olduğu izlenimini vermek amacıyla fiktif ve aldatıcı mahiyette alım satım işlemleri yapılması veya
+emir verilmesidir. Yapay fiyat; sermaye piyasası araçlarının gerçek piyasa değerini yansıtmayacak
+fiyatlar oluşturulması amacıyla piyasa fiyatını aynı seviyede tutacak, arttıracak veya azaltacak mahiyette
+alım satım emirleri verilmesi ve işlem gerçekleştirilmesidir.
+
+Yatırım Danışmanlığı / Investment Consultancy
+Karşılığında herhangi bir maddi menfaat temin etmek suretiyle, müşterilere sermaye piyasası araçları ile
+bunları ihraç eden ortaklık ve kuruluşlar hakkında ve sermaye piyasası ile ilgili diğer konularda
+yönlendirici nitelikte yazılı veya sözlü yorum ve yatırım tavsiyelerinde bulunulması faaliyetidir.
+
+--- Sayfa 66 ---
+66
+
+Yatırım Fonu / Mutual Fund
+Halktan katılma belgeleri karşılığı toplanan paralarla, belge sahipleri hesabına, riskin dağıtılması ilkesi ve
+inançlı mülkiyet esaslarına göre Sermaye Piyasası Kurulu’nca uygun görülen sermaye piyasası araçları
+ile ulusal ve uluslararası borsalarda işlem gören altın ve diğer kıymetli madenlerden oluşan portföyü
+işletmek amacıyla kurulan mal varlığıdır.
+
+Yatırım Fonu Katılma Belgesi / Mutual Fund Participation Certificate
+Belge sahibinin kurucu ve saklayıcı kuruma karşı sahip olduğu hakları taşıyan ve fona kaç pay ile
+katıldığını gösteren kıymetli evraktır.
+
+Yatırım Ortaklıkları / Investment Trusts
+Sermaye piyasası araçları ile ulusal ve uluslararası borsalarda veya borsa dışı organize piyasalarda
+işlem gören altın ve diğer kıymetli madenler portföyü işletmek üzere anonim ortaklık şeklinde ve kayıtlı
+sermaye esasına göre kurulan sermaye piyasası kurumlarıdır.
+
+Yeniden Değerleme / Revaluation
+Ortaklıkların aktiflerinde kayıtlı bulunan ve amortismana tabi maddi duran varlıklarının enflasyon
+sebebiyle elde etme maliyeti ile piyasa değeri arasında oluşan farkın bilançoların sağlıklı bir şekilde
+değerlendirilmesi amacıyla Maliye Bakanlığı tarafından her yıl açıklanan oranlar dahilinde değerinin
+yükseltilmesidir.
+
+Yeni Hisse Pazarı / Ex-Dividend Market
+Hisse senetleri Borsa’da işlem gören şirketlerin sermaye artırımlarının bir hesap dönemi içinde temettü
+ödemesinden önce gerçekleşmesi durumunda, üzerinde geçmiş yıl temettü kuponu bulunmayan ”Yeni”
+hisse senetlerinin, temettünün ödenmeye başladığı ilk güne kadar geçici süre ile işlem gördüğü pazardır.
+
+Yetki Belgesi / Authorization Certificate
+Sermaye Piyasası Kurulu tarafından aracı kuruluşlara verilen ve icra edecekleri sermaye piyasası
+faaliyetini gösteren belgeye denir.
+
+Zaman Önceliği / Time Priority
+Hisse Senetleri Piyasası’nda, fiyat eşitliği halinde, sisteme zaman açısından daha önce kaydedilen
+emirlerin öncelikli olarak karşılanmasıdır.
+
+--- Sayfa 67 ---
+67
+
+KAYNAKLAR
+
+1- Yatırımcı ve Teknik Analiz Sorgulanıyor. Dr. Yaşar Erdinç.
+
+2- Teknik Analizmi Dedin Hadi Canım Sende. Ali Perşembe.
+
+3- Referans Line Teknik Analiz Eğitim Kitabı. Süleyman Ayata.
+
+4- Kurt Kapanı. Ahmet Mergen.
+
+5- Grafiklerle Borsa / Uygulamalı Teknik Analiz. Ahmet Mergen.
+
+6- Kurtlarla Tango – Süper Teknik Analiz. Ahmet Mergen. 7-Kazanma Sanatı. Anıl Özekşi.
+
+7- Borsada Grafiklerle Teknik Analiz. Yusuf Sarı.
+
+8- Borsa Sihirbazları. Jack D.Schwager.
+
+9- İleri Teknik Analiz Uygulamaları. Nadir Günak.
+
+10- Paranız ve Beyniniz. Jason Zweig.
+
+11- Görsel Yatırımcı. John Murphy.
+
+12- Yatırımın Dört Temel Taşı. William Bernstein.
+
+13- Girişim ve Finans
+
+14- https://www.borsagundem.com/p/borsa-terimleri-sozlugu

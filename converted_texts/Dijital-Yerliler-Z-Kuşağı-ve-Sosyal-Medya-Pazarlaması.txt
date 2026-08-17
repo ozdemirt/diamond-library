@@ -1,0 +1,2888 @@
+--- Sayfa 2 ---
+Dijital Yerliler:
+Z Kuşağı ve Sosyal
+Medya Pazarlaması
+Dr. Öğr. Üyesi Bilge BAYKAL
+
+--- Sayfa 3 ---
+Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Digital Natives: Generation Z and Social Media Marketing
+Dr. Öğr. Üyesi Bilge BAYKAL
+ISBN (PDF): 978-975-447-721-4
+DOI: https://doi.org/10.58830/ozgur.pub242
+Language: Turkish
+Publication Date: 2023
+Cover design by Mehmet Çakır
+Cover design and image licensed under CC BY-NC 4.0
+Print and digital versions typeset by Çizgi Medya Co. Ltd.
+Suggested citation:
+Başkal, B., (2023). Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması. Özgür Publications.
+DOI: https://doi.org/10.58830/ozgur.pub242. License: CC-BY-NC 4.0
+The full text of this book has been peer-reviewed to ensure high academic standards. For full review policies, see
+https://www.ozguryayinlari.com/
+Published by
+Özgür Yayın-Dağıtım Co. Ltd.
+Certificate Number: 45503
+15 Temmuz Mah. 148136. Sk. No: 9 Şehitkamil/Gaziantep
++90.850 260 09 97
++90.532 289 82 15
+www.ozguryayınlari.com
+info@ozguryayinlari.com
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0). To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+This license allows for copying any part of the work for personal use, not commercial use, providing
+author attribution is clearly stated.
+
+--- Sayfa 4 ---
+iii
+İçindekiler
+Giriş
+1
+1.	 Sosyal Medya
+3
+Sosyal Medya Kavramı ve Tanımı
+3
+Sosyal Medya Araçları
+5
+Sosyal Medya Pazarlaması
+25
+2.	 Dijital Yerliler: Z Kuşağı
+29
+Z Kuşağı Tanımı
+29
+Z Kuşağı Karakteristikleri
+32
+Z Kuşağının Dijital Yerli olarak Adlandırılması
+35
+Z Kuşağının Bilgi Edinme Alışkanlıkları
+36
+Z Kuşağının Dijital Dünya İle İlişkisi
+38
+Dijital Yerlilerin Sosyal Medya İle İlişkisinin Pazarlama
+Stratejilerine Yansıması
+50
+Sosyal Medya Yatırımlarında Z Kuşağı Etkisi
+59
+3.	 Sonuç
+61
+Kaynakça
+65
+
+--- Sayfa 6 ---
+1
+GİRİŞ
+Giriş
+Sosyal medya pazarlaması, son yıllarda büyük bir dönüşüm
+geçirerek gelişmiş ve etkinliğini artırmıştır. Bu dönüşümün
+en önemli nedenlerinden biri, Z kuşağının sosyal medya
+kullanımının hızla artmasıdır. Z kuşağı, doğrudan “dijital
+yerliler” olarak adlandırılan, internetin gelişmesi ve sosyal
+medyanın popülerliğiyle büyüyen bir nesil olarak literatürde
+yerini almaktadır. Bu nedenle, günümüz pazarlamacıları için
+Z kuşağıyla olan ilişkileri anlamak ve bu nesli hedeflemek
+kritik bir hale gelmiştir.
+Z kuşağının sosyal medya ile olan yoğun ilişkisi, firmalar
+için büyük bir fırsat yaratmıştır. Bu nesil, sosyal medya
+platformlarını günlük yaşamlarının ayrılmaz bir parçası
+olarak görmekte ve bu platformlarda vakit geçirirken kişisel
+ifadelerini, ilgi alanlarını ve düşüncelerini paylaşmaktadırlar.
+Bu durum, markaların Z kuşağını daha etkili bir şekilde
+hedeflemek için özgün stratejiler geliştirmelerine olanak
+tanımaktadır.
+Firmalar, Z kuşağının sosyal medya kimliklerini
+anlayabilen ve bu nesilin beklentilerine uygun içerikler
+
+--- Sayfa 7 ---
+2  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+sunabilen markalar olarak rekabet avantajı sağlamışlardır.
+Özellikle samimi ve dürüst iletişim, bu nesil için oldukça
+önemlidir. Aynı zamanda interaktif içerikler ve kullanıcı
+üretkenliğini teşvik etmek, Z kuşağıyla etkileşim kurmanın
+önemli yollarından biridir.
+Sonuç olarak, Z kuşağının sosyal medya kullanımının
+artması, günümüz pazarlamacıları için kaçırılmaması
+gereken bir fırsattır. Bu nesli anlamak ve onlarla etkili bir
+şekilde iletişim kurmak, rekabet avantajı sağlamak ve uzun
+vadeli müşteri bağlılığı oluşturmak için sosyal medya kritik
+bir öneme sahiptir. Bu nedenle, markaların Z kuşağına
+yönelik sosyal medya pazarlama stratejilerini dikkatlice
+şekillendirmeleri ve bu dinamik neslin beklentilerine cevap
+vermeleri gerekmektedir.
+
+--- Sayfa 8 ---
+3
+BÖLÜM 1
+1. Sosyal Medya
+1.1 Sosyal Medya Kavramı ve Tanımı
+Sosyal medya genel anlamda insanların bir bilgisayar, cep
+telefonu veya tablet kullanarak internette iletişim kurmasına
+ve bilgi paylaşmasına olanak tanıyan uygulama, web siteleri
+ve bilgisayar programları olarak tasvir edilmektedir. Sosyal
+medya, belirli bir amaç için tasarlanmış platformlar ve çeşitli
+teknolojik araçlar ile çalışmaktadır. Sosyal medya platformları,
+tüm kullanıcıları için iyi bir ortamı teşvik etmekte veya özel
+ağ oluşturma yoluyla belirli bir kullanıcı grubunun belirli
+bir ilgi alanına hizmet etmektedir (Kaplan ve Haeinlein,
+2010). Sosyal medya, medya arama fikri (sosyal varlık ve
+zenginlik) ve sosyal süreç (kendini sunma ve kendini açma)
+olmak üzere iki amaca yönelik sınıflandırılmakta olup,
+ayrıca bloglar, wikiler, sosyal imleme, sosyal ağ sitesi, durum
+güncelleme servisi ve medya paylaşım sitesi olarak kategorize
+edilebilmektedir (Kaplan ve Haeinlein, 2009).
+Richter ve Koch (2007) tarafından yapılan tanıma
+göre, sosyal medya, etkileşimleri, işbirliklerini ve içerik
+paylaşımını kolaylaştırabilen çevrimiçi bir uygulama,
+platform veya araç olarak tanımlanır. Pazarlama açısından,
+sosyal medya şirketlere müşterilerle etkileşimde bulunma
+ve ilişkiler kurma konusunda güçlü fırsatlar sunar (Kelly,
+
+--- Sayfa 9 ---
+4  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Kerr ve Drennan 2010). Daha önceki çalışmalar, sosyal
+medya pazarlamasını şirketlerin sosyal medya pazarlamasına
+katılma nedenleri (Braojos-Gomez, Benitez-Amado ve
+Javier Llorens-Montes 2015; Tsimonis ve Dimitriadis
+2014), sosyal medya pazarlama stratejileri (Önder, Gunter
+ve Gindl 2020), müşterilerin sosyal medya pazarlama
+algıları (Bruhn, Schoenmueller ve Schäfer 2012; Pöyry,
+Parvinen ve Malmivaara 2013) ve sosyal medya pazarlama
+aktivitelerinin etkileri (Liu, Shin ve Burns 2021; Seo ve Park
+2018) bağlamında araştırmıştır.
+Sosyal medya pazarlama dünyası için önemli bir rol
+oynamakta olup, pazarda rekabet avantajı elde etmeyi
+hedefleyen şirketler, bu kavramı uygun bir bağlamda
+kullanmak için bilinçli ve etkin bilgiye sahip olmaları
+gerektiğini anlamaktadır (Bostancı, 2019: 12).
+Yeni milenyumda sosyal medya, sosyal etkileşimi ve
+iletişimi kolaylaştırmak için yaygın olarak kullanılmaktadır.
+Kim vd. (2010: 216) “sosyal web sitesini”, bireylerin
+“çevrimiçi topluluklar oluşturmasını ve kullanıcı içeriklerini
+paylaşmasını” kolaylaştıran web siteleri olarak tanımlamıştır.
+Jansen vd. (2009: 2170) sosyal medya ile aynı anlamı ifade
+etmek için sosyal iletişim platfomu ve sosyal iletişim ağı
+terimlerini kullanmıştır.
+Safko ve Brake (2009: 6) tarafından daha genel
+olarak tanımlanan sosyal medya, insanların fikirlerini,
+bilgilerini ifade etmek için çevrimiçi olarak gerçekleştirdiği
+tüm kelimeler, videolar, resimler veya sesler şeklindeki
+uygulamaları, faaliyetleri ve davranışları içermektedir.
+Sosyal medya, Kaplan ve Haenlein (2010: 61) tarafından
+“İdeolojik ve teknolojik temeller üzerine inşa edilen ve
+kullanıcı tarafından oluşturulan içeriğin değiş tokuşuna
+izin veren bir grup İnternet tabanlı uygulama” olarak
+tanımlanmaktadır.
+
+--- Sayfa 10 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  5
+Sajithra ve Rajindra (2013: 69) sosyal medyayı kulaktan
+kulağa iletişim ağının genişlemesi olarak tanımlamakta,
+tüketiciler üzerinde en büyük etkileyicilerden biri olarak
+ağızdan ağza pazarlama kavramının gücünü göstermektedir.
+Sosyal medya üzerinde erişimi olan herkesin ürün
+ve şirketlerle ilgili geri bildirimde bulunabilmesi,
+ağızdan ağıza iletişimi güvenilir bir bilgi kaynağı gören
+tüketiciler üzerinde etkili olmakta ve şirketlerin pazarlama
+stratejilerini oluştururken bu gelişime dikkat etmesini
+gerektirmektedir.
+1.2. Sosyal Medya Araçları
+1.2.1 Sosyal Ağlar
+Kaplan ve Haenlein (2010: 63) sosyal ağ sitelerini insan-
+lara kendi yaşantıları hakkında fotoğraflar, videolar, metinler
+ve videolar şeklinde içerik paylaşmaları için alan sunan plat-
+formlar olarak tanımlamıştır. Şirketler, müşterilerine ulaşmak
+için sosyal paylaşım sitelerini kullanmakta, müşteri profilinin
+ilgi alanlarına göre ve kişiliklerine göre uyarlanmış reklamlar
+oluşturabilmektedirler. Bilinen en eski sosyal ağ sitelerinden
+Facebook’u resmi web sayfası olarak kullanan birçok şirket,
+hedef kitlelerini doğrudan orada tanımlayabilmektedir (Eri-
+ckson, 2012: 13).
+Richter ve Koch (2008), sosyal ağ sitelerinde paylaşılan
+altı temel işlevsel boyut tanımlamıştır. Birincisi, bilgi girişleri
+ve erişilebilirlik düzeyi ile ilgili olan kimlik yönetimidir.
+İkincisi, ağa arama kriterleri sunan ve buna göre öneriler
+üreten uzman aramasıdır. Üçüncüsü, paylaşılan özellikler
+ve kişiler hakkındaki bilgilerle ilgili bağlam farkındalığıdır.
+Dördüncüsü, kullanıcının ağının kontrolünü sağlayan
+iletişim
+yönetimidir.
+Beşincisi,
+durum
+ve
+besleme
+güncellemelerine izin veren ağ farkındalığıdır. Son olarak,
+
+--- Sayfa 11 ---
+6  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+mesajlar göndermek ve fotoğraf paylaşmak gibi içerik ve
+bilgi alışverişi için kanallara yetki veren değişim işlevidir.
+Facebook
+Facebook, artık “sosyal ağ” web siteleri olarak bildiğimiz
+grupta yer almakta ancak rakiplerinden popülaritesi ile
+ayrılmaktadır. Facebook 2,23 milyardan fazla aktif kullanıcıya
+sahiptir (facebook, 2022). 2004 yılında Harvard öğrencisi
+Mark Zuckerberg’in üniversite yurt odasında kurulan web
+sitesi şu anda milyarlarca dolar değerinde ve dünyanın en
+tanınmış markalarından biridir. Facebook, ücretsiz profillere
+kaydolan kullanıcıların arkadaşlarıyla, iş arkadaşlarıyla veya
+tanımadıkları kişilerle çevrimiçi olarak bağlantı kurmasını
+sağlayan bir web sitesidir. Kullanıcıların resim, müzik,
+video ve makalelerin yanı sıra kendi düşünce ve görüşlerini
+istedikleri sayıda kişiyle paylaşmalarına olanak tanımaktadır
+(facebook, 2022).
+Profilleri
+olan
+kişiler,
+kendileriyle
+ilgili
+bilgileri
+listelemektedir. Çalıştıkları yer, nerede okudukları, yaşları
+veya diğer kişisel ayrıntıları gibi kullanıcı arkadaşlarının
+kolayca erişebileceği pek çok bilgiyi yayınlamaktadır.
+Bunun da ötesinde, kullanıcılar ilgilerini çeken diğer
+sayfaları beğenebilmektedirler. Örneğin, bir Liverpool FC
+taraftarı, Facebook sayfasıyla bağlantı kurarak kulübü takip
+edebilmekte ve orada kullanıcılara yorum gönderip kulüp
+güncellemeleri ile resimler alabilmektedir. (facebook, 2022).
+LinkedIn
+LinkedIn, 675 milyonluk en büyük profesyonel ağa
+sahip bir sosyal medya platformu olup, iş ağını geliştirmede
+önemli bir rol oynamaktadır. Birincisi, işverenlerin veya
+çalışanların birbirleriyle doğrudan etkileşime girebilecekleri
+bir platformdur. Farklı kurumsal kuruluşlar, kurumsal
+iletişim ve pazarlama hedefleri, müşteriler ve markalarla
+
+--- Sayfa 12 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  7
+etkileşim için LinkedIn’i kullanmaktadır. Benzer şekilde,
+LinkedIn videolar, sesler, makaleler, gönderiler, resimler vb.
+aracılığıyla izleyiciyi etkileyen ve motive eden derin ve doğru
+hikayeler yayınlamaktadır. Ayrıca işletmelerin birbirleriyle
+etkileşime girebildiği ve marka bilinirliği yaratılmasına
+yardımcı olan bir platformdur (Garg, 2017:5-7).
+En etkili sosyal medya platformlarından biri olmasının
+nedenleri aşağıdadır:
+1.	 Eğlence amaçlı değil, profesyonel amaçlı bir sosyal
+medya ağıdır.
+2.	 Profesyoneller ve öğrenciler bu forumu kariyer
+yollarını seçmek ve geliştirmek için kullanmaktadırlar.
+3.	 Bir işe alım görevlisinin doğru adayı seçmesine ve
+bulmasına yardımcı olan güçlü bir araçtır.
+4.	 İşletmeler için bir insan kaynağı yönetimi aracı
+sağlamaktadır.
+Aynı şekilde, kurumsal iletişimde LinkedIn’in rolünü
+anlamak önemlidir (Cereci, 2019):
+•	 Hedef kitleye ulaşmak için işletmenin varlığının far-
+kındalığını artırmaya yardımcı olmaktadır.
+•	 Bir uzman imajı oluşturmada, seçilmiş uzmanların
+içeriğini ve PR faaliyetlerini sunarak şirketin imajını
+güçlendirmede ve endüstri araştırmasının sonuçlarını
+tanıtmada faydalıdır.
+•	 LinkedIn katılımcıların işe alınmasına yardımcı ola-
+bileceği belirli bir etkinliğin veya etkinlik organizas-
+yonlarının erişimini internet topluluğuna göstererek
+şirketin pazarlama çabalarını ve başarılarını yansıtır.
+•	 LinkedIn, şirketin web sitesindeki trafiği iyileştirmeye
+yardımcı olur. Haber bülteninin periyodik olarak ya-
+yınlanması yoluyla kullanıcıların zihninde ilgi yaratır.
+
+--- Sayfa 13 ---
+8  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+•	 Şirket tarafından gerçekleştirilen özel eylemler hak-
+kında kullanıcıları bilgilendirerek, şirket terfileri ko-
+nusunda kariyerlerini geliştirmelerine yardımcı olur.
+Kurumsal iletişimde LinkedIn işlevleri, işvereni ve
+işverenden gelen faaliyetleri desteklemektedir. LinkedIn’in
+diğer sosyal medya ağ sitelerine göre önceliği, iş ortakları,
+çalışanları ve yetenekli bir uluslararası işgücü piyasasını
+içeren iyi tanımlanmış bir hedef kitleye dayanmasına bağlıdır
+(Çalışkan ve Mencik, 2015).
+Bloglar
+Bloglar, kullanıcıların konu, kişisel günlükler ve di-
+ğer herhangi bir içerik hakkındaki fikirlerini tek bir yerde
+özetlemeleri, olmalı için alan sağlana kelimeleri çıkarılmalı.
+özetlemeleri, okuyuculara yorumları aracılığıyla etkileşimde
+bulunmaları ve geri bildirimlerini vermeleri için alan sağla-
+yan en eski sosyal medya platformlarından biridir (Kaplan
+ve Haenlein, 2010: 63). En başarılı blog sayfalarından biri
+olan Google’a ait Blogger.com, yeni kullanıcılar için blog
+oluşturma ve tamamen ücretsiz olarak içerik oluşturmayı
+kolaylaştırmak için tasarlanmıştır. “Bloglar, insanların kişisel
+deneyimler, iş, hobiler ve zevk gibi günlük bilgi girişlerini
+yayınlayabilecekleri paylaşılan çevrimiçi dergiler olarak oluş-
+turulmuş web uygulamalarıdır” (Olakunle, 2012: 17).
+Ürünleri hakkında bilgi ve güncelleme vermek için
+blogları kullanan bazı şirketlerin müşterilerin yorumlarda
+paylaştığı pasif yanıtlara müdahale edememesi olumsuz
+sonuçlar verebilmektedir (Erikson 2012: 11). Weber
+(2009) de bu konuya dikkat çekmiş, blog yazarlarının
+paylaşılan içerik üzerinde herhangi bir düzenleme kriterinin
+bulunmadığını ve bunun da kişi ya da ürün hakkında çevrim
+içi sohbetlerde olumsuz bir sonuca yol açabileceğine dikkat
+çekmiştir.
+
+--- Sayfa 14 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  9
+Tumblr
+Tumblr, 2007 yılında Mark Arment’in baş web
+geliştiricisi olduğu bir ekiple David Karp tarafından
+New York’ta kurulmuş bir mikrobloglama platformudur.
+Kullanıcılarının metin, ses, video, bağlantı ve alıntılar
+paylaşmasına olanak veren Tumblr blog sağlayıcısının
+bir mikrobloglama platformu olarak adlandırılmasının
+nedeni kullanıcıların, standart bloglara nazaran daha kısa
+metinler paylaşmasıdır (Erbaş, 2011: 10). Mikrobloglama,
+bloglama ile aynı forma sahip olan bir yayın ortamıdır.
+Mikrobloglar diğer bloglardan, içeriklerinin hem boyut hem
+de nitelik olarak küçük olmasıyla ayrılırlar. Mikrobloglarda
+kullanıcılar standart bloglarda olduğu gibi birçok paragraf
+içeren metinler yerine kısa ve öz birkaç cümlecik paylaşırlar.
+Mikroblogların ilk örnekleri tumbleloglardır (Tektaş,
+2014).
+Bunlar 2005 yılında kullanılmaya başlanmış ve bloglama
+pratiğinin daha hızlı ve kısa hali olarak nitelendirilmişlerdir.
+2006 ve 2007 yılında ise en çok bilinen mikrobloglama
+platformları Twitter (2006) ve Tumblr (2007) kurulmuştur.
+Ancak, Twitter’da kullanıcıların 140 karakteri geçmeyen
+metinler üretmesi gerekirken, Tumblr’da herhangi bir
+karakter ve içerik türü sınırlaması yoktur. Dolayısıyla
+kullanıcılar Tumblr ortamında içerik üretiminde bir karakter
+ve içerik sınırlaması olmadan yazma ve Tumblr bloglarını
+diledikleri formatta kullanabilme olanağına sahiptirler.
+Kullanıcılar Tumblr blog ortamında, standart bloglarda
+olduğu gibi görüntü, bağlantı, ses ve uzun metinler de
+paylaşabilirler. 2007 yılında Tumblr blog sağlayıcısının
+kurulmasıyla diğer farklı blog sağlayıcılarında faaliyet
+gösteren birçok blog yazarı Tumblr blog ortamına
+geçiş yapmıştır. Kullanıcı sayısı hızla artan Tumblr blog
+sağlayıcısının 2009 yılında, akıllı telefon (smart phone)
+
+--- Sayfa 15 ---
+10  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+olarak kabul edilen mobil cihaz iPhone için Tumblr iPhone
+uygulaması, 2010 yılında da Blackberry mobil cihazı için
+Tumblr Blackberry uygulaması çıkarılmıştır (Ünal, 2015).
+Kullanıcıların
+telefonlarından
+Tumblr
+bloglarına
+erişebilmelerine olanak sağlayan bu uygulamalar, Tumblr’ın
+birçok kişi tarafından blog sağlayıcısı olarak seçilmesini
+sağlamıştır. 2009 yılının Ocak ayında, ayda bir yayınlanan
+bilgisayar dergisi PC World tarafından, Amerika Birleşik
+Devletleri başkanı Barack Obama’nın en çok kullandığı 5
+teknolojik araç arasında olduğu belirtilmiştir. Tumblr’ın kısa
+sürede başarılı olması 2009 yılının Ağustos ayında Tumblr
+CEO’su David Karp’ın dünyaca ünlü Business Week dergisi
+tarafından 2009 yılının en iyi teknoloji girişimcisi seçilmesini
+sağlamıştır (Vural ve Bat, 2010).
+Çevrimiçi ölçüm ve istatistikler yapan Amerikan Nielsen
+Online şirketinin çevrimiçi trafiği ölçümlediği araştırmasının
+verileri, kısa sürede milyonlarca kullanıcıya ulaşan Tumblr’ın
+kullanıcı muhafaza etme oranının (retention rate) %85
+olduğunu ortaya çıkarmıştır. Yine aynı araştırma Tumblr’a
+göre daha popüler olan Twitter’ın kullanıcı muhafaza etme
+oranının ise %40 olduğunu belirtmiştir. Buna göre Twitter
+kullanıcılarının %60’ı kaydolduktan 1 ay sonra hesaplarını
+kapatıp Twitter kullanmayı bırakırken, Tumblr kullanıcıları
+çok daha sadık bir kullanıcı profili yansıtmaktadır (Yılmaz,
+2016).
+Mikrobloglar (Twitter)
+Mikroblog, içerik sistemini 280 karakterle sınırlı
+kısa metinle çalıştıran benzer bir blog sürümüdür. Blog
+yazmaya benzer görünse de daha doğru içerik geliştirdiği
+için sosyal medya ortamında büyük bir fark yaratmaktadır
+(Erikson, 2012: 12). Mikrobloglar, kullanıcılara ek bilgi ve
+hatta başlıklar olmadan küçük güncellemeler veya fikirler
+göndermeleri için bir alan sunmaktadır. Twitter, popülerliği
+
+--- Sayfa 16 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  11
+ve blog yazarları tarafından kullanım kolaylığı ile öne
+çıkan mikroblog sitelerinin başında gelmektedir (Logar,
+2009). Twitter ve mikroblog siteleri, şirketlere kısa mesajlar
+aracılığıyla müşteriyle iletişime geçebilecekleri, bilgiye
+daha hızlı ve daha kolay ulaşabilecekleri alanlar sunarak,
+müşterilerle iletişim ve iyi ilişkiler kurmayı geliştirmiştir
+(Weinberg, 2009: 12).
+Wikipedia
+1996’da başarılı bir tahvil tüccarı olan Jimmy Wales,
+bir Web portalı şirketi olan Bomis, Inc.’i kurmak için San
+Diego, California’ya taşınmıştır. Mart 2000’de Galler,
+baş editör olarak Larry Sanger ile ücretsiz bir çevrimiçi
+ansiklopedi
+olan
+Nupedia’yı
+kurmuştur.
+Nupedia,
+uzmanlardan oluşan bir danışma kurulu ve uzun bir gözden
+geçirme süreci ile mevcut ansiklopediler gibi organize
+edilmiştir. Ocak 2001’e kadar iki düzineden az makale
+tamamlanmış ve Sanger, Nupedia’nın wiki yazılımına
+dayalı açık kaynaklı bir ansiklopediyle desteklenmesini
+savunmuştur. 15 Ocak 2001’de Wikipedia, Nupedia.
+com’un bir özelliği olarak hizmete girmiş, ancak danışma
+kurulunun itirazları üzerine birkaç gün sonra bağımsız bir
+Web sitesi olarak yeniden açılmıştır. İlk yılında Wikipedia,
+Fransızca, Almanca, Lehçe, Felemenkçe, İbranice, Çince
+ve Esperanto dahil olmak üzere 18 dilde yaklaşık 20.000
+makale yayınlamıştır. 2003 yılında Nupedia sonlandırılmış
+ve makaleler Wikipedia’da yayınlanmıştır (Boz ve
+Uca Özer, 2015). Wikipedia, ücretsiz internet tabanlı
+ansiklopedi olarak 2001 yılında kurulmuş ve açık kaynak
+yönetim tarzı altında faaliyet göstermiştir. Kar amacı
+gütmeyen Wikimedia Vakfı tarafından denetlenmekte olan
+Wikipedia, makalelerin oluşturulmasını ve geliştirilmesini
+kolaylaştıran, wiki olarak bilinen ortak bir yazılım
+kullanmaktadır (Akar, 2010).
+
+--- Sayfa 17 ---
+12  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+2006’da Wikipedia’nın İngilizce versiyonu bir milyondan
+fazla makaleye sahip iken 2011’de 10. yıldönümünde 3,5
+milyon makaleyi aşmayı başarmıştır. Ancak, ansiklopedi ayda
+milyonlarca kelime hızında genişlemeye devam ederken, her
+yıl oluşturulan yeni makale sayısı kademeli olarak azalarak
+2007’de 665.000’den 2010’da 374.000’e düşmüştür. Bu
+yavaşlamaya yanıt olarak, Wikimedia Foundation genişleme
+çabalarını, 2011 yılına kadar sayıları 250’den fazla olan
+Wikipedia’nın İngilizce olmayan sürümlerine odaklamaya
+başlamıştır. Bazı sürümlerin hali hazırda yüz binlerce
+makaleyi bir araya getirmesiyle özellikle dikkat çekilmiştir.
+Bununla birlikte, Wikipedia’nın gerçekten küresel bir izleyici
+kitlesine ulaşma yeteneğinin önündeki engellerden biri, Çin
+hükümetinin site içeriğinin bir kısmına veya tamamına
+Çin’deki erişime yönelik periyodik kısıtlamaları olarak
+gösterilmektedir (Caers ve Castelyns, 2011).
+Bazı açılardan Wikipedia’nın açık kaynaklı üretim modeli,
+sosyal yazılım ağının kullanıcıları hem gerçek hem de sanal
+gerçeklik işyerlerinde birbirine bağladığı eşitlikçi bir ortam
+olan Web 2.0’ın özüdür. Wikipedia topluluğu, sınırlı sayıda
+standart ilkeye dayanmaktadır. Önemli bir ilke tarafsızlıktır.
+Bir diğeri, katkıda bulunanların samimi ve kasıtlı bir şekilde
+katıldıkları inancıdır. Okuyucular, hata olarak algıladıkları
+şeyleri düzeltebilmekte, gerçekler ve olası önyargılar
+üzerindeki anlaşmazlıklar, katkıda bulunan tartışmalar
+yoluyla yürütülmektedir. Diğer üç yol gösterici ilke, bir
+ansiklopedinin tanımlanmış parametreleri içinde kalmak,
+telif hakkı yasalarına uymak ve diğer tüm kuralları esnek
+olarak değerlendirmektir. Son ilke, projenin açık kaynak
+sürecinin Wikipedia’nın kullanıcı topluluğu göz önüne
+alındığında mevcut en iyi ürün haline getireceğine olan
+inancını pekiştirmektedir. En azından sürecin bir yan ürünü,
+ansiklopedinin, makale olarak sınıflandırılması zorunlu
+olmayan, herkesin erişebileceği bir dizi sayfa içermesidir.
+
+--- Sayfa 18 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  13
+Bunlar, taslakları ve tartışma sayfalarını içermektedir
+(Kahraman, 2014).
+Forumlar
+Bir internet forumu veya mesaj panosu, insanların
+gönderilen mesajlar şeklinde konuşmalar yapabileceği
+çevrimiçi bir tartışma sitesidir. Mesajların genellikle bir metin
+satırından daha uzun olması ve en azından geçici olarak
+arşivlenmesiyle sohbet odalarından farklıdırlar. Ayrıca, bir
+kullanıcının erişim düzeyine veya forum kurulumuna bağlı
+olarak, gönderilen bir mesajın herkese açık hale gelmeden
+önce bir moderatör tarafından gerekebilmektedir.
+İçerik Toplulukları
+Instagram
+2010 yılında sosyal medya uygulaması olarak lansmanı
+yapılan Instagram, altı yılda aylık 600 milyondan fazla aktif
+üyeye ulaşmıştır. Instagram, sosyal paylaşım siteleri arasında
+inanılmaz bir penetrasyon elde etmiştir. Sonuç olarak,
+platform 2012 yılında Facebook’tan Mark Zuckerberg
+tarafından satın alınmıştır. Flicker, Instagram’dan önce
+popüler bir web tabanlı fotoğraf paylaşım platformu iken
+Instagram, mobil cihazlarda kullanım kolaylığı nedeniyle
+daha popüler olmuştur. Fotoğraf paylaşımına izin verme
+konusunda önde gelen sosyal medya uygulamalarından biri
+haline gelen Instagram, kuruluşundan bu yana, kullanıcıların
+40 milyardan fazla fotoğraf ve video paylaştığı bir platform
+haline gelmiştir (Cooper, 2018).
+Instagram platformu “takip et” ve “bağlan” prensibi ile
+çalışmakta; kullanıcılar, onlarla bağlantı kurmak için diğer
+kullanıcıları takip etmektedir. Sistematiği asimetrik olup bir
+kullanıcı birini takip ederse, o kişinin onu takip etmek zorunda
+olmadığı anlamına gelmektedir. Kullanıcılar Instagram’da
+paylaşım yapmak istediklerinde bir resim yüklemektedirler.
+
+--- Sayfa 19 ---
+14  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Hesaplarını herkes için açabilmekte veya gizli tutabilmekte
+ve hesabını kimlerin takip edebileceğini seçebilmektedirler
+(Neher, 2014). Başlangıçta, kullanıcıların yalnızca fotoğraf
+göndermelerine izin verilmekle birlikte 2013’ten sonra
+video ve canlı akış da yükleyebilmektedirler. Kullanıcılar
+Instagram üzerinde görüntü kalitelerini artırmak için birçok
+görsel filtre uygulayabilmektedirler (Neher, 2014).
+Kullanıcılar, gönderilerinin altında sözlü ve görsel
+içeriği birleştirebilmektedir. İstediklerini yazmalarına, emoji
+kullanmalarına ve seçtikleri bazı kelimeleri hashtag’lemelerine
+izin verilmektedir. Hashtag, boşluksuz kelime veya “#”
+işaretli kelime grupları anlamına gelmektedir. Instagram
+kullanıcıları, tıklanabilir hale getirmek için jenerik veya
+anahtar kelimelerin önüne hashtag (#) koymaktadır.
+Kullanıcılar hash etiketli bir kelimeye tıklarsa, o hashtag ile
+ilgili gönderiler özel olmayan hesaplardan görünmektedir.
+Amaç, gönderilerin daha popüler olmasını ve daha kolay
+bulunabilmesini sağlamak ve aynı ilgi alanına sahip
+kullanıcıları bir araya getirmektir. Bu hashtag’ler ayrıca
+istatistiklerin bulunmasını sağlamaktadır. Örneğin, 2016
+sonu itibariyle #selfie hashtag’i ile paylaşılan 283 milyona
+yakın özçekim bulunmaktadır (Moon vd., 2016).
+Instagram takip prensibi ile çalışmakta olup, her
+hesabın takipçisi ve takip ettiği kişiler bulunmaktadır. Aynı
+şekilde kullanıcı, takip ettiği kişilerin fotoğraflarını da
+görebilmektedir. Takipçi ilkesini göz önünde bulundurarak
+diğer sosyal platformlardan farklı çalışmaktadır. Örneğin
+Facebook’ta
+insanlar
+birbirlerine
+arkadaşlık
+istekleri
+göndermekte ve bir kullanıcı kabul ederse arkadaş
+olmaktadırlar. Ancak Instagram’da sadece takip isteği
+mevcut olup, takip ettiklerinizin aynı anda takipçiniz
+olmaması anlamına gelmektedir. Instagram’daki kullanıcı
+hesapları özel veya herkese açık olabilir. Bu nedenle, hesaplar
+özelse, bir kabul filtresi gerekmekte olup, hesap herkese
+
+--- Sayfa 20 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  15
+açıksa, sadece takip edebilmektedirler. Platform karşılıklı
+olmadığı için takip edilen kullanıcılar, takipçilerini takip
+etmeyi seçmek zorunda kalmamaktadır (Moon vd., 2016).
+Kullanıcılar, ilgili hesabın takipçisi olmadan herkese
+açık hesaplardaki beğenebilmekte veya altına yorum
+bırakabilmektedir. Öte yandan, hesap özel ise, beğeni veya
+yorum yapmak için takip edilmeleri onaylanmış olmalıdır.
+Kullanıcılar bir gönderiyi beğenmek için gönderilerin
+altındaki beyaz kalbe tıklamakta ve tıkladıktan sonra
+kırmızıya dönmektedir. Ayrıca yorum bırakmak için
+baloncuk şekline dokunmakta ve yazıların altına sözlerini
+yazabilmektedirler. Yorumlarını yazdıktan sonra, kullanıcı
+adları,
+gönderilerin
+altındaki
+yorumlar
+bölümünde
+gösterilmekte ve kullanıcılar her gönderinin altındaki
+beğeni ve yorum sayısını görebilmektedir (Aslam, 2017).
+Yorumların yanı sıra, 2013 yılından itibaren Instagram
+üzerinden doğrudan mesaj (DM) olarak adlandırılan
+diğer kullanıcılarla iletişim kurmanın başka bir yolu
+başlatılmıştır. Direkt mesaj, cep telefonlarındaki klasik
+mesaj servisleri gibidir, sadece gönderici ile alıcı arasındadır.
+DM’nin amacı, çoğu durumda insanların yorumlarını veya
+sorularını bir gönderi altında herkese açık olarak paylaşmak
+istememeleridir. Instagram, yayınlanan fotoğrafların veya
+videoların doğrudan başka bir kullanıcıya gönderilmesine
+izin vererek doğrudan mesajlaşmayı da geliştirmiştir. Ayrıca,
+doğrudan mesajlaşma iki kişi arasında olmak zorunda
+değildir. Instagram ikiden fazla kullanıcıyla mesajlaşma
+grupları oluşturmayı sağlamaktadır (Aslam, 2017).
+Türkiye’de Instagram ile televizyon arasında bir benzerlik
+olduğu düşünülmekte, televizyonun imaj odaklı olması
+Instagram’ın Türkiye’deki popülaritesinin nedeni olarak
+görülmektedir. Ayrıca Türkiye’de renkli görsellere sahip
+gazeteler daha çok tercih edilmekte ve insanlar, okumaktansa
+görüntüleri gözlemlemeyi daha kolay bulmaktadır (Ergül,
+
+--- Sayfa 21 ---
+16  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Gökalp ve Cangöz, 2012). Instagram bu motifler için en
+etkili platformdur. Instagram kullanıcılarının imaj odaklı
+motiflerle süregelen büyümesiyle birlikte sosyal medya
+influencerları (etkileyicileri) zemin kazanmaya başlamıştır
+(Carlson, 2017).
+YouTube
+Televizyon ve gazetelerin geleneksel medya kaynağı
+olduğu günümüzde, teknolojik gelişmelerle birlikte ses
+ve video tüketimi değişmiştir. İnternet teknolojilerinin
+yükselişi ile TV ve geleneksel medya kavramları sarsılmıştır.
+Video paylaşım siteleri internette geniş kitlelere kolay ve
+hızlı bir şekilde paylaşım olanağı sunduğundan, insanlar
+anıları, komik anları gibi çevrimiçi videolar oluşturmaya
+başlamışlardır (Van Dijk, 2016: 160).
+İnsanlara eskisinden daha kolay ulaşmak için internetteki
+en popüler medya platformlarından biri olan YouTube, 14
+Şubat 2005 tarihinde Jawed Karim, Chad Hurley ve Steve
+Chan (Ying) tarafından “Kendini Yayınla” mottosuyla
+kurulmuştur. Bu sitenin insanlar tarafından değişik amaçlarla
+kullanılmaya başlanmasının üzerinden uzun zaman geçmiştir.
+Her geçen gün büyüdüğü için bugün YouTube, İnternet’teki
+en büyük eğlence sitelerinden biridir. YouTube hemen hemen
+herkes ve çoğunlukla gençler tarafından kullanılmaktadır.
+Kurumsal ve bireysel kullanıcılar tarafından oluşturulan çok
+çeşitli içerikleri sunabilen bir platform olarak öne çıkmıştır
+(Van Dijk, 2016: 161-162).
+Youtube
+üzerinden
+paylaşılan
+video
+içeriklere
+kullanıcıların ilgisi hızla artmaktadır. Her dakika yüklenen
+video içerikleriyle Youtube, her gün 30 milyon kullanıcının
+dikkatini çekmektedir. Youtube’un kullanıcı sayısının ve
+kitlesinin büyük bir hızla büyümesi, işletmelerin hedef
+kitlelerine ulaşabilmeleri için önemli bir pazarlama kanalı
+haline gelmesini sağlamıştır (Fırat, 2019).
+
+--- Sayfa 22 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  17
+We Are Social’ın (2020) araştırmasına göre YouTube,
+dünyanın en çok ziyaret edilen ikinci ve en büyük ikinci
+arama motoru sitesidir. YouTube’un güncel istatistiklerine
+baktığımızda bu video paylaşım platformunun kitlelere
+ulaşmanın yeni bir yolu olan bir kitle iletişim aracı haline
+geldiği görülmektedir. Ocak 2021’de YouTube’a giriş yapan
+aylık kullanıcı sayısı iki milyardır. Her gün Youtube’da bir
+milyar saat içerik izlenmektedir.
+Kullanıcılar YouTube’a kendi amaç ve hedefleriyle
+gelmekte ve bu durum Youtube’u dinamik bir kültürel
+sistem haline getirmektedirler. YouTube, herkesin kültüre
+katılabileceği bir yer olup amaçlarını tanımlayan dört temel
+değere dayanmaktadır. Bu değerler; ifade özgürlüğü, bilgi
+edinme özgürlüğü, fırsat özgürlüğü ve ait olma özgürlüğüdür
+(Burgess ve Green, 2009). YouTube’un “Broadcast Yourself ”
+sloganı, kullanıcıları kendi hayatlarını yayınlamaya teşvik
+etmektedir. İnsanlar özel anlarını kaydederken YouTube
+onları geleceğin yayıncıları olmaya teşvik etmektedir.
+YouTube’u kullanmanın temel nedenleri bilgi almak ve
+vermek, itibar oluşturmak, ilişkiler geliştirmek, eğlenmek
+ve kendini keşfetmektir (Khan, 2016: 238). YouTube,
+eğlencenin yanı sıra bilgi, haber ve politika gibi konularda
+da içerik sağlamaktadır. 2008 ABD seçimlerinde partilerin
+siyasi kampanyalarında propaganda amaçlı kullanılmasıyla
+da dikkatleri üzerine çekmiştir.
+YouTube, diğer sosyal ağlar gibi değişken ve dinamik bir
+yapıya sahiptir. YouTube, bireylerin ve kuruluşların içerik
+oluşturup paylaştığı dünyanın en büyük video arşividir.
+Ayrıca bu arşiv youtuberların kanal/sayfalarında aktif olarak
+izlenmeye devam etmektedir. İzleyici de bu videoları geriye
+dönük olarak beğensin veya beğenmesin, izleyebilmekte ve
+yorum yazabilmektedir. YouTube’da iki tür kullanıcı vardır.
+Birincisi, kanalın sahibi olan içerik üreticisi YouTuber;
+
+--- Sayfa 23 ---
+18  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+ikincisi ise YouTube kanalının izleyicisi olan takipçi/
+izleyicidir. Kullanıcılar, sadece içerik tüketerek pasif kalmayı
+seçebilmekte veya çeşitli etkileşimlere katılarak veya içeriği
+kendi ihtiyaçlarına göre yeniden düzenleyerek aktif rol
+oynayabilmektedirler (Khan, 2016: 237).
+Mobil Sosyal Ağlar
+WhatsApp
+Dünyanın ve Türkiye’nin de en popüler mobil mesajlaşma
+uygulaması WhatsApp, istatistiklerin de gösterdiği gibi,
+insanların mobil iletişim için tercih ettiği ilk uygulama
+olmaktadır (Hootsuite, 2023). WhatsApp, sosyal medya
+platformlarına rakip olmak amacıyla geliştirilmemiştir.
+WhatsApp, SMS’in artırılmış özelliklerle sağladığına
+benzer bir mobil anlık mesajlaşma uygulamasıdır. SMS
+ile yönetilmesi neredeyse imkansız olan WhatsApp’ın
+sahiplenilmesinin ana nedenlerinden biri büyük grup
+görüşmelerini
+kolaylaştırmaktır.
+Kullanıcıların
+video,
+ses, belge ve konum bilgilerini içeren metinlerin yanı sıra
+farklı türde içerikleri bireylere veya gruplara paylaşmasına
+olanak tanımaktadır. Kullanıcılarının herhangi bir ek ücret
+ödemeden mevcut data planını kullandığı internet tabanlı
+bir mobil uygulamadır. Yıllar boyunca her güncelleme ile
+WhatsApp insanların günlük iletişiminde büyük bir yer
+edinmiştir (Rosenfeld vd., 2018).
+WhatsApp, birçok sosyal medya platformundan farklıdır.
+WhatsApp, kullanıcıların ayrıntılı bir profil oluşturmasını
+gerektirmemektedir. WhatsApp’ta bu gereksizdir, çünkü
+kullanıcılar zaten telefon numaralarıyla etiketlenmekte
+ve uygulamanın genellikle bir dereceye kadar birbirini
+tanıyan kişiler tarafından kullanılması beklenmektedir Yeni
+insanlarla tanışmak amaçlanmamıştır. WhatsApp’ta birine
+mesaj göndermenin yalnızca iki yolu vardır. Öncelikle
+telefon rehberine kendi numaraları ile eklenmeli, yoksa
+
+--- Sayfa 24 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  19
+her iki kişinin de telefon numarasına sahip olan biri onları
+aynı gruba eklemelidir. WhatsApp’ın sosyal mecra olarak
+tanımlanması tartışmalı bir konudur. WhatsApp bir mobil
+anlık mesajlaşma uygulaması olarak başlamış, ancak grup
+iletişiminde yüksek kullanımı, sosyalleşme açısından değerini
+artırmıştır (Carr ve Hayes, 2015: 50).
+Facebook veya Twitter’da olduğu gibi yabancılara profil
+oluşturma ve yayınlama özelliği yoktur. Temaslar ve gruplar,
+insanların fiziksel yaşamlarındaki sosyal ilişkilere göre
+şekillenmektedir. Bu göz önünde bulundurulduğunda profil,
+bu platformdaki kullanıcılar için gereksiz hale gelmektedir
+çünkü profilleri zaten fiziksel benliklerine bağlıdır. Durum
+bilgisi, WhatsApp’ın 2009’da ilk kullanıma sunulduğunda
+dikkat çeken popüler bir özelliği olup, kişinin durumu
+değiştiğinde platformun uyarı vermesi ile dikkat çekmekte
+idi (Ersöz, 2019).
+Geleneksel SMS ile karşılaştırıldığında, WhatsApp daha
+sosyal ve doğal etkileşimler için bir ortam sağlamakta ve
+bu da daha yüksek sıklıkta sohbet, koordinasyon ve grup
+iletişimine yol açmaktadır (Church ve Oliveira, 2013) İzleyici
+ve içerik akışını kontrol etmenin zor olduğu Facebook’tan
+farklı olarak WhatsApp, özellikle grup işleviyle yeni samimi
+iletişim fırsatları sağlamaktadır (Karapanos vd., 2015;
+Nouwens vd., 2017).
+Snapchat
+Snapchat,
+2011
+yılında
+Stanford
+Üniversitesi
+öğrencileri Evan Spiegel, Bobby Murphy ve Reggie Brown
+tarafından oluşturulan ve arkadaşlar arasında zaman sınırlı
+fotoğraf/video paylaşımına izin veren bir mobil paylaşım
+platformudur. Snapchat uygulaması ile; “snap” adı verilen
+fotoğraf, video ve yazılar kaybolmadan 10 saniyeye
+kadar süre sınırı ile kişi veya gruplara aktarılmaktadır.
+Gönderici, görüntüyü göndermeden önce zamanlamayı
+
+--- Sayfa 25 ---
+20  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+belirleyebilmekte ve alıcı bu süreden sonra görüntüye artık
+erişememektedir (Charteris, Gregory ve Masters, 2014). 31
+Aralık 2016 tarihinde Snapchat, günlük 161 milyon aktif
+kullanıcı tarafından tercih edildiğini duyurmuştur. Snapchat,
+diğer sosyal medya platformlarından daha farklı ve özgün
+bir şekilde iletişim kurmak isteyen Z kuşağı tarafından
+hızla benimsenmiş, kısa ömürlü yapısı, diğer sosyal medya
+platformlarının yanı sıra gençlere iletişim kurmanın başka
+bir yolunu sağlamıştır (Anderson, 2015).
+Snapchat, kullanıcıların zamana duyarlı fotoğraflar veya
+videolar göndermesine ve görüntülemesine olanak tanıyan
+bir sosyal medya mobil uygulamasıdır. Kullanıcılar tarafından
+paylaşılan bu içerikler sınırlandırılabilmekte ve içerikler
+Snapchat’ten silinmektedir (Bayer vd., 2015). Snapchat’in
+kayıt yeteneği ve şekil avantajları son yıllarda kullanıcı
+sayısını artırmıştır. Kayıt yeteneği avantajı, kullanıcıların
+24 saat sonra görünmeyecek mesajlar, fotoğraflar veya
+videolar göndermesine olanak tanımaktadır. Şekil avantajı,
+kullanıcıların fotoğraf veya video klipler aracılığıyla diğer
+kullanıcılarla (10 saniyeye kadar) iletişim kurmasına ve aynı
+zamanda kullanıcıların fotoğraf ve videolarına filtre eklemesine
+olanak tanımaktadır (Alhabash ve Ma, 2017).
+Snapchat üzerinden belirli bir süre (1-10 sn) paylaşılan
+resimlere not eklemek mümkün olup, fotoğraflara ve
+videolara emoji ve metin eklenebilmektedir (Alhabash ve
+Ma, 2017). Snap’in ekran görüntüsünü almak mümkün
+olsa da, Snapchat, hedef kitle tarafından ekran görüntüsü
+alınmışsa göndericiye bildirimde bulunmaktadır (Handyside
+& Ringrose, 2017). Snapchat üzerinden gönderilen bir
+videonun maksimum uzunluğu 10 saniye olabilir. Öte
+yandan, metin mesajları için zamanlayıcı yerleştirmekten
+daha farklı bir şekilde çalışmaktadır. Hedef kitle mesajı
+okuyup mesaj ekranından çıktığında mesaj silinmektedir.
+Ballve’nin (2014) araştırması, Amerika kıtasında en fazla
+
+--- Sayfa 26 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  21
+Snapchat kullanıcısı olduğunu göstermektedir. Amerika
+kıtasının ardından Avrupa kıtası, Hindistan alt kıtası,
+Avustralya ve Suudi Arabistan gelmektedir.
+Mayıs 2012’de Snapchat saniyede 25 anlık görüntü
+almış olup Kasım 2012’den beri kullanıcılar her gün 20
+milyon fotoğraf paylaşılan iOS Snapchat uygulamasında 1
+milyardan fazla fotoğraf paylaşmaktadır (Holland, 2013).
+Snapchat, 29 Ekim 2012’de bir Android uygulaması olarak
+yayınlanmıştır (Gallagher, 2012)
+Haziran 2013’te, iOS için “Banquo” adı verilen
+Snapchat 5.0 yayınlanmıştır. Güncellenmiş sürüm, hızlıca
+gezinme, bir yanıta iki kez dokunma, bir arkadaşınızın
+gelişmiş araması ve uygulama içi profiller dahil olmak
+üzere çeşitli hız ve tasarım iyileştirmeleri sunmaktadır. Bu
+isim, sonunda kötülüğe karşı zafer kazanan bir kişi olan
+Shakespeare’li Macbeth’in manevi kahramanına atıfta
+bulunmaktadır. Ayrıca Haziran 2013’te Snapchat, 13
+yaşın altındaki kullanıcılar için “Snapkidz”i tanıtmıştır.
+“Snapkidz”, orijinal Snapchat uygulamasının bir parçası
+olarak kullanıcı yaşını doğrulamak için doğum gününü
+eklediğinde etkinleştirilmektedir (Holland, 2013).
+Snapchat Inc. bir seferde 10 saniyelik video kaydedebilen
+bir kameraya sahip ilk akıllı gözlük ürününü piyasaya
+sürmüştür.
+•	 Snapchat piyasa değeri, 2019’un başında 7 milyar do-
+ların biraz üzerindeyken, Haziran 2019’da yaklaşık 19
+milyar dolara ulaşmıştır (Yahoo Finance, 2019).
+•	 10 Mayıs itibariyle, hisse senedi fiyatı yılın ilk işlem
+gününe göre 5,79 $’dan 10,49$’a, neredeyse iki katı-
+na çıkmıştır (Yahoo Finance, 2019).
+•	 Günlük Aktif Kullanıcılar 2019 yılında %2 artarak
+190 milyona ulaşmıştır (Statista, 2019).
+
+--- Sayfa 27 ---
+22  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+•	 Q1 2019 Geliri, 2018’in 4. çeyreğindeki %36’dan
+%39 artarak 320 milyon $’a yükselmiştir (Statista,
+2019).
+•	 Mart 2019 itibarıyla Snapchat, ABD’deki tüm 13-24
+yaşındakilerin %90’ına ve 13-34 yaşındakilerin hepsi-
+nin %75’ine ulaşmıştır (Statista, 2019).
+•	 Kullanıcı başına ortalama gelir, 2018’in ilk çeyreğin-
+deki 1,21$’a kıyasla 2019’un ilk çeyreğinde %39 arta-
+rak 1,68$’a yükselmiştir (Statista, 2019).
+•	 Günde 20 defadan fazla uygulama kullanımı ve uygu-
+lamada ortalama 30 dakika harcanarak günlük 3 mil-
+yardan fazla anlık görüntü oluşturulmaktadır (Statis-
+ta, 2019).
+TikTok
+TikTok, ByteDance adlı Çinli bir teknoloji şirketi
+tarafından geliştirilen ve 2016 yılında piyasaya sürülen bir
+video paylaşım platformudur. Çinli konglomera ByteDance
+tarafından sahip olunan TikTok, ABD’deki iPhone ve
+Android kullanıcıları için Ağustos 2018’de kullanıma
+sunulmuştur. Z Kuşağı’nın çevrimiçi zaman geçirmek, saçma
+videolar ve memler oluşturmak, birbirleriyle etkileşimde
+bulunmak, takipçi sayılarını artırmak için kullandığı ve bu
+süreçte nesil kültürü ve kimliği konusunda ateşli bir duygu
+geliştirdiği sosyal sitelerden biri olarak benimsenmiştir
+(Boffone, 2021; Zeng, Abidin ve Schafer, 2021).
+Kullanıcılarının kısa süreli video içerikleri oluşturmasına
+ve paylaşmasına olanak tanıyan TikTok’un temel özelliği,
+kullanıcılarının kreatif ve eğlenceli içerikler oluşturabilmeleri
+için geniş bir dizi video düzenleme aracına sahip olmasıdır.
+Bu araçlar, videolara efektler, müzikler, metinler ve filtreler
+eklemeyi kolaylaştırır. Z kuşağı, TikTok’un sunduğu
+hızlı ve eğlenceli içeriklere ilgi gösterir. Aynı zamanda bu
+
+--- Sayfa 28 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  23
+platform, Z kuşağının kendilerini ifade etmeleri, topluluklar
+oluşturmaları ve kendilerini benzer düşünenlerle bağlantı
+kurmaları için bir alan sunar.
+Instagram, Snapchat ve Twitter gibi ana akımlar, Among
+Us, Kik, ooVoo ve Houseparty gibi anlık uygulamalar Z
+kuşağı için değerli alanlar sağlamış olsa da TikTok son yıllarda
+popülerliği en hızlı artan uygulamadır. Aslında TikTok
+kullanıcılarının %60’ından fazlası Z kuşağına aittir (Doyle,
+2021). Bu nedenle gençlerin TikTok’u nasıl kullandığı,
+sosyal medya alanının Z kültürünü belirlemektedir. TikTok,
+sahicilik, özgünlük ve özdeşçilik teşvik etmesi nedeniyle
+büyük ölçüde Z kuşağı tarafından benimsenmiştir.
+Rakiplerinin, özellikle Instagram’ın, filtrelenmiş, mükemmel
+bir gerçeklik görüntülemesini teşvik ettiği bir ortamın
+aksine, TikTok estetik açıdan genellikle karışık, kaotik,
+komik ve gerçekçidir. Az sayıda anonimlik vardır ve içerik
+nadiren cilalanmıştır. Kültürel çalışmalar akademisyeni
+Melanie Kennedy (2020, 1072), “TikTok’un belirli
+estetiği”nin “saçmalık ve ilişkilendirilebilirlik” olduğunu
+belirtirken. Lamont (2020)’ye göre TikTok, “gençlerin ve
+ergenlerin saçma, utanmış, filtresiz olmak için geldikleri bir
+yer”olarak nitelendirilmektedir. TikTok kültürünün dijital
+alanı gençlere ergen deneyiminin filtresiz görünümünü
+sunma ve etkileşimde bulunma imkanını sağlar.
+TikTok hakkında giderek artan bir bilimsel çalışma
+yelpazesi, TikTok videolarının “kendilerini rastgele ve
+kısa ömürlü eğlence olarak değil, karmaşık, kültürel
+artefaktlar olarak sunduğunu” belirtmektedir (Schellewald,
+2021, 1439). TikTok videoları, kültürel artefaktlar
+olarak görüldüğünde, ergen okuyucuların platformu bir
+okuryazarlık pratiği, kimlik oluşturma ve paylaşılan ilgi
+alanları etrafında topluluk oluşturma sitesi olarak nasıl
+kullandığının inceliklerini gösterir. TikTok’un popülerliği,
+özellikle Z kuşağının ilgi alanlarına ve iletişim tercihlerine
+
+--- Sayfa 29 ---
+24  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+uygun bir platform sunmasından kaynaklanmaktadır.
+TikTok’un Z kuşağı tarafından benimsenmesindeki faktörler:
+•	 Özgünlük ve Doğallık: TikTok, kullanıcılarına mü-
+kemmel olmak zorunda olmadan kendilerini ifade
+etme fırsatı sunar. Diğer platformlar genellikle filtre-
+lenmiş ve idealize edilmiş bir gerçeklik sunarken, Tik-
+Tok’taki içerikler daha gerçekçi, dağınık ve samimidir.
+Bu, kullanıcıların kendilerini rahatça ifade etmelerini
+sağlar.
+•	 Kreatif Düzenleme Araçları: TikTok, kullanıcılarına
+videolarını daha eğlenceli hale getirmeleri için bir dizi
+kreatif düzenleme aracı sunar. Müzik ekleme, efektler
+kullanma ve metin eklemek gibi özellikler, kullanıcıla-
+rın videolarını kişiselleştirmelerine yardımcı olur.
+•	 Topluluk ve Etkileşim: TikTok, kullanıcıların birbirle-
+riyle etkileşimde bulunabileceği ve içeriklerini payla-
+şabileceği bir topluluk oluşturur. Beğeniler, yorumlar
+ve takipçiler aracılığıyla kullanıcılar arasında etkileşim
+teşvik edilir.
+•	 Müzik ve Dans: TikTok, müziği ve dansı ön plana
+çıkarır. Kullanıcılar popüler şarkılara eşlik edebilir ve
+dans videoları oluşturabilir. Bu, platformun eğlenceli
+ve yaratıcı bir ortam sunmasına katkı sağlar.
+1.3 Sosyal Medya Pazarlaması
+Sosyal medya, müşterilerle iletişim kurmak, marka
+bilinirliğini ve değerini artırmak, müşteri sadakati yaratmak
+için kullanılan bir pazarlama iletişimi haline gelmiştir
+(Barutçu ve Tomaş, 2013). Şirketler sosyal medyayı mevcut
+müşterilerle iletişim kurmak, potansiyel müşteriler kazanmak,
+markalarını ve imajlarını korumak için kullanmaya ve
+yönetmeye başlamışlardır. Sosyal medya, geleneksel araçlara
+göre daha düşük maliyeti ve doğrudan etkileşim avantajları
+
+--- Sayfa 30 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  25
+ile işletmeler tarafından tercih edilmektedir. İşletmelerin
+bu adımlarının amacı, sosyal medya ile farklı stratejiler
+uygulayarak markalarını pazarlamak ve hedef kitleye kolayca
+ulaşmaktır (Tüten, 2008).
+Sosyal medya, şirketlerin yeni pazarlama stratejileri
+hakkında farkındalık yaratmasına, reklamları paylaşmasına,
+müşterilerini yakından tanımasına ve kurumsal varlıklarının
+yanı sıra veri toplamasına olanak tanır (Paswan, 2018).
+Sosyal medya araçları pazarlama sürecine uzun zaman önce
+dahil olmuştur. Birçok tüketici bir ürünü satın almadan
+önce araştırma yapmakta olup, sosyal medya sayesinde satın
+alacakları ürün hakkında detaylı bilgi ve tavsiyeye ulaşmaları
+kolaylaşmıştır (Özel, 2012).
+Tüketici satın aldığı üründen memnun kalmazsa
+düşüncelerini sosyal medya üzerinden paylaşabilir ve diğer
+tüketicileri bilgilendirebilir. Tüketicilerin sosyal medya
+aracılığı ile yayılan ağızdan ağıza pazarlama iletişimi
+sebebiyle tüketim davranışlarında değişiklikler meydana
+gelmektedir. Bir ürünün olumlu veya olumsuz özelliklerini
+değerlendirmek, ürün hakkında bilgi almaya çalışmak ve
+arkadaşlarından etkilenmek, bir ürünle ilgili geçmiş deneyim
+ve şikayetleri incelemek, sosyal medya aracılığıyla değişen
+satın alma davranışlarını göstermektedir (Koçak vd., 2018).
+Sosyal medya iletişimi, zaman ve mekan sınırlaması
+olmaksızın yüksek düzeyde paylaşımın gerçekleştiği bir
+iletişim biçimidir. Kişiler ve şirketler sosyal medyada kurum,
+ürün ve hizmetlerini tanıtmakta, reklamlar oluşturmakta ve
+dostluk ilişkileri kurarak bu mecrada yer almaktadır. İnternet
+kullanıcılarının günlük hayatlarının önemli bir bölümünü
+sosyal
+medya
+platformlarında
+geçirmesi,
+pazarlama
+yöneticilerinin pazarlama faaliyetlerinde bu platformları
+kullanmasını kaçınılmaz kılmıştır. İşletmeler ve ürünleri
+hakkında her türlü olumlu-olumsuz yorum ve bilgilerin
+
+--- Sayfa 31 ---
+26  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+hızla yayılması işletmeler için birçok fırsatı beraberinde
+getirmekle birlikte tehdit oluşturmaktadır (Scepi ve Spano,
+2020).
+Sosyal
+medya
+platformlarının
+yaygınlaşması,
+müşterileri satın almak istedikleri ürün hakkında hızlı bilgi
+ve geri bildirim almak, satış sonrası yardım istemek, fırsatları
+değerlendirmek ve tehditleri önceden belirlemek için bu
+kanalı tercih etmeye itmiştir. Ayrıca müşterinin fikirlerini
+daha hızlı öğrenme amacıyla işletmelerin var olma sürecinde
+sosyal medyada yer almaları bir zorunluluk haline gelmiştir
+(Asperen vd., 2017).
+Sosyal medya pazarlamasının kullanımı ve etkililiği
+konusunda farklı görüşler bulunmaktadır. Savunucular,
+sosyal medya pazarlamasını tek yönlü bir iletişim aracı
+olarak
+kullanırken,
+keşifçiler,
+kullanıcılarla
+etkileşim
+sağlayan iki yönlü bir iletişim aracı olarak kullanırlar.
+Savunucular müşterilere eğlence sunarken, keşifçiler hem
+müşterilere hem de organizasyona eğlence sağlarlar (Felix,
+Rauschnabel ve Hinsch, 2016). Fietkiewicz vd. (2016),
+hedef kitlenin tanımlanması ve sosyal medya kullanım
+sıklığının anlaşılmasıyla, müşterilerle geliştirilmiş uzun
+vadeli bir iş ilişkisi sunmanın mümkün olduğunu savunur.
+Bu şekilde, müşterilerin marka bağlılığını ve karar verme
+sürecini etkileyebilirler. Ancak, Parsons ve Lepkowska-White
+(2018), yöneticilerin sosyal medya iletişimini kullanırken,
+organizasyonun
+çıkarlarından
+sapmadan
+firmalarının
+hedeflerini, yönetimini, yapısını ve kültürünü korumaları
+gerektiği konusunda uyarmaktadır.
+Çalışmalar, sosyal medya kullanımı ile bireysel davranış
+ve değerler arasında ilişkiler bulmuştur. Sosyal medya
+kullanımının süreklilik boyutu, kişinin sosyal medya
+faaliyetleriyle meşgul olması, sürekli sosyal medyada
+bulunması, çeşitli günlük yaşam aktivitelerini ve sosyal medya
+ortamında gerçekleştirilebilecek aktiviteleri yapabilecek
+yeterlilikte olmasını içermektedir (Deniz ve Ünal, 2019).
+
+--- Sayfa 32 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  27
+Markalar tarafında neden sorusu sorularak sosyal medya
+pazarlama stratejisi oluşturmanın ilk adımı atılmaktadır.
+Sosyal medya pazarlama stratejisi, sosyal medya aracılığıyla
+başarmayı, planlamayı ve harekete geçmeyi hedeflediğiniz
+her şeyi kapsamaktadır. İyi bir sosyal medya stratejisi
+geliştirmek için, teknolojilerin insanların birbirleriyle hızlı
+bir şekilde bağlantı kurmasına, sohbet etmesine, yaratmasına
+ve işbirliği yapmasına izin verdiğini anlamak önemlidir
+(Ang, 2012).
+İşletmeler reklam ve pazarlama konusunda attıkları
+adımlara dikkat etmek zorundadırlar. Önceden belirlenmiş
+stratejiler, alınan aksiyonlara yön verirken, belirlenen
+hedeflere ulaşmada izlenecek süreçler de yol göstermektedir.
+Bir işletmenin veya kuruluşun tüm sosyal medya pazarlama
+faaliyetlerini nasıl planlayacağı, uygulayacağı ve analiz
+edeceği holistik olarak belirlenmelidir. Oluşturulan plan veya
+strateji çok geniş bir kapsamdaysa, neyi başarmak istediğiniz
+ve o noktaya nasıl ulaşacağınız konusunda sorunlar olabilir.
+Bir sosyal medya pazarlama stratejisi için hazırlanan plan ne
+kadar şirkete özel, net ve kesin olursa o kadar etkili olmaktadır.
+Sosyal medya pazarlamasının daha geniş bir müşteri katılımı
+stratejisinin yanı sıra marka, satın alma, dönüştürme ve elde
+tutma stratejilerinin bir parçası olduğunu iddia edilmektedir.
+Stratejinin gerçekleştirilmesindeki en önemli adımlardan
+biri, bir plan dahilinde ilerlemek ve hedefe ulaşmak için
+dikkatli olmaktır (Chaffey ve Bosomworth, 2013).
+Bir kuruluşun bağlı olduğu kitleleri mükemmel bir
+şekilde anlamasının ne kadar önemli olduğunu ve alınan
+tüm eylemlerin merkezinde hedef kitleleri olduğu gerçeğini
+anlaması gerekmektedir. Markalar müşterilerinin satın alma
+ve tüketim sürecini etkileyen bir dizi dahili, çevresel ve
+kültürel faktörün ürünü olan karmaşık ve gelişen tüketici
+davranışlarını anlamalıdır (Akar, 2011).
+
+--- Sayfa 33 ---
+28  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Pazarlamanın ilk adımlarından biri, bir pazarı oluşturan
+tüm kategoriler içinde pazarın hangi segmentlerine odakla-
+nılmak ve hitap edilmek istendiğinin iyi belirlenmesidir. Bir
+segment, uygun bir hedef olabilmek için eylemlerde buluna-
+bilecek ve verimli iletişim kurabilecek birbirine yakın olan ki-
+şilerden oluşmalıdır. Makul bir kar marjını garanti etmek için
+hedef segment hacim olarak yeterince büyük olmalıdır. Sonuç
+olarak, tüketicilerin tüm gerçek amaçlarını anlayabilmek, bun-
+ları homojen birimler halinde gruplandırabilmek, grupları ta-
+nımlayabilmek ve şirketin teklifine fayda sağlama olasılığı daha
+yüksek olanları bölümlere ayırabilmek yani segmentasyon
+yapabilmek pazarlama stratejisi için kritik önem taşımaktadır
+(Pettingenew ve Menville, 2002). Z Kuşağı son on yılda pa-
+zarlamacılar, planlamacılar ve yöneticiler için anlaşılması ge-
+reken en önemli hedef segment olarak karşımıza çıkmaktadır.
+Bir diğer temel pazarlama kararı da konumlandırmada
+ve gerekli soruların cevaplanmasında yatmaktadır. Rekabette
+öne çıkmak için tüketicilerin zihninde hangi farklı konuma
+sahip olmak istiyoruz? Onlar için hangi gerçekliği temsil
+etmek istiyoruz? Bu gibi sorular başarılı bir konumlandırma
+düşüncesinin temel taşlarını oluşturmaktadır. Başarılı bir
+konumlandırma, hedeflenen segmentin beklentilerine karşılık
+geliyorsa, markayı bir veya iki taklit edilmesi zor avantajla
+yakından ilişkilendirecek ve bu da rakiplerin aynı avantajlara
+sahip olması ve marka ile pazarda yarışmasını zorlaştıracaktır
+(Bree, 2009). Z kuşağı segmentini hedefleyen firmalar için
+bu kuşağın özelliklerini, yaşam stilini, tercihlerini, online
+alışkanlıklarını ve sosyal medya ile olan ilişkilerini anlamak
+hayati önem taşımaktadır.
+Ürün ve hizmetlerler ilgili olarak, Z kuşağı tüketicilerinin
+yenilik, duyarlılık, etkileşim ve güvenilirlik ile ilgili
+beklentilerini dikkate alarak konumlandırma yapmadan
+anlamlı bir sonuç elde etmeyi beklemek markalar için zor
+olacaktır (Barutçu ve Tomaş, 2013).
+
+--- Sayfa 34 ---
+29
+BÖLÜM 2
+2. Dijital Yerliler: Z Kuşağı
+2.1. Z Kuşağı Tanımı
+Kuşak ve onun eşanlamlısı olan nesil ifadeleri TDK’ya
+göre; yaklaşık olarak aynı yıllarda doğmuş, aynı çağın
+şartlarını, dolayısıyla birbirine benzer sıkıntıları, kaderleri
+paylaşmış, benzer ödevlerle yükümlü olmuş kişilerin
+topluluğu yahut yaklaşık yirmi beş otuz yıllık yaş kümelerini
+oluşturan bireyler öbeği, göbek, nesil, batın, jenerasyon
+olarak ifade edilmektedir (TDK, 2019).
+Tarih boyunca yaşanan tüm büyük çaplı gelişmeler ve
+değişimler, toplumları derinden etkilemiş ve hem bireyi
+hem de toplumsal yapıyı psikolojik ve sosyal açıdan belli
+oranlarda dönüştürmüştür. Bu durumun bir sonucu olarak,
+toplumun ve bireyin yaşadığı değişimi anlamlandırmak ve
+açıklamak için nesil ya da kuşak ifadesi kullanılagelmiştir.
+Özellikle 20. ve 21. yüzyıl toplumlarını açıklama
+çabalarında sıklıkla başvurulan kuşak ifadesi önceki
+yüzyıllarda toplumsal değişim ve dönüşümlerin son iki
+yüzyılda yaşananlar kadar hızlı cereyan etmediği yorumuna
+neden olmaktadır. 1960’lardan itibaren onlarca yıldır
+süregelen geleneklerin yerini belli etkenler dolayısıyla
+mümkün olan yeni olgular almaya başlamış ve özellikle
+teknoloji alanında gerçekleşen süratli ve devamlı bir yenilik
+
+--- Sayfa 35 ---
+30  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+dalgası toplumların hızla değişim yaşamalarına yol açmıştır.
+Bu dönüşüm o kadar hızlı gerçekleşmektedir ki, önceki
+toplumlarda bir birey kendisinden birkaç yüzyıl önce yaşayan
+insanlarla hemen hemen aynı şartlarda gündelik yaşantısını
+devam ettirirken, Sanayi devrimi ve akabinde yaşanan bilgi
+toplumuna geçiş süreçleriyle birlikte birkaç on yıl içerisinde,
+öncekinden çok farklı şartlarda yaşamını devam ettiren
+toplumlar ortaya çıkmıştır.
+Z kuşağının hangi tarihten itibaren başladığına dair
+üzerinde uzlaşılmış tek bir tarih bulunmamaktadır. Bunun
+sebebi, kavramı kullanan insanların kendi tanımlamalarını
+oluştururken başvurdukları kriter farklarının yanı sıra
+günümüz toplumlarının, değişim ve dönüşümleri topyekun
+bir şekilde yaşamıyor oluşudur.
+Kavram ve tanımların açıklamalarında karşımıza çıkan
+bu tam uzlaşıdan yoksunluk hali, sanayi sonrası dönemi
+açıklamak için başvurulan hemen her konuda kendisini
+göstermektedir. Tarım toplumunun sadeliği ve sanayi
+toplumunun standardından uzak, çok daha karmaşık ve çok
+değişkenli bir toplum düzenini anlamak ve açıklamak için
+başvurulan yol ve yöntemler ile ortaya konulan kavram ve
+tanımlardaki bu çeşitlilik oldukça doğaldır.
+Toplum bilimlerin ana nesnesi olan insan faktörünün
+karmaşıklığından dolayı, doğa bilimlerinin aksine, toplum
+bilimlerinde genel geçer kurallara yahut temel kanunlara
+ulaşılamadığı ifade edilmektedir. Bu güçlüğün yanı sıra yeni
+toplum düzeninin karmaşık ve öngörülemez şekilde diğer
+nesnelerle bütünleşmesi doğal olarak her türlü tanımlama
+çabasında birden fazla görüşü ve çeşitli bakış açılarını
+doğurmaktadır. Kimi kaynaklarda 1996-1997 yıllarında
+doğanları kapsadığı ifade ediliyor olsa da günümüzde
+2000 yılı Z kuşağı için başlangıç olarak kabul edilmektedir.
+Milenyum olarak da ifade edilen 2000 yılı 21. Yüzyılın
+
+--- Sayfa 36 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  31
+başlangıcı ve yeni yüzyılın ilk yılı olması dolayısıyla
+önemlidir. Teknolojinin, gelişmiş toplumlarda hakim unsur
+haline geldiği dönem olarak nitelenen 21. Yüzyılın ilk
+çeyreği yeni bir toplumsal sınıflamaya neden olmuştur. 21.
+Yüzyılın içine doğan yeni nesil Z Kuşağı olarak nitelenmeye
+başlamış olup, bu kuşağa internet kuşağı da denmektedir.
+Bazı nüfus bilimcileri, Y Kuşağından sonraki son
+nesil olarak kabul edilen Z Kuşağı için, Gen Z, IGen,
+İnternet Kuşağı, Next Generation gibi isimlendirmeleri
+kullanmışlardır (Ericsson, 2012).
+Dijital yerli, dijital bir dünyanın içerisine doğan ve dijital
+ortamları etkin bir şekilde kullanabilen bireylere verilen
+isimdir (Prensky, 2001). Z kuşağı olarak bilinen bireylerin
+doğar doğmaz dijital ortamla uyum içerisinde olmaları,
+adeta teknoloji ve sanal ortamın nasıl kullanıldığını öğrenerek
+dünyaya gelmeleri onların literatürde dijital yerliler olarak
+adlandırılmalarına sebep olmaktadır.
+Bu neslin eğitim ve iş yaşamına dair gözlemlere
+bakıldığında, 2020’lerde okul ve üniversite çağlarındayken,
+2030’ların ortalarına doğru ekonomik, siyasi ve toplumsal
+alanlarda etkili bir rol oynayacakları görülmektedir. Bu 21.
+yüzyıl neslinin büyüme ve gelişme biçiminin geleceğimizi
+şekillendireceği bir gerçektir.
+Bu kuşağın üyeleri, çocukluk ve erken gençlik
+dönemlerinde, küresel krizler, çevre sorunları, terör saldırıları
+gibi olumsuz olaylara şahit olmuş ve bu olaylar doğrudan
+ya da dolaylı olarak onları etkilemiştir. Bu olumsuzlukların
+yanı sıra, internet ve sosyal medya gibi dijital teknolojideki
+gelişmelere ve bilgisayarlar, cep telefonları ve tabletler gibi
+elektronik cihazların yaygınlaşmasına tanık olmuşlardır
+(Grail Research Raporu, 2011:3).
+Bu kuşağın, ilk küresel nesil olarak kabul edilebileceği
+söylenebilir. Küreselleşme ile birlikte, dünyanın her yerinde
+
+--- Sayfa 37 ---
+32  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+benzer fırsatlara sahip olmak ve benzer hizmetlere erişmek
+mümkün hale gelmiştir. Kültür ve tarihin, bireylerin
+tutumları üzerinde etkisi olmasına rağmen, Z Kuşağı
+ile birlikte neredeyse tüm dünyada benzer özellikler
+gözlenmekte ve insanlar daha önce hiç olmadığı kadar
+birbirine benzemektedir (Havas People, 2014:12).
+Z Kuşağı, toplam nüfus içinde 26 milyona yaklaşan
+oranıyla Türkiye nüfusunun yüzde 30’luk kesimini temsil
+eden en genç ve aktif kuşak olarak nitelenmektedir.
+Yakın gelecekte iş ve siyasi hayatta da aktif rol alacak bu
+kuşağın yaşam pratikleri ve hayat algılarının ülkenin genel
+yapısı üzerinde oldukça önemli etkilere neden olacağı
+düşünülmektedir.
+2.2. Z Kuşağı Karakteristikleri
+Z Kuşağını diğer kuşaklardan ayıran en belirgin özellik,
+teknolojinin özel yaşamlarıyla son derece entegre olması ve
+diğer kuşaklara kıyasla çok daha hızlı bir şekilde evriliyor
+olmasıdır (Levickaite, 2010:173).
+Bu nesil de, önceki kuşaklar gibi yaşadığı dönemde küresel
+ve ekonomik krizler, özellikle “Mortgage Krizi” gibi olaylara
+ve tarih boyunca var olan terör olaylarına tanık olmuş ve
+hala tanıklık etmektedir (Arar ve Yüksel, 2015:197).
+Bu kuşak, teknolojiyi hızla öğrenen, görevleri hızlı bir
+şekilde tamamlamaktan hoşlanan ve birçok görevin hızla
+üstesinden gelebilen bir nesildir, ancak bu hızlılık bazen
+doğruluk ve kesinlikten ödün verme eğilimindedir (Ayhün,
+2013:102). Z Kuşağının, takım çalışmasında zorluk
+yaşaması ve zaman zaman sabırsız davranması olumsuz
+özellikleri arasındadır (Akar, 2015:39). Bununla birlikte, bu
+neslin bireyleri teknoloji ve insan gelişiminin son sürümünü
+temsil ettiği için son derece zeki, bireysel odaklı ve bilgiyi
+hızla anlayıp işleyebilen bireylerdir (Akar, 2015:39).
+
+--- Sayfa 38 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  33
+Z Kuşağı, dünyayı değiştirmek isteyen, Y Kuşağına
+kıyasla girişimcilik eğilimleri daha yüksek olan, bağımsız
+çalışmayı tercih eden ve ekonomik konulara daha fazla ilgi
+duyan bir nesildir (Peterson, 2014:1). Bu neslin üyeleri,
+önceki kuşaklara göre daha gerçekçi, iyimser ve ilerleyen
+teknolojinin gelecekte getireceği fırsatların farkında olan
+bireylerdir(Kemp, 2014:1).
+Z Kuşağı önemli olaylar hakkında fazla düşünmemekle
+beraber; mobiliteden, evrensel değerlerden, sanallaşmadan
+etkilenen ilk küresel nesil olma özelliği göstermektedir. Z
+kuşağının %73’ü, akranları tarafından saygı görmeyi önemli
+bulduklarını belirtmekte, yaklaşık %40’ı, diğer insanların
+görüşlerinden kolayca etkilendiğini söylemektedir (Global
+Web Index, 2018).
+Z Kuşağı, akranları tarafından saygı görmek istediği
+için etki yaratmaktan hoşlanmakta ve yeni deneyimler
+aracılığıyla
+kendilerini
+geliştirmeyi
+amaçlamaktadır.
+Kalabalıktan sıyrılmak, risk almak, zorluklarla, yeniliklerle
+ve değişimle dolu bir hayatı sürdürmeyi isterken, kendilerini
+ani ve spontan düşünme konusunda milenyum kuşağından
+%25 daha fazla etkin hissetmektedir (Global Web Index,
+2018).
+Milenyum kuşağı “Ben Nesli” olarak bilinirken, Z kuşağı
+toplumsal açıdan duyarlıdır ve genellikle önemsedikleri
+konuları savunurlar. Z kuşağının %55’i çevre dostu ve
+sosyal sorumluluğa sahip markaları tercih etmektedir (Efros,
+2019).
+Z kuşağı, özellikle benzersiz bir bakış açısı, tarz ve
+sıradışı hobiler ile ilgi alanlarını ifade etme ihtiyacına sahiptir
+(OC&C, 2019). Bu kuşak, önceki nesillere göre marka
+sadakati daha az olan ve lüks markalar konusunda düşkünlüğü
+olmayan bir izlenim vermektedir. Z kuşağı, yüksek kaliteli,
+fonksiyonel ve modaya uygun ürünleri yansıtan kişisel bir
+
+--- Sayfa 39 ---
+34  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+tarz sergilemek istemektedir. Tercih ettikleri ürünler pahalı
+görünsede pahalı olmayan ürünler olup, böylece kişisel
+markalarını diğer insanlara karşı daha çekici kılmak için özel
+bir görünüm algısını oluşturmaktadırlar (Vision Critical,
+2016).
+Z kuşağı, önemli tüketim gücüne sahip en genç ve
+gelecekteki en büyük tüketici grubudur (Euromonitor,
+2018). Bu nedenle, Z kuşağı, pazarlamacılar arasında yoğun
+bir odak noktası ve ilgi odağıdır. Ancak aynı zamanda, yaşam
+tercihleri ve tüketim alışkanlıkları önceki nesillerden oldukça
+farklı olduğu için pazarlamacılar için büyük bir zorluğu
+da temsil etmektedir (Özkan ve Solmaz, 2017). Harcama
+konusunda büyük harcayıcılar olarak algılanan milenyum
+kuşağından farklı olarak, Z gençleri para konusunda daha
+muhafazakar olma eğilimindedir. Bir ürün/hizmet satın
+almadan önce çoğu önemli bir araştırma yapmakta, her
+zaman indirim aramakta ve maliyet performansına daha
+fazla dikkat etmektedir. Z’ler arasında düşüncesiz tüketim
+davranışı da önemli ölçüde azalmıştır. Z tüketicileri, kaliteyi
+fiyata tercih etmeye istekli olmamakta (Kim vd. 2020);
+kişisel memnuniyetin yanı sıra sosyal etki konusunda da
+endişe duymakta ve kendi ihtiyaçlarına göre yeni ve anlamlı
+deneyimleri keşfetmeyi tercih etmektedirler (Abdullah,
+Ismail ve Albani, 2018).
+Tüketim, Z kuşağı için bir tür özdeşleşme biçimi haline
+gelmiştir. Milenyum kuşağına kıyasla, Z tüketicileri bireysel
+ihtiyaçlarını karşılayan özelleştirilmiş hizmetlere ve ürünlere
+önem vermekte; kendi benzersizlik ve özgünlüklerini
+gösteren markaları tercih etmekte; ve bu süreçte daha yüksek
+fiyatlar ödemeyi göze almaktadırlar (Francis ve Hoefel,
+2018). Deneyimlerden kişiselleştirilmiş etiketlere kadar,
+günlük yaşamlarını zenginleştiren ve anlam katan şeylere
+para harcamaya daha isteklidirler.
+
+--- Sayfa 40 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  35
+2.3. Z Kuşağının Dijital Yerli olarak Adlandırılması
+2000 yılı öncesi doğan birçok bireyin hayatında; yeni
+bir icat, gelişme yahut yeni teknoloji olarak yer alan her
+türden teknolojik unsur, Z kuşağı bireyleri için hali hazırda
+var olan, hayretle karşılanma gereği duyulmayan, hatta kimi
+zaman merak sebebine dahi dönüşmeyen sıradan teknolojiler
+olarak algılanmaktadır. Teknolojinin hızla gelişim gösterdiği
+bir dönemin içine doğmuş olmaları dolayısıyla teknolojik
+araçların kullanımının temel becerileri arasında yer aldığı
+bu kuşağın teknoloji ile iç içe olma durumu onları önceki
+kuşaklardan ayıran en önemli farktır. Teknolojik gelişmelerin
+içine doğan bu kuşağın beyin gelişimleri de içinde
+yaşadıkları teknoloji çağı ve karşı karşıya kaldıkları tüm
+teknolojik unsurlar dolayısıyla belli bazı değişimler yaşamış
+ve bu bireyler farklı düşünme metotları ve yeni öğrenme
+sistematikleri oluşturmaya başlamışlardır (Savaş ve Karataş,
+2019:225).
+İçinde bulunulan; kültür, çevre, sosyo-ekonomik yapı ve
+teknoloji bireyin düşünme biçiminden davranış özelliklerine
+kadar etki etmekte ve bu etkiler dolayısıyla birbirinden farklı
+özellikler gösteren topluluklar ortaya çıkmaktadır. Kuşak
+kavramıyla ifade edilen ve birbirinden farklı dönemlerin
+özelliklerini yansıttığı düşünülen nesiller arasındaki farklar,
+yukarıda sıralanmış olan faktörler dolayısıyla mümkün
+olmaktadır (Savaş ve Karataş, 2019:226).
+Z Kuşağı’nın önceki nesillere göre farkını araştıran
+ilk çalışmalardan biri Marc Prensky tarafından en erken
+dönemde 2001 yılında yapılmıştır. Dijital yerli ve djital
+göçmen kavramlarını da ilk olarak kullanan isim olan Prensky,
+yeni neslin düşünme ve öğrenme pratikleri açısından önceki
+nesillere göre büyük farklılıklar taşıyacağını ve bu durumdan
+dolayı onların beyin yapılarında fiziksel bir fark olduğu
+
+--- Sayfa 41 ---
+36  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+söylenemeyecek olsa dahi yapısal bir farklılığın söz konusu
+olacağını ifade etmiştir Prensky (2001).
+Eleştirel yaklaşımlar bulunmakla birlikte oldukça ses
+getiren bu çalışmasında Prensky (2001), teknoloji dilinin
+içine doğan yeni nesli bu dili öğrenme ve kullanmada
+ana dil seviyesinde yetkinliğe ulaşma becerisinden dolayı
+“natives” (yerliler) olarak ifade etmiştir. Sonradan öğrenilen
+ikinci dil veya diğer bir ifadeyle yabancı dil bilgisi, kullanım
+düzeyi ve hatta insan beyninde konumlandığı yer açısından
+anadile göre çok farklı olduğu için, bu alandaki farklılık ve
+benzerlikler dijital teknolojiyle doğuştan haşır neşir olan
+nesil ile bu dili sonradan öğrenen önceki nesiller arasındaki
+farkı tanımlamak için kullanılmıştır (Prensky, 2001).
+Prensky (2001:4), bilgiye erişim ve iletişim yöntemleri
+arasındaki farkların davranış ve düşünme pratikleri üzerinde
+farklar doğuracağına dikkat çektiği çalışmasında, bu dili
+sonradan öğrenen nesli “immigrants” göçmenler olarak
+nitelendirmiştir.
+2.4. Z Kuşağının Bilgi Edinme Alışkanlıkları
+Z Kuşağının bireyleri, doğum tarihleri itibariyle ileri
+teknolojilerle büyüdüklerinden dolayı teknoloji merkezli
+bir yaşam tarzına sahiptirler. Diğer nesillerin aksine,
+teknolojiyi sonradan öğrenen veya benimseyen değil,
+teknolojinin içinde doğan bireylerdir. Bu nedenle diğer
+nesillerin geleneksel yöntemleri bu kuşak için anlam
+taşımamaktadır. Diğer nesiller, bilgiyi okuyarak öğrenme
+eğilimindeyken, Z Kuşağı, bilgiyi video platformlarında
+arama ve tüketme eğilimindedir. Z Kuşağının üyeleri,
+sosyal medyada içerik tüketmenin yanı sıra aktif olarak
+içerik üretmektedirler. Birçoğu, video blogları (vlog) ile
+milyonlarca takipçiye içerik sunmaktadır (Kapil ve Roy,
+2014:11-13).
+
+--- Sayfa 42 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  37
+Z Nesli bireyleri teknolojiye oldukça bağımlıdır. En az bir
+elektronik cihaza sahiptirler ve bilgi iletişim teknolojilerini
+sıklıkla kullanırlar. Bu kuşağın teknolojiye bu kadar adapte
+olması, eğitim hayatlarında teknoloji kullanımını kaçınılmaz
+hale getirmektedir (Grail Research, 2011:2-5).
+Eğitimde teknolojinin aktif bir şekilde kullanılması,
+bilgiye hızlı erişimi kolaylaştırdığı için bu gençler bilgiyi
+ezberlemek yerine, nasıl erişeceklerini, yorumlayacaklarını
+ve nasıl kullanacaklarını öğrenmeyi tercih ederler (Sladek ve
+Grabinger, 2016:11).
+Bu kuşak üyeleri, günlük yaşamlarında yoğun bir bilgi
+akışına maruz kalırlar. Bu durum, bu kuşağı karmaşık bilgileri
+analiz etme becerisi kazanmaya iter. Ayrıca, bilgisayar başında
+aynı anda birçok görevi yönetebildiklerinden, çoklu görev
+yapabilme yetenekleri gelişmiştir. Bu çoklu görev yapabilen
+bireyler, eğitimlerinde uygun koşullar sağlandığında son derece
+başarılı olmaktadırlar (Knoll Workplace Research, 2014:3-4).
+2.5. Z Kuşağının Kariyeri
+Z Kuşağı bireylerinin ebeveynlerinin çoğunlukla X
+Kuşağı üyelerinden olması, Z Kuşağı’nın özel karakteristik
+özelliklerinin gelişmesinde önemli bir faktördür. X kuşağı
+üyeleri, kendi başlarına birçok zorluğun üstesinden gelmek
+zorunda kaldıkları için, çocuklarının hayata karşı daha
+pragmatik bir bakış açısı geliştirmelerini, kendi kararlarını
+verebilmelerini, geleneksel eğilimlere sıkı sıkıya bağlı
+olmamalarını ve kendi uygun yollarını deneyimleyerek
+bulmalarını teşvik etmektedir. Bu şekilde yetiştirilen Z
+Kuşağı üyelerinin, liderlik ve yönetim becerilerinin gelişeceği
+ve iş dünyasında önemli değişikliklere yol açabileceği tahmin
+edilmektedir (Sladek ve Grabinger, 2013:1).
+Z Kuşağı üyelerinin aile bağları oldukça sağlamdır.
+Aileleri, gençlerin kendi kararlarını verme yeteneklerini
+
+--- Sayfa 43 ---
+38  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+geliştirmelerini isterler, ancak gençler her konuda ailelerinden
+destek almayı alışkanlık haline getirmişlerdir. Bu nedenle
+Z Kuşağı üyelerinin birçoğu, kariyer planlamalarında
+ailelerinin etkisinin olacağını düşünmektedirler.
+Z Kuşağı bireyleri, rekabetin yoğun olduğu bir dünyada
+yaşadıkları için, rekabetçi bir ruha sahip olmaları gerektiğini
+düşünmektedirler (Kapil ve Roy, 2014:13). Ayrıca, erken
+yaşlarda iş deneyimi kazanma konusunda oldukça isteklidirler.
+Ancak, önceki kuşakların genç yaşlarda iş hayatına atıldıkları
+zamanlara kıyasla, bu kuşak bireylerinin çoğu ilk gençlik
+dönemlerinde dahi iş deneyimine sahip olma şansını
+yakalayamamaktadır. Bu durumun en büyük nedenleri
+arasında iş yasaları ve otomasyonun etkisi yer almaktadır.
+Eskiden gençlere verilen işler şimdi makineler tarafından
+gerçekleştirilmektedir. Ayrıca, birçok iş için çalışma yaşı
+prosedürleri arttığından Z Kuşağı’nın iş deneyimi diğer
+kuşaklara göre daha geç yaşlarda başlamaktadır (Sladek ve
+Grabinger, 2013:5).
+2.6. Z Kuşağının Dijital Dünya İle İlişkisi
+Z Kuşağı, hali hazırda var olan mobil teknolojiyle doğan
+ve bu teknolojiyle hem rahat hisseden hem de kendini ona
+bağımlı kılan ilk nesildir. Z kuşağı için sosyalleşmek mutlaka
+arkadaşlarla fiziksel olarak görüşmek, birlikte alışveriş
+yapmak değil, çevrimiçi olarak gerçekleşen bir etkinlik
+anlamına gelmektedir. Bununla birlikte, kuşağın sürekli
+olarak bağlantıda kalmak için ihtiyaç duyduğu tüm ekipman
+gittikleri her yerde yanlarında olduğu için, tek bir lokasyona
+bağlı kalmamaktadırlar. Bu durum Y Kuşağı ve Z Kuşağı
+arasındaki temel farklardan biri olarak gösterilmektedir. Y
+Kuşağı, bu tip teknolojilerin yayılmasından önceki hayatı
+daha belirgin olarak hatırlarken, Z Kuşağı için durum
+genellikle bu şekilde değildir.
+
+--- Sayfa 44 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  39
+Z Kuşağının döneminde teknoloji hayatın içine giderek
+daha fazla girmiştir. Akıllı telefonlar yaygınlaşmış, cihazlar
+gelişmiş, fiyatları uygun hale gelerek teknoloji, bilgi
+erişimine kolaylık fırsatı sunmuştur. Dolayısıyla bu kuşak,
+teknolojiyi yoğun olarak kullanan, seven, internet ve mobil
+teknolojilerle etkileşim içinde olarak; onlar aracılığıyla
+sosyalleşen kişilerden oluşmaktadır (Bağçı ve İçöz,
+2019:234). Z Kuşağı “bugüne kadar teknolojiye en doymuş
+nesil” olarak nitelendirilmektedir ve üyeleri teknolojiyi
+günlük hayatlarına sorunsuz bir şekilde entegre etmektedir.
+İnternette araştırma yapmak, Z Kuşağı kullanıcılarına ve
+yaş gruplarına olumlu ve olumsuz durumlar sunabilmektedir.
+Olumlu olarak, çalışmalarında bilgi ve beceri gelişimi
+sağlaması ve bu durumun onları daha bağımsız öğrenenler
+haline getirmesi gösterilmektedir. Diğer taraftan ise
+oluşabilecek bir takım zorluklar onların sağlıklarına zarar
+verebilmekte, strese ve depresyona sevk edebilmektedir. Bu
+kuşağın üyeleri sürekli değişimden korkmamakta ve internet
+dünyası aracılığıyla çok fazla bilgiye sahip olmaktadır.
+Hayatlarındaki bazı sorunları çözmek için de yine internette
+çözümler bulmaya çalışmaktadırlar (Bencsik, Horváth-
+Csikós ve Juhász, 2016:93).
+Bilgiye erişim entelektüel gelişim için bir avantaj olmakla
+birlikte tersi bir etki olarak teknolojinin istilası, Z kuşağı
+gençlerini belli risklere maruz bırakmaktadır. Bilgisayar
+onlar için çok şeyi gerçekleştirebildiğinden, bazıları basit
+hesaplar yapamamakta veya elle yazımda zorlanabilmektedir.
+Teknolojilerin
+çocukların
+sosyal
+becerileri
+üzerinde
+büyük etkisi olduğu ve yaratıcı düşünmeyi engellediği
+belirtilmektedir. Uzmanlar; sanal dünyada kendilerini izole
+eden birçok ergen yaştaki gencin, çevrelerinde bulunan
+insanların duygularını tanımlayamadığını belirtmektedir.
+Aynı zamanda bilgisayar kullanmanın diğer yan etkisi
+
+--- Sayfa 45 ---
+40  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+ise saldırgan davranışlar olarak nitelenmektedir (Budac,
+2015:8).
+Teknolojik cihazlara çok fazla maruz kalmanın diğer
+sonuçları ise artan obezite ihtimali, okulda veya işte düşük
+performans ve daha önceden de belirtildiği üzere zayıf sosyal
+beceriler, uygu eksikliği, depresyon ve kaygıya yatkınlık
+şeklinde sıralanmaktadır.
+Z kuşağının ebeveynleri, çocukları için fiziksel etkileşime
+kıyasla internete maruz kalınan zamanın fazlalığından endişe
+etseler de, Z Kuşağı için gerçek, teknolojinin onlara zarar
+verebilecek bir araç olmadığı, hatta bilginin hareketini ve
+sunumunu daha da hızlandırdığıdır (Salleh, Mahbob ve
+Baharudin, 2017:61).
+Z kuşağının %64’ü her zaman çevrimiçi bağlı olduklarını
+belirtirken, %57’si cüzdanlarından ziyade cep telefonları
+olmadığında
+kendilerini
+güvende
+hissetmediklerini
+söylemektedir. Z Kuşağının %90’dan fazlası alışveriş
+deneyimleri için güçlü bir WiFi sinyali talep etmekte ve
+mağazalardaki “Sihirli Aynalar” gibi diğer gelişmekte olan
+teknolojilere hayranlık duymaktadır (Efros, 2019).
+Analog eğlence gerilediğinden beri, dijital eğlence
+özellikle akış hizmetleri alanında büyümüştür. Genel olarak
+Z kuşağının dijital alışveriş davranışlarına bakıldığında,
+genellikle müzik, oyun ve eğitimle ilgili dijital içerik için
+ödeme yapmaya istekli oldukları öne çıkmaktadır. 2015
+yılından bu yana, Z müşterilerinin film/TV akış hizmetleri
+için ödeme yapma sayısı %25 artmıştır. Daha da önemlisi, Z
+segmentin müzik akış hizmeti için ödeme yapmış olanlarının
+sayısı 2015 yılından bu yana neredeyse iki katına çıkmıştır.
+Akış medyası, Z kuşağının alıştığı türde, onların zevklerine,
+programlarına ve dikkat sürelerine uygun içerik sunmaktadır.
+Z Kuşağı gençleri arasında interneti kullanmanın en önemli
+ikinci nedeni TV ve video içerik izlemek olup, müzik ve
+
+--- Sayfa 46 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  41
+video gibi ücretli akış hizmetlerine olan ilgileri yüksektir
+(Global Web Index, 2018).
+2.7 Z Kuşağının Sosyal Medya ile İlişkisi
+Teknoloji kendi dönüşümüyle birlikte Z kuşağını da
+sosyal medyada şekillendirmektedir. Bilgisayar dönemi
+doğdukları yıllara hükmederken, bugün mobil cihaz
+dönemi dönüştürücü niteliktedir. En erken zamanda doğan
+Z Kuşağı üyeleri, doğdukları zamanda mevcut olmayan
+uygulama, tweet, tablet, durum güncellemesi, bulut bilişim
+gibi terimleri bugün sözlüklerine eklemişlerdir.
+Bu kuşağın teknolojiyi hayatına böylesine entegre
+etmesi ve küçük yaşlardan beri kullanıyor olması, bu
+durumu soludukları hava kadar normal kılar niteliktedir.
+Bu entegrasyona Mark McCrindle (2021)’ın yaptığı bir
+araştırmada Avustralyalı gençlerin yarısından fazlasının kol
+saati takmadığı çünkü saate bakmak için cep telefonlarını
+birincil cihaz olarak kullandıkları örnek gösterilmektedir.
+Aynı şekilde hava durumunu kontrol etmek, fotoğraf çekmek
+için de cep telefonu birincil cihaz niteliğindedir.
+Z kuşağı için akıllı telefonlar hayatlarının merkezindedir.
+Bu kuşak için internete erişmek için kullanılan en yaygın
+cihazlar akıllı telefonlardır ve Z kuşağının %97’si bir akıllı
+telefona sahiptir. 2018 yılının sonuna kadar bu grup, günlük
+ortalama 4 saat 15 dakika mobil cihaz kullanımı ile diğer
+tüm kuşak grupları arasında en uzun süreli kullanıcı olarak
+ön plana çıkmıştır. Ayrıca, mobil cihazlar, fotoğraf yükleme/
+paylaşma gibi sosyal medya aktivitelerini içeren konularda
+masaüstü bilgisayar/laptoplara göre dikkate değer bir
+üstünlüğe sahiptir (Global Web Index, 2018).
+Z kuşağı diğer tüm kuşaklara oranla sosyal medyada
+daha fazla vakit geçirmektedir. Kadınlar 3 saat 14 saniye,
+erkekler 2 saat 39 saniyesini sosyal medyada geçirmektedir
+
+--- Sayfa 47 ---
+42  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+(wearesocial, 2021). Türkiye’nin genel nüfusunun %77.7’si
+internet kullanıcısı, %70.8’i aktif sosyal medya kullanıcısı
+olup, Türkiye dünyada Amerika’dan hemen sonra 32.
+sırada yer almaktadır. Türkiye’deki 15-24 yaş arasındaki
+Z kuşağının toplam nüfusa oranı (%23) Avrupa Birliğine
+(%10.7) kıyasla daha yüksek olması, Türkiye’nin internet
+ve sosyal medya kullanımında dünya ortalamasının üzerinde
+olmasını da beraberinde getirmektedir (thinkwithgoogle,
+2022). Tüm dünyadaki Z kuşağının %66’sı için sosyal
+medya hayatlarının vazgeçilmez bir parçası olurken %65’i
+geçtiğimiz yıla göre daha fazla sosyal medyayı kullandığını
+söylemekte ve %45’i de önümüzdeki yıllarda sosyal medya
+kullanımının artacağını öngörmektedir (sproutsocial, 2023).
+Global düzeyde, en yaygın kullanılan sosyal medya
+platformları sırasıyla Facebook, Youtube, Whatsapp,
+Instagram, WeChat, TikTok ve Snapchat olurken, sosyal
+medya mobil uygulamalarında en fazla zaman harcanan
+platformların başında Youtube gelmektedir (aylık ortalama
+23 saat). Facebook, Whatsapp, Instagram ve Tiktok da
+sıralamanın önemli bir parçasını oluşturmaktadır.
+Z Kuşağı’nın %82’si Instagram ve Youtube’u en
+sevdikleri sosyal medya platformları olarak görmekte, %56’sı
+markaların Instagram’da ve %38’i de Youtube’da daha fazla
+görünmesini arzu etmektedir (sproutsocial, 2023).
+Türkiye’de Z Kuşağı, genel olarak sosyal medya
+reklamlarının en büyük ikinci hedef kitlesi olarak öne
+çıkmaktadır. Ancak, sosyal medya platformlarına özgü
+olarak hedef kitle oranlarında farklılıklar gözlenmektedir. Bu
+farklılıklar ve Z Kuşağı’nın ön plana çıktığı platformlar:
+•	 Instagram reklamları, Z Kuşağı için büyük bir ilgi
+çekmektedir ve Z Kuşağı, bu platformun en büyük
+hedef kitlesi olarak %38’lik bir oranla öne çıkmakta-
+
+--- Sayfa 48 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  43
+dır. 2022 yılında Instagram reklamlarının Z Kuşağına
+erişimi, 2021’e göre %90 oranında artmıştır.
+•	 Youtube’da ise Z Kuşağı, hedef kitlesi olarak %15’lik
+bir oranla öne çıkmaktadır. Ancak, bu platformda Y
+Kuşağı %20’ lik oranla hala büyük bir paya sahiptir.
+•	 Linkedin’de Z Kuşağı, %19.2’lik bir payla en büyük
+ikinci hedef kitle olarak yer almaktadır.
+•	 Snapchat platformunda, Z Kuşağı %40’lık bir oran-
+la üstünlük sağlamaktadır. Twitter’da da %33’lük bir
+oranla Z Kuşağı öne çıkmaktadır.
+•	 Pinterest’te ise Y Kuşağı açık ara önde bulunurken,
+Z Kuşağı üçüncü büyük hedef kitlesi olarak dikkat
+çekmektedir.
+Son yıllarda, TikTok, Z Kuşağının ilgisini çeken ve sosyal
+medyanın dönüşümünde önemli rol oynayan bir platform
+haline gelmiştir. TikTok, özgünlük, yaratıcılık, topluluk
+oluşturma ve müziğe dayalı içerikler gibi özellikleriyle
+diğer platformlardan ayrılmaktadır. Z Kuşağı, TikTok’u
+benimsemiş ve bu platformun kültürel etkilerini ve
+iletişim alışkanlıklarını taşımaya başlamıştır. TikTok, sosyal
+medyanın geleceğini şekillendiren önemli bir fenomen
+olarak kabul edilmektedir (wearesocial, 2021).
+Türkiye’de 2022’de sırası ile en çok kullanılan sosyal
+medya platformları sıralanmaktadır (datareportal, 2022):
+1-
+Youtube (%94.5)
+2-
+Instagram (%89.5)
+3-
+Whatsapp (%87.5)
+4-
+Facebook (%79)
+5-
+Twitter (%72.5)
+6-
+FB (Facebook) messenger (%54)
+
+--- Sayfa 49 ---
+44  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+7-
+Pinterest (%37.9)
+8-
+Linkedin (%37.5)
+9-
+Tiktok (%32.2)
+10-	 Skype, Snapchat ve Twitch.
+Z Kuşağı için, “video” kelimesi, dünyaya açılan kapının
+anahtarı olarak kabul edilmektedir. 2023 yılında, tüm
+internet trafiğinin %85’inin video içeriklerden oluşması
+beklenmektedir. Türkiye’deki Z Kuşağı üyelerinin %98.8’i
+online video izlerken, %44.8’i vlogları takip etmektedir.
+Ayrıca, %79.9’u online müzik, %40.7’si online radyo
+dinlemekte ve %31.9’u podcastleri takip etmektedir. Z Kuşağı,
+Y Kuşağına kıyasla akıllı telefonlarından video içerikleri
+izleme konusunda iki kat daha fazla eğilimlidir. %43’ü
+son trendleri video aracılığıyla keşfetmekte, %44’ü günlük
+aktivitelerini video kullanarak organize etmekte ve %25’i
+sosyal, kültürel ve etik hareketleri yansıtan video içeriklerini
+takip etmektedir (sproutsocial, 2023). Bu gerçekler, sosyal
+medya pazarlamacılarının iletişim faaliyetlerinde daha
+güncel, canlı, sosyal ve kültürel olayları içeren videoları
+kullanmalarının gerekliliğini vurgulamaktadır.
+Z Kuşağı, sosyal medyayı kendileri hakkında detaylı
+bilgi paylaşmanın ötesinde, geleneksel yöntemlerin dışında
+eğlenebilecekleri bir platform olarak kullanma eğilimindedir.
+Bu kuşak, kimliklerini etkileyen birçok platform seçeneği
+sunan zengin bir sosyal medya ortamı içinde büyümüştür.
+YouTube hala Z Kuşağı arasında en popüler platform
+olmaya devam etmektedir, ancak rekabet artmaktadır.
+Instagram, Snapchat ve Whatsapp gibi platformların
+kullanımı artmış olsa da, TikTok’un hızla yükselmesi en
+dikkat çekici gelişmedir. 2020 yılında, Avrupa’da TikTok
+kullanan Z Kuşağı üyeleri günlük bazda %250 büyüme
+göstermiştir. Ayrıca, 2020’de YouTube’da en çok aranan
+
+--- Sayfa 50 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  45
+kelimelere bakıldığında ilk dört sıranın müzikle ilgili olduğu
+görülürken, beşinci sıradaki kelimenin “TIKTOK” olması,
+TikTok’un YouTube üzerindeki etkisini gösteren önemli bir
+göstergedir (Wearesocial, 2021).
+TikTok, gençlerin ilgisini çeken bir platform olarak
+öne çıkmaktadır. Video, müzik, interaktiflik, canlı yayınlar
+ve kısa süreli içeriklere olan bu ilgiyi bir araya getiren
+TikTok, diğer platformlar üzerindeki etkisini artırmaktadır.
+Z Kuşağı üyelerinin %59’u TikTok’u eğlenceli ve komik
+videolar bulmak için tercih ederken, %31’i kendilerini ifade
+etmek ve %26’sı ise yeni müzikler keşfetmek amacıyla bu
+platformu kullanmaktadır (gwi.com, 2023). TikTok, kısa
+süreli hikayelere odaklanan geniş bir içerik yelpazesi sunarak
+Z Kuşağının eğlence ihtiyacını karşılamakta ve bu da
+TikTok’un hızla popülerleşmesine yol açmaktadır.
+We Are Social Global Dijital 2021 Raporu’na göre,
+TikTok, en çok indirilen mobil uygulama olmasına rağmen,
+kullanıcıların %93’ü YouTube ve %84.2’si Instagram gibi
+diğer platformları da kullanmaktadır. Ancak, YouTube
+kullanıcılarının sadece %34’ü ve Instagram kullanıcılarının
+%40’ı TikTok’u tercih etmektedir. Bu durum, TikTok’un
+hala tam potansiyelini göstermediği ancak hızla büyüdüğü
+anlamına gelmektedir.
+Z kuşağının yüksek teknolojili dünyada büyümesinin
+bir sonucu olarak fiziksel ile dijital arasındaki bariyerlerin
+kalktığı belirtilmektedir. Bunun sonucunda ise yeni bir
+kavram olan “fijital” ortaya çıkmıştır (Stillman ve Stillman,
+2019:53). Sosyal medyayı çok fazla kullanan Z Kuşağı,
+fijital yaşamlarında ilerlerken deneyimlerini paylaşmaktan
+hoşlanmaktadır. Örneğin, Instagram’da havalı yeni bir
+restoran keşfetmekte, Pinterest’de gördükleri bir kıyafeti
+denemekte ve onu giyerek bir selfie gönderebilmektedirler.
+Fakat sosyal medyayı bu denli yoğun kullanmak beraberinde
+
+--- Sayfa 51 ---
+46  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+kıskançlık, kaygı ve depresyon gibi durumları beraberinde
+getirebilmekte, sosyal becerilerin azalmasına de sebep
+olabilmektedir.
+Akıllı
+telefonları
+sayesinde
+diledikleri
+yerden,
+diledikleri zamanda sanal dünyaya bağlanan bu nesil,
+telefonla konuşmak veya e-posta göndermek yerine sosyal
+medyadan emojiler, ikonlar ve görüntülerle konuşmayı
+tercih etmektedir. Mesajlaşmanın yayılmasını sağlayan Y
+kuşağının ardından, emojilerin kullanılmasına öncülük eden
+kuşak Z Kuşağı olmuştur. Onların kendilerini emoji kuşağı
+olarak tanımladığı ve artık fijital olarak nitelenen dünyada
+kelimelerin yerini sembollerin aldığı belirtilmiştir (Stillman
+ve Stiillman, 2019:68). Öyle ki Oxford Sözlüğü’nün 2015
+yılında seçtiği yılın kelimesi gülmekten ağlayan, sevinç
+gözyaşları anlamına gelen bir emoji olmuştur.
+Her nesilde olduğu gibi Z Kuşağının döneminde
+de kullanılan yeni bir dil ortaya çıkmıştır. Z Kuşağının
+eğitiminin
+dijital
+bir
+çağda
+şekillenmesiyle
+anlık
+mesajlaşmalar, kısa mesajlar ve sosyal medya, iletişim
+kurma biçimlerini ve kullandıkları dili etkilemiştir.
+Kelimeler kısalmıştır fakat önceleri görülmeye başlanan
+kelimelerin içindeki sesli harfleri kullanmamanın dışında
+bir değişim yaşanarak, birkaç kelimeden oluşan cümlelerin
+tek bir kelime ile ifade edilmesi gelişmiştir. Bu kısaltmaların
+genellikle
+İngilizce
+cümlelerden
+oluşturulduğu
+ve
+Türkiye’de de kullanıldığı görülmektedir. Örnek olarak
+“LOL” Yüksek sesle gülüyorum anlamına gelen Laughing
+out loud’tan, “OMG” Aman Tanrım anlamına gelen Oh
+my God’tan, “TBT” Geriye dönüş Perşembesi anlamına
+gelen Throwback Thursday’den, “BFF” Sonsuza kadar
+en iyi arkadaşlar anlamına gelen Best Friends Forever’dan
+“ASAP” Mümkün olan en kısa sürede anlamına gelen As
+soon as possible’dan kısaltılarak ortaya çıkmıştır.
+
+--- Sayfa 52 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  47
+Bu örnekleri çoğaltmak mümkündür ve verilen örnekler
+genellikle sosyal medya üzerinde görülmektedir. Her daim
+bağlantıda olarak nitelendirilen olan Z Kuşağı için sosyal
+hayatlarında, çevrimiçi ve gerçek yaşam arasında neredeyse
+bir ayrım yoktur. Onlar için çevrimiçi yaşam tıpkı fiziksel
+yaşam gibidir.
+Pew Araştırma Merkezi’nin 2015 yılında 13-17 yaşları
+arasındaki Z Kuşağı üyeleri ile yaptığı “Gençler, Sosyal
+Medya ve Teknolojiye Genel Bakış” araştırmasında çıkan
+sonuçlara göre, Z Kuşağının yaklaşık dörtte biri her
+zaman çevrimiçidir. Her gün 67’den fazla metin mesajı
+gönderdikleri belirlenmiştir. Ayrıca bu sayı yalnızca “Short
+Message Service” (SMS), Türkçeye çevrildiği ismiyle kısa
+mesaj için yani Snapchat, Facebook Messenger gibi diğer
+“Instant Message” (IM) anında mesaj hizmetleri dışında yer
+alan mesajlaşmayı göstermektedir.
+Teknolojik olanaklar sayesinde Z Kuşağı, fiziksel olarak
+yanında olmayan kişilerle teknoloji sayesinde bir arada
+olabilmektedir. Cihazlar sayesinde arama yapmanın dışında,
+uygulamalar aracılığıyla görüntülü olarak da görüşmek
+istedikleri kişilerle bağlantı kurabilmektedir. Teknolojik
+cihazlarla iç içe büyümesi sebebiyle Z kuşağı, birçok ürünü
+diğer kuşaklara göre çok daha iyi kullanabilmektedir.
+Dolayısıyla aynı anda birçok işi yapabilmekte ve birden fazla
+ekranı rahatça idare edebilmektedirler. Teknolojiyle bu denli
+iç içe olmalarıyla birlikte çeşitli uygulamalar telefonlarının
+vazgeçilmezi olmuştur. Sosyal çevrelerini de dünyanın her
+tarafından insanlarla genişletmek isteyen Z Kuşağı üyeleri
+için hızlı internet, dünyada şimdiye kadar hiç bir neslin
+erişemediği kadar geniş bir bilgi alanına kolayca erişim
+imkanı sunmaktadır ve sosyal medyanın, farklı kültürleri
+tanımaları ve önyargıların kırılması konusunda artısı olduğu
+gözlemlenmektedir (Sarıoğlu ve Özgen, 2018:1068).
+
+--- Sayfa 53 ---
+48  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Sosyal ağlar ve mesajlaşma uygulamaları, Z kuşağı
+arasında en yoğun kullanılan uygulama kategorilerini temsil
+eder. Bu kitle genellikle müzik, oyun ve diğer eğlence
+uygulama kategorileri gibi eğlence odaklı uygulamaları
+kullanır. 2018 yılında Z tüketicilerinin %92’si sosyal
+uygulamaları kullandıklarını bildirmiş ve bu, son iki yıla
+kıyasla %11’lik bir artışı göstermiştir. Müzik, seyahat,
+alışveriş, flört ve harita tabanlı uygulamaların benzer şekilde
+önemli ölçüde büyümüş olması uygulamaların neredeyse
+tüm Z kuşağının yaşam tarzı ihtiyaçlarını karşıladığını
+göstermektedir (Global Web Index, 2018).
+Z Kuşağı, dünyayı daha iyi bir yer haline getirme amacıyla
+sosyal medyayı kullanmakta olup, bu durum önceki nesillere
+göre onlara daha fazla güç ve fırsat sunmaktadır. Ancak son 10
+yıl içinde Z Kuşağı arasında sosyal medyada en çok konuşulan
+konularda önemli değişiklikler yaşanmıştır. Geçmişte müzik,
+fast-food, moda, film ve oyunlar konuşulurken, şimdi Z
+Kuşağı müzik, oyunlar, politika, doğa ve çevre hakkında
+daha fazla konuşmaktadır. Bu değişiklikler, Z Kuşağının
+sosyal medya üzerindeki etkisini şekillendirmektedir (gwi.
+com, 2023).
+Sosyal medya, Z Kuşağı için bir güç ve değişim aracı
+olsa da, bu platformlara tam anlamıyla güvenmemektedirler.
+%66’sı sosyal medya platformlarının kişisel verilerini
+yüz tanıma için kullandığını ifade ederken, %67’si kişisel
+bilgilerini paylaşma konusunda temkinlidir. Bu nedenle
+Z Kuşağı üyelerinin yarısından fazlası en azından bir
+güvenlik ve gizlilik ayarı kullanmaktadır ve %40’ ının
+sahte hesapları ve yarısından fazlasının ise üç veya daha
+fazla hesabı bulunmaktadır. Birden çok hesap açmalarının
+nedeni, anonimliği koruma isteği olup, bunların %33’ü
+kişisel paylaşımlar yapmak, %26’sı aile ve arkadaş gruplarına
+özel paylaşımlar yapmak, %25’i diğer insanların profillerini
+
+--- Sayfa 54 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  49
+anonim olarak ziyaret etmek ve %17’si eski ilişkilerini takip
+etmek için bu hesapları kullanmaktadır.
+Bununla birlikte, Z kuşağının %78’i online ün kazanma
+ve %40’ı yeni özelliklere erken erişim için kişisel verilerini
+paylaşmaya isteklidir. Her üç Z Kuşağı üyesinden biri, online
+itibarlarını koruma açısından risk taşısa da, sosyal medyada
+takipçi satın almaktadır. Z Kuşağının %50’si, sosyal medya
+kullanmayanlara imrendiklerini, yarısından fazlasının sosyal
+medyanın bağımlılık yaratan etkisinden endişe duyduğunu
+ve Instagram ve Facebook gibi platformlarda beğeni sayısını
+gizlemenin anksiyete hislerini azalttığını belirtmektedir.
+Ayrıca, her beş gençten biri, sosyal medyayı bırakmak için
+1 milyon dolardan fazla ücret teklif edilmesi gerektiğini
+düşünmektedir (Markets insider, 2021).
+Z kuşağının ilgi ve aktivite listesi eğlence odaklıdır.
+Müzik, film, yiyecek, içecek, oyun ve teknoloji gibi konular
+Z kuşağının ilgisini çekmektedir. Bu kuşak, oyun dünyasına
+özellikle ilgi göstermekte ve çoğu oyun oynamaktadır.
+Oyun, Z kuşağı için bir topluluk oluşturma ve sosyalleşme
+aracı haline gelmiştir. Bu nedenle, Z kuşağı oyunla ilgili
+influencer’ları diğer alanlara göre daha fazla takip etmekte
+ve bütçeleri sınırlı olduğundan, %43’ü ücretsiz oyunları
+indirmektedir. Aynı zamanda Z kuşağının büyük bir
+kısmı gerçek hayattaki arkadaşlarıyla oyun oynamaktadır.
+Oyun dünyasında kurdukları arkadaşlıklar, onlar için
+önemlidir ve bu arkadaşlıkları sürdürmek isterken, oyun
+sayesinde arkadaşlarıyla daha derin ilişkiler kurabildiklerine
+inanmaktadırlar. Erkek-domine bir alan gibi düşünülse de Z
+kuşağı kadınlarının %92’si oyun alanına ilgilidir. Bu kuşak
+oyunlarda yenilmekten korkmakta ve oyun dünyasındaki
+başarısızlıkları hayatlarını etkilemektedir (adcolony.com,
+2023; marketingtürkiye, 2021).
+
+--- Sayfa 55 ---
+50  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+2.8. Dijital Yerlilerin Sosyal Medya İle İlişkisinin
+Pazarlama Stratejilerine Yansıması
+Z kuşağının teknolojiyi çok yönlü kullanımı önemli bir
+farklılayıcıdır. Araştırmalar, Z kuşağının ortalama beş cihaz
+kullandığını ve sosyal medyada günde yedi saatten fazla
+zaman harcadıklarını ve sürekli olarak sosyal medya akışlarını
+kontrol edip yenilediklerini göstermektedir. Pazarlamacılar,
+bu kuşağın dikkatlerini yakalamak için hızlı bildirimler
+uygulamalı ve paylaşıma uygun, ilgili ve kolay sindirilebilir
+içerikler sunmalıdır. Dijital yerliler, kelimeler yerine emojileri
+ve videoları tercih etmekte ve %43’ü hiç yorum yapmazken,
+%27’si bir markanın veya şirketin sosyal medya sayfasını
+hiç “beğenmez” durumda kalmaktadır. Onların %54’ünden
+fazlası YouTube hayranı olup video paylaşım devini günlük
+olarak ziyaret etmektedir. %70’i, gerçek ve ilişkilendirilebilir
+YouTube influencerlarını (etkileyicilerini) geleneksel ünlü
+tanıtıcılara tercih etmekte, %44’ü ürün tasarımı için fikirler
+sunmaya ilgi gösterirken, %36’sı bir marka için dijital içerik
+oluşturmaktadır. Milenyum kuşağı, Z kuşağından daha
+sık Facebook’a yönelmekte, bu da her bir kuşak için farklı
+çevrimiçi stratejiler gerektiren bir pazarlama gerçeğini işaret
+etmektedir (Efros, 2019).
+Z Kuşağı, markalarla %66 oranında sosyal medya
+aracılığıyla etkileşime girdiğini belirtmekte ve %78’i yeni
+markaları sosyal medyadan keşfettiğini ifade etmektedir
+(sproutsocial, 2023). Bu kuşak, markaların dikkatini
+çekmek için sadece hızlı değil, aynı zamanda dikkat çekici,
+özgün, kaliteli ve yaratıcı içerikler üretmeleri gerektiğini
+düşünmektedir. Çünkü %82’si markaların eğlenceli ve
+mutlu edici videolar üretmesi gerektiğini savunurken, aynı
+zamanda videoların bilgilendirici olmasını arzu etmektedir
+(adcolony.com, 2023). Bununla birlikte, Z Kuşağı üyelerinin
+%22’si sosyal medyada takip ettikleri bir markayı bir sonraki
+ay takipten çıkarabilmektedir. Bu nedenle, markaların bu
+
+--- Sayfa 56 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  51
+kuşağı etkilemek ve bağlılık kazanmak için “Infotainment”
+stratejisini kullanmaları gerektiği açıktır. Bu strateji,
+eğlenceli, bilgilendirici ve düşündürücü içerikler üretmeyi
+içermektedir (Forbes, 2021).
+Ayrıca, Z Kuşağı, her şeyin mükemmel olması
+gerektiğine inanmayan bir kuşaktır. Onlar, ham ve gerçek
+içeriği kabul eden ve hatta tercih eden bir yaklaşıma sahiptir.
+Bu nedenle Z Kuşağı, insani bağlar ve topluluk oluşturma
+isteğiyle duygusal olarak daha bilinçli, şeffaf ve doğal içeriğe
+daha fazla değer verir. Örneğin, mükemmel olmayan canlı
+videolar gençler arasında popüler hale gelmiştir ve bu tercih,
+sosyal medya pazarlama stratejilerinde canlı videoların daha
+fazla kullanılmasına yol açmıştır.
+Milenyum kuşağı, Z kuşağından daha sağlam bir
+ekonomide büyümüştür. Z kuşağı ise Büyük Durgunluk’tan
+etkilenmiş olduğundan para ve borç konularına daha fazla
+dikkat etmektedir. Z kuşağı için zenginlik ve iş güvencesi
+en büyük motivasyon kaynaklarıdır. Son derece rekabetçi bir
+yapıları olduğundan maaş, faydalar ve kariyer ilerlemesini
+kritik olarak algılamaktadırlar. Z’ler, ekonomik olarak daha
+bilinçli olma konusunda %41 daha fazla eğilimlidir. Bu daha
+çok yaşları ve mevcut yaşam aşamalarından kaynaklanmakta
+olup markaların akılda tutması gereken bir unsurdur (Efros,
+2019).
+Dijital yerlilerin alışveriş alışkanlıkları, cilt bakımı ve
+güzellik ürünlerine daha fazla harcama yapmalarıyla diğer
+kuşaklardan ayrışmaktadır. Bu kuşak sağlık ve kendine bakım
+konusunda daha düşünceli bir şekilde yatırım yaptığını
+göstermektedir (Global Web Index, 2018).
+Z kuşağı yaşlı tüketici gruplarıyla karşılaştırıldığında
+daha fazla sağlık bilincine sahip bir yaşam tarzına sahip
+olup, gazlı içecekler, kurabiyeler, şekerler ve dondurulmuş
+yiyecekler gibi dürtüsel şımartıcı yiyecekleri daha az satın
+
+--- Sayfa 57 ---
+52  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+almaktadır. Uzun dönemli araştırmalar, bu durumun genç
+tüketiciler arasında gelişen bir trend olduğunu ve atıştırmalık
+yiyeceklerin aylık satın alma oranının 2015 ile 2018 yılları
+arasında %54’ten %50’ye düştüğünü göstermektedir.
+Benzer şekilde, bu dönemde çikolata satın alımları %49’dan
+%45’e düşmüştür (Global Web Index, 2018). Z kuşağının
+ürün ve hizmetler konusundaki bu sağlıklı tercihleri sosyal
+mecralardan onlar ile bağ kurmaya çalışan firmalar için
+dikkate alınması gereken unsurlardandır.
+Z kuşağının sadece %30’u sadakat programlarını
+olumlu olarak görmekte, %62’si yeni ve eğlenceli markalara
+çekilmekte ve %60’ı Milenyum kuşağının satın aldığı
+markalara sadık kalmaktadır. Z kuşağının %42’si bir marka
+kampanyası için çevrimiçi bir oyuna katılmak konusunda
+isteklidir. Müzik, sinema/film ve oyun gibi eğlenceyle
+ilgili ilgi alanları, Z kuşağı için için en yüksek sıralamada
+yer alır. Sürekli online olan ve birçok eğlenceyi sosyal
+mecralardan tüketen Z’ler oyun videolarını da tüketicilerin
+küresel ortalamasının %36’sından ve Milenyum kuşağından
+%22 daha fazla seyretmektedir (Wallace, 2018). Sosyal
+mecralarda Z segmenti ile bağ kurmak isteyen markaların
+çevrimiçi oyunlar ve eğlenceli yarışmalar düzenleme yoluna
+gitmelerinde fayda bulunmaktadır.
+Kuşaklar arası farklar, tüketicilerin verilerini paylaşma
+istekliliğinde
+önemli
+bir
+rol
+oynamaktadır.
+Önceki
+kuşaklar herhangi bir teşvik sunulsa bile kişisel verilerini
+perakendecilerle paylaşmak istemezken, Milenyum kuşağı
+ve özellikle Z kuşağı ücretsiz kargo veya ürün indirimleri
+karşılığında daha işbirlikçi bir görüşe sahiptir. Genel olarak,
+dijital çağda büyüyen Z kuşağının, gizliliği önemsediği
+ancak bunu kullanım kolaylığının maliyeti olarak görmediği
+anlaşılmaktadır. (Wallace, 2018). Z gruplarını sosyal
+alışverişe yönlendirmeye çalışan markalar, hızlı ve ücretsiz
+teslim, indirim kampanyaları sağlayarak hem onların
+
+--- Sayfa 58 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  53
+verilerini elde etme hem de alışveriş oranlarını artırma
+şansını yakalama imkanına sahip olabileceklerdir.
+Sosyal mecralarda gerek hikayelerde gerekse postlarda
+sunulan
+reklamları
+engelleme
+konusunda
+Z
+kuşağı
+ortalamanın %12 üzerinde eğilime sahiptir. Çevrimiçi
+reklamların fazlalığı Z kuşağı için en büyük rahatsızlık
+kaynağı olup, (%49), neredeyse yarısına yakını (%48)
+reklamları rahatsız edici/ilişkisiz oldukları için engellediklerini
+söylemektedirler. İlişkisiz çevrimiçi reklamın yaygınlaşması,
+Z kuşağı için bir stres kaynağı olduğundan reklam engelleme
+oranlarının gelecekte artması beklenmektedir. Z grubunun
+5’te 3’ü özel bir gezinme penceresi kullanırken, neredeyse
+yarısı reklamların görüntülenmesini engellemek için reklam
+engelleyici kullanmaktadır (Global Web Index, 2018). İzin
+pazarlamasının tüm dünyada yükseldiği düşünülecek olursa
+izin almadan ve ilişkisiz olarak sosyal mecralarda sunulan
+reklamların Z kuşağını olumsuz etkilediği pazarlamacılar
+tarafından dikkate alınmalı ve iletişim faaliyetlerini
+kişiselleştirilmiş ve ilişkilendirilmiş şekilde yapılandırmaları
+gerektiği anlaşılmalıdır.
+Z kuşağı, bir topluluğun parçası olmak istemediği
+gibi, bireysel benzersizliği, köklü markaları ve kendilerini
+istedikleri gibi ifade edebilmeyi takdir etmektedir. Milenyum
+kuşağı ve daha yaşlı kuşaklar marka logolarını göğüslerinde
+taşımaktan hoşlanırken, dijital yerliler kişiselleştirmeyi
+tercih etmektedir. Onlar sade, temel renkleri - siyah, beyaz,
+gri – sevmekte ve üzerine kendi kişisel dokunuşlarını
+eklemektedirler. Bir markayı tanıtmayı istemek yerine
+kendilerini ifade etmek istemektedir. Z Kuşağının %53’ü
+onları birey olarak anlayan markaları seçmektedir (Efros,
+2019).
+Dijital
+yerliler
+içerik
+paylaşmayı
+çok
+sevmekte,
+onay ve tanınma bekleyerek her şey hakkında gönderi
+
+--- Sayfa 59 ---
+54  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+yapmaktadır. Düşündükleri ürünlerin resimlerini sosyal
+mecralarda paylaşmayı sevmekte ve ardından arkadaşlarının
+gönderilerini
+beğenmesini
+kabul
+olarak
+gördükten
+sonra sosyal alışveriş yapmaktadırlar. Arkadaşlar, onların
+dünyasında tercihlerin etkileyicileridir. Milenyum kuşağı
+için ise, Z çocukları, giyim, aksesuarlar ve hatta tatil gibi
+kategorilerde aile harcamalarının giderek daha önemli bir
+etkileyicisi haline gelmiştir ve bu da her pazarlamacının
+pazarlama stratejilerini geliştirirken Z kuşağını düşünmesi
+gerektiğini göstermektedir (Efros, 2019).
+Z kuşağı, özellikle kendi ilgi alanlarına sahip ünlülerin
+sosyal medya hesaplarını takip etmeyi ve bu ünlülerle
+etkileşimde bulunmayı oldukça önemsemektedir. Bu kuşağın
+%76’sı en az bir influencer’ı ve %45’i 10’dan fazla influencer’ı
+takip etmektedir. İlgi alanları cinsiyetlere göre farklılık
+gösterse de, genel olarak Z kuşağının oyuncuları, şarkıcıları,
+müzik gruplarını, komedyenleri, oyunları, yiyecekleri, sporu,
+güzellik bloggerlarını ve vloggerlarını takip etmekte oldukları
+pazarlama stratejistlerinin anlamaları gerekli hususlardandır.
+Örneğin, güzellik ve kozmetikle ilgilenen Z kuşağı, güzellik
+bloggerlarını takip etme eğilimindedir veya sevdikleri
+filmlerdeki oyuncuları daha fazla takip etmek istemektedirler.
+Ancak, Z kuşağının %59’unun influencer’ların ürün veya
+hizmet satmaya çalıştıkları reklam videolarından rahatsızlık
+duyması, pazarlamacılara influencer pazarlamasının gerçekçi
+ve doğal bir şekilde yapılmasının önemini göstermektedir
+(genzinsights, 2021). Z nesli için bir influencer ile
+benzerlikler aracılığıyla bağlantı kurabilmek ve onların da
+gerçek insanlar olduğunu bilmek, önemli unsurlardır. Z
+kuşağı deneyim istemekte ve bu deneyimi gerçek olarak
+yaşamak istemektedir. Pazarlamacılar influencer (etkileyici)
+pazarlama aracını kullanırken Z kuşağının bu özelliklerini
+bilerek daha bilinçli, dürüst ve yaratıcı pazarlama stratejileri
+geliştirmelidir (Wolf, 2020).
+
+--- Sayfa 60 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  55
+Z kuşağının %72’sinin herhangi bir cihazdan online
+alışveriş
+yaparken,
+markaları
+arama
+motorlarında
+aramaktansa sosyal medya kanallarından aramayı tercih
+ettikleri görülmektedir (forbes, 2021). Sosyal medya onlar
+için reklamlarla markaları keşfettikleri, öneri/tavsiye aldıkları,
+marka aradıkları, tıklama yaptıkları en önemli mecra olarak
+görülmektedir. Dolayısı ile Z kuşağının neredeyse tamamı
+online alışveriş için sosyal medyadan fikir edinirken, %51’i
+ise sosyal medyadan yeni markaları keşfetmektedir (gwi.
+com, 2023).
+Z kuşağının marka takibi için en çok tercih ettiği platform
+Instagram iken, yeni ürün keşfi ve satın alma kararları için
+en çok Youtube kullanılmaktadır (commencis, 2021). Z
+kuşağının neredeyse tamamının mobil satın almada çok
+baskın olmaları markaların, Z kuşağının mobil dünyadaki
+alışkanlıklarını, tercihlerini ve davranışlarını göz önünde
+bulundurarak
+planlama
+yapmalarını
+gerektirmektedir.
+Z kuşağının %65’i bir ve daha fazla markanın mobil
+uygulamasını online alışveriş için tercih etmekte, %60’ına
+yakını mobil cihazlardan ürün ve yorum araştırması, fiyat
+kıyaslaması, online alışveriş yapmakta, %41’i herhangi bir
+ürün/servis ödemesini telefonu ile gerçekleştirmektedir
+(adcolony.com, 2023).
+Z kuşağının her üç üyesinden biri sevdiği markaları ve
+dördünden biri ise satın almayı düşündüğü markaları sosyal
+medyadan takip etmektedir. Z kuşağı için online alışverişte
+öne çıkan sosyal platformlar Instagram, TikTok ve Pinterest
+olarak karşımıza çıkmaktadır (Forbes, 2021). Z kuşağının
+%36’sı yeni bir markayı online reklamlar aracılığıyla
+duymakta, %27’si ise yeni ürünleri sosyal medyada
+gördükleri
+tavsiyelerle
+keşfetmektedir
+(adcolony.com,
+2023). Influencer pazarlaması ile markaların Z kuşağına
+diğer kuşaklara kıyasla daha fazla ulaşma imkanına erişmiş
+
+--- Sayfa 61 ---
+56  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+oldukları, Z kuşağının sevdikleri influencerların yorumlarına
+önem verdikleri anlaşılmaktadır.
+Farklı online ödeme yöntemlerine en sıcak yaklaşan
+kuşak olan Z kuşağının online satın almasını etkileyen en
+güçlü teşvikler sırası ile ücretsiz kargo (%56), hediye çeki/
+indirim (%45), hızlı ve zaman duyarlı müşteri hizmetleri
+(%47), diğer müşterilerin yorumları (%36), ertesi gün
+teslimat (%34) ve kolay ödeme sürecinin sunulması (%30)
+olmaktadır. Z kuşağı online alışverişi tercih etse de sadece
+%14’ü sosyal platformlarda “satın al” butonuna tıklamaktadır.
+Z kuşağının diğer kuşaklara kıyasla satın alma süreçlerinde
+daha fazla ayrıcalıklı deneyim, hikaye, oyunlaştırma ve
+interaktiflik odaklı olmaları markaların Z kuşağı tarafından
+sosyal medyada keşfedilmesinden satın almaya geçilmesine
+kadar olan deneyim sürecini stratejik olarak planlamalarını
+gerektirmektedir (adcolony.com, 2023).
+Z kuşağının yarısı rakiplere kıyasla gerçekten onların
+neye ihtiyacı olduğunu ve ne istediğini anlayan markalardan
+alışveriş yapmayı istemektedir (sproutsocial, 2023). Dolayısı
+ile markaların sosyal medya stratejistlerinden somut ve
+hissedilir deneyim, marka ile birebir iletişim, özgün ve
+kişiselleştirilmiş
+fırsatlar
+yaratmasını
+beklemektedirler.
+Z kuşağının %58’i kişisel özelliklerine uygun olarak
+sunulan ürünler için daha fazla bütçe harcamaya eğilim
+göstermektedir. Gençler, eğlenceli ve yüksek kaliteli videolar
+paylaşan markaların sosyal medyası ile daha fazla etkileşime
+girmektedir.
+Z kuşağı, sosyal medya ile büyüdüklerinden markaların
+güvenilir bir bilgi kaynağı olmasını ve gerçek bir marka
+hikayesi sunmasını beklemektedirler (Hill Holiday, 2018;
+OC&C, 2019). Bu kuşak alışveriş yolculukları boyunca
+markalarla etkileşimde bulunmak istemektedir (Center
+for Generational Kinetics, 2018). Sosyal medya, Z’lerin
+
+--- Sayfa 62 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  57
+ürün veya hizmet deneyiminin kalitesi hakkında övgüde
+bulunmak veya şikayette bulunmak için markalarla kolayca
+iletişim kurmasına olanak tanır. Z kuşağı, indirimler ve
+kampanyaları bulmak için markaları sosyal medyada takip
+ederken “beğeniler” veya yorumlar yoluyla geri bildirim
+alma ve birikimleriyle akran grubu tarafından tanınma ve
+kabul görme arayışındadırlar (Hill Holiday, 2018, Ernst
+Young, 2015).
+Sosyal medya reklamları 154 milyar dolar bütçe ile, tüm
+dijital reklamların %33.1’ini oluşturmaktadır. Z kuşağının
+yaratıcı, paylaşmak isteyecekleri, kendileri ile bağdaştırdıkları
+ve premium görsel içeren sosyal medya reklamlarına olan
+ilgileri ve beklentileri yüksek olsa da, sadece %15’i gördüğü
+reklamların onları yansıttığını düşünmektedir. Bu durum
+markaların Z kuşağını yakalamaya ihtiyacı olduğunu
+göstermektedir. Markalar Z kuşağına en çok Instagram
+reklamları ile ulaşmaktadır. Instagram’ı sırası ile Facebook
+ve Linkedin takip etmektedir. TikTok reklamlarının %42’si
+18-24 yaş arası Z kuşağına ulaşmaktadır (hootsuite,
+2023). Snapchat reklamlarının ise %60’ına yakını Z
+kuşağını kapsamaktadır (Wearesocial, 2021). Z kuşağının
+%60’ı reklamların özel bir indirim, teklif ve ayrıcalık
+sunması durumunda efektif olduğunu düşünmekte, %59’u
+güvendiği bir markadan reklam çıkınca dikkat etmektedir.
+Z kuşağının %42’si reklamların eğlendirici, %40’ı ürünle
+ilgili bilgilendirici, %37’si indirim ve özel teklifler sunan
+ve %34’ü ise kendisi ile birebir ilgili olmasını istemektedir
+(unidays, 2023).
+Z kuşağı markaların daha akıllı kararlar vermesini
+istemekte ve markaları bu konuda desteklemek için sosyal
+medyada düşüncelerini ve bilgilerini paylaşabilme konusunda
+sıkıntıları olmadığını söylemektedir. Z kuşağının %64’ü daha
+önceki etkileşimlerinin analizine göre markalardan sosyal
+medyada daha kişiselleştirilmiş bir deneyim beklemektedir.
+
+--- Sayfa 63 ---
+58  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+%61’i ise sosyal medya aktivitelerine göre şirketlerden
+kendilerini daha iyi tanımalarını ve %52’si ise markalardan
+kendi sosyal medya postlarını okumasını, anlamasını ve analiz
+etmesini istemektedir. Z kuşağı, markaların kendilerine en
+yakın kişiselleştirilmiş alışveriş deneyimi yaratması için sosyal
+medyada paylaştıkları tüm veriyi kullanmasına izin vermekte
+ancak baskıcı ve zorlayıcı olmamalarını beklemektedir. Bu
+husus satın alma sonrası süreçte de devam etmekte, sosyal
+medyayı %58’i müşteri hizmetleri için ve %35’i de ürünü
+veya markayı sevdiklerini söylemek için kullanmaktadır.
+Tüm bunların sonucu olarak, markalar Z kuşağının bu istek
+ve beklentilerini ancak çift yönlü etkileşimi tetikleyen, onları
+ilgili konuşmalara dahil eden içeriklere öncelik vererek ve
+onların seslerini forumlar ve topluluk odaklı siteler aracılığı
+ile dinleyerek karşılayabilmektedir. Sağlayacakları denge
+sayesinde Z kuşağının sadakatini kazanmak için önemli bir
+yol kat edebilmektedirler (sproutsocial, 2023).
+Z kuşağının %82’sini online alışveriş sürecinde sosyal
+medyada diğer müşterilerin yorumlarını okuduktan sonra
+bir markadan satın alma yapacaklarını belirtmektedir.
+Markalar, Z kuşağının hoşuna gideceği şekilde kendi müşteri
+deneyim forumları veya sosyal medya hesapları yaratarak
+nabzını tutmalıdırlar.
+Markalar, oyun trendlerinin de değiştiricisi olan Z
+kuşağına sadece oyun oynayarak değil ayrıca onları
+izleyerek de ulaşabilirler. Z kuşağının %30’u (Çin dışında)
+oyun videosu veya ön oyun lansmanı seyretmek için
+Youtube’da oyun ile alakalı kanala abone olmakta, %40’ı
+bir önceki ay bir e-spor turnuvasının (Influencer/markalı
+içeriklerin olduğu 1 milyar $’lık bir endüstri) canlı yayınını
+izlediğini belirtmektedir. Bu da Z kuşağının oyun trendleri
+ile daha fazla yüzleşeceği ve etkileşime gireceği anlamına
+gelmektedir.
+
+--- Sayfa 64 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  59
+2.9. Sosyal Medya Yatırımlarında Z Kuşağı Etkisi
+Hootsuite Social Trends 2022 raporuna göre, markaların
+yarıdan fazlasının sosyal medya reklamlarına daha fazla
+yatırım
+yapmayı
+planladığı
+görülmektedir.
+Ayrıca,
+markaların %83’ü sosyal medya uygulamalarının ROI
+(Yatırım Getirisi) konusunda daha güvenilir hale geldiğini
+düşünmektedir. %55’i sosyal medya stratejilerinin diğer
+pazarlama aktiviteleriyle entegre olduğunu belirtirken,
+%48’i sosyal dinlemenin tüketici içgörülerini elde etmede
+kritik bir öneme sahip olduğunu vurgulamaktadır. Ayrıca,
+%65’i organik ve sponsorlu sosyal medya çabalarının
+entegre olması gerektiğini düşünmekte olup, bu da yeni
+müşteriler çekme ve mevcut müşterilerle daha derin
+ilişkiler kurma hedefini yansıtmaktadır. Özetle, markalar
+için en önemli üç sosyal medya amacı marka bilinirliği
+(%57), müşteri edinme (%47) ve dönüşüm (%46) olarak
+belirlenmiştir.
+Markalar tarafından 2021 yılında en büyük yatırımın
+Instagram’a yapıldığını (%48) görülmekte olup, daha sonra
+Facebook (%47), YouTube (%44) ve LinkedIn (%42)
+gelmektedir. Ayrıca TikTok, Pinterest ve Snapchat gibi
+platformlara yapılan yatırımların gelecekte neredeyse iki
+kat artması planlanmaktadır. Genç tüketiciler, TikTok’taki
+reklamların diğer platformlara göre daha eğlenceli ve ilham
+verici olduğunu belirtirken, Snapchat reklamlarının TV
+reklamlarına göre daha fazla erişim aldığı ve daha etkili
+olduğu görülmektedir. Pinterest reklamları ise yatırım
+maliyetine göre yüksek bir dönüşüm oranı sağlamıştır.
+Bu nedenle markalar, TikTok, Pinterest ve Snapchat gibi
+platformlara daha fazla odaklanmaya başlamıştır (hootsuite,
+2023).
+Sonuç olarak, markalar sosyal medyanın modern online
+alışverişin merkezi olacağını düşünmekte ve dijital yerlileri
+
+--- Sayfa 65 ---
+60  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+sosyal ortamda dinlemenin marka değerlerini artıracağına
+inanmaktadırlar. Bu değişikliklerin ve yeniliklerin arkasındaki
+en önemli etken, Z kuşağının sosyal medya alışkanlıkları ve
+platformlarındaki değişikliklerdir.
+
+--- Sayfa 66 ---
+61
+3. Sonuç
+Sosyal medyanın yükselişi, pazarlama sektörünü kökten
+değiştirmiştir. Bu değişim sadece şirketlerin iş modelini
+etkilemekle kalmamış, aynı zamanda tüketicilerin alışveriş
+ve bilgi edinme alışkanlıklarını da temelden değiştirmiştir.
+Sosyal medyanın pazarlamadaki önemi, şirketlerin ürün
+ve markalarını geliştirmek için müşteri geri bildirimlerini
+kullanma ve etkileşim fırsatı sunmasıyla da kendini
+göstermektedir. Müşteriler, ürünlerle ilgili düşüncelerini ve
+deneyimlerini sosyal medya üzerinden paylaşmakta, bu da
+şirketlere daha iyi ürünler sunma ve hizmet kalitesini artırma
+şansı vermektedir.
+Sosyal medyanın şirketler için bir reklam platformu
+olarak kullanılmasının ötesinde, müşterilerin satın alma
+kararlarına etki etme potansiyeli de her geçen gün
+artmaktadır. Tüketiciler, ürünleri ve hizmetleri hakkında
+bilgi edinmek, kullanıcı yorumlarına ve tavsiyelere göz
+atmak için sosyal medya platformlarına başvurmaktadır.
+Bu da şirketlerin ürünlerini sosyal mecralarda daha iyi
+tanıtmaları ve müşteri memnuniyetini artırmaları için daha
+fazla çaba harcamalarını gerektirmektedir. Sosyal medya,
+alışveriş deneyimini hızlandırmak için de kullanılmakta,
+bu platformlar, kullanıcıların ilgisini çeken ürünleri anında
+sunarak, hızlı ve kolay alışveriş deneyimi sunmaktadır.
+
+--- Sayfa 67 ---
+62  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Sonuç olarak, sosyal medya pazarlaması, pazarlama
+sektöründe devrim niteliğinde bir değişim yaratmıştır.
+Tüketiciler artık satın alma kararlarını sosyal medya
+üzerinden şekillendirmekte ve şirketler de bu platformları
+etkili bir şekilde kullanarak müşterilerine daha iyi hizmet
+sunmaya çalışmaktadır.
+Z kuşağı, “dijital yerliler” olarak adlandırılan bir kuşak
+olarak tanımlanmaktadır. Bu terim, onların doğduğu ve
+büyüdüğü dönemin dijital teknolojilerle sıkı sıkıya iç içe
+olmasından kaynaklanmaktadır. Bilgisayarlar, akıllı telefonlar
+ve internet, Z kuşağının hayatlarının vazgeçilmez bir
+parçasıdır. Bu kuşak, dijital teknolojileri anlama, kullanma
+ve bu teknolojilerle etkileşime girme konusunda büyük bir
+yeteneğe sahiptir ve bu yetenekleri, iş dünyası, iletişim ve
+eğitim gibi birçok alanda etkili bir şekilde kullanmaktadır.
+Z kuşağı, çeşitli kültürlerle büyümüş olup, çok kültürlü
+bir dünyaya daha açıktır. Bu nedenle gelecekte, küresel iş
+dünyasında çeşitliliği teşvik edecek ve kültürel anlayışı
+artıracak bir politika izlemeleri beklenmektedir. Ayrıca
+sürekli öğrenmeyi sürdürme ihtiyaçlarının gelecekte bu
+kuşağın kariyerlerini ilerletmesine ve değişen iş dünyasına
+ayak uydurmasına yardımcı olacağı beklenmektedir.
+Eğitimde ve iş dünyasında, Z kuşağı dijital teknolojilerle
+uyumlu bir şekilde çalışırken, özellikle COVID-19 pandemisi
+sırasında, çevrimiçi eğitim ve uzaktan çalışma platformlarına
+hızlıca adapte olmuş, dijital araçları etkili bir şekilde
+kullanarak öğrenme ve çalışma süreçlerini sürdürmüştür.
+Z kuşağı, geleceğin liderleri, girişimcileri ve toplumun
+şekillendiricileri
+olarak
+görülmektedir.
+Teknolojiye
+hakimiyetleri, sosyal sorumlulukları ve esnek çalışma
+biçimlerine olan ilgileri, bu kuşağın gelecekteki etkisini
+artırmaktadır. Aynı zamanda, sürdürülebilirlik, çeşitlilik ve
+
+--- Sayfa 68 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  63
+öğrenmeye olan bağlılıkları da bu kuşağın değerlerinin bir
+yansıması olarak önemli bir rol oynayacaktır.
+Sosyal medya, dijital platform ve mobil cihazlarla
+büyüyen bir kuşak olarak Z kuşağının iletişim biçiminin
+merkezinde yer almaktadır. Facebook, Instagram, Twitter,
+Snapchat, TikTok gibi görsel ve video odaklı platformlar,
+onların günlük yaşamlarının bir parçası olup, bu platformlar
+üzerinden
+arkadaşlarıyla
+iletişim
+kurmakta,
+içerik
+paylaşmakta ve dünya ile bağlantıda kalmaktadırlar. Bu
+nedenle, bu platformlar sosyal medya pazarlamacıları için
+büyük bir potansiyele sahiptir.
+Z kuşağı, dijital dünyanın dili ve kültürüyle büyümüştür.
+İnternet fenomenleri, memler, viral videolar ve çevrimiçi
+trendler, onların günlük konuşmalarında yer almakta ve
+dijital dünyayı anlama ve kullanmalarını kolaylaştırmaktadır.
+Z kuşağı, özgün, eğlenceli ve samimi içeriklere ilgi
+göstermektedir. İçeriklerin kişiselleştirilmiş olması ve
+markaların Z kuşağına değer katması, onları takip etmeye
+ve sadık müşterilere dönüştürmeye olanak tanımaktadır.
+Özellikle kısa ve eğlenceli formatlarda video içerikleri Z
+kuşağının dikkatini çekmek isteyen pazarlamacılar için ideal
+bir yol olarak öne çıkmaktadır.
+Bu çalışma sosyal medya pazarlamasında kullanılan
+sosyal medya araçları ile dijital yerliler olarak adlandırılan Z
+kuşağını derinlemesine incelemiş ve aralarındaki yakın ilişki
+ve etkileşimi yapılan çalışmalardaki bulgular eşliğinde göz
+önüne sermiştir. Günümüzde dijitalleşme çağına tanıklık
+ettiğimiz değişimle birlikte, Z kuşağı gibi dijital yerlilerin
+etkisi giderek artmakta ve sosyal medya pazarlamasının
+geleceği üzerinde büyük bir etki yaratmaktadır.
+Z kuşağı, sosyal medya pazarlaması için büyük bir
+potansiyele sahip bir hedef kitle olarak önümüzdeki yıllarda
+daha önemli bir rol oynayacaktır. Ancak, bu kuşağı etkilemek
+
+--- Sayfa 69 ---
+64  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+için sadece geleneksel reklamcılık stratejileri yetersiz
+kalacaktır. Dijital yerlilerle daha samimi ve kişiselleştirilmiş
+bir iletişim kurarak, onların ilgisini çekmek ve marka sadakati
+oluşturmak pazarlamacılar için daha önemli hale gelecektir.
+Z kuşağı, sürekli olarak yeni şeyler denemeye ve değişen
+trendlere ayak uydurmaya istekli olduğundan markaların
+sosyal medya pazarlama stratejileri de sürekli olarak
+yenilenmeli ve yenilikçi yaklaşımlar benimsemelidir. Ayrıca,
+Z kuşağıyla etkileşim kurmak için sosyal platformlarda canlı
+yayınlar, anketler, soru-cevap oturumları gibi interaktif
+yöntemler kullanılmalıdır.
+Z kuşağının sürekli olarak değişen ilgi alanlarına ve trend-
+lere uyum sağlama isteği, sosyal medya pazarlamacılarının
+esnekliklerini korumalarını gerektirecektir. İnovasyona açık
+olmak ve platformlar arasında geçiş yapmak, başarılı sosyal
+medya pazarlama stratejilerinin temelini oluşturacaktır.
+Sonuç olarak, Z kuşağı ile sosyal medya pazarlaması
+arasındaki
+ilişki,
+geleceğin
+pazarlama
+dünyasını
+ve
+stratejilerini şekillendirmeye devam edecektir. Bu kuşakla
+etkileşim kurmanın ve onları markaları benimsemeye
+teşvik etmenin yollarını kuşağın özelliklerini, isteklerini ve
+motivasyonlarını göz önünde bulundurarak aramak, başarılı
+pazarlama stratejistleri için kritik unsurlar olacaktır.
+
+--- Sayfa 70 ---
+65
+Kaynakça
+Abdullah, A., Ismail, M., M., & Albani, A. (2018). At-
+Risk Generation Z: Values, Talents and Challenges,
+International Journal of Asian Social Science, 8(7), 373-378.
+Akar, E. (2011). Sosyal Medya Pazarlaması: Temelleri ve Süreci.
+Ankara: Efil Yayınevi.
+Akar, F. (2015). Yetenek Yönetimi, İmge Yayınları, 39.
+Alhabash, S., & Ma, M. (2017). A Tale of Four Platforms:
+Motivations and Uses of Facebook, Twitter, Instagram,
+and Snapchat Among College Students?, Social Media
+Society, 3(1), 1-13.
+Anderson, K. E. (2015). Getting Acquainted with Social
+Networks and Apps: Snapchat and the Rise of Ephemeral
+Communication. Library Hi Tech News, 32(10), 6-10.
+Ang, L. (2012). Is scrm really a good social media strategy?,
+Strategic Direction, 28(6), 25-40
+Arar, T., & Yüksel, İ. (2015). How to manage generation Z in
+business life. Journal of Global Economics, Management
+and Business Research, 4(4), 197-202.
+Aslam, S. (2017). Instagram by the numbers: Stats,
+demographics & fun facts. Omnicore, https://www.
+omnicoreagency.com/instagram-statistics/
+Asperen, M., Rooij, P., & Dijkmans, C. (2017). Engagement-
+based loyalty: The effects of social media engagement
+
+--- Sayfa 71 ---
+66  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+on customer loyalty in the travel industry, Hospitality &
+Tourism Administration, 17(4), 1-17
+Ayhün, S. E. (2013). Kuşaklar Arası Farklılıklar ve Örgütsel
+Yansımaları, Ekonomi ve Yönetim Araştırmaları Dergisi,
+2(1), 102-103.
+Bağçı, E. & İçöz, O. (2019). Z ve Alfa Kuşağı ile Dijitalleşen
+Turizm, Güncel Turizm Araştırmaları Dergisi, 3(2), 234.
+Bayer, J. B., Ellison, N. B., Schoenebeck, S. Y., & Falk, E. B.
+(2015). Sharing the small moments: Ephemeral social
+interaction on Snapchat, Information, Communication &
+Society, 19(7), 956-977.
+Ballve, M. (2014). Snapchat Has Gone Global - These Are
+the Countries Where It Has Reached The Top Of
+The App Charts. BusinessInsiderIndia, https://www.
+businessinsider.in/snapchat-has-gone-global-160these-
+are-the-countries-where-it-has-reached-the-top-of-the-
+app-charts/articleshow/39312001.cms
+Barutçu S. & Tomaş M. (2013). Sürdürülebilir Sosyal Medya
+Pazarlaması ve Sosyal Medya Pazarlaması Etkinliğinin
+Ölçümü, İnternet Uygulamaları ve Yönetimi Dergisi,
+4(1), 6-23
+Baylan Ajans. (2023). Z Kuşağının Sosyal Medya Kimliği
+ve
+Kullanımı.
+https://www.baylanajans.com.
+tr/z-kusaginin-sosyal-medya-kimligi-ve-kullanimi/
+Boffone, T. (2021). Renegades: Digital dance cultures from
+Dubsmash to TikTok. Oxford University Press.
+Bogazici University Social Media Lab. (2022). Dijitalin
+Yerlileri:
+Z
+Kuşağının
+Sosyal
+Medya
+Kimliği.
+http://sml.boun.edu.tr/index.php/2022/03/23/
+dijitalin-yerlileri-z-kusaginin-sosyal-medya-kimligi/
+Bree, J. (2009). Consumer Behaviour. Paris: Dunod.
+Bruhn, M., Schoenmueller, V., & Schäfer, D,. B. (2012). Are
+Social Media Replacing Traditional Media in Terms
+of Brand Equity Creation?, Management Research
+Review 35(9): 770-790.
+
+--- Sayfa 72 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  67
+Bostancı, M. (2019). Sosyal Medya, Dün, Bugün, Yarın. Pallet
+Yayınları
+Boz, M. & Uca Özer, S. (2015). Social networks and social
+media: A survey on university students, Eurasian
+Academy of Sciences Social Sciences Journal, 3, 89-103
+Braojos-Gomez, J., Benitez-Amado, J., & Javier Llorens-
+Montes, F. (2015). How Do Small Firms Learn to
+Develop a Social Media Competence?  International
+Journal of Information Management, 35(4): 443–458.
+Caers, R., & Castelyns, V. (2011). LinkedIn and Facebook in
+Belgium: The influences and biases of social network
+sites in recruitment and selection procedures, Social
+Science Computer Review, 29(4), 437-448
+Carlson, K. (2017). Experticity. https://business.experticity.
+com/
+Carr, C. T. & Hayes, R. A. (2015). Social Media: Defining,
+Developing,
+and
+Divining,
+Atlantic
+Journal
+of
+Communication, 23(1), 46-65
+Center for Generational Kinetics. (2018). The state of Gen Z
+2018.  https://genhq.com/generation-z-research-2018/
+Cereci, S. (2019). Sosyal Medya. Ankara: Onto Yayınları
+Chaffey, D., & Bosomworth, D. (2013). Digital marketing
+strategy planning template. Smart Insights, 2(5), 1-14.
+Charteris, J., Gregory, S. & Mesters, Y. (2014). Snapchat
+“selfies”: The case of disappearing data. Rhetoric and
+Reality: Critical perspectives on educational technology.
+Proceedings ascilite Dunedin 2014, 389-393.
+Church, K. & de Oliveira, R. (2013). ‘What’s up with
+whatsapp?’, in Proceedings of the 15th international
+conference on Human-computer interaction with
+mobile devices and services - MobileHCI ’13. New
+York, New York, USA: ACM Press, 352–361.
+Commencis. (2021). Sosyal Medya Raporu 2021 Trendleri
+ve Uygulama İncelemeleri. https://www.commencis.
+
+--- Sayfa 73 ---
+68  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+com/sosyal-medya-raporu-2021-trendleri-ve-uygulama-
+incelemeleri/
+Cooper, P.G. (2018). Social Media. Salem Press Encyclopedia
+Çalışkan. M., & Mencik, Y. (2015). Değişen dünyanın yeni
+yüzü: Sosyal medya, Akademik Bakış Uluslararası
+Hakemli Sosyal Bilimler Dergisi, 50, 254-277.
+Datareportal. (2022). Digital 2021 Turkey Report. https://
+datareportal.com/reports/digital-2021-turkey
+Deniz, L., & Ünal, A. (2019). Sosyal Medya Çağında Kuşakların
+Sosyal Medya Kullanımı ve Değerlerine Yönelik Bir Dizi
+Ölçek Geliştirme Çalışması, OPUS Uluslararası Toplum
+Araştırmaları Dergisi, 11(18), 1025-1057.
+Digitalturbine. (2022). Insights and Reports.
+https://www.adcolony.com/reports/gen-z-effects-in-todays
+-digital-world/
+Doyle, B. (2021). “TikTok Statistics – Updated February
+2021.” Wallaroo Media. https://wallaroomedia.com/
+blog/social-media/tiktok-statistics/
+Efros, F. (2019). Millennials and Gen Zers: They’re not all
+the same. WWD: Women’s Wear Daily, Pressreader.
+https://www.pressreader.com/usa/wwd-digital-dai
+ly/20190729/281612422006734
+Erbaş, T. (2011). Türkiye’de Tumblr Blog Ortamındaki
+Popüler Blogcuların Kullanım Pratikleri. Yüksek Lisans
+Tezi. Başkent Üniversitesi, Ankara.
+Erickson, F. (2012). Qualitative Research Methods for Science
+Education. Netherlands: Springer
+Ericsson. (2012). ConsumerLab Generation Z. https://
+www.pcquest.com/ericsson-consumer-lab-reveals
+-digital-lives-gen-z-india/
+Ergül, H., Gökalp, E. & Cangöz, İ. (2012) Medya Ne Ki..Her
+Şey Yalan!.Kent Yoksullarının Günlük Yaşamında Medya.
+İstanbul: İletişim Yayınları.
+
+--- Sayfa 74 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  69
+Ernst Young. (2015).  What if the next big disruptor isn’t a
+what but a who?  https://www.ey.com/Publication/
+vwLUAssets/EY-what-if-the-next-big-disruptor-isnt-
+a-what-but-a-who/$File/EY-what-if-the-next-big-
+disruptor-isnt-a-what-but-a-who.pdf
+Ersöz, S. (2019). Understanding Whatsapp Parent Groups’
+Dynamics: Group Communication and Information
+Sharing, Manas Journal of Social Studies, 8(1),
+1136–1152.
+Euromonitor. (2018). Generation Z: The Next Wave of
+Consumers.
+September
+20.
+http://www.portal.
+euromonitor.com.ezproxy.mdx.ac.uk/portal/analysis/
+tab/
+Facebook. (2022). Facebook Official Web Page, https://www.
+facebook.com/
+Felix, R., Rauschnabel, P. A., & Hinsch, C. (2016). Elements of
+strategic social media marketing : A holistic framework.
+Journal of Business Research, 70, 1–9.
+Fietkiewicz, K. J., Lins, E., Baran, K. & Stock, W. (2016).
+Inter-generational
+Comparison
+of
+Social
+Media
+Use : Investigating the Online Behavior of Different
+Generational Cohorts, 49th Hawaii International
+Conference on System Sciences, 3829-3835.
+Fırat, D.  (2019). YouTube advertising value and its effects on
+purchase intention, Journal of Global Business Insights,
+4(2), 141–155.
+Forbes. (2021). Gen Z And The Rise Of Social Commerce,
+https://www.forbes.com/sites/forbesagencycouncil
+/2021/05/17/gen-z-and-the-rise-of-social-commerce
+/?sh=288756fe251d
+Francis, T., ve Hoefel, F. (2018). True Gen: Generation Z
+and its Implications for Companies. November 12.  ,
+http://mckinsey.com/industries/consumer-packaged-
+goods/our-insights/true-gen-generation-z-and-its-
+implications-for-companies
+
+--- Sayfa 75 ---
+70  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Gallagher, B. (2012). You Know What’s Cool? A Billion
+Snapchats: App Sees Over 20 Million Photos Shared
+Per Day, Releases On Android. https://techcrunch.
+com/2012/10/29/billion-snapchats/
+Garg, B. (2017). Why LinkedIn is Better than other Social
+Media Networks for Business. https://www.linkedin.
+com/pulse/why-linkedin-better-than-other-social-
+media-networks-business-garg/
+Gen Z Insights. (2021). Your Gen Z Statistics: Digital
+Habits
+Edition,
+https://www.genzinsights.com/
+your-gen-z-statistics-digital-habits-edition
+Global Web Index (2018). The youth of the nations: Glob-
+al trends among Gen Z. https://assets.ctfassets.
+net/inb32lme5009/7wDIuSsLOnSxTUqPmR-
+b081/603b8ffb77757549d39034884a23743c/The_
+Youth_of_the_Nations__Global_Trends_Among_
+Gen_Z.pdf
+Grail Research (2011), Consumers of tomorrow insights
+and observations about generation z.  http://www.
+grailresearch.com/pdf/ContenPodsPdf/
+Consumers_
+of_Tomorrow_Insights_and_Observations_About_
+Generation_Z.p df  on July 20, 2015. 3-5.
+Gwi. (2023). Gen Z: key insights and media trends report.
+https://www.gwi.com/reports/generation-z-2021
+Handyside, R., & Ringrose, J. (2017). Snapchat memory and
+youth digital sexual cultures: mediated temporality,
+duration and affect. Journal of Gender Studies, 26,
+347–360.
+Havas People. (2014), Marketing to Generation Z, https://
+www.coursehero.com/file/52841613/Havas-People-
+White-Paper-Marketing-to-Generation-Zpdf/ , 12.
+Hill Holiday.   (2018).  Meet Gen Z: The Social
+Generation.  http://thinking.hhcc.com/gen-z-report
+Holland, N. (2013). Your Digital Footprint in a Snapchat Era.
+https://directemployers.org/
+
+--- Sayfa 76 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  71
+Hootsuite. (2023). The Global State of Digital 2022 Top
+Takeaways,
+https://hootsuite.widen.net/s/xf2mbffsbq/
+digital-2022-top-takeaways
+Jansen, B. J., Zhang, M., Sobel, K. & Chowdury, A. (2009).
+Twitter power: tweets as electronic word of mouth.
+Journal of the American Society for Information Science &
+Technology, 60 (11), 2169-2188.
+Kahraman, M. (2014). Sosyal medya 101 2.0 (3.Baskı), Kapital
+Medya Hizmetleri, İstanbul.
+Kapil, Y., & Roy, A. (2014). A Critical Evaluation of Generation
+Z at Workplaces. International Journal of Social Relevance
+& Concern, 2(1), 11-13.
+Kaplan, A. M., & Haenlein, M. (2009). The fairyland of
+Second Life: Virtual social worlds and how to use them.
+Business horizons, 52(6), 563-572.
+Kaplan, A. M., & Haenlein, M. (2010). Users of the world,
+unite! The challenges and opportunities of Social Media.
+Business horizons, 53(1), 59-68.
+Karapanos, E., Teixeira, P. & Gouveia, R. (2016). Need
+fulfillment and experiences on social media: A case
+on Facebook and WhatsApp, Computers in Human
+Behavior, 55, 888–897.
+Kelly, L., Kerr, G., & Drennan, J. (2010). Avoidance of
+Advertising in Social Networking Sites: The Teenage
+Perspective. Journal of Interactive Advertising, (2), 16-27.
+Kennedy, M. (2020). If the rise of the TikTok dance and e-girl
+aesthetic has taught us anything, it’s that teenager girls
+rule the internet now: TikTok celebrity, girls, and the
+Coronavirus crisis. European Journal of Cultural Studies,
+23(6), 1069–1076.
+Khan, M. L. (2016). Social Media Engagement: What
+Motivates User Participation and Consumption on
+YouTube? Computers in Human Behavior, 66, 236-247.
+Kim, W. G., Jeong, O. R. & Lee, S. W., (2010). On social Web
+sites. Information Systems, 35 (2), 215-236.
+
+--- Sayfa 77 ---
+72  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Kim, A., McInerney, P., Smith, T,. R., & Yamakawa, N. (2020).
+What Makes Asia−Pacific’s Generation Z Different?.
+September 20.  https://www.mckinsey.com/business-
+functions/growth-marketing-and-sales/our-insights/
+what-makes-asia-pacifics-generation-z-different
+Knoll Workplace Research. (2014). What Comes After Y?
+Generation Z: Arriving to the Office Soon, https://
+www.knoll.com/document/1399972440568/What-
+Comes-After-Y.pdf, 3-4.
+Koçak Alan, A., Tümer Kabadayı, E., & Erişken, T. (2018).
+İletişimin Yeni Yüzü: Dijital Pazarlama ve Sosyal Medya
+Pazarlaması. Elektronik Sosyal Bilimler Dergisi, 5(1),
+59-68.
+Lamont, T. (2020). It’s hard to put the brakes on it: We
+doubled down’: Charli D’Amelio and the first family of
+TikTok. The Guardian https://www.theguardian.com/
+lifeandstyle/2020/jun/06/its-hard-to-put-the-brakes-
+on-it-we-doubled-down-charli-damelioand-the-first-
+family-of-tiktok#
+Levickaite, R. (2010). Generations X, Y, Z: How Socıal
+Networks Form The Concept Of The World Without
+Borders (The Case Of Lithuania). Limes, 3(2), 173-183.
+Liu, X., Shin, H., & Burns, A. C. (2021). Examining the
+Impact of Luxury Brand’s Social Media Marketing
+on Customer Engagement: Using Big Data Analytics
+and Natural Language Processing, Journal of Business
+Research, 125, 815–826.
+Logar, S. (2009)  An Exploration of Twitter’s Popularity and
+Usefulness: Effects on the Media Industry, Business
+World and Beyond, Ohio University, E. W. Scripps
+School of Journalism, 5(1), 7-15.
+Marketing Türkiye. (2021). Türkiye’nin en kapsamlı Z kuşağı
+araştırması.
+https://www.marketingturkiye.com.tr/
+haberler/turkiyenin-en-kapsamli-z-kusagi-arastirmasi/
+
+--- Sayfa 78 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  73
+Markets Insider. (2021). New Poll by ExpressVPN: Generation
+Z Cares About Digital Privacy, but Their Desire
+for Online Fame and Popularity is Greater, https://
+markets.businessinsider.com/news/stocks/new-poll-by-
+expressvpn-generation-z-cares-about-digital-privacy-
+but-their-desire-for-online-fame-and-popularity-is-
+greater-1030993879
+McCrindle, M. (2021). Understanding Generation Alpha,
+https://mccrindle.com.au/article/topic/generation
+-alpha/generation-alpha-defined/
+Moon, J. H., Lee, E., Lee, J.A., Choi, T. & Sung, Y. (2016).
+The Role of Narcissism in Self-Promotion On Instagram,
+Personality and Individual Differences, 101, 22-25.
+Neher, K. (2014). Visual Social Marketing For Dummies.
+Hoboken: John Wileyand Sons, Incorporated.
+Nouwens, M., Griggio, C. F. & Mackay, W. E. (2017)
+‘“WhatsApp is for family; Messenger is for friends”, in
+Proceedings of the 2017 CHI Conference on Human
+Factors in Computing Systems. New York, USA: ACM,
+727–735.
+OC&C Strategy Consultants.  (2019).  A generation without
+borders: Embracing generation Z.,  https://www.
+occstrategy.com/media/1806/a-generation-without-
+borders.pdf
+Olakunle, K.A., 2012. The Impact of Social Media Marketing
+Communications on Consumer’s Perception of Brands.
+APCON Advertising Practitioners Council of Nigeria,
+1-50.
+Önder I., Gunter U., & Gindl S. (2020). Utilizing Facebook
+Statistics in Tourism Demand Modeling and Destination
+Marketing., Journal of Travel Research, (2), 195-208.
+Özel, M. (2012). Öğrencilerin Sosyal Medya Kullanımını
+ve
+Üniversitelerde
+Dijital
+Pazarlama
+iletişimi
+Uygulamalarını Belirlemeye Yönelik Bir Araştırma.
+Yayınlanmış Yüksek Lisans Tezi, Beykent Universitesi.
+
+--- Sayfa 79 ---
+74  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Ozkan, M., & Solmaz, B. (2015). The Changing Face of
+the Employees – Generation Z and Their Perceptions
+of Work (A Study Applied to University Students).,
+Procedia Economics and Finance, 26, 476–483.
+Parsons, A. L., & Lepkowska-white, E. (2018). Social Media
+Marketing Management : A Conceptual Framework.
+Journal of Internet Commerce, 1–15.
+Paswan, A. (2018). Social Media Marketing Strategies. Journal
+for Contemporary Research in Management, 5 (1), 8-11.
+Peterson, R. A. (2005). Response Construction in Consumer
+Behavior Research, Journal of Business Research, 58,
+348-353.
+Pettingenew, D., & Menville, W. (2002). The Consumer as a Key
+Player in Marketing. Paris: SMG edition.
+Pöyry, E., Parvinen, P., & Malmivaara, T. (2013). Can We
+Get From Liking to Buying? Behavioral Differences in
+Hedonic and Utilitarian Facebook Usage.  Electronic
+Commerce Research and Applications, (4), 224-235
+Prensky, M. (2001). Digital Natives, Digital Immigrants Part
+1, On the Horizon The International Journal of Learning
+Futures, 9(5), 1-6.
+Richter, A., & Koch, M. (2007). Social software-status Quo
+Und Zukunft. Fakultat Fur Informatik, Universitat der
+Bundeswehr Munchen.
+Richter, A., & Koch, M., (2008). Functions of Social
+Networking Services. In: Proceedings of the 8th
+International Conference on the Design of Cooperative
+Systems, Carry-le-Rouet 20-23 May 2008.
+Rosenfeld, A., Sina, S., Sarne, D., Avidov, O. & Kraus, S.
+(2018). WhatsApp usage patterns and prediction of
+demographic characteristics without access to message
+content, Demographic Research, 39, 647–670.
+Safko, L. & Brake, D. K., (2009). The social media bible: tactics,
+tools, and strategies for business success. Hoboken, NJ: John
+Wiley & Sons
+
+--- Sayfa 80 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  75
+Sajithra, K. & Rajindra, P., (2013). Social Media- History &
+Components. Journal of Business and Management, 7(1),
+69-74.
+Sarıoğlu, E. B. & Özgen, E. (2018). Z Kuşağının Sosyal
+Medya Kullanım Alışkanlıkları Üzerine Bir Çalışma.
+Uluslararası Sosyal Araştırmalar Dergisi, 11(60), 1068
+Savaş S., & Karataş, S. (2019). Z kuşağı öğrencisini tanımak.
+Eğitim Araştırmaları 2019 içinde (s.223-237). Ankara:
+Eğitim Yöneticileri ve Uzmanları yayınları, 225
+Schellewald, A. (2021). Communicative forms on TikTok:
+perspectives from digital ethnography. International
+Journal of Communication, 15, 1437–1457
+Scepi, G., & Spano, M. (2019). A network-based concept
+extraction for managing customer requests in a social
+media care context, International Journal of Information
+Management, 51, 15-25
+Seo, E. J., & Park, J. W. (2018). A Study on the Effects of
+Social Media Marketing Activities on Brand Equity and
+Customer Response in the Airline Industry., Journal of
+Air Transport Management, 66, 36–41.
+Sladek, B. S., & Grabinger, A. (2016). The first generation of
+the 21st Century has arrived!, 16. Erişim adresi: https://
+www.xyzuniversity.com/wp-content/uploads/2018/08/
+GenZ_ Final-dl1.pdf, 11.
+Sproutsocial. (2023). How Different Generations Use Social
+Media—and What this Means for Your Business,
+https://sproutsocial.com/insights/guides/social
+-media-use-by-generation/
+Sproutsocial. (2023). How to make sure you’re marketing to
+Gen Z the right way, https://sproutsocial.com/insights/
+marketing-to-gen-z/
+Statista. (2019). Digital and Trend Reports, https://www.
+statista.com/studies-and-reports/
+
+--- Sayfa 81 ---
+76  |  Dijital Yerliler: Z Kuşağı ve Sosyal Medya Pazarlaması
+Stillman, D. & Stillman, J. (2019). İşte Z Kuşağı - Genç Kuşak
+İşyerini Nasıl Dönüştürüyor? İstanbul Kültür Üniversitesi
+Yayınevi, 2. Baskı, 53-68.
+Tektaş, N., (2014). Üniversite öğrencilerinin sosyal ağları
+kullanımlarına yönelik bir araştırma. Tarih okulu dergisi,
+17, 851-870.
+Think with Google. (2022). Gen Z Trends and Insights January
+2021 Report, https://www.thinkwithgoogle.com/_qs/
+documents/11214/Generation_Z_Turkey__Global.pdf
+Tsimonis G., & Dimitriadis S. (2014). Brand Strategies in
+Social Media. Marketing Intelligence & Planning, 32 (3),
+328-344
+Türk Dil Kurumu. (2019). Türk Dil Kurumu Sözlükleri,
+https://sozluk.gov.tr/
+Tüten, T., (2008). Advertising 2.0: Social Media Marketing in
+a Web 2.0 World. United State of America: Greenwood
+Publishing.
+Unidays. (2023). The Gen Z Marketing Playbook, https://p.
+corporate.myunidays.com/the-gen-z-marketing
+-playbook
+Ünal, T. A. (2015). Sosyal medya bağımlılığı: Üniversite
+öğrencileri üzerine bir araştırma. Marmara Üniversitesi,
+Doktora Tezi, İstanbul.
+Van Dijk, J. (2016). Senin Gibi Kullanıcılar mı? Kullanıcı
+Türevli İçerikteki Failliği Kuramlaştırmak. In H. Hülür,
+& C. Yaşın (Eds.), Yeni Medya Kullanıcının Yükselişi
+(pp. 160-183). Ankara: Ütopya Yayınları.
+Vision Critical (2016). The Everything Guide to Generation
+Z.,  from  https://www.visioncritical.com/resources/
+the-everything-guide-to-gen-z
+Vural, Z. B. A., & Bat, M., (2010). Yeni bir iletişim ortamı
+olarak sosyal medya: ege üniversitesi iletişim fakültesine
+yönelik bir araştırma. Journal of Yasar University, 20(5),
+3348-3382.
+
+--- Sayfa 82 ---
+Dr. Öğr. Üyesi Bilge Baykal  |  77
+Wallace, T. (2018). Omni-Channel Retail Report: Generational
+Consumer Shopping Behavior Comes Into Focus + Its
+Importance in E-commerce, https://www.bigcommerce.
+com/blog/omni-channel-retail/#online-shopping-
+payment-options-abound
+We Are Social. (2021). Special Report Digital 2021 Your
+ultimate guide to the evolving digital World,
+https://wearesocial.com/uk/blog/2021/01/digital-2021-uk/
+Weber, L. (2009). Marketing to the Social Web: How digital
+customer communities build your business. Second Edition.
+N.J, USA: John Wiley and Sons.
+Weinberg, T. (2009). The New Community Rules: Marketing on
+the Social Web. Sebastopol, CA: O’Reilly Media Inc.
+Wolf, A. (2020). Gen Z & Social Media Influencers: The
+Generation Wanting a Real Experience, Merrimack
+College Merrimack Scholar Works, Spring 2020, 15-21
+Yahoo Finance. (2019). Stock Market News. https://finance.
+yahoo.com/topic/stock-market-news/
+Yılmaz, A., (2016). Sosyal Ağ Kullanımının Bazı Kişilik
+Özellikleriyle İlişkisi. Yayınlanmamış Yüksek Lisans
+Tezi. Çukurova Üniversitesi, Adana.
+Zeng, J., Abidin, C., & Schäfer, M. (2021). Research
+perspectives on TikTok and its legacy apps, International
+Journal of Communication, 15, 3161–3172.

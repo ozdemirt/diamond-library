@@ -1,0 +1,2429 @@
+--- Sayfa 1 ---
+Journal of Artiﬁcial Intelligence Research 53 (2015) 659-697
+Submitted 4/15; published 8/15
+Evolutionary Dynamics of Multi-Agent Learning:
+A Survey
+Daan Bloembergen
+d.bloembergen@liverpool.ac.uk
+Karl Tuyls
+k.tuyls@liverpool.ac.uk
+Department of Computer Science, University of Liverpool
+Ashton Building, Ashton Street, Liverpool L69 3BX, UK
+Daniel Hennes
+daniel.hennes@esa.int
+Advanced Concepts Team, European Space Agency
+Keplerlaan 1, 2201 AZ Noordwijk, NL
+Michael Kaisers
+m.kaisers@cwi.nl
+Centrum Wiskunde & Informatica
+Science Park 123, 1098 XG Amsterdam, NL
+Abstract
+The interaction of multiple autonomous agents gives rise to highly dynamic and nonde-
+terministic environments, contributing to the complexity in applications such as automated
+ﬁnancial markets, smart grids, or robotics. Due to the sheer number of situations that may
+arise, it is not possible to foresee and program the optimal behaviour for all agents be-
+forehand. Consequently, it becomes essential for the success of the system that the agents
+can learn their optimal behaviour and adapt to new situations or circumstances. The past
+two decades have seen the emergence of reinforcement learning, both in single and multi-
+agent settings, as a strong, robust and adaptive learning paradigm. Progress has been
+substantial, and a wide range of algorithms are now available. An important challenge in
+the domain of multi-agent learning is to gain qualitative insights into the resulting system
+dynamics. In the past decade, tools and methods from evolutionary game theory have
+been successfully employed to study multi-agent learning dynamics formally in strategic
+interactions. This article surveys the dynamical models that have been derived for various
+multi-agent reinforcement learning algorithms, making it possible to study and compare
+them qualitatively. Furthermore, new learning algorithms that have been introduced us-
+ing these evolutionary game theoretic tools are reviewed. The evolutionary models can be
+used to study complex strategic interactions. Examples of such analysis are given for the
+domains of automated trading in stock markets and collision avoidance in multi-robot sys-
+tems. The paper provides a roadmap on the progress that has been achieved in analysing
+the evolutionary dynamics of multi-agent learning by highlighting the main results and
+accomplishments.
+1. Introduction
+In a multi-agent system, several autonomous agents interact in the same environment.
+Therefore, multi-agent systems can be used to model many complex problems of today’s
+society, such as urban and air traﬃc control (Agogino & Tumer, 2012), multi-robot coor-
+dination (Ahmadi & Stone, 2006; Claes, Hennes, Tuyls, & Meeussen, 2012), distributed
+sensing (Mihaylov, Tuyls, & Now´e, 2014), energy distribution (Pipattanasomporn, Feroze,
+& Rahman, 2009), and load balancing (Schaerf, Shoham, & Tennenholtz, 1995; Verbeeck,
+c⃝2015 AI Access Foundation. All rights reserved.
+
+--- Sayfa 2 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+Now´e, & Tuyls, 2005). The fact that multiple agents interact leads to a highly dynamic,
+non-deterministic environment. In such an environment, deﬁning proper behaviour for each
+agent in advance is non-trivial and therefore learning is crucial. Recent publications at
+agents and machine learning conferences, as well as papers published in related mainstream
+journals, make clear that the number of newly proposed multi-agent learning algorithms is
+constantly growing. An overview of well-established multi-agent learning algorithms with
+their various purposes can be attained from previous multi-agent learning survey papers
+(Panait & Luke, 2005; ’t Hoen, Tuyls, Panait, Luke, & Poutr´e, 2005; Busoniu, Babuska, &
+De Schutter, 2008; Tuyls & Weiss, 2012), and demonstrates the need for a comprehensive
+understanding of their qualitative similarities and diﬀerences. Although single-agent learn-
+ing – in particular reinforcement learning – has been extensively studied and acquired a
+strong theoretical foundation (Kaelbling, Littman, & Moore, 1996; Sutton & Barto, 1998),
+a thorough understanding of learning in multi-agent settings has long remained an open
+problem (Tuyls, ’t Hoen, & Vanschoenwinkel, 2006).
+Learning in multi-agent systems is not only relevant within the ﬁeld of artiﬁcial intel-
+ligence but has been extensively studied in game theory and economics as well (Shoham,
+Powers, & Grenager, 2007). It is not surprising then, that these ﬁelds share a lot of com-
+mon ground. Indeed, game theory often provides the context in which multi-agent systems
+are modelled and evaluated. Recently, some multi-agent learning research has shifted its
+focus from traditional game theory to evolutionary game theory (Tuyls et al., 2006; Tuyls
+& Parsons, 2007). The concepts employed by evolutionary game theory prove well suited to
+describe learning in multi-agent systems. Both ﬁelds are concerned with dynamic environ-
+ments with a high level of uncertainty, characterised by the fact that agents lack complete
+information (Tuyls et al., 2006). Moreover, there exists a formal relation between the be-
+haviour of one of the most basic reinforcement learning algorithms, Cross learning (Cross,
+1973), and the population dynamics of evolutionary game theory, described by the replica-
+tor dynamics (B¨orgers & Sarin, 1997). Although this link was originally established in the
+context of stateless normal-form games only, it has since been extended to more complex
+scenarios as well (e.g., Hennes, Tuyls, & Rauterberg, 2009; Tuyls & Westra, 2009; Galstyan,
+2013; Panozzo, Gatti, & Restelli, 2014).
+Understanding this relation sheds light into the black box of reinforcement learning
+by making it possible to analyse the learning dynamics of multi-agent systems in detail
+and to compare the behaviour of diﬀerent algorithms in a principled manner. This in turn
+facilitates important tasks such as parameter tuning, and helps in selecting a speciﬁc learner
+for a given problem. Tuyls and Now´e (2005) and Tuyls et al. (2006) were the ﬁrst to present
+an overview of this evolutionary game theoretic approach to multi-agent learning. They
+build on the connection between Cross learning and the replicator dynamics and extend
+this link to learning automata and Q-learning as well. However, much progress has been
+made in the past decade, warranting an up-to-date overview and roadmap of this research
+area. This is precisely our aim in this work.
+We believe that evolutionary game theory has a lot to oﬀer for both the understanding
+and application of multi-agent learning. Shoham et al. (2007) call for a more grounded
+approach to research in multi-agent learning, suggesting ﬁve agendas to which such research
+could contribute.
+They also caution not to rely too strongly on requirements such as
+convergence to a Nash equilibrium when evaluating learning algorithms in a multi-agent
+660
+
+--- Sayfa 3 ---
+Evolutionary Dynamics of Multi-Agent Learning
+setting. In response, Tuyls and Parsons (2007) argue in favour of evolutionary game theory,
+rather than classical game theory, as the preferable framework within which to study multi-
+agent learning formally. They show how research on the evolutionary framework contributes
+to each of the ﬁve agendas of research identiﬁed by Shoham et al. (2007). Moreover, it allows
+us to move away from the static Nash equilibrium, and focus instead on the transient
+dynamics of the learning process.
+In this article we describe the formal relation between evolutionary game theory and
+multi-agent learning in detail and survey the recent advances and extensions that have
+been made in this area.1 To this end we present a categorisation of related work based
+on the nature of the environment (stateless or multi-state games) and the actions (discrete
+or continuous) available to the learning agents.
+Moreover, we provide examples of the
+successful application of this approach in relation to parameter tuning, the design of new
+learning algorithms, and the analysis of complex strategic interactions such as automated
+trading and multi-robot collision avoidance.
+The evolutionary game theoretic approach
+oﬀers a promising new paradigm within which to study multi-agent learning, as it provides
+new insights towards the understanding, analysis, and design of multi-agent reinforcement
+learning algorithms.
+The paper proceeds as follows. Section 2 provides the necessary background on (multi-
+agent) reinforcement learning and evolutionary game theory. Section 3 introduces the link
+between the replicator dynamics and Cross learning and outlines the methodology of this
+survey. An overview of recent advances and extensions is given in Section 4, supported
+by empirical validation in Section 5. Section 6 presents examples of the application of the
+evolutionary game theoretic approach. Section 7 concludes the article.
+2. Preliminaries
+In this section, we outline the fundamentals of multi-agent learning. Firstly, we concisely
+present Markov decision processes (MDPs) as the standard formal framework for single-
+agent decision making, together with a well-known reinforcement learning algorithm, Q-
+learning. We then proceed to present stochastic games, also called Markov games, as a multi-
+agent extension to MDPs, as well as three approaches to learning in this extended setting:
+independent learning, joint action learning, and gradient based methods. Finally, we discuss
+how evolutionary game theory can be used to reason about multi-agent interactions, paving
+the way to formally relate these two ﬁelds in Section 3.
+2.1 Reinforcement Learning
+Reinforcement learning is based on the concept of trial-and-error learning, which underlies
+many theories of (human) learning and intelligence (Sutton & Barto, 1998).
+The rein-
+forcement learning agent continuously interacts with the environment, perceiving its state,
+taking actions, and observing the eﬀect of those actions (see Figure 1). Actions that yield
+a positive eﬀect will have a higher chance of being executed again in the future, that is to
+1. We do not attempt to present a broad survey on multi-agent learning in general but focus solely on
+those works that explicitly model multi-agent learning using methods from evolutionary game theory.
+An excellent survey and taxonomy of multi-agent learning algorithms in general can be found in the
+work of Busoniu et al. (2008).
+661
+
+--- Sayfa 4 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+Agent
+Environment
+at
+rt
+rt+1
+st+1
+st
+Figure 1: A reinforcement learning agent perceives state st of the environment at time
+t, decides to take action at, upon which the environment transitions to state st+1 and the
+agent receives reward rt+1.
+say they are reinforced within the agent’s behaviour. To this eﬀect, the agent receives a
+reward signal that indicates the quality of the actions taken; however, the reward may be
+stochastic, delayed, or accumulated over sequences of actions. Therefore, the agent needs to
+balance exploration and exploitation, to avoid getting stuck in local optima. The objective
+of the learning agent is to discover a policy, represented as a mapping from states to actions,
+that maximises its long-term expected reward.
+The single-agent reinforcement learning setting can be formalised as a Markov decision
+process (MDP) (Puterman, 1994). An MDP is deﬁned by ﬁnite state and action sets, S
+and A, one-step state transition dynamics
+Pa
+ss′ = P(st+1 = s′|st = s, at = a)
+(1)
+describing the probability of transitioning to state s′ ∈S after taking action a ∈A in state
+s, and the expected value of the next reward
+Ra
+ss′ = E(rt+1|st = s, at = a, st+1 = s′)
+(2)
+given the previously executed action and resulting state transition. Both state transitions
+and rewards can be stochastic, and in fact learning these stochastic models is a key task
+in many reinforcement learning problems. The learning goal in an MDP is to ﬁnd a policy
+π that maps states to action selection probabilities, maximising expected reward. When
+following a ﬁxed policy π we can deﬁne the value of a state s under that policy as the total
+amount of reward R the agent expects to accumulate when starting in state s and following
+π thereafter:
+V π(s) = Eπ(Rt|st = s) = Eπ(
+∞
+X
+k=0
+γkrt+k+1|st = s).
+The rewards are discounted by factor γ ∈[0, 1) to ensure a bounded sum in inﬁnite horizon
+MDPs. The value function for a policy π can be calculated iteratively using the Bellman
+equation (Bellman, 1957). Starting with an arbitrarily chosen value function V π, at each
+iteration and for each state s the value function is then updated based on the immediate
+reward and the current estimate of V π:
+V π(s) ←
+X
+a∈A(s)
+π(s, a)
+X
+s′∈S
+Pa
+ss′[Ra
+ss′ + γV π(s′)].
+662
+
+--- Sayfa 5 ---
+Evolutionary Dynamics of Multi-Agent Learning
+The Bellman equation expresses the recursive relation between the value of a state and
+its successor states, and averages over all possibilities, weighing each by its probability of
+occurring. In this setting, ﬁnding an optimal policy π∗is equivalent to ﬁnding a policy that
+maximises the value function, i.e.,
+V π∗(s) = max
+π
+V π(s) ∀s ∈S.
+When a model of the environment is available, in particular if P and R are known, the
+Bellman equation can be applied to compute an optimal policy directly, using a dynamic
+programming technique such as value iteration or policy iteration (Sutton & Barto, 1998).
+In general, however, such a model may not be available. In this case, reinforcement learn-
+ing can be used to ﬁnd an optimal mapping from states to actions. Arguably the most
+famous example of a reinforcement learning algorithm is the model-free temporal diﬀerence
+algorithm Q-learning (Watkins & Dayan, 1992).
+Q-learning maintains a value function
+over state-action pairs, Q(s, a), which it updates based on the immediate reward and the
+discounted expected future reward according to Q:
+Q(st, at) ←Q(st, at) + α
+h
+rt+1 + γ max
+a
+Q(st+1, a) −Q(st, at)
+i
+.
+(3)
+Here, γ is the discount factor for future rewards as before, and α ∈[0, 1] is the learning rate
+that determines how quickly Q is updated based on new reward information. Q-learning
+is proven to converge to the optimal policy, given “suﬃcient” updates for each state-action
+pair, and a decreasing learning rate α →0 (Watkins & Dayan, 1992).
+Choosing which action to take is a crucial aspect of the learning process. Should the
+agent exploit actions that yielded high reward in the past, or should it explore in order to
+achieve potentially better results in the future, thereby risking a low reward now? Neither
+of the two is suﬃcient on its own, and the dilemma is to ﬁnd the right balance (Kaelbling
+et al., 1996; Sutton & Barto, 1998). Two often used action selection mechanisms are ϵ-
+greedy and softmax or Boltzmann exploration (Sutton & Barto, 1998). ϵ-Greedy selects
+the best action (greedy w.r.t. Q) with probability 1 −ϵ, and with probability ϵ it selects
+an action at random. The Boltzmann exploration mechanism makes use of a temperature
+parameter τ that controls the balance between exploration and exploitation. Action ai is
+chosen in state s with probability
+pi =
+eQ(s,ai)/τ
+X
+j
+eQ(s,aj)/τ .
+(4)
+A high temperature drives the mechanism towards exploration, whereas a low temperature
+promotes exploitation, favouring actions with higher Q-values.
+2.2 From Single-Agent to Multi-Agent Learning
+The MDP framework assumes that a single agent is active in the environment. Once multiple
+agents interact and learn simultaneously, the model needs to be extended. Stochastic games,
+or Markov games, oﬀer a generalisation of MDPs to the multi-agent domain (Littman, 1994).
+In a stochastic game, each agent has its own set of actions, i.e., for n agents the joint-action
+663
+
+--- Sayfa 6 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+space is A = A1 × A2 × . . . × An. The state transition and reward functions now depend on
+the joint action of all agents:
+R : S × A1 × . . . × An × S 7→Rn
+P : S × A1 × . . . × An × S 7→[0, 1].
+The immediate rewards may be the same for all agents but they need not be in general.
+A special case of stochastic games is the stateless setting described by normal-form games.
+Normal-form games are one-shot interactions, where all agents simultaneously select an
+action and receive a reward based on their joint action, after which the game ends. There is
+no state transition function, and the reward function can be represented by an n-dimensional
+payoﬀmatrix, for n agents. An agent’s policy is simply a probability distribution over its
+actions. Repeated normal form games are common benchmarks for multi-agent learning.
+Such scenarios are detailed further in Section 2.3.
+Learning in a multi-agent setting is inherently more complex than in the single-agent
+case described previously, as agents interact both with the environment and potentially
+with each other. Learning is simultaneous, meaning that changes in the policy of one agent
+may aﬀect the rewards and hence the optimal policy of others.
+Moreover, agents may
+have conﬂicting interests, yet cooperation with competitors may yield short or long term
+beneﬁts. This makes it diﬃcult to judge the learning process, since myopic maximisation
+of individual rewards might not lead to the best overall solution. The fact that the reward
+function depends on the actions of other agents leads to an important characteristic of
+multi-agent reinforcement learning: the environment is non-stationary and as a result each
+agent is essentially pursuing a moving target (Busoniu et al., 2008). Moreover, the fact
+that multiple agents inﬂuence the environment means that, from the perspective of the
+individual agents, the Markov property no longer holds. Two diﬀerent approaches to multi-
+agent learning can be distinguished: independent learning and joint-action learning (Claus
+& Boutilier, 1998). In the following we brieﬂy discuss both approaches, and list notable
+algorithms in each class. For a detailed taxonomy of multi-agent learning algorithms, we
+refer to the excellent survey of Busoniu et al. (2008).
+2.2.1 Independent Learning
+Independent learners mutually ignore each other, thereby eﬀectively reducing the multi-
+agent learning problem to a single-agent one. Interaction with other agents is implicitly
+perceived as noise in a stochastic environment. The advantage of this approach is that
+single-agent learning algorithms can straightforwardly be applied to a multi-agent setting,
+and scalability in the number of agents is not an issue.2
+However, stochasticity of the
+environment means that convergence guarantees from the single-agent setting are lost. In
+particular, the Markov property on which such proofs are typically based, no longer holds.
+Moreover, no explicit mechanism for coordination is available to the agents. Despite these
+drawbacks, independent learners have shown good performance in many multi-agent set-
+tings (Busoniu et al., 2008).
+2. Computational complexity increases only linearly with the number of agents. Performance may vary
+depending on the speciﬁc domain and algorithm.
+664
+
+--- Sayfa 7 ---
+Evolutionary Dynamics of Multi-Agent Learning
+Traditional single-agent reinforcement learning algorithms, such as Q-learning (Watkins
+& Dayan, 1992) and (networks of) learning automata (Narendra & Thathachar, 1974;
+Wheeler Jr & Narendra, 1986; Vrancx, Verbeeck, & Now´e, 2008b), can be directly applied
+in this setting. Moreover, various new independent learning algorithms have been proposed
+speciﬁcally with the multi-agent setting in mind. For example, Bowling and Veloso (2001)
+proposed policy hill climbing with the win or learn fast heuristic (WoLF-PHC), and show
+that the algorithm is rational and convergent in multi-agent domains.
+Other examples
+include frequency maximum Q-learning (Kapetanakis & Kudenko, 2002), an algorithm tai-
+lored to coordinate in cooperative multi-agent systems, and a class of regret minimisation
+algorithms (Blum & Mansour, 2007) that guarantee performance close to the best ﬁxed
+action in hindsight against any opponent. Finally, two extensions to Q-learning have been
+proposed that alleviate certain artifacts of this algorithm in non-stationary (e.g. multi-
+agent) environments: frequency-adjusted Q-learning (Kaisers & Tuyls, 2010), and repeated
+update Q-learning (Abdallah & Kaisers, 2013). Frequency-adjusted Q-learning has been
+proven to converge in two-player two-action normal-form games (Kaisers & Tuyls, 2011;
+Kianercy & Galstyan, 2012).
+2.2.2 Joint-Action Learning
+Whereas independent learners completely ignore the presence of other agents, joint-action
+learners explicitly take them into account. Joint-action learners achieve this by learning
+in the space of joint actions, rather than in their individual action space only (Claus &
+Boutilier, 1998). They observe the actions of other agents in order to estimate their policy,
+and then act optimally given those estimated policies. This way, joint action learners have
+better means of coordination. The drawback is that the agent needs to be able to observe the
+other agents’ actions, and assumptions about the opponents’ adaptation mechanism are nec-
+essary to derive reasonable predictions of the opponents’ future actions. Moreover, the com-
+plexity of the algorithm grows exponentially with the number of agents. Examples of joint
+action learners are minimax-Q (Littman, 1994), ﬁctitious play and AWESOME (Brown,
+1951; Conitzer & Sandholm, 2007), hyper-Q (Tesauro, 2003), and Nash-Q (Hu & Wellman,
+2003). Worth mentioning here as well is the related stream of work on Bayesian reinforce-
+ment learning (Dearden, Friedman, & Russell, 1998; Strens, 2000). Of particular interest
+to the discussion of multi-agent learning is the work of Chalkiadakis and Boutilier (2003),
+who use the Bayesian framework to explicitly model an agent’s uncertainty about both the
+model of the environment and the strategies of the other agents.
+2.2.3 Gradient Ascent Optimisation
+A somewhat separate stream of multi-agent learning research revolves around gradient as-
+cent based algorithms.
+These methods often fall in between independent learning and
+joint-action learning, but are worth mentioning separately as they are important for our
+discussion in Section 4.1. Gradient ascent (or descent) is a well-known optimisation tech-
+nique in the ﬁeld of machine learning. Given a well-deﬁned diﬀerentiable objective function,
+the learning process can follow the direction of its gradient in order to ﬁnd a local optimum.
+This concept can be adapted for multi-agent learning by having the learning agents’ policies
+follow the gradient of their individual expected reward.
+665
+
+--- Sayfa 8 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+Examples of gradient ascent algorithms are inﬁnitesimal gradient ascent (IGA), which
+is designed speciﬁcally for two-player two-action normal-form games (Singh, Kearns, &
+Mansour, 2000), and generalized inﬁnitesimal gradient ascent (GIGA), which extends IGA
+to games with an arbitrary number of actions (Zinkevich, 2003). Both algorithms can be
+combined with the win or learn fast (WoLF) heuristic in order to improve convergence in
+stochastic games (Bowling & Veloso, 2002; Bowling, 2005). Both IGA and GIGA assume
+that the agents have knowledge of the (reward) structure of the game, or at least have some
+mechanism for approximating the gradient of the value function, which is not generally
+feasible in practice. However, the more recent algorithm weighted policy learning (WPL)
+relaxes this assumption (Abdallah & Lesser, 2008).
+2.3 Game Theory
+Game theory (Von Neumann & Morgenstern, 1944; Gibbons, 1992) is a theory of interactive
+strategic decision making, and is therefore of utmost importance for multi-agent systems.
+It studies this decision making in the form of cooperative and competitive games. In these
+games, each player has a set of actions and a preference over the joint action outcome, which
+is captured by a numerical payoﬀsignal. For games between two players that are played
+only once, i.e., one-shot two-player games, the payoﬀs can be represented by a bi-matrix
+(A, B), which gives the payoﬀfor the row player in A, and the column player in B (see
+Figure 2). In this example, the row player chooses one of the two rows, the column player
+chooses on of the columns, and the outcome of their joint action determines the payoﬀto
+both. The goal for each player is to come up with a strategy (a probability distribution over
+his actions) that maximises their expected payoﬀin the game. Note that games, players,
+strategies, and payoﬀs of game theory map one-to-one to environments, agents, policies,
+and rewards in the multi-agent systems literature.
+The players are thought of as individually rational, in the sense that each player is
+perfectly logical and tries to maximise his own payoﬀ, assuming the others are doing likewise.
+Under this assumption, the Nash equilibrium (NE) solution concept can be used to study
+what players will reasonably choose to do. A set of strategies forms a NE if no single player
+can do better by unilaterally switching to a diﬀerent strategy. In other words, each strategy
+in a NE is a best response against all other strategies in that equilibrium.
+A game can have more than one Nash equilibrium, some of which may not be preferred
+equally. Moreover, the NE may not be the best outcome from a social point of view. As an
+example, consider the Prisoner’s Dilemma (Axelrod & Hamilton, 1981), depicted in Figure 3
+(left). In this game, two players simultaneously choose either to cooperate (C) or defect
+(D). Individually, defection is a best response against any opponent strategy, and as a result
+mutual defection is the single Nash equilibrium of the game. However, both players would
+be better oﬀif both would cooperate – hence the dilemma.
+ a11, b11
+a21, b21
+a12, b12
+a22, b22
+
+Figure 2: General payoﬀbi-matrix (A, B) for a two-player two-action normal form game.
+666
+
+--- Sayfa 9 ---
+Evolutionary Dynamics of Multi-Agent Learning
+C
+D
+C
+D
+ 3, 3
+5, 0
+0, 5
+1, 1
+
+S
+H
+S
+H
+ 4, 4
+3, 1
+1, 3
+3, 3
+
+H
+T
+H
+T
+ 1, 0
+0, 1
+0, 1
+1, 0
+
+Figure 3: Payoﬀmatrix for the Prisoner’s Dilemma (left), the Stag Hunt (center), and
+Matching Pennies (right).
+A second example is given by the Stag Hunt (Skyrms, 2004), shown in Figure 3 (center).
+In this coordination game, both players prefer to jointly choose either to hunt for stag (S) or
+hare (H). Hunting for hare provides a safe choice, as the payoﬀfor this action is independent
+of the choice of the opponent. Hunting stag is more risky, however both players yield a higher
+payoﬀif they manage to coordinate. This game has two pure Nash equilibria, (S, S) and
+(H, H), and one mixed Nash equilibrium where both players randomise and play S with
+probability 2
+3.
+Finally, in the Matching Pennies game (Figure 3, right) two players simultaneously
+choose which side of their coin to display, either heads (H) or tails (T). If both choose the
+same side, the ﬁrst player gets to keep both coins. If they pick opposite sides, the second
+player keeps the coins. In this zero-sum game, the single mixed NE is for both players to
+randomise uniformly over their actions.
+2.4 Evolutionary Game Theory
+Classical game theory assumes that full knowledge of the game is available to all players,
+which together with the assumption of individual rationality does not necessarily reﬂect
+the dynamic nature of real world interactions. Evolutionary game theory relaxes the ra-
+tionality assumption and replaces it by biological concepts such as natural selection and
+mutation (Maynard Smith & Price, 1973; Weibull, 1997; Hofbauer & Sigmund, 1998; Gin-
+tis, 2009). Central to evolutionary game theory are the replicator dynamics that describe
+how a population of individuals evolves over time under evolutionary pressure. Each in-
+dividual is of a certain type, and individuals are randomly paired in interaction. Their
+reproductive success is determined by their ﬁtness, which results from these interactions.
+The replicator dynamics dictate that the population share of a certain type will increase
+if the individuals of this type have a higher ﬁtness than the population average; otherwise
+their population share will decrease. The population can be described by the state vector
+x = (x1, x2, . . . , xn)⊤, with 0 ≤xi ≤1 ∀i and P
+i xi = 1, representing the fractions of the
+population belonging to each of n types. Now suppose the ﬁtness of type i is given by the ﬁt-
+ness function fi(x), and the average ﬁtness of the population is given by ¯f(x) = P
+j xjfj(x).
+Using ˙xi to denote dxi
+dt , the population change over time can then be written as
+˙xi = xi
+
+fi(x) −¯f(x)
+
+.
+(5)
+These replicator dynamics describe the change over time of a large population of individuals.
+However, the model can be interpreted alternatively as representing the strategy of a single
+player, where the population share of each type represents the probability with which the
+player selects the corresponding pure action, as summarised in Table 1. The replicator
+dynamics now describe the player’s strategy change over time as he repeatedly plays the
+667
+
+--- Sayfa 10 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+Table 1: Correspondence of terminology between the domains of reinforcement learning,
+game theory, and evolutionary game theory.
+Reinforcement Learning
+Game Theory
+Evolutionary Game Theory
+environment
+game
+game
+agent
+player
+population
+action
+action
+type
+policy
+strategy
+distribution over types
+reward
+payoﬀ
+ﬁtness
+game and iteratively updates his policy.
+Evolutionary game theory reﬁnes the static
+Nash equilibrium (NE) concept with the notion of evolutionarily stable strategies (ESS). A
+strategy x is an ESS if it is immune to invasion by mutant strategies, given that the mutants
+initially occupy only a small fraction of the population. Let f(x, y) be the (expected) ﬁtness
+of strategy x against strategy y. Formally then, strategy x is an ESS iﬀ, for any mutant
+strategy y, the following hold:
+1. f(x, x) ≥f(y, x), and
+2. if f(x, x) = f(y, x), then f(x, y) > f(y, y).
+The ﬁrst condition states that an ESS is also a NE of the original game.
+The second
+condition states that if the invading strategy does as well against the original strategy as
+the original strategy does against itself, then the original strategy must do better against
+the invader than the invader does against itself. This means that ESS are a reﬁnement of
+the NE solution concept. Moreover, every ESS is an asymptotically stable ﬁxed point of
+the replicator dynamics (Weibull, 1997).
+In a two-player game, each player is described by his own evolving population, and at
+every iteration of the game one individual of each player’s population is drawn to interact.
+Therefore, the ﬁtness of each type now depends on the population distribution of the co-
+player, i.e., the two populations are co-evolving. If the two players’ populations are given
+by x and y and their ﬁtness functions by the payoﬀmatrices A and B, we can write the
+expected ﬁtness of type i of population x as
+fi(x) =
+X
+j
+aijyj = (Ay)i
+and similarly we can write the average population ﬁtness as
+¯f(x) =
+X
+i
+xi
+X
+j
+aijyj = x⊤Ay.
+Following similar reasoning for the population y, we can rewrite Equation 5 for the two
+populations as
+˙xi = xi
+h
+(Ay)i −x⊤Ay
+i
+˙yi = yi
+h
+(x⊤B)i −x⊤By
+i
+.
+(6)
+668
+
+--- Sayfa 11 ---
+Evolutionary Dynamics of Multi-Agent Learning
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+Figure 4: The replicator dynamics, plotted in the unit simplex, for the prisoner’s dilemma
+(left), the stag hunt (center), and matching pennies (right).
+To illustrate the dynamics of Equation 6, we analyse the three games presented in Figure 3.
+Since a player’s strategy over two actions is fully deﬁned by the probability of the ﬁrst action
+(as x2 = 1 −x1), we can plot the strategy space of these games as the two-dimensional unit
+simplex over the tuple (x1, y1). Plugging the payoﬀmatrix of each game into the replicator
+dynamics of Equation 6, we ﬁnd the direction and relative speed of change for each point
+in the unit simplex. The resulting vector ﬁelds for the three games are shown in Figure 4.
+Figure 4 shows that the players in the prisoner’s dilemma are drawn to the (D, D)
+equilibrium, which is both a NE and an ESS. In the stag hunt, both pure NE, (S, S) and
+(H, H), are also ESS, but the mixed NE is not. It is a ﬁxed point, but not asymptotically
+stable. Finally, the matching pennies game has a single mixed NE at (1
+2, 1
+2), where both
+players randomise uniformly over their actions. However, this again is not an ESS; instead
+all trajectories cycle around this ﬁxed point.
+3. Relating Reinforcement Learning and Replicator Dynamics
+Recent research analysing the dynamics of multi-agent learning builds on seminal work
+by B¨orgers and Sarin (1997), who ﬁrst proved the formal relation between the replicator
+dynamics of evolutionary game theory and reinforcement learning. In this section, we will
+ﬁrst summarise their proof. Next, we present a categorisation of recent work, based on the
+nature of the environment and actions available to the agents.
+3.1 Replicator Dynamics as the Continuous Time Limit of Cross Learning
+Multi-agent learning and evolutionary game theory share a substantial part of their foun-
+dation, in that they both deal with the decision making processes of boundedly rational
+agents, or players, in uncertain environments. The link between these two ﬁelds is not only
+an intuitive one, but was made formal with the proof that the continuous time limit of
+Cross learning converges to the replicator dynamics (B¨orgers & Sarin, 1997).
+669
+
+--- Sayfa 12 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+Cross learning (Cross, 1973) is one of the most basic stateless reinforcement learning
+algorithms, which updates policy3 π based on the reward r received after taking action j as
+π(i) ←π(i) +
+ r −π(i)r
+if i = j
+−π(i)r
+otherwise .
+(7)
+A valid policy is ensured by the update rule as long as the rewards are normalised, i.e.,
+0 ≤r ≤1. Cross learning is closely related to ﬁnite action-set learning automata (Narendra
+& Thathachar, 1974; Thathachar & Sastry, 2002). In particular, it is equivalent to a learning
+automaton with a linear reward-inaction (LR−I) update scheme and a learning step size (α)
+of 1.
+We can estimate the expected change in the policy, E [∆π(i)], induced by Equation 7
+(B¨orgers & Sarin, 1997). The probability π(i) of action i is aﬀected both if i is selected and
+if another action j is selected. Let Ei[r] be the expected reward after taking action i. We
+can now write
+E [∆π(i)] = π(i)
+h
+Ei[r] −π(i)Ei[r]
+i
++
+X
+j̸=i
+π(j)
+h
+−Ej[r]π(i)
+i
+= π(i)
+h
+Ei[r] −P
+jπ(j)Ej[r]
+i
+.
+(8)
+Assuming the learner takes inﬁnitesimally small update steps, the continuous time limit of
+Equation 8 can be taken as
+πt+δ(i) = πt(i) + δ∆πt(i)
+with lim δ →0. This yields a continuous time system which can be expressed with the
+partial diﬀerential equation
+˙π(i) = π(i)
+h
+Ei[r] −P
+jπ(j)Ej[r]
+i
+In a two-player normal form game, we can write the policy of an agent simply as a probability
+distribution over actions, i.e. π ≡x. As such deﬁned, and given payoﬀmatrices A and B
+and policies x and y for the two players, respectively, this yields
+˙xi = xi
+h
+(Ay)i −x⊤Ay
+i
+˙yi = yi
+h
+(x⊤B)i −x⊤By
+i
+(9)
+which are exactly the multi-population replicator dynamics of Equation 6.
+This link can be made explicit not only theoretically but also empirically, as shown
+in Figure 5.
+Here, we simulate the learning process of two Cross learners when taking
+very small policy update steps (by multiplying the update term of Equation 7 by α =
+0.001), starting at diﬀerent initial policies, and overlaying the resulting policy traces on
+the replicator dynamics of Figure 4. As can be observed, the learning traces follow the
+replicator dynamics precisely. In a similar fashion, dynamical models of diﬀerent (and more
+complex) reinforcement learning algorithms can be derived.
+These are discussed in the
+following sections.
+3. The dependency of the policy on state s is dropped for stateless environments, and the dependence on
+time is implied but omitted for notational convenience.
+670
+
+--- Sayfa 13 ---
+Evolutionary Dynamics of Multi-Agent Learning
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+Figure 5: Policy traces of Cross learning, plotted in the unit simplex and overlaid on the
+replicator dynamics, for the prisoner’s dilemma (left), the stag hunt (center), and matching
+pennies (right).
+3.2 Categorisation of Learning Dynamics
+We divide the learning algorithms and corresponding dynamics that are presented in this
+work into four categories, based on the nature of the environment and the actions avail-
+able to the agent. We distinguish stateless normal-form games, and games with multiple
+states with probabilistic transitions between them, represented by stochastic games (see
+also Section 2.2). Moreover, we diﬀerentiate between settings where the agent has a ﬁnite,
+discrete choice of actions, and settings which oﬀer a continuous range of choices. Table 2
+lists the four resulting categories, along with references to work that has been done in each
+category. We focus solely on work that explicitly relates the dynamical models to learning
+in multi-agent systems. A large body of work is available that discusses extensions to the
+replicator dynamics from an evolutionary game theoretic viewpoint only, however, these fall
+outside the scope of this survey.4
+Cross learning, detailed previously, belongs to the ﬁrst category of stateless games with
+discrete actions. Other examples in this category are stateless Q-learning and the related
+frequency adjusted (FAQ) and lenient (LFAQ) versions, regret minimisation, and gradient
+ascent algorithms. The second category comprises stateless games with a continuous action
+space. Typically, function approximators are used in such settings (a recent overview is
+provided in Busoniu, Babuska, De Schutter, & Ernst, 2010), however most work in that
+category has so far been limited to single-agent learning. Here, we summarise approaches
+to model such games using continuous action replicator dynamics. The third category is that
+of stochastic (i.e. multi-state) games with discrete actions. Dynamics have been derived
+for networks of learning automata, in particular piece-wise and state-coupled replicator
+dynamics, and the variation RESQ-learning that incorporates exploration in the learning
+process.
+The fourth category in Table 2, comprising stochastic games with continuous action-
+spaces, is strikingly empty. Indeed, this domain is of main interest for future work, as no
+attempts have been made so far to derive learning dynamics for this setting. Combining
+techniques and approaches from the second and third category could be a fruitful starting
+4. See e.g. the textbooks by Weibull (1997) and Hofbauer and Sigmund (1998) for an introduction.
+671
+
+--- Sayfa 14 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+Table 2: Categorisation of dynamical models of multi-agent learning that are available in
+the literature.
+Discrete actions
+Continuous actions
+Normal form
+games
+Q-learning1
+FAQ-learning2
+Regret Minimisation3
+Lenient FAQ-learning4
+Gradient ascent5
+Continuous action replicator
+dynamics6
+Q-learning7
+Stochastic
+games
+Piecewise replicator dynamics8
+State-coupled replicator
+dynamics9
+RESQ-learning10
+1Tuyls et al. (2003)
+Kianercy and Galstyan (2012)
+2Kaisers and Tuyls (2010, 2011)
+3Klos et al. (2010)
+4Panait et al. (2008)
+Bloembergen et al. (2011)
+5Kaisers et al. (2012)
+6Tuyls and Westra (2009)
+7Galstyan (2013)
+8Vrancx et al. (2008a)
+9Hennes et al. (2009)
+10Hennes et al. (2010)
+point for such an endeavour. In the next section we provide an overview of the work listed
+in Table 2, following the same categorisation.
+4. Overview of Learning Dynamics
+With the categorisation presented in Table 2 in hand, we now give an overview of the
+dynamics of various multi-agent reinforcement learning algorithms. First, learning dynamics
+in normal-form games will be discussed. Next, we present replicator dynamics for continuous
+strategy spaces. Finally, multi-state learning dynamics are described.
+4.1 Learning Dynamics in Normal-Form Games
+Repeated normal-form games are characterised by being stateless games, in which agents
+choose from a discrete and ﬁnite set of actions at each time step. This greatly simpliﬁes
+analytical approaches, while at the same time still allowing to capture interesting strategic
+interactions. As a result, normal-form games have been frequently used as a test-bed for
+multi-agent learning (Busoniu et al., 2008). Several learning algorithms have been devised
+speciﬁcally for normal-form games; other multi-state algorithms such as Q-learning can
+straightforwardly be applied by removing the state dependency from the learning update
+rule. As before, in the remainder we deﬁne x ≡π and y ≡σ to be the policies of the two
+agents in the stateless setting.
+4.1.1 Independent Reinforcement Learners
+As described in Section 3, Cross learning (CL) was the ﬁrst algorithm to be linked to the
+replicator dynamics of evolutionary game theory (B¨orgers & Sarin, 1997). In particular,
+the inﬁnitesimal time limit of the Cross learning update rule (Equation 7) converges to the
+672
+
+--- Sayfa 15 ---
+Evolutionary Dynamics of Multi-Agent Learning
+replicator dynamics. The link between a simple policy learner such as Cross learning, and
+a dynamical system in the policy space may seem intuitive. However, this link has been
+extended to value-based (and more complex policy-based) learners as well. A selection-
+mutation model of Boltzmann Q-learning has been proposed by Tuyls et al. (2003), assuming
+a constant temperature τ.5 Tuyls et al. show that the dynamical system can be decomposed
+into terms for exploitation (selection following the replicator dynamics) and exploration
+(mutation through randomisation based on the Boltzmann mechanism):6
+˙xi = αxi
+τ
+h
+(Ay)i −x⊤Ay
+i
+|
+{z
+}
+exploitation
+−αxi
+h
+log xi −P
+kxk log xk
+i
+|
+{z
+}
+exploration
+.
+(10)
+Another way to view the two terms of Equation 10 is in relation to the thermodynamical
+concepts of energy and entropy, where selection is analogous to energy, and mutation to
+entropy. The entropy term can be further subdivided in the entropy of one individual strat-
+egy, log xi, and the entropy of the entire population, P
+k xk log xk. In this sense, mutation is
+determined by the diﬀerence in entropy of an individual strategy compared to the entropy
+of the whole population (Tuyls et al., 2003).
+The dynamical model of Equation 10 assumes that all actions are updated simultane-
+ously, as is the case for Cross learning. Q-learning, however, only updates the Q-value of the
+selected action, causing discrepancies between the predicted dynamics and the actual learn-
+ing behaviour of the algorithm. The variation frequency-adjusted Q-learning (FAQ) (Kaisers
+& Tuyls, 2010) mimics simultaneous action updates by modulating the update rule (Equa-
+tion 3) inversely proportional to xi, thereby following the dynamical model of Equation 10
+precisely. Dropping the state dependency, this yields
+Q(i) ←Q(i) + 1
+xi
+α
+
+r + max
+j
+Q(j) −Q(i)
+
+.
+Using the replicator dynamics model of Equation 10, two independent proofs of convergence
+for FAQ have been derived for two-player two-action normal-form games, showing conver-
+gence near Nash equilibria given a decreasing exploration temperature τ (Kaisers & Tuyls,
+2011; Kianercy & Galstyan, 2012).
+Lenient FAQ (LFAQ) (Bloembergen et al., 2011) is a variation aimed at overcoming
+convergence to suboptimal equilibria by mis-coordination in the early phase of cooperative
+learning processes, when mistakes by one agent may lead to penalties for others, irrespective
+of the quality of their actions. Leniency towards such mistakes can be achieved by collecting
+κ rewards for each action, and updating the Q-value based on the highest of those rewards.
+This causes an (optimistic) change in the expected reward for the actions of the learning
+agent, incorporating the probability of a potential reward for that action being the highest
+of κ consecutive tries (Panait et al., 2008). The expected reward for each action Ay in
+5. For a model of Boltzmann Q-learning dynamics with varying temperature, see the work of Kaisers, Tuyls,
+Parsons, and Thuijsman (2009) and Kaisers (2012).
+6. From here on, we will derive the dynamics of one agent only.
+The dynamics of other agents follow
+straightforwardly, similar to Equation 9.
+673
+
+--- Sayfa 16 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+Equation 10 is replaced by the utility vector u, with
+ui =
+X
+j
+aijyj
+hP
+k:aik≤aij yk
+κ
+−
+P
+k:aik<aij yk
+κi
+P
+k:aik=aij yk
+(11)
+where P
+k:statement implies summing over all indices k for which the statement holds.
+Recently, the evolutionary framework has also been extended to the polynomial weights
+algorithm, which implements regret minimisation (RM) (Blum & Mansour, 2007; Klos
+et al., 2010). The learner calculates the loss (or regret) li of taking action i rather than
+the best action in hindsight as li = r∗−r where r is the actual reward received, and r∗is
+the optimal reward. The learner maintains a set of weights w for all actions, updates these
+weights according to the perceived loss, and derives a new policy by normalisation:
+wi ←wi [1 −αli]
+xi =
+wi
+P
+j wj
+.
+(12)
+This form of regret, computed at each time step, is known as external regret, whereas
+internal regret is computed as the loss with respect to a policy that replaces a given action
+i with some other action j at each occurrence (Blum & Monsour, 2007). Despite the great
+diﬀerence in update rule and policy generation compared to Cross learning or Q-learning,
+Klos et al. (2010) show that the inﬁnitesimal time limit of regret minimisation can similarly
+be linked to a dynamical system with replicator dynamics in the numerator:
+˙xi =
+αxi
+
+(Ay)i −x⊤Ay
+
+1 −α [maxk(Ay)k −x⊤Ay].
+(13)
+The denominator can be interpreted as a learning rate modulation dependent on the best
+action’s update, corresponding to weighting the action probability update by the expected
+loss.
+4.1.2 Gradient Ascent Algorithms
+Gradient ascent (or descent) is a well known optimisation technique in the ﬁeld of Machine
+Learning. Given a well-deﬁned diﬀerentiable objective function, the learning process can
+follow the direction of its gradient in order to ﬁnd a local optimum. This concept can be
+adapted for multi-agent learning by having the learning agents’ policies follow the gradient
+of their individual expected payoﬀ. This approach assumes that the expected payoﬀfunction
+is known to (or can be accurately learned by) the agents, which may not generally be feasible
+in practice, since in multi-agent settings the payoﬀfunction usually depends on (possibly
+frequently changing) unobservable internal states of other agents.
+One algorithm implementing gradient ascent for multi-agent learning is inﬁnitesimal
+gradient ascent (IGA) (Singh et al., 2000), in which each learner updates its policy by
+taking inﬁnitesimal steps in the direction of the gradient of its expected payoﬀ. It has been
+proven that, in two-player two-action games, IGA either converges to a Nash equilibrium,
+or the asymptotic expected payoﬀof the two players converges to the expected payoﬀof a
+Nash equilibrium (Singh et al., 2000). A discrete time algorithm using a ﬁnite decreasing
+674
+
+--- Sayfa 17 ---
+Evolutionary Dynamics of Multi-Agent Learning
+step size shares these properties. Take V (x) : Rn →R to be the value function that maps
+a policy to its expected payoﬀ. The policy update rule for IGA can now be deﬁned as
+∆xi ←α∂V (x)
+∂xi
+x ←projection(x + ∆x)
+(14)
+where α denotes the learning step size. The intended change ∆x may take x outside of
+the valid policy space, in which case it is projected back to the nearest valid policy by the
+projection function.
+Win or learn fast (IGA-WoLF) (Bowling & Veloso, 2002) is a variation on IGA which
+uses a variable learning rate. The intuition behind this scheme is that an agent should
+adapt quickly if it is performing worse than expected, whereas it should be more cautious
+when it is winning. The modiﬁed learning rule of IGA-WoLF is
+∆xi ←∂V (x)
+∂xi
+ αmin
+if V (x) > V (x∗)
+αmax
+otherwise
+x ←projection(x + ∆x)
+(15)
+where x∗is a reference policy, e.g., a policy belonging to an arbitrary Nash equilibrium.
+The weighted policy learner (WPL) (Abdallah & Lesser, 2008) is a second variation of
+IGA that also modulates the learning rate, but in contrast to IGA-WoLF it does not require
+a reference policy. The update rule of WPL is deﬁned as
+∆xi ←α∂V (x)
+∂xi
+ xi
+if ∂V (x)
+∂xi
+< 0
+1 −xi
+otherwise
+x ←projection(x + ∆x)
+(16)
+where the update is weighted either by xi or by 1−xi depending on the sign of the gradient.
+This means that x is driven away from the boundaries of the policy space.
+In the next section, we will derive the dynamical model of these gradient ascent al-
+gorithms in two-player two-action games, and show their remarkable similarities to the
+dynamics of the reinforcement learners discussed in Section 4.1.1.
+4.1.3 Comparative Overview of Learning Dynamics in 2x2 Games
+For two-agent two-action games, the dynamical models presented in the previous sections
+can be simpliﬁed (Kaisers et al., 2012). Let h = (1, −1), x = (x, 1−x) and y = (y, 1−y). The
+learning dynamics are completely described by the pair ( ˙x, ˙y), which denote the probability
+change of the ﬁrst action for both learners.
+For Cross learning (CL) this leads to the
+simpliﬁed form
+˙x = x
+
+(Ay)1 −x⊤Ay
+
+= x(1 −x)
+
+y (a11 −a12 −a21 + a22) + a12 −a22
+
+= x(1 −x)
+
+yhAh⊤+ a12 −a22
+
+where a12 and a22 are elements of the payoﬀmatrix A. To shorten the notation for two-
+action games, let
+ð = (Ay⊤)1 −(Ay⊤)2 = yhAh⊤+ a12 −a22
+675
+
+--- Sayfa 18 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+denote the gradient, such that the CL dynamics are written as ˙x = x(1 −x)ð.
+Then,
+similarly, the simpliﬁed FAQ dynamics read
+˙x = αx(1 −x)
+ð
+τ −log
+x
+1 −x
+
+.
+The dynamics of RM are slightly more complex, as the denominator depends on which
+action gives the highest reward. This can be derived from the gradient: the ﬁrst action will
+be maximal iﬀð > 0. Using this insight, the dynamics of RM in two action games can be
+written as follows:
+˙x = αx(1 −x)ð ·
+ (1 + αxð)−1
+if ð < 0
+(1 −α(1 −x)ð)−1
+otherwise.
+For IGA, the update rule can be worked out in a similar fashion. The main term in this
+update rule is the gradient of the expected reward, which in two player two-action games
+can be written as
+∂V (x)
+∂x
+= ∂
+∂x(x, 1 −x)A
+
+y
+1 −y
+
+= y(a11 −a12 −a21 + a22) + a12 −a22
+= yhAh⊤+ a12 −a22
+= ð.
+This reduces the dynamics of the update rule for IGA in two-player two-action games to
+˙x = αð. The extension of the dynamics of IGA to IGA-WoLF and WPL are straightforward.
+Table 3 lists the dynamics of the six discussed algorithms: IGA, IGA-WoLF, WPL,
+CL, FAQ and RM. It is immediately clear from this table that all algorithms share the
+same basic term in their dynamics: the gradient ð.
+Depending on the algorithm, the
+gradient is scaled with a learning speed modulation. Interestingly, the dynamics of IGA are
+completely independent of the learner’s own current policy x. In other words, IGA is an
+Table 3: This table shows an overview of the learning dynamics, rewritten for the speciﬁc
+case of two-agent two-action games (Kaisers et al., 2012).
+Algorithm
+˙x
+IGA
+αð
+IGA-WoLF
+ð ·
+αmin
+if V (x) > V (x∗)
+αmax
+otherwise
+WPL
+αð ·
+x
+if ð < 0
+(1 −x)
+otherwise
+CL
+x(1 −x) ð
+FAQ
+αx(1 −x)
+
+ð ·τ −1 −log
+x
+1−x
+
+RM
+αx(1 −x) ð ·
+(1 + αxð)−1
+if ð < 0
+(1 −α(1 −x)ð)−1
+otherwise
+676
+
+--- Sayfa 19 ---
+Evolutionary Dynamics of Multi-Agent Learning
+oﬀ-policy algorithm that assumes that all actions are sampled equally often. In contrast, in
+any multi-agent learning setting in which the (gradient of the) value function is not known,
+the learners necessarily need to be on-policy, as otherwise they cannot learn the true value
+function.
+In this light, it can be argued that Cross learning implements stochastic on-
+policy gradient ascent (Kaisers et al., 2012). Finally, FAQ yields the only dynamics that
+additionally add exploration terms to the process.
+This analysis shows the merits of the evolutionary game theoretic approach to the study
+of multi-agent learning. By deriving mathematical models of the inﬁnitesimal time limit
+of various learning algorithms, we can formally establish their underlying diﬀerences and
+commonalities.
+4.2 Replicator Dynamics in Continuous Action Spaces
+The dynamics and algorithms discussed previously assume a discrete, ﬁnite action space.
+In contrast, many real-world settings feature actions that are rather of a continuous nature.
+In such settings the tabular notation for Q-functions and policies is no longer feasible and
+function approximators need to be used. One approach is to discretise such continuous pa-
+rameters in ranges, and treat each range as one instance. However, it is not straightforward
+in general to design a good discretisation, and details might be lost. Another approach is to
+model those continuous actions directly, moving from discrete probability vectors over ac-
+tions to probability density functions. Examples of Q-learning algorithms for continuous ac-
+tion spaces are ﬁtted Q-iteration (Ernst, Geurts, & Wehenkel, 2005) and NEAT+Q-learning
+(Whiteson & Stone, 2006). Learning automata can similarly be extended to continuous ac-
+tion spaces. For instance, Santharam, Sastry, and Thathachar (1994) propose continuous
+action-set learning automata (CALA) which use a Gaussian distribution to model the policy.
+It is also possible to use a nonparametric distribution, as is employed in continuous action
+reinforcement learning automata (CARLA), allowing a more diverse exploration strategy
+and convergence to a potentially multi-modal distribution (Howell, Frost, Gordon, & Wu,
+1997; Rodr´ıguez, Vrancx, Grau, & Now´e, 2012). An in-depth discussion of these learning
+methods falls outside the scope of this paper. Instead, we focus here on modelling such
+algorithms by extending the replicator dynamics to continuous action spaces.7
+Suppose each agent’s action space can be described by D continuous parameters x =
+(x1, x2, . . . , xD), with x ∈Θ ⊂RD, where Θ is the allowed action space. In a two-player
+setting, the reward of playing action x against an opponent who plays y is given by f(x, y).
+An agent’s policy at time t is now given by a probability density function over the action
+space, φ(x, t), where
+Z
+Θ
+φ(x, t)dx = 1.
+We can now write the continuum limit of the standard replicator dynamics (Equation 5) as
+a partial diﬀerential equation (Oechssler & Riedel, 2001; Cressman, 2005; Tuyls & Westra,
+2009):
+∂φ(x, t)
+∂t
+= φ(x, t)
+h
+V (x, t) −E(t)
+i
+(17)
+7. A recent extensive overview of function approximation methods for reinforcement learning is provided
+by Busoniu et al. (2010).
+677
+
+--- Sayfa 20 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+where
+V (x, t) =
+Z
+Θ
+f(x, y)φ(y, t)dy
+E(t) =
+Z
+Θ
+V (x, t)φ(x, t)dx.
+Here, V (x) depicts the expected reward of action x, and E the overall average reward. In
+the context of statistical mechanics these terms can be thought of as local potential and
+total energy, respectively.
+Similar to the discrete action dynamics discussed before, we can add mutation terms
+to Equation 17 to model exploration by the learning agents. The most straightforward
+approach to do this is by including a diﬀusion term to the replicator dynamics, which
+allows the mutation of strategies to slightly diﬀerent ones ‘nearby’. This procedure was
+originally proposed by Hofbauer and Sigmund (1998), for which Ruijgrok and Ruijgrok
+(2005) have provided a rigorous mathematical foundation and subsequent analysis. Ruijgrok
+and Ruijgrok add such a diﬀusion term to the continuous action replicator dynamics and
+ﬁnd that even a small mutation rate may greatly alter the outcome of the learning process,
+leading to more favourable results in, e.g., the ultimatum game.
+Speciﬁcally, they add
+a transition probability per unit time qij for the spontaneous transfer to strategy i from
+strategy j. In this way the discrete replicator equations with mutation can be written as
+follows:
+˙xi = xi(Vi −E) +
+X
+j
+(qijxj −qjixi).
+Ruijgrok and Ruijgrok follow the method of Van Kampen (1992) to derive the continuum
+limit of the mutation term. Using this approach, they arrive at the same continuous repli-
+cator equation as Hofbauer and Sigmund:
+∂φ(x, t)
+∂t
+= φ(x, t)
+h
+V (x, t) −E(t)
+i
++ µ(x, t)∇2φ(x, t).
+(18)
+Ruijgrok and Ruijgrok study this equation for a number of games that have been trans-
+formed to a continuous strategy setting. There is, however, no reason to assume that mu-
+tations are only restricted to adjacent strategies. Therefore, building on this work, Tuyls
+and Westra (2009) compare three diﬀerent diﬀusion-based mutation terms, and ﬁnd that
+the type of mutation can also signiﬁcantly inﬂuence the resulting dynamics. Speciﬁcally,
+they replace the simple isotropous diﬀusion term containing the mutation rate of Ruijgrok
+and Ruijgrok by mimicking the eﬀect of anisotropous deterministic mutations. They start
+from the continuous time discrete action replicator equations with mutation, and from there
+derive a diﬀerent formulation for the continuous action space:
+∂φ(x, t)
+∂t
+= φ(x, t)
+h
+V (x, t) −E(t)
+i
++ ∇T · µ(x)∇
+h
+V (x)φ(x, t)
+i
+.
+This new formulation is able to capture certain aspects of an evolution driven by game
+theoretic interactions that are absent in the original formulation of Hofbauer and Sigmund,
+and Ruijgrok and Ruijgrok in Equation 18. The dynamics of this approach are even more
+complex as diﬀerent mutation rates provide entirely diﬀerent stationary solutions.
+Full
+details can be found in the work of Tuyls and Westra.
+678
+
+--- Sayfa 21 ---
+Evolutionary Dynamics of Multi-Agent Learning
+Although the dynamical models of Equations 17 and 18 have not yet been directly linked
+to a speciﬁc learning algorithm, Galstyan (2013) recently proposed a dynamical model for a
+continuous action version of Boltzmann Q-learning. Galstyan’s model has a similar selection
+term based on local potential V (x) and total energy E, but a mutation term that is again
+an entropy term derived from the Boltzmann distribution, as in Equation 10. Galstyan
+ﬁnds that mutation drives the learning process away from pure Nash equilibria but helps
+convergence to uniformly mixed equilibria, similar to discrete action Q-learning (see Kaisers
+& Tuyls, 2011; Kianercy & Galstyan, 2012).
+4.3 State-Coupled Replicator Dynamics
+So far, our discussion of learning dynamics has been limited to stateless games. Although
+many real-world interactions can indeed be cast in the form of repeated normal-form games,
+this is not always the case. Therefore, there is a need to understand learning dynamics in
+statefull environments as well. Vrancx et al. (2008a) propose a combination of replicator dy-
+namics and switching dynamics to model learning automata in stochastic (Markov) games.
+As learning automata are by deﬁnition stateless (see Section 3.1), an extension is needed for
+multi-state games. One option is for an agent to maintain a network of learning automata
+(Wheeler Jr & Narendra, 1986; Vrancx et al., 2008b), one for each state. As the game
+progresses, control is passed from one automaton to the other depending on the current
+state of the game. Instead of performing policy updates for the active automaton based on
+the immediate reward rt, the update is delayed until the automaton becomes active again,
+at which time it is updated based on the average reward received during that period. Based
+on this mechanism, Vrancx et al. (2008a) partition the state-space in cells, corresponding to
+diﬀerent attractors in these average reward games. Each cell has a ﬁxed replicator dynamic,
+based on which the agents’ policies are updated. When this update makes the system leave
+the current cell, a new replicator dynamic takes over. Hennes, Tuyls, and Rauterberg (2008)
+further formalise these piece-wise replicator dynamics.
+The piece-wise model suﬀers from several shortcomings, however, as demonstrated by
+Hennes et al. (2009). Firstly, the model only approximates the learning behaviour by as-
+suming ﬁxed dynamics in each cell, and secondly, the discrete switching between cells causes
+discontinuities that are not present in real traces of the learning process. In order to al-
+leviate these shortcomings, Hennes et al.
+propose the state-coupled replicator dynamics
+(SC-RD) model which uses direct state coupling rather than piece-wise switching dynam-
+ics. The direct state coupling eliminates anomalies and discontinuities caused by linear
+approximations and discrete cell switching. The SC-RD are deﬁned as follows. Let π be
+the set of policies of n agents, i.e., π =
+ π1, π2, . . . , πn
+. Moreover, let a =
+ a1, a2, . . . , an
+be their joint action. Assuming the game has no absorbing states (i.e., the set of states S
+is ergodic), there exists a stationary distribution χπ over all states S under π, where χπ
+s
+is the frequency of state s and P
+s∈S χπ
+s = 1. We can then calculate the limiting average
+reward ¯r of playing a speciﬁc joint-action a in state s, given ﬁxed policies π in all other
+states s′, as
+¯ri(s, a) = χπ
+s ri(s, a) +
+X
+s′∈S−{s}
+χπ
+s′fi  s′
+(19)
+679
+
+--- Sayfa 22 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+where fi (s′) is the expected reward (ﬁtness) of agent i in state s′, calculated as
+fi (s) =
+X
+a∈Qn
+j=1 Aj
+
+ri (s, a)
+n
+Y
+k=1
+πk 
+s, ak!
+.
+We can set up a system of diﬀerential equations for each agent i and action j, similar to
+Equation 9, where the payoﬀmatrix A is substituted by the limiting average reward ¯r.
+Furthermore, instead of the single opponent policy σ we now have all other agents’ policies
+π−i =
+ π1 . . . πi−1, πi+1 . . . πn
+. The expected payoﬀfor player i playing pure action j in
+state s is given by
+fi
+j (s) =
+X
+a′∈Q
+l̸=i Al
+
+¯ri  s, a′ Y
+k̸=i
+πk 
+s, a′k
+
+
+where a′ =
+ a1 . . . ai−1, j, ai . . . an
+. Essentially, we enumerate all possible joint actions a
+with ﬁxed action j for agent i. In general, for some mixed policy ω, agent i receives an
+expected payoﬀof
+fi (s, ω) =
+X
+ai∈Ai
+
+ω(s, ai)
+X
+a′∈Q
+l̸=i Al
+
+¯ri  s, a′ Y
+k̸=i
+πk 
+s, a′k
+
+
+
+
+where ¯r is the limiting average reward given in Equation 19.
+Writing xi(s) ≡πi(s) to
+be the probability distribution over actions of agent j in state s, we can now deﬁne the
+multi-population state-coupled replicator dynamics as the following system of diﬀerential
+equations:
+˙xi
+j(s) = xi
+j(s)χx
+s
+
+fi(s, ej) −fi s, xi(s)
+
+(20)
+where ej is the jth-unit vector, corresponding to the policy that plays pure action j. In
+total this system has N = P
+s∈S
+Pn
+i=1 |Ai| replicator equations. Hennes et al. show that
+the SC-RD model describes the true learning dynamics of networks of learning automata
+far more precise than the piece-wise replicator dynamics.
+Recently, the replicator dynamics have been extended to the sequence form representa-
+tion of extensive-form games as well (Gatti, Panozzo, & Restelli, 2013; Lanctot, 2014). This
+allows us to model even more complex games, e.g. with sequential moves and imperfect in-
+formation. Panozzo et al. (2014) have developed a new version of Q-learning that works on
+the sequence form, along with a dynamical model that matches the learning process based
+on the sequence-form replicator dynamics with a mutation term similar to Equation 10.
+They show that, although the selection mechanism of the sequence-form and normal-form
+replicator dynamics are realization equivalent (Gatti et al., 2013; Lanctot, 2014), the mu-
+tation term is not. An in-depth discussion of these ﬁndings falls outside the scope of this
+article, as it would require the addition of a much broader background on extensive-form
+games. However, these recent works show the promise of the evolutionary framework for
+multi-agent learning beyond normal-form or even stochastic games as well.
+680
+
+--- Sayfa 23 ---
+Evolutionary Dynamics of Multi-Agent Learning
+5. Experimental Overview
+We established the link between multi-agent reinforcement and the replicator dynamics of
+evolutionary game theory in Section 3, and provided an overview of learning dynamics in
+normal-form games, continuous strategy spaces, and stochastic (Markov) games in Section 4.
+Here, we show a set of experiments that empirically validate these models in two-player two-
+action normal-form games. We restrict ourselves to these games as their simplicity allows
+easy visual analysis, while preserving the explanatory power of such dynamical models. At
+the end of this section we provide an overview of related empirical work in more complex
+interactions.
+As described earlier, in two-player two-action games the policy space can be compactly
+represented by the unit simplex as it is completely deﬁned by the probability with which
+both agents select their ﬁrst action. This makes it easy to plot and visually inspect the
+learning dynamics in such interactions. In Section 3.1, Figure 5, an example of such analysis
+can be found for Cross learning, as compared to the standard replicator dynamics. Similar
+analysis can be performed for diﬀerent learning algorithms, by plotting policy traces of their
+learning behaviour overlaid on the vector ﬁeld of their corresponding dynamical model (see
+e.g. Tuyls et al., 2006; Klos et al., 2010; Kaisers & Tuyls, 2010, 2011; Bloembergen et al.,
+2011).
+Figure 6 shows this for standard frequency-adjusted Q-learning (FAQ), and its
+lenient counterpart (LFAQ), in the top two rows. Whereas the dynamics of these diﬀerent
+algorithms are similar in their convergence behaviour when only one equilibrium is present,
+as is the case in the prisoner’s dilemma and matching pennies, in the stag hunt diﬀerences
+can be observed. The notion of leniency, introduced to overcome convergence to suboptimal
+equilibria, works to drive the learning process towards the optimal outcome of the game (S, S
+– top right corner), as can be easily observed by investigating the vector ﬁeld. Interestingly,
+while Cross learning and the standard replicator dynamics do not converge in the matching
+pennies game, (L)FAQ does sprial inwards towards the single Nash equilibrium at (1
+2, 1
+2),
+which is not evolutionarily stable in the classical replicator dynamics model (Section 2.3).
+The additional exploration term makes a diﬀerence here.
+So far, we have analysed the dynamics of two identical learners pitted against each
+other. However, the replicator dynamics model allows for heterogeneous systems as well,
+in which diﬀerent agents follow diﬀerent learning rules. In such cases, the policy change
+of each individual agent is modelled by a diﬀerent variation of the replicator dynamics,
+corresponding to that agent’s learning rule. The bottom row of Figure 6 shows this for the
+situation where FAQ and LFAQ are pitted against each other. In games where the self-
+play dynamics of both learners are similar, such as the prisoner’s dilemma and matching
+pennies, the mixed dynamics do not change signiﬁcantly. In other cases, such as the stag
+hunt, the learning process is clearly inﬂuenced as diﬀerent dynamics mix. As LFAQ has
+a stronger tendency to play the optimal action S, FAQ is persuaded to do likewise. Such
+analysis makes it possible to compare the behaviour of learning algorithms in heterogeneous
+environments, or to compare diﬀerent parameter settings of a single algorithm.
+As a ﬁnal example, we revisit the comparison of gradient ascent-based and reinforcement
+learning algorithms of Section 4.1.3. Figure 7 shows the learning dynamics as predicted by
+the models derived there and presented in Table 3, for the matching pennies game. Regret
+minimisation (RM) is omitted as its dynamics are visually indistinguishable from Cross
+681
+
+--- Sayfa 24 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+FAQ-learning
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+Lenient FAQ-learning
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+x1
+y1
+FAQ vs LFAQ
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+FAQ: x1
+LFAQ: y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+FAQ: x1
+LFAQ: y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+FAQ: x1
+LFAQ: y1
+Prisoner’s Dilemma
+Stag Hunt
+Matching Pennies
+Figure 6: Policy traces of FAQ and LFAQ, plotted in the unit simplex and overlaid on
+their respective dynamical model, for the prisoner’s dilemma (left), the stag hunt (center),
+and matching pennies (right) (Bloembergen et al., 2011).
+682
+
+--- Sayfa 25 ---
+Evolutionary Dynamics of Multi-Agent Learning
+0
+0.5
+1
+0
+0.5
+1
+x1
+y1
+0
+0.5
+1
+0
+0.5
+1
+x1
+y1
+0
+0.5
+1
+0
+0.5
+1
+x1
+y1
+IGA
+IGA-WoLF
+WPL
+0
+0.5
+1
+0
+0.5
+1
+x1
+y1
+0
+0.5
+1
+0
+0.5
+1
+x1
+y1
+0
+0.5
+1
+0
+0.5
+1
+x1
+y1
+
+IGA
+WoLF
+WPL
+CL
+FAQ
+CL
+FAQ
+Traces
+Figure 7: Overview of the dynamics of various gradient ascent and reinforcement learn-
+ing algorithms in matching pennies. The bottom right panel shows a single trace of the
+dynamical models, using the same initial policy (indicated with ⊕) (Kaisers et al., 2012).
+learning (CL). We can clearly observe the similarity between CL and inﬁnitesimal gradient
+ascent (IGA), which both cycle around the central equilibrium point without converging.
+Win-or-learn-fast IGA (WoLF) and the weighted policy learner (WPL) both converge due
+to their learning rate modulator; in the case of WoLF, two learning rates are used (for
+winning and loosing), whereas WPL uses a continuum of learning rates, resulting in non-
+linear dynamics. This diﬀerence can be clearly observed by comparing the vector ﬁelds of
+their respective dynamical models. As noted before, FAQ spirals inwards towards the Nash
+equilibrium – although this is hard to observe from the vector ﬁeld alone, this fact can be
+veriﬁed by following a trace of the dynamics, as shown in the bottom right panel of Figure 7
+for the diﬀerent algorithms. These traces highlight the (subtle) similarities and diﬀerences
+between the diverse algorithms.
+Similar analyses have been performed to investigate learning dynamics in more complex
+(e.g., multi-state) games, or to highlight the inﬂuence of certain parameters on the learning
+process. For instance, Tuyls et al. (2003) were the ﬁrst to derive the selection-mutation
+dynamics of Q-learning in discrete-action normal-form games, and to visually compare traces
+of the learning algorithm with the predicted dynamics of the model. Similar derivations and
+analyses have later been provided for other algorithms such as learning automata (Tuyls
+683
+
+--- Sayfa 26 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+et al., 2006) and regret minimisation (Klos et al., 2010). Others have focused on learning
+dynamics in multi-state (stochastic) games, in particular deriving dynamics of networks of
+learning automata (Vrancx et al., 2008a; Hennes et al., 2009). Again others have derived new
+learning algorithms based on a desirable dynamical model, leading to FAQ-learning (Kaisers
+& Tuyls, 2010) and lenient FAQ (Bloembergen et al., 2011) for normal-form games, and
+RESQ-learning for stochastic games (Hennes et al., 2010). Finally, several authors have
+used insights stemming from the dynamical models to compare diﬀerent algorithms, or
+to investigate their convergence. For example, Bowling and Veloso (2002) introduce the
+variable learning rate WoLF heuristic and prove that it can be used to make IGA convergent
+in normal-form games. Abdallah and Lesser (2008) introduce WPL and compare it to IGA
+and IGA-WoLF, and show that WPL converges in normal-form games as well, without
+requiring as much information as IGA-WoLF. Kaisers and Tuyls (2011) use the dynamical
+model of FAQ to demonstrate its near-NE convergence in normal-form games, and Galstyan
+(2013) similarly shows this for continuous-action Q-learning (see also Section 6.1.2).
+Table 4 presents an overview of these related works, clustered by interaction type – i.e.,
+normal form games with discrete or continuous actions spaces, and stochastic games – and
+lists the relevant learning algorithms that are investigated. We purposely list only those
+works that explicitly focus on the relation between multi-agent learning algorithms and the
+evolutionary dynamical model. Each of these works utilises and extends this connection
+in order to gain qualitative insights into the behaviour of such algorithms in a variety of
+settings.
+Table 4: An overview of related empirical evaluations of learning dynamics. NFG: normal-
+form games; CNFG: continuous action normal-form games; SG: stochastic (Markov) games.
+Type
+Algorithm
+Reference
+NFG
+Q-learning
+Tuyls et al. (2003, 2006)
+NFG
+regret minimisation
+Klos et al. (2010)
+NFG
+FAQ
+Kaisers and Tuyls (2010, 2011)
+NFG
+lenient FAQ
+Bloembergen et al. (2011)
+Kaisers (2012)
+NFG
+WoLF
+Bowling and Veloso (2002)
+NFG
+IGA, IGA-WoLF, WPL
+Abdallah and Lesser (2008)
+CNFG
+Q-learning
+Galstyan (2013)
+SG
+networks of learning
+automata
+Vrancx et al. (2008a)
+Hennes et al. (2009)
+SG
+RESQ-learning
+Hennes et al. (2010)
+684
+
+--- Sayfa 27 ---
+Evolutionary Dynamics of Multi-Agent Learning
+6. Applications
+In the previous sections we highlighted the descriptive power of the replicator dynamics
+model of multi-agent learning. Here, we focus on its prescriptive power as well. For ex-
+ample, we can use the dynamical models for easy parameter tuning of learning algorithms.
+Moreover, starting from desired dynamics, it is possible to reverse-engineer a learning al-
+gorithm that exhibits the preferred behaviour.
+Finally, the evolutionary models can be
+used to analyse complex strategic interactions, such as automated trading. Focusing on
+meta-strategies rather than primitives reduces the complexity of such interactions enough
+to study their dynamics analytically.
+6.1 Parameter Tuning
+Parameter tuning is traditionally a cumbersome task involving many simulation trials, often
+following some evolutionary optimisation approach. However, with a deterministic dynam-
+ical model the eﬀect of various parameters on the learning process is readily observable. In
+the following, we provide examples for lenient learning, and for balancing exploration and
+exploitation.
+6.1.1 Degree of Leniency
+Lenient learning was introduced as a way to overcome the problem of suboptimal con-
+vergence in cooperative multi-agent settings, where initial mis-coordination leads to an
+undervaluation of the optimal action (Panait et al., 2008). This problem is also known as
+relative overgeneralisation (Wiegand, 2003) or action shadowing (Fulda & Ventura, 2007).
+By focusing the learning update on maximal rewards rather than average, the learner eﬀec-
+tively ignores the low rewards that are due to suboptimal behaviour by others in the early
+phases of the learning process. This can be achieved by collecting κ rewards for each action
+before performing an update based on the highest of those rewards (Panait et al., 2008;
+Bloembergen et al., 2011). The details and dynamical model of lenient frequency-adjusted
+Q-learning (LFAQ) are given in Section 4.1.1, Equation 11.
+The main parameter of LFAQ is the degree of leniency, κ. One of the main advantages
+of having a dynamical model is that it allows studying and tuning such a parameter without
+the need for extensive simulations. Instead, we can directly analyse the dynamical model.
+Figure 8 shows the dynamics of LFAQ, following Equation 11, in the stag hunt, for κ ∈
+{1, 2, 5, 25}. The stag hunt has two pure Nash equilibria that are also evolutionarily stable
+strategies, where both agents either play H, at (0, 0), or S, at (1, 1) (see Section 2.3). The
+dilemma in this game is the choice between the safe action H, which always gives the same
+reward independent of the other agent’s action, or S, which is optimal, but only if both
+players coordinate. This is precisely the problem that leniency aims to solve. Figure 8
+shows that as the degree of leniency increases, so does the basin of attraction of the optimal
+outcome (1, 1). Depending on the nature of the game and the opponent, a balance needs
+to be found between leniency on the one hand, and the risk of being exploited, or lagging
+behind a changing environment, on the other.
+The dynamical model greatly facilitates
+gaining quick insight into these eﬀects.
+685
+
+--- Sayfa 28 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+LFAQ: x1
+LFAQ: y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+LFAQ: x1
+LFAQ: y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+LFAQ: x1
+LFAQ: y1
+0
+0.25
+0.5
+0.75
+1
+0
+0.25
+0.5
+0.75
+1
+LFAQ: x1
+LFAQ: y1
+κ = 1
+κ = 2
+κ = 5
+κ = 25
+Figure 8: The eﬀect of the degree of leniency κ on convergence in the stag hunt game. The
+solid line indicates the boundary between the basins of attraction for the two equilibria; the
+global optimum is located at (1, 1) (Bloembergen et al., 2011).
+6.1.2 Tuning the Exploration Rate in FAQ-Learning
+Balancing exploration and exploitation is of vital importance to any learning task, in par-
+ticular in dynamic environments where multiple learning agents interact. In (FA)Q-learning
+with Boltzmann exploration (Equation 4), the temperature parameter τ controls the level of
+exploration – a high temperature promotes exploration, whereas a low temperature favours
+exploitation. The dynamical model of FAQ (Equation 10) allows to study the eﬀect of the
+exploration rate on the behaviour and convergence of the learner in a multi-agent setting,
+as demonstrated by Kaisers and Tuyls (2011).
+Figure 9 shows the eﬀect of τ on the dynamics and convergence of FAQ in battle of the
+sexes. In this game, players need to coordinate on either one of their two actions, however
+both have a diﬀerent preference over those joint outcomes:
+B
+S
+B
+S
+ 2, 1
+0, 0
+0, 0
+1, 2
+
+The ﬁrst three frames of the ﬁgure show the dynamics and computed ﬁxed points for
+diﬀerent temperatures (ﬁrst frame τ = ∞, second frame τ = 0.72877, third frame τ = 0).
+The ﬁxed points move between these discrete values for τ as indicated by the paths shown in
+the fourth frame. The game has three Nash equilibria, at (0, 0), (1, 1), and (2
+3, 1
+3). However,
+for high values of τ the replicator model yields only one attracting ﬁxed point, that moves
+from (1
+2, 1
+2) towards the mixed equilibrium (2
+3, 1
+3). Kaisers and Tuyls show that this ﬁxed
+point splits in a supercritical pitchfork bifurcation at the critical temperature τcrit ≈0.72877
+and at position (x1, y1) ≈(0.5841, 0.4158). For low temperatures τ < τcrit, the dynamics
+yield three ﬁxed points that move closer to the corresponding equilibria as τ is decreased.
+The two ﬁxed points moving toward the pure equilibria (0, 0) and (1, 1) are attracting, and
+the third one moving toward (2
+3, 1
+3) is repelling.
+A similar analysis for Boltzmann Q-learning has been performed by Kianercy and Gal-
+styan (2012). They also observe that the ﬁxed points of the dynamical model move towards
+Nash equilibria as τ →0 and relate the temperature of the Boltzmann mechanism to the
+thermodynamical concept of free energy (Galstyan, 2013). Gomes and Kowalczyk (2009)
+propose a dynamical model of ϵ-greedy Q-learning, and show that this model accurately
+686
+
+--- Sayfa 29 ---
+Evolutionary Dynamics of Multi-Agent Learning
+0
+0.2
+0.4
+0.6
+0.8
+1
+0
+0.2
+0.4
+0.6
+0.8
+1
+x1
+y1
+0
+0.2
+0.4
+0.6
+0.8
+1
+0
+0.2
+0.4
+0.6
+0.8
+1
+x1
+y1
+0
+0.2
+0.4
+0.6
+0.8
+1
+0
+0.2
+0.4
+0.6
+0.8
+1
+x1
+y1
+0
+0.2
+0.4
+0.6
+0.8
+1
+0
+0.2
+0.4
+0.6
+0.8
+1
+x1
+y1
+Figure 9:
+Replicator dynamics (arrows) and ﬁxed points (⊗) for τ = {∞, 0.72877, 0}
+(ﬁrst three frames). Right-most frame shows trajectories of ﬁxed points as temperature is
+decreased (Kaisers & Tuyls, 2011).
+predicts the empirical ﬁndings. Similarly, Wunder, Littman, and Babes (2010) present a
+detailed study of ϵ-greedy Q-learning in various classes of normal-form games and provide
+proofs of (non-) convergence for each class, varying from rapid convergence to stable os-
+cillations. Each of these works shows the great applicability and beneﬁt of the replicator
+dynamics model of multi-agent learning, when investigating the eﬀect of various parameters
+on the learning process.
+6.2 Design of New Learning Algorithms
+So far, we have taken a forward approach: starting from a learning algorithm we derived a
+dynamical model that accurately predicts the behaviour of that algorithm in the limit. We
+can, however, also take an inverse approach by starting from a set of desired dynamics and
+reverse-engineering a learning algorithm that exhibits those dynamical properties (Hennes
+et al., 2010; Tuyls, Heytens, Now´e, & Manderick, 2003).
+As an example, consider again the state-coupled replicator dynamics (SC-RD) intro-
+duced in Section 4.3. These dynamics describe the behaviour of networks of learning au-
+tomata, which are essentially exploiting, and exploration is solely induced by the stochastic
+action-selection process. However, results from the domain of stateless games suggest that
+exploration aids convergence to mixed equilibria, where purely exploitative learners enter
+cycles (see Section 5, in particular Figure 7). Hennes et al. (2010) extend the SC-RD model
+(Equation 20) with the exploration term of FAQ-learning (Equation 10), which leads to
+˙xi
+j(s) = xi
+j(s)χx
+s
+"
+fi (s, ej) −fi  s, xi(s)
+ 
+−τ
+
+log xi
+j +
+X
+k
+xi
+k log xi
+k
+#
+.
+These dynamics can be translated to a learning algorithm by adding a similar exploration
+term to the policy update of a network of learning automata. The reward remains equal to
+the average accumulated reward since the last visit to that particular automata, while the
+687
+
+--- Sayfa 30 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+policy update after taking action j is now computed as
+π(i) ←π(i) + α
+(
+¯r −π(i)¯r −τ (log π(i) + P
+k π(k) log π(k))
+if i = j
+−π(i)¯r −τ (log π(i) + P
+k π(k) log π(k))
+otherwise.
+Hennes et al. show that RESQ-learning is able to converge in a two-state version of matching
+pennies, where the standard SC-RD cycle around the equilibrium.
+Another example is given in the work of Tuyls et al. (2003), where the standard replicator
+dynamics are extended to ensure stable convergence to Nash equilibria in all classes of two-
+agent two-action normal-form games. Based on these extended replicator dynamics Tuyls
+et al. derive an extended Cross learning algorithm that adheres to the preferred dynamics.
+6.3 Evolutionary Analysis of Complex Strategic Interactions
+In addition to relatively simple, stylised games, we also can analyse much more complex
+systems. This is accomplished by taking a high-level view and focusing on meta-strategies,
+rather than atomic actions, in such scenarios. For example, this allows us to study the
+evolutionary dynamics of various trading strategies in stock markets (Kaisers et al., 2009;
+Hennes, Bloembergen, Kaisers, Tuyls, & Parsons, 2012; Bloembergen, Hennes, McBurney,
+& Tuyls, 2015). Similarly, it is possible to compare auction mechanisms (Phelps, Parsons, &
+McBurney, 2005), strategies in the game of poker (Ponsen, Tuyls, Kaisers, & Ramon, 2009),
+or even collision avoidance methods in multi-robot systems (Hennes, Claes, & Tuyls, 2013).
+Moreover, the link between the replicator dynamics and reinforcement learning allows us to
+predict what will happen when agents learn to optimise their strategy in such scenarios.
+In the following, we present two examples of such analyses. Firstly, we detail heuristic
+payoﬀtables as a method to estimate the payoﬀof high-level meta-strategies empirically.
+Next, we present how to use this analysis to evaluate trading strategies in stock markets
+(Section 6.3.2), and collision avoidance strategies in multi-robot systems (Section 6.3.3).
+6.3.1 Heuristic Payoff Tables
+In order to analyse the evolutionary strength of high-level meta-strategies, we need to
+estimate the expected payoﬀof such strategies relative to each other.
+In evolutionary
+game theoretic terms, this is the relative ﬁtness of the various strategies, dependent on the
+current frequencies of those strategies in the population. The evolutionary model assumes
+an inﬁnite population. We cannot compute the payoﬀfor such a population directly, but
+we can approximate it from evaluations of a ﬁnite population. All possible distributions
+over k strategies can be enumerated for a ﬁnite population of n individuals. Let N be
+a matrix, where each row Ni contains one discrete distribution.
+The matrix will yield
+ n+k−1
+n
+
+rows. Each distribution over strategies can be simulated (using an appropriate
+model of the environment), returning a vector of expected relative rewards u(Ni). Let U be
+a matrix which captures the rewards corresponding to the rows in N, i.e., Ui = u(Ni). A
+heuristic payoﬀtable H = (N, U) is proposed by Walsh, Das, Tesauro, and Kephart (2002)
+to capture the payoﬀinformation for all possible discrete distributions in a ﬁnite population.
+An example of such a heuristic payoﬀtable is given in Table 5. In this example, we have
+k = 3 diﬀerent meta-strategies, distributed over a population of n = 6 individuals. Each
+row in N speciﬁes exactly how many individuals use each of the three strategy types, and
+688
+
+--- Sayfa 31 ---
+Evolutionary Dynamics of Multi-Agent Learning
+Table 5: Example of a heuristic payoﬀtable for k = 3 strategies and a ﬁnite population
+of n = 6 individuals.
+Ni1
+Ni2
+Ni3
+Ui1
+Ui2
+Ui3
+6
+0
+0
+0.5
+0
+0
+5
+1
+0
+0.4
+0.7
+0
+· · ·
+· · ·
+3
+1
+2
+0.3
+0.5
+0.8
+· · ·
+· · ·
+0
+0
+6
+0
+0
+0.9
+each row in U speciﬁes their estimated payoﬀ. If a discrete distribution Ni features zero
+individuals of type j, their payoﬀnaturally cannot be measured, and we set Uij = 0.
+In order to approximate the payoﬀfor an arbitrary mix of strategies in an inﬁnite pop-
+ulation distributed over the species according to x, n individuals are drawn randomly from
+the inﬁnite distribution. The probability for selecting a speciﬁc row Ni can be computed
+from x and Ni as
+P(Ni|x) =
+
+n
+Ni1, Ni2, . . . , Nik
+
+k
+Y
+j=1
+xNij
+j
+.
+The expected payoﬀof strategy i, fi(x), is then computed as the weighted combination of
+the payoﬀs given in all rows:
+fi(x) =
+P
+j P(Nj|x)Uji
+1 −(1 −xi)k .
+This expected payoﬀfunction can be used in Equation 5 to compute the evolutionary
+population change according to the replicator dynamics.
+6.3.2 The Value of Information in Markets
+As an example, consider a market in which diﬀerently informed traders bid for a certain
+asset (Bloembergen et al., 2015).
+Depending on their information level, traders have a
+certain amount of foresight regarding the future value of the stock. More information gives
+a better approximation of the real current value of the asset; however, information comes at
+a price. We can use the replicator dynamics model to analyse the eﬀect of various pricing
+schemes for information, e.g. no cost, ﬁxed cost for any amount of information, or a cost
+function that is linear in the amount of information. Traders can also choose not to acquire
+additional information but instead rely solely on the current market price.
+By running
+market simulations with diﬀerent distributions of information levels among the traders, we
+can compute a heuristic payoﬀtable as described above, and use this table as basis for the
+replicator model.
+Figure 10 shows the resulting dynamics for three types of traders (uninformed – ZI;
+averagely informed – I3; insiders – I9), and the three diﬀerent cost functions described
+above.
+In the absence of costs, the best strategy is to obtain as much information as
+689
+
+--- Sayfa 32 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+ZI
+F3
+F9
+ZI
+F3
+F9
+ZI
+F3
+F9
+Figure 10: Vector ﬁeld showing the evolutionary dynamics of a market with three infor-
+mation levels and diﬀerent cost functions for information: no cost (left), ﬁxed cost (center),
+and linear cost (right) (Bloembergen et al., 2015).
+possible, leading to a domination of I9 traders over the entire interior of the simplex. Adding
+ﬁxed costs gives a small boost to the I0 traders (who do not have to pay), allowing them
+to survive in equilibrium alongside the insiders. The linear cost function gives rise to an
+internal equilibrium where all types can coexist. Such analysis can be a valuable tool to
+gain insight into the dynamics of stock markets, and helps to predict the eﬀect of external
+inﬂuences (such as costs, e.g. in the form of taxing schemes) on the market as a whole.
+6.3.3 Collision Avoidance in Multi-robot Systems
+Autonomous collision avoidance is a complex task in the ﬁeld of robotics, especially in
+the presence of dynamic obstacles. The task increases in complexity when the dynamic
+obstacles are mobile robots that also take actions to avoid collisions. However, assuming
+mutual avoidance (reciprocity) may potentially improve avoidance behaviour since each
+robot only needs to take half of the responsibility of avoiding pairwise collisions. In order
+to test this hypothesis we can employ the same meta-strategy approach to evaluate the
+evolutionary strength of diﬀerent collision avoidance strategies (Hennes et al., 2013).
+One approach to collision avoidance in continuous spaces is the velocity obstacle (VO)
+paradigm, ﬁrst introduced by Fiorini and Shiller (1998) for local collision avoidance and
+navigation in dynamic environments with multiple moving objects. The VO strategy can
+be modiﬁed to include reciprocity, yielding the reciprocal velocity obstacle (RVO); a hybrid
+between these two is given by the HRVO. Figure 11 (left) shows the evolutionary dynamics
+resulting from a heuristic payoﬀtable over these three strategies. All pure population states
+are asymptotically stable ﬁxed points under the replicator dynamics. Although the basin of
+attraction for RVO is considerably smaller, we do not see any clearly dominant strategy in
+this setting. For pairwise comparison between two strategies, along the faces of the simplex,
+no strategy is inferior; all three strategies are evolutionarily stable.
+The VO takes all obstacles into account, independent of their distance. This may greatly
+reduce the mobility of robots in a highly cluttered environment. In order to overcome this
+problem, the VO can be truncated to ignore obstacles that are farther away. Truncation
+yields signiﬁcantly diﬀerent and more complex dynamics, as shown in Figure 11 (right). In
+a pairwise comparison (faces of the simplex), RVO is dominated by VO as well as by HRVO.
+690
+
+--- Sayfa 33 ---
+Evolutionary Dynamics of Multi-Agent Learning
+HRVO
+RVO
+VO
+HRVO
+RVO
+VO
+Figure 11: Evolutionary dynamics of three strategies for multi-robot collision avoidance,
+without truncation (left) and with truncation (right) (Hennes et al., 2013).
+However, the reciprocal velocity obstacle is more robust in the presence of all three strategies
+(interior of the simplex), which can be explained by it being the more “aggressive”, or the
+least restricting, strategy.
+7. Conclusions
+In this article we have surveyed recent advances in the study of the evolutionary dynamics
+of multi-agent learning. In particular, we presented the formal relation between reinforce-
+ment learning and the replicator dynamics of evolutionary game theory. By modifying the
+standard replicator dynamics, the behaviour of various state-of-the-art reinforcement learn-
+ing algorithms in a multi-agent setting can be modelled accurately. So far, this link has
+been established in stateless environments (e.g. normal form games), both with discrete
+and continuous action spaces, and multi-state environments (e.g. stochastic games) with a
+discrete action space. Therefore, an important avenue for future work is the extension of
+the theory to stochastic games with continuous action spaces.
+The analytical study of multi-agent learning dynamics oﬀers several important advan-
+tages. In particular, it sheds light into the black box of reinforcement learning, by making
+it possible to analyse the learning dynamics of multi-agent systems in detail, and to com-
+pare the behaviour of diﬀerent algorithms in a principled manner. This in turn facilitates
+important tasks such as parameter tuning. Furthermore, studying the dynamics of diﬀerent
+learning algorithms helps in selecting a speciﬁc learner for a given problem. Moreover, it
+is possible to derive new learning algorithms by ﬁrst designing preferred dynamics. Fi-
+nally, the theory can be applied to complex strategic interactions in real-world settings by
+analysing meta-strategies, as demonstrated for automated trading and multi-robot collision
+avoidance.
+691
+
+--- Sayfa 34 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+Acknowledgments
+We are grateful to the editor and anonymous reviewers of JAIR for their valuable feedback
+and helpful suggestions.
+References
+Abdallah, S., & Kaisers, M. (2013). Addressing the policy-bias of Q-learning by repeating
+updates.
+In Proc. of the 2013 int. conf. on Autonomous Agents and Multi-Agent
+Systems (AAMAS 2013), pp. 1045–1052. International Foundation for AAMAS.
+Abdallah, S., & Lesser, V. (2008).
+A multiagent reinforcement learning algorithm with
+non-linear dynamics. Journal of Artiﬁcial Intelligence Research, 33(1), 521–549.
+Agogino, A. K., & Tumer, K. (2012). A multiagent approach to managing air traﬃc ﬂow.
+Autonomous Agents and Multi-Agent Systems, 24(1), 1–25.
+Ahmadi, M., & Stone, P. (2006). A multi-robot system for continuous area sweeping tasks.
+In ICRA, pp. 1724–1729.
+Axelrod, R., & Hamilton, W. D. (1981). The evolution of cooperation. Science, 211(4489),
+1390–1396.
+Bellman, R. (1957). Dynamic Programming. Princeton University Press.
+Bloembergen, D., Hennes, D., McBurney, P., & Tuyls, K. (2015). Trading in markets with
+noisy information: An evolutionary analysis. Connection Science, to appear.
+Bloembergen, D., Kaisers, M., & Tuyls, K. (2011). Empirical and theoretical support for
+lenient learning. In Tumer, Yolum, Sonenberg, & Stone (Eds.), Proc. of 10th Intl.
+Conf. on Autonomous Agents and Multiagent Systems (AAMAS 2011), pp. 1105–
+1106. International Foundation for AAMAS.
+Blum, A., & Mansour, Y. (2007). Learning, regret minimization and equilibria. Cambridge
+University Press.
+Blum, A., & Monsour, Y. (2007). From external to internal regret. Journal of Machine
+Learning Research, 8, 1307–1324.
+B¨orgers, T., & Sarin, R. (1997). Learning through reinforcement and replicator dynamics.
+Journal of Economic Theory, 77(1).
+Bowling, M., & Veloso, M. (2002).
+Multiagent learning using a variable learning rate.
+Artiﬁcial Intelligence, 136, 215–250.
+Bowling, M. (2005). Convergence and no-regret in multiagent learning. Advances in neural
+information processing systems, 17, 209–216.
+Bowling, M., & Veloso, M. (2001). Rational and convergent learning in stochastic games.
+In Proc. of the 17th Intl. Joint Conf. on Artiﬁcial Intelligence, pp. 1021–1026.
+Brown, G. W. (1951). Iterative solution of games by ﬁctitious play. Activity analysis of
+production and allocation, 13(1), 374–376.
+692
+
+--- Sayfa 35 ---
+Evolutionary Dynamics of Multi-Agent Learning
+Busoniu, L., Babuska, R., & De Schutter, B. (2008). A comprehensive survey of multiagent
+reinforcement learning. IEEE Transactions on Systems, Man, and Cybernetics, Part
+C: Applications and Reviews, 38(2), 156–172.
+Busoniu, L., Babuska, R., De Schutter, B., & Ernst, D. (2010). Reinforcement learning and
+dynamic programming using function approximators. CRC Press.
+Chalkiadakis, G., & Boutilier, C. (2003). Coordination in multiagent reinforcement learning:
+a Bayesian approach. In Proc. of the 2nd intl. joint conf. on Autonomous Agents and
+MultiAgent Systems, pp. 709–716. ACM.
+Claes, D., Hennes, D., Tuyls, K., & Meeussen, W. (2012). Collision avoidance under bounded
+localization uncertainty. In IROS, pp. 1192–1198.
+Claus, C., & Boutilier, C. (1998). The dynamics of reinforcement learning in cooperative
+multiagent systems. In AAAI/IAAI, pp. 746–752.
+Conitzer, V., & Sandholm, T. (2007). Awesome: A general multiagent learning algorithm
+that converges in self-play and learns a best response against stationary opponents.
+Machine Learning, 67(1-2), 23–43.
+Cressman, R. (2005). Stability of the replicator equation with continuous strategy space.
+Mathematical Social Sciences, 50(2), 127–147.
+Cross, J. G. (1973). A stochastic learning model of economic behavior. The Quarterly
+Journal of Economics, 87(2), 239–266.
+Dearden, R., Friedman, N., & Russell, S. (1998). Bayesian Q-learning. In AAAI/IAAI.
+Ernst, D., Geurts, P., & Wehenkel, L. (2005). Tree-based batch mode reinforcement learning.
+In Journal of Machine Learning Research, pp. 503–556.
+Fiorini, P., & Shiller, Z. (1998). Motion planning in dynamic environments using velocity
+obstacles. International Journal of Robotics Research, 17, 760–772.
+Fulda, N., & Ventura, D. (2007). Predicting and preventing coordination problems in co-
+operative Q-learning systems.. In Proceedings of the International Joint Conference
+on Artiﬁcial Intelligence (IJCAI-07), Vol. 2007, pp. 780–785.
+Galstyan, A. (2013). Continuous strategy replicator dynamics for multi-agent q-learning.
+Autonomous agents and multi-agent systems, 26(1), 37–53.
+Gatti, N., Panozzo, F., & Restelli, M. (2013).
+Eﬃcient evolutionary dynamics with
+extensive-form games. In Twenty-Seventh AAAI Conference on Artiﬁcial Intelligence,
+pp. 335–341.
+Gibbons, R. (1992). A Primer in Game Theory. Pearson Education.
+Gintis, H. (2009). Game Theory Evolving (2nd edition). University Press, Princeton NJ.
+Gomes, E. R., & Kowalczyk, R. (2009). Dynamic analysis of multiagent Q-learning with
+ε-greedy exploration. In Proceedings of the 26th Annual International Conference on
+Machine Learning, pp. 369–376. ACM.
+Hennes, D., Bloembergen, D., Kaisers, M., Tuyls, K., & Parsons, S. (2012). Evolutionary
+advantage of foresight in markets. In Proceedings of the Genetic and Evolutionary
+Computation Conference (GECCO 2012), pp. 943–950.
+693
+
+--- Sayfa 36 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+Hennes, D., Claes, D., & Tuyls, K. (2013). Evolutionary advantage of reciprocity in colli-
+sion avoidance. In Proc. of the AAMAS 2013 Workshop on Autonomous Robots and
+Multirobot Systems (ARMS 2013).
+Hennes, D., Kaisers, M., & Tuyls, K. (2010).
+RESQ-learning in stochastic games.
+In
+Adaptive and Learning Agents Workshop at AAMAS 2010, p. 8.
+Hennes, D., Tuyls, K., & Rauterberg, M. (2008). Formalizing multi-state learning dynam-
+ics. In Proceedings of the 2008 IEEE/WIC/ACM International Conference on Web
+Intelligence and Intelligent Agent Technology, pp. 266–272. IEEE Computer Society.
+Hennes, D., Tuyls, K., & Rauterberg, M. (2009). State-coupled replicator dynamics. In Pro-
+ceedings of The 8th International Conference on Autonomous Agents and Multiagent
+Systems-Volume 2, pp. 789–796. International Foundation for Autonomous Agents
+and Multiagent Systems.
+Hofbauer, J., & Sigmund, K. (1998). Evolutionary games and population dynamics. Cam-
+bridge University Press.
+Howell, M. N., Frost, G. P., Gordon, T. J., & Wu, Q. H. (1997). Continuous action reinforce-
+ment learning applied to vehicle suspension control. Mechatronics, 7(3), 263–276.
+Hu, J., & Wellman, M. P. (2003). Nash q-learning for general-sum stochastic games. The
+Journal of Machine Learning Research, 4, 1039–1069.
+Kaelbling, L., Littman, M., & Moore, A. (1996). Reinforcement learning: A survey. Journal
+of Artiﬁcial Intelligence Research, 4, 237–285.
+Kaisers, M., & Tuyls, K. (2010). Frequency adjusted multi-agent Q-learning. In Proc. of
+9th Intl. Conf. on Autonomous Agents and Multiagent Systems (AAMAS 2010), pp.
+309–315.
+Kaisers, M. (2012). Learning against Learning - Evolutionary Dynamics of Reinforcement
+Learning Algorithms in Strategic Interactions. Ph.D. thesis, Maastricht University.
+Kaisers, M., Bloembergen, D., & Tuyls, K. (2012). A common gradient in multi-agent rein-
+forcement learning. In Proc. of 11th Int. Conf. on Autonomous Agents and Multiagent
+Systems (AAMAS 2012), pp. 1393–1394.
+Kaisers, M., & Tuyls, K. (2011). Faq-learning in matrix games: Demonstrating convergence
+near nash equilibria, and bifurcation of attractors in the battle of sexes. In Workshop
+on Interactive Decision Theory and Game Theory (IDTGT 2011). Assoc. for the
+Advancement of Artif. Intel. (AAAI).
+Kaisers, M., Tuyls, K., Parsons, S., & Thuijsman, F. (2009). An evolutionary model of
+multi-agent learning with a varying exploration rate. In Proc. of The 8th Intl. Conf.
+on Autonomous Agents and Multiagent Systems (AAMAS 2009), pp. 1255–1256. In-
+ternational Foundation for Autonomous Agents and Multiagent Systems.
+Kapetanakis, S., & Kudenko, D. (2002). Reinforcement learning of coordination in cooper-
+ative multi-agent systems. AAAI/IAAI, 2002, 326–331.
+Kianercy, A., & Galstyan, A. (2012).
+Dynamics of boltzmann Q learning in two-player
+two-action games. Phys. Rev. E, 85(4), 041145.
+694
+
+--- Sayfa 37 ---
+Evolutionary Dynamics of Multi-Agent Learning
+Klos, T., Van Ahee, G. J., & Tuyls, K. (2010).
+Evolutionary dynamics of regret mini-
+mization. In Machine Learning and Knowledge Discovery in Databases, pp. 82–96.
+Springer.
+Lanctot, M. (2014). Further developments of extensive-form replicator dynamics using the
+sequence-form representation. In Proceedings of the 2014 international conference on
+Autonomous agents and multi-agent systems, pp. 1257–1264. International Foundation
+for Autonomous Agents and Multiagent Systems.
+Littman, M. L. (1994). Markov games as a framework for multi-agent reinforcement learn-
+ing.. In ICML, Vol. 94, pp. 157–163.
+Maynard Smith, J., & Price, G. R. (1973). The logic of animal conﬂict. Nature, 246(2),
+15–18.
+Mihaylov, M., Tuyls, K., & Now´e, A. (2014).
+A decentralized approach for convention
+emergence in multi-agent systems.
+Autonomous Agents and Multi-Agent Systems,
+28(5), 749–778.
+Narendra, K. S., & Thathachar, M. A. L. (1974). Learning automata - a survey. IEEE
+Transactions on Systems, Man, and Cybernetics, 4(4), 323–334.
+Oechssler, J., & Riedel, F. (2001). Evolutionary dynamics on inﬁnite strategy spaces. Eco-
+nomic Theory, 17(1), 141–162.
+Panait, L., Tuyls, K., & Luke, S. (2008). Theoretical advantages of lenient learners: An
+evolutionary game theoretic perspective. Journal of Machine Learning Research, 9,
+423–457.
+Panait, L., & Luke, S. (2005).
+Cooperative multi-agent learning: The state of the art.
+Autonomous Agents and Multi-Agent Systems, 11(3), 387–434.
+Panozzo, F., Gatti, N., & Restelli, M. (2014). Evolutionary dynamics of Q-learning over
+the sequence form. In Twenty-Eighth AAAI Conference on Artiﬁcial Intelligence, pp.
+2034–2040.
+Phelps, S., Parsons, S., & McBurney, P. (2005). An evolutionary game-theoretic comparison
+of two double-auction market designs. In Faratin, P., & Rodrguez-Aguilar, J. (Eds.),
+Agent-Mediated Electronic Commerce VI. Theories for and Engineering of Distributed
+Mechanisms and Systems, Vol. 3435 of Lecture Notes in Computer Science, pp. 101–
+114. Springer Berlin Heidelberg.
+Pipattanasomporn, M., Feroze, H., & Rahman, S. (2009). Multi-agent systems in a dis-
+tributed smart grid: Design and implementation. In Power Systems Conference and
+Exposition, pp. 1–8. IEEE.
+Ponsen, M., Tuyls, K., Kaisers, M., & Ramon, J. (2009). An evolutionary game-theoretic
+analysis of poker strategies. Entertainment Computing, 1(1), 39–45.
+Puterman, M. L. (1994). Markov decision processes: Discrete dynamic stochastic program-
+ming. John Wiley & Sons, New York.
+Rodr´ıguez, A., Vrancx, P., Grau, R., & Now´e, A. (2012). An RL approach to common-
+interest continuous action games. In Proceedings of the 11th International Conference
+695
+
+--- Sayfa 38 ---
+Bloembergen, Tuyls, Hennes, & Kaisers
+on Autonomous Agents and Multiagent Systems, pp. 1401–1402. International Foun-
+dation for Autonomous Agents and Multiagent Systems.
+Ruijgrok, M., & Ruijgrok, T. W. (2005). Replicator dynamics with mutations for games
+with a continuous strategy space. arXiv preprint nlin/0505032.
+Santharam, G., Sastry, P. S., & Thathachar, M. A. L. (1994). Continuous action set learning
+automata for stochastic optimization. Journal of the Franklin Institute, 331(5), 607–
+628.
+Schaerf, A., Shoham, Y., & Tennenholtz, M. (1995). Adaptive load balancing: A study in
+multi-agent learning. J. Artif. Intell. Res. (JAIR), 2, 475–500.
+Shoham, Y., Powers, R., & Grenager, T. (2007). If multi-agent learning is the answer, what
+is the question?. Artiﬁcial Intelligence, 171(7), 365–377.
+Singh, S., Kearns, M., & Mansour, Y. (2000).
+Nash convergence of gradient dynamics
+in general-sum games. In Proceedings of the Sixteenth conference on Uncertainty in
+artiﬁcial intelligence, pp. 541–548. Morgan Kaufmann Publishers Inc.
+Skyrms, B. (2004). The stag hunt and the evolution of social structure. Cambridge University
+Press.
+Strens, M. (2000). A Bayesian framework for reinforcement learning. In ICML, pp. 943–950.
+Sutton, R., & Barto, A. (1998). Reinforcement Learning: An introduction. MA: MIT Press,
+Cambridge.
+’t Hoen, P. J., Tuyls, K., Panait, L., Luke, S., & Poutr´e, J. A. L. (2005). An overview of
+cooperative and competitive multiagent learning. In LAMAS, pp. 1–46.
+Tesauro, G. (2003).
+Extending q-learning to general adaptive multi-agent systems..
+In
+NIPS, Vol. 4.
+Thathachar, M., & Sastry, P. S. (2002). Varieties of learning automata: an overview. IEEE
+Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics, 32(6), 711–722.
+Tuyls, K., ’t Hoen, P. J., & Vanschoenwinkel, B. (2006). An evolutionary dynamical anal-
+ysis of multi-agent learning in iterated games. Autonomous Agents and Multi-Agent
+Systems, 12, 115–153.
+Tuyls, K., Heytens, D., Now´e, A., & Manderick, B. (2003). Extended replicator dynamics as
+a key to reinforcement learning in multi-agent systems. In Machine Learning: ECML
+2003, pp. 421–431. Springer.
+Tuyls, K., & Now´e, A. (2005). Evolutionary game theory and multi-agent reinforcement
+learning. The Knowledge Engineering Review, 20(01), 63–90.
+Tuyls, K., & Parsons, S. (2007). What evolutionary game theory tells us about multiagent
+learning. Artiﬁcial Intelligence, 171(7), 406–416.
+Tuyls, K., Verbeeck, K., & Lenaerts, T. (2003). A selection-mutation model for q-learning
+in multi-agent systems. In Proc. of 2nd Intl. Conf. on Autonomous Agents and Mul-
+tiagent Systems (AAMAS 2003), pp. 693–700, New York, NY, USA. ACM.
+Tuyls, K., & Weiss, G. (2012). Multiagent learning: Basics, challenges, and prospects. AI
+Magazine, 33(3), 41.
+696
+
+--- Sayfa 39 ---
+Evolutionary Dynamics of Multi-Agent Learning
+Tuyls, K., & Westra, R. (2009). Replicator dynamics in discrete and continuous strategy
+spaces. In Uhrmacher, A. M., & Weyns, D. (Eds.), Multi-Agent Systems: Simulation
+and Applications, pp. 215–240. CRC Press.
+Van Kampen, N. (1992). Stochastic Processes in Physics and Chemistry. Elsevier Science
+Publishers, Amsterdam.
+Verbeeck, K., Now´e, A., & Tuyls, K. (2005). Coordinated exploration in multi-agent rein-
+forcement learning: an application to load-balancing. In AAMAS, pp. 1105–1106.
+Von Neumann, J., & Morgenstern, O. (1944). Theory of Games and Economic Behavior.
+Princeton University Press.
+Vrancx, P., Tuyls, K., Westra, R., & Now´e, A. (2008a). Switching dynamics of multi-agent
+learning. In Proc. of the 7th intl. joint conf. on autonomous agents and multiagent sys-
+tems (AAMAS 2008), pp. 307–313. International Foundation for Autonomous Agents
+and Multiagent Systems.
+Vrancx, P., Verbeeck, K., & Now´e, A. (2008b). Decentralized learning in markov games.
+Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE Transactions on, 38(4),
+976–981.
+Walsh, W., Das, R., Tesauro, G., & Kephart, J. (2002). Analyzing complex strategic in-
+teractions in multi-agent systems. In AAAI-02 Workshop on Game-Theoretic and
+Decision-Theoretic Agents.
+Watkins, C. J. C. H., & Dayan, P. (1992). Q-learning. Machine Learning, 8(3), 279–292.
+Weibull, J. W. (1997). Evolutionary game theory. MIT press.
+Wheeler Jr, R., & Narendra, K. S. (1986). Decentralized learning in ﬁnite markov chains.
+IEEE Transactions on Automatic Control, 31(6), 519–526.
+Whiteson, S., & Stone, P. (2006). Evolutionary function approximation for reinforcement
+learning. The Journal of Machine Learning Research, 7, 877–917.
+Wiegand, R. P. (2003).
+An Analysis of Cooperative Coevolutionary Algorithms.
+Ph.D.
+thesis, George Mason University.
+Wunder, M., Littman, M. L., & Babes, M. (2010). Classes of multiagent q-learning dynamics
+with epsilon-greedy exploration. In Proceedings of the 27th International Conference
+on Machine Learning (ICML-10), pp. 1167–1174.
+Zinkevich, M. (2003). Online convex programming and generalized inﬁnitesimal gradient
+ascent. In Proc. of the 20th Intl. Conf. on Machine Learning (ICML-2003).
+697

@@ -1,0 +1,2302 @@
+--- Sayfa 1 ---
+How Modern Dictators Survive:
+An Informational Theory of the New Authoritarianism∗
+Sergei Guriev†
+Daniel Treisman‡
+This draft: November 2015
+First draft: February 2015
+Abstract
+We develop an informational theory of dictatorship. Dictators survive not because of their use of
+force or ideology but because they convince the public—rightly or wrongly—that they are competent.
+Citizens do not observe the dictator’s type but infer it from signals inherent in their living standards,
+state propaganda, and messages sent by an informed elite via independent media. If citizens conclude
+that the dictator is incompetent, they overthrow him in a revolution. The dictator can invest in making
+convincing state propaganda, censoring independent media, co-opting the elite, or equipping police to
+repress attempted uprisings—but he must ﬁnance such spending at the expense of the public’s living
+standards.
+We show that incompetent dictators can survive as long as economic shocks are not too
+large. Moreover, their reputations for competence may grow over time—even if living standards fall.
+Censorship and co-optation of the elite are substitutes, but both are complements of propaganda. Due
+to coordination failure among members of the elite, multiple equilibria emerge. In some equilibria the
+ruler uses propaganda and co-opts the elite; in others, propaganda is combined with censorship. In the
+equilibrium with censorship, diﬃcult economic times prompt higher relative spending on censorship and
+propaganda. The results illuminate tradeoﬀs faced by various recent dictatorships.
+∗We thank Alberto Alesina, Marina Azzimonti, Maxim Boycko, Georgy Egorov, Francesco Giavazzi, Andrea Prat, Gerard
+Roland, Gergely Ujhelyi, and other participants in the Political Economy Meeting of NBER (April 2015), participants of
+ISNIE/SIOE Conference at Harvard, seminars at Warwick and LSE, as well as Maxim Ananyev, Chao-yo Cheng, George
+Derpanopoulos, Barbara Geddes, Scott Gehlbach, Eoghan Staﬀord, Qian Wang, Feng Yang, and Ekaterina Zhuravskaya for
+helpful comments and suggestions.
+†Professor of Economics, Sciences Po, Paris, and Research Fellow, CEPR. E-mail: sergei.guriev@sciencespo.fr
+‡Professor of Political Science, UCLA, and Research Associate, NBER. E-mail: treisman@polisci.ucla.edu
+1
+
+--- Sayfa 2 ---
+1
+Introduction
+How do dictators hold onto power? The totalitarian tyrannies of Stalin, Hitler, Mao, Pol Pot, and others
+relied largely—although not exclusively—on mass terror and indoctrination. Although less ideological, many
+20th Century military regimes—from Franco’s Spain to Pinochet’s Chile—used considerable violence to
+intimidate opponents of the regime.1 Personalistic dictators in Africa and the Caribbean—such as Mobutu,
+Bokassa, Somoza, and the Duvaliers—also relied on blood and fear to sustain their rule.
+However, in
+recent decades, a less carnivorous form of authoritarian government has emerged, one better adapted to the
+globalized media and sophisticated technologies of the 21st Century. From the Peru of Alberto Fujimori to
+the Hungary of Viktor Orban, illiberal regimes have managed to consolidate power without isolating their
+countries from the world economy or resorting to mass killings.
+Instead of inaugurating “new orders,” such regimes simulate democracy, holding elections that they make
+sure to win, bribing and censoring the private press rather than abolishing it, and replacing ideology with an
+amorphous anti-Western resentment.2 Their leaders often enjoy genuine popularity—albeit after eliminating
+plausible rivals—that is based on “performance legitimacy,” a perceived competence at securing prosperity
+and defending the nation against external or internal threats. State propaganda aims not to re-engineer
+human souls but to boost the leader’s ratings, which, so long as they remain high, are widely publicized.
+Political opponents are harassed and humiliated, accused of fabricated crimes, and encouraged to emigrate.
+The new-style dictators can brutally crush separatist rebellions and deploy paramilitaries against un-
+armed protesters. But, compared to most previous autocrats, they use violence sparingly. They prefer the
+ankle bracelet to the Gulag. Maintaining power, for them, is less a matter of terrorizing victims than of
+manipulating beliefs about the world. Of course, totalitarian leaders also sought to inﬂuence public beliefs—
+some were great innovators in the use of propaganda. Yet, how they used it was quite diﬀerent. Dictators
+such as Hitler and Stalin sought to fundamentally reshape citizens’ world views by imposing comprehensive
+ideologies. The new autocrats are more surgical: they aim only to convince citizens of their competence
+to govern. The totalitarian dictators often employed propaganda to encourage personal sacriﬁces for the
+“common good.” Their successors seek to manipulate citizens into supporting the regime for selﬁsh reasons.
+Finally, although propaganda was important for the old-style autocracies, violence clearly came ﬁrst. “Words
+are ﬁne things, but muskets are even better,” Mussolini quipped (Odegard 1935, p.261). Recent tyrannies
+1More than 30,000 people are believed to have been killed by Pinochet’s agents, “most of them taken away to secret detention
+centers and camps, tortured, tossed still alive from airplanes into the sea or shot and buried in unmarked graves” (Roht-Arriaza
+2005, p.viii).
+2On the use of elections and partially democratic or pseudo-democratic institutions in dictatorships, see Gandhi (2008),
+Gandhi and Lust-Okar (2009) and Levitsky and Way (2010). For insightful journalistic accounts of how such regimes operate,
+see Dobson (2012) and Simon (2015). Although our focus is on “dictatorships,” which we see as synonymous with “authoritarian
+regimes,” we consider the dividing line between soft authoritarian regimes and illiberal democracies to be a fuzzy one. Our
+model also applies to most illiberal democracies.
+Compared to their counterparts in democracies, leaders in dictatorships
+are more likely to be replaced as the result of mass protests or coups rather than simply because they lost a fair election.
+Institutional checks on leaders also tend to be more elaborate and eﬀective in democracies. But, although operating within
+tighter constraints, democratic leaders also seek to inﬂuence and manipulate information ﬂows.
+2
+
+--- Sayfa 3 ---
+Sources: Database of Political Institutions 2010 (see Beck et al. 2001); Polity IV database.
+Notes: “Non-democracies” are countries with Polity2 scores of less than 6.
+Figure 1: Legislatures in non-democracies, 1975-2012
+reverse the order. “We live on information,” Fujimori’s security chief Vladimiro Montesinos confessed in
+one interview. “The addiction to information is like an addiction to drugs.” Montesinos paid million dollar
+bribes to television stations to skew their coverage. But killing members of the elite struck him as foolish:
+“Remember why Pinochet had his problems. We will not be so clumsy”(McMillan and Zoido 2004, p.74).
+When dictators are accused of political murders these days, it often augurs the fall of the dictatorship.
+Some bloody military regimes and totalitarian states remain—for instance, in Egypt and Burma, or North
+Korea. And some less violent non-democracies existed even in the heyday of authoritarian repression (mostly
+monarchies and post-colonial African regimes). But the balance has shifted. As Figure 1 shows, compared
+to 35 years ago, far more of the undemocratic orders around today have elected legislatures in which non-
+government parties occupy a signiﬁcant place. And, as Figure 2 shows, fewer are currently involved in mass
+atrocities against their populations. Whereas in 1975 22 percent of non-democracies were engaged in mass
+killings, by 2012 this share had fallen to 6 percent. Besides Fujimori’s Peru and Orban’s Hungary, other
+regimes that share some or all of these characteristics include Vladimir Putin’s Russia, Mahathir Mohamad’s
+Malaysia, Hugo Chavez’s Venezuela, and Recep Tayyip Erdogan’s Turkey. One might even see Lee Kuan
+Yew’s Singapore as a pioneer of such “soft autocracy.” China’s recent party bosses also ﬁt in some respects,
+but whereas the other leaders inherited ﬂawed democracies and undermined them further, the institutions
+hollowed out in China were those of totalitarian communism.
+We develop a model of dictatorship to capture the logic that governs the survival of such regimes. As
+3
+
+--- Sayfa 4 ---
+Sources: Polity IV; Mass Killings Database (see Ulfelder and Valentino 2008, and updated data at
+https://dartthrowingchimp.wordpress.com/2013/07/25/trends-over-time-in-state-sponsored-mass-killing/.
+Notes: “Non-democracies” are states with Polity2 scores of less than 6. A “mass killing” is “any event in which the actions of
+state agents result in the intentional death of at least 1,000 noncombatants from a discrete group in a period of sustained
+violence.”
+Figure 2: Proportion of non-democracies with ongoing mass killings.
+in signaling models of democratic politics, the ruler may be either competent or incompetent.3 Only the
+dictator and a subset of the public—“the informed elite”—observe his type directly. But ordinary citizens
+update their beliefs about this based on the information available to them from the state media, independent
+media, and their own living standards. Citizens’ private consumption depends on the tax rate set by the
+dictator and on economic performance, itself a function of the leader’s competence and a stochastic shock.
+If enough citizens infer, based on these various signals, that the incumbent is incompetent, they overthrow
+him in a revolution. Members of the elite—if not co-opted—would also prefer to replace an incompetent
+incumbent but cannot do so without the masses to back them up.4
+The dictator can aﬀect all the channels of information. He can spend on making the propaganda broadcast
+via state media more convincing. He can bribe (or impose costs—such as ﬁnes or violence—on) the informed
+elite to prevent the latter from sending critical messages. And he can censor those messages that they do send.
+The dictator can also spend on hiring and equipping the police with the tools of repression, thus increasing
+3Competence here refers to the ability to promote—or at least not undermine—economic growth and defend the country
+against external threats. The contrast between the rapid, sustained growth in the Singapore of Lee Kuan Yew and the consistent
+economic decline in the Zaire of Mobutu Sese Seko suggests that some dictators may indeed be more competent than others.
+4Leaders of authoritarian states are more often removed by coups than by mass uprisings (Geddes 1999), but we focus here
+on regime change, which is less frequent than leader turnover. One can imagine combining the game studied in this paper with
+another game played in parallel between the leader and those members of the elite with military or organizational resources;
+this would involve a combination of cooptation and deterrence, as well as other techniques to prevent conspiracies (Svolik 2012).
+4
+
+--- Sayfa 5 ---
+the cost of revolution. However, all these actions must be paid for by the government, either by raising the
+tax rate (which reduces after-tax income and therefore consumption for citizens) or by reducing government
+spending on other items, which may include public services that the population values. Policemen assigned
+to intimidate journalists are not solving real crimes. Citizens, observing their lower consumption or the
+depleted supply of public services, will downgrade their estimates of the incumbent’s competence. Hence the
+tradeoﬀ.
+“Propaganda” here should be understood broadly: it refers to any action by the government that makes
+the message “the leader is competent” more convincing to the public. Thus, it includes traditional instru-
+ments such as government advertising, production and broadcast of distorted news shows, pro-regime online
+media, bribing and planting of stories in the supposedly independent press, and hiring of internet “trolls” to
+post pro-regime comments. In China, an estimated 20 percent of all internet comments come from members
+of the “50 cent party,” so-called because of the fee each is paid per pro-government post (Simon 2015, p.99).
+In addition, reforming school curricula to make them more “patriotic” may ﬁt (Cantoni et al., 2014). But
+propaganda can also be understood to include actions of the government that render credible the leader’s
+excuses for poor economic performance. These could include manufacturing diplomatic, economic, and even
+military confrontations with foreign powers so that they can be more convincingly blamed for domestic
+stagnation. Of course, such actions can be very costly for the country but still rational for the dictator if
+the propaganda beneﬁt is large.
+Censorship, in the new dictatorships, also involves a mix of traditional and non-traditional methods.
+Besides blocking publication of speciﬁc articles or programs, it can include ﬁltering the internet, hiring
+hackers to attack opposition websites, bribing the owners and journalists in “independent” media to censor
+themselves, and prosecuting and imprisoning journalists who refuse.
+It can also involve paying friendly
+investors to buy out and domesticate critical broadcasters, overtly or through shell companies. Such activities
+divert resources from productive uses and cut into government spending on welfare-enhancing programs.
+China reportedly employs two million censors to police the internet (Bennett and Naim 2015).
+Under
+Fujimori in Peru, the regime paid more than $36 million a year to the main television channels to skew their
+coverage, and reportedly oﬀered one channel a $19 million bribe (McMillan and Zoido 2004, pp.82-5).
+Our model shows how the dictator’s strategy and his equilibrium survival odds, as well as the path
+of citizens’ beliefs, change with the various exogenous parameters—the size of the stochastic shocks, the
+distribution of competence, and the technology of censorship, propaganda, and repression. We identify two
+stable equilibria: in one the dictator co-opts the elite, in the other he censors the private media. Multiple
+equilibria exist because members of the elite must coordinate on a strategy. When both equilibria exist, the
+one with co-optation always yields the dictator higher survival odds than the one with censorship. We also
+ﬁnd that, so long as force is not too cost-eﬀective, it is used against the general public only as a last resort
+after co-optation, censorship, and propaganda have failed.
+The model oﬀers insight into a number of observations and puzzles about the functioning of dictatorships.
+5
+
+--- Sayfa 6 ---
+First, it shows how modern autocracies can survive while employing relatively little violence against the
+public. Repression is not necessary if mass beliefs can be manipulated suﬃciently by means of censorship,
+co-optation, and propaganda. Indeed, since in our model major repression is only used if equilibria based
+on co-optation and censorship have disappeared, violence signals to the general public that the regime is
+incompetent and therefore vulnerable. For instance, the appearance in 2000 of a tape that seemed to implicate
+Ukrainian President Leonid Kuchma in the killing of a journalist set oﬀprotests that led ultimately to the
+country’s “Orange Revolution” four years later. Conversely, when co-optation and censorship have failed
+and opposition to the regime becomes overt, state repression is all that remains—and is sure to be used.
+As Davenport (2007, pp.7-8) notes, one result that emerges with “astonishing consistency” from studies of
+repression is that: “When challenges to the status quo take place, authorities generally employ some form
+of repressive action to counter or eliminate the behavioral threat.”
+Second, the eﬀectiveness of propaganda in authoritarian regimes is a prima facie puzzle. Given that
+citizens know the dictator has an incentive to lie about his type, why do they ever listen? In our model,
+propaganda works because whereas competent leaders can costlessly show themselves to be competent,
+incompetent ones must invest resources to fake the evidence that will make this claim convincing—and
+sometimes they choose to spend their budget on other actions instead. Thus, observing a dictator claim
+persuasively to be competent increases the odds that he actually is—especially given the resources he could
+shift from propaganda to consumption and public goods which are directly observed by the public.
+Third, the model oﬀers one reason why some clearly incompetent dictators nevertheless manage to retain
+power for long periods. Rulers whom most or all citizens—if fully informed—would prefer to overthrow can
+still survive in many circumstances simply by manipulating information. And we focus on a mechanism other
+than the well-studied one of blocking communication among potential protesters. The dictator’s survival
+depends here not on preventing citizens from expressing their willingness to rebel (in our model, we abstract
+from the issue of coordination among the protesters), but on manipulating public beliefs about the state of
+the world and the incumbent’s type.
+Moreover, we show that over time incompetent leaders, if they survive, may acquire a reputation for
+competence as a result of rational Bayesian updating by citizens. Such reputations can withstand temporary
+economic downturns if these are not too large. This is consistent with the empirical ﬁnding that dictators
+that last through their ﬁrst few years are less likely to be overthrown (Svolik 2009, Bueno de Mesquita
+and Smith 2010, Treisman 2014). However, the mechanism we propose here—of rational updating of beliefs
+about the leader’s type—diﬀers from those of Svolik (2009), who emphasizes power consolidation by the
+incumbent, and Treisman (2014), who emphasizes selection eﬀects.
+Fourth, the multiple equilibria associated with diﬀerent leader strategies illuminate why, among dictator-
+ships that seem otherwise quite similar, some focus on censoring independent media while others censor much
+less but co-opt the elite with patronage. For example, while Iran has the world’s strictest limits on internet
+content, according to Freedom House, Morocco has among the least restrictive internet controls, on a par
+6
+
+--- Sayfa 7 ---
+with those of Japan (Freedom House 2013). The Moroccan royal family has consistently viewed co-optation
+“as a much more eﬀective tool than confrontation and repression,” given the country’s traditional system in
+which “patronage and accommodation were deeply ingrained” (Willis 2014, p.444).
+Fifth, the model predicts that as economic conditions worsen a dictatorship may boost relative spending
+on censorship and propaganda. This is consistent with a noted increase since the global ﬁnancial crisis in
+eﬀorts to limit opposition media in a range of countries, from Hungary and Turkey to Russia. For example,
+as Turkey’s growth rate fell from 7.8 percent in 2010 to 0.8 percent in 2012, according to the World Bank,
+the number of journalists in jail increased from 4 to 49.5 Between 2008 and 2011, Hungary fell 15 percentage
+points on Freedom House’s press freedom index. Conversely, China, while certainly not eschewing censorship,
+seems to have placed an increasing focus on consumption and provision of public goods during its long period
+of rapid growth. Starting in the 1980s, Beijing replaced the Mao-era system of comprehensive control with
+one that relied increasingly on co-optation and commercialized self-censorship; media owners, editors, and
+journalists are rewarded for loyalty with state advertising contracts and well-paid jobs, thus incentivizing
+them to censor themselves. “The desire to win performance bonuses tends to result in journalism that steers
+well clear of dangerous political controversy and meets the party’s propaganda requirements,” according
+to one analyst (Esarey 2005, pp.57-9).
+Censorship of the internet, meanwhile, has focused on blocking
+collective action rather than on suppressing criticism of the government and party (King, Pan, and Roberts
+2013). In Singapore as well, “forsaken proﬁts and stiﬀlegal penalties have been more eﬀective in fostering
+self-censorship than earlier methods of intimidation” (Rodan 1998, p.69).
+Sixth, the model oﬀers a variety of reasons why—as widely noted—modernization makes dictatorship
+harder to sustain, at least in the absence of vast resource rents. By increasing the size of the “informed
+elite,” economic development increases the cost for incompetent dictators of either co-opting potential critics
+or censoring their media messages. Even relatively small economic shocks then become suﬃcient to threaten
+the incumbent’s rule. If modernization also increases the technological sophistication of opposition media,
+then censorship may fail for this reason as well.6
+Yet, if modernization makes it harder to sustain an information-based dictatorship, we believe it increases
+the costs of mass repression even more.
+An autocrat’s greatest nightmare is that his security services,
+when ordered to violently suppress opposition, will split or simply disobey, igniting a power struggle that
+undermines the regime (Francisco 2005, p.66). The more educated, globally integrated, and professionalized
+are the dictator’s agents, the greater is the chance they will shrink from committing a massacre. At the same
+time, harsh repression is both more public and more economically harmful in a more developed society. A
+knowledge economy, dependent on innovation, stands to lose its entrepreneurs to emigration if the dictator
+uses force. In a world of global media and capital ﬂows, political violence can depress foreign investment,
+stimulate capital ﬂight, and even puncture conﬁdence in the currency (Blanton and Blanton, 2007, Fielding
+5Data from the Committee to Protect Journalists, https://www.cpj.org/imprisoned/2014.php.
+6A complementary reason why modernization may encourage transition to democracy is that education increases the taste
+for political participation (Glaeser, Ponzetto, and Shleifer 2007).
+7
+
+--- Sayfa 8 ---
+and Shortland, 2005). All these factors help explain the modern dictator’s preference for less overt methods.
+We develop the model assuming the simplest, linear technologies for propaganda, censorship, co-optation,
+and repression. This allows us to study the interactions between the dictator’s techniques that arise due
+to the inference problem of citizens rather than due to assuming non-linear functional forms. We point
+out that propaganda (positive reports by the leader about his competence) is complementary to both the
+co-optation of the informed elite and the censorship of independent media, both of which are techniques
+that aim to prevent news of the incumbent’s incompetence from getting out. Censorship and co-optation
+are substitutes. Repression against potential revolutionaries is a substitute for all the information-based
+techniques for maintaining power. Under some parameter values, equilibria exist in which no repression
+against the public is needed at all. Under other parameter values for which there are no equilibria based on
+co-optation, censorship, or propaganda, an equilibrium based on repression of potential protests may exist.
+To focus on the less studied aspects of the problem, we assume the uninformed public is homogeneous and
+we do not examine the problem of coordination among protesters. For treatments of the latter issue, see
+Lohmann (1994), Edmond (2013), and Little (2014).
+The next section reviews related literature. Section 3 outlines the elements of the model. Section 4
+derives the equilibria.
+Sections 5 and 6 discuss comparative statics and several extensions, including a
+dynamic version of the game and one with continuous economic shocks. Section 7 concludes.
+2
+Literature
+Wintrobe (1990) pioneered the formal analysis of dictators’ behavior, modeling, in a reduced form, decision-
+theoretic framework, the tradeoﬀbetween investing in repression and co-opting citizens with material ben-
+eﬁts. He examined the choices of two types of dictators—“totalitarians,” who maximized power, and “tin-
+pot” dictators, who maximized their own consumption subject to a minimum power constraint. In Wintrobe
+(2007), he generalized the dictator’s objective function to include both power and consumption, allowing the
+equilibrium levels to be determined by cost parameters.
+Subsequent formal analyses of dictatorship focused on several diﬀerent— although related—questions.
+One set of works considered the economic policies autocrats would choose and how these compare to those
+prevailing under either anarchy or democracy.
+Olson (1993) argued that dictators’ incentives to adopt
+growth-promoting policies depend on their time horizon and how encompassing an interest they have in
+national output.
+A second direction of research examined the role of institutions in authoritarian states, interpreting
+them as mechanisms by which the ruler solved time inconsistency problems. By creating institutions that
+constrained him in the short run, a dictator could commit credibly to certain policies—repaying state debts
+and respecting property rights (North and Weingast 1989, Gehlbach and Keefer 2011), redistributing income
+to the poor (Boix 2003, Acemoglu and Robinson 2006), or sharing power with members of his ruling group
+8
+
+--- Sayfa 9 ---
+(Myerson 2008, Svolik 2012, Boix and Svolik 2013). Models showed how such credible commitments could
+increase borrowing power and private investment in the ﬁrst case, prevent revolutions in the second, and
+avoid coups or elite defection in the third.
+Another literature models the relationship between dictators and their support group when such inter-
+actions are not mediated by institutions. These works examine how the dictator chooses the number and
+characteristics of his inner circle (Egorov and Sonin 2011, Bueno de Mesquita et al. 2003).
+A fourth set of works analyzes the eﬀects of information problems under dictatorship. By monopolizing
+the media and criminalizing dissent, rulers are assumed to prevent citizens from sharing information. Some
+papers in this set have explored how costly protest actions by individuals communicate facts to other individ-
+uals, triggering—or failing to trigger—informational cascades (Kuran 1991, Lohmann 1994). The greater is
+the repression, the less likely are protests to occur, but the greater is the discontent that they communicate
+if they do (Kricheli et al. 2011). Dagaev et al (2013) examine how new information technologies facilitate
+coordination by potential opponents of a regime.
+A few papers explore more complicated ways, in which dictators may seek to manipulate the information
+environment. Egorov, Guriev, and Sonin (2009) and Lorentzen (2014) model the tradeoﬀfor a dictator in
+setting the level of censorship, where a free media, on the one hand, provides the information necessary for
+the dictator to discipline his bureaucrats, but, on the other hand, assists the expression and coordination
+of opposition. Edmond (2013) examines the strategic use of propaganda. In his game, citizens want to
+overthrow an existing regime but are imperfectly informed about the regime’s “strength.” The ruler sends
+costly, biased signals about the regime’s strength in the attempt to prevent citizens from coordinating
+against him. Citizens, although understanding the ruler’s incentive to deceive, cannot fully separate the true
+information from the bias. In this sense, propaganda can work in equilibrium, and it is more eﬀective, the
+more precise are the signals. Chen and Xu (2015) develop a model where propaganda and censorship allow
+the government to prevent collective action against the regime and study the interaction between information
+manipulation and policy choices. Huang (2014) also models state propaganda as the sending of signals of
+repressive capacity.7 In his model, the content of the message is irrelevant; what constitutes the signal is the
+amount of propaganda sent, which citizens are assumed to observe. His key assumption is that the capacity
+to broadcast propaganda and the capacity to repress rebellions are correlated, so more propaganda signals
+greater repressive capacity. Shadmehr and Bernhardt (2015) build a theory of state censorship in which
+citizens seek to infer whether the absence of “bad news” is due to censorship or to the absence of bad news
+for journalists to report.8
+7Propaganda may also feature as part of loyalty rituals in authoritarian states—the leader’s ability to get citizens to repeat
+the propaganda shows the extent of his political control, deterring challenges, as discussed in many analyses of totalitarian
+regimes. We abstract from such loyalty rituals here in order to focus on the type of state propaganda that aims to inﬂuence
+citizens’ beliefs about the competence of the ruler (at providing economic or security beneﬁts).
+8There is also literature on media capture in democracy (see, for example Besley and Prat (2006)). In these models incumbent
+politicians bribe media into favorable reporting in order to inﬂuence the results of the elections. This is similar to our co-optation
+mechanism our model diﬀers in several respects. First, in our model the public also receives other signals — through propaganda
+and through their own consumption. Second, our model has an economic dimension where the public’s consumption depends
+9
+
+--- Sayfa 10 ---
+Our model explores the tradeoﬀs for rulers who choose a portfolio of techniques—censorship, propaganda,
+co-optation, and repression—to preserve their power.9 Our approach diﬀers from those of Edmond and Huang
+in that our incumbents vary in “competence,” whereas their incumbents vary in “strength,” understood as
+the ability to repress mass protests. (In our model, as in Edmond’s, the “incompetent”/“weak” leaders try
+to pool with the “competent”/“strong” ones and are able to do so in some states of the world.) Neither
+paper considers censorship of private messages or the tradeoﬀs between propaganda, censorship, and positive
+and negative rewards. They focus on the way ﬂows of information among the mass public inﬂuence protest.
+This is also true of Chen and Xu’s paper. We bracket this question in order to explore the game between the
+dictator and the “informed elite” over propaganda, private media messages, and censorship. Shademehr and
+Bernhardt’s model of censorship is similar to ours, but they also do not consider the interaction of censorship
+with cooptation, propaganda, and economic shocks, which is central to our analysis.
+3
+Setting
+3.1
+Players
+There is a dictator and a continuum of citizens of unit mass. The dictator receives an exogenous rent each
+period he remains in power. He maximizes the net present value of expected future rents. In a one-period
+version of the model, the dictator simply maximizes the probability of staying in power, π. Citizens maximize
+their current consumption plus the net present value of future consumption.
+The citizens are exogenously divided into informed (elite) and uninformed (general public). The mass of
+informed citizens, I, is small (so the elite cannot overthrow the dictator by itself; the general public can).
+We assume that the informed citizens are organized into a ﬁnite number, N, of interest groups, each of mass
+I/N.10
+All agents are risk-neutral but have limited liability (i.e. cannot pay large ﬁnes).11
+on the aggregate output (which is a stochastic function of the regime’s quality) and of costs of propaganda, censorship and
+co-optation. Finally, our ‘elites’ are diﬀerent from Besley and Prat’s ‘media’. In our setting, independent (but potentially
+co-opted) media are citizens who diﬀer from the other public only in terms of being more informed. Therefore the incentives
+to share information are eventually driven by the returns to replacing an incompetent regime with a better one. In Besley and
+Prat’s setting media care about maximizing viewership.
+9A considerable literature examines state repression by itself (see Davenport, 2007).
+However, since Wintrobe’s (1990)
+decision-theoretic analysis, few papers have explored the tradeoﬀs between repression and other techniques in the dictator’s
+repertoire. One recent exception is Frantz and Kendall-Taylor (2014), who argue that co-opting potential opponents by means
+of partially-free parties and legislatures brings such opponents into the open and makes it easier to target violent repression.
+10See Guriev and Treisman (2015) for a version of the model with a continuum of inﬁnitesimal elite members.
+11Dal Bo et al. (2006) consider “plata or plomo” contracts where the regime can oﬀer the elite members not only rewards
+(plata, Spanish for silver) but also punishments (plomo, Spanish for lead). In Section 5.4 we also allow for punishments for the
+elites. In Dal Bo et al.’s model the punishments are costly as they result in lower incentives of high-ability citizens to enter
+politics. In our case, punishments are costly as they are hard to hide and therefore are likely to reveal the incompetence of the
+ruler.
+10
+
+--- Sayfa 11 ---
+3.2
+The economy
+Total output (GDP), Y , may take two values: Y L and Y H, where ∆Y ≡Y H −Y L > 0. The probability ξθ
+of the high state, Y = Y H, depends on the quality of the dictator, θ.
+For simplicity, we assume that θ can take two values: θ = 0 (the dictator is incompetent) and θ = 1 (the
+dictator is competent). The dictator is competent with probability ¯θ (the parameter ¯θ is therefore also the
+expected value of θ).
+The probability ξθ of the high output Y = Y H is higher if the dictator is competent:
+ξ1 > ξ0.
+The dictator can use part of GDP for funding propaganda, P, censorship, X, and for rewarding the elites,
+R. His budget constraint is Y = C + P + X + R, where C is consumed by the population. For simplicity,
+we assume that C is distributed equally among citizens—so C is also per capita consumption, since the
+number of citizens is normalized to 1—and is observed by all. By contrast, we assume that Y , X, P, and
+R are not observed by the general public. Y may include both oﬃcial and unoﬃcial income sources, while
+C may include consumption by citizens of both private goods and non-excludable public goods provided by
+the government.
+By spending P on propaganda, the dictator increases the probability that the propaganda message that
+the public receives is convincing: p = 1. (The content of the message is: “the leader is competent, θ = 1”;
+the value of p indicates whether it is convincing or not.) We assume that the competent dictator can send
+the signal p = 1 costlessly. If the dictator is incompetent, the probability of the public getting a convincing
+message, p = 1, is
+Λ(P) = min
+P
+bP
+, 1
+
+.
+(1)
+Here bP is a parameter that represents the cost to an incompetent dictator of generating fully convincing
+propaganda.
+By spending X on censorship, the dictator blocks a proportion, x, of the opposition’s messages:
+x = min
+(
+X/ b
+X
+(N −n)/N , 1
+)
+.
+Here n is the number of the elite groups that support the elite and b
+X is an exogenous cost parameter that
+captures how much it costs to block all the messages if all informed citizens join the opposition. In other
+words, if the dictator wants to block x ∈[0, 1] per cent of the messages, it has to spend x b
+X N−n
+N
+dollars.
+The co-optation of the elites works as follows: the dictator pays r to each member of an elite group if the
+group does not send negative messages. The total cost of rewarding the elites is R = rnI/N; both n and r
+are endogenously determined in equilibrium.
+11
+
+--- Sayfa 12 ---
+3.3
+Information
+There are four types of signals in the model. First, each informed citizen learns the type of the dictator,
+θ, and GDP, Y , precisely.
+Second, all citizens observe per capita consumption, C.
+Third, the dictator
+disseminates propaganda—which is a public signal, p = {0, 1}, received by every citizen. Given that the
+competent dictator can send p = 1 at no cost, he always does so. Therefore if the public observes p = 0, it
+knows with certainty that the dictator is incompetent.
+Finally, the informed citizens can send a signal z = {0, 1} to the public. We assume that the informed
+citizens can conceal evidence that the dictator is incompetent—i.e., send a signal z = 1 when, in fact,
+θ = 0—but cannot convincingly claim that a competent leader is incompetent. This allows us to abstract
+from the possibility that the elite blackmails competent leaders.
+As already noted, the signal z = 0 gets through censorship with probability (1 −x), where x is the level
+of censorship. If the public observes the signal z = 0 from the opposition, it knows for sure that the dictator
+is incompetent. If, on the other hand, the public observes the absence of a negative signal (we denote this as
+z = 1), it must infer whether this is because the signal was censored (probability x), because the true state
+is θ = 1, or because nobody has joined the opposition (n = N) as all the elite groups have been co-opted.
+3.4
+Payoﬀs
+3.4.1
+Dictator’s payoﬀ
+The dictator minimizes the probability of regime change. He does not beneﬁt from higher GDP directly,
+just through increased resources to buy support and to fund propaganda and censorship.
+3.4.2
+Citizens’ payoﬀ
+The public maximizes current consumption plus the net present value of future payoﬀs. In the interest of
+generality, we assume that current consumption, C, may include both private goods (bought with citizens’
+after-tax incomes) and public goods (funded by tax revenues minus spending on propaganda, censorship,
+and co-optation). Therefore C ≤Y −P −R −X.
+The future payoﬀs are normalized to the type of the regime θ. If the current dictator stays, the net present
+value of the future payoﬀs is δθ. If the regime is changed, the present value of the expected future payoﬀs
+is δ
+ ¯θ −K
+
+. Here, δ is not just a discount rate, but rather the net present value of having a competent
+(rather than incompetent) dictator in the future. If the regime is changed, the new dictator is drawn from
+the same distribution; hence the expected quality is ¯θ. Regime change involves a non-trivial, additional cost
+to citizens, K.
+The co-opted informed citizens (pro-regime elite) receive additional current consumption of r per capita.
+Notice that the timing of the game (section 3.5) implies that both informed and uninformed citizens make
+12
+
+--- Sayfa 13 ---
+their decisions after C is set. However, the co-optation payment r matters for the informed citizens’ decision
+to join the pro-regime elite or the opposition.
+3.5
+Timing
+1. The dictator and the elite observe the type of the dictator, θ ∈{0, 1}. The economic shock Y is realized
+(Y = Y H with probability ξθ and Y = Y L with probability 1 −ξθ). Both the elite and the dictator
+observe Y .
+2. The dictator chooses the level of censorship, x ∈[0, 1]. The dictator oﬀers a level of rewards, r dollars
+per capita, to those elite groups that agree not to send anti-regime messages (limited liability implies
+r ≥0). The dictator chooses a level of investment in propaganda, P.
+3. Each elite group decides whether (i) to support the regime and receive the reward r, or (ii) to join the
+opposition and send a signal to the public informing it that the dictator is incompetent. The number
+of groups that choose to support the regime is n; the remaining N −n groups join the opposition.
+4. Contracts for the elite are implemented. Censorship blocks a proportion, x, of the independent signals,
+so the public receives the opposition’s signals with probability (1 −x) N−n
+N .12 Payoﬀs are realized.
+5. Citizens observe their consumption, C, propaganda signal, p = {0, 1}, and any independent signals
+that get through censorship, z = {0, 1}. The citizens update their beliefs about θ and decide whether
+to overthrow the dictator.
+3.6
+Assumptions
+We assume that the dictator can commit to the contracts with the elites. In Section 4.3 we discuss why this
+assumption is reasonable given that the elite members fully observe both the type of the dictator and the
+economic outcomes.
+We also assume that b
+X and bP are suﬃciently large relative to ∆Y that X/ b
+X < 1 and P/ bP < 1 in
+equilibrium. This assumption is realistic but not innocuous. The dictator cannot completely silence the
+elites through censorship while he may fully silence them through co-optation. To focus on more interesting
+cases, we also assume that K < ¯θ, so that if the public knows with certainty that the dictator is incompetent
+it prefers to replace him.
+12Thus, the probability that the public receives an opposition message is proportional to the number of messages sent that
+escape censorship; if all elite members send messages (n = 0) and there is no censorship (x = 0), the messages get through for
+sure.
+13
+
+--- Sayfa 14 ---
+4
+Analysis
+We now solve for equilibria.
+Given the parameters ¯θ, ξ1, ξ0, ∆Y , I, N, b
+X, bP, δ, and K, we ﬁnd the
+equilibrium strategies of the dictator (C, x, P, r), of the informed citizens (to get co-opted or to join the
+opposition), and of the public (to protest or to support the regime).
+All agents are rational and maximize their expected payoﬀs given the available information. In particular,
+the informed citizens’ choice is contingent on the rewards, r, oﬀered for loyalty.
+The general public observes consumption, C, and the signals p and z. If at least one of the latter two
+signals is low (p = 0 or z = 0), the public knows with certainty that the dictator is incompetent and protests.
+If both signals are high (p = z = 1), then the decision depends on the consumption level, C: the public
+protests if consumption is low and supports the regime if consumption is high. Therefore, its strategy is
+fully described by the consumption threshold C∗such that the public supports the regime if and only if it
+observes p = z = 1 and C ≥C∗.
+We ﬁrst describe the best response functions of the three players.
+4.1
+Players’ best response strategies
+4.1.1
+Public’s choice
+The general public chooses whether to support the regime or to protest in such a way as to maximize the sum
+of the per capita consumption and the net present value of expected future payoﬀs, C+δ max
+
+E(θ|C, p, z); ¯θ −K
+
+,
+given all available information. Current period consumption, C, is already set and observed by the public
+when it chooses its action. Here E(θ|C, p, z) is the expected value of θ given the public’s inference of the
+equilibrium strategies of other players and the observed values of C, p, and z.
+The public’s decision is described by a scalar threshold, C∗, that solves the following problem: C∗is the
+lowest level of consumption that satisﬁes
+E(θ|C∗, p = z = 1) ≥¯θ −K.
+(2)
+The public does not protest if and only if C ≥C∗and p = z = 1.
+4.1.2
+Informed citizens’ choice
+The informed citizens choose whether to join the opposition or to get co-opted. They make decisions given
+the strategies of the dictator and of the general public. They infer the probability of the regime surviving
+as a function of the size of the pro-regime elite and of the opposition, Π(n). The latter is a monotonically
+increasing function: the fewer elite groups join the opposition, the less likely the opposition signal is to
+reach the public, and—for a given realization of Y and the dictator’s choice of propaganda, P, censorship,
+14
+
+--- Sayfa 15 ---
+x, and rewards, r—the less likely the public is to overthrow the dictator. The function Π(n) is endogenously
+determined in equilibrium.
+If an elite group accepts to be co-opted, each member of the group gets:
+U C = C + r + Π(m + 1)δθ + [1 −Π(m + 1)]δ(¯θ −K).
+If the group decides to joins the opposition, each member gets:
+U O = C + Π(m)δθ + [1 −Π(m)]δ(¯θ −K).
+Here m ∈{0, ..., N −1} is the number of other groups supporting the regime.
+As in the general public’s decision, current period consumption, C, does not aﬀect the informed citizens’
+decision as it is already set by the time the latter make their choice.
+The trade-oﬀis straightforward. By joining the opposition, an elite group decreases the odds of the
+incumbent staying in power by [Π(m + 1) −Π(m)] but forgoes the co-optation payment, r. The net per
+capita returns to regime change are δ
+
+θ −(¯θ −K)
+
+.
+Therefore, an elite group joins the opposition if and only if r < δ [Π(m + 1) −Π(m)]
+
+(¯θ −K) −θ
+
+. It is
+immediately clear that if the true type is high θ = 1, the right hand side is negative and nobody wants to
+join the opposition—even if there is no co-optation reward. Hence, a competent dictator does not need to
+oﬀer any rewards.
+If the dictator is incompetent (θ = 0), then each elite group prefers to join the opposition if and only if
+the co-optation rewards are suﬃciently low: r < r∗. Here
+r∗≡δ(¯θ −K) [Π(m + 1) −Π(m)] .
+(3)
+Therefore, if the dictator is incompetent,
+n(r) = N1{r ≥r∗}.
+(4)
+This follows from the fact that all elite groups are symmetric and face the same choice.
+4.1.3
+Dictator’s choice: censorship, rewards, propaganda
+The dictator learns his type, θ, observes Y and chooses the strategies: censorship (x), rewards (r), and
+propaganda (P). He maximizes his probability of staying in power, π. Given his choice of r, x, and P, the
+expected probability of staying in power depends on the dictator’s type. We will consider the competent
+and incompetent dictator separately.
+15
+
+--- Sayfa 16 ---
+4.1.3.1
+Solving the competent dictator’s problem
+If the dictator is competent, there is no opposition in equilibrium: n = N. A competent dictator therefore
+never uses rewards, censorship, or propaganda: P = R = X = 0. For him, the propaganda signal is p = 1
+with probability 1 and consumption is C = C1(Y ) ≡Y . The probability of staying in power is therefore
+π1 = 1{Y ≥C∗}.
+(5)
+4.1.3.2
+Solving the incompetent dictator’s problem
+If the dictator is incompetent, the probability of staying in power is:13
+π0 =
+
+1 −(1 −x)N −n
+N
+
+Λ(P)1{C ≥C∗}
+(6)
+where n = n(r) is a function of r determined by (4). Indeed, the probability of z = 1 is 1 −(1 −x) N−n
+N , and
+the probability of p = 1 is Λ(P).
+Equation (6) implies that returns to censorship increase in propaganda and decrease in rewards. In other
+words, censorship and co-optation are substitutes, and propaganda is complementary to both. This property
+is not assumed; it follows from the nature of the public’s statistical inference problem.
+Now consider the incompetent dictator’s optimization problem. We will maximize (6) in two steps. First,
+the dictator will choose the level of consumption C = C0(Y ) and therefore the total budget, B = Y −C0(Y ),
+for propaganda, censorship and rewards. Second, given the choice of consumption and budget, B, he will
+choose the x, P, and r that maximize the probability, ρ, of p = z = 1 as a function of the budget:
+ρ(B) =
+max
+X+R+P ≤B
+
+1 −(1 −x)N −n(r)
+N
+
+Λ(P).
+(7)
+4.1.3.3
+Incompetent dictator’s strategies given the choice of consumption
+The dictator solves (7) taking into account R = n(r)rI/N and X = N−n(r)
+N
+b
+X min{x, 1}.
+The choice of rewards for co-optation is binary: either (i) high rewards r = r∗(so that n = N and
+R = R∗≡r∗I), or (ii) no rewards r = 0 (n = 0 and R = 0). Indeed, rewards 0 < r < r∗are suboptimal for
+the dictator relative to r = 0—they do not reduce the number of opposition activists but are costly. Rewards
+r > r∗are also suboptimal for the same reason.
+The dictator can choose high rewards only if R∗≤B. In this case, he spends R = R∗; censorship is
+useless (as there is no opposition), so all remaining resources are spent on propaganda: P = B −R∗. The
+probability of p = z = 1 is Λ(B −R∗) = B−R∗
+b
+P
+.
+13Notice that equation (6) immediately implies that Π(n + 1) −Π(n) = (1 −x)Λ(P)/N in equilibrium.
+16
+
+--- Sayfa 17 ---
+If the dictator chooses zero rewards (r = 0), he solves:
+max
+X+P =B
+X
+b
+X
+P
+bP
+.
+(8)
+The solution is P = X = B
+2 . The probability of p = z = 1 is
+B2
+4 b
+P b
+X .
+The analysis implies
+ρ(B) = max
+B −R∗
+bP
+; B2
+4 bP b
+X
+
+.
+(9)
+Therefore the regime with co-optation is chosen if and only if R∗is suﬃciently low:
+R∗< B
+
+1 −B
+4 b
+X
+
+.
+(10)
+4.1.3.4
+Incompetent dictator’s choice of consumption
+In equilibrium, the choice of consumption C0(Y ) should solve:
+C0(Y ) = arg max
+C
+ρ(Y −C)1{C ≥C∗}
+(11)
+Since ρ(B) is strictly increasing in B, the dictator will always choose C = C∗and B = Y −C∗.
+4.2
+Equilibria
+As the competent dictator always sets C = Y , it is easy to show that there can be two kinds of equilibria.
+First, C∗= Y L, and the competent dictator always stays in power. The incompetent dictator is over-
+thrown if Y = Y L. However, if Y = Y H he stays in power and spends B = Y H −Y L = ∆Y on rewards,
+censorship and propaganda and therefore assures p = z = 1 with a non-trivial probability ρ(∆Y ).
+Second, C∗= Y H, and the competent dictator only stays in power if Y = Y H; the incompetent dictator
+is overthrown with probability 1.
+Can there be equilibria with C∗< Y L? This is impossible as the public knows that if it observes C < Y L,
+the dictator must be incompetent. So it makes sense to replace this dictator with probability 1.
+Similarly, there cannot be equilibria with C∗∈(Y L, Y H). In this case, if the public observes such a C∗
+and p = z = 1, it knows with certainty that the dictator is incompetent (and lucky).
+4.2.1
+Equilibrium with C∗= Y H
+The equilibrium with C∗= Y H exists whenever the inferred quality of a dictator with C = Y L is below the
+potential alternative ¯θ −K.
+17
+
+--- Sayfa 18 ---
+Proposition 1. The equilibrium with C∗= Y H exists if and only if
+∆Y ≥bP
+
+1
+¯θ −K −1
+
+¯θ
+1 −¯θ
+1 −ξ1
+ξ0
+.
+(12)
+In equilibrium, none of the informed citizens joins the opposition, the co-optation rewards are inﬁnitesimal,
+there is no censorship, and the incompetent dictator with Y = Y H spends ∆Y on propaganda.
+In this equilibrium, the incompetent dictator survives with probability 0 while the competent dictator
+survives with probability ξ1. The intuition is as follows: when the public observes p = z = 1 and C = Y L,
+it understands that it is very likely that the dictator is incompetent. Notice that there is no opposition: the
+informed citizens, understanding that the dictator will be overthrown anyway, accept to be co-opted even if
+the rewards are close to zero. Given that there is full co-optation, the dictator spends nothing on censorship.
+Finally, as the total co-optation rewards are trivial, the dictator spends all of ∆Y on propaganda.14
+4.2.2
+Equilibrium with C∗= Y L
+In this equilibrium, the competent dictator always survives, while the incompetent dictator only survives if
+Y = Y H. In the latter case, he spends ∆Y on propaganda, censorship and co-optation.
+The properties of this equilibrium depend critically on the relative costs of co-optation and propaganda,
+which is captured by the following parameter:
+a ≡δ(¯θ −K)I
+bPN
+.
+(13)
+The co-optation rewards are endogenous in equilibrium; one of their key determinants is the informed citizens’
+long-term cost of not revealing the dictator’s incompetence. There are N groups of informed citizens (size
+I/N each); they knows that replacing an incompetent dictator would improve their own welfare by δ(¯θ −K)
+per capita. Therefore, δ(¯θ −K)I/N is the opportunity cost for an elite group (of size I/N) of remaining
+silent—which will be the minimum reward it will require for co-optation. On the other hand, bP, is how
+much it costs the incompetent dictator to generate a positive propaganda signal with probability 1; in other
+words, raising the probability of p = 1 by 1 percentage point costs the dictator 0.01 bP.
+In this equilibrium, the general public should believe that the average type of the dictator with C =
+C∗= Y L and p = z = 1 is weakly better than regime change:
+E(θ|C = Y L, p = z = 1) =
+¯θ(1 −ξ1)
+¯θ(1 −ξ1) + (1 −¯θ)ξ0ρ(∆Y ) ≥¯θ −K.
+(14)
+14As the incompetent dictator is overthrown anyway, he is indiﬀerent between various strategies. Among these strategies,
+spending ∆Y on propaganda maximizes the probability of p = z = 1. Therefore, it makes this equilibrium likelier to exist.
+Indeed, the higher the incompetent dictator’s odds of delivering a positive message, p = z = 1, the stronger the public’s
+incentives to overthrow a ruler with C = Y L.
+18
+
+--- Sayfa 19 ---
+Proposition 2. The equilibrium with C∗= Y L exists only if ∆Y is suﬃciently small
+∆Y < 4 b
+X max
+
+1
+a + 1,
+a
+2 −1
+a −1
+
+(15)
+There can be two kinds of stable equilibria in pure strategies:
+If ∆Y < 4 b
+X
+1
+a+1 and
+∆Y ≤(1 + a) bP
+
+1
+¯θ −K −1
+
+¯θ
+1 −¯θ
+1 −ξ1
+ξ0
+.
+(16)
+then there is an equilibrium with co-opted elites: n = N. In this equilibrium, the dictator uses co-
+optation and propaganda, but not censorship. The probability of survival is:
+ρ(∆Y ) =
+∆Y
+bP(1 + a)
+(17)
+If a > 2 and ∆Y < 4 b
+X
+a
+2 −1
+a−1
+and
+∆Y ≤
+s
+4 bP b
+X
+
+1
+¯θ −K −1
+
+¯θ
+1 −¯θ
+1 −ξ1
+ξ0
+,
+(18)
+there is an equilibrium with censorship in which all informed citizens join the opposition: n = 0. In
+this equilibrium, the dictator uses censorship and propaganda, but not co-optation. The probability of
+survival is:
+ρ(∆Y ) = (∆Y )2
+4 bP b
+X
+(19)
+Equilibria with C∗= Y L only exist if ∆Y is suﬃciently small. Indeed, if ∆Y is large, the public knows
+that the incompetent dictator—if lucky—can spend substantial resources to ensure that p = z = 1. Hence
+observing p = z = 1 and C = C∗, citizens still decide to protest.
+Multiple equilibria. If a > 2 and if ∆Y is suﬃciently small (satisfying both (15), (16) and (18)), then
+we have two stable equilibria—one with propaganda and co-optation (n = N) and one with propaganda and
+censorship (n = 0). Comparing (17) and (19) we ﬁnd that whenever both equilibria exist, the probability
+of survival is higher in the equilibrium with co-optation. We discuss the intuition behind this result in the
+section 4.3
+Figure 3 presents the structure of equilibria under diﬀerent values of parameters (if conditions (16) and
+(18) are not binding—e.g. if (1 −ξ1)/ξ0 is very high).
+These equilibria (where C∗= Y L) can also co-exist with the equilibrium with C∗= Y H (indeed, for some
+parameter values both conditions (12) and (16) are satisﬁed). In the latter equilibria, the public, observing
+a positive signal p = z = 1 and low consumption, infers that the expected quality of the dictator is too low
+and protests. As the informed citizens understand that the dictator will be removed anyway, they know that
+19
+
+--- Sayfa 20 ---
+Figure 3: Structure of equilibria for diﬀerent values of parameters. The graphs represent the probabilities of
+survival ρ(∆Y ) for the following parameter values: b
+X = bP = 1, and a = 1.5 (left), a = 2.5 (middle), a = 3.5
+(right).
+their information will have no impact and are therefore happy to be co-opted even if rewards are low. Thus,
+achieving the outcome with p = z = 1 and C∗= Y L is relatively cheap for the dictator. So the public’s
+inference is justiﬁed. For the same parameter values, there may exist an equilibrium with C∗= Y L in which
+informed citizens do have an impact on the dictator’s survival probability; in this case, co-opting them is
+costly. Hence, observing the outcome p = z = 1 and C∗= Y L, the public infers that the expected type of
+the dictator is relatively high.
+4.3
+Discussion of the results
+The previous analysis yields four main results.
+First, if economic volatility (the diﬀerence between good and bad economic states, ∆Y ) is not very high,
+the incompetent dictator can survive in equilibrium. The logic is as follows. If ∆Y is low, that means that
+an incompetent dictator who is lucky enough to experience a good economic outcome (Y = Y H) will have
+only a small amount of extra resources, ∆Y , to spend on propaganda, censorship, and co-optation. As a
+result, the messages received by the public should be relatively accurate. Thus, if the public does receive
+the positive signals p = z = 1, it will tend to believe them and think the incumbent is competent, even if
+consumption is low: C = Y L.
+However, if volatility is high, then no equilibrium with C = Y L exists and the incompetent dictator is
+overthrown. The impact of economic volatility is especially important in the dynamic setting (see section
+5.2): we show that when volatility is low, the dictator is less likely to survive the initial period; but, if he
+does, he is then more likely to remain in power for a long time.
+This result may also be interpreted in a cross-sectional sense. If the public notices that other comparable
+countries are doing much better (∆Y is high), they infer that their dictator may well have diverted a lot of
+resources (∆Y ) into propaganda, censorship, and co-optation. As a result, they stop believing the positive
+signals, conclude that the dictator is probably bad, and take to the streets to protest.
+The second result is the multiplicity of equilibria. For some parameter values there exist two equilibria:
+(i) an equilibrium with co-optation, in which the elite agrees to stay silent in return for rewards, and (ii) an
+20
+
+--- Sayfa 21 ---
+equilibrium with censorship, in which all informed citizens join the opposition but the dictator attempts to
+block their media communications.
+The multiplicity of equilibria is driven by the ‘ﬁscal externality’ imposed by the elite members on each
+other. Consider the equilibrium with co-optation n = N. Every elite group is happy to stay in the pro-regime
+camp, receiving r∗for not joining the opposition. But now imagine that k > 0 groups join the opposition.
+In this case, the dictator spends r∗kI/N less on rewards and reallocates the money to propaganda and
+censorship, increasing x and P. How does that change the returns to joining the opposition for the remaining
+N −k elite groups? These returns are related to Π(m+1)−Π(m), which in turn is proportional to (1−x)P:
+the payoﬀto joining the opposition decreases in censorship and increases in propaganda.
+Thus, the defection of some elite groups has two opposite eﬀects. On the one hand, the increase in
+censorship reduces the odds that an anti-regime message will get through. This lowers the payoﬀto joining
+the opposition. On the other hand, the increase in propaganda makes it less likely the general public will learn
+of the dictator’s incompetence—and thus all the more important for informed citizens to try to communicate
+it. This raises the payoﬀto joining the opposition. Which eﬀect dominates will depend on the parameters.
+If the former eﬀect is stronger, no additional members of the elite defect, and the co-optation equilibrium
+holds. But if the latter eﬀect dominates, then the initial departures set oﬀa spiral of defections, ending in
+the equilibrium with censorship and no co-optation.
+Therefore, for some parameter values, only one equilibrium exists, and for other parameter values, two
+stable equilibria exist (see Figure 3).
+The third result concerns how the dictator’s various instruments interact. As seen in (6), censorship and
+co-optation of the elite are substitutes, while propaganda is complementary to both of them. Returns to
+censorship and co-optation increase with propaganda. But higher spending on censorship decreases incentives
+for co-optation. These interactions emerge endogenously due to the public’s statistical inference based on
+the information it receives.
+Finally, we see that whenever both the equilibrium with co-optation and that with censorship exist,
+the dictator’s survival probability is always higher in the former. This result follows from the fundamental
+asymmetry between these two equilibria.
+In the equilibrium with co-optation, the dictator can always deviate to the equilibrium with censorship
+by oﬀering zero rewards: r = 0. Whatever the elite’s original beliefs and therefore required rewards, r∗, if the
+dictator oﬀers r = 0 < r∗, the elite members reject and join the opposition. This is why the equilibrium with
+co-optation can only exist if it delivers a higher probability of survival than the equilibrium with censorship.
+On the other hand, in the equilibrium with censorship the elites would only get co-opted if r∗is suﬃciently
+high (greater than the right-hand side in (10)). The dictator cannot unilaterally deviate from censorship to
+co-optation by oﬀering a lower reward: the elites would not agree to be co–opted.
+This result implies that a dictator can get stuck in an inferior yet stable equilibrium, relying on a relatively
+ineﬀective instrument (censorship rather than co-optation) to stay in power.
+21
+
+--- Sayfa 22 ---
+In the analysis above, we have assumed that the dictator can commit to the co-optation contracts with
+the elite members. If he promises at time 2 to pay r in return for loyalty, and the elite members send the
+signal z = 1 at time 3, he does pay at time 4. This assumption does not matter for the equilibrium with
+censorship (as r = 0 anyway). However, it is crucial for the equilibrium with co-optation. If this assumption
+does not hold, a promise of any positive r > 0 is not credible. One way to justify this assumption is to
+consider a repeated game version of the model. Although we do not model this explicitly, the co-optation
+contracts can be sustained by grim trigger strategies. The elite members observe the type of the ruler and
+the economic outcomes, so they fully understand whether the dictator sticks to the co-optation contracts or
+reneges. If he reneges once, they switch to the censorship equilibrium and the dictator cannot return to the
+co-optation equilibrium (which delivers a higher probability of survival).
+We have not analyzed the eﬃciency of the equilibria. In the current setting, a welfare analysis would
+require introducing a social welfare function that would include the payoﬀs of both citizens and dictators.
+As the dictator’s payoﬀis non-monetary, there is no natural choice of such a welfare function. However, if
+we assume that the dictator’s “oﬃce rents” are small compared to national income Y then the ﬁrst best is
+straightforward. A competent dictator should always stay in oﬃce. If the dictator is incompetent, replacing
+him is always optimal (as long as we make the natural assumption that ¯θ −K > 0).
+5
+Comparative statics and extensions
+5.1
+Comparative statics
+How do the exogenous parameters aﬀect the dictator’s survival probability?
+While the model has nine
+parameters (∆Y , ¯θ, K, I, δ, bP, b
+X, ξ0 and ξ1), the structure of equilibria with C∗= Y L depends on just two
+combinations of them: a = δ(¯θ−K)I
+b
+P N
+and ∆Y
+4 b
+X .
+The parameter ∆Y is the ex ante economic volatility. From (16) and (18), we see that the dictator’s
+survival probability in both the possible equilibria, ρ(∆Y ), increases in ∆Y (although this is not necessarily
+true in a multi-period model, see Section 5.2). The reason is simple: the higher is ∆Y , the more resources an
+incompetent dictator can spend on censorship, co-optation and propaganda in a given period when Y = Y H.
+Not surprisingly, this translates into a higher probability of survival—as long as the equilibrium exists.
+Parameter a captures the cost of co-optation relative to the cost of propaganda. If a increases then the
+equilibrium with censorship is more likely to exist, while the equilibrium with co-optation is less likely to
+exist. (This can be seen as we shift the curves in Figure 1 in response to change in a; indeed
+1
+1+a decreases
+in a and
+a
+2 −1
+a−1 increases in a). This result also allows comparing large and small countries. As the country
+size increases, the eﬀectiveness of propaganda per capita grows; so bP falls and a increases. This makes the
+equilibrium with co-optation deliver lower survival probability (relative to the equilibrium with censorship)
+and less likely to exist.
+22
+
+--- Sayfa 23 ---
+The comparative statics with regard to a show how the degree of organization within the elite aﬀects
+outcomes. If the elite is consolidated (N is small), then a is large, the cost of co-optation is high, and the
+equilibrium attained is more likely to be that with censorship. If the elite is divided into many groups (N is
+large) then these groups are cheaper to co-opt one by one. The dictator can use a ‘divide-and-rule’ strategy.
+As a result, the equilibrium with co-optation is more likely to obtain.
+If b
+X increases then both equilibria are more likely to exist—the public understands that censorship is
+not cost-eﬀective so a good signal, if received, is more likely to be true. If the censorship equilibrium exists,
+a higher b
+X reduces the dictator’s survival odds (see 18): his censorship becomes less eﬀective. But if the
+censorship cost rises too high, this equilibrium no longer exists and instead the equlibrium with co-optation
+will hold. Recall that in the co-optation equilibrium, the dictator’s survival probability is always higher.
+Paradoxically, an incompetent dictator is better oﬀif he has an extremely ineﬀective apparatus of censorship.
+High censorship costs may serve as a commitment device, allowing the dictator to achieve an equilibrium
+that he prefers.
+If the dictator’s expected replacement is relatively competent and revolution is not too costly (high
+(¯θ −K)), then the equilibrium with censorship is more likely and that with co-optation less likely. The
+intuition is straightforward: for members of the elite, the returns to removing the incompetent dictator are
+high, and so silencing them with rewards is expensive. As a result, the dictator prefers to use censorship.
+By the same logic, if the elite cares more about the future (higher δ), bribing it to accept an incompetent
+incumbent costs more, so censorship is favored. We do not make any assumptions on the structure of the
+future payoﬀs; in our setting, parameter δ captures both the discount rate and the returns to having a more
+competent leader in the future. In a two-period model with a stationary distribution of economic shocks, we
+would have δ = βξ1∆Y where β is the discount rate and ξ1∆Y is the diﬀerence in expected consumption
+between cases in which the leader is competent (ξ1Y H + (1 −ξ1)Y L) and in which the leader is incompetent
+(Y L).
+What happens if the cost of propaganda, bP, falls? Interestingly, a goes up and the equilibrium with co-
+optation becomes less likely (while the equilibrium with censorship becomes more likely). The lower the cost
+of propaganda, the more likely the public will get a convincing propaganda signal. This makes the signals
+of the opposition more important, and renders the informed elite harder to co-opt, increasing the odds the
+dictator will use censorship instead. For example, if an external enemy threatens the state’s security, this
+may help the incumbent to dodge blame for poor economic performance, rendering his propaganda claims
+more believable. If so, the equilibrium with co-optation could disappear, leaving only that with censorship.
+One consequence of economic modernization is to broaden the informed elite, increasing I. In the cur-
+rent setting, this makes co-opting the elite more expensive, and thus favors the equilibrium with censorship.
+However, it may be more intuitive to suppose that the cost of censorship, b
+X, rather than remaining ﬁxed,
+also increases with I. If, for instance, b
+X is proportional to I, it is easy to check that an increase in I makes
+both equilibria less likely to exist. Indeed, higher I raises the costs of both co-opting and censoring. Since
+23
+
+--- Sayfa 24 ---
+propaganda cannot substitute for censorship and rewards (propaganda is a complement rather than a substi-
+tute for both), incompetent dictators face more problems whatever they do. As suggested by “modernization
+theory,” broader access to information (or education) renders dictatorships less likely to survive.
+5.2
+Dynamics
+We consider here a multi-period version of the model. We assume that the economic and informational
+environment does not change over time (in particular, we do not allow either the dictator or the citizens to
+save or borrow). The only state variable that does evolve over time, t, is the public’s beliefs, eθt, about the
+type of the dictator at time t. Initially, the beliefs are the same as in the one-period model above eθ0 = ¯θ.
+After each period, if the dictator survives, the public rationally updates its beliefs about him. We will assume
+that the alternative regime’s quality, ¯θ −K, is constant over time. The informed citizens do not update their
+views as they learn the dictator’s type precisely in the initial period.
+We ﬁrst consider the dynamics of equilibrium with C∗= Y H. In this equilibrium, if the dictator survives
+after the ﬁrst period, the public knows with certainty that the dictator is competent. Therefore in all future
+periods eθt = 1 > ¯θ −K, so there are no protests.
+The dynamics of the equilibrium with C∗= Y L are more complicated. In this equilibrium, the competent
+dictator always survives, while the incompetent dictator survives with probability ξ0ρ(∆Y ) . Therefore, the
+expectation eθt evolves over time according to the following Bayesian updating formula:
+eθt+1 =
+eθt(1 −ξ1)
+eθt(1 −ξ1) + (1 −eθt)ξ0ρ(∆Y )
+= eθt +
+eθt(1 −eθt) (1 −ξ1 −ξ0ρ(∆Y ))
+eθt(1 −ξ1) + (1 −eθt)ξ0ρ(∆Y )
+(20)
+This implies that eθt increases over time if and only if the following condition holds
+ξ0ρ(∆Y ) ≤1 −ξ1
+(21)
+If this condition holds, the probability of survival in each particular period ξ0ρ(∆Y ) is rather low. However, if
+the dictator does survive, the next period the public raises its expectation regarding the type of the dictator.
+Conversely, if ξ0ρ(∆Y ) > 1 −ξ1, the public downgrades its beliefs every period according to (20).
+Eventually, at a certain (ﬁnite) time t = t∗the belief eθt falls below ¯θ −K, and the incompetent dictator is
+removed with probability 1.
+Proposition 3. Suppose that at time t = 0 the economy is in an equilibrium with C∗= Y L and ρ(∆Y ).
+If condition (21) holds, the incompetent dictator survives each period with probability ξ0ρ(∆Y ). His expected
+lifetime in oﬃce is therefore
+ξ0ρ(∆Y )
+1−ξ0ρ(∆Y ).
+If condition (21) does not hold, then there exists some ﬁnite time t∗> 1 such that eθt∗< ¯θ −K ≤eθt∗−1.
+In the periods t < t∗, the incompetent dictator survives each period with probability ρ(∆Y ), and at the
+24
+
+--- Sayfa 25 ---
+period t = t∗he is removed with probability 1. His expected lifetime is
+ξ0ρ(∆Y )
+1−ξ0ρ(∆Y )
+
+1 −[ξ0ρ(∆Y )]t∗
+.
+The distinction between these two cases is especially interesting given that ρ(∆Y ) is diﬀerent in the
+equilibria with co-optation and censorship.
+For the same values of parameters, there may co-exist two
+equilibria: an equilibrium with co-optation (where ρ(∆Y ) is high) and an equilibrium with censorship (where
+it is low). It may be the case that in the censorship equilibrium condition (21) holds while in the co-optation
+equilibrium it does not. In this case, the dynamics will be as follows: in the co-optation equilibrium, the
+probability of surviving in each given period is higher (conditional on a particular belief) but the beliefs
+are downgraded each period and eventually the dictator is overthrown with certainty. In the censorship
+equilibrium, per-period survival is less likely, but beliefs are always adjusted upwards, so this equilibrium
+will continue indeﬁnitely.
+The ex ante economic volatility, ∆Y , is also important. If ∆Y is low, the public knows that condition
+(21) holds, and a positive public signal, p = z = 1, implies that the probability of the dictator being
+competent is high. So if he survives for another period, his reputation improves and he is even likelier to
+last for yet another period. Conversely, if ∆Y is high, the public knows that an incompetent dictator could
+be spending a lot on propaganda and censorship. Hence, each period, the public downgrades the reputation
+of the surviving incumbent. Eventually, this reputation sinks so low that the public protests against the
+dictator even if it observes a positive signal, p = z = 1.
+The binary nature of the shocks renders the dynamics simple to analyze but it also rules out any dynamic
+eﬀect of change in beliefs on the choice of consumption. In this model, consumption is always equal either
+to Y H (if the dictator is competent and lucky) or to Y L. In section 6, we consider a model with continuous
+economic shocks. There, an increase in ¯θ results in lower consumption in equilibrium. If the expected type of
+the dictator is high, the incompetent dictator can get away with lower C. In such a setting, increases in eθt—
+i.e. a trend towards greater perceived competence in government—are accompanied by falling consumption.
+For simplicity’s sake, we have assumed away savings and investment. If the public were able to save, the
+divergence result above would be reinforced. Indeed, if the public believes that the dictator is more likely to
+be competent, the returns to investment increase, and the public invests more today, thus increasing GDP
+tomorrow. This helps the incompetent dictator tomorrow to reallocate more resources towards co-optation,
+censorship, and propaganda, thus further improving his reputation. Conversely, if the dictator’s reputation
+is low, the public invests less, GDP is not likely to grow, and the dictator will have less resources to spend
+on co-optation, censorship, and propaganda. His reputation will be downgraded even faster and he is likely
+to be removed from oﬃce sooner.
+What would happen if, instead of the public, the dictator were able to save? If the savings were observ-
+able, the dictator would use them as a credible signal of his competence. Indeed, a more competent dictator
+has a longer expected time in oﬃce and therefore a stronger incentive to save for the future relative to the
+incompetent dictator. However, in equilibrium, a (lucky) incompetent dictator would pool with the compe-
+25
+
+--- Sayfa 26 ---
+tent dictator and also save. This would decrease his budget for co-optation, censorship, and propaganda in
+the current period and therefore reduce his chance to hold on to power.
+If the savings were not observed, this eﬀect would weaken but would still exist. Suppose the dictator has
+access to frictionless ﬁnancial markets and the public has a consumption-smoothing motive. A competent
+dictator would always choose C = ¯Y1 ≡(1 −ξ1)Y L + ξ1Y H. Therefore the incompetent dictator would also
+have to deliver C = ¯Y1. However, as his expected income is only ¯Y0 ≡(1 −ξ0)Y L + ξ0Y H, each period
+his debt would increase—in expected terms—by ¯Y1 −¯Y0 = (ξ1 −ξ0)∆Y . Eventually, this debt would be
+impossible to hide (or the creditors would stop lending to the dictator).
+5.3
+Repressing the protesters
+In this section we consider an extension in which in addition to co-optation, censorship, and propaganda the
+dictator can also use repression. By allocating certain resources to the riot police and military, the dictator
+can increase the cost of regime change, K. The potential protesters do not observe this cost but can infer
+the dictator’s optimal choice.
+What is the eﬀect of adding a fourth instrument to the dictator’s repertoire? Now the dictator can choose
+to reduce spending on censorship, rewards and propaganda, B = X + R + P, and use the savings, ∆Y −B,
+to increase K. The latter matters as it directly aﬀects the parameter a, which, in turn, determines the cost
+of rewards and therefore the structure of equilibria (see Figure 3).
+Suppose that the dictator spends G on repressive capacity. He sets the level at the same time that he
+allocates the budgets for censorship, X, rewards, R, and propaganda, P. We will assume that the repression
+technology is linear, K = G/ bG, and that bG > ∆Y/¯θ; this implies that repression is suﬃciently costly so that
+the dictator cannot achieve K = ¯θ. This assumption is reasonable—indeed, if the dictator could achieve
+¯θ −K = 0, he would always do so and would never use other instruments as the public would never have an
+incentive to replace him.
+We now need to reproduce the analysis of the equilibria replacing B = ∆Y with B = ∆Y −G and a with
+a(G) ≡δI(¯θ−G/ b
+G)
+b
+P N
+.
+Consider ﬁrst the equilibrium with rewards (n = N). This equilibrium exists if ∆Y −G <
+4 b
+X
+1+a(G). The
+higher the level of repression, G, the likelier this inequality is to hold. Therefore, repression makes this
+equilibrium more likely to exist. However, given that it exists, the probability of survival ρ(∆Y −G) =
+∆Y −G
+b
+P (1+a(G)) decreases monotonically with G. This is because repression is not cost-eﬀective—it makes more
+sense to spend money on rewards and propaganda.15
+Consequently, if the equilibrium without repression exists, the dictator does not spend anything on
+repression. However, if the equilibrium without repression does not exist, the dictator is better oﬀspending
+just enough on repression to assure that this equilibrium exists. Suppose that a(0) < 2 and ∆Y >
+4 b
+X
+1+a(0).
+15This result holds because the repression technology is linear. In the non-linear case, there may be a non-trivial amount of
+repression in equilibrium.
+26
+
+--- Sayfa 27 ---
+Then without any repression, the equilibrium unravels and the dictator is removed from oﬃce with probability
+1. In this case, he would beneﬁt from choosing the minimum level of repression that satisﬁes:
+∆Y −G ≤
+4 b
+X
+1 + δI(¯θ−G/ b
+G)
+b
+P N
+.
+(22)
+This level of repression is the smaller root of the corresponding quadratic equation.16 This solution always
+exists (at G = 0, the left-hand side of (22) is greater than the right-hand side, while at G = ∆Y the left-hand
+side is zero while the right-hand side is positive).
+Given this level of repression, the dictator survives with a non-trivial probability ρ(∆Y −G) =
+4 b
+X
+b
+P (1+a(G))2 .
+The intuition is simple. The dictator understands that without any investment in repressive capacity, the
+elite is too costly to silence. So he uses some repression to make sure that the elite is less interested in regime
+change and is therefore cheaper to bribe. This allows him to free up additional resources for propaganda
+and therefore make ends meet in equilibrium.
+Now consider the equilibrium with censorship (n = 0). In this equilibrium, the probability of survival
+decreases in the level of repression: ρ(∆Y −G) = (∆Y −G)2
+4 b
+P b
+X
+. There are no incentives to spend on repressive
+capacity in this equilibrium.
+However, it may also be the case that this equilibrium does not exist without any repression. Consider
+the situation where a(0) > 2 and ∆Y > 4 b
+X
+a(0)
+2
+−1
+a(0)−1 = 2 b
+X
+
+1 −
+1
+a(0)−1
+
+. Again, by spending a certain amount
+of resources on repression, the dictator can ensure that the equilibrium does exist. This level of repression
+is the minimum G that satisﬁes:
+∆Y −G ≤2 b
+X
+
+1 −
+1
+δI
+b
+P N
+
+¯θ −G
+b
+G
+
+−1
+
+.
+This level of repression is also the smaller root of the quadratic equation.17
+Thus, spending on repression against potential protesters cannot increase the probability of survival in
+equilibrium. However, by raising the cost of revolution, some spending on repression can ensure the existence
+of equilibrium. This rationale for repression works when ∆Y is suﬃciently high. In this case, the economic
+decline is so large that the public does not believe the propaganda any more; hence the dictator prefers to
+spend money on repression.
+16The solution is G =
+b
+G b
+P N
+2δI
+
+1 +
+δI
+b
+P N
+
+¯θ + ∆Y
+b
+G
+
+−
+r
+1 +
+δI
+b
+P N
+
+¯θ + ∆Y
+b
+G
+2
+−
+4δI
+b
+G b
+P N
+
+∆Y
+
+1 + δI ¯θ
+b
+P N
+
+−4 b
+X
+!
+.
+17The solution is G =
+b
+G b
+P N
+2δI
+
+−1 +
+δI
+b
+P N
+
+¯θ + ∆Y −2 b
+X
+b
+G
+
+−
+r
+−1 +
+δI
+b
+P N
+
+¯θ + ∆Y −2 b
+X
+b
+G
+2
++
+4δI
+b
+G b
+P N
+
+∆Y + δI ¯θ
+b
+P N
+
+2 b
+X −∆Y
+!
+.
+27
+
+--- Sayfa 28 ---
+5.4
+Repressing the elites
+Would an incompetent dictator ever choose to repress members of the elite? So far, we have assumed r ≥0;
+the dictator can only reward loyal members of the elite but cannot punish disloyal ones. In this section, we
+allow for both positive and negative incentives. Suppose that at time 2 the dictator makes an oﬀer to each
+member of the elite: if the elite member agrees to be co-opted, he receives a reward r > 0; otherwise he is
+repressed and therefore suﬀers a loss of q ≥0.
+In order to be credible, the dictator has to commit Q = qI “units” of repression at time 2. We assume
+that the dictator assigns repression resources to each potential opposition member already at time 2; these
+may include personalized surveillance, investigators focused on individual elite members etc. Therefore, at
+time 2, each individual elite member understands that the dictator has the capacity to repress him and
+repression will follow if he joins the opposition.18
+For simplicity, we assume away the ﬁnancial cost of repression. However, repressing the elite involves an
+additional risk as with probability Q/ bQ the general public observes the act of repression; this reveals that
+the dictator is incompetent, and the public revolts.19 Here bQ is an exogenous parameter that measures the
+“quantity” of repression that changes the probability that the public notices the repression from zero to one.
+The equilibrium with censorship does not change.
+Indeed, in this equilibrium, using repression is
+counterproductive—the elite joins the opposition anyway and extra repression just risks revealing the dicta-
+tor’s incompetence to the public without providing any beneﬁt.
+Non-trivial investment in repression may emerge in the equilibrium with co-optation. Here, the investment
+in repression capacity allows the dictator to save on co-optation rewards.
+Indeed, the elite’s incentive
+constraint is r + q ≥δ(¯θ −K) [Π(m + 1) −Π(m)].
+The higher the potential repression, q, the less reward, r, is needed to keep the elite co-opted. However,
+more repression means a higher risk of public exposure.
+Therefore, the incompetent dictator’s problem
+becomes:
+ρ(∆Y ) =
+max
+R+X+P ≤∆Y,
+R+Q≥R∗
+P
+bP
+
+1 −Q
+bQ
+
+where ∆Y is the total budget for censorship, propaganda, and co-optation (recall that repression involves
+no cost), and where R∗= δI(¯θ −K) [Π(m + 1) −Π(m)].
+We immediately ﬁnd that X = 0, P = ∆Y −R, R = R∗−Q.
+18We can also consider a more general setting allowing for diﬀerential intensity of repression against diﬀerent elite members.
+In our simple model, however, the dictator would always choose the same level of repression, q, for each elite member in
+equilibrium.
+19A similar argument, of course, applies to co-optation and censorship. These are also never employed by a competent dictator.
+Hence, co-optation and censorship are used only to the extent that they can be concealed. We assume that co-optation and
+censorship are much easier to hide than repression. Indeed, by deﬁnition, censorship allows hiding information about the very
+fact of censorship. Similarly, if the public observes payments to the elite, the dictator can plausibly claim to be paying members
+of the elite for legitimate services.
+28
+
+--- Sayfa 29 ---
+The dictator’s optimization problem becomes:
+ρ(∆Y ) =
+max
+0≤Q≤R∗
+(∆Y −R∗+ Q)( bQ −Q)
+bP bQ
+The solution is as follows:
+(i) If ∆Y ≤bQ −R∗then Q = R∗, R = 0, and ρ(∆Y ) = (∆Y −R∗)( b
+Q−R∗)
+b
+P b
+Q
+.
+(ii) If ∆Y ∈
+
+R∗+ ( bQ −2R∗), R∗+ bQ
+
+then Q =
+b
+Q+R∗−∆Y
+2
+, R = R∗−Q > 0, and ρ(∆Y ) = ( b
+Q−R∗+∆Y )
+2
+4 b
+P b
+Q
+.
+(iii) If ∆Y ≥R∗+ bQ then Q = 0, R = R∗, and ρ(∆Y ) = ∆Y −R∗
+b
+P
+.
+In order to complete the description of the equilibrium with co-optation, we use Π(m + 1) −Π(m) =
+(1−x)Λ(P )
+N
+
+1 −Q
+b
+Q
+
+to ﬁnd R∗= δI(¯θ−K)P
+b
+P N
+
+1 −Q
+b
+Q
+
+= a bPρ(∆Y ). Finally, the strategies above are equilibrium
+strategies if and only if the dictator does not gain from deviating to R = Q = 0, using only censorship and
+propaganda. In other words, for each of the three cases above, we need to compare ρ(∆Y ) with ∆Y 2
+4 b
+P b
+X .
+The analysis above implies that if the equilibrium with co-optation existed in the original model, it will
+continue to exist as long as bQ ≥(1+a)∆Y (corresponding to the case (iii) above). If this condition does not
+hold, there will be a non-trivial amount of repression in the equilibrium with co-optation. If bQ/∆Y is very
+low then the dictator will only use repression and no rewards (case (i) above). If bQ/∆Y takes intermediate
+values, then the equilibrium with co-optation involves both rewards and the threat of repression against the
+elites: R > 0, Q > 0 (case (ii)).
+Case (iii) implies that if repression against the elites is possible but is quite likely to be observed then the
+equilibrium involves neither repression nor even the threat of repression: Q = 0. The equilibrium is exactly
+the same as in the original model.
+In the analysis above we assumed that repression of the elite is not costly and is limited only by the
+fact that it is hard to conceal. If we assume that repression is also ﬁnancially costly—and therefore has to
+be funded at the expense of the public’s consumption—the model becomes more involved but has similar
+properties. In particular, for a range of parameters, repression is not used in equilibrium: Q = 0 (as in case
+(iii) above); the higher the ﬁnancial cost of repression, the larger this range of parameters.
+5.5
+Other extensions
+Our model assumes linear technologies for propaganda, censorship, and co-optation. In particular, there are
+no non-linearities in the responses of informed citizens to the amount spent on propaganda. If the dictator
+spends less on propaganda, the informed citizens understand that their opposition messages will have a lower
+impact, and so the cost to co-opt them declines proportionally. This is why both equilibria with co-optation
+and with censorship exist when ∆Y is small (so that spending on propaganda, P ≤B ≤∆Y , is also small).
+29
+
+--- Sayfa 30 ---
+In reality, the informed citizens’ choice may be non-linear. There could be a ﬁxed cost of allowing oneself
+to be co-opted (due to the “moral cost of opportunism”) or a ﬁxed cost of joining the opposition (e.g., a
+limited jail term). A non-trivial moral cost would make the equilibrium with co-optation disappear for small
+∆Y . Indeed, if the total budget for co-optation and propaganda, B = R + P = ∆Y , is small, the dictator
+will not be able to aﬀord to compensate all members of the elite for the moral cost of co-optation.
+Meanwhile, a jail term for opposition activists might eliminate the equilibrium with censorship at low
+values of ∆Y . In this case, as the total budget for co-optation and propaganda, B = X + P = ∆Y , is low,
+spending on propaganda, P = ∆Y/2. Therefore for each member of the informed elite the beneﬁts from
+joining the opposition are low—they are proportional to the impact on the dictator’s survival probability,
+and this impact is, in turn, proportional to the level of propaganda. Hence if ∆Y is suﬃciently low, the
+beneﬁts of joining the opposition fall below the ﬁxed cost of a jail term, and the equilibrium unravels.
+We have implicitly assumed that acts of both censorship and repression cannot be directly observed by
+the public. Since competent incumbents never censor or repress, observing the dictator doing one of these
+things would immediately reveal the incumbent to be incompetent. One might think of such revelations as
+endogenously increasing the size of I. If enough people observed such behavior, this might set oﬀa spiral
+of opposition activism and protest. There are, indeed, noted cases in which the use of excessive violence by
+the regime, or the discovery of a grisly murder for which the regime was blamed, catalyzed opposition to
+it rather than intimidating the public. While it is implausible that a single act of violent repression would
+automatically undermine a dictatorship, if the model included some noise then only violence that rose above
+a certain threshold would trigger a strong public reaction.
+6
+The impact of economic shocks
+The model sketched so far allows only limited analysis of comparative statics with regard to economic shocks.
+In the setting with two output levels, if the incompetent dictator’s output decreases, he is overthrown with
+probability one, so his spending on propaganda, censorship, and co-optation are not relevant. In this section,
+we consider a setting with a continuous distribution of economic shocks, in which such shocks can have a
+non-trivial impact on co-optation, censorship and propaganda.
+6.1
+Setting
+Let us assume that Y is distributed on [Y L, Y H] with the density function f1(Y ) if the dictator is competent
+and f0(Y ) if he is incompetent. We assume that the density is positive for all Y ∈[Y L, Y H] and that
+there are no mass points.
+Higher output is more likely for the competent types and less likely for the
+incompetent types; we assume that f0(Y ) is a (weakly) monotonically decreasing function and f1(Y ) is a
+(weakly) monotonically increasing function.
+30
+
+--- Sayfa 31 ---
+As the informed citizens observe both the output and the type of the dictator, the game between the
+dictator and the informed citizens remains the same. In this game, there is no asymmetric information.
+Therefore, the structure of equilibria is similar to that in the previous model: there can be equilbria with
+co-optation (n = N) and with censorship (n = 0). We will denote by B(Y ) the total budget for censorship,
+co-optation and propaganda as a function of output (in the model with binary output, B(Y H) = ∆Y and
+B(Y L) would not matter as the dictator was overthrown anyway).
+We assume that a ≥2 and b
+X is suﬃciently large so that the existence conditions hold: ∆Y < 4 b
+X
+1
+a+1
+and ∆Y < 4 b
+X
+a
+2 −1
+a−1 for both equilibrium with co-optation and equilibrium with censorship.
+The model with continuous output has no equilibrium in pure strategies. We therefore consider equilibria
+in mixed strategies. In such equilibria, the general public chooses a probability of supporting the dictator as
+a function of the observed consumption level γ(C) ∈[0, 1] if p = z = 1. If p = 0 or z = 0, the public knows
+with certainty that the dictator is incompetent and protests with probability 1.
+In equilibrium, the public’s choice of γ(C) is optimal:
+γ(C) = 0
+if
+E(θ|C, p = z = 1) ≤¯θ −K,
+0 < γ(C) < 1
+if
+E(θ|C, p = z = 1) = ¯θ −K,
+γ(C) = 1
+if
+E(θ|C, p = z = 1) ≥¯θ −K.
+As in the model with binary output, it is easy to show that the competent dictator always chooses
+C1(Y ) = Y .
+The incompetent dictator faces the following trade-oﬀ: if he spends more on propaganda, co-optation
+and censorship, the probability is higher that the public will receive the positive signal, p = z = 1; however,
+as this spending comes at the cost of lower consumption C, it implies a lower probability of survival given
+the positive signal. His choice of consumption level, C0(Y ), solves the following optimization problem:
+C0(Y ) = arg max
+0≤C≤Y γ(C)ρ(Y −C).
+(23)
+6.2
+Equilibrium
+Lemma 1. If the distribution density f1(·) does not have mass points, there is no equilibrium in pure
+strategies. The equilibrium in mixed strategies has the following properties:
+(i) The public’s strategy, γ(C), is weakly monotonic. If γ(C) < 1, it is strictly monotonic. The incompetent
+dictator’s strategy, C0(Y ), is also strictly monotonic.
+(ii) There exists a C∗∗∈(Y L, Y H] such that γ(C) = 1 for all C ≥C∗∗;
+(iii) γ(Y L) = 0;
+31
+
+--- Sayfa 32 ---
+(iv) 0 < γ(C) < 1 for all C ∈(Y L, C∗∗).
+(v) C0(Y ) is a diﬀerentiable, invertible function. In equilibrium, its ﬁrst derivative equals
+C′
+0(Y ) = f0(Y )ρ(Y −C0(Y ))
+f1(C0(Y ))
+(¯θ −K)(1 −¯θ)
+(1 −¯θ + K)¯θ .
+(24)
+(vi) In the worst economic outcome, Y = Y L, the incompetent dictator spends all resources on consumption:
+C0(Y L) = Y L.
+(25)
+(vii) Total spending on co-optation, censorship and propaganda, B(Y ) = Y −C0(Y ), monotonically increases
+with Y .
+The Lemma implies that both γ(C0(Y )) and B(Y ) increase with Y ; therefore the higher the realization
+of the economic shock, Y , the higher the probability of survival, γ(C0(Y ))ρ(B(Y )).
+In order to ﬁnd the equilibrium, we need to solve the diﬀerential equation (24) given the initial condition
+(25). To complete the description of the equlibrium, we should ﬁnd γ(C) using the ﬁrst-order condition
+from (23), which yields the following diﬀerential equation: γ′(C0(Y )) = γ(C0(Y )) ρ′(Y −C0(Y ))
+ρ(Y −C0(Y )) . This equation
+determines γ(·) up to a scalar multiplier. To ﬁnd this multiplier, we need to use the boundary condition:
+γ(C0(Y H)) = 1.
+6.3
+Comparative statics
+In this section, we carry out the comparative statics analysis with regard to the parameters of the model.
+We also compare the behavior of an incompetent dictator in an equilibrium with co-optation with the one
+in an equilibrium with censorship.
+Proposition 4. In either the equilibrium with co-optation or the equilibrium with censorship, for given
+distributions f0(·) and f1(·), and for a given realization of the economic shock, Y , an incompetent dictator
+spends more on censorship, co-optation and propaganda and less on consumption if K increases, bP increases,
+b
+X increases (in the equilibrium with censorship), δI/N increases (in the equilibrium with co-optation), or if
+both ¯θ and K increase, holding (¯θ −K) constant.
+The intuition for the comparative statics is straightforward. If bP increases, a dollar spent on propaganda
+is less eﬀective than before at rendering a false message convincing.
+The public therefore increases its
+estimate of the incumbent’s competence by more when it receives a convincing message, p = z = 1, even
+if the consumption level is somewhat lower. Understanding this, an incompetent dictator has an incentive
+to provide a lower level of consumption and spend more on increasing the probability of a positive signal,
+p = z = 1. Similar logic applies for the cost of censorship, b
+X, (in the equilibrium with censorship), and for
+32
+
+--- Sayfa 33 ---
+the parameter δI/N (that determines the size of rewards in the equilibrium with co-optation). An increase
+in K lowers the expected value of revolution; hence the public will accept a lower consumption level from
+the incumbent.
+Finally consider the impact of an increase in the expected quality of dictators, ¯θ, holding the quality of
+the alternative regime ¯θ −K constant. The higher is ¯θ, the stronger is the public’s expectation that the
+incumbent is competent, and so he can aﬀord to oﬀer a lower level of consumption. This result is especially
+important for the analysis of the dynamics. Suppose that as in section 5.2, if the dictator is lucky enough
+to survive, his reputation, ¯θ, increases next period; and that the expected quality of the alternative, ¯θ −K,
+does not change. In this case, the equilibrium trajectory involves the surviving dictator’s reputation growing
+over time and the consumption level declining over time.
+We should emphasize that the comparative statics results in Proposition 4 are very diﬀerent from those
+that a naive ‘partial equilibrium’ model would produce. For example, if we did not take into account the
+endogenous equilibrium inference of the public, an increase in the cost of propaganda should result in lower
+spending on propaganda and higher spending on consumption. However, as the public is rational and can
+decipher this logic, the ‘general equilibrium’ result is that a higher cost of propaganda results in lower
+consumption and higher spending on propaganda.
+Equation (24) also allows us to compare the reaction to economic shocks in equilibria with co-optation
+(where ρ(Y −C0(Y )) is proportional to Y −C0(Y )) and equilibria with censorship (where ρ(Y −C0(Y ))
+is proportional to (Y −C0(Y ))2). Consider two countries, with the same ex ante distributions of economic
+shocks, f0(·) and f1(·). Suppose that we observe the same output eY > Y L and the same consumption eC in
+both countries, but that the ﬁrst country is in the equilibrium with co-optation, while the second one is in the
+equilibrium with censorship. Our theory predicts that if these countries are hit by similar economic shocks
+(e.g., Y declines to a certain level ¯Y ∈(Y L, eY )), then the ﬁrst country will respond with a smaller decrease
+in consumption (and a greater decrease in the total budget for co-optation, censorship and propaganda)
+than the second country. In other words, regimes with censorship react to negative economic shocks with
+a greater reallocation of resources towards censorship, co-optation and propaganda than do regimes with
+co-optation (which reallocate relatively more resources to consumption).
+Proposition 5. Consider an equilibrium where C0(eY ) = eC. For any ¯Y ∈(Y L, eY ), the decrease in con-
+sumption, C0(eY ) −C0( ¯Y ), is smaller if the economy is in the equilibrium with co-optation (both before and
+after the decline in Y ) than in the case in which it is in the equilibrium with censorship (both before and
+after the decline in Y ).
+The intuition for this result is as follows. In the equilibrium with censorship, a given economic deteriora-
+tion decreases citizens’ belief in the dictator’s competence—by more than the same economic deterioration
+does in the equilibrium with co-optation (see Figure 3). Thus, in the censorship equilibrium, the dictator
+has to spend relatively more on censorship and propaganda to oﬀset the induced loss of public conﬁdence
+33
+
+--- Sayfa 34 ---
+when the economy declines.
+6.4
+Example
+To illustrate the propositions stated above, we use a simple example. Let us assume that Y is distributed
+on [0, ∆Y ].20 The distribution is uniform for the bad type: f0(Y ) = 1/∆Y and has linear increasing density
+for the good type f1(Y ) = 2Y/(∆Y )2.
+Let us assume that ∆Y is suﬃciently small so that the equilibrium existence conditions (15) are satisﬁed
+(indeed, in this case for all realizations of Y the budget for co-optation, censorship and propaganda, B(Y ) ≤
+Y ≤∆Y , also satisﬁes these conditions).
+We shall solve (24) for the equilibrium with co-optation (n = N) and then for the equilibrium with
+censorship (n = 0). In the equilibrium with co-optation, ρ(B) =
+B
+b
+P (1+a). Using the boundary condition (25)
+(which takes the form C0(0) = 0), we immediately ﬁnd a solution for (24):
+C0(Y ) = ζY ;
+γ(C) =
+
+C
+ζ∆Y
+
+ζ
+1−ζ
+.
+(26)
+where ζ ∈(0, 1) is given by
+ζ =
+r
+1 + 8 b
+P (1+a)
+∆Y
+(1−¯θ+K)¯θ
+(¯θ−K)(1−¯θ) −1
+4 b
+P (1+a)
+∆Y
+(1−¯θ+K)¯θ
+(¯θ−K)(1−¯θ)
+.
+The solution is therefore simple: if output decreases, the incompetent dictator proportionally decreases
+total spending on co-optation and propaganda B(Y ) = (1 −ζ)Y . Moreover, as follows from the Proof of
+Proposition 2, spending on co-optation and spending on propaganda also change proportionally: R(Y ) =
+a
+a+1(1 −ζ)Y and P(Y ) =
+1
+a+1(1 −ζ)Y .
+Now let us consider the equilibrium with censorship. In this case, ρ(B) =
+B2
+4 b
+P b
+X . Therefore, (24) turns
+into a non-linear diﬀerential equation that has no analytical solution. However, we can approximate the
+solution in the neighborhood of Y = 0:21
+C =
+s
+∆Y
+12 bP b
+X
+(1 −¯θ)(¯θ −K)
+¯θ(1 −¯θ + K) Y
+3
+2 + o
+
+Y
+3
+2
+
+.
+(27)
+This means that in the equilibrium with censorship, the incompetent dictator spends relatively more on
+censorship and propaganda as the economy worsens: B(Y )/Y increases as Y falls to zero. In the limit Y →0,
+the share of output spent on censorship and propaganda actually reaches 100 percent: limY →0
+B(Y )
+Y
+= 1.
+Conversely, as output grows, the share spent on consumption increases: C0(Y )/Y is increasing with Y . The
+20The lower bound of zero is a normalization to the lowest level of GDP above which income can be diverted to propaganda,
+censorship, and co-optation. The analysis for any other interval would be the same but would involve additional notation.
+21Here o(·) denotes any function such that limY →0
+o
+
+Y
+3
+2
+
+Y
+3
+2
+= 0.
+34
+
+--- Sayfa 35 ---
+Figure 4: Consumption, C, and spending on censorship, X, co-optation, R, and propaganda, P, as a function
+of the economic shock Y .
+amounts spent on censorship and propaganda in this equilibrium are equal to each other X = P = B(Y )/2.
+In proportion to total income, Y , their shares therefore also increase as output falls.
+In Figure 4 we present the numerical solution and show that these properties hold for the whole range
+of Y and not just in the neigborhood of Y = 0.
+The example also illustrates Proposition 4. Indeed, in the equilibrium with co-optation, ζ increases in
+∆Y
+b
+P (1+a)
+(1−¯θ)(¯θ−K)
+¯θ(1−¯θ+K) . And it is easy to show, both analytically and numerically, that in the equilibrium with
+censorship, for any given Y , consumption C0(Y ) increases in ∆Y
+b
+P b
+X
+(1−¯θ)(¯θ−K)
+¯θ(1−¯θ+K) .
+7
+Conclusions
+The totalitarian tyrants of the past used mass violence, ideological indoctrination, and closed borders to
+monopolize power. In a world of economic interdependence and modern communications technology, many
+authoritarian leaders choose a diﬀerent strategy—that of manipulating information to convince the public
+that they are doing a good job. We model the tradeoﬀs this generates, as dictators choose from a repertoire
+of techniques, and citizens exploit the signals inherent in the dictator’s actions to infer his type.
+We show that, in this setup, incompetent leaders can survive by manipulating the information environ-
+ment so long as economic shocks are not too large. In such equilibria, no violent repression—or at most a
+very little—is needed. Over time, an incompetent leader who survives may acquire a reputation for compe-
+tence by virtue of rational Bayesian updating on the part of the public. Major economic downturns destroy
+such equilibria, exposing the leader’s incompetence, and generating protests that can only be suppressed by
+force.
+The coordination problem of members of the informed elite leads to multiple equilibria, in one of which
+the dictator focuses on co-optation and in the other of which he relies instead on censorship. Co-optation
+and censorship are substitutes—both prevent the elite from publicizing an incumbent’s failures—but state
+propaganda is complementary to both.
+The multiplicity of equilibria may explain why we observe very
+35
+
+--- Sayfa 36 ---
+diﬀerent levels of censorship and of patronage in otherwise similar regimes.
+We also show that a dictator focused on co-optation reacts to economic shocks diﬀerently from one who
+is commited to censorship. The latter is more likely to boost propaganda and censorship in response to
+an economic downturn than the former. Although we do not explicitly model the use of institutions such
+as legislatures, parties, and elections, it is clear that a dictator who succeeds in convincing the public that
+he is competent can enjoy the beneﬁts of such “democratic” elements without fear of losing power. Such
+institutions—which are quite compatible with a strategy of co-optation of the elite—can be used to amplify
+the (accurate) perception of the dictator’s popularity.
+Our model also explains why in information-based dictatorships violence either is a last resort when all
+else has failed, or is used sparingly when it is possible to conceal it. The reason is that the competent
+dictators do not need to use repression. Hence, reverting to repression immediately reveals the dictator’s
+incompetence to the public and ultimately results in his downfall. This is why dictators often ﬁnd or create
+some non-political pretext to imprison leaders of the political opposition. This also explains why dictators
+who arrange for the murder of political opponents usually go to great lengths to deny responsibility. If the
+goal were merely to intimidate the opposition, then such denials would be baﬄing—an open acknowledgement
+would have a far greater deterrent eﬀect.22
+The survival strategies we formalize are more compatible with a modernized society than totalitarian ones
+or those of monarchs who rely on traditional legitimacy. Yet, we also show how modernization ultimately
+undermines such informational equilibria. As education and information spread to a broader segment of
+the population, it becomes harder to control how this informed elite communicates with the masses—either
+through co-optation or through censorship.
+22This also explains why those—usually in the security services—who stand to beneﬁt from a regime based on raw repression
+may seek to compromise a dictator by committing acts of violence for which he will be blamed. The true goal in such cases
+may be to force the dictator to switch from an information-based survival strategy to one based on sheer force. It also suggests
+why an incompetent security apparatus can be so dangerous for a dictator. After troops shot the Philippine opposition leader
+Benigno Aquino on the tarmac of Manila Airport, it was impossible for President Marcos to deny complicity. This murder
+ignited the “People’s Power” movement that eventually prompted a split within Marcos’s military support group and the
+collapse of his regime.
+36
+
+--- Sayfa 37 ---
+References
+Acemoglu, Daron and James A. Robinson. 2006. Economic Origins of Dictatorship and Democracy. New
+York: Cambridge University Press.
+Barry, Ellen. 2011. “Before Voting, Russian Leaders Go to the Polls.” New York Times, August 17,
+p.A1.
+Beck,Thorsten, George Clarke, Alberto Groﬀ, Philip Keefer, and Patrick Walsh, 2001. “New tools in
+comparative political economy: The Database of Political Institutions.”
+World Bank Economic Review
+15(1), 165-176.
+Bennett, Philip, and Moises Naim. 2015. “21st Century Censorship: Governments around the world
+are using stealthy strategies to manipulate the media.” Columbia Journalism Review January/February,
+http://www.cjr.org/cover story/21st century censorship.php.
+Besley, Timothy, and Andrea Prat. 2006. “Handcuﬀs for the Grabbing Hand? Media Capture and
+Government Accountability.” American Economic Review 96(3): 720-736.
+Blanton, Shannon Lindsey, and Robert G. Blanton. 2007. “What attracts foreign investors? An exami-
+nation of human rights and foreign direct investment.” Journal of Politics 69(1): 143-155.
+Boix, C., and Svolik, M. W. (2013). The Foundations of Limited Authoritarian Government: Institutions,
+Commitment, and Power-Sharing in Dictatorships. The Journal of Politics, 75(02), 300-316.
+Bueno de Mesquita, Bruce, and Alastair Smith. 2010. “Leader survival, revolutions, and the nature of
+government ﬁnance.” American Journal of Political Science 54(4): 936-950.
+Bueno de Mesquita, Bruce, Alastair Smith, Randolph M. Siverson, and James D. Morrow. 2003. The
+Logic of Political Survival. Cambridge, MA: MIT Press.
+Cantoni, Davide, Yuyu Chen, David Y. Yang, Noam Yuchtman, and Y. Jane Zhang. 2014. “Curriculum
+and Ideology.” Mimeo, Stanford University.
+Chen, Jidong, and Yiqing Xu. 2015. “Information Manipulation and Reform in Authoritarian Regimes.”
+Forthcoming in Political Science Research and Methods.
+Dal Bo, Ernesto, Dal Bo, Pedro, and Rafael di Tella. 2006. “Plata o Plomo?: Bribe and Punishment in
+a Theory of Political Inﬂuence.” American Political Science Review 100(1), pp. 41-53.
+Dagaev, Dmitry and Lamberova, Natalia and Sobolev, Anton and Sonin, Konstantin, 2013. “Technologi-
+cal Foundations of Political Instability,” CEPR Discussion Paper 9787, Centre for Economic Policy Research,
+London.
+Davenport, Christian. 2007. “State Repression and Politicial Order’, Annual Review of Political Science,
+10: 1-23.
+Dobson, William J. 2012. The Dictator’s Learning Curve: Inside the Global Battle for Democracy. New
+York: Anchor Books.
+37
+
+--- Sayfa 38 ---
+Edmond, Chris.
+2013.
+“Information Manipulation, Coordination, and Regime Change.”
+Review of
+Economic Studies 80: 1422-1458.
+Egorov, G., Guriev, S., and Sonin, K. 2009. “Why resource-poor dictators allow freer media: a theory
+and evidence from panel data.” American Political Science Review, 103(04), 645-668.
+Egorov, G., and Sonin, K. 2011. “Dictators And Their Viziers: Endogenizing The Loyalty-Competence
+Trade-Oﬀ.” Journal of the European Economic Association, 9(5), 903-930.
+Esarey, A. 2005. “Cornering the market: state strategies for controlling China’s commercial media.”
+Asian Perspective 29(4): 37-83.
+Francisco, Ronald A. 2005. “The dictator’s dilemma.” In Repression and mobilization, eds. Christian
+Davenport, Hank Johnston, Carol McClurg Mueller. Minneapolis, MN: University of Minnesota Press, 58-81.
+Frantz, Erica, and Andrea Kendall-Taylor. 2014. “A dictator’s toolkit: Understanding how co-optation
+aﬀects repression in autocracies,” Journal of Peace Research, 51(3), 332-346
+Fielding, D., and Shortland, A. 2005. “How does political violence aﬀect conﬁdence in a local currency?
+Evidence from Egypt.” Journal of International Development, 17(7), 841-866.
+Freedom House. 2013. Freedom on the Net: 2013, Washington, DC: Freedom House.
+Gandhi, Jennifer. 2008. Political Institutions under Dictatorship. New York: Cambridge University
+Press.
+Gandhi, Jennifer and Ellen Lust-Okar. 2009. “Elections under Authoritarianism.” Annual Review of
+Political Science 12: 403-22.
+Geddes, Barbara. 1999. “What do we know about democratization after twenty years?” Annual review
+of political science 2(1): 115-144.
+Gehlbach, Scott and Philip Keefer. 2011. “Investment Without Democracy: Ruling-Party Institutional-
+ization and Credible Commitment in Autocracies.” Journal of Comparative Economics 39(2):123-139.
+Glaeser, Edward L., Giacomo Ponzetto, and Andrei Shleifer. 2007. “Why does democracy need educa-
+tion?” Journal of Economic Growth 12: 77-99.
+Guriev, Sergei, and Daniel Treisman. 2015. “How Modern Dictators Survive: An Informational Theory
+of the New Authoritarianism.” NBER Working Paper No. 21136, National Bureau of Economic Research,
+Cambridge, MA.
+Hassid, Jonathan, Controlling the Chinese Media: An Uncertain Business (June, 30 2008).
+Univer-
+sity of California, Reprinted from Asian Survey, Vol. 48, No. 3, pp. 414-30, 2008. Available at SSRN:
+http://ssrn.com/abstract=1153714
+King, Gary, Jennifer Pan, and Margaret E. Roberts. 2013. “How censorship in China allows government
+criticism but silences collective expression.” American Political Science Review 107(2): 326-343.
+Kricheli, Ruth, Yair Livne, and Beatriz Magaloni. 2011. “Taking to the Streets: Theory and Evidence
+on Protests Under Authoritarianism.” Stanford University: unpublished.
+38
+
+--- Sayfa 39 ---
+Kuran, Timur. 1991. “Now Out of Never: The Element of Surprise in the East European Revolution of
+1989.” World Politics, 44(1): 7-48.
+Levitsky, S., and Way, L. A. 2010. Competitive authoritarianism: hybrid regimes after the cold war.
+New York: Cambridge University Press.
+Little, Andrew. 2014. “Communication Technology and Protest.” Mimeo, Cornell.
+Lohmann, Susanne.
+1994.
+“Dynamics of Informational Cascades: The Monday Demonstrations in
+Leipzig, East Germany, 1989-91”, World Politics, 47(1): 42-101.
+Lorentzen, P. (2014). China’s Strategic Censorship. American Journal of Political Science, 58(2), 402-414.
+McMillan, J., and Zoido, P. 2004. “How to subvert democracy: Montesinos in Peru.” Journal of Economic
+Perspectives 18(4): 69-92.
+Miller, M. K. (2015). “Elections, information, and policy responsiveness in autocratic regimes.” Com-
+parative Political Studies, 48(6): 691-727.
+Myerson, Roger B. 2008. “The Autocrat’s Credibility Problem and Foundations of the Constitutional
+State.” American Political Science Review 102(1):125-139.
+Odegard, Peter H. 1935. “Propaganda and Dictatorship,” in Guy Stanton Ford, ed., Dictatorship in the
+Modern World, Minneapolis, MN: University of Minnesota Press, pp.231-270.
+Olson, Mancur. 1993. “Dictatorship, Democracy and Development.” American Political Science Review
+87 (Sept.): 567-76.
+Rodan, G. 1998. “The Internet and political control in Singapore.” Political Science Quarterly, 113(1):
+63-89.
+Roht-Arriaza, Naomi. 2005. The Pinochet Eﬀect: Transnational Justice in the Age of Human Rights.
+Philadelphia: University of Pennsylvania Press.
+Shadmehr, Mehdi, and Dan Bernhardt. 2015.“State Censorship,” American Economic Journal: Microe-
+conomics 2015, 7(2): 280-307.
+Simon, Joel.
+2015.
+The New Censorship: Inside the global battle for media freedom.
+New York:
+Columbia University Press.
+Svolik, Milan W. 2009. “Power sharing and leadership dynamics in authoritarian regimes.” American
+Journal of Political Science 53(2): 477-494.
+Svolik, Milan W. 2012. The Politics of Authoritarian Rule. New York: Cambridge University Press.
+Treisman, Daniel 2014.
+“Income, Democracy, and Leader Turnover.”
+American Journal of Political
+Science, doi: 10.1111/ajps.12135.
+Ulfelder, Jay and Valentino, Benjamin, Assessing Risks of State-Sponsored Mass Killing (February 1,
+2008). Available at SSRN: http://ssrn.com/abstract=1703426 or http://dx.doi.org/10.2139/ssrn.1703426
+Willis, Michael J. 2014. “Evolution not Revolution? Morocco and the Arab Spring.” In Larbi Sadiki,
+ed., Routledge Handbook of the Arab Spring: Rethinking Democratization, New York: Routledge, 435-450.
+39
+
+--- Sayfa 40 ---
+Wintrobe, Ronald. 1990. “The Tinpot and the Totalitarian: An Economic Theory of Dictatorship.” The
+American Political Science Review, Vol. 84, No. 3 (Sep.), pp. 849-872.
+Wintrobe, Robert. 2007. “Dictatorship: Analytical Approaches.” In Carles Boix and Susan Stokes, eds.
+Oxford Handbook of Comparative Politics. New York: Oxford University Press: ch. 16.
+40
+
+--- Sayfa 41 ---
+Appendix: Proofs
+Proof of Proposition 1.
+Let us calculate the expected value of the type of the dictator that the public
+infers when observing p = z = 1 and C = Y L. This outcome is possible if the dictator is competent and
+unlucky (Y = Y L which happens with probability ¯θ(1 −ξ1)) or if the dictator is incompetent but lucky
+Y = Y H. In the latter case, the incompetent dictator spends ∆Y on censorship, repression and propaganda.
+Let us calculate the probability of the incompetent dictator having p = z = 1 and C = Y L. The informed
+citizens understand that the incompetent dictator is overthrown with probability 1. Therefore they expect
+Π(n) = 0 for every n = 0, ..., N. Hence Π(m + 1) −Π(m) = 0, so that r∗= R∗= 0; the informed citizens
+join the pro-regime elite even for an inﬁnitesimal reward. Since all elite groups are co-opted, there is no
+need for censorship, x = 0. The dictator spends all his resources on propaganda, P = ∆Y . Therefore
+ρ(∆Y ) = ∆Y/ bP. Consequently, the probability of the incompetent dictator having p = z = 1 and C = Y L
+is (1 −¯θ)ξ0∆Y/ bP.
+The equilibrium exists whenever
+E(θ|C = Y L, p = z = 1) =
+¯θ(1 −ξ1)
+¯θ(1 −ξ1) + (1 −¯θ)ξ0ρ(∆Y ) ≤¯θ −K
+which can be rewritten as (12).
+Notice that ρ(∆Y ) = ∆Y/ bP is the maximum probability for the incompetent dictator to have p = z = 1
+and C = Y L; in this equilibrium the incompetent dictator is overthrown anyway so he is indiﬀerent whether
+to maximize this probability or to choose another strategy. However, if he spends less on propaganda and
+C > Y L, this equilibrium does not exist. Also, if instead of spending all ∆Y on propaganda, the dictator
+spends part of it on censorship or co-optation—the probability of having p = z = 1 is lower ρ(∆Y ). Hence.
+the condition above may not hold and the equilibrium no longer exists. ■
+Proof of Proposition 2.
+Let us ﬁrst calculate Π(m + 1) −Π(m). Expression (7) implies
+Π(m + 1) −Π(m) = 1
+N E [(1 −x)Λ(P)1{C ≥C∗}] .
+(28)
+Two cases are possible. First, no opposition, n = N. In this case, x = 0, Λ(P) =
+∆Y −R∗
+b
+P
+. Hence,
+Π(m + 1) −Π(m) = ∆Y −R∗
+b
+P N
+.
+Second, all the informed citizens join the opposition, n = 0. In this case, x = ∆Y/(2 b
+X) and Λ(P) =
+∆Y/(2 bP). Now Π(m + 1) −Π(m) =
+
+1 −∆Y
+2 b
+X
+
+∆Y
+2 b
+P N .
+1. Equilibrium with co-optation. Let us ﬁrst consider the case in which n = N. In this case, Π(m + 1) −
+Π(m) = ∆Y −R∗
+b
+P N
+. Substituting R∗= r∗I and r∗from (3), we ﬁnd an equation for R∗:
+R∗= r∗I = δ(¯θ −K)I [Π(m + 1) −Π(m)] = a(∆Y −R∗)
+41
+
+--- Sayfa 42 ---
+Solving for R∗= ∆Y
+a
+a+1 and substituting into (10), we ﬁnd the following condition:
+a
+a+1 <
+
+1 −∆Y
+4 b
+X
+
+.
+Therefore, this equilibrium exists only if ∆Y is suﬃciently low
+∆Y < 4 b
+X
+1
+1 + a
+(29)
+Finally, we need to check whether ρ(∆Y ) = ∆Y −R∗
+b
+P
+=
+∆Y
+b
+P (1+a) satisﬁes the condition (14). This gives us
+the condition (16).
+2. Equilibrium with censorship and no co-optation, n = 0. In this case, R = 0, and [Π(m + 1) −Π(m)] =
+(1−x)P
+b
+P N
+=
+
+1 −∆Y
+2 b
+X
+
+∆Y
+2 b
+P N . Hence, the equation for R∗is
+R∗= δ(¯θ −K)I
+
+1 −∆Y
+2 b
+X
+ ∆Y
+2 bPN
+= a∆Y
+1
+2 −∆Y
+4 b
+X
+
+This equilibrium exists whenever the condition (10) must be violated. We therefore derive
+a
+1
+2 −∆Y
+4 b
+X
+
+>
+
+1 −∆Y
+4 b
+X
+
+.
+Since R∗must be non-negative, the left-hand side in the inequality above is non-negative; this also implies
+that the right-hand side is also non-negative: (1 −∆Y
+4 b
+X > 1 −∆Y
+2 b
+X ≥0). Hence this equilibrium exists only if
+a > 2 and if ∆Y < 4 b
+X
+a
+2 −1
+a−1 .
+This equilibrium exists if ρ(∆Y ) = (∆Y )2
+4 b
+P b
+X satisﬁes the condition (14); this is the case whenever (18) holds.
+Asymmetric equilibria.
+In this paper, we only consider symmetric equilibria in pure strategies.
+In
+principle, there can also be an asymmetric equilibrium where the elites are indiﬀerent on whether to join the
+opposition. Suppose that precisely ˜m elite groups support the regime and N −˜m join the opposition. The
+budget spent on rewards is
+˜mr∗I/N = δ(¯θ −K) [Π( ˜m + 1) −Π( ˜m)] ˜mI/N = δ(¯θ −K) ˜mI (1 −x)P
+bPN
+This equilibrium can only exist if the condition (10) holds as equality
+δ(¯θ −K) ˜mI (1 −x)P
+bPN
+= ∆Y
+
+1 −∆Y
+4 b
+X
+
+.
+The dictator solves
+max
+X+P ≤∆Y −δ(¯θ−K) ˜mI (1−x)P
+b
+P N
+
+1 −N −˜m
+N
+
+1 −
+X
+N−˜m
+N
+b
+X
+!!
+P
+bP
+=
+max
+X+P ≤∆Y −δ(¯θ−K) ˜mI (1−x)P
+b
+P N
+
+˜m
+N b
+X + X
+
+P
+bP b
+X
+This equilibrium is unstable. Suppose that one of the ˜m co-opted elite groups decides to deviate and join
+the opposition. In this case, the dictator will spend less on co-optation and more on propaganda. This will
+42
+
+--- Sayfa 43 ---
+immediately increase the informed citizens’ returns to joining the opposition in equilibrium (a higher level
+of propaganda will increase Π(m + 1) −Π(m), so the remaining ˜m −1 will now strictly prefer joining the
+opposition. ■
+Proof of Lemma 1.
+Non-existence of equilibrium in pure strategies. Suppose there is an equilibrium in
+pure strategies. In this equilibrium, if p = z = 1, the public protests with probability 1 if C < C∗and
+does not protest with probability 1 if C ≥C∗. Then there exists a certain threshold, Y ∗, such that the
+incompetent dictators with Y ≥Y ∗choose C0(Y ) = C∗and survive with probability ρ(Y −C∗). Indeed,
+if an incompetent dictator with Y1 chooses C = C∗, then any luckier incompetent dictator with Y2 > Y1
+will also choose C = C∗and spend the additional resources (Y2 −C∗) −(Y1 −C∗)Y2 −Y1 on censorship,
+co-optation and propaganda. There is no rationale for the dictator with Y2 to increase consumption as it
+does not decrease the probability of being overthrown.
+The competent dictators still choose C = Y ; there is no incentive for them to spend any money on
+censorship, co-optation and propaganda.
+Now let us calculate the expected type of the dictator, given observed consumption. If the public observes
+C∗and p = z = 1, it knows that this may be the case if the dictator is competent and Y = C∗(which
+happens with inﬁnitesimal probability, f1(C∗)dY ), or if the dictator is incompetent and Y ≥Y ∗(which
+happens with probability
+R Y H
+Y ∗ρ(Y −C∗)f0(Y )dY ). Unless there is a mass point of competent dictators at
+Y = C∗, the inferred probability that the dictator is good is actually zero—and the public strictly prefers
+to overthrow him. Therefore this is not an equilibrium.
+Properties of the equilibrium in mixed strategies.
+(i) First, let us show that γ(·) is a monotonically increasing function. Suppose there are two values of
+consumption, C1 and C2, such that C1 < C2 but γ(C1) > γ(C2). If this is the case, no incompetent
+dictator will choose C = C2. Indeed, if a dictator chooses C2, he can do better by choosing C = C1,
+assuring him a higher γ(C) and higher ρ (by spending additional C2−C1 on propaganda, censorship and
+co-optation). Hence, if the public observes C = C2, it knows that the dictator cannot be incompetent.
+Therefore, γ(C2) must be equal to 1. But this is impossible since γ(C2) < γ(C1) ≤1.
+Similarly, we can prove that γ(C1) = γ(C2) is only possible if both are equal to 1.
+The fact that C0(Y ) is monotonic directly follows from the monotonic comparative statics of the
+optimization problem (23). As ρ(·) is a linear or quadratic function of Y −C (depending on whether
+the equilibrium is the one with co-optation or the one with censorship, respectively), it is easy to show
+that the solution of the optimization problem increases with Y . Moreover, if γ(C) < 1, the function
+C0(Y ) strictly increases with Y .
+(ii) If C = Y H and p = z = 1, the public understands that the dictator is competent with probability 1
+(if the dictator is incompetent, he needs to spend a non-trivial amount on propaganda to send a signal
+43
+
+--- Sayfa 44 ---
+p = 1 so he cannot ensure C = Y H). Therefore, γ(Y H) = 1.
+Let us denote as C∗∗the choice of consumption by the incompetent dictator with the highest Y = Y H,
+i.e.
+C∗∗= C0(Y H).
+Then, by deﬁnition, for all C ≥C∗∗, the public infers that the dictator is
+competent with probability 1, so that γ(C) must be equal to 1.
+(iii) Now we shall prove that γ(Y L) must be equal to zero. If this is not the case, then there exists a
+certain eY > Y L such that for an incompetent ruler with this eY it is optimal to spend eY −Y L on
+censorship, co-optation and propaganda.
+(Indeed, the incompetent dictator with Y = Y L cannot
+provide consumption C = Y L and ensure a positive signal p = z = 1). Let us now consider the choices
+of incompetent dictators with Y ∈(Y L, eY ). Monotonicity of C0(Y ) implies that they should choose
+C0(Y ) ≤Y L. If they choose C < Y L, they are ousted with probability 1. Therefore they choose
+C = Y L, as this choice gives a positive probability, γ(Y L)ρ(Y −Y L), to stay in oﬃce. Therefore, if
+the public observes C = Y L and p = z = 1, it infers the dictator may be competent with Y = Y L or
+he may be incompetent with Y ∈(Y L, eY ). Since there are no mass points, the conditional probability
+of the dictator being competent is inﬁnitesimal. Therefore, E(θ|C = Y L, p = z = 1) = 0, so γ(Y L)
+cannot be positive.
+(iv) Now let us prove that there cannot be an equilibrium in which γ(C) = 0 for C > Y L. If it were the
+case, there would be a certain eC > Y L such that γ(C) = 0 for all C ∈[Y L, eC] and γ(C) > 0 for C > eC.
+In this case all incompetent dictators with Y > eC would choose C0(Y ) > eC as this would give them
+a positive probability to stay in oﬃce while C ≤eC guarantees losing oﬃce with probability 1. Let us
+now consider the choice of the incompetent dictator with Y = eC. If he does not spend anything on
+propaganda, censorship, and co-optation, then the probability to achieve p = z = 1 is trivial; hence the
+public observing C = eC and p = z = 1 knows with certainty that the dictator is competent. Therefore,
+γ( eC) must be equal to 1 rather than 0. Alternatively, if the incompetent dictator with Y = eC does
+spend a non-trivial amount, B( eC) > 0, on propaganda, censorship, and co-optation, then C0( eC) < eC.
+But this implies that there is no incompetent dictator that chooses consumption C ∈(C0( eC), eC).
+Therefore, if the public observes C in the range ( eC −B( eC), eC), the public infers that the dictator must
+be competent. Hence, γ(C) for C ∈( eC −B( eC), eC) must be equal to 1 rather than 0. We arrive at a
+contradiction, which proves that γ(C) = 0 only for C = Y L.
+(v) We have already proved in (i) that incompetent dictators with diﬀerent economic shocks cannot choose
+the same consumption level. Therefore, the function C0(Y ) is invertible, and we can introduce the
+inverse function y(C) = C−1
+0 (C) (in other words, Y = y(C) if and only if C = C0(Y )).
+Let us now calculate the E(θ|C, p = z = 1) given the equilibrium beliefs of the general public about
+fθ(Y ) and C0(Y ). Suppose that the public observes consumption to be in the interval between C and
+C + dC. This can be the case if the dictator is competent and has output Y ∈[Y, Y + dY ]; or it can
+44
+
+--- Sayfa 45 ---
+be the case if the dictator is incompetent and the output is Y ∈[y(C), y(C) + y′(C)dC]. Therefore
+E(θ|C, p = z = 1) =
+¯θf1(C)
+¯θf1(C) + (1 −¯θ)f0(y(C))ρ(y(C) −C)y′(C) =
+1
+1 + 1−¯θ
+¯θ
+f0(y(C))y′(C)
+f1(C)
+ρ(y(C) −C)
+(30)
+As E(θ|C, p = z = 1) = ¯θ −K for all C ∈[Y L, C∗∗], we can obtain a diﬀerential equation for y(C):
+y′(C) =
+f1(C)
+f0(y(C))ρ(y(C) −C)
+(1 −¯θ + K)¯θ
+(¯θ −K)(1 −¯θ).
+This equation implies that y′(C) is continuous, which implies that C0(Y ) is also diﬀerentiable and
+its derivative is continuous. Using the inverse function theorem y′(C)C′
+0(y(C)) = 1, we can use the
+diﬀerential equation for y(C) above to obtain the diﬀerential equation (24).
+(vi) If y(Y L) = eY > Y L, this would be a suboptimal choice for the incompetent dictator with Y = eY . If he
+chooses consumption C = Y L, he will have a zero probability to stay in power, but he could do better
+by choosing a certain C ∈(Y L, eY ).
+(vii) In order to prove that B(Y ) never decreases with Y , we need to prove that C′
+0(Y ) = 1 −B′(Y ) cannot
+be above 1. As C0(Y L) = Y L, in the neighborhood of Y = Y L the diﬀerence B(Y ) = Y −C0(Y )
+cannot decrease with Y , therefore C′
+0(Y ) < 1 for all Y suﬃciently close to Y L.
+Therefore, if C′
+0(Y ) > 1 at least for some Y , there must exist Y such that C′
+0(Y ) increases with Y
+and C′
+0(Y ) > 1. However, this is not possible. Indeed, for such Y the left-hand side of (24) increases
+in Y while the right-hand side decreases with Y (as B(Y ) is decreasing with Y at this Y , the term
+ρ(Y −C0(Y )) is decreasing in Y , also, f0(Y ) is decreasing by deﬁnition, and f1(C0(Y )) is decreasing
+as well).
+■
+Proof of Proposition 4.
+Let us consider a diﬀerential equation
+C′
+0(Y ) = MΦ(Y, C0(Y ))
+(31)
+where M is a constant and Φ(·) is a continuous function. Then a solution of this diﬀerential equation on
+Y ∈[Y L, Y H] with the initial condition (25) has the following comparative statics property: if f
+M > M then
+for each Y > Y H the respective solution eC0(Y ) is above the original solution C0(Y ). Indeed, the equation
+(31) and the initial condition (25) jointly imply that eC0(Y ) > C0(Y ) at least in some neighborhood of Y L.
+Suppose that there exists a Y > Y L such that eC0(Y ) = C0(Y ). Let us denote ˘Y the intersection point
+of eC0(Y ) and C0(Y ) which is closest to Y L. Since eC0(Y ) > C0(Y ) for all Y ∈(eY , ˘Y ), we should have
+eC′
+0( ˘Y ) < C′
+0( ˘Y ). But since eC0( ˘Y ) = C0( ˘Y ), (31) and f
+M > M imply that eC′
+0( ˘Y ) > C′
+0( ˘Y ).
+45
+
+--- Sayfa 46 ---
+Therefore for each Y , an increase in M implies an increase in C0(Y ) and decrease in B(Y ) = Y −C0(Y ).
+In the equilibrium with co-optation, we can substitute (17) into (24):
+C′
+0(Y ) =
+(¯θ −K)(1 −¯θ)
+( bP + δ(¯θ −K)I)(1 −¯θ + K)¯θ
+f0(Y )(Y −C0(Y ))
+f1(C0(Y ))
+.
+which has the form (31) for M =
+(¯θ−K)(1−¯θ)
+( b
+P +δ(¯θ−K)I)(1−¯θ+K)¯θ.
+Similarly, (19) and (24) imply the equation (31) for the equilibria with censorship:
+C′
+0(Y ) =
+(¯θ −K)(1 −¯θ)
+4 bP b
+X(1 −¯θ + K)¯θ
+f0(Y )(Y −C0(Y ))2
+f1(C0(Y ))
+.
+In this case M =
+(¯θ−K)(1−¯θ)
+4 b
+P b
+X(1−¯θ+K)¯θ.
+Diﬀerentiating the expressions for M with regard to parameters of the model, we obtain the comparative
+statics results. ■
+Proof of Proposition 5.
+The equation (24) immediately implies that if both countries have the same Y
+and C, then the ratio of slopes of C0(Y ) for the two countries is as follows
+C(2)′
+0
+(Y )
+C(1)′
+0
+(Y )
+= Y −C
+M
+(32)
+where M is a constant depending on the parameters of propaganda and censorship, and the distributions of
+economic shocks.
+Let us ﬁrst consider Y = Y L. At this level of output, the two countries have the same consumption:
+C(1)
+0 (Y L) = C(2)
+0 (Y L) = Y L. Therefore (32) implies that in the vicinity of Y = Y L the slope C(2)′
+0
+(Y ) is
+below C(1)′
+0
+(Y ). Therefore there exists a range of Y for which C(2)
+0 (Y ) < C(1)
+0 (Y ).
+Suppose that at some Y the two curves C(1)
+0 (Y ) and C(2)
+0 (Y ) intersect. Let us denote as eY the intersection
+point closest to Y L and eC the respective level of consumption. As C(2)
+0 (Y ) < C(1)
+0 (Y ) to the left of eY , so
+we should have C(1)′
+0
+(eY ) < C(2)′
+0
+(eY ). Using (32), we ﬁnd that eY −eC > M.
+Let us now prove that there cannot be another intersection (to the right of eY . Indeed, suppose that
+there exist other intersection points. Let us denote as ˘Y the intersection point which is closest to eY . As
+C(2)
+0 (Y ) > C(1)
+0 (Y ) for all Y ∈(eY , ˘Y ), we should have C(1)′
+0
+( ˘Y ) > C(2)′
+0
+( ˘Y ). This implies ˘Y −˘C < M < eY −eC.
+But this contradicts monotonicity of B(Y ).
+Therefore there can only be one intersection point eY . To the left of this intersection point, Y ∈(Y L, eY ),
+the ﬁrst country has a higher consumption, C, and lower budget for propaganda, censorship and co-optation
+than the second country. To the right of this intersection point, Y ∈(eY , Y H), the second country spends
+more on consumption and less on propaganda, censorship and co-optation than the ﬁrst country. ■
+46

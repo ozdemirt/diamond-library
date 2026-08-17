@@ -1,0 +1,3317 @@
+--- Sayfa 1 ---
+Applications of Game Theory to Topics in Political Economy
+Timothy J. Moore
+A dissertation submitted to the faculty of the University of North Carolina at Chapel
+Hill in partial fulﬁllment of the requirements for the degree of Doctor of Philosophy in
+the Department of Economics.
+Chapel Hill
+2012
+Approved by:
+Peter Norman
+Gary Biglaiser
+R. Vijay Krishna
+S´ergio Parreiras
+Helen Tauchen
+brought to you by
+CORE
+View metadata, citation and similar papers at core.ac.uk
+provided by Carolina Digital Repository
+
+--- Sayfa 2 ---
+Abstract
+TIMOTHY J. MOORE: Applications of Game Theory to Topics in Political
+Economy.
+(Under the direction of Peter Norman.)
+In the ﬁrst chapter, Political Business Cycles with Policy Compromise, I consider a dynamic
+model of political decision-making where policy decisions are the result of bargaining between
+two political parties. The focus of this paper is on how unobservable actions by parties (e.g.,
+the whip encourages certain voting behavior in private strategy sessions) generate ineﬃcient
+political business cycles. The paper supposes that parties place a high value on future policy
+outcomes and considers the set of (constrained) surplus-maximizing equilibria. As the future
+surplus, or government budget, to be divided amongst the parties is stochastically determined
+by parties’ hidden actions, a moral hazard problem arises. Due to this moral hazard problem,
+any constrained surplus-maximizing equilibria is necessarily ineﬃcient. Furthermore, if eﬀorts
+towards cooperation are complementary, constrained surplus-maximizing equilibria generate
+policy outcomes that exhibit political cycles. This result therefore provides a rationale for
+political business cycles in an environment where cooperative, patient parties negotiate policy.
+In the second chapter, Gridlocks, Extreme Policies, and the Proximity of an Upcoming Election,
+I analyze how the proximity of an upcoming election aﬀects the path of policy proposals
+before that election. Policy outcomes before an election date depend on the proximity of this
+election date and on current and discounted expected future political power.
+When there
+is a common expectation that policy outcomes immediately after the election will generate
+high social surplus, phases of legislative gridlock, where agreement is infeasible, will either
+be nonexistent or occur immediately before the election. When the distribution of political
+power is highly asymmetric, implemented policies favor the party with higher power. When
+the distribution of power is fairly symmetric, implemented policies can favor either party and
+intervals of disagreement, and thus legislative gridlock, often occur more frequently.
+ii
+
+--- Sayfa 3 ---
+Acknowledgments
+I am grateful for the opportunity to write my thesis at UNC and would like to start
+by thanking my team of advisors. I am greatly indebted to my dissertation advisor, Peter
+Norman, for his guidance over the last four years and for many insightful comments and
+interesting discussions on my work and academic research. With his patience and support
+I learned a lot about economic theory and what makes an interesting research question and
+result. Gary Biglaiser provided many detailed comments on my work and oﬀered many valuable
+interpretations of both my models and results. R. Vijay Krishna encouraged me to be a careful
+student of economic theory and oﬀered many helpful comments on my work. I would also like
+to thank S´ergio Parreiras and Helen Tauchen for many useful discussions and suggestions.
+Many other faculty members and other graduate students have been tremendously help-
+ful during my time at UNC. Speciﬁcally, I would like to thank Ryan Burk, Jeremy Cook,
+Michael Darden, Brian Jenkins, Peter Malaspina, Brian McManus, and Jeremy Petranka, as
+well as the participants in the microeconomic theory student seminar for helpful discussions
+and comments. I would also like to thank the staﬀat the economics department for always
+being generous with their time and helping me with the issues that often came up during my
+time as a graduate student at the university.
+Outside of UNC, I would like to thank my family and in particular, my parents, Nancy and
+Barry, and my brother, Mark, for providing endless support and encouragement. Finally, I
+would like to thank Emily for always being there for me during tougher times: her belief in me
+and enthusiasm always managed to boost my spirits and was a constant source of inspiration.
+iii
+
+--- Sayfa 4 ---
+Table of Contents
+List of Figures
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+vi
+1
+Political Business Cycles with Policy Compromise
+. . . . . . . . . . . .
+1
+1.1
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1
+1.2
+Related Literature
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+1.3
+The Model
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+1.3.1
+An Imperfect Monitoring Game . . . . . . . . . . . . . . . . . . . . . . .
+11
+1.4
+Surplus-Maximizing Policies and Perfect Information . . . . . . . . . . . . . . .
+12
+1.4.1
+Surplus-Maximizing Policies . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+1.4.2
+(Constrained) Surplus-Maximizing Equilibria Under Perfect Information
+13
+1.5
+(Constrained) Surplus-Maximizing PPE Under Imperfect Monitoring . . . . . .
+14
+1.6
+Conclusion
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+1.7
+Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+20
+1.7.1
+Characterization of Minmax payoﬀs
+. . . . . . . . . . . . . . . . . . . .
+20
+1.7.2
+Omitted Proofs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+21
+1.7.3
+Proof of Proposition 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+iv
+
+--- Sayfa 5 ---
+References
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31
+2
+Gridlocks, Extreme Policies and the Proximity of an Upcoming Elec-
+tion
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+34
+2.1
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+34
+2.2
+The Model
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+38
+2.2.1
+Remarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+40
+2.2.2
+Pareto Eﬃcient Policies . . . . . . . . . . . . . . . . . . . . . . . . . . .
+40
+2.3
+Continuation Values in a MPE
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+41
+2.4
+Equilibrium Dynamics Before Date T
+. . . . . . . . . . . . . . . . . . . . . . .
+48
+2.4.1
+Examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+59
+2.5
+Relation to Previous Bargaining Papers
+. . . . . . . . . . . . . . . . . . . . . .
+68
+2.6
+Conclusion
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+70
+2.7
+Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+71
+2.7.1
+Types of Agreement at Date t < T . . . . . . . . . . . . . . . . . . . . .
+71
+References
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+73
+v
+
+--- Sayfa 6 ---
+List of Figures
+1.1
+Timeline of Period t
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10
+2.1
+A Symmetric Model with MPE E0 Played at Date T
+. . . . . . . . . .
+61
+2.2
+An Asymmetric Model with MPE E1 Played at Date T . . . . . . . . .
+63
+2.3
+Cycling Between Agreement and Disagreement Regimes . . . . . . . .
+65
+2.4
+No Cycling with Asymmetric Political Power or High Costs . . . . . .
+66
+2.5
+A Shift in Political Power . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+67
+2.6
+The Social Surplus with Diﬀerent Costs
+. . . . . . . . . . . . . . . . . .
+68
+vi
+
+--- Sayfa 7 ---
+1
+Political Business Cycles with Policy Compromise
+1.1
+Introduction
+The literature on political business cycles argues that the election cycle aﬀects policy outcomes.
+This hypothesis is based on the idea that once political considerations, such as a party’s desire
+to be in power or to implement policies that are consistent with its views, are taken into
+account, elections inﬂuence policy decisions. Empirical analysis supports the notion that there
+is a relationship between the election cycle and ﬂuctuations in policy variables, citing evidence
+of cycles in government budget deﬁcits (Alesina, Cohen, and Roubini, 1992; Shi and Svensson,
+2006), tax policy (Persson and Tabellini, 2003), and economic growth (Drazen, 2000).
+In representative democracies where policy decisions are made by a legislature, negotiations
+amongst political parties determine policy outcomes and the nature of political business cycles.
+When considering legislative policy-making, the policies that emerge are not only a function of
+the observable actions that parties take (e.g., attending legislative hearings, writing legislation,
+or voting on a proposed bill), but also the result of parties’ actions that are unobservable or
+“hidden.”
+For instance, often in legislatures such as the United States Congress, private
+strategy sessions amongst the members of a party occur multiple times a week. A speciﬁc
+example of these meetings are the party lunches amongst members of the US Senate that
+often occur Tuesday, Wednesday and Thursday of each week. Similarly, in the UK Parliament
+or the US Congress, the party leadership, such as the whip, will have private conversations
+with members of the party to encourage certain voting behavior or attendance at important
+policy debates.
+These private meetings amongst the members of a party often shape the
+party’s stance on particular issues, and hence, inﬂuence the policy outcomes that result from
+negotiations between political parties.
+I develop a dynamic model that considers how parties’ hidden action choices aﬀect policy
+outcomes and ultimately generate ineﬃcient political business cycles. I consider the set of
+policies that maximize welfare while also being consistent with equilibrium behavior. I ﬁnd
+that in these “constrained” surplus-maximizing equilibria, due to the hidden nature of parties’
+actions, political cycles can arise.
+This result suggests that even when parties engage in
+1
+
+--- Sayfa 8 ---
+cooperation, with eﬀorts at bipartisanship, ineﬃcient political cycles can emerge.
+The existing literature that focuses on how negotiations between political parties produce
+political cycles (Alesina, 1987) or policy distortions (Acemoglu, Golosov, and Tsyvinski, 2010)
+demonstrates that in constrained eﬃcient equilibria, political cycles or distortions are largely
+insigniﬁcant if parties’ actions are observable and parties place a high value on future policy
+outcomes (i.e., parties have high discount factors).
+My paper therefore complements this
+literature by showing that, in an environment where parties take hidden actions that inﬂuence
+policy outcomes, even when parties are arbitrarily patient and coordinate on a constrained
+surplus-maximizing equilibrium, ineﬃcient political cycles can emerge.
+Thus, with patient
+parties, political cycles are not only consistent with the notion of myopic political parties that
+choose policies that are only optimal from a short-run perspective. Indeed, political cycles can
+even be generated by strategies that aim to maximize expected welfare.
+I model government policy-making as an inﬁnite-horizon game played by two political
+parties. Each period, one party is “in power,” where the evolution of political power is taken
+as given and political power may change hands every other period.
+At the beginning of
+each period, the party in power determines how the government budget should be allocated
+between two public projects, where each party has a preferred project and receives no payoﬀ
+from spending on the other’s preferred project.
+In the same period, after this allocation
+decision has been made, parties simultaneously choose an action (“investment eﬀort”) that
+stochastically aﬀects economic growth, where higher growth means, in expectation, a larger
+government budget in the future. This action choice has two key features. One, each party’s
+choice is unobservable to the other party. Two, when making this choice, a party faces a
+tradeoﬀbetween securing itself a high beneﬁt today or generating a large government budget
+tomorrow. Given any pair of investment eﬀorts, there is a common expectation amongst parties
+regarding the expected size of tomorrow’s budget. The identity of the party in power, the size
+of the government budget, and the allocation of that budget are all commonly known.
+I consider political business cycles in the expected size of the government budget. In any
+surplus-maximizing policy, parties eﬀorts towards cooperation are time-invariant. This implies
+that, in expectation, the size of the government budget will be identical across periods. Hence,
+2
+
+--- Sayfa 9 ---
+in any surplus-maximizing policy, there are no cyclical ﬂuctuations in the size of the budget or
+in parties’ investment eﬀorts. Political cycles are therefore necessarily ineﬃcient in the model.
+Ineﬃcient political cycles surface in constrained surplus-maximizing equilibria as the un-
+observable eﬀort choice creates a moral hazard problem (the game is one of imperfect public
+monitoring). As parties’ eﬀorts today stochastically determine the size of the budget tomor-
+row, if a party observes a small government budget at the beginning of the period, it cannot be
+sure if this is due to a bad shock to the economy or to the other party focusing its eﬀorts not
+on future growth, but on its own interests.1 The nature of cooperation, whether in the form
+of parties sacriﬁcing current partisan objectives for the sake of budget growth or through the
+party in power implementing more equitable divisions of the budget, is aﬀected by the severity
+of this moral hazard problem. This is best illustrated by considering a variant of the model
+where the investment eﬀort is observable. If parties are suﬃciently patient, it is possible to
+construct an equilibrium that sustains the surplus-maximizing policy. In this equilibrium, by
+simply threatening to revert to a “bad” equilibrium with low payoﬀs in the event that a party
+deviates to a non surplus-maximizing eﬀort choice. In contrast, when eﬀort is unobservable,
+such a strategy will no longer work as it is not possible to observe when deviations have oc-
+curred. Cooperation on “good” policies each period is therefore more diﬃcult to sustain and
+ineﬃcient policy outcomes, and hence political cycles, can arise.
+The main result of the paper establishes that, if parties’ eﬀorts toward cooperation are com-
+plimentary, constrained surplus-maximizing equilibria display political cycles. These strategies
+are based on the idea that nontrivial intertemportal incentives can be used to enforce certain
+eﬀort levels, where parties are “punished” or “rewarded” based on whatever information is
+publicly available about parties’ past eﬀort choices. In my model, this implies that the future
+payoﬀs (the punishments and rewards) that parties receive must be conditioned on the size of
+the government budget that is realized at the beginning of a period. Consider a constrained
+surplus-maximizing equilibrium where both parties must choose to exert high eﬀort in order
+1Note that if the pair of investment choices today determined, with probability one, the size of the budget
+tomorrow, each party would be able to ﬁgure out exactly what the eﬀort choice of the other party was, and
+there would be no moral hazard problem.
+3
+
+--- Sayfa 10 ---
+to maximize aggregate surplus. In order to provide parties with an incentive to put aside
+partisan diﬀerences and choose high eﬀort levels, the equilibrium must use strategies where
+“bad”, or low, realizations of the budget trigger a reversion to a punishment phase where
+both parties receive a low payoﬀ. In this punishment phase, the size of the government bud-
+get is, in expectation, ineﬃciently low. Furthermore, the budget can exhibit high frequency
+cyclical ﬂuctuations where the budget is, in expectation, smaller immediately after an elec-
+tion, compared to the budget in the middle of the term. Hence, it is possible for constrained
+surplus-maximizing equilibria to exhibit political cycles.
+I now discuss some features of my approach. In the model, political parties cannot make
+any binding commitments to either future allocations or investment eﬀorts. Hence, the only
+constraint on policies at any date is that they are consistent with parties acting rationally
+given the current state of the environment (i.e., the date, which party is in power, and the
+size of the budget) and any information about past play. Regarding the notion of a political
+party, though parties disagree on how to allocate the budget, they share a common view
+regarding what generates budget growth. If one considers a party as a group from the same
+geographically-deﬁned district, the model is consistent with the idea that parties compete to
+secure funding for local public goods (e.g., local infrastructure and parks), but agree on what
+types of investments stimulate budget growth. Alternatively, one can consider parties with
+ideological diﬀerences that compete to secure funding for “pet projects” (e.g., farm subsidies,
+museums, local public goods), and while they may disagree in general on what investments
+stimulate growth, there is agreement on a subset of investment policies (e.g., tax reform and
+education) that foster growth.
+Two features of the investment eﬀort choice deserve further attention. First, the assump-
+tion concerning the tradeoﬀparties face (i.e., securing immediate beneﬁts today or increasing
+the expected size of future budgets) captures the idea that a party can focus attention on
+legislation that may either favor the party directly, through an immediate payoﬀ, or indirectly,
+through higher economic growth, and thus, a larger expected future budget. For instance, a
+party can focus attention on gathering support for legislation that is loaded with pork-barrel
+4
+
+--- Sayfa 11 ---
+spending or on legislation that invests in national infrastructure, where this investment in-
+creases productivity, and thus the pool of taxable income. Likewise, a party can work towards
+passing legislation that includes tax breaks and subsidies for the group it represents, or on tax
+code reform that generates higher government revenues directly, or indirectly by increasing
+productivity, and hence increasing the national tax base. Second, the assumption that each
+party’s eﬀort choice is unobservable to the other party is consistent with the ideas discussed
+earlier. Policy outcomes, and speciﬁcally budget growth, are often inﬂuenced by the unob-
+servable actions that parties take during the policy-making process, whether during the whip
+process, in small committee meetings or in partisan strategy sessions. If parties are unwilling
+to engage in the bipartisan cooperation that is required for “good” policies, then wasteful
+programs will persist and budget-growing policies, such as a tax code free of loopholes and
+credits, will fail to be implemented.
+The remainder of the paper is structured as follows. Section 2 reviews the related literature
+in greater detail. The model is introduced in Section 3. Section 4 considers surplus-maximizing
+policies and constrained surplus-maximizing equilibria under perfect monitoring. Section 5
+considers constrained surplus-maximizing equilibria under imperfect public monitoring. Fi-
+nally, Section 6 concludes. The Appendix contains omitted proofs.
+1.2
+Related Literature
+Broadly speaking, there have been two types of theories that aim to rationalize political busi-
+ness cycles: a theory that focuses on politicians’ “opportunistic manipulation” of voters and
+a “partisan” theory that considers how diﬀerences in political parties’ policy preferences pro-
+duce cycles. I now review each strand of literature in turn. Before doing so, it is important to
+note that in all of the papers mentioned below, Pareto eﬃcient policies do not exhibit cyclical
+dynamics; hence, if the political economy friction that is introduced causes political cycles,
+these cycles are ineﬃcient.
+Many models that contribute to the theoretical research on political business cycles are
+motivated by the robust empirical observation that economic conditions before an election
+5
+
+--- Sayfa 12 ---
+heavily inﬂuence voters’ decisions.2 Politicians will then, to the best of their ability, inﬂuence
+the economy or other policy variables in an eﬀort to be reelected. This is the basic observation
+that motivates the literature on opportunistic manipulation.
+One of the ﬁrst models of opportunistic political cycles, developed by Nordhaus (1975),
+considers an economy that is represented by a downward-sloping Phillips curve with (homoge-
+nous) voters with (irrational) adaptive expectations. Given that voters prefer low inﬂation and
+low unemployment, the oﬃce-seeking politician can secure reelection by depressing the econ-
+omy for most of her term until right before the election, where the economy is stimulated with
+expansionary monetary policy. The economy then follows a cyclical pattern with expansionary
+policy right before the election and contractionary policy right after the election.
+In an eﬀort to model opportunistic political cycles with fully rational voters, Rogoﬀ(1990),
+along with much of the subsequent literature focusing on opportunistic manipulation, considers
+a model based on an informational asymmetry between voters and the politician. More specif-
+ically, Rogoﬀsupposes that politicians diﬀer in their competence, where highly competent
+politicians can provide more public goods at a lower level of taxes. Moreover, an information
+structure is assumed where (homogenous) voters are uninformed about one element of ﬁscal
+policy but can perfectly monitor the politician with a one-period lag. In the ﬁrst half of the
+term policy is eﬃcient, while in the second half of the term a competent politician sets taxes
+too low and spending too high in order to communicate her ability. Hence, a political business
+cycle may be generated due to a politician attempting to signal her private information.
+Other papers of opportunistic manipulation based on signaling include Shi and Svensson
+(2006), Martinez (2009), and Drazen and Eslava (2006). Shi and Svensson (2006) consider a
+model similar to Rogoﬀ’s, and ﬁnd that the size of a pre-election spending boom, and hence
+the political cycle, depends positively on the portion of “uninformed” voters and the ego-
+rent collected by the politician.3 While Rogoﬀand Shi and Svensson assume an information
+structure where voters are only uninformed at the end of the term—thus limiting the role
+2See, for instance, Drazen (2000) and the references therein.
+3They are ultimately concerned with an empirical study on how political cycles diﬀer across developed and
+developing countries and use the model to provide a theoretical explanation for some of their ﬁndings.
+6
+
+--- Sayfa 13 ---
+of signaling to this time period—Martinez (2009) considers a political-agency model where
+voters are imperfectly informed at all times and is able to show that politicians may have
+a greater incentive to generate “good” economic conditions near the end of the term.
+In
+contrast to these papers, Drazen and Eslava (2006) consider a model of voter manipulation
+with heterogeneous voters that can view all aspects of ﬁscal policy and politicians that are
+all equally “competent.” Voters are diﬀerentiated based on the types of government spending
+they prefer and a politician has private information regarding her preferences over spending.
+They show that there exists an equilibrium where there is a political cycle in the composition
+of the budget, with higher targeted spending for the group of voters that is more likely to
+swing the election.
+Now, I consider papers on the partisan theory, where these models focus on how negotia-
+tions amongst political parties with diﬀerent policy preferences generate political cycles. Hibbs
+(1977) presents one of the ﬁrst partisan models. As in Nordhaus’s model, the economy is rep-
+resented by a downward-sloping Phillips curve and voters do not have rational expectations.4
+Two political parties have diﬀerent preferences over inﬂation and unemployment, and due to
+irrational expectations, the party in power can cause inﬂationary surprises. This implies that
+cycles then arise in the economy, with ﬂuctuations coming due to changes in which party is in
+power.
+Towards developing a partisan theory with fully rational agents, Alesina (1987) develops
+a partisan model that focuses on cycles in macroeconomic outcomes, but allows for voters to
+have rational expectations. In such a model, only unanticipated monetary policy can aﬀect
+real variables. Policy-making is modeled as a dynamic game of perfect information, where the
+party currently in power chooses policy. The uncertainty caused by the election, coupled with
+an assumption on the rigidity of nominal wage contracts, implies that there will be surprise
+inﬂation at the beginning of a party’s term in power. There will then be the following cycle:
+in the ﬁrst part of the term, under the left-wing party policies will be relatively expansionary
+while under the right-wing party policies will be relatively contractionary; in the second part
+4Like Nordhaus’s model, it is assumed that voters have adaptive expectations.
+7
+
+--- Sayfa 14 ---
+of the term parties implement the same policy.
+Closely related to my paper are the recent papers by Dixit, Grossman, and Gul (2000) and
+Acemoglu, Golosov, and Tsyvinski (2010). Though not speciﬁcally models of political business
+cycles, these papers consider the closely related question of how ﬂuctuations in political power
+may distort policy outcomes.
+Dixit, Grossman, and Gul consider a two-player game with
+perfect information, where political power may change every period and changes in power
+follow an exogenously given Markov process (as in my paper) with multiple degrees of political
+power. As in my paper, political power takes the form of being able to allocate some surplus
+each period, where, unlike in my paper, this size of this surplus is exogenously determined in
+each period. Acemoglu, Golosov, and Tsyvinski (2010) consider a n-player game with perfect
+information, where, as in Dixit, Grossman, and Gul (2000), the party in power determines
+the allocation of some surplus, political power may change every period and changes in power
+follow an exogenously given Markov process (as in my paper). Besides considering a game
+with more than two political parties, the main departure from Dixit, Grossman, and Gul is
+the introduction of a production economy, where parties can exert productive eﬀorts in order
+to increase the size of the government budget. Hence, just as in my paper, the size of the
+surplus that is allocated by the party in power is determined endogenously. Both papers study
+the set of constrained eﬃcient allocations and ﬁnd that the sequence of constrained eﬃcient
+allocations is such that the current policy depends not only on which party is in power but
+on how that party arrived to power. Dixit, Grossman and Gul also consider how voting rules,
+such as majority or supermajority rule, aﬀect constrained eﬃcient allocations, while Acemoglu,
+Golosov, and Tsyvinski consider how the frequency of power switches aﬀect these allocations.
+A fundamental diﬀerence between my paper and Alesina (1987), Dixit, Grossman, and Gul
+(2000), and Acemoglu, Golosov, and Tsyvinski (2010) is that I consider a game with imperfect
+public monitoring. Drawing a direct comparison to Acemoglu, Golosov, and Tsyvinski (2010),
+when considering each party’s productive eﬀort in each period, they assume this is public infor-
+mation, while I assume that a party’s eﬀort is unobservable to the other party. This assump-
+tion changes the nature of constrained surplus-maximizing equilibria. One ﬁnding that emerges
+from the models considered by Alesina and Acemoglu, Golosov, and Tsyvinski, is that if parties
+8
+
+--- Sayfa 15 ---
+are suﬃciently patient (as I assume in my paper), in constrained surplus-maximizing equilib-
+ria, policy distortions—and hence, political cycles—will vanish. Policy distortions (and any
+associated political cycles) are therefore on the equilibrium path when considering ineﬃcient
+equilibria (i.e., equilibria that are not constrained eﬃcient) or constrained surplus-maximizing
+equilibria in a model where parties are impatient. In contrast, in my paper even when parties
+are patient and play a constrained surplus-maximizing equilibrium, political cycles can arise
+and are persistent.
+1.3
+The Model
+Time is discrete and indexed by t ∈{1, 2, . . .}. Let N = {1, 2} denotes the set of parties.
+At each date, exactly one party is the party in power. Political power potentially changes
+hands at the beginning of every odd period, where the evolution of political power follows
+an exogenously given, time invariant, irreducible Markov process. For any period 2z, where
+z ∈{1, 2, . . .}, with party k ∈N currently in power, let m(i | k) ∈(0, 1) denote the probability
+that party i is in power at the beginning of the next period.
+At the beginning of each period t, there is income yt ∈Y = {0, y}, where y > 0. I assume
+there is zero income at the beginning of period 1. In period t, the party in power determines
+the allocation of the income yt, denoted ct, where ct ∈C(yt) = {c1
+t , c2
+t ∈[0, yt]2 : c1
+t + c2
+t ≤yt}.
+After the income yt has been allocated, parties simultaneously choose actions, where party
+i ∈N chooses an action ai ∈Ai = [0, 1].
+The action proﬁle a ∈A = A1 × A2 aﬀects r and π, where r is a payoﬀvector and π is
+the probability distribution that stochastically determines the income level at the beginning
+of the next period. Speciﬁcally, given the action proﬁle a ∈A, party i gets a payoﬀof ri(ai)
+and the probability of obtaining the high income realization of y is π(a), while the probability
+of obtaining the low income realization of 0 is 1 −π(a).
+The ﬂow payoﬀfor party i given the consumption allocation c and the action proﬁle a is
+ci + ri(ai). Parties discount payoﬀs using the common discount factor δ ∈(0, 1).
+9
+
+--- Sayfa 16 ---
+Time t
+Time t + 1
+If t is odd,
+power may shift
+Income y
+realized
+Party in Power
+chooses allocation
+c ∈C(y)
+Parties
+choose a
+Figure 1.1: Timeline of Period t
+The following assumptions on the payoﬀfunction r and the probability π are made through-
+out the entire paper.
+Assumption 1
+Given i ∈N, ri(ai) = −ai for any ai ∈Ai, and π(·, a−i) is increasing in ai
+for any a−i ∈A−i.
+Thus, higher actions give each party i a lower immediate payoﬀr, but generate higher
+expected income in the future. Each party then faces a tradeoﬀwhen choosing an action:
+lower actions generate a higher payoﬀtoday, while higher actions generate a higher expected
+return tomorrow.
+Assumption 2
+π is concave, diﬀerentiable and satisﬁes the following Inada conditions
+lim
+ai→0
+∂π(a1, a2)
+∂ai
+= ∞and
+lim
+ai→1
+∂π(a1, a2)
+∂ai
+= 0
+∀aj ∈[0, 1]
+Assumption 2 implies that there are decreasing marginal returns to eﬀorts at cooperation.
+The diﬀerentiability of π and the Inada conditions ensure that a simple set of ﬁrst order
+conditions can be used when characterizing the surplus-maximizing policies and the set of
+surplus-maximizing equilibria.
+10
+
+--- Sayfa 17 ---
+1.3.1
+An Imperfect Monitoring Game
+In what follows, I consider a stochastic game of imperfect public monitoring (see, for instance,
+Fudenberg and Yamamoto, 2011, and H¨orner et al, 2011). Speciﬁcally, for any period t, while
+the party in power kt ∈N, the income realization yt ∈Y , and the allocation decision c ∈R2
+are public information, the action ai ∈Ai taken in any period t is private information for party
+i ∈N. The upcoming analysis also applies to the case where the action proﬁle a ∈A for any
+period t is public information, with comparisons to this case being made occasionally below.
+The public history at the beginning of period t is
+ht = (k1, y1, (c1
+1, c2
+1), . . . , kt−1, yt−1, (c1
+t−1, c2
+t−1), kt, yt).
+The set of public histories at the beginning of period t is then Ht = (N ×Y ×R2)t−1 ×(N ×Y )
+and H = ∪t≥1 Ht denotes the set of all public histories. The private history for party i at the
+beginning in period t is a sequence
+hi
+t = (k1, y1, (c1
+1, c2
+1), ai
+1, . . . , kt−1, yt−1, (c1
+t−1, c2
+t−1), ai
+t−1, kt, yt).
+The set of private histories at the beginning of period t is then Hi
+t = Ht
+S(Ai)t−1 and Hi =
+∪t≥1Hi
+t denotes the set of all private histories.
+A (behavior) strategy for party i is given by σi = {γi, ωi}, where γi : Hi →∪y∈Y ∆(C(y))
+and ωi : Hi →Ai. As parties utility is linear in consumption and π is concave, it is without
+loss of generality to limit attention to the set of pure actions Ai for each i ∈N. Parties seek
+to maximize the average discounted sum of their expected ﬂow payoﬀs, where given the initial
+party in power k1, initial income y1, and strategy proﬁle σ, this payoﬀis
+∞
+X
+t=1
+(1 −δ)δt−1Ek1,y1,σ[−ai
+t + ci
+t].
+I only consider a special class of equilibria. A strategy σi for party i is public if it only
+depends on the public histories H. A perfect public equilibrium (henceforth, PPE) is a proﬁle
+11
+
+--- Sayfa 18 ---
+of public strategies such that, for any period t and public history ht, σ|ht (the continuation
+strategy induced by ht) is a Nash equilibrium from that period on. Note that the set of PPE
+is a subset of the set of sequential equilibria.
+1.4
+Surplus-Maximizing Policies and Perfect Information
+Before considering the (constrained) surplus-maximizing PPE of the imperfect monitoring
+game, it is useful to consider both the surplus-maximizing polices and the (constrained)
+surplus-maximizing equilibrium with perfect monitoring.
+1.4.1
+Surplus-Maximizing Policies
+Given any state s′ ∈S, the set of surplus-maximizing policies are characterized by considering
+the following problem
+max
+{at,ct}∞
+t=1
+Ek1,y1
+∞
+X
+t=1
+(1 −δ)δt−1
+
+−a1
+t + c1
+t
+
++
+
+−a2
+t + c2
+t
+
+,
+where at ∈A and ct ∈C(yt). As this problem is stationary and parties’ utility from income is
+linear, the action proﬁle in any surplus-maximizing policy is time-invariant, i.e., a∗
+t = a∗
+t′ ≡a∗
+for any periods t and t′. The action proﬁle a∗is found by considering the action proﬁle that
+maximizes expected surplus over two periods. Formally, a∗is the solution the problem
+max
+a∈[0,1]2 −a1 −a2 + δπ(a)y.
+Given that π is concave and diﬀerentiable, as π is assumed to satisfy the Inada conditions
+outlined in Assumption 2, the solution to this problem is characterized by the optimality
+condition
+−1 + δ∂π(a)
+∂ai y = 0 ∀i ∈N.
+Thus, in each period t, ai
+t = ai∗where ai∗satisﬁes the above optimality condition. As parties’
+utility from income is linear, in any period t, in the event of a high income realization, any
+allocation ct such that c1
+t +c2
+t = y is consistent with a surplus-maximizing policy. Note that the
+12
+
+--- Sayfa 19 ---
+government budget is identical, in expectation, entering any period in any surplus-maximizing
+policy. Hence, there are no political cycles in any surplus-maximizing policy.
+1.4.2
+(Constrained) Surplus-Maximizing Equilibria Under Perfect Informa-
+tion
+The following lemma establishes that, if parties are suﬃciently patient and monitoring is
+perfect, it is possible to construct an equilibrium that delivers the highest possible social
+surplus of −a1∗−a2∗+ δπ(a∗)y.
+Lemma 1. Suppose monitoring is perfect. There exists a ¯δ ∈(0, 1) such that for any δ ≥¯δ
+there is an equilibrium that sustains a surplus-maximizing policy.
+Proof. See the Appendix.
+If parties are suﬃciently patient and monitoring is perfect, political cycles will only arise
+on the equilibrium path in “bad” equilibria, where parties coordinate on an ineﬃcient equilib-
+rium. Hence, under perfect monitoring, cycles will only arise on the equilibrium path if parties
+are “short-sighted” in a sense, whether it is due to parties simply being impatient or playing
+an ineﬃcient equilibrium where parties myopically optimize. In the next section, I consider
+(constrained) surplus-maximizing equilibria under imperfect public monitoring and show that,
+even when parties are not short-sighted in this sense, ineﬃcient political cycles can arise on
+the equilibrium path. This result therefore illustrates that even with political parties that aim
+to maximize welfare when negotiating policy, political cycles emerge. As argued earlier, the
+assumption of imperfect monitoring is consistent with the notion that the unobserved actions
+that parties take during the political decision-making process, such as debating policies in pri-
+vate meetings in order to ﬁnd consensus amongst the party, often have important implications
+on what policies are implemented.
+13
+
+--- Sayfa 20 ---
+1.5
+(Constrained) Surplus-Maximizing PPE Under Imperfect Monitoring
+In this section, I consider (constrained) surplus-maximizing PPE and, more speciﬁcally, the
+equilibria when parties are suﬃciently patient. As illustrated in the previous section, if moni-
+toring is perfect and if parties are suﬃciently patient, it is possible to construct an equilibrium
+that delivers the highest possible surplus. In contrast, with imperfect public monitoring, this
+is not possible. The following lemma establishes that, regardless of how patient parties are,
+the surplus from any (constrained) surplus-maximizing equilibrium is necessarily less than the
+highest possible surplus.
+Lemma 2. Given any δ ∈(0, 1), the surplus from any (constrained) surplus-maximizing PPE
+is strictly less than the surplus from any surplus-maximizing policy.
+Proof. See the Appendix.
+The rest of this section focuses on the strategies that deliver the (constrained) surplus-
+maximizing PPE payoﬀ.
+The argument used to analyze (constrained) surplus-maximizing
+PPE, as parties become arbitrarily patient, is as follows.
+First, as a benchmark, consider
+the set of equilibria where after the income realization at any date t, the expected surplus
+from the equilibrium is independent of the income realization yt. It follows that, in these
+equilibria, the expected surplus from the continuation payoﬀs in equilibrium is time-invariant
+and these equilibria do not use “punishments.” Next, note that, if there do exist equilibria
+that provide higher expected surplus than any of these equilibria without punishments, these
+equilibria must involve punishments where the expected surplus from the continuation payoﬀs
+falls in the event of a low income realization. Essentially, if a low income realization triggers
+a punishment, where parties receive low payoﬀs, then, as the probability of getting a high
+income realization is increasing in parties eﬀorts, these equilibria will feature higher eﬀorts
+initially until the (inevitable) punishment is administered. When considering the form surplus-
+maximizing equilibria may take, the following question then arises: is the expected surplus
+higher if parties choose high eﬀorts initially, with an eventual reversion to a punishment phase
+with low payoﬀs, or is the surplus higher with (relatively) moderate eﬀorts each period and no
+14
+
+--- Sayfa 21 ---
+punishment?
+The main result, Proposition 1, establishes that if parties eﬀorts are complementary (in
+the sense described in Assumption 3 below), then as parties become suﬃciently patient, it is
+always possible to construct an equilibrium with high initial eﬀorts and a punishment phase,
+that improves on any “no punishment” equilibrium.
+Hence, surplus-maximizing equilibria
+require a punishment phase, and thus, as I will discuss shortly, political cycles.
+I use the following assumption for some of the results stated in the rest of the paper.
+Assumption 3
+Suppose ai > aj. Then π(ai, aj) < π(ai−ε, aj +ε), where ε ∈(0, min{ai, ai−
+aj}).
+Assumption 3 implies that the probability π is symmetric and that parties eﬀorts towards
+cooperation are complements. The following lemma characterizes the benchmark equilibrium
+discussed above that does not use punishments.
+Lemma 3. Under Assumption 3,
+1. There exists a ¯δ ∈(0, 1) such that for any δ ≥¯δ, there is an equilibrium where, in each
+period t, each party i ∈N chooses an action ai
+t where
+−1 + δ∂π(at)
+∂ai
+t
+y
+2 = 0;
+2. This equilibrium generates the highest surplus amongst all equilibria that do not use
+punishments.
+Proof. See the Appendix.
+The equilibrium characterized in Lemma 3 provides a lower bound on the surplus from any
+(constrained) surplus-maximizing equilibrium. It is important to note that, in the equilibrium
+in Lemma 3, the actions chosen each period are ineﬃciently low. Hence, in order to provide
+incentives for higher, more eﬃcient actions, a strategy must rely on punishments where the
+15
+
+--- Sayfa 22 ---
+expected surplus from the continuation payoﬀs in the event of a high income realization is
+strictly greater than the surplus in the event of a low income realization. In the main result,
+Proposition 1, I show that, if δ is suﬃciently large, then any (constrained) surplus-maximizing
+equilibrium requires these higher actions initially.
+Notation and Preliminaries. The following notation and terminology is used is some of
+the results in the remainder of the paper. It is useful to introduce the following state space
+S. Let T = {t1, t2} and S = N × T, where s ∈S speciﬁes the identity of the party in power
+and whether it is the ﬁrst part of the term (date t1 ) or the second part of the term (date t2).
+Given a state s′ ∈S at the beginning of the period, let p(s | s′) denote the probability that
+state is s ∈S at the beginning of the next period, where
+• Given (j, t1) ∈S, p(j, t2 | j, t1) = 1;
+• Given (j, t2) ∈S, p(i, t1 | j, t2) = m(i | j) for any j ∈N.
+Deﬁne party i’s minmax payoﬀfor initial state s, initial income 0 and discount factor δ
+vi
+s = min
+σ−i max
+σi
+∞
+X
+t=1
+(1 −δ)δt−1Es,σ[−ai
+t + ci
+t].
+As δ →1, vi
+s converges to party i’s limit-average minmax payoﬀwith initial state s and income
+0. (see Mertens and Neyman, 1981). As the Markov chain over S is irreducible, as δ →1, vi
+s
+is independent of the initial state s (see, for instance, Dutta 1995).
+Before stating Proposition 1, the following lemma characterizes the “worst” equilibrium
+for each party i ∈N, where in the worst equilibrium for party i, party i receives its minmax
+payoﬀ. These equilibria (or equilibrium if there is one equilibrium that gives each party its
+minmax payoﬀ) are used when constructing an equilibrium that gives higher surplus than any
+“no punishment” equilibrium.
+Lemma 4. Given an initial state s ∈S, there exists a ¯δ ∈(0, 1) such that for any δ ≥¯δ there
+is an equilibrium with the payoﬀvector ˆvs such that ˆvi
+s = vi
+s
+16
+
+--- Sayfa 23 ---
+Proof. See the Appendix.
+The equilibrium constructed in Lemma 4 features a temporary phase of mutual minmaxing,
+followed by a return to an equilibrium that gives each party i a payoﬀstrictly higher then the
+payoﬀˆvi
+s. The behavior during the phase of mutual minmaxing can be described as follows.
+The party in power takes all the income at the beginning of each period. In the ﬁrst part of
+the term, the party out of power j chooses the lowest possible action aj = 0, while the party
+in power i chooses the action that solves
+max
+ai∈[0,1] −ai + δπ(ai, 0)y.
+In the second part of the term, both parties chooses the lowest possible action 0. Hence, there
+are high frequency cyclical ﬂuctuations during the phase of mutual minmaxing, as the size of
+the government budget is, in expectation, smaller at the beginning of the ﬁrst part of the term
+than at the beginning of the second part of the term.
+The statement of Proposition 1 relies on the following strategy. Consider Strategy SM :
+• There are the following eight phases: Phases (As) and Phases (Bs). Transitions between
+phases may only occur after the party-in-power’s allocation decision in a particular pe-
+riod. Given an initial state s ∈S at date 1, begin in Phase As.
+• Given an initial state s ∈S, in Phase As, the action proﬁle a∗is played. If in Phase As
+and there is a positive income realization, each party receives y/2.
+• If in Phase As′ and there is a high income realization, if the next state is s, move to
+Phase As. If in Phase As′ and there is a low income realization, if the next state is s,
+with probability ρs ∈(0, 1) move to Phase As and with probability 1 −ρs transition to
+Phase Bs.
+• If currently in Phase Bs and the previous phase was Phase As′, with probability ξs
+revert to the worst equilibrium for party 1 and with probability 1−ξs revert to the worst
+equilibrium for party 2.
+17
+
+--- Sayfa 24 ---
+• If currently in Phase As and there is a positive income realization, if the consumption
+allocation cs̸ = (y/2, y/2), revert to the worst equilibrium for the party currently in
+power.
+Proposition 1. Under Assumption 3, there exists a ¯δ ∈(0, 1) such that for any δ ≥¯δ,
+Strategy SM is an equilibrium that generates higher expected surplus than any “no punishment”
+equilibrium.
+Proof. See the Appendix.
+The intuition for the proof of Proposition 1 is as follows. The strategy featured in Proposi-
+tion 1 (Strategy SM) begins with parties choosing an action proﬁle that yields a higher social
+surplus than the action proﬁle in the benchmark equilibrium constructed in Lemma 3. If δ
+is suﬃciently large, then the transition probabilities (ρs) required for the action proﬁle a∗to
+be incentive compatible get close to 1. Thus, the probability of transitioning to the punish-
+ment phase becomes suﬃciently small so that an equilibrium generates higher surplus than
+the equilibrium constructed in Lemma 3 that does not rely on punishments.
+It is important to note that without Assumption 3, the problem of characterizing (con-
+strained) surplus-maximizing equilibria is less tractable. Essentially, if parties’ eﬀorts towards
+cooperation are not complementary and symmetric, it may be too costly to provide incentives
+for both parties to choose high actions initially. Indeed, this may not be consistent with a
+(constrained) surplus-maximizing equilibrium. Characterizing these equilibria then involves
+comparing diﬀerent “punishment” and “no punishment” equilibria, where it is not straightfor-
+ward to determine which yield a greater expected surplus.
+Proposition 1 illustrates that if eﬀorts towards cooperation are complementary and sym-
+metric, then surplus is maximized by a strategy where both parties are choosing high eﬀort
+initially, with an eventual (stochastic) reversion to a punishment phase where a bad equilib-
+rium with low payoﬀs is played. Therefore, when joint eﬀorts at budget growth are suﬃciently
+productive (as is the case with complementary eﬀorts), then surplus-maximizing equilibria will
+involve ﬂuctuations with periods of time where the (expected) size of the budget is high and
+18
+
+--- Sayfa 25 ---
+periods where the (expected) size of the budget is low. Furthermore, during a stretch of bad
+policy where parties are minmaxing each other, recalling the worst equilibrium constructed in
+Lemma 4, the equilibrium can display high frequency political cycles. In these political cycles
+the (expected) size of the government budget is smaller at the beginning of the ﬁrst part of
+the term as compared to at the beginning of the second part of the term.
+1.6
+Conclusion
+This paper analyzes a model of government policy-making where political business cycles arise
+due to parties’ hidden actions, ﬂuctuations in political power and diﬀerences in parties’ views
+over the optimal allocation of the government budget.
+I suppose political parties have a
+high discount factor and consider the set of constrained surplus-maximizing equilibria, where
+the assumption that each party’s investment eﬀort choice is unobservable generates a moral
+hazard problem that has key implications on how close the payoﬀs from these equilibria are
+to the Pareto frontier. Equilibrium payoﬀs are bounded away from the Pareto frontier. When
+PPE payoﬀs are necessarily ineﬃcient, if eﬀorts toward bipartisanship are complementary,
+constrained surplus-maximizing equilibria have cyclical dynamics. Hence, there are ineﬃcient
+political cycles on the equilibrium path.
+My paper illustrates that ineﬃcient political cycles can be consistent with constrained
+surplus-maximizing equilibria. Hence, political cycles will not only arise with impatient polit-
+ical parties, with parties that coordinate on a “bad” equilibrium, or with short-sighted parties
+that only choose policies that are optimal from a short-run perspective. Essentially, politi-
+cal cycles, through the association with a punishment phase where both parties receive low
+payoﬀs, may be consistent with providing parties nontrivial intertemporal incentives that are
+instrumental in sustaining political compromise.
+19
+
+--- Sayfa 26 ---
+1.7
+Appendix
+1.7.1
+Characterization of Minmax payoﬀs
+The strategy proﬁle that party j uses to minimize the other party i’s payoﬀis described as
+follows.
+• When out of power, j chooses aj = 0.
+• When in power, in the ﬁrst part of the term, party j chooses any action aj ∈[0, 1] and
+takes all the income that is realized at the beginning of the period.
+• When in power, in the second part of the term, party j chooses aj = 0.
+First, when in power, party j minimizes party i’s payoﬀby giving j none of any income
+that is realized at the beginning of the period. In regards to party j’s action choice in the
+ﬁrst part of the term, as j will be in power in the next period, and thus can ensure that i will
+receive an expected payoﬀof zero (regardless of what action proﬁle is played in the ﬁrst part
+of the term), any action aj ∈[0, 1] is consistent with j minmaxing i. When j is in power and
+it is the second part of the term, or if j is not in power, j minimizes i’s payoﬀby choosing the
+lowest possible eﬀort aj = 0.
+In response to this strategy, party i will ﬁnd the following optimal
+• When out of power, in the ﬁrst part of the term, i chooses ai = 0.
+• When out of power, in the second part of the term, i solves
+max
+ai∈[0,1] −ai + δπ(0, ai)m(i | j)y.
+• When in power, in the ﬁrst part of term, take all the realized income and solve
+max
+ai∈[0,1] −ai + δπ(0, ai)y.
+20
+
+--- Sayfa 27 ---
+• When in power, in the second part of term, take all the realized income and solve
+max
+ai∈[0,1] −ai + δπ(0, ai)m(i | i)y.
+Given the strategy j uses to minimize i’s payoﬀ, when out of power, in the ﬁrst part of
+the term, i knows that it will receive non of the income in the next period; hence, ai = 0 is
+optimal. When out of power, in the second part of the term, considering that aj = 0 and the
+probability of gaining power (and hence getting all the income) is m(j | i), party i solves the
+problem outlined above. Similarly, when in power, in the second part of the term, considering
+that aj = 0 and the probability of gaining power (and hence getting all the income) is m(i | i),
+party i solves the problem outlined above. Finally, when in power, in the ﬁrst part of the
+term, considering that aj = 0 and the probability of gaining power (and hence getting all the
+income) is 1, party i chooses the action outlined above. This strategy will yield the minmax
+payoﬀvector.
+1.7.2
+Omitted Proofs
+Proof of Lemma 1
+Let a∗denote the action proﬁle that maximizes social surplus. Consider the following strategy:
+• Begin in Phase A.
+• If in Phase A, the action proﬁle a∗is played and each party receives y/2 in the event of
+a positive income realization.
+• If ai
+t̸ = ai∗or if ct̸ = (y/2, y/2), with the party in power i, revert to the worst equilibrium
+for party i; otherwise, remain in Phase A.
+Deﬁne the payoﬀvector v as follows
+vi∗
+s′ = −(1 −δ)ai∗+ δ
+X
+s∈S
+p(s | s′)
+h
+π(a∗)
+
+(1 −δ)y
+2 + vi∗
+s
+
++ (1 −π(a∗)vi∗
+s
+i
+.
+21
+
+--- Sayfa 28 ---
+In order for the action ai∗to be consistent with equilibrium, given the state s′ ∈S, the
+following constraint must be satisﬁed
+vi∗
+s′ ≥−(1 −δ)ai + δ
+X
+s∈S
+p(s | s′)
+h
+π(ai, aj∗)
+
+(1 −δ)˜ci
+s + vi
+s
+
++ (1 −π(a∗)vi
+s
+i
+for each i ∈N, any ai̸ = ai∗and ˜ci
+s = y if i is the party in power and ˜ci
+s = 0 is not the party
+in power. Also, the allocation constraint for the party in power i
+(1 −δ)y
+2 + vi∗
+s ≥(1 −δ)y + vi
+s.
+As surplus under this strategy is maximized and, as δ →1, v1
+s →v2
+s for any s ∈S, if δ
+is large enough, both the incentive constraint for actions and the party-in-power’s allocation
+constrained are satisﬁed in each period t. Hence, there exists an equilibrium with payoﬀvector
+v∗
+s in state s where v1∗
+s + v2∗
+s = −a1∗−a2∗+ δπ(a∗)y.
+Proof of Lemma 2
+By contradiction. Suppose that the surplus-maximizing action proﬁle a∗can be supported in
+each period. Then there exists continuations (ws(0), ws(y)) and allocations (cs) such that
+ai∗= arg max
+ai∈[0,1] −(1 −δ)ai + δ
+X
+s∈S
+p(s |s′)
+h
+π(a∗)
+
+(1 −δ)ci
+s + wi
+s(y)
+
++ (1 −π(a∗))wi
+s(0)
+This implies the following optimality conditions for i’s action
+(1 −δ) = δ
+X
+s∈S
+p(s |s′)∂π(a∗)
+∂ai
+h
+(1 −δ)ci
+s + wi
+s(y) −wi
+s(0)
+i
+.
+Noting that
+δ∂π(a∗)
+∂ai
+y = 1
+22
+
+--- Sayfa 29 ---
+and summing the two optimality conditions, we have
+2(1 −δ) = 1
+y
+X
+s∈S
+p(s |s′)
+h
+(1 −δ)y + w1
+s(y) + w2
+s(y) −(w1
+s(0) + w2
+s(0)
+i
+.
+If a PPE existed that gave the same surplus as the surplus-maximizing policy, then w1
+s(y) +
+w2
+s(y) = w1
+s(0) + w2
+s(0). Considering the condition immediately above, this implies
+2(1 −δ) = (1 −δ)
+giving the contradiction.
+Proof of Lemma 3
+Part 1. Given the initial state s′ ∈S, if party i ﬁnds it optimal to choose the ai in the
+statement of the Lemma, then
+−(1 −δ) + δ∂π(a)
+∂ai
+X
+s∈S
+p(s | s′)
+h
+(1 −δ)ci
+s + wi
+s(y) −wi
+s(0)
+i
+= 0
+where, as ∂π(a)
+∂ai
+= 2
+yδ,
+X
+s∈S
+p(s | s′)
+h
+(1 −δ)ci
+s + wi
+s(y) −wi
+s(0)
+i
+= (1 −δ)y
+2
+for each i ∈N.
+Note that the payoﬀvector vs′ satisﬁes the following for each i ∈N
+vi
+s′ = −(1 −δ)ai + δ
+X
+s∈S
+p(s | s′)π(a)
+h
+(1 −δ)ci
+s + wi
+s(y) −wi
+s(0)
+i
++ δ
+X
+s∈S
+p(s | s′)wi
+s(0);
+hence, using the equality immediately above, we have
+vi
+s′ = (1 −δ)
+h
+−ai + π(a)y
+2
+i
++ δ
+X
+s∈S
+p(s | s′)wi
+s(0).
+23
+
+--- Sayfa 30 ---
+As each period a1 = a2 and each party i receives the ﬂow payoﬀ−ai + π(a)y
+2, it must be the
+case that the equilibrium payoﬀ, regardless of the income realization at the beginning of the
+period, is
+vi
+s′ = −ai + δπ(a)y
+2
+∀s′ ∈S, i ∈N.
+This implies that ci
+s = y/2 for any s ∈S, i ∈N.
+In order to guarantee that this is an equilibrium, the allocation constraint for the party in
+power i needs to be checked. With vi
+s = vi for each s ∈S, given an initial state s ∈S, this
+allocation constraint is
+(1 −δ)y
+2 + vi ≥(1 −δ)y + vi
+s.
+First, note that, under Assumption 3, the surplus from the strategy outlined in Lemma 3 yields
+an expected surplus that is strictly greater than the surplus v1
+s + v2
+s for any s ∈S. Second,
+v1 = v2 and v1
+s →v2
+s for any s ∈S as δ →1. These two pieces imply that if δ is large enough
+then the allocation constraint is satisﬁed for any Markov process that satisﬁes the assumptions
+outlined in The Model presented in Section 3. Hence, the strategy proposed in Lemma 3 is an
+equilibrium for δ large enough.
+Part 2.
+It remains to show that this equilibrium generates the highest expected surplus
+amongst all equilibria that do not use punishments. The argument makes use of the following
+lemma.
+Lemma 5. Under Assumption 3, there exists a ¯δ ∈(0, 1) such that for any δ ≥¯δ, in any
+constrained surplus-maximizing equilibrium both parties choose the same action in the ﬁrst
+period.
+Proof. By contradiction.
+Fix a constrained surplus-maximizing equilibrium σ.
+Given the
+initial state s′, suppose a is the action proﬁle in the current period, where a1̸ = a2, cs is the
+consumption allocation in the next period if there is a positive income realization and the next
+state is s ∈S, and {ws(0), ws(y)} are the continuation values if the next state is s ∈S. It is
+important to note that for any constrained surplus-maximizing equilibrium where one party
+24
+
+--- Sayfa 31 ---
+receives all the income in the event of a positive income realization, there is an alternative
+equilibrium that delivers the same payoﬀand gives both parties positive consumption. With
+this in mind, suppose ci
+s ∈(0, y) for each i ∈N.
+Without loss of generality, suppose a1 > a2. Consider the strategy ˆσ, with the action
+proﬁle ˆa, with ˆa1 = a1 −ε and ˆa2 = a2 +ε, where ε > 0 is very small. The consumption proﬁle
+(ˆcs) will be deﬁned below and the continuations { ˆws(0), ˆws(y)} are such that ˆws(0) = ws(0)
+and ˆws(y) = ws(y) for each state s ∈S.
+Given the actions (ˆa1, ˆa2), for each s, I now show that there exists a consumption allocation
+ˆcs such that
+−ˆai + δπ(ˆa)ˆci
+s ≥−ai + δπ(a)ci
+s
+for each i ∈N. First, there exists a ¯ε > 0 such that for any ε ∈(0, ¯ε), there exists a ˆc1
+s ∈(0, y)
+where
+−a1 + δπ(a)c1
+s = −ˆa1 + δπ(ˆa)ˆc1
+s.
+Choose ε ∈(0, ¯ε) and such a ˆc1
+s. Noting that
+−ˆa2 + δπ(ˆa)ˆc2
+s = −ˆa2 + δπ(ˆa)(y −ˆc1
+s)
+we have
+−ˆa2 + δπ(ˆa)ˆc2
+s = −ˆa2 + δπ(ˆa)y + ε −δπ(a)c1
+s
+> −a2 + δπ(a)(y −c1
+s) (by Assumption 3)
+= −a2 + δπ(a)c2
+s,
+and we have established, under the action proﬁle ˆa, there is a Pareto improvement. It remains
+to show that the consumption allocation ˆcs is incentive compatible for the party in power
+for each s ∈S. Noting that the allocation cs is incentive compatible and that ci
+s ∈(0, y)
+for any i ∈N, it follows that when ε > 0 is suﬃciently small, for δ large ˆcs will also be
+25
+
+--- Sayfa 32 ---
+incentive compatible. Hence, if δ is suﬃciently large, there exists an alternative equilibrium
+ˆσ that Pareto dominates σ. A repeated application of this argument establishes the desired
+result.
+Fix δ ∈(0, 1) such that, under Assumption 3, in any constrained surplus-maximizing
+equilibrium parties choose the same action proﬁle. Towards a contradiction, suppose there
+exists an equilibrium that does not use punishments with an action proﬁle a′̸ = a, where a is
+the action proﬁle characterized in Part 1. The optimality condition for this action choice for
+party i is
+−(1 −δ) + δ∂π(a)
+∂ai
+X
+s∈S
+p(s | s′)
+h
+(1 −δ)ci
+s + wi
+s(y) −wi
+s(0)
+i
+= 0.
+As a1 = a2, under Assumption 3, adding these two optimality conditions and noting that
+X
+s∈S
+p(s | s′)
+h
+w1
+s(y) + w2
+s(y)
+i
+=
+X
+s∈S
+p(s | s′)
+h
+w1
+s(0) + w2
+s(0)
+i
+,
+we obtain
+δ∂π(a)
+∂ai (1 −δ)y = 2(1 −δ).
+This implies that ∂π(a)
+∂ai
+= 2
+yδ for each i ∈N. Hence, parties choose the same action as outlined
+in Part 1 and a contradiction is obtained. Therefore, for δ suﬃciently large, the equilibrium
+constructed in Part 1 oﬀers the highest expected surplus amongst all equilibria that do not
+use punishments.
+Proof of Lemma 4
+The proof of Lemma 5 relies on the following lemma.
+Lemma 6. Given δ ∈(0, 1) and s ∈S, there exists an equilibrium with payoﬀvector v such
+that vi
+s > vi
+s for any i ∈N.
+Proof. Consider the following equilibrium
+• In any period, the party in power receives all the income in the event of a positive
+realization.
+26
+
+--- Sayfa 33 ---
+• If party j is out of power and it is the ﬁrst part of the term, party i chooses aj = 0.
+• If party i is in power and it is the ﬁrst part of the term, party i chooses an action that
+solves
+max
+ai∈[0,1] −ai + δπ(ai, 0)y.
+• If party i is out of power and it is the second part of the term, party i chooses an action
+that solves
+max
+aj∈[0,1] −aj + δπ(ai, aj)m(j | i)y.
+• If party i is out of power and it is the second part of the term, party i chooses an action
+that solves
+max
+ai∈[0,1] −ai + δπ(ai, aj)m(i | i)y.
+Notice that the expected payoﬀthat each party receives from the action choice in the ﬁrst part
+of each term is the same as the strategy that implements the minmax payoﬀproﬁle. On the
+other hand, the expected payoﬀthat each party receives from the action choice in the second
+part of the term is strictly greater than that received from the strategy that implements
+the minmax payoﬀproﬁle.
+Hence, under this equilibrium each party receives an expected
+discounted payoﬀthat is strictly greater than its minmax payoﬀ.
+Now for the proof of Lemma 5. Consider the following strategy, denoted σi, that generates
+the payoﬀvector vs with vi
+s = vi
+s.
+• There are two phases: Phases A and B. Play starts in Phase A. In Phase B, the equilib-
+rium constructed in Lemma 6 is played.
+• In Phase A, the party in power receives all income in the event of a positive realization.
+In the ﬁrst part of the term, the party out of power j chooses aj = 0, while the party in
+power chooses an action that solves
+max
+ai∈[0,1] −ai + δπ(ai, 0)y.
+27
+
+--- Sayfa 34 ---
+In the second part of the term, each party i ∈N chooses ai = 0.
+• If there is a low income realization in the second part of the term, with probability ρs
+play shifts to Phase B while with probability 1 −ρs play remains in Phase A. If there
+is a high income realization in the second part of the term, play remains in Phase A. In
+the ﬁrst part of the term, regardless of the income realization, play remains in Phase A.
+First, let ˆvs denote the payoﬀvector for the equilibrium constructed in Lemma 6. Second,
+note that there always exists (ρs), where ρs ∈(0, 1) for each s ∈S, such that the strategy σi
+generates exactly the payoﬀvi
+s. Third, consider the action and allocation incentive constraints.
+As the party in power simply takes all the income in the event of a positive realization, the
+allocation constraint is always satisﬁed. In the ﬁrst part of the term, as continuations are
+independent of the income realization, the prescribed action proﬁle is incentive compatible.
+In the second part of the term, as each party’s payoﬀˆvi
+s from the equilibrium in Lemma 6, is
+strictly greater than the payoﬀvector vi
+s for any i ∈N, if δ is large enough,
+(1 −δ)ci
+s + ρs(ˆvi
+s −vi
+s) < 0
+for each i ∈N. Hence, party i’s is decreasing in ai and ai = 0 for each i ∈N is incentive
+compatible. It follows that the proposed strategy is an equilibrium and, thus, there exists an
+equilibrium that delivers the minmax payoﬀvi
+s if δ is suﬃciently large.
+1.7.3
+Proof of Proposition 1
+Let ¯δ be such that for any δ ≥¯δ, any constrained surplus-maximizing equilibria has both
+parties choosing the same action in the ﬁrst period. Consider Strategy SM, where the surplus-
+maximizing proﬁle a∗is played in the ﬁrst period. The payoﬀvector vs′ from this strategy is
+deﬁned by
+vi
+s′ = −(1−δ)ai∗+δπ(a∗)
+X
+s∈S
+p(s | s′)
+h
+(1−δ)ci
+s+(1−ρs)(vi
+s−ˆvi
+s)
+i
++δ
+X
+s∈S
+p(s | s′)
+h
+ρsvi
+s+(1−ρs)ˆvi
+s
+i
+,
+28
+
+--- Sayfa 35 ---
+where (ˆvs) is the payoﬀvector from the equilibrium outlined in Strategy SM where with
+probability ξs the worst equilibrium for party 1 and with probability 1−ξs the worst equilibrium
+for party 2. Note that there always exists a ξs ∈(0, 1) such that ˆv1
+s = ˆv2
+s.
+The optimality conditions required for the action proﬁle a∗to be incentive compatible are
+δ
+X
+s∈S
+p(s | s′)∂π(a∗)
+∂ai
+h
+(1 −δ)ci
+s + (1 −ρs)(vi
+s −ˆvi
+s)
+i
+= (1 −δ).
+Noting that ∂π(a∗)
+∂ai
+= 1
+yδ and combining these conditions gives
+vi
+s′ = (1 −δ)
+h
+−ai∗+ π(a∗)y
+i
++ δ
+X
+s∈S
+p(s | s′)
+h
+ρsvi
+s + (1 −ρs)ˆvi
+s
+i
+,
+Noting that −a1∗+ π(a∗)y = −a2∗+ π(a∗)y, parties receives the same ﬂow payoﬀduring the
+any reward phase. This, along with the result that ˆv1
+s = ˆv2
+s for any s ∈S, implies that v1
+s = v2
+s
+for any s ∈S. This implies that ci
+s = y/2 for any s ∈S, i ∈N. Substituting ci
+s = y/2 and
+∂π(a∗)
+∂ai
+= 1
+yδ into the optimal conditions that must hold under a∗, we obtain
+X
+s∈S
+p(s | s′)
+h
+(1 −δ)y
+2 + (1 −ρs)(vi
+s −ˆvi
+s)
+i
+= (1 −δ)y
+where, as ˆv1
+s = ˆv2
+s and v1
+s = v2
+s for any s ∈S, the two optimality conditions (one for each
+party) reduce to one condition.
+It must now established that there does exist a ρs ∈(0, 1) for each s ∈S such that the
+single optimality condition for the action proﬁle a∗does hold. As vs, ˆvs, and cs are each
+independent of the state s, it is without loss of generality to consider a transition probability
+ρ that is independent of the state.
+Let vi ≡vi
+s and ˆvi ≡ˆvi
+s for any s ∈S. Considering the single optimality condition above,
+if exists a ρ ∈(0, 1) such that
+(1 −ρ)(vi −ˆvi) = (1 −δ)y
+2
+29
+
+--- Sayfa 36 ---
+then the optimality condition above is satisﬁed. The payoﬀvector v is such that
+vi =
+(1 −δ)
+h
+−ai∗+ δπ(a∗)y
+2
+i
++ δ(1 −π(a∗))(1 −ρ)ˆvi
+1 −δπ(a∗) −δ(1 −π(a∗))ρ
+.
+Let ˜v denote the payoﬀvector from the best no-punishment equilibrium constructed in Lemma
+4. Noting that vi is increasing in ρ, with vi
+|ρ=1 > ˜vi and vi
+|ρ=0 < ˜vi, there exists a ¯ρ ∈(0, 1)
+such that vi
+|ρ=¯ρ = ˜vi. It then follows that
+vi −ˆvi > vi
+|ρ=¯ρ −ˆvi = ˜vi −ˆvi
+∀ρ ∈(¯ρ, 1).
+For each ρ ∈(¯ρ, 1), there exists a δ ∈(0, 1) large enough such that
+(1 −ρ)(vi −ˆvi) = (1 −δ)y
+2.
+This implies that there exists a ¯¯δ ∈(0, 1) such that for any δ ≥¯¯δ, there exists a ρ such that
+(1−ρ)(vi −ˆvi) = (1−δ)y
+2 with ρ ∈(¯ρ, 1). Hence, if δ ≥¯¯δ, then the single optimality condition
+above for the action proﬁle a∗does hold.
+Suppose δ ≥¯¯δ. In order to establish that this strategy is indeed an equilibrium, it must
+be checked that the allocation constraint for the party in power i is satisﬁed. Given the state
+s ∈S, this constraint is
+(1 −δ)y
+2 + ρsvi
+s + (1 −ρs)ˆvi
+s ≥(1 −δ)y + vi
+s.
+As ρsvi
+s + (1 −ρs)ˆvi
+s > vi
+s, there exists a ˆδ ∈(0, 1) such that for any δ ≥ˆδ, this allocation
+constraint is always satisﬁed.
+Take δ ≥max{¯δ, ¯¯δ, ˆδ}. Then, if the suﬃcient condition is satisﬁed, the strategy stated in
+the proposition is a surplus-maximizing equilibrium.
+30
+
+--- Sayfa 37 ---
+References
+Abreu, D., D. Pearce, and E. Stacchetti, 1990, Toward a theory of discounted repeated games
+with imperfect monitoring, Econometrica 58, 1041–1063.
+Acemoglu, D., M. Golosov, and A. Tsyvinski, 2010, Power ﬂuctuations and political economy,
+Journal of Economic Theory 146, 1009–1041.
+Admati, A., and M. Perry, 1987, Strategic delay in bargaining, Review of Economic Studies
+LIV, 345–364.
+Alesina, Alberto, 1987, Macroeconomic policy in a two-party system as a repeated game, The
+Quarterly Journal of Economics 102, 651–678.
+Alesina, A., 1988, Credibility and policy convergence in a two-party system with rational
+voters, The American Economic Review 78, 796–805.
+, G. Cohen, and N. Roubini, 1992, Macroeconomic policy and elections in oecd democ-
+racies, Economics and Politics 4, 1–30.
+Ali, S., 2006, Waiting to settle: Multilateral bargaining with subjective biases, Journal of
+Economic Theory 130, 109–137.
+Avery, C., and P. Zemsky, 1994, Option values and bargaining delays, Games and Economic
+Behavior 7, 139–153.
+Azzimonti, M., 2010, MPRA Paper No. 25937, Political ideology as a source of business cycles,
+.
+Banks, J.S., and J. Duggan, 2000, A bargaining model of collective choice, The American
+Political Science Review 94, 73–88.
+Baron, D.P., 1996, A dynamic theory of collective goods programs, The American Political
+Science Review 90, 316–330.
+, and J. Ferejohn, 1989, Bargaining in legislatures, The American Political Science
+Review 83, 1181–1206.
+Battaglini, M., and S. Coate, 2007, Ineﬃciency in legislative policymaking: A dynamic analy-
+sis, The American Economic Review 97, 118–149.
+Dixit, A., G.M. Grossman, and F. Gul, 2000, The dynamics of political compromise, The
+Journal of Political Economy 108, 531–568.
+Drazen, A., 2000a, The political business cycle after 25 years, NBER Macroeconomics Annual
+15, 75–117.
+, 2000b, Political Economy In Macroeconomics (Princeton University Press).
+, and M. Eslava, 2006, NBER Working Paper No. W12190, Pork barrel cycles, .
+Dutta, P.K., 1995, A folk theorem for stochastic games, Journal of Economic Theory 66, 1–32.
+31
+
+--- Sayfa 38 ---
+Eraslan, H., and A. Merlo, 2002, Majority rule in a stochastic model of bargaining, Journal of
+Economic Theory 103, 31–48.
+Fudenberg, D., and D. Levine, 1994, Eﬃciency and observability with long-run and short-run
+players, Journal of Economic Theory 62, 103–135.
+, and E. Maskin, 1994, The folk theorem with imperfect public information, Econo-
+metrica 62, 997–1040.
+Fudenberg, D., and J. Tirole, 1991, Game Theory (The MIT Press).
+Fudenberg, D., and Y. Yamamoto, 2011, The folk theorem for irreducible stochastic games
+with imperfect public monitoring, Journal of Economic Theory 146, 1664–1683.
+Hibbs, D., 1977, Political parties and macroeconomic policy, American Political Science Review
+71, 1467–1487.
+H¨orner, J., T. Sugaya, S. Takahashi, and N. Vieille, 2011, Recursive methods in discounted
+stochastic games: An algorithm for δ →1 and a folk theorem, Econometrica 79, 1277–1318.
+Kennan, J., and R. Wilson, 1993, Bargaining with private information, Journal of Economic
+Literature XXX1, 45–104.
+Mailath, George J., and Larry Samuelson, 2006, Repeated Games and Reputations: Long-Run
+Relationships (Oxford University Press).
+Martinez, Leonardo, 2009, A theory of political cycles, Journal of Economic Theory 144,
+1166–1186.
+Merlo, A., 1997, Bargaining over governments in a stochastic environment, The Journal of
+Political Economy 105, 101–131.
+, and C. Wilson, 1995, A stochastic model of sequential bargaining with complete
+information, Econometrica 63.
+, 1998, Eﬃcient delays in a stochastic model of bargaining, Economic Theory 11, 39–55.
+Mertens, J.-F., and A. Neyman, 1981, Stochastic games, International Journal of Game Theory
+10, 53–66.
+Nordhaus, William D., 1975, The political business cycle, Review of Economic Studies 42,
+169–190.
+Perry, M., and P. Reny, 1993, A non-cooperative bargaining model with strategically timed
+oﬀers, Journal of Economic Theory 59, 50–77.
+Persson, T., and G. Tabellini, 2002, working paper, Do electoral cycles diﬀer across political
+systems?, .
+Rogoﬀ, Kenneth, 1990, Equilibrium political budget cycles, The American Economic Review
+80, 21–36.
+Rubinstein, A., 1982, Perfect equilibrium in a bargaining model, Econometrica 50, 97–110.
+32
+
+--- Sayfa 39 ---
+, 1985, A bargaining model with incomplete information about time preferences, Econo-
+metrica 53, 1151–1172.
+Sakovics, J., 1993, Delay in bargaining games with complete information, Journal of Economic
+Theory 59, 78–95.
+Shi, M., and J. Svensson, 2006, Political budget cycles: Do they diﬀer across countries and
+why?, Journal of Public Economics 90, 1367 – 1389.
+Simsek, A., and M. Yildiz, 2009, Durable bargaining power and stochastic deadlines, Working
+Paper, MIT.
+Yildiz, M., 2003, Bargaining without a common prior—an immediate agreement theorem,
+Econometrica 71, 793–812.
+, 2004, Waiting to persuade, Quarterly Journal of Economics 119, 223–249.
+33
+
+--- Sayfa 40 ---
+2
+Gridlocks, Extreme Policies and the Proximity of an Upcoming Election
+2.1
+Introduction
+When considering democratic governments where policy decisions are made by a legislature,
+such as the United States Congress or the British Parliament, it is often asserted that proposed
+legislation, or lack thereof, depends on the proximity and expected outcome of an upcoming
+election. Considering how an election ultimately aﬀects policy outcomes before that election,
+a few questions come to mind.
+When will policy negotiations end in a stalemate, giving
+legislative gridlock? When will policy outcomes tend to be moderate or extreme? How does
+the distribution of power amongst the political parties bargaining over policy inﬂuence policy
+outcomes?
+In this paper, I analyze these questions in a simple dynamic model of legislative policy-
+making. The policy outcome at any date is a function of current political power, the proximity
+of the next election, and the expected outcome of that election. The model oﬀers predictions on
+when delay in the policy-making process, interpreted as legislative gridlock, will occur and con-
+siders when relatively moderate or extreme policy outcomes are likely. In addition to focusing
+on how an upcoming election and other factors in the environment inﬂuence policy outcomes
+at dates before an election, this paper also considers the welfare consequences associated with
+various policy decisions.
+The policy-making process is modeled as a perfect information, inﬁnite-horizon bargaining
+game. Two parties bargain over the allocation of the government budget, where a proposed
+division of the budget is only implemented when both parties agree. If parties have not yet
+agreed on an allocation of the budget, a party is randomly selected to propose an allocation.
+At a single exogenous date T, the recognition process that determines which party proposes
+policy at any given date may change, where this change is taken as given. In the model, the
+ability to propose policy is one of the key determinants of “political power,” where a party with
+high political power is more likely to successfully implement its preferred legislation. Hence,
+at date T there is a shift in a factor instrumental to the distribution of political power in the
+model. Consistent with the idea that elections bring shifts in political power, I would like to
+34
+
+--- Sayfa 41 ---
+interpret the date T as an election date.
+The government budget can be spent on indivisible public goods or distributed back to the
+parties in the form of cash transfers. Parties disagree on which of two public goods projects is
+optimal and, by assumption, the budget is not suﬃcient to ﬁnance both projects. At most, one
+party’s preferred project will therefore be implemented when there is agreement. Furthermore,
+it is assumed that each party would strictly prefer to implement its preferred project as opposed
+to receiving a transfer worth the cost of the project. Indeed, it is the surplus generated by
+implementing a project that fosters disagreement in the model.
+As a benchmark, in any Pareto eﬃcient outcome, there is immediate agreement and one
+party’s preferred project is implemented. Hence, legislative gridlock is necessarily ineﬃcient
+in the model.
+When considering policy outcomes after the “election” occurs at the beginning of date T,
+at each date t ≥T there always exists at least one policy that both parties are willing to
+accept. Thus, after the election date parties prefer implementing policy to legislative gridlock.
+Given the expected policy outcomes at date T, I consider bargaining dynamics before date T,
+i.e., in the build up to the election date.
+Equilibrium dynamics depend critically on the distribution of political power in the model.
+If political power is suﬃciently asymmetric, these dynamics take a simple form.
+There is
+either agreement at each date t < T, or there are two phases, {1, . . . , ˆt} and {ˆt + 1, . . . , T −1},
+where there is agreement at each date t ∈{1, . . . , ˆt} and disagreement at each date t ∈
+{ˆt+1, . . . , T −1}. The intuition for this result is fairly straightforward. Near the election date
+T, as political power may change hands, parties may prefer to wait until after the election to
+agree on a policy. As the time until the election increases, parties’ impatience dampens the
+incentive to delay agreement until after the election, thus making a compromise feasible at
+date ˆt. If political power is quite asymmetric, the party with low power expects a low payoﬀ
+from this agreement. This implies that this party is then easy to negotiate with at each date
+t ≤ˆt. Agreement is then feasible at each date t ≤ˆt.
+This line of reasoning suggests that, if political power is rather asymmetric, the policy
+implemented at date ˆt will heavily favor the party with high power. Indeed, this is the case.
+35
+
+--- Sayfa 42 ---
+This, in turn, preserves this party’s advantage, as if the party expects to receive a high payoﬀ
+tomorrow it can credibly demand its preferred policies today. It follows that, when political
+power is suﬃciently asymmetric, the policy implemented at each date t < ˆt will be relative
+“extreme” in the sense that it generates a high payoﬀfor the party with high political power,
+while leaving the other party with very little.
+Next, consider the length of disagreement spells before the election date T when the ex-
+pected policy outcome immediately after the election generates high social surplus. Under
+some mild restrictions on the parameters, if there are multiple spells of disagreement, and
+hence multiple episodes of legislative gridlock, the longest disagreement interval will occur in
+the dates immediately before the election. Hence, though it is possible for an interval of time
+with legislative gridlock to occur at any point before the election, a relatively lengthy interval
+of gridlock will only occur close to the election.
+When the distribution of political power is fairly asymmetric, this distribution aﬀects the
+path of potential policy outcomes in an unsurprising way: the party with high power will
+be able to successfully implement its preferred project more often; thus policies will be more
+extreme and represent the preferences of the party with more political power. In contrast, when
+bargaining power is symmetric, the path of potential policy outcomes becomes more volatile,
+with potentially multiple transitions between intervals of time when agreement is feasible and
+those when it is not.
+The intuition for why the equilibrium may cycle between agreement and disagreement
+“regimes” is as follows. Consider a period (tomorrow) where agreement is feasible, and fur-
+thermore, agreement involves the implementation of a public goods project. In the period
+before (today), if parties have an equal chance of being recognized to propose an allocation
+of the budget and if a project generates a suﬃcient amount of surplus, then each party’s dis-
+counted expected payoﬀat the beginning of the next period will be high, making agreement
+today infeasible. Working backwards, as parties are assumed to be impatient, there will exist
+a date where parties will be able to agree. The cycle will then repeat itself, as agreement
+tomorrow implies that agreement today is impossible.
+It is important to consider exactly why there are periods where agreement on a policy
+36
+
+--- Sayfa 43 ---
+proposal is not feasible.
+Note that if the recognition process that determines which party
+proposes policy at a given date remained ﬁxed for the entire game, then agreement is feasible
+in each period. Given the assumption that recognition probabilities change at some ﬁxed date
+T, agreement is also feasible in each period if there is enough room in the government budget to
+fund both party’s preferred project, parties have the same preferences over public projects, or
+perfectly divisible investments into public projects can be made. Thus, disagreement regarding
+which public project is optimal, indivisible public goods, and the existence of a known date
+where political power shifts combine to make disagreement feasible in equilibrium.
+Broadly speaking, this paper is part of the literature that uses dynamic models to study
+political decision making, and speciﬁcally, how changes in political power aﬀect policy choices.1
+While many papers explore the impact of electoral outcomes on policy-making, elections are
+typically assumed to occur every period or every other period, thereby precluding the analysis
+of policy-making between elections, where there are multiple periods in which parties can
+negotiate policy. By allowing multiple policy-making periods before an election, I can analyze
+how bargaining outcomes depend on an upcoming election date.
+This paper is also related to a strand of literature that provides explanations for disagree-
+ment and delays in agreement in bargaining situations that take place in perfect information
+environments. A more in depth discussion of how this paper relates to this bargaining literature
+is given in Section 5.
+The remainder of the paper is structured as follows. The model is introduced in Section
+2. Section 3 considers the continuation values in equilibrium. In Section 4, the main results
+regarding equilibrium dynamics are presented as well as some examples to illustrate what
+dynamics can arise in equilibrium.
+Section 5 analyzes the related bargaining literature in
+greater detail. Finally, Section 6 concludes. The Appendix contains omitted details that are
+used in the equilibrium analysis.
+1See for instance Alesina (1988), Baron and Ferejohn (1989), Merlo and Wilson (1995, 1998), Baron (1996),
+Banks and Duggan (2000), Dixit et al. (2000), Eraslan and Merlo (2002), and Battaglini and Coate (2007).
+37
+
+--- Sayfa 44 ---
+2.2
+The Model
+Time is discrete and indexed by t ∈{1, 2, . . .}. Let N = {1, 2} denote the set of parties.
+Parties meet to determine the allocation of a unit of income, where this income can be spent
+on public goods, with any remaining income being divided between the parties.
+There are two possible indivisible public goods projects, project 1 and project 2, where
+party 1’s preferred project is 1 and party 2’s preferred project is 2. The cost of implementing
+one project is c > 1/2; thus, only one project can be implemented. When parties reach an
+agreement there are two possibilities: one, implement a project and divide the remaining 1−c
+of income, or two, divide the unit of income. Let Z = {1, X(1−c)} S{2, X(1−c)} S{0, X(1)}
+denote the set of potential policy outcomes, where “0” means that no project is implemented,
+“j” means that project j ∈{1, 2} is implemented, and X(y) = {(x1, x2) ∈[0, y]2, x1 +x2 ≤y},
+with y ∈{1 −c, 1}
+Each party i ∈N cares about the project that is implemented and how much of the
+remaining income she receives. Party i gets a payoﬀof θ from project i and a payoﬀof 0 from
+project j̸ = i. Given a division (x1, x2) ∈X(y), with y ∈{1 −c, 1}, party i gets a payoﬀxi. I
+assume that θ > c so implementing a public goods project creates a higher aggregate surplus
+as opposed to implementing no project and dividing the unit of income. Let ui(z) denote the
+ﬂow payoﬀi receives from the policy z ∈Z. Payoﬀs are discounted by the common discount
+factor δ ∈(0, 1).
+Let S denote a ﬁnite state space. Given s ∈S, {p0(s), p1(s), p2(s)} are recognition proba-
+bilities, with pk(s) ∈[0, 1] for each k ∈{0, 1, 2} and p0(s) + p1(s) + p2(s) = 1. The state can
+only possibly transition at the very beginning of period T, where T > 1 is exogenously given.
+Given the state s′ ∈S, where s′ is the state for each date t < T, with probability ms ∈(0, 1)
+the state transitions from s′ to s, where s is then the state for each date t ≥T. The state is
+public information in each period.
+Policy outcomes are determined by the following perfect information bargaining game. At
+the beginning of each period t (after the potential state transitions if t = T), if the parties have
+not agreed yet, given the state s ∈S, with probability pi(s) party i ∈N is recognized to make a
+38
+
+--- Sayfa 45 ---
+proposal and with probability p0(s) < 1 neither party is recognized to make a proposal. When
+a party is recognized to make a proposal, the proposer makes an oﬀer that speciﬁes how the
+unit of income will be spent. If the other party accepts the policy, parties receive the payoﬀs
+from the policy and the game ends. If the other party rejects the policy, each party gets an
+instantaneous utility of zero, and the game proceeds to period t + 1. On the other hand, when
+neither party is recognized to propose, each party gets an instantaneous utility of zero, and
+the game proceeds to period t + 1.
+The history at the beginning of period t is ht = (s1, a1, . . . , st−1, at−1, st), where aτ, with
+τ ≤t−1, contains the following information: whether or not a party was recognized to make a
+proposal in period τ, and if a party was recognized, the identity of the proposer; the proposal
+that was made; and the vote cast by the party not proposing. Let Ht denote the set of all
+such time t histories and H = S
+t≥1 Ht denote the set of all such histories. Let hi
+t denote a
+history when it is party i’s turn to vote in period t, where hi
+t lists the information in ht, the
+identity of the proposer and the proposal. Let Hi
+t denote the set of all such time t histories
+and Hi = S
+t≥1 Hi
+t denote the set of all such histories.
+A (behavior) strategy for party i ∈N is given by σi = {ri, vi}, where ri : H →∆(Z)
+and vi : Hi →∆({yes, no}). I only consider Markov perfect equilibria (henceforth, MPE), a
+special class of subgame perfect equilibria. In the model, a Markov perfect equilibrium is a
+proﬁle of strategies σ that is a subgame perfect equilibrium and satisﬁes the following
+• At any date t < T, the proposal only depends on the date t, the state, and the identity
+of the proposer i, while party j’s, with j̸ = i, vote only depends on the date t, the state,
+the identity of the proposer, and the proposal;
+• At any date t ≥T, the proposal only depends on the state and the identity of the
+proposer i, while party j’s vote depends only on the state, the identity of the proposer,
+and the proposal.
+39
+
+--- Sayfa 46 ---
+2.2.1
+Remarks
+A few features of the model deserve further attention. First, the assumption that in a given
+state s ∈S, with probability p0(s) neither party is recognized to propose policy captures
+the idea that there are occasionally disturbances to the policy-making process that prevent
+parties from meeting to negotiation policy. For instance, another issue may become of primary
+importance, distracting parties from bargaining over the issue of initial concern, or a hostile
+political climate may prevent fruitful discourse over the issue at hand.
+Second, I do not allow both parties to commit to lotteries over which public good to
+implement. Allowing such binding lotteries would facilitate compromise and aﬀect some of the
+results of the paper, particularly those pertaining to legislative gridlock. Essentially, depending
+on the way that these binding lotteries are modeled, it is possible that there would no longer
+be any legislative gridlock on the equilibrium path. The assumption to rule out these lotteries
+captures the idea that often times political parties cannot commit to future policies.
+Third, by limiting my attention to Markov perfect equilibria, I rule out equilibria that
+may rely on history-dependent punishment strategies in order to enforce certain outcomes. It
+should be noted that, if parties are suﬃciently patient, it is possible to construct equilibria of
+this form in the model.
+2.2.2
+Pareto Eﬃcient Policies
+First, in any Pareto eﬃcient policy there is immediate agreement, whether the implemented
+proposal involves the implementation of a project or not.
+Second, amongst the proposals
+that involve immediate agreement, it is possible to have eﬃcient policies that involve the
+implementation of a project and eﬃcient policies that do not.
+Note ﬁrst that any policy
+involving the implementation of a project is Pareto eﬃcient. Now consider policies that do
+not involve the implementation of a project. Any division (x1, x2) of the unit of income, where
+x1 + x2 = 1, such that xi ∈(1 −c, c) for all i ∈N is Pareto eﬃcient.2 This follows from the
+assumption that θ > c. Observe that though there are policies involving divisions of the unit
+2The interval (1 −c, c) is nonempty due to the assumption that c > 1/2.
+40
+
+--- Sayfa 47 ---
+of income that are Pareto eﬃcient, as θ > c, policies involving the implementation of a project
+always generate a higher aggregate surplus.
+2.3
+Continuation Values in a MPE
+In this section, I characterize the continuation values for any MPE. When considering Propo-
+sition 1 below, in a particular MPE, the proposals and acceptance rules at each date t ≥T
+will be identical. Hence, the continuations values, at each date t ≥T will be identical and
+will not be indexed by t. On the other hand, the continuation values at each date t < T will
+typically depend on the date and will therefore be indexed by the date t. Before stating the
+proposition, the follow notation and background is needed.
+Preliminaries. Given the period t ≥T and the state s ∈S, let V i(s) denote the continuation
+value for party i at the beginning of the period. Let the aggregate surplus be P(s) = V 1(s) +
+V 2(s). Given the period t < T and the state s ∈S, let V i
+t (s) denote the continuation value
+for party i at the beginning of period t. Let Pt(s) = V 1
+t (s) + V 2
+t (s). In period T, let V i
+T (s) be
+the continuation value after the state has transitioned to s ∈S.
+First, consider any date t ≥T. Given state s ∈S, let Ai(s) = {z ∈Z : ui(z) ≥δV i(s)}
+denote the set of policies that party i is willing to accept. The set A(s) = A1(s) ∩A2(s) is
+then the set of policies that are acceptable to both parties. Though I do not allow parties
+to commit to binding lotteries over which public good to implement, I do allow parties to
+randomize over policy proposals when indiﬀerent. Let πi(·; s) denote the probability measure
+over the policy space Z that governs party i’s proposal decision. This probability measure
+satisﬁes the following
+• πi(·; s) has full support on the set arg maxz∈A(s) ui(z) if maxz∈A(s) ui(z) > δV i(s);
+• πi(·; s) has full support on the set arg maxz∈A(s) ui(z) ∪Z\Aj(s) if maxz∈A(s) ui(z) =
+δV i(s);
+• πi(·; s) has full support on Z\Aj(s) if maxz∈A(s) ui(z) < δV i(s) or if the set A(s) is
+empty.
+41
+
+--- Sayfa 48 ---
+These mixed-proposals can be described as follows. If maxz∈A(s) ui(z) > δV i(s), then there
+exists at least one policy that party i can propose that will be accepted by party j and
+that gives i a payoﬀstrictly greater than its discounted continuation value. Hence, party i
+will randomize over the set arg maxz∈A(s) ui(z). If maxz∈A(s) ui(z) = δV i(s), then party i
+is indiﬀerent between proposing a policy from the set arg maxz∈A(s) ui(z) and proposing a
+policy that will surely be rejected by party j (i.e., proposing a policy from the set Z\Aj(s)),
+where such a policy gives party i its discounted continuation value δV i(s). Thus, party i will
+randomize over the set arg maxz∈A(s) ui(z) ∪Z\Aj(s). Finally, if maxz∈A(s) ui(z) < δV i(s),
+then party i strictly prefers to propose a policy that will surely be rejected by party j, where
+such a proposal gives party i its discounted continuation value δV i(s).
+Party i will then
+randomize over the set Z\Aj(s).
+Second, suppose it is any date t < T. Given state s ∈S, let Ai
+t(s) = {z ∈Z : ui(z) ≥
+δV i
+t+1(s)} denote the set of policies that party i is willing to accept. The set At(s) = A1
+t (s) ∩
+A2
+t (s) is then the set of policies that are acceptable to both parties. Let πi
+t(·; s) denote the
+probability measure over Z that governs party i’s proposal decision. This probability measure
+satisﬁes the following
+• πi
+t(·; s) has full support on the set arg maxz∈At(s) ui(z) if maxz∈At(s) ui(z) > δV i
+t+1(s);
+• πi
+t(·; s) has full support on the set arg maxz∈At(s) ui(z) ∪Z\Aj
+t(s) if maxz∈At(s) ui(z) =
+δV i
+t+1(s);
+• πi
+t(·; s) has full support on Z\Aj
+t(s) if maxz∈At(s) ui(z) < δV i
+t+1(s) or if the set At(s) is
+empty.
+The logic underlying the mixed proposals at any date t < T and the proposals at any date
+t ≥T is identical. The following proposition considers the continuation values in a particular
+MPE.
+Proposition 2. In any MPE, given the state s ∈S, at each date t ≥T the continuation value
+42
+
+--- Sayfa 49 ---
+for party i ∈N at the beginning of any period t ≥T is
+V i(s) = pi(s)
+h Z
+A(s)
+ui(z) dπi(z; s) +
+Z
+Z\Aj(s)
+δV i(s) dπi(z; s)
+i
++ pj(s)
+h Z
+A(s)
+ui(z) dπj(z; s) +
+Z
+Z\Ai(s)
+δV j(s) dπj(z; s)
+i
++ p0(s)δV i(s)
+where j̸ = i. The continuation value for party i ∈N at the beginning of any period t < T is
+V i
+t (s) = pi(s)
+h Z
+At(s)
+ui(z) dπi
+t(z; s) +
+Z
+Z\Aj
+t(s)
+δV i
+t+1(s) dπi
+t(z; s)
+i
++ pj(s)
+h Z
+At(s)
+ui(z) dπj
+t (z; s) +
+Z
+Z\Ai
+t(s)
+δV j
+t+1(s) dπj
+t (z; s)
+i
++ p0(s)δV i
+t+1(s)
+where j̸ = i. Note that if t = T −1, replace V i
+t+1(s) for each i ∈N with P
+s′∈S ms′V i(s′).
+Proof. First, consider the continuation game that begins at date T, after the state has transi-
+tioned. Consider why the continuation values as stated in the proposition are consistent with
+a MPE. Given the continuations payoﬀs (V 1(s), V 2(s)), in equilibrium, party i will accept
+any policy z ∈Z such that ui(z) ≥δV i(s). Given the continuations payoﬀs (V 1(s), V 2(s)),
+in equilibrium, if maxz∈A(s) ui(z) > δV i(s), then the proposer i will randomize over the set
+arg maxz∈A(s) ui(z); if maxz∈A(s) ui(z) = δV i(s), then the proposer i will randomize over
+the set arg maxz∈A(s) ui(z) ∪Z\Aj(s); and, if maxz∈A(s) ui(z) < δV i(s), then the proposer
+i will ﬁnd it optimal to propose a policy that will be rejected by party j, i.e., a policy in
+Z\Aj(s). This argument implies that the probability measures (π1(·; s), π1(·; s)) are as stated
+in the proposition. In a MPE, the proposals and acceptance rules just described must induce
+the continuation values that are as stated in the proposition. Inspection of the continuations
+values stated in the proposition conﬁrms that these proposals and acceptance rules do induce
+these values.
+In order to complete this part of the proof, consider the following strategies. When party
+i is not recognized to propose, she accepts any policy z ∈Z such that ui(z) ≥δV i(s). When
+party i is recognized to propose, the proposed policy is governed by πi(· ; s). This strategy
+implements the continuation values stated in the proposition and no party has an incentive
+43
+
+--- Sayfa 50 ---
+for a one-shot deviation; hence, this strategy is a MPE.
+Now, consider the continuation values at each date t < T and check that they are consistent
+with MPE. First, given a state s ∈S, at each date t < T, the continuation values at the
+beginning of period T (before the state transitions) are given by P
+s′∈S ms′V i(s′). Given these
+continuation values, the MPE of the game is determined by backwards induction. For each date
+t < T, given the continuation payoﬀs (V 1
+t+1(s), V 2
+t+1(s)) (as stated in the proposition if t = T −1,
+replace V i
+t+1(s) for each i ∈N with P
+s′∈S ms′V i(s′)), in equilibrium, party i will accept any
+policy z ∈Z such that ui(z) ≥δV i
+t+1(s). Given the continuations payoﬀs (V 1
+t+1(s), V 2
+t+1(s)),
+in equilibrium, if maxz∈At(s) ui(z) > δV i
+t+1(s), then the proposer i will randomize over the
+set arg maxz∈At(s) ui(z); if maxz∈At(s) ui(z) = δV i
+t+1(s), then the proposer i will randomize
+over the set arg maxz∈At(s) ui(z) ∪Z\Aj
+t(s); and, if maxz∈At(s) ui(z) < δV i
+t+1(s), then the
+proposer i will ﬁnd it optimal to propose a policy that will be rejected by party j, i.e., a
+policy in Z\Aj
+t(s). This argument implies that the probability measures (π1
+t (·; s), π1
+t (·; s)) are
+as stated in the proposition. In a MPE, the proposals and acceptance rules just described
+must induce continuation values at date t that are as stated in the proposition. Inspection of
+the continuation values stated in the proposition conﬁrms that these proposals and acceptance
+rules do induce these values.
+In order to complete this part of the proof, consider the following strategies.
+At date
+t < T, when party i is not recognized to proposer, she accepts any policy z ∈Z such that
+ui(z) ≥δV i
+t+1(s).
+At date t, when party i is recognized to propose, the proposed policy
+is governed by πi
+t(· ; s).
+This strategy implements the continuation payoﬀs stated in the
+proposition and no party has an incentive for a one-shot deviation; hence, this strategy is a
+MPE.
+Proposition 1 says nothing about the existence of a MPE. Notice that if there exists a
+MPE in the continuation game beginning at date T, then there exists a MPE in the game.
+Therefore, one starts by considering existence in the continuation game beginning at date T.
+As the policy space Z is not convex, the probability measure πi(·; s) that governs proposals
+44
+
+--- Sayfa 51 ---
+for party i is discontinuous in δV j(s).3 It is therefore not possible to establish existence of a
+MPE by appealing to some of the standard ﬁxed point arguments.
+Fortunately, under certain parametric restrictions (see Condition D below), it is possible
+to prove existence of a MPE in the continuation game beginning at date T by simply con-
+structing an equilibrium. Though this is a limitation, as we cannot be sure if a MPE exists
+in the continuation game, if Condition D is satisﬁed, then the necessary condition for the
+existence of the MPE that are of primary interest in this paper—those where delay is possible
+on the equilibrium path—is satisﬁed (Claim 1 below). The following proposition establishes
+that under certain parametric restrictions, it is possible to construct MPE in the continuation
+game beginning at date T. It makes use of the following condition
+Condition D: In each state s ∈S, suppose δ(1−p0(s))
+1−δp0(s) (θ + 1 −c) > 1.
+Proposition 3. Under Condition D, there exists a MPE in the continuation game beginning at
+date T (after the state has transitioned). Furthermore, given the state s ∈S, suppose (without
+loss of generality) that p1(s) ≥p2(s). There always exists a MPE where both parties oﬀer the
+same project with strategies
+• For party 1: when recognized to propose, oﬀer project 1 and the division (x, 1 −c −x) of
+the remaining income of size 1 −c; accept any oﬀer z ∈Z if u1(z) ≥δV 1(s),
+• For party 2: when recognized to propose, oﬀer project 1 and the division (y, 1 −c −y) of
+the remaining income of size 1 −c; accept an oﬀer z ∈Z if and only if u2(z) ≥δV 2(s),
+where the values x and y are uniquely determined given (δ, p(s), c, θ).
+3Consider the proposal strategy πi(·; s) for party i, as a function of δV j(s). If δV j(s) ≤1 −c, then it can
+be veriﬁed that it is optimal for party i to propose the policy “implement project 1 and oﬀer party j the share
+δV j(s) of the remaining 1 −c if income” with probability one. If δV j(s) ∈(1 −c, c), then it can be veriﬁed that
+it is optimal for party i to propose the policy “implement no project and oﬀer party j the share δV j(s) of the
+remaining unit of income” with probability one. Observe that πi(·; s) is discontinuous at δV j(s) = 1 −c due to
+the assumption θ > c.
+45
+
+--- Sayfa 52 ---
+Proof. Without loss of generality, for the proof let i = 1 and j = 2. In the proposed MPE, the
+continuation values at the beginning of any period t ≥T are
+V 1(s) = p1(s)(θ + x) + p2(s)(θ + y) + p0(s)δV 1(s)
+V 2(s) = p1(s)(1 −c −x) + p2(s)(1 −c −y) + p0(s)δV 2(s),
+where x, y ∈[0, 1 −c]; these equalities can be simpliﬁed to
+V 1(s) = p1(s)(θ + x) + p2(s)(θ + y)
+1 −δp0(s)
+V 2(s) = p1(s)(1 −c −x) + p2(s)(1 −c −y)
+1 −δp0(s)
+.
+Note that the second equation implies 1 −c > δV 2(s); this implies, that in equilibrium x ∈
+(0, 1 −c] and 1 −c −x = δV 2(s), as otherwise there exists a proﬁtable deviation for party 1.
+Also, note that θ+1−c > δV 1(s); this implies that in equilibrium either y = 0 and θ ≥δV 1(s)
+or y ∈(0, 1 −c) and θ + y = δV 1(s), as otherwise there exists a proﬁtable deviation for party
+2.
+I now consider when y = 0 is consistent with equilibrium. In this case,
+θ + x ≥δV 1(s)|y=0, 1 −c −x = δV 2(s)|y=0
+and θ ≥δV 1(s)|y=0, 1 −c ≥δV 2(s)|y=0;
+notice that this set of equations reduces to θ ≥δV 1(s)|y=0 and 1 −c −x = δV 2(s)|y=0, as
+x ∈(0, 1 −c]. Expanding the equality 1 −c −x = δV 2(s)|y=0, one has
+1 −c −x = δ
+hp1(s)(1 −c −x) + p2(s)(1 −c)
+1 −δp0(s)
+i
+,
+which gives
+x =
+(1 −c)(1 −δ)
+1 −δ(p0(s) + p1(s)).
+46
+
+--- Sayfa 53 ---
+Substituting this value for x into θ ≥δV 1(s)|y=0, one has
+θ ≥
+δ
+1 −δp0(s)(1 −p0(s))θ +
+δ
+1 −δp0(s)
+h
+(1 −c)(1 −δ)
+1 −δ(p0(s) + p1(s))
+i
+,
+(2.1)
+where the right-hand side of (1) evaluated at p1(s) = 1 is δθ + δ(1 −c). Noting that V 1(s)|y=0
+is increasing in p1(s), it follows that for each δ ∈(0, 1), there exists a ¯pδ(s) ∈[p2(s), 1] such
+that for any ¯pδ(s) ≥p1(s), (1) is satisﬁed.
+Given δ ∈(0, 1), suppose ¯pδ(s) ≥p1(s). I now show that, under Condition D, the strategies
+above with y = 0 are consistent with equilibrium. This is done by checking that there are no
+proﬁtable one-shot deviations. First, consider deviations to policies that implement project
+2. As θ > 1 −c, party 1 will never deviate by proposing to implement project 2. If party 2
+deviates by proposing to implement project 2, such an oﬀer will not be accepted by party 1 if
+δV 1(s) = δp1(s)(θ+x)+δp2(s)θ
+1−δp0(s)
+> 1 −c. Notice that if δV 1(s) ≤1 −c, then, as δV 2(s) ≤1 −c,
+δ(V 1(s) + V 2(s)) =
+δ
+1 −δp0(s)
+
+(1 −p0)(θ + 1 −c)
+
+≤2(1 −c) ≤1,
+which contradicts Condition D. Hence, under Condition D, there are no one-shot deviations of
+this kind. Second, consider deviations to policies involving no project, with parties agreeing
+on a division of the unit of income. As θ > c, and 1 −c > δV 2(s), party 1 will not choose
+such a deviation. As far as party 2 is concerned, if δP > 1, there does not exist a proﬁtable
+one-shot deviation for party 2; under Condition D, as δP =
+δ
+1−δp0(s)
+
+(1 −p0)(θ + 1 −c)
+
+> 1,
+no such one-shot deviation is possible. Thus, the proposed strategies constitute an MPE.
+Given δ ∈(0, 1), suppose p1(s) > ¯pδ(s). In this case y > 0. Note that for any y ∈(0, 1 −c)
+there exists an x ∈(0, 1 −c] such that 1 −c −x = δV 2(s). The value y is then chosen so
+θ + y = δV 1(s); note that, as θ + 1 −c > δV 1(s) and θ < δV 1(s), such a y ∈(0, 1 −y) always
+exists. Using arguments analogous to the case with y = 0, under Condition D there are no
+one-shot deviations and the proposed strategies constitute an equilibrium.
+Though Proposition 2 establishes that, under Condition D, there always exists an equilib-
+rium in the continuation game beginning at date T of the form described, it is also possible
+47
+
+--- Sayfa 54 ---
+that there are multiple MPE in this continuation game.
+Multiple MPE. In the following example, it is possible to construct three MPE in the
+continuation game game beginning at date T. Suppose δ ∈(2(1 −c), 1), the state s ∈S
+is such that p1(s) = p2(s) = 1/2 and Condition D is satisﬁed.
+First, there are MPE as
+constructed in Proposition 2, with one MPE that implements project 1 each period and one
+MPE that implements project 2 each period. Second, there is an MPE where parties agree
+each period on a policy where no project is implemented and the unit of income is divided. It
+is straightforward to verify that the continuation values are V 1(s) = V 2(s) = 1/2 and that the
+following strategy is a MPE: when recognized to propose, a party oﬀers δ 1
+2 to the other party;
+when not recognized to propose, accept i accepts any oﬀer z ∈Z where ui(z) ≥δV i(s).
+This example illustrates that it is possible for there to be multiple MPE in the continuation
+game beginning at date T. This implies that when MPE exist they need not be unique. Hence,
+continuation payoﬀs at any date may also not be unique.
+2.4
+Equilibrium Dynamics Before Date T
+In this section, I consider equilibrium dynamics in the interval of time before date T and focus
+on when it is possible for parties to agree on policy. As at the beginning of date T one primary
+determinant of political power—the recognition probabilities—changes, this analysis considers
+how dynamics before an “election” depend both on the proximity and the expected outcome
+of that election.
+Types of Agreement. In the event that there is agreement at date t < T, it is possible
+to put additional structure on both proposals and continuations values at that date. Section
+A.1 in the Appendix provides a formal characterization of the ﬁve possible types of agreement
+and the proposals and continuation values in each of these phases of agreement. The ﬁve
+types of agreement in a given period t < T can be described as follows, where, without loss of
+generality, suppose δV 1
+t+1(s) ≥δV 2
+t+1(s) given the state s ∈S.
+48
+
+--- Sayfa 55 ---
+In two of the ﬁve possible agreement scenarios (in the Appendix, Type 1 and 2 agreement),
+parties agree on a proposal that implements project 1 regardless of which party is recognized
+to propose.
+This occurs when the gap between parties’ discounted continuation values is
+signiﬁcant enough that the only type of policy that party 1 will accept is one that implements
+her preferred project. As party 2 has such a small discounted continuation value, it will accept
+and propose such a policy.
+In another type of agreement (in the Appendix, Type 3 agreement), if recognized to pro-
+pose, party 1 proposes a policy that implements project 1 and this is accepted by party 2.
+If party 2 is recognized to propose, it proposes a policy that does not implement a project,
+with parties instead dividing the unit of income, and this is accepted by party 1. This occurs
+when party 2’s discounted continuation value is small, while party 1 has a relatively moderate
+continuation value. As party 2 requires a small payoﬀfrom any policy, party 1 is able to
+successfully implement its preferred project when recognized to propose. On the other hand,
+as party 1 has a moderate continuation value, it will accept policies that do no implement
+project 1, with agents dividing the unit of income. Party 2 ﬁnds it optimal to propose such a
+policy.
+In yet another type of agreement (in the Appendix, Type 4 agreement), regardless of which
+party is recognized to propose, parties agree on a proposal where no project is implemented,
+with parties dividing the unit of income. In this case, both parties have relatively moderate
+discounted continuation values, and hence, either party will reject a policy that implements the
+other party’s preferred project, as it provides too small of a payoﬀ. Though it is not possible
+to agree on a policy that implements a project, parties are willing to agree on a policy that
+simply divides the unit of income.
+Finally, in the last type of agreement (in the Appendix, Type 5 agreement), the party
+that is recognized to propose oﬀers a proposal that implements her preferred project and this
+proposal is accepted by the other party. In this case, parties’ continuation values are so small
+that they are each willing to accept a policy that implements the other party’s preferred project.
+Agreement and Disagreement in MPE. Fix a MPE σ. At any date t < T, using the
+49
+
+--- Sayfa 56 ---
+terminology in Yildiz (2003), there are two possibilities. First, there is an agreement regime in
+σ at date t, if parties have not yet reached an agreement before date t, and as long as a party
+is recognized to propose, at date t there will be agreement. Second, there is a disagreement
+regime in σ at date t, if parties have not reached an agreement before date t, and regardless
+of which (if any) party is recognized to propose, at date t there will be disagreement. Given
+the state s ∈S for each date t < T, if the following two conditions are satisﬁed at date t, then
+there is a disagreement regime in σ at date t
+1. δV i
+t+1(s) > 1 −c for all i ∈N;
+2. δPt+1(s) = δ(V 1
+t+1(s) + V 2
+t+1(s)) > 1.
+If either of these two conditions does not hold, then there is an agreement regime in σ at date t.
+This can be explained as follows. If δPt+1(s) ≤1, then it is always possible that parties agree on
+a policy where no project is implemented, the proposer i oﬀers party j exactly δV j
+t+1(s), which
+will be accepted by party j, and the proposer i receives 1−δV i
+t+1(s). As 1−δV i
+t+1(s) ≥δV i
+t+1(s),
+it is always possible that party i will make such a proposal, as opposed to proposing a policy
+that will surely be reject by party j. Now, suppose that δPt+1(s) > 1. In this case, agreement
+on any proposal where no project is implemented and parties agree on some division of the
+unit of income is not possible. Instead, consider proposals involving the implementation of
+project. If there exists a party i such that δV i
+t+1(s) ≤1 −c, then it is feasible for the parties
+to agree on a proposal of the following form: project j̸ = i is implemented, party i receives x
+of the remaining 1 −c of income and party j receive 1 −c −x of this income.4
+For each t < T, let ¯Pt denote the upper bound on the surplus in period t. Keeping in mind
+that the surplus is maximized under a policy that implements a project, this upper bound is
+deﬁned recursively as follows. Given a state s ∈S at each date t < T, the upper bound on the
+expected surplus at the very beginning of period T is
+¯PT ≡
+X
+s′∈S
+ms′ (1 −p0(s′))
+1 −δp0(s′) (θ + 1 −c)
+4Suppose such a proposal was not feasible. Then δPt+1(s) > θ + 1 −c and a contradiction obtains.
+50
+
+--- Sayfa 57 ---
+The upper bound on the expected surplus at date T −1 is then
+¯PT−1(s) ≡(1 −p0(s))(θ + 1 −c) + δp0(s) ¯PT ;
+(2.2)
+it follows that the upper bound on expected surplus at each t < T −1 is
+¯Pt(s) ≡(1 −p0(s))(θ + 1 −c) + δp0(s) ¯Pt+1.
+(2.3)
+A necessary condition for the existence of a disagreement regime at date T −1 is then δ ¯PT > 1,
+while a necessary condition for the existence of a disagreement regime at date t < T −1 is
+δ ¯Pt+1(s) > 1. As θ > c, these conditions will be satisﬁed when the positive surplus generated by
+implementing a project is suﬃciently large, and the probability that neither party is recognized
+to propose policy each period (p0(s)) is suﬃciently small. Essentially, disagreement regimes
+will only arise when projects are highly valuable and, in expectation, parties are able to make
+policy proposals suﬃciently often. Of course, parties must also be suﬃciently patient.
+The following claim veriﬁes that if Condition D is satisﬁed, then a necessary condition for
+the existence of a MPE where there are periods of disagreement before date T is satisﬁed.
+Claim 1. Suppose Condition D is satisﬁed. Then δ ¯PT > 1 and δ ¯Pt+1(s) > 1 for each t < T.
+Proof. If Condition D is satisﬁed, then, for any s ∈S,
+1 −p0(s)
+1 −δp0(s)δ(θ + 1 −c) > 1.
+As 1−p0(s)
+1−δp0(s) ≤1, this implies that δ(θ+1−c) > 1. It then follows that δ ¯PT > 1 and δ ¯Pt+1(s) > 1
+for each t < T.
+When considering the dynamics exhibited by a particular MPE in the interval of time
+before date T, given the pair of continuation values at the beginning of period T (before the
+state transitions), determining proposals and acceptance rules at each date t < T amounts to
+inducting backwards. In general, it is not clear in what periods there will be agreement regimes
+and what exactly accepted proposals will be in each of these agreement regimes. The following
+51
+
+--- Sayfa 58 ---
+lemma considers equilibrium dynamics when a party is able to implement her preferred project
+in a given period, regardless of which party is recognized to propose.
+Lemma 7. Let s ∈S denote the state at each date t < T and suppose Condition D holds.
+Fix a MPE where there is an agreement regime at date ˆt < T, and furthermore, regardless of
+which party is recognized to propose, the proposed policy implements project k. Then, in this
+MPE, there exists an agreement regime at each date t < ˆt, where, regardless of which party is
+recognized to propose, the proposed policy implements project k
+Proof. Consider date ˆt. If both parties j and k propose a policy (with probability one) that
+implements project k, it must be the case that δV k
+ˆt+1(s) > c and δV j
+ˆt+1(s) ≤1 −c. Hence,
+there is either Type 1 or Type 2 agreement (see the Appendix). It follows that continuation
+values at the beginning of date ˆt are
+V k
+ˆt (s) = pk(s)(θ + x) + pj(s)(θ + y) + p0(s)δV k
+ˆt+1(s)
+V j
+ˆt (s) = pk(s)(1 −c −x) + pj(s)(1 −c −y) + p0(s)δV j
+ˆt+1(s),
+where j̸ = k and x, y ∈[0, 1 −c]. Note that V j
+ˆt (s) ≤1 −c. I now show that δV k
+ˆt (s) > c.
+Observe that V k
+ˆt (s) > (1−p0(s))θ+p0(s)c. Next, one can show that δ[(1−p0(s))θ+p0(s)c] > c.
+Towards a contradiction, suppose otherwise. This implies δ(1−p0(s))
+1−δp0(s) θ ≤c, and consider
+1 < δ(1 −p0(s))
+1 −δp0(s) (θ + 1 −c)
+|
+{z
+}
+Condition D
+≤c + δ(1 −p0(s))
+1 −δp0(s) (1 −c).
+This implies
+1 < δ(1 −p0(s))
+1 −δp0(s) ,
+giving a contradiction. Thus, δV k
+ˆt (s) > c and V j
+ˆt (s) ≤1 −c. It follows that proposals at date
+ˆt −1 will be as in period ˆt: both parties j and k propose a policy (with probability one) that
+implements project k. When consider proposals at each date t ≤ˆt −1, an argument identical
+to one used when considering period ˆt −1 establishes the desired result.
+52
+
+--- Sayfa 59 ---
+If a party i is able to implement her preferred project in a given period ˆt < T, regardless
+of which party is actually proposing policy, this gives party i a high expected payoﬀat the
+beginning of period ˆt. Under Condition D, party i will also be able to successfully implement
+its preferred project at date ˆt−1. Essentially, if a party knows that it will receive a high payoﬀ
+tomorrow, it can credibly demand a high share today. It follows that party i will be able to
+implement her preferred project at each date t < ˆt −1.
+The following proposition builds on Lemma 1 and illustrates how asymmetries in political
+power inﬂuence equilibrium dynamics and allow for a fairly straightforward characterization
+of when agreement regimes will occur. It is useful to note that, due to discounting, when T
+is suﬃciently large, in any MPE, there will exist a date t < T where there is an agreement
+regime.
+Proposition 4. Let s ∈S denote the state at each date t < T and suppose Condition D
+holds. Fix a MPE. Assuming T is large enough, let t1 < T denote the ﬁrst date, counting
+backwards from date T, where there is an agreement regime in this MPE. Given the surplus at
+the beginning of period t1, denoted Pt1+1(s),
+1. If δPt1+1(s) > 1, then there is an agreement regime in this MPE at each date t < t1 with
+a project implemented in each period whenever some party is recognized to propose;
+2. If δPt1+1(s) ≤1, then there exists a ¯p(s) ∈(0, 1) such that if p ≥¯p(s), with p ∈
+{p1(s), p2(s)}, there is an agreement regime in this MPE at each date t < t1 with a
+project implemented in each period whenever some party is recognized to propose.
+Proof. First, suppose δPt1+1(s) > 1. In this case, continuation values are such that δV i
+t1+1(s) >
+c and δV j
+t1+1(s) ≤1 −c. Then there is either Type 1 or Type 2 agreement (see the Appendix)
+and, if recognized to propose, either party will propose a policy that implements project i with
+probability one. Lemma 1 then applies and the desired result is obtained.
+Next, suppose δPt1+1(s) ≤1. Considering how continuation values are deﬁned in Propo-
+sition 1, there exists a ¯p(s) ∈(0, 1) such that if max{p1, p2} ≥¯p(s), then at each date t ≤t1,
+min{δVt(s)1, δV 2
+t (s)} ≤1 −c. It follows that there is agreement at each date t < t1.
+53
+
+--- Sayfa 60 ---
+Proposition 3 demonstrates that if political power is suﬃciently asymmetric then the path
+of predicted policy outcomes takes a simple form. In a given MPE σ, if there is an interval of
+disagreement, it occurs immediately before the election, and whenever there is an agreement
+regime in σ at date t < t1, as long as some party is recognized to propose, the party with
+higher political power will implement her preferred project. Hence, implemented policies at
+dates before t1 are “extreme” in a sense.
+It is useful to consider where political power in the time before date T comes from in
+model. There are two primary determinants of a party’s political power. One, the recognition
+probabilities at each date t < T. In any MPE, a party’s continuation value is nondecreasing in
+its recognition probability. This follows from the fact that whenever a party is recognized to
+propose, as parties are impatient, the recognized party is able to extract rents from the other
+party. The second factor that aﬀects a party’s political power are the continuation values
+at the very beginning of date T, which depend on the recognition probabilities at each date
+t ≥T, and, if there are multiple MPE, the equilibrium that parties coordinate on. If there
+are multiple MPE, these equilibria can be ranked according to the payoﬀeach delivers to
+a particular party. In short, equilibria can be “bad” or “good” from a party’s perspective.
+Whether due to a party i having a high recognition probability or parties coordinating on a
+MPE that gives party i a high payoﬀ, these factors translate into i having a high continuation
+value. This party then has high political power as it is able to successfully demand its preferred
+policies.
+The distribution of political power is instrumental in both part 1 and 2 of Proposition 3.
+In part 1, if parties are willing to agree at date t1 with δPt1+1(s) > 1, it must be the case
+that δV j
+t1+1(s) ≤1 −c and δV i
+t1+1(s) > c; this only occurs when political power, arising from
+the continuation values at the very beginning of date T, is suﬃciently asymmetric. Notice
+that, as parties have not agreed at any date t ∈{t1 + 1, . . . , T −1} (where this interval may
+be empty), the current recognition probabilities have no impact on the continuation values
+(δV 1
+t1+1(s), δV 2
+t1+1(s)). Due to Lemma 1, irrespective of the current recognition probabilities,
+there is an agreement regime at each period t < t1, where party i is able to implement her
+preferred project in each period, assuming some party has been recognized to propose. Hence,
+54
+
+--- Sayfa 61 ---
+though current recognition probabilities may play a part in determining the shares of the 1−c
+of income that remains after implementing a project, the continuation values at the beginning
+of date T introduce the asymmetry in political power that is key for the result.
+In part 2 of Proposition 3, the inﬂuence that the distribution of political power has on
+agreement is more transparent: when there is agreement at date t1, if current recognition
+probabilities are such that one party j has a very low chance of being recognized to propose
+policy, then party j will have a low continuation value at the beginning of date t1, and at each
+earlier date. If party j expects a low payoﬀtomorrow, then it is willing to agree on a policy
+that gives it a low payoﬀtoday; this implies that there is an agreement regime at each date
+t < t1 with party i able to implement its preferred project.
+The proposition below considers the timing and duration of phases of legislative gridlock,
+under the assumption that parties play a particular type of MPE in the continuation game
+beginning at date T. Recall that, under Condition D, for any s′ ∈S realized at the beginning
+of period T, there exists a MPE of the continuation game beginning at date T where there is
+an agreement regime each period t ≥T with accepted policies implementing a project.
+Proposition 5. Let s ∈S denote the state at each date t < T. Suppose Condition D is
+satisﬁed and for any s′ ∈S realized at the beginning of period T, parties play a MPE in the
+continuation game beginning at date T where a project is implemented whenever some party is
+recognized to propose. Then, in this MPE,
+1. There will be agreement at each date t < T, or a disagreement regime of the form
+{ˆt, . . . , T}, with ˆt ≤T −1;
+2. Assume p0(s′) = p0(s′′) for any s′, s′′ ∈S. If there exists multiple phases of disagreement,
+there will not exist a phase longer than the disagreement interval {ˆt, . . . T}.
+Proof. First, consider part 1. Let s ∈S denote the state at each date t < T. Given the
+equilibrium parties play at each state s′ ∈S in the continuation game beginning at date T,
+55
+
+--- Sayfa 62 ---
+the expected surplus at the very beginning of date T is
+δ
+X
+s′∈S
+ms′PT (s) =
+X
+s′∈S
+ms′
+hδ(1 −p0(s′))
+1 −δp0(s′) (θ + 1 −c)
+i
+> 1
+|
+{z
+}
+By Condition D
+.
+Notice that if there exists an agreement regime at date T −1, it must be the case that
+δ
+X
+s′∈S
+ms′V i
+T (s′) > c and δ
+X
+s′∈S
+ms′V j
+T (s′) ≤1 −c.
+In this case, there is an agreement regime at date T −1 and, regardless of which party is
+recognized to propose, proposed policies implement party i’s preferred project (project i).
+Arguments from Lemma 1 imply that δV i
+T−1 > c and δV j
+T−1 ≤1 −c, and thus there is
+an agreement regime at date T −2 and proposed policies implement project i.
+Inducting
+backwards, it follows that, for each t < T −2, δV i
+t+1 > c and δV j
+t+1 ≤1 −c, and thus there is
+an agreement regime at date t and proposed policies implement project i.
+If it not the case that δ P
+s′∈S ms′V i
+T (s′) > c and δ P
+s′∈S ms′V j
+T (s′) ≤1 −c, then there
+is a disagreement regime at date T −1.
+Depending on T and δ, there will either exist a
+disagreement regime at each date t < T, or, if T is large enough, due to discounting, there will
+exist a date 1 ≤ˆt < T, where there is an agreement regime.
+Next, consider part 2. Let t1 denote the ﬁrst date, counting backwards from date T, where
+there is an agreement regime. If δPt1+1(s) > 1, then δV i
+t1+1(s) > c and δV i
+t1+1(s) ≤1 −c
+and there is either Type 1 or Type 2 agreement (see Appendix A.1). Just as argued above,
+at date t1, regardless of which party is recognized to propose, proposed policies implement
+party i’s preferred project (project i). Arguments from Lemma 1 imply that δV i
+t1(s) > c and
+δV j
+t1(s) ≤1 −c.
+Thus there is an agreement regime at date t1 −1 and proposed policies
+implement project i. Inducting backwards, it follows that, for each t < t1 −1, δV i
+t+1(s) > c
+and δV j
+t+1(s) ≤1 −c, and thus there is an agreement regime at date t and proposed policies
+implement project i. This implies that the only, and hence the longest, disagreement regime
+occurs from date t1 + 1 to date T −1.
+56
+
+--- Sayfa 63 ---
+Now, suppose δPt1+1(s) ≤1. Note that the surplus at the beginning of date T is
+PT =
+X
+s′∈S
+ms′ 1 −p0(s′)
+1 −δp0(s′)(θ + 1 −c)
+|
+{z
+}
+> 1
+δ Due to Condition D
+.
+The expected surplus at the beginning of date t1 is
+Pt1 ≤(1 −p0(s))(θ + 1 −c) + δp0(s)Pt1+1(s).
+As
+PT = (1 −p0(s))(θ + 1 −c) + p0(s) δPT
+|{z}
+>1
+,
+it follows that Pt1(s) ≤PT .
+To complete the proof, consider the second agreement date t2 (counting backwards from
+date T) where there is an agreement regime. If δPt2+1(s) > 1, then using the same arguments
+as above, there is agreement at each date t ≤t2.
+As Pt1(s) ≤PT , the (possibly empty)
+disagreement interval from date t2 + 1 to date t < t1 is no longer than the disagreement
+interval immediately before date T and one has the desired result. If δPt2+1(s) ≤1, then
+as Pt1(s) ≤PT , the disagreement interval from t2 + 1 to date t < t1 is shorter than the
+disagreement interval immediately before date T. The expected surplus at the beginning of
+date t2 is
+Pt2(s) ≤(1 −p0(s))(θ + 1 −c) + δp0(s)Pt2+1(s).
+As
+PT = (1 −p0(s))(θ + 1 −c) + p0(s) δPT
+|{z}
+>1
+,
+it follows that Pt2(s) ≤PT .
+A repeated application of the same arguments establishes the desired result.
+Recall that any policy that implements a project maximizes aggregate surplus.
+Thus,
+when considering the equilibrium selection in Proposition 4, this proposition considers when
+57
+
+--- Sayfa 64 ---
+disagreement regimes will arise when there is a common expectation that a policy that is highly
+valuable to one party (as its preferred project is implemented) will be passed immediately after
+the election. In other words, this proposition considers when disagreement regimes will arise in
+an equilibrium where parties are “optimistic” regarding the policy outcome immediately after
+the election. In such an equilibrium, though there may be multiple spells of disagreement, the
+lengthiest period of legislative gridlock occurs right before the election. Essentially, once the
+election is in relatively close proximity, the expectation of implementing a highly valuable policy
+right after the election makes parties’ continuation values too high to allow for compromise.
+Agreement is then infeasible at dates close to the election. The disagreement phase immediately
+before the election is longest due to Condition D, the assumption that the probability that
+no party is recognized to propose is state-invariant, and the focus on an equilibrium where
+parties implements a project at date T. These conditions ensure that the expected aggregate
+surplus for any policy outcome at date t < T is no more than the expected surplus from the
+policy outcome at date T. This implies that an interval of disagreement building up towards
+an agreement regime at some date t < T cannot be longer than the disagreement interval
+before the agreement regime at date T.
+There are many interesting cases that Propositions 3 and 4 do not cover. Though it is
+diﬃcult to completely characterize bargaining dynamics in general, it is possible to construct
+diﬀerent types of Markov perfect equilibria that illustrate what dynamics are feasible in the
+model. Before considering the examples that show the various kinds of dynamics that are
+consistent with MPE, it is important to note that, while Proposition 4 demonstrates that it is
+possible to construct a MPE where there is a disagreement regime close to date T that gives
+way to an agreement regime of length {1, . . . , ˆt} for ˆt < T, it is also possible to construct a
+MPE where there are multiple transitions between agreement and disagreement regimes in the
+time before date T. The following provides an illustration of why this can occur. Suppose
+there is agreement at date t′ < T, where, if a party is recognized to propose, that party will
+successfully implement her preferred project. Now, consider date t′−1. If parties are suﬃciently
+patient and parties’ recognition probabilities are not highly asymmetric, then there will exist
+a disagreement regime at date t′ −1. Essentially, if there is common knowledge that there will
+58
+
+--- Sayfa 65 ---
+be agreement at date t′, and furthermore, the proposer will be able to implement her preferred
+project, then both parties’ continuation values at the beginning of period t′ are too large to
+allow for agreement at date t′. Though there may be a disagreement regime at date t′ −1, if
+T is suﬃciently large, due to discounting, there will be exist a date t′′ < t′ −1 where there is
+an agreement regime. It is therefore possible to transition back and forth from agreement and
+disagreement regimes in a particular MPE.
+2.4.1
+Examples
+The following examples aim to illustrate what dynamics are possible in equilibrium and how
+the implemented policies depend on the proximity until date T, where a shift in the recognition
+probabilities, and hence political power, may take place.
+Examples 1 and 2 aim to illustrate how the MPE that parties coordinate on in the con-
+tinuation game beginning at date T has implications both on the length of any disagreement
+regime and the expected surplus P1(s0) at the beginning of the bargaining game. Example
+3 shows how it is possible to cycle between agreement and disagreement regimes in the time
+before date T. Example 4 illustrates, in contrast to Example 1, that it is possible for the
+identity of the party with the highest continuation value to change with the proximity of the
+election. Finally, Example 5 considers how the expected social surplus is aﬀected by changes
+in the parameters {θ, c, δ}.
+In each of the examples, the state space S = {s0, s1, s2}, where in state s0 recognition
+probabilities, with p ∈[0, 1/2], are {p0(s0), p1(s0), p2(s0)} = {1 −2p, p, p}, in state s1 recog-
+nition probabilities are {p0(s0), p1(s0), p2(s0)} = {1 −2p, 2p, 0}, and in state s2 recognition
+probabilities are {p0(s0), p1(s0), p2(s0)} = {1 −2p, 0, 2p}. Therefore, in state s0 parties’ recog-
+nition probabilities are equal and in state s1 (resp. state s2), whenever a party is recognized
+to propose, it is party 1 (resp. party 2). Also, assume that Condition D is satisﬁed, where,
+given these parameters, this condition is
+δ2p
+1−δ(1−2p)(θ + 1 −c) > 1.
+Given these parametric restrictions, before considering the dynamics in the time before T,
+consider the possible MPE in the continuation game beginning at date T. In state s1 (resp.
+state s2) it is easy to show that there is a unique MPE where party 1 proposes a policy that
+59
+
+--- Sayfa 66 ---
+implements project 1 (resp. project 2) and takes all of the 1 −c of income. Continuations
+values are (V 1
+T (s0), V 2
+T (s0)) = ((θ + 1 −c)/(1 −δ(1 −2p)), 0).
+In state s0, there are multiple MPE. First, as Condition D is satisﬁed and p = p1(s0) =
+p2(s0), there exists a MPE with strategies (henceforth, MPE E1)
+• For party 1: when recognized to propose, oﬀer project 1 and the division (x, 1−c−x) of
+the remaining income of size 1 −c; accept an oﬀer z ∈Z if and only if u1(z) ≥δV 1(s0).
+• For party 2: when recognized to propose, oﬀer project 1 and the division (y, 1 −c −y) of
+the remaining income of size 1 −c; accept an oﬀer z ∈Z if and only if u2(z) ≥δV 2(s0).
+and a MPE with strategies (henceforth, MPE E2)
+• For party 1: when recognized to propose, oﬀer project 2 and the division (1 −c −y, y) of
+the remaining income of size 1 −c; accept an oﬀer z ∈Z if and only if u2(z) ≥δV 2(s0);
+• For party 2: when recognized to propose, oﬀer project 2 and the division (1−c−x, x) of
+the remaining income of size 1 −c; accept an oﬀer z ∈Z if and only if u1(z) ≥δV 1(s0).
+where y = 0 and x = (1−δ)(1−c)
+1−δ(1−p) . Note that in each of these MPE there is an agreement regime
+in each period t ≥T. There may also be a MPE where no policy is implemented and parties
+agree on a division of the unit of income (henceforth, MPE E0). In this MPE, parties use the
+following strategies: if recognized to propose, party i oﬀers
+1−δ+δp
+1−δ(1−2p),while party j̸ = i accepts
+any oﬀer z ∈Z where uj(z) ≥δV j(s0). In this MPE, there is an agreement regime at each
+date t ≥T. In order for these strategies to be consistent with equilibrium it must be the case
+that, given (δ, p, c),
+δV 1(s0) = δV 2(s0) =
+δp
+(1 −δ(1 −2p)) > 1 −c.
+(2.4)
+Example 1
+Suppose the state at each date t < T is s0 and consider the following parameters: T = 30,
+δ = 0.90, θ = 2, c = 0.60, p = 0.45, ms1 = ms2 = 0.35, and ms0 = 0.30. Condition D and
+inequality (4) are both satisﬁed; hence, in the continuation game beginning at date T, MPE
+E0, E1, and E2 all exist.
+60
+
+--- Sayfa 67 ---
+0
+5
+10
+15
+20
+25
+30
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+1.1
+t
+
+V 1
+t , V 2
+t
+(a)
+0
+5
+10
+15
+20
+25
+30
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+2.2
+t
+
+Agreement Regime
+Surplus Pt
+(b)
+Figure 2.1: A Symmetric Model with MPE E0 Played at Date T
+Examples 1 and 2 aim to illustrate how the MPE that parties coordinate on in the con-
+tinuation game beginning at date T has implications both on the length of any disagreement
+regime and the expected surplus P1(s0) at the beginning of the bargaining game.
+Suppose that in the continuation game beginning at date T, if the state transitions to s0,
+parties play MPE E0. Consider the equilibrium dynamics in Figure 1. Given the symmetry of
+the example, with parties having the same recognition probability at each date t < T and the
+same continuation value at the beginning of period T (before the state transitions), as Figure
+1 (a) shows, parties have identical continuation values at each date t < T. Consider when
+agreement takes place and on what policies parties are willing to agree on. Starting at date 1,
+though parties are willing to agree, they are only able to strike a deal on policy that divides
+the unit of income. Thus, no project is implemented. While such an agreement is Pareto
+eﬃcient, it clearly does not maximize aggregate surplus. As the election date T draws near,
+the parties enter a disagreement regime until transitioning to an agreement regime at date T
+for the remainder of the game. Notice that as in each period with probability 0.1 neither party
+is recognized to make a proposal; therefore, the disagreement regime immediate before date T
+is on the equilibrium path.
+Due to discounting, it is clear that as the election date T becomes further away, there
+61
+
+--- Sayfa 68 ---
+exists some date ˆt < T where parties are willing to agree. But why must parties only agree
+on a division of the unit of income, with no project being implemented, at each date t ≤ˆt
+(with ˆt = 23)? As parties have the same continuation value at date ˆt + 1 < T, and these
+continuation values are not too small, the only type of agreement that is feasible is one where
+parties agree on a division of the unit of income. Given that parties have the same recognition
+probability, continuation values are identical in period ˆt. If parties’ discount factor and the
+probability that some party gets recognized to propose (2p = 0.90) are both suﬃciently high,
+then the continuation values (V 1
+ˆt (s0), V 2
+ˆt (s0)) are relatively moderate; speciﬁcally, for each
+i ∈N, δV i
+ˆt (s0) > 1 −c, with δPˆt(s0) ≤1. This implies that, just as in period ˆt, in period
+ˆt −1 the only feasible type of agreement involves dividing the unit of income. An identical
+argument implies that parties only agree on a division of the unit of income at each date t ≤ˆt.
+Example 2
+Consider the same parameters as in Example 1.
+Suppose that in the continuation game
+beginning in date T, if the state transitions to s0, instead of playing MPE E0, parties play
+MPE E1. Consider the equilibrium dynamics in Figure 2. In this case, there is an asymmetry in
+political power, relative to when parties play MPE E0, due to party 1 being able to implement
+her preferred project with a higher likelihood immediately after the election. Starting at date
+1, parties are able to agree, and furthermore, this agreement maximizes aggregate surplus, as
+it involves implementing a project (speciﬁcally, project 1). Just as in the ﬁrst case, as the
+election date approaches, the parties enter a disagreement regime until transitioning to an
+agreement regime at date T for the remainder of the game.
+It may not be clear why party 1 is able to implement its preferred project, regardless of
+which party is recognized to propose, during the agreement regime at dates {1, . . . , 20}. The
+asymmetry created by parties coordinating on MPE E1 in the continuation game beginning
+at date T with state s0, allows party 1 to implement her preferred project at date 21 when
+recognized to propose. This creates a large asymmetry in continuation values at the beginning
+of period 21, and hence, a political advantage for party 1. This asymmetry in political power
+is preserved if parties’ discount factor and the probability that some party gets recognized to
+62
+
+--- Sayfa 69 ---
+0
+5
+10
+15
+20
+25
+30
+0
+0.5
+1
+1.5
+2
+2.5
+t
+
+V 1
+t
+V 2
+t
+(a)
+0
+5
+10
+15
+20
+25
+30
+1
+1.5
+2
+2.5
+t
+
+Agreement Regime
+Surplus Pt
+(b)
+Figure 2.2: An Asymmetric Model with MPE E1 Played at Date T
+propose (2p = 0.90) are both suﬃciently high, despite the symmetric recognition probabilities
+at each date t < T.
+In comparison to Example 1, it is clear that the equilibrium that parties coordinate on in the
+continuation game beginning at date T in state s0 has important welfare consequences. Plainly,
+the MPE that parties play in this continuation game can cause asymmetries in political power
+that inﬂuence equilibrium dynamics, and thus, the expected social surplus from the bargaining
+game.
+Before moving on to the next example, consider why, in both Examples 1 and 2, imme-
+diately before the election there is an interval of time where there is disagreement in each
+period. At date T, each party has a 35% chance of getting a recognition probability of 0.90,
+and hence the political advantage. This increase in political power allows a party to implement
+its preferred project, and thus, secure a high payoﬀ. As the value of the project, relative to
+the cost, is suﬃciently great, parties’ continuation values at the beginning of period T (before
+the state transitions) are too high to facilitate compromise. Hence, there is a disagreement
+regime for multiple periods before the election. As the date T becomes further away, due to
+discounting, continuations values decrease and parties are able to agree.
+63
+
+--- Sayfa 70 ---
+Example 3
+Suppose the state at each date t < T is s0 and consider the following parameters: T = 30,
+δ = 0.90, θ = 2, c = 0.53, p = 0.45, ms1 = ms2 = 0.35 and ms0 = 0.30. Condition D is satisﬁed
+but inequality (4) is not; hence, in the continuation game beginning at date T, MPE E0 does
+not exist, while MPE E1 and E2 do.
+Suppose that in the continuation game beginning at date T, if the state transitions to s0,
+parties randomize over MPE E1 and E2. Speciﬁcally, parties play MPE E1 with probability 1/2
+and MPE E2 with probability 1/2. As parties have the same recognition probability before date
+T and the same continuation value at the beginning of period T, this example is symmetric.
+Consider the equilibrium dynamics illustrated in Figure 3, which can be described as follows.
+After a length of time where there is a disagreement regime, discounted continuation values are
+small enough to allow agreement at date t′ < T, with this agreement taking place on a policy
+that implements no project and divides the unit of income. As the cost of implementing a
+project is relatively small, party i’s discounted continuation value δV i
+t′(s0) ≤1−c for any i ∈N.
+When this is the case, the party that is recognized to propose can successfully implement its
+preferred project (see Type 5 agreement in the Appendix). Hence, at date t′ −1, if recognized
+to propose, a party will propose a policy that implements its preferred project, and this will be
+accepted by the other party. This implies that each party will have a fairly high continuation
+value at the beginning of period t′ −1, which makes agreement at date t′ −2 impossible. There
+is then a disagreement regime for multiple periods before discounted continuation values are
+small enough to allow agreement.
+This example illustrates how it is possible to cycles between agreement and disagreement
+regimes in the time before date T. Notice that at date 1, in this MPE, it is common knowledge
+amongst the parties as to when the agreement regimes will arise. Furthermore, the timing of
+agreement is determined endogenously by the proximity of the election date T. When con-
+sidering the welfare implications associated with cycling between agreement and disagreement
+regimes, though there is only one period of ineﬃcient delay in this example, it is possible to
+construct examples where there are multiple periods of costly delay at the beginning of the
+64
+
+--- Sayfa 71 ---
+0
+5
+10
+15
+20
+25
+30
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+1.1
+1.2
+1.3
+t
+
+V 1
+t , V 2
+t
+(a)
+0
+5
+10
+15
+20
+25
+30
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+2.2
+2.4
+2.6
+t
+
+Agreement Regime
+Surplus Pt
+(b)
+Figure 2.3: Cycling Between Agreement and Disagreement Regimes
+game.
+In a particular MPE, whether there is cycling or not depends critically on the distribution of
+political power and the cost of implementing a project. The cycling illustrated in this example
+will only occur when there exists periods before date T where any party that is recognized
+to propose will be able to implement her preferred project. As mentioned above, in order for
+there to exist periods that satisfy this restriction, there must be periods T ′ ⊂{1, . . . , T −1}
+where δV i
+t+1(s0) ≤1 −c for any i ∈N, t ∈T ′. Under Condition D, this only occurs when, as
+in the MPE considered in this example, political power is symmetric and the cost is relatively
+low. Figure 4 shows how if either of these properties are not satisﬁed, this cycling property
+vanishes. Figure 4 (a) illustrates the path of expected surplus and when agreement regimes
+arise when political power is asymmetric. Speciﬁcally, instead of parties randomizing with
+equal probability over MPE E1 and MPE E2, parties coordinate on MPE E1 in the continuation
+game that begins at date T. This gives an advantage to party 1. The rest of the parameters
+are as stated above. Figure 4 (b) illustrates the path of expected surplus and when agreement
+regimes arise with higher costs. Speciﬁcally, the cost is c = 0.65 instead of c = 0.53. The rest
+of the parameters are as stated above, and, when considering the equilibrium played in the
+continuation game beginning at date T, parties are still assumed to randomize over MPE E1
+65
+
+--- Sayfa 72 ---
+0
+5
+10
+15
+20
+25
+30
+1.4
+1.6
+1.8
+2
+2.2
+2.4
+2.6
+2.8
+t
+
+Agreement Regime
+Surplus Pt
+(a) Asymmetric Political Power
+0
+5
+10
+15
+20
+25
+30
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+2.2
+2.4
+2.6
+t
+
+Agreement Regime
+Surplus Pt
+(b) Higher Costs
+Figure 2.4: No Cycling with Asymmetric Political Power or High Costs
+and MPE E2 with equal probability.
+Example 4
+Suppose the state at each date t < T is s1 and consider the following parameters: T = 30,
+δ = 0.90, θ = 2, c = 0.60, p = 0.45, ms1 = 0.35, ms2 = 0.55 and ms0 = 0.10. Condition D and
+inequality (4) are both satisﬁed; hence, in the continuation game beginning at date T, MPE
+E0, E1, and E2 all exist. Suppose parties play MPE E0 in the continuation game beginning
+at date T. Also, notice that as p = 0.45 and the state at each date t < T is s1, at each date
+t < T, party 1 is recognized to propose with probability 2p = 0.90, while with probability
+1 −2p = 0.90, neither party is recognized.
+This example illustrates, in contrast to Example 1, that it is possible for the identity of
+the party with the highest continuation value to change with the proximity of the election.
+Consider Figure 5. At dates close to the election date T, with m(s2 | s0) > m(s1 | s0), party 2
+is more likely to grab proposal rights, and hence, be able to implement its preferred project.
+This implies that at each date t ∈{23, . . . , 29}, though there is a disagreement regime, party
+2 has a higher continuation value tha party 1. As date T becomes farther away, the advantage
+that party 1 has from having a much higher recognition probability at each date t < T begins
+66
+
+--- Sayfa 73 ---
+0
+5
+10
+15
+20
+25
+30
+0
+0.5
+1
+1.5
+2
+2.5
+t
+
+V 1
+t
+V 2
+t
+(a)
+0
+5
+10
+15
+20
+25
+30
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+2.2
+2.4
+2.6
+t
+
+Agreement Regime
+Surplus Pt
+(b)
+Figure 2.5: A Shift in Political Power
+to overwhelm the advantage that party 2 had close to the election. Party 1 is then able to
+implement her preferred project at each date t < 19 giving her a higher continuation value,
+compared to party 2, at each of these dates.
+Example 5
+This last example illustrates how the expected social surplus is aﬀected by changes in the
+parameters {θ, c, δ}. Consider the same parameters as in Example 1, except with the costs as
+speciﬁed in Figure 6 (a) and (b). In the MPE illustrates in Figure 6 (a), it is assumed that in
+the continuation game beginning at date T, if the state transitions to s0 parties play MPE E1.
+In the MPE illustrated in Figure 6 (b), it is assumed that in the continuation game beginning
+at date T, parties randomize over MPE E1 and E2, playing MPE E1 with probability 1/2 and
+MPE E2 with probability 1/2.
+First, consider how changes in the cost of the project c impact the expected social surplus.
+The cost impacts this expected surplus in two ways: one, when the cost of a project increases
+there is less surplus generated by any policy outcome; and two, when the cost of a project
+changes, there are implications on what type of agreement is feasible, and either positive or
+negative welfare consequences are possible. Hence, when considering an increase in the cost
+67
+
+--- Sayfa 74 ---
+0
+5
+10
+15
+20
+25
+30
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+2.2
+2.4
+2.6
+t
+
+c = 0.55
+c = 0.60
+c = 0.65
+(a)
+0
+5
+10
+15
+20
+25
+30
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+2.2
+2.4
+2.6
+t
+
+c = 0.51
+c = 0.54
+c = 0.57
+(b)
+Figure 2.6: The Social Surplus with Diﬀerent Costs
+of a project, it is not entirely clear what the implications are on the expected social surplus.
+Figure 6 (a) illustrates the rather unsurprising case where an increase in the cost of a project
+leads to a decrease in the aggregate surplus. In contrast, Figure 6 (b) shows that it is possible
+for the surplus to be nonmonotonic in the cost of a project.
+Second, consider how changes in the discount factor δ or the value of the project θ impact
+social surplus. While it is clear that an increase in the value of a project leads to an increase in
+the surplus generated by any policy outcome, just as when considering changes to the cost of
+a project, changes in both the value of a project and the discount factor may have ambiguous
+welfare consequences. Indeed, it is possible to construct examples that demonstrate how the
+expected surplus may be nonmonotonic in either the discount factor or the value of the project.
+2.5
+Relation to Previous Bargaining Papers
+In this section, I consider the related papers from the bargaining literature. I start by discussing
+two recent papers that oﬀer results similar to those presented in this paper, though the driving
+force behind these results is very diﬀerent. Like my paper, one focus of Simsek and Yildiz
+(2009) is on how the anticipation of a change at an exogenous date inﬂuences behavior in
+68
+
+--- Sayfa 75 ---
+earlier periods.
+Therefore, their model also lends itself to the study of political decision-
+making around election time. Brieﬂy, they consider a continuous time bilateral bargaining
+model, where the recognition process follows some stochastic process and each party may
+have optimistic beliefs regarding her future bargaining power.
+If at some exogenous date
+bargaining power becomes suﬃciently “durable”—that is, the stochastic process governing the
+distribution of power does not change very much—the probability of agreement is high around
+that date. Hence, if bargaining power is expected to be durable right after an election date,
+their model would oﬀer predictions similar to my paper: agreement is diﬃcult at dates close
+to and before the election. Though the predictions are similar in spirit, the details of the
+models are quite diﬀerent, unsurprisingly producing disagreements through diﬀerent channels.
+In their paper, optimism about the stochastic recognition process and the characteristics of
+that process produce disagreements; in my paper, where parties have a common prior regarding
+the recognition process, limitations on the set of feasible policy decisions foster disagreements.
+In both Simsek and Yildiz and my paper, changes in the recognition process are instrumental
+in generating periods with disagreement.
+Ali (2006) considers a bargaining model where it is possible for an equilibrium to have
+a cyclical property with repeated transitions between dates when agreement is feasible and
+dates where it is not. Ali considers a multilateral bargaining game, where parties may have
+optimistic beliefs regarding the recognition process. If parties are suﬃciently optimistic, then
+the cycling result obtains. In Ali, the equilibrium dynamics arise due to each party holding
+overly optimistic beliefs about the likelihood that she will be recognized to propose policy. In
+contrast, in my paper, parties have a common expectation regarding the likelihood that each
+party will be recognized. Cycling between agreement and disagreement regimes occurs in my
+model due both to parties’ expectations regarding how the recognition process will ﬂuctuate
+in the future and constraints on the set of feasible policy decisions.
+It must be noted that a number of bargaining papers provide diﬀerent rationales for dis-
+agreement and delay. The classic explanation for delays is due to asymmetric information
+(Rubinstein, 1985; Admati and Perry, 1987; Kennan and Wilson, 1993). Essentially, delays
+can be used to transmit information. a party may delay agreement to signal strength, or use
+69
+
+--- Sayfa 76 ---
+delay as a screening device to determine whether the other player is weak or strong. A num-
+ber of papers consider how delays may arise in environments with perfect information. This
+literature therefore aims to provide an explanation for delays that complements those based
+on asymmetric information. My paper is ultimately related to this strand of literature that
+focuses on developing explanations for disagreement and delay in models with perfect infor-
+mation. Regarding models with perfect information, delays may be produced if oﬀers can be
+made simultaneously (Perry and Reny, 1993; S´akovics, 1993), if the asset being bargained over
+is stochastic (Avery and Zemsky, 1994; Merlo and Wilson, 1995; Eraslan and Merlo, 2002), or
+if parties are optimistic due to the lack of common knowledge (Yildiz, 2003, 2004; Ali, 2006;
+Simsek and Yildiz, 2009).
+2.6
+Conclusion
+This paper studies when particular policy outcomes, such as stalemates in policy talks or the
+implementation of centrist policies, will occur in relation to an approaching election date. I
+consider a simple bargaining game played by two political parties, where the parties must
+determine the allocation of the government budget, where this budget can be used to ﬁnance
+only one of two public goods projects with the remainder redistributed to the parties.
+I ﬁnd that when political power is suﬃciently asymmetric, at dates close to the upcoming
+election date T it is most diﬃcult for parties to reach agreement on a policy. Indeed, if there
+is disagreement at any date t < T, then there must be a disagreement interval {t′, . . . , T −1}.
+Thus, legislative gridlock is more likely to occur immediately before the election. Furthermore,
+when parties are “optimistic” about expected policy outcomes after the election, if gridlock
+does occur before the election, the duration of these disagreement spells is longest right before
+the election. If one party has signiﬁcantly more political power that the other before date T,
+agreement at a date ¯t < T implies agreement at any earlier date t < ¯t and implemented policies
+maximize aggregate surplus. Furthermore, as the gap T −t increases, at date t the party with
+the political advantage is able to pass legislation that is more favorable to the party. On the
+other hand, if political power is evenly distributed, then the path of policy outcomes before
+70
+
+--- Sayfa 77 ---
+the elections becomes more volatile. In this situation, parties may agree on policies that do
+not maximize social surplus and it is feasible for there to be long stretches of disagreement,
+with cycling between agreement and disagreement phases.
+The analysis may be relevant when considering negotiations in the United States Congress,
+and in particular, two recent policy debates. The model suggests two reasons that, after a year
+of negotiations with Republicans, the Democrats were able to pass a health care reform bill
+in March of 2010: one, the Democrats possessed a signiﬁcant advantage over the Republicans
+in both the House of Representatives and the Senate; and two, the debate started well before
+the next midterm election in 2010. Likewise, when considering the recent impasse over how
+to handle the debt ceiling, the model suggests that it would be easier for Democrats and
+Republicans to reach an agreement if the distribution of seats in the 112th US Congress was
+less symmetric and if the next presidential election was far into the future.
+2.7
+Appendix
+2.7.1
+Types of Agreement at Date t < T
+In what follows, the dependence of the (V 1
+t+1, V 2
+t+1) and (p0, p1, p2) on the state at each date
+t < T is suppressed. Also, if t = T −1, replace “V i
+t+1(s)” for each i with P
+s′∈S m(s′ | s)V i
+T (s′),
+where again the dependence on the initial state s suppressed.
+For t < T, given the continuations (V 1
+t+1, V 2
+t+1), there are ﬁve types of agreement
+• Type 1 Agreement. Suppose δV i
+t+1 > θ and δV j
+t+1 ≤1 −c. At date t, party i’s preferred
+project is implemented regardless of which party is recognized to propose, if party i
+is recognized to propose, she will oﬀer party j exactly δV j
+t+1 of the income 1 −c that
+remains, and if party j is recognized to propose, she will oﬀer party i exactly δV i
+t+1 −θ
+of the income 1 −c that remains. Continuation values at the beginning of period t are
+then
+V i
+t = pi(θ + 1 −c −δV j
+t+1) + pjδV i
+t+1 + p0δV i
+t+1
+V j
+t = piδV j
+t+1 + pj(1 −c −(δV i
+t+1 −θ)) + p0δV j
+t+1.
+71
+
+--- Sayfa 78 ---
+• Type 2 Agreement. Suppose δV i
+t+1 ∈(c, θ], and δV j
+t+1 ≤1 −c. At date t, party i’s
+preferred project is implemented regardless of which party is recognized to propose, if
+party i is recognized to propose, she will oﬀer party j exactly δV j
+t+1 of the income 1 −c
+that remains, and if party j is recognized to propose, she will oﬀer party i none of the
+income 1 −c that remains. Continuation values at the beginning of period t are then
+V i
+t = pi(θ + 1 −c −δV j
+t+1) + pjθ + p0δV i
+t+1
+V j
+t = piδV j
+t+1 + pj(1 −c) + p0δV j
+t+1.
+• Type 3 Agreement. Suppose δV i
+t+1 ∈(1 −c, c], and δV j
+t+1 ≤1 −c. First, suppose δV i
+t+1 ∈
+(1 −c, c). At date t, if party i is recognized to propose, she implements her preferred
+project and oﬀers party j exactly δV j
+t+1, and if party j is recognized to propose she
+implements a division of the unit of income and oﬀers party i exactly δV i
+t+1. Continuation
+values at the beginning of period t are then
+V i
+t = pi(θ + 1 −c −δV j
+t+1) + pjδV i
+t+1 + p0δV i
+t+1
+V j
+t = piδV j
+t+1 + pj(1 −δV i
+t+1) + p0δV j
+t+1.
+Next, suppose δV i
+t+1 = c. At date t, if party i is recognized to propose, she implements
+her preferred project and oﬀers party j exactly δV j
+t+1. If party j is recognized to propose,
+she is indiﬀerent between a policy that implements i’s preferred project and one that
+does not. With probability αj
+t ∈[0, 1] she oﬀers a policy that implements i’s preferred
+project and with probability 1 −αi
+t she oﬀers a policy with no project, and oﬀers i the
+share δV i
+t+1 of the unit of income. Continuation values at the beginning of period t are
+then
+V i
+t = pi(θ + 1 −c −δV j
+t+1) + pj[αi
+tθ + (1 −αi
+t)δV i
+t+1] + p0δV i
+t+1
+V j
+t = piδV j
+t+1 + pj(1 −δV i
+t+1) + p0δV j
+t+1.
+72
+
+--- Sayfa 79 ---
+• Type 4 Agreement. Suppose δV 1
+t+1, δV 2
+t+1 > 1 −c, δSt+1 ≤1. At date t, parties agree on
+a division of the unit if income, if party i is recognized she oﬀers party j exactly δV j
+t+1,
+and if party j is recognized she oﬀers party i exactly δV i
+t+1. Continuation values at the
+beginning of period t are then
+V i
+t1 = pi(1 −δV j
+t+1) + pjδV i
+t+1 + p0δV i
+t+1
+V j
+t1 = piδV j
+t+1 + pj(1 −δV i
+t+1) + p0δV j
+t+1.
+• Type 5 Agreement. Suppose δV 1
+t+1, δV 2
+t+1 ≤1 −c. At date t, if party i is recognized to
+proposed she implements her preferred project and oﬀers party j exactly δV j
+t+1 of the
+remaining 1 −c of income, and if party j is recognized to proposed she implements her
+preferred project and oﬀers party i exactly δV i
+t+1 of the remaining 1 −c of income.
+V i
+t = pi(θ + 1 −c −δV j
+t+1) + pjδV i
+t+1 + p0δV i
+t+1
+V j
+t = piδV j
+t+1 + pj(θ + 1 −c −δV i
+t+1) + p0δV j
+t+1.
+73
+
+--- Sayfa 80 ---
+References
+Abreu, D., D. Pearce, and E. Stacchetti, 1990, Toward a theory of discounted repeated games
+with imperfect monitoring, Econometrica 58, 1041–1063.
+Acemoglu, D., M. Golosov, and A. Tsyvinski, 2010, Power ﬂuctuations and political economy,
+Journal of Economic Theory 146, 1009–1041.
+Admati, A., and M. Perry, 1987, Strategic delay in bargaining, Review of Economic Studies
+LIV, 345–364.
+Alesina, Alberto, 1987, Macroeconomic policy in a two-party system as a repeated game, The
+Quarterly Journal of Economics 102, 651–678.
+Alesina, A., 1988, Credibility and policy convergence in a two-party system with rational
+voters, The American Economic Review 78, 796–805.
+, G. Cohen, and N. Roubini, 1992, Macroeconomic policy and elections in oecd democ-
+racies, Economics and Politics 4, 1–30.
+Ali, S., 2006, Waiting to settle: Multilateral bargaining with subjective biases, Journal of
+Economic Theory 130, 109–137.
+Avery, C., and P. Zemsky, 1994, Option values and bargaining delays, Games and Economic
+Behavior 7, 139–153.
+Azzimonti, M., 2010, MPRA Paper No. 25937, Political ideology as a source of business cycles,
+.
+Banks, J.S., and J. Duggan, 2000, A bargaining model of collective choice, The American
+Political Science Review 94, 73–88.
+Baron, D.P., 1996, A dynamic theory of collective goods programs, The American Political
+Science Review 90, 316–330.
+, and J. Ferejohn, 1989, Bargaining in legislatures, The American Political Science
+Review 83, 1181–1206.
+Battaglini, M., and S. Coate, 2007, Ineﬃciency in legislative policymaking: A dynamic analy-
+sis, The American Economic Review 97, 118–149.
+Dixit, A., G.M. Grossman, and F. Gul, 2000, The dynamics of political compromise, The
+Journal of Political Economy 108, 531–568.
+Drazen, A., 2000a, The political business cycle after 25 years, NBER Macroeconomics Annual
+15, 75–117.
+, 2000b, Political Economy In Macroeconomics (Princeton University Press).
+, and M. Eslava, 2006, NBER Working Paper No. W12190, Pork barrel cycles, .
+Dutta, P.K., 1995, A folk theorem for stochastic games, Journal of Economic Theory 66, 1–32.
+74
+
+--- Sayfa 81 ---
+Eraslan, H., and A. Merlo, 2002, Majority rule in a stochastic model of bargaining, Journal of
+Economic Theory 103, 31–48.
+Fudenberg, D., and D. Levine, 1994, Eﬃciency and observability with long-run and short-run
+players, Journal of Economic Theory 62, 103–135.
+, and E. Maskin, 1994, The folk theorem with imperfect public information, Econo-
+metrica 62, 997–1040.
+Fudenberg, D., and J. Tirole, 1991, Game Theory (The MIT Press).
+Fudenberg, D., and Y. Yamamoto, 2011, The folk theorem for irreducible stochastic games
+with imperfect public monitoring, Journal of Economic Theory 146, 1664–1683.
+Hibbs, D., 1977, Political parties and macroeconomic policy, American Political Science Review
+71, 1467–1487.
+H¨orner, J., T. Sugaya, S. Takahashi, and N. Vieille, 2011, Recursive methods in discounted
+stochastic games: An algorithm for δ →1 and a folk theorem, Econometrica 79, 1277–1318.
+Kennan, J., and R. Wilson, 1993, Bargaining with private information, Journal of Economic
+Literature XXX1, 45–104.
+Mailath, George J., and Larry Samuelson, 2006, Repeated Games and Reputations: Long-Run
+Relationships (Oxford University Press).
+Martinez, Leonardo, 2009, A theory of political cycles, Journal of Economic Theory 144,
+1166–1186.
+Merlo, A., 1997, Bargaining over governments in a stochastic environment, The Journal of
+Political Economy 105, 101–131.
+, and C. Wilson, 1995, A stochastic model of sequential bargaining with complete
+information, Econometrica 63.
+, 1998, Eﬃcient delays in a stochastic model of bargaining, Economic Theory 11, 39–55.
+Mertens, J.-F., and A. Neyman, 1981, Stochastic games, International Journal of Game Theory
+10, 53–66.
+Nordhaus, William D., 1975, The political business cycle, Review of Economic Studies 42,
+169–190.
+Perry, M., and P. Reny, 1993, A non-cooperative bargaining model with strategically timed
+oﬀers, Journal of Economic Theory 59, 50–77.
+Persson, T., and G. Tabellini, 2002, working paper, Do electoral cycles diﬀer across political
+systems?, .
+Rogoﬀ, Kenneth, 1990, Equilibrium political budget cycles, The American Economic Review
+80, 21–36.
+Rubinstein, A., 1982, Perfect equilibrium in a bargaining model, Econometrica 50, 97–110.
+75
+
+--- Sayfa 82 ---
+, 1985, A bargaining model with incomplete information about time preferences, Econo-
+metrica 53, 1151–1172.
+Sakovics, J., 1993, Delay in bargaining games with complete information, Journal of Economic
+Theory 59, 78–95.
+Shi, M., and J. Svensson, 2006, Political budget cycles: Do they diﬀer across countries and
+why?, Journal of Public Economics 90, 1367 – 1389.
+Simsek, A., and M. Yildiz, 2009, Durable bargaining power and stochastic deadlines, Working
+Paper, MIT.
+Yildiz, M., 2003, Bargaining without a common prior—an immediate agreement theorem,
+Econometrica 71, 793–812.
+, 2004, Waiting to persuade, Quarterly Journal of Economics 119, 223–249.
+76

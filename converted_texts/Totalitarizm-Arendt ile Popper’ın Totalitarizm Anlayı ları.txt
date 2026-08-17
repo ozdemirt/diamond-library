@@ -1,0 +1,727 @@
+--- Sayfa 1 ---
+Amme Đdaresi Dergisi, Cilt 46, Sayı 4, Aralık 2013, s. 27-43.
+Totalitarizmin Kavramsal Đncelemesi ve
+Arendt ile Popper’ın Totalitarizm Anlayışları
+Tuba Gülmez Stewart*
+Özet: Bu çalışmada, anti-demokratik yönetim şekillerinden totalitarizmin kavramsal in-
+celemesi yapılmaktadır. Çalışmada, totalitarizmin unsurlarını göz ardı ederek, farklı
+anti-demokratik yönetimleri totaliter olarak nitelemenin mümkün olduğu bulgulanmış-
+tır. Yönetim şekillerinin en anti-demokratiği olarak nitelendirilebilecek totalitarizm kav-
+ramına yüklenen anlamlar çeşitlidir. Çalışmada, (1) totalitarizm kavramını inceleyen
+araştırmacıların tanımlarından hareketle, unsurları göz önünde tutularak totalitarizmin
+kavramsal incelemesi yapılacak, (2) totalitarizmin genel karakteristikleri bir araya geti-
+rilecek, (3) adları totalitarizm tartışmaları ile özdeşleşen Arendt ve Popper’ın totalita-
+rizm anlayışları arasındaki benzerlik ve farklılıklar araştırılacak ve (4) anti-demokratik
+unsurların olduğundan daha yoğun görülebileceği/gösterilebileceği düşüncesinden ha-
+reketle, Popper’ın, totalitarizmin temel unsurlarını göz ardı ederek Platon’un düşünce-
+lerindeki anti-demokratik unsurları totaliterleştirip totaliterleştirmediği sorgulanacak-
+tır.
+Anahtar Kelimeler: Totalitarizm, Hannah Arendt, Karl Popper.
+A Conceptual Analysis of Totalitarianism and Arendt and Popper’s
+Understanding of Totalitarianism
+Abstract: This study makes a conceptual analysis of totalitarianism, a form of anti-
+democratic government. This study has found that it is possible, by overlooking the key
+elements of totalitarianism, to define different anti-democratic governments as totalitar-
+ian. The meanings attributed to totalitarianism, which can be considered the most anti-
+democratic of all governments, differ. In this study, (1) a conceptual analysis of differ-
+ent meanings given to the concept of totalitarianism will be made in view of the defini-
+tions of researchers who have investigated the concept, (2) the general characteristics
+of totalitarianism will be gathered, (3) the similarities and differences between Arendt
+and Popper’s understanding of totalitarianism, whose names are identified with the de-
+bates on the debates on totalitarianism, will be explored. (4) Moving from the idea that
+the severity of anti-democratic elements can be overstated, it will be questioned whether
+Popper, overlooking key elements of  totalitarianism, ‘totalitarianized’ the anti demo-
+cratic elements in Plato’s thoughts, or not .
+Key Words: Totalitarianism, Hannah Arendt, Karl Popper.
+GĐRĐŞ
+Totalitarizm, en anti-demokratik yönetim şekillerinden birini ifade eder.1
+Otokrasi, aristokrasi, despotizm, tiranlık, özgürlük, adalet ve hatta demokrasi
+
+* Dr., Aksaray Üniversitesi, Đktisadi Đdari Bilimler Fakültesi, Kamu Yönetimi Bölümü, 68100, Konya/Türkiye.
+
+--- Sayfa 2 ---
+28       Amme Đdaresi Dergisi, Cilt 46 Sayı 4
+gibi politik düşünce terminolojisinde yer alan birçok kavram ya Antik Yunan
+Polis’inden ya da Roma Đmparatorluğu’ndan günümüze gelmiştir.2 Bu kavram-
+lardan farklı olarak totalitarizm, önceki zamanlarda örneği olmayan, ilk kez
+modern zamanlarda ortaya çıkan bir fenomendir (Crick, 2002: 15; Arendt, 2004:
+594).
+Dick Howard, nesnesi ortadan kalktığı zaman eleştirinin ortadan kalkmaya-
+cağını söyler. Ona göre, hiç kimse totaliter yönetimlere geri dönüş olacağını dü-
+şünmese de faşist ve komünist kavramları önlerine ‘neo’ ekini alarak hem gün-
+delik tartışmalarda hem de literatürde kullanılmaya devam eder. Bununla birlik-
+te, her ne kadar modern bir fenomen olsa da totalitarizmin de Roma Đmparator-
+luğu veya Antik Yunan gibi geçmişe ait olduğunu ama geçmişe ait olmanın, on-
+ların günümüzde yeniden yeniden tartışılmasını, onlardan öğrenilmesini engel-
+lemediğini belirtir. Bu bağlamda modernite içinde ‘eskimiş’ olmak, başka bir
+anlatımla reel karşılıklarının artık görülmemesi totalitarizmin tartışılmasına en-
+gel değildir. Dahası nesnesi kaybolanın eleştirisi zamanla önem kazanabilir
+(Howard, 2002: 99-108). Totalitarizm kavramının incelenmesi demokrasiye an-
+ti-demokratik, totalitarizme ise demokratik bir perspektiften eleştirel bakabilme
+imkanı verir. Günümüzde demokrasinin politikanın hakim paradigması olduğu,
+bu durumun ‘anti-demokratik ne demektir’ sorusunun anlamını giderek muğlak-
+laştırdığı ama neticede paradoksal bir şekilde asıl muğlaklaşanın demokrasi ol-
+duğu söylenebilir. Bununla birlikte daha iyi bir demokrasi, nitelikli bir anti-
+demokrasi analizi gerektirir.
+Totalitarizm kavramı ilk etapta 1920’lerin başlarında, Đtalyan faşizmini eleş-
+tiren düşünürler tarafından kullanılır. Totaliter nitelemesine maruz kalan Benito
+Mussolini ve Giovanni Gentile, kavrama olumlu anlamlar yükleyerek, kendi gö-
+rüşlerini anlatmak üzere totalitarizmden bahsederler ve faşist rejimi totaliter ola-
+rak nitelerler (Knight, 2003: 54). Diğer taraftan, Sigmund Neumann (1965: xi-
+xix) Permanent Revolution’da3, 1920’lerde ve 1930’larda ortaya çıkan yeni dik-
+tatörlükleri anlatmak üzere totalitarizm (totalitarianism) kavramını benimsedi-
+ğini; ilk amacı devrimi sürdürmek ve kurumsallaştırmak olan totalitarizmin ayı-
+
+1 Bu çalışma, Demokrasi Perspektifinden Totalitarizm Kavramı ve Hannah Arendt başlığını taşıyan doktora
+tez çalışmasından üretilmiştir. Tez çalışmasından farklı olarak, bu çalışmada, Arendt ve Popper’in totalita-
+rizm anlayışları karşılaştırmalı olarak incelenmektedir. Daha fazla bilgi için bkz. (Gülmez Stewart, 2012).
+2 Politik literatüre en büyük katkının Antik Yunan ve Roma Đmparatorluğu’dan geldiği söylenebilir. Aslında
+bu iki gelenek birbirinden oldukça farklıdır. Antik Yunan vatandaşları, rasyonellik temelinde eşittirler. Va-
+tandaşlık, tiranlık da dahil, farklı yönetimler altında ortaya çıkabilir. Antik Yunanlıların ısrarla vurguladığı
+konu, doğuya özgü (oriental) despotizmin politika olmadığıdır. Antik Yunanlıların politikası aklı, Romalıla-
+rın politikası sevgiyi (ülke sevgisini) esas alır. Antik Yunanlıların fikirlerinin, Romalıların pratiklerinin daha
+etkili olduğu düşünülebilir. Ayrıca Antik Yunan ve Romanın politik dağarcıkları birbirinden farklıdır. Yu-
+nanlıların terminolojisi politika ve polisten (policy, police, politics), Romalılarınki ise medeniyet ve vatan-
+daştan (civility, citizen, civilization) türer (Minogue, 2000: 11-20). Bunlara ek olarak Roma Đmparatorluğu,
+klasik anlamıyla diktatörlüğün ana vatanıdır.
+3 Sigmund Neumann’ın ilk basımı 1942 yılında yapılan Permanent Revolution çalışması, totalitarizm ile ilgili
+literatürde temel kaynaklardan biri olarak kabul edilir.
+
+--- Sayfa 3 ---
+Totalitarizmin Kavramsal Đncelemesi ve Arendt ile Popper’ın Totalitarizm Anlayışları     29
+rıcı özelliğinin, devrimi “kalıcı” bir temel üzerine oturtmak olduğunu söyler.
+Totalitarizm ile ilgili tartışmalarda Sigmund Neumann’a ek olarak Franz Neu-
+mann, Carlton J. H. Hayes, Benjamin Barber, Carl J. Friedrich, Michael Curtis,
+Zbigniew Brzezinski, Friedrich A. Hayek, Hannah Arendt ve Karl Popper isim-
+leri sıkça geçer. Çalışmanın devamında bu isimlerin totalitarizm anlayışları
+hakkında daha detaylı bilgi verilecektir.
+Çalışmada, totaliter yönetimleri diktatörlük kategorisi içinde düşünen Franz
+Neumann’ın totalitarizm anlayışı esas alınacaktır. Bu anlayışın tercih edilme
+nedeni, Neumann’ın totalitarizmi hem bir diktatörlük olarak düşünmesi hem de
+onun modernliğini vurgulamasıdır. Neumann’a göre (1966: 233-245) diktatör-
+lükler klasik anlamıyla Roma’da ortaya çıkan, olağanüstü şartlarda, olağanüstü
+yetkilendirmelerin görüldüğü, altı ay süreyle sınırlı olan basit diktatörlükler; sü-
+re sınırı gözetmeyen, halk desteğini öne çıkaran, adından da anlaşılacağı gibi
+şahsa bağlı bir form ihtiva eden Sezaristik diktatörlükler ve modern diktatörlük-
+ler veya totaliter diktatörlükler olmak üzere üçe ayrılır. Çalışmanın konusunu
+oluşturan modern/totaliter diktatörlükleri ise beş temel özellik karakterize eder.
+Bunlardan ilki hukukun üstünlüğüne dayanan devlet anlayışından polis devleti-
+ne dönüşümdür. Đkincisi liberal devletlerdeki iktidar dağılmasından, totaliter re-
+jimlerdeki iktidar toplanmasına geçiştir. Üçüncüsü monopolistik/tekelci devlet
+partisinin varlığıdır. Dördüncüsü çoğulcu/pluralist sosyal kontrollerden totali-
+ter/bütüncü sosyal kontrollere geçiştir.4 Beşinci ve son özellik ise terördür.
+Totalitarizm kavramı, her zaman veya herkes tarafından aynı anlamda kulla-
+nılmaz. Totalitarizme yüklenen anlamların farklılaşmasında politik kültür ve
+ideolojik tercihler etkili olabilir. Aşağıda totalitarizmin genel karakteristikleri
+bir araya getirilmeden evvel, kavram üzerinde çalışmış araştırmacıların totalita-
+rizm tanımları incelenecek; bu inceleme yapılırken, totaliter yönetimleri, diğer
+anti-demokratik yönetimlerden ayırmak için,  ‘totalitarizmin ayırıcı unsurları’
+olarak kitle, ideoloji ve terör tartışılacaktır.
+Her ne kadar adları totalitarizm tartışmaları ile özdeşleşse Arendt ve Popper
+birebir totalitarizm tanımı vermez. Bununla birlikte Popper bir araya gelerek to-
+talitarizme dönüşen unsurları bütünüyle görmezden gelir. Bu yüzden totalita-
+rizmin unsurlarına dayalı kavramsal incelemesinin yapıldığı çalışmanın birinci
+bölümünde, Popper’in totalitarizm anlayışından ziyade, totalitarizme dönüşen
+unsurları esas alan Arendt’in  totalitarizm anlayışından bahsedilecektir. Fakat
+Arendt ve Popper’in totalitarizm anlayışları esas olarak ikinci bölümde karşılaş-
+tırılacak, bu ikisinin benzerlik ve farklılıkları sorgulanacaktır. Ayrıca çalışmanın
+sonunda, daha önce totalitarizm kavramı hakkında çalışan araştırmacıların ta-
+
+4 Neumann toplumun total kontrolünde kullanılan teknikleri şöyle sıralar a) Liderlik ilkesi b) Bütün sosyal or-
+ganizasyonların senkronizasyonu c) Elit sınıfların yaratılması d) Bireyin izolasyonu ve atomizasyonu e)
+Kültürün propagandaya dönüşmesi,  daha fazla bilgi için bkz. (Neumann, 1966: 245).
+
+--- Sayfa 4 ---
+30       Amme Đdaresi Dergisi, Cilt 46 Sayı 4
+nımlarından hareketle, totalitarizmin genel karakteristikleri bir araya getirilecek-
+tir.
+Totalitarizmin Kavramsal Đncelemesi
+Politik literatürdeki pek çok kavram gibi, totalitarizm kavramına yüklenen
+anlamlar çeşitlilik gösterir. Totalitarizm kavramını incelerken, araştırmacılar,
+farklı içerik ve vurgular tercih ederler. Örneğin totalitarizm tanımları politik,
+ekonomik veya toplumsal unsurlara öncelik verebilir ve buna uygun olarak tas-
+nif edilebilir. Benjamin R. Barber (1969: 14) totalitarizm tanımlarını üçlü bir
+tasnif ile inceler. Birinci grupta totalitarizmi bir diktatörlük olarak tanımlayanlar
+ve politik bir entiteden bahsedenler -Sigmund Neumann, Franz Neumann ve di-
+ğerleri gibi- yer alır. Đkinci grupta ise Eckstein ve Apter gibi, totaliter devletler
+ya da totaliter yönetimlerden değil, totaliter toplumlardan bahsedenler yer alır.
+Üçüncü grupta ise, Hayek’te olduğu gibi, totalitarizm anlayışı ekonomi üzerine
+odaklananlar yer alır.
+Totalitarizm kavramı ile ilgili ikinci bir ayrım modernist ve geleneksel ta-
+nımlar şeklinde yapılabilir. Totalitarizmi, modern hayatın temel özelliklerinden
+“teknoloji, rasyonel bürokrasi,5 kitle üretimi, kitle iletişimi, sanayileşme, v.s.”
+ile ilişkilendirenler –Benjamin R. Barber, Sigmund Neumann, Franz Neumann,
+Carl J. Friedrich, Michael Curtis, Friedrich A. Hayek, Hannah Arendt gibi- onu
+“tarihsel bir yenilik” olarak kabul ederler. Örneğin Arendt için totalitarizm hem
+modern bir fenomen hem de yeni bir yönetim şeklidir. Modernist yaklaşımlar,
+totalitarizmi bir diktatörlük6 çeşidi olarak anlamakla birlikte, onu, ancien regi-
+me’in diktatörlüklerinden ayırırlar. Geleneksel yaklaşımların temsilcilerine ör-
+nek olarak ise Talmon7 ve Popper verilebilir.  Örneğin Popper, totalitarizmin
+“medeniyetimizin kendisi kadar eski veya yeni” olduğunu düşünerek, onu, mo-
+dernite dışına taşır (Barber: 1969: 15-16; Popper, 1996a: 1). Modern fenomen-
+leri, modernite öncesinde arayanlar kadar, geleneksel kavramları modern za-
+manlarda arayanlar da olabilir. Hem modern zamanların fenomenlerini moder-
+nite öncesinde aramak hem de modern zamanların politik realitelerini gelenek-
+sel dayanaklarla açıklamak yanlış, en azından eksik bir yaklaşımdır (Lefort,
+1986: 1).
+
+5 Bürokrasinin tahakküm altına alıcı yapısı ile ilgili daha fazla bilgi için bkz. (Weber, 2005: 196-244).
+6 Đlk tasnifteki totalitarizmi politik bir entite olarak niteleyenler ile ikinci tasnifteki modernist yaklaşımlar ara-
+sındaki örtüşme dikkat çekicidir. Her iki yaklaşım da totalitarizmi hem bir diktatörlük çeşidi olarak tanımlar
+hem de onu klasik ve geleneksel diktatörlüklerden ayırıp modern bir fenomen olarak niteler.
+7 Jacob Talmon, The Origins of Totalitarian Democracy’de, sağ ve sol totalitarizmi birbirinden ayırarak sade-
+ce totalitarizmin sol örneklerinin "totaliter demokrasi" olduğunu; sol totalitarizmin hareket noktasının insan,
+akıl ve kurtuluş (salvation), buna karşılık sağ totalitarizmin hareket noktasının kollektif entite, devlet, millet
+ve ırk olduğunu söyler (Talmon, 1970: 6-7). Talmon, totaliter demokrasinin, yeni bir fenomen olmadığını,
+onun kökenlerinin on sekizinci yüzyılın fikirlerinde bulunabileceğini belirtir (Talmon, 1970: 249).
+
+--- Sayfa 5 ---
+Totalitarizmin Kavramsal Đncelemesi ve Arendt ile Popper’ın Totalitarizm Anlayışları     31
+Yukarıdaki tasniflere ek olarak, totalitarizmin modern veya geleneksel bir
+fenomen olduğu hususunda uzlaşamayan Arendt ve Popper’ın başka bir noktada
+birleştiği görülür. Arendt ve Popper, sadece totalitarizmin ortaya çıkışına değil,
+ayrıca onun kanun benzeri kavramsallaştırmalarına karşı çıkarak (Beatty, 2001:
+71) farklı bir ekol oluştururlar. Buradan hareketle Arendt ve Popper’ın totalita-
+rizm eleştirisinde, ideolojiden ziyade tarihin ve doğanın yasasının öncelikli ol-
+duğu söylenebilir. Buna karşılık totalitarizm konusunda çalışan Heywood ve
+Friedrich gibi diğer araştırmacılar, sadece ideolojiden bahsederek, totalitarizm
+bağlamında ideolojinin kazandığı özel anlamı yadsırlar, Totalitarizm bağlamın-
+da ideolojilerin temel özelliği tarihin veya doğanın yasasını esas almaları iken,
+bu isimler tarihin ve doğanın yasasından söz etmezler.
+Totalitarizm kavramının 1930’larda kullanılmaya başlanması totalitarizmin
+hangi rejimleri kapsadığı tartışmasını da beraberinde getirir. Hem tecrübeye da-
+yanan hem de teorik düzlemde inşa edilmiş bazı rejimleri totaliter olarak etiket-
+lemek mümkündür. Sovyetler Birliği, Nazi Almanya’sı ve Faşist Đtalya sıklıkla
+reel totalitarizm tecrübelerine örnek olarak verilir. Ayrıca antik Sparta yönetimi,
+Calvin yönetimindeki Cenevre ve modern rejimlerin bazıları totaliter olarak ni-
+telendirilir. Teorik düzlemde ise Platon’un Đdeal Devlet’i ile Hobbes’un Leviat-
+han’ı, totaliter nitelemesine maruz kalır (Barber, 1969: 6-7). Böylece anti-
+demokratik eğilimlerin yoğunluk gösterdiği modern zamanlar öncesindeki bazı
+tecrübeler ile ütopik bazı anti-demokratik modeller, totalitarizmin temel unsur-
+larına sahip olmamalarına rağmen totaliter olarak nitelenmiş olur. Diğer taraftan
+totaliter diktatörlük kavramının çok geniş bir perspektif ile kullanılmasına karşı
+çıkan Friedrich (1969: 124-125) bu perspektif genişliğinin “totaliter rejimlerin
+ayırıcı unsurları nelerdir” sorusunu ortadan kaldırmadığını belirtir.
+Totalitarizmin Ayırıcı Unsurları Olarak Kitle, Đdeoloji ve Terör
+Carl J. Friedrich (1969: 126) totaliter rejimleri, otoriter rejimlerden ve bunla-
+rın daha eski benzerlerinden ayıran altı unsur önerir: (1) Totaliter ideoloji (2) Bu
+ideolojiye kendini adamış ve genellikle bir kişinin hakimiyetinde olan tek parti
+(3) Tam teşekküllü gizli polis; ve üç çeşit tekelci kontrol (4) Kitle iletişim araç-
+larının kontrolü (5) Operasyonel silahların kontrolü (6) Ekonomi dahil her türlü
+örgütlenmenin kontrolü. Barber, bu tanımın, genellikle totalitarizmin klasik ta-
+nımlarından biri olarak kabul edildiğini belirtir (1969: 7-8). Friedrich’in totalita-
+rizm tanımında, ideolojiye yer verilmekle birlikte, totaliter ideolojilerin ayırıcı
+özelliği olarak tarihin veya doğanın yasasından söz edilmez. Modern devletin
+sahip olduğu imkanların mümkün kıldığı tekelci kontrolden bahsedilir, fakat bu
+kontrol histerisi net bir şekilde kitle olgusu ile ilişkilendirilmez. Son olarak tota-
+liter terör, totalitarizmin ayırıcı unsurlardan biri olarak düşünülmez.
+Aşağıda totalitarizmin unsurları olarak kitle, ideoloji ve terör incelenecektir.
+Kitle toplumu, modern toplumun bir özelliğidir. Fakat ideoloji ve terörün kö-
+
+--- Sayfa 6 ---
+32       Amme Đdaresi Dergisi, Cilt 46 Sayı 4
+kenlerini modernite öncesinde bulmak mümkündür. Bununla birlikte totalita-
+rizm bağlamında her iki kavram da farklı anlamlar ifade eder. Aşağıda bu un-
+surlar incelenirken hem kitle üzerinden totalitarizmin modernliği, hem de totali-
+tarizm bağlamında ideoloji ve terör unsurlarının ifade ettiği anlamdaki farklılık-
+lar vurgulanacaktır.
+Kitle
+Modern toplumların kitle toplumları olması sebebiyle, aşağıda görüşlerine
+daha detaylı yer verilecek Arendt başta olmak üzere bazı düşünürler, kitle top-
+lumunu, totaliter hareketlerin anahtar unsurlarından biri olarak yorumlar.8
+Arendt için kitle, hiçbir yerleşik sınıfın veya diğer toplumsal çıkar gruplarının
+üyesi olmayan bireylerden oluşur. Arendt, I. Dünya Savaşı ve ardından Alman-
+ya ile Avusturya’da enflasyon ve işsizliğin etkisiyle başlayan ve sonra yaygınlık
+kazanan kitlelerde yer alan kişi sayısındaki büyük artışa dikkat çeker. Arendt’e
+göre, kitle toplumunun temel özelliği, farklılıkların sergilendiği “ortak dünya-
+nın”, başka bir ifadeyle kamusal alanın yok olmasıdır. Kitle insanının temel
+özelliği ise izolasyon ve normal sosyal ilişkilere sahip olmamasıdır. Arendt için,
+normalde politik temsilin dışında kalan kitleler, bir sebepten ötürü sonradan po-
+litik organizasyon arzusu duyarak totaliter hareketlerin ortaya çıkmasına mey-
+dan verebilir (Arendt, 2004: 417-423; Tsao, 2002: 594; Zerilli, 1995: 184).
+Carlton J. H. Hayes (1940: 91-102) totalitarizmi, kitleleri etkileyen ve dikta-
+törlüğü ilerleten bir olgu olarak niteler. Hayes için, klasik ve geleneksel anlam-
+daki diktatörlüklerden daha fazlasını ifade eden totaliter diktatörlük,  klasik ve
+geleneksel diktatörlüklere tezat teşkil eden bir şekilde tarihte yeni bir şeydir. Bu
+diktatörlük türünün ayırıcı özelliği kaynağında sınıflardan ziyade kitlelerin yer
+almasıdır. Hayes, totaliter diktatörlüklerin temel özelliklerini şöyle sıralar: Tota-
+liter diktatörlükler, bütün iktidarı tekel altına alır ve hem bireylerin hem grupla-
+rın bütün aktivitelerini yönetir. Dolayısıyla gerçekten totaliterdirler. Đkinci ola-
+rak totaliter diktatörlükler kitle desteğine dayanırlar ve bu sayede hakim olup
+yönetirler. Üçüncü olarak eğitim ve propaganda ile sürdürülürler. Hayes tara-
+fından kozmik bir drama olarak nitelenen totalitarizmin bir diğer özelliği olarak
+evrensel olmamasından bahsedilebilir.9
+Totalitarizmde görülen birçok özelliğin ortaçağ despotizmlerinde de görül-
+düğünü söyleyen Michael Curtis, ortaçağın anti-demokratik tecrübeleri ile mo-
+dern totaliter yönetimlerin benzeşen unsurlarına değil, totalitarizmin ayırıcı un-
+surlarına dikkat çeker. Curtis’e göre, modern totaliter yönetimlerin ayırıcı iki
+
+8 Totaliter hareketlerin taşıyıcısı olarak kitle ve sınıfı Hitler özelinde tartışan bir çalışma için bkz. (Miller -
+Robbins, 1989: 655-677).
+9 Hayes’in belirttiği gibi, totalitarizm evrensel değildir. Fakat modernitenin tikel formunda kendisini mümkün
+olduğu kadar evrensel sunmasına (Çiğdem, 1997: 216-222) benzer bir şekilde, totalitarizm evrensel olma id-
+diası ve bütün dünyayı kendi tek doğrusuna uygun olarak dizayn etme gayreti içindedir.
+
+--- Sayfa 7 ---
+Totalitarizmin Kavramsal Đncelemesi ve Arendt ile Popper’ın Totalitarizm Anlayışları     33
+unsuru vardır: Bu unsurlardan ilki, vatandaşlar üzerinde, artan çeşit ve konuda,
+hem kontrolü hem de verimsizliğin azalmasını sağlayan ileri teknolojiye sahip
+bir toplum; ikincisi ise yöneticilerin, tüm vatandaşların desteği için, kitleye baş-
+vurmasıdır. Totaliter hareketlerin, kitlelerin desteğini kazanmak için ayrıca pro-
+pagandaya ihtiyaçları vardır (Curtis, 1969: 60; Arendt, 2004: 448-450). Benzer
+şekilde, Benhabib (1996: 69-72) totaliter rejimlerin temel unsurlarından biri ola-
+rak uyguladığı toplumsal kontrol mekanizmalarına dikkat çeker. Propaganda,
+gözaltı ve imha gibi totalitarizmin toplumsal kontrol mekanizmaları, modernite-
+nin teknik imkanlarına ihtiyaç duyar ve modern teknoloji gerektiren kitle katli-
+amı totaliter rejimlerde rutinleşir.
+Terör
+Totalitarizmin mutlak kontrolü ele geçirdiği yerlerde, propagandanın yerini
+endokrinasyon ve şiddet alır (Arendt, 2004: 448-450). Totalitarizm bağlamın-
+daki şiddeti, terör olarak da ifade etmek mümkündür. Friedrich ve  Brzezins-
+ki’ye göre (1965: 169-170) totaliter terörün amacı herkesi korku ile doldurmak
+ve böylece fikir birliği yaratmaktır. Korkunun egemen olması için en son tekno-
+loji kullanılır. Bu atmosfer, hem rejimin gücünün abartılmasına hem de bir fikir
+birliği görüntüsünün oluşturulmasına ve sürdürülmesine yardım eder.
+Andrew Heywood’un (2006: 37) her alana nüfuz eden ideolojik manipülas-
+yona, açık teröre ve zorlamaya dayalı olarak tesis edilen, her şeyi kapsayıcı bir
+yönetim olarak tanımladığı totalitarizm, hem bireysel hayatı hem toplumsal ha-
+yatı politize etmeyi amaçlar. Heywood için sivil toplumun ve özel alanın,
+Arendt için kamusal alanın terörize edilerek çökertilmesi totalitarizme açılan bi-
+rer kapıdır. Arendt’e göre (2004: 453) terör öyle bir araçtır ki, bizatihi amaç
+olan iktidarı kendisi/iktidar olmaktan uzaklaştırır.10 Totaliter terör, diğer anti-
+demokratik rejimlerdeki terörden farklıdır. Totaliter rejimler, amaçlarını ele ge-
+çirdikten sonra dahi, yani iktidar olduktan sonra dahi terörü kullanmaya devam
+ederler. Totaliter terörün korkunçluğu, tamamen boyun eğdirilmiş insanlara
+egemen olup, uygulanmasındadır. Terörün tam anlamıyla egemen olduğu yer-
+lerde, örneğin toplama kamplarında, propaganda tamamen ortadan kalkar. Fakat
+terör sürekliliğini kaybetmez. Belki de bu süreklilikten ötürü Arendt, terörü, bir
+araya gelerek totalitarizmi oluşturan diğer unsurlardan farklı bir yere koyar ve
+“totaliter yönetimin özü” olarak niteler.
+Đdeoloji
+Totalitarizmi, "yeniden üretme gücüne sahip Weltanschauung11 doğrultusun-
+da, politik iktidarın, bireysel ve toplumsal yaşamı toplu kontrolü" olarak tanım-
+
+10 Arendt’in düşüncesinde iktidar ve şiddet iki ayrı fenomendir. Birinin arttığı yerde diğeri azalır. Bu bağlam-
+da totaliter terörün, yani şiddetin nihai olarak iktidarsızlaştırdığı söylenebilir.
+11 Dünya görüşü, ideoloji.
+
+--- Sayfa 8 ---
+34       Amme Đdaresi Dergisi, Cilt 46 Sayı 4
+layan André Mineau, bu tanımın doğruyu ve iyiyi içeren ideolojiyi ön plana çı-
+kardığını söyler. Totaliter yönetimler, haklı ve adil olduklarına inandıkları Wel-
+tanschauung’u uygulamak üzere toplumsal hayatı istila eder. Đdeoloji, insan ha-
+yatına kutsal bir görev yükleyerek onu yeniden kurmayı hedefler. Bu görev, ha-
+kiki olmayan şimdiki zamanın üstesinden gelmek ve kutsal fikrin zaferini sağ-
+lamaktır (Mineau,1999: 99-100). Bu kutsal fikrin ne olduğunu, totalitarizm bağ-
+lamında, doğanın veya tarihin yasası söyler.
+Totalitarizmin modernliğini vurgulayan düşünürler arasında yer alan Fried-
+rich A. Hayek'e göre, totalitarizmin kaynakları yirminci yüzyılın kolektivizmin-
+de, sosyalist ideolojide ve onun planlama anlayışında bulunabilir. Hayek, totali-
+tarizmi üreten gelişmeyi anlamak istemediğimizi söyler; “çünkü böyle bir kav-
+rayış”ın, “bizim sıkı sıkıya bağlanmak kararında olduğumuz en kıymetli hayal-
+lerin bazılarını” yok edebileceğine dikkat çeker. Ona göre, çeşitli kollektivizm
+türleri (faşizm, komünizm gibi), toplumun çabalarının hangi yöne sevk edilece-
+ği konusunda kendi aralarında farklılaşır. Ayrıca kollektif anlayışlar, toplumu
+ve onun bütün kaynaklarını tek bir gaye, yani kendi hedefleri için örgütleyerek
+ve bireyin amaçlarının öncelikli olduğu otonom alanları tanımayı reddederek li-
+beralizmden ve bireycilikten farklılaşırlar (2005: 6-60). Hayek (2005: 92-95)
+plancılık taraftarlarının, otoriter düzenin sadece ekonomik meselelerle sınırlı ka-
+lacağını iddia edebileceğini belirtir. Bu söylem, politik düzlemde diktatörlüğe
+karşı olan bazı kimseleri, ekonomik düzlemde diktatörlük taraftarlığına ikna
+edebilir. Fakat ekonomik faaliyetleri kontrol eden otorite, hayatın sadece ta-
+li/ikincil kalan konularını değil, her türlü amacımızda gerekli olabilecek sınırlı
+sayıdaki bütün araçları kontrol altına alacaktır. Hayek için mesele tam da budur,
+çünkü ekonomik kontrol “insan hayatının sadece diğerlerinden ayrılabilen bir
+kısmının kontrolü değildir; o, bütün amaçlarımızın araçlarının kontrolüdür”.
+Politika biliminin üzerinde uzlaşması en zor kavramlarından biri olan ideolo-
+ji totalitarizm tanımlarında vurgulanan bir diğer unsur olarak karşımıza çıkar.
+Đdeoloji kavramı rakip inanç ve öğretileri eleştirmek için kullanılabilir. Totalita-
+rizm tecrübesiyle birlikte, ideolojiye dair olumsuz algılar pekişir (Heywood,
+2006: 58-59). Brzezinski (1967: 46-47) totaliter devrimin bir unsuru olarak, zor-
+la sağlanan oy birliği atmosferi içinde, kişinin, keyfi ve ideolojik varsayımlar
+doğrultusunda şartlanmasından bahseder. Mineau’nun totalitarizm tanımı, ideo-
+lojinin, bireyin hayatına yüklediği kutsal göreve odaklanır. Hayek ise totalita-
+rizmin kaynaklarının yirminci yüzyılın kolektivizminde, sosyalist ideolojide ve
+planlamada bulunabileceğini söyler. Friedrich, totalitarizmin unsurları arasında
+ideolojiyi ilk sırada sayar. Heywood, totalitarizmin, her alana nüfuz eden ideo-
+lojik bir manipülasyona dayandığını düşünür. Belirtilmelidir ki totalitarizm bağ-
+lamında ideoloji çok daha farklı bir anlam kazanır. Bu anlam, aşağıda totalita-
+rizm anlayışları karşılaştırmalı olarak incelenecek olan Arendt ve Popper’ın dü-
+şüncelerinde netleşir. Onların, ideolojiden ziyade tarihin ve doğanın yasaları
+
+--- Sayfa 9 ---
+Totalitarizmin Kavramsal Đncelemesi ve Arendt ile Popper’ın Totalitarizm Anlayışları     35
+üzerinde durma sebebi budur. Çünkü totalitarizm bağlamındaki ideolojilerin,
+yani totaliter ideolojilerin temel özelliği, doğanın yasasını veya tarihin yasasını
+esas almalarıdır.
+Hannah Arendt ve Karl Popper’in Totalitarizm Anlayışlarının
+ Karşılaştırılması
+Totalitarizmin modernliğini vurgulayanlar arasında yer alan Hannah Arendt
+(1906-1975) ve onun gelenekselliğini savunan Karl Popper (1902-1994) Alman
+filozofları içinde, totalitarizmin ortaya çıkışına ve tarihin kanun benzeri kav-
+ramsallaştırmalarına karşı tepki veren gelenekte yer alırlar (Beatty, 2001: 71).
+Đki düşünürün totalitarizm anlayışları arasındaki benzerliklere rağmen farklılık-
+lar dikkat çekicidir.
+Yirminci yüzyılın önemli düşünürlerinden Arendt totalitarizm tartışmaların-
+da ilk akla gelen isimlerden birisidir. Totalitarizmin tanımı vermek amacında
+olmayan Arendt’in totalitarizm anlayışının ayırıcı özelliği fenomenolojik oluşu-
+dur. Arendt için, bir şeyin ne olduğu, en azından beşeri ilişkiler alanında, onun
+nasıl olduğu dayanak alınarak anlaşılabilir. Diğer bir anlatımla, bir şeyin ne'liği,
+onun nasıl olduğundan ayrı düşünülemez. A priori olarak görünenin, aslında
+analizin a posteriori biçimi olması Arendt'in fenomenolojik tarzının hem özünü
+hem de zorluğunu oluşturur (Allen, 2010: 239).
+Arendt (2004: 387-623) The Origins of Totalitarianism’in üçüncü cildinin
+giriş bölümünde “Ne oldu”, “Bu neden oldu” ve “Bu nasıl olabildi” sorularını
+sorar. Benzetme yerindeyse, önce tikel açılardan birer totalitarizm provası ola-
+rak nitelendirilebilecek anti-Semitizm ve emperyalizmi tartışır, sonra adından
+da anlaşılacağı gibi, onlardan daha bütünlükçü olan totalitarizmin kuşatıcı ve
+tahakküm altına alıcı yapısını ve bir araya gelerek totalitarizme dönüşen unsur-
+ları inceler. Bu unsurlar sınıfsız toplum veya kitle toplumu, totaliter hareket,
+propaganda, örgütlenme, totaliter iktidar, totaliter devlet, gizli polis, toplu ta-
+hakküm, terör ve ideolojidir. Arendt için, unsurlarının hiç birisi tek başına tota-
+litarizmin ortaya çıkmasına sebep vermez. Başka bir ifadeyle, Arendt’e göre,
+unsurları ve totalitarizm arasında bir nedensellik bağı yoktur.
+Seyla Benhabib (1996: 65-66) Arendt’e ait, ilk cildi anti-Semitizm, ikinci
+cildi emperyalizm ve üçüncü cildi totalitarizm üzerine olan The Origins of Tota-
+litarianism’in bölümleri arasındaki bütünlüğü görmenin kolay olmadığını belir-
+tir. Toplu tahakkümü üç aşamalı olarak ifade eden Arendt’ten hareketle, Benha-
+bib, bu bütünlüğün kurulmasına yardım eder: Totaliter tahakkümün ilk aşaması
+insanların içindeki hukuki insanı (juridical person) öldürmektir, ikinci aşama
+manevi/ahlaki insanın (moral person) yok edilmesidir, üçüncü aşama ise bireyin
+bireyselliğini (individuality) ezmektir. Benhabib, emperyalist devletlerdeki ev-
+rensel insan hakları inancının kırılganlığının izini sürerken, haklara bağımlı öz-
+
+--- Sayfa 10 ---
+36       Amme Đdaresi Dergisi, Cilt 46 Sayı 4
+ne olan hukuki insanın ölümünü emperyalizmle ilişkilendirir. Benhabib’i takip
+ederek manevi/ahlaki insanın ölümünü anti-Semitizm ile ilişkilendirmek sure-
+tiyle, modern uğraklardan totalitarizme giden yolu ve Arendt’in çalışmasındaki
+bütünselliği daha iyi anlamak mümkündür.
+Arendt, totalitarizm ile sadece zalim bir rejimi anlatmaz. Totalitarizmi diğer
+anti-demokratik yönetimlerden ayıran özellik “daha yeni ve daha tehlikeli” ol-
+masıdır. Arendt, “insan doğasını değiştirmek”12 üzere totaliter girişimden bah-
+settiğinde, insan doğasını değiştirmek bahanesiyle, insanı, insanlık durumundan
+mahrum bırakmak teşebbüsünü anlatır (Canovan, 1995: 23-28). Arendt (2004:
+622-623) Nazi ve Sovyet rejimlerinin faydacılığın terimleriyle açıklanamayaca-
+ğında ısrarcıdır. Çünkü bu yönetimlerin liderleri, her türlü faydacılığı dışarıda
+bırakarak, realiteyi kendi ideolojileriyle uyumlu hale getirmek adına, “kusursuz
+tutarlılık yolunda”, toplu tahakküm arayışındadır.
+Totalitarizm tartışmalarında akla ilk gelen isimlerden bir diğeri olan Popper,
+Arendt gibi, totalitarizmin bir tanımını vermek gayretinde değildir. Popper, The
+Poverty of Historicism’de tarihsiciliğin13, anti-naturalistic ve pro-naturalistic
+çeşitlerini; The Open Society and Its Enemies’de ise tarihsiciliğin felsefe ve po-
+litika üzerindeki tehlikeli etkilerini inceler. Her iki çalışmanın ortak yönü, totali-
+tarizmi haklılaştırdığı için tarihsiciliği eleştirmesidir (Weinstein - Zakai, 2006:
+191). Popper (2007: 3) tarihsiciliği, kısaca, “tarihsel öngörüyü kendilerine te-
+mel amaç edinen ve tarihin evriminin altında yatan ‘trendleri’ ya da ‘yasaları’
+ya da ‘modelleri” ya da ‘ritimleri’ keşfederek bu amacın erişilebilir olduğunu
+varsayan sosyal bilimler yaklaşımı” şeklinde tanımlar. Popper (2007: 2-17) fi-
+zik bilimlerindeki metotların, sosyal bilimlere uygulanabilirliği hakkındaki gö-
+rüşlerine bakarak tarihsiciliği anti-naturalistic ve pro-naturalistic olarak ikiye
+ayırır ve fizik bilimlerindeki metotların sosyal bilimlere uygulanmasını savu-
+nanları pro-naturalistic ya da pozitif, bu metotların uygulanmasına karşı çıkan-
+ları ise anti-naturalistic veya negatif ekol olarak isimlendirir. Popper, özellikle
+anti-naturalistic ekol içindeki holizmi eleştiri konusu edinir. Tarihsicililiği eleş-
+tirirken temel vurgusu tarihsel öngörü olan Popper (2007: xiii) için, ne bir bilim
+insanının ne de bir çeşit hesaplama makinesinin, bilimsel metotlarla kendi so-
+nuçlarını öngörmesi mümkün değildir.
+
+12 Arendt, The Origins of Totalitarianism’de, totaliter hareketin hedefi olması anlamında insan doğasından
+bahsederken, sonraki çalışmalarında, örneğin The Human Condition’da (1998: 9-11) farklı bir dikkatle, in-
+san doğası konusunu metafizik bir konu olarak saklayacaktır.
+13 The Open Society and Its Enemies’de Popper’in eleştiri konusu yaptığı historism’in Türkçe karşılığı için, ki-
+tabı Türkçeye çeviren Mete Tunçay takip edilerek, tarihsicilik tercih edilmiştir (Popper, 2008: xxiii). Kita-
+bın, Türkçesi Açık Toplum ve Düşmanları adıyla basılmıştır, bkz. (Popper, 2008).
+
+--- Sayfa 11 ---
+Totalitarizmin Kavramsal Đncelemesi ve Arendt ile Popper’ın Totalitarizm Anlayışları     37
+Benzer şekilde, Arendt (2004: xxv-xxvii) The Origins of Totalitarianism’in
+önsözünde her türlü tarihsel belirlenimciliğe (historical determinism) ve önle-
+nemezlik algılarına karşı çıktığını söyler. Önceki bölümde aktarılan totalitarizm
+tanımlarında, doğanın ve tarihin yasasından değil, ideolojiden bahsedildiği gö-
+rülür. Bununla birlikte Arendt (2004: 594-598) totalitarizmin bir kanunun reh-
+berliği olmadan hareket etmediğini, keyfi olmadığını belirtir. Çünkü totaliter ha-
+reketler, bütün kanunların kendilerinden türediği düşünülen doğanın kanununu
+ya da tarihin kanununu takip ettiklerini iddia eder. Totaliter yönetimler, iktidarı,
+liderin menfaatine kullanmaktan uzak bir şekilde, doğanın veya tarihin yasasını
+icra etmek üzere, bütün insanların yaşamsal menfaatlerini feda eder. Arendt’e
+göre (2004: 603) doğanın yasasını veya tarihin yasasını esas alan, “her şeyi ve
+her vakıayı yandaşlarının tatmini için tek bir öncülden çıkarsayarak açıklayabi-
+len izm’ler”, yani ideolojiler, politik yaşamda ihmal edilemez bir rol oynar.
+Arendt’i anımsatan bir şekilde, tarihin, öngörüyü mümkün kılan tarihsel ya-
+salar tarafından yönetildiği fikrine karşı çıkan ve medeniyetimizin yaşaması için
+akla ve özgürlüğe süregelen saldırıyı destekleyen büyük entelektüelleri savun-
+maktan vazgeçmeyi öneren Popper (1996a: vii-1) şunları söyler:
+[Bu kitap] medeniyetimizin -muhtemelen insanlığı ve akılcılığı, eşitliği ve özgürlüğü
+hedefleyen bir medeniyet, tabiri caizse çocukluk çağında olan ve insanlığın pek çok
+entelektüel önderinin sıklıkla ihanet etmesi gerçeğine rağmen büyümeye devam eden
+bir medeniyet- karşılaştığı bazı zorlukların taslağını çizmektedir. [Kitap] bu mede-
+niyetin, kendi doğum şokundan –sihirli güçlere boyun eğen kabileci veya ‘kapalı
+toplum’dan, eleştirel yetenekleri serbest bırakan ‘açık toplum’a geçişin [şokundan]-
+henüz tam olarak kurtulmadığını göstermeye çalışmaktadır. [Kitap] bu geçiş şoku-
+nun, uygarlığı yıkmayı ve kabileciliğe geri dönmeyi denemiş olan ve hala deneyen
+reaksiyoner akımların ortaya çıkışını mümkün kılan etkenlerden biri olduğunu gös-
+termeye çalışmaktadır. Ve bugünlerde totalitarizm dediğimiz şeyin, ancak medeniye-
+timizin kendisi kadar eski veya yeni olduğunu ileri sürmektedir.
+Popper, medeniyetimizin kendisi kadar eski veya onun kadar yeni varsaydığı
+totalitarizmi, modern çağdan çok daha erken zamanlarda aramaya başlar ve bu
+düşünceyi Platon’a kadar götürür. Ayrıca Popper’in (1996b: 22- 86) eleştirile-
+rinden “modern tarihsiciliğin ve totalitarizmin babası” olarak nitelediği, Plato
+ile moderniz ve totalitarizm arasındaki eksik bağlantıyı kurduğunu belirttiği, il-
+kel değil fakat yeni kabileciğin teorisyeni olarak tanımladığı Hegel ile Marx da
+paylarını alır. Popper için (1996b: 212):
+Hegel ve Marx’ın tarihsici felsefelerinin kendi zamanlarının –bir toplumsal değişme
+zamanının- karakteristik ürünleri olduğu kuşkusuzdur. … Platon, bu duruma bütün
+değişimi durdurmaya çalışarak tepki verdi. Daha modern toplumların felsefecileri
+değişimi kabul ettikleri ve hoş karşıladıkları için çok daha farklı tepki vermiş görü-
+nüyorlar. … tarihsiciler olarak onu [değişimi] öngörmeyi ve böylece ussal kontrol
+altına almayı denediler ve bu elbette onu evcilleştirme girişimi gibi gözükmektedir.
+
+--- Sayfa 12 ---
+38       Amme Đdaresi Dergisi, Cilt 46 Sayı 4
+Dahası Popper, bütüncü görüşlerin, Marxist görüşler ile Platoncu görüşler
+arasındaki uzlaşıyı dile getirdiklerine dikkat çeker. Popper için, Platon’un deği-
+şimi durdurmak isteği ve Marx’ın değişimin kaçınılmaz olduğu doktrini birleşti-
+rildiğinde ortaya çıkan mahsul bir çeşit Hegelci sentezdir: Değişim bütünüyle
+durdurulamadığına göre, devlet tarafından en azından planlanmalı ve kontrol al-
+tına alınmalıdır. Popper, Platon’un, Đdealar Dünyası’ndaki değişimi, başka bir
+ifadeyle soysuzlaşma ve çürümeyi durdurmak arzusunda olduğunu söyler. Pla-
+ton’un modern halefleri ise tarihsel ilerleyiş yasasına inanırlar, fakat onu kontrol
+etmek isterler (Popper, 1996b: 212). Hatta Marx (2007: 14-15) onu hızlandır-
+maktan söz eder ve Capital’de şu ifadelere yer verir:
+Bir toplum, kendi hareketini belirleyen doğal yasayı keşfetmek için doğru yola sahip
+olduğu zaman –ve bu çalışmanın amacı budur, modern toplumun hareketinin yasa-
+sını açıkça ortaya koymak- kendi normal gelişiminin birbirini izleyen aşamaları ta-
+rafından sunulan engelleri ne cesur adımlarla aşabilir ne yasal düzenlemelerle kal-
+dırabilir. Ama doğum sancılarını kısaltabilir ve azaltabilir.
+ Kısaca, Marx, tarihin yasalarının belirli bir istikamette ilerlediğini ve bunun
+değiştirilemeyeceğini ama hızlandırılabileceğini söyler. Yukarıda belirtildiği gi-
+bi, tarihin veya doğanın yasasını takip etmek iddiasında olan totaliter hareketi
+hızlandırmanın aracı, Arendt’in (2004: 453) düşüncesinde terördür.
+Diğer taraftan totalitarizmin ayırıcı unsurlarını görmezden gelen Popper, Pla-
+ton’un düşüncelerindeki anti-demokratik unsurları totalitarizm olarak niteler.
+Fakat Platon’un Đdeal Devleti, terör ve kitle gibi totalitarizmin temel unsurların-
+dan azadedir; kontrol histerisi ile caniyane sonuçları bakımından, Arendt’in
+(2004: 576-577) terimleriyle ifade edilirse “kitlesel ceset imalatı” bakımından
+modern totaliter tecrübelerin uzağında kalır. Ayrıca Platon (1991) Đdeal Devleti
+tasavvur ederken, “yöneticiler, bekçiler/koruyucular ve köleler”den oluşan sınıf-
+lı bir toplumdan bahseder. Platon’un kontrol arzusu, totalitarizmin temel unsur-
+larından biri olarak nitelen kitlelerin kontrolünü değil, sınıfları esas alır. Buna
+karşılık, Arendt’in düşüncesinde totalitarizmin ortaya çıkmasını mümkün kılan
+şey, sınıfların koruyucu duvarlarının yıkılması ile kitle toplumuna geçilmesidir.
+Platon’un (1991: 139) “koruyucu/bekçi sınıfın soyunun korunması” söylemi ile
+getirdiği en anti-demokratik öneriler, onu totaliter olarak nitelemeye yetmez.
+Her türlü bireysel ve toplumsal faydacılığın içini boşaltan totalitarizmden farklı
+olarak, Friedrich (1969: 135) Platon’un hedefinin “toplumdaki iyi düzenin yara-
+rına olacak toplu kontrol” olduğunu, bu durumun, Popper’daki gibi, Platon’un
+totaliter olduğu yanlış anlamasına yol açabileceğini ama aslında Platon’un bir
+“otoriteryen” olduğunu ve bilge olanın otoritesini savunduğunu söyler. Wilhoit
+ise Platon’un eşitsizlikçi olduğunu belirttiği politikasını en iyi entelektüel meri-
+tokrasinin ifade edeceğini düşünür (1979: 56). Platon’un Đdeal Devleti birebir
+totalitarizm örneği olmamakla birlikte, anti-demokratik yönetimlerden hangisi-
+
+--- Sayfa 13 ---
+Totalitarizmin Kavramsal Đncelemesi ve Arendt ile Popper’ın Totalitarizm Anlayışları     39
+ne dahil edilebileceği, bu çalışmanın sınırları dışında, ayrı bir tartışma konusu-
+dur.
+Modern öncesi zamanlarda, totalitarizmin unsurları henüz ortaya çıkmadığı
+ve/veya bir araya gelmedikleri için, o dönemlerde totalitarizmin kendisini ara-
+mak ahistoric’tir. Her ne kadar totalitarizmin modern öncesi tecrübeleri içerdiği
+söylenebilirse de, henüz kendisini oluşturan unsurların oluşmadığı ve/veya bir
+araya gelmediği bir zamanda totalitarizmin aranması halinde, karşılaşılan en an-
+ti-demokratik yönetimlerin totalitarizm örneği olarak tanımlanması, sadece ve
+sadece totalitarizmin ayırıcı unsurlarının göz ardı edilmesiyle mümkündür. Tek-
+rar belirtilmelidir ki totalitarizm modern bir fenomendir. Montesquieu, The Spi-
+rit of Law’da (2005: 323) bizi bu konuda dikkatli olmaya davet eder:
+Đçinde yaşadığımız çağın düşüncelerini, geçmiş zamanlara uygulamak, hata yapma-
+nın en bereketli kaynağıdır. Tüm eski çağları modernleştirmek isteyen insanlara di-
+yeceğim, Mısırlı rahiplerin Solon'a dedikleridir: ‘Ey Atinalılar, sizler sadece çocuk-
+sunuz’.
+Hem günlük konuşma dilinde hem literatürde, modern zamanlar öncesinde
+yaşanan tecrübelerin içerdiği anti-demokratik unsurların yoğunluğunu anlatmak
+için, Popper’ın yaptığı gibi, bu tecrübeleri ‘totaliterleştirme’ eğiliminden bahse-
+dilebilir. ‘Totaliterleştirme’, totalitarizmin temel unsurlarının görmezden gelin-
+mesi halinde mümkündür. Totalitarizmin unsurları, totalitarizm olan ve olma-
+yan anti-demokratik yönetimlerin ayırt edilmesine yardımcı olur. Bu bağlamda
+kitabının başlığının ima ettiği gibi, Popper, The Open Society and Its Ene-
+mies’de, esas olarak açık toplumun düşmanlarını; Russell’in ifadesiyle (Popper,
+1996a) genel olarak “demokrasinin eski ve modern düşmanlarını”14 eleştirerek
+demokrasi tartışmalarına katkı sağlar. Anti-demokratik olanın nitelikli analizi
+demokrasi için vazgeçilmezdir.
+SO'UÇ
+Hakim paradigma olarak nitelendirebileceğimiz demokrasinin ne olduğu so-
+rusu, genel olarak anti-demokratik yönetimlerin, özel olarak da totalitarizmin ne
+olduğu sorusunun önemini azaltmaz. Totalitarizm kavramının önemi, bize temel
+karakteristiklere bağlı bir kategori sunmasında yatar (Barber, 1969: 3). Nazi
+Almanyası'nın ve özellikle Stalinist Rusya'nın her ikisinin de totaliter olduğunu
+söylemek, onları birebir eşitlemek değildir. Her konuda benzerlik göstermeyen
+bu iki örneğin diğer yönetim şekillerine değil de, totalitarizme dahil edilmeleri,
+iki yönetimin totalitarizmin temel karakteristiklerini paylaşmaları sebebiyledir
+(Mineau, 1999: 98-99). Bu bağlamda belirtmek gerekir ki totalitarizmin unsur-
+larından ideoloji bileşeninin farklılaşmasıyla her seferinde farklı bir totalitarizm
+tecrübesine varılabilir.
+
+14 Bertrand Russell’in kitapla ilgili bahsedilen yorumu, kitabın arka kapağında yer almaktadır.
+
+--- Sayfa 14 ---
+40       Amme Đdaresi Dergisi, Cilt 46 Sayı 4
+Çalışmada incelenen totalitarizm tanımlarından hareketle, tanımların kendi
+içinde farklılaşan vurgulara sahip olduğu söylenebilir. Hayek için totalitarizmin
+kaynağında yirminci yüzyılın kollektivizmi, sosyalist ideoloji ve onun planlama
+anlayışı yer alır. Franz Neumann için totalitarizmin ayırıcı unsurları polis devle-
+ti, total iktidar, monopolist parti, bütüncü toplumsal kontroller ve terördür. Fri-
+edrich için totalitarizmin ayırıcı unsurları totaliter ideoloji, tek parti, gizli polis,
+kitle iletişim araçlarının kontrolü, operasyonel silahların kontrolü ve ekonomi
+dahil her türlü örgütlenmenin kontrolüdür. Curtis için totalitarizmin ayırıcı un-
+suru verimsizliğin azalmasını ve kontrolü sağlayan yüksek teknolojiye sahip bir
+toplumun var olması ile yöneticilerin tüm vatandaşların desteği için kitleye baş-
+vurmasıdır. Benzer şekilde Brzezinski, totalitarizmin ayırıcı unsuru olarak ileri
+teknolojiden bahseder.
+Yukarıda bahsedilen totalitarizm tartışmalarında, totalitarizmin modern bir
+fenomen olduğu kanaati ağır basmaktadır. Sigmund Neumann, Franz Neumann,
+Hayes, Friedrich, Curtis, Brzezinski, Hayek ve Arendt totalitarizmi modern bir
+fenomen olarak tanımlar. Totalitarizmin modern bir fenomen olduğunu düşü-
+nenler için, totalitarizmin temel unsurları, daha önce söylendiği ve Barber’in
+(1969: 15-16) belirttiği gibi “teknoloji, rasyonel bürokrasi, kitle üretimi, kitle
+iletişimi, sanayileşme, v.s.” dir. Çalışmada ise totalitarizmin unsurları olarak
+kitle, terör ve ideoloji incelenmiş, öncelikle kitle üzerinden totalitarizmin mo-
+dernliği vurgulanmış, daha sonra da tarihin/doğanın yasasını esas alması anla-
+mında totaliter ideolojilerin ve süreklilik arz eden ve tamamen boyun eğdirilmiş
+insanlara uygulanan totaliter terörün özel anlamından bahsedilmiştir.
+Arendt ve Popper, totalitarizm tartışmaları denildiğinde akla ilk gelen isim-
+lerdendir. Adları totalitarizm tartışmalarıyla özdeşleşen bu iki düşünür totalita-
+rizmin tanımını vermek uğraşısında değildir. Bu nedenle çalışmada iki düşünü-
+rün totalitarizm tanımları değil, totalitarizm anlayışları karşılaştırılmıştır. Pop-
+per, totalitarizmi eleştirmek niyetiyle yola çıktığını söyler ve totalitarizmin me-
+deniyetimizle akran olduğunu düşünür ama genel olarak “açık toplum”un eski
+ve yeni düşmanlarını eleştirerek demokrasi tartışmalarına katkı sağlar. Buna
+karşılık Arendt dolaysız olarak totalitarizmi eleştirir. Popper, Platon’un düşün-
+celerinde totalitarizmi ararken, totalitarizmin unsurlarını göz ardı ederek, onun
+düşüncelerini ‘totaliterleştirir’. Özellikle The Human Condition’da Platon’un
+anti-demokratik düşüncelerini eleştiren Arendt (1998) ise totalitarizmin eleştiri-
+sine, onun, modern bir fenomen olduğunu söyleyerek başlar ve totalitarizmi
+moderniteye bağlayan unsurlardan hareketle açıklar. Her iki düşünür de tarihsel
+öngörü fikrine karşı çıkar. Hem Arendt hem Popper, tarihin ve doğanın yasala-
+rını eleştiri konusu yapar. Bu bağlamda Arendt tarihsel belirlenmişlikten bahse-
+derken, Popper tarihsicilikten bahseder.
+Totalitarizm kavramını inceleyen araştırmacılarının tanımlarından hareketle,
+‘totalitarizmin genel karakteristikleri nelerdir’ sorusunu şöyle yanıtlamak müm-
+
+--- Sayfa 15 ---
+Totalitarizmin Kavramsal Đncelemesi ve Arendt ile Popper’ın Totalitarizm Anlayışları     41
+kündür: Totalitarizm, sağın ve solun totaliter yönetimlerini eşitlemeksizin, onla-
+rı bir arada analiz etmeyi sağlar, tasnif ve mukayese için genel bir kategori su-
+nar (Mineau, 1999: 98-99; Barber, 1969: 3). Totaliter yönetimler, bir diktatörlük
+çeşididir ama bunlar geleneksel anlamdaki diktatörlüklerden muhafazakar değil,
+devrimci olmalarıyla ayrılır. Onların muhafazakarlığı devrimden sonra başlar
+(Sigmund Neumann, 1965: xi-xix). Totalitarizm modern bir fenomendir (Crick,
+2002: 15; Arendt, 2004: 594), onu modernite öncesinde aramak ve bu dönem-
+lerdeki anti demokratik eğilimleri totalitarizm olarak okumak totalitarizmin ayı-
+rıcı unsurlarını göz ardı etmek anlamına gelir. Totalitarizmi, modern zamanlara
+bağlayan temel unsurlar toplu tahakkümü ve kontrolü kolaylaştıran kitle, terör
+ve ileri teknolojidir (Curtis, 1969: 60). Totaliter yönetimler tek parti egemenli-
+ğini esas alır (Friedrich, 1969: 126). Her türlü politik, ekonomik ve toplumsal
+faaliyet devlet tarafından düzenlenir (Hayek, 2005: 92-95). Muhalefet baskı al-
+tında tutulur, hatta yok edilir. Totaliter yönetimler özgürlüğe tahammülsüzdür,
+birey ya da grupların karar alma süreçlerine katkısı ve söz hakları yoktur (Ce-
+vizci, 2003: 393). Totaliter ideoloji ve gizli polis, toplu tahakkümü ve kontrolü
+sağlamaya yardım eder (Mineau, 1999: 99-100; Arendt, 2004).  Totaliter yöne-
+timlerde kitle iletişim araçları, operasyonel silahlar ve ekonomiden oluşan ve
+her türlü örgütlenmeyi kapsayan üç çeşit monopol görülür (Friedrich, 1969:
+126). Đleri teknoloji ve toplu terörü kullanan totaliter yönetimler, total ve kalıcı
+devrimi tesis etmek üzere, devlet ile toplum ve devlet ile birey arasındaki her
+türlü sınırı yok eder (Brzezinski, 1967: 46-4; Benhabib, 996: 69-72; Neumann,
+1965; Eckstein ve David Apter, 1965: 434-437). Totalitarizmin katı kollekti-
+vizmine, yönetimin esas aldığı yasa her neyi öngörüyorsa ona uygun bir plan-
+lama anlayışı eşlik eder; çünkü kalıcı devrimde öngörülemezliğe ve belirsizliğe
+yer yoktur (Hayek, 2005; Arendt, 2004).
+KAY'AKÇA
+Allen, Wayne (2010), “A Novel Form of Government: Hannah Arendt on Totalitaria-
+nism”, http://www.mmisi.org/pr/16_01/allen.pdf, (17.12.2010).
+Arendt, Hannah (1998), The Human Condition, The University of Chicago Press, Chi-
+cago, London.
+Arendt, Hannah (2004), The Origins of Totalitarianism,  Schocken Books, New York
+Barber, Benjamin R. (1969), “Conceptual Foundations of Totalitarianism”, Totalitaria-
+nism in Perspective; Three Views, Friedrich, Carl J. - Curtis, Michael -  Barber, Ben-
+jamin R., Pall Mall Press,  London, s. 3-52.
+Beatty John (2001), “Darwinism, Historical Determinism and Totalitarianism”, Thin-
+king about Evolution Historical, Philosophical, and Political Perspectives, Singh,
+Rama – Krimbas, Costos B. – Paul, Diane B. – Beatty, John (Eds.), Vol.2, Cambrid-
+ge University Press, Cambridge, New York.
+
+--- Sayfa 16 ---
+42       Amme Đdaresi Dergisi, Cilt 46 Sayı 4
+Benhabib, Seyla (1996), The Reluctant Modernism of Hannah Arendt, SAGE Publicati-
+ons, California, London, New Delhi.
+Brzezinski, Zbigniew K. (1967),  Ideology and Power in Soviet Politics, Frederick A.
+Praeger Publications, New York, Washington, London.
+Canovan, Margaret (1995) Hannah Arendt: a Reinterpretation of Her Political Thought,
+Cambridge University Press, Cambridge.
+Cevizci, Ahmet (2003) Felsefe Terimleri Sözlüğü, Paradigma Yayınları, Đstanbul.
+Crick, Bernard (2002), Democracy: A Very Short Introduction, Oxford University
+Press, Oxford, New York.
+Curtis, Michael, (1969), “Retreat From Totalitarianism”, Totalitarianism in Perspecti-
+ve; Three Views, Friedrich, Carl J. - Curtis, Michael -  Barber, Benjamin R., Pall
+Mall Press,  London, s.53-122.
+Çiğdem, Ahmet (1997), Bir Đmkan Olarak Modernite, Đletişim Yayınları, Đstanbul.
+Eckstein, Harry – Apter, David E., (1965), “Introduction”, Comparative Politics a Rea-
+der, Eckstein, Harry - Apter, David E. (Ed.), The Free Press New York, London, s.
+433-440.
+Friedrich, Carl J. - Brzezinski, Zbigniew (1965), Totalitarianism Dictatorship and Au-
+tocracy, Harward University Press, Cambridge.
+Friedrich, Carl J. (1969), ”The Evolving Theory and Practice of Totalitarian Regimes”,
+Totalitarianism in Perspective; Three Views, Friedrich, Carl J. - Curtis, Michael -
+Barber, Benjamin R. -  Pall Mall Press,  London, s.123-164.
+Gülmez Stewart, Asime Tuba (2012), “Demokrasi Perspektifinden Totalitarizm Kav-
+ramı ve Hannah Arendt”, Yayınlanmamış Doktora Tezi, Gazi Üniversitesi Sosyal
+Bilimler Enstitüsü, Ankara.
+Hayek, Friedrich A. (2005), The Road to Serfdom, Taylor and Francis, e-Library Press.
+Hayes, Carlton J. H. (1940), “The Novelty of Totalitarianism in the History of Western
+Civilization”, Proceedings of the American Philosophical Society, Vol. 82, No: 1,
+Symposium on the Totalitarian State (Feb. 23), s. 91-102.
+Heywood, Andrew (2006), Buğra Kalkan (Ed.), Siyaset, (Çev. Bekir Berat Özpek vd.),
+Liberte Yayınları, Ankara.
+Howard, Dick (2002), The Spector of Democracy, University Press, New York, Colum-
+bia.
+Knight, Patricia (2003), Mussolini and Fascism, Routledge, London.
+Lefort, Claude (1986), The Political Forms of Modern Society, The MIT Press Camb-
+ridge, Massachusetts.
+Marx, Karl (2007), Engels Friedrich (Ed.) Capital, Vol.1, Part 1, Cosimo Inc., e-Book
+Miller, Abraham H. – Robbins, James S. (1989), “Who Did Vote for Hitler?  A Rea-
+nalysis of the Lipset/Bendix Controversy”, Polity, Vol. 21, No: 4 (Summer), s. 655-
+677.
+Mineau, André (1999), The Making of the Holocoust, Rodopi B. V., Amsterdam, Atlan-
+ta.
+
+--- Sayfa 17 ---
+Totalitarizmin Kavramsal Đncelemesi ve Arendt ile Popper’ın Totalitarizm Anlayışları     43
+Minogue, Kenneth (2000), Politics a Very Short Introduction, Oxford University Press,
+Oxford, New York.
+Montesquieu, Baron De (2005), The Spirit of Laws, Tans. M. De Secondat, Clark, The
+Lawbook Exchange Ltd., New Jersey.
+Neumann, Franz (1966), The Democratic And the Authoritarian State, The Free Press,
+New York, London.
+Neumann, Sigmund (1965), Permanent Revolution, Fredrick A. Praeger Publishers,
+New York, Washington, London.
+Platon (1991), The Rebublic of Plato (Trans. Allan Bloom), Basic Books, New York.
+Popper, Karl Raimund (1996a), The Open Society and Its Enemies, Vol. 1, Routledge,
+London.
+Popper Karl Raimund (1996b), The Open Society and Its Enemies, Vol. 2, Routledge,
+London.
+Popper Karl Raimund (2007), The Poverty of Historicism, Routledge, London, New
+York.
+Popper, Karl Raimund (2008), Açık Toplum ve Düşmanları; Cilt 1, (Çev. Mete Tunçay),
+Liberte, Ankara.
+Talmon, Jacob L. (1970), The Origins Of Totalitarian Democracy, Sphere Books Limi-
+ted, London.
+Tsao, Roy T. (2002) “The Three Phases of Arendt’s Theory of Totalitarianism”, Social
+Research, Vol. 69, No. 2 (Summer), s. 579-619.
+Weber, Max (2005),  From Max Weber: Essays in Sociology, Routledge, Digital Copy.
+Weinstein, David – Zakai, Avihu (2006), “Exile and Interpretation: Popper’s Re-
+invention of the History of Political Thought”, Journal of Political Ideologies, Vol.
+11 No: 2, June, s. 185-209.
+Wilhoit, Francis M. (1979), Quest for Equality in Freedom, Transaction Inc., New
+Burnswick, New Jersey.
+Zerilli, Linda M. G. (1995) “The Arendtian Body”, Feminist Interpretations of Hannah
+Arendt, Bonnie Honig (Ed.), Pennsylvania State University Press, Pennsylvania, pp.
+167-194.

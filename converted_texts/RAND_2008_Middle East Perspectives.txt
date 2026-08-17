@@ -1,0 +1,999 @@
+--- Sayfa 1 ---
+This document and trademark(s) contained herein are protected by law as indicated in a notice appearing later in
+this work.  This electronic representation of RAND intellectual property is provided for non-commercial use only.
+Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited.  RAND PDFs are protected under
+copyright law.  Permission is required from RAND to reproduce, or reuse in another form, any of our research
+documents for commercial use. For information on reprint and linking permissions, please see RAND Permissions.
+Limited Electronic Distribution Rights
+This PDF document was made available from www.rand.org as a public
+service of the RAND Corporation.
+6
+Jump down to document
+THE ARTS
+CHILD POLICY
+CIVIL JUSTICE
+EDUCATION
+ENERGY AND ENVIRONMENT
+HEALTH AND HEALTH CARE
+INTERNATIONAL AFFAIRS
+NATIONAL SECURITY
+POPULATION AND AGING
+PUBLIC SAFETY
+SCIENCE AND TECHNOLOGY
+SUBSTANCE ABUSE
+TERRORISM AND
+HOMELAND SECURITY
+TRANSPORTATION AND
+INFRASTRUCTURE
+WORKFORCE AND WORKPLACE
+The RAND Corporation is a nonprofit research
+organization providing objective analysis and effective
+solutions that address the challenges facing the public
+and private sectors around the world.
+Visit RAND at www.rand.org
+Explore the	RAND Center for Middle East Public Policy
+View document details
+For More Information
+International Programs at RAND
+CENTER FOR MIDDLE EAST PUBLIC POLICY
+Browse Books & Publications
+Make a charitable contribution
+Support RAND
+
+--- Sayfa 2 ---
+This product is part of the RAND Corporation conference proceedings series. RAND
+conference proceedings present a collection of papers delivered at a conference. The
+papers herein have been commented on by the conference attendees and both the in-
+troduction and collection itself have been reviewed and approved by RAND Science
+and Technology.
+
+--- Sayfa 3 ---
+International Programs at RAND
+CENTER FOR MIDDLE EAST
+PUBLIC POLICY
+Middle East Perspectives
+Conference Proceedings from
+Gstaad, Switzerland
+Shahram Chubin, David Aaron, Abdulaziz Sager,
+Shai Feldman
+Prepared for the RAND Center for Middle East Public Policy
+
+--- Sayfa 4 ---
+The RAND Corporation is a nonprofit research organization providing objective analysis
+and effective solutions that address the challenges facing the public and private sectors
+around the world. RAND’s publications do not necessarily reflect the opinions of its
+research clients and sponsors.
+R® is a registered trademark.
+© Copyright 2008 by the RAND Corporation, the Geneva Center for Security Policy, the Gulf
+Research Center, and the Crown Center for Middle East Studies at Brandeis University
+All rights reserved. No part of this book may be reproduced in any form by any electronic or
+mechanical means (including photocopying, recording, or information storage and retrieval)
+without permission in writing from RAND.
+Published 2008 by the RAND Corporation
+1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138
+1200 South Hayes Street, Arlington, VA 22202-5050
+4570 Fifth Avenue, Suite 600, Pittsburgh, PA 15213-2665
+RAND URL: http://www.rand.org
+To order RAND documents or to obtain additional information, contact
+Distribution Services: Telephone: (310) 451-7002;
+Fax: (310) 451-6915; Email: order@rand.org
+The research described in this report was sponsored by the RAND Corporation, the Geneva
+Center for Security Policy, the Gulf Research Center, and the Crown Center for Middle East
+Studies at Brandeis University and was conducted within the RAND Center for Middle East
+Public Policy (CMEPP) under the auspices of the International Programs of the RAND
+Corporation.
+
+--- Sayfa 5 ---
+iii
+The Middle East 2007
+Gstaad, 1-3 July 2007
+
+Preface
+
+This conference report summarizes the discussion that took place at the eighth
+annual Workshop on the Middle East held in Gstaad, Switzerland, from July 1 to 3, 2007.
+The workshop was sponsored by the Geneva Centre for Security Policy (GCSP), the
+RAND Corporation, the Gulf Research Center (GRC), and the Crown Center for Middle
+East Studies at Brandeis University.
+
+The summary was prepared by GCSP and was reviewed by the other sponsoring
+institutions.  However, the views expressed in this report are not necessarily those of the
+sponsoring organizations or their personnel.
+
+The publication of this document is being carried out under the aegis of the
+RAND Center for Middle East Public Policy. The RAND Center for Middle East Public
+Policy, part of international programs at the RAND Corporation, aims to improve public
+policy by providing decisionmakers and the public with rigorous, objective research on
+critical policy issues affecting the Middle East.
+
+For more information on the RAND Center for Middle East Public Policy, contact
+the director, David Aaron. He can be reached by email at David_Aaron@rand.org; by
+phone at 310-393-0411, extension 7782; or by mail at RAND, 1776 Main Street, Santa
+Monica, California 90407-2138.  More information about RAND is available at
+www.rand.org.
+
+--- Sayfa 7 ---
+1
+Introduction
+
+The Middle East remains an arena of prime strategic importance for U.S., European, and
+global security. Wars, instability, and regional turbulence affect not just energy security
+but also migration, political extremism, and the proliferation of weapons of mass
+destruction. This workshop analyzes the continued interaction of a range of key regional
+security dynamics and functional issues in the Middle East over the last year, identifying
+major emergent themes, linkages, and trends in the region and reflecting on their strategic
+impact and implications.
+
+The workshop, now in its eighth year, took place in Gstaad for the third year in
+succession. It was comprised of 24 participants from 12 countries. Participants come
+from a variety of institutions in the Middle East, Europe, and the United States. This
+year’s workshop included senior participants such as the president of RAND; the
+directors of the German Institute for International and Security Affairs (SWP, Berlin), the
+Stimpson Center (Washington, D.C.), the Al Ahram Centre (Cairo), and the Wilson
+Center (Washington, D.C.); and a regional director of the Nixon Center (Washington,
+D.C.), in addition to the sponsors, the GCSP, RAND, GRC, and the Crown Center.
+(Participant list appended.)
+
+An Overview of Geopolitical and Regional Dynamics
+
+The most obvious change in the Middle East over the last year has been the failure of
+constructive unilateralism and its replacement by negotiations between actors in the
+region. In addition, a number of other key factors collectively reflect and reinforce
+contemporary regional security dynamics and trends:
+
+• Regime and state weakness: Such structural weakness is apparent in different
+combinations, and only in the cases of Lebanon and Iraq are the two synonymous.
+In Syria, Iran, and Saudi Arabia we find strong regimes but weak states; Israel has
+a strong state but weak regime. States in the Middle East are generally unable to
+provide public goods (such as human security, welfare, a monopoly on violence,
+and disparate militias, parties and foreign actors all too readily fill the vacuum.
+Explanations center variously on the delegitimization of the Washington
+Consensus in the region, the strength of authoritarian impulses from the “Arab
+street,” and an identity/modernization crisis. The legitimation of the state system
+needs to be supported in order to counter state failure, though in the Middle East
+we do find a variety of states—failed states, antistates and city-states—which
+suggest that a variety of legitimation models need to be developed. Paradoxically,
+the widespread fear of complete sectarian-led disintegration of the state (the
+nightmare scenario) serves to reinforce regimes through the promotion of
+nationalist solidarity and international cooperation. It can also encourage states to
+change their basis of legitimation, from traditional and charismatic to legal-
+rational, where performance-related indicators such as rule of law, human rights,
+and good governance predominate.
+
+--- Sayfa 8 ---
+2
+• Instrumentalization of confessional and sectarian impulses: Distributional
+resource conflicts have been increasingly depicted in cross-national confessional
+terms (Sunnis versus the Shia Crescent or Axis) by some regional and
+international state actors. These actors (Saudi Arabia and Egypt) sought to
+instrumentalize such an easily understood concept to mobilize support of their
+mainly Sunni populations to further their state interests. In reality, Arab Sunni
+solidarity against Shia Iran is better understood through the prism of traditional
+state power competition and rivalry than the prism of confessional clashes.
+However, such instrumentalization has only served to promote “political Islam”
+(where politics is perceived to be a means to salvation) and buttress the rise of
+nonstate societal-based transnational fundamentalism. The strengthening of
+transnational confessional and sectarian actors has, in turn, undermined the
+cohesion of societies and states that are unable then to deal with the phenomena
+they have partly served to create. Paradoxically, however, the splintering of
+societal and confessional solidarity also has the effect of strengthening the state:
+“Hold onto nurse for fear of something worse” is a strong, unifying impulse in the
+region, particularly apposite in the context of a disintegrating Iraq.
+
+• De facto borders and frontiers are no longer sacrosanct: While formal and
+legal state territorial borders in the Middle East remain unchanged (even Iraq has
+not physically collapsed), the long-term existence of what might be called
+“frontiers of domination” (that is, de facto buffer zones and power projection into
+neighboring states) and other unregulated borders is diminishing. This trend
+began with Israel withdrawing from South Lebanon in 2000, Syria from Lebanon
+in 2005 (after 30 years) and Israel from Gaza in 2006 (after 40 years).
+Paradoxically, the inability of states to maintain their power-projection capability
+at once reflects their diminished state power capacity, but in turn reinforces the
+statehood of former recipients of such projection.
+
+• Grand strategic evolution centered on two competing models: The
+geopolitical balance of power and influence is now centered on two competing
+projects for the hearts and minds of societies in the region. The first camp or
+model is characterized by the desire for an international order based on the
+fundamentalist principles and philosophies of theocratic Islam (political Islam),
+which views the current world order as inherently unjust. This camp is not a
+coherent political force but rather consists of parties and movements—such as
+Hezbollah and the Muslim Brotherhood in Egypt—and is led by a new and
+untested leadership whose ideological discourse projects the global and
+transnational idea of the umma that seeks to bring salvation to Islamic
+communities. The ideology of political Islam is not an import as was fascism or
+communism to European states, but embedded in the culture of particular states in
+the region and part of the vocabulary of dissent. However, this discourse of
+universalism appears more rhetorical than real, as in practice Islamists have state-
+based, local, and immediate objectives. State concessions towards this camp in an
+attempt to ameliorate grievances or induce cooption only allow it to gain
+momentum: Islamists use democratic means to nondemocratic ends—electoral
+
+--- Sayfa 9 ---
+3
+democracy is useful insofar as it allows majoritarianism to predominate.
+Nonetheless, demobilized jihadists armed with an ideology that transcends the
+region and technologies of destruction are now well placed to export lethality to,
+for example, Southeast Asia, rather as the Mujahadin did from Afghanistan in the
+1990s. The second camp is characterized by a secular-based order that can be
+despotic or democratic in nature and uses state-based nationalism is a means of
+countering political Islam. Syrian withdrawal from Lebanon, the defeat of Fatah
+in Gaza, and the fall of the Baathist Party in Iraq have seriously weakened this
+camp. In response, Egypt stresses an “Egypt first” policy and protection of the
+homeland and places an emphasis on pre-Islamist Pharaonic traditions. Such
+competition between the two camps finds contemporary expression in models
+promoted by Iran and Turkey, two non-Arab Muslim actors seriously involved in
+the Middle East, and this complicates the geopolitics of the region.
+o Iran has undoubtedly been strengthened in military, intelligence, and
+ideological terms by the removal of Saddam and the emergence of Iraq as
+a weak and fragile neighbor.1 While relatively strong, Iran’s influence is
+limited by its neighbor’s suspicions of its agenda and the risk of backlash
+among the predominantly Arab-Sunni populations of the region. Currently
+under UN Security Council (UNSC) sanctions, Iran is unlikely to reverse
+course either on its nuclear program or its ambitions to be a regional
+hegemon. It is still questionable if economic sanctions would change
+Iranian policy.
+o Within the Arab fold the diplomatic rise of a newly assertive Saudi
+Arabia is evident, all the more remarkable given predictions in some
+quarters of the immediate demise of the Saudi system following 9/11. The
+renewal of Saudi engagement is prompted by its diminishing regard for
+the implications of the U.S.-led freedom and democracy agenda in the
+region and an increased concern for the potential strategic implications if
+the Iraq “experiment” fails further. Saudi Arabia now promotes pan-Arab
+nationalism as an antidote to political Islam. The Saudi monarchy is
+characterized as paternalistic (“a good father to an extended family”)
+rather than authoritarian, working through political mediation (enhanced
+by its role as moral custodian of the two holy cities), accommodation, and
+inclusiveness. In Saudi Arabia two political cultures coexist, the
+exclusivist monarchy and exclusivist Wahhabi doctrine, which the
+monarchy uses instrumentally for its own ends.  It is not hegemonic in
+terms of military power but rather because of its approach to regional
+political development.
+
+• Evolving U.S. policy approaches to the region: U.S. policy post-Afghanistan
+has helped reinforce the division of the region into two competing camps,
+
+1 The Middle East is the most economically sanctioned region of the world (Iran, Iraq, Syria, Sudan).
+Statistically, 34 percent of sanction cases result in moderate policy changes and then only when backed by
+the threat or active use of force. Economic sanctions destabilized Iraq, eroded the middle class, and induced
+societal rather than state disintegration. In the process they delegitimized the UN through association.
+Ultimately, though, Iraq was not a threat to its neighbors after Gulf War I.
+
+--- Sayfa 10 ---
+4
+splitting the broad coalition (Russia, India, Pakistan, and China) which it had
+created.  Post-Iraq, the United States and its new coalition allies (mainly Western
+and Christian) gained an unprecedented military presence in the region through
+the insertion of ground troops in Iraq and Afghanistan, as well as the presence of
+ships, satellites, and new bases. However, the Bush administration insisted on
+moral clarity in foreign policy, which undercut flexibility, transitions, and
+imaginative leaps and precluded effective statecraft. By clearly dividing the
+Middle East into “good” (the United States, Israel, and conservative allies) and
+“bad” (Iran and al-Qaeda) the United States has been drawn into supporting
+secular versus Islamists, Sunni versus Shia, Arabs versus Iranians. As a result, the
+political strategic goal encapsulated by the freedom and democracy agenda and
+the Great Middle East Initiative is in retreat. Although the United States is losing,
+it is not clear if Iran or al-Qaeda will be the main beneficiaries. The Bush
+presidency is physically and psychologically exhausted after having faced a
+number of crises and a huge agenda, including two wars (Afghanistan and Iraq), a
+simmering crisis with Iran, civil war in Palestine, and potential state failure in
+Pakistan. It has no real control over events and what happens on the ground, and
+its ineffectiveness is underscored by the poor personal chemistry between
+President Bush, President Mubarak, and King Abdullah.
+o Iraq: Mainstream senior U.S. republicans, most notably Senator Lugar,
+call on the president to create a bipartisan approach towards Iraq before
+the electoral cycle of autumn 2007 makes this untenable. This implies a
+substantial troop cut in Iraq within months. The next U.S. administration
+must now assess the strategic implications of U.S. defeat in the region, not
+least how the domestic backlash against future Middle East entanglements
+will shape policy. Reassessments and recalculations of U.S. strategic
+interests suggest that the United States should not exit the region entirely,
+but just redeploy within it.
+o Iran: The Bush administration changed course in 2005, adopting the
+European approach based on diplomacy, and now two rounds of UN
+sanctions are beginning to impact the thinking of the Iranian elite. How
+the Bush administration manages President Putin’s Russia will determine
+if a third round of UN sanctions is possible and so have a significant
+impact on Iran.
+o Palestine: With the election of Hamas, the new U.S. discourse now
+emphasizes support for “moderates” (old-style authoritarians) against
+“radicals.” This policy shift suffers from two obvious defects. First, it has
+occurred too quickly for European policymakers to adjust. Second, it
+maintains a Manichean world view that is misplaced in the context on the
+Middle East: Moderation is not a static and fixed behavioral pattern in the
+region, but rather contingent upon the extent to which the interests of
+actors are accommodated.
+
+• Changed geographical reality: With the end of the Cold War the geographical
+reality of the Middle East is extended to Central Asia, Afghanistan, and Pakistan
+(from Casablanca to Kabul). After 9/11 most of the Islamic world was
+
+--- Sayfa 11 ---
+5
+incorporated, including the Philippines and Indonesia. Old traditional national
+conflicts were based on territory, identity, and nationalism, and such disputes
+were redefined in terms of a larger cultural and civilizational clash—Islam versus
+Christianity. Three previously separated geographical worlds are now connected
+as conflicts are more readily redefined in terms of religion—from the global war
+on terror, through regional conflicts to local conflict.
+
+• Mutual Penetration: Hitherto the Middle East has been considered as a single
+system, zone, or security complex, albeit one that was the most penetrated in the
+global system.  Such penetration is increasing as the globalization process spreads
+Internet and mobile phone usage with over 400 Arab-speaking satellite stations in
+the region. Such connectivity is powered by technological innovation and is
+media-based. The Gulf Cooperation Council (GCC) business community invests
+its prosperity in the surrounding region (Egypt, Morocco, Sudan, Lebanon, Syria,
+and Iraq) and elsewhere in the world and is becoming increasingly integrated into
+the process of globalization. At the same time, the growth of Muslim communities
+in Europe (and the United States) means that the penetration is reciprocal—“the
+Middle East” is now a domestic political issue in Europe. This penetration is also
+accompanied by fragmentation. The Middle East region can be considered in
+terms of three different sub-zones: failed states (Palestine, Lebanon, Afghanistan,
+Iraq); authoritarian stagnation (Libya, Egypt); and cities and societies that are
+global in terms of culture, politics and economy (Abu-Dhabi, Dubai, Qatar) but
+are geographically located in the Middle East.
+
+• Oil: The oil price increase ($72 per barrel) has allowed an unprecedented
+accumulation of money in the region, with an estimated $1 trillion in the hands of
+elites. This is more money than can be invested, creating calls to limit production
+in the region to 7 million barrels per day until the West opens up investment
+opportunities for the region. GCC economies are booming and refining capacity
+of the Saudis has doubled, with five major refineries. A process of
+deindustrialization and economic diversification is now under way. It is in the
+U.S. and Western interest in general to maximize oil production in Iraq; it is not
+in the interest of its neighbors who are energy competitors, and it can be argued it
+would be in Iraqi interest to lower production and revenues in order to keep this
+strategic asset under national control. Conversely, Iraq will need capital and
+investment for reconstruction, including its oil sector.
+
+Arab-Israeli Conflict, Jordan, Lebanon, and Turkey
+
+The region has experienced a number of key changes over the last year which are notable
+and together shape the prospects and conditions for a permanent settlement in the region.
+• First, the “constants”: Israel’s commitment to end occupation, partly motivated by
+demographic considerations, remains firm.
+• Second, a majority in Palestine favor a two-state solution to the Arab-Israeli
+conflict.
+
+--- Sayfa 12 ---
+6
+• Third, strong minorities in both Israel and Palestine are strongly opposed to such a
+solution. The big changes, not least a weaker Israeli government and
+unilateralism, is dead, especially post-Lebanon (2006).
+• Fourth, the Israeli occupation of Gaza ended and now between 65 and 75 percent
+of the populations of both states favor a two-state solution to the Arab-Israeli
+conflict.
+• Fifth, Israeli withdrawal from the West Bank will have to be negotiated.
+However, it is not clear what Israel is prepared to concede, for example in terms
+of territory, to facilitate the formation of a viable Palestinian state on the West
+Bank. The Gaza experience of instability has discredited the policy of
+“constructive unilateralism” and weakened the Israeli government: A strong
+Israeli government is a necessary prerequisite for unilateral action. Nevertheless, a
+Grand Coalition consists of 83 seats in the Knesset (the largest ever) and a
+strategic alliance between “the two Ehuds” (Barak and Olmert) allows for a
+stabilization of the Israeli political scene.
+• Sixth, the reality of power distribution in Palestine has changed and a duopoly
+now exists, with Hamas and Fatah contesting control. The defeat of Fatah in Gaza
+suggests that the Palestinian cause and with it Arab nationalism is in strategic
+decline, unless Hamas builds itself into a transnational pan-Islamic movement.
+• Seventh, changes in Israeli power distribution have also occurred: The military is
+now led by a new defense minister and new military commanders have been
+promoted (during the war of 2006 the chiefs of staff, intelligence, planning, and
+the air force were all air force officers who believed in effects-based doctrine).
+The next Israeli military encounter will look very different from the war in 2006
+that violated every principle of Israeli ground force military doctrine. The Israeli
+Defense Forces now argue that military intervention in Gaza in response to rocket
+attacks will prove meaningless as the situation in Gaza is too chaotic.
+• Eighth, the United States is no longer a viable Middle East mediator; all Bush
+administration peace initiatives/road maps have failed to gain traction. But if the
+United States is disengaged from the peace process, can progress be expected?
+The Oslo peace process demonstrated that if the interests of the two parties are
+strong enough, progress can be made without U.S. involvement, though all
+progress is easily reversible. Israel could well evacuate small and dispersed
+settlements in the West Bank Settlement projects on the West Bank, but the final
+status of Jerusalem still remains the most hypersensitive issue.
+• Ninth, the regional balance of power has shifted and Hamas has at least to tolerate
+the process of Arab-Israeli negotiation. A “grand bargain” needs to be struck on
+the Palestinian side to give Israel a viable interlocutor, but it is not clear that
+pragmatists and centrists in Fatah and Hamas can overcome their own militants
+and radicals to provide this role. The sine qua non of a sustainable, permanent
+Israeli-Palestinian settlement is Hamas acceptance—but even the most moderate
+Hamas members cannot agree with even the most moderate Israelis over the right
+of return to Jerusalem issue.  A huge debate is under way as to how best to bolster
+Abu Mazen without discrediting him, how to engage Hamas at a low level, and
+how to prevent a human disaster amongst the 1.5 million Palestinians in Gaza.
+
+--- Sayfa 13 ---
+7
+• Finally, when reviewing possibilities for stability in the region, it is likely that the
+“Syrian option” will gain favor on the Arab and the Israeli side.
+
+How to stabilize Palestine under current conditions? External aid is a traditional tool to
+influence events and actors in Palestine. However, although King Abdullah of Jordan
+supports Fatah more than Hamas, his relations with the Fatah leadership have eroded and
+he is unwilling to become deeply involved in the West Bank (advocating instead a
+“Jordan-first” policy aimed at consolidating Jordanian identity). As a result, the “bailing
+out” option is difficult to achieve and a vacuum of power will continue in the West Bank.
+In Jordan the middle class is squeezed by a huge inflow of cheap Iraqi labor and an
+economic boom in the capital which caused inflation and raised rents and land prices. At
+the same time, this has helped assimilate Palestinians by decreasing the divide between
+Palestinians and Jordanians.
+
+Lebanon is in the process of searching for a new equilibrium as the state and society
+attempt to recover after a 15-year war with Syria.  In September 2004 UN Security
+Council Resolution 1559 called for the Syrian military withdrawal from Lebanon and the
+disarming of all militias so that for the first time in 30 years Lebanon could regain
+sovereignty.  A new national unity government in 2005, which has expanded to include
+all parties, found UNSC Resolution 1559 hard, but not impossible, to implement.
+Although the Syrian military did withdraw, its power and influence was maintained
+through other means—in particular, assassination. Will the promise to end the U.S. and
+European isolation of Syria (the “Libyan option”), together with an Israeli withdrawal
+from the Golan Heights, be sufficient inducement for the Assad regime to dissolve its
+strategic partnership with Iran and its lynchpin role between Tehran and Hezbollah?
+
+Following the war between Hezbollah and Israel in 2006, UNSC Resolution 1701 saw the
+Lebanese army deployed to the South for the first time since the 1970s, the UN Interim
+Force in Lebanon (UNIFIL) was strengthened and the border demilitarized. As a result,
+three trends are apparent. First, south Lebanon is now experiencing a process of
+normalization. Second, although the state and the Lebanese army still face challenges to
+their monopoly of force, it is no longer taboo to discuss Hezbollah’s weapons and the
+Lebanese army has fought Fatah Islam in Palestinian refugee camps in North Lebanon.
+Militias, particularly Hezbollah, did not disarm and are detached from the peace process.
+In addition, Sunni fundamentalists groups (such as Fatah al-Islam) have been radicalized
+by the war in Iraq and are now powerful in Tripoli and Sidon and other northern cities.
+Third, there is an immunity from violent conflict as it is not in the interest of any party in
+Lebanon to mobilize for war (unlike 1975). However, as the state faces multiple security
+challenges and has a weak and divided government this immunity could easily be eroded.
+Another security vacuum in Lebanon would damage not just Lebanon but the region as it
+would not be contained within its state borders.
+
+Turkey faces an ongoing civil-military struggle. The “deep state”—that is, the military,
+constitutional courts, and middle class secularists (some of whom are “secular
+fundamentalists”)—contests power with Islamist religious parties. This struggle
+culminated in the victory of the AKP Party (Justice and Development Party) in the July
+
+--- Sayfa 14 ---
+8
+22, 2007, elections. AKP is meticulous in its efforts to avoid being characterized as an
+Islamist party: It stresses its democratic and liberal economic credentials at every turn.
+The government is widely credited with a successful economy policy and has
+democratised the political arena, most notably reversing government policy on Cyprus.
+Turkey enjoys record levels of foreign direct investment and lower unemployment;
+predictability and self-confidence characterize the booming economy, which is
+countrywide in impact (except in its southeast). However, a less visible social and
+cultural Islamization process is occurring, with Islamic elements penetrating the
+education system, courts, national holidays and symbolic elements of public life.  Much
+of this is perception-led: While 60 percent of women wear headscarves, this as an overall
+proportion is less than 10 years ago, but only more visible as rural more traditional
+populations migrate to the cities.
+
+Paradoxically, the tragedy of Turkish democracy is that military intervention in defense
+of democracy has itself undercut the need for a civil opposition, and so weakened
+democratic practice and oversight. A new generation of military leaders at the brigadier
+and major general level present a more radical secular and anti-Western face. The
+Achilles heel of the state, according to the military, can be located in Turkish policy to
+Iraq’s Kurdistan. Here, continuous transfers of IED technology between camps outside
+the control of Kurdistan leaders and the PKK in Turkey itself highlight a source of
+insecurity which the Turkish military can use to mobilise support against the government
+for its failure to take action. A Turkish military strike would destroy Turkish-U.S.
+relations; unless the United States encourages Iraqi Kurdish leaders to arrest PKK
+leaders, the outcome will be the same. At present, only 9 percent of Turks support U.S.
+policy; 86 percent oppose it.
+
+The new government will most likely adopt a more activist policy in the Middle East and
+begin by striking a “grand bargain” with Iraqi Kurdish leadership. In return for remaining
+part of Iraq, the Turkish government would guarantee trade relations ($2 billion in
+investments and contracts) and help the Kurds establish a buffer zone between
+themselves and fundamentalist Shia and Sunni communities in the south. This would
+remove the “separatism leading to independence” demonstration effect for Kurds in
+Turkey.
+
+Along with Iran and Syria, Turkey shares a concern about the status of Kurdistan and
+other minorities in the region and also receives energy supplies from Iran.  As a result,
+Turkey engages Iran and Syria, rather than supporting a U.S. policy that aims to isolate
+and promote a policy of regime change in these two states. On the issue of the Iranian
+nuclear program, the key concern of Turkey is not that Iran would threaten it with
+weapons but that a regional nuclear arms race would be destabilizing for the region.
+Behind the more critical rhetoric towards Israel (“policy of state terrorism”), the basic
+Turkish commitment to defense and intelligence sharing has not changed.
+
+--- Sayfa 15 ---
+9
+
+Iraq
+
+Iraq constitutes the most serious blunder in U.S. foreign policy and the US now has the
+lowest Pew Research Center Poll ratings in the region since the history of polling—even
+a majority of the Israeli public find the U.S. approach to the region unbalanced.  Unlike
+Iraq and the region, the United States is likely to recover from the long-term
+consequences of this miscalculation. It is easier to focus on the reasons for the
+miscalculation than to outline a coherent plan for addressing its consequences. The Bush
+administration underestimated the manpower and finance necessary for Iraq, failing to
+learn the lessons of and build on the U.S. and UK experiences of 1990s nation-building.
+It also failed to recognize how difficult it would be to hold Iraq together if neighbors,
+who had access to Iraq and could influence events, were not prepared to cooperate and
+that status quo regimes would not support the emergence of a democratic Iraq established
+through coercive regime change.
+
+Insurgencies and civil wars usually end in three ways. Most frequently a clear victor
+emerges.  States can also fragment permanently, though this has not happened often since
+1945 as the international community has acted to prevent this outcome. The least frequent
+outcome is for a negotiated settlement between the parties. A lack of trust usually means
+the settlement is temporary, giving factions the chance to rest and rearm, unless foreign
+peacekeeping forces assume a protectorate role or an external balance of power is
+maintained (as was the case with Lebanon after Syrian intervention in the 1990s).
+
+How can Iraq be best “read”? Transhistorical sectarianism appears to be a constant
+feature of Iraqi historical development, as does coexistence and cooperation between
+groups, with sectarianism imported from outside. Divisions did exist in Iraq but they
+were largely politicized and then only under certain conditions.
+• The revolution of 1920 (a rebellion against the British) has been portrayed in
+terms of a great nationalist uprising uniting all Iraqis, but can also be understood
+in sectarian terms. The rhetoric and discourse of a pan-Islamic uprising against
+the infidels cloaked a desire of the chief clerical Shia families of Najaf and
+Kerbala to maintain their autonomy: The more national the discourse, the more
+local the objectives.
+• Between 1958 and the 1970s the politics of ideology and social mobility rather
+than sects predominated, with a diverse, emerging city-based middle class
+enjoying a golden age.  Saddam promoted the secularization and detribalization of
+society to create Iraqi subjects loyal to the regime and party.  Shia clerics and
+institutions (which generated revenues outside government control) opposed this
+process, and therefore the Sunni elites moved to destroy, eliminate, and
+incorporate independent, autonomous social power not under Baathist control.
+• The Iran-Iraq war of the 1980s reintroduced sectarian politics, and sanctions in
+the 1990s promoted a retribalization and the fragmentation and localization of
+Iraqi society.
+• The post-Saddam environment can best be understood not as civil war or
+complete chaos, but as a thriving ruthless local political environment based on
+
+--- Sayfa 16 ---
+10
+decentralized “associations of trust” in disparate localities. These associations use
+violence for multiple ends: to establish their status (violence generates recognition
+and respect), to defend their communities, and to impress rivals. The forms and
+idioms that these associations take (ethnic, sectarian, or class-based) depends on
+locality. The public or national state has little weight, unlike the powerful
+patronage networks of an emerging shadow state: national coalition parties, armed
+tribal groups, a disaffected opposition, insurgents (ex-Baathists), and criminal
+networks. These six strata are armed, are partisan, have territorially defined
+constituencies that are regional in scope and express themselves through local
+forms of power.
+
+External actors possess neither the capacity to determine where the fragmentation and
+disintegration ends nor the sophistication to play power politics effectively (constant
+troop rotations make the institutionalization of localized knowledge difficult), but they
+can still accelerate or retard processes already in motion. Through a combination of
+default and design national politics (“a fiction”) is undermined and localist tendencies
+upheld. In Basra, for example, the UK oversaw the institutionalization of an entrenched
+localism though building local security services which reinforced local power structures.
+The U.S. surge does not represent a national security plan but rather an incremental, ad
+hoc policy based on a series of local agreements: Some militias are dispersed and wait for
+the surge to pass, localism based on isolation and resentment has been reinforced, and the
+dependency of the national government on the United States has been strengthened. The
+Turkish government plays a powerful role in isolating the Kurds, and Iran utilizes
+patronage, violence, and dependence in the southeast.
+
+In addition, the U.S. domestic presidential political timeline does not support medium- or
+longer-term rational course adjustments to U.S. policy in Iraq.  A significant reduction in
+US casualties would change the tone of the debate in Washington (100 dead and 300
+seriously wounded each month constitutes the single most troubling factor), but if the
+“surge” is to be effective, U.S. casualties will increase; if the United States were to
+redeploy from Iraq’s cities, intra-Iraqi violence would increase and a “cutting and
+running” discourse would dominate.  Both are politically unacceptable outcomes.
+
+The Bush administrations focus on al-Qaeda in Iraq generates status and prestige for a
+group whose power relative to other internal militias is weak. This emphasis does,
+however, play well domestically by defining and reducing current objectives and
+missions, and preparing for a more limited set of missions in the future. The U.S.
+administration treats reconciliation and better governance as an integrated whole.
+However, just because the Iraqi Parliament might function, we cannot assume the
+automatic presence of a reconciliation process (indeed, with the death of Saddam there is
+no leading Baathist with whom to forgive and reconcile): The reconciliation process is
+largely abstract and has yet to be operationalized.
+
+To stabilize Iraq is to destabilize Iran and Syria. As a result, over the medium term the
+United States must prioritize and choose which of its objectives and interests are vital
+(stabilizing Iraq?) and subordinate all other tasks (democratize Lebanon, denuclearize
+
+--- Sayfa 17 ---
+11
+Iran, or punish Syria?) to that end. An inability to choose and prioritize will result in the
+failure of U.S. policy in the region. What, then, can be done to stabilize Iraq and deny al-
+Qaeda an incubator to recruit and a base of operations?
+
+The adoption of classic counterinsurgency tactics in al-Anbar province, low civilian
+deaths in June and the initiation of dialogue with Iran over Iraq all appear positive
+indicators, but they do not outweigh the negative one and this is reflected in U.S. public
+opinion which drives the U.S. public debate. The pivot point in Iraq will occur over the
+next 12 months, as the United States attempts to undertake a gradual and controlled de-
+escalation—which runs the danger of uncontrolled de-escalation and the collapse of the
+Iraqi government.  After the Iraq Study Group’s bipartisan option was rejected and the
+“surge” adopted, the compromise option may not be on offer in September 2007.
+
+As a result of continued instability in Iraq, all options appear to be on the table and a
+process of revaluation and consultation is now under way. The choice facing U.S.
+policymakers might be expressed in binary and negative terms: The United States can
+choose to stay in Iraq and allow the situation to deteriorate slowly or it can leave and the
+situation will deteriorate quickly—violence will intensify as factions fight for resources.
+From another perspective, three options are possible.
+• First, the United States could embrace a peace-enforcement mission and flood
+Iraq with troops. However, U.S. public opinion would object and unless the
+United States provided core contingents, it could not happen.
+• Second, exit quickly and let events take their course—but U.S. moral
+responsibility and U.S. interests rule this out as a viable option.
+• Third, pick a side (a Shia-Kurd government with as many Sunnis as possible) and
+assist it and maintain a sustained though lower engagement in Iraq (essentially the
+Lugar and Iraq Study Group option). Senator Lugar suggests that the United
+States should consider redeploying U.S. forces outside Iraq, undertaking a
+diplomatic offensive to create a forum with regional participation, developing
+biofuels to give the United States energy independence and solving the Arab-
+Israeli conflict.
+
+But given the reality of how power is structured and distributed in Iraq, regional powers
+will need to recognize and legitimize the authority of local leaders who can enforce local
+settlements (though it is hard to envisage the outcome of imposed settlements in Kirkuk
+or Mosul or how the United States could avoid getting involved in the ethnic cleansing
+that this could provoke). A viable central government would need a strong national
+military and security force.  However, the reality in Iraq is that devolved local power can
+protect neighborhoods and, in effect, the U.S. policy already trains and equips factions it
+supports.  Access to national energy in Iraq (82 percent of which is pumped by national
+companies) demands a national presence and local security (which local leaders would
+have a stake in securing in return for energy). Thus, the production and distribution of
+public goods (oil revenues) can be used as a lever to bind the periphery to the center and
+help unify the state.
+
+--- Sayfa 18 ---
+12
+All of Iraq’s neighbors, particularly U.S. allies in the region, want Iraq to stay together
+rather than emerge as a failed state—not least as such failure would boost Iranian
+hegemony. A series of bilateral and multilateral interlocking conferences allowing for
+consultative arrangements in a constellation of consecutive circles needs to be created.
+This could begin with a core group of friends (Kurds, Saudis, Turks, and Jordanians) to
+ascertain common ground and negotiate agreements. The Iranians and Syrians could then
+be integrated into these consultations: As Iran wants Iraq as a satellite state (akin to
+Syria’s relations with Lebanon) and both these states can play the role of spoilers, the
+purpose of such diplomacy would be to minimize this potential. A wider regional group,
+including the EU, World Bank, Egypt, and Japan, would play a financial role in helping
+to stabilize Iraq.
+
+Iran and the Gulf
+
+GCC perceptions of a nuclear-armed Iran center on how to manage the secondary and
+tertiary regional effects, the regional aftershocks, and unanticipated consequences.  Might
+the GCC states be caught in the cross-fire of an Israeli or U.S. preventative strike on Iran,
+with disruption to the Haj or the eastern oil fields of Saudi Arabia, assassinations of
+leaders, or military rocket attacks as the result? The possibility of a Chernobyl-like
+nuclear contamination worries Kuwait and highlights the lack of GCC focus on
+consequence management. An emboldened Iran threatens the UAE and its ongoing
+maritime territorial dispute. The specter of a regional arms race could pressure the GCC
+to develop its own nuclear program, or, for example, the UAE, could ask to be placed
+under Egypt’s nuclear umbrella. GCC states also focus on Shia communities in the
+region, particularly in Bahrain and Saudi Arabia, where there is an active policy debate
+centered on how best to integrate them, the pace of reform and prospects for their
+radicalization, and their potential role as a fifth column, ready to be mobilized if the
+United States attacks Iran. The GCC has a nuanced understanding of the implications of
+the nuclearization of Iran: The regional order would be thrown into question and new
+credible guarantees for security would need to be generated.
+
+The GCC response to the implications of this threat, though, is diverse, ranging from
+accommodation and détente, to increased security guarantees (whether bilateral with the
+United States or multilateral), to developing its own nuclear deterrent (for example,
+Egypt and Saudi Arabia). Iran can misinterpret public and private discourse—for
+example, the UAE has stated that it will not allow U.S. bases in the UAE to attack Iran,
+unless under a UNSC resolution. The GCC also expresses deeper anxieties, frustrations,
+and fears, and it is an open question whether these states would welcome the role of a
+nuclear Saudi Arabia as regional hegemon (indeed, for Oman, a nuclear Saudi Arabia
+constitutes a greater potential threat than Iran). It is also open as to how U.S. or Russian
+negotiations might impact the region, whether states will accept the offer of a U.S.
+nuclear umbrella, or if Pakistan would provide aid if Iran attacked.
+
+The domestic political environment in Iran can be divided into two broad factions
+competing for power, patronage, and resources. One group, consisting of reformists
+(students, the urban middle class and some of the bazaar) and pragmatic conservatives,
+
+--- Sayfa 19 ---
+13
+believes the revolution is over and seeks to normalize relations with the world.  For this
+group, the nuclear program provides Iran with a bargaining chip to normalize relations
+with the West and integrate into the global economy. Another consists of ideological
+conservatives (who, like Ahmadinijad, want to return to “first principles”), the rural
+power, the Basij militia, and some of the revolutionary guard susceptible to Islamic
+revolutionary rhetoric. This group argues that revolutionary values have not yet been
+fully implemented and wants the revolutionary state to revert to first principles, rather
+than integrate into the globalized world. For this group, nuclear power provides the
+means to equalize Iranian power with the West.
+
+The nuclear program is symbolic of Iran’s regional role and behavior, the nature of the
+state and its character. The principal motive for the nuclear program is to bolster
+performance legitimacy: A political and technical momentum is propelled by the image
+of a technical mastery (over both nuclear enrichment and military weaponization) which
+provides status, prestige, and a substitute for a per capita income fall in Iran.
+
+How can such a momentum be halted?  Neither China nor Russia wants to see a nuclear
+Iran but they are not prepared to accept military strikes to prevent this.  Iran tries to blunt
+the military option by splitting the West, attempting to stop a new UN resolution,
+threatening to accelerate the nuclear program, and developing spillover strategies in the
+region through appealing to the Arab street over the heads of their rulers and
+strengthening Hezbollah-Iranian links.  In addition, it appears that the technical timeline
+for enrichment is not synchronized with the diplomatic timeline currently in place, which
+creates a fault line in Western policymaking. Furthermore, if sticks are not to be used,
+how can Iran could be rewarded—what does it want: legitimacy, geopolitical
+advancement, assurances about U.S. presence in Iraq and Afghanistan?
+
+Although Iran is weak in terms of conventional military power, the nuclear program itself
+is far too advanced to be susceptible to sanctions.  How, then, might the Iranian regime
+be contained?  For the Iranian leadership a central dilemma remains: external investments
+create dependency; without such investments it cannot modernize its economy. Thus,
+compared with the rest of the Middle East, Iran is relatively economically isolated,
+without dense ties or large levels of external investment—a complete contrast to the
+1970s, when it was the economically most modernized state in the region.
+
+Sanctions to stop refined products reaching Iran would impact society (the government is
+sensitive to public sentiment) and sanctions to prevent foreign companies investing in the
+Iranian energy (oil and gas) sector would destabilize the leadership of the state.  Oil price
+decline (a Saudi-induced drop in oil prices would hurt Iran the most and could be
+implemented quickest), as well as dropping exports and flat and falling production,
+impacts Iran’s oil distribution fund and so undermines the governments distributive
+patronage system.  This threat to regime survival could cause a regime shift back towards
+the moderates and realists and so render a nuclear Iran more palatable. If the nuclear
+ambitions of the state conflict with its real economic interest as a first-rate energy
+exporter, then this could create pressure to shift policy emphasis and priorities in Iran:
+
+--- Sayfa 20 ---
+14
+Iran wants to have a nuclear capability but not at the cost of becoming an economic
+basket case.
+
+Iran can also be challenged ideologically via sophisticated media campaigns and the oil
+wealth of neighboring states can be used to fund such efforts to delegitimize Hamas and
+Hezbollah in the region.  As the reality of Iran begins to be known—for example, there is
+not a single Sunni mosque in the state, no Sunni is a member of the cabinet or an
+ambassador, and it is ranked 105 on the transparency corruption scale—the moral and
+virtuous image it projects will be undercut: Iranian “Third Worldism” is undercut by
+Persian chauvinism.   Preexisting dividing lines amongst the Arab and Persian Shia can
+also be deepened through stoking fears of Iranian domination and Arab Shia theological
+supremacy (Najef over Qom), building an immunity and resistance capacity to Iranian
+ideological and political warfare efforts.
+
+In addition to economic sanctions and efforts to counter the ideological appeal of the
+regime, there are signs of regime decay itself, which help fuel the regional backlash
+against Iran that is gathering pace.  Iran is has overplayed its hand and is overextended in
+Iraq and suffers from short-termism, no overall strategy, misjudgements which create
+internal opposition and dissent, and poor timing, not to mention a weak military.  There
+are therefore a number of built-in barriers and structural impediments to Iranian influence
+in the region.  These barriers can be strengthened but how exactly to operationalize this
+process is less clear.
+
+The United States needs Iranian support for an orderly exit from Iraq.  Iranian policy
+towards the United States is not consistent—vacillating between calls to leave
+immediately and to leave, but slowly. A “grand bargain” assumes that there is one
+interlocutor in Iran with whom to negotiate, but the Iranian president and supreme guide
+are not consistent in policy statements (the former bypasses the latter and manipulates the
+system). Moreover, there are no constituencies in Iran that press for better U.S.-Iranian
+relations. The strategic national security community, business community, and diaspora
+are either uninterested or against taking a risk to improve such relations.
+
+The United States is now multilateralizing the Iranian nuclear file—framing it as a global
+problem—while dealing with Iraq in a more unilateral manner. While Iran cannot be
+excluded from a new regional security architecture, it is not clear how it might be
+included. The threat of a nuclear Iran gives the United States leverage over GCC states in
+the region to help stabilize in Iraq. This leverage is strengthened by the fear in GCC
+states that the United States could compromise with Iran, striking a “grand bargain” to
+save U.S. policy in Iraq but at the expense of GCC security interests.
+
+--- Sayfa 21 ---
+15
+
+Concluding Remarks
+
+Four central themes have threaded through this workshop.
+• There are tensions between different models for organizing political behavior in
+the region, between state structures, and on the basis of secular ideals or through
+transnational, subnational and non-national movements based on ethnoreligious
+identity and beliefs. Stability is enhanced through nationalism which creates
+stronger, more competent and cohesive states.
+• How the region responded to the 2006 war in Lebanon illustrates that frontiers of
+domination are not enduring and that satellite states are on the retreat. The
+performance of the Lebanese army and the rising credibility of the prime minister
+project greater state stability. Expectations are now more realistic, lessons have
+been learned, and Iranian influence appears to have peaked.
+• Perceptions concerning the role of outsiders in shaping the region have changed.
+Outsiders bring violence to the region but cannot shape Iraqi politics; sanctions
+alone are not effective, but high oil revenues provide an opportunity to
+redistribute wealth and so undercut conflict.
+• It is clear that 9/11 continues to be the prism that dominates the arc of U.S. policy.
+The perception of vulnerability in the United States and that threats are linked to
+the character of U.S. adversaries has led to the conclusion that changing regimes
+will change state behavior.  While the Iraq war had illustrated a clear willingness
+to use coercive regime change as part of U.S. nonproliferation policy, the message
+with regard to Iran is mixed. Does the United States want regime change or
+regime behavior change and does it distinguish between the two? The United
+States has substituted coherent policy for competing impulses, and if it abandons
+coercive regime change as an option, the Iranians will need to decide if Iran is a
+revolutionary or an ordinary state.
+o In the short term, the United States has no real leverage over the
+government in Iraq. Although its influence is both overwhelming and
+marginal (political outcomes occur at the margins), there is no
+reconciliation or political process in place that will produce outcomes
+necessary to stabilize the state in the short and medium term.  A timetable
+for troop withdrawal and the threat of actual withdrawal could supply
+leverage and the political incentive to facilitate reconciliation.
+o A nuclear Iran poses profound implications for U.S. extended deterrence
+and countering terrorism: The reduction of the U.S. military footprint in
+the Gulf would remove a cause of terrorist recruitment; but extended
+deterrence is more credible if the United States has a near neighborhood
+presence. Is the U.S. “surge” a deterrent force or designed to strike Iranian
+nuclear sites? A counterproliferation strike carries with it a significant risk
+of a general war akin to 1914 or 1967.
+o U.S. withdrawal from the region suggests that the United States could then
+jettison its current strategic incoherence in favor of a new set of strategic
+relations based on feasible political goals. The United States should
+continue democratization efforts in the region, but should pursue this
+
+--- Sayfa 22 ---
+16
+policy more intelligently by focusing first on the process of political
+liberalization—an effective press, functioning civil society, the rule of
+law—before electoral democracy. U.S. policy towards Israel is
+unbalanced, with detrimental outcomes for the United States and Israel.
+The perception in the Muslim world that the United States is not an honest
+broker increases the need for it to gain credit and legitimacy, and reoccupy
+the moral high ground that an Arab-Israeli settlement would generate. Al-
+Qaeda has reconstituted itself as a serious threat and the US needs to
+discover how to counter the current threat without generating the next and
+think more intelligently about how to bolster moderates without
+undermining them.
+o A future focus and agenda should include the long-term implications of
+effective hearts-and-minds campaigns, demographic and economic
+change, how these impact development, and how the post-Iraq syndrome
+will shape U.S. policies in the region.
+
+--- Sayfa 23 ---
+17
+Participants
+Ambassador David AARON, Director, Center for Middle East Public Policy, RAND
+Sir Tom ARNOLD, Former Senior Leader, Conservative Party, United Kingdom
+Dr. Robert ART, Christian A. Herter Professor of International Relations, Brandeis University
+Dr. Henri J. BARKEY, Bernard L. and Bertha F. Cohen Professor and Chair of the International
+Relations Department, Lehigh University, Bethlehem
+Ms. Kristina CHERNIAHIVSKY, Associate Director, Crown Center for Middle East Studies,
+Brandeis University
+Dr. Shahram CHUBIN, Director of Studies, GCSP
+Ambassador James DOBBINS, Director, International Security and Defense Policy Center, RAND
+Dr. Farid EL KHAZEN, Professor of Political Science,  American University of Beirut
+Prof. Shai FELDMAN, Director, Crown Center for Middle East Studies, Brandeis University
+Dr. Graeme HERD, ETC Co-Director, GCSP (rapporteur)
+Dr. Geoffrey KEMP, Director, Regional Strategic Programs, The Nixon Center, Washington, D.C.
+Ms. Ellen LAIPSON, President and CEO, The Henry L. Stimson Center, Washington, D.C.
+Dr. Steve LARRABEE, International Security Analyst, Center for Middle East Public Policy,
+RAND
+Dr. Robert LITWAK, Director, Division of International Studies, Woodrow Wilson International
+Center for Scholars, Washington, D.C.
+Dr. Giacomo LUCIANI, Director, The Gulf Institute (Geneva), and Professorial Lecturer, SAIS
+Johns Hopkins University Bologna Center
+Dr. Volker PERTHES, Director, German Institute for International and Security Affairs (SWP),
+Berlin
+Mr. Abdulaziz SAGER, Chairman, Gulf Research Centre, Dubai
+Dr. Abdel Monem SAID, Director, Al Ahram Center for Political and Strategic Studies, Cairo
+Ambassador Fred TANNER, Director, GCSP
+Mr. Tariq TELL, Amman
+Dr. James A. THOMSON, President and CEO, RAND
+Dr. Charles TRIPP, Head of Department, School of Oriental and African Studies, University of
+London
+Dr. Frederic M. WEHREY, International Policy Analyst, Center for Middle East Public Policy,
+RAND
+Prof. Sami ZUBAIDA, Emeritus Professor of Politics and Sociology, School of Politics and
+Sociology, Birkbeck College, University of London
+
+--- Sayfa 25 ---
+19
+Program
+
+Sunday, 1 July 2007
+Arrival of Participants
+
+19h00
+Aperitif at the Hotel Arc-en-ciel
+
+19h30
+Welcoming Dinner at the Hotel Bellevue
+
+Monday, 2 July 2007
+09h00-09h15
+Welcome and Introduction to the Conference
+
+Dr. Shahram CHUBIN, Director of Studies, GCSP
+
+Ambassador David AARON, Director, Center for Middle East Public
+
+Policy, RAND
+Prof. Shai FELDMAN, Director, Crown Center for Middle East Studies,
+Brandeis University
+Mr. Abdulaziz SAGER, Chairman, Gulf Research Center, Dubai
+09h15-11h30
+Geopolitical and Regional Dynamics: an Overview
+Chair: Dr. Geoffrey KEMP, Director, Regional Strategic Programs, The
+Nixon Center, Washington, D.C.
+Dr. Abdel Monem SAID, Director, Al Ahram Center for Political and
+Strategic Studies, Cairo
+Dr. Volker PERTHES, Director, German Institute for International and
+Security Affairs (SWP), Berlin
+11h30-12h00
+Coffee Break
+12h00-13h00
+General Discussion
+13h00-14h00
+Buffet Lunch
+14h00-15h30
+Arab-Israeli Conflict
+Chair: Ambassador Fred TANNER, Director, GCSP
+Prof. Shai FELDMAN, Director, Crown Center for Middle East Studies,
+Brandeis University
+Jordan
+Mr. Tariq TELL, Amman
+Lebanon
+Dr. Farid AL KHAZEN, Professor of Political Science,  American
+University of Beirut
+
+--- Sayfa 26 ---
+20
+Turkey
+Dr. Henri J. BARKEY, Bernard L. and Bertha F. Cohen Professor and
+Chair of the International Relations Department, Lehigh University,
+Bethlehem
+Dr. Steve LARRABEE, International Security Analyst, Center for Middle
+East Public Policy, RAND
+15h30-16h00
+Coffee Break
+16h00-17h00
+General Discussion
+19h30
+Dinner at the Hotel Alpenland
+
+Tuesday, 3 July 2007
+09h00-10h30
+Iraq
+Chair: Ambassador David AARON, Director, Center for Middle East
+Public Policy, RAND
+Dr. Charles TRIPP, Head of Department, School of Oriental and African
+Studies, University of London
+Prof. Sami ZUBAIDA, Emeritus Professor of Politics and Sociology,
+School of Politics and Sociology, Birkbeck College, University of
+London
+Amb. James DOBBINS, Director, International Security and Defense
+Policy Center, RAND
+10h30-11h00
+Coffee Break
+11h00-12h00
+General Discussion
+12h00-13h00
+Buffet Lunch
+13h00-14h30
+Iran and the Gulf
+Chair: Mr. Abdulaziz SAGER, Chairman, Gulf Research Centre, Dubai
+Dr. Shahram Chubin, Director of Studies, GCSP
+Dr. Frederic M. WEHREY, International Policy Analyst, Center for Middle
+East Public Policy, RAND
+Dr. Giacomo LUCIANI, Director, The Gulf Institute (Geneva) and
+Professorial Lecturer, SAIS Johns Hopkins University Bologna Center
+14h30-15h00
+Coffee Break
+15h00-16h00
+General Discussion
+16h00-17h00
+Concluding Remarks
+Chair: Ms. Ellen LAIPSON, President and CEO, The Henry L. Stimson
+Center, Washington, D.C.
+Dr. Robert LITWAK, Director, Division of International Studies, Woodrow
+Wilson International Center for Scholars, Washington, D.C.
+
+--- Sayfa 27 ---
+21
+Dr. James A. THOMSON, President and CEO, RAND
+Dr. Robert ART, Christian A. Herter Professor of International
+Relations, Brandeis University
+19h30
+Concluding Informal Dinner at Restaurant Rialto
+Rapporteur
+ Dr. Graeme HERD, ETC Co-Director, GCSP

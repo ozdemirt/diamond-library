@@ -1,0 +1,63 @@
+{
+  "total_files_on_disk": 2632,
+  "zip_files_count": 12,
+  "book_files_on_disk": 2610,
+  "non_book_files": 22,
+  "duplicate_copies_count": 689,
+  "unique_books_on_disk": 1921,
+  "mysql_records_count": 1921,
+  "difference": 0,
+  "extension_distribution": {
+    ".zip": 12,
+    "": 1,
+    ".pdf": 2504,
+    ".epub": 98,
+    ".ppt": 1,
+    ".pptx": 1,
+    ".docx": 8,
+    ".tmp": 1,
+    ".jpeg": 6
+  },
+  "sample_duplicate_groups": {
+    "9015728606c2f14e48bba9d61619172cd543a5e5f058e1fe02d4969b9b164d28": [
+      "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\100-Soruda-Ahiret-Hayat-U0131.pdf",
+      "Books\\b-Library_Hzm-20260601T235628Z-3-001\\b-Library_Hzm\\100-Soruda-Ahiret-Hayat-U0131.pdf"
+    ],
+    "d69361264ec840c6932ab884896e431ce3dd9e14b68c449393b9f4b3e7c20fea": [
+      "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahirzaman-ve-Kiyamet-Alametleri-Ayhan-Tekines (1).pdf",
+      "Books\\b-Library_Hzm-20260601T235628Z-3-001\\b-Library_Hzm\\Ahirzaman-ve-Kiyamet-Alametleri-Ayhan-Tekines (1).pdf"
+    ],
+    "9fb838bae55673de67dd1cec135dcd97a8acaf6528b602f4ed5032853210721c": [
+      "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Haris-El-Muhasibi-Er-Riaye-1.pdf",
+      "Books\\b-Library_Hzm-20260601T235628Z-3-001\\b-Library_Hzm\\Haris-El-Muhasibi-Er-Riaye-1.pdf"
+    ],
+    "76ff7fa6117abd0828cdb146599fbc4d8c79cffdd38a4d6367f98a9261329ae0": [
+      "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Haris-El-Muhasibi-Kalb-Hayati-2.pdf",
+      "Books\\b-Library_Hzm-20260601T235628Z-3-001\\b-Library_Hzm\\Haris-El-Muhasibi-Kalb-Hayati-2.pdf"
+    ],
+    "91ea5d07ba74df5c8ff1dd46a510320fb6fc30b7b8ea64c84db0b9ff8390e290": [
+      "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Imam-i-Rabbani-KaynakYayinlari.pdf",
+      "Books\\b-Library_Hzm-20260601T235628Z-3-001\\b-Library_Hzm\\Imam-i-Rabbani-KaynakYayinlari.pdf"
+    ],
+    "955531ad3027aeb280220329128478ffdf7fc30b60005210d770271aa4b44bb0": [
+      "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kuranda-Ehli-Kitapla-Muhabbet-IsikAkademiY-pdf.pdf",
+      "Books\\b-Library_Hzm-20260601T235628Z-3-001\\b-Library_Hzm\\Kuranda-Ehli-Kitapla-Muhabbet-IsikAkademiY-pdf.pdf"
+    ],
+    "ba41ffa1475085cba2ed1efe44dea7a0e3b549dcbd84215d4e2bdf7f1814e0a9": [
+      "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kutlu Zamanlar.pdf",
+      "Books\\b-Library_Hzm-20260601T235628Z-3-001\\b-Library_Hzm\\Kutlu Zamanlar.pdf"
+    ],
+    "14bb9d23d3490936cda5cfe0cbb363b6bc6a036ddd97f7ac59cbf68aa0be14bb": [
+      "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Meryem-Oglu-Isa-KaynakYayinlari-pdf.pdf",
+      "Books\\b-Library_Hzm-20260601T235628Z-3-001\\b-Library_Hzm\\Meryem-Oglu-Isa-KaynakYayinlari-pdf.pdf"
+    ],
+    "5aabb1f3b9ddf2c310df8b45c0a412a4bf31b81b96f2b654bc8b6eb644fdeb9e": [
+      "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Metafizik-Aleminin-Sakinleri-Melekler-ve-Cinler-Mehmet-Seker-IsikYayinlari.pdf",
+      "Books\\b-Library_Hzm-20260601T235628Z-3-001\\b-Library_Hzm\\Metafizik-Aleminin-Sakinleri-Melekler-ve-Cinler-Mehmet-Seker-IsikYayinlari.pdf"
+    ],
+    "8b7514cd895586da8b0d77b7960081b515045c9ded5287e84d170e28712e0fff": [
+      "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Osmanlılarda-Hilafet-Mustafa-Alkan.pdf",
+      "Books\\b-Library_Hzm-20260601T235628Z-3-001\\b-Library_Hzm\\Osmanlılarda-Hilafet-Mustafa-Alkan.pdf"
+    ]
+  }
+}

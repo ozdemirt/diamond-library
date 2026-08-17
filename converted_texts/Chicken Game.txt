@@ -1,0 +1,151 @@
+--- Sayfa 1 ---
+di tercihlerini gerçekleﬂtirmeye çal›ﬂan ve sonucu salt kendisi de¤iﬂtiremeyecek
+iki ya da daha fazla aktör bulunur. Aktörlerden hiç biri oyunun sonucunu ken-
+di kendine belirleyemeyece¤i için her aktör di¤er aktörlerin davran›ﬂlar›n› hesa-
+ba katmal›d›r. Farz edelim A ve B diye iki oyuncu olsun. A’n›n en iyi stratejisi
+B’nin ne yapaca¤›na ba¤l› olsun ve tam tersi de do¤ru olsun. Bu durumda A da
+B de hareketlerini di¤erinin ne yapaca¤›n› hesaba katarak belirlemek zorunda
+kalacakt›r. Bu tip stratejik etkileﬂim durumlar› do¤al olarak beraberinde tehdit,
+yan›ltma, blöf, yar› blöf veya karﬂ› blöf davran›ﬂlar› olas›l›klar› do¤uracakt›r.24
+Oyun kuram› iﬂte bu etkileﬂimlerin basit, soyut, ancak olabildi¤ince gerçe¤e ya-
+k›n modellenmesidir Bu matematiksel yaklaﬂ›m satranç ya da poker gibi e¤len-
+ce oyunlar›n› inceleyebildi¤i gibi, uluslararas› ya da iktisadi iliﬂkilerdeki strate-
+jik etkileﬂimleri de çal›ﬂ›r. Uluslararas› iliﬂkilerin do¤as› gere¤i stratejik oldu¤u
+düﬂünülürse, oyun kuram›n›n disipline ne kadar büyük f›rsatlar sa¤lad›¤› anla-
+ﬂ›l›r.
+Oyun Kuram› Yaz›n›nda bir Oyun Neleri ‹çerir?
+Oyun kuram›nda stratejik düzeyde incelenen modeller genellikle ﬂu dört ö¤eyi
+bar›nd›r›r25:
+1. ‹ki veya daha fazla oyuncu, yani oyunla ilgili aktörler. Bu aktörler çal›ﬂma-
+n›n sahas›na göre bireyler, kurumlar, ya da devletler olabilir.
+2. Aktörlerin takip edebilece¤i tüm olas› davran›ﬂlar› içeren bir stratejiler küme-
+si.
+3. Oyuncular›n seçebilece¤i her strateji göz önüne al›narak haz›rlanm›ﬂ olas›
+tüm sonuçlar.
+4. Oyuncular için her sonucun ne kadar iyi ya da kötü oldu¤unu belirten ter-
+cih s›ralamas› (ya da tercih fonksiyonu).
+Tüm bu ﬂartlar› yerine getiren bir kaç oyundan örnek vermek oyun içerikle-
+rinin daha iyi anlaﬂ›lmas› aç›s›ndan yaral› olacakt›r. Bu amaçla, uluslararas›
+iliﬂkilerde aktörlerin: 1) birbirlerine çok büyük zararlar verebilecekleri bir krize
+girdikleri durumlar› modellemek için kullan›lan korkak tavuk oyununu
+(Chicken game); 2) aralar›ndaki güven sorunlar› nedeniyle ortaklaﬂa politika uy-
+gulayamad›klar› durumlar› anlatmak için kullan›lan mahkûmlar açmaz› ve 3)
+ancak politikalar›n› koordine ederlerse baﬂar›l› sonuçlar alabilecekleri güven
+oyununu (assurance game) ele al›nacakt›r.
+Korkak Tavuk Oyunu
+Tablo 1. stratejik düzey korkak tavuk oyununu göstermektedir. Oyunun ismi ve
+kurallar› baﬂrolünü James Dean’in oynad›¤› 1955 yap›m› Asi Gençlik filmiyle
+özdeﬂleﬂtirilir. Filmin en unutulmaz sahnesinde Jim ve Buzz adl› iki delikanl›
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+24 Peter G. Bennett, “Modelling Decisions in IR: Game Theory and Beyond”, Mershon International
+Studies Review: 39, 1995, s. 19-52.
+25 Bennett, Modelling Decisions in IR: Game Theory and Beyond.
+40
+
+--- Sayfa 2 ---
+Judy adl› bir genç k›z› kazanabilmek için korkak tavuk oyununu oynarlar.
+Oyunda iki araba, iki ﬂoför ve sonu uçurumla biten bir yol vard›r. Buna göre ve-
+rilen iﬂaretle ayn› anda Jim ve Buzz gaza basarlar ve uçuruma do¤ru son sürat
+arabalar›n› sürerler. Her oyuncu için de iki strateji vard›r. Kendini tehlikede his-
+sedince di¤er oyuncudan önce arabadan atlamak (ve dolay›s›yla ‘korkak tavuk’
+olup Judy’yi kaybetmek) veya di¤er oyuncunun ilk atlamas›n› bekleyip son at-
+layan olmak (ve ‘kahraman’ olup Judy’yi kazanmak). Her iki oyuncunun da son-
+radan atlamay› stratejisi yapmas› halinde ikisi birden arabalar›yla uçurumdan
+aﬂa¤›ya yuvarlanacak ve kendileri için en kötü sonucu alacaklard›r26.
+Bu stratejilere karﬂ›l›k gelen tüm sonuçlar›n kümesi ise ﬂöyledir:
+A - (Jim önceden atlar; Buzz önceden atlar)
+B - (Jim önceden atlar; Buzz sonradan atlar)
+C - (Jim sonradan atlar; Buzz önceden atlar)
+D - (Jim ve Buzz sonradan atlamay› seçip uçurumdan birlikte yuvarlan›rlar)
+Son olarak da her bir oyuncu için tercih s›ralamas› belirlenmelidir. Buna gö-
+re Jim için tercih s›ralamas›;
+C > A > B > D
+Buzz için tercih s›ralamas› ise;
+B > A > C > D
+ﬂeklinde olacakt›r. Yani her iki oyuncu için de kendinin son atlay›p rakibin
+ilk atlad›¤› durumlar en çok tercih edilen, uçurumdan yuvarlan›lan seçenek ise
+en az tercih edilen olacakt›r.
+Tablo 1’de verilen oyun matrisi yukar›da verilen tüm bu bilgileri içerir ve ko-
+nuyu kolayca inceleyebilmemizi sa¤lar. Sol alt hücrede aktör (Jim), yan›ndaki
+iki hücrede de aktörün sahip oldu¤u tüm stratejiler (Önce atla - Sonra atla) gös-
+terilmiﬂtir.  Sa¤ üst hücrede ise di¤er aktör (Buzz) ve alt›ndaki iki hücrede de
+onun sahip oldu¤u iki strateji gösterilmiﬂtir. Bu stratejilere karﬂ›l›k gelen getiri-
+ler ise sa¤ altta dört hücrede (A, B, C, D hücreleri) belirtilmiﬂtir. Burada dikkat
+edilmesi gereken, her hücrenin, aktörlerin stratejik etkileﬂimlerine göre ç›kan
+sonuçlar› içerdi¤idir. Örne¤in C hücresi, Jim sonra, Buzz önce atlad›¤› durum-
+daki aktörlerin getirilerini gösterir. Her hücrede parantez içinde yaz›lan sonuç-
+larda ilk rakam soldaki aktörün getirilerini (Jim’in), sa¤daki ise üstteki aktörün
+(Buzz) getirilerini göstermektedir.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+41
+26 Oyunun baﬂka popüler bir versiyonu, birbirlerine do¤ru son sürat arabalar›n› süren iki ﬂoför
+aras›nda oynanan›d›r. Kurallara göre yoldan ilk sapan korkak tavuk olacak, di¤eri oyunu
+kazanacakt›r. Belki de Küba Krizi gibi uluslararas› kriz durumlar› için bu daha iyi bir analojidir.
+
+--- Sayfa 3 ---
+Tablo 1. Korkak Tavuk Oyunu27
+Buna göre, aktörler için en iyi sonuç kendilerinin sonra atlad›klar›d›r. Örne-
+¤in C hücresinde Jim sonra atlayarak (10), Buzz önce atlayarak (-10) alm›ﬂt›r.
+Daha ilginci ise simetrik A ve D hücreleridir. E¤er her iki aktör de erkenden ve
+ayn› anda atlarlarsa en az›ndan yar›ﬂmaya cesaret ettikleri için az da olsa bir
+getiri alabilirler (her biri 5). Ama iki aktör de uzlaﬂmaya yanaﬂmazsa kendileri-
+ni felakete götürürler, yani D hücresindeki arabalar›n içinde uçurumdan yuvar-
+lanma durumu meydana gelir.
+Peki korkak tavuk oyununun uluslararas› iliﬂkileri anlamada yarar› nedir?
+Bu oyun, uluslararas› aktörlerin (ço¤u zaman devletlerin) birbirlerine çok büyük
+zarar verebilecekleri bir kriz veya çat›ﬂma yoluna girdikleri durumlar› modelle-
+mek için kullan›l›r. Birçok araﬂt›rmac›ya göre krizin do¤as›n› –yani iki aktörün
+birbirlerini büyük y›k›mlara götürebilecek bir yola girmeleri- bu oyun çok iyi
+yans›t›r. Özellikle Küba füze krizi’ne iliﬂkin tarihsel dokümanlar›n ABD’li karar
+vericilerin oyunu bu ﬂekilde gördü¤ünü ispatlamas› bunda etkili olmuﬂtur.28
+16–28 Ekim 1962 tarihleri aras›nda yaﬂanan Küba Füze Krizi, So¤uk Sa-
+vaﬂ’›n nükleer bir çat›ﬂmaya dönmesi en muhtemel, en ciddi kriziydi. SSCB’nin
+Küba’ya Amerika’n›n büyük bir k›sm›n› vurma menziline (2000 km) sahip füze-
+ler yerleﬂtirdi¤inin anlaﬂ›lmas› krizin ana nedeniydi. Kriz esnas›nda ABD’nin iki
+ana stratejik hareketi vard›. Bunlar; 1) Küba’y› denizden blokaj alt›na almak ve
+daha fazla füzenin Sovyetler Birli¤i’nden Küba’ya transferine engel olmak; veya
+2) hava harekât›yla füzeleri vurmak ve büyük ihtimalle akabinde Küba’y› iﬂgal
+etmekti. ‹kinci strateji, Sovyetler’in böyle bir iﬂgale nükleer karﬂ›l›k vermesi ha-
+linde en büyük faciaya sebep olacak seçenekti. Öte yandan Sovyetler Birli¤i ya
+füzeleri geri çekebilir ya da füzeleri Küba’da tutmaya devam edebilirdi (Senaryo-
+nun soyutlama ve karmaﬂ›k gerçek dünyay› modellemek için ne denli basitleﬂ-
+tirildi¤ine dikkat edin.).
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+27 Korkak tavuk oyununun bu tablodaki betimlemesi http://www.egwald.com/operationsre-
+search/chickengame.php web sitesinden uyarlanm›ﬂt›r.
+28 Her ne kadar baz› araﬂt›rmac›lar korkak tavuk oyununun Küba Füze Krizini modellemek için iyi
+bir seçim olmad›¤›n› iddia etmiﬂse de yine de yaz›n›n klasiklerinden olmas› dolay›s›yla incelen-
+mesinde yarar oldu¤unu düﬂünüyorum. (Bu konuda daha fazla bilgi için bkz. Jean-Pierre
+Langlois, “Rational Deterrence and Crisis Stability”, American Journal of Political Science, Cilt
+35, No 4 (Nov., 1991), s.801-832.)
+42
+
+--- Sayfa 4 ---
+Bu stratejilere karﬂ›l›k gelen tüm sonuçlar kümesi de ﬂöyledir:
+A - (ABD blokaj yapar; SSCB füzeleri geri çeker)
+B - (ABD blokaj yapar; SSCB füzeleri tutmaya devam eder)
+C - (ABD hava harekât›; SSCB füzeleri geri çeker)
+D - (ABD hava harekât›; SSCB füzeleri tutmaya devam eder)
+Tablo 2. Küba Füze Krizi Oyunu
+Matristeki dört hücre (A, B, C, D), birbirine karﬂ›l›k gelen stratejilerin do¤u-
+raca¤› sonuçlar› gösterir. Buna göre ABD’nin blokaj stratejisini izlemesi duru-
+munda Sovyetler; A) Füzeleri geri çekebilir (uzlaﬂma sonucu) veya B) füzeleri
+tutmaya devam eder ve zafer kazan›r. ABD’nin hava harekât›n› seçmesi duru-
+munda ise Sovyetler; C) füzeleri geri çekebilir ve ABD zafer kazan›r; ya da D) fü-
+zeleri tutmay› seçer ve Amerikan iﬂgali olursa nükleer karﬂ›l›k verebilir. Ayr›ca,
+bu oyunda iki Nash dengesi29 mevcuttur (B ve C hücrelerindeki altlar› çizili so-
+nuçlar). Ancak oyun –birçok analiste göre- uzlaﬂma seçene¤i olan A hücresinde
+bitmiﬂtir.
+Korkak tavuk oyununun bu çerçevede kullan›m› uluslararas› iliﬂkiler yaz›-
+n›nda çat›ﬂma ve nükleer cayd›r›c›l›k çal›ﬂmalar›n›n bir örne¤idir. Küba füze kri-
+zini bu ﬂekilde modellemenin birçok yarar› vard›r. Bu ﬂekilde hem aktörlerin el-
+de edilebilir tüm strateji ve bunlara ba¤l› tüm sonuçlar› gösterilebilir hem de
+oyunun sonucunun tutarl› olup olmad›¤› tart›ﬂ›labilir. Özellikle, birbirine ba¤l›
+davran›ﬂlar›n krizin sonucuna nas›l etki edebilece¤ini bu tip modellemeler kul-
+lanarak çok daha kesin bir ﬂekilde tahmin edebiliriz. Daha kuramsal olarak, ya-
+z›n›n daha klasik -örne¤in neorealizm gibi- teorilerinin, devletlerin kriz durum-
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+29 Bu makaledeki oyunlar kurama bir giriﬂ sa¤lamas› amac›yla örnek olarak verildi¤inden Nash
+dengesi gibi teknik konular incelenmemektedir. Bu konularda daha çok bilgi için bkz. Morrow,
+Game Theory for Political Scientists.
+43

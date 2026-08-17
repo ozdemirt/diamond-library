@@ -1,0 +1,3811 @@
+--- Sayfa 4 ---
+..
+..
+"
+••
+• ....
+... ·
+,• \
+'
+.
+. . ·..
+..
+.
+.
+' .
+"\' . .
+. .
+...... ,
+.
+,,
+o./'
+, ·
+)
+'•
+'1J·
+•
+• •
+•
+•
+•
+,
+' •
+....
+\
+!
+•
+" ·
+ ,
+j v.
+•
+'"·
+•
+•
+•
+•
+t
+'
+'
+'
+' .
+"
+'
+;{ ;".:;..'1! • ""
+ ••
+1ııl
+•
+)
+.
+..
+
+--- Sayfa 6 ---
+•
+•
+•
+•
+NOAM CHOMSKY
+Hazırlayanlar: Nirmalangshu Mukherji
+Bibudhendra Narayan Patnaik
+Rama Kant Agnihotri
+•
+Çeviren: lsa Kerem Bayırlı
+BOGAZiÇi
+UNiVERSiTESi
+YAYINEVi
+•
+
+--- Sayfa 7 ---
+Noam Chomsky
+The Architecture of Language
+Dilin Mimarisi
+Yayın Haklan,,.; 2000, Noam Chomsky.
+Türkçe Yayın Haklan (<! 20 14, BÜTEK A.Ş.
+ISBN 978-605-4787-4 1-8
+BÜTEK Boğaziçi Eğitim Turizm Teknopark Uygulama
+ve Dan. Hiz. San. Tic. A.Ş.
+Boğaziçi Üniversitesi Güney Kampüs, 7. Lojman,
+3. Kat, P.K. 34342, Bebek-Beşiktaş/lstanbul
+Telefon: 02 1 2 359 46 30
+Yönetim Yeri:
+Boğaziçi Üniversitesi Yayınevi
+Boğaziçi Üniversitesi Uçaksavar Kampüsü
+Garanti Kültür Merkezi, Arka Giriş
+Etiler /lstanbul
+bupress(iı,boun.edu. tr
+www.bupress.org
+Telefon ve faks: (90) 2 1 2 257 87 27
+Sertifika No: 10821
+Genel Yayın Yönetmeni: Murat Gülsoy
+Yayıma Hazırlayanlar: Sumru Ôzsoy, Ergun Kocabıyık
+Kapak Tasarımı: Kerem Yeğin
+Baskı: Acar Basım ve Cilt Sanayi Ticaret A.Ş.
+Beysan San. Sitesi Birlik Cad . , No: 26
+Acar Binası, Haramidere/Beylikdüzü, lstanbul
+Telefon: (02 1 2) 422 1 8 00
+Sertifika No: 1 1957
+Birinci Basım: Kasım 2014 ( 1 .000 adet)
+
+--- Sayfa 8 ---
+İÇİNDEKİLER
+Yayına Hazırlayanların Ônsözü ........... . . .............................. vii
+Dil ve Dilin Tasarımı:
+Delhi'de Yapılan Konuşma, Ocak 1996 ...................... 15
+Tartışma .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. . . . .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 49
+Dilbilimin Kapsamı .
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 49
+Dilin Edinimi .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 59
+Dil Kuramı .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.. .
+.
+.
+.
+.
+.
+.
+.
+ 69
+Kaynakça
+.
+.... .
+.
+.. .
+.. .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.... .
+.
+.
+.. .
+.
+.
+.
+.
+.
+.
+.
+ 8 7
+Dizin .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 91
+
+--- Sayfa 10 ---
+Noam Chomsky dil ve zihin konusunda en yaratıcı ve en
+üretken yazarlardan birisi. Pek çok kitap ve makale yazmış
+olmasının yanı sıra, bu konularda dünyanın birçok yerin­
+de konuşmalar yaptı. Bu konuşmalardan bazıları kitap
+olarak da yayımlandı. 1 Yine de, bu uzun ve gelişen listeye
+bir tane daha eklememizin doğru olacağını düşündük.
+Chomsky Ocak 1996'da bir haftalığına Hindistan'day­
+dı. Bu ziyaret Delhi'de yapılan konuşmalar dizisiyle baş­
+ladı. 2 Yaptığı beş halka açık konuşma arasında, sadece
+bir tanesi onun dil ve zihin üzerine olan çalışmalarıyla
+ilgiliydi.3 Bu konuşma, Delhi'deki akademik çevrelerde
+daha önce hiç görülmemiş bir heyecan yarattı. Konuş­
+ma bir buçuk saat sürdü ve bunu pek çok konunun tar­
+tışıldığı bir soru-cevap bölümü izledi. Sorulan pek çok
+soruya cevap verme fırsatı olmamıştı. Chomsky bunlara,
+Massachusetts Teknoloji Enstitüsü'ne (MIT) döndüğünde
+cevap vermeyi kabul etti. Delhi Üniversitesi Dilbilim Bö­
+lümü tarafından derlenen bir dizi soru, Chomsky'e gön­
+derildi. O da bir ay içinde bu soruları ayrıntılı bir biçimde
+yanıtladı.
+Chomsky'nin konuştuğu her yerde benzer bir he-
+1 Bkz. Chomsky 1 987a, l 987b, 1988, l 993a ve diğerleri.
+2 Chomsky Delhi'den sonra Kalküta, Haydarabad, Tıivandrum, Mysore
+ve Bombay kentlerinde bulundu.
+3 Bu konuşma Delhi Üniversitesi Tagore Salonu'nda yapıldı. Diğer ko­
+nuşmalar siyasi konular üzerineydi ve Delhi Ekonomi Bölümü'nde (iki
+defa), Cevahirlal Nehru Üniversitesi'nde ve Delhi Ünversitesi Shankar­
+lal Salonu'nda yapıldı.
+
+--- Sayfa 11 ---
+viii • Dilin Mimarisi
+yecanın ortaya çıktığını biliyon.ız. Ancak, bu denli yay­
+gın, uzun ve derin bir tartışma Hindistan'daki akademik
+çevrelerde sıkça karşılaşılan bir dun.ım değil. Chomsky
+Hindistan'ı yirmi beş yıldan beri ilk defa ziyaret ediyordu
+ve yoğun programı göz önüne alındığında, tekrar ne za­
+man geleceği -hatta gelip gelmeyeceği bile- belli değildi.
+Dolayısıyla, bu olay, özellikle de dinleyicilerin coşkulu ka­
+tılımı, kayıt altına alınmaya değerdi. Dahası, bu etkinlik­
+ten hemen sonra, konuşmanın yazılı hali ve ses kayıtları
+için pek çok talep geldi. Ancak dinleyiciler dağıldığında,
+etkinliği düzenleyenler, Chomsky'nin MIT'ye döndükten
+sonra son.ılarını yanıtladığı pek çok kişinin izini kaybetti.
+Onlara ulaşmanın bir son.ımluluk olduğunu düşündük
+ve kitabı bu nedenle derledik.
+Kitabın yayımlanmasının bir başka nedeni de dü­
+şünce dünyasına bir katkı sunmak. Chomsky'den, dille
+ilgili ilk çalışmalarından başlayıp4 Yetinmeci Çizgi'nin5
+4 Bu konuda Chomsky'nin Pensilvanya Üniversitesi'ne teslim edilmiş
+olan doktora tezinin kısmen değiştirilmiş bir metnini içeren The Logi­
+cal Stnıcture of Linguistic Theory'ye ( 1 955) bakınız. Ancak Chomsky'yi
+uluslararası düzeyde tanınır kılan çalışmalar eserine ilişkin olarak
+Syntactic Stnıctures, ( 1 957) ve bunun ardından Robert Lees tarafından
+Language dergisinde yayımlanan incelemeydi. Dilbilimci olmayanlar
+arasında Chomsky'nin tanınması, 1959'da Skinner'in Verbal Behaı.fiour
+[Sözel Davranış] kitabı üzerine yazdığı incelemeye dayanır (bu konu­
+da bkz. Katz ve Fodor 1 964). Massimo Piattelli-Palmarini'nin Langua­
+ge and Leaming: The Debate between Jean Piaget and Noam Chomsky
+( 1 980) isimli eserinde kitaplaştınlan 1 975 yılındaki Chomsky ve Piaget
+tartışması da Chomsky'ye uluslararası planda ün kazandıran başka bir
+olaydır. Chomsky'nin kariyerindeki bu ve benzeri önemli olaylarla ilgili
+olarak Robert Barsky'nin A Life of Dissent ( 1997) isimli eserine bakınız.
+Aynca bkz. Chomsky ve diğerleri, The Generative Enterprise ( 1982). Bu
+olaylann bazılan Peter Wintonick ve Mark Achbar tarafından çekilen
+Rızanın İmalatı: Chomsky ve Medya adlı belgeselde de işlenmiştir.
+5 Yetinmeci Çizgi (Minimalist Program) : Üretici Dilbilgisi Kuramının
+1 993'ten sonra geliştirilen evresi; bir önceki evre olan Yönetim ve Bağ­
+lanma Kuramından farklı olarak tümüyle yapısal ilişkiler üzerine ku­
+rulmuş olan yönetim kavramı yerine Evrensel Dilbilgisi kavramını öne
+sürer
+ed. notu.
+
+--- Sayfa 12 ---
+Yayına Hazırlayanlann Ônsözü • ix
+(Chomsky 1995b) ortaya çıkışına kadar geçen süre içinde
+meydana gelen olayların tarihsel bir dökümünü sunma­
+sı, ayrıca üretici dilbilgisini6 tanımlayan en yeni teknik
+gelişmelerden bahsetmesi istenmişti. Yani bu, hem halka
+açık bir konuşmaydı hem de uzman dilbilimcileri ilgilen­
+diren teknik tartışmaları içeriyordu.
+Chomsky'nin bunu ne ölçüde başarmış olduğuna
+okurlar karar verecektir. Ancak bu işe kalkışılmış olması
+bile hayret verici. Tek bir konuşmanın içinde, yakın bir
+zamanda basılmış olup da bu kadar çok konudan bah­
+settiği başka bir çalışmasını bilmiyoruz. Bildiğimiz kada­
+rıyla, onun yayımlanan konuşmaları -ya da konuşma di­
+zileri- çoğunlukla ya teknik çalışmalarından yüzeysel bir
+şekilde bahseden genel ve felsefi tartışmaları7 ya da kı­
+saca genel birkaç sözden sonra derin teknik tartışmaları
+içeriyor. Chomsky bu konuşmada, her ikisini de gerçek­
+leştirdi. Bunu da, konuşmanın dikkatle planlandığını gö­
+zönüne aldığımızda, yalnızca bu etkinliği düzenleyenlerin
+zorlamasından dolayı yapmadığını görüyoruz. Chomsky,
+bizce bu konuşmasında, gitgide erişilmez hale gelen bir
+üretkenlik göstermeye gayret etti.
+Bir araştırma programının genel kavramsal hedefleri­
+nin, teknik çalışmalarda yeterince görünmemesi bilim ta­
+rihinde yaygındır. Bazı kavramsal tezleri ortaya atabilmek
+için birçok felsefi, yöntemsel ve akla yakın tez savunula­
+bilir, ama ampirik çalışmalar uzun bir süre bu tezlerden
+hiç etkilenmeden yoluna devam eder. Çağdaş dilbilime
+baktığımızda, Evrensel Dilbilgisi'nin genetik bir yapı
+olarak ele alınması bugünkü dilbilimin doğuşundan bu
+yana açıkça belirtmiş olduğu bir hedef olmasına karşın,8
+ampirik araştırmaların çok uzun bir süredir bu soruya
+6 ı 9601arda Noam Chomsky tarafından geliştirilen dil bilgisi kuramı.
+Üretici Dilbilgisi, dilin bütününü oluşturan sayısız tümçe diı:ilerinin,
+birtakım sınırlı biçimsel kurallardan oluştuğunu varsayar
+ed. notu.
+7 Bunlar dipnot 1 'de belirtilen eserleri de içeriyor.
+8 Bu hedefin açık ve net bir ifadesi için Chomsky'nin Aspects ofthe Theory
+of Syntax ( 1965) isimli eserinin özellikle ilk bölümüne bakınız.
+
+--- Sayfa 13 ---
+x • Dilin Mimarisi
+pek bir katkısı olmadığı hatırlanacaktır. Bunun nedeni,
+Evrensel Dilbilgisi'nin tasarım ilkelerinin, araştırmalar­
+da kullanılabilecek bir düzeyde bilinmiyor olmasıydı.
+Chomsky'nin konuşmasında ifade ettiği gibi, buradaki ilk
+dönüm noktası, kavramsal tezlerin gerçek ampirik çalış­
+malarda karşılığını bulmaya başladığı l 9801erin başında
+ortaya çıkan ilkeler ve parametreler yaklaşımı oldu.
+Bu, kaçınılmaz bir biçimde, Chomsky'nin yazdıkları da
+dahil olmak üzere daha sonraki katkılarında biçim ve içerik
+değişikliklerine yol açtı. Örneğin, Chomsky Knowledge of
+Language [Dil Bilgisi] (1986)9 isimli kitabının daha büyük
+bir kısmını (aslında önemli bir bölümünü), sonraki yıllar­
+da pek çok çalışmaya yön veren teknik tartışmalara ayırdı.
+Artık, genel felsefi tezlerin, gerçek ve ustalıkla elde edilmiş
+aıııpirik bulgularla ve yeni teknik araçlarla incelenebildiği
+za ıııanlar gelmişti. 10 Bu za ırıanlarda bile, sıradan bir okur
+teknik kısımları göz ardı edip alanın genel gidişatına dair
+fikir edinebiliyordu. Aynca uzman dilbilimcilerin, bu daha
+'felsefi' bölümleri, tezlerin temel noktalarını kaçırmadan,
+göz ardı etmesi de mümkündü. Fakat bu iki yönelim de
+gittikçe daha zor hale geliyordu.
+İlkeler ve parametreler yaklaşımı Evrensel Dilbilgi-
+4 Bkz. Chomsky 1 986a.
+1° Chomsky dil ve zihin üzerine üç tür kitap yazmıştır: (a) yalnızca uzman
+dilbilimcileri ilgilendiren teknik yazılar (Chomsky 1 955, 1 965, 1 98 1 ,
+ı 982, ı 986b, ı 995b ve diğerleri), (b) daha geniş bir okur kitlesini heder
+alan genel yazılar (Chomsky 1 987a, 1 987b, 1988, 1 993a, 1 997 ve diğer­
+leri), ve (c) yakın alanlardaki bilim insanlarını ve aynı şekilde dilbilim­
+cileri ilgilendiren kısmen teknik yazılar (Chomsky 1 966, 1 972a, 1975,
+1 980, 1 986a). Alexandre George'un ( 1987: 1 55) belirttiği gibi, (c)'dekiler
+" . . . Chomsky'nin dil bilim projesini içinde gördüğü genel çerçevenin be­
+lirtilmesi, yeni kuramın aynntılan ve Chomsky'nin konuya gelebilecek
+her türlü eleştiriyi, özellikle de felsefi eleştirileri, ortadan kaldıran, artık
+çok iyi bilinen 'bütün köşeleri kapa' bölümü". Chomsky ( 1986a) çalış­
+masından beri bu genişlikte bir yayın yapmamıştı. Bize göre, mevcut
+konuşma (a) ve (b) gruplarına giı ıııiyor. Uzunluk ve kapsam açısından
+bu çalışma (c)'de ifade edilen çalışmalardan çok daha küçük olsa bile,
+biz söz konusu çalışmanın bu gruba girdiğine inanıyoruz.
+
+--- Sayfa 14 ---
+Yayına Hazırlayanlann Ônsözü • xi
+si'nin ve dil yetisinin ilkelerinin neler olduğu samsunu
+dilbilim araştırmalarının merkezine koydu. 1 1 Dil yetisinin
+beklenmedik ve derin özellikleri ortaya çıkmaya başladı­
+ğında, birkaç yıl öncesine kadar hayal bile edilemeyen sa­
+nılar sanılmaya başlandı. Dil ediniminin meydana geldiği
+koşullar düşünüldüğünde, zihnin dilin edinimine adan­
+mış bölümleri tam olarak nasıl çalışıyor? Kuramın hangi
+kısmı bu yapıyı açıklıyor ve hangi kısmı sadece kuram­
+sal açıdan kolaylık sağladığı için orada? Dil yetisi han­
+gi anlamda biyolojik bir sistem? Bu sanıların sonıluyor
+olması, sıkı bir ampirik araştırmayla inceleniyor olması
+bile olağandışı. Genel, kavramsal ve teknik pek çok kaygı,
+bu şekilde tek bir programda birleşiyor. 12 Bu parçalardan
+herhangi birine teğet geçen birinin, bütün programla ilgili
+çok önemli bir şeyi kaçırması çok muhtemel. Bu yalnızca
+herhangi bir okur için değil; uzman dilbilimcileri de kap­
+sıyor. Böylece, işin kendisi bir yandan zorlaşıyor ama bir
+yandan da daha öncelikli hale geliyor.
+Bizce bu konuşma Chomsky'nin felsefi ve kavram­
+sal konular ile teknik yenilikleri ve a ırıpirik çalışmaları
+bir araya getirmeye çalıştığı bir etkinlik oldu. Konuşma,
+sonunda Yetinmeci Çizgi'ye yol açacak olan noktalar üze­
+rinde durarak üretici dilbilgisinin bütün tarihini kapsadı.
+Bu sırada, dil yetisinin de dahil olduğu bilişsel sistem­
+lerle ilgili mevcut çalışmaların dayandığı varsayımları da
+daha açık hale getirdi ve araştırmaların ilerleyebileceği
+yönlere ilişkin işaretleri ortaya koydu. Bu süreçte pek çok
+eski sanı tekrar sonıldu, geçmişte ana tartışma konusu
+olan birçok sanı ya kenarda kaldı ya da hiç sonılmadı
+ve yeni programın temel mantığı şaşırtıcı bir derinlik ve
+1 1 Jan Koster, Henk van Riemsdijk ve Jean-Roger Vernaud'ın GLOW
+Manifestosu'na (Carlos Otero (haz.) 1994, c. 1 , s. 342) bakınız. 'GLOW'
+Avrupa'da yer alan uluslararası bir kurum olan 'Generative Linguists in
+the Old World'ün (Eski Dünyadaki Üretici Dilbilimciler) Jasaltmasıdır.
+12 Bu noktada, bilim tarihinin daha aydınlıkta olan kısımlanyla benzer­
+lik kurulabilir, ancak bu iş okura bırakılmıştır. Chomsky tartışma kıs­
+mında bununla ilgili bazı ipuçları veriyor.
+
+--- Sayfa 15 ---
+xii • Dilin Mimarisi
+açıklıkla ifade edildi. Çağdaş üretici dilbilgisinin içerden
+anlatılan bir tarihini merak edenler bu konuşmayı son
+derece öğretici bulacaklar.
+Doğal olarak, uzman dil bilimciler de dahil olmak üzere
+dinleyicilerin hepsi sorular sordu. Chomsky'nin genişletil­
+miş, sabırlı yanıtlan, konuşma sırasında pek de değineme­
+diği pek çok konunun açıklık kazanmasını sağladı. Dolayı­
+sıyla, konuşma ve ona dönük tepkiler, yeni prograıııın pek
+çok ayırt edici özelliğinin açıkça ifade bulduğu anlaşılabilir
+bir bütün oluşturuyor.
+Belirttiğimiz gibi, soruların bazıları bu süreçte ya­
+nıtlanmış, bazılannın yanıtları ise MIT'den gelmişti. Bu
+etkinliğin heyecanı (ve bununla gelen kafa karışıklığı so­
+nucu) , Chomsky'nin konuşma sırasında zaten cevapla­
+mış olduğu sorulara yazılı olarak da cevap verdiği ortaya
+çıktı. Bu şekilde bazı soruların sözlü ve yazılı iki cevabı
+olmuş oldu. Bazı cevaplar içerik ve biçim açısından çok
+farklıydı; fakat kitabın amacına uygun olarak, bu iki ce­
+vabı tek ve tutarlı bir metne dönüştürmeye çalıştık. Bu
+''birleştirilmiş'' cevapları bulma işini okura bırakıyoruz ve
+eğer bulamazsa kendimizi başarılı sayacağız.
+Tartışma kısmının örgütlenmesine gelince, sorular ya­
+zılı olarak verilmiş olduğu için belli bir sırada cevaplanma­
+mış olması işimize yaradı. Çok farklı olmalanna rağmen,
+sorular genellikle konuşmanın üç temel bölümüne karşılık
+gelen üç ana başlıkta toplandı: dilbilimin kapsamı, dilin
+edinimi ve dil kuramı. Buna göre, sorular ilgili başlık altın­
+da genelden özele doğru sıralandı.
+Ele alınan konulan daha ileri götüııııek isteyen okurlar
+için kitaba bazı açıklayıcı notlar ve bir kaynakça ekledik.
+Okurun da fark edebileceği gibi, Chomsky alanın ileri düzey­
+deki konulan hakkında konuşurken daha kısıtlı sayıda din­
+leyiciye seslendiğini hissetti. Biraz daha anlaşılır olmasına
+özen gösterildiğine inandığımız genişletilmiş notlann, bazı
+okurlara teknik noktalarda, anlatılanlann daha rahat anla-
+
+--- Sayfa 16 ---
+Yayına Hazırlayanlann Ônsözü • xiii
+şılmasına yardımcı olacağını düşünüyoruz. 1 J Chomsky'nin
+eklenen bu bölümlere bakıııa fırsatı olmadığı için, bunların
+bütün sorumluluğu bize aittir.
+Bu iş, üçümüz arasında şu şekilde paylaşıldı: Mukherji
+ve Patnaik ses kayıtlarının ilk olarak yazıya geçirilmesini
+sağladı; 14 önsözün ilk taslağını yazdı, notların ve kaynak­
+çanın ilk listesini hazırladı. Patnaik teknik notları yazdı ve
+bazı notlar ve kaynaklar ekledi. Agnihotri her aşaırıada ha­
+zırlananlara baktı ve bazı değişiklikler önerdi; aynı zaırıan­
+da Mukherji, Patnaik, Chomsky ve yayıncılar arasında bir
+köprü görevi görerek projeyi yönetti. Her birimiz defalarca
+kuşkularımızı diğerleriyle paylaştık. Bu küçük kitap ger­
+çekten de Chomsky'nin mümkün kıldığı işbirliği içinde
+dostane duygularla yapılan bir çalışmanın sonucudur.
+Bu etkinliği maddi yönden desteklediği için Delhi Üni­
+versitesi Dilbilim Bölümü'ne ve kitabın haz1rlanmasını ko­
+laylaştırdığı için Hindistan İleri Araştır rııalar Enstitüsü 'ne
+teşekkür etmek istiyoruz. Aynca yardımları ve yüreklen­
+dirmeleri için Profesör A. K. Sinha'ya da teşekkür ederiz.
+ıJ Notlarda açıklığa kavuşturulan teknik kavramlar, ilkeler ve paramet­
+reler yaklaşımının ilk evrelerindeki çalışmalardan alınmıştır. Yeri gel­
+diğinde, bu kavramların sonraki çalışmalarda nasıl değiştirildiği ya da
+kullanımdan kaldınldığı konusunda da bazı genel ipuçlan verilmiştir.
+ı4 Konuşmayı ve tartışmayı yazılı hale getirmek bilindik sorunlara neden
+oldu:
+Sorunun bir kısmı yazıya dökme koşullarından kaynaklanıyor; bu koşul­
+larda öbekleri birbirinden ayıran tonlama ve zamanlamalar kaybedilir ve
+en yüksek duyarlıklı kayıtlar dışındaki kayıtlardan yazıya dökme işi pek
+güvenilir değil. Evet, Beyaz Saray'ın bağımsız düşük duyarlıklı kayıtlannın
+yazımlarında birçok soru uyandıran bölümler daha anlamlı hale getiril­
+miştir. Örneğin, Ben aaa, mmm gitsin istiyorum gibi bir ifade Ben onlann,
+aaa, gitmesini istiyorum olarak yazılmıştır (Pinker, 1995: 224).
+Biz yüksek duyarlıklı kayıtlar kullanmadık. Önce, aaa, mmm1an sil­
+dik ve onlann yaptık; noktalama işaretleri, paragraflar ve benzerlerini
+ekledik. Çeşitli düzeltmelerden sonra, çeşitli önerilerle birlikte bir tas­
+lak Chomsky'ye gönderildi. Chomsky bunlar üzerinde birçok düzelt­
+me, değiştiı ıııe, ekleme ve çıkarma yaptı. Bunlar son kontrollerden
+önce metne yerleştirildi.
+
+--- Sayfa 17 ---
+xiv • Dilin Mimarisi
+Chomsky'ye gönderilen sorulan toplayıp düzenlediği için
+Tista Bagchi'ye de müteşekkiriz. Son olarak da, bu etkin­
+liğe bu denli bir ilgi gösterdiği için Noarıı Chomsky'ye en
+derin teşekkürlerimizi sunuyoruz.
+N. Mukherji
+B.N. Patnaik
+R.K. Agnihotri
+
+--- Sayfa 18 ---
+Yapmayı çok istediğim iki şey arasında kalmış duıumda­
+yım. İlki, az önce soıulan ilginç sorularla ilgili konuşmak; 1
+diğeri ise bugün benden istenen konuda görüşlerimi
+ifade etmek, ki bu tamamen farklı bir konu. Profesör
+Agnihotri'nin yönelttiği sorularla ilgili konuşmak isterim
+ama sanının en iyisi bunu tartışma kısmına bırakmak
+olacak.
+Beni duyabiliyor musunuz? Belki duyamıyorsunuz.
+(Dinleyicilerin bir kısmı): Hayır
+'Hayır' dediğinize göre duyabiliyorsunuz.
+Bu iki konu arasında bir ilişki olup olmadığı sorusu­
+nun kısa cevabı şu: Evet, ben ikisiyle de ilgileniyorum.
+Biri dilin biyolojik bir organ olmasıyla ilgili -böyle olduğu
+aşikar- ve bence bu soru, insan türünün temel doğasıyla
+ilişkili çok önemli bir ipucu içeriyor. Diğer konu ise insan
+yaşamı, sorunları ve dilin bir sömürü aracı olarak kulla­
+nılması ve benzeri konularla ilgili. Fakat bu ikinci konu­
+da, bildiğim kadarıyla, derinlikli olarak anlaşılan hiçbir
+şey yok. İnsanlar varmış gibi davranabilir ve konuyu kar­
+maşıkmış gibi gösterebilirler; bu entellektüellerin işidir.
+Ancak işin gerçeği, anlaşılan şeylerin son derece yüzeysel
+olduğudur; bunlara ulaşmak da zaten çok kolaydır.
+Bilim çok tuhaf bir etkinliktir. Sadece basit sorun­
+larda işe yarar. Doğa bilimlerinde bile, en basit yapıla-
+1 Açılış konuşmasında, Delhi Üniversitesi'nden Rama Kant Agnihotri şu
+tip sorular sordu: Chomsky'nin siyasi götiişleri onu neden, dili top­
+lumsal sömürünün araçlarından biri olarak görmeye zorlamıyor? Nasıl
+olur da insanlann acılarına bu denli duyarlı birisi, dili, toplumsal güç
+ilişkilerinin temel bir parçası olarak değil de sadece biyolojik ve bilişsel
+bir sistem olarak görür?
+
+--- Sayfa 19 ---
+1 6 • Dilin Mimarisi
+rın dışına çıkıldığı anda, her şey betimleyici bir hal alır.
+Örneğin konu büyük moleküller olunca, neredeyse tek
+yaptığınız şey betimlemektir. Derin bilimsel çözümleme­
+lerin insanların sorunlarıyla, hayatlarıyla ya da birbirle­
+riyle ilişkileriyle ilgili bir şey söylediğini sanmak bence
+boş bir beklentidir. Bu çıkarcı beklentinin kendisi, bir
+baskılama ve sömürü tekniğidir ve bundan kaçınılmalı­
+dır. İnsanların, bilim insanlarının üniversite eğitimi ya da
+özel yöntemler olmaksızın edinilemeyecek bilgilere sahip
+olduklarına inanmalarının önüne geçmek elbette aka­
+demisyenlerin sorumluluğudur. Eğer bir konu basit ise,
+basit olarak ifade edilmelidir. Yok, eğer söylenmesi gere­
+ken basit olmayan, ciddi bir şey varsa, o zaman, tamam,
+bu önemli ve ilginçtir. İnsanların ilgileri ve endişeleriyle
+alakalı kimi sorulara belki de derin cevaplar bulabiliriz,
+fakat bu çok nadiren doğrudur. Her neyse, benim dü­
+şüncelerim bu yönde, yani her iki konuyla da ilgiliyim2
+ve ikisine de çok zaman ve emek harcıyorum; ama bence
+bunlar bir araya gelmiyorlar.
+İzninizle rasyonel araştırmanın (yani doğa bilimlerinin
+yönteminin) karmaşık organizmaların anlaşılmasında şa­
+şırtıcı bir biçimde işe yarıyor gibi göründüğü bir alanla, in­
+san dili alanıyla ilgili konuşayım. Bu, insanın yapısındaki
+karmaşık işleyişle alakalı birkaç alandan biri. Burada gö­
+rünüşte şaşırtıcı şeyler, hatta belki de oldukça derin şey­
+ler, doğal dünyanın başka bazı yönlerini araştırarak elde
+edebileceğimiz türden şeyler bulabiliriz. Bu tip çok fazla
+alan bulamazsınız ve insan dili de bu alanlardan biri gibi
+görünüyor ya da en azından benim umudum bu yönde.
+Yapmak istediğim şey, uzun bir geçmişe dayanan bir
+2 Chomsky 1 986a'da bunlar 'Platon'un Sorunu' ve 'Orwell'ın Sorunu' ola­
+rak adlandırılmıştır. Bu sorunlar arasındaki olası ilişkilerle ilgili olarak
+bkz. Chomsky 1 993b. Chomsky toplum ve siyaset hakkındaki görüşle­
+riyle ilgili olarak bkz. Barsky 1 997'deki kaynakça. Ayrıca bkz. editörün
+önsözünün notlarında bahsedilen belgesel ve Rai 1 995. Bu konuşma
+Orwell'ın Sorunu ile ilgili olmadığı için Chomsky'nin bu alandaki çok
+sayıda çalışmasını kaynakçada belirtmedik.
+
+--- Sayfa 20 ---
+Dil ve Dilin Tasa nmı • 1 7
+araştırma programının yakın zamanda geçirdiği birtakım
+aşamaların anahatlarını ortaya koymak. Konuyu, 'Yetin­
+meci Çizgi' olarak adlandırılan programda son birkaç yıl­
+da gerçekleşenlere getireceğim. Bu programın arkaplan
+varsayımlarından, gerekçelendirilmesinden, takip edilen
+bazı çalışma doğrultularından ve bunların zihin ve dil
+çalışmaları üzerine klasik sorularla bağlantısından bah­
+sedeceğim. Bu son konuya ancak çok az değinebileceğim;
+dilerseniz bu sorular çok güncel olduğu için bunlarla
+devam edebiliriz. Dilbilimsel çalışmalar hızlı bir biçimde
+oldukça teknik hale geliyor ama ben genel çerçeveyi su­
+nacağım. Ama dediğim gibi, eğer isterseniz, daha teknik
+meselelerle ilgili olarak da konuşabilirim.
+Bazı arkaplan varsayımlarıyla başlayalım. Bunlar as­
+lında bildik şeyler ve galiba pek çok kişinin düşündüğün­
+den çok daha yüksek oranda kabul görmüş durumdalar;
+bu programa özgü olduklarını düşünmüyorum. Genelde
+üstü kapalı olarak kabul ediliyorlar; fakat konuyu ciddi
+olarak anlamaya çalışacaksak, üstü örtülü varsayımla­
+rı açık hale getirmeliyiz. Bunların bildik ve genel şeyler
+olduğunu söylemek eleştirilmeden kabul edilmeleri ge­
+rektiği anlamına gelmiyor; böyle bir şey olamaz. Bu var­
+sayımları düşündüğünüzde, pek çok açıdan şaşırtıcı ve
+-bu nedenle de deneysel bakımdan inandırıcı oldukları
+ölçüde- ilginç olduklarını fark edersiniz.
+Bunların ilki, dille ilişkili bilgilere ve dilin kullanımı­
+na adanmış bir dil yetisinin var olduğu ve bu yetinin de
+zihnin-beynin bir parçası olduğu varsayımıdır. Bu, be­
+dende belli bir işlevdir; belli bir işlevi yerine getirmeye
+yönelik olan görme sistemine kabaca benzer bir şekilde,
+bunu da belli bir işe yönelmiş bir dil organı olarak düşü­
+nebiliriz. Bu bir varsayımdır; ama doğru olduğuna dair
+güçlü kanıtlar var.
+Dahası, bunun iki anlamda insana özgü olduğuna
+dair de güçlü kanıtlar var. Öncelikle, ciddi patolojileri bir
+yana bırakırsak, insan türü içindeki farklılıklar fazla de­
+ğilmiş gibi görünüyor. Çok geniş bir ölçüde, bu yetinin te-
+
+--- Sayfa 21 ---
+1 8 • Dilin Mimarisi
+mel özellikleri aynı gibi. Bu anlamda görme sisteminden
+çok farklı değil. Fakat insan türüne özgü olması bakımın­
+dan görme sisteminden farklı; yani görünüşe bakılırsa
+bu, türe özgü bir olgu. 3 Başka akraba türlerde herhangi
+bir kökendeş (yani biyolojik olarak ilintili) hatta görevdeş
+(daha zayıf bir özellik olan işlev bakımından ilintili) karşı­
+lığı bile yok gibi görünüyor.
+Hayvanlar dünyasında, dil yetisinin özellikleriyle
+benzerlikler bulmak isterseniz çok uzak da olsa bulabilir­
+siniz. Ancak, en benzer sistemlerin, dil bakımından hiçbir
+evrimsel tarihi paylaşmadığımız böceklerde ve kuşlarda
+bulunması ilginçtir. Görece daha yakın bir evrimsel geç­
+mişi paylaştığımız canlılara, örneğin primatlara baktığı­
+nızda ise ilginç benzerlikler taşıyan neredeyse hiçbir şey
+bulamazsınız. Bu da dil yetisinin şaşırtıcı ve beklenmedik
+bir şekilde biyolojik olarak yalıtılmış olduğunu gösterir.
+Bunu bir masal gibi anlatacaksak, güya çok uzun
+zaman önce ortalıkta dolaşan bir primat vardı ve belki
+de bir kozmik ışın banyosundan sonra bu canlıda rast­
+lantısal bir mutasyon meydana geldi. Bu mutasyon beyni
+tekrar düzenledi ve aslında bir primat beyni olan nesneye
+bir dil organı ekledi. Bu, kelimesi kelimesine doğru oldu­
+ğu düşünülmemesi gereken bir hikaye. Ancak, dil dahil
+diğer evrimsel süreçlerle ilgili anlatılan pek çok masaldan
+daha gerçek olabilir.
+O zaman bir dil yetisi olduğunu ve bu yetinin en azın­
+dan bilgiyi saklayan bilişsel bir sistem içerdiğini varsaya­
+lım. Bu sistemin bilgilerine giriş yapabilen başka sistem­
+ler de mevcut olmalı, buna edim [performans] sistemleri
+diyelim. Bu aşamada ortaya ciddi bir soru çıkıyor: dil ye­
+tisinde saklanan bilgiye erişimi olan bu sistemler hangi
+ölçüde bu yetinin bir parçasıdır? Yani, bu edim sistemleri
+ne ölçüde dile özgüdür? Örneğin, kendilerine dil yetisi ta-
+3 lnsanın görme sistemi ile dil yetisi arasındaki benzerlikler ve farklı­
+lıklarla ilgili olarak diğerlerine ilaveten bkz. Chomsky 1 980, Bölüm 6;
+1988, Bölüm 5.
+
+--- Sayfa 22 ---
+Dil ve Dilin Tasanmı • 1 9
+rafından verilen bilgilere giriş yapabilen söyleyiş-algılayış
+sistemlerini, duyu-motor sistemlerini ele alalım. Bun­
+lar dil yetisinin bir parçası mıdır? Dile mi özgüdürler?
+Bu pek bilinmiyor. Genelde varsayıldığı şekliyle bunlar
+kısmen dile özgü, kısmen de bağımsızdır. Ancak bu bir
+araştırma sorusudur; bu soruyu duyu-motor sistemi sü­
+reçleri düzeyinde bile cevaplaması zordur; ayrıca büyük
+ihtimalle anlaşılması güç başka süreçler de söz konusu­
+dur. En azından bir noktaya kadar, edim sistemleri dilin
+bir parçası gibi görünüyor.
+Edim sistemleriyle ilgili bir başka deneysel soru da
+bunların değişip değişmediğidir. Bunlar sabit ve değiş­
+mez midir, yoksa gelişiyorlar mı? Dil edinim düzeneğiyle
+ilgili çokça tartışma var; ama dikkat ederseniz bunlar dil
+yetisinin bilişsel sistemine odaklanmıştır. Bu sistem el­
+bette değişiyor. Dil yetisinde saklanan bilgi, yaşam süreci
+içinde değişir; Hintçe bilen biri İngilizce bilen birisi değil-
+-
+- - - - - - -
+-
+dir. O halde ortak bir durumda birtakım değişiklikler ya-
+şanmış. Edim sistemleri değişti mi peki? Bu soruya daha
+yakından bakıldığında pek çok ilginç ve zor soru ortaya
+çıkmasına karşın, bu konuda kimse pek bir şey bilmiyor.
+Dil üzerine yapılan çalışmalar, genellikle bu konuların
+dilin ve belli dillerin çalışılmasını etkilemediği yönündeki
+üstü kapalı ve basitleştirici varsayıma dayanır. Bu var­
+sayım doğru olsaydı çok ilginç olurdu; bu nedenle de bu
+muhtemelen yanlış. Bilgisizliğimizden kaynaklanan bir
+varsayım bu; ama yanlış olup olmadığını bilmiyoruz. Bil­
+mediğiniz bir şeyle karşılaştığınızda, en basit varsayıma
+dayanırsınız. Kendimizden emin olamasak da en basit
+varsayım bunun doğru olduğudur. Bir süre sonra edim
+sistemlerinin gelişiminin, dil yetisinin bilişsel sisteminin
+araştırılmasıyla bütünleştirilmesi gerektiğini anlayabi­
+liriz; ama şimdilik bu konuda fazla bir şey bilmiyoruz.
+Onun için bir kenara bırakıyoruz.
+e
+Şimdi de bakabileceğimiz şeye odaklanalım, yani çe­
+şitli durumların değiştirdiği kesin olan dil yetisinin bi­
+lişsel sistemine. Onun genetik olarak belirlenmiş ortak
+
+--- Sayfa 23 ---
+20 • Dilin Mimarisi
+ilk durumu, iç gelişim süreçlerinden ya da elbette dış
+deneyimden kaynaklanan farklı koşullarda ortaya çıkan
+yeni durumlarıyla aynı değildir. Bu, 'dil edinimi' dediği­
+miz şeydir. Buna bazen 'öğrenme' de deniyor; ama bu
+'öğrenme' diye adlandırılabilecek şeylerden daha çok bir
+'gelişim' süreci olduğu için, bu terimi kullanmak olduk­
+ça yanıltıcıdır. Doğru uyartıların bulunduğu bir çevreye
+çocuğu koyuyorsunuz; dil edinimi çocuğa olan bir şey.
+Çocuk hiçbir şey yapmıyor; bu yemek yedikçe büyümeni­
+ze benziyor. Bu sistemin gelişimi, deneyime bağlı olarak
+farklı durumlara girebilen görme sisteminin gelişimine
+benziyor.
+Dil yetisi tarafından edinilen farklı durumlann (yani
+farklı dillerin) , yalnızca yüzeysel anlamda birbirinden
+farklı olduğu ve bunların ortak bir dil yetisi tarafından
+belirlendiği konusunda kendimizden emin olabiliriz.
+Buna inanma nedenimiz çok açık. Edinim için gerekli
+deneyim, açıkçası çok kısıtlı. Mevcut deneyimi irdeleye­
+biliriz; ona bakabilir ve ne olduğunu görebiliriz. Bu dil
+deneyimi, mevcut bir ortak yapıyı değiştirmekten başka
+bir şey yapma konusunda çok sınırlı ve bölük pörçük ol­
+duğu açıktır. 4
+Bu arada, yukarıdaki çıkarım diğer bütün gelişim sü­
+reçleri için aşikar ve sıradan görülürken, aynı çıkarımın
+zihinsel yetiler söz konusu olduğunda son derece tartış­
+malı görülmesi çok ilginçtir. Herhangi bir gelişim sürecini
+ele alalım; bir embriyoda kanatlann değil de kolların ge­
+lişmesi ya da (doğum sonrası bir örnek vermek gerekirse)
+insanların belli bir yaşta ergenlik geçirmeleri gibi. Biri,
+bunun deneyimlerin bir sonucu olduğunu iddia etse, in­
+sanlar ona güler ya da biri çıkıp bir çocuğun akran bas­
+kısı ('Onlar yapıyorsa ben de yaparım!') gibi bir sebepten
+ötürü ergenlik yaşadığını iddia etse, insanlar bunu gü-
+4 Uyartı eksikliği tezi. Bununla ilgili olarak geniş bir tartışma için
+bkz. Piattelli-Palmarini 1 980. Aynca bkz. Chomsky 1 986a. Bu tezin,
+Chomsky'nin çalışmalanndaki önemiyle ilgili olarak bkz. Wexler 199 ı.
+
+--- Sayfa 24 ---
+Dil ve Dilin Tasanmı • 2 1
+lünç bulur. Ama bu, dilin gelişiminin deneyimlerin bir
+sonucu olduğu inancından daha gülünç değildir.
+Hatta daha az gülünç olduğu bile söylenebilir. Bir
+canlıda neden kol ya da kanat geliştiği, bir canlının ne­
+den belli bir yaşta ergenliğe girdiği ya da, benzer şekilde,
+neden az çok belli bir yaşta öldüğü hakkında pek az şey
+biliniyor. Bu özellikler genetik olarak belirlenmiştir, fakat
+çok da iyi anlaşılmamıştır. Bunların genetik olarak belir­
+lenmiş olduğu varsayılır ve, gayet iyi bir sebepten ötürü,
+biyolojideki bütün araştırmalar bunu doğal olarak kabul
+eder. Gelişmenin yaşandığı çevre koşullarına baktığınız­
+da, orada son derece belirli, ayrıntılı ve benzer süreçleri
+yönetecek yeterli bilgi yoktur. Bu nedenle de, melekleri
+bir yana bırakırsak, bunun iç kaynaklı (genetik) olduğu­
+nu varsayarsınız.
+Aynı tezler zihin yetileri için de tamamen geçerlidir.
+İnsanların bu tezi kabul etmemelerinin sebebi, dualizmin
+akıl dışı bir türünün kalıntılarıdır. Üstelik dil söz konusu
+olduğunda, onunla bağlantılı zihin durumunun özellik­
+leriyle ilgili bir şeyler biliyoruz. Yani bir anlamda kollar,
+kanatlar ve ergenlik meselelerinden daha iyi durumdayız.
+Temel varsayımlar bunlar işte.
+Bir dilin, dil yetisinin aldığı belli bir durumdan daha
+farklı bir şey olmadığını düşünebiliriz. Bu, dile dönük
+kuramsal sorgulamanın size verdiği, dil kavramıyla ilgili
+sezgilere en yakın kavramsallaştırmadır.5 O halde belli
+5 içsel dil ve dışsal dil tartışmasıyla ilgili olarak bkz. Chomsky l 986a
+ve ayrıca 1 99 1 . [Aşağıdaki şemayı akılda tutmak, okurun devam eden
+tartışmayı daha iyi anlamasına yardımcı olacaktır.
+Sözlükçe
+!Kelimeler, Ekler)
+Sözdizim
+!Kelimelerin ve eklerin bir araya geldiği sistem)
+Ses Yapısı
+!Söyleme-Algılama Sistemi)
+Mantık Yapısı
+!Kavram-Niyet Sistemi)
+
+--- Sayfa 25 ---
+22 • Dilin Mimarisi
+bir dili (Hintçe, İngilizce ya da Suahilice olsun) dil yetisi­
+nin belli bir durumu olarak düşünelim. Bu durumda bir
+kişinin bir dili bildiğini ya da bir dili olduğunu söylemek,
+o kişinin dil yetisinin o durumda olduğunu söylemektir.
+Dil, bu anlamda, edim sistemlerine talimatlar verir.
+-
+Bir sonraki soru şudur: Peki bunu nasıl yapar? Bu
+noktada ortaya şöyle bir varsayım çıkar: Bunu 'dilsel ifa­
+deler' denilen bir biçimde yapar. Her 'dil ifadesi' birtakım
+özelliklerin toplamıdır. Bunun teknik ifadesi, dilin 'son­
+suz sayıda ifade üreten bir sistem' olduğudur ve bu ne­
+denle de bir dilin kuramına 'üretici dilbilgisi' denir.6 Edim
+sistemlerinin, iki farklı bilgi türüne erişimi olan yalnız­
+ca iki bölüme ayrıldığı varsayılır: kabaca, ses ve anlam.
+Bir tür ses ifadeleri ve bir tür anlam ifadeleri vardır. Bu
+varsayım binlerce yıl öncesine dayanır; şimdi biz bunu
+daha açık hale getirmeliyiz. Ses ifadelerine duyu-motor
+sistemleriyle erişilir ve anlam ifadeleri (bunun ne anlama
+geldiğini açıklamamız gerek) dünya hakkında konuşmak,
+soru sormak, fikir ve duygulan ifade etmek için bilgi ve
+ifadeleri kullanır.
+Sözlükçe; kelimeler, ekler ve bunların ses ve anlam bilgilerini saklayan
+bir tür sözlüğe benzetilebilir. Bu ekler ve kelimeler, sözdizim kısmı deni­
+len bölmede bir araya getirilerek öbekleri ve cümleleri oluşturur. Dilbil­
+gisinin üretici kısmı burasıdır. Bu cümlelerin sesle ilgili ilişkileri (ünlü
+uyumu gibi ilişkiler) Ses Yapısı bölümünde görülebilir durumdadır.
+Anlamla ilgili ilişkileri (bir olumsuzlama ekinin cümlenin hangi öbekle­
+rini etkisi altına alabildiği ya da adılın kime gönderimde bulunacağını
+gösteren ilişkiler) Mantık Yapısı tarafından okunabilmektedir. Burada
+dikkat edilmesi gereken bir nokta, sözdizimden çıkan nesnelerin, Ses
+Yapısı ve Mantık yapısı için "girdi" işlevi gördüğüdür
+çev. notu.]
+6 Aşağıdaki alıntı, Chomsky'nin konuşmasında 'ifadeler' olarak bahset­
+tiği 'yapısal ifadeler'in üretici dilbilgisinde 'üretme' kavramını daha ay­
+rıntılı anlatmaktadır:
+... dilbilgisi betimlediği tümceleri ve onların yapısal betimlemelerini üre­
+tir; dilbilgisi, bir dilin tümcelerini 'zayıfça üretir'ken bu tümcelerin yapısal
+betimlemelerini 'kuwetle üretir.' Dilbilimcinin dilbilgisinden 'üretici dilbil­
+gisi' olarak söz ettiğimizde, bunun yalnızca o dildeki tümcelerin dilbilgisi
+tarafından nasıl tanımlandığını belirtmek için yeterli olduğunu kastederiz.
+(Chomsky 1980:220)
+
+--- Sayfa 26 ---
+Dil ve Dilin Tasanmı • 23
+Anla ırı ifadelerine erişebilen sistemlere 'kavra ırı-niyet'
+sistemleri denir. 'Niyet' (ya da a ırıaçsallık), geleneksel fel­
+sefeye ait olan ve 'bir şey hakkında olma' ilişkisini anlat­
+mak için kullanılan bir terimdir: İfadeler bir şeylerle ilgi­
+lidir. Çoğunlukla gizemli olan bu 'kavram-niyet' sistemi,
+düşüncelerinizi ifade etmek, dünya hakkında konuşmak
+gibi dille yaptığınız şeyleri yapmanızı sağlayan ifadelerin
+bazı özelliklerine giriş yapabilen bir sistemdir.
+Yalnızca iki erişim sisteminin, iki edim sisteminin var
+olduğu varsayımı da şaşırtıcıdır. Dille ilgili çalışmaların
+binlerce yıl önce başladığı zamanlardan beri bu varsayım
+üstü kapalı olarak ve üzerine fazla düşünmeden kabul
+görmüştür. Ama bu konuda ciddi bir biçimde ilerlemek is­
+tiyorsanız, bu varsayımı açığa çıkarmanız gerekir ve böyle
+yaptığınızda da, bunun çok tuhaf bir varsayım olduğunu
+fark edersiniz. Aslında yanlış olduğunu da biliyoruz. İşa­
+ret dillerinin varlığı bize söyleme-algılama sistemlerinin
+dışındaki sistemlerin de, dil yetisinin sağladığı bilgilere
+erişimi olduğunu gösteriyor. O halde, bu genellikle an­
+laşıldığı şekliyle doğru olamaz. Ancak, yine de, tamamen
+yanlış olduğunu bilmediğimizden, genellikle doğru kabul
+ediliyor ve ben de bunu yapmaya devam edeceğim.
+Bu durumda, bir ifadenin bir özelliğine erişimi olan
+duyu-motor sistemleri ve başka bir özelliğine erişimi olan
+kavram-niyet sistemleri vardır. Bu da bir ifadenin iki tür
+simgesel nesneden oluştuğu anlamına gelir. Bu nesneler,
+dil yetisiyle aklın-beynin başka sistemleri arasında bir
+arayüz olarak düşünülebilir. Bu noktada, zihnin mimari­
+siyle ilgili çok kapsamlı birtakım ampirik varsayımlarda
+bulunmuş oluyoruz, ama bunlar akla yakın ve devam et­
+mek için uygun görünüyorlar.
+Arkaplan için bu kadar bilgi yeterli. Ciddi ampirik ça­
+lışmalar için gerekli bir programın temellerine sahipsiniz:
+dil organının yapısını ve ilkelerini anlamaya çalışmak;
+ne tür biçimler (yani diller) alabileceğini, dilin ürettiği
+ifadelerin neler olduğunu ve bu ifadelere birtakım edim
+sistemleri tarafından ne şekilde erişildiği ve onların ne
+
+--- Sayfa 27 ---
+24 • Dilin Mimarisi
+şekilde kullanıldığını bulmaya çalışmak.
+Bunlar, pek çoğu son kırk ya da elli yılda yeni şekil­
+lerde araştırmaya açılmış geniş bir ampirik çalışma alanın
+alt parçalannı oluşturuyor. Hakkında bir şeyler bildiği­
+miz parçalar var, bilmediğimiz parçalar var. Bence çalış­
+manın kendisi, hakkında benzer sorular sorabileceğiniz
+görme sisteminin çalışılmasına çok benziyor. Dolayısıyla,
+maddenin temel parçacıklannı, onlann yapılannı ve bağlı
+olduklan ilkeleri araştıran kimyaya da benziyor diyebi­
+lirsiniz. Doğa bilimlerinin olağan bir parçasının biçimine
+sahip. Onu ilginç kılan ise, insan zihninin genellikle ciddi
+bir çalışmanın çok ötesine geçen yetileriyle ilgili olması.
+Şaşırtıcı şekilde, dil o derece üzerine çalışılmaz görünmü­
+yor; onu çok ilginç kılan özelliklerden biri bu.
+Bu noktada, bütün girişimi ilgilendiren temel sorular
+ortaya çıkıyor; dilin dünyanın geri kalanıyla ilişkisinin
+ne olduğuna dair sorular . . . Dil organı dünyanın bir par­
+çasıdır. Peki dünyanın diğer parçalarıyla nasıl bir ilişki
+içindedir?
+Bu sorular hiç olmazsa Batı entellektüel geleneğin­
+de kök salmıştır (Ben kendi kısıtlarım nedeniyle buraya
+odaklanacağım). Bunlar aynı zamanda çağdaş felsefenin
+de güncel konuları arasında. Bunlar genelde iki biçimde
+oluyor. İlk biçimi (materyalizm, fizikalizm ya da zihin-be­
+den problemi ya da buna benzer bir şey olarak adlan­
+dırılan) şu soru: Dil yetisinin özellikleri fiziksel dünyada
+nasıl gerçekleşir? ikinci biçimi de genellikle amaçsallık
+('bir şey hakkındalık1 sorusu olarak adlandırılıyor: ifade­
+lerin gerçeği nasıl yansıttığı, sözcüklerin nesnelere nasıl
+atıfta bulundukları. Bu, dil ile dünya arasındaki ilişkiyle
+ilgili ikinci soru biçimi.
+Bana göre, bu iki soru da çok uzun zamandır bü­
+yük oranda yanlış anlaşılıyor. Bu konular üzerinde hem
+çağdaş zihin felsefesini hem de geleneksel düşünceleri
+ilgilendiren çok şey söylenebilir. Ben ortada tutarlı ya da
+ifade edilebilir zihin-beden problemi olduğunu düşün­
+müyorum; en azından Newton'dan beri olmadığına ina-
+
+--- Sayfa 28 ---
+Dil ve Dilin Tasanmı • 25
+nıyonım. Dilin gerçeği nasıl gösterdiği sonısuna gelince,
+bence bu sanı yanlış benzetmelere dayanıyor. 7 Her neyse,
+isterseniz bu sanıya geri döneriz. Yalnızca pek çok araş­
+tırmanın yürütüldüğü entellektüel geleneğin bu olduğu­
+nu söyleyip bir kenara bırakacağım.
+İzninizle (çok da zaman kalmadığı için) dil organıyla
+ilgili araştırmanın daha dar sonısuna dönmek istiyonım.
+Daha önce bahsettiğim o varsayımları düşünün. Bundan
+yaklaşık kırk yıl önce, yani çağdaş üretici dilbilim yak­
+laşımının ilk evrelerinde, kısmen kuramsal bilimlerdeki
+gelişmelerden dolayı, bu tarz sanılar geçmişte mümkün
+olduğundan çok daha ciddi bir biçimde araştırılmaya
+başlandı. Çok uzun zamandır sezgisel olarak kavranan
+çok önemli bir özelliği vardır dilin. Klasik bir ifadeyle, di­
+lin sınırlı araçların sınırsız kullanımını içerdiği söylenir;
+yani zihin kesinlikle sınırlıdır ancak her kişinin anlayıp
+kullanabileceği sınırsız sayıda ifade vardır.
+Bunlar apaçık gerçekler ve ortaya çıkan sanı şu:
+Sınırlı araçların sınırsız kullanımı nasıl mümkün ola­
+bilir? Bu yüzyılın başlarına kadar sanıya verilebilecek
+açık genel bir cevap yoktu. Yüzyılın yarısından itibaren
+hesaplanabilirlik ve çözümlenebilirlik [ computability) ku­
+ramı ve bazı başka ilerlemeler bu sonınun en azından
+bazı yönleriyle net olarak cevaplanmasını sağladı. Bu da
+eski sanılara dönmeyi ve onları cevaplamayı deneyebile­
+cek yeterlilikte net biçimler vermeyi mümkün kıldı. Bu,
+bir anlamda dil araştırmalarının geleneksel meseleleri ile
+temel fikirleri açık hale getiren formel bilimlerdeki geliş­
+melerin bir araya gelmesiydi. Bunların bir araya gelmesi
+üretici dilbilim alanının açılmasını mümkün kıldı.
+Ortada büyük bir sanın olduğu hemen fark edildi.
+Üretici dilbilgisine dönük araştırmalar başladığı anda, iki
+ampirik ihtiyaç arasında bir çelişki ortaya çıktı. Bu ihti­
+yaçlardan ilki 'betimlemede yeterlilik' olarak adlandırıldı:
+7 Bu konularda daha yakın zamanlı çalışmalar için bkz. Chomsky 1 993a,
+1 994, 1 995c, 1 999.
+
+--- Sayfa 29 ---
+26 • Dilin Mimarisi
+İngilizcedeki, Hintçedeki, vb. yapılann doğru bir açıkla­
+masını yapmanız gerekir. Ciddi araştırmalar başladığı
+anda en geniş kapsamlı dilbilgisi kitaplannın ve sözlük­
+lerin (Oxford İngili:zce Sözlük, İngilizcenin on ciltlik dilbil­
+gisi gibi şeylerin) yalnızca yüzeyde gezdikleri ortaya çıktı.8
+8 Aşağıdakiler bu tür dilbilgileri tarafından gözardı edilmiş birçok sözdi­
+zimsel olgudan bazılarıdır:
+(a) Birden fazla yorumu olan yapılar: Flying planes can be dangerous,
+'Uçan uçaklar tehlikeli olabilir' ve 'Uçak uçurmak tehlikeli olabilir'; I
+had a book stolen, 'Birisi kitabımı çaldı' ve 'Birisine kitabımı bilerek
+çaldırdım' vs.
+(b) Aynı yapıya sahip gibi duran ama farklı anlamları olduğu için aslın­
+da öyle olmayan yapılar.
+(i) I persuaded John to leave/ I expected John ta leave
+'John'ı ayrılmaya ikna ettim/John'ın ayrılmasını bekledim'
+(ii) the growling ofthe lions/the raising offlowers
+'aslanların kükremesi/ çiçek yetiştirme'
+the shooting ofthe hunters (anlamı muğlak)
+'avcıların avlanmaları/avcılara ateş edilmesi'
+(iii)John is easy ta please/ John is eager ta please
+'John'ı memnun etmek kolaydır/John memnun etmeye hevesli'
+(c) Birbirleriyle çok yakın anlam ilişkileri olan ancak aynı yapıyı paylaş­
+mayan cümleler:
+(i) I expected a specialist ta examine John.
+'Bir uzmanın John'u tedavi etmesini bekliyordum. '
+(ii) I expected John to be examined by a specialist.
+'John'un bir uzman tarafından tedavi edilmesini bekliyordum.'
+(d) Aşağıdaki gibi cümlelerin kabul edilebilirliklerindeki farklılıklar (öz­
+ne-nesne asimetrisi örnekleri):
+*Who does he think that came?
+Who does he think came?
+'Kimin geldiğini düşünüyor?'
+[Dilbilimde • işareti bir tümcenin kabul edilemez olduğunu ifade et­
+mek için kullanılır. Örneğin Ben geldin gibi bir tümcenin kabul edi­
+lemez olduğu, *Ben geldin şeklinde ifade edilir
+çev. notu. J
+(e) Aşağıdaki gibi yapılarda anlaşılan ilişkiler
+John persuaded Mary to go.
+'John Mary'i gitmesi için ikna etti.' (giden kişi Mary)
+John promised Mary ta go.
+'John Mary'e gitme sözü verdi.' (giden kişi John)
+Bu tip dilbilgisi çalışmaları tarafından göz ardı edilen olaylarla
+
+--- Sayfa 30 ---
+Dil ve Dilin Tasanmı • 27
+Bunlar yalnızca, akıllı bir insanın bir şekilde kullanıp dille
+ilgili bilgi alabileceği ipuçlarını içeriyordu. Dillerin betim­
+lemeleri oldukları düşünülüyordu ama öyle değillerdi; son
+derece yüzeyseldiler. İfadelerin gerçek özelliklerinin ne ol­
+duğuna dair net bir betimleme yapılmaya çalışıldığı anda,
+en çok çalışılan dillerdeki en basit yapılar hakkında bile
+çok az şey bilindiği ve çoğu şeyin farkına bile varılmadığı
+açıkça görüldü.
+Bu sorunla başa çıkabilmek için hem bir dil içinde
+hem de diller arasında farklı özellikler taşıyan çeşitli dil­
+bilgisi yapılarından oluşan son derece karmaşık meka­
+nizmaların varsayılması gerekiyormuş gibi görünüyordu.
+Buna işaret eden gözlemsel kanıtlar çok güçlüydü ancak
+bu sonucun doğru olamayacağı da aşikardı.
+Bu çıkarım 'açıklamada yeterlilik koşulu' denilen
+ikinci tür bir ampirik ihtiyaçtan dolayı doğru olamazdı.
+Açıklamada yeterlilik, dil edinimi sorusuna cevap bul­
+makla ilgilidir. 9 Diller bu kadar karmaşık ve farklı ise ve
+dil edinen kişinin yararlanabileceği bilgiler bu denli az
+ise (elbette kişiler şu ya da bu dile özgü olan genetik bir
+programa sahip değildirler) , bu durumda dilin edinilmesi
+bir mucizeye dönüşür. Bu elbette bir mucize değil; bu,
+doğal bir süreç. O halde, gerçekler sizi bu yöne doğru
+itiyor olsa bile, dillerin karmaşıklığı ve çeşitliliğiyle ilgi­
+li çıkarımlar doğru olamaz. Bir başka ifadeyle, diller bir
+şekilde son derece basit ve birbirlerine benzer olmalılar;
+aksi halde, onları edinmek mümkün değildir. Ancak, an­
+lan incelediğinizde, son derece karmaşık, oldukça çeşitli
+ve birbirlerinden tamamen farklı oldukları ortaya çıktı.
+Bu düpedüz bir çelişki gibi görünüyor. En azından
+çok ciddi bir gerilim var ve yaklaşık altmışlardan itiba-
+ilgili pek çok örnek verilebilir. Bu tip örneklerle ilgili olarak bkz.
+Chomsky 1 957, 1965. Sözlükçe öğelerinin standart sözlükler tara­
+fından göz ardı edilen oldukça ilginç özellikleriyle ilgili bir tartışma
+için bkz. Chomsky 1 988, l 993a, 1 996.
+9 Betimlemede ve açıklamada yeterlilikle ilgili temel tartışma için bkz.
+Chomsky 1965, Bölüm 1 .
+
+--- Sayfa 31 ---
+28 • Dilin Mimarisi
+ren alandaki itici güç bu gerilimi çözmeye çalışmaktı.
+Burada bütün geçmişi anlatmayacağım, ancak altmışla­
+nn başından itibaren ortaya çıkan genel yaklaşım doğal
+olandı: kural sistemlerinin genel özelliklerini ve ilkelerini
+soyutlamaya çalışmak, onların dil yetisinin (yani dilin)
+kendi özellikleri olduğunu varsaymak, bunu yaptıktan
+sonra geriye kalanın göründüğünden daha az karmaşık
+ve daha az çeşitli olduğunu göstermek. Altmışların ba­
+şından itibaren bunları yapma çabaları vardı; o dönem
+alanda olanlarınız bunların ne olduğunu bilirler. Onlar
+hakkında daha fazla konuşmayacağım. 10
+Her neyse, yaklaşık yirmi yıl boyunca, bu yönde
+çeşitli çalışmalar yapıldı ve çok da ilerleme kaydedildi.
+Bu çalışmaların pek çoğu seksenlerde, bugün 'İlkeler ve
+Parametreler Yaklaşımı' denilen tutarlı bir yaklaşım nok­
+tasında birleşti. Bu, birkaç bin yıllık dilbilim araştırma­
+larından kökten bir kopuştu. Bu kopuş, Üretici Dilbilgisi
+yaklaşımının gelenekten kopuşundan bile daha büyük­
+tü. 1 1 Üretici Dilbilgisi'nin kendisi, zamanın popüler yapı­
+salcı-davranışçı yaklaşımlarından çok farklıydı ama yine
+de geleneksel dilbilgisini andıran özellikler taşıyordu. Pek
+çok yönden geleneksel dilbilgisinin antılmış bir biçimine
+benziyordu.
+Öte yandan, ilkeler ve paraıııetreler yaklaşımı tama­
+men farklıydı. Hiçbir kural ya da dilbilgisi yapısı olmadı­
+ğını varsayıyordu; yani Japoncadaki ilgi tümceciği kuralı
+ya da Almancadaki eylem öbeği kuralı gibi kurallar yoktu.
+Bunlar sadece 'karada yaşayan hayvanlar' ifadesinin ger­
+çek olduğu anlamda gerçekti; yani sadece yapay sınıflan­
+dırma kategorileri olarak. 'Karada yaşayan hayvanlar' bi­
+yolojik bir kategori değildir, yalnızca sınıflandırma amaçlı
+bir kategoridir. Geleneksel dilbilgisinden üretici dilbil­
+gisine geçmiş olan kurallar ve dilbilgisi yapıları da aynı
+anlaıııda sadece sınıflandırma aıııaçlı yapay kategorilerdi.
+ıo Bkz. Chomsky ve diğerleri 1 982.
+1 1 Bu noktanın açık bir ifadesi için bkz. Chomsky 1 99 1 .
+
+--- Sayfa 32 ---
+Dil ve Dilin Tasanmı • 29
+Göründüğü kadanyla, gerçek olan, dil yetisinin özel­
+liklerini oluşturan genel ilkeler ve adına 'parametreler'
+denilen ufak değişiklik seçenekleri olması. İlkeler, bütün
+diller ve dilbilgisi yapılan için geçerli. O halde, ilgi tümce­
+cikleri ya da başka yapılar için özel ilkeler yok. Paramet­
+relere dayalı farklılıklar ise sınırlı bir alan oluştumyor;
+eğer doğm ise, parametrelere uygun olan yalnızca sınırlı
+sayıda dil var demektir. Dahası, bu farklılıklar dilin bazı
+küçük kısımlarında toplanmışa benziyor: sözlükçenin
+bazı kısımları ve duyu-motor arayüzünün bazı yan özel­
+likleri. Bunların mamz kalınan dilbilgisi verilerinden ko­
+laylıkla çıkarılabileceğini umabiliriz.
+Bu ilkeler ve para ıııetreler yaklaşımı belli bir kura 111
+değildir; daha çok bir tür kuramsal çerçeveye benziyor. Bu
+dille ilgili düşünmenin bir yolu ve en azından genel olarak
+doğm yapıyı taşıyan ilk çerçevedir; yani 'açıklamada yeter­
+lilik' ile 'betimlemede yeterlilik' arasındaki gerilimi çözme­
+ye çalışmaktadır. Tutarlı ilkelerin dilin genel karakterini
+göstermeye yeterli olduğu ve diller arasındaki yüzeysel
+aynmlann parametrelerin şu ya da bu şekilde belirlenme­
+sinden ibaret olduğu gösterilebilirse bu gerilimi çözebilir.
+Bu adeta çocuğun dil edinimi olayına 'cevaplamam
+gereken şu kadar som var' diyerek elinde bir anket for­
+muyla gelmesi ve bu somların her birinin çok basit veriler
+ışığında cevaplanabilir olması gibi. Cevaplan girip doğa­
+mın bir parçası olan ilkeleri kullandığımda, ortaya Ja­
+ponca çıkıyor; bunun gibi bir şey. 12 Yüzeysel bakıldığında
+12 Chomsky bu fikri açıklamak için genellikle şu tip görselleştirici bir
+benzetme kullanıyor:
+Dil yetisinin başlangıç durumunu, açma kapama düğmeleri olan bir
+kutuya bağlanmış bir ağ olarak düşünebiliriz. Bu ağ, dilin ilkelerinden
+oluşmakta ve açılabilir ve kapanabilir düğmeler, deneyim tarafından
+belirlenmesi gereken seçenekler durumunda. Bu düğmeler belli bir
+şekilde açık ya da kapalı bırakıldığında, Bantu dili çıkıyor ortada. Bu
+farklı bir şekilde yapıldığında ortaya Japonca çıkıyor. Her bir insan
+dili bu düğmelerin belli bir şekilde bırakılmasının bir sonucu olarak
+düşünülebilir (Chomsky 1 997, Bölüm!, sayfa 6).
+
+--- Sayfa 33 ---
+30 • Dilin Mimarisi
+sanki diller birbirlerinden çok farklıymış gibi görülebilir
+ama bu bizim ilkeleri bilmememizden kaynaklanmakta­
+dır. İlkeleri bulduğunuzda ise, onların gerçekten de ne­
+redeyse aynı olduğunu ve aralarındaki farkların oldukça
+yüzeysel olduğunu farkedersiniz.
+Ortaya çıkan resim az çok buydu. Araştırmada çok
+büyük bir patlamaya ve hem betimleyici hem de kuram­
+sal çalışmaların çoğalmasına yol açtı. Çok farklı yerlerden
+tipolojik olarak birbirinden farklı çok sayıda dilin birlikte
+çalışılmasını sağladı. Çok fazla değişim içinde olduğunu
+söylemem gerekiyor, ama sanırım dil çalışmaları tarihin­
+de dille ilgili bu kadar çok şey öğrenilen başka bir dönem
+olmamıştır.
+Dilin doğasıyla ilgili daha yeni ve ilkelere daha çok
+dayanan sorular sormak da mümkün oldu. Yetinmeci
+Çizgi işte bu noktada devreye giriyor. Belki de tarihte ilk
+defa dilin ne olabileceğiyle ilgili bir fikrimiz var. ıJ Böyle
+olunca da baz1 yeni sorular sormak mümkün oluyor.
+Dil yetisine atfettiğimiz özelliklerin ne kadarının am­
+pirik kanıtlarca güdülendiği, ne kadarının ise kavradık­
+larımızdaki boşlukları doldurmak ve veriyi işe yarar bir
+şekilde ifade etmek için kullandığımız teknik analiz biçi­
+mince güdülendiği sorusunu sorabilirsiniz. Bu tip sorular
+bilimlerde genellikle hep doğru sorulardır. Ancak bunlar
+genellikle sorulmaya ya da teknik analiz sürecinde çok
+keskinleştirilmeye değmeyen sorulardır. Sebebi de mev­
+cut kavrayışımızın çok sınırlı olmasıdır. Bu doğa bilimle­
+rinde de böyledir. Onların tarihlerine baktığınızda -fiziğin
+ya da matematiğinkine örneğin- çok yakın zamanlara
+kadar, bu tip sorular hiç sorulmuyordu. Örneğin, klasik
+matematiğin büyük bölümü, on dokuzuncu yüzyıla ka­
+dar, çelişkili oldukları bilinen varsayımlara dayanıyordu;
+bu çelişkileri çözecek derinlikte bir kavrayış yoktu. İn-
+13 ilkeler ve parametreler çerçevesinin önemiyle ilgili olarak bkz. Chomsky
+ve diğerleri 1 982. Daha yakın zamanda yapılmış bir tartışma için bkz.
+Chomsky 199Sb'nin ilk bölümü.
+
+--- Sayfa 34 ---
+Dil ve Dilin Tasanmı • 3 1
+sanlar, yeni keşiflere, fikirlere, kavrayışlara vb. yol açtığı
+için bu şekilde çalışmaya devam etti. Aynısı fizik ve kimya
+için de geçerli. Bundan dolayı bu sorular genellikle doğru
+ve uygun olsalar bile, genellikle sorulmaları için henüz
+erkendir.
+Yetinmeci Çizgi'nin bir özelliği de bu soruların tek­
+nik analizde de artık uygun sorular olduğu ve işe yarar
+şekilde araştırılabileceği görüşüdür; yani şu noktada
+teknik analizde kullandığımız betimleyici araçların hangi
+kısımlarının gerçekten ampirik olarak gerekli olduğunu
+ve hangilerinin kavrayış eksikliğimizden kaynaklı olarak
+dil verilerine bir açıklama getirebilmek için kullanmak
+zorunda kaldığımızı sorabiliyoruz. Bu sorunun bir cevabı
+var. Bu soruyu sormanın doğru zamanı şu an mıdır pek
+kesin değil, fakat ilkesel olarak bu sorunun bir cevabı
+olduğunu biliyoruz.
+Ayrıca Yetinmeci Çizgi, ilkesel olarak bile cevaplan­
+ması imkansız olabilecek ya da cevabı olsa bile onu bul­
+ma zamanı gelmemiş olma ihtimali olan bir soruya daha
+dayanıyor. Bu daha ince bir soru. Soruyu şu şekilde
+sorabilirsiniz: Dil, zihnin mimarisi tarafından kendisine
+dayatılan koşullar göz önüne alındığında, ne kadar iyi
+bir çözümdür? Dil organı belli bir mimarisi olan bir zihin
+sisteminin içinde yer alıyor; bu sistemle birtakım arayüz
+ilişkileri var. Bir anlamda onlara bağlanıyor. Buradaki
+varsayım, daha önce bahsetmiş olduğum iki arayüzün
+olması. Bu arayüzler, sistemin nasıl olması gerekliğiyle
+ilgili birtakım koşullar dayatıyor. Dil, bu dışsal varsa­
+yımlar tarafından dayatılan koşullara ne ölçüde iyi bir
+çözümdür?
+Dilin kökeniyle ilgili olarak en başta anlattığım masa­
+la geri döneyim. Ortalıkta dolaşan bir primat düşünelim/
+varsayalım. Dil organına sahip değil, fakat bizim beyni­
+mize ve diğer organlara benzer bir şeyi var. Buna ek ola­
+rak bizimki gibi bir duyu-motor sistemine ve dil olmadan
+mümkün olduğu ölçüde aşağı yukarı bizim kadar düşü­
+nebilmesini sağlayan, bizimkine benzer bir kavram-niyet
+
+--- Sayfa 35 ---
+32 • Dilin Mimarisi
+sistemine sahip olsun. Ama diyelim ki dili yok, bu neden­
+le dilin varlığıyla mümkün olan düşünceleri kendine bile
+ifade edemiyor.
+Diyelim ki rastlantısal bir olay, dil yetisinin bu pri­
+matın beyninde oluşmasına neden olur ve bu yeti -du­
+yu-motor ve kavram-niyet sistemleri diyebileceğimiz- hali
+hazırda mevcut olan edim sistemleri tarafından kullanı­
+labilen sonsuz ifade üretme olanağına sahip. Kullanılır
+olabilmesi için, dil yetisinin ürettiği ifadeler (en azından
+bir kısmı) dış sistemler tarafından okunabilmelidir; yani
+duyu-motor sistemi ve kavram-niyet sistemi bu ifadelere
+giriş yapabilmeli, bunları 'okuyabilmelidir'. Aksi takdirde
+sistemler dil yetisinin orada olduğunu bile bilemezler.
+Primatların, örneğin gorillerin ya da her ne ise on­
+ların, insanın dil yetisine benzer bir şeye sahip olduğu,
+fakat buna giriş yapamadıkları düşüncesi, son derece
+düşük bir ihtimal olsa bile anlaşılabilir bir düşüncedir.
+Yani ne fena, okunabilirlik koşulları yerine getirilmemiş.
+Belki de insanlarda değişen şey, dil yetisinin okunabi­
+lirlik koşullarını yerine getirmeye başlamasıdır. Bunun
+doğru olmadığına ve dil yetisinin ortaya çıktığında daya -
+tılan okunabilirlik koşullarını yerine getiren kullanılabilir
+bir sistem olduğuna emin olabiliriz.
+O zaman, dilin ne kadar iyi bir tasarım olduğunu so­
+rabiliriz. Doğanın yasaları, belli bir 'mühendislik sorunu­
+na', yani ifadelerin okunabilirlik koşullarından kaynakla­
+nan bir mühendislik sorununa, en uygun çözümü bulma
+konusunda ne kadar iyidirler? Bu anlamlı bir sorudur
+ve son derecede somut hale getirilebilir. Ancak buna ve­
+rilebilecek ilginç bir cevap olduğunu düşünmek için bir
+neden yok. Dilin bu sorun için çok kötü bir çözüm oldu­
+ğu sonucu çıkabilir ortaya. Bu hiç şaşırtıcı olmayacak­
+tır. Biyolojik sistemler genelde böyledir; doğa tarafından
+dayatılan birtakım tasarım sorunlarına bulunmuş kötü
+çözümlerdir. Belli bir durumda evrimin sunabildiği en iyi
+çözüm olsalar bile genellikle biçimsiz ve dağınık çözüm -
+lerdir.
+
+--- Sayfa 36 ---
+Dil ve Dilin Tasanmı • 33
+Bunun neyi içerdiğine bir bakalım. İstediğiniz cüm­
+leyi alın, hala çok iyi anlaşılmamış eski bir örneği ele
+alalım: John had a book stolen14 İngilizcedeki bu cümleyi
+düşünün. Benzer dillerde pek görülmeyen bazı şaşırtıcı
+çok anlamlılıklar15 da dahil olmak üzere pek çok özellikler
+var. Neden böyle olduğu pek anlaşılmış değil; zaten bu
+yüzden de bayat bir fıkra gibi otuz yıldır tekrarlanage­
+len eski bir örnek bu. Bu cümlenin ses özellikleri ve an­
+lam özellikleri var; çeşitli çok anlamlılıklar ve ses-anlam
+bağlantıları var. Bundan tamamen farklı olarak başka
+özellikleri de var. Çeşitli anlamlannın edinilme sırasına,
+çeşitli beyin zedelenmelerinde bazı anlamlann yitirilmesi­
+ne, algısal erişime vb. ilişkin özelliklere sahip.
+Tanımı gereği, bu ifadeyi üreten dil bütün bu tür am­
+pirik koşullara bir çözümdür. Rasyonel araştırma bütün
+bu ampirik koşulları sağlayan en iyi kuramı bulmaktır;
+işin doğası bu. Eğer oyunu böyle oynamazsanız, bilim
+yapmıyorsunuz demektir. Yani tanımı gereği, dil bütün
+ampirik koşullara bir çözümdür ve biz de bu çözümün en
+iyi kuramını bulmak istiyoruz.
+Ancak burada farklı bir soru soruyoruz. Burada aı11pi­
+rik koşullann sadece belirli bir alt parçasına, yani dış sis­
+temlerin ifadeye giriş yaparken ihtiyaç duyduğu okunabi­
+lirlik koşullanna bakıyoruz. Örneğin, duyu-motor sistemi
+bir ifadenin belli bir za ıııan sırası olmasını zorunlu kılıyor
+(bu kesinlikle mantıksal bir zorunluluk değildir; sadece
+duyu-motor sistemlerinin ancak zaıııan içinde akan şey­
+lerle iş görebilecek şekilde oluşmuş olmasından kaynak­
+lanmaktadır) . Belli ses özelliklerine ve ritmik örüntülere
+ihtiyaç duyması duyu-motor sistemlerimizle ilgili bir olgu­
+dur. Eğer bir ifadenin bu tip özellikleri yoksa, duyu-motor
+1 4 Bu cümlenin çeşitli anlamlan için 1 5 nolu dipnota bakınız
+çev. notu.
+1 5 ilgili cümle şu anlamlan ifade etmek için kullanılabilir: (a) 'birisi
+John'un kitabını çaldı. ' (b) 'John birine kitabını çaldırdı. ' (c) 'John
+kitap çalmayı neredeyse başanyordu. ' Bununla ilgili olarak bkz.
+Chomsky 1965: 22.
+
+--- Sayfa 37 ---
+34 • Dilin Mimarisi
+sistemi onu 'okuya ıııaz', algılaya ıııaz, dışanya çıkara ıııaz.
+Hakkında pek bir şey bilmediğimiz kavraııı-niyet sistemle­
+ri ise sözcükler, öbekler ve onlar arasındaki çeşitli ilişkiler
+vb. ile ilgili bilgilere gereksinim duyacaklar. 16 Bunlara ek
+olarak ses-anlam ilişkileri de var a ı ııa bunlar okunabilir­
+lik koşullannın ötesine geçiyor. John had a book stolen
+cümlesinin birden fazla anlam taşıması, onu oluşturan
+öğelerin arayüzlerde okunabilmesinden kaynaklanmıyor.
+O halde, ses-anlaııı ilişkileri her ne ise, bunlar birtakım
+edim sistemleri tarafından erişilebilmesinin, doğru ses ve
+anlaıııla ilgili gösterimlerinin olmasının, arayüz gösterim­
+lerinin olmasının ötesinde bir şeyler içeriyorlar.
+Eğer insan dili bu güçlü anlamıyla mükemmel bir
+sistem ise, bahsettiğim cümlelerdeki ses-anlam ilişkileri
+ya da herhangi bir dildeki herhangi bir tümcedeki bu gibi
+ilişkiler, okunabilirlik koşullarına en uygun çözüm olma­
+sından kaynaklanıyor denebilir. Bu, bütün dillerdeki bü­
+tün ifadeler için ve ifadelerin bütün ampirik özellikleri için
+1 6 Kavram-niyet sistemleri Mantık Yapısı da denilen bir dilbilim düze­
+yindeki bilgilere giriş yapabiliyor. Üye (argüman) yapıları, sözlükçe
+öğeleri, yer değiştirme sonrası oluşan zincirler bu düzeyde okunabi­
+len dil bilim nesneleri. Chomsky 199 1 'de Mantık Yapısı'nda bulunan
+nesneleri aşağıdaki gibi listelenmiştir:
+1 . Üyeler (Argümanlar), başı ve kuyruğu (yani üstteki ve alttaki izi)
+Üye-Konumlarında bulunan Üye Zincirleri. Kuyrukta (yani alttaki
+iz) rol ilişkisinin, başta (yani üstteki iz) durum ilişkisinin belirlendiği
+konumlardır.
+2. Yan Ôğeler, üye üssü zincirleri tarafından belirlenen, başı ve kuyru­
+ğu üye üssü konumlannda bulunan zincirler.
+3. Sözlükçe Ôğeleri, X-baş konumunun üzerinde başatlık kurmuş ol­
+duğu öğeler.
+4. Yüklemler, yüklem yükselmesi ya da eylem öbeği yer değiştirmesi
+varsa, muhtemel yüklem zincirleri.
+s. lşleyici-dcğişken (operator-variable) yapılan, işleyicinin üye üssü ko-
+numunda değişkenin üye konumunda bulunduğu ikililer.
+Bunlar okunabilir Mantık Yapısı nesneleridir. Aynı şekilde Ses Yapısı
+tarafından da kabul edilen nesneler var. Tam Yorumlanabilirlik ilkesi,
+sadece uygun nesnelerin bu düzeylerde yer alabileceğini ifade eden bir
+ilkedir. Bu konuda ayrıca bkz. Chomsky 1 995b Bölüm 2.
+
+--- Sayfa 38 ---
+Dil ve Dilin Tasanmı • 35
+geçerli olacaktır. Sadece okunabilirlik koşullannın yerine
+getirilmesiyle ilgili en iyi kuram, bütün diğer koşullan da
+işin içine kattığınızda hfila en iyi kuram olacaktır. Başka
+ampirik koşulları da eklediğinizde, onu değiştirmenize
+gerek kalmayacak.
+Binlerce yıldır, dil çalışmalan dilin özelliklerini bulmak
+için en azından ses-anlaııı ilişkilerini kullanmanız gerekti­
+ğini varsaydı. Bütün araştırmalar bunu varsayar. Ama biz
+şu anda taı11 da bu varsayımı sorguluyoruz. Yani okuna­
+bilirlik koşullannı anla ı11a ıııız durumunda, ses-anla 111 iliş­
+kilerinin bunlann bir sonucu olduğunun düşünülebileceği
+olasılığını göz önüne alıyoruz. Belli dillerin özelliklerine ka­
+rar verirken onlara kanıt olarak ihtiyacımız olmazdı ve bu
+çok sayıda başka aıııpirik gözlemler için de geçerli olurdu.
+Bu son derece ilginç. Biyolojide bu anlamda bir mü­
+kemmel tasarımın mümkün olabileceğine dair hemen
+hiçbir şey yok. Yine de, dilin çok ilgi çekici bir anlamda
+mükemmele yakın olabileceğini düşünmemiz için sebep­
+ler var; yani bazen, 'yalın çıktı koşullan'17 da denilen oku­
+nabilirlik koşullarına en uyguna yakın bir çözüm olma
+ihtimali var. Bu kısmen bile doğru çıkarsa, son derece
+şaşırtıcı ve bir o kadar da ilginç olur.
+Mükemmellikten uzaklaşma gibi görünen noktaları
+tespit etmek ve bunları incelemek de son derece ilginç.
+Yetinmeci Çizgi, bunun da ciddi bir soru olduğu varsayı­
+mına dayanır. İncelememiz gereken aşağıdaki gibi sezgi­
+ler çıkıyor ortaya. İlk olarak, dille ilgili varsayımlarımızı,
+bunlann deneysel olarak haklı gösterilebilir şeyler mi
+yoksa sadece kavrayıştaki eksiklikleri belirsizleştiren bir­
+takım teknik araçlar mı olduğunu bulabilmek için yakın
+1 7 Örneğin bir cümlede bir öbeğin öne çıkarılması gerekliliği: jish, I like
+'balığı, ben severim' cümlesindeki fish 'balığı' öbeği gibi. Eylem Öbeği
+içi Özne Savı düşünüldüğünde (dipnot 30'a bakınız) hem jish 'balığı'
+hem de 1 'ben' Eylem Öbeğinin içinde üretiliyor ve Eylem Öbeğinin
+dışına taşınıyor. Fish 'balık', cümlenin konusu haline getirilmek üze­
+re taşınmış durumda. 1 'ben'in yer değiştirmesi ise, bu noktada bizi
+ilgilendirmiyor.
+
+--- Sayfa 39 ---
+36 • Dilin Mimarisi
+bir incelemeye tabi tutanz. İkinci olarak, okunabilirlik
+koşullarını yerine getirmekle ilgili kavramsal doğallığın
+dışında kalan kusurlar bulduğumuzda, bu kusurun
+varlık nedeninin anlaşılabilir olup olmadığı sorusunu
+sorarız. Her iki durumda da (okunabilirlik koşullan­
+nı düşündüğümüzde) bir varsayımın kavramsal olarak
+gerekli olmadığı sonucuna vardığımızda yaptığımız şey,
+o varsayımı yapmayan en azından aynı doğrulukta bir
+başka açıklamanın var olduğunu göstermeye çalışmak­
+tır. Daha da hırslıysak, bu varsayımdan vazgeçtiğimizde
+daha da iyi bir açıklama olduğunu göstermeye çalışırız;
+yani daha mükemmel bir tasarıma yaslanıp bu fazladan
+teknik araçlardan vazgeçtiğimizde, daha geniş ampirik
+bir alana daha derin bir açıklama getirdiğimizi gösterme­
+ye çalışırız. Temel olarak program budur.
+Bu programı takip ettiğimizde, şöyle sorunlarla kar­
+şılaşıyoruz. Öncelikle, daha önce inanılanın aksine, ara­
+yüz düzeyleri (ses ve anlam gösterimleri) dışında hiçbir
+düzey olmadığını göstermek zorundasınız. Başka hiçbir
+düzeyin olmaması gerekiyor; çünkü bu düzeyler okuna­
+bilirlik koşullan tarafından güdülenmemektedir. Onun
+için bunların kavrayıştan gelen bir eksikliği karşılayan
+teknik araçlardan ibaret olduğunu göstermek istersiniz.
+Onlardan vazgeçtiğinizde, daha iyi açıklamalar elde eder­
+siniz; teknik anlamda derin yapı ya da yüzey yapı gibi
+şeyler yok ve geçmişte bu düzeylere atıfta bulunarak ya­
+pılan bütün açıklamalar yanlış anlaşılmış ya da yanlış
+betimlenmişti. Bu, arayüz düzeyleriyle doğru olarak yo­
+rumlanır. Bu cidden büyük bir iş. Daha da teknik olarak,
+yansıtma ilkesinin yanlış olduğunu, 18 Bağlama ve Durum
+1 8 Yansıtma ilkesi, Chomsky 1 98 1 'de şu şekilde ifade edilmiştir:
+Her sözdizim düzeyindeki (Mantık Yapısı, Derin ve Yüzey Yapıları) gös­
+terimler (representasyonlar) sözlükçe öğelerinin altulamlama !seçtikleri
+öğelerin ulamlarını/kategorilerini belirleme ç.n.J özelliklerini gözetmeleri
+yönüyle sözlükçcden yansıtılmaktadır.
+Sözlükçe öğelerinin altulamlama özelliklerine örnek vermek gerekirse,
+
+--- Sayfa 40 ---
+Dil ve Dilin Tasanmı • 37
+Kuramları'nın daha önce iddia edildiği gibi yüzey yapıda
+işlemediğini ı 9 ve buna benzer başka pek çok noktayı gös­
+termek zorundasınız.
+Başa çıkılması gereken ikinci bir sorun da 'özellikler'
+denilen bazı birimlerin toplamı olan sözlükçe öğelerinin,
+arayüzlerde yorumlananlar dışında hiçbir özellik taşıma-
+vurma eylemi dolaysız nesne olarak bir ad seçmelidir (vurulan şey),
+ölmek eylemi hiçbir şey seçmemeli, vermek eylemi ise iki adet ad öbeği
+seçmektedir (verilen kişi ve verilen şey).
+Bu ilke, her cümlenin bir öznesi olması gerektiği ilkesiyle genişle­
+tildi ve adına 'Genişletilmiş Yansıtma İlkesi' dendi (Chomsky, 1 982).
+Sonraları bu ek gereklilik, GYI olarak adlandırılmaya başlandı. Dilbil­
+gisinin, derin ve yüzey yapılanndan vazgeçen ve anlamsızlıklar üreten
+Mantık Yapıları'na da izin veren Yetinmeci kavranışında, bu ilkenin ilk
+haline yer yok (Chomsky, 1995b Bölüm 3). Genişletilmiş biçimi ise ar­
+tık farklı bir şekilde ele alınıyor: çekimleme (zaman) öbeğinin başöğesi,
+cümlenin bir özneye sahip olmasını zorunlu kılan 'güçlü' bir özelliğe
+sahip. Teknik ayrıntılar için bkz. Chomsky J 995b: 232.
+1 9 Bağlanma Kuram'ı, artgöndergelerin ('kendisi', 'birbirleri' gibi iradele­
+rin) öncül adıllar tararından belirlenmesini, bir cümle içindeki hangi
+öncüllerin 'ben', 'sen', 'o' gibi adıllara gönderimde bulunamayacağını,
+ve Gönderge birimlerinin (Ahmet, kııııı zılı kadın gibi iradelerin) öncül­
+ler tarafından bağlanmaması gerektiğini ifade eden kuramdır.
+Durum Kuramı (Soyut Durum Kuramı), iki bölümden oluşmaktadır:
+(a) (Soyut) durum eklerinin ses olarak ifade bulan ad öbeklerine akta-
+rılması. Ancak Chomsky ( 1 986) ADIL'ın, ses olarak ifade edilmese
+bile durum bilgisine sahip olduğunu iddia etmiştir. ADIL, mastar
+yapılarında anlaşılan özneye verilen isimdir. Ahmet [[ADIL} eve git­
+mek/ istiyor gibi bir cümle örnek olarak verilebilir. Burda gitme ey­
+leminin de isteme eyleminin de anlaşılan öznesi aynıdır. [ ... [ adılın
+içinde bulunduğu yapıyı ifade etmek için kullanılmıştır.
+(b) Durum eki almamış bir ad öbeği içeren bir cümlenin kabul edile-
+mez olması (Durum Süzgeci).
+Bu koşulların, yüzey yapıda işledikleri varsayılıyordu. Ancak Yetin­
+meci Çizgi, yüzey yapıyı ortadan kaldırdı. Durum Denetlemesi ve art­
+göndergelere öncüllerin aktarılması başka yerde yapılıyor. Bağlaı1ma
+Kuramı'nın görevleri Mantık Yapısı'nda işliyor. Ad Öbekleri zaten du­
+rum ekleriyle beraber sözdizim sistemine girdiklerinden artık Durum
+atamasına gerek yok. Durum Süzgeci, Durum Denetlemesinin sözdi­
+zim sürecinde yapılmasını zorunlu kılan bir arayüz koşulu olarak dü­
+şünülüyor. Bu gibi konular için bkz. Chomsky J 995b: Bölüm 3.
+
+--- Sayfa 41 ---
+38 • Dilin Mimarisi
+dığını ve işlemleme sırasında hiçbir yeni öğenin eklenme­
+diğini göstermek. Bu da demek oluyor ki kişi bilgilerini
+ifade eden işaretler ya da Aşamalı X Kuramı'na dayanan
+hiçbir öbek yapısı yok; bunlardan kurtulmamız gerek.
+20
+Aşamalı X Kuramı'ndan, kişi bilgilerini ifade eden imler
+ve buna benzer araçlardan kurtulduğumuzda, sadece
+aynı düzeyde değil daha iyi bile olan çözümler bulduğu­
+muzu gösterebilmemiz gerekir. Bu da ikinci büyük görev.
+Üçüncü büyük görev de (yakınlık, Rol yapıları ve Man-
+20 Altsimgeleme, üstsimgeleme, eşdizinleme Yönetim ve
+Bağlanma
+Kuramı'nda önemli bir rol oynar. Bağlanma ilişkileri ortak altsimgele­
+me ile ifade edilir ve bağlanma olmayan ilişkiler ve özne-yüklem uyu­
+mu üstsimgelemeyle belirtilir. Kişi bilgileri (indeksler) sözdizim süre­
+cinde nesnelere eklenir. Aynntı için bkz. Chomsky 1 98 1 .
+Öbek çok temel bir sözdizim öğesi olarak düşünülür. Yönetim ve
+Bağlanma Kuramı'na göre (YB), geleneksel dilbilgisinden alınan aşağı­
+daki listenin hepsi bir tür öbektir: ana cümlecikler, eşbağımlı ve yan
+tümceler, öbekler ve tekil kelimeler (Ahmet ya da ben, sen, o gibi).
+ADIL da bir öbek türüdür. Çağdaş üretici dilbilgisinin ilk modellerin­
+de, öbek yapısı kuralları öbeklerin iç yapısını belirlemekteydi. Üretici
+dilbilgisinin bazı çeşitleri, örneğin Sözlükçü işlevci Dilbilgisi, hala bu
+şekilde işlemektedir. Öbek yapısı kurallannın tamamen ortadan kaldı­
+rılmasına çalışıldı ve YB Kuramı'nda bundan geriye kalan şey Aşamalı
+X Şeması'dır.
+Aşamalı X Kuramı altmışlann sonlarında ortaya atıldı. Bu kuramın
+önemli bir işlevi bütün öbeklerin iç yapılannın baş, belirleyici ve tüm­
+leyen olmak üzere aynı yapıdan oluştuğunu göstermekti. Bu şemada,
+bir öbek, ilgili başın büyükçü! yansımasıdır. Örneğin şehrin yıkımı
+öbeği yıkım baş öğesinin, büyükçü! bir yansımasıdır; şehri yık-mak
+eylem öbeği eylem başının (yık-mak) büyükçü! bir yansımasıdır (ve
+bu şekilde her öbek bir baştan yansıtılır.) Başlann öne gittiği diller,
+başlann tümleyenlerden önce geldiği dillerdir. (Hintçe gibi) başların
+sona gittiği diller, tümleyenlerin başlardan önce geldiği dillerdir. Baş­
+lann öne geldiği bir dildeki herhangi bir öbeğin yapısı aşağıdaki gibi
+gösterilebilir.
+lx· BELiRLEYiCi lx· lx BAŞ] TÜMLEYEN]]
+Aşamalı X Şeması, Aşamalı X Kuramı tarafından sağlanan bir tür
+şablon olarak düşünülebilir. Öbek yapısı kurallannın uymak zorunda
+olduğu bir kısıtlamadır. Aynntılar için bkz. Chomsky 1 972b. Aynca
+bkz. Aşamalı X Kuramı'ndan kurtulma fikrinin uygulamaya konduğu
+Chomsky 1 995a.
+
+--- Sayfa 42 ---
+Dil ve Dilin Tasanmı • 39
+tık Yapısı'ndaki etki alanı da dahil olmak üzere) okuna­
+bilirlik koşullan tarafından dayatılan ya da yapı üretme
+sürecinin kendisinde doğal bir biçimde ortaya çıkanlar
+dışında hiçbir yapısal ilişkinin olmadığını gösteı ıııek. Bu­
+yuı ıııa ilişkisini düşünelim. 21 Buyuı ıııa ilişkisi iki yapıyı
+bir araya getirdiğinizde ve bunlardan biri diğerinin için­
+deki parçalarla ilişkiye girdiğinde ortaya çıkan bir özellik.
+Birleşme ilişkisine maruz kalan öbek artık görülebilir ol­
+madığı için, kimin kimi buyruğu altına alacağını çıktı ko­
+şullarına bakarak bilebilirsiz (bahsettiğim şeyi bilmeyen
+insanlar için bu söylediklerim hiçbir şey ifade etmeyecek).
+Buyuı ıııa ilişkisini bu kavra rıılarla açıklayabilirsiniz, onun
+için o da kabul edilebilir bir ilişkidir. Bir baş öğeyle ilgili
+yakınlık içeren ilişkiler de kabul edilebilir ilişkilerdir a rııa
+büyük ihtimalle hepsi bu kadar. Bu demektir ki yönetim
+ilişkisi, taııı yönetim ilişkisi,22 dile içkin bir Bağlanma Ku-
+2 1 K(urucu)-Buyurma, hiyerarşik bir yapıda bulunan iki nesne arasında­
+ki bir ilişkiye verilen addır. Literatürde bu ilişkinin birden fazla tanımı
+vardır. Bunlardan biri aşağıdaki gibidir:
+Ancak ve ancak a'ya başatlık kuran her büyükçü! öbek b'ye de
+başatlık kurmakta ise, a nesnesi, b nesnesini k-buyuı ıııaktadır.
+Aşağıdaki gibi bir yapıda eylem, ad öbeğini ve ilgeç öbeğini k-buyur­
+maktadır.
+!,,
+.. I,;• E AÔ] lô]
+Eylemin sadece ad öbeğini k-buyurduğu tanımlar da vardır.
+22 Yönetim ve tam yönetim bir ağaç gösterimindeki iki nesne arasındaki
+yapısal ilişkilerdir. ilki, bağlanma ve durum kuramlarında kullanılan
+bir yakınlık ilişkisidir. ikincisi ise yer değiştirmiş öbeklerin arkada bı­
+raktıkları kopyalarının uyması gereken bir kısıttır.
+Tanımlar:
+Yönetim: Ancak ve ancak aşağıdaki üç koşul sağlanıyorsa a, b'yi yö­
+netmektedir deriz. ( 1 ) a b'yi k-buyurmaktadır (2) a bir baştır (3) b'ye
+başatlık kuran her büyükçül öbek a'ya da başatlık kurmaktadır.
+Tam Yönetim: Ancak ve ancak aşağıdaki iki koşul sağlanıyorsa a b'yi
+tam yönetmektedir deriz. ( 1 ) a b'yi yönetmektedir ve a sözlükseldir ve
+(2) a yakınlık ilişkisi içindeki b'yi üye üssü bir durumda bağlamaktadır.
+Ayrıntılar için bkz. Chomsky 1 98 1 , 1 986b ve Lasnik ve Saito 1 984. Ye­
+tinmeci Çizgi'de bu kavramlara artık ihtiyaç yok. Daha temel yakınlık
+ilişkileri, belirleyici baş, baş tamlayan gibi ilişkiler, yönetim kavramını
+
+--- Sayfa 43 ---
+40 • Dilin Mimarisi
+raırıı ya da başka türlü ilişkilerin hiçbiri yok. Dil mükem­
+mel olduğu ölçüde bunlardan kurtulmaı11ız gerekiyor.
+Teknik literatürü bilenler (sanırım şu ana kadar pek
+çok dinleyiciyi kaybettim ama ilerlemenin başka bir yolu­
+nu bulamıyorum) bahsettiğim her konuda karşıt çıkarımı
+destekleyen sayısız kanıt olduğunu biliyorlar. Dahası,
+son zamanlarda yapılan son derece verimli pek çok ça­
+lışmanın -ve onların son derece etkileyici başarılarının­
+temel varsayımları benim şu ana kadar söylediğim her
+şeyin yanlış olduğu yönünde. Yani diller tam da tahmin
+edebileceğiniz gibi bütün bu anlamlarda kusurlu sistem­
+lerdir, kişi bilgilerini ifade eden imler, arayüzler, derin ve
+yüzey yapılar, her türlü ilişkiler vb. gibi her şey var. Bu
+nedenle bunun aksini göstermek çok zor bir iş. Ama ben
+yine de aksinin doğru olabileceğini düşünüyorum.
+Bu noktada gerçekten kusurlar varmış gibi görünüyor
+ve bunlar gerçekten ilginç. İnsan dilinde en büyük kusur­
+lardan biri, evrensel gibi görünen, son derece karmaşık
+olan ve formel dil denilen özel amaçlar için tasarlanmış
+sembolik sistemlerde asla tanımlanmayan yer değiştirme
+özelliğidir. Bununla kastettiğim şey, bazı öbeklerin adeta
+söylendikleri yerde değil de başka bir yerdeymiş gibi an­
+laşıldığı gerçeği. Bu, dilin evrensel bir özelliğidir ve anlam
+ve sesin yorumlanması açısından ciddi sonuçlar barın­
+dırır. Örneğin the book seems to have been stolen 'kitap
+çalınmışa benziyor' cümlesini ele alalım. Burada book
+'kitap' ile steal 'çalmak' arasındaki ilişki nedir? Buradaki
+ilişkinin John stole the book 'John kitabı çaldı' cümlesin­
+deki gibi steal 'çalmak' ve the book 'kitap' arasındaki gibi
+yakın ve normal ilişki olduğunu anlıyorsunuz. 23 Ama the
+gereksiz kılıyor. Örneğin Durum ve Rol Kuramlan için yöneticiye ihti­
+yaç yok. Bunlar yukanda bahsedilen yakınlık ilişkileriyle açıklanabi­
+liyorlar. Tam yönetim ise arayüzdeki çeşitli tutumluluk koşullanndan
+türetilebiliyor. Teknik aynntılar için bkz. Chomsky 1 995b, özellikle de
+3. ve 4. bölümler.
+2·1 steal 'çal' ve book 'kitap' arasındaki ilişki bildik eylem-nesne ilişkisi
+(Aşamalı X Kuramı'nın terimleriyle bir baş-tümleyen ilişkisi) yakınlık
+
+--- Sayfa 44 ---
+Dil ve Dilin Tasanmı • 4 1
+book seems ta have been stolen cümlesindeki ilişki tam
+da aynı değil. Bu yer değiştirme özelliği, dilin genel bir
+özelliği. 24 Bir kusura benziyor; özel bir amaç için tasar­
+ladığınız mükemmel bir sisteme bunu koymazdınız, ama
+doğal dilde oldukça yaygın. Bu özellik öncelikle açığa çı­
+karılmalı sonrasında da bir şekilde açıklama getirilmeli.
+Üretici Dilbilgisi'nin ilk evrelerinde, bu özelliğin, bir
+öbeğin yorumlandığı yerden söylendiği yere taşındığı bir
+yer değiştirmeyle açıklandığı varsayılıyordu. Bu işlem
+bir dilbilgisel dönüşümdür. Bütün dil kuramlarının, yer
+içeren ve bir açıdan anlamsal bir ilişki. Tam aksine, seem 'görünmek'
+ve book 'kitap' arasında böyle bir ilişki yok (bunu John slept 'John
+uyudu' cümlesindeki John ile slept 'uyudu' arasındaki ilişkiyle karşı­
+laştırınız) Buna ek olarak, book 'kitap' anlamının belirlendiği yan tüm­
+cede değil ana tümcede görünmektedir.
+24 Yer değiştirmenin dilde mükemmellik dışı bir faktör olduğuyla ilgili tek­
+nik ve kavramsal bir tartışma için bkz. Chomsky l 995b: 4. 7. 1 ; 1997.
+{Yer değiştirmeye Türkçeden bir örnek verebiliriz.
+[Ali Ayşe'yi seviyor!
+Bu cümle, düz bir ses tonuyla okunan standart bir Türkçe cümleye
+benziyor. Ancak Türkçede belli vurgu değişiklikleriyle birlikte öbek­
+lerin yerini değiştirebilirsiniz. Örneğin yukandaki cümleyi şu şekilde
+ifade edebilirsiniz:
+Ayşe'yi [Ali seviyor]
+Ayşe'yi öbeği öne çekilmiş olsa bile hala seviyor eyleminin nesnesi
+durumunda. Başka nedenlerin yanında, bu gözlemi ifade etmek için
+Ayşe'yi öbeğinin nesne konumundan mevcut duruma yer değiştirdiği
+varsayılır. Yani ikinci cümlenin üretiminde şöyle bir hareket vardır:
+Ayşe'yi [Ali Ayşe'yi seviyor]
++
+1
+Yani aslında zihin burada iki adet Ayşe'yi öbeği görüyor; ancak üzeri
+çizilmiş olan öbeğin, ses düzeyinde seslendirilmediğini düşünüyor. Bu
+öbeğin iki kopyası bazı kurallara bağlı olarak bir zincir oluşturuyor.
+Konuşmada da bahsedildiği gibi, geçmişte yer değiştirmeden sonra
+sözdizim sisteminin üzeri çizili olan Ayşe'yi öbeğini sildiği düşünülür­
+dü. Daha sonraki çalışmalarda böyle bir silme eyleminin olmadığı ve
+iki Ayşe'yi öbeğinin de sözdizim düzeyinde burada olduğu varsayılma­
+ya başlandı. Üzeri çizili olan Ayşe'yi öbeğinin okunmaması sözdizim
+sistemiyle ilgili değil. Ses Yapısı'nda zincirlerden sadece birinin ve en
+önde olanının okunmasını zorunlu kılan bir ilkeye dayanıyor. Yani Söz
+Dizimden değil Ses Yapısı'ndan kaynaklanıyor
+çev. notu.}
+
+--- Sayfa 45 ---
+4 2 • Dilin Mimarisi
+değiştirme özelliğini yakalama yollan vardır, yani bütün
+kuramlar yer değiştirmelere ya da buna karşılık gelen
+şeylere sahiptir.25 Dilin bu özelliğe sahip olduğu bir ger­
+çektir; soru, bu özelliğin hangi biçimde ortaya çıktığıdır.
+Bence ilk varsayımın az çok doğru olduğuna inanmak
+için güzel nedenler var. O halde, dilde oluşturulmuş bir
+öbeği alıp onu başka bir yere yerleştiren bir işlem var.
+Mükemmellikten mümkün olan en az şekilde uzaklaştı­
+ğınızda oluşturabileceğiniz en basit varsayım bu işlemin
+bundan daha fazla bir şey olmadığını kabul etmektir; bel­
+li bir yerde bulunan bir öbeği alıyorsunuz ve onu başka
+bir yere yapıştırıyorsunuz. Buradan bu öbeğin yapıda iki
+defa yer aldığı çıkıyor ortaya. En basit varsayımlarla iler­
+lediğinizde, hem ilk yerinde hem de onu yapıştırdığınız
+yerde bulunduğunu varsaymanız gerekiyor.
+Daha karmaşık olan varsayım ise ortada bir birleşik
+işlem olduğunu varsaymak. Yani bir öbeği alıyorsunuz,
+onu başka bir yere yapıştırıyorsunuz sonra da ilk aldı­
+ğınız yerdeki öbeği siliyorsunuz. Burada iki işlem var
+dolayısıyla bu daha karmaşık. Yüzeysel düzeyde, daha
+karmaşık olan varsayım doğru gibi görünüyor; çünkü bu
+öbeği sadece bir konumda duyuyorsunuz. Duyduğunuz
+şey the book seems to have been stolen /the bookj değil ya
+da neden bahsettiğimi bilenler için söyleyeyim, the book
+seems /the bookj to ha ve been stolen /the bookj da değil. Üç
+konumda görünüyor; işlemi doğru şekilde yaptığınızda
+asıl ifadenin bu şekilde oluştuğunu anlıyorsunuz. Öyle
+görünüyor ki daha basit olanı değil daha karmaşık olanı
+25 Örneğin Sözlükçü işlevci Dilbilgisi, üreticidir ancak dönüşümcü de­
+ğildir (yer değiştirme kuramını benimsemez). Öbek yapısı kuralla­
+rı vardır ancak dönüşüm (yer değiştirme) kuralları yoktur. Burada
+Chomsky'nin vurguladığı nokta, yer değiştiııııe gerçeği için dönüşüm­
+cü kuralların yerine dönüşümcü olmayan kuramların (Sözlükçü işlev­
+ci Dilbilgisi'nin ve Genişletilmiş Öbek Yapısı Dilbilgisi'nin vb.) kullan­
+dığı araçlar, son tahlilde dönüşümcü kurallara eşittir. Sözlükçü işlevci
+Dilbilgisi için bkz. Bresnan 1 982, Genişletilmiş Öbek Yapısı Dilbilgisi
+için bkz. Gazdar ve diğerleri l 985'e.
+
+--- Sayfa 46 ---
+Dil ve Dilin Tasanmı • 43
+kabul etmeniz gerekiyor ve aslında ilk varsayım bu idi.
+Ama bunun yanlış olduğu ortaya çıktı.
+Öbeğin bütün bu konumlarda (yani ilk konumda, son
+konumda ve ortadaki bütün konumlarda) bulunduğuna
+dair güçlü kanıtlar olduğu ortaya çıktı.26 Bu gerçeğin, an­
+lamsal yorumlama açısından pek çok sonucu var. Bu de­
+mek oluyor ki zihin her ne yapıyorsa yapıyor ve bu öbeği
+bütün bu konumlarda bulunur halde görüyor; buna iz
+kuramının 'kopya versiyonu' deniyor.27 Genellikle 'kopya
+kuramının' daha karmaşık olduğu ve onu deneysel ola­
+rak da gerekçelendirmenin gerektiği varsayıldı. Ama du­
+rum tam tersi. İz Kuramı'nın kopya versiyonu en basit
+varsayım. Tek işlemin yapıştırma işlemi olduğunu söy­
+lüyor. Bu kuramın yanlış olduğunu göstermeniz gerekir.
+Buradan dilin, en basit varsayımı haklı çıkaracak ölçüde
+mükemmel bir sistem olduğu ortaya çıkıyor ve bunun da
+pek çok sonucu vardır.
+O halde bu öbeği neden sadece bir defa duyuyorsu­
+nuz? Bu, ses çıktısı arayüzündeki biri hariç bütün kop­
+yalan silen yüzeysel bir ilkeye dayanıyor ve bunu son de-
+26 Buna yer değiştirmenin kopya kuramı da deniyor. Pek çok ayrıntıyı bir
+yana bırakırsak, bir öğenin yer değiştirmesi durumunda, ilk noktada
+bu öğenin bir kopyasını bıraktığı iddia ediliyor. Bu (yer değiştiren) öğe,
+sadece son konumunda seslendiriliyor ve ilk konumunda anlamsal
+özelliklerini kazanıyor. Yer değiştiren öğe ve onun ilk konumu bir zin­
+cir oluşturuyor. Buradaki mesele, arada kalan ve ses ve anlam açı­
+sından kullanılmayan konumun gerekçelendirilmesi sorusudur. Ger­
+çekten de bu konumda bir nesne olduğunu gerekçelendiren aşağıdaki
+gibi örnekler vardır:
+*John seems it to have been expected to leave.
+i stenen anlam 'Öyle görünüyor ki John'un terk etmesi bekleniyor.'
+Yan tümcenin özne konumunda 'it', o adılı gibi bir öğenin imkansız ol­
+ması, bu konumun buradan yer değiştirmiş olan John'un bir kopyası
+tarafından doldurulmuş olduğunu gösteı ıııektedir. Bir başka ifadeyle,
+John gömülü özne konumundan ana tümcenin öznesi konumuna tek
+bir hareketle gelmiyor. Oraya yinelemeli döngülü taşımayla geliyor.
+Ayrıntılar için bkz. Chomsky 1 995b.
+27 iz Kuramı'yla ilgili olarak bkz. Chomsky 1 975.
+
+--- Sayfa 47 ---
+44 • Dilin Mimarisi
+rece genel bir biçimde yapıyor.28 Ancak zihin açısından,
+bu kopyaların hepsi oradalar. Hiç konuşmuyor olsaydınız,
+yine orada olurlardı. Zihinsel işlemler sırasında hepsi ora­
+dalar ama sadece bazıları -tek bir tanesi aslında- çıktı ola­
+rak okunuyor.
+Peki dil neden böyle bir yer değiştirme özelliğine sa­
+hip olsun ki? Bu pek de ilerleme kaydedilmeden yaklaşık
+kırk yıldır tartışılan çok ilginç bir sorudur. Fakat bu özel­
+liğe sahip olduğu kesin; neden sahip olması gerektiğine
+dair de bazı fikirler var. Bu fikirler yüzeydeki okunabilirlik
+koşulları kapsamında yeniden yorumlanabilir. Örneğin
+bir anlayışa göre derin yapı ve yüzey yapının özelliklerine
+benzer şekilde iki tür anlamsal özellik arasında temel bir
+ayrım var gibi görünüyor. Yüzey yapıdaki ilişkiler bir bi­
+rimin, yapının en uç noktasında 'daha öne çıkan' bir yere
+doğru yer değiştirme özelliğine dayanıyor. Bu tür fikirler
+başarılı şekilde geliştirilebilirse, yer değiştirme özelliği bir
+kusur olmadığı, bundan ziyade, o dış sistemlerin insan
+diline dayattığı okunabilirlik koşullarının bir sonucu ol­
+duğu ortaya çıkabilir (ama doğal dillerdeki 'yüzeysel an­
+lam yapılarını' içermeyen ve doğal dillerdeki okunabilir­
+lik koşullarını karşılamak zorunda olmayan özel amaçlı
+sembolik sistemlerde değil). 'Neden' sorusunun doğru ce­
+vabı her ne olursa olsun,29 yer değiştirme ilkesi bir gerçek
+ve evrensel olarak var gibi görünüyor. Sorun onun nasıl
+bir şey olduğunu anlamak. Bu yaklaşık kırk yıldır temel
+araştırma konularından biri olmuştur.
+Yer değiştirme özelliğinin temelinde, sözlükçe öğe­
+lerinin bazı özelliklerinin anlamsal arayüzde okunamaz
+olmalarının yattığına inanmak için güçlü nedenler var.
+Onlar bu arayüzde yorumlanmıyor; oradalar ama yorum­
+lanmaları mümkün değil. Eğer hiçbir karşılıkları yoksa,
+silinmek zorundalar; aksi takdirde, anlam arayüzü bu
+çıktıyı okumayı başaramaz. Onun için, bir ifadenin oku-
+28 Tartışma için bkz. Chomsky 1 995b, özellikle de 1 . ve 3. bölümler.
+2'' Bkz. Fodor ı 987, Jackedoff 1 990.
+
+--- Sayfa 48 ---
+Dil ve Dilin Tasanmı • 45
+nabilir olması için dili üreten sistemde sözlükçe öğeleri­
+nin silinmesi gereken özellikleri bulunmaktadır. Var olan
+tek yapısal ilişkiler, yakınlık içeren ilişkilerdir; onun için,
+bu tip öğelerin onları silebilecek bir şeyle yakınlık iliş­
+kisine girmesi gerekmektedir. Ancak on lan silecek olan
+öğe genellikle uzakta oluyor, dolayısıyla silinmesi gereken
+öğenin ona yaklaştırılması gerekiyor (ve genellikle başka
+nedenlerden dolayı silinmesi gereken öğe yanında daha
+büyük öğeleri taşıyor). İşte yer değiştirme özelliğinin te­
+meli bu gibi görünüyor, yani arayüzde yorumlanamaya­
+cak özelliklerin silinmesi için bir yöntem . . .
+Ne tip özellikler bunlar? Bunlardan biri adların yapı­
+sal durumlarıdır. Örneğin, book 'kitap' kelimesini, yalın
+halindeyken, ismin -i halindeyken ya da özegeçişli (erga­
+tif) haldeyken aynı şekilde yorumlarsınız; aynı yorumu
+alır. Yani yapısal durum ekleri arayüzde okunabilir şeyler
+değiller; yorumlama açısından hiçbir fark yaratmıyorlar.
+Dolayısıyla bir şekilde ortadan kaldırılmaları gerekiyor.
+Bunu ortadan kaldırmanın tek yolu, onu ortadan kaldı­
+rabilecek bir şeyle yakınlık ilişkisine sokmak. Böylelikle
+ikisi de ortadan kalkacak ve okunamayan hiçbir şey kal­
+mayacak. İşte bu da size yer değiştirme özelliğini verir.
+Bu eylemlerin uyum özellikleri için de geçerli. Bir ad te­
+kil ya da çoğul ise, onu farklı şekillerde yorumlarsınız.
+Ancak bir eylem tekil ya da çoğul uyumu taşıyorsa, onu
+aynı şekilde yorumlarsınız. O halde eylemlerin üzerindeki
+uyum özellikleri yorumlanamazdır ve silinmeleri gerekir.
+Bu da bir şeyin onlarla yakınlık ilişkisine girmesini, yani
+eyleminkilere uygun uyum özellikleri olan bir adın yer
+değiştirmesini zorunlu kılar. Bu da adların içinde olduğu
+öbeklerin olduğu gibi yer değiştirmesini sağlar. Pek çok
+başka olgu da böyle açıklanabilir.
+Peki bir ilişki ne kadar yakın olmalıdır? Muhtemelen
+bu ilişki o kadar yakındır ki bir sözcüğün içindedir. Du­
+rum böyle görünüyor (Bu arada bu tartışma 4 . Bölüm'de
+yok; kitabı bilenler için söyleyeyim, şu anda daha ötesine
+
+--- Sayfa 49 ---
+46 • Dilin Mimarisi
+geçiyorum) .30 Bir sözcüğün içindeki yorumlanamaz özel­
+likler silinmek zorundadır ve yer değiştirme özelliğinin
+temelinde de bu yatar. Bu kavramlar kullanılarak, dil­
+deki pek çok şeyi açıklanabilir gibi göriinüyor. Bir kusur
+varmış gibi götiinüyor; ama küçük bir tane. Bu sözlükçe
+öğelerinin biçimsel özelliklerinin yorumlanamazlığıyla il­
+gili ve daha önce ortaya attığım önermeler doğru çıkarsa,
+bu bir kusurdan ziyade dışarıdan dayatılan okunabilirlik
+koşullarının yerine getirilmesinin en uygun yolu olabilir.
+Özelliklerin yer değiştirmesine ve bunun bazı kendi­
+liğinden gelen sonuçlarına indirgenen, indirgenebilecek
+olan yer değiştirme özelliğini bir tarafa bırakırsak, mü­
+kemmel bir sistem için gerekli olan bir başka işlem daha
+vardır. Bu yalnızca kavramsal nedenlerle bile gereklidir.
+Bu, üretimin özyinelemeli yapısı tarafından hali hazırda
+oluşturulmuş iki dil nesnesini alıp daha büyük bir nesne
+oluşturan bir işlemdir. Yani örneğin, eğer hali hazırda the
+man 'adam' öbeğini ve stole the book 'kitabı çaldı' öbeğini
+oluşturdu iseniz, bunlardan the man stole the book 'adam
+kitabı çaldı' tümcesini de oluşturabilirsiniz. Yetinmeci
+varsayımları, (yani mükemmellik varsayımlarını) düşün­
+düğümüzde, ifadelerin üretilmesi bu iki işlemden -yani
+okunamaz özellikleri silmek için özelliklerin yer değiş­
+tiı ıııesi işlemi ve iki yapıyı alıp bir araya getiren Birleştir
+işleminden- başka hiçbir şey içermemeli. Tam olan yer
+değiştirme işlemi bunları bir araya getiriyor; yani önce yo­
+rumlanamaz özellikleri silmek için uygun özellikleri ken­
+dine çekiyor, sonra da bu uygun özellikleri taşıyan öbeği
+bir öbekle birleştiriyor (bazen 'uzun mesafeli uyum' da
+denilen sadece özelliklerin çekilmesiyle karşılaşıyoruz) .
+Bu işlemlerin ne şekilde olabileceğini kısıtlayan eko­
+nomi ve yakınlık ilkeleri gibi; temel işlemleri yöneten il­
+keleri bulduğumuzda, bu gerçeğe beklenmedik oranda
+yakın gibi göriinüyor. Eğer bu doğru ise, diller arasındaki
+farklılıklar büyük oranda (durum ekleri ve eylem uyum-
+.ıo Burada bahsedilen eser Chomsky 1995b.
+
+--- Sayfa 50 ---
+Dil ve Dilin Tasanmı • 4 7
+ları gibi) yorumlanamaz özelliklerin değişik dillerde farklı
+biçimlerde dil dışı sistemlere verilmesinden kaynaklanı­
+yor olacak. Bunun da evrensel kısıtlar göz önünde bulun­
+durulduğunda, belki de sözlükçe özelliklerinin çok az bir
+kısmından adeta otomatik olarak çıkarılabilecek pek çok
+sonucu olacaktır.
+Diller bu anlaıııda çok farklı gibi görünüyorlar. Çekim
+sistemi görece zengin olan Sanskritçeyi ele alalım; bu dilde
+çok sayıda çekim eki duyuyorsunuz. İngilizcede neredeyse
+hiç yok, Çincede ise daha da az var. Bunun için bunlar
+birbirlerinden tamamen farklı gibi görünüyor. Dahası,
+bunlar farklı dillerde bambaşka yapısal konumlarda or­
+taya çıkıyor gibi görünüyorlar, bu da kelimesi kelimesine
+çeviriye benzer hiçbir şey elde edemeyeceğiniz anlamına
+geliyor.
+Ancak, gün geçtikçe, bu farklılıkların yüzeysel olduğu
+ortaya çıkıyor. Yani, çekimlemesi olmayan Çince ile çok
+sayıda çekimlemesi olan Sanskritçe ikincil önemdeki söz­
+lükçe özellikleri dışında belki de aynılar. Eğer öyleyse, o
+zaman onlar zihin açısından aynıdırlar. Aralanndaki tek
+fark, duyu-motor sisteminin temelde aynı olan üretici
+sisteme ne şekilde giriş yaptığıdır. Bütün dillerde durum
+ekleri, uyum ekleri ve buna benzer şeyler var hatta belki
+de Sankritçeden daha zengin halde. Ama bunlan sadece
+zihin görüyor.
+Bu sözcüklerin bulunduğu yerler söz konusu oldu­
+ğunda da doğru gibi görünüyor. Aslında hepsi aynılar,
+ancak duyu-motor sistemi, zihinde oluşturulan türetim­
+lerin farklı özelliklerine giriş yapıyor. Eğer bu tip çıkarım­
+lar büyük oranda doğrulanabilirse, Yetinmeci Çizgi'nin
+ana sorusunun cevabının peşinde koşabiliriz. Yani ara­
+yüzdeki okunabilirlik koşulları göz önüne alındığında,
+evrensel özelliklerin kendilerinin, en uygun tasarım ilke­
+lerine dayandığını göstermeye çalışabiliriz.
+Araştırma doğrultularından, araştırmalan harekete
+geçiren dürtülerden bahsettim. Şu noktaya kadar olduk­
+ça program temelliydi. İlerleyebilmek için, bu kuramsal
+
+--- Sayfa 51 ---
+48 • Dilin Mimarisi
+önermeleri değerlendirebileceğimiz ayrıntılı bir ampirik
+araştırma içine girmemiz gerekir. Yayımlanmış bazı şey­
+ler var, yolda olan başka çalışmalar da var.31 Peki bunlar
+ne kadar başarılı? Kendiniz karar vermeniz gerekir. Bu
+çalışmaların ne kadar ilerleyebileceği son derece açık ve
+bir o kadar da zor bir soru olmasına karşın, bana son de­
+rece cesaretlendirici ve şaşırtıcı geliyor. Bunlar, bütün bu
+alanlarda yeni bir zorluk düzeyi getiren ve özel bilimlerde
+genellikle çok da takip edilmeyen sorular.
+Yetinmeci Çizgi'nin bir biçimi başanlı olursa, bir biyo­
+lojik sistem için oldukça şaşırtıcı bir dil yetisi resmi olacak
+elimizde. İnsan dili, nesnelerin mükemmel bir şekilde ta­
+sarlanmış olduğunu gösteııııe çabalannın pek de net ol­
+mayan nedenlerle başanlı olduğu cansız nesneler alemine
+ilişkin incelemelerde bulduğumuz şeylere daha çok benzi­
+yor. Nedenini kimse bilmiyor ancak nesnelerin aslında mü­
+kemmel olduğunu varsaymak doğa bilimlerinde son derece
+üretici bir sezgi oldu. Eğer yedi gibi bir rakaı11 bulduysanız,
+muhtemelen bir hata yaptınız. Yanıt sekiz olmalı; çünkü
+sekiz ikinin üçüncü kuvvetidir ve iki ve üç güzel sayılardır
+aırıa yedi öyle değil. Yedi çok kaı·ıııaşık. Doğa bilimlerinde
+bu tip bir sezgi çok işe yaradı. Bu tip mükemmel-tasanm
+varsayımlan sadece basit sistemlerde işe yarar. Bunlar
+günlük hayattaki olaylardan kapsaırılı soyutlaıııalarla bu­
+lunabilir ancak. Eğer buna benzer bir şey dil için de doğru
+çıkarsa, son derece şaşırtıcı ve ilginç olacaktır.
+Ben her zaman dilin çalışılmasının en ilginç yönleri­
+nin tam da bu alanda yattığı kanısındaydım. Dil, biyolo­
+jik sistemler açısından oldukça gizemli ve beklenmedik
+özellikler taşıyor ve onu ne kadar yakından incelersek o
+kadar şaşırtıcı ve gizemli gibi görünüyor.
+3 1 Bu literatürün bir kısmı Linguistic Inquiryve Linguistics and Philosophy
+gibi dergilerin yakın zamandaki sayılarında bulunabilir. Kitap boyu­
+tundaki çalışmalar için MiT Press'ten çıkan Linguistic Inquiry Tekya­
+zım Serileıi'ne (örneğin bkz. Kitahara 1 997, Brody 1 995, Zubizaretta
+1998, Barbosa ve diğerleri 1 998 vb.).
+
+--- Sayfa 52 ---
+'
+. .t ı,
+•
+t
+ı
+•
+Dinleyiciler som sormaya davet edildi ve zaman kazan­
+mak için onlardan bu soruları yazılı olarak da iletmeleri
+istendi. Bu oturumu Delhi Üniversitesi'nden Rama Kant
+Agnihotri yönetti. Ortaya bu konuşma çıktı.
+Chomsky (Agnihotri'ye) : Neden onları ben okumuyorum!
+Böylece işler kolaylaşır.
+Agnihorti : Onları düzenlemeye çalışıyordum ama . . .
+Chomsky: Tamam. Öyle yapalım diyorsan öyle yapalım.
+Agnlhotri: Öncelikle şu somları cevaplayabilir misiniz?
+Yeni sorular vermeye devam edeceğim.
+Chomsky: Sansür bu. Burada sansür var.
+•
+•
+•
+•
+DILBILIMIN KAPSAMI
+Soru: 'Chomskyci dönem'in gelişmesiyle, dilbilim dönüp
+bakmaya değer bir alan haline geldi. Fakat aynı zaman­
+da o denli anlaşılması zor hale geldi ki, sadece dilbilimin
+içinde olan insanlara yönelik bir alanla sınırlandı. Dilbi­
+limin, alanın dışında olan insanlar tarafından da anlaşıl­
+ması sizce nasıl mümkün olabilir? Dilbilimin pazarlana­
+bilirliğiyle ilgili ne düşünüyorsunuz?
+Chomsky: Bu kişileştirmeyi sevmiyorum. Bu, bir konuda
+düşünmenin yanlış bir biçimi. Rasyonel araştırmada ki­
+şileştirme olmaz. Bir konu üzerinde herkes çalışmakta­
+dır. Ancak soruyu olduğu gibi bırakacağım.
+Öncelikle, bence pek çok dilbilim çalışması anlaşı­
+labilir düzeydedir. Aynı sonıyu kimyayla ilgili olarak da
+sorabilirsiniz. İnsanların söylediklerini, sonuçları, arka-
+
+--- Sayfa 53 ---
+50 • Dilin Mimarisi
+planı ve ilkeleri falan anlayabilmek için yoğun bir eğitim
+sürecinden geçmemişseniz, kimyanın büyük çoğunluğu
+da anlaşılmazdır. Ancak temel fikirler, insanlar için ko­
+laylıkla erişilebilir hale getirilebilir. Popüler bilim bunun
+için var. Teknik bir çalışmanın sonucunu insanlar için
+anlamak istedikleri düzeyde erişebilir kılmak son derece
+geçerli ve toplumsal olarak da değerli bir iştir. Diyelim ki
+kuantum fiziğiyle ilgili bir şeyler öğrenmek istiyorum, bü­
+tün ayrıntılarla ilgilenmiyorum. Yalnızca genel hatlarıyla
+ne olup bittiğini anlamak istiyorum. Benim ilgi düzeyim­
+de bu bilgileri bana erişilebilir kılmaya çalışan insanlar
+ve kitaplar var. Bence aynısı dil bilimde de geçerli. 1
+Pazarlanabilirliğe gelince . . . İş bulmak ciddi bir so­
+run. Zor ve karmaşık olan bir alana girdiğinizde, nerede
+iş bulacağınız sorusu hep ortadadır. Bu dilbilimde oldu­
+ğu kadar matematikte de öyledir. Şu anda Amerika'da
+matematikte her uygun akademik kadro için, yaklaşık
+olarak birkaç yüz başvuru var. Bu bir sorun. Bu sadece
+dilbilimin sorunu değil. Hatta, pek çok açıdan dilbilim
+için bu daha küçük bir sorun.
+Her neyse, bu genel bir sorun. Bu toplumsal bir so­
+runla ilgili; bilim ne kadar yapılmalı? Bence şu anda bu
+sorunun cevabı son derece akıldışı bir biçimde veriliyor.
+Zenginliğin ve gücün az sayıda insanın elinde birikmiş ol­
+duğu ve kararlan bu insanların verdiğini söylemek yeni bir
+şey değil. Onlar kararlarını piyasa değeri açısından bek­
+lentilerine göre veriyorlar. Bu toplumsal kararlan verme­
+nin son derece akıldışı bir yöntemi. Bu tip kararlar, bütün
+kararlar gibi, kaynakların nasıl kullanılması gerekliğiyle
+ilgili düşüncelere dayanan toplumsal kararlar olmalıdır.
+Bence daha çok edebiyat ve sanat olması gerekliliği
+gibi, daha çok bilim yapılmalı ve herkes bir ölçüde bunun
+bir parçası olmalı. Bunlar insan yaşamının zenginleştirici
+taraftarı ve bunlar insanlar için erişilebilir olmalı. Bu da
+1 Dille ilgili mevcut çalışmalann çok güzel bir anlatımı için bkz. Pinker
+1 995.
+
+--- Sayfa 54 ---
+Tartışma • 5 1
+onlara kaynak ayırmamız gerektiği anlamına geliyor. An­
+cak bunlar iş çevrelerine çok fazla para kazandırmıyor ve
+iş ve kaynaklar buna göre dağıtıldığı için, böyle sonuçlar
+çıkıyor ortaya. Bence bu son derece akıldışı, ancak bu,
+toplumda genel anlamda demokrasinin eksikliğiyle ilgili.
+Soru: Sizin dilbiliminiz ile siyasi görüşlerinizin ortak bir
+yanı ikisinde de toplumun ve kültürün rolünün olmama­
+sı. Dilde de adalette de ifadesini bulan şey, toplumun vic­
+danıdır. Dilin çalışılmasında, dillerin farklılıklarına, aynı
+toplum tarafından konuşulan iki ya da daha çok dilin ta­
+mamlayıcı ilişkilerine ve ikidillilik durumunun türümü­
+zün doğal bir parçası olduğu varsayımına olumlu değer
+atfetseydik, sizce daha iyi sonuçlar elde etmez miydik?
+Chomsky: Siyasi görüşlerim sadece beni bağlar. Siyasetle
+ilgili olarak söylenen her söz elbette toplum ve kültürle
+ilgilidir. Başka nasıl olabilir ki? Bu sadece dünyayı an­
+lama değil onu değiştirme çabaları açısından da doğru.
+Benim durumumda, benim anarşizme, özellikle de onun
+içindeki toplumsallığın, örgütlenmenin ve kültürün öne­
+mini vurgulayan eğilimlere olan ilgim ve bağlanmam dü­
+şünüldüğünde bu noktanın çok açık olması gerekir.
+Dilin bilimi bana ait değil. Bu konuda çalışan herke­
+sin o. Bilim sahip olunan bir şey değil. Dolayısıyla orta­
+da Chomsky'nin dilbilimi diye bir şey yok. Doğanın nasıl
+çalıştığını bulmaya çalışmak işbirliği içeren bir girişim.
+A'nın B bilimi denilebilen hiçbir şey ilgilenmeye değmez.
+Genellikle üretici dilbilgisi' denilen bir alan var ama bu
+benim ya da başka birinin değil.
+Dil çalışmanın bu alanı, gerçekten de toplum ve kül­
+türe hiçbir rol vermemesiyle öne çıkmıştır a ıııa bu daha
+önce bahsettiğim nedenlerle ilgilidir. Bence, belli bir bi­
+yolojik sistemin doğasını ilgilendiren toplum ve kültürle
+ilgili ciddi anlamda bilinen hiçbir şey yok. Bilinen birşey
+varsa, öğrenmeyi çok isterim ama ben bilmiyorum. O ne­
+denle de bence aralarında hiçbir ilişki yok.
+Bu toplum, kültür ve dille ilgili soruların önemsiz ol-
+
+--- Sayfa 55 ---
+52 • Dilin Mimarisi
+duğu anlamına gelmiyor. Onlar çok önemliler, tıpkı insan
+hayatıyla ilgili her şey gibi. Onlarla ilgili çok kısıtlı bir bi­
+limsel kavrayışımız var, hepsi bu. Neyi anladığımız, neyin
+teknik bilgisine sahip olduğumuz ve ne zaman herkesle
+aynı noktada bulunduğumuzla ilgili olarak çok açık ve
+net olmalıyız. Derinlikli bir kuramsal anlayışımız olma­
+dan, elimizden geldiği kadarıyla bu işin içinde yolumuzu
+bulmaya çalışıyoruz. Bu söylediğim yanlış ise, doğrusu­
+nu duymayı gerçekten isterim ama onun yanlış olduğuna
+inanmak için hiçbir sebep olmadığını düşünüyorum.
+Ben dahil, dil üzerine çalışan herkes 'diller arasında­
+ki farklılıklara' odaklanır. Eğer böyle yapılmasaydı, hangi
+dile bakıyorsak onun doğuştan geldiği sonucuna varır­
+dık; bu da elbette dil yetisiyle ve dilin edinimiyle ilgili pek
+çok sorunu 'çözerdi'. Üretici Dilbilgisi'yle ilgili ilk çalışma
+İbranice üzerine oldu.2 Yayımlanan ilk üretici dilbilgisi ise
+Hidatsa-1 dili üzerineydi. Ve bu şekilde gidiyor. Hidrojeni
+mi yoksa hidrojen ve helyum arasındaki farkları çalışmak
+mı ya da mevyesineğini çalışıp meyvesineği ile şempan­
+zeler arasındaki farkları çalışmamak mı 'daha iyi' ya da
+'daha kötü' sonuç verir sorulan gibi dillerin farklılıkla­
+rı meselesi de 'daha iyi sonuçlar', 'daha kötü sonuçlar'
+meselesi değildir. Belli bir anda, en çok umut vadeden
+sorulara odaklanırsınız.
+Dillerin farklılıklarına ve ikidilliliğe olumlu değer at­
+fetmek gibi konulara gelirsek, bu konularda üzerine çok
+düşünülmüş pek bir fikrim yok. Elbette daha farklı tür­
+lerde deneyimler yaşamışsanız, bu daha zengin bir in­
+san olduğunuz anlamına gelir; bu elbette doğru. Farklı
+kültürlere maruz kalma ve değişik kültür ve diller içinde
+olmak gibi şeyler yaşama bir zenginlik katar ve yaşamın
+zenginliğinin elbette olumlu bir değeri vardır; ancak bu
+konuda başka ne söylenebilir bilmiyorum.
+Dünya bu denli karmaşık iken, katı tekdilcilik zaten
+2 Bkz. Chomsky 1 95 1 ,
+3 Bkz. Matthews 1964,
+
+--- Sayfa 56 ---
+Tartışma • 53
+hayal edilemez olduğundan ikidillilik insan türü için el­
+bette doğal olandır. On beş kişiden oluşan en küçük avcı­
+toplayıcı kabilelerde bile, farklılaşma olacaktır. İnsanlar
+birbirinin kopyaları değildirler ve en ufak bir farklılık
+durumunda bile, bir çokdillilik türü çıkacaktır ortaya.
+Bazen o kadar küçük olur ki buna 'çokdillilik' demezsi­
+niz ama her zaman bir farklılaşma olacaktır. Bu anlamda
+elbette insan türü için doğaldır bu ama bu bana pek de
+derin bir konu gibi gelmiyor.
+'Çokdillilik'in normal kullanımda belirsiz ve bulanık
+bir kavram olduğunu da akılda tutmak gerek. Daha tek­
+nik bir anlamda, her insan birçok yönden çokdillidir. İn­
+sanların farklı diller konuştuğunu söylemek onların farklı
+yerlerde yaşadığını ya da farklı göründüklerini söylemek
+gibidir. Bunlar günlük yaşamda çok işe yarar kavramlar
+ancak büyük oranda ne için kullandığınıza bağlı. Eğer
+belli bir amaca ya da çıkara hizmet edecekse, bir insanın,
+bir dilin farklı biçimlerini değil de birkaç dil konuştuğunu
+söyleriz.
+Soru: Müziği de bir dil olarak düşünüyor musunuz?
+Chomsky: Bu konuda söyleyecek özel bir şeyim yok ama
+bu konuda çalışan insanlar var. Bildiğim en iyi çalış­
+ma Ray Jackendoff ve Fred Lerdahl4 tarafından yapılan.
+Lerdahl uzman bir besteci Jackendoff ise uzman bir dil­
+bilimci ve aynı zamanda neredeyse uzman bir besteci.
+Onlar müziğin dilbilimsel özellikleri üzerine çok ilginç
+bir kitap yazdılar. Dar kapsamlı bir müzik türünü (tonal
+merkezli klasik batı müziği) incelediler ve bu müziğin dil
+benzeri özellikleri olduğunu göstermeye çalıştılar. Kitabı
+okuyup ikna olup olmadığınıza karar verebilirsiniz. Ki­
+tap esasında benzer bir şeyler yapmaya çalışan Leonard
+Bernstein'a bir cevap olarak yazılmıştı. 5
+Şimdi onların haklı olduklarını varsayalım; bundan
+4 Bkz. Jackendoff ve Lerdahl ( 1 983); ayrıca Jackendoff 1 992.
+5 Bkz. Bernstein 1 976.
+
+--- Sayfa 57 ---
+54 • Dilin Mimarisi
+müziğin bir dil olduğunu çıkarabilir miyiz? Bu anlamlı
+bir soru değil, çünkü neyin dil olduğu tartışması anlamlı
+bir tartışma değil. Bu bir insan dili mi? Elbette hayır. Bu
+bir insan dili değil. Peki bu insan diline benziyor mu?
+Belli açılardan öyle belki ama o zaman sorulacak soru şu:
+ne kadar 'benziyor'?
+Bir şeyin dil olduğunu söylemek anlamlı bir yorum
+yapmak demek değil. Sadece 'insan diline yeterince ben­
+ziyor o halde ben ona dil diyeceğim' demek. Birisi için
+'Baston yakınlarında yaşıyor mu' diye sormak gibi bir
+şey. Bunun kesin bir cevabı yok. Evde bir arkadaşımla
+konuşuyorsam ve Boston'da işe nasıl gidilmesi hakkında
+konuşuyorsak, o zaman 'Bostan yakınlarında mı yaşı­
+yorsun?' diye sorabilirim. Eğer on mil ötede, benden çok
+daha uzakta yaşıyorsa, 'hayır! ' diyecektir. Ancak örneğin
+burada Delhi'de sizinle konuşuyorsam ve size 'o Baston
+yakınlarında mı yaşıyor?' diye sorarsam o zaman cevap
+'evet! ' olur çünkü farklı bir bakış açısıyla o gerçekten de
+Bostan yakınlarında oturuyordur. Aynı şekilde 'bu şey bir
+dil midir?' sorusu da anlamsızdır. Belli açılardan insan
+dili gibi mi şeklinde bir soru sorabiliriz. Bu benzerliklere
+ilgi duyarsak, ona 'dil' demeye karar verebiliriz. Bu sade­
+ce terminolojik bir meseledir.
+Soru : Virüslerin DNA kodlarının bir dil olduğunu düşün­
+müyor musunuz?
+Chomsky: 'Dil' kavramı çok belirsiz olduğu için bu soru
+cevaplanamaz. Bu biraz da uçakların (kartallar gibi) 'ger­
+çekten uçup uçmadığını' ya da denizaltılann (yunuslar
+gibi) 'gerçekten yüzüp yüzmediğini' ya da olimpiyat oyun­
+larında bir engelin üstünden atlayan insanların 'gerçek­
+ten uçup uçmadığını' sormak gibi bir şey. İngilizcede biz
+insanların değil ama uçaklardan 'uçuyor' diye bahsederiz
+ancak denizaltılardan 'yüzüyor' diye bahsetmeyiz. Baş­
+ka dillerde bu kullanımlar farklı. 6 Bunlar gerçek sorular
+6 Japoncada uçmak eyleminin insanların da uçabildiği bir anlamı var.
+
+--- Sayfa 58 ---
+Tartışma • 55
+değil; sadece belli bir mecazi kullanımı kabul edip etme­
+mekle ilgili sorular. DNA kodlaması ve dille ilgili olarak da
+aynı şey geçerli.
+Uçakların, insanların ve kartalların yerden yukarıda
+zaman geçirdiklerinde ne yaptıklarıyla ilgili belki de hava
+devinim bilimini ilgilendiren ilginç genel sorular sorulabi­
+lir. DNA kodlamasının belli bir biyolojik sistem olan insan
+diliyle ilişkisi konusunda ilginç sorular da olabilir (bazı
+ciddi bilim insanları bu soruyu soruyor.) Peki ne kadar
+ilginç? Bunu sonuçlar elimizde olduğu zaman söyleyebi­
+liriz, öncesinde değil.
+Soru: İşitme engellilerin iç konuşmaya sahip oldukları bi­
+liniyor. Peki bu anlama mı yoksa sözdizime mi dayalı bir
+sistemdir?
+Chomsky: Konuşma diline maruz kalmayan insanlar, 'iç
+konuşma'ya benzeyen bir şeye sahip olabilir ya da ol­
+mayabilirler. Duyu-motor sistemlerinin işin içinde ola­
+bilecekken, seslendirme olmaksızın dil kullanımına çok
+benzeyen bazı şeyler olduğunun hepimiz kesinlikle bilin­
+cindeyiz. Belki böyle bir şey insanlar için genel olarak ge­
+çerlidir. Bu sistemlerin 'sözdizimleri' ya da 'anlam sistem­
+leri' olup olmadığı sorusuna gelince, önce bu kavramlarla
+ne demek istediğimize karar vermemiz gerek. Eğer onları
+modern 'işaretler kuramı'ndaki anlamlarıyla kullanıyor­
+sak, elbette sözdizimleri (yani, oluştukları sembolik ele­
+mentlerin birleşme biçimleri) var. Ancak 'anlam sistem­
+leri' (yani sembollerle onların zihinsel olmayan dünyada
+'işaret ettikleri' şeylerle ilgili olduğu iddia edilen ilişkiler)
+olabilir de olmayabilir de. Bunlar günlük konuşulan dil
+için de küçümsenmeyecek, ciddi sorular.7
+Soru: Duyma engelli çocuklar söz konusu olduğunda,
+duyu-motor arayüzündeki eksiklikler düşünüldüğünde
+işaret dili mi yoksa konuşma (ya da yazma) dili mi daha
+lbranicede uçaklar 'kayıyor' ama 'uçmuyor'.
+7 'Dil Kuramı' arabaşlığının sonundaki anlambilim tartışmasına bakınız.
+
+--- Sayfa 59 ---
+56 • Dilin Mimarisi
+iyi bir seçenek?
+Chomsky: Bu şartlara bağlı. Benim komşumun duyma­
+engelli bir çocuğu olsa ve bana önerilerimi sorsa, önce­
+likle onların çocukları için neyin en iyi olduğuna dair
+öneride bulunacak kadar işin ehli olmadığımı söylerdim.
+İkinci olarak, gerçek eğitim ve deneyim sahibi insanların
+önerileri önemsenmeli ve değerlendirilmeli; ancak böyle
+karmaşık durumlarla ilgili olarak onların da yalnızca kıs­
+mi bir kavrayış sahibi oldukları gerçeğinin farkında ola­
+rak . . . Eğer hala öneride bulunmam isteniyorsa, çocuğun
+mümkün olan en doğal ortamda hem konuşma hem de
+işaret dilleriyle tanıştırılmasını önerirdim.
+Soru: Jacques Lacan'ın öznellik kuramında iddia ettiği
+gibi dil ile cinsellik arasında bir ilişki var mıdır?
+Chomsky: Lacan'ı kişisel olarak tanırım ve söylediği tek
+bir kelimeyi bile hiçbir zaman anlamadım. O nedenle, bu
+soruyu cevaplayamam. Açıkçası onun oyun oynadığına
+ve çılgınlık yaptığı halde insanların onu nereye kadar cid­
+diye almaya devam edeceklerini görmek istediğine dair
+çok güçlü hislerim var. Bunun doğru olduğunu kanıtla­
+yamam ama şüphelerim bu yönde. İyi geçiniriz, pek çok
+konuda konuşuruz ama bu konuda hiç konuşmadık.8
+Soru: Dilbilim gibi göstergebilimi de bir bilim sayıyor mu­
+sunuz?
+Chomsky: Göstergebilim her ne ise o. Onu ne kadar kav­
+rarsanız, elinizde o kadarı kalıyor. Ben onu pek derin
+bulmuyorum. Bir defasında Fransız göstergebilimci ve
+alandaki öncü uzmanlardan biri olan Dan Sperber ile
+8 Başka bir yerde Chomsky, Jacques Lacan için şunları söylemiştir: "La­
+can söz konusu olduğunda, biraz nezaketsizce olacak ama, benim sa­
+mimi görüşüm onun bilinçli bir şarlatan olduğu ve Paris aydın kesim­
+leriyle oyunlar oynadığıdır. Saçma sapan şeyler söylediği halde hangi
+noktaya kadar ciddiye alınabileceğini görmek istiyordu. Cidden böyle
+düşünüyorum. Onu tanıyordum." (Rai ı 995: 206'dan alınmıştır)
+
+--- Sayfa 60 ---
+Tartışma • 57
+uluslararası bir konferansa katılmıştım. Göstergebilim
+konusunda konuşma yapması bekleniyordu. Ayağa kal­
+dı, tahtaya doğru yürüdü, büyük bir daire çizdi; içine 'dil'
+yazdı. Onun yanına daha küçük bir daire yerleştirdi ve
+bu daireye doğru bir çizgi çekip üzerine 'trafik ışıkları'
+yazdı. Sonra dinleyicilere dönüp 'işte göstergebilim bu! '
+dedi. Elbette abartıyordu ancak söylemek istediği şeyde
+bir haklılık payı da vardı. Bunlardan biriyle ilgili olarak
+bilinen çok şey var: dil; trafik ışıklarıyla ilgili söylenecek
+pek bir şey yok. Sinema, sanat, insan ilişkileri gibi büyük
+konular da var ve bunlar çok önemli konular, ama ben
+göstergebilimden bunlarla ilgili pek bir şey öğrenebilece­
+ğinizi düşünmüyorum. Bunun kararını siz verin.
+Soru: Hama Sapiens'in dil yetisi üstünlüğüne sahip ol­
+duğu söylenir. Peki hayvanların iletişim sistemleri çok
+karmaşık olduğundan (daha azıyla daha çok şey söyle­
+yebildikleri için) aslında bizden daha iyi durumda olma
+olasılıkları var mı?
+Chomsky: Karıncalar, kuşlar ya da insanlar olsun, kimin
+'daha iyi durumda' olduğu sorusunu sormanın ciddi hiç­
+bir şeklini bulamıyorum. Karşılaştırma ölçütü yok orta­
+da. Sadece iletişim sistemlerine baktığımızda, canlılar
+dünyasında insanlarınki de (mimik ve el-kol hareket sis­
+temleri gibi) dahil olmak üzere pek çok sistem buluyor­
+sunuz. İnsanların yaptığı hemen her şey gibi insan dili de
+iletişim için kullanılıyor ama burada da karşılaştırmalar
+anlamsız gibi. Bazı hayvan iletişim sistemleri (pek de an­
+lamlı olmayan) bazı açılardan doğal dilden 'daha zengin'
+olduğu bile düşünülebilir; bu sistemler bir organizma için
+son derece şaşırtıcı olan insan dilindeki kesintili sonsuz­
+luktan ziyade kesintisizlik gösterirler.9
+Maymunların dili olup olmadığına dair on sekizinci
+yüzyılda yapılan canlı tartışmalar döneminde, iddialar­
+dan biri, onların dile sahip oldukları ancak bu yetilerini
+'' Bir sonraki bölümdeki ilk yanıta bakınız.
+
+--- Sayfa 61 ---
+58 • Dilin Mimarisi
+gösterdikleri takdirde insanların onları köle olarak ça­
+lıştıracaklarını fark edecek kadar da zeki olduklarıydı.
+Dolayısıyla insanlar etraftayken, sessiz kalmayı tercih
+ediyorlardı. Bu iddiayı hep sevmişimdir.
+Soru : Dil Edinim Düzeneği'nin belli bir arayüz sistemiyle
+insan beyninin genel mimari tasarımı içerisinde belli bir
+yere sahip olduğunu ancak bu arayüzlerin primatlarda
+olmadığını söylediniz. Bununla, hayvanların dil edinim
+düzeneğine sahip olsalar bile uygun arayüz yetilerine
+sahip olmadıkları için dil kullanamadıklarını mı kaste­
+diyorsunuz?
+Chomsky: Böyle bir şey söyledim ama bir şaka olarak.
+Bunun bir olasılık (kuramsal bir olasılık) olduğunu söy­
+ledim. Doğal dünyayla ilgili bildiğimiz şeyler arasından
+bize maymunların dile sahip oldukları ama ona giriş ya­
+pamadıkları iddiasının yanlış olduğunu gösteren hiçbir
+şey yok. Bu mümkün ama buna inanmak için hiçbir se­
+bep yok. Dolayısıyla, evet, böyle bir olasılık var ve belki de
+bir gün bunun doğru olduğunu fark edeceğiz ama bunu
+kimse beklemiyor. Onların bir dil yetisine sahip olmama
+ihtimalleri daha yüksek.
+Her iki türlüsünü açıklamak çok zor. Canlıların en
+karmaşık özelliklerinin pek çoğuyla ilgili bilinen hiçbir
+açıklama yok. İnsanlar Darvinci evrimden ve bunun gibi
+şeylerden bahsediyorlar ancak bu size basit sorular öte­
+sinde hiçbir şey vermiyor. Sadece dil gibi şeyler konusun­
+da da değil. Virüs gibi biyolojik organizmaları ele alalım;
+çok basit organizmaları. Çok yüzlü dış yüzeyler gibi bazı
+yapısal özelliklere sahipler. Bunu 'doğal seçilime' bağla­
+mak ana konuyu kaçırmak olurdu.
+Adına 'Fibonacci serileri' denilen matematiksel seri­
+leri düşünün mesela. Doğada her şeyde karşımıza çıkı­
+yor; nedenini kimse bilmiyor. Bir ayçiçeğini alıp incele­
+diğinizde, farklı yönlere giden sarmallardan oluştuğunu
+görürsünüz. Yanyana olan sarmallardaki kısımların sa­
+yısı Fibonacci serilerinde arka arkaya gelen sayılar gibi
+
+--- Sayfa 62 ---
+Tartışma • 59
+birbirlerine bağlılar. Buna benzer şeyleri doğanın her ye­
+rinde buluyorsunuz ama neden böyle olduğu bilinmiyor.
+Fiziksel dünyada, belli koşullar altında belli yapıların or­
+taya çıkmasını zonınlu kılan bir şey var. 10 Bir ayçiçeğinin
+ne şekilde olduğunu açıklayamıyorsanız, doğal dilin ne
+şekilde olduğunu açıklama olasılığınız çok düşük. Çünkü
+o çok daha karmaşık. Dolayısıyla, dile ciddi bir evrimsel
+açıklamayı nasıl vereceğimizi bilemiyor oluşumuz şaşır­
+tıcı değil; bu genellikle basit dunımlar dışında pek de
+mümkün değildir.
+•
+•
+•
+•
+•
+DiLiN EDiNiMi
+Soru: Dilin doğuştan geldiği ve söyleyiş ve gösterim düzey­
+lerini de kapsayan bir işlevi olduğu sözleriyle ilgili düşün­
+celerinizi daha ayrıntılı olarak anlatabilir misiniz?
+Chomsky: Dilin doğuştanlığı meselesi oldukça ilginç. Dilin
+doğuştan geldiği iddiasına karşı çok büyük bir literatür
+bulabilirsiniz ancak onu savunan hiçbir şey bulamazsı­
+nız. Dolayısıyla, tek yönlü olması sebebiyle bu tartışma
+biraz komiktir. Pek çok insan dilin doğuştan geldiği iddi­
+asını reddediyor ama kimse onlara cevap vermiyor. On­
+lara cevap verilmemesinin sebebi de tezlerinin hiçbir an­
+lamının olmaması. Onları cevaplamanın hiçbir yolu yok.
+'Dil doğuştan gelen bir şey değildir' demek benim to­
+nınum ile bir kaya ve bir tavşan arasında hiçbir fark yok­
+tur demektir. Bir başka şekilde ifade edecek olursak, bir
+kayayı, bir tavşanı ve benim tonınumu insanların İngiliz­
+ce konuştuğu bir topluma koyduğumuzda, hepsi İngilizce
+öğrenecek demektir. Eğer insanlar buna inanıyorlarsa, o
+halde dilin doğuştan gelmediğine de inanıyorlardır. Yok
+eğer benim tonınum ile bir tavşan ve bir kaya arasında
+farklılık olduğuna inanıyorlarsa, o zaman dilin doğuştan
+' 0 Bu konunun popüler bir incelemesi için Stewart 1 995'e bakınız. Benzer
+örnekler ve zihin teorisini kuşatan ilgili konular için bkz. Penrose 1 995.
+
+--- Sayfa 63 ---
+60 • Dilin Mimarisi
+geldiğine inanıyorlardır. Dolayısıyla dilin doğuştan geldiği
+varsayımıyla ilgili olarak tartışılabilir bir şey olduğunu id­
+dia eden insanların aklı karışık. O denli karışık ki onların
+tezlerine cevap vermenin hiçbir yolu yok. Dilin doğuştan
+gelen bir yeti olduğu konusunda hiçbir şüphe yok.
+'Dil doğuştan gelir' demek, ciddi ve önemli bir içsel
+doğa farklılığının benim torunumu, kayalardan, arılar­
+dan, kedilerden ve şempanzelerden ayırdığı inancını ifade
+etmektir. Bu içsel doğanın ne olduğunu bulmak istiyo­
+ruz. Mevcut kavrayışta, bu bir şekilde dil yetisini (ya da
+farelerde de olduğu gibi iç kulakta iyice yerleşmiş bir ke­
+miği) ortaya çıkaran genlerin bir ifadesi. Nasıl olduğu bi­
+linmiyor, ancak bu çok daha kolay sorular için de geçerli.
+Dilin insanlarda doğuştan bulunduğu sözü az çok böyle
+bir şey ifade ediyor. Benzer şekilde, kolların insanlar için
+kanatların da kuşlar için doğuştan olduğunu söylüyoruz.
+Dil ile ilgili olarak doğuştan gelen şeyin dil yetisine
+mi özgü olduğu yoksa zihnin başka parçalarının bir bileş­
+kesi mi olduğu sorusu sorulabilir elbette. Bu ampirik bir
+sorudur ve bu konuda dogmatik olmak için hiçbir neden
+yoktur; bakarsınız ve görürsünüz. Bulduğumuz şeyler
+onun dile özgü olduğuna işaret ediyor. Bildiğimiz kada­
+rıyla, dil yetisinin sadece insan zihninde değil diğer hiçbir
+biyolojik organizmada bulunmayan özellikleri vardır.
+Örneğin, dil yetisinin en temel özelliklerinden biri
+kesintili sonsuzluk özelliğidir. Altı sözcüklük, yedi söz­
+cüklük tümceler bulabilirsiniz ama altı buçuk sözcüklük
+tümceler bulamazsınız. Dahası, bunun bir sınırı yok. On
+sözcüklük, yirmi sözcüklük ve bu şekilde sonsuza kadar
+gidebilen tümceler bulabilirsiniz. Bu kesintili sonsuzluk
+özelliğidir. Bu, biyolojik dünyada neredeyse hiç olmayan
+bir şey. Pek çok kesintisiz sistemler var ve pek çok sınırlı
+sistemler var ama kesintili sonsuz bir sistem bulun baka­
+lım! Buna benzer tek bir sistem daha var, o da aritmetik
+yetisidir ki o da dilin (evrimsel) bir yan ürünü olabilir.
+1 1
+1 1 Dil ve sayılar konusunda bkz. Hurford 1 987.
+
+--- Sayfa 64 ---
+Tartışma • 6 1
+Ne kadar incelerseniz, o kadar doğru görünüyor. 1 2
+Burada bahsettiğimiz türde sorulara geldiğinizde,
+belki de gerçekten biyokimya diyebileceğiniz düzeyden
+ONA düzeyine kadar biyolojik dünyanın hiçbir yerinde bir
+benzeri yok gibi görünüyor. O halde, dil sadece doğuştan
+gibi görünmüyor aynı zamanda can alıcı noktalarda son
+derece özgün görünüyor. 'Üzerine yayılmış1ık sorusuyla
+bunun kastedildiğini anlıyorum. Dil başka şeylerin üze­
+rine yayılmış, başka özellikleri olan bir sisteme eklenmiş
+bir şey. Ampirik çalışmalar sizi buraya götürüyor. Birileri
+bu gerçeklerin başka bir açıklamasını bulursa, onu din­
+lemek çok ilginç olacaktır. Ancak başka bir tez yok, onun
+için tartışılacak bir şey de yok.
+Asıl sorun dilin özelliklerinin ve kullanımının ne denli
+bu sisteme özgü olduğunu bulmak. Bundan dolayı, dilin
+ya da dişlerin özel olarak dil için mi uyarlandığını yoksa
+dilden bağımsız nedenlerle mi evrildiklerini sorabiliriz.
+Bazı konularda cevaplar net olsa da -sürüngenlerin çene
+kemiğinin iç kulağa geçişi gibi- farklı fikirler var. Konuş­
+ma analizi ve algı üzerine çalışan ve saygı duyulan bilim
+insanlanndan bazıları duyu-motor sisteminde dile özgü
+herhangi bir uyarlanım olduğundan şüphe duyuyor; an­
+cak buna katılmayanlar da var. 1 3
+Gösterim düzeyleriyle ilgili daha zor konulara gelir­
+sek, burada da farklı düşünceler ve ilginç fikirler var,
+ama doğal olarak anlaşılan çok daha az şey var. Mesela
+bir kişinin doğal dilin ifadelerinin, 'düşünce diline'14 akta­
+rıldığına inandığını varsayalım. Bu ifadenin bazı özellik­
+leri, dil ifadesinin hangi düşünce dili ifadelerine aktarıla­
+cağını belirlemelidir. Bir ifadenin yorumlanmasının hangi
+özellikleri dil yetisinin bir parçasıdır ve hangi özellikleri
+1 2 Bu ve benzeri konularda bkz. Prcmack 1986. Ayrıca bkz. Pinker 1 995,
+Bölüm 1 1 .
+13 insan ses sisteminin evrimsel temellerinin ilk klasik tartışmalan için
+bkz. Lieberman 1975. Ayrıca, farklı bir bakış açısından daha yakın
+zaman bulgulannın bir incelemesi için bkz. Pinker 1 995: Bölüm 1 1 .
+1 4 Bu tezin ilk ifadesi için bkz. Fodor 1 975.
+
+--- Sayfa 65 ---
+62 • Dilin Mimarisi
+düşünce dilinin anlam özelliklerine aittir? Bu konuda sa­
+dece tahminler var ama bundan fazlası yok.
+Soru: 'Benzetmelerin' açıklama olarak görülmesi konusu
+göz önüne alındığında, ıs dil için 'organ' ifadesi betimleyici
+mi yoksa benzetme amaçlı mı kullanılmaktadır? Çok bil­
+gili değilim ama biyogenetikçilerin beyni her şeye hükme­
+den merkezi bir organ olmaktan ziyade 'hareketli beyin'
+olarak yorumlamaları var aklımda. Bir sosyolog olarak
+da merkez (ve bununla eş anlama gelen merkezi kuvvet)
+kavramından uzaklaşmaya çalışıyorum. Bu sizin bakış
+açınızdan bir şey ifade ediyor mu?
+Chomsky: Araştırılması gereken soru, beynin (ve muhte­
+melen vücudun diğer sistemlerinin) sadece dile adanmış
+bir parçalarının olup olmadığıdır. Eğer öyle ise, teknik li­
+teratürdeı6 bile (net olmamakla birlikte) standart şekliyle
+bu alt sisteme 'organ' diyebiliriz. Bu kullanımda ciddi bir
+risk yok. Yazı yazma sürecinde parmaklarımın hareketini
+beyin korteksinin belirlediğini bulmamızdan farklı olma­
+yarak, bir kuvvet ilişkisini andıran hiçbir şey söylememi­
+ze de gerek yok. Bir organizmanın yapısı ne ise odur, biz
+de elimizden geldiğince bunu anlamaya çalışıyoruz.
+Soru: Broca tarzı tam da doğru olmayan beyin haritalan­
+dırmalarıyla ve bunların dil yetisinin 'yeri'yle ilgili anlamı
+üzerinde ne düşünüyorsunuz?
+Chomsky: Ne kadar belirsiz ve değişken de olsa, Broca
+bölgesi yıllarca üretici bir biçimde çalışılabilmesini sağla­
+yacak şekilde iyi tanımlanmıştır ve genellikle, dil kullanı­
+mında görevi olan beyin kısımlarından biri olduğu varsa­
+yılır. Beyne zarar vermeyen yeni teknolojilerin beyindeki
+dil bilgisi ve dil kullanımına (yani 'dil organı' ve onun ça­
+lışma biçimlerine) dair daha derin bir kavrayış sağlaması
+1 5 Soruyu soran kişi Chomsky'nin konuşmada örnek olarak verdiği pri­
+matı kastediyor olabilir.
+1 6 Bir organ olarak dil yetisi kavramının açıklaması için bkz. Chomsky
+1 980, Bölüm 6.
+
+--- Sayfa 66 ---
+Tartışma • 63
+olasıdır. Şimdilik, bu sorunun cevaplanması çok zor. 17
+Biyolojide 'organ' kelimesinin kullanımındaki belirsizliğe
+de dikkat etmek gerekir, belli bir 'yer' bulma zorunluluğu
+yoktur. Bu terim belirlenebilir özellikleri ve işlevleri olan
+karmaşık sistem parçalarına odaklanabilmek için kulla­
+nılmaktır. Dolaşım ve bağışıklık sistemlerinden 'organlar'
+olarak söz eden teknik bir tartışma, bunların geride ka­
+lan her şeyi olduğu gibi bırakarak vücuttan alınabileceği
+anlamına gelmez.
+Soru: Dil Edinim Düzeneği ile Evrensel Dilbilgisi arasın­
+daki fark nedir?
+Chomsky: Hiçbir şey. Bunlar sadece aynı şeye bakmanın
+iki farklı biçimidir. Evrensel Dilbilgisi, dil yetisinin ilk du­
+rumunun kuramına verilen isimdir. Dil Edinim Düzene­
+ği, bu ilk duruma farklı bir bakış açısından verilen başka
+bir isimdir. Yani hiçbir fark yok.
+Soru: Dil Edinim Düzeneği'nin yapısı nasıldır?
+Chomsky: Dilin yapısı ne ise o işte. Muhtemelen çokça
+basitleştirilmiş bir modele göre, dilin ilkelerini ve para­
+metrelerini anlayabilirsek, dil edinim düzeneğinin ne
+olduğunu da anlayabileceğiz. Bu düzenek bu ilkelere ve
+belli şekilde ayarlanması gereken parametrelere sahip bir
+sistem ve bu parametreler ayarlandığında ortaya bir dil
+çıkıyor. Genellikle, 'dil edinim düzeneği' dilin ilk durumu
+ile alabileceği diğer durumlar arasında bir aracıdır. Bu da
+ilk durumun betimlemesi olduğunu söylemekten başka
+bir şey değildir.
+Soru: Dilin doğuştan geldiğini söylemekle onun görme sis­
+temi gibi dış uyartılara ihtiyacı olduğunu söylemek ara­
+sında bir çelişki var mı?
+Chomsky: Hayır, hiçbir çelişki yok. Görme sistemini ele
+alalım. Bu kırk yıl önce bilinmiyordu ama bizimki de
+1 7 Bu konular genel bir özeti için bkz. Gardner 1975.
+
+--- Sayfa 67 ---
+64 • Dilin Mimarisi
+dahil olmak üzere memelilerin görme sisteminin genetik
+olarak belirlenmiş ayrıntılı bir biçime sahip olduğunu ar­
+tık bugün biliyoruz. Ancak, bebekliğin ilk dönemlerinde
+doğru türde bir uyartı (temelde örüntülü-uyartı) veril­
+mezse, sistem bozulmaya başlıyor. Çalışmıyor. Çalışmak
+için uyartıya ihtiyacı var. Dahası, aldığı uyartı türleri sis­
+temin çalışma biçimlerini az da olsa değiştirebiliyor.
+işte temel deney. 18 Kedilerin bizimkilere yeterince
+benzeyen bir görme sistemleri vardır, dolayısıyla sonuçlar
+az çok aynı. Bir kediyi, kedi yavrusunu alır, (hiç uyartı
+almaması için) gözlerini kapatır ve damarlı kortekslere
+elektrot koyarsanız, bir iki hafta içinde biyolojik olarak
+belirlenmiş yapıların nasıl bozulduğunu görebilirsiniz.
+Bir kediyi alır, (yayınık ışıkları alıp örüntüleri göremesin
+diye) gözlerinin üzerine ortadan ikiye bölünmüş bir masa
+tenisi topu gibi bir şey koyarsanız, sonuç aynı olur. Ancak
+ona değişen örüntülerde uyartılar verirseniz, sistem çalı­
+şıyor. Sadece dikey çizgilerden oluşan bir örüntü-uyartısı
+verirseniz, damarlı kortekste, yatay çizgilerden oluşan bir
+örüntü-uyartısı verdiğiniz durumdan daha farklı bir hüc­
+re dağılımı elde edersiniz. isterseniz bunu farklı diller gibi
+düşünebilirsiniz. Aldığı örüntü uyartılarına bağlı olarak
+farklı biçimlere giriyor. Dolayısıyla, üzerinde deney yap­
+ma imkanınız olan memeli görme sistemlerinde, yaşamın
+belli dönemlerinde alınan belli tür uyartılann sistemin
+işler hale gelmesi için gerekli olduğu ve gelen uyartıya
+göre bunun çalışma biçimlerinde bazı farklılar olduğu ko­
+nusunda şüpheye yer yok.
+Bildiğimiz kadanyla, dil de böyle bir şey. Etik neden­
+lerden ötürü, bu durumda benzer deneyleri yapamazsı­
+nız. Yani dilin de böyle olduğunu kesin olarak bilmiyo­
+ruz. Ortalıkta Joseph Mengele gibi birisi olmadığı sürece,
+bebekler üzerinde bu şekilde deney yapamazsınız. O bize
+bu sorulann cevabını verebilecek olan deneyleri çocuk­
+larla yapmaya hazırdı. Neyse ki böyle bir şey yok. Ama
+1 8 Bkz. Hubei ve Weisel 1962.
+
+--- Sayfa 68 ---
+Tartışma • 65
+bunların doğal sayıldığı dönemlerin tıp tarihinin çok eski
+dönemlerinde kalmadığını da söylemem gerek (tıp okul­
+larında hasıraltı edilen çirkin hikayeler). Gerçek şu ki bu
+şekilde deneyleri artık yapmıyorsunuz. Dolayısıyla cevabı
+kesin olarak bilmiyoruz, ama muhtemelen aşağı yukarı
+aynıdır. Sistemi harekete geçirmek için belli türde uyar­
+tılara ihtiyacınız var ve bu uyartıların biçimleri görünüşe
+göre sistemin çalışma biçimlerini belli oranda değiştiri­
+yor; Hintçe ve İngilizce gibi diyelim. Buna benziyor işte.
+Tecritte büyüyen (ve dili hiç duymamış) çocukların
+dile sahip olup olmadıklarıyla ilgili ilginç bir soru duru­
+yor ortada. [Dinleyiciler araya giriyor] Pardon? Ormanda
+tek başına büyüyen kurt-çocuklar pek iyi bir örnek değil.
+Tecritte büyüyen çocuklarla ilgili bazı böyle gerçek olay­
+lar var. Ancak bu çocuklar o denli psikozlu ve onlarla
+ilgili yanlış giden o denli şey var ki dilleriyle ilgili olarak
+ne söyleyeceğinizi bilemiyorsunuz.
+En iyi çalışılmış örnek, adı Genie konulan bir kızın
+hikayesi. Onunla ilgili bir kitap var. 1 9 On iki ya da on üç
+yaşındayken bir tavan arasında bulunmuştu. Sanırım
+iki yaşındayken onu oraya kilitlemiş olan deli bir babası
+vardı. Bir sandalyeye bağlanmıştı ve ara sıra ona yemek
+atıyordu; kız böylece hayatta kalmış. Ancak görünüşüne
+göre, bu kız belki pencereden gelenler dışında iki yaşın­
+dan itibaren dile hiç maruz kalmadı. Bir sosyal hizmet
+görevlisi onu bulup dışarı çıkardı. Hastaneye kondu ve
+insanlar ona yardım etmeye çalıştı.
+Onun neler yapabildiğiyle ilgili çalışmalar yapıldı
+ve buradan çıkan bazı ilginç sonuçlar var. Ancak doğal
+olarak psikozlu olduğu için bu sonuçların tam olarak ne
+anlama geldiğini bilemiyorsunuz. O kadar çok psikolojik
+sorunlar vardı ki hangisinin dille ilgili olduğuna karar ve­
+remiyorsunuz. Dilbilgisine benzer bir şeyi hiç edinemedi.
+Sözcükleri öğreniyor ve bir şekilde iletişim kurabiliyor­
+du, ancak dilbilgisi yapısı diyebileceğiniz hiçbir şey öğ-
+19 Hikayenin tamamı için bkz. Curtiss ı 977.
+
+--- Sayfa 69 ---
+66 • Dilin Mimarisi
+renemedi. Ancak çok fazla sorunlar olduğu için bunun
+ne anlama geldiğini bilemiyorsunuz. Bu bir bilgisayarı
+alıp, çekiçle kırıp parçaladıktan sonra, bilgisayarın na­
+sıl çalıştığını anlamayı denemeye benziyor. Deney böyle
+yapılmaz.
+Öte yandan bu soruyu biraz olsun aydınlatabilecek
+başka bir doğal deney var. Bu, kuzen olan üç işitme-en­
+gelli çocukla ilgili. Birlikte sürekli oyun oynuyorlarmış.
+Aileleri, ne yazık ki (şimdikinden farklı olarak eskiden
+çok kabul gören) işaret dilinin işitme-engelli çocuklar için
+kötü olduğu ve çocukların dudak okumayı öğrenmeleri
+gerektiği fikrine kapılmışlar. Aileleri buna inandırılmış­
+lardı ve çocuklara işaret bile yapmamaları gerektiği söy­
+lenmişti. Yani onlara, el işaretleri yapmayın yoksa onu
+işaret dili öğrenmek için kullanırlar denmişti. Görünüşe
+göre aileler de bu öneriye tamamen uygun davranmış. Bu
+nedenle, çocuklar işitme-engelli oldukları için hiçbir şey
+duymamışlar ve işaret ya da işaret dili gibi şeyleri hiç
+görmemişler.
+Buna rağmen çocukların kendi işaret dillerini oluş­
+turdukları ortaya çıktı. Çocuklar bunu kendi aralarında
+kullandıkları için aileler bunu bilmiyordu. Bu ortaya çı­
+kınca birkaç iyi psikolog -Lila Gleitman ve öğrencileri­
+bunu yakından incelemeye başladılar. 20 Oluşturdukları
+sistemin çok ilginç olduğu çıktı ortaya. Pek çok açıdan
+normal insan diline benziyordu. Bir tür yalın-özegeçişli2 ı
+dile benziyordu ve doğal bir ortamdaki çocuklarınkine
+yaklaşık olarak aynı gelişim ve karmaşıklığa sahipti. Yani
+onlar elbette kendi kanallarıyla doğal bir dil geliştirmiş­
+ler gibi görünüyordu. Deney o noktada sona erdi, çünkü
+çocuklar bulundukları anda, onlara işaret dili öğretildi.
+20 Bkz. Gleitman 1 995; ayrıca bkz. Carol Chomsky 1 986.
+2 1 Ôzegeçişli bir dil geçişsiz bir eylemin öznesi ile geçişli bir fiilin nesne­
+sinin aynı durum eki aldığı diller için kullanılan bir kavramdır. Bun­
+ların yetinmeci kavramlarla ifade edilişi için bkz. Chomsky l 9Y5b,
+Bölüm 2, 3.
+
+--- Sayfa 70 ---
+Tartışma • 67
+Bu doğal bir dilin zihinsel gelişimini sağlamak için uyar­
+tı bakımından çok fazla şeye ihtiyaç olmadığını gösteren
+olaylardan biri. Doğrudan deneylerle çözülebilecek pek
+çok ilginç soru çıkıyor ortaya; ancak bunlar elbette etik
+gerekçelerle yapılamaz. O nedenle de daha dolaylı yollara
+başvurulması gerekiyor.
+Soru: Dil Edinim Düzeneği tek mi çok mu? İkinci bir dilde
+ya da bir yabancı dilde tekrar kullanılabilir mi? İlerleyen
+yaşlarda dil edinmeyi nasıl açıklarsınız?
+Chomsky: Bu daha önce sorulan bir soruya dönüyor. Batı
+Avrupa'nın bazı kısımları, Amerika Birleşik Devletleri,
+Japonya ve birkaç yer hariç, Hindistan'da ve dünyanın
+her yerinde insanların pek çok dil bildikleri muhtemelen
+doğru. İnsanlık tarihinin büyük bölümünde ve bugün
+dünyanın pek çok yerinde, çocuklar farklı diller konu­
+şarak büyüyorlar. Örneğin Batı Afrika'da büyüyorsanız,
+anneniz ve babanız başka dillerde konuşuyor olabilir.
+Onlar birbirleriyle bir üçüncü dilde konuşuyor olabilirler.
+Teyzeniz dördüncü bir dili konuşuyordur belki ve bunun
+gibi gidiyor işte. Bu insan türü için çok doğal bir durum.
+Yerli halkların çoğunlukla yok edildiği ve yerleşimcile­
+rin çoğunlukla tek bir yerden geldiği Amerika Birleşik
+Devletleri'nde, yapay bir tek tiplilik görüntüsü bulunu­
+yor; ancak bu yalnızca tarihsel nedenlerden dolayı böyle.
+Ancak, Amerika Birleşik Devleri'nde bile, insanların
+tek bir dil konuştuklan düşüncesi kesinlikle doğru de­
+ğil. Herkes pek çok farklı dili duyarak büyüyor. Bunlara
+bazen 'ağız' ya da 'biçemsel farklılıklar' ya da ona benzer
+bir şey deniyor. Ancak bunlar aslında farklı diller. An­
+cak birbirlerine o kadar yakınlar ki onlara dil deme gereği
+duymuyoruz. Dolayısıyla, herkes çok dilli bir ortamda
+büyüyor. Bazen bu çok dilli ortamlar birbirine o kadar
+benzemez sistemler içeriyor; bu durumda onlara farklı
+diller diyorsunuz. Ama bu sadece bir derece sorusu, bir
+evet-hayır sorusu değil. Dolayısıyla dil yetisi her ne ise,
+aynı anda pek çok farklı duruma girebildiğini biliyoruz
+
+--- Sayfa 71 ---
+68 • Dilin Mimarisi
+ve kaç farklı duruma girebileceğini bilmiyoruz. Çocuklar
+farkına varmadan ve hiç yorulmadan, birbirinden ta­
+mamen farklı çok sayıda dili edinebiliyormuş gibi görü­
+nüyor. Bazen dört-beş yaşına gelene kadar farklı diller
+konuştuklarını bile bilmiyorlar. Bu gelişimin doğal bir
+parçasına benziyor.
+Her neyse, bu daha karışık bir soru. Kolay soru, de­
+ğişmeyen bir ortamda dilin nasıl çalıştığı. Ancak bu soru
+az çok anlaşıldığında, daha zor sorunun ciddi olarak
+araştırılmasını umabiliriz: değişken bir ortamda dilin na­
+sıl çalıştığı. Kolay olan soru zaten yeterince zor.
+Yaşamın ilerleyen dönemlerinde dil edinme konu­
+suna gelelim. Mesele ben şimdi Hintçe öğrenmeye karar
+versem ne olur? Bu, başka bir hikaye. Diğer biyolojik ya­
+pılarda olduğu gibi dilin edinimi için de kritik bir dönem
+varmış gibi görünüyor. Belki de birden çok böyle dönem
+var. Görme sistemini ele alalım. İnsanlarla deney yapmı­
+yorsunuz ama kedi ve maymunlarla deneyler yapılıyor.
+Örneğin bir maymunun doğumundan sonraki birkaç
+haftada örüntülü görsel uyartı almasını engellerseniz,
+görme sistemi bozulmaya başlıyor. Ya o dönemde örün­
+tülü uyartıları alacak ya da çalışmayacak. İnsanlar söz
+konusu olduğunda, çift göz mercekli görüntüyü alabilme­
+niz için dört aylık olmadan önce yeterli uyartıyı almanız
+gerekiyor, yoksa bu görüntüyü hiç alamazsınız. Bilinen
+bütün biyolojik özelliklerin harekete geçirilmeleri gereken
+bir dönem var. Bu dönem geçtiğinde, onu harekete geçir­
+me yetisi düşüyor ya da belki de ortadan kalkıyor.
+Belki dil de böyledir. Görme sistemi söz konusu ol­
+duğunda bunu bilmek daha kolay çünkü kedilere ve
+maymunlara işkence etme hakkımız olduğuna inanıyo­
+ruz. Dolayısıyla, insanlar kedi ve maymunlarla deney
+yapıyorlar ve deney yaptığınızda pek çok cevaba hızlıca
+ulaşabilirsiniz. Doktorlar eskiden yaparlardı ancak şu
+zamanlarda, öyle ya, olarak biz insanlara işkence yap­
+mıyoruz. Neyse ki ilgili deneyleri insanlarla yapmıyoruz.
+Bu cevaplan elde etmeyi daha zor hale getiriyor. Bunla-
+
+--- Sayfa 72 ---
+Tartışma • 69
+rı elde etmemin dolaylı yollarını bulmak zorundayız. Dil
+edinmenin önce altı, yedi ya da sekiz yaşlarında, sonra
+da ergenlik sürecinde kesilme dönemleri yaşadığıyla ilgili
+yeterli dolaylı kanıt varmış gibi görünüyor. Bu iki deği­
+şim, bunlar her neyse, ikinci bir dili edinme yetisini ol­
+dukça kısıtlamaktadır. Belli bir yaşı geçtiğin zaman, dili
+edinebilirsin ama genellikle zaten bildiğin dilin üzerinde
+bir oluşum gibi. Bazen o fark çok belirgin değildir. Gös­
+termek için çok ince deneyler yapmanız gerekir ama bu
+doğru yaklaşıma benziyor. Bunlar ilginç ve önemli ancak
+zor sorular, ve geç dil ediniminde iyi anlaşılmayan, ol­
+dukça çok sayıda bireysel değişim var.
+Soru: Farklı uluslardan insanlar evlendiğinde iki ya da
+çokdilli çocuklara sahip olmaları mümkün mü?
+Chomsky: Bunun hiçbir önemi yok. Bunlar tamamen fark­
+lı konular. Bu, bu tip evliliklerde uzun kollu ya da Yunan
+felsefesine ilgi duyan çocuklara sahip olmak mümkün
+mü sorusuna benziyor .
+•
+Dil KURAMI
+Soru: Konuşmada bahsedilen kozmik ışın kuraı11ını biraz
+daha açar mısınız? Dilin ilkeleri, ortalıkta dolaşan may­
+munun genetik bilgisine nasıl eklendi?
+Chomsky: Sanırım, kozmik ışın kuramı derken, insanın
+evrimiyle ilgili bazı soruları açığa kavuşturmak için kulla­
+nılan ama çok ciddiye alınmaması gereken belli bir masalı
+kastediyorsunuz. Yani, bir zamanlar az çok bizim gibi bir
+söyleme-algılama ve kavram-niyet sistemi olan ancak dil
+yetisi olmayan primatların var olduğu ve onlara dil yetisi
+kazandıran bir mutasyona neden olan doğal bir olayın
+gerçekleştiği iddiası. Diyelim ki bir kozmik ışın yağmuru
+ya da sürüngen çenesindeki bir kemiğin iç kulağa yerleş­
+mesini sağlayan süreçler gibi daha uzun zaman alan bir
+olaydı. Bu kemiğin iç kulağa yerleşmesi dilin kullanımı
+
+--- Sayfa 73 ---
+70 • Di.lin Mimarisi
+için mükemmel şekilde uyarlanmış bir yapı; ve yakın za­
+mandaki çalışmalara göre bu olay 1 60 milyon yıldır sü­
+regelen ilk memelilerin kafataslarının büyümesinin kaçı­
+nılmaz bir sonucu. Bu masal Yetinmeci Çizgi tarafından
+ortaya atılan soruların gayri resmi bir biçimde gündeme
+getirilmesini sağlamanın bir yolu.
+Temel ilkeler genetik programa nasıl dahil oldular?
+Bu tip sorular sadece dil için değil daha basit biyolojik
+sistemler için bile mevcut kavrayışın çok ötesindeler.
+Soru: Sınırlı araçların sınırsız kullanımı; burada bir tu­
+tarsızlık yok mu? Sınırlı bir organın sınırsız olasılıkları
+mümkün kıldığı bir model içsel olarak tutarsızlıklara
+gebe değil midir?
+Chomsky: Bu, yüzyıl öncesine kadar bir sorun idi. Ger­
+çekten de tutarsızlık varmış gibi görünüyordu. Modern
+matematiğin önemli keşiflerinden biri de bunun bir tu­
+tarsızlık olmadığıdır. Sınırlı araçların sınırsız kullanı­
+mını ifade etmenin son derece tutarlı bir yolu var. Bu,
+işlenebilirlik kuramı, özyinelemeli işlev kuramına vb. yol
+açtı. 22 Bu modern matematiğin bazı geleneksel fikirlerin
+netleştirilmesini sağlayan büyük bir keşfi. Ortada bunun
+gibi fikirler vardı ama bunlar çok yakın zamanda açıklık
+kazandılar; neredeyse yirminci yüzyılın ortalarına kadar.
+Dolayısıyla, evet, ortada bir tutarsızlık varmış gibi görü­
+nüyor ama öyle değil. Bunun tutarsızlık içermeyen çok
+basit bir açıklaması var ama burada ondan bahsetmem
+mümkün değil.
+Soru: İlkeler ve parametreler yaklaşımında bir ilke örneği
+verebilir misiniz?
+Chomsky: Konuşmada bahsettiğim yorumlanamaz özellik­
+lerin anlam gösteriminden önce ortadan kaldırılması ge­
+rektiği (aksi takdirde bu nesnenin okunamaz olacağı) ve
+bunun ortadan kaldırılmasının tek yolunun sözdizimsel
+22 Bkz. Turing 1 950; aynca bkz. Boolos ve Jeffrey 1 974.
+
+--- Sayfa 74 ---
+Tartışma • 7 1
+yakınlık ilişkisi içinde silme olduğu ilkesi evrensel gibi
+görünüyor. Her yerde etkisi var. Örneğin, az önce sordu­
+ğumuz teknik soruyu ele alalım,23 onun için de sonuçları
+var. Pek çok yapılar ve pek çok dil için doğru gibi görü­
+nüyor. Öyleyse bu bir ilkedir. Başka yakınlık ilkeleri de
+ilkedir.
+Önerilen ilkeler arasında Aşamalı X Kuramı, bağla­
+ma kuramı, kopya zincirleri arasında buyurma koşullan,
+Kayne'in 'belirsizliğe yer bırakmayan yollar' kuramı ve
+onun Larsoncu 'kabuk kuramı'na yol açması. Rizzi'nin
+'göreceli yakınlık' kuramı ve bunlar gibi pek çok kuram.
+Alan bunlarla dolu ve bunlar tam da olması gerektiği gibi
+sürekli değişiyor.24
+Dil çalışmaları çok eskilere dayanıyor, klasik Hindis­
+tan'a ve Yunanistan'a kadar takip edebilirsiniz. Ancak
+bugün sorulmakta olan soruların çoğu, yakın bir zamana
+kadar hayal edilemez ve sorulamazdı. Ve bu sistem, bir
+deneysel araştırma alanında sürekliliği olan kapsamlı il­
+keler bulmayı beklemeyeceğiniz bir karmaşıklık derecesi
+içeriyor. Bu tip soruları hızlıca cevaplayabilecek belli de­
+neylerin, etik gerekçelerle yasaklanmış olması başka bir
+sorun. Dolayısıyla burada, karmaşık moleküllerin veya
+kedilerin görme sisteminin çalışılmasından daha dolaylı
+yollar bulmak zorundasınız.
+Soru: Dilin doğal ve formel sistemler arasındaki 'mükem­
+melliğinde' bir 'ara yol' olduğunu mu söylüyorsunuz? Bu
+onun yakın zamanda ortaya çıkmasının mı yoksa yaptığı
+şeyin çok yönlülüğünün mü bir sonucu?
+Chomsky: Dilin 'mükemmelliğine' yapılan göndermeler
+çalışma gündemine çok yakın zamanlarda giren ve hala
+çok az anlaşılmış olan sorularla ilgili. Ancak ben bunların
+23 Özellik benzeşiminden kaynaklı hareketler için konuşmanın sonunda­
+ki tartışma kısmına bakınız.
+24 Bu son derece teknik ayrıntılara bir giriş olarak bkz. Radford 1 988,
+1 997. Ayrıca Chomsky l 995b'nin ilk bölümü de bunların kısa bir be­
+timlemesini içeriyor.
+
+--- Sayfa 75 ---
+72 • Dilin Mimarisi
+ampirik olarak anlamlı ve muhtemelen önemli olduğunu
+düşünüyorum. Sorular, temel olarak dilin, dil yetisinin
+sağladığı bilgileri bazı eylemleri gerçekleştirmek için kul­
+lanan başka ('dış1 sistemlerle arayüz ilişkilerine giren bir
+sistem olduğu varsayımıyla başlıyor. Bu dış sistemler an­
+cak belli biçimlerde sunulan bilgilere giriş yapabilirler.
+Kullanılabilir olması için, dilin bu bilgileri uygun biçim­
+lerde sağlaması gerekir. Sonuç olarak, dış sistemler dil
+yetisi üzerinde 'okunabilirlik' koşulları (çıktı koşulları)25
+dayatıyorlar. Biz dilin bu koşulları sağlamak için ne denli
+iyi tasarlanmış olduğunu, bu koşullar tarafından gerek­
+tirilmeyen hiçbir teknik araca ve nedensiz karmaşıklığa
+yol açmadan dil yetisinin özelliklerinin bu çıktı koşulları­
+nın 'en iyi çözümleri' olup olmadığını sorabiliriz. Sorular
+başlangıçta net değildir, ancak son zamanlarda dilin bu
+anlamda 'mükemmelliğe' yaklaşan bir sistem olduğu ge­
+nel tezini kabul etmenin deneysel sonuçları literatürde de
+tartışıldığı gibi belli şekillerde inceltilebilir.
+Formel sistemler tamamen farklı bir konu. Bunlar
+şu ya da bu amaç için geliştirilmiş; ve amaçlarını ger­
+çekleştirdikleri ölçüde iyi ya da kötü olan yapay araçla­
+rı, biyolojik bir sistemle kıyaslamak için hiçbir gerekçe
+görmüyorum. Bunlar için 'yakın zamanda ortaya çıkma'
+diye bir konu da yok. Dil yetisi mevcut durumuna nasıl
+ulaşmış olursa olsun, benzer sorular aynı şekilde ortaya
+çıkacaktır.
+Soru: Yetinmeci Çizgi 'buluşma', 'çakılma', 'birleştir', 'er­
+tele' ve 'açgözlülük' gibi değişik ifadeler kullanıyor; bu
+mecazi ifadeler sizin göıiişlerinizden esinlenilmiş ifadeler
+değil mi?
+Chomsky: Öyleyse bile, benim bundan haberim yok. 'Bu­
+luşma' ve 'çakılma' matematikten ve işlenebilirlik kura­
+mından geliyor. 'Birleştir! ' iki şeyin bir araya gelip daha
+büyük bir şey oluşturmasını ifade etmek için benim dü-
+20 Dil ve tasarımı bölümündeki notlara bakınız.
+
+--- Sayfa 76 ---
+Tartışma • 73
+şünebildiğim en basit ifade; 'Ertele! ' konulan resmedile­
+bilir ve anlaşılabilir bırakmak için kullanılan bir tür yarı­
+şaka. 'Açgözlülük' için de aynısı geçerli. Bence terimlerin
+seçimi hiçbir şey ifade etmiyor.
+Soru: Sözdizim yapılarının soldan sağa sıralanması Yetin­
+meci Çizgi'de daha önceki zamanlara göre daha merkezi
+bir role sahip. Bu dil yetisine içkin yapısal bir özellik mi
+yoksa söyleme-algılama ve kavram-niyet sistemlerinin
+sıralama ihtiyaçları tarafından dayatılan bir arayüz-kısıt­
+laması mı?
+Chomsky: Bu çok ilginç bir araştırma konusu. Ben dil­
+de soldan sağa sıralama olduğuna inanmıyorum. Üretici
+sistemin (sözlükçe öğelerini alan, onlardan daha büyük
+şeyler yapmak için onları bir araya getiren ve nihayetinde
+anlamsal gösterimi verecek şekilde onlar üzerinde bazı
+işlemleri gerçekleştiren sistemin) yapısına baktığınızda,
+kavram-niyet sistemine kadarki arayüzde gerçekleşen
+işlemlere kadar baktığınızda, soldan sağa bir sıralama
+yokmuş gibi görünüyor. Hiçbir sıralama da olmayabilir.
+Sadece aşamalı ilişkiler var.
+Öte yandan, sesin soldan sağa bir sıralaması var.
+Benim tahminim, bu soldan sağa sıralamanın söyleme­
+algılama sistemleri tarafından dayatıldığı yönünde. Bizim
+söyleme-algılama sistemlerimiz kısıtlıdır; onlar yapıları
+zaman içinde soldan sağa bir biçimde üretmek zorun­
+dadır. Bu nedenle, bu sistemin bir noktasında, yalnızca
+aşamalı bir yapısı olan sıralamasız bir sisteme, algılama­
+söyleme arayüzünün koşullarını karşılaması için bir sıra­
+lama dayatılıyor.
+Ancak bunun bir gereklilik olmadığının farkında ol­
+mamız gerek. Aslında bu özelliğe sahip olmayan başka
+canlılar var. Beden büyüklüklerine göre beyin büyüklüğü
+söz konusu olduğunda, insanlannkinden çok da farklı
+olmayan yunuslan ele alalım. Yunuslann karmaşık bir
+iletişim sistemleri var. Burunlanndan ses çıkarıyorlar
+(yunuslar pek çok ilginç ses çıkarabiliyorlar) . Bu kısmen
+
+--- Sayfa 77 ---
+7 4 • Dilin Mimarisi
+radar benzeri bir sistem (nerede olduklannı, bir şeye çar­
+pıp çarpmayacaklarını bilmek zorundalar) . Ancak, görü­
+nüşe göre bu kısmen iletişim. Bazı yunus alt türleri bunu
+eşzamanlı olarak burunlarının iki tarafıyla da yapabiliyor.
+Bu bizden daha karmaşık bir iletişim sistemleri olduğunu
+gösteriyor; eşzamanlı olarak ses üretimi yapabiliyorlar; iki
+boyutlu bir üretim. Bu yapılabilir bir şey; bu durumda,
+onların sesleri soldan sağa bir sıralama içermiyor. Eş za­
+manlı çıktılan var. Belki her biri kendi içinde soldan sağa
+sıralamalıdır ama tamamı soldan sağa değil. Biz buna sa­
+hip değiliz; bizim tek bir çıkış kanalımız var.
+Bu arada, bir işaret diline baktığınızda, o da tek bir
+kanaldan çıkmıyor. Onun da çok sayıda çıktı kanalları
+var ama konuşma dilinin tek bir kanalı var. Bu bizim
+söyleme-algılama sistemlerimizin bir kısıtlaması ve her
+şeyin belli bir şekilde sıralanmasını zorunlu kılmakta. Di­
+yelim ki telepatik olarak iletişim kurma yeteneğine sahip
+olsaydık (böylece ses çıkarmak zorunda olmazdık) ; dilde
+sözcük sıralaması da olmayabilirdi. [Dinleyicilerden an­
+laşılmayan bir yorum.] Ha, elbette. Bu kesinlikle doğru
+ama bu tamamen farklı bir soru. Bir ifadenin üretilmesi­
+nin soyut bir işlem olduğunu hatırlayın -bu bir ifadenin
+dışavurulmasıyla aynı şey değil- tamamen farklı bir me­
+sele. Bir ifadeyi dışavurduğunuzda, elbette zaman içinde
+gerçekleşir; çünkü belli bir zamanda başlarsınız sonra da
+bir sonrakini yaparsınız ve böyle gider. Bu süreçte pek
+çok değişiklikler yapabilirsiniz; ama bu aynı soru değil.
+Değişiklikler yaptığınızda, yeni bir şeyi tekrar üretiyor­
+sunuz. Ama üretim ve dışavurum tamamen farklı işlem­
+lerdir. Çıktı sistemleri, bilgi sistemlerine giriş yapmak
+zorunda oldukları için bunlar elbette ilintili. Onun için
+bunlar ilintili ama farklı işlemler. Üretimin bir sıralaması
+olmadığını söylemek işlerimizi zaman akışı içinde yaptığı­
+mız için dışavurumun bir sıralaması olduğu gerçeğinden
+tamamen bağımsızdır. Tartışılan şey bu değildir.
+Asıl soru bu bilgiyi sağlayan soyut ifadede bir sıra­
+lama olup olmadığıdır. Bence söyleme-algılama düzeyi
+
+--- Sayfa 78 ---
+Tartışma • 75
+dışında kalan şeyler için bu sorunun cevabı 'hayır'dır.
+Ancak bunlar araştırma soruları; bu konularda dogmatik
+olamazsınız. 26
+Soru: Yetinmeci Çizgi'de kabul edilen temel ilişkiler,
+belirleyici-baş ilişkisi ya da yakınlık içeren ilişkiler gibi,
+Mizo gibi Tibet-Burman dillerindeki çekim yapılarını açık­
+layamaz. Mizo dilinde, İngilizcede John wants to see you
+'John seni görmek istiyor' şeklinde ifade edeceğiniz bir
+yapıda, want 'istemek' eylemi hem ana tümcenin öznesi
+olan John ile hem de iç öbeğin nesnesi olan to see you
+'seni görmek' öbeğindeki you 'sen' ile uyum eki almasını
+açıklayamaz. Bu durumda, ana öbeğin uyum gösteren
+baş öğesi ile iç öbeğin nesnesi arasında bir belirleyici-baş
+ilişkisi kuramazsınız. Bu gerçekleri Evrensel Dilbilgisi'nde
+nasıl açıklardınız?
+Chomsky: Diyelim ki birisi, dile belli bir yaklaşımın İngi­
+lizcede there are believed to have been several people in
+the room 'odada birkaç insan olduğuna inanılıyor' gibi
+ifadelerde eylemin kendi öznesiyle değil de en içteki ad
+öbeğiyle uyuşma ilişkisine girmesini açıklayamayacağını
+iddia ediyor.27 Bu tezin doğru olup olmadığını anlayama­
+yız. Öncelikle İngilizceyi belli bir dikkatle incelememiz ve
+burada bahsedilen yaklaşımın kavrayış geliştikçe nasıl
+değiştirilmesi gerektiğine karar vermemiz gerekir. Hiç­
+kimse, herhangi bir dilden, İngilizceden ya da Mizodan,
+2" Bu noktada Richard Kayne'in sözdizimde sıralama konulu önemli
+çalışmalarından bahsediliyor (Kayne, 1994). Ne yazık ki kaydın bu
+kısmı anlaşılmaz halde. Kayne'in kuramının bir tartışması için bkz.
+Chomsky l 995b, 4.8.
+27 Dikkatinizi çekmiştir, bu yapı ve bahsi geçen Mizo'daki yapı temel ola­
+rak aynı sorunu çıkarıyor: ikisi de farklı cümleciklerdeki öbekler ara­
+sında uyum gerektiriyor. Bu anlamda da, uyum ilişkisinin cümlecik
+içinde kısa mesafede gerçekleşen (belirleyici-baş arasında) bir ilişki
+olduğu fikrine karşı kanıt oluşturuyor. Burada anlatılmaya çalışılan
+şey yüzeyde karşı kanıtmış gibi görünen bir şeyin daha yakından ve
+dikkatli bir analizde karşı kanıt olmama ihtimali olduğu. Bu yapıyla
+ilgili aynntılar için bakınız Chomsky l 995a, l 995b.
+
+--- Sayfa 79 ---
+76 • Dilin Mimarisi
+seçilmiş herhangi bir cümleyi Yetinmeci Çizgi'nin açıkla­
+yıp açıklayamayacağını bilemez.
+Bu dile özgü bir şey değil. Doğa bilimlerinde bile, çok
+basit sistemlerin ötesinde anlaşılmış çok az şey vardır ve
+önerilen kuramların belli olgulan nasıl açıklayabileceği
+ya da açıklayıp açıklayamayacağı konusunda sadece tah­
+min yürütülebilir. Tam şu anda yağmur yağmakta oldu­
+ğunu fizik kuralları açıklayabilir mi? Bu soru bu şekilde
+sorulamaz, ve bu soru doğru şekilde sorulduğunda, son
+zamanlarda yapılan çalışmalara göre çok şaşırtıcı bazı
+cevaplarla karşılaşıyoruz. Yirminci yüzyılın başında, o
+zamanın en gelişmiş bilim dalı olan fiziğin, kimyasal bağ­
+lanma gibi temel şeyleri açıklayıp açıklayamayacağıyla
+ilgili -ki açıklayamıyordu- hiçkimse kesin bir şey söyleye­
+miyordu . Bugün, kimse günümüz fiziğinin evrende oldu­
+ğu varsayılan maddenin yüzde doksanı için bir açıklama
+getirip getiremeyeceğini belli bir kesinlikle söylemiyor.
+Doğa bilimlerinin ilk dönemlerine gittiğimizde, sonuçlar
+çok daha çarpıcı.
+Bilim mucizeler yaratma işi değildir. Bundan ziyade,
+kavrayışımızı geliştirme işidir. Bu görünürde (çoğunlukla
+yanlış bir şekilde) en basit olduğu varsayılan sorular için
+bile kolay bir iş değil.
+Soru: Aşamalı X Kuramı soru ve edilgen cümleler gibi pek
+çok basit tümceyi açıklayabiliyor. (i) If he comes then we
+will go ta the cinema 'o gelirse sinemaya gideceğiz' ve (ii)
+Though he is poor, he is honest 'Fakir bile olsa dürüst
+biri' gibi karmaşık tümcelerin nasıl ifade edilebileceğini
+söyleyebilir misiniz?
+Chomsky: İfadeler için öbek yapısı gösterimleri önermek
+kolay bir iş, ama bu Aşamalı X Kuramı ile mi yapılma­
+lıdır sorusu başka bir soru. Bununla ilgili olarak, yakın
+za rııan yetinmeci çalışmalarda da belirtilen nedenlerden
+dolayı benim şüphelerim var. 28 Soru hangi yapılann doğ-
+28 Bkz. Chomsky 1995a.
+
+--- Sayfa 80 ---
+Tartışma • 77
+ru olduğudur; ve basit ifadeler için karmaşık ifadeler için
+olduğundan daha kolay bir soru değildir. Mesela you saw
+him 'sen onu gördün' gibi basit bir tümceyi ele alalım.
+Seksenlerin sonundan itibaren, bunun öbek ifadesinin
+geçmişte olandan çok daha farklı olduğu düşünülüyor,
+az çok şöyle bir şey: 29
+[26 you [2. ZMN [l':P you [r;. see [Aö him]]]]]]
+Burada <you, you> şeklinde ifade edilen çift, you 'sen'
+ifadesinin alttaki kopyasını yukardaki duyulan konuma
+taşıyan belki de son derece karmaşık işlemler sonucu
+oluşan bir zincirdir. Bahsettiğiniz tümcelerle ilgili öbeksel
+yapı gösterimleri için ciddi bir sorun teşkil etmeyen ben­
+zer sorular çıkmakta. Bu yapılarla ilgili alanda ilginç ça­
+lışmalar var. Sabine latridou'nun MiT doktora tezi buna
+örnek olarak verilebilir.
+Soru: Yetinmeci Çizgi'nin iyi hissettirici değeri nedir?
+Chomsky: Bu şaka gibi bir şey idi. Kitabın (Chomsky
+1 995b) dördüncü bölümünde söylediğim şey Yetinmeci
+Çizgi'nin başarısızlığa uğraması halinde bile, iyi hissettiri­
+ci bir değeri olduğuydu. Bu değer, sizi önemsiz saydığınız
+şeylerle ilgili olarak bile düşünmeye zorlaması. Aşamalı
+X Kuramı'nı, yüzey yapıları, imleri ya da uygun yönetim
+gibi ilkeleri kullanıyorsanız, bu program size bu varsa­
+yımların gerçekten haklı olup olmadığını, onları kavrayış
+eksikliğini örtmek için kullanıyor olup olmadığınızı sor-
+2" Bu yapı Eylem Öbeği içi Özne Savı'na dayanıyor (Koopman ve
+Sportiche, 199 1 ). Özne (bir anlamda Ad Öbeği) Eylem Öbeğinin belir­
+leyici konumunda yapıya dahil oluyor ve buradan Zaman Öbeğinin
+belirleyici konumuna taşınıyor. Basitçe ifade etmek gerekirse, Zaman
+Öbeği klasik tümce kavramına denk geliyor. Daha önceki kuramlarda
+bu cümlenin öbek yapısı aşağıdaki gibi incelenmişti:
+lzo you iz· ZMN lc:o le: see IAo him]]]]]]
+(Kısaltmalar. ZÖ = Zaman Öbeği ZMN = Zaman EÖ = Eylem Öbeği E =
+Eylem AÖ = Ad Öbeği
+çev. notu}
+
+--- Sayfa 81 ---
+78 • Dilin Mimarisi
+maya zorluyor. Bu iyi hissettirici bir şey; göz ardı edilmesi
+çok kolay olan şeyler üzerinde düşünmenizi sağlıyor.
+Alandaki teknik çalışmalara baktığınızda (örneğin
+that-iz süzgecini açıklama denemelerini ele alalım) bu
+noktada açıklama olarak öne sürülen şeylerin, açıklan­
+ması gereken olgu ile neredeyse aynı karmaşıklık dü­
+zeyinde olduğunu görürsünüz. Bunlar açıklama değil;
+bunlar sadece sorunun başka terimlerle tekrar ifade edil­
+mesi. 30 Bu belki de ileri çalışmalar için temel oluşturmak
+açısından çok önemlidir. Bu yaklaşımın iyi hissettirici
+yanı bu gerçeği gün yüzüne çıkarması ve size elinizdeki
+şeyin gerçek bir açıklama olup olmadığını sorgulatması.
+Elinizdeki şeyin bir açıklama olduğu konusunda kendi­
+nizi yanıltıyor da olabilirsiniz. Bunun gibi birçok şey var.
+Örneğin, uygun yönetme ve imler gibi araçların pek çok
+kullanımının, aynı olguyu farklı teknik ifadelerle tekrar
+ifade eden ama onları geçmişte olduğu gibi açıklamasız
+bırakan sahte açıklamalar olduğu ortaya çıkıyor.
+[Başka bir örnek vereyim.] Bu programın en önemli
+sezgilerinden biri de işlemlerin her yerde uygulanabile­
+cekleri fikri oldu. Peki öyleyse, neden ad öbeği yer de­
+ğiştirmesi gibi bazı işlemler ifade dışarıya çıktı olarak
+30 That-iz Süzgeci, Chomsky ve Lasnik ( 1 997) tarafından aşağıdaki gibi
+cümlelerin kabul edilemez olmalarını açıklamak için ortaya atılmıştır:
+*who do you think that saw Mary? istenen anlam: 'Kimin Mary'i gör­
+düğünü düşünüyorsun?' *John seems that saw Mary. istenen anlam:
+'John Mary'i görmüşe benziyor'. Yer değiştirmenin iz kuramına göre,
+ilk cümledeki who ve ikinci cümledeki John gömülü tümceciğin özne
+konumundayken, arkalarında iz bırakarak yer değiştiriyorlar. Her iki
+durumda da bir 'that-izi' serisi ortaya çıkmış oluyor. ilk iradeyi kabul
+edilebilir olan who do you think saw Mary? 'Kimin Mary'i gördüğünü
+düşünüyorsun?' ifadesiyle karşılaştırınız. Bu tümcede, bir tümleyici
+olan that yer almıyor ve böylece bu tümceler ilgili 'that-izi' serisini ba­
+rındırmıyorlar. Bu süzgeç içinde 'that-izi' serisi barındıran yapıların
+kabul edilemez olarak değerlendirilmesini sağlıyor. Bu süzgecin ken­
+disi açıklanmaya ihtiyacı olan bir varsayım ve Chomsky'ye göre, ilgili
+gözlemin başka bir biçimde ifade edilmesinden başka bir şey değil. Bu
+olgunun genel bir açıklaması için bkz. Chomsky 1 98 1 , ı 995b.
+
+--- Sayfa 82 ---
+Tartışma • 79
+verilmeden önce, bazıları ise ifade dışarıya çıktı olarak
+verildikten sonra yapılıyor? Bu çok teknik bir soru. Ad
+öbeği yer değiştirmesi söz konusu olduğunda, aralarında
+ciddi bir fark varmış gibi göıiinüyor. Yakın zamanlarda,
+yapılan çalışmalar gösteriyor ki . . . Bir adım geriden başla­
+yayım. Ad öbeklerinin eylem öbeklerinin ya da daha genel
+olarak yüklemin içinde olduklarına inanmak için iyi ne­
+denler var. Bunun doğru olduğunu varsayalım.
+Yakın zamanlardaki bir bulguya göre, hareket/ey­
+lemlilik belirten bir ifadeyi içeren bir eylem öbeğinde (bir
+geçişli eylemi ya da eyleyen ya da ettirgen nitelikli her­
+hangi eylem öbeğini düşünebilirsiniz) bir şeyin mutlaka
+göıiinür şekilde bu öbeğin dışına hareket etmesi gere­
+kiyor; bir şeyin konulaşması gerekiyor. Konulaşan şey
+zaman başının belirleyici konumuna taşınmış olan özne
+ya da (nesne hareketine izin veren dillerde) eylem öbeğin­
+de nesne-yükseltilmesi için ayrılmış konuma giden nes­
+ne olabilir. Fakat bir şekilde bir şeylerin oradan çıkması
+gerekiyor gibi duruyor. Demek ki bir Eylem-Özne-Nesne
+(EÖN) sıralamalı dilde, özne aslında zaman başının be­
+lirleyici konumuna gitmiştir ve bu dil EÖN sıralamasına
+sahiptir; çünkü eylem öznenin bulunduğu konumdan da
+yukarıya gitmiştir. Bu aslında hiçbir EÖN sıralamalı dil
+olmadığı anlamına geliyor. Sadece ÖEN ve ÖNE sıralama­
+lı diller var.
+Bu aynı zamanda İzlanda dili gibi bir dilde bütün
+öğelerin eylem öbeği içinde kalmış gibi göıiindüğü geçiş­
+li-dolgulu yapılarda bile, bu öğelerden en azından birinin
+eylem öbeğini terk etmiş olduğu anlamına geliyor (eylem
+öbeğinin içinde değil) . En azından biri (belki de nesne) yer
+değiştirmiş olmalı.
+Bu bir gerçek gibi duruyor ve bunu açıklamaya ça­
+lışmak çok ilginç. Zaman başının belirleyici konumunun
+açıkça doldurulması gerektiği de bir gerçeğe benziyor.
+Buna genelde Genişletilmiş Yansıtma İlkesi deniyor. Bu
+dilin evrensel olarak betimleyici bir özelliğine benziyor,
+belki de aynı konulaştırma özelliğiyle ilgilidir. Bu iki
+
+--- Sayfa 83 ---
+80 • Dilin Mimarisi
+gerçek, eğer bir dilde özne konumunu dolduracak olan
+dolgu öğesi yoksa ve bu eyleyen içeren bir ifade ise, ad
+öbeklerinden birinin yer değiştirmesini zorunlu kılar. O
+halde bu yer değiştirme dilin evrensel ilkeleri tarafından
+zorlanan bir hareket gibi duruyor.
+Peki diğer ad öbeği yer değiştirmelerini nasıl açıkla­
+yacağız? Örneğin, İzlanda dili gibi açıktan bir nesne yer
+değiştirmesini içermeyen İngilizceyi ele alalım. Aslında
+İngilizcede de nesnenin yer değiştirmesi olduğuna ve
+bunun açıktan bir yer değiştirme olduğuna dair güçlü
+nedenler bulunuyor. Ancak bu yer değiştirme gerçekleş­
+tiğinde, başka bir yer değiştirme bunu takip etmek zo­
+runda. Bu nedenle, nesne bu konumda kalamıyor. What
+did John see? 'John neyi gördü?' gibi bir tümcede nes­
+ne, İzlanda dilinde ya da Japoncada olduğu gibi önce­
+likle nesne konumuna hareket ediyor, ondan sonra da
+başka bir yer değiştirmeyle tümcenin tümleyen öbeğinin
+belirleyici konumuna gitmek zorunda kalıyor. Bu evren­
+sel nedenlerle ve zaman öğesinin özellikleriyle ilgili bir
+parametre nedeniyle ortaya çıkıyor; bence bu Holmberg
+genellemesiyle de ilgili.31 İşte burada, bir parametre far­
+kı var. Zaman öğesinin Holmberg'in genellemesine yol
+açan bir özelliği ve bu da sanki bazı dillerde açıktan yer
+değiştirme varmış, bazılarında yokmuş gibi görünmesini
+sağlıyor. Ancak aslında bu yer değiştirme hepsinde var.
+Bu çok karmaşık bir olaylar silsilesi; Ad Öbeği yer değiş­
+tirmesinin dışarıya çıkmadan önce mi sonra mı olduğu­
+nu belirliyor gibi görünüyor. Çok karmaşık olgular dizisi
+gibi duruyor ama ona daha yakından baktığınızda çok
+az sayıda şeyden oluşuyor ve görünürdeki farklılıklar çok
+küçük gibi duruyor.
+Soru: Bir dile okunabilirlik koşulları tarafından dayatılan
+kısıtlamalar nelerdir?
+31 Bkz. Holmberg ( 1 986); ayrıca Chomsky ( 1 995b:352-3) ve Kitahara
+( 1 997).
+
+--- Sayfa 84 ---
+Tartışma • 8 1
+Chomsky: Bu gelişmekte olan bir araştırma konusu. Yıl­
+lardır çalışılagelmiş olan söyleme-algılama sistemleri ta­
+rafından dayatılan koşullar bile zor ve karmaşık. İlginç
+ama kısıtlı sonuçlar alabiliyoruz. Dil kullanımının diğer
+sistemleriyle ilgili (dünya hakkında düşünmeyi, fikirleri
+ifade etmeyi, soru sormayı falan sağlayan ve bazen kav­
+ram-niyet sistemleri denilen sistemlerle ilgili) çok daha az
+şey biliyoruz. Bu araştırma alanı, dil yetisini konu alan
+çalışmalarla birlikte evriliyor. Dil yetisine dışarıdan uy­
+gulanan sistemlerle ilgili kavrayışımız çok kısıtlı kalmış
+olsa da onların dayattığı koşullarla ilgili pek çok bilgi var.
+Hatta, ses ve anlamla ilgili bilgiler dil çalışmalarının kö­
+kenlerinden beri kullanılagelmiştir.
+(Görece) açıklığın araştırma için bir önkoşul değil de
+onun bir sonucu olduğunu da hatırlamak gerek. Yanıt­
+larla ilgili kavrayış derinleştikçe sorulan sorular da daha
+net hale gelir. Bugüne dek doğal bilimlerde buna benzer
+pek çok örnek bulabilirsiniz.
+Soru: Anlambilimdeki son eğilimler neler? Kendi birimleri
+olan bir bilime dönüşme ihtimali var mı?
+Chomsky: Bu gerçekten çok ilginç bir soru. Bu, benim
+konuşmamda bahsetmediğim gösterimlerle ilgili yan ko­
+nulara gidiyor. Anlam bilimin ne olduğunu sormak zorun­
+dayız. Eğer anlambilim geleneksel olarak (mesela Peirce
+ve Frege gibileri tarafından) ifade edilen şeyse, yani an­
+lambilim sesler ve şeyler arasındaki ilişki ise, böyle bir
+bilimin olamama ihtimali var. 32
+Eğer anlambilim eyleyenlik, konulaştırma, zaman,
+32 Başka bir yerde, Chomsky benzer bir gözlemini şu şekilde ifade ediyor:
+•
+insanlar bir şeylere göndermede bulunmak için kelimeleri karmaşık şekillerde
+kullanıyorlar. Bunlar koşullara ve söylenmek istenen şeye göre değişiyor. Ancak
+kelimelerin kendileri gönderimde bulunmaz. Ne Fregeci değişkedeki gibi kelime­
+şey ilişkisi vardır ne de Charles Sanders Peirce'ın önerdiği türde daha karma­
+şık kelime-şey-kişi ilişkisi. Bu yaklaşımlar, icat edilmiş sembolik sistemler için
+işe yanyor olabilirler (en azından Frege'de bu amaçla geliştirilmişlerdir.) Fakat
+bunlar doğal dilin çalışılması için uygun kavranılan vermiyorlar bize. (Chomsky
+1 996: 22-3)
+
+--- Sayfa 85 ---
+82 • Dilin Mimarisi
+olay-yapıları ve öğelerin onlann içindeki yeri gibi sorula­
+rın çalışılmasıysa, bu çok zengin bir konu, ama bu söz­
+dizimin alanı, yani bu, zihinsel gösterimlerin bir parçası.
+Aynı ses bilimsel gösterimlerin çalışılmasında olduğu gibi,
+bu şekilde bir dünya var mı yok mu sorusundan tama­
+men bağımsız bir şekilde ilerliyor. Buna yanlış olarak
+'anlambilim' deniyor. Bunu, sesbilimin, ses birimleri ile
+moleküllerin hareketleri arasındaki ilişkileri incelemek
+olduğuna inanmaya benzetebiliriz. Elbette değil; bu bam­
+başka bir konu. Ses bilim, nihai olarak moleküllerin hare­
+ketini sağladığı varsayılan işlemleme sistemine yakın zi­
+hinsel gösterimlerin bir çalışmasıdır. Bence, 'anlambilim'
+denen şeyin çoğu aslında sözdizim. Muhtemelen sözdizi­
+min dilin kullanımını içeren arayüze yakın olan bölümü.
+Yani sözdizimin o bölümü var ve elbette genel olarak söz­
+cüklerle ne yaptığınla ilgili olan edimbilim var.33 Ancak
+teknik anlamda bir anlambilim var mı yok mu sorusu
+ortada duruyor. Ben olduğuna inanmak için hiçbir neden
+..
+.
+goremıyorum.
+Bence bu konu, sözcüklerle nesneler arasında kul­
+lanım koşullarından bağımsız olarak bir ilişki olduğuna
+dair eski ve muhtemelen yanlış bir varsayıma dayanıyor.
+Soru: Bir çocuk tıııııanma kavramını bildiği için bu kav­
+ramın bir eyleyen ve bir etkilenen içermesi gerektiğini
+bilir mi? Bir çocuk ölmek kavramının Türkçede ölmek ya
+da nallan dikmek şeklinde ifade edilebileceğini öğreniyor
+mu? Doğuştan gelen kavramsal ve işlemsel bileşenler
+muhtemelen farklı modüllere denk düşüyor. Dile maruz
+kalmak bunlar arasında bir tür etkileşimi tetikliyor olabi­
+lir mi? Bu da sonrasında sözlükçe tarafından doldurulan
+33 Bu noktada dünyadaki şeylere gönderimde bulunmak için kişilerin
+kelimeleri nasıl kullandıkları ve, tutum ve niyetleri ifade etmek için
+cümleleri nasıl kullandıklarıyla ilgili konular gündeme geliyor: Bir ör­
+nek vermek gerekirse, drinks will be served at fi.ve 'içecekler saat S'te
+seıvis edilecek' cümlesi, 'söz, tahmin, uyan, tehdit, önerme ya da da­
+vet' olarak kullanılabilir.
+
+--- Sayfa 86 ---
+Tartışma • 83
+bildik sözdizim gösterimlerine yol açacak şekilde bir yük­
+lem-üye yapısı üretiyor olabilir mi?
+Chomsky: Bu sorular benim yaklaşık on yıl önce yazdığım
+bir kitaba gönderme yapıyor olabilir. Orada çocukların
+biyolojik yapıları gereği bir kavramlar dağarcığına sahip
+olduklarını ve yalnızca dilde belli bir kavramın belli bir
+•
+şekilde ifade edildiğini öğrenmek zorunda olduğunu söy-
+lemiştim. 34 Yani çocuk, soyut bir anlamda, bütün tuhaf
+özellikleriyle birlikte bir tıı·ıı anma kavramına sahip ve
+bunun bu şekilde telaffuz edildiğini öğrenmek zorunda.
+Bu noktada Jerıy Fodor'un yıllardır yaptığı önemli çalış­
+malar ve Ray Jackendoffun ve diğer çalışmalar önemli.35
+Bunların hepsi son derece mantıklı sorular. Bunlarla ilgi­
+li çeşitli fikirlere sahip olabilirsiniz. Ancak açıkçası anla­
+şılan çok bir şey de yok. Bu konularla ilgili olarak kişisel
+görüşlerimi size söyleyebilirim ama bunlar temel olarak
+araştırma konuları.
+Tıı·ıııanma, takip etme, koşma, ağaç, kitap ve benze­
+ri kavramların temel olarak sabit olduklarını düşünmek
+için çok neden var. Bunları incelediğinizde, son derece
+karmaşık özelliklere sahip olduğunu fark edersiniz. Bu
+klasik sözlükçülükte fark edilmiş şeyler değil. Büyük
+Oxford İngilizce Sözlük'ü (büyüteçle okunan sözlük) oku­
+duğunuzda, bir sözcüğün tanımını elde ettiğinizi düşü­
+nüyor olabilirsiniz, ama durum hiç de böyle değil. Tek
+elde ettiğiniz şey birkaç ipucu ve geriye kalan bütün ay­
+rıntıları doğuştan gelen bilgileriniz dolduruyor ve sonun­
+da o sözcüğün ne anlama geldiğini biliyor oluyorsunuz.
+Sözlükçede neyin kanıksanmış olduğunu ortaya çıkar­
+maya çalıştığınız anda, bütün bu kavramların inanılmaz
+derecede karmaşık olduğunu fark edersiniz. 36
+Aslında bundan birkaç yüzyıl önce bu anlaşılmış bir
+şeydi. Yaklaşık olarak Hobbes'tan Hume'a giden ve bu-
+14 Bkz. Chomsky 1988 .
+. ıs Bkz. Fodor 1 987, Jackendoff 1990.
+16 Daha ayrıntılı bir çalışma için bkz. Jackendoff 1990.
+
+--- Sayfa 87 ---
+84 • Dilin Mimarisi
+nun gibi sorulan belli bir derinlikle inceleyen bir gelenek
+var. Bence derinleştirilmesi gereken bu gelenek. Bunun
+aslında Aristocu kökenleri vardı ve on yedinci yüzyılda­
+ki Yeni-Platonculuk37 ile ilginç paralellikler gösteriyordu.
+Ancak bunları çalışmaya başladığınızda, kavramların çok
+karmaşık olduğunu fark ediyorsunuz. Bu da, onların te­
+mel olarak orada olması gerektiğini ve belli bir şekilde
+tetiklendiklerinde de sizin yaptığınız şeyin bunların hangi
+seslerle ilişkilendiğini bulmanız olduğunu gösterir.
+O zaman şu tip sorular çıkıyor ortaya: Bunun ne ka­
+darı değişebilirdir? Ne kadarı sabittir? Eyleyen-etkilenen
+özellikleri sabit midir değişebilir midir? Bu bir araştırma
+konusudur. Bazı durumlarda ne olduğunu biliyoruz. Ör­
+neğin ölmek ile nallan havaya · dilmek elbette yapay bir
+şekilde dayatılan şeyler. Ancak başka sorular geldiğinde,
+gerçekten de neyin ne olduğunu bilmiyoruz.
+İşlemsel ve kavramsal bileşenler farklı modüller mi?
+Açıkçası bu da pekiyi bilinmiyor. Bu çok eski bir soru:
+dil olmadan düşünce olur mu? Bu konuda ne bildiğimizi
+sorarsanız, cevap 'çok az' olur. Tek bildiğimiz iç gözlemle­
+rimizden elde ettiğimiz şeyler.
+İç gözlem yaptığımda bana kesin gibi görünen şey şu:
+Ben dil olmadan düşünebiliyorum. Hatta, çok defa, bir
+şeyler düşünüyorum ama ne düşündüğümü ifade etmek­
+te zorlanıyorum. En azından benim ve tahminimce her­
+kesin yaşadığı bir şey; bir şeyi ifade etmeye çalışırsınız,
+onu ifade ettiğinizde söylemek istediğinizin bu olmadığını
+fark edersiniz ve sonra da onu söylemek istediğiniz şeye
+daha yakın hale gelecek şekilde tekrar söylemeye çalışır­
+sınız. Sonra da birisi size yardımcı olur ve onu başka bir
+şekilde tekrar söylersiniz. Bu çok genel bir deneyim ve
+bu deneyimin varlığını anlamak, dil olmadan düşünebil­
+diğinizi varsaymazsanız, oldukça zor. Düşünüyorsunuz,
+düşündüğünüz şeyi ifade etmenin bir yolunu arıyorsu­
+nuz ve bazen bunu yapamıyorsunuz işte. Düşündüğünüz
+J? Benzer tezler için bkz. Chomsky 1 966, 1975, 1 995c, 1 997.
+
+--- Sayfa 88 ---
+Tartışma • 85
+şeyi başkasına ifade etmenin bir yolunu bulamıyorsu­
+nuz. Bazen bazı şeylerle ilgili çok hızlı bilinçdışında ka­
+rarlar veriyorsunuz. Biri size bu karara nasıl vardığınızı
+sorduğunda, çoğunlukla bunu anlatmak çok zor oluyor.
+Bunun gibi deneyimler aslında dil olmadan düşünebil­
+diğimizi ve düşündüğümüzü gösteriyor gibi görünüyor
+ve eğer düşünüyorsanız, o zamanda belli bir kavramsal
+yapının orada olması gerekiyor. Bunun dil ile nasıl bir
+ilişki içinde olduğu sorusu mevcut durumda hiç doku­
+nulamayan başka bir araştırma konusu; ama önemli ve
+ilginç olma olasılığı olan bir konu.
+
+--- Sayfa 90 ---
+KAYNAKÇA
+Barbosa, Pillar ve diğerleri ( 1 998) : Is the Best Good Enough: Op­
+timality and Computation in Syntax, MIT Press, Cambridge.
+Barsky, Robert ( 1997) : A Life of Dissent, MIT Press, Cambridge.
+Bernstein, Leonard ( 1 976) : The Unanswered Question, Harvard
+University Press, Cambridge.
+Boolos, G. ve R. Jeffrey ( 1974) : Computability and Logic, Cam­
+bridge University Press, Londra.
+Bresnan, Joan ed. ( 1982) : The Mental Representation of Gram­
+matical Relations, MIT Press, Cambridge.
+Brody, Michael ( 1 995) : LeJdco-Logical Foı ııı: A Radically Minimal­
+ist Theory, MIT Press, Cambridge.
+Chomsky, Carol ( 1986) : "Analytic Study of the Tadoma Method:
+Language Abilities of Three Deaf-Blind Children'', Joumal
+of Speech and Hearing Research, Eylül, s. 332-4 7.
+Chomsky, Noam ( 195 1 ) : Morphophonemics of Modem Hebrew,
+master tezi. University of Pennsylvania; 1979'da aynı isimle
+yayımlandı, Garland Press, New York.
+-- ( 1955) : The Logical Structure of Linguistic Theory, University
+of Pennsylvania. 1 956'daki gözden geçirilmiş baskısının
+önemli bir bölümü aynı isimle 1975'te yayımlandı, Plenum
+Press, New York.
+-- ( 1 957) : Syntactic Structures, Mouton, Lahey.
+-- ( 1965) : Aspects of the Theory of Syntax, MiT Press, Cam-
+bridge.
+-- ( 1966) : Cartesian Linguistics, Harper & Row, New York.
+-- ( l 972a) :
+Language and Mind, genişletilmiş baskı, Har-
+court Brace Jovanovich, New York. Birinci baskısı 1968'de
+basıldı.
+-- ( l 972b) : ''Remarks on Nominalization'', Studies in Semantics
+and Generative Grammar içinde, Mouton, Lahey.
+-- ( 1975): Rejlections on Language, Pantheon Press, New York.
+-- ( 1980) : Rules and Representations, Basil Blackwell, Londra.
+-- ( 198 1): Lectures on Govemment and Binding, Faris, Dordrecht.
+-- ( 1982): Some Concepts and Consequences of the Theory of
+Govemment and Binding, M IT Press, Cambridge.
+-- ( 1986a) : Knowledge of Language, Praeger, New York.
+-- ( 1986b) : Baııiers, MIT Press, Cambridge, Mass.
+
+--- Sayfa 91 ---
+88 • Kaynakça
+-- ( 1 987a) : Generative Grammar: Its Basis, Development and
+Prospects, Kyoto University of Foreign Studies, Kyoto.
+-- ( 1987b) : Language in a Psychological Setting, Sophia Uni­
+versity, Tokyo.
+-- ( 1988) : Language and Problems of Knowledge, The Managua
+Lectures, MIT Press, Cambridge. [Türkçesi: Bilgi Sorun/an
+ve Dil. Managua Dersleri, çev. Veysel Kılıç, bgst Yayınları,
+2009. 1
+-- ( 199 1 ) : "Linguistics and Adjacent Fields", Asa Kasher, ed.,
+The Chomskyan Tum içinde, Basil Blackwell, Oxford.
+-- ( l 993a) : Language and Thought, Anshen Transdisciplinary
+Lecture, Moyer Beli, Londra.
+-- ( l 993b) :
+''Men tal Construction and Social Reality'',
+E.
+Reuland ve W. Abraham, ed., Knowledge and Language
+içinde, Kluwer Academic Publishers, Dordrecht.
+-- ( 1 994) : ''Naturalism and Dualism in the Study of Language
+and Mind'', Agnes Cuming Lecture ( 1993) , International
+Journal of Philosophical Studies, c. 1.
+-- ( 1995a) :
+"Bare Phrase
+Structures'',
+H. Campos ve
+P.
+Kempchinsky, ed, Evolution and Revolution in Linguistic
+Theory içinde, Georgetown University Press, Washington.
+-- ( 1995b) : The Minimalist Program, MIT Press, Cambridge.
+-- ( 1995c) : ''Language and Nature", Mind, Ocak, s. 1-6 1.
+Chomsky, Noam ( 1 996) : Powers and Prospects: Refl.ections on
+Human Nature and Social Order, Madhyam Books, Delhi.
+-- ( 1997) : ''Language and Mind: Current Thoughts on Ancient
+Problems'', Bölüm 1 ve 2 (Teksir).
+Chomsky,
+N., R. Huybregts ve
+H. Reimsdijk ( 1 982) :
+The
+Generative Enterprise, Foris Publications, Dordrecht.
+Chomsky, N. ve H. Lasnik ( 1 977) : ''Fil ters and Control'', Linguistic
+Inquiry, 8, s. 425-504.
+Curtiss, Susan ( 1977) : Genie: A Psycholinguistic Study of a
+Modem-Day Wild-child, Academic Press, New York.
+Fodor, Jerry ( 1975) : The Language ofThought, Crowell, New York.
+-- ( 1 987) : Psychosemantics, MIT Press, Cambridge.
+Gardner, Howard (1 975) : The Shattered Mind, Alfred Knopf, New
+York.
+Gazdar, Gerald, E. Klein, G. Pullum ve l. Sag ( 1985) : Generalised
+Phrase Structure Grammar, Basil Blackwell, Oxford.
+
+--- Sayfa 92 ---
+Kaynakça • 89
+George, Alexander ( 1987): "Review of Knowledge of Language''
+Mind and Language, c. 2, No. 2, s. 155-64.
+Gleitman, L. ve E. Newport ( 1995) : ''The lnvention of Language
+by Children: Environmental and Biological lnftuences on
+the Acquisition of Language'', Daniel Osherson, ed. , An
+Invitation ta Cognitive Science içinde, cilt 1 (editörler: Lila
+Gleitman ve Mark Liberman) , MiT Press, Cambridge.
+Holmberg, Anders (1986) : Word Order and Syntactic Features
+in the Scandinavian Languages and English, doktora tezi,
+University of Stockholm.
+Hurford,
+James
+R.
+(1987) :
+Language
+and
+Numbers:
+The
+Emergence ofa Cognitive System, Basil Blackwell, Oxford.
+Hubei, O . ve T. Weisel ( 1962) : "Receptive Fields, Binocular Vision
+and Functional Architecture in the Cat's Visual Cortex'',
+Joumal of Physiology, 160, s. 106-54.
+Jackendoff, Ray ( 1990) : Semantic Structures, MiT Press, Cam­
+bridge.
+-- (1992) : Languages of the Mind, MiT Press, Cambridge.
+Jackendoff, R. ve R Lerdabl (1983): A Generative Theory ofTonal
+Music, MiT Press, Cambridge.
+Katz, Jerold ve Jerry Fodor, ed. ( 1964) : The Structure of Lan­
+guage, Prentice-Hall, Englewood Cliffs.
+Kayne, Richard ( 1994) : The Antisymmetry of Syntax, MiT Press,
+Cambridge.
+Kitahara, Hisatsugu ( 1 997) : Elementary Operations and Optimal
+Derivations, MiT Press, Cambridge.
+Koopman, H. ve O . Sportiche ( 1 99 1) : ''The Position of Subjects",
+J . McClosky, ed . , The Syntax of Verb-initial Languages
+içinde, Elsevier, North-Holland.
+Lasnik, Howard ve M. Saito ( 1984) : "On the Nature of Proper
+Government", Linguistic Enquiry, 15, s. 235-89.
+Leiberman, Philip ( 1975) : On the Origins ofLanguage, Macmillan,
+New York.
+Mathews, G. H. ( 1964) : Hidatsa Syntax, Mouton: Lahey.
+Otero, Carlos, ed. ( 1994): Noam Chomsky: Critical Assessments,
+c. 1, Routledge & Kegan Paul, Londra, s. 342.
+Penrose, Roger ( 1 994): The Shadows of Mind: A Search far the
+Missing Science of Consciousness, Oxford University Press,
+Oxford.
+
+--- Sayfa 93 ---
+90 • Kaynakça
+Piattelli-Palmarini, Massimo, ed. ( 1980): Language and Leaming:
+The
+Debate between Jean Pi.aget and Noam Chomsky,
+Harvard University Press, Cambridge.
+Pinker, Steven ( 1995): The Language Instinct, HarperCollins,
+New York.
+Premack, David ( 1986) : Gavagai: Or the Future History of the
+Animal Language Controversy, MIT Press, Cambridge.
+Radford, Andrew ( 1988) : Transfoııııational Grammar, Cambridge
+University Press, Londra.
+-- ( 1997) : Introduction to Minimalist Syntax, Cambridge Uni­
+versity Press, Londra.
+Rai, Milan ( 1995) : Chomsky 's Politics, Verso, New York.
+Stewart, lan ( 1 995) : Nature's Numbers: Discovering Order and
+Pattem in the Universe, Weidenfeld and Nicolson, Londra.
+Turing, Alan ( 1950): "Computing Machinery and Artifıcial lntcl­
+ligence'', Mind, Temmuz.
+Wexler, Ken ( 199 1 ) : ''On the Argument from the Poverty of the
+Stimulus'', Asa Kasher, ed., The Chomskyan Tum içinde,
+Basil Blackwell, Oxford.
+Zubizarreta, Maria L. ( 1998) : Prosody, Focus and Word Order,
+MIT Press, Cambridge.
+
+--- Sayfa 94 ---
+Dizin
+Aşamalı X Kuramı 38, 40, 7 1 ,
+76, 77
+Bağlanma Kuramı 37, 39
+Bernstein, Leonard 53
+Broca bölgesi 62
+Chomsky ve Piaget tartışması
+•
+•
+•
+
+vııı
+Dil Edinim Düzeneği 63, 67
+Durum ve Rol Kuramları 37,
+40
+•
+•
+•
+•
+Evrensel Dilbilgisi
+63, 75
+vııı, ıx, x,
+Fibonacci serileri 58
+Fodor, Jerry 83
+Frege, Gottlob 8 1
+Genie 65
+Genişletilmiş Yansıtma İlkesi
+37, 79
+Gleitman, Lila 66
+göstergebilim 56
+Hobbes, Thomas 83
+Holmberg, Anders 80
+Hume, David 83
+Iatridou, Sabine 77
+İlkeler ve Parametreler
+Yaklaşımı 28, 29
+işaret dilleri 23
+iz Kuramı 43
+Jackendoff, Ray 53, 83
+Kayne, Richard 7 1 , 75
+Lacan, Jacques 56
+Lerdahl, Fred 53
+Mengele, Joseph 64
+Orwell Soıunu 1 6
+Ôzyinelemeli İşlev Kuramı 70
+Peirce, Charles Sanders 8 1
+Platon Soıunu 1 6
+Sözlükçü işlevci Dilbilgisi 38,
+42
+Sperber, Dan 56
+Üretici Dilbilgisi ix, xi, 22, 28,
+4 1 , 5 1 , 52
+Yeni-Platonculuk 84
+Yer değiştirme 44
+Yetinmeci Çizgi viii, xi, 1 7 ,
+30, 3 1 , 35, 37, 39, 47,
+48, 70, 72, 73, 75, 76,
+77
+Yönetim ve Bağlanma Kuramı
+viii, 38

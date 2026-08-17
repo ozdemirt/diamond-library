@@ -1,0 +1,2683 @@
+--- Sayfa 1 ---
+Eastern Michigan University
+DigitalCommons@EMU
+Master's Theses and Doctoral Dissertations
+Master's Theses, and Doctoral Dissertations, and
+Graduate Capstone Projects
+2011
+The effectiveness of Nazi propaganda during World
+War II
+Michael J. Stout
+Follow this and additional works at: http://commons.emich.edu/theses
+Part of the European History Commons
+This Open Access Thesis is brought to you for free and open access by the Master's Theses, and Doctoral Dissertations, and Graduate Capstone Projects
+at DigitalCommons@EMU. It has been accepted for inclusion in Master's Theses and Doctoral Dissertations by an authorized administrator of
+DigitalCommons@EMU. For more information, please contact lib-ir@emich.edu.
+Recommended Citation
+Stout, Michael J., "The effectiveness of Nazi propaganda during World War II" (2011). Master's Theses and Doctoral Dissertations. 314.
+http://commons.emich.edu/theses/314
+
+--- Sayfa 2 ---
+The Effectiveness of Nazi Propaganda During World War II
+by
+
+Michael J. Stout
+
+Thesis
+
+Submitted to the Department of History and Philosophy
+Eastern Michigan University
+in partial fulfillment of the requirements
+for the degree of
+
+MASTER OF ARTS
+In
+History
+
+Thesis Committee:
+Steven Ramold, PhD., Chair.
+Ron Delph, PhD.
+James Holoka, PhD.
+
+March 15, 2011
+Ypsilanti, MI
+
+--- Sayfa 3 ---
+ii
+ACKNOWLEDGEMENTS
+
+First and foremost, I would like to thank my thesis committee of Drs. Steven
+Ramold, Ron Delph, and James Holoka for their continued guidance in putting this thesis
+together. In addition, I would like to thank Eastern Michigan University for providing an
+abundant amount of resources to enable me to research and formulate my thesis,
+including but not limited to the vast collection in the Bruce T. Halle Library and the
+support given to me by the Graduate School to finalize this work. I owe thanks as well to
+the Department of History and Philosophy for providing me with the Richard A. Goff
+Scholarship, which greatly aided me in researching this thesis. I owe a great deal of
+thanks to Dr. Randall Bytwerk of Calvin College, who provided a vast online collection
+of German propaganda in his German Propaganda Archive, as well as taking time away
+from his busy schedule to meet with me personally and provide me with additional
+resources I would not have thought to use on my own. Finally, I would like to thank my
+family and friends for their continued support and encouragement throughout this
+process.
+
+--- Sayfa 4 ---
+Abstract
+
+iii
+
+This thesis examines Nazi propaganda’s overall effectiveness during Adolf
+Hitler’s rise to power in the 1930s through the end of World War II in 1945. Historians
+have had mixed opinions of the overall potency of the propaganda. The questions in
+consideration are why Nazi propaganda received so much support from the Nazi
+leadership if it didn’t work and whether or not it was a primary reason Germany
+continued to resist until the end of the war. Using the diaries of Joseph Goebbels, the
+Nazi Propaganda Minister, soldiers’ letters from the front lines, the propaganda itself, and
+a variety of secondary sources, this work investigated these questions and found that
+propaganda was indeed influential throughout the duration of the Third Reich. Three
+primary elements were effective: indoctrination, anti-Soviet propaganda, and the intense
+media deification of Hitler that came to be known as the Hitler Myth.
+
+--- Sayfa 5 ---
+iv
+TABLE OF CONTENTS
+Acknowledgements………………………………………………………………………..ii
+Abstract…………………………………………………………………………….……..iii
+Table of Contents………………..…………………………...…………………………...iv
+List of Figures…………………….………………………….……………………………v
+Introduction………………………………………………….………………….…….…...1
+Chapter One: The Golden Age of Nazi Propaganda 1933-1940...…………………..……8
+Chapter Two: Conflict With Reality: 1940-1941……………………........……………..31
+Chapter Three: Propaganda and the Eastern Front: 1941-1943………………….………46
+Chapter Four: The Western Front and the End of the War: 1942-1945…………………73
+Conclusion…………………………………….…………………………………………89
+References……………………………………………….………………………….……93
+
+--- Sayfa 6 ---
+List of Figures
+
+v
+Figure
+
+    Page
+
+1.1  “Yes! Führer, we follow you!” (1930s) ................................................................... 11
+1.2  “Germany is free!” (1938) ....................................................................................... 11
+1.3  “Free Saxony from Marxist Trash!” (1927)............................................................. 14
+1.4  “Vote List 9: the National Socialist German Workers’ Party” (September 1930) .. 14
+1.5  Textbook image of children promising loyalty to Hitler ......................................... 21
+1.6  The Führer pays his respects .................................................................................... 22
+1.7  “Jewish Congress” Der Stürmer, July 1934 ............................................................ 27
+1.8  Der Stürmer Special Issue, May 1934 ..................................................................... 27
+1.9  Weekly motivational poster, Dec. 5-11, 1938 ......................................................... 28
+1.10  Cartoon of German military situation post-Treaty of Versailles ............................. 29
+1.11  Weekly motivational poster, Nov. 12-18, 1939 ....................................................... 30
+2.1 “Churchill and the Neutrals” (Spring 1940) ............................................................ 33
+2.2  “We, the Have-Nots.” (1941) ................................................................................... 33
+2.3  Death bills Churchill for his “Holiday” (1940) ........................................................ 35
+2.4  “Philosophy of a Madman” (1940) .......................................................................... 35
+2.5  “Traitor!”.................................................................................................................. 37
+2.6 “Churchill’s False Figures”...................................................................................... 37
+2.7  “Bombs over England” ............................................................................................ 39
+2.8  “Fighting England in North Africa!” ...................................................................... 42
+2.9  Cover to That is Victory! Letters of Faith in New Times and War .......................... 42
+2.10  Weekly motivational poster, May 1941 ................................................................... 45
+
+--- Sayfa 7 ---
+List of Figures
+
+vi
+3.1  Weekly motivational poster, July 27-August 2, 1941 .............................................. 53
+3.2  “One Who Should Know…”(September 10, 1941) ................................................. 53
+3.3  Encircled Russian pockets in Signal magazine (December 1941) ........................... 54
+3.4  Cover of the December 1941 Signal magazine........................................................ 56
+3.5  “The results of his winter offensive. He has bitten steel!” (early 1942) .................. 57
+3.6  “One battle, one will, one goal: Victory at any cost!” ............................................. 59
+3.7  “30 January 1933-1943. One Battle! One Victory!” ............................................... 61
+3.8  “Victory or Bolshevism.” (February 1943) ............................................................. 65
+3.9  “That is Heroism!” ................................................................................................... 68
+4.1  “American Gigantism”............................................................................................. 75
+4.2 “The American Century”………………………………………………………...…..75
+4.3  “Information from the U.S.A.” (1943)..................................................................... 76
+4.4  “The Business in Death” (Dec. 2, 1943) .................................................................. 78
+4.5  “No need to worry, Eleanor…”(Sep. 3, 1944) ......................................................... 78
+4.6  “His way to ‘liberate’ Europe”(1944) ...................................................................... 81
+4.7  A leaflet encouraging surrender ............................................................................... 83
+4.8  V-1 rocket leaflet ..................................................................................................... 83
+
+--- Sayfa 8 ---
+Introduction
+
+Majestic scenes of wildly cheering civilians. Spectacular architecture surrounding
+an army of steadfast German soldiers. A highly emotional Führer giving speech after
+speech, greeting civilians and children with a cheerful smile, and overseeing company
+after company of infantry march past. Constant celebration of the triumph of National
+Socialism.1
+
+Hitler was appointed Chancellor of Germany on January 30, 1933, and the Nazi
+Party quickly rose to be the dominant force in the German government. Hitler created a
+government-controlled Propaganda Ministry to control the national media networks to
+help with his cementing of power. The ministry created films such as Triumph of the
+Will, as well as news publications, posters, radio broadcasts, children’s literature, and
+many other types of propaganda to bring Hitler’s message to his people. This was a great
+tool that served the Nazis well throughout the 1930s and continuing through the first
+years of World War II, but when the tide of battle turned against Germany, propaganda
+lost a great deal of its effectiveness. However, Hitler and the Nazis continued to support
+and finance propaganda in the belief that it still was one of their greatest weapons. So the
+ All of these scenes are from the 1935 film Triumph des Willens (Triumph of
+the Will), perhaps the greatest single piece of propaganda created during the Third Reich.
+Directed by Leni Riefenstahl, the film portrayed Nazi leader Adolf Hitler giving
+powerful, emotional speeches to hundreds of thousands of people and used very effective
+camera angles to give him a heightened appearance of power. This powerful film was just
+one piece of tens of thousands of items of propaganda created by the Nazi Propaganda
+Ministry.
+
+1 Triumph des Willens (Riefenstahl 1935).
+
+--- Sayfa 9 ---
+2
+question that needs to be asked is: how effective was Nazi propaganda during the latter
+years of World War II?
+The Reichsministerium für Volksaufklarung und Propaganda2 proved to be one of
+the most influential tools Hitler had during the height of Nazi power. The Führer
+explained in his book Mein Kampf why propaganda should be used to control the
+populace and how it had been a useful weapon for the Allies during World War I. Hitler
+berated the German leadership for failing to use propaganda in any meaningful way
+during the war, and described how the new regime could use it to its fullest power. Mass
+media conveyed simple propaganda messages that all of the masses could respond to and
+understand easily, demonizing Germany’s enemies and fostering loyalty to Hitler.3
+To manage such an undertaking, Hitler appointed Dr. Joseph Goebbels as
+Propaganda Minister. Goebbels, like Hitler, was an extraordinary orator and was
+particularly adept at creating and utilizing various forms of propaganda for a specific
+purpose. With Goebbels in charge, the Propaganda Ministry achieved an astounding level
+of success during Hitler’s rise to power in the 1930s that continued through the first years
+of World War II. Propaganda was delivered via printed material, radio, and film to
+disseminate the Nazis’ message to the German people, who grew to admire and trust in
+the Führer above any other man. Goebbels’ propaganda machine had achieved one its
+ The
+Pro-Mi’s primary purpose was to support the Nazis’ cause, binding the people’s loyalty
+to Hitler and make Hitler the omnipresent face of the Reich, and quietly preparing the
+German people for war.
+
+2 Abbreviated “Pro-Mi.”
+3 Adolf Hitler, Mein Kampf (New York: Houghton Mifflin, 1999), pp. 177-186.
+
+--- Sayfa 10 ---
+3
+greatest goals: a media cult surrounding Hitler.4
+When World War II began on September 1, 1939, the Pro-Mi’s charge was to
+maintain public morale and to increase support for the war effort. Goebbels and his
+ministry were initially very successful at their mission, focusing intensely negative
+propaganda against the Allies and promising victory to the German people. The German
+military defeated every major power it faced between 1939 and 1940, and even though
+Great Britain and Russia maintained their resistance through 1941 and 1942, Germany
+clearly still had the upper hand. However, as the Russians counterattacked in the East and
+the Americans joined the British in the West in 1942, the tide began to turn and with that,
+propaganda gradually began to lose its effectiveness. As early as the Battle of Britain in
+1940, it was obvious that information being given to the German people by the Pro-Mi
+was not entirely accurate, and gaps appeared in Pro-Mi reports.
+ This later proved to be one of the
+greatest success of the propaganda ministry throughout the entire reign of the Third
+Reich, and one of Hitler’s greatest advantages as a ruler.
+Additional glaring inconsistencies appeared as the war continued, though nothing
+damaged the reputation of the propaganda ministry as greatly as the fall of Stalingrad and
+the terrible defeat for the Wehrmacht in February 1943. German propaganda had
+presented the campaign as though the Germans were winning, even as the German 6th
+Army was surrounded and slowly being destroyed. Not until a week before the actual
+surrender did Nazi propaganda change its tone, and when the fall of the city was reported
+by the Pro-Mi, the German people were in a state of shock. All of a sudden Goebbels’
+propaganda lost a great deal of respect and credibility and was regarded more and more
+as a lie by the German people.
+
+4 Ian Kershaw, The Hitler Myth, (New York: Oxford University Press, 1987), pp. 48-59.
+
+--- Sayfa 11 ---
+4
+Stalingrad was only the first of many defeats to come, but Goebbels made a
+determined effort to revitalize his propaganda. He realized as early as mid-1942 that the
+unvarying message of victory in every piece of propaganda was becoming monotonic and
+ignored by the public, so he changed the overall message being sent. By 1944, guarantees
+of victory gave way to messages that promoted the idea that should Germany surrender or
+be defeated, it would be destroyed. The reports of the horrors on the Eastern Front and
+the devastation caused by Western Allied bombers corroborated that message and were
+among the reasons why the Germans continued fighting.
+Besides maintaining public morale, there was also the matter of maintaining the
+morale of the troops, in particular on the Eastern Front but also on the Western Front
+before, during, and after the 1944 British and American invasion of Normandy. Anti-
+Western and anti-Soviet propaganda filled both the training of the Wehrmacht and news
+given to the troops on the front lines. This was especially important on the Eastern Front,
+where the very high casualty levels meant that soldiers often served with replacement
+troops rather then the men they had trained with, which caused morale to suffer.
+Propaganda played its role in holding the soldiers together, instilling a hatred for the
+Russians that fostered solidarity in the ranks.
+The influence of propaganda is evident in some soldiers’ letters on the Eastern
+Front that as they entered destroyed towns and cities, they observed the supposed
+brutality of the Bolshevik regime. In actuality, these towns had been destroyed by
+German artillery and aircraft, and these atrocities their very own comrades committed
+were often blamed on the Russians instead.5
+
+5 Stephen Fritz, Frontsoldaten, (Lexington: University Press of Kentucky, 1995), p. 196.
+
+--- Sayfa 12 ---
+5
+On the Western Front, it was a different story. Despite anti-Western propaganda,
+German troops generally knew that the British and Americans were more humane than
+the Soviets. Soldiers deserted the Wehrmacht on both fronts, but especially in the West
+towards the end of the war. Harsh discipline was also prevalent on the Western Front, but
+because of lighter casualties than in the East, the soldiers’ comradeship bonded them
+together much more tightly.6
+Goebbels and the Pro-Mi did the best they could, and much of the propaganda
+being created was ingeniously crafted to stir the emotions of the German people.
+Nonetheless, war propaganda never truly regained the confidence of the German people
+that it had enjoyed prior to World War II. As the Allies closed in around Germany, many
+people simply lost faith in their leaders, especially Goebbels. Again, one must ask: how
+effective was Nazi propaganda during the latter years of World War II? Why did Hitler
+and Goebbels put so much faith and resources into propaganda in the last years of the
+war? And was the propaganda made between 1933 and 1945 was a significant factor in
+keeping the Wehrmacht fighting and the German people believing in the Führer during
+the last hard years of the war? Given that fighting losing battles on two fronts and
+weathering the Allied strategic bombing at home certainly eroded public morale, it is
+questionable if the broadcasted propaganda had the impact that historians have generally
+agreed that it did.
+
+This thesis will investigate these questions using the propaganda itself, as well as
+Goebbels’ own diaries, reports from the front lines and within Germany on the collective
+morale of the people and troops, and soldiers’ letters from the front lines. In addition, it
+will utilize secondary sources studying that studied the place of propaganda in the
+
+6 Fritz, Frontsoldaten, pp. 90-93.
+
+--- Sayfa 13 ---
+6
+training and operations of the German military. The next several chapters will compare
+how propaganda looked and sounded before and after 1942, when the war turned against
+Germany, and assess the effects that propaganda may have had on German civilians as
+well as the military.
+It does appear that certain propaganda lost some of its potency, yet although the
+German people came to distrust in their leaders, they never lost their faith in Hitler. The
+Pro-Mi had deified Hitler during his rise to power through film, radio, and printed
+propaganda. He had been portrayed as superhuman, and many Germans believed that
+with Hitler they could get through any situation. In their eyes, he was a miracle worker.
+Ian Kershaw referred to this Hitler media cult as the “Hitler Myth.”7
+Scholars have reached different conclusions about the effectiveness of Nazi
+propaganda. Kershaw, for one, believes that it was effective only when public support for
+the Nazi regime was strong. He notes that when the Wehrmacht was rolling over its
+enemies with ease and Germany had regained its world power, “propaganda had a
+relatively easy task.”
+ In addition to the
+Hitler Myth, the hardening of the message of the propaganda after Stalingrad had a
+definite effect on the German populace that stirred them to continue fighting the
+Russians.
+8 But the defeats in the Battle of Britain and especially at Stalingrad
+in 1943 irreversibly undermined public trust in Goebbels and the propaganda ministry.
+By the middle of the war, Goebbels “was rapidly losing touch with reality,” and his fury
+at the criticism of his work was “the best testimony to the ultimate failure of his work.”9
+
+7 Kershaw, The Hitler Myth, p. 2.
+
+8 Ian Kershaw, How Effective Was Nazi Propaganda? In David Welch, Nazi Propaganda, (Totowa: Barnes
+& Noble, 1983), p. 195.
+9 Kershaw, How Effective Was Nazi Propaganda?, p. 199.
+
+--- Sayfa 14 ---
+7
+Kershaw further claims that the utter failure of propaganda occurred by 1944, as the view
+of propaganda by the German public was already negative. With the collapse of popular
+support, Nazi propaganda was ultimately powerless.10 Kershaw is onto something here,
+but other historians have pointed out that particular elements of the propaganda
+succeeded, sometimes brilliantly, throughout the war. Stephen Fritz and Wolfram Wette
+note that the anti-Bolshevik and anti-Semitic propaganda on the Eastern Front truly did
+influence the soldiers fighting against the Red Army.11 However, Fritz’s evidence is
+largely from the early parts of the campaign, when morale was still high, but Wette
+spends several pages evaluating the effects of propaganda on the troops themselves and
+determined that it was not only effective, but effective throughout the war on the Eastern
+Front.12
+ It was not just the Eastern Front propaganda that maintained its potency
+throughout the war. Upon investigation, certain aspects of Nazi propaganda can be
+considered a fundamental reason the Germans continued to fight as the war encircled
+their nation. It is apparent that there were significant weaknesses to the propaganda that
+could not be overcome, the most glaring being that the trust in the propaganda that had
+been used since the start of the war failed once the war turned against Germany. After
+Stalingrad, Goebbels revamped his propaganda. This new message threatened Germany’s
+certain destruction should the nation lose the war, and this struck home to the German
+people. While propaganda did fail in certain areas, three particular types of Nazi
+propaganda remained effective throughout the war: the Hitler Myth, the pre-war
+ My own research tends to confirm Wette’s conclusions.
+
+10 Kershaw, How Effective Was Nazi Propaganda? p. 201.
+11 Fritz, Frontsoldaten p. 196.
+12 Wolfram Wette, The Wehrmacht: History, Myth, Reality (Cambridge: Harvard University Press, 2007),
+pp. 169-175.
+
+--- Sayfa 15 ---
+8
+indoctrination that led to fanatical young soldiers fighting during the last stages of the
+war, and propaganda made to support the campaign on the Eastern Front. Chapter One
+introduces the Hitler Myth, and it will remain a prevalent topic in all of the chapters that
+follow. Chapter Three deals primarily with the anti-Soviet propaganda produced for the
+Eastern Front, and Chapter One introduces the indoctrination while Chapter Four
+explains how Hitler benefitted from it. These elements of propaganda were enough to
+keep the German populace fighting until the very end of the war.
+
+--- Sayfa 16 ---
+Chapter One: The Golden Age of Nazi Propaganda: 1933-1940
+
+Of all the new weapons and tactics employed by Nazi Germany prior and during
+World War II, propaganda was one of the most important, both to the war effort and
+maintaining the loyalty of the German people to Hitler. The Führer was obsessed with
+propaganda, writing two entire chapters about it in his book Mein Kampf. The first of
+these chapters, specifically titled “War Propaganda,” is a most revealing glimpse into
+Hitler’s mind and his ideas for controlling his own people during the coming struggle.
+During World War I, British and American propaganda battered Germany’s image
+throughout the war, virtually uncontested by German propaganda.1
+Did we have anything you could call propaganda? I regret that I must answer in
+the negative. Everything that actually was done in this field was so inadequate and
+wrong from the very start that it certainly did no good and sometimes did actual
+harm. The form was inadequate, the substance was psychologically wrong: a
+careful examination of German war propaganda can lead to no other diagnosis.
+There seems to have been no clarity on the first question: is propaganda a means
+to an end?
+ Impressed by the
+effectiveness of Allied propaganda, Hitler berated Germany’s leaders for their own poor
+performance in the propaganda battle during the last years of the war:
+2
+
+Hitler’s answer was affirmative: Germany “was engaged in a struggle for a human
+existence, and the purpose of war propaganda should have been to support this struggle;
+its aim to help bring about victory.”3 When a nation is engaged in a struggle for its own
+existence, concepts of humanitarianism aesthetics “become totally irrelevant” and thus,
+they “were also inapplicable to propaganda.”4
+
+1 Hilmar Hoffman, The Triumph of Propaganda (Providence: Berghahn Books, 1996), pp. 76-79.
+ Hitler answered the question of
+propaganda’s purpose by noting that its use by the British was indeed “a means to an end,
+2 Hitler, Mein Kampf, p. 177.
+3 Ibid. p. 177.
+4 Ibid. p .178.
+
+--- Sayfa 17 ---
+10
+and the end was the struggle for the existence of the German people; consequently,
+propaganda could only be considered in accordance with the principles that were valid
+for this struggle. In this case the most cruel weapons were humane if they brought about a
+quicker victory…”5 Hitler was not the only one who considered Allied propaganda in
+World War I to be effective; former German commander Erich Ludendorff wrote in his
+1919 memoirs that enemy propaganda was one of the main causes of defeatism spreading
+in Germany and that the halfhearted response by German propaganda could not stop the
+enemy words from spreading to the German population.6
+The second decisive point regarding the implementation of effective war
+propaganda that Hitler pondered was to whom propaganda should be addressed. The
+target audience was either the masses or the trained intelligentsia. Hitler answered
+quickly and specifically stated that “it must be addressed always and exclusively to the
+masses.” A couple of paragraphs later, he explained with great detail about what
+propaganda should be and how it should be used, as well:
+ From this outside opinion,
+Hitler’s observation that propaganda had been effectively used as a tool for military and
+political purposes certainly had credence.
+The function of propaganda does not lie in the scientific training of the individual,
+but in calling the masses’ attention to certain facts, processes, necessities, etc.,
+whose significance is thus for the first time placed within their field of vision. The
+whole art consists in doing this so skillfully that everyone will be convinced that
+the fact is real, the process necessary, the necessity correct, etc…its effect for the
+most part must be aimed at the emotions and only to a very limited degree at the
+so-called intellect.7
+
+Furthermore, Hitler stated that “all propaganda must be popular and its
+intellectual level must be adjusted to the most limited intelligence among those it is
+
+5 Ibid. p. 178-179.
+6 Hoffman, The Triumph of Propaganda, p. 78.
+7 Hitler, Mein Kampf, p. 179-180.
+
+--- Sayfa 18 ---
+11
+addressed to…to influence a whole people, we must avoid excessive intellectual demands
+on our public, and too much caution cannot be exerted in this direction.” He continued by
+noting that the public’s receptivity “is very limited, their intelligence is small. But their
+power of forgetting is enormous.” Because of this, “all effective propaganda must be
+limited to a very few points and must harp on these slogans until the last member of the
+public understands what you want him to by your slogan.”8
+Hitler’s words provided a blueprint for how the Pro-Mi created its propaganda.
+Simple themes and slogans repeated over and over are a striking feature of pre-war and
+early war Nazi propaganda, including these two pre-war posters (see Figures 1.1 and 1.2
+below). German “freedom” and “victory” were two very common motifs in early Nazi
+propaganda, and the most prevalent theme of all was a reference to Hitler himself as a
+near-superhuman figure who could work miracles and restore Germany to glory. Hitler
+was to become the centerpiece of the Reich and the greatest symbol of German power.
+
+Figure 1.1: Yes! Führer, we follow you!
+(1930s)
+Figure 1.2: Germany is free! (1938)
+
+8 Ibid. pp. 180-181.
+
+--- Sayfa 19 ---
+12
+
+Hitler explained that the propaganda used by the British and Americans in World
+War I “was psychologically sound.” By representing the Germans as barbarians and
+Huns, they prepared their own soldiers “for the terrors of war…after this, the most
+terrible weapon that was used against [the soldier] seemed only to confirm what his
+propagandists had told him.”9 These experiences reinforced the troops’ belief and trust in
+their own government and increase their hatred against the enemy, which would make
+them immune to the words coming from his enemy’s own propaganda sources. Hitler
+particularly emphasized the importance of propaganda to drive home a few main points,
+no dubious half-statements that could be doubted. Figures 1.1 and 1.2 both show this.
+Hitler’s popularity grew immensely in the 1930s and by 1938, the notion that Germany
+was free of outside influence and the Treaty of Versailles was quite accurate. Only that
+style of propaganda would be effective.10
+Hitler noted that the effectiveness of this form of propaganda “is strikingly shown
+by the fact that after four years of war it not only enabled the enemy to stick to their guns,
+but even began to nibble at our own people.”
+
+11 In England during World War I, Hitler
+explained, the British understood “that this spiritual weapon can succeed only if it is
+applied on a tremendous scale, but that success amply covers all costs. There, propaganda
+was regarded as a weapon of the first order, while in our country it was the last resort of
+unemployed politicians and a comfortable haven for slackers. And, as was to be expected,
+its results [in Germany] all in all were zero.”12
+
+9 Ibid. p. 181.
+
+10 Ibid. pp. 182-183.
+11 Ibid. p. 184.
+12 Ibid. pp. 185-186.
+
+--- Sayfa 20 ---
+13
+It is clear from Hitler’s own words written in 1923 the emphasis the Nazi Party
+placed on its propaganda. The Pro-Mi was created a few months after Hitler came to
+power in 1933, and the ministry proved to be one of his most influential tools during the
+height of Nazi power. It was organized to maintain control over all sources of public
+media and entertainment. The ministry consisted of seven departments, the first being
+Legislation and Legal, the second Coordination of Popular Enlightenment and
+Propaganda, Race and Travel, third Radio, fourth Journalism, National and Foreign Press,
+fifth Film, Film Censorship, and Newsreel, sixth Theater, and the seventh Music, Fine
+Arts and People’s Culture.13
+The ministry used its total control of all German media and entertainment to
+cement Hitler’s power in Germany. The 1930s saw a Hitler media cult emerge as a result
+of the propaganda, and the German people became more and more supportive of and
+loyal to the Führer. When the German military scored their spectacular opening victories
+of the war between 1939 and 1942, Hitler and the Nazi Party transmitted elated words of
+total victory to the public via their propaganda machine.
+
+As much as Hitler stressed propaganda in Mein Kampf, it took the right person to
+carry it out. That man was Dr. Joseph Goebbels, described by Richard Taylor as an “evil
+genius.”14
+
+13 Susan Tegel, Nazis and the Cinema (New York: Hambledon Continuum, 2007), p. 17.
+ Goebbels was a master of propaganda and immensely loyal to Hitler. He was
+almost as skilled as Hitler as an orator and was a very influential member of the Nazi
+Party, despite being at odds with many other key players, such as Hermann Göring.
+Goebbels skillfully organized public rallies and protests through his speeches, and gained
+popularity with the German people during the growth of Nazi influence in the late 1920s
+14 Richard Taylor, Goebbels and the Function of Propaganda. In David Welch, Nazi Propaganda (Totowa:
+Barnes & Noble, 1983), p. 29.
+
+--- Sayfa 21 ---
+14
+and early 1930s by sympathizing with the working class. In addition to making speeches,
+Goebbels helped to organize Nazi propaganda before Hitler was even elected. Nazi Party
+members had campaigned mercilessly against their chief rivals, the Communists and
+Social Democrats, prior to Hitler’s appointment to the position of Chancellor in 1933.
+Figure 1.3: “Free Saxony from Marxist Trash!”
+(1927)
+Figure 1.4: “Vote List 9: the National Socialist
+German Workers’ Party.” (September 1930)
+
+Two examples of this early propaganda include the posters above, both created by
+Goebbels himself. Figure 1.3 reads “Free Saxony from Marxist Trash!” and was created
+around 1927 as part of a provincial election campaign in the province of Saxony. Figure
+1.4 neatly sums up Nazi ideology as part of the September 1930 Reichstag election. A
+Nazi sword kills a snake, the blade passing through a red Star of David. The red words
+coming from the snake are: usury, Versailles, unemployment, war guilt, Marxism,
+Bolshevism, lies and betrayal, inflation, Locarno, Dawes Pact, Young Plan, corruption,
+Barmat, Kutistker, Sklarek (the last three Jews involved in a series of financial scandals),
+
+--- Sayfa 22 ---
+15
+prostitution, terror, civil war.15 This connection to the public and skills as a manipulator
+made Goebbels the perfect choice to run the Pro-Mi, and under his direction the ministry
+became one of Hitler’s most valuable assets. Not only was Goebbels highly skilled in his
+field, he was in agreement with Hitler’s views on Marxists, Jews, and other enemies of
+the Nazi Party.16
+Goebbels left behind diaries designed as memoirs and learning materials for
+future generations of Nazis rather than as personal remarks and thoughts. The diaries
+themselves are works of propaganda; as Taylor puts it, they are “the Propaganda
+Minister’s propaganda for propaganda,”
+
+17 and so readers have to question the validity of
+what Goebbels is saying. However, the entries reveal Goebbels’ ideas for the future of the
+Nazi party, as well as his general mood at the time they were written. His loyalty to Hitler
+is obvious; on January 3, 1939, Goebbels notes that Hitler had written him a “long and
+very touching letter. I am very moved by it…I answer him immediately…it does me
+some good.”18
+Radio and film were crucial elements of the new propaganda network. German
+radio stations were nationalized in 1932, one year prior to Hitler’s rise to power. In 1933,
+radio came under strict state control. A further boon for the Nazis was the mass
+ Despite not actually stating what the letter was about, Goebbels does show
+his appreciation and respect for Hitler while also noting the Führer’s liking for Goebbels
+himself. Goebbels’ pre-war entries in the diaries give largely trivial information; more of
+a “here’s what happened today” listing; however, the entries written during the war are
+much more complex.
+
+15 List 7 and List 9 are the Nazi ballots for these particular elections.
+16 Tegel, Nazis and the Cinema, pp. 14-17.
+17 Taylor, Goebbels and the Function of Propaganda, p. 31.
+18 Fred Taylor, The Goebbels Diaries 1939-1941 (New York: Penguin Books, 1984), p. 4.
+
+--- Sayfa 23 ---
+16
+production in 1933 of a cheap radio, the Volksempflänger, or “people’s receiver,”
+nicknamed the “Goebbels blaster.” Over 3.5 million were sold by 1934, and by 1936 half
+of all German households had a radio. Not only did this allow the mass broadcast of
+public ceremonies and speeches by Hitler and other Nazi leaders in their entirety, it also
+funded the propaganda ministry; between 1933 and 1943 the sale of radios and radio
+licenses covered almost ninety percent of the ministry’s expenses.19
+Goebbels praised the capabilities of radio broadcasting in a speech at a radio
+exhibition on August 18, 1933, entitled “Radio as the Eighth Great Power.” He began by
+stating that “Napoleon spoke of the ‘press as the seventh great power.’ Its significance
+became politically visible with the beginning of the French Revolution, and maintained
+its position for the entirety of the nineteenth century. The century’s politics were largely
+determined by the press. One can hardly imagine or explain the major historical events
+between 1800 and 1900 without considering the powerful influence of journalism.”
+Goebbels continued by declaring “the radio will be for the twentieth century what the
+press was for the nineteenth century. With the appropriate change, one can apply
+Napoleon’s phrase to our age, speaking of the radio as the eighth great power.”
+
+20
+Goebbels berated the leaders of the Weimar Republic, the predecessors to the
+Nazis, for failing to understand the importance of radio and mass media. They thought
+that radio was “at best…an easy way to distract the masses from the difficulties of our
+national and social life…only reluctantly did they think of using radio for political
+purposes.” In contrast, “the National Socialist revolution, which is modern and intent on
+action…must change abstract and lifeless methods in the radio.” The Nazi Party intended
+
+19 Tegel, Nazis and the Cinema, pp. 17-18.
+20 Joseph Goebbels, “Radio as the Eighth Great Power,” August 18, 1933.
+
+--- Sayfa 24 ---
+17
+“a principled transformation in the worldview of our entire society, a revolution of the
+greatest possible extent that will leave nothing out, changing the life of our nation in
+every regard.”21
+Goebbels went on to say that the National Socialist revolution
+
+is in fact a modern revolution, and it has used the most modern methods to win
+and use power. It therefore does not need saying that the government resulting
+from this revolution cannot ignore the radio and its possibilities. To the contrary,
+it is resolved to use them to the fullest extent in the work of national construction
+that is before us, and in ensuring that this revolution can stand the test of
+history…We live in the age of the masses; the masses rightly demand that they
+participate in the great events of the day. The radio is the most influential and
+important intermediary between a spiritual movement and the nation, between the
+idea and the people…that requires a clearly expressed direction. I have spoken of
+this often with regards to various areas of our spiritual life. There can be no lack
+of direction, either with people or with things. The moral value or lack thereof
+depends not on words, but on content. The direction and the goal always
+determine whether something is good, useless or even harmful for our people.22
+
+Goebbels also described the importance of keeping the public up to date on
+current events and thus involved in society, and stresses the level of organization required
+to make that happen. A streamlined and straightforward organization of the radio
+broadcasting department was essential, “for excessive organization can only get in the
+way of productivity. The more bureaucrats there are, the more obscure the internal
+structures, the easier it is for someone to hide his inability or incompetence behind some
+committee or board.”23
+In contrast to the private home setting of the radio, film was designed as mass
+entertainment. Goebbels and Hitler both loved film; Goebbels called it “one of the most
+ Radio was set to become a mainstream medium through which
+the Pro-Mi could reach the German people.
+
+21 Goebbels, “Radio as the Eighth Great Power”
+22 Goebbels, “Radio as the Eighth Great Power”
+23 Goebbels, “Radio as the Eighth Great Power”
+
+--- Sayfa 25 ---
+18
+modern and far-reaching media that there is for influencing the masses today.”24 It
+certainly helped that even during the failing economy at the end of World War I, the
+German film industry actually expanded and flourished thanks to the support from the
+military in the sloppy propaganda program Hitler so berated in Mein Kampf.25 Though
+the economic crises of the 1920s and 1930s badly hurt the industry, there was a strong
+foundation to build upon, as the German film industry was only surpassed by that of
+Hollywood.26 Film was a means to convey a message to many people at a time, and as
+cinemas became popular centers of entertainment, Goebbels had a vast new propaganda
+tool. During the twelve years of the Reich nearly 1,100 films were made, the majority
+written and filmed as elements of propaganda.27 Under Hitler there was no such thing as
+a non-political film. The Pro-Mi evaluated scripts, oversaw activities in the studios, and
+reviewed production carefully to ensure every film followed Nazi Party structures and
+strategic priorities.28
+
+The Nazis maintained a firm grip on all public media and entertainment. Even
+areas such as the fine arts were affected; Hitler’s taste in the arts led to the promotion of
+grand works by composers such as Richard Wagner, Gustav Mahler, Richard Strauss, and
+Anton Bruckner. These spectacular musical works went along with grandiose
+architectural designs for Nazi rallies, such as the grandstands built in Nuremburg for the
+1935 Nazi Party rally that was the backdrop for the film Triumph of the Will. In addition
+
+24 Tegel, Nazis and the Cinema, p. 18.
+25 Tegel, Nazis and the Cinema, pp. 23-24.
+26 Tegel, Nazis and the Cinema, pp. 27-29.
+27 Rentschler, Eric, The Ministry of Illusion, (Cambridge: Harvard University Press, 1996), p. 2.
+28 Rentschler, The Ministry of Illusion p. 8.
+
+--- Sayfa 26 ---
+19
+to the grand style, the Pro-Mi promoted traditionally favorite composers such as Mozart
+and Beethoven for their connection to German greatness.29
+Just as with other “undesirable” people, the Nazis also actively suppressed artists
+and composers who did not conform to their ideology. They suppressed the work of jazz
+musicians who were becoming a hit across Europe and in particular with young Germans.
+Jazz to the Nazis was the music of undesirable people, that is, African Americans, but the
+Nazis also singled out Jewish clarinetist Benny Goodman for special criticism.
+
+30
+
+Another word, another prophet, another Jewish business trick,
+ The
+Nazis outlawed jazz music in the mid-1930s in an attempt to eliminate American
+influence on young Germans. However, BBC radio broadcasts continued giving Germans
+a way to listen to jazz, so the Nazis created a jazz band of their own. Known as Charlie
+and His Orchestra, the band played propagandized spin-offs of popular jazz numbers like
+“Stormy Weather,” “St. Louis Blues,” “Makin’ Whoopee,” and others that had the same
+tune but sounded quite different:
+Another season, another reason, for makin’ whoopee.
+I love dough, I love gold, the British Empire’s bein’ sold,
+We’re in the money, thanks to Frankie, we’re makin’ whoopee.31
+
+ These were anti-Anglo-American, pro-Nazi songs, and the band was broadcast
+on the radio starting in the early 1940s. This gave Germans a legal way to listen to jazz
+which reached other parts of Europe as well.32
+Goebbels felt that the creation of a Hitler media cult was the greatest
+accomplishment that the Pro-Mi achieved.
+
+33
+
+29 Horst Bergmeier and Rainer Lotz, Hitler’s Airwaves (New Haven: Yale University Press, 1997), p. 140.
+ He outdid himself in organizing events
+30 Bergmeier and Lotz, Hitler’s Airwaves, pp. 136-140.
+31 “Makin’ Whoopie” by Charlie and His Orchestra, 1942.
+32 Bergmeier and Lotz, Hitler’s Airwaves, pp. 153-158.
+33 David Welch, The Third Reich: Politics and Propaganda (London: Routledge, 1993), p. 86.
+
+--- Sayfa 27 ---
+20
+following Hitler’s rise to the Chancellorship in 1933 to introduce Hitler to the people. He
+presented Hitler as Germany’s future and began the first steps towards deifying him in
+the eyes of the people. Goebbels’ propaganda machine sent that message out, and Hitler
+did his own part in heightening his image, visiting city after city and becoming as visible
+as possible. Poetry and songs were written about him, and the propaganda tied everything
+that was good or improving in German society to him. Figure 1.5 below is a passage
+taken from a children’s textbook published in 1936. A seventeen-year-old soldier in 1944
+was only nine when he read this in school. This is just an example of early indoctrination
+for Nazi youth. The text reads:
+Mein Führer!
+I know you well, and love you as I do my father and mother.
+I will always be obedient to you as I am to my father and mother.
+And when I am bigger, I will help you, as my father and mother do,
+And you will be proud of me, as my father and mother are!
+ (The child speaks):
+
+“...We want to be one people, and you, my boys and girls, will become this people. We
+want this people to be loyal, and you must learn to be loyal. We want this people to be
+obedient, and you must learn obedience. We want this people to be peace-loving, but also
+brave, and you must therefore both love peace and be brave. We do not want this people
+to become weak and soft, but rather hard, and you must learn in your earliest years to be
+hard. We want this people to love honor, and you should seek honor. We want this people
+become a proud people once more, and you should learn true pride. We of the older
+generation will pass away, but Germany will continue to live in you. You will hold our
+banners firmly in your hands! Heil Germany! Heil!”
+Listen, the Führer speaks!
+
+--- Sayfa 28 ---
+21
+Figure 1.5: Textbook image of children promising loyalty to Hitler.
+
+The lessons children would take from reading a book like this are exactly what
+Hitler and the Nazis wanted: loyalty and obedience to Hitler and the strength to do what
+Hitler believed needed to be done. Many young children reading this textbook in 1936
+were young soldiers by 1944 and were fanatically loyal to the Führer. This structured
+indoctrination system allowed the Nazis to begin instilling their ideas in the German
+population at an early age so as to create a completely loyal and strong population that
+would always follow Hitler’s ideals.
+Hitler’s name was on every German’s lips.34
+
+34 Kershaw, Ian, The Hitler Myth (New York: Oxford University Press, 1987), pp. 48-59.
+ The Nazi salute of the right arm
+extended outward and the words “Heil Hitler!” had not only become the official military
+
+--- Sayfa 29 ---
+22
+salute, but even replaced traditional public greetings.35 The film Triumph of the Will had
+deified Hitler in 1935,36
+
+ and more than any other piece of propaganda, conferred a
+mystical quality on Hitler.
+Figure 1.6: The Führer pays his respects.
+
+Arguably the most powerful scene in a film that has many is Hitler’s speech at the
+memorial for the late Paul von Hindenburg, Germany’s most famous World War I
+commander and Hitler’s predecessor as the Weimar President. The Führer is surrounded
+by over a quarter of a million civilians and troops from the Nazi special Schutz Staffel
+(“Shield Squadron,” or SS, Hitler’s personal bodyguard) and Sturm Abteilung (“Storm
+Troopers,” or SA, an earlier paramilitary outfit eventually superseded by the SS). Hitler,
+flanked by SS commander Heinrich Himmler and SA commander Viktor Lütze, slowly
+marches towards Hindenburg’s memorial and gives the Nazi salute in absolute silence
+
+35 Bytwerk, Randall, Landmark Speeches of National Socialism (College Station: Texas A&M University
+Press, 2008), p. 79.
+36 Tegel, Nazis and the Cinema, p. 6.
+
+--- Sayfa 30 ---
+23
+(see Figure 1.6 above).37 Following the salute, he returns to a pedestal and addresses the
+crowd.38
+Leni Riefenstahl’s superb directing showcases this monumental ceremony from
+camera angles that not only show the sheer size of the crowd, but also make Hitler seem
+both mortal and superhuman at the same time. At one moment, he is just one tiny human
+among hundreds of thousands, and then, as he begins speaking, the past is released and
+Hitler takes the reigns of the future. He displays himself as the great centerpiece of the
+German identity. This scene captures the sheer unity and power of the German people in
+a remembrance of the catastrophes of World War I that shifts quickly towards regaining
+their power through their loyalty to Hitler.
+
+This mingling of the themes of German nationalism and loyalty to Hitler fuses
+them into one ideology very early in the film, and they remain synonymous throughout
+the movie. This is summed up nicely at the very end, where Rudolf Hess addresses Hitler
+personally in front of the Reichstag and foreign representatives declaring “Hitler is
+Germany just as Germany is Hitler!”39 This is the goal of the overall media cult
+surrounding the Führer. Goebbels himself notes in his diaries that his greatest personal
+accomplishment was the creation of that persona, labeled as the “Hitler Myth.”40
+
+37 Image courtesy of http://www.amoeba.com/dynamic-images/blog/Charles/triumph-will-ceremony.jpg
+ The
+Hitler Myth essentially was the superhuman image that was created for Hitler by the Pro-
+Mi. This mythic leader was a miracle worker who could solve any problem, could win
+any battle, and merit the trust of every German. Germans believed that Hitler had brought
+them out of the Great Depression. Hitler rebuilt Germany’s prestige and armed forces.
+38 Triumph des Willens, (Riefenstahl 1935).
+39 Triumph des Willens, (Riefenstahl 1935).
+40 Kershaw, The Hitler Myth, p. 4.
+
+--- Sayfa 31 ---
+24
+Hitler put Germany back to work and had stopped the terrible Jews, Communists, and
+Socialists from taking over the government in the declining Weimar Republic. Hitler was
+the hero of the people and the very symbol of the Third Reich and German prosperity.41
+Many people were captivated by Hitler’s charismatic, powerful appearance. A
+member of the Hitler Youth in Dresden in the mid-1930s once was so proud of himself
+because Hitler had stroked his blond hair during a recent visit. On the same visit, one
+woman was taken with Hitler’s “beautiful blue eyes.”
+
+42 Hitler’s accomplishments in
+restoring Germany and its infrastructure after its decline following World War I also won
+him over with many working-class admirers. He brought back jobs to many Germans
+who had been unemployed for years. One German worker noted later in life that “I didn’t
+find it at all horrible [when Hitler came to power]…it was different then…the bitter
+poverty…you can’t imagine that today…if I were to hear [Hitler’s speeches] today, I
+would say the man was crazy. He wasn’t. Not for the people back then.”43
+Goebbels personally contributed to the Hitler Myth. On April 19, 1937, the day
+before Hitler’s birthday, Goebbels delivered a radio speech entitled “Our Hitler.” Randall
+Bytwerk argues that Goebbels’ goal was to “present Hitler as almost a Christ figure,
+divine (or at least superhuman), yet also human…not presented as an ordinary person, but
+rather as an historically unprecedented person with near miraculous strengths.”
+
+44
+
+41 Eric A. Johnson, What We Knew (Cambridge: Basic, 2005), pp. 337-346.
+
+Bytwerk notes that it is difficult to understand how Goebbels’ worshipful words about
+Hitler could be taken seriously and explains that to understand Hitler’s appeal to
+42 Johnson, What We Knew, pp. 338-339.
+43 Johnson, What We Knew, p. 340.
+44 Bytwerk, Landmark Speeches of National Socialism, p. 79.
+
+--- Sayfa 32 ---
+25
+Germans, the speech must be put into context.45 Goebbels’ words praised the Führer. He
+described Hitler’s bitter fight to win the nation over to his side, saying he was “the best
+expert one can imagine” on any field of endeavor from economics to industry to history
+to military. His memory is perfect and “under his hand, Germany has lifted itself from
+shame and impotence…the Germany that bears his name will be great and strong.…From
+all the Reich, from all German hearts on every continent in foreign nations and on the
+wide oceans, the thanks and praise of millions rise united. May he remain to us what he
+always was and is: Our Hitler!”46
+The Pro-Mi did not stop with just film and radio. A massive corpus of literature
+and newspapers was created for Germans of all ages, such as the children’s textbook
+shown in Figure 1.3. Magazines such as Julius Streicher’s Der Stürmer and Goebbels’
+own Das Reich put propaganda on paper for all of the country to read. Goebbels wrote
+articles for each issue of Das Reich, in which he outlined various issues to the public in
+true Nazi fashion. In the very first issue, May 23, 1940, as Germany was at war, he wrote
+that though in World War I Germany was not prepared to fight the war, history “does not
+repeat itself.” Hitler’s “brilliant statesmanship” had restored Germany’s power and he
+had “prepared for this historic conflict with care and foresight.” Germany had not been
+“psychologically prepared” for World War I, “the people had no idea why it was fighting,
+nor what is was fighting for.” Now, Germany was “clearly on the attack. It knows how to
+use the weapon of truth…the German people are fighting with clarity and
+determination…thus it is no longer possible to use the international atrocity stories that
+
+45 Bytwerk, Landmark Speeches of National Socialism, pp. 79-80.
+46 Bytwerk, Landmark Speeches of National Socialism, p. 80-85.
+
+--- Sayfa 33 ---
+26
+were so extraordinarily dangerous to the Reich during [World War I].”47
+Like Das Reich, Der Stürmer was an influential magazine for the Pro-Mi. Much
+of the propaganda was anti-Semitic, such as cartoons of demeaning Jews and denouncing
+the supposed Jewish conspiracy. In Figure 1.7, entitled “Jewish Congress,” the text reads
+“Let the Goyim believe that we can be Americans, Englishmen, Germans, or French.
+When our interests are at stake, we are always Jews, and nothing but.” The most
+infamous issue of the magazine in 1934 had the headline “Jewish Murder Plan against
+Gentile Humanity Revealed” (see Figure 1.8) that actually was pulled by the Nazis
+because it compared Jewish ritual murder with Christian communion. Anti-Semitic
+propaganda reinforced the Nazi ideology of a “master race,” to which ideally all Germans
+belonged. In addition, it reinforced Hitler’s notion that Jews were to blame for
+Germany’s defeat in World War I and accustomed the German people to the intense
+discrimination of the Jews that would lead directly to the Holocaust.
+ What Goebbels
+accomplished from a propaganda perspective is showing the public that unlike in the
+previous war, Allied propaganda would not be truthful and would thus be incapable of
+breaking the will of the German people. Hitler had prepared them for this fight, and
+victory was in their grasp.
+
+47 Joseph Goebbels, “A Unique Age,” Das Reich, May 23, 1940
+
+--- Sayfa 34 ---
+27
+Figure 1.7: “Jewish Congress:” Der Stürmer, July 1934
+(Issue #34)
+Figure 1.8: “Jewish Murder Plan against Gentile
+Humanity Revealed” Special Issue: May 1934.
+
+Beyond magazines, propaganda was available through pamphlets, newspapers,
+and even children’s books specially designed for boys or girls of certain ages. They
+celebrated Nazi Germany and the role of individual Germans in support of the Nazi
+regime. For instance, in the pamphlet shown in Figure 1.5, a child promised Hitler that he
+will grow up to do what he must for Germany, while Hitler explains that German children
+must indeed do that and learn what they must do at a young age. There were also weekly
+motivational posters with quotes to keep the people’s minds focused on the importance of
+what the Nazis were saying and, when war broke out, reassured of ultimate victory.
+Among such posters were quotes such as from Dr. Robert Ley, the head of the German
+Labor Front (see Figure 1.9), but the Nazis found inspiration for their cause from many
+sources.
+
+--- Sayfa 35 ---
+28
+Figure 1.9: “Labor is an honor. Only
+accomplishment distinguishes one person from
+another. Dr. Robert Ley.” – Weekly
+motivational poster, Dec. 5-11, 1938.
+
+While propaganda was celebrating Hitler and Germany’s rebirth, it quietly
+prepared the German people for the war to come. In Triumph of the Will, Hitler addresses
+an assembly of German laborers holding shovels as if they were rifles. They speak as a
+cohesive unit and as one body declaring their support for the Führer. This intimidating
+scene shows that the German people are united as one behind their Führer. It also subtly
+indicates that even as these men were rebuilding Germany they also were receiving
+military-style training and conditioning and could exchange shovels for weapons. At the
+end of the film, a massive military parade marches down the streets of Nuremberg and
+each company salutes Hitler as they pass.48
+
+48 Triumph des Willens (Riefenstahl 1935).
+
+--- Sayfa 36 ---
+29
+Figure 1.10: Germany is surrounded and outnumbered thanks to the Treaty of Versailles.
+
+Other types of propaganda also portended the likelihood of war. The cartoon
+above shows the military situation Germany was put into by the Treaty of Versailles:
+100,000 German soldiers without any other weapons faced an entire continent full of
+dangerous armies (see Figure 1.10 above). Other articles and speeches took on a
+militaristic tone calculated to harden the German people for the struggle to come.
+When war broke out, the message of the propaganda changed completely. Before
+1939, propaganda praised Hitler, showcased the rebuilding German economy, and quietly
+prepared the people for war. When war broke out on September 1, 1939, motivational
+posters featured slogans that reminded the people of their commitment to Germany, such
+as a message from the Führer, leading by example (see Figure 1.11) or proclaimed
+messages of victory. All of the pre-war propaganda had worked towards the inevitable
+war that had now come. The peoples’ loyalty was concentrated on Hitler. Industry had
+
+--- Sayfa 37 ---
+30
+been rebuilt, the military restored. Now, all of German society backed the Nazi Party and
+the war effort, and it was up to the Pro-Mi to help harden and maintain the resolve of the
+German people.
+
+Figure 1.11: “If I demand sacrifice from the
+German people, even to the utmost, I have the
+right to do so, for I am just as ready today as I
+was in the past to make any personal sacrifice!
+Adolf Hitler.” Weekly motivational poster, Nov.
+12-18, 1939.
+
+As the war began, radio broadcasts and speeches were more directed than ever
+before at focusing the people’s resolve to see the war through. These messages of victory
+were most appealing during the initial string of German victories across Europe. As
+nation after nation fell before the advance of the German Wehrmacht, the German people
+were ecstatic. They finally had regained international power after the disaster of World
+War I. However, despite the great support of the German people, secured in part through
+propaganda, there were inconsistencies in Goebbels’ words of victory that Germans
+started to notice. As early as 1940, with the Reich’s first significant defeat for Germany
+in the Battle of Britain, German people began to doubt the message of the Nazi party’s
+propaganda arm.
+
+--- Sayfa 38 ---
+Chapter Two: Conflict with Reality: 1940-1941
+
+Goebbels’ propaganda ministry had an easy time during Hitler’s rise to power and
+the first years of the war. There was a seemingly endless supply of good news to pair
+with a vast amount of attention on Hitler and his own greatness. With the victories of
+1939 and 1940, the German public continued to enjoy Germany’s regained power and
+celebrated the nation’s rule over the majority of Europe. However, as the aim of
+propaganda switched from preparing people for war to maintaining morale during it, the
+message of the propaganda now faced the actual reality of the struggle. German media
+reports began to be questioned as early as the Battle of Britain in 1940, both by
+eyewitness accounts on the front lines as well as German civilians who listened to the
+BBC broadcasts, which Germany could not censor.1
+
+Germany’s military, spearheaded by its spectacularly successful panzer divisions,
+ran over Norway, Denmark, Holland, Belgium, and France between April and July 1940.
+The Allies were completely defeated on land; even if the British managed to evacuate
+over 300,000 Allied troops from the encircled city of Dunkirk, it did not hide the fact that
+Hitler had achieved a crushing victory over Germany’s old enemies. Goebbels was
+jubilant: “a victory, such as we could not have imagined in our wildest dreams, is ours.
+Thanks to the Führer!”
+ Conflicting information from the
+Nazi-controlled media and the uncensored British airwaves created doubt of the validity
+of Goebbels’ propaganda in German minds, and for the first time in the war, distrust of
+the Pro-Mi.
+2
+
+1 Bergmeier and Lotz, Hitler’s Airwaves, pp. 87-88.
+
+2 Taylor, Fred, The Goebbels Diaries 1939-1941, pp. 122-124.
+
+--- Sayfa 39 ---
+32
+
+Now that Britain alone opposed Germany in Europe, Hitler and his generals
+planned to invade and seize the island nation. This was an ambitious and key operation;
+should it succeed, the Allies would be totally defeated and no European power could
+stand against Germany.3
+
+The Pro-Mi took part in the operation as well. The ministry had an ongoing
+propaganda campaign against the British and Prime Minister Winston Churchill in
+particular.
+ Should Britain manage to resist invasion, however, opposition to
+Hitler and the Nazis would continue. Two primary problems confronted Germany: first,
+the complete lack of a ready surface fleet to escort an invasion force. The German
+Kriegsmarine (navy) had suffered major losses in the invasion of Norway and was down
+to only a few capable surface ships. Without a navy to protect troop transports and supply
+ships, any German invasion force would be destroyed by the Royal Navy. This led to the
+second obstacle: the Royal Air Force had to be destroyed so that the German Luftwaffe
+could cover the fleet from the air and sink any British ships that entered the area. A
+massive air campaign was fought from June to October 1940 against British targets – the
+Battle of Britain.
+4
+
+3 At this time, the Soviet Union was an ally of the Third Reich.
+ Churchill was a favorite target throughout the war (see Figure 2.1), though
+when attention shifted to the Americans later in the war, Churchill was relegated to the
+role of President Franklin Roosevelt’s sidekick in Nazi propaganda. The Pro-Mi’s anti-
+British propaganda noted Britain’s great power, luxury, and influence in the world as
+opposed to the Germans, who in comparison were “have-nots” (see Figure 2.2.) Figure
+2.1 shows Winston Churchill standing on the skulls of England's former allies. The
+4 Willi Boelcke, Secret Conferences of Dr. Goebbels (New York: E.P. Dutton & Co., 1970), p. 70.
+
+--- Sayfa 40 ---
+33
+caption: "Churchill and the neutrals: 'There are still not enough vassal peoples dying for
+England.'”
+The pamphlet in Figure 2.2 states that the Germans are poor and are fighting for
+their liberty as the British sit fat and happy, protected on their island as they send out
+others to do their bidding. The caption reads “We, the Have-Nots.” “46 million Britons
+control over 40 million square kilometers of land — stolen by brute force in every part of
+the world! That is more than a quarter of all the inhabitable space on earth! 86 million
+Germans on the other hand must earn their daily bread from 600,000 square kilometers,
+and should even have to ask the London plutocratic clique for permission to do that! We,
+the German ‘have-nots’ fight for our bread — and what about the British exploiter caste?
+— They fight for dividends at the cost of the blood of the peoples – but for the last time!”
+Figure 2.1: “Churchill and the
+Neutrals” (Spring 1940)
+Figure 2.2: “We, the Have-Nots.” (1941)
+
+--- Sayfa 41 ---
+34
+The Pro-Mi proficiently manufactured propaganda based on stereotypes, with
+which it conveyed both correct and false information to the German people. It regularly
+portrayed Churchill as fat and seemingly drunk, with a cigar in his mouth or nearby. That
+Churchill did in fact enjoy his smoking and alcohol combined with his continued
+resistance to Hitler in the face of utter destruction to make him appear egotistical and
+maniacal in the propaganda against him. He’s munching on a cigar in Figure 2.1, and
+below in Figure 2.3 he receives a bill from Death for taking a “Holiday” of binge
+drinking. The empty bottles are labeled Poland, Norway, Belgium, Holland, and England,
+indicating countries that Churchill had drained of life in the fight against the Nazis.
+Attacking the leaders of an opposition group was one tactic, but the Pro-Mi also
+regularly attacked the British for being wealthy imperial rulers, who had controlled the
+largest empire in the world for centuries now, and whose military was largely composed
+of conscripts and volunteers from their various colonies, such as India, South Africa,
+Australia, and New Zealand. In Figure 2.4 below, the Pro-Mi attacks both the staunch
+resistance of Churchill to Hitler’s regime as well as the vast, luxurious British Empire in
+the face of unrelenting aerial attack. The caption of this cartoon is “Philosophy of a
+Madman” and reads “Our empire is so large that it hardly matters if a small island burns
+down.” The “small island,” of course, is Great Britain.
+
+--- Sayfa 42 ---
+35
+
+Figure 2.3: Death bills Churchill for his
+“Holiday” (1940)
+Figure 2.4: “Philosophy of a Madman”
+(1940)
+
+The British were not the only object of stereotypical propaganda. The Pro-Mi
+similarly attacked the Jews and later Russians and Americans. The propaganda campaign
+against the Jews portrayed them as animals, as grizzly, shadowy monsters, or as filthy
+creatures that were interested only in money and power and making tools and slaves of
+the German people. The British and Churchill, as mentioned, were pilloried for their great
+imperial power, sloth, arrogance, indifference, and eagerness to exploit their subjects to
+achieve their goals and then casting them aside when the subjects had outlived their
+usefulness. To put it bluntly, Goebbels noted in his diaries in 1942 that “the English seem
+to me to be rather constipated.”5
+
+5 Louis P. Lochner, The Goebbels Diaries 1942-1943 (Garden City: Doubleday & Company, 1948), p. 100.
+ The Russians were portrayed in stereotypes as well: the
+supposed inferiority of Russia in comparison to Germany, their Communist rulers, and
+
+--- Sayfa 43 ---
+36
+the stench of the Jews in pulling the Soviets’ strings. In fact, Russians would be known as
+“Jewish-Bolsheviks” in the Pro-Mi’s campaign against them. The Americans, like the
+British, were denigrated for their wealth, laziness, arrogance, and disregard for the lower
+class and allies.6
+Besides attacking the British people and their leader, the ministry also
+continuously denounced Allied propaganda as lies. Before World War II began, Germans
+were allowed to listen to foreign radio broadcasts. This was banned once the war began
+on September 1, 1939. By the end of the war people could be executed for listening to
+foreign radio stations, that is, those not under German control in any way. Germans could
+still listen to French, Belgian, and other stations because the Reich had control of those
+countries.
+
+7
+In Figure 2.5 below, a Marxist-looking announcer broadcasts from London,
+Moscow, and other enemy states, while a German listens in the darkness, trying to
+conceal his traitorous crime. The propaganda campaign included a war of statistics as
+well. In Figure 2.6, entitled “Churchill’s False Figures,” the caption reads “He (Churchill)
+recently gave the following ‘report’ on his war, claiming that total British losses through
+October 1940 were 21,867 men, and 1,170 in German POW camps. The truth, however is
+that at that point German POW camps held 1,550 British officers, and 35,500 NCOs and
+soldiers, or a total of 37,050 English prisoners. That shows the nature of Churchill’s
+‘truths.’”
+
+6 The campaigns against the Russians and Americans will be discussed in depth in Chapters Three and
+Four.
+7 Derrick Sington and Arthur Weidenfeld, The Goebbels Experiment (New Haven: Yale University Press,
+1943), pp. 145-148.
+
+--- Sayfa 44 ---
+37
+
+Figure 2.5: “Traitor!”
+Figure 2.6: “Churchill’s False Figures”
+
+As the fight raged in the skies over England, German reports of aircraft kills and
+losses were continually rebutted by the BBC; far more often than not the Luftwaffe had
+lost more planes than it had destroyed, but the Pro-Mi reported the contrary as its British
+counterparts gave a much more accurate picture.8 This did not keep the Pro-Mi from
+claiming otherwise. Goebbels noted that, unlike army battles, air battles could be reported
+either way due to the confusion in aerial combat. For instance, on August 9, 1940, the
+Germans reported 49 British planes destroyed to 10 German, though the BBC gave the
+day’s numbers at 53 German planes destroyed to just 16 British. The latter figures were
+difficult to disprove since they were usually accurate, and the Pro-Mi’s only alternative
+was to step up their claims of enemy “lies.”9
+Goebbels actually notes similar bits of information in his own diaries: on October
+10, “our Luftwaffe’s losses have been greatly exaggerated…kill ratios 16:3…London sat
+
+8 Kershaw How Effective Was Nazi Propaganda? pp. 195-196.
+9 Boelcke, Secret Conferences of Dr. Goebbels, pp. 74-75.
+
+--- Sayfa 45 ---
+38
+in its air raid shelters for 11 ½ hours last night,”10 while on October 16 he wrote “London
+attacked in the night and again during the day…kill ratio 6:1.”11 These entries raise the
+question how much data Goebbels actually had access to, since the RAF obviously held
+its own over England. Then again, Goebbels’ diaries are the “propaganda minister’s
+propaganda for propaganda,” and must be taken with a grain of salt. Goebbels wrote three
+days earlier on October 7 that English bombing raids on German military targets that they
+claimed as successful had actually damaged “almost all dummy installations.”12 It is hard
+to imagine that the Germans had many or any dummy installations set up, so this appears
+to be a piece of propaganda imbedded in the diaries themselves. Goebbels berated the
+British for their “laughable” propaganda attempts throughout his diaries.13
+Besides its anti-British propaganda during the Battle of Britain, the Pro-Mi also
+issued a large number of flyers in support of the operation. During the first three years of
+the war, the Pro-Mi issued a series of twelve booklets that commented on different
+aspects of the war. In the eighth print, “Bombs over England” (see Figure 2.7), the Pro-
+MI printed a number of articles on the Battle of Britain from a German pilot’s
+perspective. These were stories of heroism, danger, and success after success. There was
+nothing to indicate the Germans were failing to destroy British defenses.
+
+10 Taylor, The Goebbels Diaries 1939-1941, pp. 136-137.
+11 Ibid., p. 145.
+12 Ibid., p. 133.
+13 Ibid., p. 306.
+
+--- Sayfa 46 ---
+39
+Figure 2.7: “Bombs over England”
+
+Though discouraged from doing so under the threat of arrest and execution, the
+German people listened to the BBC and some noted that eyewitnesses to the battle were
+often agreeing with the BBC information rather than the data issued by the Nazi Party. In
+addition to the numbers, Luftwaffe commander Hermann Göring’s boast that the Allies
+would never bomb Germany was soon proven wrong, as British planes started bombing
+German targets in night missions as early as 1940. Though the public celebrated the
+bombing of London and other British targets, the German attacks did not seem to be
+accomplishing anything. Goebbels noted on October 1, 1940, in his diaries that children
+were being evacuated from Berlin and other German cities, which made mothers
+“nervous, and that is a bad sign.” Goebbels confidently stated that “I shall soon make up
+for the lost ground.”14
+
+14 Taylor, The Goebbels Diairies 1939-1941, pp. 125-126.
+ He never lost faith in himself, and conceivably his ego impeded
+his job performance, if not this early, certainly later. Seeds of mistrust began to stir in the
+
+--- Sayfa 47 ---
+40
+population, which would never fully be suppressed. In addition, following large numbers
+of aircraft losses and the failure to destroy the Royal Air Force, on October 12, 1940,
+Hitler canceled the planned invasion of England, further hurting public morale and
+making an already thorny situation even more difficult for the Pro-Mi.15
+Looking back on Hitler’s own words in Mein Kampf, it is easy to see why the
+propaganda was having problems. Hitler had written blueprints for how the propaganda
+should be manufactured and utilized, and attention must be drawn to one particular
+paragraph once again: “all propaganda must be popular and its intellectual level must be
+adjusted to the most limited intelligence among those it is addressed to…to influence a
+whole people, we must avoid excessive intellectual demands on our public, and too much
+caution cannot be exerted in this direction.” Public receptivity “is very limited, their
+intelligence is small. But their power of forgetting is enormous.”
+
+16
+The Pro-Mi largely was keeping to this doctrine but was issuing information that
+was contradicted by actual battlefield data. The inability to silence the BBC only further
+hurt their cause here, as the British information largely was correct information and often
+directly countered what the Germans were saying. Weaknesses can be seen in this
+doctrine as well: despite Hitler’s notions of public gullibility, the German people were
+smart enough to figure out when they were being fed false information.
+ Hitler particularly
+emphasized that propaganda must persistently repeat only a few main points with no half-
+statements.
+17
+In addition, the simple broadcasting of dubious information went directly against
+Hitler’s own doctrines. He had seen false information work for the Allies in World War I.
+
+15 Marlis Steinert, Hitler’s War and the Germans (Athens: Ohio University Press, 1977), pp. 83-85.
+16 Hitler, Mein Kampf, pp. 180-181.
+17 Boelcke, Secret Conferences of Dr. Goebbels, p. 74.
+
+--- Sayfa 48 ---
+41
+No matter what the Germans threw at the Allies in that war, it affirmed to the Allied
+soldiers what their propaganda had said about the Germans. This proved not to be the
+case in World War II. The British were not in fact lazy, fat, and drunk; they defended
+their homeland with such determination that Hitler called off the invasion of Britain.
+Stereotypical propaganda worked against the Germans for the first time in this case.
+Because of the favorable military situation, these weaknesses were only minor in 1940
+and 1941. At some point, however, the right blow would shatter the system.
+Germany enjoyed many military successes between October 12, 1940, and June
+21, 1941, including the seizure of the Balkans, the initial victories against the British in
+North Africa, and the constant bombing of London and other British cities during “the
+Blitz.” The Pro-Mi put forth a great deal of supporting material for these operations,
+including another booklet entitled “Fighting England in North Africa!” (see Figure 2.8)
+that included soldiers’ perspectives on the battle across the desert. Although the RAF had
+defended its homeland well, pamphlets like these proved that the Germans still had the
+upper hand against the British on land. In Africa, the Pro-Mi made a hero out of General
+Erwin Rommel as his Afrika Korps drove the British across the desert.
+Another remarkable book (see Figure 2.9) entitled “That is Victory! Letters of
+Faith in New Times and War” was a 205-page collection of letters written to the book’s
+editor, Günter d’Alquen. The editor had written to various people asking them to say
+what Hitler meant to them. Over 120,000 copies were published by 1941. The responses
+paint an astounding picture of an almost religious devotion to the Führer. The
+respondents saw Hitler as Goebbels described him in the “Our Hitler” speech described
+in Chapter One. One wrote on April 20, Hitler’s birthday, that “you live and are the law.
+
+--- Sayfa 49 ---
+42
+You are love and strength. My heart is full of thoughts about you this day, too full to
+express the wishes of many and their thanks to you. You are freedom, for you gave duty
+its meaning that gives significance, joy, and strength to all our work. You took the curse
+of sweat and toil from this people, a people that today like me stands in modest stillness
+with you.” Another loyal German wrote “until my 30th year, my father was the center of
+my life…. His death in 1930 left a terrible void. Suddenly all that guided my thinking and
+my efforts — suddenly the center was no longer there….There is not enough space to
+describe how the Führer came to fill this place in me.”18
+
+ After the vast success of the
+German military and the restoration of German power, Hitler enjoyed the greatest support
+he had ever had while in power. At this point in the war, aside from the failed invasion
+attempt of Britain, Germany seemed unstoppable.
+
+Figure 2.8: “Fighting England in North Africa!”
+Figure 2.9: The cover to That is Victory!
+Letters of Faith in New Times and War
+
+18 Günter d’Alquen, Das ist der Sieg! Briefe des Glaubens in Aufbruch und Krieg (Berlin: Zentralverlag der
+NSDAP., 1941).
+
+--- Sayfa 50 ---
+43
+The German Army High Command also aided the Pro-Mi by producing a few
+propaganda films of its own, most notably Sieg im Westen, or Victory in the West, in
+1941. The film chronicled the 1940 victories of the German army in France, claiming that
+the force of arms was required because Europe would not let Germans live in peace; it
+highlighted the Wehrmacht’s audacious offensive undertaken against the French and
+showed victory after victory against the outmanuvered French army. The film was
+produced as a documentary of the campaign and was one of the greatest German films
+produced during the war.19
+Despite the great success and intense media coverage of the combat operations in
+the Balkans and Africa, those victories did not garner the same enthusiasm as the earlier
+victory in France. Though everyone was proud of the German soldiers for their victories,
+it was more difficult for propaganda to justify the operations. Hatred of England was
+waning and Germany already had, after all, achieved control of all of Western Europe.
+The Germans were beginning to have enough of war. Anger was shifting towards Italy,
+whose military struggles had drawn German forces into the Balkans and Africa in the
+first place.
+
+20 Goebbels himself was angry at Germany’s allies: ”Italy has done us a lot of
+damage by her constant defeats. Without those…Gibralter would be in our hands…we
+would have been able to enforce our will effortlessly on the Middle East…the fact that
+this is wishful thinking is something we have to thank our allies for.”21
+This incipient dissatisfaction among the German public would likely have been
+greatly exacerbated in 1941 with the defection of high-ranking Nazi Rudolf Hess to
+Britain, but luckily for the Propaganda Ministry, the BBC failed to capitalize on the
+
+19 Sieg im Westen (Hippler 1941).
+20 Steinert, Hitler’s War and the Germans, pp. 95-97.
+21 Taylor, The Goebbels Diaries 1939-1941, pp. 355-356.
+
+--- Sayfa 51 ---
+44
+opportunity. Goebbels noted that the British boasted about Hess’s defection but was
+relieved that they never made it much more than that. Goebbels states that “Churchill has
+little to say about the real motives [behind Hess’s defection],” which meant that the Pro-
+Mi and Hitler himself could counter the British reports by claiming of Hess was suffering
+from delusions and mental issues.22 A potentially devastating propaganda blow was never
+landed by the British media.23 Hitler solved the problem by issuing a speech on May 12,
+1941, describing Hess’s “delusions” and “mental disorders.” The populace assumed Hess
+was a traitor, which benefitted the Nazi Party and caused a wave of support and sympathy
+for Hitler.24
+This was an interesting time for Germany. Despite all its successes across Europe,
+the British remained a constant thorn in Germany’s side. However, the German public
+was generally happy with their situation: they had regained the power and respect lost in
+the disaster of World War I, and most of Europe was under their control. The German
+military was unstoppable on the ground, as the public was repeatedly assured. One
+motivational poster from May 1941 displayed the Führer’s message that Wo der Deutsche
+Soldat Steht/kommt kein Anderer hin or “Where the German Soldier Stands/No One May
+Enter” (see Figure 2.10). Aside from minor problems in the propaganda war, there was
+little for the German public to fear.
+
+22 Taylor, The Goebbels Diaries 1939-1941, p. 364.
+23 Taylor, The Goebbels Diaries 1939-1941, pp. 363-371.
+24 Steinert, Hitler’s War and the Germans, p. 99.
+
+--- Sayfa 52 ---
+45
+Figure 2.10: “Where the German Soldier Stands/No One
+May Enter. Adolf Hitler.” Weekly motivational poster, May
+1941.
+
+Germans were becoming nervous about the Soviet Union. Soviet-German
+relations had become increasingly sour since mid-1940, and Soviet troop movements
+worried people in the eastern German provinces. Reich Finance Minister Schwerin von
+Krosigk warned Hermann Göring: “Don’t you believe that we are expecting too much
+from this willing, loyal, and trusting Volk if this treaty with Russia, once celebrated…as
+the greatest guarantee of victory, as the greatest political achievement, as the security
+against English blockade plans…is perverted? I fear that most people will not be equal to
+so severe a task.” Krosigk also noted the already visible signs of overstressed labor
+supply, food supply, and noticeable signs of fatigue in the population.25 His warning was
+seemingly ignored, however. The populace’s mood went from anxiety about the Soviet
+Union to expectance of another combat operation as 75 percent of the German army,
+including over 3 million troops and almost 3,400 tanks, gathered in East Prussia.26
+
+25 Steinert, Hitler’s War and the Germans, pp. 97-98.
+26 Steinert, Hitler’s War and the Germans, p. 102.
+
+--- Sayfa 53 ---
+Chapter Three: Propaganda and the Eastern Front: 1941-1943
+
+The conflict between the Soviet Union and Nazi Germany beginning on June 21,
+1941, was among the most horrific and savage struggles in World War II.  Hitler had
+described his intentions for the Soviet Union in Mein Kampf: it would become
+Lebensraum (living space) with the Slavic population reduced to slavery. Months before
+the initial invasion by the Wehrmacht (Operation Barbarossa), it was clear how the battle
+would be fought. In March 1941, Hitler informed his generals that the war against the
+Soviet Union “will be such that it cannot be conducted in a knightly fashion; the struggle
+is one of ideologies and racial differences and will have to be conducted with
+unprecedented, unmerciful and unrelenting harshness.”1
+The propaganda that accompanied the campaign too was unmerciful to the
+Russian people, Stalin, and the Communist Party. The Russians lacked the same scale of
+mass media support that the Pro-Mi enjoyed, but, as with the Battle of Britain, Nazi
+propaganda was shown to be very susceptible to refutation. Like the initial invasion itself,
+propaganda succeeded early on but faltered as soon as real reports of the situation on the
+Eastern Front came to light. Following the disaster at Stalingrad in February 1943,
+propaganda suffered a massive loss of credibility. The Pro-Mi had to adapt to the new
+circumstances, and these efforts succeeded.
+
+Before June 21, 1941, there was not much propaganda circulating in Germany
+regarding the Soviet Union; the two countries had signed a nonaggression treaty, the
+Molotov-Rippentrop Pact, in August 1939. However, Wolfram Wette points out that for
+Germany, preparatory propaganda was unnecessary, as the German population already
+had general stereotypes of the Russians in their minds. The Pro-Mi had an easy time
+
+1 Fritz, Frontsoldaten, p. 199.
+
+--- Sayfa 54 ---
+47
+developing war propaganda against the Russians, largely because German political and
+social elites had long characterized the Soviet Union in a negative light. Wette identifies
+several categories of German perceptions of the Soviet Union – cultural,
+nationalistic/imperialistic, communist, social democratic, and racist, all of which had
+existed long before Hitler came to power.2
+Culturally, a small but well-educated portion of the German population admired
+Russian writers such as Pushkin, Dostoyevsky, and Tolstoy. However, World War I had
+shut off a great deal of the cultural exchange between the two nations, and the rise of
+communism was seen as a great political threat to the German bourgeoisie. Those
+Germans who still thought of Russia only in terms of its intellectual accomplishments
+were not a very powerful political group and thus had little influence on what the
+majority of Germans felt about Russia.
+
+3 The rise of Bolshevism in Russia saw a mixed
+reaction by German politicians. While members of the German Communist Party thought
+of Russia as a peaceful power, the more powerful factions in German politics such as the
+Social Democratic Party, or SPD, thought of the new Soviet Union an autocratic system
+in direct conflict with democratic ideals.4
+Once the Nazis came to power, their views of nationalism, imperialism, and
+racism pervaded in the German political leadership, and these views of Russia were the
+most negative of all. German nationalists now saw the Soviet Union as a “colossus with
+feet of clay,” appearing strong but structurally weak. A second, more aggressive opinion
+was held by imperialists, such as the Pan-German League and the Nazi Party itself, who
+believed that Germany should “strive towards the east” and prepare for an “inevitable”
+
+2 Wolfram Wette, The Wehrmacht: History, Myth and Reality, pp. 1-8.
+3 Ibid. pp. 1-8.
+4 Ibid. pp. 8-11.
+
+--- Sayfa 55 ---
+48
+struggle between the Slavic and Germanic peoples. This opinion was prevalent as early as
+1912 or 1913, and only reinforced by Germany’s success against Russia in World War I.
+The perception was highly supported because it was largely held by influential and
+powerful figures in the German leadership but more importantly because the imperialist
+view was greatly motivated by an underlying racism among the Germans. Germans
+believed they were superior to Slavic peoples in everything from intellectualism to war,
+even before Hitler came to power. World War I bolstered such views, as the Germans
+decisively defeated the Russians on the Eastern Front. Furthermore, the Germans
+believed they were entitled to take control of the Slavic lands and exploit them
+economically.5
+The Nazi Party took these existing opinions a step further. Hitler portrayed the
+Soviet Union as dominated by “Jewish Bolshevism,” combining the two most hated
+enemies of Nazi ideology into one general term to describe the Russians. Under his rule,
+racism took center stage in the overall view of the Soviet Union. Hitler believed the
+Germans were racially superior to Slavs and Jews, both classified as racially inferior
+Untermenschen (subhumans). Hitler’s goals for the Soviet Union were to eliminate the
+Jews and seize Lebensraum for the German people. His view took the negative elements
+of every previous belief and combined them into one portrait of the Soviet Union, and did
+so in a way that could be adapted to specific tactical needs.
+
+6
+
+5 Ibid. pp. 11-14.
+ The USSR was depicted as a
+backward country run by corrupt leaders and populated by subhumans who were
+intellectually, militarily, and most importantly, genetically inferior to Germans. The
+devastation, the ruined cities, and savage resistance by Russians were all linked to
+6 Ibid. pp. 14-17.
+
+--- Sayfa 56 ---
+49
+Hitler’s view. Hitler had observed in Mein Kampf that World War I propaganda had been
+compelling for the Allies no matter what the Germans did; he hoped to achieve the same
+effect on German soldiers in his own propaganda against the Russians.
+When Hitler gained power he cut off military exercises with the Red Army that
+the previous administration had instituted in the late 1920s. This had two major effects on
+the Wehrmacht. The first was regret on the part of some high-ranking German officers,
+who had come to respect a “healthy militarism” in the Red Army and a great combat
+spirit in its men despite their inferior equipment. This was largely forgotten between 1933
+and 1941, particularly after Stalin purged the high-ranking members of the Red Army.
+The lack of senior officers in the Russian Army as well the paucity of information about
+the Red Army led German officers to fall back on old beliefs, which suited Hitler’s
+ideological goals. The old stereotype was curiously effective: in 1933, Colonel Walther
+von Reichenau lamented the loss of contact with the Red Army and the end of any chance
+of creating “German-Soviet friendship.” Yet by 1941, Reichenau was a staunch
+proponents of Hitler’s ideology in the German army on the eve of the invasion of the
+Soviet Union.7
+Goebbels described the guidelines for anti-Russian propaganda in a diary entry on
+June 5, 1941. “No anti-socialism, no return to Czarism, no open admission that the
+country will be divided up…against Stalin and his Jewish masters, land for the
+peasants…strong indictment of Bolshevism, attack failure in all fields. And otherwise do
+what the situation demands.”
+
+8
+
+7 Ibid. pp. 17-21.
+ The propaganda campaign to come followed these
+guidelines closely once military operation began. For the first time during the war,
+8 Taylor, The Goebbels Diaries 1939-1941, p. 396.
+
+--- Sayfa 57 ---
+50
+ideological differences were a driving force in German propaganda; the Nazis had few
+ideological problems with the British or French. Ideology now proved to be a very
+effective wartime tool for the Pro-Mi.9
+Hitler played a key role in the distribution of the initial anti-Russian propaganda
+for the campaign, especially with his March 1941 speech to the Wehrmacht field
+commanders. His commanders received his comments of an upcoming harsh campaign
+quite well, and then passed the message down to the troops involved. Two of them in
+particular, Field Marshal Walther von Reichenau of the Sixth Army and General Erich
+von Manstein of the Eleventh Army, relayed general orders to their troops, essentially
+repeating Hitler’s words.  Reichenau’s order stated that the most important goal of the
+campaign against “the Jewish-Bolshevik system” was “the complete smashing of its
+means and power and the eradication of Asiatic influences in the European cultural
+sphere…the [German] soldier in the East is…a carrier of an inexorable racial idea and the
+avenger of all the bestialities that have been inflicted on the Germans and related
+peoples.” Therefore, the German soldier “must have complete understanding for the
+necessity of the severe but justified atonement of Jewish subhumanity.”
+
+10 Manstein’s
+order echoed Reichenau’s, and curiously he used the same phrase “harsh atonement”
+against “Judaism, which is the spiritual carrier of the Bolshevik terror.”11
+
+9 Welch, The Third Reich: Politics and Propaganda, p. 100.
+ Other
+commanders urged their troops to be harsh and merciless and argued that compassion and
+weakness were out of place in the campaign. Hitler made a very telling remark to
+10 Fritz, Frontsoldaten p. 199.
+11 Fritz, Frontsoldaten p. 199.
+
+--- Sayfa 58 ---
+51
+Goebbels on June 16, 1941, five days prior to the invasion. “Whether right or wrong, we
+must win,” he said, “And when we have won, who will ask us about the method?”12
+The Pro-Mi printed 200,000 pamphlets for the troops on June 18, 1941, to be
+passed out on the day of the invasion. Four days before that, Hitler held a final meeting
+with his commanders. He emphasized that the troops must realize that the battle was
+against Bolshevism; should the war be lost, Europe would fall to the Bolsheviks, and thus
+the operation was for the salvation of Europe. He reassured the commanders that the Red
+Army, though superior in numbers, was inferior in quality and “would be smoothly rolled
+up.” Goebbels estimated that Bolshevism would “collapse like a deck of cards.”
+
+13
+Just hours after Hitler launched the invasion of the Soviet Union, he justified his
+actions in a speech before the German people, stating that though Germany had never
+tried to impose National Socialism on Russia, the Bolsheviks routinely tried to force their
+rule onto Europe, with nothing but chaos and starvation to show for it. Now, Britain was
+trying to restore relations with the Soviet Union and surround Germany as it had in
+World War I, and the Soviet Union had begun making unfair demands of Germany,
+which Hitler had not agreed to. In response, Hitler said he could “no longer keep silent”
+and that “an attack unprecedented in the history of the world in its extent and size has
+begun.” With Finnish and Romanian support, “this front is no longer the protection of
+individual nations, but rather the safety of Europe and thus the salvation of everyone.”
+
+14
+Goebbels’ diaries noted the tension leading up to the operation. In the early hours
+of June 22, he recorded everything that happened that evening and in the morning. He
+seemed incredibly excited and determined, and he described Hitler in the same manner.
+
+12 Ian Kershaw, Hitler: 1936-45: Nemesis (New York: W.W. Norton & Company, 2000), p 341.
+13 Kershaw, Hitler: 1936-45: Nemesis, pp. 384-385.
+14 Adolf Hitler, “Proclamation of June 22, 1941.”
+
+--- Sayfa 59 ---
+52
+In the following days, the Russian losses at the hands of the Wehrmacht pleased him:
+“Military developments in the East are excellent beyond all our expectations. Our new
+weapons are carrying all before them.”15
+The Pro-Mi and the Wehrmacht used propaganda to further create support for the
+campaign among the population and troops. It hammered stereotypical images of the
+Russians and of Stalin and the rest of the communist party into the minds of the German
+soldiers, focusing on Russian “subhumanity” and inferiority in life as well as in combat.
+Ian Kershaw noted that Hitler had wanted this war since the 1920s, and it would have
+gone forward whether Britain had been defeated or not. True Nazi believers were fighting
+to cleanse the Soviet Union of “Jewish-Bolshevism” and the rest of the army would
+follow suit in the most destructive part of the war.
+
+16
+Goebbels described the Pro-Mi’s task as presenting to the German public and
+military views of Soviet corruption and inhumane conditions – “this system where Jews,
+capitalists and Bolsheviks work hand in glove has created a quite inconceivable degree of
+human depravity.”
+
+17
+
+15 Taylor, The Goebbels Diaries 1939-1941, pp. 420-426.
+ Two examples (Figures 3.1 and 3.2) are weekly posters, the first put
+up just over a month following the start of the invasion and aimed at both the civilian
+population and particularly the troops; the second is from two weeks later.
+16 Kershaw, Hitler: 1936-45: Nemesis, pp. 388-389.
+17 Boelcke, Secret Conferences of Dr. Goebbels, p. 177.
+
+--- Sayfa 60 ---
+53
+
+Figure 3.1: Motivational poster July 27-
+August 2, 1941.
+Figure 3.2: “One Who Should Know…” (September 10,
+1941)
+
+Figure 3.1’s caption reads “You bear the banners and standards, and are the
+guarantee that Europe will be liberated from Bolshevism,” while Figure 3.2, entitled
+“One Who Should Know…” cites the former Soviet ambassador to Bulgaria, who
+accuses Stalin of every manner of crime: “The warmongers and Jewish lackeys Roosevelt
+and Churchill have shamelessly promised all of Europe to this ‘organizer of starvation,’
+this inhuman oppressor, who has on his hands the blood of millions who have starved or
+been brutally butchered!! The German military will put an end to Stalin. And it will not
+forget his plutocratic patrons and pimps!”
+By December, the Soviets had been rapidly driven back. The Wehrmacht was
+making spectacular territorial gains destruction of enemy forces, so astounding that even
+Goebbels himself at first refused to believe they were accurate.18
+
+18 Kershaw, Hitler: 1936-45: Nemesis, pp. 398-399.
+ The poster in Figure 3.1
+
+--- Sayfa 61 ---
+54
+is a perfect representation of the regained euphoria of the German leadership and the
+people. The Wehrmacht was on the march; its ever-victorious German soldiers were the
+keys to Germany’s success. The Soviets appeared likely to crumble quickly, just as the
+Germans had always believed they would. Figure 3.3, a map from the German Signal
+magazine December 1941 issue, shows the successes beautifully. The circles note Soviet
+troops, guns, and tanks destroyed in battle. Note the big pockets: 665,000 prisoners of
+war taken in Kiev (center), 324,000 in Minsk (left), 310,000 in Smolensk  (top center)
+and 663,000 in Brjansk-Wjasma (top right) that also combine for over 8,600 tanks and
+over 13,000 artillery pieces captured or destroyed. To compare, the strength of the
+Wehrmacht at the start of the invasion was 3.3 million men and 3,360 tanks.
+
+Figure 3.3: Map of encircled
+Russian pockets in the
+December 1941 issue of
+Signal magazine.
+
+The caption under the map reads:
+
+--- Sayfa 62 ---
+55
+Here the Soviet army was defeated. In seven battles of annihilation (Bialystock-Minsk,
+Smolensk, Uman, Gomel, Kiev, on the Faso Sea, and Brjansk-Wjasma), the Soviet Union
+lost its best armies and the greater part of its tanks and artillery.... Their plan was for
+thousands of tanks to flood over the Weichsel River toward Central Germany, then
+further to the West. There they would join troops from the Lemberg area, where there
+were also substantial attack forces prepared to give Germany the deathblow. That would
+have plunged Europe into unimaginable chaos, from which there could have been no
+escape.19
+
+This caption certainly paints an optimistic picture for the Wehrmacht and a dismal one
+for the Russians. It also points to the great duty the Germans were performing for the
+inhabitants of Western Europe – saving it from Jewish Bolshevism. This helped German
+morale at home and gave the war on the Eastern Front a sense of purpose.
+German soldiers wrote home regarding the sorry state of the Soviet Union. Many
+echoed Hitler’s comments on the starvation and chaos of the Bolshevik regime. One
+soldier, a Corporal W.F., wrote that “a complete destruction [of Bolshevism]
+is…required, for if these bestial hordes of soldiers were to fall upon Germany all would
+be gone that is German.”20 A Private F. exclaimed that “Adolf and I are marching against
+our great enemy Russia. Consequently, one of my wishes has been fulfilled, as I was
+gladly drawn into this blasphemous country…you see evidence of Jewish, Bolshevik
+cruelties which I can hardly believe possible…if until now I have taken the declarations
+of the government rather skeptically and critically, so today I can actually acknowledge
+the truth of these reports totally.”21
+The cover of the Signal magazine’s December 1941 issue (see Figure 3.3) is
+entitled “Decision in the East,” suggesting that the Soviet Union was finished, as many
+Germans believed this was true.
+
+19 Signal magazine, December 1941 issue.
+20 Fritz, Frontsoldaten, p. 196.
+21 Fritz, Frontsoldaten, p. 196.
+
+--- Sayfa 63 ---
+56
+
+Figure 3.4: Cover of the December 1941 Signal
+issue of magazine.
+
+The cover shows a German officer writing to his mother from the Eastern Front.
+There is considerable coverage of the Russian campaign. One article claims that Hitler is
+much greater than Napoleon. Inside, there are further articles on glass blowing, dancing,
+and a new film. All of this calm coverage and victorious announcements point to an
+expected quick end of the fighting.
+German hopes for an easy victory suffered a setback in December 1941. The
+Russian winter had set in early, and German forces had advanced so far so fast that their
+supply lines were badly overextended. The deteriorating road network combined with
+mechanical failures and shortages of fuel and ammunition increasingly hindered the
+German advance. To compound the problem, just as German panzers were in sight of
+Moscow, the Red Army unleashed a massive counterattack all around the city on
+December 9, 1941. The German advance was halted and very nearly crushed by the
+onslaught. The Propaganda Ministry downplayed the success of the Russian
+
+--- Sayfa 64 ---
+57
+counteroffensive using propaganda such as the cartoon in Figure 3.5, which portrays
+Stalin breaking his abnormally sharp teeth trying to bite down on a German helmet:
+
+Figure 3.5: "The results of his winter offensive. He
+has bitten steel!" (early 1942)
+
+The cartoon minimized the results of Soviet offensives over the winter of 1941-
+42. In truth, German commanders were shocked by the force of the offensive: the front
+had nearly collapsed. The Pro-Mi’s message in early 1942 downplayed the Russian
+success, but the public was already suspicious of the propaganda messages. Soldiers’
+letters home also contributed to the public morale problem by their references to limitless
+Soviet manpower reserves and more importantly “the hopelessness of a decision in the
+near future.” These personal communications were counteracting Goebbels’ propaganda
+message. After destroying 260 Russian divisions, suddenly the Germans could not
+advance. German troops within sixty kilometers of Moscow were stopped cold. Though
+not all Germans were pessimistic about the war in Russia, many wondered how an end
+
+--- Sayfa 65 ---
+58
+might even be possible, since peace was out of the question and Germany lacked the
+manpower to occupy such a large country.22
+Goebbels himself acknowledged this situation in an entry on February 24, 1942.
+“We shall have to change our propaganda and our policies in the East…these were
+hitherto based on the assumption that we would take possession of the East very quickly.
+This…has not been realized. We must therefore envisage a longer duration and are
+accordingly compelled to change our slogans and our policies fundamentally.”
+
+23 With the
+Propaganda Minister himself realizing that he underestimated the situation, clearly the
+Pro-Mi would have a problem on its hands trying to restore public morale. A couple of
+weeks later, Goebbels noted that Germans had sustained approximately a million
+casualties on the Eastern Front. “That is, of course, quite a number,” he writes, “…as
+things stand today, I do not feel it opportune to make these figures public now. One must
+wait for a more favorable moment.”24
+Goebbels noted on March 6, 1942, that “The food situation in the occupied
+eastern areas is exceptionally precarious…tens of thousands of people are dying of
+hunger without anybody even raising a finger. We shall undoubtedly face exceptional
+difficulties and problems there for a number of years to come.”
+ That is, the Pro-Mi must withhold the truth from
+the public, which would be its downfall later in the campaign.
+25
+
+22 Steinert, Hitler’s War and the Germans, pp. 128-132.
+ He knew of the horrible
+conditions on the Eastern Front for the Russian people. However, they were inferior
+Jewish-Bolsheviks, and he simply took it into account as a problem that would hurt the
+23 Lochner, The Goebbels Diaries 1942-1943, p. 100.
+24 Lochner, The Goebbels Diaries 1942-1943, pp. 112-113.
+25 Lochner, The Goebbels Diaries 1942-1943, p. 115.
+
+--- Sayfa 66 ---
+59
+Nazis’ cause in the future, as would a Propaganda Minister taking notes on how to
+influence a future populace under German rule.
+
+The year 1942 was a tumultuous one for both the Germans and Soviets. Though
+the German progress stalled outside Moscow, offensive was opened against the Ukraine,
+bringing considerable combat success in the Crimea. The Pro-Mi continued to supply
+propaganda to support the war effort with its high-spirited message of certain victory.
+The poster below is from May 1942 and is entitled “One battle, one will, one goal:
+Victory at any cost!” (see Figure 3.6). A friend of Goebbels, Hans Schweitzer, better
+known by the pen name “Mjölnir,” created this image. It plays on a central Nazi ideology
+of “one nation, one people, one Führer” with its title and shows the hard-fighting German
+soldiers driving the Red Army before them with the support of hard-working German
+people back home. This showed the German people that they were actively involved in
+and crucial to the war effort.
+Figure 3.6: “One battle, one will, one
+goal: Victory at any cost!” Mjölnir,
+May 1942.
+
+--- Sayfa 67 ---
+60
+Despite the initial success, the offensive in the south began to be focused on one
+particularly problematic target – the city of Stalingrad. After driving into the city on July
+17, 1942, German forces immediately met some of the most ferocious resistance of the
+war. The Russians fought to the last man and made the Germans pay for every inch of
+ground. By November, the Germans pushed the Russians to the banks of the Volga River,
+which ran through the middle of the city. The Red Army then counterattacked on
+November 19 from outside the city and surrounded the German 6th Army, in Stalingrad
+and began to move in on the trapped Germans.26 Despite repeated attempts to break out
+and to supply the troops trapped in the city, the Germans failed to cut the Russian
+stranglehold.27
+In the months prior to the February 1943 surrender of the German 6th Army, Nazi
+propaganda took no notice of the fact that Germans, not Russians, were surrounded and
+steadily being destroyed. Goebbels’ memoranda to the Pro-MI barely mention Stalingrad
+at all, with the exception of stating on January 26, 1943, that it “should not publish the
+pessimistic Russian comment on the war situation since it does not fit into our
+propaganda slogan at the moment.” This “pessimistic Russian comment” was delivered
+by Stalin and listed the destruction of 102 German divisions and near-certain victories at
+Stalingrad and elsewhere.
+
+28
+
+26 Robert Citino, Death of the Wehrmacht (Lawrence: University Press of Kansas, 2007), pp. 247-254.
+ Ignoring the growing desperate news from the Wehrmacht in
+Russia, on January 30, 1943, just four days before Stalingrad fell (see Figure 3.7), the
+Pro-Mi released another poster that reads “30 January 1933-1943. One Battle! One
+Victory!” January 30 was the tenth anniversary of the Nazi seizure of power. The image
+shows that the battle against the world in 1943 was just a continuation of the struggle that
+27 Citino, Death of the Wehrmacht, pp. 298-301.
+28 Boelcke, Secret Conferences of Dr. Goebbels, pp. 322-323.
+
+--- Sayfa 68 ---
+61
+led to Nazi victory in 1933. This poster was removed from circulation when Stalingrad
+fell.
+
+Figure 3.7: “30 January 1933-1943. One Battle! One
+Victory!”  This poster was issued just four days
+before to the 6th Army surrendered in Stalingrad.
+(January 30, 1943)
+
+This was the height of the Pro-Mi downplaying the problems at Stalingrad to the
+public: encouraging belief in certain victory even as a quarter-million German soldiers
+were just days away from falling captive to the Russians. Reports from foreign press
+agencies that the Germans were losing the battle were circulating by late December 1942,
+but only in late January 1943 did German media finally acknowledge the true situation.
+Just days later, on February 3, came the terrifying announcement that “the fight for
+Stalingrad is over.” In propaganda terms, the tide of battle had shifted and ended in just
+over a week. The Pro-Mi fail not only misled the public but maintained the illusion of a
+“heroic sacrifice,” withholding the fact that 90,000 Germans surrendered and had been
+taken prisoner by the Russians. Even worse, propaganda published just after Stalingrad
+often did not even acknowledge the disaster. For example, the February 1943 issue of the
+
+--- Sayfa 69 ---
+62
+magazine Signal didn’t even mention the battle, let alone the defeat.29 The public took
+part in a day of mourning that Hitler declared for the lost troops, but this fiasco caused a
+massive loss of confidence in the German leadership, including, finally, Hitler.30
+Compared to the relatively minor problems in the propaganda during the Battle of
+Britain, the Pro-Mi utterly failed on this operation. Up to this point in the Russian
+campaign the propaganda had done its job fairly well; soldiers believed in its message
+and the public still trusted Hitler and the rest of the Nazi Party. By ignoring the
+dangerous turn of the battle at Stalingrad, the Pro-Mi undermined itself. The
+acknowledgement that something was wrong and that the German forces in Stalingrad
+were in deep trouble came too little, too late, and the resulting catastrophe caused a
+severe loss of trust in the Pro-Mi. Unlike in the Battle of Britain, where the Germans sent
+out pieces of false information, this was a disaster because of the complete absence of
+information. Stalingrad was as much a defeat for the Pro-Mi as for the Wehrmacht; the
+ministry suffered a massive loss of credibility that it now had to try to recover from.
+
+To his credit, Goebbels had recognized the propaganda’s weaknesses and tried to
+correct them as early as 1942. He explained to those in charge of mass media that the
+message seemed to be “so worn out and expressionless that it provoked a feeling of
+weariness among its listeners and readers,” and encouraged his men to promote the cause
+differently “so as to prevent a further drop in public interest.”31
+
+29 Signal magazine February 1943 issue.
+ Following Stalingrad, the
+Pro-Mi’s image suffered badly. The people had lost confidence in the German high
+command as well as in the Pro-Mi and Goebbels himself. Weekly newsreels began to
+lose their appeal, and a general distrust of propaganda spread. Whole libraries were
+30 Kershaw, How Effective Was Nazi Propaganda? p. 199.
+31 Kershaw, How Effective Was Nazi Propaganda? p. 197.
+
+--- Sayfa 70 ---
+63
+maintained on the front lines, and entertainment of a wide variety was sent to the
+troops.32
+Goebbels stopped broadcasting the same monotonous message used throughout
+1942. Lamenting how propaganda was received by the public and the troops, he instituted
+changes to the tone and eventually the message of the material coming from his ministry.
+Instead of forecasting approaching victory, the Pro-Mi began to attack the Allies in his
+message, drawing pictures of corruption and devilry to scare the German populace. These
+images gradually were combined with a new theme as the tide of battle turned against the
+Reich: if Germany were conquered, then its people would be wiped out or, worse, be
+ruled by the Jews and the Bolshevik terror. This message strongly affected the troops,
+especially on the Eastern Front. The Red Army was coming and the Russians were
+destroying countless German divisions in its wake; why would that same destruction not
+happen to Germany itself? Goebbels’ new Eastern Front propaganda no longer
+proclaimed the Russians’ inferiority, since they clearly had the military skill to defeat the
+Germans when given the opportunity. Instead, Goebbels revived the theme of defending
+Europe against Bolshevism that he had used at the beginning of the invasion.
+ The old message wasn’t having the effect it used to on the troops, however.
+33
+Goebbels also made his famous “Total War “ speech on Feb. 18, 1943, following
+the disaster at Stalingrad.
+
+34
+
+32 Sington and Weidenfeld, The Goebbels Experiement, pp. 196-206.
+ With it, Goebbels almost singlehandedly brought some public
+support back to the Nazi regime. Goebbels captivated the audience, and through radio
+and film all of the Reich heard his words. Essentially, the entire speech was meant to
+awaken Germany to its greatest challenge: “I speak first to the world, and proclaim three
+theses regarding our fight against the Bolshevist danger in the East. This first thesis:
+33 Welch, The Third Reich: Politics and Propaganda, pp. 102-103.
+34 Actually entitled “Now, People Rise Up, and Let the Storm Break Loose!”
+
+--- Sayfa 71 ---
+64
+Were the German army not in a position to break the danger from the East, the Reich
+would fall to Bolshevism, and all Europe shortly afterwards. Second: The German army,
+the German people and their allies alone have the strength to save Europe from this
+threat. Third: Danger faces us. We must act quickly and decisively, or it will be too late.35
+Other Nazi officials were amazed by the public’s positive and thunderous reaction
+to Goebbels’ words. The man in charge of a ministry that had just suffered a catastrophic
+defeat was now cheered by the entire nation. Albert Speer spoke of Goebbels afterwards:
+“Except for Hitler’s most successful public meetings, I had never seen an audience so
+effectively roused to fanaticism. Back in his home, Goebbels astonished me by analyzing
+what had seemed to be a purely emotional outburst in terms of its psychological effect —
+much as an experienced actor might have done. He was also satisfied with his audience
+that evening. ‘Did you notice? They reacted to the smallest nuance and applauded at just
+the right moments. It was the politically best-trained audience you can find in
+Germany.’”
+
+36
+Not only German civilians felt the effect of Goebbels’ words. German soldiers
+wrote home about hearing the speech and how it drove home the need to win the
+campaign. The “Total War” speech showed that the anti-Bolshevik propaganda had taken
+root in the public as well as the military, and now the German people did seem to
+understand what the task at hand was. A German soldier wrote his wife on February 19:
+“We’ve known the danger of Bolshevism for years, but we didn’t know its full, true
+ Goebbels’ words somewhat alleviated the negative reaction to the defeat at
+Stalingrad and public opinion again was behind the war effort, at least for the moment.
+
+35 Joseph Goebbels, “Total War” February 18, 1943.
+36 Bytwerk, Landmark Speeches of National Socialism p. 113.
+
+--- Sayfa 72 ---
+65
+danger until this winter…now we have to be utterly ruthless.”37 Another officer wrote
+that “every man will have to do his duty, wherever he is sent…I have seen those
+dehumanized hordes myself, and I can imagine what would happen to our beautiful
+country if the Bolshevists came flooding in.”38
+Following the speech, Goebbels unleashed a determined propaganda campaign,
+hammering home the idea that defeat would mean the annihilation of Germany. One such
+item of propaganda appeared in February 1943, almost immediately after Stalingrad fell,
+about the time of the “Total War” speech. The party’s propagandists made sure this
+poster was posted by itself rather than next to other posters (See Figure 3.8). The text
+translates as: “Victory or Bolshevism.”
+
+Figure 3.8: “Victory or Bolshevism.”
+(February 1943)
+
+37 Wette, The Wehrmacht, p. 173.
+38 Wette, The Wehrmacht, pp. 172-173.
+
+--- Sayfa 73 ---
+66
+The image depicts a little Aryan girl and her mother happily celebrating on one
+side, while the other side features a dark, sinister, Slavic-looking Russian figure hovering
+over Germans living in miserable poverty and slavery. Compared to the earlier victorious
+propaganda of 1941 (see Figure 3.1 and 3.2) and 1942 (see Figures 3.3 and 3.4), and even
+compared with the material downplaying the problems of 1942 (see Figure 3.5-3.7), this
+new propaganda had a much different tone. Before, it had guaranteed victory and
+proclaimed German superiority. Now, the public learned that Germany was, in fact,
+vulnerable, but could still pull out a great victory if its people did not give up on the
+homefront. The battle would be grim and difficult, but the stakes were too high not to
+fight.
+Continuing through 1943, the propaganda instilled a determination in the people
+to resist the Russians. An anti-Bolshevik campaign in the spring of 1943 included a
+pamphlet entitled “What Does Bolshevization Mean in Reality?” Published by a
+subsidiary of the SS and one of the two anti-Bolshevist pamphlets issued during the
+campaign, it begins, “The Battle of Life or Death being fought between us and world
+Bolshevism is a conflict that will determine not only the fate or our people, but that of all
+humanity for the foreseeable future.”39
+Goebbels noted in his diary on March 1, 1943, that the anti-Bolshevik propaganda
+was doing its job well, as “all leading London papers warn against the dangerous Axis
+propaganda whose sole purpose is that of sowing discord between the allies. This discord
+ The latest reference in the text is March 1943, that
+is, after Stalingrad, when it was becoming clear that Germany could lose the war. This
+pamphlet plays on the already strong German fear of the Russians and communism, in
+line with Goebbels’ new message of Germany’s certain destruction should it lose the war.
+
+39 Bolschewisierung: was heißt das in Wirklichkeit? (Berlin: Nibelungen Verlag, 1943).
+
+--- Sayfa 74 ---
+67
+has already become strikingly visible.”40 He further noted political problems that the
+English papers were trying to keep quiet between Russia and the Polish government in-
+exile. Over the next few days of his diary entries, he mentioned that the Soviets were
+becoming anxious about the Pro-Mi’s propaganda, attacking an article that Goebbels
+wrote: “the Bolsheviks are now throwing off the mask wherever they can. A blind man
+with his cane can feel what Europe would have to expect if they [the Bolsheviks] had the
+power.”41
+The Pro-Mi also issued cartoons and stories of heroic actions by German soldiers
+to boost morale on the home front. One cartoon shows a soldier leaping atop a Soviet
+tank and dropping a grenade down the hatch to destroy it, under the caption “That is
+Heroism!” (Figure 3.9) suggesting German heroism could overcome all. This is
+characteristic of much Nazi military journalism, particularly in 1943. Photographers and
+artists were allowed as close to combat as possible, so they might provide the home front
+with vivid images of heroic soldiers, depicted as greater warriors than their Soviet
+counterparts.
+
+40 Lochner, The Goebbels Diaries 1942-1943, p. 258.
+41 Lochner, The Goebbels Diaries 1942-1943, pp. 270-271.
+
+--- Sayfa 75 ---
+68
+Figure 3.9: “That is Heroism!”
+
+Despite all its efforts, the Pro-Mi could not disguise the actual events of the war.
+In July 1943, the Wehrmacht was decisively defeated at Kursk, ending all major
+offensives on the Eastern Front. Thereafter, the Wehrmacht was strictly on the defensive
+and needed all the backing from home that it could get to hold back the Red Army. The
+public’s faith in its leaders was collapsing, however, and Germany could not give the
+troops the full support they needed. Goebbels was infuriated by this inability to get things
+moving.
+Yet the troops continued to fight. Why? Propaganda like the “What Does
+Bolshevization Mean in Reality?” pamphlet mentioned earlier were circulated widely,
+and while the message hit home with the populace, it meant something much clearer to
+the troops – victory or death. German soldiers were not coming home unless they
+suffered a grievous wound, and their only option was to survive by getting out of battles
+alive.
+ Propaganda was not the only thing that hardened the troops in the East for battle,
+however. Omar Bartov describes the situation in the German army on the Eastern Front at
+
+--- Sayfa 76 ---
+69
+this time as devoid of “primary groups:” men who had trained together, gone into the
+Soviet Union together, and fought together since the start of the war.42
+This all had a devastating effect on morale. One company commander, Lieutenant
+Friedrich Reinhold Haag, wrote that he had “experienced again how difficult it is to lead
+a company into a battle and to sacrifice men while hardly knowing any of them. Then
+they fall right next to you and one of them cries perhaps ‘Herr Leutnant, be sure to write
+home’ – and you don’t even know what his name is.”
+ Over 3.3 million
+troops had entered the Soviet Union; by mid-1944 the German army had suffered almost
+three million casualties. Through hurried replacements, the Wehrmacht had
+approximately 2.5 million troops still on the front, but virtually all of the “primary
+groups” had been destroyed. The new replacements were poorly trained and
+unaccustomed to combat; they seldom lasted long enough for the older soldiers to get to
+know them.
+43
+All the new faces meant a near-complete loss of comradery on the Eastern Front.
+Often in the chaos of the war, troops fought for themselves and their own survival rather
+than for any overall battlefield objective. To keep the troops in line, Hitler ordered
+German commanders to institute an overly harsh level of discipline. It was “fight or be
+executed.” Thus, at least 20,000 soldiers were executed for so-called “political crimes” –
+ This was the situation in every
+company across the front. This same scenario played out on other fronts as well, but not
+to the severity of the casualty levels sustained on the Eastern Front. Entire companies
+were wiped out in just days of fighting and then replenished with fresh soldiers who were
+wiped out again.
+
+42 Omar Bartov, Hitler’s Army (New York: Oxford University Press, 1992), pp. 30-32.
+43 Bartov, Hitler’s Army p 96
+
+--- Sayfa 77 ---
+70
+usually desertion or “undermining the fighting spirit of the troops.”44 One punishment
+that every German feared was assignment to the so-called “punishment battalion,” which
+carried out the most dangerous functions – mine-clearing, forward patrolling, and burying
+the dead, all usually under enemy fire. While in the unit, soldiers received no pay, no
+lighting for night missions, rarely any mail, and had poorer shelter than regular units.45
+Discipline was so harsh that some soldiers, after surviving a battle, broke down crying in
+front of their commanders in fear of being assigned to a penal battalion or shot on the
+spot for fleeing combat even though they had been ordered to retreat.46
+Between the chaos, the incredible violence, and overwhelming death and
+destruction, many troops in the East became catatonic. They accepted their situation and
+their death, and fought on. One soldier noted “after five weeks of battle you view the
+most terrible wounds or mutilations without batting an eyelid…it is true, war kills all
+feelings.“
+
+47 Another infantryman, Harry Mielert, felt “totally removed from all
+immediate personal concerns; my concerns are impersonal: building positions, munitions,
+equipment, war material, weapons, overall the technical aspects of war…that now and
+again comrades lie there wounded or dead belongs to everyday life just like many things
+at home.”48
+As the Western Allies began their own push into Germany, troops on the Eastern
+Front became keenly aware that surrendering to the Americans or British meant survival,
+while surrendering to the Russians meant near-certain death. Of the 90,000 prisoners
+taken at Stalingrad there was little to no news about any of them, and most never returned
+
+44 Fritz, Frontsoldaten p. 90.
+45 Ibid. pp. 90-91.
+46 Ibid. pp. 92-93.
+47 Ibid., p. 34.
+48 Ibid., p. 35.
+
+--- Sayfa 78 ---
+71
+home.49
+The Wehrmacht on the Eastern Front was now a hardened group of small entities
+of comrades, consistently replenished by nameless replacements, totally acknowledging
+their circumstances and prepared to die, but hoping to survive. Propaganda provided the
+mental backbone of the Wehrmacht. On the Eastern Front, anything that the Pro-Mi told
+the troops was accepted as true no matter what the Russians did. The Germans stuck to
+their guns and fought, even while being driven back.
+ Thus many soldiers on the Eastern Front did their best to either escape to the
+Western Front and surrender to the Allies there or survive until they were closer to the
+Western Allies.
+50
+Despite a shaken faith in the Nazi leadership, loyalty to Hitler persisted,
+especially among the troops. For instance, Bartov notes that a report made in August
+1944 stated that out of 44,498 letters sent home, less than 50 contained anything
+considered a breach of discipline or subversion; that is, less than 0.1 percent of the letters
+were detrimental to the Nazis or to Hitler. This is even more remarkable because the unit
+being surveyed, the 3rd Panzer Army, had just experienced a brutal mauling during the
+recent Soviet summer offensive.
+
+51
+Propaganda had a decisive effect on how the Wehrmacht fought the war on the
+Eastern Front. The troops never lost faith in Hitler, and their hatred of the Russians grew
+and fueled Wehrmacht resistance to the advance of the Red Army. Shaping the troops’
+perceptions of the Russians were propaganda-infused stereotypes and their own
+experiences fighting in the horrors of the front; experience rarely disproved the
+ Faith in Hitler was due to the Nazi propaganda
+machine’s earlier work, which was still operative in the most critical time of the war.
+
+49 Bartov, Hitler’s Army, p. 126.
+50 Bartov, Hitler’s Army, pp. 124-127.
+51 Bartov, Hitler’s Army pp 172-173
+
+--- Sayfa 79 ---
+72
+propaganda. However, it was mostly the earlier propaganda, centered on the Hitler Myth,
+that infused faith and loyalty to the Führer into the soldier’s minds. The new propaganda
+did have some effect, as well, as the soldiers were told that should they fail, the Russians
+would destroy their homes and families. This helped motivate German soldiers to resist
+on the Eastern Front.52
+Although the Pro-Mi had suffered a disaster at Stalingrad, it managed to revive its
+message and direct it to the troops and the German people in a way that made them
+regain some trust in the German leadership and maintain their loyalty to Hitler. The
+propaganda had been effective when the going was good, and continued to be a driving
+force for the Wehrmacht on the Eastern Front. It adapted when it needed to and
+maintained the momentum it previously had before Stalingrad. The German soldiers
+believed in Hitler and knew they had to stop the barbaric Russians from reaching
+Germany and destroying their homes, and the public knew it had a role to play in aiding
+the Wehrmacht. However, the Pro-Mi still had one other opponent to campaign against:
+the Americans, and there was still one remaining front, in the West, where the Germans
+had a chance for victory.
+
+52 Wette, The Wehrmacht, pp. 169-175.
+
+--- Sayfa 80 ---
+Chapter Four: The Western Front and the End of the War:
+1942-45
+
+Hitler declared war on the United States after it had decided to enter the war
+following the Japanese attack on Pearl Harbor on Dec. 7, 1941. Though the U.S. had been
+supporting Britain from the beginning of the war and Russia following its invasion by
+Germany, the American military was lagging far behind the Europeans in both numbers
+and more importantly experience. American forces didn’t reach the front lines until
+Operation Torch in North Africa in November 1942, and it was quickly apparent that
+they had a bit of growing up to do to challenge the battle-hardened Wehrmacht. Initial
+encounters between the two armies led Germans to believe that the Americans were not
+very good soldiers. The American army was trained to fight differently from the
+Germans, using their tanks to exploit breakthroughs and seize territory rather than
+fighting other tanks. As such, the American tanks were much lighter and faster than the
+frontline German models, and at first were completely outclassed in combat.1
+Though the Germans deployed propaganda against Americans as prevalently as
+against the British or the Russians, unlike on the Eastern Front they could not exploit
+ideological differences. The material produced material that instead featured the
+stereotypical arrogance and wealth of the Americans, proclaiming them to be spoiled,
+arrogant fools who did not know how to fight. The title of the cartoon in Figure 4.1 is
+"American Gigantism." The caption reads "Isn't it wonderful? The motor is so powerful
+that it flies all by itself, saving us the airplane and pilots." This is one example of the
+ Germans
+defeated American forces decisively at the Kasserine Pass in Tunisia in 1943, and
+consequently had difficulty for some time taking American soldiers seriously.
+
+1 Martin van Creveld, Fighting Power (Westport: Greenwood Press, 1982), pp. 3-9.
+
+--- Sayfa 81 ---
+74
+foolishness the Germans felt that the Americans displayed in combat and leadership, and
+also the overconfidence the German leadership thought the Americans had in their great
+industrial system. Goebbels himself was skeptical of Americans reports of their industrial
+output: “The Americans are so helpless that that they must fall back again and again upon
+boasting about their material. Their loud mouths produce thousands of planes and tanks
+daily, but when they need them…they haven’t got them and are therefore taking one
+beating after another.”2
+The first battles exposed American inexperience.  Even before the debacle at
+Kasserine, on December 8, 1942, Goebbels wrote that he wished “experienced Germans
+troops could tangle with the Americans,” as “the select formations which made the
+Americans flee in Tunisia [date and battle unmentioned] weren’t even a select body.
+Some were thrown together…how much greater would our triumph be if the
+Yankees…were to clash, let us say, with the Leibstandarte! [the Leibstandarte Adolf
+Hitler, Hitler’s favorite Waffen-SS division].
+
+3 Goebbels stated on March 2, 1943, just a
+week after Kasserine, that “The English and Americans have suffered a new setback on
+Tunisian soil. If only our supply lines were better!”4
+In addition, the Allied bombing of Germany and the rest of Europe just made
+feelings towards the British and Americans more virulent at home, and the Pro-Mi took
+advantage of the hatred of Allied flyers. Figure 4.2 is entitled “The American Century.”
+The caption reads: “Isn’t that the famous terror bomber who bombed the Monastery at
+Cassino, Rome, and Florence?” “Yes, but I think he’s a cultural vandal — He recently sat
+on my best Swing record!” German citizens were shown images of wealthy, self-involved
+
+2 Lochner, The Goebbels Diaries 1942-1943, pp. 41-42.
+3 Lochner, The Goebbels Diaries 1942-1943, p. 235.
+4 Lochner, The Goebbels Diaries 1942-1943, p. 261.
+
+--- Sayfa 82 ---
+75
+Americans more concerned with themselves and their luxury than with what their troops
+were doing in Europe: destroying cities filled with countless historical artifacts and great
+cultural significance. Though this cartoon mentions Italian cities rather than German, the
+point was to prove American arrogance and ignorance to intensify the anger at towards
+Allied bombings of German-held targets.  Goebbels himself wrote a violent article in Das
+Reich proclaiming that downed Allied pilots should be shot on sight or tied to trees near
+bombing targets so they could watch what their comrades were doing.5
+
+Figure 4.1: “American Gigantism”
+Figure 4.2: “The American Century”
+
+Like Winston Churchill, President Franklin D. Roosevelt became a major target
+for the Pro-Mi. He was frequently pictured, like Churchill, as lying to his people and
+acting as a puppet of the Jews and of the Bolsheviks. In Figure 4.3, entitled “Information
+from the U.S.A.,” Uncle Sam broadcasts while truth stands on her head.
+
+5 Steinert, Hitler’s War and the Germans, p. 237.
+
+--- Sayfa 83 ---
+76
+Figure 4.3: “Information from the U.S.A.”
+(1943)
+
+The Allies drove the Germans and Italians out of North Africa by early 1943, and
+then invaded Sicily and Italy. This not only took Italy out of the war but also gave the
+Germans yet another front to defend, further diluting their strength. It soon became
+obvious to both the Allies and the Germans that a larger invasion of Europe was required
+to drive out the German occupiers, and that it had to come across the English Channel.
+Prior to the invasion of Normandy on June 6, 1944, Hitler focused the vast majority of his
+attention on the Western Front, shoring up all possible defensive positions and allocating
+as many troops to that theater as possible. Clearly the Wehrmacht on the Eastern Front
+could only delay the inevitable, so the priority was stopping the Western Allies
+completely. Cement bunkers, millions of landmines and beach obstacles, artillery pieces,
+tanks, and a combined strength of dozens of German divisions were placed in France and
+along the Channel coast to repel the invasion.6
+These measures did not thwart the carefully planned D-Day landings, and once
+the Allies gained a foothold, the Wehrmacht was again thrown on the defensive. Here the
+
+6 Stephen Ambrose, D-Day (New York: Ambrose-Tubbs, 1994), pp. 27-38.
+
+--- Sayfa 84 ---
+77
+main enemy was not savagery and numbers as on the Eastern Front, but air power.
+Although outnumbered on the ground by the Germans, the Allies had near-complete
+supremacy in the air, which gave an overwhelming edge to their ground forces. German
+artillery, transport vehicles and any troop concentrations were prime targets for Allied
+fighter-bombers. Facing the highly mechanized and well-supplied Americans, German
+troops mentioned that the Americans were fighting a “rich man’s war.”7
+This notion of the “rich man’s war” was based on the perception that the
+Americans had limitless supplies; indeed, some Germans felt the Americans were
+actually over-supplied. The American surfeit of equipment was a strong index of the
+overall wealth of the U.S. Many propaganda cartoons showed Franklin Roosevelt as
+being more concerned with money than his soldiers’ lives (see Figures 4.4 and 4.5).
+Though these two cartoons appeared nine months apart, they criticize FDR for being like
+all other Americans: obsessed with power and wealth rather than truth, justice, or
+humanity. In Figure 4.4, “The Business in Death,” FDR is reading the casualty list.
+Eleanor Roosevelt asks: “Have we lost many dollars, Delano?” His reply: “Don’t worry,
+Eleanor, we are paying only in human lives.” In Figure 4.5, he tells his wife “No need to
+worry, Eleanor. Many of the voters that I promised that I would never lead to war can no
+longer vote against me...”
+
+7 Stephen Ambrose, Citizen Soldiers (New York: Ambrose-Tubbs, 1997), p. 383.
+
+--- Sayfa 85 ---
+78
+
+Figure 4.4: “The Business in Death” (Dec 2,
+1943)
+Figure 4.5: “No need to worry, Eleanor…” (Sep. 3,
+1944)
+
+Wehrmacht troops constantly complained that the Americans in Normandy and
+across France would rather blow a well-defended target apart with artillery and aircraft
+than take casualties engaging it on the ground, which seemed a symptom of cowardice to
+many German soldiers. One German soldier described his training as “Sweat Saves
+Blood,” meaning intense training would keep him and his comrades alive; by contrast for
+Americans, “it was Equipment Saves Men.”8
+German forces on the Western Front numbered less than a third of those in the
+East, and proportionate quantities of supplies went to the Eastern Front as well.
+Undermanned, undersupplied, and subject to constant aerial attack, the Western Front
+forces also faced a new disadvantage: the Western Allies were far gentler with their
+POWs than the Russians were, so desertion and surrender were as problematic for the
+
+8 Fritz, Frontsoldaten, p. 61.
+
+--- Sayfa 86 ---
+79
+Germans in the West as they were in the East.9 In response, Hitler’s strict disciplinary
+policies were also implemented on the Western Front. Desertion was an offense
+punishable by death, and the Nazis executed tens of thousands of German troops for this
+offense during the war. These policies failed to stop Germans from surrendering,
+however; many American troops wrote home about German soldiers surrendering at the
+first sign of an American unit.10
+Despite accusations of American cowardice, hatred of the bombing campaign, and
+the idea of a “rich man’s war,” it was becoming quite clear that the Americans did indeed
+know how to fight, and as with the earlier anti-British propaganda, the anti-American
+propaganda was being disproved before the eyes of German troops, who consequently
+soon lost interest in it. In the end, anti-American propaganda had little effect on the war
+effort in the West.
+
+However, as ineffective as the anti-American material was, anti-Bolshevist
+propaganda from the Eastern Front had great influence on the Wehrmacht on the Western
+Front, as well as on the German populace. Some American soldiers noted that when they
+took German POWs, the Germans would mention that the two sides should join together
+in opposing the Russians.11
+
+9 Ambrose, Citizen Soldiers, p. 351.
+ This indicates both the overall hatred for the Russians and the
+effectiveness of Pro-Mi propaganda about them. In addition, by this time Germany was
+outmanned and forced to call upon soldiers who were too young or too old. The younger
+ones had been indoctrinated by Nazi ideals since their early childhood and were devoted
+to Hitler.
+10 Ambrose, Citizen Soldiers, pp. 351-354.
+11 Ambrose, Citizen Soldiers, p. 383.
+
+--- Sayfa 87 ---
+80
+Other problems plagued the Pro-Mi, most severely supply shortages. As Allied
+bombers destroyed Germany’s infrastructure, most of the Pro-Mi’s publications and
+many German newspapers were cancelled. Paper shortages cut newspapers in size and
+length, so that less information could reach the people. Radio was still going strong, but
+the film industry suffered similar problems like those of the other departments in the
+ministry. One key film, Kolberg, released in February 1945, continued the Pro-Mi’s call
+for resistance, lest Germany be destroyed by the war. The film’s title recalled the fortress
+of the same name that had been the last bastion of Prussian resistance to Napoleon during
+his successful invasion of Prussia in 1806. The film took several months to shoot and
+required an entire division of Wehrmacht extras, a significant undertaking with the war
+on the line. The underlying message of valiant resistance pervades the movie, which saw
+mixed reviews from the public, but seems to have had some effect on the war effort.12
+Propaganda appears to have worked at least to a degree on both fronts when the
+situation was good for the Germans. When the war turned against Germany, propaganda
+adapted to keep up. On the Western Front there were not enough ideological differences
+to distinguish the Americans and British to be enemies as vile as the Russians. In the
+absence of those differences, Goebbels and the Pro-Mi utilized several other elements of
+propaganda in the West.
+
+The first was anti-Russian propaganda from the Eastern Front. As the Allies came
+nearer and nearer to Germany, propaganda became darker and darker, emphasizing
+Germany’s certain doom should it lose the war. Figure 4.6 is called “His way to ‘liberate’
+Europe.” As the war neared its end, German propaganda presented increasingly grim
+portraits of the enemy, in this case, the Soviet bear with armbands of the Union Jack and
+
+12 Kolberg, (Harlan 1945).
+
+--- Sayfa 88 ---
+81
+Stars and Stripes and a Star of David on his forehead marching forward with a bomb
+labeled “Murder.” This cartoon puts all of the attention on the Russians (so-called
+Jewish-Bolsheviks) as the ultimate problem as U.S. and British forces played the part of
+puppets of their regime. It also repeats the theme of Germany’s certain destruction should
+the war be lost. These same feelings existed on the Western Front, and the German
+soldiers there were instilled with a determination to stop the Russians from destroying
+their homeland.
+
+Figure 4.6: “His way to ‘liberate’ Europe”
+(1944)
+
+The second major propaganda factor that took hold in the West was the Hitler
+Myth. The German army and populace still backed their Führer, and these emotions led
+to the third primary factor as to why resistance was maintained: new military personnel.
+Young Wehrmacht recruits, indoctrinated in Nazi ideology during the mid-1930s, fought
+fanatically for Hitler on both fronts. These young soldiers were poorly trained but well
+
+--- Sayfa 89 ---
+82
+equipped and steadfastly resisted the Allied advance. Hitler ordered his men to stand firm
+and fight to the last. Popular faith in Hitler never failed. Germany grimly stood firm.
+The Wehrmacht, unable to halt the Soviet advance in the East, was able to
+drastically slow the advance of the Western Allies after D-Day. The Pro-Mi began
+directing propaganda at the Allied troops, trying to induce them to surrender and
+proclaiming the injustice of their cause, as in the leaflet in Figure 4.7. The German text
+says to grant the bearer of the leaflet safe passage behind German lines. Germany was
+being bombed more heavily than ever before, and the fury at the destruction of their
+homes was still useful to Pro-Mi efforts to foster the people’s loyalty. One article in Das
+Reich mentioned that German revenge was coming in the form of new weapons. German
+citizens eagerly awaited the vengeance weapons, unveiled in 1944 as the V-1 and V-2
+rockets.13 The V-weapons caused a great deal of damage to London, killing tens of
+thousands of people, and this injured Churchill politically. Figure 4.8 shows another
+leaflet that tells of the unstoppable lethality of the V-1.14
+
+13 Hans Schwarz van Berk, “Die ungeahnten Folgen” Das Reich, July 2 1943.
+
+14 Ambrose, Citizen Soldiers, p. 118.
+
+--- Sayfa 90 ---
+83
+
+Figure 4.7: A leaflet encouraging surrender.
+Figure 4.8: V-1 rocket leaflet.
+
+Obviously, not every member of the Wehrmacht was on Hitler’s side; some of its
+commanders attempted to assassinate him on July 20, 1944. At this point in the war
+Germany, surrounded as it was, seemed destined to lose the war. Had the assassination
+succeeded, perhaps the conspirators could have made peace with the Allies. However,
+Hitler survived and responded by rounding up and executing most of the conspirators.15
+The failed plot actually helped Hitler. For a moment, Germany was shocked into
+believing their Führer was actually dead. When he announced his survival to the people,
+it inspired another wave of support for him.16
+
+The Allies broke out of Normandy in July 1944, rushed across France, and almost
+managed to encircle and capture the entire western Wehrmacht army group at Falaise.
+
+15 Kershaw, The Hitler Myth, pp. 215-217.
+16 Kershaw, The Hitler Myth, pp. 217-219.
+
+--- Sayfa 91 ---
+84
+Only 20,000 German troops and fewer than sixty tanks managed to escape the pocket.17
+This was a defeat on the scale of the ones the Wehrmacht had inflicted on the Allies just a
+few years earlier. But instead of collapsing completely, the Germans regrouped and then
+inflicted a major defeat on the Allies in the British-led Operation Market-Garden in
+Holland in September 1944. In a near miracle, the Wehrmacht pulled together another
+strong force and continued to hold the line.18
+
+Though the chance for victory was still slim, Hitler’s Wehrmacht never gave up
+on him, despite mounting defeats. As mentioned previously, the troops were now
+composed largely of men who were too old or boys too young to fight. In addition, the
+Wehrmacht’s primary combat units were now Waffen-SS (the combat units of the SS)
+and completely loyal to Hitler. The younger soldiers had grown up immersed in Nazi
+doctrine, such the children’s textbook in Figure 1.5 in Chapter One, and the Waffen-SS
+was Hitler’s bodyguard. These two elements combined for a fanatically loyal military.
+When Hitler ordered a final counteroffensive through the Ardennes Forest, aimed at
+dividing the Allied armies and then seizing the important port of Antwerp, the
+Wehrmacht units equipped and trained for the operation experienced a dramatic morale
+boost. It felt like the old days of driving through France. One soldier wrote his wife,
+saying “We March!!”
+
+19
+
+17 Ambrose, Citizen Soldiers, p. 106.
+ This newfound enthusiasm did not last. The offensive was
+launched on December 16, 1944, but within a week the Allies halted it and began to drive
+the Germans back with a massive counterattack. At this point, Germany’s offensive
+capabilities had been nearly eliminated. The Wehrmacht could only delay the inevitable,
+18 Ambrose, Citizen Soldiers, p. 131.
+19 Ambrose, Citizen Soldiers, p. 188.
+
+--- Sayfa 92 ---
+85
+yet still fought on. On February 27, 1945, Goebbels wrote that “the situation in the West
+causes me great anxiety…but we will not assume the worst.”20
+
+The Pro-Mi still had influence remaining by this point in the war. Goebbels no
+longer guaranteed victory, but constantly reminded the people of Germany’s certain
+doom under Allied occupation (see Figure 4.6). Goebbels’ diaries at this point are
+emotionless. There are few victorious exclamations and every diary entry simply recounts
+the military situation of the day. These are little more than status reports. The last entry
+compiled on April 9, 1945, simply records on the progress of the incoming Allied armies:
+“The enemy only made small gains…ammunition situation is becoming difficult for the
+German side…enemy air activity was particularly heavy…our fighters were not in
+action.”
+
+21
+One thing did not change, though: the Hitler Myth remained compelling. Hitler
+was still the centerpiece of the Reich.
+
+22 It was a great shock to the German people when
+Hitler committed suicide in Berlin on April 30, 1945. Many Germans were angry, feeling
+betrayed that the man who stated many times he would sacrifice himself for Germany
+would take his own life instead. Some wanted to continue the fight, but almost all of them
+knew at that moment the war was over.23
+
+ By the end of the war severe paper shortages reduced German newspapers to
+single sheets. This is the commentary on Hitler’s death, entitled “Farewell to Hitler” in a
+Hamburg newspaper, dated Wednesday, 2 May 1945.
+
+20 Hugh Trevor-Roper, Final Entries 1945: The Diaries of Joseph Goebbels (New York: Avon Books,
+1979), p. 3.
+21 Trevor-Roper, Final Entries 1945, p. 404.
+22 Kershaw, The Hitler Myth, p. 215.
+23 Bartov, Hitler’s Army, pp. 109-110.
+
+--- Sayfa 93 ---
+86
+He once said: “I wish nothing on my gravestone other than my name.” Even his
+name will probably not stand over his grave, for we know that he must have perished
+while fighting bitterly in the Reich Chancellery…that his body is dead we believe, what
+is mortal of him has perished, has passed away, but he has fulfilled his most beautiful
+oath, this affirmation: “The most valuable thing God has given me on this world is my
+people. My faith rests on it, I serve it with my will, and I give my life to it.” His life is
+fulfilled….Now the world will attempt to explain him….People will criticize him, people
+will pray for him. A great one has left this world….We swore an oath to this man and his
+teachings, we pledged ourselves to him during our people’s dark days, we rose with him
+to the heights to which he led our people in the brief, beautiful years of peace, and like all
+good Germans, we stood by him in battle….We can confidently leave his judgment to
+world history…
+But will posterity be able to understand him fully?....One can only hope that they
+believe the great words of the great man….Will they be able to understand why a whole
+people, in the midst of its deepest poverty, affirmed this man?...we see it in the silent
+unspoken loyalty of the poorest sons of our people that Adolf Hitler gathered as a lens
+that focuses all light on a single point….That little minds darkened the image of his clear
+will, that traitors and bad counselors deserted and betrayed him, that finally he was
+overcome by a great superiority of steel and money, that cannot change the image of him
+that is in the deepest heart of our people….He wanted the best for his people, which is
+why it loved him so much. We know that he will continue to live in our land not as a war
+hero in the form of a metal statue, but rather as a child of the people whose pure will the
+people understood, and whose most beautiful words will remain a memorial for us, his
+words that in a people’s deepest need, one must love his people more than himself.24
+
+These are not the words of someone who was against Hitler at the end. They paint
+almost the same picture of Hitler that Triumph of the Will had ten years earlier: that of a
+mortal man with superhuman abilities who had a great love and respect for his people.
+This article reconfirms that Goebbels’ earlier propaganda had indeed succeeded in
+creating a heightened image of the Führer to Germany, and this “Hitler Myth” lasted
+through the end of the war for many Germans. Goebbels and the Pro-Mi announced
+Hitler’s death on May 1, 1945, accompanied by solemn music composed by Wagner and
+Bruckner, followed by the Horst Wessel Song. The impression intended was that Hitler
+
+24 Hamburg newspaper, May 2, 1945
+
+--- Sayfa 94 ---
+87
+had died the death of a hero fighting to the last against Bolshevism, rather than taking his
+own life.25
+One can see further evidence that the German people still believed in Hitler as the
+Allies uncovered the concentration and death camps across Germany and Poland and
+became aware of the full extent of what came to be known as the Holocaust. The German
+people, asked if they knew about the camps, said no. They proclaimed that Hitler could
+not have created such places. They blamed everyone else but him, including Goebbels,
+Göring, Himmler, and Hitler’s other primary lieutenants, but not the man himself.
+
+26
+
+ This
+is further proof that Germany was behind Hitler even at the end of the war. The Hamburg
+newspaper article mentions the last stand against Bolshevism in Berlin, indicating that the
+Eastern Front propaganda was still influential. The Pro-Mi’s early accomplishments and
+adaptability during the war carried through to the very end. Following the fall of Berlin
+and Hitler’s death, Goebbels committed suicide as well, and the Pro-Mi was dismantled
+with the rest of the Nazi regime as the war came to a close.
+
+25 Welch, The Third Reich: Politics and Propaganda, p. 99.
+26 Kershaw, The Hitler Myth, pp. 248-249.
+
+--- Sayfa 95 ---
+Conclusion
+
+There have been questions regarding the overall effectiveness of Nazi
+propaganda, particularly as it seemed to dwindle as the war went on. Even before he
+came to power, Hitler described in Mein Kampf how much the Nazi Party would rely on
+propaganda. The Pro-Mi and Goebbels expedited Hitler’s rise to power, and Nazi control
+of all German media ensured near-complete control on what the German people heard
+and knew about the war both and national and international affairs. More importantly, the
+Pro-Mi created an image of Hitler as a superhuman being and the heart of the Third
+Reich. The German people loved Hitler, and the German military was firmly behind the
+Führer. As the war turned against Germany, propaganda was forced to adapt, but three of
+its primary elements of the propaganda remained potent throughout.
+German troops remained loyal to the Führer, some even after Hitler’s death in
+1945. The Wehrmacht continued to fight despite defeat after defeat by the Allies, yet
+propaganda still influenced the beliefs of the troops, especially on the Eastern Front.
+Goebbels’ message shifted to warnings of doom should Germany lose the war; given the
+actions of the Red Army as it drove the Germans back into their homeland, there was no
+reason to dispute such a message. The Hitler Myth remained strong and the German
+military and civilians remained loyal to the Führer. Earlier indoctrination during the
+1930s created a young, fanatically loyal group of recruits who fought against the Allies
+during the last stages of the war.
+Was propaganda a primary reason for the dogged German resistance to the Allies
+as the war wound down? Based on the evidence, the answer is yes. As Ian Kershaw
+correctly put it, propaganda had an easy time during the first years of the war. However,
+
+--- Sayfa 96 ---
+90
+the notion that propaganda lost its effectiveness as the war went sour is incorrect. Though
+anti-British and anti-American propaganda, for instance, was unsuccessful, Goebbels
+adapted and changed the style and the content of his propaganda.
+The Wehrmacht still fought with astounding resiliency even as defeat became
+obvious. On the Eastern Front, images of the savage Red Army led by a corrupt
+Bolshevik regime were quite believable to any Germans who could see what was in front
+of them. The notion that Germany would be destroyed if the nation were overrun by the
+Russians was also credible, as the Red Army devastated German lands and their
+inhabitants – just as the Germans had done to in Russia. The savagery and inhumanity
+that prevailed on the Eastern Front corroborated Nazi propaganda being given to the
+troops, and the Germans fought the Red Army more fiercely than any other opponent as
+the war dragged to a close. This propaganda had similar influence on the Western Front,
+as the Germans there, too, became aware of the vile Russians approaching their
+homeland.
+The key link in all of this the Hitler Myth. Hitler remained the critical emotional
+centerpiece of the Reich. As he went, so did Germany. Though some Germans lost their
+faith in the Führer as the war closed in on Germany – witness the failed July 20th
+assassination plot – most of the Germans remained at Hitler’s side, and only after he
+committed suicide did the people finally gave up hope of victory. Goebbels even said
+creation of what became known the Hitler Myth was his greatest personal achievement.
+In light of German loyalty to Hitler that lasted until the end of the war, he was right.
+The Hitler Myth and other forms of early Nazi indoctrination during the 1930s
+caused a fanatical generation of young Germans to join the Wehrmacht in resisting the
+
+--- Sayfa 97 ---
+91
+approaching Allies after D-Day. In addition, the Waffen-SS units became the primary
+combat units of the German army. Such boys and men gave Hitler had a very loyal army
+willing to fight to the last man if necessary.
+The overall picture of propaganda in the critical years of World War II is
+complex, but it boils down to three primary elements: propaganda and the people,
+propaganda and the troops, and the overall image of the Führer. Propaganda had success
+with the troops, especially in regard to the Russians. However, the fact that propaganda
+had created Hitler’s deific image before the war made a lot of difference during the war
+itself. Hitler the miracle worker rebuilt Germany and restored its lost glory. He was the
+glue that held the Third Reich together, and his image was carefully crafted by the Pro-
+Mi that broadcast his speeches, distributed his words, and teaching the Germans to revere
+him as godlike. Hitler brought the German people out of economic depression, rebuilt the
+country, and restored Germany to regaining its overall power. Even as defeat loomed, the
+Germans never stopped supporting Hitler; the Pro-Mi’s earlier success in this regard was
+continued throughout the war. The Hitler Myth lay at the heart of the Third Reich and
+continued to influence the Germans throughout the war.
+Besides the Hitler Myth, the other primary elements of propaganda that held up
+through the course of the war were indoctrination of the younger German population and
+the very effective portrayal of the scourge of the Jewish-Bolsheviks on the Eastern Front.
+Certain types of propaganda didn’t work, and Goebbels cast those aside when they failed
+him and adapted the Pro-Mi’s work to maintain the people’s loyalty. The Eastern Front
+united the German populace in a crusade to save their homeland and potentially Europe
+from the control of the sinister Jewish-Bolsheviks behind the Soviet regime. The
+
+--- Sayfa 98 ---
+92
+indoctrination and fanatical bodyguard units created an army willing to serve Hitler to the
+very end, because, as his myth stated, the superhuman Hitler could bring Germany
+through any situation to ultimate victory. Nazi Propaganda was undeniably effective
+throughout the war.
+
+--- Sayfa 99 ---
+References
+
+Books
+
+d’Alquen, Günter. 1941. Das ist der Sieg! Briefe des Glaubens in Aufbruch und Krieg.
+Berlin: Zentralverlag der NSDAP.
+
+Ambrose, Stephen. 1997. Citizen Soldiers. New York: Ambrose-Tubbs.
+
+Ambrose, Stephen. 1994. D-Day. New York: Ambrose-Tubbs.
+
+Bartov, Omar. 1992. Hitler’s Army. New York: Oxford University Press.
+
+Bergmeier, Horst and Rainer Lotz. 1997. Hitler’s Airwaves. New Have: Yale University
+Press.
+
+Boelcke, Willi A. 1970. Secret Conferences of Dr. Goebbels. New York: E.P. Dutton &
+Co.
+
+Bytwerk, Randall. 2008. Landmark Speeches of National Socialism. College Station:
+Texas A&M University Press.
+
+Citino, Robert. 2007. Death of the Wehrmacht. Lawrence: University Press of Kansas.
+
+Fritz, Stephen. 1995. Frontsoldaten. Lexington: University Press of Kentucky.
+
+Hitler, Adolf. 1999. Mein Kampf. New York: Houghton Mifflin.
+
+Hoffman, Hilmar. 1996. The Triumph of Propaganda. Providence: Berghahn Books.
+
+Johnson, Eric A. 2005. What We Knew.  Cambridge: Basic.
+
+Kershaw, Ian. 1983. How Effective Was Nazi Propaganda? In Nazi Propaganda ed.
+David Welch, 180-205. Totowa: Barnes and Noble.
+
+Kershaw, Ian. 2000. Hitler: 1936-45: Nemesis. New York: W.W. Norton & Company.
+
+Kershaw, Ian. 1987. The Hitler Myth. New York: Oxford University Press.
+
+Lochner, Louis P. 1948. The Goebbels Diaries 1942-1943. Garden City: Doubleday &
+Company.
+
+Rentschler, Eric. 1996. The Ministry of Illusion. Cambridge: Harvard University Press.
+
+Sington, Derrick and Arthur Weidenfeld. 1943. The Goebbels Experiment. New Haven:
+Yale University Press.
+
+--- Sayfa 100 ---
+94
+Steinert, Marlis. 1977. Hitler’s War and the Germans. Athens: Ohio University Press.
+
+Taylor, Fred. 1984. The Goebbels Diaries 1939-1941. New York: Penguin Books.
+
+Taylor, Richard.1983. Goebbels and the Function of Propaganda. In Nazi Propaganda,
+ed. David Welch, 29-44. Totowa: Barnes and Noble.
+
+Tegel, Susan. 2007. Nazis and the Cinema. New York: Hambledon Continuum.
+
+Trevor-Roper, Hugh. 1979. Final Entries 1945: The Diaries of Joseph Goebbels. New
+York: Avon.
+
+Van Creveld, Martin. 1982. Fighting Power. Westport: Greenwood Press.
+
+Welch, David, ed. 1983. Nazi Propaganda. Totowa: Barnes & Noble.
+
+Welch, David. 1993. The Third Reich: Politics and Propaganda. London: Routledge.
+
+Wette, Wolfram. 2007. The Wehrmacht: History, Myth, Reality. Cambridge: Harvard
+University Press.
+
+Nazi Publications
+
+Author unknown. 1943. Bolschewisierung: was heißt das in Wirklichkeit? Berlin:
+Nibelungen Verlag.
+
+van Berk, Hans Schwarz. 1943. “Die ungeahnten Folgen” Das Reich magazine, 2 July.
+
+Goebbels, Joseph. 1940. “A Unique Age,” Das Reich magazine, 23 May.
+
+Okraß,  Hermann.  1945.  “Abschied  von  Hitler,”  Hamburger  Zeitung,  2  May,  1.
+
+Author unknown. 1941. Article title unknown. Signal magazine, December 1941.
+
+Author unknown. 1943. Article title unknown. Signal magazine, February 1943.
+
+Nazi Films
+
+Veit Harlan. 1945. Kolberg. Produced and directed by Veit Harlan. 107 min.
+International Historic Films. DVD.
+
+Fritz Hippler. 1941. Sieg im Westen. Produced and directed by Fritz Hippler. 120 min.
+International Historic Films. DVD.
+
+--- Sayfa 101 ---
+95
+Leni Riefenstahl. 1935. Triumph des Willens. Produced and directed by Leni Riefenstahl.
+120 min. Synapse Films. DVD.
+
+Speeches by Nazi Leaders
+
+Adolf Hitler, “Proclamation of June 22, 1941,” June 22, 1941.
+
+Joseph Goebbels, “Radio as the Eighth Great Power,” August 18, 1933.
+
+Joseph Goebbels, “Total War,” February 18, 1943.
+
+Nazi Music
+
+Release Date unknown. Swing Tanzen Verboten! Proper Records, CD.
+“Makin’ Whoopee” Jazz Arrangement, Charlie and His Orchestra, 1942.
+
+Websites
+
+www.amoeba.com  (accessed  September  2011).
+
+German Propaganda Archive, created by Dr. Randall Bytwerk, Calvin College.
+http://www.calvin.edu/academic/cas/gpa/ (accessed June 2010).
+
+(All illustrations taken from the German Propaganda Archive unless otherwise noted).

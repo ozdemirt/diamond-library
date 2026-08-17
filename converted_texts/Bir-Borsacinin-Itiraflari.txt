@@ -1,0 +1,3762 @@
+--- Sayfa 1 ---
+HAI.T
+
+--- Sayfa 2 ---
+ALFA
+
+--- Sayfa 3 ---
+BIB
+BORSACININ
+Ahmet Reha <;EviKEL
+ALFA
+
+--- Sayfa 4 ---
+Yaym No : 23
+Dizi No
+A53
+Bir BorsactRlR Itir.O.n
+Ahmet Rena Cevikel
+1. Baskl: Istanbul 1998
+ISBN 975-316-103-4
+Copyright © 1998
+ALFA Baslm Yaytm Da~ltlm
+Yaymevinden yaZlh izin almmadan
+kIsmen veya tamamen ahntl yapliamaz,
+hit;bir $€kilde kopya edilemez,
+<;~alblamaz ve yaytmlanamaz.
+ALFA Basun Yayun Call1tun Ltd. $tl.
+c;:atal~e;me Sok. No, 52/B
+34410 eagaloglu-Istanbuvrurkey
+Tel ,+90 (212)511 53 03
+, +90 (212)513 87 51
+, +90 (212)512 30 46
+Fax , +90 (212)519 33 00
+e-mail: alfabas@doruk.com.tr
+VaytnCl .
+A1fa BaSin; Yaytm Da~lbm Ltd. ~ti.
+Genel Yaym Yijnetmenl
+M_ Faruk Bayrak
+Vaym Koordlnasyonu
+Prof. Dr. M. Fikret Gezgin
+Yrd. ~. Dr. Ona! c;:aglar
+Yrd. 00<;, Dr. YUksel Birinci
+Vaym yfutetmenl
+Dr. Cahit AkIn
+Teknlk Editor
+Cahide GUnay
+Nun Kaymak<;1
+Kapak Tasanm
+Ebru Ozel
+Puarlama ve Sab, Mtidiirii
+Vedat Bayrak
+DaAttun Sorumlusu
+Salih Fidan
+MontaJ. Bask. ve CUt
+Melisa Matbaaclhk
+(0212)5019757
+BURSA
+Bur<; Sinema Pasajl No; 34
+Albparmak Bursa
+Tel, + 90 (224) 223 60 16
+~ANUURFA
+Mimar Sinan Mahallesi, 2. Sok.
+No: 2/0 Halk E~itim Yam
+~anhurfa
+Tel, + 90 (414)312 46 80
+
+--- Sayfa 5 ---
+III
+••
+YAZARIN ONSOZU
+12 yill a~km bir zamandan beri faaliyette bulunan bor-
+samlZ, giin ge~tik~ globalle~en ekonomi diinyasmda ge-
+Ii~mekte olan ve rakipleri arasmdan hiZla slynhp, uluslara-
+raSI statii kazanma yolunda ba~arlh olmak i~in miicadele
+veren tinemli bir piyasadlf.
+BorsamlZln geli~mesi, ileri teknik altyaplsmm yanmda,
+dUzelme yolundaki hukuki eksiklerin ve yatmmcilan koru-
+yan fonlarm da tamamlanarak, istikran ve giivenli bir orta-
+mm tesis edilmesine baghdlf.
+Bugiine kadarki geli~me siirecini borsanm a~lldlgl YII-
+dan beri giin be giin ya~ayan bir uzman olarak, ge~mi~imi­
+zin bir tizelle~tirisini yapmak istedim.
+Biz millet olarak yakm mazimizi bile ~ok ~abuk unutu-
+yoruz. Ben bu' sahifelerde borsamlzm belirli kesitlerinde
+ba~unlzdan ge~enleri, yaptlglmlz hata ve sevaplarl borsa
+i~inde senelerce ya~ayan biri olarak biraz da mizah katarak
+anlatmak istedim.
+Gelecekte ~ok daha ilerleyecek ve biiyiiyecek olan bor-
+samlza katkida bulunmak, yatmmc!lanmlza da yararh ola-
+bilmek iimidi ile bu kitabl yazdlm.
+Ahmet Reha 9EViKEL
+istanbul 1998
+
+--- Sayfa 6 ---
+v
+..
+.
+ICINDEKILER
+Sayra
+Banker Krizi ..........................•.. . ..•.. . .... 1
+Sermaye Piyasalan Geli~irken ....... . .• .. . . .. . ... . . . .... 4
+Borsada ilk Glin · . ... . ..... .. ....... . ..........•.... .. 7
+Borsa C;ah~anlan Borsada Ah§veri§ Yapmaz (t) .....•....... 9
+Borsa Bir~ok Ki§iyi Zengin Etmi§tir ... ............ . .. .. . 11
+ilk Yillarda Bliylik Acemilik ........................... 13 .
+Borsaclhk Biraz Ayncahkttr ............. .•.. ...•...... 15
+Borsa Bir\=ok YalmmclYI da Uzmti§ttir ....... ', ... . •. . .... 16
+GeLmeyen Borsa Uyesi Adma Aldan Ordinolar .....• .. ..... 18
+Borsamn ilk Y dlanndan Portreler ... . .... .. .......... ... 20
+Hisse Senetlerinin Fiyatlanmn Serb"est Blrakllmasl
+Kimlere Yaradl? ........ . . .............. ........... . 22
+Oransalhktan Size Bu Kadar Dti§lU .......... .•.. . ... ... . 24
+Borsa i((indeki ve Borsa DI§tndaki t~lemler ... , ........ , .. , 25
+. Cagaloglu'nda ilk Halka A~llma ........................ 28
+Borsada Atllan Ordinolann Kar~ll~malan i~in Katkl ml
+Gerekiyordu? . .. ..... . ......................... . ... 29
+
+--- Sayfa 7 ---
+VI
+~irkel <;ah~anlan Araba Ahyor .....•... . . •............. 30
+Dokusan Size Fena Dokundu ......••.. . ......•..... ... 33
+Her Zaman Papaz Pilav Yemez! .........•....••........ 35
+Borsadaki <;i1gm Ytikseli§in Neticeleri .... .' • ..... •.... ... 36
+Yatmmcdar Mala Boguldu ..............•. " ..• •....... 37
+Borsaya ilk Tokatt Kim Atu? ............•.•. •. ... . .... 39
+Kaglt Ahrken Biraz da ~ans Lazlm ........•. , .. .•. . ... ; .. 42
+Borsada Sistem Kavgasl ................•....•........ 44
+1989 Eregli Demir <;:elik Senesi . ....... . .... .. ......... 45
+Eregli Demir <;:elik OlaYI ........... . . ... . . ... . . ...... 46
+Biziqt Tavsiyelerimiz iyidir .... ... .....•••...•.... . .... 48
+Borsada Mini Etek Giymek Sakmcah ..... • .....•.. .. . , .. 49
+Ayakh Borsa ....... , ............. " .. , .... ......... 51
+Borsa Binasma YattnmCI Altnsm mt Ahnmasm mt? ......... 53
+Toplu Transfer Giri§imi . ... . .. ...... ....... , ......... _. 55
+Erdemir Hikayeieri , ... , , ',' .•.. , .•• , ...•. ....•...... . 57
+Sahte <;:ukurova OlaYI ... ... ......•. ...• •... . •........ 59
+YatmmclYI Nastl Kilstilrdiik , ... . , . . • . . , ..... . .•. . .. . .. 61
+Bu Sefer de Temmuz 1990 ........•.....•....••....... 63
+Borsada Sav~ RUzgarlan ....... .. ..... . ", .. . .......... 65
+Yabanciiar Borsada ..........•......... : •.... .• ...... 67
+
+--- Sayfa 8 ---
+VII
+Tophane'de tJeti§im Sorunlan .......................... 69
+Borsada i§ler Azahnca .', ..... .. . ... . ... ..... , . ....... 71
+Tophane'de Bir Banka ~ubesi ... ........ . .... . . .... . .... 73
+Bundan iyi Tiyo mu Olur? ........ .... ......... . ... . .. . 74
+Borsada Deprem .......... . ......... . .. , ' ... .. ....... 76
+Fenerb~' de ~i! Kebabl SaYajl ....................... 78
+Dii~nin Dostu Olmazf ..... ... _ .. ... . .. ...... . .. ..... 80
+Borsada O~ilncti pazar ........ ...................... . 82
+Bir <;imento Fabrikaslmn Ozelle§tinne HiUyesidir .. ......... 84
+Araci Kurumlarda ikram-Aglflama ...................... 85
+Borsa Kumar mldlr? ........................... . ... . . 87
+Borsada Pannak tzi Aramr ffit? .. , . .. ••... .•. ...••. .. ... 89
+Borsacdar NasJ.! Stres Atar? .... ..... ... . .... .. ........ 91
+Belediye B2§kammn Ogluna Sunnet Hediyesi . ............. 93
+Ozelle§tinne Kime Yaradl? .. " ....... , . , , .. , .. , ........ 94
+Maden Fakiiltesi Meydan Sav3§1 .......... . ... . .... . ... . 96
+•
+Bors. Dedikodusuz Olmaz ............................ 98
+Karakiiy'de Kredi Pazan .............•... • •.. .. . ..... 100
+Bors.d. Ekoller Varml! .... ...........•... . •.. ... .... \02
+ikirici B3§kanlmlz Yaman TorUner ..................... 104
+.
+1994 Ekonomik Krizi .............. .. .. .. ... .. ...... 106
+
+--- Sayfa 9 ---
+VIII
+Kapanan Bir Araci Kurumun Anatomisi ....•. . . . •... .... 108
+Dogru Yattrlm Yanh~ Yatlflmcl .............•.... •.. .. I I I
+Borsaclhk Zor ve Ozverili i~tir ..............•......... 113
+Bir Stres Athk ..................•. ... • . ...••.. . .... 115
+Bir Yaunmclmlz Vardl ............... . .. ....•.... ... 117
+GBzalu Pazannda Kim Zarar Etti? .......•....•... . .... 118
+AraCI Kurum Satm Aldlk .. . ......................... 120
+Borsamn ilkleri ve S. Menkul Klymetler. . . ......• , ...... 123
+Kamu Ortakhgl idaresi (6zelle~tinne idaresi) .....•....... 125
+Sennaye Piyasasl Kurulu .............. , .............. 127
+~u Me~hur Elektrik Dagtum ihalelerine Ne Oldu? ......... 130
+Borsa Endeksi Yamlucl Olabilrnektedir .................. 132
+Bir Yaunmcl lIe Sohbet. .................•...•....... 134
+Borsa Piyasanuzdaki Duzensizlik ........•... .••. ...... 136
+BorsarTIlz C;:ok Istikrarhdu (!) .......... . .• •. . . .•...... 139
+Kabahatli Kim? ................. .. ...•....... _ .... 142
+Borsada Hukuki Guvence Ne Kadardlr? _ .. _ •.. _ . •.. _ .... 144
+Borsada Insider Trading ...... _ . _ ...... , •. .. . . •. . .... 146
+Borsada Kara Para Aklamyor mu? .......•..... • ....... 148
+Mafya Tipleri ..................... .. •... ...•• . .... 149
+Rantiyeciler .......•.....•...........••.....•...... 151
+
+--- Sayfa 10 ---
+Borsada YatrnmcIYI KOTuyan Fonlar Hila Kurulamadl .. .... 152
+Borsada Uygularunak iSlenen Ttirden Vergiye Kar~ IY lz . ..... 154
+tMKB Gittigi <;evreyi de KalkmdmT . .. ................. 156
+B~kammz Tuncay Artun . .. . ... . .. .. .. . ... .. . •. . .... 157
+Gen-r Borsa Uzmanlanna .... . ........... . .. . .• . ...... 160
+Borsada iyi Yatmmci Nasil Olunur? ..... . .• .. .. ••.. .. .. 162
+Son soz .... .. ..... . . .. .. . ... . ..... . . •.. ... •.. .... 164
+IX
+
+--- Sayfa 11 ---
+1
+BANKER KRlzl
+Borsa da ya!"dlglmlz olaylan anlatmadan once 1980 ydlannm
+ba~mda bizzat !"hit oldugum krizi hahrlatmadan ge~emiyeeegim.
+1980-1981 ydlannda, bilyUk ~hirlerimizde, bilhassa Anka-
+ra'aa her mahallenin bir bankeri vardl. Bu bankerler yUksek ayhk
+ve il~ ayhk ooemeler kar~lhgmda halktan para topladdar.
+Bankalara bilyUk rakip olan bu kuruJu~lann i~risinde bir ak-
+~m i~inde duvar iUmlan i1e bUyOk ~hirlerin da~tnl ta~lnl donatan-
+lara ve Unlil sanatc;ilar He televizyon reklaml yapanlara rastlamrch.
+Yuksek riske ragmen, toplanan bu paralar'sayesinde deQ.irme-
+nin suyu devam ettiginden,' Ilk Yllda sorun 9lkmach; bankerler ode-
+melerini zamamnda yapttlar.
+BaZ1 yatlnmedar bu bankerlere 0 kedar gilveniyorl~rdl ki, al;
+dlklan faizleri hi9 dokunmadan yeniden aym bankere yahranlara
+veya ka~ kaidlnmdaki ~ka bir bankere gidip, riskierini dagltbklanm
+zannederek, a1dddan laizlerle hesap ~ranlara bile rastlamyordu.
+Yalmz, bankerlerin bu paralan nereye yahrdlklan, kimlere
+bor~ verdikleri me~huldil. <;:Ok yUksek laizle a1man bu t.sarrufl.n
+kimi bankerler faizler 90k yOkselince fiyatJan dU~n arsalara, in~­
+at yaplmma yatlrddar; hatla mercimek ve fasUlyeye bile yahranlar
+vardl.
+Faizlerin, doiaYlslyla kredi faizlerinin artt$1 bUyOk i~ c;evreleri-
+nin, bilhassa bankalann menlaatlerine olduk~a dokunmu~tu .
+
+--- Sayfa 12 ---
+2
+Biz de 0 gtinlerde, trOk yliksek faiz veren bankerleri riskli bu-
+iup, daha dG~i.1k faiz veren bizim ~irkete gUvenerek, tasarruflann)
+yatlranlann paraianOl, bizden on puandan fazla faiz veren Kastel-
+Ii ve Meban gibi kurulu~lara yahnyorduk.
+Kastelli batmadan biT hafta once bize yaphgl Odemeyi nakit
+olarak deQil de 0 gOnlerde riskli sayilan bankalardan birinin c;:eki ile
+yaphQI ic;:in - Allah bizi korum~! - bOWn mevduatJ klZIP c;:ekmi~tik.
+Yanhz Meban' dan epey yOklOce olan paramlZI zar zor kurtarml~­
+Ilk.
+Bu arada bir <;ok bankerzede peri."n bir jekilde ortada kaldl-
+lar. Bir c;:ok yatmmci 0 gOne kadar aldlklan ayhk ve lie;: ayhldarla
+avunup. anaparalanm kaybettiler. Sadece yatJrdddan kar~lhglnda
+ozel ~irket tahvili, banka mevduat sertifikasl VS. alanlar paTalanO!
+kurtarabUdiler.
+o gUnlerde Ankara'da kriz neticesinde batan bir bankerlik ku-
+rulu~unun ortagl iki eski taksi ~f6rU savclhga yapdan sue;: duyuru-
+su netieesinde pavyonda e!llenirken yakalandd<lannda; "Halktan
+topladlQlnlZ paralarla ne yaptlntz? diye soran gazetecilere, "Cok
+iyi yatmmlar yaphk; ben BMW, orta~lm da Mercedes marka Son
+Model arabalar aldlk", diye cevap vermi~ti.
+Biz KasteUi'nin Tunus'a Ye~i1k6y hava alamndan elini kolunu
+salhyarak kae;:hQI 0 sabahtan ba~hyarak hemen hemen on gUn de-
+vamh tediye fi~i keserek ademe yaphk. Bir hafta i<;inde bir <;ok
+mU~erilerimiz uzun kuyruklar te~kil ederek paralanm e;:ekerken;
+sadece bir bayan bUyUk cesaret ornegi gostererek gelip yatmm
+yapml~tt.
+Bir c;:ok yatmmclmlz daha vadeleri gelmeden hesaplanm ~k­
+tiler; ama bakttlar ki ooemeler aksamadan yaplhyor, zamanla kriz
+de soQumaya ytiz tutunca paralanm geri getirdiler.
+<;:ah~h~lmlz ~irket kriz amnda kuliandl~1 onea bilytik kredilere
+raQmen vade bozulmalan nedeni ile 0 sene bayaQI iyi kar da elde
+etmi~ti.
+
+--- Sayfa 13 ---
+3
+Evlerini, arsaianOl, arabalanm satlP bankerlere yatlranlaim el-
+ierine biT makbuzdan ba~ka pek biT ~ey verilmemi~ti. Sadece ku-
+rumsalla~ml~ birkat; bankerlik kurulu~undan yahrdlklan paralar
+kar~lh9mda yeterli enstrtirnan alanlar birkac; Yll ic;erisinde % 28 fa-
+iz kar~]h~l ana paralanm kurtarabildiler.
+a gunlerde banka mevduat sertifikalannm, ozel tahvillerin
+anaSlnI ayn faiz J<.uponlanm ayn pazarlaYlp biT koyundan iki post
+<;lkaran ve sermaye piyasasmm kurucusu oldug,unu iddia eden 0
+gtinlerin me~hur bankeri bu gUnlerde televizyona <;lklP Titancllara
+dUriistluk dersi vermektedir .
+•
+Banker krizi tilkemizde daha yeni kurulmakta alan Sermaye
+Piyasasma bOyOk darbe vurmu~. bliyUmesini geciktirmi~ ve YJllano
+bo~ gec;mesine neden olmu~ ; ama bunun yamnda da mevzuatla-
+nn ne kadar yetersiz oldugunu, piyasalann ne kadar onde oldu-
+gunu ve devletin ne kadar geriden geldigini ortaya koyrnu~tu.
+
+--- Sayfa 14 ---
+4
+SERMAYE piVASAlARI GELi~iRKEN
+1980'li Yillann ba~mda, henilz askerligimi bitirmemin hafta-
+siOda, daha ' yeni kurulmu~ olan bir menkul loymetler ~irketinde
+muhasebe memuru olarak piyasaya ilk adlmlml attlm.
+$irketteki 6zel tahvil sablan b61umdeki arkada~ askere gidinee;
+ben de pazarlamaya, yeni yatmmC1larla direkt yUz yOze olunan 00·
+llime gecmi~tim.
+o gtinlerde sadece ozel ~irketlerin tahvillerini satlyorduk. Vatl-
+nmedar bizden aldlklan tahvilleri bor~ verdikleri ~irketlerden ~ok
+bizim araclhglmlla olan gUvenleri nedeni ile ahrlarcll. Iyi bir iskon-
+ta oram ile ucuz aldl!llmlz bu tahvilleri pazarladJ!llmlz zaman kaT
+etmeyi garanti ediyorduk.
+Saglam ~irketlerin tahviUerini satmamlza. ragmen, yatmmcllan
+yeni say!lan bu piyasaya ah~hrmamlz zor olmu~tur.
+11k Yillarda, ~irket merkezinin bulundugu Gayrettepe'den Mer-
+ter'e, Suadiye'ye hatlrh m~terilerin ayagma ~jrket arabasl i1e git-
+tigimiz, ~irketin yak.1n ~evresine de biT mahalle bakkah gibi telefon ~
+la ~!)nhp yaya olarak finans hizmeti verdigimiz olmu~tur.
+Enflasyonu bugunlerde u~haneli rakkamlara ~lkaT1P haftahk
+bonolara % 20 faiz verenlerin kulaklan <;:lnlasln; biz 0 zamanlar
+ozel ~irketlerin tahvillerini ahp bir yJ! tutanlara % 35 faiz veriyor~
+duk.
+
+--- Sayfa 15 ---
+5
+GUnluk repoda hi, riske girrneden bankalarda % 75-85 faiz
+alanlar 0 gOnleri pek anmak istemezler ama 0 zamanlar clevlet tah-
+villeri araclhQI He gOniOk % 14 ile % 18 arasmda faiz alimyordu.
+Devlet tahvilleri ise sadece Merkez Bankasmda sahlirch. Uzun
+blirokratik i~lemlerle gUniln belirli saatleri ic;:inde ahndlgl ic;:in bo~a
+kalan paralan degerlendirrnek i,in Bankalar Caddesindeki Merkez
+Bankasma giden bir ekip kurrnu~tuk . ~yet bo~a kalan par.lan
+zamanlOda Merkez Bankasma yollayamazsak banka bize vadesiz
+hesapta brut % 10 faiz veriyordu.
+DARKMALT
+1980'Ji YJllarm ba~lannda ozel tahvillerin pazarlanm~sl ile sa-
+Yllan onu gec;meyen araCI kurumlann sayesincle birc;:ok bOyOk ozel
+sirkete hUyOme ve ahhm hrsah yarattlml~hr.
+Her Cuma gUnil ~leden sonralan, ~irketin hesabmm bulun-
+mach9,1 bir bankamn c;:eki ile yUklo para yahran mti~erimiz bir haf-
+ta sonra parastnl c;:ektiginde, 0 zamanlar yabanci banka c;:ekinin iki
+gOn takas mUddeti olduQunu du~unur, iki gun de Cumartesi ve Pa~
+zar gunilnUn faizini katarsak, cepten haybeye dart gUn faiz verdi~
+~imizi uyamk mu~terimizin u~uncu te~bbusilnde anhyabilmi~tik.
+Bu tecrilooyi de ilk alman dersler hesabma yazml~tlk .
+Sonraki Ylllarda piyasada bir bankerler furyasl ba~larnl~l1 . Net
+% 8 ile % 12 arasmda de~i~n ayhk gelir vaatleri ile bankerler pa~
+ra toplamaya ba~ladllar. Kastelli ve li~ kurulu~u, arkasmdan bir sli~
+rli banker, yOksek faiz vererek araCI kurumlara ve bilhassa banka~
+lara bUyUk rakip oldular.
+Zamanla bankalann mevduatlara verdikleri faiz bankerlerin
+mU~terilerine verdiklerinin yamnda komik kalmaya
+ba~laml~tl.
+Bankalar da yeni faiz oranlanna ayak uydurabilrnek i,in yUksek fa-
+izli yeni bir enstrliman olarak banka mevduat sertifikasl ~lkanp sat~
+maya ba~laml~lardl. Biz de 0 gUnlerde yaptl~lmlz ozel tahvil anl~~
+malanm piyasa ko~ullanna uydurmaya ~ah~lyorduk.
+Bankerlerin saadet zinciri fazla uzun slirmedi. C;lkan ~e~itli bat~
+rna dedikodulan Kastelli yurt dl~lna ka,mca ger,ek oldu. Ba~ta
+
+--- Sayfa 16 ---
+6
+Kastelli'ye ait tiC; ~irket olmak Uzere kuc;:uklu, bUyUklu ytizlerce ban-
+ker klsa sUre i<;inde batttlar. Kriz nedeni ile zor durumda kalan is-
+tanbul ve Hisar bankalan da kapilanm kapatmak zoruncla kalml~­
+lardt.
+Banker Krizinden sonra Toz duman olan piyasa da yine ban-
+kalara ve bah~ furyasmda sag kalan alh menkul klymet ~irketine
+kalmt~1. Bu altt ~irketten biri de bizim ~irketti.
+Kastelli ve bankerlerin <;oku~(j ekonomiden sorumlu iki bakam
+yerlerinden etmi~ti. Arna kriz yJllardlT bankalann ayak oyunlan ile
+oyalanan Sermaye Piyasasl Kanununun <;Jkanlmasma da neden
+olmu~tu.
+Kanun, tasarruf sahiplerinin hak ve yararlannm korunmaslOI
+dilzenlemek ve denetiemek ic;:in C;:lkanlml~1. Bu kanunun uygulan-
+masmdaki ba~nYI ise zaman gosterecekti.
+Bankerler babnca yOksek faize ah~n Turk yatmmclslmn nis-
+beten do.~n mevduat faizlerine ah~malan epey zor olmu~ur.
+Bankerlerin yQksek faizini unutamayan halktmtZa, 1987 ytlma
+gelindiginde yeni kurulan borsanm yUksek performansl I;ok cazip
+gelmi~i. Halktmtz bu sefer de borsaya hUcum etmi~ti.
+Borsa 0 gOnlerde sermaye piyasasmdaki yerini daha yeni ah-
+yardu; hepimiz ~ok tecrObesizdik.
+Bazt hisse senetlen % 700 ile % 1700 arasmda degi~n oran-
+larda sekiz ay gibi klsa bir sOrede prim yaphlar. 1987 Yllba~1 ile
+1987 Agustosu arasmda endeks % 450 civannda yQkselmi~ti.
+Ilk borsa ~6kU~O , ilk bOyQk darbe 1987 Agustos ayt sonlann-
+da be~lamt~tl.
+Agustos ayma kadar borsada ~ok yQksek fiyatlardan hisse se-
+nedi alanlar kaYlplanm ve 0 gOnlerde c;:ektikleri slktntlian unutma-
+dtlar. a gOnlere ~hit olan ve ya~yan nesil borsamtza 1998 ythna
+geldigimiz ~u gOnlerde bile hala soguk bakmaktadtrlar.
+
+--- Sayfa 17 ---
+7
+BORSADA ILK GUN
+1986 ydmda borsaya gitti~im ilk gGnG hahrhyorum. Bir gGn
+onceden okula yeni ba~hyan ogrenci gibi heyecanhydlm. C;ah~t1·
+Qlm araCI kurumda, "Borsaya gidince MustcVa beyin yanma git
+otUT, ondan biT ~yler kapmaya bak", diye tenbih etmi~lerdi.
+Ca~aloglu ' ndaki borsa binasma girdim. Borsa salonu ile; katll
+binamn en list kahnda idi; en alt katta zaten Ziraat Bankasl ~ube­
+si vardl.
+Borsa salonu kuc;uk hiT simfa henziyordu. Siraian ve en cnde-
+ki kUrsOyO gortince OQrencilik amlanm tazelenmi~ti.
+Arka slralarda oturan beye Mustafa beyin nerede oturdu~unu
+sordurn. 0 da en 6n sirada oturan ooyi g6stermj~ti.
+Mustafa beyin yamna gidip, kim oldugunu soyledirn; tam~ma
+fashndan soma da yanma gec;ip oturdum.
+Salonda 0 gUn yirmiye yakm borsa temsiicisi vardt. Bir bey ge-
+lip kOrstiye t;lkarak, onOndeki gong'a vurunca, i<yimden, tamam,
+dedim; Ollretmen geldi, bu koskoca adamlar ~imdi ayaga kalklP;
+Ocigruyum <;ah~kamm
+BorsaclYlm
+Amaclm TUrk YahnmclslOa
+
+--- Sayfa 18 ---
+8
+Kazandlrmak
+Sermaye piyasaslnl
+Korumakhr
+Mahm, caOim, her~yim
+Mi.i~terilerim h;:in
+Hel.lolsun
+diye and okuyacaklar. Ama tabii oyle bir ~
+olmaml~tl. $imdi
+seneler getyti; borsada aCI, tath bir 'Yok amlanmlZ oldu. Borsa yab-
+nmC1Slnl sevindirdigimiz, klzeitrcllglmlZ, OzdUgUmUz gUnler oIdu,
+Aradan yillar g~ince ilk gOnde iyi niyetle ve idealist fikirlerle
+yarathglm andtmlz, borsamn ilk on senesine bakulCa, ashnda ~y­
+Ie Olsaydl maalesef daha ger~e~i olurdu diye d~nUyorum ,
+. AkllhYlm, uyamglm
+BorsaclYlm
+Amaclm ve menfaatim
+TUrk yatmmclSlnt
+Soymak
+Sermaye piyasaslna
+Kaymaklir
+Villalanrn, yazhklanm
+<;:oluk, ~ocuguI]la
+HelM olsun
+
+--- Sayfa 19 ---
+9
+BORSA (:ALJ~ANlARI BORSADA ALI~
+VERi~ YAPMAZ
+Ben Istanbul Menkul Klymetler Borsasmda ~ah~maya ba~hyan
+ilk borsa uzmanlanndan biriyim.
+Borsada ilk giln i~ ba~arnadan onceki ak~m, 0 zamanki ~­
+b~hglm araci kurumun genel mo.dUrtintin c;:all~mamla i1gili ilk emri.
+"Kendine ait kesinlikle borsada i~lem yapmlyacaksm", olmu~·
+tu.
+Bir ~ok yabancl ~gda~ borsalarda borsa uzmanlanmn kendi
+adlanna ve birinci derece akrabalanna ahm satlm yapmalan kesin
+kurallarla ve cezai mUeyyidelerle yasaklanml~lr.
+Bizirn borsamlzda kimsenin uymadtgt bu kurallara ben ilk YII-
+larda kesinlikle riayet ettim.
+Bu ara biT c;:ok yatmmclyt borsa zengini yaphm. Benim zengio
+olan mil~terilerimin ic;:inde ~ anda ona yakm araci kurum sahihi
+veya ortagl olan arkada~anm var.
+D zamanlar borsa ba~kamnm 0 yJl sonu degeri ile ilWUz mil-
+yonluk portf6yii oldugunu gazetelerde okuyunca sukutu hayale ug-
+raml~, ben de kendime hisse senedi almaya ba~laml~hm.
+Borsa ba~kammlzln portfoyU gilnlerce bastmmtzda yaztldt. -ri-
+
+--- Sayfa 20 ---
+10
+zildi. Borsa ba~kammlzm bile kanunen hisse senedi alamlyaca~ml
+gosteren biT beige yoktu. Sermaye Piyasasl kurulu kendi Uyelerj ~
+nin hakkmda boyle biT yasak oldugunu, borsada 9ah~nlann ve
+borsaYI yonetenlerin hakkmda yasak koymaYI unutmu~ olduklanm
+itiraf etmek zorunda kalml~t1. Neticede yasak geldi.
+Kendilerine hisse senedi alip satan borsa uzmanlan kendileri-
+ne ahm satIrn yapmadtklan takdirde bu piyasayt iyi takip ecleme-
+diklerini dolaYlslyla mU~teri1erine iyi hizmet veremiyeceklerini iddia
+ediyorlardl.
+cizgilikitap.com
+Bu tartl~lhr biT konudur; yalmz 1987 Ylhnda herkesin parfoyO-
+nUn oldu!)u biT gen;ektir. Borsa ba~kanmm, borsa ~h~nlanmn .
+araci kurum ve bankalann portf6yieri vardl. Aynca araCI kurum ve
+bankalann sahipierinin, yoneticilerinin, c;ah~<mlann , borsa ile i1gili
+elemaniannm ve tum bu ki~i1erin birinci derece akrabalarmm, ar-
+kada~ ve tanldlklanmn portfoyleri vardl.
+I~lem hacminin az, hisse senedi arzlntn ise yok denecek kadar
+az oldu~u 1987 Ylhnm ilk sekiz aymda yatmmcilara ne kaldJ~ml bir
+ki~inin C;lklp sormasl gerekirdi.
+1998 Ylhna geldigimiz jU gUnlerde bajka isimler altlnda a~ll­
+ml~ hesaplann ve borsa araci kurum ve. bankalann patronianmn,
+yoneticilerinin ve c;ah~nlanntn, borsaya kote olan birc;ok ~irketin
+patronlanmn, yonetici ve c;a1I}anlanmn ve bilhassa borsada c;ah}an
+borsa uzmanlanmn bir c;ogunun porfoyleri vardlr.
+MU~terilerden; sean sa giren, i~lemleri yapan bir c;ok borsa uz-
+manlan hakkmda, en az vrta bUyUklUkte bir yahnmci kadar port-
+foyleri oldu~una ve kritik anlarda yaptlkJan aC;l!1a ah~ ve sah~laria
+borsanm kaderini etkiledikJerine dair ~ikayetler vardlr.
+
+--- Sayfa 21 ---
+SORS~ SiR (:OK KI~jyl ZENGIN
+ETMI~TIR
+11
+Borsacla aid I!)! hisse senetlerini uzun zaman tutan yahnmcllar
+her .. zaman iyi kaT etmi~lerdir. Bu kazan~lar sabit getirili menkul
+klymet ve gayrimenkul getirileri ile klyaslanamayacak kadar ytik-
+sek olmu!ltur. Yilzbinlerce yatmmci borsa sayesinde yUksek gelir
+elde etmi~ler; kat, araba, yazhk sahibi olmu~lardlr.
+Size borsamn ilk Ylllanndan ornek verirsek: Lassa hisse sene-
+di 1987 Ylhnda. ilk sekiz ayda % 1800' e yakm prim yapml~ttr. Ec-
+zaclba~1 Yatmm hisse senetleri de list Oste iki yll i~inde, birinci YII
+% 1500 ertesi yti ise % 1600 gibi kmimasl zor rekorlarla prim
+yapml~ttr. Eregli Demir Celik hisse senetleri ise bir ytida % 1600
+prim yaplp 0 gOnden beri de borsamn lokomoUfi Gnvanma sahip
+olmu~tur.
+Borsa sadece yahnmCilan de!)ij kendi sektori.inde lYah~nlan da
+zengin etmi~tir.
+Bir c;ok arael kurum sahipleri, ortaklan ve c;ah~anlan hem bor-
+sada iyi kazanc; elde etmi~ler hem de YUksek maa~lar alml~lardlr.
+Borsa ve camiasl sayesinde itibarh ve zengin ki~iler olmu~lar·
+dlr.
+Ben borsa da <;ah~ttglm Ylllarda 100 ki~i1ik ~irket personelini
+
+--- Sayfa 22 ---
+12
+•
+Istanbul'un en pahah gece kulubOne gottiren patronlan, yanmda
+~ah~cmlan , saylS!o1 unuttu~u yazhk1anna slTayla tatile yollayan ge-
+nel mOdUrleri, bOyUk mO~teri portf6yleri necleni i1e futbolcular gibi
+transfer paraSl alan bor-sa uzmartlanm gordum.
+Borsa ba?kammlz Tilrkiye'nin en ytiksek maa? alan bUrokrat-
+lanndan biridir. Her gUn trilyonlann d6ndu!}U borsamn personeli
+de diger memur maa?lanna gOre daha yOksek maa? ahrlar.
+Borsa biT !yok insaOi zengin etmeye devam edecektir.
+
+--- Sayfa 23 ---
+13
+ILK Y1LLARDA BiiYOK ACEMluK
+B~na t;ah~bglm araCI kurumdan, "Borsaya git, bir~ler OQren-
+meye bak. ama sakm diQer temsilcilere fazla akll sorma, acemi 01-
+dugunu anlamasmlar", demi~lerdi.
+11k gUn yamna oturdugum bey sonralan ~ok sevip anla~lglm
+hala ~ok say(hglm, ~imdi piyasanm OnlO simalanndan biri olan ki~i
+idi. Ilk gun bana, "Ben de bu ij€ ba~hyah daha be~ ay oldu; ,ah~­
+caQlZ, uygulayacaQlz, biT yandan da ~renecegiz " , demi~ti. Yani
+anhyaca91n1z 0 da benim gibi borsacillQa yeni soyunmu~tu.
+Tecrubeli sa\llianlanmlz daha once Valufhan'da c;ah~nlardl ;
+borsa hayahmda spekOlasyonun ve rnanipulasyonun inceliklerini
+onlann sayesinde ~rendim .
+Isterdim ki, borsaya bir egitimden ge,ip ba~layaYlm . $imdi
+,
+, borsacdar trok ~nsh ; bizim gibi nastlsa 6grenir yilzmeyi, diye de-
+nize atJlmlyorlar. Yammda c;:ah~n hir slirU 'arkad,* oldu. "Senden
+,ok ~ey ogrendik", dediler. Isterdim ki, bu borsaclhgl, yatmmC1lara
+kaliteli hizmet gotiirmeyi, i~in raconunu bana da biT Dgreten olsay-
+dl.
+Benirn gibilerin, daha d~rusu yeni kurulan bir borsamn ace-
+miliginin faturasl yahnmCilara pkml ~hr. Borsaclhk birikimimiz, de-
+neyimiz yoktu. YatmmclYI pilgilendirecek egitim, ara~hrma , yaym
+mekanizmasI mevcut deQildi. Mali ve -teknik analizi m{j~terilerle be-
+
+--- Sayfa 24 ---
+14
+raber o!)rendik. Yahnmclya hisse senetlerini, borsaya girmi~, de-
+mek ki iyidir, deyip aldmyorduk. Cok klsa tecriibemize ragmen kl-
+sa zamanda "Ustad" olmu~tuk.
+Yatmmcl da sablrslzdl; hemen k6~yi donmek istiyordu. Biz ne
+al dersek hemen ailyor, ne sat dersek hemen sahyordu.
+Ama sakm eski borsaclYlm diye borsaYI ~ok iyi bildigimi, her-
+~yi DgrendiQimi zannetmeyin.
+$u istikrarslz borsa piyasasmcla, Tlirkiye gibi her Yll degi~n
+hukOmetlere, yUksek enflasyona, ~ok aQlr ic;: bore;: yUkUne sahip biT
+U1kede, size seans salonlannda herglin ~unu al bunu sat diyenlere,
+benden size tavsiye, inanmaYlnlz!.
+
+--- Sayfa 25 ---
+15
+BORSACILIK BiRAZ AYRICALIKTIR
+Borsada i~lem hacrni arbp, biT de yok hlZh prim yaptt~;t gOn-
+lerde sizden iyisi yoktur. MU~eriler, patronianmz, yoneticiieriniz,
+c;:ah~tlQmlz ~irket personeli dahil herkes sizi el UstGnde tutarlar.
+Yahnmcllar sizi tam~ma yemegine davet ederler. Dostunuz,
+ahbaplanmz c;:ogahr. Bayramlarda, ozel gOnlerde hediyeler ahrsl-
+ntl . Maa!ilmza da ozel zam yapariar. Herkes ne alsak, nasil dav-
+ransak, diye pe!linizde dol3.?IT ..
+AraCI kurum y6neticileri 0 gUnlerde borsa uzmanlanmn her-
+kesle g6~mesini ve tiyolann herkes tarafmdan duyulmasInI iste-
+mezler.
+$irketin, yatinrncmm, patronun, y6neticinin ve c;:ah!ianlann
+portf6yO vardlf. 0 aralar hoi bol Slrhmz slvazlamr, c;:o~a 6vi.11UrsU-
+nOz.
+Borsa dO!imeye, zararlar rneydana <;:lkmaya ba~laYlnca her ~y
+tersine doner. Sizi goren mU~terilerin suratlan aSlhr. Cah~h~lOlZ ~ir­
+kette fazla bile gozUkmeye ba~larslOlz. Hisse senedi alan herkesin
+cam slklundlr. Kabahatli siz olursunuz.
+Yoneticiler bile kendileri tavsiye edip aidmhklanm unutup, hep
+sizi one iterler. Yatmmcilar ge\ saatlerde evinizi telefonla araYlp,
+aldlklan hisse senetlerinden, kullandtklan kredilerden ~ikayet et-
+meye ba~larlar.
+Sanki kendi paramzl kaybetmi~esine oolarla beraber UzUlUr
+ve ylpramrSlOlZ.
+Borsaclhk bir~z ayncahkhr, ama her zaman de~il.
+
+--- Sayfa 26 ---
+16
+BORSA BIR ~OK YATIRlMCM DA
+~OK (jZMii~TOR
+BorsaOin kurulduQu YJldan beri onlarca araci kurum ve hanka
+batml~hr. Bu araci kurumlann bir ~ok yatmmclSI <;ok magdur 01-
+mu~ ve ydlarca biriktirclikleri tasarruflannI yitirmi~ler ve zarar et-
+mi~lerdir.
+Borsa kotaslOda ' bulunan bazl ~irketler ifla. elmi!!ir. Sahibi
+6iOnce veya yurtdl~ma ka9lnca kapanan, ortaklan borsada mani-
+pUlasyon i~emleri yapttg, i9in g6z alb pazanna yollanan hisse se-
+netleri olmu~tur.
+1987 Ylhnda yUksek degerlerie borsadan ahmp Rabak, Doku-
+san, rnensucat Santral, Nasa~ . Koruma Tanm gibi ~imdi slhr de-
+gerde olan hisse Senetleri olmujlur. Mensucat Sant .. 1 1987 ylIl-
+mn ilk sekiz aYlncla % 1750 prim yapml.~h. Bu hisse senetlerini
+25000 TL.' den alanlann, sonradansatamaYlp elinde kalanlann
+do~to.gu durumu siz biT dU~UnUn.
+Borsa 1987 Ylhnda senelere yaY1Jmasi gereken ytikseli~jni ge-
+len yOksek talep ve yetersiz arzla sekiz ay gibi biT stirecle yapml~­
+h. Bu yOkseli~te sahp, paralanm diQer tasarruf arac;:lanna kaydlran-.
+lar zengin olurken; c;:ok ytiksek fiyatla hisse senedi alanlar, kriz oni-
+ki aydan fazla sUrtince c;:ok zarar .ettiler. 0 ara intihar edenler, bor-
+sadaki kaYlplan ytizUnden hastalamp, olenler olmu~tu. Ama nede-
+
+--- Sayfa 27 ---
+17
+nin borsa oldu!1unu kimse anlayamaml~tl. Borsada a~lTI kredi kul-
+landlTllan yatmmcliann c;Dgu sominda iflas etmi~lerdir. Bu konuya
+ilerde geni~ olarak deginece!)im.
+Araci kurumlanm art dG~uncelerle ve kbtG Y0neten, hisse se-
+netlerini ahrken kendileri de ba~kalanndan kredi ahp kullanan. hi-
+leli i?lere kan~n, mG?terilerinin hisse senetierini onlardan haber-
+siz borsada 'satan patronlar da en sonunda iflas etmi? ve piyasacla
+kaybolup gilmi~lerdir.
+
+--- Sayfa 28 ---
+18
+GELMEYEN BORSA UvEsi ADINA
+ATllAN ORDiNOlAR
+Istanbul gibi kalabahk ve trafigi her zaman o;e,itli sebeplerle
+kitlenen biT ~hirde borsada ~ah~nlann i~leri hayli zordur. Belli biT
+saaUe sabahlan muhakkak borsada olmak wrUndaSlnlZdlT. Aksi
+takdirde c;:ah~tJ~mlz araci kurumun i~lemleri gecikir ve yatmmCJiar
+zarar edebilir.
+CaQaloglu ~hrin gobe!)inde olmasma ragmen, gerek hava ko-
+,ullan, gerekse borsa o;evresindeki i, yo{lunlugu nedeni ile sabah-
+Ian Ula!?llmaSI zor olan biT semt idi. Evi Aorya' da olan hiT borsa ko-
+misyoncusu agabeyimiz, genellikle Pazartesi sabahlan borsaya gee;:
+kahyordu. 0 zamanlar mi.i~teri emirierini sabah 9.00 da sandlga
+atma zorunlulugu vardl. Bu agabeyimiz gee;: kaldlgl gUnler evinden
+borsada beni araYlp, ordinolan telefonla yazdmyordu. Ben de OT-
+dinolan onun adma doldurup, imzaslOl da tak1it edip, sandlQa atl-
+yordum.
+Beni hiT Pazartesi sabahl borsa j~lemler mildGrO yamna e;aglr·
+dl. Benim yazlm gee; kalan beyden fazla gOzel oldugu ie;in, foyaml·
+ZI meydana e;lkarml~tl. Borsaya gee; kalan bey gelince araya girdi;
+sue;u tamamen ustGne aldl; i~i bOyGtmeden bizi affettiler.
+Komisyoncu agabeyimiz yine borsaya gee; kalmaya devam et·
+ti. Bana irnza yerlerini irnzalaYlp bir ahm, bir de satlm ordinosu ko·
+
+--- Sayfa 29 ---
+19
+r;:anlan verdi. Ne zaman gee;: kalsa telefon ediyor, ben de ordinola-
+nn tist taraflanm doldurup sandl!1a oyle atlyordum. Imza hakika-
+ten onun oldu!1u ir;:in kimse de itiraz edemiyordu.
+
+--- Sayfa 30 ---
+20
+BORSANIN iLK YILlARINDAN
+PORTRELER
+Ilk Ba~kammlz Sn. Muharrem Karsh beyle T. I~ Bankasl men-
+kul klymetler mtidlirti iken tam~ml~ttk. Sonraki ytllarda hizim ~irke­
+tin genel mildlirli i1e aralannda ytllarca sOren biT husumet olunea,
+kendisi i1e yakm biT iIi~ki kuramaml~tik.
+Yeni kurulan resmi borsamn hiT yandan mevzuatl. kuru1u~ san-
+C1lan, bitmiyen prot;>lemleri ile ugra-?Irken; hiT yandan da onunla ve
+borsa yenetimi ile ugra~mayt adet haline getiren borsa Uyeleri ve
+muhalif baSin ile ugra~lrdl.
+Personel olarak i~ bankahlarla ve akraba, 'ahbaplarla ~ah~masl
+ba~ml ~ok agntml~tJr. Oyeler arasandaki itilaflarda devamh olarak
+borsa komisyonculanmn adaml olmakla itham edilirdi. Biz borsa
+temsilcileri ile her hangi hir problerni olmadl; biz onJl hem sevdik
+hem saydlk.
+Borsa I~lemler MildUrumUz Sn. Kaya Tekalp I~ Bankasl k6ken-
+Ii, ~ok tonton, borsada ~ok sevilen hir insandl. Fazla etliye sUtlilye
+kan~maz, herkesle iyi gec;:inirdi.
+Sn. Emin <;atana borsamn geli~tigi Ylllarda be~ eksper ve i~­
+lemler mGdilrO olarak g6rev yaph. Borsa ba~kanmm ye~eni oldu-
+9u i~in Ustilne c;ok gidilmi~tir.
+Temsildlerin seans anlOda hergiln kavga eUikleri £min Cata-
+
+--- Sayfa 31 ---
+21
+nat borsa sistemini ve piyasaslOi en iyi bilen ve dUrust biT ~kilde
+uygulatmaya ~ah~n bir ki,iydL
+. Onun borsamn buyGmesinde. geli~mesinde \=ok eme!1i ge<=mi~·
+tiro $u anda Takasbank Genel MOdOrii olarak borsaya hizmete de-
+vam etmektedir.
+Bir de rahmetli Emin A~amlz vardt. Emin Ertem bu i~lerin en
+eskilerindendi. Kendisi ~eker hastasl ve biraz da fevri hiT agabeyi-
+mizdL Vaklfhan'daki eski ah,kanhklanndan ktirtulamlyor, borsa
+yontemi He herglin kavga etmekten de \=ekinmiyordu. Kendisi es-
+ki kurt borsaClydl; oVOnmek gibi olmasIn, aym zamanda Kayserili
+'idi.
+o gOnlerde borsada ~ok az ki,i oldu~umuz i~in; hepimiz 0 kO-
+<=OcOk salonda iyi dostluklar ve samimi biT ortam kuT'!lU~k.
+Bir sabah borsa i,lemler modOriimOz Seansl b.,latmak i~in
+gonga vurunca. Flrlama biT agabeyimiz, "Ya~lnJza ra!1men ganga
+iyi vuruyoruz evde de bOyle misiniz?", diye talulml!ll.
+
+--- Sayfa 32 ---
+22
+HlsSE SENETLERiNIN
+FIYATlARININ SERBEST BIRAKILMASI
+KiMLERE YARADI?
+Borsanm ilk kuruldugu Yillarda, bilhassa 1987 yaz aylannda, a,
+gun sahel gelmeyen, ~ok talep olmasma ragmen i~lem gormiyen
+hisse senetlerinin fiyatian borsa y6netiminin aldl!)1 kararla serbest
+blrakthyordu.
+Bu alman kararlar 0 gOnlerde biT 'rok yatJnmclya maddi baklm*
+dan k6~ dbndurUrken, diger yandan da bin;ok insamn - tecrubele-
+ri de olmad191ndan- cyok ytiksek fiyatlardan hisse seneti almalanna
+sebep oluyordu. Birc;ok yatmmclnln fena halde cam yanml~tI .
+. Serhest blrakllan fiyatlarla, bin;ok hisse senedinin fiyat kazan9
+oranlan 5 iken kl5a zamanda 25 oluvermi~ti.
+Alternatif yatlnrn arac;:lanmn getirilerinin komik kaldlgl 0 gOn-
+lerde takas i~lemleri i~lemlerin onaylanmasmdan itibaren lit; gUn
+ic;:inde yaplhrdl. Nakit ve hisse senedi degi~imi umumiyetle son gO-
+ne blraklhrdl. Borsada i~lem hacminin az old~u gilnlerde, sabah
+seanstan once ~ok defa takas i~lemlerinj de biz yapardlk.
+Sirketlerin takas i~lemlerinden sorumlu tahsildarlan varch. On·
+larda sabahtan ak..,ma kadar batOn Istanbul'un d6rt bir yanma da-
+gllml~ banka ve araci kurumlan dola~m takas i~lem lerini yaparlardl.
+o zamanlar borsa komisyonculan Vaklf Han' da yan yana bu·
+
+--- Sayfa 33 ---
+23
+lunduk1an i<;:in avantajh idiler. Dnun i<;:in de kendi aralannda. Se-
+ans amnda- takas i~lemleri de kolay olaca~l i<;:in - hisse senetlerini
+iyi pasla~lrlar, fiyatlarla daha kolay oynarlardl.
+Bir seferinde benim eksik notlanmdan dolaYI takas ic;in yasal
+olan tiC; gUn dolmasma ragmen, biT banka He takasl hala yapama-
+ml~hk.
+Bankamn borsa sorumlulan iki milyon nominal Rabak hisse
+senedini i~lem gordUgU gUnkU 7000 TL'den almamlzl istiyorlardl.
+<;:ah,lIg,m ,irket yetkilileri ise takas gOnOnOn ge~tigi ve Rabak his-
+se senetleri borsada deger kaybetigi ic;:in i~lemin iptai edilmesi ge-
+rektigini iddia ediyorlardl.
+Banka <;:ah~nlan beni patronlarirna ve borsa idaresine ~ikayet
+etmekle tehdit ettikleri i<;:in neticede hisseleri bore; para bularak
+kendi ailem adma satm almak zorunda kalrm~hm.
+Bu mecburi ve zoraki yapJlan ticaretten tiC gUn sonra Rabak
+~irketi ile ilgili gazetelerde olumlu haberler CI~<rl1l~tl. a gunlerde
+moda oldugu uzere yogun talep kar~lslOda Qy gUn arz gelmeyen
+Rabak hisse senetlerinin fiyatl serbest blrakJldl; fiyat bir gUnde
+14.000.-TL'ye ~,kb. Ben de hemen satbm O~ gOn i~inde % 100
+kar yapml~ttm.
+Gunlerce ytiksek fiyatlardan i~lem goren Rabak hisse senetle·
+ri gibi borsada bUton kagltiann fiyatlan kudurmu~tu. a gtinlerde
+bizim borsa dUnya prim rekorlan klrarken, 0 YII getiride dtinya bi-
+rincisi olmu~tu.
+Borsada 6z~lle>lirme haberleri He Rabak hisseleri de diger his-
+se senetleri gibi hlz1a deger kaybetti ve tekrar 7.000.·TL civanna
+kiSa bir' zaman iI;inde dU~to.
+Sonraki yJllarda Rabak hisse senetleri Bezmenlerin, iflasl iizeri-
+ne borsadan /Ylkanldl ve degerleri siflra dU~to.
+Bu; .fiyatlan olur olmaz biT ~kilde serbest blrakma politikalan-
+nm neleTe mal oldugunun hikayesidir.
+
+--- Sayfa 34 ---
+Z4
+ORANSALLIKTAN SiZE au KADAR
+••
+••
+DU~TU
+1987 yiltnda alterna!if piyasalarela her"", borsa lehine ~ah~l­
+yordu; faizler dil>uktu; doviz prim yapmlyordu; piyasalarela bo~!a
+kalan paralar vardl; klsaca borsa UC;:~ gec;:meye hazlrdl.
+Borsa 1987 yaztnda, patlamadl, ade!a infilak etti; borsada his-
+se senedi bulunmaz olmu~tu. Talep c;ok, hisse senedi arZI yoktu.
+Borsa hergUn <;:lktyordu. Veni kote olan hisse'senetle.ri bile hemen
+bUyOk primler yaplyordu. Borsa 0 gUnlerde hisse seneti alahilenle-
+re iyi paralar kazandmyordu.
+Borsada hisse senetleri karaborsa oldugu gibl; Cagaloglu'nda,
+borsantn kaplslmn onUndeki sokak borsastnda fiya!lar daha da ~ll­
+gInd!.
+Araci kurumlarda ve bankalarda ertesi gUn prim yapmaSI 9a-
+ranti goztiken hisse senetleri yatmmcliar arasmda porsiyon porsi-
+yon daglhhyordu.
+Boyle hisse senetlerinin C;;~u ~irket yoneticisi veya ~h~(mlan­
+Oln porfoylerine. kalanlar da yahnmcliannkine gidiyordu.
+-
+Hisse senedi ahnmamasma ktzan mti~terilere izah c;ok kolay
+oluyordu: Oransdlaktan_ size bu kadar dU~tu.
+Fiyatlann ~ok ~i~tigi borsantn Ylkllmaya 'yUz tuttugu gUnlerde
+maalesef oransalhk filan kalmaml~h; herkes talep ettigini ahyordu.
+
+--- Sayfa 35 ---
+BORSA 1(:INDEKl VE BORSA
+DI~INDAKI I~LEMLER
+25
+Borsamlzda ilk Yillarda, tecrUbesizlik sebebiyle, kontrolden
+uza~, _ dUzensiz sistemle c;all~J1ml~ttr.
+Borsada hisse senedi alan biT 'Yok yatmmcl, ba~ta Kamu Or-
+takh~1 Idaresi olmak tizere, borsa yonetimi, bankalar, araCI kurum-
+lar, borsa komisyonculan tarafmdan aldahhp istismar edilmi?lerdir.
+Borsamn ~h~n ilk uzmanlan idik; ne bil,iyorduk da ne yap-
+ml?hk da klsa zamanda bize borsa uzmam dediler. Kimse de fazla
+biT ~y bilmiyordu ki biz1ere ~retsin. Her i?i kendimiz yaplyor, biT
+~yler 6~renmeye c;ah?lyorduk. Ke.?ke 0 gUnlerde bize seminer dO-
+zenleyip borsacillQl anlatan biriteri t;lksaydl da; biz yatmmcJlann
+camnl bukadar yakmasaydlk.
+Seans salonunda hergOn borsa yonetimi i1e borsa temsilcileri
+arasmda sistemin i~leyi?i ile ilgili itilaflar t;lklyordu. Kavgaslz, tartl~­
+maSlZ gunilmUz olmuyordu.
+Borsanm ilk ylilannda borsamn i~lem hacmi ~ok dardl; yeteri
+kadar halka a<;lk jirket yoktu. laton bir <;ok ijlem, borsada tesci!
+olan fiyatlar g02 onunde tutularak, borsa dl~mda yaplhyordu.
+Borsamn yatJnmcllara cazip gelmeye ba~ladl~1 gilnlerde borsa-
+
+--- Sayfa 36 ---
+26
+mn giri~ kahnda iki oda yatmmcllara aynhyordu. Yatmmcllar kuru-
+Ian rnikrofon sistemi i1e dinliyorlardl.
+Arzin az oldu!1unu anladlklan gUnlerde kendi aralannda hisse
+senedi ticaretine bile ba~laml~lardl. Bu ticaTet fazla bUyi.1yUnce ya-
+tinrnCilar borsaclan <;lkanldllar. Hisse seneU ticaretine borsa binasl- , .
+nm merclivenincle ve onOncleki caddede, kaldmmda devam ettiler.
+Sokak borsasmm, di~er biT deyi~ ile "ayakh borsa" nm temelleri de
+Cagaloglu'nda ahlrm~ oldu.
+BorsanlO <;ok ~i~ti~i, yaklnda genel-biT dil~u~ gec;eceQi konu-
+~ulup tartl~ddlgl gUnlerde bile yahnmctiar, kapmm onOnde ve biT
+<;ok araci kurumda el altmdan yUksek fiyatlarla hisse senedi almak-
+tan korkmuyorlardl.
+Borsada c;ok az bir i~lemle fiyat tescili yap.lryor; borsa d.~mda,
+bu Hyalin <;ok Ostlinde, borsanm i~lem hacmini kathyan miktarda
+hisse senetleri el degi!itiriyordu. Borsanm ilk ytllannda, c;ah?h~lm
+~irkette borsa d.~. birc;ok i~lem yaptlk; ne bizi ~ikayet eden oldu, ne
+de bizi kontrole gelen.
+Borsantn dO~ce!1ini tahmin eden bir ~ok araCI kurum, borsa
+komisyoncusu ve banka, ?irket portfoylerini yeni gelen yahnmctla-
+. ra sathlar. Bu arada Kamu ortakh!1J Idaresi de .kimseye haber ver-
+meden, bir ay kadar once, borsa da ozelle~irme oeneylerine ba?-
+laml?h. Borsaya kote olan baZI ~irket patronlan da hisse senetleri-
+nin cazip fiyatlanna dayanamaYIP kendi ?irketlerinin ka~Jtlanm
+borsa i~inde ve borsa dl?mda yatmmclya satmaya ba?lamJ$lardl.
+o gOnlerde i?lem defterlerini g6rmek isteyen, bizi kontrol et-
+meye kalkan yatmmCilar yoktu. Buna zaten cesaret bile edemez-
+lerdi. Begenmeyen c;eker giderdi.
+$imdi borsada c;ok ~y degi~mi~tir. Sermaye PiyasaSl Kurulu,
+Borsantn Denetim Sistemi piyasaYI devamh kontrol etmektedir.
+Her?€y anmda bilgisayarlarca denetlenmektedir. Zaten her?€y ya-
+
+--- Sayfa 37 ---
+27
+hnmcllann g6zleri onunde olmaktadlT. Yahnmcllar biT telefonla,
+yaphklan i~lemleri istedikleri zaman kontrol edebilmektedirler.
+Borsaya kate olan ~iTketler de denetim altmdadlrlar. Borsada kate
+olanlann dl~lnda piyasaya hisse senedi sOrememektedirier .
+•
+
+--- Sayfa 38 ---
+28
+CAGALOGW'NDA ILK HALKA A(:ILMA
+Ismini vermeyi uygun bulmacll!llm yurt dl~mda crah~n i~ilerin
+kurulu~u clan biT firma borsada olu~cak biT fiyatlan halka ac;:tla-
+cakh.
+o zamanlar ~irketlerin borsadaki ilk fiyatlan onceden belirlen-
+mezdi; arz ve taleple fiyat borsada tescil oh . .:rdu.
+t<; Anadolu bOlgemizin kU<;Uk bir ,ehrinde onemli bir fabrika
+oldullu ic;:in bu ~irket, 0 ~hirdeki sermaye sahiplerinin de ele ge-
+c;:irmek istedikleri biT ~irket icli.
+Borsada ilk halka a<;llma oldugu i<;in heyecanh bir bekleyi~ var-
+d!. 0 gUne kadar pek adl duyulmayan ~irkete talep <;oktu ve yirmi
+bin TL. civannda fiyat be~eniyordu.
+GUnU geldi. ordinolar a<;lld!. Hi<; beklenmiyen bir fiyalla. otuz-
+birbinbe~yUz TL. ile ah~-sah~ ger<;ekle~t\'
+Fiyattan ba~ka bir ilgin<; durum daha vardt Ah~ ve sah~ ordi-
+nolan otuzbirbin be~yi.iz Iiradan yalmz borsa y6netim kurulu Gyele-
+rioin borsa kurulu~lanndan gelrni~ti.
+Dam~lkll dogU~le borsadaki ilk halka a<;llma gUme gitt\. 0 ,eh-
+rin iki zengini tedbirlerini en list kademeden alml~ ve ha1ka aC;:II-
+rnak Ozere borsaya gelen ~irketi ele gecrirmi~lerdi.
+
+--- Sayfa 39 ---
+BORSADA ATllAN ORDINOlARlN
+KAR~llA~MAlARI Ic;lN KATKI MI
+GEREKiYORDU?
+29
+Borsada talebin ~ok, arzin az oklugu gUnlerde sandlQa atlian
+emirlerin 90k onemi vardl.
+Benim 9ah~hglm arael kuruma borsada i~lem goren hisse se-
+netlerinden bUyOk montanh ah~ ve satt~lar geliyordu. Bilhassa i~ti­
+raki oldugumuz bir bankamn <;ok bOytik portfoyti va"b ve sah,la-
+qm bizim Uzerimizden yaplyordu.
+Borsada bizim sattl91mlZ hisse senetleri 0 zaman revat;ta olan
+onemli hisse senetleri idi. Sana 0 gUnlerde gelen teklif 90k onem-
+Ii saYlhr. Sandlga ataca91m satt~ emirlerincle hangi hisse senetleri-
+nin, ka<;: paradan, ne kadar nominal olacagml sOyiemem ,:eticesin-
+de meyciana gelecek kazancl yan yanya payla~maYI teklif ettiler.
+Benim reddettigim teklif. gOnde % 10 ytikselebilen 0 gOnlerdeki
+borsa i<;in <;ok bOylik rakamlar idi.
+Sonradan 69rendirn ki, onlar benim ath91m ordinolan it;:erde
+ayarlacllklan bir eksper yardlffil ile ~renmiyorlarml~. Ve ona da-
+ha once verdikleri imzah ah~ ordinolan He bizim satJ~ ordinolanm
+kar~lhyorlarml~.
+
+--- Sayfa 40 ---
+30
+~IRKET (:AU~ANIARI ARABA AUYOR
+Borsa",n ,.k.~ia oldugu bir donerndi; borsada hisse senetleri
+yok sahyordu. GilnlOk her hangi biT gazetenin Ozerine hisse sene-
+ti yazJlsa, ahc. ,.k.p fiyat yUkselecek hale gelmi~ti ,
+Izmir'deki holdinglerden biri piyasaya ,.karmak istedigi i~tirak­
+lerden biri i~in bize ba~rdu. Piyasa oyle biT piyasa haline gelrni~­
+ti ki; ad! ne olursa 015un, mali duiumuna bakJimadan, bilanc;osu fi-
+Ian incelemeden C;llgln biT ah~ furyasl vard1.
+Hisse seneti satmak ic;in uzman olmaya gerek yoktu. Klsa hiT
+payasa ara~hrmasl i1e nominal fiyatllOOO.-TL'den bUrnn hisse se-
+netlerini ~irket olarak biz satm aldtk.
+o slrada borsada 6yle hiT c;:i1glnhk varch kij hisse senetlerini tek
+fiyat ile bol miktarda bulmak sorun oluyordu. Haz" e1imize boyle
+biT flrsat gec;:ince ilk defa hisse seneti almak ic;in yamp tutu~n, hiT
+sUredir heves etmelerine ragmen biT ·ti1rlo cesaret edip' hisse sene-
+de alamayan bizim ~irket personeline de bu Izmir'1i ~irketin kag.t-
+lanm satin alma flrsati d~mu~tu.
+$irket ~h~nlanna ve akrabalanna henUz borsaya SOri.ilrrieyen
+bu hisse senetlerini nominali 1050 TL'den (aradaki fark limir'den
+geli~inin yol paras.) bot~elerine uygun geldigi kedan' ile satbk.
+Borsaya kote edilen bu hisse senetlerini borsaya soktuk. 0
+gunlerde diger hisse senetleri gibi ,ok kJsa bir zamanda, Izmir'li
+~irketin hisse senetleri de borsada bUyUk prim yaptI.
+
+--- Sayfa 41 ---
+31
+Borsa yonetirni 0 zamanlar adet oldugu iizere ticr gOn sabC"l
+gelmeyen hisse senetierinin fiyatlanm serbest blraklyordu. Bizim
+Izrnirli Holdingin i~tirak hisselerine de oyle oldu; buyuk talep elun-
+ea fiyali serbest blrakildl ve fiyali bir gUn i<;inde 7000 TL'ye <;Ik-
+ml~ oldu. Bizim personel ve hlSlrt:l akrabalan bu korkuncr kan go-
+rOnce hisse senetlerini satt!lar.
+Hatta bazl uyamk arkada~lar 0 zamamn me~hur araCI kurumu
+Semih Menkul Degerlere gidip hisse senetlerini el altlndan 10.000
+TL'den sattilar.
+Kazandil<ian paralar He bir <;ok <;a1I~mmlz arabasahibi oldu.
+Bazllanmn ise ileride bu piyasalarda kullanacaklan sermayeleri
+meydana gelmi~ti . Bir hafta once biT milyon nominal hisse alanla-
+nn biT hafta soma yedimilyon civannda, aCYlktan Semih Menkul
+negerlerde satanlann on milyon TL civanncla paralan olmu~tu.'
+o gUnlerde Tofa~ Dogan marka 0 Km araba dort mHyon TL
+civannda sahhyordu. Bizim ~irketin genel mOdOriintin makam ara-
+baSI da Renault 9 idi.
+Bir hafta kadar sonra, bizim ~irket binasmtn onUnde park ye-
+rinde, bizim personelin ·son model ~an arabalanmn arasmda bi-
+zim patronun Renault g'u pek kUIUstUr kalml~h .
+o gUnlerde bizim jirketin bUtiin borsa ijleri benden sorulurdu.
+Personele bu hisse senetlerini satmak benim fikrim idi. Prensip
+olarak kesinlikle kendi ~hslma hisse senedi ahp satmlyordum (Af
+edersiniz, hlyarml~lm) .
+<;:ah~tJglm jirket borsada <;ok bUyGk paralar kazamyor, mU~te­
+rilerine de kazandlrlyordu. Bizim ~irket personeli de boyle bir or-
+ti,\m i'Yind~ hergUn yutkuna yutkuna badem~iklerini yutacak hale
+gelmi~lerdi.
+,
+Ger'Yi hisse senetlerinin bu kadar prim yapacagtnl ben de um-
+maml~hm j ama personele bir gOl hakkl vermi~ olmu~tuk . 0 gUo-
+
+--- Sayfa 42 ---
+32
+lerde benden ~ok memnun ka1an ~irket personeli de az kalsm bUs·
+tumO bizim otoparka dikeceklerdi.
+
+--- Sayfa 43 ---
+33
+DOKUSAN BlzE FENA DOKUNDU
+•
+Bazen, borsanm endeksi her giln .;:tkmasma ragmen, talebi
+kar~Jlayacak hisse seneti bulunamlyordu. 0 gUnlerde c;ah~tlglm
+araCI kurumun, borsada kote Dian biT i~tirakinin kasalara sigmayan
+hisse senetleri vardl.
+Maliyeti slfira yakm Dian bu hisse senetlerini biT yandan borsa
+da satarken, biT yandan da ~irkette talep eden mU~terilerimi2e sa-
+tJyo~duk.
+Bir dokuma fabrikasma ait Dian hisse senetlerinin fiyah gUn
+ge~tik~e artlyordu. Bizele de bol miktarda oldugu i~in peyder pey
+sabyorduk.
+Borsa dl,tnda borsadaki i,lem f1yaltntn 200-300 TL. alltnda
+damping yaplp sattlglmlz bile oluyordu. Bazl mti~teriler istedikleri
+kadar alamadlklan i~in bizleri yoneticilerimize ~ikayet bile ettiler.
+Bizler bor~da her gUn olmadlk degerler kazanan ama sonra-
+51 belli olmayan bu hisse senetlerini pek satmak istemiyorcluk . .
+Neticede borsada 6zelle~tirme ile ba~layan arz patiamasl oldu
+ve endeks hlzla dO,meye ba,ladl.
+Bizim ortalama 3000 TL.den satttglmlz bu dokuma fabrikasr
+ntn hisseleri de deger kaybelmeye ba,ladl.
+o slrada bu fabrikantn en bOyOk ortagl 6ldortildo. Fabrika bu
+olaydan soma iyi y6netilmedi ve kapanmak zorunda kaldl.
+
+--- Sayfa 44 ---
+34
+Hisse senetlerini 300 TL. ye bile satacak kimse bl lamadlk.
+Dokusan A$. bize fena dokunmu~tu .
+
+--- Sayfa 45 ---
+35
+HER ZAMAN PAPAZ pllAV YEMEZ
+Daha once Izmir'li holdingin i~tirakinin t;ok iyi prim yapmasl
+Ozerine holding b~ka biT ~irketini de borsaya sokmak istedi. Biz
+de hemen talip olduk; yalntz bu sefer hepsini alamadlk. Ama on-
+lar bize ·borsada ba~ka arael kuruma satt~ yapmayacaklanna sOz
+verdiler. Oldukc;:a ytiklU hiT klSmlnl nominali 2000 TL.den satm al·
+dlk. Bundan onceki i~tirakin borsada yUkseldi~ini g6ren yahnmcl·
+lar ve ~irket personeli bu hisse senetlerini kapl~hlaT. Biz de !foQu-
+nu satmaYlp ~irket portfoyOne ilave ettik.
+Borsaya girdigrilk giinlerde hisse senedinin fiyah 2650 TL.ye
+kadar t;lktt. Yalmz bu sefer uyamk davranan holding sOzUnde dUT-
+mayarak kalan hisse senetlerini ba~ka arael kurumlar araclhgJ He
+piyasaya rurdO.
+Piyasa mala ~l,Ildu ve 0 strada 6zelle~tir~e haberleri He bu
+kaglliann degeri ayOl YII i,inde 300 TL'ye kadar dG~tO.
+Hem ~irket Porf6yOnde hem de personeliu elinde bu hisse se-
+netleri hiT ka<;: YII kaldl. Holding ihtiyaci olan sermayeyi 0 gUnler-
+de borsada toplaml~, likit ihtiyaclOi en ucuz ~kilde kar~llaml~h.
+o yd i<;:inde piyasaya sUrdugU ~irketlerinin borsadaki degerleri
+300 TL. ye dU~mesine ragmen satl~ devam ettiler.
+Her zaman ki gibi papaz pilav yememi~ti ama biz bol yemi~­
+tik.
+
+--- Sayfa 46 ---
+36
+BORSADAKl ~ILGIN yOKSELI~IN
+NETICELERI
+Borsadaki ~llgm yilkseli~ ya~01rken herkes ~ok mutlu idi.
+Aileme Mart aymda 8.600.-TL'den aldlglm TUrk Simens his-
+se senetleri Agustos aymda 66.000.-TL'ye kadar yilkselmi~ti. 0
+gUnlerde eve gittigimde, "bu gUn ka~ milyon kazandlk?", diye so-
+ruyorlardl. $ahin marka-arabamn lir; milyon TL. olduQu gUnlerde
+borsanm kazandlrdlQIOl siz dO~tinUn.
+<;ah~t1glm ~irketin genel mUdOrti 0 gOnlerin birinde beni yam-
+na c;aQlrdl. Personelin borsacla c;:ok para kazandlklan01. ay sonun-
+da ~irketin verdigi maa~lan umursamaz olduklanm soyledi.
+Neticede bizim araci kurumun personelinin hisse senedi ahp
+satmasl yasaklandl. Hie;: biT zaman bu tOr yontemler c;:are olmadl.
+Personel ya bizim ~irkette akrabalanmn ismi i1e ya da ba~ka araci
+kurumlarda hesap ac;:tlrarak hisse senedi i~lemlerine devam ettiler.
+YOksek karlann ve bOytik zararlann olabildiQi bu piyasada kim-
+seyi engelleyemiyorsunuz.
+
+--- Sayfa 47 ---
+37
+YATlmMCIlAR MAlA BOGUWU
+1987 yth Agustos ayt sonunda piyasa mala bogulunca bir <;ok
+yatmmci hisse senetleri He uzun zaman beraber olmak zorunda
+kaldllar. Sabredemeyip satanlar ~ok zarar etti. Sabredip tutanlar
+da sablT ta~ma dondtiler.
+Size bu konuyu daha iyi izah etmek i<;in biT hkra anlataYlm :
+GUnGn birinde Orta Afrika kabilelerinclen hirinin reisi btiylik
+hacetini yapamaz olmu~. Adamlanndan birini 0 zamanlarda mis-
+yoner olarak <;a1I!"n Avrupah doktora yoJlaml,.
+Doktor, adamma reisin derclini sorunca, kabile Uyesi :
+"Bizim reis var b. yok" demi~.
+Doktor da ne yapsm, adama, reise ic;irmesi i<;in mUshii ilacl
+verml~.
+Bir hafta sonra adam yine doktora gelmi~ :
+"Bizim r~is vaT b. henliz yok" demi~.
+Doktor da ilaem dozunu biraz daha arttlrml~.
+Aradan biT kat; gUn gec;ince reisin adamt yine gelmi$ :
+"lia<; <;ok, b. yok; bizim reis <;ok hasta", demi,.
+Beyaz doktor reisin ~re bulunmaz kablzh~lOa ~ok sinirlenm i~ ,
+moshil ilacl ~i$£sinin tlimunli adama vermi~.
+
+--- Sayfa 48 ---
+38
+Aradan epey zaman ge~mi~, Avrupah beyaz doktor reisin ada
+w
+mioa ormanda rastlaymca reisin saghglOJ sormu~ .
+Adam da doktora ~yle cevap vermi~:
+" lia~ ~ok, b. ~ok ama bizim reis artlk yok".
+Bize de 0 giinlerde oyle olmu~tu. Bizim ~ok yOkselen ve hisse
+seneti arzi az olan borsaOin doktoru olmaya kalkan 6zelle~ti(me
+programmdan sorumlu Kamu Ortakhg; Idaresi Ba~kanJ Sn. Cen-
+giz IsrafU boisaya ilacl vermi~ti; ama bu sefer de yabnmclYlkay-
+betmi~tik.
+
+--- Sayfa 49 ---
+39
+BORSAYA ILK tOKATI KIM ATfI?
+Bizim borsaYl ikinc:i Ylhmn ikinci yansmda tutabilene a~k 01-
+sun; alml~ ba~ml gidiyordu. Altmcl aym ortalanna de>gru Anka-
+ra'dan portfoyO yOkiU bir mil>terimiz devamh satt~ yapmaya ~Ia­
+ml~tJ.
+Borsacla 0 gOnlerde talep c;:oktu; hizim Ankara!! m~terimizin
+hisse senetleri leblebi ~ekirdek gibi gidiyordu. Biz sattlk~ Anka-
+ra'dan devaml geliyor; satI~ann arch arkasl kesilmiyordu.
+-
+Borsamn 0 gUnlerdeki soluksuz yOkseli~i He endeks hergUn ye-
+ni bir rekor kmyor; bir ~llgtnhkttr gidiyorQu.
+llerki yillarda 0 gUnlerinin yorumunu yaparken biT yatmmclmlz
+- af edersiniz - ~ cUmleyi sarf etmi~ti; aynen aktanyorum: "~i
+·yulanndan borsanm online baQlasamz, 0 bile para kazamrch."
+Bizim ~irk~tin bir milyarm ilzerinde ve her gOn deQeri artan biT
+portfOyO vardl. YUkselen bir borsa oldugu i~in yeni Haveler yapl-
+yor, portfoyden Pek satl~ yapmlyorduk. 0 tarihlerde bir mHyara ne
+allmr diye ifacle etmek ic;:in ornek vereyim sizlere : Yeni yapllmak-
+ta olaf) Yapl Kredi Plaza'da komple bir katt sattn alabilirdik.
+Agustos aymm yirmibiri idi. Kamu Ortakh91 Idaresinden so-
+rumlu Sn. Cengiz Isralil bey ~u a~lklamaYI yap,yordu,
+"Biz biT kac;: aydlT borsada bazl araci kurum ve bankalar vas!-
+
+--- Sayfa 50 ---
+40
+tasl ile elimizdeki hisse senetlerinden satl~ yaplyoruz, satt~ da de-
+vam edecegiz."
+Bize Eyllil'Un onbe~inden once bu konuda aC;lklama yapmlya-
+caklanm sOyleyen Kamu Ortakhgl Idaresi yetkilileri sOzlerinde dur-
+muyor, hiT ay once a~"dama yaplyorlardl.
+Bizim satmaya klyamadlQlmlz -?irket porf6yli borsacl tahiri ile
+"elimizde patliyorclu."
+Borsada ayla~(hr sOren saaclet zinciri bu ac;ddama ilzerine kop-
+tu. Borsada bUytik dU,U,ler yajandl. Bazi hisse senetlerine gtinler-
+ee allel bulamacllk. Di.1~~ bugUn durur, yann durur derken, borsa-
+da hiT kaC; gUn sUren gec;ici 91kI~lar haricinde tam onsekiz ay du-?u~
+•
+trendinden kurtulamadlk. Sn. Cengiz Isralil 0 gOnlerde bizim i,in
+"AzraU" olmu,tu.
+Bizim Ankara'h iyi m~terimizin Kamu Ortakhgl Idaresi oldu-
+gunu, ilk 6zelle~tirmeye vaslta olan kurumlardan birinin de hizim
+-?irket oldugunu herkes ogrenmi~ oldu.
+Borsanm devamh diljU,UnU engellemek i,in ytiksek portfoyle-
+ri olan iki U~ banka aralannda anla~lp ah$ yapmaya karaT verdiler.
+Ama <;ok bOyUk miktarda arz vardl; fazla dayanamaclilar; neticede,
+aldlklan hisse senetlerini centilmenlik dl~l olarak birbirlerine sat-
+mak zorunda bile kaldilar. Bu arada uyamk yatmmCilar flrsattan is-
+tifade edip sa!I, yaphlar, portfoylerini bojal!hlar.
+YII sonuna geldigimizde endeks Temmuz aymdaki 1300'ler-
+den 600'Iere inmi,!i.
+darkmalt
+Sah$ yapmaktan imtina 'edenlerin portfoyleri en az yan fiyati-
+na dil~til. Evini arabaSlnt satlp hisse senedi almaya kalkanlar peri-
+,an oldular. 1,Ierini bozup borsacUlg. soyunanlardan iflas edenler
+oldu. 0 malar zor duruma dO",n bir ka, araci kurulUj da el degi,-
+tirdi.
+(-) Isra/il : Bir melek
+
+--- Sayfa 51 ---
+41
+Borsaya ilk tokadl atan; yeni kurulan biT borsanm anormal fj-
+yatlanna gez yuman, soma bu hyatlan gerekli uyanlarla ve fiyatla-
+nn serbest blrakllmaSlnl onleyerek degil de gizlice borsada satl~
+yaphrarak a~agl <;:eken devlet olmu~tu.
+
+--- Sayfa 52 ---
+42
+KAGIT ALlRKEN BIRAZ DA
+$ANS lAZlM
+Borsamn yUkseldigi gtinlerde fiyatlar ~i~mE!sine ragmen, hisse
+senedi almak olduk~ risklidir.
+Cah~tJglm araCI kurulu~un patronlanndan biri alan bankamn
+sosyal yarchrn sandlgmm yUklO miktarda hisse senedi portfoyO vaT-
+clio 0 zaman borsadaki i~lemlerini, kendi bankalanmn borsa Uyeli-
+!line ragmen bizim Uzerimizden yaplyorlarcll. Yardlm sandlgmm
+hisseleri ~ok dU!ilk maliyetli idi. Piyasa yUkseldigi vakit hi~ kimse-
+oin gozlintin ya~ma bakmaz satl~ yapariarch. Kagtt sekt6rilnde Un-
+10 bir borsa ~iTketinin de ortaklanndan idiler.
+Hisse seneli 10.000 TL'den i4.000.-TL'ye ~.km.~II . De-
+vamh sat.~ yap.yorlard •. Sosyal yard.m sand.gmdan ~ka banka-
+nm kendi portioyUnden de salI~ ba~lad.lar. Hisse senetleri zaman-
+la bolla~lI, talep olduk~a azald.; fiyat peyder pey dU~rek, 7000
+TL 'ye kadar geriledi. Bir daha da uzun y.llar ~.kamadl.
+Sand.k ve banka yenelicileri !<arh salI~lanndan dolay. ~ok
+memnun kald.lar, beni de tebrik etliler. Ama ben bu salI~lardan do-
+laYI sevinememi~tim ; c;:unkU bu hisse senetlerini, en yOksek fiyat-
+lardan, 0 satJ~ yapan bankanm emeklileri ve c;:ah~n personeli al-
+ml~lar(h. Kendi i~tirak1eri olan kaglt firmasini iyi tamdddan ve ma-
+li durumunu iyi bildikleri i~in kendi bankalan ve yard.m sand.klan
+satarken hisse senetlerini kapl~ml~lardl.
+
+--- Sayfa 53 ---
+43
+Y,llarca ~ah$tlklan banka borsada yapll~1 satl$larla aldlklan his-
+se senetlerini yan fiyatma do.~OrmO~tti . Banka ve yardtm sandl~l
+kendi ooedikleri emekli ikramiyelerini ve ma,*]an farkmda olma ~
+dan geri alml~lardl.
+
+--- Sayfa 54 ---
+44
+.
+BORSADA SiSTEM KAVGASI
+Bizim piyasada bitip tukenmiyen kavgalar en tepeden ba~lar ­
+dJ. Sermaye Piyasasl Kurulu Ba,kanlan ile Borsa ba,kanlan, biri
+denetleyen digeri denetlenen olarak devamh zltla~ml~lardlr.
+Ilk buyOk tartl~ma borsamn de~L?tirilmek istenen sistemi i~in
+meydana ge t rni~ti. OrdUn'e Amman Borsasma gidip, sistemini g6-
+fOp benimseyen borsa yonetimi He bu sistemin mahsurlan oldu~u­
+nu iddia eden Sermaye Piyasasl Kurulu Ba:?kam Sn. Ismail TUrk
+araslnda uzun silren tartl~malar olmu~tu.
+Bizler yeni biT sistemin, hatta yakmda ta~mllacak Tophane'de-
+ki yeni borsa binasmm 1987 krizini biraz yatmmcilara unutturaca-
+gma inanarak Sn. Muharrem Karsh'YI hakh buluyorduk, ama SeT-
+maye Piyasasl Kurulundan da Korktugumuz i~in tarafSlz ayaklan-
+na yahyorcluk. Bizim kan~madlglmlz, sesimizi <;lkarmadlglmlz kav-
+gamn sonunda bizim borsamn istedigi olmu~tu. Amman Borsasl-
+mn bir benzeri sistemle T ophane' de "tahta sistemine" ge<;mi~tik.
+Bizim umdugumuz biraz olsun ger<;ekle~mi~, yeni mekan ve
+yeni sistemle Tophane'de klsa sUren bir yUkseli~le silkinir gibi 01-
+mu~tuk.
+Sonraki gilnlerde ne sistem, ne bina de!1i ~ ikligi bizim borsada
+18 aydan. fazJa durgun gilnler ge<;irmemizi engelliyememi~ti.
+
+--- Sayfa 55 ---
+45
+1989 EREGLi DEMiR ~ELiK SENESi
+1987 Ylhnda ya~nan tecrube borsaya pahahya patlaml~h .
+1988 ydl da hiT ytl ~nceden ba$hyan di.1~i.1~ trendinin devaml i1e
+ge,mi~ti .
+1988 Ylh sonunda borsadaki fiyatlar ,ok ucuz hale gelmi~ti.
+Endeks Temmuz 1987'deki 1300'IU rakkamlardan 1988 ydl son-
+lannda 300'lu rakamlara gerilemi~ti . 1988 ydl borsada devamh
+kan kaybedilen herkesi de kan aglatan Yll olmu~tu.
+1989 Ylh, Ocak aYindan itibaren yUksekli~in ba~ladlgl , EylUl'de
+r;lkl~tn iyice hlzlandl\)1 biT yd o lmu~tur.
+Su ,lkl~1n en bUyUk sebeplerinin ba~lnda Eregli faktoru geli-
+yordu. 1989'da bu kaglt % 1900'lere yakln prim yapml~h .
+Eregliginin lokomotif oldugu ~u ydda, yabanci sermayeye pa-
+ra transferi kolayhklannm getirilmesi, TOrkiye Fonunun Kurulma-
+51, hilkilmetin borsaYI destekleyen tedbirler almasl da r;lkl~ta etkili
+rot oynaml.?h.
+.
+YabanCI yatmmctiarm yamnda Kapah c;ar~i1 ~e T ahtakale esna-
+f1 da ylikseli~in kokusunu alml~lal'. borsada ahma ba~laml~lardl.
+Endeks 1987'de gordUgU 1300'lu zirveyi ancak EylUi
+1989' da a~bildi.
+1989'de i~ler tlklTlnda oldugu aylprda kU,uk yahnmclya Slrt
+c;eviren araci kurumlar aylarca sinek avladllar; el deg i ~tirenl~r hat-
+ta kapanan araci kurumlar bile oldu.
+
+--- Sayfa 56 ---
+46 __________________________________ __
+EREGLi DEMiR «;ELlK OlAYi
+Bir ~ok yahnmcIOIO 1989 Ylhmn ba~lanna gelinceye karlar Er-
+delnir gibi biT hisse senedinin varhQmdan d~ru dOtiist haberleri
+bile yoktu.
+1988 ytlmm sonlarmda t;tkan, EreQIi ~ilylik serrnaye artl~1 ya-
+paoak dedikodulanm bile pek takan olmaml~t1.
+Yalmz iyi haber kaynagl olan eski Vaklfhancl iki U~ tecrUbeli
+borsa Uyesi 0 slTalarda bizzat kendileri Er~1i i1~esine gidip halktan
+hi,seleri toplaml~lardl.
+Hatta iki tanesi aralannda anla~ml~lar ; topladlklan paralan i1e
+bj~ ErdemiT toplamaya EreQliye 9itmi~ . DiQeri de onun arkaslOdan
+datanamaml~ digerinden habersiz, ama sadece kendi adIna Erde-
+mir toplamak ic;in Eregliye hareket etmi~.
+Sonradan giden tedbirsiz davramnca ikisi de Eregli'de ayn ay-
+n ~isseleri toplarken sokakta kar~da~hklannda klzlica klyarriet kop-
+mll~ ; Ereglililer zor aYlrml.~lar hizim borsacdan,
+Aradan biT iki ay gec;ince AOG adlt araCI kurumu dolayh ola-
+ra~ ele ge~iren Nasrullah Ayan sahneye ~lk!i .
+Subat ayl ortalanndan itibaren de AGO ErdemiT tahtasma u~;.
+gel atmaya ba~lad1.
+Klsa zamanda AOG ve ErdemiT me~hur olmu~u ; i~lem hacmi~
+
+--- Sayfa 57 ---
+47
+nin yansma yakml bu tahtada d6nuyor; borsacllann C;C>gu erdemir
+tahtasmm ontinclen aynlmlyorlardl.
+o aralan Ere~li 'de, piyasada ve barsa carniasmda ErdemiT
+zenginleri ortaya IYlkrm~tIr.
+o yUzden, Nasrullah Ayan bey de kJsa bir lOmanda borsaeJIa-
+nn gtilo ve ba~aci oldu.
+Eregli iI,esinde ise durum bamba~ka idi. Eregli Demir <;:elik le-
+sislerincle ~h~nlar ve emekli olanlar aym zamanda fabrikanm his·
+sedarlan idiler. ErdemiT borsada co~unca EregJi halkt i~i gOeG bl-
+rakrm~ Erdemir hisseleri He yatlyor, onlarla kalklyordu.
+Hisse senetleri iI,ede bakkalda, kasapta, kumar masaslncta, ki-
+fa ooenirken, gayrimenkul devirlerinde nakit yerine gec;meye ~­
+lam.>!!.
+o gUnlerde Eregli Ii,esine Nasrullah Ayan' In heykelinin dikil-
+memesi Eregli halkmm bence aythJ olmu~r.
+Nasrullah Ayan yeni borsa teknilderini de getirmi~ti. Bazen sa-
+tar gibi yap.yor, bir ,ok yatmmc.Y1 ve borsac.y. tela~landmp, Eregli
+tahtasmcla satl~ yaphnyor, seans sonunda da tahtaya lic;gen atlp,
+daha once sath!)mm lie; mislini geri ahyordu.
+
+--- Sayfa 58 ---
+48
+BiziM TAVSIYELERlMlz IYIDIR
+Borsanm ilk YllIannda borsa Gyesi c;ok az kurum vardl. <::ok kl-
+sa tecrubemize ra9men, bizim gibi ki~ilerin ve sa~lam g6rtinil~lU
+araCl kurumlann, yattnmcllann Uzerinde bUytik etkisi ve gUveni
+varcll.
+Borsa araCI Uyelerinden ciddi biT kurum kendi bagh oldugu
+holding camiasmdan clan biT ila~ firmaslOl borsa ~irketleri arasma
+katmak istiyordu. Hisseleri once kendi $ubeleri aracillgl He satacak
+soma borsaya dahil edeceklerdi.
+Bizim ~h$hglmlz $irket yaneticileri, ba~a genel mUdUriimUz
+olmak lizere, rekabet kO$ullanndan ve biraz da kIskanc;hk nedeni
+He bize halka a~"acak bu ilac; firmasmm hisselerini kesinlikle
+aldlrrnamarnlzl iste"diler. Aleyhine propaganda da yaphrdJlar.
+BUtun araci kurumlar bu Hac; firmaStnl tavsiye edip yatmmctia-
+nna aldmrken; biz herkese yoneticilerimizin tavsiye ettikleri c;uku-
+rova ve Erdemir hisselerini aldlrdlk.
+Sonraki gOnlerde <;ukurova hisse fiyatlan dO~medi, ama bor-
+sada ozelle~tirm~ yani tahtada direkt sab~lar nedeni 'ile, bizim
+. 16.000.-TL. civannda aldl91mlz Erdemir hisseleri 12.000.-TL. 'ye
+sonra da B.OOO.-TL.'ye dGjtil. Bizim aldl91mlz hisseler dGjerken
+aldlrmadl!)lmlz Hac; ~irketinin hisseleri de 32.000.-TL. 'den girdi~i
+bor,. da 92.000.-TL.'ye kadar ytikseldi.
+<;:ok biliyorum diyen ,ok yam hr. Biz de ,ok yamldlk, ,ok utandlk.
+
+--- Sayfa 59 ---
+BORSADA MINi ETEK GiYMEK
+SAKINCALI
+49
+T ophanede i~lemleri duvara a5th yanyana panolarda yaplyor·
+duk. l~lem hacmi 0 gUn artan hisse senetlerinin panolan yukandan
+a~glya doluyor; ilave seyyar panolar getiriliyorclu. KUslirat, yani
+lot alh i~lemleTi ise panolann en altma yazlhyordu.
+Kilolu, dar elbiseli borsa uzmanlan ve bilhasa mini etekle bor-
+•
+saya gelen bayan meslekta~lanmlz klistirat i~temlerinde zor anlaT
+ya~JyorlardJ. Yere diz t;6kUp, iki kat oImak her iki cins ic;in de mU~­
+kal ve komik durumlar yaratabiliyordu.
+Seans bitince biT c;ok _ahm sahm emirlerini panolann onOnde
+yere oturup dolduruyorduk. Bu ytizden borsaya gelirken bol ve ra-
+hat klyafetler se~mek lazlmdl .
+•
+Seans salonu bilhassa yaz aylannda c;ok steak ve havaslz olu-
+YOT, adeta hamama doni.1yorclu.
+o gGnlerde bankalann birinde c;ah~n biT bayan arkada~lmlz,
+her hakte acemilikten olacak, a~m mini ve dekolte klyafetlerle ge-
+liyordu. Bu arkada~lmJZ bilhassa kilsilrat i~lemlerini yazarken bor-
+sa salonunda kordles telefonlar bozuluyor, hatalar artmaya ba~h­
+yor, dikkatler fena dagillyordu. Olduk~a da ahmh olan meslektajl'
+mlz hangi panoda ah~ veya sah~ yaparsa, 0 hisse senetlerine i1gi
+atilyor, i~lem hacimleri yilkseliyordu.
+
+--- Sayfa 60 ---
+so
+Bu bayan arkada~ , harbi delikanh uzmanlanmlzdan birinin di-
+Ii si.ir<;:mU~ , yanh?hkJa "Sen irnzala ben geliyorum", diyece~jne,
+"Sen uzan ben geliyorum", demi?
+
+--- Sayfa 61 ---
+51
+AYAKUBORSA
+Barsamo kurulduQu ilk Ylldan Istinye'deki yeni binaslna ta~l­
+mncaya kadar etraflOda ayakh borsa denilen tezgahta hisse sene-
+di ahp satan amat6r ve yan profesyonel biT c;evre olmu~tur.
+-r: ophanede barsa Oyesi olan bankalar ve arael kurulu$lar iyice
+palazlamnca ktiC;ilk yatmmclya Sirt c;evirdiler. Lot alb i~lemlerjni
+yapmaz oldular. Bu, sokak borsamn iyice bUytimesine neden oldu.
+Hisse senedini acil olarak satmak isteyenler IMKB'de Gc;gUn
+sonra ParaSlnt alabilirlerken, sokak borsasmda ise amncla alabili-
+yorlardl. Hisse senedi almak isteyenler de amnda sokaktaki tez-
+gahtan alabiliyordu.
+Bu piyasamn en bUyOk riski sahte veya ",Imml~ hisse senetle-
+rinin tezgaha gelmeseydi. Ayakh borsacla yJllarca iyi paralar don-
+do. Bu ki~i1erle ic;erdeki bazi arael kurumlar i~birli9i de yapttiar. 0
+zaman biT c;ok b?rsa Uyesinin "ayakc;t" denilen, sokak borsasl He
+baglanta kuran adamlan vardl.
+IMKB'de sokak borsasmdan gelip araCl kurumlara ortak olmu~
+arkada~lar vardlr. Lot -alh pazan denilen lot miktanndan kti~Uk his-
+se senetieri, hisse senedi pay kuponlan, rtl~han hakkt kullamlma-
+ml~ , temettilleri kesilmemi~ tum kagltlar dahil bilttin hisse senetle-
+ri burada ahmp sahlml~tIr.
+Cinayetlerin bile i~lendiQi bu piyasada Rabak, Mensucat sant-
+
+--- Sayfa 62 ---
+52
+ral, Koruma Tanm, Dokusan gibi hisse senetleri, ~irketleri kapan-
+masma ra~:men iki U.-; sene i~lem gormeye devam etmi~lerdir.
+IMKB'nin Istinye'ye
+ta~anmaslOdan ve takasbankm kurul-
+masmdan sonra sokak borsasl halen Tophane'de eski yerinde az
+!~lem hacmi ile devam etmektedir.
+
+--- Sayfa 63 ---
+BORSA BiNASINA VATIRIMel
+ALINSIN MI ALINMASIN MI?
+53
+Tophane'ye ta~mdl~lmlz ilk Yillarda yahrtmctlar da borsa salo-
+nuna girebiliyorlardt. Ah~ veri~lerini tahtalan gorerek verclikleri
+emirlerle borsada yapabiliyorlardl. Ilk Ylliarda borsaOln her torlU
+yahnmclya ihtiyaci vardl; yatmmcdann salona girmesi sorun olmu-
+yordu. Hatta salona giren mU~terilere kolayhk olsun diye arkastn-
+da C;a1I~liglmlz ~irketin admm yazdlgl renkH gomlekler giyiyorduk.
+Komisyonculann yamnda r;ah~nlar "mavi", araci kurumlarda r;ah-
+~nlar "san", bankalarda c;ah~nlar "turuncu" gomlek giyerlerdi.
+GomleQi olmayan ve kimlik karhn! takmayan salona ahnmazdl.
+Ama ydlar ilerledikc;e, i~lem hacmi artilkc;a, salon dar gelmeye
+ba~ladl. Yalinmcllar c;ogaldlkc;a borsadaki ~irketler de arliyordu.
+Salona sl!)maz olmu~tuk.
+Normal biT i~hanI olarak yapllan borsa binasI in~at tekniQi ba-
+kimmdan da tehlike yaratmaya ba~ladl. Saklama hizmetleri de ay-
+'m binada yapddl!)J ir;in gOvenHk de sorun oluyordu. SaIon daha da
+geni~l~tildi. Binaya da· borsa yattrimclsmm hiT klsmlnm ahnmasma
+karaT verildi.
+Araci kurumlar ve bankalar i~lem hacimlerine bakllarak say!ll
+miktarda yahnmcl alabileceklerdi. l~lem salonuna girmek i~in kart
+gerekiyordu. Bazi yatmmcllar bu duruma lYok i_lYerlediler, borsamn
+
+--- Sayfa 64 ---
+S4
+onUnde gosteri bile yaphlar. En sonunda bu da ~re olmadl. MG~­
+teriye aynmclhk yapmak araci kurumlann i~ine g~lmedi. Yatmm-
+dann borsaya kar~l tepkileri bOyOdu. En sonunda kesin ~6ztim bu-
+lundu. Yahnmcllann hie; biri borsa salonuna ahnmadl. Gerc;i alman
+bu karardan sonTa borsa binasmm avlusuna bomba koyup gozda-
+gl bile verenler oldu ama her*yden once yatmmcdar ic;:in e~itlik
+saglanml,h. BoTsamlz da c;agda,la,ma yolunda biT adlm atml, 01-
+duo Bu i~ en c;:ok sevinen, her sabah borsa binasmdaki acentaml-
+za gelip kart ah .. nak ic;:in izdiham yaratan yatmmctlann cetvelle el-
+leTine vuTmak zorunda bile kalan Iuz aTkada.lmlZ oldu.
+Ne diyelim biz yatmmcIYI hem severiz hem doveriz.
+
+--- Sayfa 65 ---
+ss
+TOPLU TRANSFER GiRl~iMi
+<;ah~h91mlZ menkul klymetler ~irketinde, ba~nh <;ah~malan
+olan, piyasamlzda da bayaQI iyi tamnan bOlGm idarecimiz ba~lmIZ­
+daki y6neticilerimiz!e anla~mazhQa dil~Unce ~irketten aynlmaya ka-
+rar vermi~ti.
+HenUz daha bizcle c;:ah~maya devam ederken, hiT bankamn ye-
+ni kurulmakta olan menkul klymetler bolUrnGnU kurmak ve ba~Jna
+mUdOr olarak gec;:mek Uzere anla~ma yapml~t.
+Kenclisini amir olarak sevdiQirniz ve ekip olarak da iyi <;ah~lp
+iyi de anla~hQlmlz ic;:in; 0 da bize hep beraber transfer oimamizi
+teklif etmi;ti.
+!;)irketin iskeleti olan yirmiye yakln ki~i topiuca bankaya trans-
+fer olacakttk.
+Sermaye Piyasaslnln kuruculanndan ve en eski ~irketlerinden
+birinin c;:ah~(mlan' olarak t ~·ansferi g6rti~mUk Gzere aramlzda uzun
+uzun toplanhlar yaphk.
+Cah~hglmlz ~irketin y6neticileri senelerce ne ~ube ne acenta
+a~lp ~irketi bi.iyUtmU~lerdi. Yabancl mli~terilerle de irtibat kurama-
+ml~hk. $irkette ytikselmek, mesleklerimizde ilerlemek i~in kadro·
+sorunlan vardl.
+Transfer teklifi ~ok cazipti, hepinliz: claha yUksek maa~lar ala-
+
+--- Sayfa 66 ---
+56
+cak ve bankamn yeni kurulan bOlUmlerinde iyi mevkilere gelecek-
+tik.
+KaraT vereceklerin ilYinde en kldemli ve ya~a da en bOyilkleri
+bendim. Benim de etkimde kalarak ylilarca ~h~t1g1mlz, ekmeQini
+yecliQimiz ~i rketi topiu transfer He zor durumcla blrakmaya 90n10-
+mOz el vermedi; yoneticilerimize boyle biT kazlk atmaYI uygun gor-
+medik ve eski ~irketimizde kalmaya karar verdik.
+Arkada~lmlz bankada yeni kurdugu b61Gme ba~ka elemanlar
+aldl; ~ok da ba~nh oldu. Bankada ba~ta kendisi olmak Gzere ele-
+manlan iyi mevkilere geldiler ve piyasada aktif i~ler yapt!lar.
+Transfer olrntyan bizim personele ne oldu diyeceksiniz. Onlar
+halen piyasada muhtelif ~irketlerde ~ah!lyorlar.
+
+--- Sayfa 67 ---
+____________________________________ 57
+ERDEMiR HiKAYELERi
+Erdemir'in 1989 ydmda bblUnmesi bile olay olmu~u . 384 mil-
+yara c;tkan Sermaye artmrniOl bedelsiz 4 bedelli yapml~b . Yanhz
+bedellileri 2500 TL'den yapmca bu da 9 bedelliye denk gelmi~i.
+Erdemir bblundugunde 11250 TL idi, 1990 YJh $ubat ayl or-
+talanna dogru 16750 TL'ye kadar ~lkml~1. Bizim genel mUdUril-
+mUz ErdemiT hisse senetlerini c;ok sever, herkese ErdemiT tavsiye
+ederdi. &egli Demir <;::elik fabrikasmm bUyilklugunU, IimaOlOl,
+urettigi tirlinler aC;lslndan TUrkiye'de rakipsiz oldugunu anlahrdl.
+Biz de mi1~terilerimize hep Erdemirk aldlTlrcltk. Zilveyi gordO-
+gUn gUn biz ~ok bUyilk rakkamlar ile 16000 TL.' den Erdemir top-
+laml~bk. Seansln bitmesine c;ok az kala daha c;ok Kamu ortakllgl
+idaresinin i~lernlerini yapan hiT banka temsiicisi ErdemiT tahtasm-
+da 15250 TL'ye kadar mal vermi,ti.
+Er~li ondan soma borsada uzun mOddet toparlanamadl. Biz
+de habersiz bir' ~kilde borsada ah-?Iar ve sah~lar yapan, borsamn
+piyasa dUzenleyiciliQine soyunan Kamu ortakhgl idaresinin bize at-
+hQI kazlQI ydlarca sonra bile unutamadlk.
+Erdemir'in buytik kupurleri de uyamk olanlara para kazandlr-
+ml,h. Rot miktanmn 100'den 200'e ~lkaca9ml bUyilk kU~Uk ku-
+. pur farkmm kalkacagml onceden duyanlar, <;:akhrmadan borsadan
+ve borsa dl,mdan bUyilk kupUrlU hisse senetlerini % 10 ve % 20'ye
+
+--- Sayfa 68 ---
+58
+varan farklarla ucuz ucuz kapatml~lardl. KU<;tik ve bOytik klipOr far·
+kl kalklnca da mah g6tilrmti~lerdi. Bir zamanlar Erdemir'in iki tah-
+tasl vardl; nama yazlhlar, hamiline 0lan1ar. Iki tahta arasmda za-
+man zaman nama yazdi olanlarda herhangi biT itilaf C;lkar diye %
+10'a varan farklar olurdu.
+Bu sefer de nama yazdi ve hamiline yazlh Etdemirlenn tahta-
+lannm birle~cegini onceden habeT alanlar borsadan ve Eregli lIc;e-
+sinden nama yazlh hisseleri ucuza top\aYlp tahtalar birle~ince iyi
+para kazanml~lard1.
+ErdemiT borsamn lokomotifidir. Araslra gozden dG~r, ama Er-
+demiT demiT gibi hisse "senetidir.
+•
+
+--- Sayfa 69 ---
+S9
+SAHTE (:UKUROVA OlAYI
+Ekim 1989 ayl ba~lannda idik; borsamlZa yabanci m~teriler,
+kapah c;:ar~1 esnaft gelmi~lerdi. Belli hisse senetlerini toplamlaya
+ba~laml~lardl. T alep olan kagltlardan biri de <;ukurova E1ektirik idi.
+Herkesin ahma gectigi bu tahtada en bOyUk sahel, Naci BaklT
+Menkul Degerler' cli. Gilnlerce tahtada gelene gidene mal verdiler.
+Naci Balm bey, benim dostum, aym zamanda kom~um idi.
+Gna telefon edip, bu kadar talep varken niye sattJklanm sordum.
+Naci agabey : " MU~eri sahyor; ben de komisyonumu ahyo-
+rum, adama niye kan~ytm " , demi~i.
+I~in i>YtiZO Ocak 1990'da meydana ~Iktl. Adana'da bir matba-
+CI ile anla~n Mustafa adb bir ki.~i sahte Cukurovalan bastJrml~tt .
+Sah~ h;in de naci BakIT beyin ~irketini sec;:mi~ti.
+Oc;: ay sUre ile peyder pey sahlan sahte c;:ukurovalar bizim ta-
+kastan bile gec;mi!/i.
+Olan Naci BakIT beye oldu. Kabak en~ok onun ba~lna patladl.
+Gen;i bu sahte hisse senetleri kime gitse 0 arael kurumda satardl.
+Menkul klymet i~i Naci BaJor'm yan i~lerinden biri idi. Kendi-
+si varhkh oldugu kadar onurlu bir insandl da.
+Sorumlu tutuldugu i~in, bor .. takaslnda ~Ikan bOWn .. hte ~u­
+kurovalann yerine yenilerini akh. Meslekta~lan 0 ara borsada bu
+
+--- Sayfa 70 ---
+60
+.
+.
+kagldm fiyatlanm ylikseltip ona \ukurovalan biT de pahah aldlrdl-
+laT.
+Diger araCI kurumun ve mU~terilerin kasalannda ve yabancl
+fonlarda da bizim takastan aldlklan sahte ~ukurovalar SQrun olma-
+ya uzun zaman devam etti.
+Bu sorunu borsacllar, kencli aralanncla fon kurup; araci kurum-
+lann borsadaki i~lem hacrnini goz onUnde tutmak suretiyle borsa
+paylanndan belli biT oranda kesinti yaparak, kalan sahte c;:ukuro-
+valann kar~lhgmda yenilerini almak suretiyle hallettiler.
+Cenaze kallum~ Naci BaklT agabey de borsada ~refini kurtar-
+ml~h .
+
+--- Sayfa 71 ---
+61
+••
+••
+••
+YATlmMCM NASIL KUSTURDUK
+Uzun vadeli yatmmcilar en yUksek kazancl saglayanlardlr. Ya-
+tmmcliar ne kaclar trok olup, bOIOnmi.i~ paylarla hisse seneti ahrlar-
+sa, sermaye piyasasl ic;in daha faydah olurlar.
+Borsanm ilk ytllannda borsactlar mU~teri aynml yapmazlardl.
+Sonralan ise koC;ok, daha dogrusu paras) az clan mil~terileri pek
+adam yerine koymaz oldular. Colann ah~eri~leri titizlilde yapllma-
+dl.
+HalkIm ydlarca en pahah hisseyi aid!, en ucuzunu sath. Ahm
+jerin emir verdigi hisse seneti, ahmmdan sonra, 0 gUn prim yapar-
+sa, ya araCI kurumun JX>rtfoytine ya da c;ah?anlann portfoyline gi-
+derdi. Dna sonradan. daha pahah fiyattan ahmrch. SalIm ic;in ver-
+digi ordino da buna benzeyen i~lemlere muhatap olurdu. KU"Uk
+yahnmctlar diger yahnmcllara gore daha c;:ok borsaya kUsttirOldu.
+Halkm borsaya gUveni sarstldl.
+Gazete ve d(~rgilerdeki borsa yazarlan onceden kendilerine al-
+dIrdIklan hisse .se~etlerine kendi sOtunlannda bel hoi methiye yaz-
+dtlar.
+Borsada patlama yapan hisse senedi primleri gazete man~t­
+lerinde reklam yapIhnca, en pahah hisse senetlerini, 0 gOne kadar
+horsaya girmeyen hal kIm gelip satin aid!. Bir araCI kuruma ne za-
+man daha once garulmeyen yeni mU~teriler gelmeye ba~larsa "Ey-
+
+--- Sayfa 72 ---
+62
+vah borsa dO~ecek", diye espiri yaplhr; espiriler de umumiyetle
+ger~ek olurdu.
+KUyuk mU~teriye iyi davranahm. onlan araCI kurum kapJlann-
+dan geri ~virmeye1im.
+
+--- Sayfa 73 ---
+63
+BU SEFER DE TEMMUZ 1990
+1990 ythndaki soluksuz ,Ikl~tan once 1989 Arahk aytnda
+New York Borsasma da kote edilen TUrkiye Fonunun borsada ne-
+leri toplayacagl dedikodusu 1989 Kaslm aytnda borsaya slzml~lI .
+K"'Y Holding ba~a olmak ilzere, Koc;: Grubuna ait hisse seneUeri,
+Bira kagltlan 0 zamanm uyamk1an tarafmdan toplanml~tt.
+BOttin parastnl KQ\: holdinge yahran dostum, " her~yini sat,
+sen de a1", dedi!)i vakit, yabanc! yahnmctlann ne oldugunu bilme-
+digim i'Yin; kendi aldl bana da aldutmak istiyor, diye orah olmaml~-
+11m. laten ,ok biiliyordum ya; KGI' kagltlan bana pahah gelmi~ti.
+Daha dogrusu bir hisse senedini ahp bir kenara atma ah~kanhglOl
+hal. edinememi~ik.
+1990 Ylhmn ilk aylannda TUrkiye Fonu ve benzen fonlar, ya-
+banci yallnmcuar, gerek tahtalardan gerek blok ah~larla gOvendik-
+leri kagltian topladdar.
+T emmuz aymdaki hlzh 91kl}Ci gelinmeden onceki aylarda ya-
+bancllarclan sonra yerli yatlTlmcllar ve kapah 9a~lhlar cla mal al-
+ml~lardl; ama bUyOk bir yOkseli~ olmaml~1. <;:GnkG yirmiye kadar
+~irket halka a,llml~, talep onlann arzi ile ka~llanml~1. MaYls aylO-
+da ba~hy~m yUk.se1i~ Haziranda hlzlanml~. T emmuz aylmn ortaSln-
+dan itibaren de uc;u~a gec;:mi~, onbe~ gUn soiuksuz 1Y1kml~1.
+Bu fiimin bir benzerini 1987'de ya~yan bizler bu sefer yab-
+nmclian zamamnda uyarml~ ve iyi puan alml~tIk.
+
+--- Sayfa 74 ---
+64
+MaYls aymm ba~mda 3300 olan endeks Agustos aymln ilk haf-
+tasmda 5750'ye <;lkml~tJ.
+T emmuz aymda borsa tarihinde ikinci boyilk patlama y~'"
+ml~h . Yalmz bu sefer i~in rengi farkhydl; i~lem hacmi btiyUktti; i~in
+i~inde fonlar, yabancl yatmmCilar, kapah ~ar~1 ve tahtakale esnah-
+mn parasl ve halklmm yahnmlan vardl ve rakkamlar ve btiytik ya-
+t1nrnCI saYISI 1987 He klyaslanmayacak kadar yUksekti.
+5750 zirvesinden du~u~ 1987 gibi <;ok sert olmadl; yerli ya-
+banel herkese satma ~nsl vererek, d~to.
+1987 Ylhnda mazeretimiz, borsadaki gizli 6zelle~irrne sah~lan
+idi; bu seIer de Saddam Huseyin olm~tu. Arailk 1990'da endeks
+yine 3000 civanna gen dti~mti~tO..
+Kaslm 1989'da neyin varsa sat onu al diyen dostumun tavsi-
+ye ettigi Ko<; Holding 4000 TL'den 30.000 TL'ye <;Ikml~tJ.
+
+--- Sayfa 75 ---
+65
+•
+•
+••
+A
+BORSADA SAVA~ RUZGARlARI
+KOTfez Sava~JOJO emaTesi bile bizde Aguslos 1990'da ba~laYlp
+alh ayda endeksin yan yanya dO~togo bOyOk boTsa ~okti~ne se·
+bep olmu~tu. Bizlere c;:ok act tecrtlbeler kazandtran Saddam HUse-
+yin'i 0 gOnleTde bol bol and,g,m,z, hahThyorum.
+Biz de sava~ln olabilecegi ihtimalini g6z online alarak; ~irkette
+biT topiantJda mU~tereken vercligimiz bir kararla, kendi portf6yle-
+rimiz ba~ta olmak ilzere, ~irketin ve rn~terilerimizin portf6ylerini
+asgariye indirmi~ik. Borsa dU~rken zaranna yaptlglmlz sah~lar­
+dan soma, borsa daha uzun bir sUre dU!iU~tine devam eclince daha
+btiyUk zararlara ugramaktan kurtu1mu~tuk.
+KOTfez'deki geTginlik nedeni ile alII ay d~n bOTsada azalan
+i~lemleTle, yalay giden fiyatlarla S1k,c, biT bekleyi~ i~inde biT ay da-
+ha ge~iTmi~ik.
+Amerika ve fTItittefikierinin Irak'a athgl ilk bomba habeT! hie;
+de beklemedigimiz biT lepkiye yol a>ll. Daha biT hafta once ba~­
+kalaTdan hesaplanm ~ekip yiyecek stoku yapan halkimlZ kOTkma-
+dan hisse senetlerine sa1dtrdtlar. Bir ay i<;inde borsa, alb ay iC;:inde
+verdigi puanlan yeniden geTi alml~h. Herkes hayretler ic;:indeydi,
+ama taklr takIr hisse senedi topladllar. T abii biz de C;:lkI~ ayak uy-
+durup loplu olaTak lekTaT mala giTdik.
+Sava~ biT b~uk ay kadaT sUTdo ve bitti. Ama bizim boTsada ~-
+•
+
+--- Sayfa 76 ---
+66
+b~l yara epey bUyi.lK oldu. Sava~tn neticelerinin Ulkemizcle yarata·
+cagl ekonomik krizi, daralacak ticaret hacmini ilk farkeclen hizim
+borsa oldu. Yine yoku. a~gl kendimizi koyuverdik. fiyatlar % 50
+civannda dU~to.
+Borsa kendisini dokuz ay kadar toparhyamadl. Kriz ba~langlcl
+ile biti~i arasmda iki sert ini~ bir sert C;:lkI~ yaprm~, biT buc;uk Ylhmlz
+bo.a gitmi>li.
+Neticede Korfez Sava~1 bizden li.; kere post C;tkarml~h; bu yOz.
+den kriz bitinceye kadar Saddam'la birlikte anaStnl da anar olmu~­
+tuk.
+
+--- Sayfa 77 ---
+67
+YABANCllAR BORSADA
+Borsada doksanh Ylllann ba.mda bir yabancl furyasl ba.ladl.
+Bir ~og,umuz yabancl yatmmcmln ne oldugunu anlaymcaya kadar
+borsa ahp ba>lflI gilmi.ti.
+YabanCl yatmmCilar tUrn saglam ve gelecek vaat eden hisse se·
+netlerinin t;e>gunu topladllar; biz de ~lzlmlZ at;lk onlan seyrettik.
+Ama onlaTa ayak uyduran yatmmcIiar zengin oldular. Yabancilar
+hisse senetierinin yi.lzOne bakllmadlgl donemlercle yatmm yaplyor·
+lar, krizleri onceden sezip, yerli yatmmcl mal toplarken, onlaTa sa-
+tlyorlardl.
+Bu arada, gelecegi goren baZI araCI kurum ve bankalar oolar-
+la i~birligi yaptJlar. OnlaTa iyi hizmet verdiler ve yabanci mU~terile­
+rinden bu i~in raconunu <>grendiler. YabanC1lar bizlerden daha iyi
+sektor set;iyorlar. ~irketlerde daha isabetli oluyorlardl.
+Bir taklm araci kurum ve bankalar onceleri onlara kazlk atma-
+•
+ya kalktJlar ama yabancllar tarafmdan elendiler. Bazllan ise yaban-
+cllara zaten ytiz vermediler,' sadece yerli yatmmCIlar He yetindiler.
+Bir de. yerli yabancllar vardlrj bunlar yurt pl~mdaki paralanm ya-
+banci yatlflmci gibi borsaya sokup karaparaiannl beyazlatml~lardlr.
+Neticede, yabancl yatJnmclya uyum sa~layanlar kazandllar. Di-
+gerlerine gore daha fazJa bUyildUler, geli~tiler; borsamlza, ekono-
+mi dUnyamlza bUyuk katkllar sagladliar. Yabancllar son Yillara ka-
+
+--- Sayfa 78 ---
+68
+dar uzun vadeli hisse senedi ahrlardl; ama onlar da zamanla bize
+benzediler, 'fiyatiar C;:lkh ml kafamlza mall t;akar oldular.
+o glinlerde yabanCllann ah~ veri~ yaptJg. biT bankada ~ah~an
+arkada~lmIn tavsiye etti9i hisse senetlerini aisaydlrn herhalde c;ok
+iyi olurdu. CUnku. arkada~lmln ~imdi biT araCI kurumu vaT.
+Dost aCI wyler ama tath dedik1erini de yapmak lazlm.
+
+--- Sayfa 79 ---
+69
+TOPHANE'DE ILETI~IM SORUNI.ARI
+1990 ytlmdan soma, borsadaki sabit telefonlar borsadaki i~­
+lem hacmine ayak uyduramaz oldu. Her arac) kurumun i~lem hac·
+mine gore telefonlar verildi. Zamanla bu da az geldi; ilave telefon
+ihalesi yaplldl. Fiyatlann yiiksekligi sebebiyle; ihale hakkmda Kara-
+deniz otoyol ihalesi kadar dedikodu oldu.
+o gOnlerde cep telefonu degil kablosuz (Kordles) telefon mo-
+clast varch. DUnyada 0 sira ne c;e~it kablosuz telefon rnarkasl varsa
+bizim sa10na geldi. Hepsi de sistem olarak birbirine benzedigi i<;in,
+hatlar S1k", birbirine kan.lr oldu.
+Borsa binasmdaki acentaya faks koyduk; her 15 dakikada bir
+arkada~lardan biri ooaya <;llop faksla gelen mll?teri emirlerini bize
+i1etiyordu.
+cizgilikitap.com
+T ahtalan telefonlann ~h~ma durumuna gore payla~maya ba~­
+ladlk. Araci kurumlarm ~ubeleri ve acentalan arttt~a, telefon so-
+•
+runu iyice bUyUdu. Borsaya 0 zamana kadar gelmeyen cep tele-
+fonlan, telsizler bile gelmeye ba~ladl. Telsizler diger telefonlann
+kon':l~ma1anOi tamamen engelledi{U i<;in, derhal yasak1andllar.
+Bu ara birbirlerinin telefonlanm kullananlar arasmda kavgalar
+ba.ladl. Kordles telefonlann ,arj cihazlan, pilleri kaybolmaya ba~­
+ladl.
+Rlhhma gemi yana~ telefonlar kilitleniyordu. E1ektrik kesilin-
+
+--- Sayfa 80 ---
+70
+ce kordlesler tamamen susuyordu. tJeti~im sadece sabit telefonlara
+kahyordu.
+Borsa salonunda konu~ma yapllamayan telefonlarm hie;: c;:ah~­
+madl!11 alanlar vardJ. Bu bolgelerde panolarda i~ yapJiamaz oldu.
+En sonunda salonun k6~e bucag\ telefon mezarhglna donU~ti.i. Ca-
+h~mayan telefonlar terk ediliyordu. Bu arada Istanbul'daki telefon
+~irket1eri ve tesisatc;:dan sayemizde c;:ok para kazanclilar.
+Bu i1eti~im karga~S1 Istinye' deki ~a9da~ binaya ta~mmcaya ka-
+dar surdu.
+
+--- Sayfa 81 ---
+71
+BORSADA I~LER AZALINCA
+Karfez sava~tndan sonra TOrkiye'de bUttin ticari faaliyetlerde
+oldugu gibi bizim borsa da yahnmclSlm tizen son derece durgun,
+hacimsiz, zor gilnler ge~irdi.
+Borsa ilyeleri korfez krizinclen once i~ler yolunda oldugu ic;:in
+Dna gore personel alml~ ve te~kilat kurmu~ardl. 1~ler azalmca, Sirf
+hisse senedi bOlUmG ic;:in yeti~tirdik1eri ve istihdam et«kleri perso-
+nelin biT klsml i~siz kaldl.
+Kriz oncesinde borsaRtn i~em hacmi ytiksek oldugu ic;:in; se-
+ans oglen 12.00 de bitmesine ragmen, i~lemlerin kontrolO ak~m
+saat 18.00'e kadar devam ediyordu.
+Mutabakat i.i saat 15.00 civannda bitmesine ragmen, kontrol-
+ler ic;:in iki ki~iyi borsada nobetC;:i blrakarak diger arkada~lar mO~te­
+THerin ~irketteki i~lerini yapmak tizere merkeze gidiyordu.
+BUtun kriz\erde oldugu gibi k6rfez krizi ba~laytnca borsanm,
+doia)11slyia bilton arae) kurulu~lann i~lem hacmi dU~m~. Yatinm-
+eIiann ,ogu .irketlere ugramaz oldular. Bizler de i,siz kahp, i>vere-
+nin gozOne batmaya bo,.ladlk.
+Borsada i.ler erkenden bitligi i,in kontrol edecek i.lem pek
+kalmlyordu. t.lem defterini aimasl i,in bir nobet,i blrakmamlz ka-
+fi geliyordu. t.ler az oldugu i,in; borsa i1e i1gili kadronun, .irket
+merkezine d6nilnce de yapacak fazla g6revleri olmuyorclu. Ak~m
+
+--- Sayfa 82 ---
+72
+listleri ~irkete d6nUnce, diger b61umlerde (jah~n arkada~lara k6ti.i
+ornek olmaya, oolan da c;ah~lrken avare etrneye ba~laml~hk.
+Bizim i~ler azahrken, yahnmcllar sahit getirili yatmm arac;lan·
+na ilgi gosterince, diger bOlGmlerin i~leri daha da artml~t1. Bizim
+servis korfez krizi silresince bilgisayar oyunlannda c;ok geli~me
+kaydetti.
+Yoneticilerin fazla gozCme batmamak ic;:in bu sefer de merkez-
+de borsa nobet~isi blraklp evlerine toymeye baklyorlardl. t~te bu
+aralar, borsadan sorumlu ki~i olarak yonetim tarafmdan dikkatim
+c;:ekildi. Borsacilann hiT ktsmml diger b61timlere aktarmam. biT kls-
+mini ise i~ten (jlkartmam isteniyordu.
+Iyi gOnlerde ~irkete. yahnmcliara, personeie, bilhassa yOnetici-
+lerimize iyi para kazandtran bizler, i~ler bozulunca istenmeyen per-
+sonel olmu~uk.
+
+--- Sayfa 83 ---
+73
+TOPHANE'OE SiR SANKA ~uSEsl
+,
+Cah~h91mln araci kurumun muhasebe inodUlO Tophane'de
+a~J!an biT bankaya ~irkete gelen mil~teri c;eklerini kolay nakte c;e-
+virebilmemiz ic;.in ~irket adma hesap ac;.maml i5temi~ti. Ben de se-
+anstan sonra gerekli evrak. imza sirkOieri v.s. alarak banka ~ube­
+sinden ic;.eri girince, c;ok ~~Irdlm . 1<; Anadolumuzda tatar aslih va-
+tanda~lanmlzm ~I oldugu, eski biT kentirnizin bUilln bankacdan
+sanki oraya topiamJ?iarcll. Sube mOdiresinden kapldakI korumasl-
+na kadar hapsi de ~ekik gozloydo,
+Bankaya yakiajlnca, bana bakan yanm kapah ~ekik gozler
+kar~lsmda, "Afedersiniz buras) Hongkong bankasl mt?", diye SOT-
+dum,
+Bence espri iyi idi, ama bankada hie;. gUlen olmadl.
+Onlan Hongkong'lu yapmama epey k,zm'j olaeakiar ki "Akll-
+da kalan biT hesap numarasl verin", diye rica edince bana "100"
+numarayt verchler.
+
+--- Sayfa 84 ---
+74
+BUNDAN lYI TiYO MU OLUR?
+Borsamo ilk Yillannda borsada fazla arae.! kurum yoktu. Ban-
+kalann haztlan borsaya ilye olmalanna ragmen temsilci bile yolla-
+mazlardl.
+I~e boyle hiT ortamda ozelJe~tirme idaresi 0 zaman elincle sat-
+maya musait ne varsa borsada sahyordu. 6zell~tirme sayesinde
+TOrkiye'nin en bUyUk marketler zincirinin devletin elindeki hissele-
+ri borsada i~lem gormeye ba~laml~tJ . Fazla talep -olmadJj)1 i<;in i!i-
+lem gordll!)O ilk ganlerde pek satJimlyordu.
+Cah~hglm arae! kurumdan. borsa temsilcisi olarak beni bu
+marketler zincirinin sahibi olan holdingin merkezine yolladllar. Bu
+holdingin muhaseh:e mOdOrtintin verdij)i ah~ emri He 0 strada bor-
+saya gelen bOttin sah~lann 8000 TL. 'ye kaclar olan klSmlnt almam
+istendi.
+o zaman marketler zinciri ponosuna gelen 8000 TL'ye kadar
+ne satt~ gelirse <;izip ahyorduk. Bundan daha iyi tiyo mu olurdu,
+hemen biz de kendimize bu hisse senedinden ald,k.
+Holdingin gosterdigi taleple fiyat lO.OOO.-TL.'ye kadar klsa
+zamanda yilkseldi. Biz de kendirnize ald,klanrnizi uzun vadeli sak-
+hyaca~lmlza hemen satbk.
+Somadan yabanci yahnmcilann yogun Jigi gOsterdigi hisseleri
+bugOne kadar tutsaydik; sadece bu hisselerle bugOn milyarder oIurduk.
+
+--- Sayfa 85 ---
+7S
+Marketler zinciri TGrkiye'nin her yerinde ~ubeler a~t1g1 gibi
+yurtdl~lOda da biT stirti ma9azasl vaT.
+Tiyo c;:ok iyi yerden gelmi~ti, ama biz kIymetini bilememi~tik .
+•
+
+--- Sayfa 86 ---
+76
+•
+BORSADA DEPREM
+Borsada deprem deyince borsanm herhangi biT kriz nedeni ile
+dO~mesi gelmesin akhmza. Tophane'deki borsa binamlz deniz ke-
+nannda, nhhma yana~n gemilerin yaptt~1 sarsmhYI bile duyan biT
+binaydl. Biz bu binaya korkmadan bine yaklO insanm ytikUnG Yll-
+larea ytikledik. YatmmCilahn hisse senetlerini de a!1tr kasalarda bu
+binada sakladlk.
+BirgUn i~lemlerin y<>gun oldugu biT zamanda, seansm bitmesi-
+ne ikH.iC; dakika kala Istanbul'da orta ~iddette biT deprem oldu. Dar
+merdivenlere ragmen borsa salonu c;ok k1sa zamanda bo~dl.
+Depremden korkmayan c;:ok az borsac! dl~lnda herkes bina dl~ma
+kat;h. Ben de kac;:mayanlar ic;:indeydim. Tahta sistemi He c;:ah~lyor­
+duk, bir stirn i1lem yapmllllk. Panolan silip durumdan laydalanan,
+i~lemlere mtidahale eden olabilirdi.
+Sogukkanhhglml bozmadan bUtiin i1lemleri kontrol ettim. Ay·
+m ~irkette c;:ah~hglln diger arkada~lanmm da i~lemlerini not alip,
+hi~ bir ~ey olmaml~ gibi en Ost kattaki yemekhaneye ~Ikhm. Her-
+kes depremden ka~h~1 i<;in yemekhanede c;ok az ki~i vardl. Benim
+gibi oldukc;a kilolu meslekta~ a~abeyim He yemeklerimizi ahp tera-
+sa ~Ikhk. Biz gOzel bo~az manzarasl onOnde yeme~imizi yerken,
+binadan ka~anlar ne yaplyordu dersiniz? Hepsi borsa binasmm
+kar11smdaki kaldmmda toplanml1101kmhkla bize baklyorlardl. Ar-
+kalannda iki metre yUksekli~inde liman gUmrOgOnun demir par-
+
+--- Sayfa 87 ---
+77
+makhk1an vardJ. Onlerinde ise daraclk bir cadde, deprem ~iddetli
+olsa alb kath alan bizim borsa binasmln altmda kalacaklardl. Ost-
+lerine bina ~okmese bile, ya kiremitler ya da Atilla a~abeyimle ben
+kafalanna dUjecektik.
+Hisse senetleri canlannm yongaslydl fazla uza~a gidememi$-
+lerdi.
+
+--- Sayfa 88 ---
+78
+FENERBAH<;:E'DE ~I~ KEBABI SAVA~I
+Korfez sava-?1 slklntJlan ~ok uzun zamammizi alml~tl. Mu~teri·
+lerimizin de, bizim de aylar silren tatslz seanslar nedeni ile i<;:imiz
+kararml~tJ.
+Kendi ba~ma biT turlO toparlanamayan borsamlza devlet erka-
+m bile dayanamaYlp manevi destek vermeye <;:ah~hlar. Cumhurba~­
+kammlZ rahmetli Sn. Turgut Ozal ve ekonomiden sorumlu ba~ba­
+kan yarcllmcisl Ekrem Pakdemirli'nin ziyaretleri borsaya canhhk
+getirmedi. Se<;:im oncesinde ekonomi yetkililerinin destekliYici sOy-
+levleri de borsada kannlan doyurmadl.
+Korfez sava!il neticesinde meydana gelen ekonomik kriz, ka-
+mu ortakhgmln borsada yaph~l sah~ar. bir de se<;:im atmosferi ile
+birle$ince aylarca borsada pinekleyip durmu$tuk. Gen;i sava$ ba$-
+lamadan once Olke olarak bir koyup lie; almaYI dO$UnUyorduk; ama
+bizim borsacllar sonunda bir ahp U~ vermi~lerdi.
+Kaslm 1992'de se~im neticesinde birinci DYP-SHP koalisyo-
+nu kurulmu~tu. Yeni Ba~bakammlz Sn. Tansu <;iIIer faiz ve d6viz-
+den fazla bir ~y beklenmemesini s6yIUyordu. Bizim borsa Kaslm
+aYlOda nihayet % 40 civannda prim yapml~h. Borsaya yeniden hir
+canbbk, hareket gelmi,tL
+Borsa Uyelerinden sn. lihan IZibelii agabeyimizin diizenledigi
+bir organitasyon He stres atmak i~in horsa ~h~nJan ve borsa
+
+--- Sayfa 89 ---
+79
+temsilcileri hep birlikte Fenerbah~e Ku!ilbUniln Sosyal T eSisierine
+gitmi,tik.
+AylardIT ilk dela yOzOmliz gillOyordu; hepimizin lizerinde aylar-
+dlT sUren gerginliQin verdiQi de~rj olma isteQi vard!. BorsaCilar ola-
+rak Fenerbahc;e'de lena halde daglt!ik. c;:ogumuz litil gibi sarho,
+olmu~tuk; sonra da ipler iyice koptu.
+Masalara en son meyva ve kuruyemi~ tabaklan gelmi~ti. Bir
+borsaclOm diQerinin kafaslOa biT leblebi atmasl olaylO ba~langlcl 01-
+mu~tu. Herkes masalann Uzerincle ne bulursa diQ:er masalarda otu-
+ranlann kafasma atmaya ba~laml~tt. Once kuruyemi~ler. sonra
+meyvalar, en sonra cia masalardan ahnmayan tabaklardaki yenme-
+yen ,i, kebap parc;alan yagmur gibi yaglyordu.
+Garsonlar adeta ;a,kmhktan donup kalml,lardl; yerlerinden bi-
+le klmlldayamadliar. Masalar araSJ
+sava~ sirasmcla ben 0 yil
+KOi'nin ( Kamu Ortakhgl Idaresi) hisse senetlerini satan biT banka-
+mn bayan borsa temsilcisinin kafasma bilhassa ni~n ahp en iri
+UzO.mleri flrlatml~ttm.
+Borsacllann masalar araSI sava~1 bitince salon Halkah <;opIU-
+QUne d6nmU~tti; ama biz de Saddam'm Krizinden aylar sonra ni·
+hayet kurtulmu,tuk .
+•
+
+--- Sayfa 90 ---
+80
+DO~ENlN DOSTU OLMAZ
+Her yerde oldugu gibi borsa araCI kurumlarmda da paramz'
+varsa adam yerine konursunuz.
+GOnUmUzde biT borsa $ube veya acentasma gitti!).iniz vakit siz-
+lere kar~l davram~lardaki ciddiyet ve i1gi paramzm glicUyle d~ru
+oranhh olacakhr.
+Borsada i~lem yapacaglntz araci kurumu dikkatli se~melisiniz;
+bu kurulu~larda muhatap oldugunuz elemanlann tecrubesi, borsa-
+dan doQru habeT alma kabiliyetleri, hisse senetleri ahmp sablan ~jr­
+ketler hakklndaki bilgileri ~ok onemlidir.
+Cah~h9mlz araci kurumun ara~hrma ve mU~teriyi bilgilendirme
+bolUmleri ~ok onemlidir. Size alacagmlz veya oolann tavsiye ettik-
+leri hisse senetleri hakkmda mali ve teknik bilgi verecek elemanla-
+nn oimasl gerekmektedir.
+Kendi ba~mlza veya sagdan soldan duydugumuz yalan yanh~
+haberlerle i~lem yapmaymlz. Seans salonlannda di~er mil~terilerin
+tavsiyesi veya aldlglmlz her toyo ile elinizdeki hisse senetlerini slk
+slk de~i~tirirseniz tasarrufiannlZl kaybedebilirsiniz. Kredili i~lemler­
+Ie veya slk slk elinizdeki hisseleri de~j~tirerek paramzl slflrladlgmlz-
+da, i~lemlerinizi yapan aracI kurum elemanlanndan, ~unu al bunu
+sat", diye sizi dolduru~ getiren insanlardan hi~ bir medet bula-
+mazsJnlz.
+
+--- Sayfa 91 ---
+81
+Hisse senedi almak ic;:in aYlrdl~lnlZ hirikim yUklu olursa size da-
+ha ozel muamele yapllacak, hatta ozel seans salonlannda hizmet
+verilecek, ama paramzl yitirirseniz araci kuruma gelrneniz bile ho~
+kar~llanmlyacakttr.
+Seans salonlannda her gUn hisse senedi ahp satmaYl vazife ha·
+line getiren, kredi de kullanan biT mU~teri kesimi vardlr. Bu tip
+mU~teriler slk sik yatlnmlannm azaldlgmdan ~ikayet ederler. Bir
+hisse senedinde kazamrlarsa, diller hisse senetlerinde kaybederler
+ama i~lerini gUc;lerini hiT tarafa koyup' hergUn araCI kurumlara ge-
+lirler. Bu yatmmctlar ic;:in birinci seans orta vadeli, ikinci seans sa-
+nu ise uzun vadeli yatmm saYllmaktadlr. Bu mU~teriler araci ku-
+rumlara ve borsaya komisyon vererek, hisseden hisseye dola~rak
+yatmmlanOi tuketirler. Bu tip mi.i~teriler hep kaybedip. giderler;
+soma yerlerine yine bu tipte yeni mO~eriler gelirler.
+Bir de akJili ve asJl borsa yahnmcllan vardlr. Seans salonunda
+hisse senetlerini aldlktan soma bu mO~terileri goremezsiniz. Onlar
+hisse senetierini kumar i~in degil uzun vadeli yahnm olarak alml~­
+lardlr. Kredi kullanmaz1ar, hergOn fiyatlan sorrnak i~in araci ku-
+rumlara telefon etmez1er. saga sola dam~mazlar. dolduru~ gelip
+ahm satIm yapmaziar. Sablrhdlflar. kolay k61ay panige kapllmazlar.
+-.
+Hisse senetlerini ara~hrarak mali ve teknik yaplSlnl inceleyerek.
+ucuzken ahp, kimsenin etkisinde kalmaYlp. hisse senetlerinin yete-
+ri kadar ytikseldi~ine inandlklan vakit satarlar. Soma borsanm ya
+di.r~mesini bekterler ya da gOvendikieri, inceledikleri ucuz buldukla-
+•
+•
+n ba~ka hisse senetlerine ge~erler.
+Borsa a~m ve nskli bir ",kilde yGkselmi~ken . sattlklan hisse se-
+nedi yerine ~ok yOkselmi~ ba~ka hisse senetlerini almazlar. Sablrla
+borsanm ge~mesini bekierler ve bu ara tasarruflanOl ba~ka araylar-
+da repoda, dovizde degerlendirirler. Borsa d~rse . sattJkian hisse se-
+netlerinden daha fazla nominal satm alarak borsaya geri donerler.
+Acaba siz hu mU ~teri profillerinden hangisine giriyorsunuz.
+
+--- Sayfa 92 ---
+82
+BORSADA O~ONCO PAZAR
+Biz borsada bOyle bir pazar duymadlk diyeceksiniz. T opha-
+ne'de sistem pano sistemi idi. Saat 9.1S'de kot dl~1 pazarla ba~h·
+yor, ogleyin saal 12.00'de bitiyordu. BUton i,lemler saal 17.00'ye
+kaclar panolarda kahyor, silinmiyordu. Kontrol ve dOzeltme i~lem­
+leri de saat IS.OO'e kadar silrOyordu.
+1~lem hacminin ~ok oldu?lu donemlerde i~leri yeti~tirmek zor
+olurdu. Saat 12.00'de gong vurunca yeti~tiremedigimiz ordinolar
+kahrdJ.
+Yeti~tirememe sebebimiz mil~terilerin sat dedi!'}ini pahahdan
+satmak, a1 dedi!'}ini ise ucuzdan alrnak ierin r;aba sad etmemiz idi.
+Yalmz i~lemi gen;ekle~tiremeyince mO~teriden lena halde fm;a i~i­
+lirdik.
+Ama onlan Uzmemek ic;:in biT c;:ok borsa uzmammn bilmedigi
+biT pazara ba~ vururduk : Oc;:tincU pazaTa! T ahtada kalan ahel ve
+sahclyt gong 12.00'de vurcluktan sonra da gorebilirdik. Sizin ya-
+paca!'}mlz i~ alie! veya satIety! raZI etmekti. Ama tabiiki en onemli·
+si 0 panodan sorumlu olan eksperi razl etmekti. Almak isteyen 0
+gGn alamaml~ , satmak isteyen de satamaml~ , gerisi tahtaya <;izik
+almaya kahyordu. Saal 12'00 den soma da olsa lark elmOl, bu-
+nun ac:h duzeltme olacaktl.
+Neticede kapam$ fiyatmdan gen;ekle~n i~lemde alan raZI, sa·
+
+--- Sayfa 93 ---
+83
+tan raZI, en onemlisi i~lem hacminin artmaSlnl destekleyen borsa
+da rall.
+,
+
+--- Sayfa 94 ---
+•
+84
+BIR C;;IMENTO FABRiKASINlN
+OZEU ~TiRME HIKAYESIOiR
+Go.ney illerirnizden birindeki biT t;imento fabrikasmm clevlet
+elindeki hisseleri halka ay!lacaktl. Ot;-dort banka ve araCI kurum
+araclil91 ile sahlacak hisse senetlerine c;ok bUyUk talep oldu. Vatl·
+nmcdardan gelen yogun istek Ozerine sah~ listeleri yapildlo
+Ama yine de sab~1 yapan banka ve araCl kurumlann iyi mO~­
+terileri ve t;ah~nlan hisse senetlerinin c;ogunu satm alddar. Bu gil-
+nlimOzde de bOyle devam etmektedir. Yahnmctlann ~u havalan-
+m ahrlar.
+Bu <;imento fabrikasl seI)etierinden almak ic;in ba~ wrdu~um
+aracI bankadaki arkada~lm benden % 10 lark istedi. Bu dostluga
+sl!)maz diye almaktan vazgec;:tim ve OzgUn biT ~kilde bankadan ay-
+nldlrn.
+Ozelle~tirilen ~imento labrikaslntn hisseleri 300.000.-TL. ci-
+vannda borsaya girdi ve k,sa lOmanda 700.000.-TL.'ye kadar ~Ik­
+It. % 10 lark vermemekle epey kayblm olmu~ .
+
+--- Sayfa 95 ---
+ARACI KURUMIARDA
+iKRAM-AGIRLAMA
+85
+Biz borsacliar onceleri mil~terilere biraz acemilikten. biraz da
+kenclimizi uyamk zannetti~imizden , pek iyi davranmadtk.
+Arac. kurulu,lann ",gu, y.llarca yalOlz sabit getirili ozel tahvil-
+leri, clevlet tahvillerini hazine bonalanm pazarlamakla u9ra~hk1an
+i~in, borsaCilI!)a zor Ismdllar.
+Hisse seneti mU~terileri onlar ic;in biraz de9i~iktiler. Gnlann
+katkdan olmadan borsada para kazanabiliyorlardl. ~irketlerde bor-
+sa ile ilgili yeni bolUmler a,.hyordu.
+Hisse senedi i1e ilgilenen barsa uzmanlan ile diger bOlilmlerde-
+ki personel arasmcla mli~teriye davram~ konusuncla ~t1~ma C;tkl'
+yordu. Borsactlar haricindeki diger ~irket yah~nlan hisse senedi
+ahp satanlara pek iyi davranrnlyorlardl. Bu durumu biT c;ok banka-
+cla ve arael kuruJu~ta hala g6ti.iyoruz.
+Hisse senedi m~terilerinin biT C;~u sabahtan a~ma kadar
+arae! kurumlarcla oturuyor, i~leri olmasa bile diger mi.i~erilerle bor-
+sa kotlu~up . borsadan donecek temsilcileri bekliyorlardJ. Saatlerce
+,irkette ,ay, kahve i,iyorlar, ortahkta dola,.yorlardl. Ogle yemegi
+iI;:in evlerden kumanya bile getiren oluyordu.
+1,ler a,ihp da borsa sayesinde kazan,lar yiikselmeye ba,laym-
+
+--- Sayfa 96 ---
+86
+ca, rekabet hiT hayli arttJ ve borsa yahnmclslna davram~larda bo-
+ytik degi~iklikler olmaya ba~lad1. Borsa ile ilgilenen mU~terilere
+ozel salon acrdmaya ba~andL Ilk salon ac;:an rehmetli arkada~lmlz
+Yener Kaya bey olmu~ur.
+Sonralan bu salon i~i daha da bUylidu; itibarh ve zengin mU~­
+terilere ozel odalar a~"maya ~Iandl. M~terilere ~ay kahve ya-
+nmda me~rubat, ~Ienleri sandviC;:. kurupasta verilmeye ba~landl.
+Borsada i~lem hacmi ~ok artan araCl kurumlar ogle yemegi bile
+vermeye b~ladilar. Ramazan gunlerinde yatlTlmcllanna ve perso-
+neline sazh sOziO, dansOzlu iftar yemekleri bile verenler olmu~tur.
+Gerr;i borsa d~rken ve i~lem hacmi azahrken hizmetlerde bi-
+raz ge~me oluT; ama mil~terinin velinimet oklu{tu artlk anla~li­
+ml~hr.
+
+--- Sayfa 97 ---
+87
+BORSA KUMAR MIDlR?
+Kumarhanelerin klsmen veya tamarnen kapandl91 gUnleri ta-
+kibeden hafta ve aylarda borsamn i~lem haeminin art!!)1 ve borsa-
+mn yUkseldigi gozlenmi~tir. Kumar oynamaya ah~n insanlar, ku·
+marhaneler kapandlgmda borsaYl, tutkulanm tatmin aracl olarak
+g6rmektedirler. Ama borsa hichir zaman kumarhane yerine kon-
+mamahdlT.
+Borsamlzm kumarhane haline gelmesinin en buytik sebebt
+kredi kullanarak hisse senedi ahml olmaktadlT. Aracl kurumlar i$-
+lem hacimlerini arhrmak ic;.in gUnil gelJigincie seans amnda hire
+be~ kredi bile vermekten ~ekinmemektedirler.
+Borsada tasarruflanmzl kredili
+i~lemlerle kaybedebilirsiniz.
+Borsada anaparamzl slflrlama riskine girmek istemiyorsamz bi!-
+hassa borsa Ci.?tr1 ytiksek ve riskli iken bon; para ile borsada hisse
+senedi almaymlz.
+BOrsamn kuruldugu 1986 Ylhndan bu yana yatmmctlann his-
+se senedi aldlklan araci kurum ve bankalann batmalan veya aldlk-
+Ian hisse senetierinin ait oldugu ~irketlerin iflas etmeleri dl~tnda bi-
+•
+rikimlerinin heba oldugu g6ri.i1memi~tir.
+Borsada kredi He i~lem yaph~lnlz slralarda Olkemizde veya glo-
+balle~n dOnyamlzda ekonomik krizler ~Ikltgtnda kredide kalmak-
+ta israr ederseniz anaparamzl bile tliketebilirsiniz. Bu tip naho~ ne-
+
+--- Sayfa 98 ---
+88
+ticeler borsamlzda defalarca g6rtilmU~tilr. Borsamlzda tecriibeli 01·
+malanna ragmen biT yok mU~terimiz kredili i~lemler neticesinde if-
+las etmi~lerdit.
+Olkemizde ya!"nan, 1987'de borsada yaptlan direkt satt~larla
+gerl'ekle~n ()zelle~tirme krizi, 1991 Korfez krizi, 1994'de ya!,,-
+nan kredi faizlerinin % 90'dan bir ay il'inde % 700'lere I'.kttg., tah-
+talara gUnlen:e ahcmm gelmediQi bUylik ekonomik krizj biT c;:ok
+borsa yahnmClslmn aldlklan krediler nedeni ile ev, arsa, i~yeri ve
+arabalanm satmak zorunda kaldlklan krizler olmu~tur.
+Bir c;:ok yahnmci maddi kaYlpianmn yam Sira saghglnl da kay-
+betmekte, aile ve sosyal yapdan da sarsllmaktacllT. Seans salonla-
+nna gittiginizdej borsada c;:ok kazanan, piyasayt iyi bildigini iddia
+edenlerin tavsiyelerinin yamnda, borsada birikimlerini bahranlar-
+dan da ahnacak dersler vardlT.
+BaZI yahtlmcllar kalan paraiaTlnt kurtarmak ic;:in inatla daha
+ytiksek hacimli kredi kuJlammma gitrnekte, bunun neticesinde da-
+ha da bata~a saplanmaktadlrlar. Her tiyo, her dedikodu onlar ic;in
+umut olmakta; kendi paralan ile i~lem yapan di~er yatmmcJ!ann
+pe~ine takdlp tasarruflannt stf1rlamaktadtrlar.
+Ben onblr y.lhk borsa tecrtibemle, borsada aldd,Jan hisse se-
+netlerini uzun vadeli elinde tutan her yatmmcmtn, Turkiye'de her
+'.
+zaman enflasyonun i.izerinde kazanc; sa~hyacaklannl kesin olarak
+iddia ediyorum.
+Borsa'da a~m kredili i~lemler yapmaymlz. Kredi kullanacaksa-
+nIZ riski olmlyan hisse senetlerinde, uygun zamanlarda kullammz.
+$irketini~in i~lern hacmini arttrmak i<;in mu~erilerinize kredi
+kullandlrmaymtz; kredili i~lem yapmarnalanm tavsiye ediniz.
+
+--- Sayfa 99 ---
+89
+BORSADA PARMAK Izl ARANiR MI?
+Tahta sisteminin c;:e~itli mahzurlan vardl. Panolann biT tarafma
+ahcllar diger tarafma sabellar, fiyat onceligine gore, yukandan a~­
+, !llya slTillamyorclu. Almak ve satmak isteyen borsa temsilcilerij ah-
+Cl ve saticmm panodaki lot miktanmn Uzerini c;:izip, c;:ah~ttrdlgl Uye-
+oin adlnm klsaltt1ml~ simgelerini yazlyorlardl. Bu sistemin en bu-
+ytik mahzuru pane kalemlerinin kolay silinir oimasl kU. Bazl ~irket
+simgeleri birbirine benzedi!):i ic;in; aracl kurumlar s6zle~me yapar-
+ken birbirine kan~biliyordu .
+Hisse senetlerine ta1ebin y~un oldugu panolann onOncle izdi-
+ham oluyor; iti~ kakJ.~ neticesinde, silrtUnme nedeni ile okunamaz
+hale gelen tahtalar olabiliyordu.
+Bu yOzden gOnde ± % 10 oynayabilen hisse senetlerinin yazli-
+dlgl panolar; b<;>rsa eksperleri tarafmdan 5110 bir ~kilde kontrol
+ediliyordu. Ama en 6nemlisi, her borsa temsiicisi kendi yaptlgJ i~­
+lemlerden sorumlu icli. Yaptt!';j:1 hatalan dOzeltme sUresi j~risinde
+bulamazsa, borsa tefti~ kurulundan para veya uzakla~hrma cezasl
+ahyordu. Ahcl veya sattCI olun, i~lemleri devamh not almak zorun-
+daydJnlz.
+Borsa temsilcilerinden biri, telefonla mU~terisinden gelen emir
+ile, seanslO sonlanna d~ru, tahtalardan birinde hisseyi epey dG-
+~Grecek bir ~kilde satl~ yapml~h.
+
+--- Sayfa 100 ---
+90
+o sah~m yaplldlgl gOn ~Ieden soma yapJlan kontrolde ktya·
+met koptu. : -lisse senetlerini ytiksek biT fiyattan yOklu biT miktarda
+alan ternsilci arkada~lardan biri tahtadaki ~ah~tJ~1 ~irketin simgesi-
+ni silmi~ti.
+BorsaOln tecrilbeli temsilcilerinden bilirki~i ekibi kuruldu; biT
+netice alamadllar. Pano incelemek ilzere ve delil olarak kameraya
+ahndl. Eksper tarahndan iyice kontrol edildi. Ama panoyu par-
+maklayan bulunamadl.
+En son c;:are olarak polisten parmak izi uzmanlan c;:aQnldl.
+T ahtada 0 gUn i~lem yapan temsilcilerin parmak izi ahndl. Pano
+s~ aleti olaraK biT hafta silinm~i; ama biT sonuca vanljimadl.
+
+--- Sayfa 101 ---
+91
+BORSACIlAR NASIL STRES ATAR
+Ozelle~tirme krizi, karlez krizi, 1994 ekonomik krizi, refahyol
+krizi, uzakdo!).u krizi velhasd irili ufakh biT c;ok kriz Olkemizde El·ni-
+no gibi ilk once gelir bizim horsaYI vurur.
+Borsa ekonominin barometresi gibidir; en ufak krizden etkile-
+niT, nem kapar, dtizeni bozulur. Borsa uzmanlan da borsa ile has-
+talamr, moralleri bozulur. i~ ve ozel hayatlan alt Ust olur.
+Biz borsa Tophane'de iken cammlZI slkan tat51z bir seans gee;-
+mi~se, vaktimiz de mUsait oldu mu, Mecidiyekay'e bogaz yolu Ue
+geze dolasa Sebek yoku~ lizerinden giderdik. Biraz hava ahr, ka-
+famlzl toptar, bence de daha iyi hizmet verirdik.
+t~ler azken, i~ yerinde lazla gaze b~tmamak ic;in YlldlZ Parkl-
+na, Ortakay sahUine veya Sebek'te bir bara ugraytp birer aperatif
+ailp, merkeze oyle donerdik. 1~lemler azahnca patronlann, y6neti-
+cileTin aSlk suratlan He durgun borsa ba~ka turiG de c;ekilmezdi.
+Borsa temsilcileri resmi tatiller dl~mda zor izin allrlar. Para ka-
+zanmak ve kazandtrmak tath i~ir. Resmi tatillerde hepsi tati! yer-
+lerine ko~rlar. Iyi para kazanan uzmanlanmlz ufak bir yurt dl~1 da
+yaparlar.
+Borsa uzmanlan Dernegi, bazen de ~irket patron ian, stres at-
+rna geceleri dUzenlerier. BorsaCilar da flrsattan istifade- ic;:er, dans
+eder, gobek atar, kurtlanm dokerler. Ama yine de borsa konu~up ,
+borsaYI tartl,?maktan geri durmazlar.
+
+--- Sayfa 102 ---
+92
+Borsaclhk tiyatrodaki sahne tozuna benzer, biT bula~h ml asia
+~lkaramazsmlZ,
+
+--- Sayfa 103 ---
+-
+BELEOIYE BA~KANlNIN OGLUNA
+SONNET HEOIYEsI
+93
+Olkemizin en bOyilk bankalanndan biTinin C tertip hisseleri
+borsada 250-300 TL'ye kadar dU~m~tii . 0 zaman sinemalarda
+normal matine biletleri 150 TL. idi.
+Almanm tam zamamych. Sevdi!1imiz, samimi biT borsacl arka-
+da~lmlz bu hisseleri ~ocuklanmlZ i~in ahp biT kenara koymamizi
+tavsiye etti. Biz de ald.k ama hisseler 400.-TL.'ye yUkselince evla-
+diyelik tutacag.mlZa satlli<"
+o zamanlar aym ~irkette <;ah~.g.mlZ bir arkada.la mU~erek
+dostumuz olan hiT i1c;e Belediye Ba~kam , hizi ~Iunun sOnnet dO-
+\10nUne davet etti. Biz de hediye olarak borsaclhQtn ~mna uygun
+bir ~kilde iki~r milyonluk C tertip banka hisselerini sUnnet ~ocu­
+gunun yasllgma igneledik.
+Bizim hediye' olarak aldlglmlz hisse senetlerini ~imdi delikanh
+olan karde~imiz hala satmacll. Bir kac; kere boiUnen ve her sene te-
+mettil veren banka hisse senetleri ile kendine mUkellef biT dU!)tin,
+i1erki ylliarda ise torunianna da slinnet dugUnil yapacagml seylU-
+yor.
+
+--- Sayfa 104 ---
+94
+OZE~TIRME KIME YARADI
+TUrkiye'nin otomotiv sanayinin bUyOkIerinclen binnin, 6zelle~­
+tirme idaresinin elindeki paylanmn sah~Jna karar verilmi~ti.
+Hem otomobil fabrikaslnln hem de pazarlama ~irketinin pay-
+Ian bilyOk hiT bankamlz araclliQI ile halka satllacaktl. Bu hisse se-
+netlerine .irket olarak biz de i1gi g6steriyorduk. <;:ah.hglmlz banka-
+mn ~ubesine baya!)l yUksek biT meblag ah~ garantisi verdik. BUtun
+.irket personeli ba.ta olmak lizere ah. listesi haztrladlk. Daha 6n-
+ce ozelle~irilen hisse senetlerinin ~ogu hemen prim yapb?!J i'Yin,
+bu yilzden bir korkumuz yoktu.
+Banka ;ubelennde sah.lar ba.ladl; fakat U, gUn i,inde arzln
+bUyUklUgU kar.lStnda talep yetersiz kaldt. Hisse senetleri de banka
+~ubelerinin elinde ka1dl.
+Bizim ~irket personel naslisa caymaz diye hisse senetlerinin
+paraSlnI toplamaml~l. Hisse senetlerine yeterli taiep olmadl?!1 du-
+yulunca, ba~ta ~irket yoneticileri olmak Ozere herkes r;amura yatt1.
+BiT iki arkada~JmlZ haricincle kimse taahhi.it ettigi parayt yatJrma-
+dt.
+Bankaya ~irket olarak ilk gOnO &Ierne yaptJ!}lffilZ ic;in hisse se-
+netlerini ~irketin portfoytine almak zorunda kaldlk.
+Bir kaC; gOn sonra, ozelle~tirilen fabrikamn ve pazarlama ~ir.;.
+ketlerinin hisse senetleri borsaya girdi ve ue; gun ie;in~e % 30 prim
+yaphlar.
+
+--- Sayfa 105 ---
+95
+$irketimizin portfoyU ba~ta olmak Uzere durtist davranan per-
+sonel iyi para kazandllar.
+,
+
+--- Sayfa 106 ---
+96
+MADEN FAKULTESt MEYDAN SAVA~I
+Tophane'deki binamlz ylilar ge"ik~e bize dar gelmeye ba!ladi.
+t!lem hacmi gUn ge~lik~e arllyor, borsa Uye saylSI, borsa lemsilci-
+si ve ~h!Onlan gUn ge~tik~e ~ogahyordu .
+Borsa y6nelimi once yandaki binamn ilk dort kallm kiraladl;
+sonra diger yandaki binaYI kiraladl. Bu geni~letme de az geldi; bi-
+nantn arkaslOdaki iki i~ ham daha borsaya katdch. Onlar da c;ahlar-
+dan c;apraziama yol ve merdivenlerle borsa binasma baQlanddar.
+Slkmhlar kar~lsmda, borsamlZtn · ikinci ba~kam Sn. TorUner,
+l.T.O.'nin eski maden faktiltesine talip oldu. Bina satm ahnacak,
+bina restore edilip. borsa haHrie getirilecekti. Once izin ahndl, bu-
+rokrasi a~ddl; ama liniversite vermemekte dayattnca bina muallak-
+ta kaldl.
+Bunun tizerine bir gOn bizim ba~kanj borsanm korumalanm ve
+kendi korumalanm yanma alarak. eski maden faki.i1tesine basion
+yaph. Borsa silahslz kuwetlerini ic;eri sokmaml~lar, onlar da bod-
+rum camlanndan hirini ktrlp ic;eri oyle girmi~ler ; bu sefer de bina-
+nm bek~i ve hademeleri ile bizim korumalar iii! kakl! bir meydan
+sava~l vermi~er ve sonunda karakolluk olmu~lardl.
+Daha dogru dUrOsl gorOcu olarak bile giremedigimiz bina bize
+yar olmadi. Vilayet; Ma~ka-Ni!Onta!1 semtlerinin kalabahgml, Ira-
+tik, crevre ve otopark sorunJanm i1eri surerek, eski maden fakulte-
+
+--- Sayfa 107 ---
+97
+sinin borsa yapilmasma izin vermedi. 0 zaman bizim ba~kan So.
+TorOner de Istanbul Kongre binasl olarak yapllmaya ba~lamp se-
+nelerce yanm kalan bugUnkU borsa binamizi ke~fetti. Van mamw
+kongre binas101 satm aldlrdl. Allah oodan ve binanm, arsasmm
+ahnmaslOda emegi gec;enlerden razl olsun.
+Netice ~u ki, Istanbul'un ,ok gUzel modern bir borsa binasl
+vaT; ama hala Istanbul' a yakl~n hiT kongre binasl yok.
+,
+
+--- Sayfa 108 ---
+98
+BORSA DEDIKODUSUZ OLMAZ
+Borsa uzman! olarak, herhangi hir hisse senedi hakktnda tiyo
+aitp, ar~hnr, inceler, kendiniz de inanarak satin ahr ve aldmrsmlZ.
+Aradan gOnler, aylar gec;er; aldlQlnlZ hlsse senedinin fiyatt c;tkmaz,
+hatla di.i~r. Hisseye dinamizm vermek i«;in dedikodu yaymak c;:ok
+onemlidir.
+K~mdiniz tiyo duyup da aldlQtnlz hisse senedinin tahmin ettiQi-
+niz gelecek kann! ikiye katlarSInlz. Yabanci yabnmcilann veya her-
+hangi biT grubun bu hissede ah~ ge~ceklerini yayarsmlz. Yaban-
+Cl biT ortakla birle~ip, i~leri bUyUteceQini saga sola duyurursunuz.
+YII sonu temettilslinU abartlTslnlZ.
+Ben borsada uzun yJllar ~ah~lm. Ben de tiyo aldlm, dedikodu
+yapttm, habeT yaydlm. Borsa ile i1gili habeT ajansian da bazen
+ara?tirma yapmadan yalan yanh~ haberleri verebilir; borsayt hop
+oturup hop kaldlrabilirler.
+Borsacmm tipik yatmmclSl; clergi, gazete, televizyon dediko·
+dulanna ~ok 6nem venr. Onlan gece gOndiiz takip eder. Falctlara
+sorup, tarot fah bakttnp da hisse senedi alan yatmmclianmlz bile
+vardlr.
+Kendi ba~lmdan ge~en bir olaYI anlataYlm; siz de bu dedikodu·
+lara ona gore inanm. Borsada ahntp sahlan bir i1a~ firmaslOlO his-
+selerini toplaml~hk; fiyatI uzun zaman klmlldamadl. Bunun Uzeri-
+
+--- Sayfa 109 ---
+99
+ne ?irketin Istanbul Levent'teki arsaSlnl sattlrmaya karar verdik.
+Soma biT talep, biT taiep; hisse senedi borsada iyi prim yaptt. De-
+dikoduya nerdeyse biz bile inanmaya ba?laml~hk .
+Bu arsa borsada birka~ defa daha satlldt; ama ytl 1997; arsa
+hala duruyor. Durdugu yetmiyormu~ gibi; i1ac; firmasl yantndaki ar-
+say) da belediyeden satin alarak, bizim me~hur arsaya ilave etti.
+,
+
+--- Sayfa 110 ---
+100
+KARAKOY'DE KREDI PAZARI
+Borsa Tophane'de iken Rlhttm caddesinden ge~mi~seniz, hi-
+namn etrafmda ayakh borsactlan, tistUnde renkli renkli her ~e~it
+hisse senetleri olan tezgahlan da g6rmi.i~sUnGzdlir. En azmdan
+duymu~sunuzdur. Ama biT de kredi pazanmn oldug,unu biliyor
+muydunuz?
+darkma lt
+Kredi pazannm merkezi borsa binasmm altmdaki bankanm
+onUnde idi. Eskiden rakasbank yoktu; bUtUn para He Hgili i~lemler
+a~godaki banka ~besinde, hisse seneli ah~ veri~i de yandaki bina-
+da, takas servisinde yaplhrrh. Takas ic;in sUre iki gOndO. Ikinci gUn
+saat IS.OO'e kadar hisse senedinizi takasa, paramzl bankaya ye-
+ti~tirernedig,iniz takdirde temerrtite kahrdmlz. Arac! kurumunuz
+maddi ceza ahrch. TemerrUt topiammlz biT yd ic;inde belli biT saYI-
+ya ula~lrsa araci kurumunuz veya bankamza borsaya belli hiT slire
+almmama cezasl gelirdi; horsa salonuna giremezdiniz. Hisse sene-
+dinde aC;l!)mlz varsa di~er aract kurumlardan oolinc;: almak daha
+kolay olurdu; ama parada eksi9iniz olursa paras! olan arac! kurum·
+lardan bor~ bulmak 0 kadar kolay olmazdl. Bu yGzden bankamn
+onilnde paras! olanlarla paraSI eksik kalanlar araslnda kredi faizi
+pazarhklan yaplhrdl.
+Normal piyasa faizinin oldukc;:a ilzerinde yapdan anla~malarda
+kredi kar~lhgJnda hisse senedi ve hazine banosu rehin edilirdi.
+
+--- Sayfa 111 ---
+101
+Kredi j~lemlerini itiyat haline getiren araci kurumlann ~ogu bu
+dOzensizlikleri ve hesap bilmezlikleri neticesinde iflas etmi~lerdjr.
+Borsa piyasasmda clers ahomasl gereken ornekler olup tarihe
+ge~mi~lerdir.
+
+--- Sayfa 112 ---
+102
+BORSADA EKOLLER VARMI~
+C;:ahlligtm ilk menkul ktymetier lirkelinde on U~ ytl gtlrev yap-
+lim. Muhasebeden ballaytp, tlzel lirket tahvil salil oolUmUnde de-
+vam edip, yedi sene de borsaya bizzat giderek ~h~tJm.
+Cah~ttgun son senelerde ~irket yonetirnindeki iktidar mOcacle·
+lesi ~iTket ir;inde bolUnmelere yol at;:ml~tt . Beni ve diger c;:ah~nlan
+Ylpratan bu ortam ic;:erisinde benim kendi mO~terilerime ve bazl
+akrabalanma borsada iyi para kazandlrmam, bunun yamnda bor-
+sada yaksek i~lem hacrni ile ~irkete iyi komisyon gelin getirmem
+bazl ~irket yaneticilerimizin pek ho~una gitmiyordu. Beni gomlek
+kiralayan profesyonel borsacI olarak gorOyoriardl.
+Beni borsa i~lemlerinin idaresinden almak istedik1eri 90nOn er-
+tesincle yeni kurulan biT holdingde iyi biT mevki ve maa~la Yillarca
+emek verdigim eski ~irketimden aynhp i~ ba~ladlm.
+Gene! mUdOr muavini olarak c;:ah~maya ba~la(hglm ~irkette de
+her gOn borsaya gidiyor. borsa sorumlusu olarak mO~terilere hiz-
+met vermeye devam ediyordum.
+~irketin patronlanndan ve aym zamanda genel mOdOr olan
+bey bir gUn lirket loplanltstnda yaptlan sohbette borsada ~a1t!3n­
+Ian il4;: ekole aYlrml~t1:
+"Vaklfhan Ekolli: Cogu borsa vaklf kornisyonculanmn yanmda
+yeti~mi~ Vaklfhan k6kenlidirler .. Bunlar para kazanmak i~in her
+
+--- Sayfa 113 ---
+103
+ye~it varyeteyi mubah sayarlar. Bu piyasada aClmalan yoktur.
+Kazlk yiye yiye kazik atmaYI OQrendiklerini sOylerier. AdamI zor
+durumda yakaladlklannda kal;>ak gibi oymaktan yekinmezler.
+Ayan Ekolli : Ayan'lO mektebinde yeti§mj~lerdir. Borsaya can-
+Itltgl, daha dogrusu spekUlasyonu getirmi~lerdir. Akpara, kara pa-
+ra mil~terilerinin para gileO He hisse senetlerine girip borsaYI hop
+oturup hop kakhnrlar. Toplachk1an hisselere zamamncla girerseniz
+iyi paralar kazancllnTSlOlZ.
+Memtir Ekolu ; SaglamcldlTlar borsada ~bekelerin girdigi his-
+se senetlerinclen m~erilerini uzak tutarlar. Prensip olarak bor-
+sada kendi adlanna oynamazlar; ma~ talim ederler.
+MU~­
+terilerine saglam, riski az hisse senetleri ahrlar; ama nispeten az
+para kazandtnrlar."
+YatmmCilar, acaba borsa temsilcileriniz hangi ekole giriyor?
+
+--- Sayfa 114 ---
+104
+iKiNCi BA~KANIMIZ YAMAN TORUNER
+Sn. Toruner Borsa Ba~kant olarak atandl\11 vakit bizim h;in 0
+zamamn iktidan tarahndan atanml~ Ankara'dan gelen biT bUrok-
+Tatt!.
+BorsaYI da tam biT burokrat gibi yanetti. Borsada c;ah~ITken bi-
+le akh Ankara'da Merkez Bankaslnda kalml!h.
+Her sabah borsaya gelmesi Tophane'de olay oluyordu. Borsa
+korumalan ve mUstahdemleri ba~kan borsaya gelmeden yanm sa-
+at once oorsa etraflnda ve borsa i~inde tedbir ahyorlardl. Binece-
+~i veya inecej)i asansOr yanm saat onceden bini~lere kapahilyor-
+duo Ama zaten borsada topu topu iki asans6r varcll. Borsa Ba~ka­
+ntmlz emniyetine c;:ok merakh idi; gerek borsa binasmm kaP1Sl ge-
+reI. <;ah!hgl kat ma!"liah kale kaplSl gibi idi.
+So. Ba!kammlzla gOrti!mek Ba~akanla gorti!mekten daha
+zordu. Hadi bizler basit borsa temsilcisiydik; ama 0, bizim patron-
+lanmlza bile pek Ismamaml-?tt.
+Ben borsa temsilcileri derneginin kurucu ilyelerinden biri idim.
+Borsa ba?kammlz bizi yemeklerini verdigi Ma~ka ' daki Parksa Hil-
+ton 'a davet etmi?ti. Dernek Uyeleri olarak bize ~ok samimi davran-
+dl, bizlerden destek istedi, yemekte bamba-?ka bir ba-?kan vardl.
+Ertesi gUn sabah borsaya geldiginde giri! kaplsmda kar!i1a!hk,
+6nUmU ilikleyip kendisini selamladlm. ~101 d6ndUriip acele ile
+
+--- Sayfa 115 ---
+105
+borsa binasma dalml~h . Ri.l~vet saYlhr diye Allahm seiamml kabul
+etmemi~ti herhalde.
+Ba~kammlz bizi yeme~e c;:agITml~h ; iadeyi ziyaret olarak biz de
+onu borsa temsilcileri olarak Baltalimam Oba restorana davet et-
+mi~tik. Davetimize ieabet etmi~ takat onbe~ dakika kadar kahp git-
+mi~lerdi. Bizim de fazla biT ~y bekledigimiz yoktu; bu oour bize
+yeterdi. Yalmz, C;:lkarken, Oba TestoTanm oto parkC;:ISlnt arabasml
+ba~ka arabalara bloke ettirdigi i<;in biT gilzel d6vUp 6yle gitmi~i.
+Ba~kammlZl belki hep olumsuz yonleri He anlattlk. ama bu
+bizim kabahatimiz degildi; bizim gordugUmilz buydu.
+Kendislnin, Istinye'deki borsa binasmm arsaslnI bilrokratik en-
+gellemelere ragmen kapmasl c;:ok btiyOk biT hizmettir.
+Ba~kammlZln gonllinde zaten Merkez BankaSl Ba~kanhgl ya-
+tarch; bizden sonra oraya atancll. Biz1er devamh yaramazhk yapan
+ein gibi ~ocuklardlk; bizlerden kurtulduguna sevinrni~tir herhalde.
+
+--- Sayfa 116 ---
+106
+1994 EKONOMI KRizi
+1994 Olkemizin ekonomisinin ~ok roT ~rtlan ge~irdiQi ve bil-
+hassa borsa yatmmclsma aQIT darbeler vurulduQu biT yil olmu~ur.
+Vlhn ba~tnda borsa endeksi ~ok ytikselmi~ti. Faizler 1993 Ylh
+sonlannda zorlama olarak a~91 gekilmi~ti. DOviz yeterl kadar de-
+gerlenmemi~ti. 1994 Ylh Ocak ayma gelinceye kadar claviz fiyatla-
+n Turk IiraSlnl devamh deQerli tutma politikasl He bastlTllml~ ve kur
+farklan iyi ayarlanmaml~h.
+o gUnlerde borsa dahil piyasalar zemberek gibi gerilmi~i, ade-
+ta bir klVticlm bekHyordu. TOrkiye ekonomisi kritik biT donUm nok-
+tasma gelmi~ti.
+ZembereQin bo~almasl uluslararasl rayting kuru1u~lannm Tilr-
+kiye'nin kredi notunu dU§ilrmeleri He b~ladl.
+. Oeak aymm ortasmdan itibaren borsa hlzta dil~meye, faiz
+oranlan ve d6viz fiyatlara hlzla yUkselmeye ba~lamt~tt.
+DU~k d6viz rezervlerine ragmen once Merkez Bankasl mOda-
+haleleri ile bastmlmaya 'Yah~dan deviz fiyatlan, bu j~lemle onlene-
+meyince ~ok ytiksek oranh faizle tutulmaya ~h~lldl.
+Doviz ve faizlerin saat b~l bile hlzla degi~mesi halk Uzerinde
+panik yarath. Mevduatlarda hlzh bir clti~ti~ ba~ladl. Dbviz ahp, yas-
+hk altmda saklama arttl. Kuc;:ok bankalardan gOvenilir ve bOyOk
+
+--- Sayfa 117 ---
+107
+bankalara do(lru mevduat ka~,~, ba~lad, . Krizin en bOytik kay,plarl
+oo.eme slklOtiSlna dU~Up de kapanan lilY banka oldu.
+Gecelik faizler dart ay % 200 - % 700 arasmda cereyan etti.
+Devlet, kriz biraz yatl~mca bile, O~ ayhk net % 200 faizle para top-
+ladl. Amerikan dolarlm amek ahrsak: 14000 TL.' den 40.000 TL.
+civanna ytikseldi.
+Ocak aymda 29.000.-TL. civarlnda olan borsa endeksi y,l or-
+talannda 13.000.-TL. civanna d~tti . Ona yakm araCI kurum da
+ooeme slktntisma dU~rek kapandl.
+Banka mevduatlannm tamammm hangi bankada olursa olsun
+clevlet gUvencesinde oldugu a<;lklamncaya kadar piyasalar allak
+bullak olmu~u. Mevduatlann gUvence alhnda oldugu garantisi ve-
+rilmeseydi; daha batacak ~ok banka ve araci kurum varch.
+Doviz rezervleri asgariye dO~gU, faiz oranlanmn rekorlar klT-
+dIgl, enflasyonun % 150 ye vardlgl, Ulke ekonomisinin durma
+noktasma geldigi 1994 Ylhndan her konuda iyi dersler almak ge-
+rekmektedir.
+Boyle k6tti biT doneme sebep alan Ian ve 0 gUnleri bize ya~­
+tan ran unutmamak lazImdlT.
+
+--- Sayfa 118 ---
+108
+KAPANAN BIR ARACI KURUMUN
+ANATOMlsi
+Hayatlmda ya~dl!1lm en slkmhh yll, kapanan biT araCI kuru-
+mun y6neticisi olarak c;ah~t1Qlm 1994 ~lIhdJr. 0 slraiar yeni kuru-
+Ian ve klsa zamanda hacmi bUyUyen c;ah~h!11m holdingin Kuzey
+Klbns'ta biri off-shore olmak Gzere iki bankasl, iki araci kurumu,
+biT factoring, biT leasing ~irketleri, biT de kapah c;ar~lda doviz bofe-
+si yard!.
+1994 krizi c;tkmadan once piyasadan maa~la kaliteli personel
+i~ ahnmJ~1. U..iks yerlerde binalar kiralanml~, acenta ve ~beler
+ac;i1ml~h. I~yerleri en pahah ve g5steri~li hiT ~kilde dekore edilmi~­
+ti. En loks arabalar satm ahnml~tJ. BUtOn bu i~ler hep leasingle ya-
+pilml$, bore; altma girilmi~i.
+Ekonomik kriz ba$lamadan once holding i$leri yolunda gidi-
+yordu. Krizle beraber, 1994 ylil Ocak aymdan itibaren, dUzen bo-
+zulmaya ba~ladl. MU~teri saylSI azalmaya, mevduat .yekili~i artma-
+ya ba~ladl. DI~andan pek belli olmuyordu ama holdingin ie; dina-
+mikleri sarslhyordu. Oc;: bankamn pe~pe~ batmasl, bazi araCl ku-
+rumlann batacagl dedikodulan sonun ba~langlcl oldu. Sermaye pi-
+yasasmm hemen hemen bUton daJlannda aktif halde olan holding
+klsa zarnanda kUc;:oJemedi.
+Ocak ayJ ortaianna kadar, sonralan .yok komik kalacak faiz
+
+--- Sayfa 119 ---
+109
+oranlan ile kredi verilmi~ti. Bu kredilerin ~ogu kriz He beraber tah-
+sil edilemez hale gelmijti. 1994 ythnda % 700'lere varan faizler
+aylarca piyasada hakim oldu. Yeni kurulan biT milessese olarak
+mevduat ~ekili~ini onlemek i~in, Ziraat Bankasmm bile gecelik %
+600'Un Uzerinde faiz verdigi biT donemde siz daha fazla vermek
+zorundaydmlz. Bir yandan da i~letmenin yilksek rnasraflanm ve
+bor~lanm ooemeliydiniz.
+Daha ~irketin kapanmasmdan once odeme slkmhsl ba~ladl~m­
+da, tabancaYI patronlann kafasma daYlyarak parasJnI alan mU~te­
+rilerimiz oldu. En bGyOk kredi bon;:lusu bile malUm usullerle ceb-
+ren, klsa slireli senetlerini uzun vadeli senetleri He degi~tirip ipo-
+teklerini kaldlrttJ. ~irketler mevzuatlar yUztinden Sermaye Piyasa-
+51 Kurulu tarafmdan hemen kapatJlamadl. Kapandlktan soma yi-
+ne, patronlan ~oluk ~ocuk evlerinde silahla taciz ettirip paralanm
+alanlar olmu~tu.
+Klbnstaki bankaya. yGksek kredi alacaklanna ra!1men, holdin-
+gin TUrkiye' de do~ogo durum gaz onOne ahnarak Kuzey Klbns
+HUkUmeti taraflndan el konu1du. Kalan yatmmcllar bir alacakhlar
+komitesi kurdular. Bu korniteye se~ilenler de, once kendi alacakla-
+TIm tahsile kalkmca i~leri daha da kan~tlrddar. Personelin ~<>?!u.
+patronlann ikisi ile birlikte, ~jrketin tasfiyesi ic;in bir Ylla yakln ug-
+ra~tllarj bir netice ahnamadl. Sadece benim genel modurO oldu-
+gum araci kurum durumu mUsait oldugu ic;in, Sermaye Piyasasl
+kurulunun da o,naYI He alacakhlqnna devredildi.
+Hatta ~irketin isim hakkl yGksek oldugu ic;in, diger araci kuru-
+mun bazl alacakhlan da bu araCI kuruma devir edildi. 0 ara serma-
+ye Piyasasl kurulu yanetimi degi~ti. Yeni kurul, ~irketin sahibi du-
+rumuna gelen yahnmcllann yonetme, ac;ma ve devir i~lemlerine
+mani oldu. Yeni kurul Ba~kanl daha onceki kurulun kararlanmn
+kendilerini baglamadlglnl iddia etti.
+Eski ~irket patronlan aleyhine alacakhlar ZOO'den fozla clava
+
+--- Sayfa 120 ---
+110
+acyf.liar. Mahkemelerde hepsi de temize 91klP davalarda beraat etti-
+leT.
+Biz ,ahjanlar da yal.nmcliar gibi ,ok zor durumda kald.k.
+1994 krizi piyasada i~izlik artl~lna sebep olrnu~tu. Bizler de c;:ok
+jey kaybettik ve boWn hayallm.z all Usl oldu.
+
+--- Sayfa 121 ---
+111
+DOGRU YATIRIM YANU~ YATIRIMCI
+-
+1994 krizi bir ~ok yatmmci ile beraber biz ~h~'mlan da ~ok
+,lor durumlara dO¥lrm~r.
+1994 Ocak ayl ba~lannda teknik ve mali aoaHz uzmanlannm
+da tavsiyesi ilzefine yattnmcJ!anmlza gelecegini ~ok iyi gordUgU-
+mOz borsaclaki elektrik Oretirni yapan ~irketlerin biT tanesini oner-
+mi~tik. Genel bir hareketle portfoylerin ~olluna bu hisse senetle-
+rinden alml~tlk.
+Uluslararasl rayting kurulu~lanmn kredi notumuzu dti~rmesi
+ile bajlayan ekonomik kriz baWn borsaYi etkiledigi gibi, dolar ba-
+zmda bor~laTl olan bizim elektrik ~irketi hisse senetlerini de yan fi-
+yatma dli~ilrdti. BOWn yatmmclianmlz durumu anlaYl~la kar~t1ar­
+ken, yaklOen taOlcllglmlz mO~terilerimizden biri bize a gOnlerde
+adeta kan aglatt!.
+Borsa dO~meden once portfoytindeki elektrik ~irketinin hisse-
+lerini kabuJ ederken krizle beraber yan fiyahna dti~nce biz tavsi-
+ye edip aldlk diye paraSJnlO iaclesini istedL Borsaclhk nankordilr;
+hisse senetleri dil~Unce siz kabahatli olursunuz.
+1994 krizi hesapta yoktu, bOWn borsa yatmmcdanmn kaybl
+bOytikW. Yalmz bu mO~terimiz aradan iki ay ge~ikten sonra ba~ta
+ben olmak mere hepimizi su~ladl. Ama biz hakslz oldugu i~in pa-
+raSlnl iade etmedik.
+
+--- Sayfa 122 ---
+112
+Bu sefer daha c;:amurla~h; evlerimize telefon edip ailelerimizj
+rahatslz etmeye ba!1ladl. Sirkete gelip her onbe~ gUnde biT olay «';1-
+kanp tehditler savuruyordu. Aylarca sliren mUcadelesi sonw;: ver-
+meyince sagda solda ?3hSlmlzJn ve ~irketin aleyhine konu~maya
+ba~ladl.
+Sonunda hisse senetlerini allp gitmesini defalarca sdyledigirniz
+bu mi.1~terimizin durumu c;:ok daha vahim oldu. Dna akhglmlz
+elektrik ijreten ~irketin hisse senetleri onun portfoyOniln be~te bi-
+ri idi. Sonunda 0 bizimle inatla~lp bOWn portfoyUnli kaybetmi~i.
+<;:i.inkil bizim 3TaCI kurum uzun sUren krize daha fazla dayanama-
+yip balffil~11.
+Bizi rahatslz edip aylarca Uzmu~tG. Ama bizim holdingin araCI
+kurumu onu tam Uzm~tu. DoiaT bozduTUP aldlgl elektrik ~irketinjn
+1997 sonunda fiyab 500.000.-TL. civannd. idi, dol.r ise
+200.000.-TL. idi. 1994 Ylhnda biz ona ald"dlglffilz vakil hisse se-
+neti i1e dolar aym fiyatta idi.
+Keskin sirke kUpUne iyi zarar vermi~ti.
+
+--- Sayfa 123 ---
+113
+BORSACIUK ZOR VE 6ZVERiLl t~TtR
+Hisse senedi piyasasmda ~ah~lyorsamz ve hakikaten kendinizi
+i~inize kaptlrdlysamzi i~iniz /Yok zordur. Nered.e olursamz oiun, her-
+?eyiniz borsa oluT. Onunla yatar onunla kalkarstnlz. Borsa dl?lnda-
+ki saatlerinizde bile, radyo, tv, gazete ve dergilerde borsaYI etkili-
+yecek haberleri takip edersiniz. Daha onceden siyaseti takip etmi-
+YOTsamz bile piyasaYI c;:ok etkilediQi i~in her ~e?it siyasi olaylan ta-
+kip edersiniz. q:iniz, dostunllZ, akrabamz sizlerle kar?lia?tJklannda
+sizi sormaclan once bOTsaYI sorarlar. yOnkti huzurunuzun genellik-
+Ie borsaya ba~h oldu~unu onlor do bilir.
+. Evinize d6ndogUnuzde kOc;:tik c;:ocugunuz bile "bugUn borsa
+C;:lkh rnl baba?", diye SOTar. Evdeki aile ya~mlnJn borsa ile etkilen-
+digini 0 da ~renmi~ir.
+•
+.
+Borsa aC;:lkken table gitmek istemezsiniz; akhmz borsada kahr.
+Dinlenmek i\=in gitli\1iniz yerde bile, araSlra televizyondan izler, ba-
+zen de telefonla bilgi ahr; orada da kendinizi ve beraber tatil yap-
+tlklanmzl huzursuz edersiniz.
+MO~terilerin , !lirketin, patron ve yoneticilerin portt6yleri ve
+~hsi portfOyUnOz devamh kafamzdadlr. Hisse senetleri deger kay-
+bedince herkes sizden hesap sorar, sizi sorumlu tutar. Piyasamn bir
+de avukathglOl yapmak zorunda kahrslOlz.
+Borsada vanni yogunu kaybeden, borsa yOzOnden hasta oian,
+
+--- Sayfa 124 ---
+114
+aile y~aml bozulan. inti~an dti~i.1nen yattnmctlarla muhatap olur·
+sunuz. Onlann adlna da UzU10r. dertlerine derman bulmaya c;ah~lr­
+SJnlZ.
+Bizim i~imiz dl~ndan ho~ gortintir ama ozveri isteye:n zor biT
+meslektir.
+
+--- Sayfa 125 ---
+us
+BiR STRES AITIK
+Korfez sava~1 sonrasmda borsa ~ok uzun zaman kencline gele-
+rnedi.
+I~ler kesat olduQu i<;:in borsa yatmmCJiannm ve ~iTketteki
+patronlann gOlmeyen yi.izlerinden i<;imizi kara1ar baglaml~tt. Aylar-
+dlr hiT turlU <;Ikl~ trenclini yakalayamlyorduk.
+Bir gun beklenen oldu. Ilk defa i.lem hacminde bir arb. olmu>-
+tu ve borsada bir canhhk bajlaml.b. Zevkten dort kOje olduk. Ilk
+defa morallerimiz dUzelmi~ti.
+Seans bitince bUyUk hiT ~evk lie i~lemlerimizi tamamlaml~. hlz-
+h biT ~kilde kontrolleri yaplp, borsa dl~tna kendimizi atml~tlk.
+Mevsim ilk bahardl, hava fena degildi. Biz de borsadan ~Ikmca
+doQru Ortakoy sahilindeki restoranlann birine gittik. AylardlT sO-
+ren slkmtllanmlz iyice da!)ttsm diye ne~ iI;inde yemek vermi~, ic;:-
+ki de i~mi.tik.
+Pek 0 gOne kadar i~ saatinde ic;:ki ic;memiz vaki degildi. Gerc;:i
+ydba.mda patronl.ra gelen yabancI Iikorleri bir ak>am .irkette Iii-
+ketmi~tik; ama 0 olay eve gitmemize yakm hiT saatte olmu~tu.
+Benim borsa sorumlusu olarak aylarchr hem mi.i~erilerin, hem
+patroniann, hem benim ile beraber borsada c;ah~n arkada~ann
+_"cnlllanndan her halde daha fazla gevjemeye ihtkiyaclm vardl ki,
+bayagl sarhoj olmu>tum.
+Bana restorandan ~irkete giderken araba kullandlrmadJiar. Di-
+
+--- Sayfa 126 ---
+116
+lim dolamyor diye de, "aman agabey, ~irkete gidince rnGmkUn
+mertebe konu~ma n, dediler.
+~irkete gidince herkesin ne~sinin yerine geldiQini gordlik.
+Colann da yilzleri gUIUyordu. Borsanm biraz dOzelmesi hepimizi
+nasil etkiliyordu. Ben ic;:kinin de verdi~U rehavetle borsa hakkmcla
+bilgi soran patronlara pi~mi~ kelle gibi slnhp hie;: cevap vermemi~­
+tim.
+o ak~m benim araba He Anaclolu yakasmdaki evlerimize do-
+oerken, hie;: ytiriimeyen hiT trafik varcll. Biz mutlu ve gev~emi~ hiT
+halde idik. Arabamn radyosunda hafif ve baygln bir muzik <;ahyor-
+duo Arabamn biltOn yolculan uyurnaya ba~ladl. Ben de gerek 0
+gUnkO atmosferden. blraz da borsadan C;lkmca ic;tiklerim nedeni ile
+uyumaya ba~laml~hm.
+GUm diye bir ses duyuldu ve B~az K5prUsUnun yamndaki ka-
+hn crelik halatlara araba yaslamnca uyandlk. Benim arabamn sa!)
+taTah hurdaya d6nmU~tu. Saddam delisi ayiar once Kuveyt'e bir
+ta~ atml~t1. Ta~ bizi de ne hale getirmi~ti; stres atmaSlnl bile unut-
+mu~, bir de Bogaz KoprO.si.ine tIrmanml~hk.
+
+--- Sayfa 127 ---
+117
+BIR YATImMCIMIZ VARDI
+Borsada c;:ah~maya ba~layah iki Yll olmu-?tu. Ankara ~ubemizin
+bir mG~teresi beni ziyarete geldLEJinde c;:ok yUksek maliyetli hisse
+senetleri vardl. Hisseler borsa dU~nce adeta eline yapl~ml~ sata-
+maml~l.
+Meslegi eczaclhk olan mU~terimizin ailevi sorunlan da pklm~­
+h. Sonunda kendi ozel sorunlan, saghk prdblemleri Ankara'da ya-
+~maslOa engel olmaya ba~ladt. 0 da eczanesini devretti, e~inden
+aynldl, Istanbul'a yerle!li.
+Her gUn borsaya geliyor. uzun vadeli almak istedigi hisseleri
+yakmdan takip ediyor. $irketleri de her baklmdan inceliyordu. So-
+nunda eczanenin devir parasl ile borsaya girdi. ~nsl da yardtm et-
+ti. Sermayesini bUyOtlU. Artlk tamamlyia borsacl olmaya karaT veT-
+mi~ti.
+Araci kurumlardan birinden gomlek kiralayarak yatmmcl ola-
+rak salona da girmeye ba~ladl. Kendi i~lemlerini kendi yaplyordu.
+Ylliarca beraber ~all,!tk , bir mil,teri olarak ilgilendi~i borsada tam
+bir uzman olmu~. Kendi analizlerini kendi yaplyordu·. Iyi paralar
+kazandl. Borsa dl,mda da bir ~ok yatlTlm yaplp, gelece~ini de ga-
+ranH altma .alml-?tl.
+Ama sagh~lm iyi koruyamaml~tt. Bir gun borsada seans anm-
+da onu kaybettik. Ruhun ",d olsun Mustafa Kuyumcuo~lu dostum,
+seni ~ok ozlOyoruz!
+
+--- Sayfa 128 ---
+lI8
+OOZALTI PAZARINDA KIM ZARAH ETl1?
+Borsamlzda eskiden birinci pazar, lot dl~1 pazar, oolgesel pa-
+zar vardl. Bir de son ytllarda g6z alb pazan C;lktl.
+Onceden borsa yatmmcllann c;oQunun uyan akilkianm bilme-
+dik1eri bu ~irketler, aniden ve seans esnasmda gelen kapatma ile
+aylarca ceza ahrlar. Seans anmda i~lemlerin durdurulmasl ile on sa-
+niyeden Iosa biT zaman aynml i1e baZI yahnmctlar pac;ayt kurtanr-
+ken; bazilan ise daha once bu hisseleri aldlk1an ic;in enayi yerine
+konmu~ olurlar.
+Bu hisse senetleri. aylarca yapllmayan karaT toplanttlan ile oi-
+hayet aC;11masma karar verilip sabahlan saat 9.00 - 9.30 arasmda
+yapilan goz alh pazanna yollamr.
+Neticede kim kaybeder?
+Spektilatoriere manipo.Iasyon yapan ki~i1ere , 0
+~irketin ic;ini
+bo~ltan ~irket sahibine, bu kagltian alanlann ceza1anmasma karar
+. veren bilrokratlara biT zarar gelmez; kaybeden sadece yahnmcilar
+olur.
+Bu hisse senetleri i.izerinde aylarca yapllan dam~lkh fiyat art!-
+~ma g6z yumulur, fiyatJ 4000 TL. 'den 100.000.-TL.'ye ~Ikar. Bu
+ara kimse mooahale etmez. Alan ahr, satan satar, soma 50.000.-
+TL. 'ye dU~nce , aylarca ahm sahml durdurulur.
+
+--- Sayfa 129 ---
+119
+Bu me~hur hisse senetlerinden birinin seans amnda kapahhr-
+. ken fiyatt 2500 TL idi. Iki ay kapah kaldl. Sonra goz altt pazann-
+da i~leme a~t1dl. Yatlnrncdar hisse senetlerini yan fiyatlna sathiar;
+fiya! hlzla 1100 TL'ye kadar dU~!U. Aradan hir ay ge<;meden de
+4000 TL 'ye <;lk!1.
+Size tekrar soruyorum bu hisse senetlerini alan hakiki yatmm-
+eldan ba~ka kim kaybetti?
+,
+
+--- Sayfa 130 ---
+120
+ARACI KURUM SATIN AI DIK
+1993 ylima gelindiginde. borsanm i~lem hacmi ytikseliyor ve
+Korfez Krizinin Ozerine serpti~:i 610 topra!1mdan slynlmaya c;ah~l­
+yordu.
+Ben biT holdinge ait hiT araCI kurumda genel mOdUr muavini
+ve aym zamanda borsa sorumlusu olarak gorev yaplyordum.
+o gunlerde borsada ~ok zor ~rtlar alhnda ~ah~lyorduk. Araci
+kurum saYISI 1991 ' de dondurulm~tu . Aracl kurum saYISI artml-
+yor, ama kurumlann acrtildan ~ube ve acentalar TUrkiye'nin dort
+hiT yanma yaYlhyordu.
+Borsa seans salonuna bUyi.ik hiT yUk bjnmi~ti. Borsa binaslOda
+c;:ah~n saYISI seans slrasmda bini geC;:iyordu.
+Salonun alt yapt eksiklik.1eri ve dar gelrnesi yanmda, borsaya
+saYlh eleman sokabilmemiz en bUyUk sorunumuz idi. Gomlek sat!-
+~I ba~laml~h.
+Bir de haberle~me problemlerimiz c;ok bUyliktil. Yapllan i~lem
+hacmine gore telefon tahsis ediliyordu. Ama biz yeteri kadar ele-
+man sokamadl~lmlz ic;:in i~lem hacmimizi istedi~Umiz gibi art!raml·
+yorduk. MU~terilerimizin talebini kar~lhyamaz, iyi hizmet veremez
+olmu~tuk.
+o slralar ikinci, araci kurumunu hatla Nasrullah Ayan gibi
+U~UncUsUnU bile alanlar yard!.
+
+--- Sayfa 131 ---
+121
+Bana holdingin patronian sahhk araci kurum bulmaml sOyledi-
+ler. 0 slrada sevdigim bir dostumun bu i~leri me~kkatli buldugu
+icin araci kurumunu satmak istediQini ogrenmi~tim.
+Telefon a~tJm , ~irketine talip oludgumuzu bildirdim. Ne tesa-
+dUf ben telefon a~tJglmda ba~ka alacakhlar ile pazarhk halinde
+imi~. Bana sadece. beni bir saat sonra ara demi~ti.
+Ben de ~ahhk araci kurumu olan beyi ,tekrar aradlm. Konu~­
+mamlz ve pazarhglmlz neticesinde bey ~irketini bize satmaYI tercih
+edecegini s6yledl. Ben de zaten diger ahclntn biraz O.zerinde ve pe-
+~in ooenecek fiyat vermi~tim.
+Ertesi gUnlerde sabhk ~irketi alan bey ile patronlar anla~tIlar ve
+~irketi satm aldlk. Ben bu yeni alman ~irketin satin ahnmasmda ba~
+'rolu oynadlQlm it;in bana ~irketin ismini koyma hakkml vercliler.
+Bir de yeni satm alman araci kurumun genel modurlUgilne getircli-
+leT.
+Bu yeni ~irket saYesinde diger aracl kUTUIT).Un iyi hizmet alama-
+yan mil~terilerini ikiye boldilk. Yeni bir bina kiraladlk. Borsa i~lem­
+lerinde de rahatladlk; telefon saYlmlZ arth. Borsaya daha ~ok
+adam sokmaya b~ladlk. 1~lem hacmimiz artml~h. Holding de da-
+ha ~ok kazamyordu.
+Biz bu aract kurumu satin aldtktan alh ay sonra, bana bir grup
+taraftndan, onlara genel mUdilrti oldu9um aracl kurumu satmamtz
+kar~lh91, bizim alh ay once odedi9imizin 09 misli fiyat onerdiler.
+Durumu patronlara bildirdim. Ben bir borsaclychm; fjyat c;:ok
+gOzeldi. Borsanm iyi zaman! idi; araci kurum fiyatlan yUkselmi~ti .
+Ama borsa krize girince bizim hisse senetleri dil~rken aracl ku-
+rum fiyatlan da aynen dU~cekti. Teklifi kabul etmediler; bir de, in-
+san ekmek yedi9i ~irketini satar ml, diye sitemde bulundular.
+1994 krizi ba~ladl. Borsa ziJve yaphktan soma fena halde
+gilmledi. TOrkiye ekonomisi bilyilk krize girdi. Yeni kurulan bizim
+holdingte finans slkmttsl ba~ladl.
+
+--- Sayfa 132 ---
+122
+Bana sonradan aldl~lmlZ aracI kl,.lrumu satma yetkisi verdiler.
+Ama ben arae) kuruma faizlerin % 600 oldugu; dolarm hergiln
+1000 TL prim yaptJgl 0 donemde ahcl bulamadtm. Holdingin di-
+ger arael kurumuyla beraber slkmhya du~tUk ve Sermaye Piyasasl
+Kurulu bizi kapatb.
+Oc;: ay once onsekiz milyar verilen biT ~irketi, diller arael kuru-
+mun bazl alacakhlanm, da katara~> ~irketin magdur durumda kalan
+mU~terilerine devrettik. ~irket bizim mil?1erilerin oldu.
+Once bize c;:ah~a izni veren SPK ye,netimi degi~ti. Sn. lhsan
+Karacan bizim m~terileri begenmedi. Siz bu ~iTketi idare eclemez-
+siniz demi~ti. Bizim mti~teriler de ~irketi satmaya karaT verdiler.
+Ben bu ~irkete de m~terj aradlm ve aliel buldum. Bu sefer SPK,
+~irketin sahlrnasma cia izin vgermedi. ve borsa tiyeliginden pkardl.
+Cenaze yerde ka1ml~tI .
+
+--- Sayfa 133 ---
+123
+BORSANIN ILKLERi VE S. MENKUL
+KlYMEUER
+BorsanlO kurulu~unda borsantn 1 nolu Uyelik numaraSlnl ka-
+pan, soma acemi borsada he~ ~e~it numarayt yapan Vaklfhan kO-
+kenli ve Sn. Kastellinin talebesi olan biT araci kurulu~.
+YaptJ!';!:1 i~Iemlerle bizim gibi borsaya yeni gelenlere borsamn
+hassas ve ince oyunlanOl ~reten ama pek ornek ahnmamasl ge-
+reken biT aracl kurum.
+YaplIgl tiktif ve ~i~irilmi~ i~lemlerle ve hakikaten ~ok olan mU~­
+teri sayt51yla ilk Dc;: senenin i~lem rekortmeni.
+Borsadan aldl!';!:l hisseleri mti~terileTine Have fiyatlar He satan ilk
+kurulu~. (Biz fiyatlara 50 ve 100 TL. eklerken onlar 500.-TL. ek-
+Iiyordu .. )
+Ilk sokak borsaSi i1e irtibath ~aJl~am; bizlerin de sik sik gidip
+aC;:lktan hisse senedi sathglmlZ ve aldlgllluz, ba~kalanndan aldl!)!
+ucuz hisseleri yine borsa dl~lnda yUksek fiyat i1e satan ilk kurul~.
+Eskl Cumhurba~kammlz Sn. Turgut Ozal'In bizzat gidip yeni i~
+yerini a<;tlgl ilk kurulu~.
+Borsa binasInin 6 metre yanmda (zaten imar rnev2lJab daha yalu-
+na ~t
+yaprnaya izin vermiyor) borsaya en yakm ~ yerini ~
+ilk ku-
+ruI~.
+Borsa m~terilerinin mallannt on1ardan- habersiz satan ilk kurul~.
+
+--- Sayfa 134 ---
+124
+Borsada yaptl91 i~lemlerde hergGn borsa yonetimi ile ihtilafa
+dUjen ilk kuruluj.
+Borsa y6netimi tarahndan uyan celaSI alan ilk kurulu~.
+SPK'dan uyan cezasl alan ilk kurulu~.
+Kaplsmm onOne bomba konup carm ~en;:evesi inclirilen ilk ku-
+nJIUj.
+MUjlerileri ile ihtilaf. dUjUp, mUjlerilerini doven ilk kuruluj.
+Bazl mti~terilerine bon; takan fakat mo.~erilerinin baztlanmn
+da ona iyi bor, takhgl ilk kuruluj.
+.
+AlJlktan sattl91 hisse senetlerinin, sonradan sahiplerine ksZlP,
+hisse senecli c;ahndl diye hisse senedi numaralanm bildirerek mah-
+keme kanah i1e borsa billteninde yaymlahp, onlara Odeme yasagl
+koyduran ilk kurulu!.
+SPK'mn faaliyetlerini tamamen durdurup kapath91. borsa i~­
+lem belgesini iptal ettigi ilk kuruluj (Sen neymijin be abi).
+Bu yukanda saydlglm ilk'ieri borsada ban insanlann 5rnek al-
+d,g, ve yenettigi bir,ok aracl kurumun kapahhp gittigi gorUlmUjlUr.
+
+--- Sayfa 135 ---
+KAMU ORTAKLIGI IDARESI
+(OZEL~TIRME IDARESi)
+125
+1987 Ylhnda yaphgl gizli sahjlan sonradan duyurup sahjlann
+devam edecegini a~duayan, zaten krize girmekte olan borsaYI ko~
+maya sokan clevlet kurulu~uduT.
+1993 Ylhnda yine hit; biT ar;ddama ve uyanda bulunmadan
+ozelle~tirme He i1gili hisse senetlerini borsamn icy dinamiklerini saT-
+sacak bir jekilde satan devlet kurulujudur.
+Yaph91 satl~larla barsa yatmmcllanmn ytiksek fiyatlarla ozel-
+le~tirme hisse senetlerinclen 001 bol edinmelerini saglayan bu ku-
+rulu~un topladlQI gelirlenn Tilrkiye'ye acaba ne faydasl olmu~tur?
+<JmeQin 1993 $ubat aymda gilnlerce sah~l stircltirOlen Erde-
+miT hisse senetlerini 16.000.-TL'den alan biT yatmmci bu senedin
+borsada zamanla 8500.-TL'ye dUjlUgUnU gorOnce borsaya ve ilI-
+kemize katkt ml,sa91anml~ olmaktadlr?
+Bu kurulUj, 1994 ytlmda uiusiararasl reyting kurulujlannm
+Ti.1rkiye'nin kredi notunu dU~Orrneleri ile ba~hyan krizden onbe~­
+gOn sonra cla borsada 6zelle~tirme hisse senetlerinde ah~ rezaleti-
+ni yapan devlet kurulu~dur.
+1. Yapllan ah~lar He bir ~ok yatmmci umutlanml~ ellerindeki
+hisse senetlerini satmaml~lardlr.
+
+--- Sayfa 136 ---
+126
+2. Yapllan ah~lann ardlndan biT de satl~ yapllarak daha da bu-
+ylik kepazeli~e sebep olurimu~tur.
+3. Ah~lar slraslnda 0 aralar sat1~ yapamlyan baZI clost ve akra-
+baJann ozelle-?tirme hisse senetlerinden kurtuldugu dedikodulan
+C;lkml~tJr.
+4. Borsamn dU~li~ilnli engellemek ic;in heba edilen yanm tril-
+yon ilerde balacak araCI kurum yatmmC1lanna daglhlsa daha fay-
+dah olurdu kamslndaYlm.
+Hep en yUksek fiyatlardan borsada mal almak zorunda kalan
+tecrtlbesiz yatmmCilann c;ektikleri c;ilelerde, ya~dlklan problemler-
+de, bu hisse senetlerini aldlran bizler kadar Kamu Ortakhgl gihi
+borsa piyasasma gerekli gereksiz satl~ yapanlann da katklSI olmu~­
+tUT.
+Daha gec;enlerde 6zelle-?tirme Idaresi yetkilisinin "Borsada ge-
+rekirse bu hisse senetlerini satabiliriz". diye yaphgl ~nSS1Z aC;lkla-
+malann borsada nelere yol ac;hgl iyi bilinmektedir.
+Klsaca Kamu Ortakhgl Idaresi borsa dl~mda bankalar araclhgl
+ile halka arz edebilecegi bu 6zelle~irme hisse senetleri He borsaya
+mUdahale etmeseydi hepimiz ic;:in daha iyi olurdu.
+•
+
+--- Sayfa 137 ---
+127
+SERMAYE piYASASI KURULU
+Sermaye Piyasasl Kurulu seksenli Yiliann ba~lnda ya~nan
+banker krizinden soma dogan zaruretten dolaYI 1981 Ylhnda ku-
+rulmu~tur.
+Amacl yahnmcl tasarruflanmn menkul klymetlere y6nlencliril-
+mesi ve lilke ekonomisine etkin ve yaygm bir ~kilde kattlmalan-
+om sagianmasl idi. Sermaye piyasasmm gilven, aC;lkhk ve kararh-
+hk i~inde geli~mesini , yatmmcllann haklannm ve ~Ikarlanmn ko-
+runmaslnJ dlizenlemek ve denetlemek ityin kuru1mu~tu.
+11k onytlda borsam,zda yapdan baz, hatalar gibi onu denetle-
+mekten sorumlu bu kurulda da hizi ilgilendiren hata ve aksakhklar
+olmu~tur.
+Sermaye Piyasasl Kurulu kaoun gereQi ozerk ve ba!)lmslz ka-
+rar alma yetkisine sahipken bagh bulunduQ'u clevlet bakanhgl ve
+dolaYlslyla mevcut iktidarlar tarahndan bu yetkileri baskl altmda tu-
+,
+tulm~ ve baZI siyasi istelder d~rultusunda yonlendirilmi~tir. Siya-
+si otoritenin kurul Uzerindeki a~lrh~1 hala sOrmektedir.
+Y,lIardlr g6riilm~Or ki, daha ~ok bOrokratik yap,daki Serma-
+ye Piyasasl Kurulu o.yeleri ile Borsa Yonetimi ve Borsa Oyeieri,
+her~yden once zihniyet farkl sebebiyle dtizenli ve uyumlu ~h~­
+maml~lardlr.
+Kurul borsadaki baZI araCI kururnlann ve bankalann dOzensiz
+
+--- Sayfa 138 ---
+128
+ve kural dl~1 yah.?malan kar~lsmda "etkin ve sUrekii denetim yapa-
+maml~; hukuki itilaflarda sOratii biT ~kilde neticeye gidememi~; za-
+afiyet it;inde kalml~ttr.
+Borsada halka a~t1an ~irketlerin seyilmesinde ve kOtUlerinin
+aYlkJanmasmda ba?anh olundugu kadar bu ~irketlerin hisse senet-
+lerinin talep eden kU<yUk yatlnmcmm eline ge<;mesi saglanamaml~­
+hr.
+Halka a,llan ~irketlerin hisse senetlerinin OOrsada i~lem gor-
+meye ba~ladlgl gUnden beri borsadaki ayak oyunlan ve anormal fi-
+yat hareketleri engellenernemi~tir.
+Muhtelif tarihlerde hoi 001 a<;t1malanna izin vetilen araci kurum
+ve bu araCl kurumlann ~ube ve acentalanmn saytlanndaki artl~ re-
+kabetten dolay! hizmette dOzelme getirecegine, hizmette acemili-
+gi, kalitesizliQ.i ve istisman getirmi~tir. Borsada insider trading ve
+manipwasyon engellenememi~tir.
+Bilhassa 1994 mali krizinde balan aracI kurumlarla i1gili ola-
+rak- ~hsen de ~hit oldu~um Uzere - yeterli denetim yaptlamaml~,
+bir e;ok araCI kurul~un bir an once kapatIimasl gerekirken, aylar-
+ca bu konuda karar almada ve yetki kullammmda zaafiyetler gos-
+terilmi~tir.
+Bu yUzden ge, kapahlan, bu ara malyalann 001 bol ziyarel el-
+ti~i aracI kurumlann yahnmctlan, ~irket patronlan ve e;ah~nlan
+daha da ma~dur olmu~lardlr.
+Senelerce, kuruldugu 1990 ydlOdan ilibaren OOrsada yapma-
+dl~1 ayak oyunu ve borsa numarasl btrakmayan 'bir araci kurum sa-
+hiplerine borsada lie; kote olan ~irket ve ile; araci kuruma sahip 01-
+malan ie;in ortam yarahlml~ ve bun lara izin verilmi~tir.
+Bu aracl kurum defalarca uyan ve kapatma cezalan aldlktan
+sonra, 1994 Ylhnda mali krizi neticesinde dli~tO~O odeme SlklntlSI
+yOzUnden batml~tlr.
+
+--- Sayfa 139 ---
+129
+Bu araci kurumun SPK taramdan mali krizden c;ok once kapa~
+tJlmasl ic;in bu araci kurum sahiplerinin daha ne yapmasJ gereki-
+yordu?
+,
+
+--- Sayfa 140 ---
+130
+~u ME~HUR ELEKTiRiK DAGITIM
+iHALELERiNE NE OLDU?
+Borsada 1997 Y1h ilkbahar .ylanndan beri bu ihaleler kon~u­
+yordu. Aylardan beri hangi ~irketin ihalede en iyi liyab verdigi bilini-
+yordu. Ama nedense ayiardlT ihale neticeleri ac;lkIanmadl.
+En son borsaya gelen YazJdan anledlglmlZ kadan lle 15 KaSlm
+1997 gUnU ac;ddanacakb.
+Sonra bajbakan yardlmclsl, "Ihaleler iptal edilecek", demi~ti.
+Ertesi gUn hOkUmet soiciisil, "HaYlr iptal edilmedi, bakanlar ara-
+mda bu konu lle llglli olanlar ihale neticeleTini yeniden inceleyecek",
+dedi.
+Bastnda hergUn bu konu ile llglli dedikoduJar c;Uru, muhalefet bu
+konuda bask! yapli. Ene~i Bakam, "DedikoduJara gerek yok, bugUn
+yann goreceksiniz, ac;lkIlyacaglm", dedi.
+darkmalt
+Ihalelerin neticeleri ac;lkIanmadlkc;a muhtelif ~beIei duyulur;
+acaba kanun deg~ikligi mi liIzun? diye sorulmaya ~anlT. Aradan yi-
+ne gUnler gec;mijlir. Ene~i Bakanl te\evizyonda bir ac;1k\ama daha ya-
+par: "Yll som.ina kadar ihale neticelerini muhakkak aC;lkhyacagli".
+Bazl c;:evreler kaytnhyor; iha1eler ucuza gidecek haberleri C;:lkar.
+31 Arahk 1997 gUnU gelir. Enerji bakam bu sefer;
+
+--- Sayfa 141 ---
+131
+"Ihale neticeleri irnza i~in daha onOme gelmedi", diye beya-
+natta bulunur.
+Ocak aymm ilk haftasmda, yakmda aC;:lklan~ca!)1 borsada yaYI-
+hr. Enerji daglhm ihaleleri He i1gili olan borsa ~irketleri ylikselmeye
+ba~lar.
+Ihale neticeleri nihayet Ocak aymm ortalanna d~ru ar;lklamr.
+Neticelerin ar;lklandl{11 gUnGn ertesinde, ihale alan holdinglerin ka-
+gltian birinci seansta tavan ikinci seansta taban yaparlar.
+DO~u~ trendine rastladlklan ir;in, beklentileri kalmadl!).1 ic;:in, ya-
+hnmcmm da biT seneye yakm arbk sabnntn kalmadl9lOdan bu his-
+se senetleri iki gOnde nerdeyse yan fiyatlanna diJ.?erler.
+Ama a511 fatura da aylardlT bu hisse senetlerini ahp bek1eyen
+borsa yatmmclsma C;:lkar.
+Bu bizim ozelle~jrme politikasmm traji komik borsa versiyo-
+nudur.
+•
+
+--- Sayfa 142 ---
+132
+BORSA ENDEKSI YANILTICI
+OLABILMEKTEDIR
+Borsamlzda, bilhassa son endeks dUzenlemelerinden sonra;
+borsa endeksi i1e bazl organize borsa ~bekeleri taraflndan etkin
+bir ~kilde oynanmaktadIT.
+Endeks ilzerinde yUksek etkisi olan kagltlar kriz anmda fiyat
+olarak tutulmaya, krizden ~Ikarken de hemen ~i~irilip, borsa en-
+deksi Ozerinde etkili olunmaya ~h~i1maktadlr.
+Ydlardlr silren, trilyonlarca zaran olan biT ozelle~tirme kagldt
+Uzerinde donen oyunlar neticesincle ozelle~tirmeden sorumlu olan-
+laT bile en sonunda dayanamaytp bu ~i~n fiyatlar ytizUnden ozel-
+le~tirme yapdamJyaca~lnl itiraf etmek zorunda kaldtlar.
+1997 Ekim aylOdan beri borsa ,e~itli krizler ve muhtelif istik-
+rarslzhklardan dolay! zaten hlrpalanml~tJr. Yatmmctiann zaran bo-
+ytikWr. Bir de bu tOr hareketler yatmmcIYI borsadan iyice sogut-
+maktadIT. On-onbe~ kaglt ,Ikarken, diger hlsse senetleri k1mllda-
+mamakta, halta dO~mektedir.
+Ge,enlerde, endeks 3700 puana bir iki gOo i,inde ,lkllglOda,
+borsada bir ,ok hisse senedi hal" 3000 endeksi fiyatlannlO ailln-
+da idL
+Borsada ve bilhassa basmda yapllan yorumlarda devamh ola-
+
+--- Sayfa 143 ---
+133
+rak endeksi etkileyen bu ka~ltlardan bahsedilmekte, dolaYlslyla
+borsanm i~lem haemi bu kajjltiar Uzerine kaymaktadlr.
+Devamh sert ini~ ve r;lkl~lar yaptmian bu hisse senetleri ile sa-
+dece piyasa yamltllmakla kalmamakta; zaten ekonomik ko~ullar ve
+siyasi istikrarslZhktan terUddOtte olan yatmmcllann diger yatmm
+arar;lanna kar;malanna sebep olunmaktacltr.
+DerinliQi olmlyan, biT 90k hisse senedinin halka a91khk oram-
+nm % 15 'Ier civannda oldu~u borsamlzda bu tOr ayak oyunlan ile
+mticaclele etmek i9in biT an once tedbir ahnmahdtT.
+Kurumsal yatmmcdar te~ik edilmeli, bu tor hareketleri engel-
+leyecek hukuki dUzenlemeler yapllmah ve 9091U kar~l foolar kurul-
+mahdlr.
+
+--- Sayfa 144 ---
+134
+BiR YATIRIMCI iLE SOHBET
+MO.teri
+Arkada.,
+Mi.i~teri
+Arkada.,
+Mu~eri
+Arkada.,
+Mi1~teri
+Arkada.,
+Mi1~eri
+Arkada.,
+Mi.i~teri
+0$0 Ay Onceki GOriilme
+, Yakmlarda X diye bir hisse senedi ald,m.
+: Mali yaplslnl sordun mu?
+: VII sonunda iyi k~n getiTecekmi~, dururnu iyi,
+fiyah ucuzmu~.
+: Tekni9:i nasllml~?
+, Canak yapm,., c;ok iyi olacak, dediler.
+: Piyasayt sordun mu?
+, Bomba gibi ; .imdi endeks Oc;bin be.yilz, y,1
+sonunda be~ bini klracakrm~lz.
+: Senin hisse senetleri ne oldu?
+, 6000 TL'den alm,.tJm.
+10.000 olur demi.lerdi.
+~imdiki 4000 TL'ye dO>til.
+: Mali yapisl iyi demi~in.
+: Iyiymi~ . ama patronlannm siyasi g6rU~il iktidar
+ile uyu~muyormu~.
+
+--- Sayfa 145 ---
+Arkada"
+MU!iteri
+Arkada"
+MO~teri
+Arkada"
+MO~teri
+,
+: Tekniz analizi iyi demi~tin.
+: CanaQI klramaml~;
+Keriz tepesinden alml?lz
+: Piyasa daha iyi olacak demi?tin.
+, Uzak doguda krjz <;Ikml,; yabanc"ar ah,
+yapacaglOa satl? yapml!jiar;
+,
+Se<;im gGndeme gelmi,;
+IMF ile anla~maml?lZ ;
+endeks de G<;bine dG,mG,
+, Canak yapml,tJ, be,bini l<JracaktJk?
+135
+, Dogru sOylemi,ler, ben <;anak <;6mle9imi kJrd,m.
+,
+
+--- Sayfa 146 ---
+136
+BORSA PIYASAMIZDAKI DUZENSlzUK
+1981 yJlmdan ben mali piyasalarm ve bilhassa borsa piyasasl-
+nm i~inde ~h~lyor ve ya~lyorum. Geriye donup bakhglmda, mali
+piyasalanmLZda ve bilhassa bizim borsa piyasasmda Ulkemizdeki
+tekerrtir eden ekonornik ve siyasi istikrarslZhklardan dolayt sik slk
+krizlerin meydana geldigini ve dLizensizlikler oldugunu gorUyorum.
+1987 Vans) yUkseli~ yansl kriz
+1988 BOtOn yd borsa komada
+1989 BOtOn yd istikrarh. kriz yok
+1990 Yansl yUkseli~ . K6rfez krizi ba~hyor
+1991 BOtOn YII krizdeyiz. Saddam bizi mahvetli
+1992 BOttin YII kriz. canlanma yok
+1993 Istikrarh yUkseli~ . kriz yok
+1994 B6yle sene dO~man ba~tna
+1995 Yansl yUkseli~. sonrasl kriz
+1996 Yansl yUkseli~. yansl kriz
+1997 Once kriz. sonra yUkseli~
+1998 lki ay ge~ti . tlk yok
+GordUgUmUz gibi istikrarslz biT borsamlz vaT; atiattlglmlz bacii-
+re epeyce fazla.
+
+--- Sayfa 147 ---
+137
+Bir borsaYI a.;:t1kj borsada bankalar ve ~raci kurumlar c;:ah~ma·
+ya ba~ladl ; krizler C;:lklP da problemler bUyUyUnce, i~te 0 zaman ba-
+Zl ~yler kafamlza dank etti.
+BorsaYI ac;:madan, bu kurulu~lan ve yahTlTflcdan denize atma-
+dan once gerekli dOzenlemeleri niye yapmadlk. denetim mekaniz-
+malanhl kurup niye c;:ah~hTamadlk, hala anlaml~ degilim.
+1. Borsa gerekli kanun ve dUzenlemeler yapilmadan aC;:lldJ ve
+daha eksikliklerin oldugunu gordyoruz.
+2. Borsamn sistemini tarb~tlkj borsalan inceledik; ama iyi biT
+alt yapl kuramadtk. Piyasamlzl gilvence altma alacak. fonlanmizi
+dlizenli istikrarb tutacak kurumsal yatmmclmlz yok.
+3. Ilk on sene yeterli denetim olmadl. 601 bol araci kurum a~­
+tlrdlk, ama dogru dOrust denetlemedik.
+Borsayt denetleyen Sermaye Piyasasl Kurulu ic;:inde borsaYI
+temsil eden Uye yok. Bu piyasaYI denetleyenlerin borsaYI bildikle-
+rini zannetmiyorum.
+4. Borsamn ba~ma yapilan atamalar daha .;ok siyasi tercihle
+oluyor. Bu piyasaYI yenetmek bilgi, tectilbe ister. Borsamn yerde-
+ki tozunu yutmak laZlmdlr.
+5. Piyasada uzun sUren krizlerden sonra araci kurumlar zor du-
+ruma dO~mektedirler.
+Kimin ne yetkisi var?
+,
+Ne kadar zamanda karar veriliyor?
+Bunun keto orneklerini tectilbelerimizle ya~dlk.
+6. Borsanm ilk kurulduQu senelerde borsa temsilcilerine yeter-
+Ii egitim vermeden borsaYI a';lp ~h~hrdlk. Bunun aCISlm hem ya-
+hnmcllar hem de biz t;ok .;ektik.
+$irket merkezlerinde, ~ube ve acentalannda mU~eri i1e direkt
+
+--- Sayfa 148 ---
+138
+i1i~kide 01an, onlan yaniendiren arkada~lanmlZ var. Borsa temsilci ~
+leri gibi onlan da e~itmemiz, bir yeterlilik belgesi vermemiz gerek-
+miyor mu? Boyle yapJlJrsa piyasamlz it;in faydah olur kamsmda-
+~lIm.
+
+--- Sayfa 149 ---
+139
+BORSAMIZ ';OK iSTiKRARUDIR (!)
+BorsamlzIO nas!! istikrarSlz biT borsa oldugunu, son aylardaki
+olaylardan nasd etkilendi9ini tespite ~h~lm.
+Bi:t;im borsarmzm genel seyrine bakttglOlzda hemen hemen
+her ytilO son aylannda ba~laYlp ertesi yti Ocak ayl sonlanna kaclar
+sUren hiT yGkseli~ goriirstinilz.
+Son aylarda ise ba~lmtza gelmeyen kalmadl:
+Once uzak dogu kaplanlan su koyuverdi. GUney Kore'de ba,-
+layan kriz haberleri He sarslldtk. Yabanci yattnfnctlar sat1~ yaptl;
+borsa du,IG.
+Krizin etkisi azaldl diye tam ~Ikar gibi olduk; ABD-Irak anla,-
+rnazhga dU,tU. Korfez sava,1 ~Ikabilir diye borsa yine dU,tU.
+ABD ile Irak anla,tt, artlk toparlamnz diye dU>GndUk; Bizirn
+ekonomi burokratlan ABD'den dandU; bakammlz;
+•
+"IMF ile anl .. rna yaprnak i~in anla,tlk," dedi; borsa tekrar
+dU>!U.
+o sua 6a>bakamrnlZ; "Kamunun Urettigi mallara alb ay zarn yak".
+dedi. Oze\ sektor de bunu destekledi.
+"Aman ne iyi bizirn borsa ucuz\arnl>ll, arbk ~Ikar", dedik. 0 slra
+Hazine MGst~n istifa etti. Borsa yine dG>!G;
+"Ba>lrntZa gelebilecek baton wIG ~ler geldi, arlt rahatslZ", dedik.
+
+--- Sayfa 150 ---
+140
+Tam , Iklyorduk; Maliye Bakam;
+"Borsaya vergi gelecek". dedi.
+Bizim borsa yine dfj~tit Maliye Bakam; "Pardon, vergi vaT,
+ama bu Ylla herhalde yeti~mez; vergi 1999'a kaldi" dedi.
+Arhk borsanm onO a,Jidl diye Omitlendik. "Relah partisi kapa-
+mrsa, c;alkanh t;:lkar, sec;im gOndeme gelebilir". dendi; borsa tekrar
+dO~o .
+Yoneticilerimiz;
+"IMF ile anla~lk ABD'de bizi destekliyor", dediler. Bizim bor-
+sa toparlandl. Bir hafta sonra ABD'den donenler; "ABO ile anla~­
+hk; ama IMF ile Ocak aymda anla~JrJz her halde", dediler.
+Borsa yine dti~to. .
+Saym Ecevit, "OnilmUzti goremiyoruz", dedi.
+Borsa daha da dO~to.
+"Ocak aYI yakla~h , yabandar artlk ah~ ge,er", dediler;
+Borsa tekrar yOkseldi.
+Yllba~1 ge,ti; yeni yJi yeni umut, dedik.
+Endeks sadece onbe~ hisse ile YOkseldi.
+"Zirveyi klramadlk", dediler; biz yine dO~tok.
+IMF ile gorO~me iptal edildi", dendi; bu habere ragmen dO~-
+medik.
+"Relah partisi kapahldl, se,im bu sene olmaz", dedik;
+Borsa ,Ikh.
+Enflasyon yOksek ,Ikh; Saddam yine su koyu verdi;
+Borsa lena dO~to.
+Kriz atlatJidl; fiyatlar ,ok ucuzdu;
+
+--- Sayfa 151 ---
+Borsa iyi C;lktl.
+Ba~bakanlmlZ se~imden bahsetti;
+Borsa dti~to.
+141
+Mart ayma giriyoruz; bakahm neden <;Ikanz neden dO~riz za-
+man gosterecek.
+
+--- Sayfa 152 ---
+142
+KABAHATLI KIM?
+Mali piyasalanmlzm !;ok yakm gec;:mi~ine baktt{tlmlzda hata
+olarak nelen gorUyoruz?
+(i) Mahalle bakkahna, sokagm ba~mdaki taksi i~letmecisine bi-
+le bankerlik yapttrml~lz .
+(ii) Borsa a~lldlgl YII Vakfhanda oda51 hulunan herkese, kotli ni-
+yetli ama sermayesi bulununan vatanda~ , biT ayda k6~ olup bor-
+saYI iyi bilirim diyen borsa zenginine, haUa bazl mafya babalanna
+araCI kurum kurma izni vermi~iz.
+(iii) Eski ~ah~hgl bankaYI dolandmp iyi de sermaye yapan ban-
+ka yOneticisine ertesi sene kar§l kaldmmda banka ac;:hrml~lz .
+Bu yukandaki sOzlerimden herkes ahnmasm; yarasl olan go-
+cunsun.
+Bu hatalar neticesinde vatand~lar ne yapml~?
+(i) Bankerim diye ~ilup , yUksek faizle vatanda~tan para topla-
+YIP, fasillyeye bile yahrml~. Bazilan da fazla parayl gortince daya-
+namaml~ , keclisine kat, araba alml~.
+(ii) Bir digeri ise nasllsa araCI kurum sahibi oldum diye, aC;lga
+repo yapml~ , vatanda~m hisse senetlerini onlardan habersiz borsa-
+da sahp kendi ac;:lldanm kapatml~ . Kirni yatmrnclYI ko~ kimi yatl·
+nmclYI da yerlere do~me yaplp. soma da bahp gitmi~.
+
+--- Sayfa 153 ---
+143
+(iii) Uyduruk bankae. da, "Yabanellara bankam. saheag.m", di·
+yerek. ytikselen fiyatlarla borsada gUnlerce bankasmm hisse senet-
+lenni satJp, ertesi hafta bankaOin kaplsma kilit koyup, batmJ~ .
+Baz. bankalar da bankaSlOl saibali bir sakilde bahnp, Ameri-
+ka'da yal, kat, ote1 sahibi olmu •.
+Bu saychglm vatanda~lara dolandmcl, hlTS1Z diyoruz; hepsi,
+evel, ~ok kabahatli.
+Ama OraSlnl, buraslnl, kaPISlnJ, bacasJnI arahk blrakan ev sa-
+hiplerinin hiv mi kabahati yak?
+-
+
+--- Sayfa 154 ---
+144
+BORSADA HUKUKI GUvENCE
+NE KADARDIR?
+1986 Ylhndan bu yana borsada Uye olan yirmiye yakm araci
+kurum ve lie; tane de banka iflas etmi-? ve borsa Uyelikleri iptai edil-
+rni~tir.
+Bu borsa tiyelerinde yahnmcdann trilyonlarca tasarruflan bat-
+ml~lr. Ve biT c;ok mi.l~terileri be~ kuru~ bile kurtaramaml~lardlr.
+$u anda Olkemizde mevcut kanunlarla yahnmcdar halen tam
+gUvence altmda degildirler.
+Mevcut ticaret kanunlan dl~lnda Sermaye Piyasalan ve borsa
+He ilgili yeni kanunlann c;tkanimasl iazlmdlT.
+Daha ,ok yakm zamanda 1997 Ylh i,inde kapanan araci ku-
+rumlann yatmmcdannm magduriyetleri ortadadlT.
+Clkanlacak kanunlann ic;eriQi ve verilecek cezalann nasil olma-
+51 gerektigi hakkmda tarb~malar hala sOre dursun; hukuk sistemin-
+deki hkamkhklardan dolaYI davalar Yillar boyu uzamakta, yiiksek
+enflasyonda, batan ~irketlerin kalan mali varhklan da kuliaOilmaz
+hale gelmektedirler_
+Yillar once, doksanh Yiliann baslnda, hazine bonolanmn Uze-
+rinde tahrifat yaplp, vade tarihlerini one alarak Merkez Bankasln-
+dan bOyOk bir cGretle tahsil eden araci kurumun sahiplerine ve ~i r­
+ketlerine borsadan atlima cezasl bile verilmemi~tir.
+
+--- Sayfa 155 ---
+145
+Sonraki y1l1arda aynl araci kurumun yoneticiieri, ytiklu miktar-
+da Eregli Demir <;:elik hisselerini borsada a,.ga sathlar. Daha son-
+fa geriye alamaYlp zor duruma dU~tliklerinde, clevlet yardlml He
+hisse senedi a~"dan borsa dl~tndan temin edildi ve olay 5rtbas edil-
+di.
+Bu vukuata ra~men arael kurum yine 'kapatllmadl ve sahipleri
+aynca u~ arael kurumu daha satin ahp i~lerini daha da bUyOtUp ba-
+ZI hisse senetlerinde ~irketler arasmda pasla~lp maniplasyon bile
+yaphlar.
+Bu kadar haklar tamnan bu ~irketler 1994 Krizinde ooeme 51-
+kmtlsma dU~tiller; me~hur ana ~irketin tasfiyesi haJl! sGrmektedir.
+Sermaye Piyasasl Kurulu Uyeleri! Borsamlzm yoneticileri! ~1-
+karttlnn !jU kanunlan, a!jln !jU burokratik engelleri de yatmmcdar
+borsada daha huzur j~inde all!j veri!j yapsmJar .
+•
+
+--- Sayfa 156 ---
+146
+BORSADA INSIDER TRADING
+Sermaye Piyasasl Kanuna gore insider trading (Kamuya aC;:lk-
+lanmamJ~ bilgileri onceden yaymak) borsada yasaktlT ve cezai yap-
+hnml varcllT.
+Ama bu yasa~a uymayanlar varchr ve yasaYI uygulamak son
+derece zordur.
+baZI ~irketlerin bilanc;:o bilgileri ve karlan borsa bUlteninde ya-
+ymlanmadan ekonomi dergilerinde, araCI kurum bilgi tahtalannda
+kuru~u kuru~una yazllmaktadlT.
+Borsa ~irket1erinin kaT veya zararianm, sermaye artmmianm,
+temettillerini ve ozel durumlanm ~renmek c;:ok zor olmamaktadlT.
+Bazl ~irketlerin patronian ve yaneticiieri ba~ka isimler altmda
+borsacla hisse senedi ahp satmaktadlrlar. Kendilerinin onceden
+topladlklan veya sattlkJan hisse senetleri hakkmda sonradan olum-
+lu veya olumsuz bilgileri slZ(hrmaktan c;:ekinmemektedirler. Bu du-
+rum, borsaya bilgiler gelmeden onceki gOnlerde borsadaki i~lem­
+lerden, 0 hisse senetlerinin fiyatlanndaki olagan dl~1 fiyat hareket-
+lerinden de belli olmaktadtr.
+BUyOk holding'lerin, bankalan, araCI kurumlan, borsada kote
+olan ~irketleri ve i~tirak1eri vardlr. Haua bazIlanmn tv istasyonlan,
+radyolan, gazete ve dergileri bile mevcuttuf.
+
+--- Sayfa 157 ---
+147
+Bilgilerin onceden duyulmamasl ve yaYllmamasl imkam yok-
+tUT. Burada mUhim olan; bu bilgilerin menfaat kar~lh!11 kullamlma-
+SldiT.
+Bazl ~irketlerin kot dl~lna veya goz alb pazanna yollanacakla-
+n bilgisi de insider trading' e girmektedir. Borsada i~lemleri il9 aya
+yakm durdurulup soma goz altt pazanna yollanan iki me~hur his-
+se senedinin, kapanmadan onceki seansta i~lem hacimlerinin art-
+maSl ve fiyatlanmn ylikselmesi tesaduf mUdUr?
+Ba~kalan aclma hesap ac;:hrarak borsada insider trading yap!p
+hakstz gelir elde edenler, kendi kagltlan ile borsada oynamayl adet
+haline getiren bazl patronlar, son vergi kanunundan sonra hic;: 0\-
+mazsa bu kazan<;:lannm vergisini vermek zorunda kalacaklar.
+
+--- Sayfa 158 ---
+148
+BORSADA KARA PARA AKlANIYOR MU?
+Tilrkiye'de elli milyar dolardan fazla bir kaYlt dl~l ekonominin
+oldugu iddia edilmektedir.
+Bu rakamm fazla abartllmadlgl, YlliardlT artan rakamlarla git
+gide buyUyen dl~ ticaret a~lglmlza ragmen hala c;okmeyen ekono~
+mimizden bellidir.
+Uyu~turucu ve silah ka~a~lhgl, hayali ihracaat, kumarhane i~­
+letme gelirleri gibi yasal olmlyan ve zor yakalanan ticaret c;:ark1an
+yamnda, bavul ve Slnlr ticaretleri ile goz yumulan kay!t dl~1 ekono-
+minin varhgl biT ge~ektir.
+Bu takip edilemeyen kazan~laTln , diger piyasalara oludgu gibi
+borsamlza da girebilecegi muhakkaktlT.
+Anormal yilkselen bazl hisse senellerinde ~ok bilyilk kalemler-
+Ie bilyilk i~lem hacimleri olmaktadlT.
+Borsada kara parayt hisse senetlerindeki gircli C;:lkhlarla belirH
+biT zamanda izi bulunmaz hale getirmek milmkundUr.
+Borsacla ahm sattm fark! Uzerinden ve repc, mevduat geliTle-
+rinden dolaYl beyanname istenmesi ve bu gelirlerin vergilendiril-
+meye c;:ah-?llmaSlnl amac;:lanndan birinin de kara paraYI kontrol et-
+mek oldugu inanclnclaYlm.
+Bir c;:ok kimse arhk kendi achna, ba~kalanmn parasl i1e borsa-
+da ahm sahm yapmaktan, bankalarda repo hesabl a<;maktan <;eki-
+necec:ektir.
+
+--- Sayfa 159 ---
+149
+MAFYA TlpLERI
+Borsada Uye olan biT aract kurum batarken ve battlktan sonra
+i~ kan~n mafya tipleri vardlT. Bunlan ~yle slOlfiandlrmak mUm-
+kOndOr,
+aJ Daha ~irket batmadan once piyasamn gidi~hndan ve araci
+kurumunun odeme slkmtJslOdan nem kapanlann yolladlk1an maf-
+ya tipi.
+b) Vine daha ~irket batmadan bunun kokusunu alan, onceden
+aldlgl ve geri ooemeye pek niyeti olmadlgl borcuna kar~lhk verdik-
+lerini geri almak i~in yollanan mafya tipi.
+(i) M~terilerinin yaklO vadeli senetlerini uzun vadeli olanlarla
+degi~tirirler.
+(ii) Tehlikeli olacak ipotekieri zorla kaldlnrlar.
+Batmakta olan biT araci kurum sahihi iseniz, ai;!:zlnlZm i~ine ta-
+banca sokulmu~ i!;e , bu mafya tiplerine "he" dersiniz.
+c) Araci kurum bahnca paralanO! ve hisse senetlerini kurtar-
+mak isteyen ama bunda ba~nh olamayanlann yolladtklan mafya
+tipi.
+d) Araci kurum bahnca daha once borsada bahrdlklan parayl
+kurtarmak i~in zor durumdaki kurumdan bir -?€yler kopannz diyen-
+lerin yolladlklan mafya tipi.
+
+--- Sayfa 160 ---
+150
+e) "Evdeki IYocuklanm rehin aldlk bizim mG~terjJerinin paraSln1
+veT". diyerek, patronun bu sefer ~ka!1ma tabanca dayayan rnafya
+tipi.
+f) Bu olaylara ragmen ~irketin tasfiyesi ic;in ug,ra~n, hie; biT ~y
+cahp 91rpmadlklanm s6yleyip hergiln ~irkete gelen patroniann ki-
+ralacllklan kar~1 mafya tipi.
+Ozerine mafya yollayan mU~erileri korkutmak ic;in tutulan
+kontra mafya tipi.
+h) Patronlardan para koparamlyaca?;jml anlaYlp, bu sefer taOl-
+dlgl ~irket yOnetidsinin evine telefon edip, ~oluk ~ocugunu tehdit
+eden, devamh rahatslZhk veren, kuru slkl mafya tipi.
+i) $irket patronunu mafyaya kar!il korumak ic;in gelen ama pa-
+ra5m! tahsil eclemecligi ic;in klZlP kenclisini kiralayan ~irket patronu-
+nu bacagmdan wran mafya tipi.
+j) Tahsilat amnda patronlann heyecanlamp yanh~hk1a kendisi-
+ne fazladan verdikleri. iI;inde ~irketin alacakh oldugu m~terj se-
+netlerinin bulundu~u torbaYI gen getiren dUtilst mafya tipi.
+k) Bu olaylara as" sebebiyet veren; faizleri gtinltik % 700'lere
+~Ikarma becerisini gosteren, Olkemizi ve ekonomimizi kotu yone-
+ten, sadece ceplerini doldurmaya bakan, geciken davalara, bka-
+nan hukuk sistemine ve yukan da saydlglm tiplere seyirci kalan en
+tehlikeli mafya tipi.
+$ayet sahibi oldugunuz araci Kurumu veya bankaYI battrmaya
+niyetiniz varsa, ~yet tasarruflanmzl boyle batacak hir araCI kurum
+veya bankada bulunduruyorsamz bu mafya tiplerini bilmenizde fay-
+da varchr.
+
+--- Sayfa 161 ---
+lSI
+RANTiYECiLER
+Son ylilardaki en bUyOk ekonomik problemlerimizin ba~mda
+ylllardtT faizlerle katlanarak bOytiyen, hazinenin ic;: piyasalara olan
+bofeu gelmektedir.
+Hie;: vergi vermeden, hie; riske, girmeden, en yUksek, en reel,
+devletin gilvencesi alhnda, /Yok klsa vadelerle katlanahilen "Tepo"
+denilen hiT geliT dUnyamn hie; hiT yerinde yoktur.
+Bilhassa. 1994 Ylh ekonomik krizinden beri t hazinenin once-
+leri deviz fiyatlanm bashrmak Jc;in vermeye ba~ladJQI yOksek faiz
+oranlan, 0 slralar nakitte olan yahnmctlara bUyiik kazanc;lar saQla-
+dlgl gibi, Yillardif kronik bir hastahk haline gelmi~tir.
+Arhk hergan parastnl yattrdl!)t bankaya uQramadan veya tele-
+fon etmeden i~ine gidemeyen, hatta ald!!)1 yUksek faizlere gOvenip
+i~ gitmekten vazgeC;en biT ztimre yarahlml~hr.
+•
+Rantiyeci denen bu kesirne YIlIardlr enflasyonun Qzerinde faiz
+verilrnekte, lYC>gu yan gelip yatrnaYI tercih eden bu kesirn, rntizrnin
+hastahglmlz enflasyonu daha da azdlfmaktadlrlar.
+80rsaya kote olan ~irketlerin bilan~o donemlerinde gelen bi-
+lanlYolanna baklldl~lnda rnenkul klymet gelirlerinin onernli bir ~­
+kilde artllgl gozlenmektedir.
+Artlk ~irketler temettOleri de nakit &Iemez oldular. Hisse sene-
+di bashnp da~ltrnaYI tercih etmeye ba~ladtiar.
+Ekonomideki istikrarslzltk, kronik enflasyon, yatmmlann dola-
+Ylslyla uretimin azalmasma sebep olmaktadlr.
+
+--- Sayfa 162 ---
+152
+BORSADA YATIRIMCIYI KORUYAN
+FONlAR HALA KURUlAMADl
+Borsa kuruldugundan beri onbir Ylh a~tt. Borsa yatmmcIslnm
+bu Ylllarda ba~lanna bir sUrO tatslz olay gelmi!lir. Sahte hisse se-
+netleri payasaya sUrOlmU~, borsa Uyesi olan U, banka, ondan laz-
+la arael kurum iflas ederek yatmmC1lar son derece magdur edilmi!i-
+lerdir.
+Borsa Turkiye ekonomisinin kalbi denir, barometresi olarak
+g6sterllir. Devlete yardlm i,in 32 trilyonu hibe edince, bOtGn dev-
+let erkam ko~ ko~ borsaya geliT. Ama hisse senecli ahm sahmm-
+dan vergi ahnacak clerken. hi~bir borsaclya sormaz, dam~mazlar.
+Sermaye piyasasmm en onemli sac ayagmdan bin olan ve
+gUnde trilyonlann d6ndUgU IMKB i,in vaatler verilir, ama iyi bir
+gOvence tasansl hep esirgenir. YatmmclYI koruyacak fonlan kur-
+mak i,in ylllardan beri Ankara' da bUrokrasi i1e mUcadele edilir, bir
+netice ahnmaz.
+Ankara'da olurup, hayab boyunca hisse senedi piyasasl i1e ii-
+gilenmemi~ , belki de borsaYI televizyondan b~ka yerde g6rmemi~
+bOrokratiar, IMKB i~in karar verirler. Bu borokratlar; baZI hisse se-
+netlerinin ah~ veri~ini seans anmda durdurup, ah~ veri~ aylarca
+kapahriar.
+Yolsuzluk yapan araci kurumlan uzun zaman denetler, karar
+
+--- Sayfa 163 ---
+153
+vermek ic;:in uzun uzun dU~i.inOrler ; 0 ara ~irketin ic;:i bo~hr; i~te 0
+zaman ~irketi kapahrlar. Olan hep hisse senetlerine gUvenip alan
+yahnmclya OIUT. Cnun gUvenligini saglayacak, riskini azaltacak
+fonlar on bir ytldlT kurulamaml~lr.
+Bu sOre i<;:inde nice borsa yatmmclsl; batan bankadan, araCl
+kurumdan hisse senetlerini alamadlQI ic;:in, borsaya kote olan ~irket
+iflas ettigi ic;in cezalandlrdml$, sersefil ortada blrakllml~lr. Yattrlrn-
+CI aldlgl hisse senedi yUzUnden istismara ugrar, hastalamr, intihar
+eder, evi bark! da9dtr, ~evre muhitini kaybeder. Ama ydlarca nasi-
+hat alir; derdine c;:are bulunmaz. Her ekonomik krizde bunlar oluT
+ama c;:abucak da unutulur.
+Istanbul'a gelen yabanctmisafirlerine IMKB blnastnt gezdirip
+hava atan bOrokratlar, politikacdar; yatmmclyt koruyan fonlan kur-
+mak 0 karlar zor mudur?
+
+--- Sayfa 164 ---
+154
+BORSADA UYGUlANMAK iSTENEN
+liiRDEN VERiYE KAR~MZ
+1) DUnyada bizim gibi geli~n borsalarda hisse senedi ahm sa-
+tim farkmdan vergi ahnmamaktadlT. Yabanci yatmmctlann % 55
+Qrantnda hisse senedine sahip oldugu borsamlZm di~er kalkman
+borsalar kar~lslOda hakslz rekabete u9rayaca91 biT gerc;:ektir.
+2) Bir yahnmci hisse senedi ahrken ve satarken araci kurum-
+lara komisyon bdOyor. Borsaya da borsa paYI OdUyor. Onun ic;:in
+Yahnmcilardan beyanname doldurup biT silril hesap kitap yapttra-
+cak yeni vergi yerine % 0,1 (binde bir) oraOinda stopaj ahmrsa
+topianmasl kolay oluT; kutasiye sorunu olmaz; maliye h;in de iyi biT
+gelir OIUT.
+3) Borsada halka ac;:tlan ~irket1er yatmmcllardan topladtldan
+maliyeti I;ok du~k trilyonlarca sermayeyi rahathkla kullanmakta-
+cllTlar. Bu vergi halka arzlan azalhr. Bu vergi 6zelle~rmeyi yava~­
+latJr,
+4) Borsa; sabit getirisi devlet tarahndan garanti edilen devlet
+tahvillen, hazine banosu ve banka mevduah ile nasil aym kefeye
+konabilir ve e~it oranda vergi ahmr.
+darkmalt
+5) Borsa Uyesi aracl kurumlann, dolaYlslyla IMKB'nin en bu-
+yOk gelin klsa vadeli ahm sahmlardan oimaktadJr. Vergi ile borsa-
+nm i~lem hacmi ve gelirleri dO~cektir.
+
+--- Sayfa 165 ---
+155
+6) Vergi taslagl hazlrlamrken borsa yonetimine ve arae! ku-
+rumlara dam~llrnaml~hr.
+Seans salonlannda yatlnmCilarla yapb91m sohbetlerde yoQu bu
+verginin beyanname vererek ahm satlm {ark! Gzerinden ahnmasl-
+na kesinlikle kar~l Cflkmaktadlrlar. Bu verginin borsaYl kilc;oltece-
+ginden, bUylik spekU!atorOn, yabancl yatmmcliann, ve rapta zap-
+ta gec;mek istemeyen mO~terilerin borsadan ka<;acaglOdan endi~
+ediyorlar. Yatmmcllar yaptJidan ahm sabmlanndan % 0,1 oranln-
+da ahnacak anmda kesinti ile, daha yilksek rakamlarla vergi geliri
+elde edilecegini. bunu vermekten de imtina etmeyeceklerini, dev-
+letin bu yolla daha kar\i ~d(acag,"1 lddia ediyorlar.
+
+--- Sayfa 166 ---
+156
+iMKB GiTTiGi (:EVREYi DE
+KALKINDIRIR
+Borsamn bulundu~u muhiti nasil degi~tirebildi~ine en ~ok T op-
+hanede ~hit olmu-?uzdur. Borsa c;evr€sirydeki banka1ara canhhk
+gelmi-? ve mevduatlan artml-?tJr. I-? yerlerine. lokantalara, hUfelere.
+kahvelere, berberlere yeni mU~teri potansiyeli d~mu-?tu . Kiralar
+da yi.ikselmi~ ; i-? yerlerinin degeri artml-?ti. Sokak borsasl denilen
+"ayakh borsa"da istihdam yaratml~t1. Klsaca Tophane'ye barsa sa-
+yesinde nur ya9ml~h.
+Borsa; ta-?lOdl91 Istinye SlTtlanna da hareket ve canhhk getirdi.
+Yeni borsa binam;zln muhitinde de arsa, i~yeri, claire gibi yerlerin
+sah-? bedelleri ve kiralan arth.
+Borsa idaresinin yapttrd191 bah~e ve c;evre dilzenleri i1e fiziki
+gori.lnU~ de9i~ti. Borsanm yakmmdaki gecekondu bOlgesi de rah-
+metli borsa' ba~kammlz So. T uncay Artun beyin oncil!UgU i1e imar
+edildi.
+Borsanm maddi yardlmlan i1e bu mahallenin okulu, camisi,
+mezarhgl tamir edildi. Yeni okul binasl, ~ocuk bah~esi vs. yaphnl-
+dl. Borsa ~evresini kalkmdlrml~lr. Su gecekondu mahallesinin ~o­
+cuklan T uncay Amcaianm hj~ unutmayacaklardlr.
+
+--- Sayfa 167 ---
+157
+BA~KANIMIZ TUNCAY ARTUN
+Sevgili Ba~kamrmz Sn. Tuncay Artun ile seneler once borsa sa-
+lonunda tam~ml~tlm. a zamanlar kendisi De!)er Menkul klymetler
+$irketi ortaklannclan bin icli. Ara Slra borsaya gelir, bizler gibi ~irke­
+tinin i~lemlerini yapardl.
+Sn. Artun Cumhuriyet Halk Partisinin ekonomi dant~manh~ml
+da yapml~t1. Kendisi eski slkI solculardandl. Solcu biT dernegin yo-
+netiminde bulunmu.tu. Ya., ilerleyince Sosyal Demokrat olmu.tu.
+Bir lOmanlar CHP'nin gen,lik kollannda ,ah.m,. meslekta.,-
+mlZ Atilla agabeyimle ve Sn. ArUm i1e seans salonuncla doyumsuz
+sohbetJer yapardlk. Sanki ilerde ba}kammlZ olac~101 bilircesine ne
+kadar sorunumuz, borsa ile i1gili problem varsa ona aniatJr, dert ya-
+nardtk.
+Wlarca borsada beraber ,"h.b9,mlZ Tuncay bey ba>kamm,z
+olunca batan borsa camiasl olarak ~ok sevinclik. Bizden, i~imizden
+,
+biri ba~kaOlmlz olmu~tu.
+Ba~kan oldugundan biT iki a~ sonra otellp.rin birincle tam~ma
+resepsiyonu verildi. Biz zaten onu tamyorduk; hepimiz onu yanak·
+lanndan operek tebrik ettik. Daha bnceki iki ba~kammlz bizlerle
+hep fazla mesafeli olduklan i~in hepimizin sevdigi, tanldlgl, dUrUst,
+borsaYI c;:ok iyi bilen yeni ba~kana ba~ka rurlu bir tezahUrat yapml~·
+hk.
+
+--- Sayfa 168 ---
+158
+Sn. T uncay Artun tamdlgl 0151,1n veya olmasm, her zaman bu-
+Wn borsacliara, borsa ~h~anlanna yakmhk g6stermi~ ve yeTi gel-
+diginde hepimize yardtm etmi~tir.
+Ilk yaptJg. buytik icraatt, devir aldlgl yeni borsa binasl in~ahm
+hlzla tamamhyarak bizleri modern borsa binasma kavu~turmak 01-
+mu~tur. Istanbul Menkul Klymetler BorsaslnI kadro yonOnden tak-
+viye ederek ara~hrmaya , yeni borsacdann egitimine, tUm borsanm
+iyi biT ~kilde denetlenmesine bUyilk onem vermi~tir. Borsayt mo-
+dern teknik biT alt yaplya kavu~turmu~ur.
+Kendisi daha onceki ba;kanlann da yaptlg. gibi; Sermaye Pi-
+yasast Kurulu Ba~kant ile eski arkada~l olmasma ragmen hie;: biT za-
+man iyi ge<;inememi~tir. Buna ragmen kendisi, Ankara'daki bOrok-
+rasinin bilhassa Sermaye Piyasasl Kurulunun engellemelerine rag-
+men bu piyasalara ve borsaya bu sayfalara siamayacak kadar saYI-
+SIZ hizmetlerde ve katktlarda bulunmu~tur.
+Takas bankl kurarak. yatmmclnln saklamaya verdiklerini iste-
+dig.i an kontrol edebilmesini sag.laml~ttr.
+tIro
+Avrupa Borsalar Birligini kurarak ilk ba;ka", olmu;tur.
+Mij~eri Dam~ma Hartin! kurarak mU~teri denetimini ~Iaml~-
+Yeni $irketler pazanm. goz alb pazanm ~ml~ttr.
+Borsa endeksinden iki slflr athrarak borsada yeni bir canlan-
+maya sebep olmu~ur. Yeni endeks dUzenlemelerini getirmi~tjr.
+Wiard" salonlarda bize elbise ask.s.m bile razia g6ren, yolda
+gordUg.Onde bir selaml bile esirgeyen eski ba~kammlza nazire ya-
+parcaslna borsa uzmanlanna borsa binaslOda dinlenme salonu bi-
+le vermi~tir.
+Problerimizi ve kendisine gotUrdUg.UmUz onerileri titizlikle in-
+celeyip. uygun gordOg.OnO uygulatml~hr.
+Ba~kan olmadan once
+
+--- Sayfa 169 ---
+159
+nasil bizimle beraber ise goreve geldikten sonra da hep ic;irnizde,
+vefatma kadar hep bizimle beraber olmu~tur.
+TUrkiye i<;in, <;agda~, uluslararasl biT hale. getirdigin IMKB ic;in,
+bizler ic;in yapttkianm, yapttrdlklannt hie; unutmayaca!Jlz 5evgili
+ba~kammJz .
+NUT i<;inde yat agabeyimiz, arkada~lmlz Sn. Tuncay Artun.
+
+--- Sayfa 170 ---
+160
+GENe;: BORSA
+Resmi borsamlZln temelleri Cagaloglu'nda dar bir binada 40
+m2 barsa salonunda ahlml~br; Bir slmh andlran salonda kuka ya~
+km oturacak yer vardl. ATka bolUme ise ayakta durmak ilzere sa~
+ylSI onu gec;meyen yatmmCilar ahmrdl. Pencereleri bile olmayan
+odamn alt yapl yetersizli9ini 0 gUnleri ya~mayan bilemez. Borsa
+Uye saYISI 47 idi. $ayet hepsi birden aym anda gelirse hiT klsml
+ayakta kahrdl. Konu~bilece9imiz lie; telefon vardl.
+Kuruldugu 1986-1987 ytlmda, borsamn y,l boyunca yapllg, i~­
+lern hacmi 9 milyar idi. 1~lem goren ~irket saY1SI 80, toplam hisse
+say's, 3 milyon idi. 1~ler bGyUdG; Cagaloglu'na s,gmaz olduk. top-
+hanedeki binaya ta~mdlk. Tophane'de 100 m"yi ge,en borsa sa-
+lonumuz vardl. Salonun hiT kenan isteyen borsa yahnmclsmm gi-
+rebilece!)i bolilm olarak aynlml~tJ .
+1990 ytilOda borsa Gye saY'Sl 110'a borsada i~lem goren ~ir­
+ket saYlSl 2S0'ye yUkseldi. 1~lem hacmi Y'I sonunda 15,5 trilyona
+ul~lI . 1989 Ylhnda % 500'e yakm prim yaph.
+Yatmmcllann sonralan ic;eri ahnmamasma ve salonun yandaki
+binaya do!)ru geni~lernesine ragmen; gUnde 400'e yakm borsa
+temsiicisinin her gOn borsaya gelmesi, salondaki fiziki yetersizli~i
+arthrdl.
+Yaz kl ~ havastz ve steak olan borsa salonunda i~lem haemi ar-
+
+--- Sayfa 171 ---
+,
+161
+tinea bazl ~irket tahtalan onUnde yanm saat slra bekliyorduk. Hat-
+ta bazen ertesi gUn talep olacak ~irketler iyin binamn dl~ kaplsmm
+yanmda slTa listeleri yapJityordu. Sirada yeT kapmak it;in salonda
+sabahlayanlar bile oluyordu. ~Ieyin seans bitince i~lemleri onay-
+latmak it;in siraiar olu~urdu . I~imiz bitince de tuvalet Sirasma, son-
+ra da yemekhane sirasma girerdik.
+!;)imdi borsamlzm modern, gilzei biT binasl vaT. Binamlzm yO-
+rUyen merdivenli, her t;e~it teknik alt yapl He donahlmt~ i~lem sa-
+Ionian vaT. Hangisini begenirseniz yemek yiyebileceginiz tit; lokan-
+tasl, topianh, ara~hrrna , konferans, resim, sergi salonlan, kurup-
+hanesi, kahvehanesi, borsacla c;:ah~(mlar ic;:in hizmet veren ozel
+bankasl, kuaforO., c;:ic;:ekc;:isi, kitapt;ISI vaT. Seanslar arasmda ve son-
+rasmda dinlenebilece~iniz gilze( bahc;esi, kapah ve aC;lk yi.izme ha-
+VUZU, spor alanlan, c;am korusu mevcuttur.
+Borsamlzln nerelerden nerelere gekli~i a~ikar. Onun ic;in, bor-
+sada c;ah~n arkada~lanmlzm , bulunduk1an ~rtlann klymetini iyi
+bilip, piyasaOln daha da geli~mesi ic;in c;ah~malan ve hisse senedi
+yatmmcisl ic;in ellerinden geleni yapmaya devam etmeleri gerek-
+mektedir.
+,
+
+--- Sayfa 172 ---
+162
+BORSADA IYt YATIRIMCI
+NASIL OLUNUR?
+1) Borsaya birikimlerinizin % 50'den fazlas101 yatlrmaylO.
+2) Meyveleri kesinlikle aym sepete koymaYIn.
+2) Paramzl slflrlamak istemiyorsamzj kesinlikle kredi kullan-
+maym. !stikrarslz biT Ulke oldugumuz i~inj i~jnizi bozup, evinizi,
+arabamzl satJp borsaya girmeyin.
+3) Borsada kazan, sagladlysamz; kazanclnlzl ba~ka yalmm
+ara,lanna kaydlrabilecek kadar alolh olun.
+.
+,
+4) Gilvenilir araCI kurumlarla, dOrtist borsa uzmanlan He ~h-
+~m.
+5) Teknik ve mali uzmanlann sOylediklerini dinleyin.
+6) Borsa a~m yilkseldigi zaman hisse senetlerinizi satlp. borsa-
+om sablrla dili;mesini beklemeyi OQ:renrnelisiniz.
+7) His50 senellerinde ,i,ekten ,i,ege dola~1r gibi dola~maYln.
+Sik sik ka!ltt degi~tirirseniz sizin d~il de araCI kurumunuzun ka-
+zan~h t;lkacagml unutmaym.
+8) Hisse senedi ahrken, en az orta veya uzun vadeli du~unup,
+maddi durumu saglam, patron Ian gUvenilir, gelecek vaat eden ~ir­
+ketlerden set;in.
+
+--- Sayfa 173 ---
+163
+9) Cah~b~mlz araci kurum ne kadar gtivenilir olursa olsunj Ta-
+kasbankta emanette duran hisse senedi portf6ytinUzU borsa ~ifre­
+niz ile, fax veya telefonla kontrol edin. .
+10) Borsa dedikodulanna, her okudugunuz habere, duydugu-
+nuz her tiyoya hemen inanmaym.
+11) Sinirli, heyecanh, tela~h karaktere sahipseniz, kaip, ~ker
+vs. gibi hastahklanmz varsa pek borsa He ilgilenmeyin.
+12) $ansI olmayan, hep kaybeden biri iseniz borsaya gelme-
+yin.
+KaybeUiQiniz zaman ba~kalannm kazandl!1IOJ
+hi~bir zaman
+unutmaym.
+,
+
+--- Sayfa 174 ---
+164
+SON SQZ
+Bu kitapta oniki ytldlT genel olarak borsarmzm, borsa Uye ve
+c;ah~nlanmn gUnahlanm ve sevaplanm, zararlannt ve faydalanm,
+k5tillukJerini ve iyilikJerini anlatmaya c;ah!itlm.
+Daha c;ok olumsuz yanlanmtzdan bahsettigirnin farkmdaYlm.
+laten kitabm iddiah isminden de anla~llaca!1:1 gibi eski hiT borsacI
+olarak yanb~lan irdelemem gerekiyordu.
+Bu kitahl yazdt{tlm ic;in biT c;ok meslekta~lm. arkada~lm ve Us-
+tadlanm bana ktzacaklardtT. BUtUn bu adamm anlatltklan bizim
+borsamlzda ya~ndlgl gibi dUnyanm bUton borsalanmn da ba~m'
+dan gec;mi~ ve gec;mekte olan olaylardlT, diyeceklerdir.
+Ben kol kmhr yen ic;inde kahr edebiyatmll1 illkemize ve borsa-
+mlza faydah olacagma inanmtyanlardamm. Bu kitapta yaztlanlar
+de>grudur ve ya~nml~lr. Ben bunlann geli~n hiT borsanm teerO-
+beleri ve ders ahnmasl gereken olaylan olarak kabul ediyorum.
+$imdik artlk borsanln gelecegi onemlidir.
+BorsamlZ zaten di.lzelme yolundaki bazl eksikliklerine ragmen,
+i~lem hacmi ar;lstndan Avrupamn bnde gelen, modern bina ve
+~agda~ all yaPlSl He dUnyanm sayth borsalanndan biri olmu~tur.
+TUm yatmmctlann tamamen gUven ir;erisinde sUratli, ~ffaf ah~
+veri~ yapabilecekleri. I~lemlerin tamamen bilgisayar i1e yaplldlgl ve
+
+--- Sayfa 175 ---
+165
+bu i~lemlerin yine bilgisayarla gozetlenip, denetiendiQ.i dGnyamn
+en Iikit borsasldlT.
+Takas ve saklama, gUven ve denetim ic;inde Takasbank tarafm-
+dan iki gUn ic;erisinde yapllmaktadlT.
+Hedefimiz daha ~ok kurumsal yatlTlmcmm i~lem yaptl9t. huku-
+ki eksikliklerinin c;ozillduQ,i.i. fon sorunlannm kalmadtgl, istikrarh,
+manipwasyonsuz, mali baklmdan daha bUyUk. daha guc;:IU biT bor-
+sadlT.
+•
+
+--- Sayfa 176 ---
+•
+BIR
+RSACININ
+•
+"Borsaya Ilk Tokadl Kim Aftl?"
+"i'atmmclYI Nasll Kiistiirdiik
+"Borsada Insider Trading"
+"MaftJa Tipleri"
+"Borsada Kara Para
+"Borsada Mini Et,~J
+"Fenerbahfe'de
+"Borsa
+"Sahte .... ','"
+
+--- Sayfa 177 ---
+HAI.T

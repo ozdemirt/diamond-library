@@ -1,0 +1,469 @@
+--- Sayfa 1 ---
+di tercihlerini gerçekleﬂtirmeye çal›ﬂan ve sonucu salt kendisi de¤iﬂtiremeyecek
+iki ya da daha fazla aktör bulunur. Aktörlerden hiç biri oyunun sonucunu ken-
+di kendine belirleyemeyece¤i için her aktör di¤er aktörlerin davran›ﬂlar›n› hesa-
+ba katmal›d›r. Farz edelim A ve B diye iki oyuncu olsun. A’n›n en iyi stratejisi
+B’nin ne yapaca¤›na ba¤l› olsun ve tam tersi de do¤ru olsun. Bu durumda A da
+B de hareketlerini di¤erinin ne yapaca¤›n› hesaba katarak belirlemek zorunda
+kalacakt›r. Bu tip stratejik etkileﬂim durumlar› do¤al olarak beraberinde tehdit,
+yan›ltma, blöf, yar› blöf veya karﬂ› blöf davran›ﬂlar› olas›l›klar› do¤uracakt›r.24
+Oyun kuram› iﬂte bu etkileﬂimlerin basit, soyut, ancak olabildi¤ince gerçe¤e ya-
+k›n modellenmesidir Bu matematiksel yaklaﬂ›m satranç ya da poker gibi e¤len-
+ce oyunlar›n› inceleyebildi¤i gibi, uluslararas› ya da iktisadi iliﬂkilerdeki strate-
+jik etkileﬂimleri de çal›ﬂ›r. Uluslararas› iliﬂkilerin do¤as› gere¤i stratejik oldu¤u
+düﬂünülürse, oyun kuram›n›n disipline ne kadar büyük f›rsatlar sa¤lad›¤› anla-
+ﬂ›l›r.
+Oyun Kuram› Yaz›n›nda bir Oyun Neleri ‹çerir?
+Oyun kuram›nda stratejik düzeyde incelenen modeller genellikle ﬂu dört ö¤eyi
+bar›nd›r›r25:
+1. ‹ki veya daha fazla oyuncu, yani oyunla ilgili aktörler. Bu aktörler çal›ﬂma-
+n›n sahas›na göre bireyler, kurumlar, ya da devletler olabilir.
+2. Aktörlerin takip edebilece¤i tüm olas› davran›ﬂlar› içeren bir stratejiler küme-
+si.
+3. Oyuncular›n seçebilece¤i her strateji göz önüne al›narak haz›rlanm›ﬂ olas›
+tüm sonuçlar.
+4. Oyuncular için her sonucun ne kadar iyi ya da kötü oldu¤unu belirten ter-
+cih s›ralamas› (ya da tercih fonksiyonu).
+Tüm bu ﬂartlar› yerine getiren bir kaç oyundan örnek vermek oyun içerikle-
+rinin daha iyi anlaﬂ›lmas› aç›s›ndan yaral› olacakt›r. Bu amaçla, uluslararas›
+iliﬂkilerde aktörlerin: 1) birbirlerine çok büyük zararlar verebilecekleri bir krize
+girdikleri durumlar› modellemek için kullan›lan korkak tavuk oyununu
+(Chicken game); 2) aralar›ndaki güven sorunlar› nedeniyle ortaklaﬂa politika uy-
+gulayamad›klar› durumlar› anlatmak için kullan›lan mahkûmlar açmaz› ve 3)
+ancak politikalar›n› koordine ederlerse baﬂar›l› sonuçlar alabilecekleri güven
+oyununu (assurance game) ele al›nacakt›r.
+Korkak Tavuk Oyunu
+Tablo 1. stratejik düzey korkak tavuk oyununu göstermektedir. Oyunun ismi ve
+kurallar› baﬂrolünü James Dean’in oynad›¤› 1955 yap›m› Asi Gençlik filmiyle
+özdeﬂleﬂtirilir. Filmin en unutulmaz sahnesinde Jim ve Buzz adl› iki delikanl›
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+24 Peter G. Bennett, “Modelling Decisions in IR: Game Theory and Beyond”, Mershon International
+Studies Review: 39, 1995, s. 19-52.
+25 Bennett, Modelling Decisions in IR: Game Theory and Beyond.
+40
+
+--- Sayfa 2 ---
+Judy adl› bir genç k›z› kazanabilmek için korkak tavuk oyununu oynarlar.
+Oyunda iki araba, iki ﬂoför ve sonu uçurumla biten bir yol vard›r. Buna göre ve-
+rilen iﬂaretle ayn› anda Jim ve Buzz gaza basarlar ve uçuruma do¤ru son sürat
+arabalar›n› sürerler. Her oyuncu için de iki strateji vard›r. Kendini tehlikede his-
+sedince di¤er oyuncudan önce arabadan atlamak (ve dolay›s›yla ‘korkak tavuk’
+olup Judy’yi kaybetmek) veya di¤er oyuncunun ilk atlamas›n› bekleyip son at-
+layan olmak (ve ‘kahraman’ olup Judy’yi kazanmak). Her iki oyuncunun da son-
+radan atlamay› stratejisi yapmas› halinde ikisi birden arabalar›yla uçurumdan
+aﬂa¤›ya yuvarlanacak ve kendileri için en kötü sonucu alacaklard›r26.
+Bu stratejilere karﬂ›l›k gelen tüm sonuçlar›n kümesi ise ﬂöyledir:
+A - (Jim önceden atlar; Buzz önceden atlar)
+B - (Jim önceden atlar; Buzz sonradan atlar)
+C - (Jim sonradan atlar; Buzz önceden atlar)
+D - (Jim ve Buzz sonradan atlamay› seçip uçurumdan birlikte yuvarlan›rlar)
+Son olarak da her bir oyuncu için tercih s›ralamas› belirlenmelidir. Buna gö-
+re Jim için tercih s›ralamas›;
+C > A > B > D
+Buzz için tercih s›ralamas› ise;
+B > A > C > D
+ﬂeklinde olacakt›r. Yani her iki oyuncu için de kendinin son atlay›p rakibin
+ilk atlad›¤› durumlar en çok tercih edilen, uçurumdan yuvarlan›lan seçenek ise
+en az tercih edilen olacakt›r.
+Tablo 1’de verilen oyun matrisi yukar›da verilen tüm bu bilgileri içerir ve ko-
+nuyu kolayca inceleyebilmemizi sa¤lar. Sol alt hücrede aktör (Jim), yan›ndaki
+iki hücrede de aktörün sahip oldu¤u tüm stratejiler (Önce atla - Sonra atla) gös-
+terilmiﬂtir.  Sa¤ üst hücrede ise di¤er aktör (Buzz) ve alt›ndaki iki hücrede de
+onun sahip oldu¤u iki strateji gösterilmiﬂtir. Bu stratejilere karﬂ›l›k gelen getiri-
+ler ise sa¤ altta dört hücrede (A, B, C, D hücreleri) belirtilmiﬂtir. Burada dikkat
+edilmesi gereken, her hücrenin, aktörlerin stratejik etkileﬂimlerine göre ç›kan
+sonuçlar› içerdi¤idir. Örne¤in C hücresi, Jim sonra, Buzz önce atlad›¤› durum-
+daki aktörlerin getirilerini gösterir. Her hücrede parantez içinde yaz›lan sonuç-
+larda ilk rakam soldaki aktörün getirilerini (Jim’in), sa¤daki ise üstteki aktörün
+(Buzz) getirilerini göstermektedir.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+41
+26 Oyunun baﬂka popüler bir versiyonu, birbirlerine do¤ru son sürat arabalar›n› süren iki ﬂoför
+aras›nda oynanan›d›r. Kurallara göre yoldan ilk sapan korkak tavuk olacak, di¤eri oyunu
+kazanacakt›r. Belki de Küba Krizi gibi uluslararas› kriz durumlar› için bu daha iyi bir analojidir.
+
+--- Sayfa 3 ---
+Tablo 1. Korkak Tavuk Oyunu27
+Buna göre, aktörler için en iyi sonuç kendilerinin sonra atlad›klar›d›r. Örne-
+¤in C hücresinde Jim sonra atlayarak (10), Buzz önce atlayarak (-10) alm›ﬂt›r.
+Daha ilginci ise simetrik A ve D hücreleridir. E¤er her iki aktör de erkenden ve
+ayn› anda atlarlarsa en az›ndan yar›ﬂmaya cesaret ettikleri için az da olsa bir
+getiri alabilirler (her biri 5). Ama iki aktör de uzlaﬂmaya yanaﬂmazsa kendileri-
+ni felakete götürürler, yani D hücresindeki arabalar›n içinde uçurumdan yuvar-
+lanma durumu meydana gelir.
+Peki korkak tavuk oyununun uluslararas› iliﬂkileri anlamada yarar› nedir?
+Bu oyun, uluslararas› aktörlerin (ço¤u zaman devletlerin) birbirlerine çok büyük
+zarar verebilecekleri bir kriz veya çat›ﬂma yoluna girdikleri durumlar› modelle-
+mek için kullan›l›r. Birçok araﬂt›rmac›ya göre krizin do¤as›n› –yani iki aktörün
+birbirlerini büyük y›k›mlara götürebilecek bir yola girmeleri- bu oyun çok iyi
+yans›t›r. Özellikle Küba füze krizi’ne iliﬂkin tarihsel dokümanlar›n ABD’li karar
+vericilerin oyunu bu ﬂekilde gördü¤ünü ispatlamas› bunda etkili olmuﬂtur.28
+16–28 Ekim 1962 tarihleri aras›nda yaﬂanan Küba Füze Krizi, So¤uk Sa-
+vaﬂ’›n nükleer bir çat›ﬂmaya dönmesi en muhtemel, en ciddi kriziydi. SSCB’nin
+Küba’ya Amerika’n›n büyük bir k›sm›n› vurma menziline (2000 km) sahip füze-
+ler yerleﬂtirdi¤inin anlaﬂ›lmas› krizin ana nedeniydi. Kriz esnas›nda ABD’nin iki
+ana stratejik hareketi vard›. Bunlar; 1) Küba’y› denizden blokaj alt›na almak ve
+daha fazla füzenin Sovyetler Birli¤i’nden Küba’ya transferine engel olmak; veya
+2) hava harekât›yla füzeleri vurmak ve büyük ihtimalle akabinde Küba’y› iﬂgal
+etmekti. ‹kinci strateji, Sovyetler’in böyle bir iﬂgale nükleer karﬂ›l›k vermesi ha-
+linde en büyük faciaya sebep olacak seçenekti. Öte yandan Sovyetler Birli¤i ya
+füzeleri geri çekebilir ya da füzeleri Küba’da tutmaya devam edebilirdi (Senaryo-
+nun soyutlama ve karmaﬂ›k gerçek dünyay› modellemek için ne denli basitleﬂ-
+tirildi¤ine dikkat edin.).
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+27 Korkak tavuk oyununun bu tablodaki betimlemesi http://www.egwald.com/operationsre-
+search/chickengame.php web sitesinden uyarlanm›ﬂt›r.
+28 Her ne kadar baz› araﬂt›rmac›lar korkak tavuk oyununun Küba Füze Krizini modellemek için iyi
+bir seçim olmad›¤›n› iddia etmiﬂse de yine de yaz›n›n klasiklerinden olmas› dolay›s›yla incelen-
+mesinde yarar oldu¤unu düﬂünüyorum. (Bu konuda daha fazla bilgi için bkz. Jean-Pierre
+Langlois, “Rational Deterrence and Crisis Stability”, American Journal of Political Science, Cilt
+35, No 4 (Nov., 1991), s.801-832.)
+42
+
+--- Sayfa 4 ---
+Bu stratejilere karﬂ›l›k gelen tüm sonuçlar kümesi de ﬂöyledir:
+A - (ABD blokaj yapar; SSCB füzeleri geri çeker)
+B - (ABD blokaj yapar; SSCB füzeleri tutmaya devam eder)
+C - (ABD hava harekât›; SSCB füzeleri geri çeker)
+D - (ABD hava harekât›; SSCB füzeleri tutmaya devam eder)
+Tablo 2. Küba Füze Krizi Oyunu
+Matristeki dört hücre (A, B, C, D), birbirine karﬂ›l›k gelen stratejilerin do¤u-
+raca¤› sonuçlar› gösterir. Buna göre ABD’nin blokaj stratejisini izlemesi duru-
+munda Sovyetler; A) Füzeleri geri çekebilir (uzlaﬂma sonucu) veya B) füzeleri
+tutmaya devam eder ve zafer kazan›r. ABD’nin hava harekât›n› seçmesi duru-
+munda ise Sovyetler; C) füzeleri geri çekebilir ve ABD zafer kazan›r; ya da D) fü-
+zeleri tutmay› seçer ve Amerikan iﬂgali olursa nükleer karﬂ›l›k verebilir. Ayr›ca,
+bu oyunda iki Nash dengesi29 mevcuttur (B ve C hücrelerindeki altlar› çizili so-
+nuçlar). Ancak oyun –birçok analiste göre- uzlaﬂma seçene¤i olan A hücresinde
+bitmiﬂtir.
+Korkak tavuk oyununun bu çerçevede kullan›m› uluslararas› iliﬂkiler yaz›-
+n›nda çat›ﬂma ve nükleer cayd›r›c›l›k çal›ﬂmalar›n›n bir örne¤idir. Küba füze kri-
+zini bu ﬂekilde modellemenin birçok yarar› vard›r. Bu ﬂekilde hem aktörlerin el-
+de edilebilir tüm strateji ve bunlara ba¤l› tüm sonuçlar› gösterilebilir hem de
+oyunun sonucunun tutarl› olup olmad›¤› tart›ﬂ›labilir. Özellikle, birbirine ba¤l›
+davran›ﬂlar›n krizin sonucuna nas›l etki edebilece¤ini bu tip modellemeler kul-
+lanarak çok daha kesin bir ﬂekilde tahmin edebiliriz. Daha kuramsal olarak, ya-
+z›n›n daha klasik -örne¤in neorealizm gibi- teorilerinin, devletlerin kriz durum-
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+29 Bu makaledeki oyunlar kurama bir giriﬂ sa¤lamas› amac›yla örnek olarak verildi¤inden Nash
+dengesi gibi teknik konular incelenmemektedir. Bu konularda daha çok bilgi için bkz. Morrow,
+Game Theory for Political Scientists.
+43
+
+--- Sayfa 5 ---
+lar›nda tutumlar›, rakiplerinin ve uluslararas› sistemin o an gerektirdi¤i k›s›tla-
+r›n devletlerin davran›ﬂ› üzerine etkileri gibi analizlerine, tüm strateji kümesini
+ve ayn› zamandan mant›ksal ve içsel tutarl›l›¤› da göz önüne alarak analize yar-
+d›m eder.
+Mahkûmlar Açmaz› Oyunu
+Ele alaca¤›m›z ikinci oyunun uluslararas› iliﬂkiler yaz›n›nda en çok ele al›nan ve
+tart›ﬂ›lan oyun oldu¤unu söylemek yanl›ﬂ olmaz. Mahkûmlar açmaz› oyunu,
+devletleraras› iﬂbirli¤i ve ortak eylem sorunlar›n› ele al›r. Bu yüzden de ulusla-
+raras› iliﬂkiler kuramlar›ndan en çok liberalizmin ilgi alan›na girer. Liberallere
+göre, uluslararas› iliﬂkilerde iﬂbirli¤ini artt›rman›n iki yolu vard›r: Hegemon gü-
+cün sistemdeki tüm devletlerin ortak eylemlerini kolaylaﬂt›rmak için kamu mal-
+lar›30 sa¤lamay› üstlenmesi ve tekrar eden etkileﬂimler sonucu taraflar›n uzun
+vadeli düﬂünüp iﬂbirli¤ine yanaﬂmas›. Mahkûmlar açmaz› oyununun kullan›m›-
+n›n, tekrar eden etkileﬂimlerin iﬂbirli¤ine katk›lar›n› anlamam›za büyük yard›m-
+lar› olmuﬂtur. Çünkü realistlerin aksine liberaller, kiﬂisel ç›karlar›n, asl›nda
+uzun vadede aktörleri iﬂbirli¤ine yöneltece¤ini göstermiﬂlerdir. ‘Gelece¤in gölge-
+si’ olarak isimlendirilen bu kavrama göre, k›sa vadede dar, kiﬂisel (veya ulusal)
+ç›karlar yüzünden iﬂbirli¤ine yanaﬂmayan veya çat›ﬂmay› seçen aktörlere, iﬂbir-
+li¤ine yanaﬂmalar› halinde uzun vadede daha fazla yarar elde edebilecekleri gös-
+terilebilir.31
+Oyunun hikâyesine göre polis iki zanl›y› ayr› odalarda sorgulamakta ve ortak
+iﬂlediklerine inand›klar› suçlar› itiraf ettirmeye çal›ﬂmaktad›r. Buna göre polisin
+elinde iki mahkûmun iﬂlediklerini düﬂündü¤ü daha küçük suça iliﬂkin yeterin-
+ce delil varken, di¤er daha ciddi suça dair yeterli delil yoktur. Polisin zanl›lara
+yapt›¤› teklif ﬂunlar› içerir: E¤er iki suçlu da iﬂbirli¤i yapar ve daha büyük su-
+çu kabul etmezlerse (ayr› odalarda olduklar›na ve aralar›nda iletiﬂim olmad›¤›-
+na dikkat), sadece küçük suçtan az bir ceza alacaklard›r. E¤er ikisi de büyük
+suçu iﬂlediklerini itiraf ederse yüksek bir ceza alacaklard›r. Ancak zanl›lardan
+birisi büyük suçu itiraf ederken di¤eri etmezse, itiraf eden hafif bir cezayla kur-
+tulurken, etmeyen en a¤›r cezaya çarpt›r›lacakt›r. Buna göre stratejik düzey
+oyun matrisi ﬂu ﬂekilde gösterilebilir:
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+30 Örne¤in dünya bar›ﬂ›n›n, küresel finans piyasalar› istikrar›n›n sa¤lanmas›, küresel ›s›nman›n
+önlenmesi gibi.
+31 Bruce Bueno de Mesquita, Principles of International Politics: People’s Power, Preferences and
+Perceptions, Washington, D.C.: CQ Pres, 2003.
+44
+
+--- Sayfa 6 ---
+Tablo 3. Mahkûmlar Açmaz› Oyunu
+Oyun matrisinin gösterdi¤i üzere, e¤er iki zanl› da iﬂbirli¤i yap›p büyük suçu
+itiraf etmezlerse sadece 1’er y›l, ikisi de itiraf ederse 10’ar y›l hapis cezas› ala-
+caklar. Öte yandan, her zanl› için kendisinin itiraf etmeyip di¤erinin etti¤i du-
+rumlarda kendisi 20 y›l, di¤eri 3 ay alaca¤›ndan bu en az tercih edilen senaryo-
+dur.
+Bu oyunun dikkat çekici yan›, her iki oyuncu için de itiraf etme seçene¤inin
+bask›n strateji olmas›d›r. Yani, di¤er oyuncu ne seçerse seçsin, itiraf etmek da-
+ha tercih edilir cezalar getirecektir. Bu yüzden, mahkûmlar›n ikisinin de itiraf
+stratejisini seçti¤i A hücresi bu oyunun Nash dengesidir.
+Bu oyunda uluslararas› iliﬂkilerin do¤as›na dair iki ilginç nokta vard›r. Birin-
+cisi, iki aktörün ak›lc› ve kendi ç›karlar›n› gözettikleri stratejilerin optimal olma-
+yan sonuçlara yol açmas›d›r. Mahkûmlar aralar›nda iletiﬂim yoklu¤u ve birbir-
+lerine güvenememeleri yüzünden, di¤erinin itiraf etmesi korkusuyla itiraf yolu-
+nu seçerler. E¤er iﬂbirli¤ine gitseler 1’er y›l hapisle kurtulabilecekken (D hücre-
+si), bu oyunda denge noktas› mahkûmlar›n onar y›l ceza almalar›d›r (A hücre-
+si). Birçok uluslararas› durum da böyledir; ak›lc› tercihler aktörleri çat›ﬂmaya ve
+pareto-etkin olmayan sonuçlara ulaﬂt›rabilir. Bu oyunun uluslararas› iliﬂkileri
+anlamak için kullan›m› da iﬂte bu açmaz yüzündendir. Bu açmaz uluslararas›
+iliﬂkilerde aktörlerin neden çat›ﬂmaya yönelip kendileri için daha az yararl› po-
+litikalar geliﬂtirdiklerini ve neden bazen de iﬂbirli¤ini seçtiklerini inceler.  ‹kinci
+ilginç nokta ise bu oyun yap›n›n aktörlerin davran›ﬂlar›n› nas›l etkiledi¤ini gös-
+terir. E¤er oyunun kurallar› (yap›) de¤iﬂik olsa, aktörler iﬂbirli¤i için daha fazla
+sebep ve olanak bulabilirlerdi.
+Mahkûmlar açmaz› oyunu literatürde silahlanma yar›ﬂlar›ndan çevre kirlili-
+¤inin önlenmesine, birçok devletleraras› ortak eylem gerektiren problemi model-
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+45
+
+--- Sayfa 7 ---
+lemek için kullan›lm›ﬂt›r. Bu genel oyunun özeldeki uygulamalar›ndan bir örnek
+vermek yararl› olacakt›r. Örne¤in, son y›llarda tehlikeleri iyice gündeme taﬂ›nan
+ve küresel ›s›nman›n birinci sorumlusu olarak gösterilen atmosferdeki karbon
+emisyonlar›n› ele alal›m.
+Mahkûmlar açmaz› ile sadece iki aktör aras›ndaki de¤il, çok aktörlü durum-
+lar› da modelleyebiliriz. Ulusal üretimlerini azaltarak atmosfere yayd›klar› kar-
+bon emisyonlar›n› %10 azaltmay› düﬂünen sekiz devlet oldu¤unu ve –kolayl›k
+için- bunlar›n kirletme kapasitelerinin ve çevre düzenlemesinden alacaklar› ya-
+rar›n ayn› oldu¤unu varsayal›m.32 Buna göre her ülke gerçekten emisyonu %10
+azalt›p azaltmamak konusunda bir hesap yap›p karara varmal›d›r. Her ülke için
+emisyonu azaltman›n zarar›n›n 5 birim, herhangi bir ülkenin emisyonlar› %10
+azaltmas›n›n ise di¤er her bir ülkeye yarar›n›n 3 birim oldu¤unu varsayal›m. Ya-
+ni, herhangi bir ülkenin emisyonlar› azaltmas›, kendi dâhil, di¤er her ülkeye 3
+birim yarar sa¤las›n. Baﬂka bir deyiﬂle, di¤er birçok kamu mal› tipinde oldu¤u
+gibi, emisyonlar›n azalt›lmas›ndan do¤acak yarar eﬂit ve kimseyi d›ﬂar›da b›rak-
+mayacak biçimde aktörlere yans›r.
+Tablo 4. Sekiz Uluslu Mahkûmlar Açmaz› Oyunu
+Tablo 4 sekiz ulusun dâhil oldu¤u bir mahkûmlar açmaz› oyununu gösterir.
+Tüm hücrelerde i ulusunun kendisinin ve di¤er devletlerin emisyon azaltma ka-
+rarlar›na göre ne getiri alaca¤› gösterilmiﬂtir. Yukar›da verilen oyunun varsa-
+y›mlar›na göre hesaplama da ﬂöyle gerçekleﬂir: i ulusu kendinden baﬂka emis-
+yon azaltan her ulus için 3’er getiri elde ederken, kendisi de azaltma yoluna gi-
+derse bir seferlik beﬂ birim zarar elde edecektir. Örne¤in beﬂ baﬂka ülke emis-
+yon azaltma konusunda verdi¤i sözde dursun. Bu durumda i için 15 birim ya-
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+32 Mahkumlar açmaz›n›n bu uyarlamas› ﬂu eserden aynen adapte edilmiﬂtir: Todd Sandler, Global
+Challenges: An Approach to Environmental, Political and Economic Problems, Cambridge
+University Press, 1997.
+46
+
+--- Sayfa 8 ---
+rar (=5x3) kendi karar› ne olursa olsun sa¤lan›r. E¤er i azaltmama yolunu se-
+çerse 15 birim yarar›n hepsini elinde tutar. Ancak i de sözünü tutarsa alaca¤›
+yarar alt› ülke kat›ld›¤› için 18 olurken (=6x3), kendisinin kaybedece¤i 5 birim
+yüzünden toplam yarar› 13’e düﬂer (=18-5). Yani i ülkesi için di¤erleri karbon
+emisyonlar›n› azalt›rken kendisi üretime aynen devam etmek en karl› sonuçlar›
+getirir.
+Tablo 4’teki getiriler de i ulusu için emisyonlar› azaltmaman›n bask›n strate-
+ji oldu¤unu gösterir. ‹ ulusunun emisyonlar› azaltmad›¤› (birinci sat›rdaki) geti-
+rilerin hepsi azaltt›¤› durumlardaki (ikinci sat›rdaki) getirilerden fazlad›r. Yani
+bu ortak eylemde bedavac›l›k (freeriding) en rasyonel ve k›sa vadede getirisi en
+yüksek seçenektir. Uluslararas› birçok etkileﬂim de bu özelliktedir.
+Peki, bu açmazdan ülkeler nas›l kurtulur? Herhangi bir zorlay›c› mekanizma
+veya ülkenin olmas› bu açmazdan ülkeleri kurtarabilir. Örne¤in tart›ﬂt›¤›m›z bu
+oyunda ülkelerden herhangi birinin, emisyonu azaltmayan ülkeleri 4 birim ce-
+zaland›rd›¤›n› varsayal›m. Bu durumda üst sat›rdaki getiriler -4, -1, 2, 5, 8, 11,
+14, 17 ﬂeklinde olacak ve üst sat›r›n tüm getirileri alt sat›rdan daha az olacak-
+t›r. Bu durumda i için emisyonlar› azaltmak bask›n strateji haline gelecektir.
+Böyle bir zorlay›c› ülkenin ya da mekanizman›n olmamas› Kyoto Protokolü gibi
+anlaﬂmalar›n uygulanmas›n›n önündeki en büyük engellerdendir. Uluslararas›
+iliﬂkilerin liberal ve oyun kuramlar›, izleme ve cezaland›rma mekanizmalar› ve
+sonsuza dek tekrar eden etkileﬂimlerin ülkeleri mahkûmlar açmaz› tuza¤›ndan
+ço¤u zaman nas›l kurtarabilece¤ini tart›ﬂarak yaz›na katk›da bulunmuﬂlard›r.
+Güven Oyunu
+Son olarak, mahkûmlar açmaz›na benzer ama farkl› özelliklere de sahip güven
+oyununu ele alal›m. Baz› düﬂünürler ve siyaset bilimciler, güven oyununun, as-
+l›nda uluslararas› iliﬂkileri mahkûmlar açmaz›ndan daha iyi betimledi¤ini iddia
+ederler.
+Bu oyun Jean Jacques Rousseau’nun bir öyküsünde sosyal açmazlar› tasvir
+için kulland›¤› geyik av› (stag hunt game) hikâyesine dayan›r. Hikâyeye göre
+baﬂka bir kiﬂiyle ava ç›kt›¤›n›z› varsay›n. Bireysel hareket ederseniz sadece ya-
+ban tavﬂan› avlayabilecekken, di¤er avc›yla iﬂbirli¤ine giderseniz çok daha bü-
+yük ve de¤erli olan geyik avlayabilirsiniz. Bu öykü toplumsal iﬂbirli¤inin neden
+zor elde edildi¤ini inceler ve baﬂka filozoflar taraf›ndan da kullan›lm›ﬂt›r. Örne-
+¤in David Hume bir kay›¤› çeken iki kiﬂinin ancak iﬂbirli¤ine yanaﬂ›rlarsa etkin
+sonuçlara ulaﬂabileceklerini, yoksa gidecekleri yere ulaﬂamayacaklar›n› anlat›r.
+Uluslararas› iliﬂkilerde ise bu oyun, bir politikan›n baﬂar›l› olabilmesi için iki
+veya daha fazla taraf›n katk›da bulunmas›n›n zorunlu oldu¤u durumlar› anla-
+t›r. Örne¤in iki ülkenin s›n›rlar›n›n ormanl›k bir arazinin içinden geçti¤ini; bi-
+rinci ülke s›n›rlar›nda bir orman yang›n› baﬂlad›¤›n› ve bu yang›n›n sadece ve
+sadece iki ülkenin ortak çaba ve kapasitelerini birleﬂtirmeleriyle söndürebile-
+ceklerini varsayal›m. Burada ancak iki ülke de yang›n› söndürmek için katk›da
+bulunursa etkin bir sonuç elde edilebilir. Yani maliyetlere kat›lmamak di¤er ül-
+ke için bask›n strateji de¤ildir.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+47
+
+--- Sayfa 9 ---
+Uluslararas› terörle ortak savaﬂ da bu tip bir kamu mal›d›r ve aktörlerin kar-
+ﬂ›laﬂt›klar› açmaz güven oyunu kullanarak incelenebilir. Örne¤in El-kaide örgü-
+tüne karﬂ› kürsel savaﬂ› ele alal›m. ABD, 11 Eylül sald›r›lar› sonras› El-Kaide te-
+rör örgütüne karﬂ› savaﬂ›nda bir koalisyon oluﬂturup teröre karﬂ› savaﬂ›n ken-
+disine maliyetlerini düﬂürmeyi ve artan iﬂbirli¤i sayesinde daha etkin bir müca-
+dele yürütmeyi amaçlam›ﬂt›r. Her ne kadar terörizme karﬂ› koalisyon oyunlar›
+genellikle mahkûmlar açmaz› çerçevesinde de¤erlendirilmiﬂse de, 11 Eylül sal-
+d›r›lar›n›n ac›mas›zl›¤› ve yaratt›¤› büyük y›k›m aktörlerin alg›lar›n›, iﬂbirli¤ine
+bak›ﬂlar›n› ve dolay›s›yla teorik olarak da durumu modelleyen oyunun do¤as›n›
+de¤iﬂtirmiﬂtir. Sandler ve Enders bu durumun güven oyunu olarak modellen-
+mesinin daha do¤ru olaca¤›n› ifade etmiﬂlerdir.33 Tablo 5, El Kaide’ye savaﬂta
+birlikte hareket eden ABD ve Birleﬂik Krall›k aras›ndaki güven oyununu göste-
+rir.
+Tablo 5. Güven Oyunu (Uluslararas› terörizme karﬂ› savaﬂ)
+Getirilerin s›ralamas›na bakt›¤›m›zda en yüksek getirinin aktörlerin teröriz-
+me birlikte karﬂ›l›k verdikleri durum (A hücresi) oldu¤unu görürüz. ‹kinci en
+yüksek getiri di¤er aktör terörizme karﬂ›l›k verirken ilkinin bedavac›l›k yapt›¤›
+durumlarda elde edilir (B hücresinde ABD’nin karﬂ›l›k verip [1] Birleﬂik Kral-
+l›k’›n vermedi¤i [3] durum). En kötü ikinci durum, iki oyuncunun da terörizme
+karﬂ›l›k vermemeleri iken (D hücresi), en kötü getiriler terörizme karﬂ› harekât›
+taraflardan sadece birinin üstlendi¤i durumdur (B hücresinde ABD’nin, C hüc-
+resinde Birleﬂik Krall›k’›n getirileri gibi). Ayr›ca oyunun tek bir bask›n stratejisi
+olmad›¤› gibi iki tane yal›n strateji Nash dengesi vard›r. Bunlar her iki oyuncu-
+nun da karﬂ›l›k verdikleri (A hücresi) ve her ikisinin de vermedikleri (D hücresi)
+stratejilerdir.
+Güven oyununun mahkûmlar açmaz›ndan en büyük fark›, terörizmin yarat-
+t›¤› tehlikelerin anormal derecede büyümesiyle, koalisyon kurman›n getirisinin
+artmas› ve bedavac›l›k seçene¤inin getirisinin düﬂmesidir. Oysa yukar›da tart›ﬂ-
+t›¤›m›z mahkûmlar açmaz› oyununda tüm aktörler için bask›n strateji bedava-
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+33 Todd Sandler ve Walter Enders, “An Economic Perspective on Transnational Terrorism”,
+European Journal of Political Economy, Cilt  20, No 2, Haziran 2004, s. 301-316.
+48
+
+--- Sayfa 10 ---
+c›l›kt›. Güven oyununda ise taraflar aras›ndaki sözleri tutmak her aktörün ken-
+disi için daha iyi sonuçlar elde etmesi demektir. Yani bu oyun do¤as› gere¤i ta-
+raflar› iﬂbirli¤ine özendirir; mahkûmlar açmaz›nda oldu¤u gibi verilen sözleri
+tutmaman›n getirece¤i bir avantaj yoktur. Ayr›ca, iﬂbirli¤inin getirdi¤i denge
+noktas›ndaki getirilerin en yüksek ve taraflar›n iﬂbirli¤ine yanaﬂmad›¤› duru-
+mun ancak en kötüden bir iyi getiriyi sa¤lamas› taraflar› iﬂbirli¤ine özendirici et-
+kenlerdendir.
+Oyun teorisinin kullan›m›na iliﬂkin verilen bu üç örnekte uluslararas› etkile-
+ﬂimlerde çok rastlanan üç iliﬂki tipine e¤ildik. Taraflar›n çat›ﬂma halinde olduk-
+lar› kriz durumlar›n› korkak tavuk oyunu, taraflar aras› güvensizlik ve ulusla-
+raras› yap›n›n özellikleri yüzünden iﬂbirli¤ine yanaﬂ›lmad›¤› durumlar› anlat-
+mak için mahkûmlar açmaz›n› ve taraflar›n ancak iﬂbirli¤i yapmalar› halinde
+küresel politikalar› baﬂar›yla uygulayabilecekleri durumlar için de güven oyu-
+nunu ele ald›k.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+Makalenin bu bölümünde oyun kuram›n›n uluslararas› iliﬂkiler yaz›n›na katk›-
+lar›n›n k›sa bir taramas›n› yap›p bir tart›ﬂma ﬂeklinde inceleyece¤iz. Aﬂa¤›da ya-
+p›lan taraman›n eksiksiz olmad›¤› belirtilmelidir. Sadece yaz›nda en çok okun-
+du¤u düﬂünülen eserler yeri geldikçe argümanlar› desteklemek amac›yla kulla-
+n›lm›ﬂt›r.
+K›sa Bir Yaz›n Taramas›
+Matematiksel modellemelerin çat›ﬂma ve iﬂbirli¤ini inceleyen örnekleri 20. yüz-
+y›l›n ilk çeyre¤inde Avrupa’da ortaya ç›km›ﬂt›r. I. Dünya Savaﬂ›’n›n yaratt›¤› gö-
+rülmemiﬂ y›k›m, devletleraras› çat›ﬂmalar›n matematiksel incelemelerinin baﬂ-
+lamas›n› etkilemiﬂtir. Bu tip analizlerin öncüleri ise ‹ngiliz Frederick Lanchaster
+(1878-1946) ve Lewis Richardson’dur (1881-1953) diyebiliriz.
+Bir mühendis olan Lanchaster, I. Dünya Savaﬂ› s›ras›nda, hava savaﬂlar›n›
+kazanmak için en uygun stratejileri diferansiyel denklemler kullanarak araﬂt›r-
+m›ﬂt›r. Richardson’un çal›ﬂmalar› ise tam tersine, bar›ﬂ›n nas›l sa¤lanabilece¤i
+üzerinedir. Bir matematikçi, fizikçi ve Quaker34 olan Richardson savaﬂta am-
+bülâns ﬂoförlü¤ü yaparken gördüklerinden fazlas›yla etkilenmiﬂ ve savaﬂlar›n
+ç›k›ﬂ nedenlerini araﬂt›rm›ﬂt›r. Richardson’un diferansiyel denklemleri silahlan-
+ma yar›ﬂlar›n›, istatistikî hesaplar› ise savaﬂlar›n patlak verme zamanlar›n› an-
+lamaya ve tahmin etmeye çal›ﬂm›ﬂt›r.35
+Bu iki erken örnekten sonra ayr› bir alan olarak oyun teorisinin evrimini ve
+teorinin iktisadi hayattaki çat›ﬂma ve iﬂbirli¤inin analizine devletleraras› siyaset
+konusunun incelenmesini de ekledi¤ini görürüz. John von Neumann ve Oscar
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+34 ‹ngiltere’de 17. yüzy›lda ortaya ç›km›ﬂ pasifist ve bar›ﬂç› bir mezhep.
+35 Mary-Ann Dimand, The History of Game Theory: Volume 1, Routledge, 1996.
+49
+
+--- Sayfa 11 ---
+Morgenstern’in (1944) Theory of Games and Economic Behavior baﬂl›kl› çal›ﬂ-
+mas› ile birlikte oyun kuram› gerçek bir araﬂt›rma alan› olarak ortaya ç›kar.
+John von Neumann’›n, 1957’de ölümüne kadar RAND Corporation ve ABD hü-
+kümetine nükleer silahlanma yar›ﬂ› ve cayd›r›c›l›k konusunda yapt›¤› dan›ﬂ-
+manl›klar oyun teorisinin devletleraras› olgular› incelemedeki ilk örneklerinden-
+dir.36
+Uluslararas› iliﬂkiler akademik çal›ﬂmalar›nda oyun kuram›n›n kullan›m›
+1960 y›l›nda Thomas Schelling’in The Strategy of Conflict çal›ﬂmas›n› yay›nla-
+mas›yla baﬂlar diyebiliriz.37 Schelling’in 2005 Nobel ‹ktisat Ödülü’nü kazanma-
+s›n›n sebeplerinden olan bu kitap bir baﬂyap›t özelli¤i taﬂ›r. Bu kitapla birlikte,
+uluslararas› iliﬂkilerde nükleer cayd›r›c›l›¤›n ve stratejik etkileﬂimlerin do¤as› ilk
+kez sistematik ve derin bir incelemeye tabi tutulur. Bugün halen kullan›lan kor-
+kak tavuk oyunu ve mahkûmlar açmaz› oyunlar›n›n uluslararas› iliﬂkilere uy-
+gulanmas› gerçek anlamda ilk kez Schelling’le baﬂlam›ﬂt›r denebilir. Öte yan-
+dan, Kenneth Boulding’in Conflict and Defense, ve Anatol Rapoport’un Fights,
+Games and Debates kitaplar›, ekonomik modelleri ve Richardson’un silahlanma
+yar›ﬂ› çal›ﬂmalar›n› kullanarak, formel analizin çat›ﬂma çal›ﬂmalar›nda kullan›l-
+mas›n›n temellerini att›lar.38 Erken örneklerden Glenn Snyder’in39 çal›ﬂmala-
+r› hem cayd›r›c›l›k literatürüne katk›da bulunmuﬂ hem de spesifik olarak ulus-
+lararas› krizlerin modellenmesine eﬂsiz katk›larda bulunmuﬂtur. Yaz›nda formel
+modellerin ve oyun kuram›n›n kullan›m› 1960’larla birlikte bir patlama yaﬂasa
+da takip eden on y›llarda kullan›m›nda bir yavaﬂlama görülür. Bu dönemde ye-
+nilik olarak Nigel Howard’›n meta oyunlar ve drama kuram› ile iliﬂkili eserleri et-
+kili olsa da bunlar beklendi¤i kadar büyük iz b›rakmam›ﬂt›r.40 Oyun kuram›-
+n›n kullan›m›nda son y›llarda görülen en büyük geliﬂme Steven J. Brams’›n
+1990’larda popülerleﬂen Theory of Moves (1994) kitab›yla olmuﬂtur.41 Bu kitap-
+ta Brams, oyunlar›n kapsaml› düzey olarak incelenmesinin ve oyuncular›n ha-
+reketlerinin sadece bir sonraki harekete göre de¤il, daha sonras›n› da düﬂüne-
+rek yap›ld›¤›n›n varsay›lmas›n›n uygulamas›n› ve yararlar›n› anlat›r. Gerçekten
+de, klasik oyun kuram›n›n izin verdi¤i hamleler, oyun yap›s› ve dinamikleri, ak-
+törleri uza¤› göremeyen (Brams’›n terimiyle miyop) unsurlar varsaymakta ve bu
+da oyunlar›n stratejik etkileﬂimleri aç›klama gücünü azaltmaktad›r. Aktörlerin
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+36 John von Neumann ve Oskar Morgenstern, Theory of Games and Economic Behavior, Princeton:
+Princeton University Press, 1944.
+37 Thomas Schelling, The Strategy of Conflict, Cambridge:  Harvard University Press, 1960.
+38 Kenneth Boulding, Conflict and Defense, New York: Harper and Row, 1962; Anatol Rapoport,
+Fights, Games and Debates, Ann Arbor: University of Michigan Press, 1965.
+39 Glenn H. Snyder, Deterrence and Defense, Princeton, NJ: Princeton University Press, 1961.
+40
+Snyder ve Howard’›n katk›lar›n›n bir tart›ﬂmas› için bkz. Nicholson, Formal Models in
+International Relations.
+41 Stephen Brams, Theory of Moves, Cambridge, UK: Cambridge University Press, 1994
+50
+
+--- Sayfa 12 ---
+miyop olmad›¤›n›n varsay›lmas› ve oyun yap›lar›n›n daha dinamik hale getiril-
+mesi (örne¤in ard›ﬂ›k hareketlerin analize girmesi) kurama yeni bir boyut kazan-
+d›rm›ﬂ ve uygulama sahas›n› geniﬂletmiﬂtir.
+Oyun kuram›n›n yaz›na en büyük katk›lar›ndan birisi de devletleri esas ana-
+liz birimi olarak alan gelenekten kurtulup, karar verici gruplar› uluslararas› iliﬂ-
+kiler analizine kazand›rmas›d›r. Klasik uluslararas› iliﬂkiler kuram› devletleri
+kapal› bir kutu gibi kabul edip, bunlar› birbirine benzer amaçlar› olan ve sis-
+temde de¤iﬂik büyüklüklerdeki bilardo toplar› gibi birbirleriyle çarp›ﬂan birimler
+olarak kabul etmiﬂtir. Ancak yaz›ndaki karar odakl› formel kuram çal›ﬂmalar›
+uluslar›n birbirlerinden de¤iﬂik karakterleri, bürokrasileri ve karar verme meka-
+nizmalar›n›n önemini ortaya ç›kartm›ﬂt›r. Bu konudaki klasik çal›ﬂma, Graham
+Allison’un (1969) “Conceptual Models of Cuban Missile Crisis” isimli makalesi-
+dir. Realistlerin aksine Allison, savaﬂ baﬂlatma kararlar›nda elitlerin ve bürok-
+ratik yap›lar›n önemine dikkat çeker. Allison d›ﬂ politika krizleri ve savaﬂ du-
+rumlar›nda bu bürokratik karar odaklar›n›n en az realistlerin vurgulad›¤› sis-
+temdeki güç dengeleri kadar önemi oldu¤unu gösterir. Allison’un bu makalesin-
+de tan›tt›¤› üç politika modeli42 ve bunlara ba¤l› hipotezleri, d›ﬂ politika yap›-
+m›nda karar verici bireylerin ve ç›kar gruplar›n›n etkisi üzerine çal›ﬂmalar ya-
+p›lmas›n› sa¤lam›ﬂt›r.
+Oyun kuram›ndan baﬂka formel kuramlar da uluslararas› iliﬂkiler yaz›n›na
+katk›larda bulunmuﬂtur. Beklenen fayda kuram› çerçevesinde yap›lm›ﬂ birçok
+çal›ﬂma da uluslararas› çat›ﬂmalar›n ve d›ﬂ politika karar süreçlerinin anlaﬂ›l-
+mas›na çok büyük katk›lar yapm›ﬂt›r. Bruce Bueno de Mesquita’n›n The War
+Trap adl› eseri ile birlikte yaz›nda tümdengelimci çal›ﬂmalar›n önü aç›lm›ﬂt›r.43
+Bu eserde Bueno de Mesquita savaﬂlar›n ortaya ç›kmas› için gerekli nedenleri
+formel tümdengelimci yaklaﬂ›mla çok spesifik ve kesin bir biçimde belirleyerek
+daha önce hiç yap›lmam›ﬂ bir katk›ya imza atm›ﬂt›r. Çal›ﬂman›n varsay›mlar›na
+göre; 1) Uluslar çat›ﬂmalarda net kazançlar›n› maksimize etmeye çal›ﬂan güçlü
+liderler taraf›ndan yönetilirler; 2) uluslar›n risk alma de¤iﬂkeni karar al›c› aktör-
+lerin risk fonksiyonlar› taraf›ndan temsil edilirler ve 3) savaﬂlar›n ana sebebi,
+karar al›c›lar›n farkl› tercihlerinin getirdi¤i birbirleriyle rekabet halindeki amaç-
+lard›r. Buna göre savaﬂ, uluslararas› güç dengelerinin incelenmesinden çok,
+elitlerin ve liderin politik amaçlar›, sorumluluklar› ve risk e¤ilimleri göz önüne
+al›narak incelenmelidir. Güç, realistlerin iddia etti¤i gibi, amaç de¤il, elitlerin
+net politika kazançlar›n› maksimize etmek için kulland›klar› bir araçt›r.44 Diye-
+biliriz ki, Bueno de Mesquita, Graham Allison’un modellerinin ilk sistematik
+analizini yap›p onlar› daha da geliﬂtirmiﬂtir. The War Trap teorik çerçevesinde
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+42 “Ak›lc› politika modeli”, “örgütsel süreç modeli” ve “bürokratik politika modeli”. Graham T.
+Allison, “Conceptual Models and the Cuban Missile Crisis”, American Political Science Review,
+Cilt 63, No 3, 1969, s. 689-718.
+43 Bruce Bueno de Mesquita, The War Trap, New Haven: Yale University Press, 1981.
+44 Bruce Bueno de Mesquita, The War Trap; Jacek Kugler, “Political Conflict, War and Peace”, Ada
+Finifter (der.), Political Science:  The State of the Discipline, APSA, 1993, s.483-509.
+51

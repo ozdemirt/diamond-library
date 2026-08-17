@@ -1,0 +1,1205 @@
+--- Sayfa 1 ---
+1
+
+--- Sayfa 2 ---
+1
+
+İÇİNDEKİLER TABLOSU
+Giriş
+1.
+NİŞ VE PERSONA ................................................................................................................. 4
+1.1 Niş ve Persona Nedir? .......................................................................................................... 4
+1.2 Neden Niş ve Persona Kavramlarına İhtiyaç Duyuyoruz? .................................................... 5
+1.2.1 LTV ......................................................................................................................... 6
+1.2.2 Benzer Kitleler ....................................................................................................... 8
+1.3 Niş ve Personayı Nasıl Seçmeliyiz? ....................................................................................... 8
+1.4 Bazı Dikkat Edilmesi Gereken Husular: ................................................................................ 9
+1.5 Niş Ve Persona Pratikleri .................................................................................................... 10
+1.6 Ürün Bulma Pratikleri ......................................................................................................... 11
+1.6.1 Usb şarjlı sarımsak kesme aleti ........................................................................... 11
+1.6.2 Çok gözlü tava ..................................................................................................... 13
+1.6.3 El Mikseri ............................................................................................................. 14
+2.
+SHOPIFY MAĞAZA KURULUMU ........................................................................................ 15
+2.1 Shopify Hesabınızı Oluşturun ............................................................................................. 15
+2.2 Kontrol Paneli ..................................................................................................................... 15
+2.3 Tema Seçimi ....................................................................................................................... 16
+2.4 Logo ve Favicon .................................................................................................................. 16
+2.5 Anasayfa Tasarımı ve Ayarları ............................................................................................ 17
+2.6 Ürün Sayfası Tasarımı ve Ayarları ...................................................................................... 20
+2.7 Sayfa Oluşturma ................................................................................................................. 23
+2.8 Menü Düzeni ...................................................................................................................... 24
+2.9 Tercihler ............................................................................................................................. 26
+
+--- Sayfa 3 ---
+2
+
+2.10 Genel Ayarlar ................................................................................................................... 27
+2.11 Ödeme Yöntemleri ........................................................................................................... 27
+2.12 Ödeme Sayfası.................................................................................................................. 28
+2.13 Kargo ve Teslimat ............................................................................................................. 28
+2.14 Bildirimler ......................................................................................................................... 28
+2.15 Uygulamalar (App) ........................................................................................................... 28
+3.
+TRAFİK ............................................................................................................................... 30
+3.1 Facebook Bilimi .................................................................................................................. 30
+3.2 Facebook Kampanyaları-Kampanya ve Reklam Setleri ...................................................... 32
+3.3 Influencer Marketing ......................................................................................................... 33
+3.4 Hedef Kitleler ..................................................................................................................... 34
+3.5 İleri Seviye Facebook Reklamları........................................................................................ 37
+3.5.1 Ürün Testi - Sihirli Formül ................................................................................... 37
+3.5.2 Kampanya Oluşturma ve Reklam İçeriği ............................................................. 39
+3.6 Yatay Ölçekleme ................................................................................................................. 40
+3.7 Funnel - Satış Hunisi ........................................................................................................... 41
+3.8 Dikey Ölçekleme ................................................................................................................ 43
+3.9 Demografik Hedefleme ...................................................................................................... 45
+4.
+GİTMEDEN ÖNCE .............................................................................................................. 46
+
+--- Sayfa 4 ---
+3
+
+GİRİŞ
+E-ticarete başlamak istiyorsunuz.
+İlk adımı atacaksınız. Araştırmaya başlıyorsunuz.
+Google, YouTube, Instagram.. Yüzlerce içerik izliyorsunuz.
+Bir içerik eBay’den bahsediyor, diğeri Amazon’dan, bir diğeri Shopify’dan.
+Sonra bir bakıyorsunuz her platformun içerisinde farklı iş modelleri var. Dropshipping, FBA,
+Arbitrage..
+Sonunda anlıyorsunuz ki e-ticaret’in onlarca farklı modeli var, her bir model tamamen farklı
+yapıları içinde barındırıyor. Her birinin aksiyon adımı farklı, gereksinimleri farklı.
+İşte bu noktada iş modellerini deneyeyim diyorsunuz. Hepsine 2 şer saat ayırsam, azar azar
+ilerlersem olur herhalde diyorsunuz. Zaten gözünüz öyle günlük 10.000 dolar kazanmakta
+değil, bu işe inanacağınız kadar olsa yeterli.
+Neticede izlediğiniz videolardaki insanların kazandığının çok az bir bölümünü kazansanız dahi
+size kısa vadede yetecek zaten.
+Aynı anda Amazon hesabı açıyorsunuz, eBay’de ürün listeliyorsunuz, Shopify’da deneme
+sürümü başlatıyorsunuz.
+İnternette çalışırsanız olur deniyor nasılsa, izlediğiniz yöntemleri uyguluyorsunuz.
+Hem çok çalışıyor, hem de tam olarak gösterildiği gibi ilerliyorsunuz.
+Birkaç hafta geçiyor. Ne satış var, ne de elle tutulur bir sonuç. Yoruluyorsunuz, internetten
+gelir elde etmeye dair içinizdeki yüksek umutlar azalmaya başlıyor.
+Merak etmeyin, yalnız değilsiniz.
+Hikayeler çok benzer aslında, hepimiz bu bataklığın içerisine öyle ya da böyle düştük. İşte her
+şey buradan sonra başlıyor aslında.
+
+--- Sayfa 5 ---
+4
+
+Eğer bu bataklık içerisinden çıkmayı başaramazsanız maalesef kapıları e-ticaret ile ilgili her
+yola kapatıyorsunuz. İşte bu yüzden bu bataklıktan çıkmak çok önemli.
+Peki nedir bu bataklık: FOMO bataklığı.
+Yani Fear Of Missing Out (Fırsatları Kaçırma Korkusu). Maalesef her ne kadar bilinçli insanlar
+olsak da değiştiremediğimiz ve farkında olmadan bizi yönlendiren bir açığımız var:
+Duygularımız. İşte bu yüzden FOMO hastalığı istemesek de bizi çok kötü yönlendiriyor.
+Bu yüzden günümüzde fırsatların peşinde koşmak yerine fırsatların değerlendirileceği
+sistemler kurmak çok daha önemli.
+İşte bu kitapta bu sistemi nasıl inşa edeceğinizi ve kurduktan sonra sizin duygusal
+değişimleriniz ne olursa olsun sürekli sizin adınıza nasıl çalışacağını öğreniyor olacaksınız.
+Bu e-kitapta e-ticaret alanında kalıplaşmış bazı yanlışların ve varsayımların çatırdayarak
+kırıldığına şahit olacak ve e-ticarete tamamen farklı bir pencereden bakmayı öğreniyor
+olacaksınız. Bu bakış açısının sebepleri elbette ilerleyen bölümler de ayrıntılı olarak
+paylaşılacak olmakla birlikte şunu eklemekte fayda var; E-ticaret sanıldığı gibi ürün merkezli
+başlayan bir süreç değil. Ürünler gelir, ölçeklenir ve geçer. Hiçbir ürün müşterilerinizi ve
+marketi sonsuza kadar mutlu etmez, edemez. E-ticaret insan ile başlar, insanı tanımak ve
+tanımlamak her şeyin başlangıcıdır. İnsanı merkeze koyan bir sistem var olmaya açtır.
+İşte bu yüzden küçük ve basit sırlardan ziyade insanın kendisine odaklanacak ve bu doğrultuda
+e-ticaret serüveninize yön veriyor olacağız.
+Hazırsanız başlayalım.
+1. NİŞ VE PERSONA
+1.1 NİŞ VE PERSONA NEDİR?
+Kendi siteniz veya platformunuz üzerinden yaptığımız satış operasyonlarında, niş ve persona
+denilen iki kavram çerçevesinde hareket ederiz. Öncelikle bu kavramları tanımlamak
+gerekirse, Niş: “benzerlikleri ya da benzer ihtiyaçları olan müşteri grubu” olarak
+tanımlanabilir. Yani mağazamızı benzerlikleri olan bir müşteri grubunu gözeterek kuruyor
+
+--- Sayfa 6 ---
+5
+
+olacağız.  Persona ise, bu nişin içerisinde bu nişe ilgi duyan, kendi ihtiyaç ve sorunları olan
+insan tipidir. Her şey personayı - bu bir kişiyi - tanımlamak ile başlar. Peki biz bu iki kavramı
+başta oturtmak neden önemli.
+1.2 NEDEN NİŞ VE PERSONA KAVRAMLARINA İHTİYAÇ DUYUYORUZ?
+Bir kişi tanımlamak... Bildiğimiz hiçbir yönteme benzemiyor. Önce ürün bulup sonra bu ürünü
+farklı kitlelere tanıtarak satış yapmanın yolunu öğrenmiştik bu zamana kadar. İşte tam bu
+noktada yeni nesil pazarlamayı - veri pazarlamacılığını - iyi öğrenmek gerekiyor.
+Yeni nesil pazarlamaya geçmeden önce, neden bu zamana kadar önce ürün sonra kitle
+mevzusunun bu kadar yayıldığına bakalım. Özellikle Türkiye’de e-ticaret pazaryerleri
+üzerinden yayıldı. Pazaryerlerinde satış yapmak gibi AVM’lerde satış yapmaya benziyor.
+AVM’leri düşünelim. AVM’ler Her gün binlerce insanın zaten aktığı ve sizin bu akan trafik
+içerisinde ürünlerinizi reyonlara koyarak satış yaptığınız bir iş düzenine sahip. Yani
+kontrolümüz dışında akan bir trafik var. Burada yapılabilecek en iyi stratejilerin başında ise,
+elbette bu kontrol dışında akan trafiğe en uygun ürünleri göstermek geliyor. Dolayısı ile
+pazaryerinde satış yaparken reyona koyduğunuz ürünün seçilmesi daha önemli hale geliyor.
+Satın alacak insanları bire bir tanımıyoruz, kim olduklarını veya temel demografik değerlerine
+de hakim değiliz; hatta satın alım yapan kişinin neredeyse hiçbir bilgisi de bize ulaşmıyor. Fakat
+şunu biliyoruz ki AVM’nin 3. katında, günün ‘x’ saatinde ön reyona konan ‘y’ tarzı ürünler
+satıyor. Dolaysı ile yine bu döngüyü tekrarlamaya başlıyoruz.  İşte bu yüzden ilk olarak e-
+ticaret denildiğinde; kazanan ürün kavramını daha çok öne çıkarmaya başlıyor.
+Aslında bu nokta birçok sorunun da başladığı yer; herkes diğer mağazanın hangi saatte ne
+sattığını görebiliyor olması, insan merkezli gidilmediği için kopyala yapıştırların artması,
+rekabetten dolayı karlılığın düşmesi… bunlar hep insan merkezli gidilmiyor olmasının sonucu.
+İnsan merkezli olma... İşte bunu söylediğiniz anda farklı elementler ortaya çıkıyor. Çünkü insan
+merkezli olacağım dediğinizde insan merkezli olamıyorsunuz. İnsanları tanımalı, kim
+olduklarını öğrenmeli ve daha da önemlisi neyi, neden yaptıklarını iyi analiz edebilmelisiniz.
+Peki tüm bunları yapabilmenin modern ve kolay yolu nedir? En basit tabiri ile verileri kontrol
+edebilme. Pazaryerleri ise bu konuda pek de paylaşımcı değil. Öyle ya, Amazon’un müşteri
+
+--- Sayfa 7 ---
+6
+
+verilerini sizinle paylaşması demek kendi müşterilerini kaybetmesinin önünü açması demek.
+Çünkü Amazon ve diğer pazaryeri çok yüksek oranda komisyon alıyor. Doğal olarak müşteri
+verileri elinde olan satıcı bu müşteriye Amazon’u aradan çıkartarak %30’a varan indirimler
+vaad ettiğinde bu Amazon’un sonunu getirirdi. Eee böyle olunca Amazon verileri paylaşmıyor.
+Yani biz müşterileri tanımıyoruz.
+Tam da burada Shopify veya diğer kendi sitenizi kurma araçları devreye giriyor işte. Verilere
+hakim olabildiğimiz, müşterilerimizi bu yolla tanıyabildiğimiz ve daha da güzeli;
+markalaşabileceğimiz bir sisteme geçiş yapmış oluyoruz. Başımızda bir kurulun olmadığı,
+ciromuzdan büyük bir pay almayan bir sistem…
+Böyle söylendiğinde tatlı gelse de personanın neden önemli olduğuna henüz yeni geçiyoruz
+aslında. Çünkü kendi platformunuz farklı ve nispeten büyük bir problemle geliyor: Trafiğin
+olmaması. Amazon gibi pazaryerlerini bu kadar güçlü yapan şey de bu zaten. Yoksa herkes
+biliyor Amazon’da satış yapmanın zorluklarını. Fakat gelin görün ki Amazon’u aradan
+çıkartmak demek, çölün içerisinde mağaza açmak demek. Oraya nasıl trafik çekeceksiniz,
+hangi kanalları kullanacaksınız, verileri nasıl organize edeceksiniz...? İnsanlara o kadar zor
+geliyor ki, Amazon’a razı olmaya çalışıyorlar.
+Peki ya trafik çekmenin kolay bir yolu olsaydı, ya da bu trafiği kontrol etmenin formülüne sahip
+olsaydınız? Küçük hilelerden bahsetmiyorum, basbaya bu işin mühendisliğini öğrenmenizden
+bahsediyorum. Açılacak kapıları bir düşünün, dünyanın herhangi bir yerindeki bir insana
+internet üzerinden satış yapabilmenin mühendisliği; hem de başınızda kimse olmadan. Güzel
+olurdu değil mi? İşte bu bu kitabın ilerleyen kısımlarında bunun yollarını derinlemesine
+öğrenmiş olacağız. Fakat öncesinde kendi platformunuz için persona seçmenin en önemli iki
+maddesine gelelim;
+A- LTV (Life Time Value)
+B- Benzer Kitleler
+1.2.1 LTV
+LTV bir müşteriden yaşam boyu kazanacağınız parayı gösteren terim. Biraz derine inelim.
+
+--- Sayfa 8 ---
+7
+
+Yeni bir mağaza açtınız ve $40’a ürün satıyorsunuz. Ürünün size maliyeti $10 diyelim. Ürün
+başı elde ettiğimiz kar $30. Dolayısı ile ben bu ürünün satışı için $30’dan daha az para harcıyor
+isem karlı bir şekilde satış yapıyorum demektir. Örneğin ben bir ürünün satışı için Facebook’a
+$20 veriyorum. Bu senaryoda Facebook’a verdiğim $20 karşılığında $40’lık ürün satacağım ve
+$10’ı da ürüne verdiğimde nihayet elimde $30 kalacak. Yani $10 kardayım.
+Fena bir iş değil fakat çok da karlı değil, değil mi? Peki ya ben ürün sattığım kişinin kim
+olduğunu biliyorsam neler değişirdi? Bu kişinin aldığı ürünü biliyorsam, neden aldığını
+biliyorsam ve karşılaşabileceği diğer sorunları biliyorsam bu verilerle neler yapılırdı? Evet
+doğru, bu kişinin istediği ürünleri önüne çıkartarak devamlı satış yapabilirdim.
+Unutmayalım bu kişinin email adresi, telefon numarası gibi detayları da elimde ve geri
+hedeflenmeyi bekliyor. Yani bundan sonra hiç para harcamadan bu kişiye ürünlerimi
+sunabilirim. Şimdi örneğe dönelim; ben yine bu kişiye senede 3 kere ürün satacağım. $40’ar
+dolardan hesapladığımızda yine ürünlere $10’ar dolar maliyet hesaplayalım. Peki reklam
+maliyeti ne oluyor? İşte tüm sihir burada gerçekleşiyor. Verdiğimiz ilk $20 dolarlık reklam
+karşılığında ben bir müşteriye $120’lık ürün sattım ve toplamda bu üründen $90 kar elde
+ettim. Reklamı çıkartırsak tam $70 dolar kardayım. Tam %350 kar elde ettim. Muhteşem değil
+mi?
+Peki bu yolculuk nasıl başladı? Bir müşteriyi tanıyarak, sadece bir müşteriyi. Modern
+pazarlamanın mimarlarından Russel Brunson’ın Trafik Hileleri kitabında bununla ilgili çok güzel
+bir anekdot bulunuyor;
+Bir gün aylarca çalıştığı bir ürünü, pazarlaması için büyük bir şirkete satmak isteyen adam
+şirkete ürünü sunmak için gider. Sunumda iki şirket yöneticisi karşısında dakikalarca ürünü
+anlatır. Sunum bittiğinde yöneticilerden birisi yanındakine dönerek ‘Sence Jack bu ürünü sever
+miydi, sana uygun geldi mi?’ diye sorar. Sunumu yapan adam diğer yöneticinin yüzünden
+pozitif bir ifade alamayınca hemen ortaya atılır ve: ‘Dilerseniz ben Jack’e bizzat da sunabilirim,
+ona karşı anlatırsam daha iyi olabilir’ der. Yöneticiler gülüşürler. Yöneticilerden birisi: ‘Jack
+şirketimizdeki farklı bir yönetici değil, Jack bizim müşterimiz. Hep bu masada, bizimle birlikte
+ve kararlarımızın merkezinde bulunuyor’ der.
+
+--- Sayfa 9 ---
+8
+
+Hikayede etkileyici olanın, şirket yöneticilerinin hep müşteriyi merkeze almaları olduğunu
+düşünebilirsiniz. Fakat hikayenin sırrı bu değil. Sır aslında ‘Jack’ kelimesinde gizli.
+Şirket hedef kitlelerini tanımlarken bir kitleyi değil sadece bir kişiyi baz almışlar. ‘Jack’, yaşı
+belli olan, giyimi, kuşamı, ailesi ve duyguları tanımlanmış bir kişi. Zaten olay, bu bir Jack’i
+tanımladıktan sonra yüzlerce Jack bulmakta bitiyor. Hedefimiz bu bir kişiyi çıkartabilmek. İşte
+burada ikinci önemli başlık geliyor;
+1.2.2 BENZER KİTLELER
+Yaptığımız işte elbette algoritmalar çok önemli, ve bu algoritmaların nasıl çalıştığını bilmek
+hayati öneme sahip. Algortimalar ne kadar gelişmiş olursa olsun doğru yönlendirilmeye ihtiyaç
+duyuyorlar. Bu noktada e-ticarete ilk giren birçok insanın izlediği ilk yol olabildiğince genele
+hitap eden ürünler seçebilmek oluyor. Mantık teorikte saçma değil aslında; pastadan aldığım
+yüzde değişmese dahi pastanın boyutu arttıkça aldığım para artacaktır. Fakat işler pratiğe
+geldiğinde pek de böyle ilerlemiyor. Örneğin mendil satmak istiyorsunuz; rekabet tarafını
+geçtiğinizi ve satış yaptığınızı varsayalım. 100 sipariş aldınız. Bana bu kişilerin demografiği
+hakkında bir veri verebilir misiniz? Mendil satın alan kişiler neden satın alır, keskin bir turnusol
+var mı? Elbette imkansıza yakın bir soru, çünkü hepimiz mendil kullanıyoruz.
+Bu noktada algoritmanın kafası ise daha çok karışıyor, çünkü henüz reklam algoritmaları gelen
+veriyi kendi aklı ile analiz edebilecek seviyede değil. Yani siz ne verirseniz verin onların
+ortalaması ile hareket ediyor. Burada absürt bir örnek üzerinden gidecek olursak; sadece siyah
+saçlı ve sarı saçlı insanlara hitap edebilecek bir ürün sattığımızda, bu ürünü alan insanların
+verilerini inceleyen algoritmalar kahverengi saçlı insan çıktısı verebiliyor. Günün sonunda hiç
+kimseye hitap etmeyen reklam düzenlemeleri ile baş başa bulabiliyoruz kendimizi.
+Dolayısı ile algoritmanın işini kolaylaştırmak adına olabildiğince küçük ve belirgin turnusollar
+belirleyebileceğimiz personanlardan başlamak gerekiyor. Ne kadar dar bir kitle belirlenirse o
+kadar rahat ölçeklenebilir bir işimiz olmuş olacak.
+1.3 NİŞ VE PERSONAYI NASIL SEÇMELİYİZ?
+Mağazamızı kurmadan önce mutlaka niş seçmemiz ve persona belirlememiz gerektiğinden
+bahsettik. Şimdi bunu nasıl yapmamız gerektiğini inceleyeceğiz. İlk olarak nişimizi belirlerken
+
+--- Sayfa 10 ---
+9
+
+birkaç püf noktaya dikkat etmemiz gerekiyor. Bizim seçeceğimiz nişte başarılı olabilmemiz için
+o nişe dair bilgimiz olması önemli bir faktördür. Zira ileride bahsedeceğimiz kısımlarda
+ürünlerimizi bu nişe göre bulacağımız için eğer iki niş arasında kalıyorsak, kendimizi ürün
+bulma konusunda daha rahat hissettiğimiz nişi seçmeliyiz. Ve bazı niş türlerini biz
+tecrübelerimize dayanarak tavsiye etmiyoruz.
+Özellikle kozmetik ürünlerinin bulunduğu veya vücuda nüfuz edebilecek ürünlerin bulunduğu
+nişleri, çok fazla rekabet olması ve sağlık sebepleri dolayısı ile reklamlarda sorun çıkma
+ihtimalinin yüksekliği nedeniyle önermiyoruz. Bunun dışında siz persona bulup ona satış
+yapabileceğinizi düşündüğünüz tüm nişleri seçebilirsiniz. Birkaç popüler niş örneği vermek
+gerekirse: mutfak eşyaları, ofis malzemeleri, yeni doğan bebek eşyaları gibi nişler örnek
+gösterilebilir. Son olarak mutlaka bir adet nişte karar vermemiz gereklidir. Mağazamızın
+profesyonel olarak gözükmesi için bir adet niş bulundurması yerinde olacaktır.
+Şimdi nişimizi belirledik devamında personamızı belirlememiz gerekiyor. Persona belirlerken
+çevremizdeki arkadaşlarımızdan, kendimizden ve akrabalarımızdan örnek alabiliriz. Örneğin
+çevrenizde kampa gitmeyi seven bir kişi varsa onu bir persona olarak belirleyebilirsiniz.
+Çevrenizdeki kişinin satış yapmayı hedeflediğimiz ülkelerde yaşamamasının herhangi bir
+önemi yoktur. Çünkü artık dünya globalleştiği için çoğu insan tipi birbirine benzemektedir.
+1.4 BAZI DİKKAT EDİLMESİ GEREKEN HUSULAR:
+Niş ve personamızı belirledik, satış yapmaya başladık ve satışlar istediğimiz gibi gitmiyor. Niş
+değiştirmeli miyiz? Hayır. Zira bir nişte biz başarısız olsak bile o nişte başarılı yüzlerce satıcı
+vardır. Burada eğer işler istediğimiz gibi gitmiyorsa sorun nişimizde değil diğer faktörlerdedir.
+Niş değiştirmek bizim istediğimiz son şeydir. Çünkü o zamana kadar gelen bilgi birikimi ve
+tecrübemiz sıfırlandığı gibi pixelimizin gelişmesi de sıfırlanacaktır. Bu yüzden nişimizi seçtikten
+sonra emin adımlar ile devam etmeliyiz. Sorunu başka yerlerde arayıp düzelterek yolumuza
+devam etmeliyiz. Elbette müşteri motivasyonlarını bilmediğiniz, kişilerini tanımlayamadığınız
+bir personada devam etmemelisiniz ki bu zaten başta seçmememiz gereken bir yol örneği
+olmuş oluyor.
+İkinci önemli bir mesele ise birden çok nişi aynı mağazada sürdürmek bizim için verimsiz
+olacaktır. Zira biz bir Pazar yeri değiliz. Yani EBAY AMAZON gibi kendiliğinden mevcut
+
+--- Sayfa 11 ---
+10
+
+trafiğimiz yok. Bu nedenle sitemizi reklamla ziyaret eden her müşteri bizim için bir maliyettir.
+Bu maliyeti düşürmek içinse bizim bir müşteriye birden çok satış yapmamız gerekiyor. Bunu
+da aynı nişe ait ürünler satarak sağlayabiliriz. Satış yapmaya başlamadan önce mutlaka
+nişimizde karar kılmamız gerekiyor.
+1.5 NİŞ VE PERSONA PRATİKLERİ
+Önceki bölümlerde niş olgusunun ne olduğunu, neden kullanmamız gerektiğini ve bu niş
+içerisinde yer alan persona terimini açıkladık. Şimdi bu bölümde bir niş belirleyip bu nişe ait
+bir persona tespit etmiş olacağız. Bizim örnek nişimiz mutfak nişi olacak çünkü tatil eşyaları
+nişi gibi mevsimsel özellikler göstermiyor, hem de içinde birçok farklı persona tipi barındırıyor.
+Siz de kendi nişinizi bu özellikleri sağlayan herhangi bir sektörden seçebilirsiniz. Şimdi nişi
+belirledikten sonra bu niş içerisinde bir persona seçiyor olacağız. Bu da şu yüzden önemlidir:
+mutfak nişi içerisinde birden çok müşteri tipini barındırır. Örneğin mutfağı dar olan ve küçük
+pratik eşyalara ihtiyaç duyan birisi ile geniş mutfak sahibi evinde steak tarzı etleri; profesyonel
+bir şekilde pişirmeyi seven kişilerin ihtiyaç ve ilgi alanları faklıdır.
+Biz burada persona olarak dar mutfağı olan, yemek yapmaya fazla vakit ayırmak istemeyen
+kısaca mutfakta pratiklik arayan bir personayı örnek personamız olarak seçiyoruz. Burada
+dikkat edilmesi gereken en önemli nokta mağazanıza ürün bulurken sürekli olarak bu
+personaya satılacak ürünleri mağazanıza eklemenizdir. Bu sayede mağazanıza gelen
+personanız, tüm ürünlerin kendine hitap ettiğini görecek ve reklama çıkılan ürünün yanında
+başka ürünler de satın alabilecektir. Ayrıca mağazanız profesyonel bir görünüm elde edecektir.
+Bu personayı belirleme nedenimiz ise bu personaya ait olan özellikler, problemler ve ilgi
+alanları evrensel nitelik göstermektedir. Yani dünyanın her yerinde bu özellikteki insanlara
+kolayca denk gelebiliriz. Ayrıca bu personanın ihtiyaçları mevsimlik değildir ve birden çok ürün
+satın almaya uygun bir yapısı vardır. Yine personanızı belirlerken de evrensel nitelikte
+olmasına ve sorunlarının mevsimlik olmamasına dikkat etmemiz gerekiyor. İlerleyen
+bölümlerde bu niş ve personaya uygun olacak ürünleri de personanın hangi sorununu
+çözdüğünü de belirterek örneklendireceğiz.
+
+--- Sayfa 12 ---
+11
+
+1.6 ÜRÜN BULMA PRATİKLERİ
+Ürünleri nasıl bulacağımızı, ne gibi nitelikler aradığımızı önceki kısımlarda açıkladık. Şimdi niş
+ve persona bölümünde örnek persona olarak belirlediğimiz, dar mutfağı olan personamıza
+birkaç ürün bulacağız. Ve ürünlerin özelliklerini analiz edeceğiz.
+1.6.1 USB ŞARJLI SARIMSAK KESME ALETİ
+
+İlk bakmamız gereken kriter ürünümüzün, persona kriterlerimize uyup uymadığı. Eğer
+ürünümüz bu kriterlere uyuyorsa biraz daha teknik kriterlere doğru geçiyor olacağız. Burada
+gördüğümüz temel sorun nedir? İnsanlar birçok sebepten ötürü sarımsak veya soğan
+kesmekten nefret ediyor. Fakat sorun hayati öneme sahip değil, dolayısı insanlar bunu
+‘katlanılabilir’ sorunlar çekmecesine koyuyor.
+Özellikle adapte olunmuş sorunlar bizim için altın değerinde çünkü kimse bu ürünleri çözümü
+için Amazon’a veya başka bir mağazaya gitmeyecek. Öyle ya siz hiç mağazalarda sarımsak
+kesme aleti soran gördünüz mü? :)
+
+--- Sayfa 13 ---
+12
+
+Dolayısı ile burada sunduğumuz çözüm oldukça hayati. Çünkü insanların hayatlarının her
+gününü rahatlatmayı sunuyoruz. Dar evi olan, paylaşımlı evlerde kalan veya aktif sosyal hayatı
+olan kişiler için ürünümüz gayet pratik ve ihtiyaç ürünü. Yani ilk testimizi geçti.
+Teknik kriterlerimizden ilki sipariş aralığı. Hedefimiz 1000 sipariş ile 10.000 sipariş aralığındaki
+ürünleri hedefleyebilmek. Bu aralık önemli çünkü piyasaya sıfırdan ürün çıkartmak
+istemiyoruz, daha önce denenmiş veya denenmekte olan ürünler bizim için daha güvenli.
+Elbette bu aralığın dışına çıkılması yasak değil fakat başlangıçta bu aralık işinizi kolaylaştırıyor
+olacak.
+Diğer kriterimiz ise sipariş/yorum oranımızın, 1/7’den daha büyük olması. Bu üründe ortalama
+1/3 ten biraz düşük bir orana sahibiz yani istediğimiz yeri sağlıyor. Bu aralığa bakmamızın
+temel sebebi ise çekilen trafiğin aliexpress içerisinde dönen trafik olup olmadığını analiz etmek
+istememiz.
+Diğer maddemiz ise fiyat aralığı; kargo hariç ham maliyete %300-%500 satış fiyatı
+koyduğumuzda en az $20 net kar bırakmasını istiyoruz ürünlerimizin. Bu bizim için önemli,
+ürünü ölçeklerken bizi ayakta tutacak unsurlardan bir tanesi. Burada da ürünümüzü
+onaylıyoruz.
+Bu işlemleri yaparken ilk ürününüzü ilk seferde bulamıyor olacaksınız ki zaten bu oldukça
+normal. Kriterlerimiz ürünleri seçme konusunda bizi zorluyor olacak. Bu aşamayı
+kolaylaştırmak adına AdSpy, Pinterest, Alihunter gibi uygulamalar kullanabilirsiniz.
+
+--- Sayfa 14 ---
+13
+
+1.6.2 ÇOK GÖZLÜ TAVA
+
+Yine bu ürünün daha önce belirlediğimiz kriterlere uygun olup olmadığını inceliyoruz. Kriterleri
+bu sefer hızlıca geçiyorum. Bu ürün tam olarak dar mutfağı olanların sorununu çözüyor. Zira
+genelde dar mutfak sahipleri, çok fazla eşyaya sahip olamazlar ve çok fazla bulaşık çıkması
+zaten alanları dar olduğu için onlara zorluk çıkartır. Örneğin bir üniversite yurdu mutfağını
+kullanan personamız 2 ayrı tava kullanmak yerine sadece bu tavayı edinerek sorununu
+çözebilir. Ayrıca dar mutfakların ocakları da genelde az bölme içerir. Sipariş sayısı istenilen
+aralıkta (1000 - 10.000 aralığı), fiyatı alt sınırdan yukarıda. Bu nedenle bu ürün somut
+kriterlerimize uygun.
+Bu ürünümüz de hem somut kriterlere uygunluğu hem de sağladığı çözümler sayesinde
+seçilebilir kategorisinde yer alabilir.
+
+--- Sayfa 15 ---
+14
+
+1.6.3 EL MİKSERİ
+
+Bu ürün de ilk ürün ile benzer olarak dar mutfak sahibi olan personamızın alan sorununu çözen
+bir yapıya sahip. Pahalı ve çok yer kaplayan mikserler yerine pratik bir ürün olma özelliği
+taşıyor. Bu nedenle de bizim personamıza satış yapılması için uygun bir ürün.
+(Ürünün,
+ilk
+kullanıcı
+özel
+indirimi
+hariç
+fiyatı
+5$
+üzerindedir.)
+Son ürünümüzün de önceden belirlediğimiz kriterlere uygun olup olmadığını inceliyoruz.
+Sipariş sayısı istenilen aralıkta (10 bin bandının altında bin bandının üstünde), fiyatı alt sınırdan
+yukarıda, favori sayısı satış sayısının 4 katından daha fazla değil. Bu nedenle bu ürün somut
+kriterlerimize uygun. Aynı şekilde ürünümüzü gönül rahatlığı ile listemize ekledik.
+Özet;
+• Aksiyon almadan önce personamızı belirlemeliyiz
+• Personamızın günlük sorunlarına hakim olmalıyız
+• Personamızın adepte olduğu sorunlara çözümler üretecek ürünler bulmalıyız
+• Ürünlerin teknik verilerinin doğruluğunu kontrol etmeliyiz
+Şimdi gelelim bu personaya hitap edecek Shopify mağazasını A’dan Z’ye oluşturma kısmına.
+
+--- Sayfa 16 ---
+15
+
+2. SHOPIFY MAĞAZA KURULUMU
+Personamızı tanımladık hedef kitlemizi, ürünlerimizi belirledik artık mağazamızı kurmak için
+hazırız. Dünyanın en çok kullanılan e-ticaret platformlarından biri olan Shopify’ın kurulumu
+için
+izlememiz
+gereken
+yol
+aslında
+oldukça
+basit. https://www.shopify.com/free-
+trial adresinden kayıt işleminizi gerçekleştirebilirsiniz. Bu aşamada ücret ödemeden kuruluma
+başlayabiliriz ancak ücretsiz olan bu sürenin sadece 14 gün olduğunu unutmamalıyız. Bu süre
+içerisinde tüm kurulumu tamamlasak bile sistem üzerinden herhangi bir satış yapamayacağız
+çünkü verilen bu 14 günlük süre sadece paneli öğrenmeniz içindir.
+Shopify ile çevrimiçi mağaza oluşturmak hiç bu kadar kolay olmamıştı. Web'de ilk mağazanızı
+nasıl
+kurabileceğinizi aşağıdaki
+adımları takip
+ederek
+profesyonel
+bir
+kurulum
+gerçekleştirebileceksiniz.
+2.1  SHOPİFY HESABINIZI OLUŞTURUN
+Shopify web sitesine gidin, Start Free Trail butonuna tıklayın. Sonraki ekranda Shopify’a kayıt
+olmak istediğiniz e-posta adresini, şifreyi ve seçtiğiniz mağaza adını girin. Bu adımdan sonra
+shopify bizlere “Tell us a little about yourself” ve sonrasında “Add an address so you can get
+paid” ekranına yönlendirmektedir. Shopify, kişisel iletişim bilgilerini sağlamanın yanı sıra
+işletmeniz hakkında da bilgi vermenizi isteyecektir. İşletme geliriniz hakkında bilgi isteyen
+alanları doldurun, Shopify mağazanızdan hedefinizin ne olduğunu ve adres bilgilerini girmeniz
+gerekmektedir.
+Bu
+alanlar
+doldurulduktan
+sonra
+Shopify
+yönetici
+sayfanıza
+yönlendirileceksiniz.
+2.2  KONTROL PANELİ
+Shopify panosu, mağazanızı oluşturacağınız, ürün ekleyeceğiniz, siparişleri yöneteceğiniz,
+nakliye ücretlerini ayarlayacağınız, uygulamaları yükleyeceğiniz ve çok daha fazlasını
+yapacağınız yerdir. Burası, yeni çevrimiçi mağazanızla ilgili her görevi tamamlayacağınız yerdir.
+
+--- Sayfa 17 ---
+16
+
+2.3  TEMA SEÇİMİ
+Fiziki bir mağazada satış yapıyor olsaydık ilk olarak önem vereceğimiz kısım elbette vitrinimiz
+olacaktı. Aslında sanal mağazamız içinde durum bu noktada aynıdır. Sitemize gelen
+müşterilere karışık, belli bir düzen ve renk uyumu olmadan karşılamak onların sayfamızdan
+ayrılmaları ile sonuçlanacaktır. Çünkü siteyi anlamaları için beyinlerini yormaları
+gerekeceğinden anlık olarak siteyi terk edeceklerdir.
+Bu nedenle kurumsal firmalar son tasarım trendlerinden olan flat tasarım (düz-sade-anlaşılır)
+tasarımlar tercih etmektedir. Bizimde tasarımda ön plana çıkaracağımız özelliklerde bu şekilde
+olacaktır.
+Tema seçimini admin panelimizde “Online Store” altında “Themes” linkinde yapmaktayız.
+Tema seçimi noktasında ücretsiz ve ücretli tema seçenekleri yanında sıfırdan “Dawn” teması
+düzenleyerek de sayfamızın görsel ayarlarını yapabiliriz.
+Birazdan detaylarına geleceğimiz ve en etkili düzeni kullanacağımız tasarım düzeninde tema
+seçimi aslında sitemizde renk ve font seçimi için fayda sağlayacaktır. Bu nedenle ücretsiz
+temalardan seçebilir veya Dawn temasıyla ilerleyebilirsiniz.
+2.4  LOGO VE FAVİCON
+Mağzanızın kimliğini yansıtan logoyu tema ayarlarında Header kısmından ekleyebilir veya
+değiştirebilirsiniz. Sitemizin profesyonel görünmesi için logomuzun arkaplanı transparan
+(dekupe)  şekilde PNG olarak kaydedilmiş olması gerekmektedir. Logo oluşturmak veya fikir
+oluşması açısından https://hatchful.shopify.com/ adresini ziyaret edebilirsiniz. Logomuzu
+değiştirmek için gerekli adımlar:
+• Shopify yöneticinizden Online Mağaza  >  Temalar  >  Özelleştir'e gidin .
+• Sol kenar çubuğunda, Header tıklayın. Genellikle bu ilk seçenektir.
+• Logo Resmi adlı bir seçenek arayın . Bu isim temadan temaya değişebilir, konumu da
+öyle.
+• Dilediğiniz logoyu seçmek için resmi seç tıklayın .
+
+--- Sayfa 18 ---
+17
+
+• Sağ üst köşedeki kaydet tıklayın ve hepsi bu kadar! Artık doğru bir şekilde
+göründüğünden emin olmak için web sitenizi önizleyebilirsiniz.
+• Mağazanızı markalaştırmanıza yardımcı olabilecek bir site simgesi olan favicon
+ekleyebilirsiniz. Favicon simgesi için önerilen boyut 32 x 32 piksel ve seçilen simge
+dekupe (arkaplanı olmayan-transparan arkaplan) şeklinde olmalıdır. Eklemek için şu
+adımları takip ediniz:
+• Shopify yöneticinizden Online Mağaza > Temalar'a gidin .
+• Düzenlemek istediğiniz temayı bulun ve ardından Özelleştir'i tıklayın .
+• Tema ayarlarını tıklayın .
+• Favicon'u tıklayın
+• Favicon görüntüsü alanında, Görüntü seç öğesine tıklayarak simgenizi seçin
+• Kaydet
+2.5  ANASAYFA TASARIMI VE AYARLARI
+Anasayfa bizim vitrinimizi yansıttığı için düzeni, renk uyumu ve görsellerin kalitesi ile
+sayfamıza profesyonel hava verebileceğimiz kısımdır. Bu nedenle aşağıdaki adımları takip
+ederek olması gereken tasarıma ulaşabilirsiniz. Anasayfamızın olması gereken tasarımı:
+
+--- Sayfa 19 ---
+18
+
+Şimdi bu başlıkları biraz açalım:
+“Image Banner” kısmı sitemizin ilk görselidir. Mağazamızın ne ile ilgili olduğunu ve hangi
+ürünleri sattığımızı gösteren ayrıca butik bir mağaza olduğumuzu belirten kapak görseli ve bu
+görsel üzerinde bir Welcome karşılama yazısı ve “Shop Now” butonu bulunduğu kısımdır.
+Burada dikkat edilmesi gereken husus “Shop Now” butonu linkini öne çıkardığınız/reklamını
+yaptığınız ürüne gidiyor olması gerekmektedir.
+
+“Rich Text” kısmı biz kimiz ve hakkımızda verilen bilgiler kısımdır. İnsanlara neler sunuyoruz
+daha önce bilmedikleri bulamadıkları ürünü mü veriyoruz. İşte bu kısımda o bilgileri verdiğimiz
+kısımdır.
+
+“Colage” ya da “Slider” galeri elementi bu kısımda 3-4 fotoğraf koyabiliyoruz. Bu fotoğraflar,
+reklamını verdiğimiz ürünün fotoğrafları olmalıdır. Seçtiğimiz fotoğrafların kalitesinin iyi
+olması ve ürünün işlevselliğini yansıtan fotoğraflar olmasına dikkat ediyoruz
+
+--- Sayfa 20 ---
+19
+
+“Rich Text” Bu bölüm “Our Top Seller This Month” biz bu ay en çok satan ürünümüzü indirime
+sokuyoruz ve sizin için sergiliyoruz kısmı bu bölümdeki yazılarda sabit kalabilir.
+
+“Featured Product” ürünün direk anasayfadan sepete eklenmesini sağlıyor. Ana sayfaya gelen
+insanların tekrar ürün sayfasını bulması/gitmesi için çaba sarf etmesinin önüne geçip buradan
+ürünü sepete eklemesini kolaylaştırmak için gereklidir. Burada dikkat edilecek husus Facebook
+Pixel verilerimizde “Add to Card” olmasının önüne geçen hızlı satınalmayı sağlayan “Buy
+buttons” elementindeki “Show dynamic checkout buttons” seçimini kaldırmak olacaktır.
+
+--- Sayfa 21 ---
+20
+
+Anasayfa tasarımını kısaca özetlemek gerekirse mağazamız belli kategoride ürün satan butik
+bir mağaza izlenimini verecek şekilde tasarım yapmalıyız. Amacımız mağazamızı ziyarete
+gelenleri çok fazla bilgi ve görsellerle sıkmadan ürünü satınalmaya en kısa sürede ulaştıracak
+şekilde tasarlamak olacaktır.
+2.6  ÜRÜN SAYFASI TASARIMI VE AYARLARI
+Her zaman için biz sayfalarımızı telefona optimize bir şekilde hazırlıyoruz. Sayfamızı
+tasarlarken masaüstü üzerinden yaptığımız değişiklikler mobil görünümde aynı sonucu
+vermemektedir. Bu nedenle incelememizi yaparken mobil odaklı gitmemiz gerekmektedir.
+Çünkü bizim mağaza trafiğimizin %80-90 ı mobil tarafından gelecektir.
+Eğer Chrome tarayıcı kullanıyorsanız sayfanızda sağa tıklayıp incele dedikten sonra açılan
+kısımda mobil simgesine
+ bastığınızda mobil görünümü almış olacaksınız.
+
+Facebook reklamları üzerinden sitemize gelen ziyaretçilerin ilk karşılaşacağı sayfa olmasından
+dolayı ürün sayfamızın tasarımı çok önemlidir. Çünkü Facebook Pixeli sayfamıza gelen
+ziyaretçilerin 2 saniye kalmasından sonra veri toplamaya başlıyor. Yani pixelimiz 2 saniye
+sonra tetiklenecektir. Reklamdan gelen ziyaretçiler verilen reklam ile bu sayfayı bağdaştırma
+kararını 1.5 saniyede verdiğinden eğer sayfamızdan ayrılırlarsa biz pixelimizde veri
+toplayamamış olacağız.
+
+--- Sayfa 22 ---
+21
+
+“Breadcrumb Navigation” kaldırılması;
+İlk olarak mobil görünümde sayfayı aşağı doğru kaydıran ve genellikle temalarda bulunan
+“Breadcrumb Navigation” denilen yol haritasını kaldırmalıyız. Bunu yapmak için aşağıdaki
+adımları takip edebilirsiniz:
+1. Çevrimiçi Mağaza > Temalar > Eylemler > Kodu Düzenle
+2. Assets >theme.scss.liquid dosyasını açın .
+3. Bu dosyanın en altına gidin ve aşağıdaki kodu ekleyin:
+.breadcrumb {
+  display: none;
+}
+Ürün Görseli
+Ürün görsellerimiz mümkün olduğunca ürünü yansıtan kaliteli çözünürlüğe sahip ve ürün
+işlevselliğini ön plana çıkaracak şekilde olmalıdır. Görsellerimizde yazı bulunmamalı ve
+arkaplanı net olmalıdır. Ürün görselinin 6 tane üst görseli olmalıdır. Altı sayısını
+yakalayamadığımız durumlarda farklı düşük pikselli görseller koymaya çalışmayalım. Düşük
+pixelli veya ürünü yansıtmayan görsellerin, tersine etkisi daha fazla olmaktadır.
+Başlık
+Başlığımız herhangi bir yerden kopyalanmış olmaması gerekir. İnsanlar bu başlıkla arama
+yaptığında bu ürünü diğer satıcılarda bulamayacağı şekilde olmalıdır. Benzersiz başlık olması
+ayrıca ürünü bu başlıkla aradığında Google Alışveriş sayfasında tekrar bizim sitemizi görecek
+olması ve tekrar sitemize geri dönüş yapmasını sağlaması açısından önemlidir.
+Yıldız (Yorum Puanı)
+App eklentiler bölümünde de anlatılacak olan yorum eklentileri ile çektiğimiz yorumların
+yıldızını yansıtacak olan kısımdır.
+
+--- Sayfa 23 ---
+22
+
+Fiyat
+Marka bilinirliği yüksek bir marka olmadığımız için fiyatlarımızda %50-60 indirim şeklinde
+yansıtmamız gerekmektedir.
+
+Sepete Ekleme Butonu
+Ürün sayfasında varsayılan ayarlarında “Buy It Now” ile beraber seçili halde gelmektedir. Bu
+buton ürünü sepete eklemeden direk satınalınmasını sağlamaktadır. Aslında kolaylık
+sağlaması açısından etkili bir buton ancak bizim sepete ekleme verisi almamızın önüne
+geçeceği için biz bu butonu altta ki görselde görüldüğü üzere kaldırıyoruz.
+
+--- Sayfa 24 ---
+23
+
+Ürün Açıklama Bölümü
+Bu aşamaya kadar gelmiş olmamız bizim artık hedef kitlemizi seçmiş ve o kitle hakkında detaylı
+bilgiye sahip olduğumuzu göstermektedir. Açıklama kısmında ürünümüzün işlevselliğini bu
+hedef kitlede ilgi uyandıracak şekilde çarpıcı bir biçimde verebiliyor olmamız gerekir. Açıklama
+kısmı tasarım olarak:
+● Başlıklar (Fontu bold ve açıklama kısmından ayrı görünmeli)
+● Ürün İçeriği
+● Alt Görseller
+Son olarak bu tasarımı uyguladığımızda ürünün açıklama kısmını da oluşturmuş oluyoruz.
+2.7  SAYFA OLUŞTURMA
+Shopify'daki sayfalar, mağazanızdaki web sayfalarıdır. Bunları Hakkımızda, Bize Ulaşın, Nakliye
+Politikası vb. gibi önemli bilgileri görüntülemek için kullanabilirsiniz.
+
+Mağazamızda belirli bir renk şeması veya yazı tipi kullanıyorsak sayfalarımızda da aynı
+olmalıdır. İçeriğimizi bölümlere ayırıyorsak başlıkların font büyüklüğü içerikten daha büyük ve
+kalın olmalıdır.
+• Shopify mağazanıza yeni bir Sayfa eklemek için:
+• Shopify yönetici panelinize giriş yapın
+• Çevrimiçi Mağazaya tıklayın - Sayfalar
+
+--- Sayfa 25 ---
+24
+
+• Sayfa ekle'ye tıklayın
+• Sayfanızın Başlığını ve İçeriğini Girin
+• Görünürlük bölümünün altında Sayfayı görüntülemeyi veya gizlemeyi seçebilirsiniz.
+Varsayılan olarak sayfa mağazanızda görünür olacaktır. Sayfanın mağazanızda ne
+zaman görüntüleneceğini kontrol etmek için belirli bir yayınlanma tarihi de
+belirleyebilirsiniz.
+• Kaydet
+Bu aşamada nasıl sayfa oluşturduğumuzu öğrendiğimize göre mağazamızda hangi sayfaların
+olması gerektiğini belirtelim.
+Home - Anasayfa
+All products - Tüm ürünleri listelediğimiz mağaza kataloğumuz
+Track Your Order - Müşterilerimizin online alışveriş deneyimlerinden özellikle Amazon dan
+kazandıkları bir özellik olan siparişlerinin takibini yapmalarına olanak verdiğimiz sayfa
+About Us – Hakkımızda sayfası, müşterilerimizin önemsediklerine ve işletmemizin
+sunduklarını içeren sayfamız
+Customer Care –
+Shipping & FAQ - Nakliye ve akla gelebilecek sorulara yanıt verdiğimiz sayfa
+Return Policy - İade politikasını içeren sayfamız
+Privacy
+Policy
+-
+Gizlilik
+sözleşmesini
+içeren
+sayfamız
+linkten
+(https://www.shopify.com/tools/policy-generator)
+bilgilerinizi
+girerek
+içeriği
+oluşturabilirsiniz.
+Contact Us – İletişim Sayfamız
+2.8  MENÜ DÜZENİ
+Müşterilerimizin sayfalar arasında rahatlıkla dolaşabileceği menü öğelerini düzenleyeceğimiz,
+“Online Store” dan “Navigation” sekmesinden ulaştığımız kısımdır. Sitemizde Main Menu ve
+
+--- Sayfa 26 ---
+25
+
+Footer Menu olarak iki tane menü olması yeterli olacaktır. Main Menu sayfamızın üstünde
+veya mobilde 3 çizgi ile açtığımız kısımda görülmesini istediğimiz sayfaları listelediğimiz
+menüdür. Footer Menu ise sitemizin en alt kısmına gelen kullanıcılara hız katması açısından
+diğer sayfalara ulaşabileceği menüdür.
+
+Shopify yöneticinizden Online Mağaza > Navigasyona gidin .
+1) Gezinme sayfasında , düzenlemek istediğiniz menünün başlığına tıklayın.
+2) Menü öğesi ekleyi tıklayın .
+3) Menü öğesi için bir ad girin.
+4) Bağlantı alanına tıklayın ve ardından harici bir web sitesi için web sitesi adresi girin
+veya bir bağlantı türü seçin:
+● Ana sayfa - çevrimiçi mağazanızın ana sayfası
+● Koleksiyonlar - belirli bir koleksiyon veya tüm koleksiyonlar
+● Ürünler - belirli bir ürün veya tüm ürünler
+● Sayfalar - çevrimiçi mağazanızdaki bir web sayfası
+● Bloglar - çevrimiçi mağazanızda bir blog
+● Blog gönderileri - çevrimiçi mağazanızda bir blog gönderisi
+● Politikalar - mağaza politikalarınızdan biri
+
+--- Sayfa 27 ---
+26
+
+5) Bir koleksiyonu veya tüm koleksiyonları seçtiyseniz, yalnızca girdiğiniz tüm etiketlerle
+eşleşen ürünleri görüntülemek için koleksiyonu etiketlerle filtreleyebilirsiniz.
+6) Bir bağlantı türü seçtiyseniz, belirli bir hedef seçin. Ana Sayfayı seçtiğinizde, hedef
+otomatik olarak çevrimiçi mağazanızın ana sayfasına ayarlanır.
+7) Menü öğenizi kaydetmek için Ekleye tıklayın.
+8) Kaydet
+Menüyü sıralamak için yapmamız gerekenler:
+
+1) Shopify yöneticinizden Online Mağaza > Navigasyon'a gidin .
+2) Yeniden sıralamak istediğiniz menünün başlığına tıklayın.
+3) Menü öğesinin yanındaki tutamaç simgesini (⠿) basılı tutun ve ardından menü
+öğesini başka bir konuma sürükleyin:
+4) Kaydet
+Herhangi bir menü öğesini (⠿) simgesine basılı tutup diğer menü öğesi altına-sağa doğru
+sürüklediğimizde alt menü öğesi olmuş olacaktır.
+2.9  TERCİHLER
+Online mağaza menüsü altında yapacağımız son ayarlarımız “Tercihler” kısmı olacaktır.
+
+--- Sayfa 28 ---
+27
+
+Online mağaza ana sayfanız için sayfa başlığını ve meta açıklamasını ayarlayabilirsiniz. Bunlar
+arama motoru sonuçlarında görüntülenir. Mağazanız için arama motoru sıralamasını
+iyileştirmek için açıklayıcı metin ve anahtar kelimeler kullanmanız gereklidir.
+Google Analytics, mağazanızdaki ziyaretçileri, oturumları ve diğer müşteri davranışlarını
+izlemenize olanak tanır. Google Analytics'inizi , mağazanızın ilgili verileri takip etmesini
+ayarlamak için Tercihler sayfasındaki Google Analytics bölümünü kullanabiliriz.
+Facebook Pixelinizi bağlayabileceğiniz kısımda bu bölümde bulunmaktadır.
+Shopify sayfamızı ilk başta Trail 14 günlük versiyonu ile kurulum yaptıysanız bu kısımdan
+müşterilerinizin sayfanıza ulaşması için şifreyi kaldırmamız gerekiyor. Bunun içinde ücretli
+versiyonlardan bir tane seçmek gerekiyor. İlk başlarda “Basic Plan” sizin için yeterli olacaktır.
+Bu ayarlamalar sonunda Online Mağaza altında yapılacak olan düzenlemeleri bitirmiş olduk
+şimdi sitemizin Genel Ayarları ile devam edelim.
+2.10 GENEL AYARLAR
+Genel ayarlarda mağaza adımızın ayarlandığı kısımdır. “Mağaza İletişim e-postası” Shopify‘ın
+bizimle iletişim kuracağı mail adresidir. “Gönderen e-postası” ise sitemizden giden maillerin
+müşterilerde görünecek olan e-posta adresidir. Mağaza adresi, kurmuş olduğunuz şirketin
+adres bilgilerini girdiğimiz kısımdır. Mağaza para birimini de USD olarak değiştirmemiz
+gerekmektedir. İlk sipariş geldikten sonra para birimi kilitlendiğinden bu kısmı ilk sipariş öncesi
+değiştirmemiz gerekecektir.
+2.11 ÖDEME YÖNTEMLERİ
+Shopify ödeme yöntemlerinde varsayılan olarak “Shopify Payments” şirket adresinizin
+bulunduğu ülkede Stripe ile aynı altyapıyı kullandıklarından dolayı seçili gelmektedir. Örneğin
+Şirket adresimiz İngiltere’de ise Stripe bu nedenle gözükmemektedir. Bunu aşmamızın yolu
+Ayarlar kısmında şirket adresinizi Fransa seçip ödeme yöntemlerinden “Üçüncü Taraf Sağlayıcı
+Seç” ile Stripe ekleyebilirsiniz. Hesabınızı bağladıktan sonra şirket adresinizi tekrar eski haline
+getirebilirsiniz bu durumda Stripe bağlantınız kopmayacak adresinizde güncellenmiş olacaktır.
+
+--- Sayfa 29 ---
+28
+
+2.12 ÖDEME SAYFASI
+Bu kısımda Shopify bizim için zaten en optimize ayarları yapmış halde getirmektedir. Bu
+kısımda dikkat edeceğimiz husus “Pazarlama Onayı” sekmesinde Müşterilerin e-postalarına
+mail gönderme izni olan “Ödeme sayfasında abone olma seçeneği göster” ve “Bu seçenek
+önceden seçilsin” kısımlarının seçili olmasıdır.
+2.13 KARGO VE TESLİMAT
+Ücretleri yönet kısmında sadece “Rest of World” seçeneği kalmalı diğer kargo ayarları
+silinmelidir. Bu durumda iki tane ücret eklenmeli “Free Shipping” ücretsiz seçeneği ve sigortalı
+(insurance) gönderim. Sigortalı sistemde kişiye kargoda başına bir durum geldiğinde ödeme
+garantisi veriyoruz. Ürünün kargoda böyle bir durumu yaşaması ender rastlanan bir durum
+olduğundan getirisi daha fazla olmaktadır.
+2.14 BİLDİRİMLER
+Mağaza ile müşteri arasındaki işlemlerde gönderilen mailler olarak tanımlanır. Bu kısımda
+değiştirmeden de kullanabilirsiniz. Kod bilginiz yoksa bu kısımları değiştirmeyiniz.
+2.15 UYGULAMALAR (APP)
+Bu kısımda mağazamızda olması gereken app ler ve ne işe yaradıklarından bahsedeceğiz.
+Abandonment Protector: Bu uygulamayı yalnızca sepetlerini terk eden müşterilere e-posta
+göndermek için kullanabilirsiniz. Bu uygulama için SMS Bump için aynı dizileri yapabilirsiniz.
+Takip edilecek 3 e-posta dizisi olacak. 5 dakika, 12 saat ve 1 gün. Uygulama içerisinde
+terkedilmiş alışveriş sepetleri ile ilgili çok güzel şablonlar var.
+Ali Reviews: Bu uygulama ile yorumlarınızı Ali Expressten çekebilir düzenleyebilir, yorumları
+manuel olarak yükleyebilir ve Ali Express'ten yorumlar çekebilirsiniz. İncelemeler için yalnızca
+ürünün resmine sahip incelemeleri kullanın, görüntüleme ayarlarınızı düzenleyin ve
+incelemelerin tarihlerini ve bayrakları kaldırın. Alternatif olarak ücretsiz olan Judge.me ve Ali
+Express Review Importer uygulamasını da kullanabilirsiniz.
+
+--- Sayfa 30 ---
+29
+
+Oberlo: Ali Express üzerinden ürün çekmek ve siparişlerinizi yerine getirmek için bu
+uygulamayı kullanın. Avrupa pazarını hedeflediğimiz ürünleri kargo avantajından dolayı tercih
+edebilirsiniz.
+CJDropshipping: Oberlo ile aynı işlemleri bu uygulama ile de yapabilirsiniz. Amerika’ya
+sunulan kargo fiyat avantajı ile Amerika satışı için düşünülen ürünlerde tercih edilmelidir.
+Order Metrics: Facebook Reklam Hesaplarınızı bağlayın ve uygulamada Ürün Maliyetinizi
+güncelleyin, bu şekilde işiniz büyüdüğünde her zaman net kârınızı görebilirsiniz.
+SyncTrack Add PayPal Tracking: Paypal hesabınıza otomatik olarak Track numaranızı
+gönderen uygulamadır. Paypal tarafından kısıtlanmamak için bu uygulamayı kullanabiliriz.
+Customer Privacy: Müşterilerin gizlilik sözleşmesini kabul etmeleri için alt kısımda banner
+oluşturacağımız uygulamadır.
+SMS Bump: Bu uygulamayı sadece sepetlerini terk eden müşterilere kısa mesaj göndermek
+için kullanın. SMS BUMP için En İyi Uygulamalar Terkedilmiş Sepet Yazısı: 5 Dakika Sonra
+Mesaj, 12 Saat Sonra Mesaj, 1 Gün Sonra Mesaj (SMS pazarlama yasal yönetmelikleri ülkeden
+ülkeye farklılık gösterebilir. Gönderim yaptığınız ülkeler için kısıtlama olabilir.)
+Vitals: 40'tan fazla özelliğe sahip bu uygulama fazlası ile kullanıcı dostu. İçerisindeki
+uygulamaları gözden geçirin ve uygun şekilde kullanın. Müşteri destek ekipleri ve sağladıkları
+bilgiler olağanüstü, onlarla iletişime geçmekten çekinmeyin.
+Google Channel: Mağazanızın “Ayarlar”-“Satış Kanallarından” ekleyebilir ve Google hesabınızı
+mağazanız ile bağlayarak ürünlerinizi Google Shopping sayfasında çıkmasını sağlayabilirsiniz.
+Booster Seo & Image Optimizer: Google görseller sonuçları performansınızı iyileştirecek olan
+eklentidir. Shopify mağazanızdaki her görselin alternatif metne sahip olması önemlidir, bu
+sayede Google neye baktığını bilir. Sitenizdeki mevcut bilgileri kullanarak birkaç dakika içinde
+mağazanızdaki her görsele otomatik olarak alternatif metin ekler.
+Mağazamızı oluşturduk. Sıra trafiğin mühendisliğini öğrenmekte :)
+
+--- Sayfa 31 ---
+30
+
+3. TRAFİK
+3.1 FACEBOOK BİLİMİ
+Facebook reklamları, marka bilincini yükseltmek, müşteri sadakatini sağlamak, web sitesi
+trafiğini artırmak ve işletme için potansiyel müşteriler oluşturmak amacıyla kullanılabilecek
+bir reklam tipidir. 3 milyara yakın bir kullanıcı nüfusu bulunan facebook kullanıcılarının ilgi
+alanlarını ve demografik bilgilerini talep edenlere ücret karşılığı kullanmasına izin vermekte.
+Bu imkan ürün satmak isteyen yatırımcılar yada amacı doğrultusunda bu bilgileri kullanmak
+isteyen kişiler için analitik düzlemde elde edilen verileri analiz ederek bilgiyi nakite
+çevirebilecek ticari bir zemin oluşturmaktadır.
+
+Facebook kitleleri ilgi alanları ya da demografik bilgilerine göre alakalı oldukları kelimelere
+indeksler ve bu kelimeler bizlere kitleleri temsil eder. Örnek olarak kedi ürünü satan bir satıcı
+potansiyel kedi sahibi olabilecek kişileri “kedi kumu” ve “kedi maması” ya da “kedi severler”
+gibi kelimeler ile ulaşabilir. Çünkü bu kelimeler potansiyel kedi sahibi olabilecek kişileri temsil
+edebilirler.
+Birçok farklı kitleyi temsil edildikleri kelimeler ile ister tek tek ister kesişim kümelerini
+facebooktan talep ederek hedefleyebilir. Aynı zamanda facebook kullanıcının hedefi
+doğrultusunda hedeflemek istediği kitleyi girilen bilgilere göre zamanla optimize ederek,
+kullanıcının bilgiyi en doğru şekilde kullanabilmesi için işler ve kullanıcıya sunar. Burada
+bahsedilen bilgi işleme olayına optimizasyonun çekirdeği olan PİXEL adını verdiği ve sitemize
+gelen müşterileri ziyaretçileri tüm yönleri ile izleyen ve bir sonraki adımda geçmiş topladığı
+bilgileri değerlendirerek optimize eden önemli bir özelliği de bulunmaktadır.
+
+--- Sayfa 32 ---
+31
+
+Bu kadar teoriyi küçük bir örnek ile yeşillendirelim. Örneğin hamilelik sonrası kullanılacak bir
+ürün satıyoruz. Ürünümüz keskin bir kitleye hitap ediyor ve personamız da yeterince açık.
+Facebook tarafında hedeflemek istediğimiz kitle kimler olurdu sizce? Aklımıza ilk gelen hamile
+insanlar ve bunların eşleri değil mi? Peki bu insanları hedeflerken veri mühendisliğinin bize
+yararını görmek ister misiniz?
+Gelin birlikte bakalım;
+Hamile insanları hedefliyoruz paramızın en verimli şekilde kullanıldığından emin olmak için
+müşterilerin izlediği yollardaki kırılımlara bakıyoruz. Burada kırılımları tespit etmeden önce
+müşteri yolunu iyi çıkartmak gerekiyor; Müşterilerimizin izlediği yol şu şekilde: Reklam
+tıklaması - Sayfa Görüntüleme - Sepete Ekleme - Ödemeye Yeltenme - Satın Alım. Şimdi ise
+verilerimizdeki kırılımlara bakalım.
+Kar ettiğimizi düşündüğümüz üründe bakıyoruz ki reklama tıklayan insanların %80’i 1-9 aylık
+hamile insanlar. Ne kadar beklenen bir sonuç değil mi? Doğru kitleyi hedeflemişiz gibi duruyor
+değil mi?
+Verilerin içine doğru giriyoruz ve bakıyoruz ki sayfa görüntüleyen insanların çoğunluğu 3-9
+aylık hamilelerden oluşuyor. 1-2. ay hamile olan kişilerin çoğunluğu daha vakit olduğunu
+düşünerek ürüne ilgi gösterseler de ürün sayfasını görmek isteyecek kadar heyecanlı değiller.
+Daha da derine iniyoruz ve görüyoruz ki sayfa görüntüleyenler içinden sepete ekleyenler 5-9
+aylık hamile insanlar. 3-4 aylık hamileler henüz sepete eklemeye motive değil. Biraz daha
+gidiyoruz ve görüyoruz ki satın alanların %80’i 8-9 aylık hamilelerden oluşuyor. Trajik değil mi?
+Yani bizim gelirimizin %80’lik kısmı hedeflediğimiz kesimin sadece %20’lik kısmından geliyor.
+Bu durumda iyi bir reklam çalışması yaptık diyebilir miyiz? Elbette hayır.
+İşte reklam mühendisliği bu kadar önemli. Sonraki aşamada yapmam gereken tek şey hedef
+kitlelerimi elimdeki sonuçlara göre revize etmek ve reklamlarımın yönünü gerçekten verim
+aldığım kişilere çevirmek. Pixel gücü adına :)
+Yukarıda misali verilen filtrelere teknik olarak bakacak olursak.
+1-Benzer kitleler kısmında verimli olduğunu düşündüğümüz benzer kitleye göre.
+
+--- Sayfa 33 ---
+32
+
+2-Doğrudan kullanımı
+Burada doğru kitleyi bulduktan sonra Facebook diğer reklam ve hedeflemeleri de bulunan
+doğru kitleye göre optimize eder. Ve biz kontrol ettiğimizde sonuç nicelik olarak değil nitelik
+olarak optimize etmiş ise doğru yolda olduğumuzu anlayabiliriz.
+3.2  FACEBOOK KAMPANYALARI-KAMPANYA VE REKLAM SETLERİ
+Kampanya, Facebooktan ne istediğimizi söylediğimiz kısımdır. Facebook bizim tam olarak ne
+istediğimizi bilirse amacımıza ulaşmak için bize maksimum seviyede yardımcı olur. Örnek
+olarak trafik reklamları ile trafik çekmek istersek Facebook isteğimiz dışında satın alma,
+ödemeye yeltenme vb. diğer bilgilere bakmaz. Bizim istediğimiz bilgilere odaklanır.
+İsteklerimize göre kişileri data ve filtreleri toplar bize sunar. En ucuza, en çok link click (trafik)
+almamıza çalışır.
+
+Başka bir örnek olarak video reklamlarında ne tarz hangi ilgi alanına sahip insanlar, hangi
+kitlede bulunan insanlar, hangi bölgede bulunan insanlar vs. videoyu uzun süre izlemiş
+insanların ortak özelliklerini tespit eder. Biz daha sonraki reklamlarımızı videoda en uzun süre
+kalmış kitleye göre optimize olarak sunmasını isteriz. Tek cümle ile açıklayacak olursak,
+kampanya bizim Facebook tan ne istediğimizi kampanya sonucunda ne istediğimizi
+belirttiğimiz ve neye göre optimize olmasını istediğimiz yerdir. Reklam seti ise istediğimiz
+şeyleri hangi kitleden istediğimizi belirlediğimiz (Kedi sahipleri, mutfağa ilgisi olanlar vb.) ve
+
+--- Sayfa 34 ---
+33
+
+reklamların gösterildiği bölgeyi seçtiğimiz yerdir (hikayeler, postlar vb.). Reklam ise istediğimiz
+kitleye ne gösterdiğimizi belirttiğimiz yerdir.
+
+Kampanyada birden fazla reklam seti, reklam setinde birden fazla reklam yapabiliriz. Burada
+kilit nokta elimizdeki ürünü hangi kitleye sunacağımızı belirttiğimiz reklam seti kısmıdır. Çünkü
+pazarlamanın en önemli noktası doğru ürünün doğru kitleye sunulmasıdır.
+3.3  INFLUENCER MARKETİNG
+2022 yılı itibari ile influencer marketing daha da önem kazandı. Çünkü Facebook reklam
+maliyetleri giderek artarken influencer reklam maliyetleri giderek azalıyor. Aradaki fiyat
+uçurumu kapanıyor.
+ İnfluencer marketingde 2 farklı yol vardır. Birincisi kişisel marka olmayan fakat ilgili insanları
+içerikleri ile toplayan sayfalar (meme sayfaları). Bu sayfalar insanlara ulaşmak için güzel bir yol
+olsa dahi, bu sayfaların insanlar üzerindeki etkisi az olduğu için trafiğin satın almaya çevrilmesi
+düşüktür. Dolayısı ile burada yapacağımız reklam çalışmaları genel olarak trafik çekmeye
+yarar. Buradaki veriler ile elde edilen benzer kitlelerin reklam performansı düşük olur.
+İkincisi, yüzünü gösteren, kişiliği etrafında alakalı niş ile ilgili kitleyi toplayan sayfalardır. Bu
+tarz kişisel markalarla yapılan reklam çalışmalarının verimi ve dönüşüm değerleri yüksektir.
+
+--- Sayfa 35 ---
+34
+
+Tema sayfaları - Yüzünü göstermeyen influencer
+Bu sayfalarla ürün göndermeden ucuza anlaşabiliriz. Düşük performanslı verilerle daha ucuza
+daha çok insana ulaşabileceğimiz bir mağaza ile satışa devam etmek istiyorsak, ilk olarak
+yapmamız gerekli olan ürün grubuna uygun instagram sayfalarını bulmak ve bu sayfalar içinde
+birlikte çalışmaya açık sayfaların etkileşim oranlarına bakarak içeriği uygun, takipçi sayısı 50K-
+1M aralığında ve etkileşim oranı %0,5-%1,5 aralığında olan sayfaları Social Blades
+(https://socialblade.com/) ve Not Just Analytıcs (https://www.notjustanalytics.com/)
+sayfalarından uygunluğunu araştırarak çalışmaya başlayabiliriz
+Yüzünü gösteren influencerlar
+Bu influencerlar sayfalarının hakkını vermek, çizmiş oldukları profilleri bozmamak için reklam
+videolarını sayfalarında paylaşmazlar. Bu kişilere ürün gönderilir ve anlaşma sağlanabilir ise
+bu ürünü ya da ilgili link, sayfa vs. post ya da farklı bir şekilde paylaşabilirler. Bu kişilere
+ulaşmak ve anlaşma sağlamak zaman alacaktır. Fakat bu tarz influencer reklamları tema
+sayfalarına göre daha etkilidir. Markamız bir kişi tarafından temsil edilir hale gelir. Uzun zaman
+kullanabileceğiniz bir içerik elde etmiş oluruz. Bu kişilere ek dosyamızdaki şablonda bulunan
+örnek mail içeriği ile ulaşabiliriz.
+3.4  HEDEF KİTLELER
+
+--- Sayfa 36 ---
+35
+
+Bu başlığı daha iyi anlamak için lütfen reklam hesabınızda Kampanya oluştur seçeneğine
+tıklayın ve ikinci sekme olan ‘Reklam Setleri’ kısmına gelin. Aşağıdaki adımları sırası ile
+izleyebilirsiniz.
+-Reklam hedeflemelere başlarken reklam setimizin içerisinde hangi platformda reklam
+dönüşümlerimizi
+görmek
+istiyorsak
+(Website,
+App,Messenger,
+Whatsapp)
+hedef
+platformumuzu seçeriz.
+-Pixel kısmında dönüşümleri ve reaksiyonları izlemesini istediğimiz pixeli tanımlayıp seçeriz.
+-Event(olay) kısmında dönüşümü görmek istediğimiz olay yada olayları max. 8 adet
+(conversion event, ödemeye yeltenme, potansiyel müşteri, lokasyon bulma, bağış, satınalma
+vb.) satış hunimizin içerisine seçebiliyoruz.
+-Örnek olarak biz burada purchase (satın alma) seçeneği ile devam edeceğiz. Filtre merkezine
+satın almayı koyacağız ki Facebook buna göre reklamları olayları optimize etsin. Satın Almaya
+yönelik kitle ve kişilerin önüne çıkarsın. Bununla aynı zamanda sepete eklemeler ödemeye
+yeltenenler vb. gerçekleşen diğer olaylar pixel tarafından izlenip kaydediliyor olacak.
+
+-Sonrasında reklam bütçemizi 5$ olarak belirliyoruz.
+-Başlangıç ve bitiş tarihlerini girmiyoruz. Süreç içerisinde manuel olarak kontrol edeceğiz.
+
+--- Sayfa 37 ---
+36
+
+-Reklamı çıkacak olduğumuz platformları burada manuel olarak Facebook-İnstagram anasayfa
+ve hikayeler olarak seçiyoruz (anasayfa-facebook news feed-instagram feed-stories). Bunlar
+satınalma için en iyi dönüşümleri aldığımız platform ve seçenekleri.
+-Hedefleme Audience kısmında lokasyonumuzu seçiyoruz. Ve sadece seçtiğimiz lokasyonlarda
+yaşayanlar seçeneğini seçiyoruz (people lıvıng ın this location).
+-Sonrasında hariç tut (exclude )seçeneğini seçip shopify ve dropship kelimelerini girerek bu
+konularla alakalı kişi ve kitlelerle ilgilenmediğimizi belirtiyoruz.
+-Sonrasında detaylı hedefleme yani reklamları kimlere göstereceğinizi (detailed targeting-
+include people who match) seçiyoruz. Burada ürün yada ürün grubumuzu adlandırdığımız en
+geniş kapsamlı tanımı giriyoruz. Facebook burada bize bizim ürün grubumuzla hem alakalı
+olan hemde farklı olup ürünümüzle ortak küme oluşturabilecek birçok ortak kümesi olan diğer
+kümeleri getirecek. Örnek olarak mutfak verdik ve kitle 440 milyonluk çok büyük bir kitle.
+Bunun için suggestions-öneriler kısmından mutfak ile alakalı ortak kümelerden olan kitleleri
+bize sunacak ve kitle nüfuslarına göre yukarıdan aşağı sıralayarak bize sıralamış olacak. Bu
+kitleler arasında olabildiğince spesifik net tanımlı birbirinden farklı kitleleri seçmeye
+çalışacağız. Ama yine mutfak ile alakalı olabilirliğine dikkat ederek. Her yeni bir kitle
+seçimimizde kelimeleri optimize ederek bize aradığımız kitleler ile daha alakalı olduğunu
+düşündüğü kitleleri sunacak. Bu sayede bizim ile alakalı olabilecek kitleleri genişletmiş olarak
+sunmuş oluyor. Fakat önerilen kitle seçiminde tasarruf amaçlı aynı kişileri temsil edebilecek
+olan benzer kelimeleri seçememeye dikkat etmeliyiz, uzak durmalıyız. Bu şekilde 20 farklı
+kitleyi ayrı bir kağıda not alıyoruz.
+-Sonrasında seçtiğimiz 20 kitleden 1 milyondan yüksek 14 milyondan düşük ortalama 4-7
+milyon nüfuslu kitlelerden bir tanesini seçerek reklam seti kısmına bu kitlenin adını verip
+reklamı onaya sunuyoruz.
+-Sonrasında onaya sunduğumuz bu reklamı duplicate yapıp 2 adet çoğaltıyoruz.
+-Kopyalardan detailing targeting kısmını kaldırmaya dikkat ediyoruz. Kalan 19 kitleden nüfus
+kriterine uyan başka bir tanesini seçerek, isim kısmına da yine kitlenin kendi ismini veriyoruz.
+-Kopyalanmış 2 adet reklam seti için aynısını tekrarlayarak onaya sunuyoruz.
+
+--- Sayfa 38 ---
+37
+
+Burada 3 adet reklam setini bir kampanya içinde organize etmiş olduk.
+3.5  İLERİ SEVİYE FACEBOOK REKLAMLARI
+3.5.1 ÜRÜN TESTİ - SİHİRLİ FORMÜL
+Hazırlamış olduğumuz 3 adet reklam seti onay aldıktan sonra gösterime çıkacak ve reklamların
+zamanla performans ölçütleri ve veri okumaları ile hangi durumlarda hangi reflexleri
+göstereceğimizi göreceğiz.
+
+Vermiş olduğumuz 3 reklam setini ilk olarak 24-48-72 saat daha sonrasında performanslarına
+göre 72+24 ve 72+48 saat incelemeleri yapacağız.
+Performans kriterleri:
+Reklam kampanyası başladıktan 24 saat sonrası: İlk analizimizi yapabilmek için 24 saat
+boyunca Reklam set’lerimizin hedef kitlelerimize gösteriliyor olması gerekiyor. Bu sürenin
+sonunda hiçbir şekilde link tıklaması almamış olan Ad set’lerimizi kapatıyoruz. Eğer ilk başta
+bütçenizden dolayı yedeğe bıraktığınız bir hedef kitle var ise bir ad setinize ‘Duplicate’ ederek
+yedeklediğiniz bu hedef kitleleri de fazla bütçe harcamadan test edebilirsiniz.
+Reklam kampanyası başladıktan 48 saat sonrası: 48 saat geçtikten sonra Ad Set’lerinizde
+aramanız gereken veri Add To Cart. Hedef kitlelerinizin içerisinde 48 saatte hiç sepete eklenme
+olmayanları kapatabilirsiniz. Bu kapatmalar demek değildir ki seçtiğiniz hedef kitle ile
+ürününüz uyuşmuyor. Fakat elinizdeki reklam kopyası ve görselleriniz bu hedef kitle ile
+uyuşmamış olabilir. Farklı bir reklam kampanyasında yine aynı kitleyi test edebilirsiniz, fakat
+bu kampanya da bu hedef kitle ile devam etmeniz sizi zarara uğratacaktır.
+
+--- Sayfa 39 ---
+38
+
+Reklam kampanyası başladıktan 72 saat sonrası: Kampanyamızın başarılı olup olmayacağını
+göreceğimiz verilerimiz 72 saat sonra elimize geçmiş oluyor. 72 saat geçtikten sonra bakmamız
+gereken veri ise ‘Purchase’. Burada;
+-Hiç sipariş yok ise  50$-75$
+-1 sipariş almış ise 100$-125$
+-2 sipariş almış ise 150$-175$
+Her gün kontrol edilen reklamlarda belirtilen performans kriterlerine uymayan (düşük olan)
+setler kapatılıp yerine 20 adet not aldığımız listeden kalanlar arasından nüfus kriterlerine
+uygun olanlarından ekleyerek devam ediyoruz. Her kapatılan 1 reklam için yeni 1 adet yeni
+reklam açıyoruz.
+3 gün ve 5 gün sonundaki değerlendirme aşamalarında bir sonraki güne geçen reklam sayısı
+%50 nin altında ise belirtilen küçük reklam bedelini üzerinde ise büyük reklam bedelini max.
+harcanacak reklam bedeli olarak baz alıyoruz.
+Başarısız reklamları silip yerine yenisini ekleme işlemini; toplam harcadığımız (3 gün sonunda
+bütün setler için) reklam bedeli ile devam etmekte olan reklam setlerinin max. potansiyel
+harcayacağı reklam bedelini toplayıp başarı oranına göre belirlenen alt limitten çıkardığımızda
+eğer elimizde en az 1 sete 3 gün harcanacak reklam bedeli kalır ise yeni set yayınlayıp
+performans artışı beklemeye devam edebiliriz.
+3 gün sonunda 1 sipariş elde edebilen setleri 72+24 ve 72+48 saat olarak test etmeye devam
+ediyoruz.
+Burada 2 ihtimale göre hareket ediyoruz. 1 tanesi her 2 günde 1 er sipariş aldığımız ihtimal,
+diğeri ise break even noktası hesap edilerek (eksiye düşmeyecek şekilde) reklam vermeye
+devam ettiğimiz ihtimal.
+Ve nihayet 1 setten 3 sipariş almayı başardığımız setlerde yatay ölçekleme kısmına geçiyoruz.
+Eğer herhangi bir siteden 3 sipariş alamaz ve break even noktasının altına düşecek olursak
+başka yeni bir ürün araştırmaya devam edebiliriz.
+
+--- Sayfa 40 ---
+39
+
+3.5.2 KAMPANYA OLUŞTURMA VE REKLAM İÇERİĞİ
+Kampanya oluştururken Facebook reklam hesabım da karşımıza çıkan “Create ad” reklam
+oluştur butonuna tıklıyoruz. Karşımıza “Chose a Campaign Objective” başlığı altında
+izleyeceğimiz stratejiye göre seçenek olarak reklam çeşitleri geliyor. Bu seçenek de örnek
+olarak ”Conversions” dönüşüm reklamlarını seçiyoruz.
+Kampanya ismine “Ürün ismi+Net Kar Miktarı” olarak isimlendiriyoruz. Bu şekilde diğer
+çıkacak olduğumuz kampanyalarla birlikte karışıklık olmaması ve yönetim kolaylığı için bu
+şekilde adlandırıyoruz.
+Sonrasında karşımıza çıkan CBO (Campaign Budget Optimization) seçeneği kapalı olmalı. Bu
+aşamada bunu kullanmayacağız. İleri seviye reklamlarda burayı kullanıyor olacağız.
+Reklam kısmında yine çıkacak olduğumuz reklamımıza isim veriyoruz. Identity kısmında
+Facebook reklam hesabımızı seçiyoruz. Sonraki aşamada karşımıza 3 farklı reklam türü için
+seçenekler geliyor. Bunlardan bir tanesi görsel ve video reklamı. Bir diğeri carousel olarak
+adlandırılan ve varyasyonlu sunulan renk ve size seçenekli ürünler için uygun olan seçenek.
+Bir diğeri ise birden fazla ürünümüzü reklama çıkabileceğimiz Collection seçeneği. Biz burada
+genel olarak kullandığımız Video ve Görsel reklamlarını seçerek devam edeceğiz. Aklımıza
+gelecek olan video reklamımı yoksa görsel reklam daha avantajlı sorusuna ise ürün
+fonksiyonelliğini daha iyi anlattığı ve geri hedeflemede kullanılabilirlik açısından Video
+reklamlılarını çoğunlukla tercih ediyoruz. Primary text kısmında müşterinin karşısına ilk çıkan
+ve ikna açısından vurucu etkiye sahip metini giriyoruz. İlgi çekici olmalı ve çalıştığımız hedef
+kitleye uygun olmalı. Emojilerle zenginleştirilmeli. Ürünün ana ve dikkat çekici özelliği ön
+planda olmalı. Diğer özelliklerden 3-5 adet anlaşılabilir şekilde buraya eklenmeli. Sonrasında
+yine dikkat çekici olmasına dikkat ettiğimiz fiyat teklifini buraya ekliyoruz. Fiyatlarda eğer
+ürünümüz ucuz ise yüzdelik ibarelerle ifade edilmeli eğer pahalı ise dolar olarak ifade edilir.
+Örnek olarak “%50 off +Free shipping” gibi. Daha sonrasında bit.ly uygulaması ile ürün linkini
+kısaltarak kolay tıklanabilir olması için 2 kez alt alta ekliyoruz. Ve Alireviews uygulamasından
+çektiğimiz yorum puanını bire bir Headline kısmına ekliyoruz. Alt kısımda bulunan description
+kısmına da yine indirim ve free shipping girerek tamamlıyoruz. Website URL kısmına yine
+
+--- Sayfa 41 ---
+40
+
+ürünümüzün linkini ekleyerek Call to action kısmına shop now butonunu seçtikten sonra
+bitiriyoruz.
+
+3.6  YATAY ÖLÇEKLEME
+Burada amacımız testlerde 3 sipariş almış setlerimizi 50 siparişe ulaştırmak.
+Fakat burada $5 lık verdiğimiz reklam bedelini artırarak daha çok sayıda reklam ile daha çok
+reklam mantığını kullanamıyoruz. Çünkü Facebook test aşamasında bizim reklam bedelimize
+göre kitle optimizasyonu yapıyor. Bunun için her yeni gireceğimiz meblağ farklı bir kitlenin
+testi demek olacağından ve bu farklı kitlenin verimi garanti olmadığından dolayı test
+aşamasında reklam bedelini değiştirmiyoruz.
+
+--- Sayfa 42 ---
+41
+
+Burada izleyecek olduğumuz strateji daha önce optimize olmuş 5$lık kitleyi olabildiğince
+domine ederek verimini arttırmaya çalışmak olacak.
+3 sipariş getirmiş başarılı setimizi 2 kez kopyalayarak reklama çıkıyoruz ve bunun yanında en
+başta kaydettiğimiz 20 farklı kitleden kalanlarından nüfus kriterlerine uygun olanlardan 2 adet
+daha yeni set ekleyerek ve isimlerinde yine kitlenin kendi isimlerini koyarak devam ediyoruz.
+Bu yeni setlerimizi de her gün performans kriterlerine göre takip ederek diğer güne geçişini
+sağlıyoruz. Break even noktamızı da devamlı takip ederek zarar eder hale düşmemeye dikkat
+ediyoruz. Gerekirse 50 siparişi beklemeden kapatıyoruz.
+Bu şekilde 50 siparişe performans kriterlerimize uygun şekilde ulaşmaya çalışıyoruz. 50 sipariş
+sonrası dikey ölçeklemeye geçiyoruz.
+3.7  FUNNEL - SATIŞ HUNİSİ
+Ürünü satmaya çalıştığımız (müşteri ilişkisinde), ilgisini çekmekten satışı nihayete erdirmeye
+kadar olan sürecin tamamıdır. Müşterinin satın almada yol haritasıdır. Bu bütün pazarlama
+türlerinde geçerlidir. Bizim kullanacak olduğumuz shopify dropship ticaret tarzında bir satış
+hunimiz var bunu kullanıyor olacağız.
+
+Bizim insanların önüne çıkarıp dikkatini çekebileceğimiz yer Facebook ve bunu reklamlar ile
+yapıyoruz. Satış hunimizin en geniş alanı en harici alanda soğuk kitleye sunduğumuz reklam
+
+--- Sayfa 43 ---
+42
+
+izlemesi bulunuyor. Öncelikli video reklamları bize bu konuda işe yarar data veriyor.
+Sıralayacak olursak;
+-Reklam
+-Link Click: Reklam izleyip alakalı alakasız linke tıklayan kesimdir.(örnek;1-9 ay hamile olanlar.)
+-Sayfa Görüntüleme: Sayfada en az 2 sn geçiren kesim. Bu kesimin ürünü incelediğinden
+eminiz.(örnek;3-9 ay hamile olanlar)
+-Sepete Ekleme: Ürünün fiyat teklifini görüp, fiyata ikna olan kesim. (örnek; 5-9 ay hamile
+olanlar.)
+-Ödemeye yeltenme: Satın almaya ikna olmuş kesim kişisel bilgilerini verir.(örnek;6-9 ay
+hamile olanlar.)
+-Satın alma: Satışın tamamlandığı aşama (örnek;8-9 ay hamile olanlar)
+Bu satış hunisini biliyor olmak bize satış sürecindeki kırılımları analiz etmemize olanak tanıyor.
+Bizlerde bu kırılımlara göre reaksiyon alıp iyileştirme yapacağız. Buradaki hedefimiz verilere
+göre eksiklerimizi iyileştirmek ve nakit akışını hızlandırmak olacak.
+
+--- Sayfa 44 ---
+43
+
+Kırılımlara bazı örnekler verecek olursak;
+-
+0-3 sn. sayfa girişindeki sorunlar
+-
+3-8 sn. sayfa gezerken yaşanan sorunlar
+-
+8-25 sn. yorumlardan kaynaklı sorunlar
+-
+25-45 sn. satış metinlerinden kaynaklı sorunlar
+-
+45-90 sn. yetersiz duygusal baskılayıcılar.
+Örnek olarak sayfa görüntülemeden sonra sepete eklemede problem görürsem daha ikna
+edici bir metin yazmam gerekir ve müdahale ederim yada sepete eklemeden ödemeye
+yeltenmeye bir problemim var ise demek ki duygusal baskılayıcıları tekrar kontrol etmeliyim.
+Biz bu satış hunisinden elde ettiğimiz datayı Facebook marifeti ile nasıl kullanabiliriz.
+Biz eğer facebook a birbirinden bağımsız 100 olay verir ve benzeri olayları gerçekleştirebilecek
+farklı kitleler ister isek bize bunu sunabilir (Benzer kitleler), ve bu kitleleri benzerlik oranına
+göre 6 parçaya kadar bölebiliyor. Bizlerde uygunluğuna verimliliğine göre kullanabiliriz.
+Benzer kitle alırken shopify da biz satış hunisi deki her bir aşamada daha iyi daha net daha
+kesin bir hedefleme için 500 sayısını baz alıyoruz. Aşamalardaki değerler 500 sayısına
+ulaştığında benzer kitle oluşturarak verimliliği artırmaya çalışıyoruz. Bunu her bir aşamada
+sırası ile 500 rakamını yakalayarak satıştada 500 sayısını yakalamaya çalışıyoruz. Tabii buraya
+kadar her aşamada her adımda Break even noktasını gözeterek geliyoruz ki yolun sonunda
+zarar etmiş olmayalım.
+3.8  DİKEY ÖLÇEKLEME
+Dikey ölçeklemenin merkezinde CBO reklamları var. Bunun sebebi çoğalttığımız reklam
+setlerinin reklam bedelini değiştirdiğimizde en baştan optimize olmaya çalışması var. CBO,
+oluşturduğumuz reklam gruplarımız doğrultusunda, bütçenizi en iyi şekilde paylaştırmak
+adına kampanya bütçenizi ve teklif stratejimizi kullanıyor. Bu özellik sayesinde Facebook'a,
+reklam gruplarımız için uygun gördüğü bütçeleri artırma ve azaltma izni vermiş oluyoruz. Yani
+
+--- Sayfa 45 ---
+44
+
+kampanya içerisindeki reklam setlerine reklam süresi boyunca en verimli olacak şekilde bütçe
+dağılımı yaparak bütçemizi verimli kullanmamıza yarıyor. Fakat burada satış sayısı kitle nüfusu
+oranına göre değil satış hızı oranına göre dağıtım yapacaktır. Bunun için farklı setlerde
+hedeflediğimiz kitlelerin nüfusu birbirinden çok farklı olmadan seçmeliyiz.
+
+CBO reklamlarına her zaman $100 kampanya bedeli ile başlıyoruz. Bu kampanya içerisine en
+fazla 6 set giriyoruz. Burada yeni başladığımız için sepete ekleme 500 e ulaşmamış olacaktır.
+Sayfa görüntülemesi yapan kitlemizi facebook un bize kitleyi benzerlik yüzdeliklerine göre 6
+farklı kitleye bölmesinden yararlanıp bu 6 kitleyi 100$ lık reklamlar ile çıkıp 4 gün boyunca
+izliyoruz.
+Bu süre boyunca setlerde her 5$ harcamasında bir satış hunisindeki aşamalara (sepete
+ekleme, linc click , satın alma vs) performans kriterlerine dikkat ediyoruz. Bu test aşamasındaki
+performans kriterlerine göre düşük performanslı setleri kapatrak ve yerine yenilerini
+ekleyerek devam ediyoruz. Kampanya her 50$ harcadığında 1 satış geldiğinden emin oluyoruz.
+Yoksa kapatıyoruz. Problemin tespitine çalışıyoruz. Eğer satış hunisindeki performans
+kriterlerinde problem yok ise, verimli ise Break even noktasına göre hareket ediyoruz.
+CBO reklamları yaklaşık 4 günde optimize olur. Sonrasında güzel karlılık yakalayabiliriz. Fakat
+biz bu 4 gün içerisinde zarar etmeye çalışacağız.
+
+--- Sayfa 46 ---
+45
+
+4 gün sonunda $100 bedeli olan başarılı bir CBO reklamını 4 gün sonunda reklam bütçesini 2
+ye katlayarak $200 bütçeye çıkararak bir 4 gün daha izliyoruz. Ve bunu her 4 günde başarılı
+oldukça tekrar edip $1000 a kadar ulaştırmaya çalışıyoruz. $1000 sonrasında oluşabilecek
+dahili ya da harici aksaklıklardan dolayı kampanya bütçe artırımı yapmayıp yeni $1000 lık bir
+CBO kampanyası açıyoruz.
+3.9  DEMOGRAFİK HEDEFLEME
+Şimdiye kadar hep ilgi alanları üzerinden kitleler hedeflemiştik. Şimdi ise kişilerin demografik
+yani bizim kendimizin Facebook a verdiğimiz bilgiler (yaş ülke cinsiyet dil vs) üzerinden
+hedeflemeye bakacağız.
+
+İlgi alanı hedeflemesi ile demografik hedefleme arasındaki fark ise, ürünü kullanabilecek
+insanlar ile satın alabilecek insanlar arasındaki fark gibi görebiliriz. Demografiki olarak ürünü
+kullanacak insanları hedeflediğinizde, ilgi alanı olup ürünü satın alabilecek farklı kitleleri hedef
+dışında bırakmış oluruz.
+Yani kullanan insan demografik ile satın alan insan demografik farklılık gösterebiliyor.
+Kullanacak olanlar kesin satın alır fakat satın alanlar kesin kullanmaz, hediye edebilir gibi
+düşünebiliriz. Bu satın alan kısmıda ilgi alanları üzerinden optimize ediyoruz. Demografik
+bilgilerde cinsiyet için 150-500 satış bandı, yaş için 500-1000 satış bandı, bölge için ise daha
+astronomik satış rakamlarında inceleyebiliyoruz. Demografik bilgilerin analizi için ne kadar çok
+ve geniş kitle üzerinden analiz edilirse o'kadar kesin ve net analiz sonucu bilgi edilmiş olunur.
+
+--- Sayfa 47 ---
+46
+
+4. GİTMEDEN ÖNCE
+Sıfırdan başlayarak persona belirlemeyi, doğru motivasyonlara tutunmayı, mağazamızı
+oluşturmayı, mağazamızın elementlerini bu motivasyonlara göre düzenlemeyi, mağazamıza
+doğru trafiği çekmenin yollarını öğrendik. Yorucu bir yolculuktu.
+Bu aşamada kitabın biraz yoğun gelebileceğinin farkındayım. Bir çok yeni teknik bilgi ve
+uygulama alanı ile karşılaştınız. Bu aşamada beyniniz sizi geriye çekiyor olacak, konfor
+alanından çıkmak istemeyecek. Çünkü günün sonunda bu karışık gelen bilgilere aşina hale
+gelebilmek için aksiyon almalısınız ve bu beyninize zor geliyor. Lütfen bu aşamada hepimizin
+aynı yollardan geçtiğini hatırlayın. Sizin gibi yüzlerce insan aynı süreci yaşadı. Kimileri bu
+aşamada kolay olanı yaptı ve adım atmadı, kimisi ise şu an Instagram sayfamda başarılar
+kısmında paylaşımları süslüyor. Tercih tamamen sizin, fakat lütfen yapabileceğinize inanın.
+
+Kitapla
+ilgili
+görüşlerinizi
+ve
+sorularınızı
+bana
+Instagram
+hesabımdan
+veya
+‘gurkan@gurkanzone.com’ adresimden ulaşarak gönderebilirsiniz.
+
+Yolculuğunuzda başarılar dilerim,
+Gürkan

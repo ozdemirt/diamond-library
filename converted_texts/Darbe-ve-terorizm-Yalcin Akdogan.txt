@@ -1,0 +1,784 @@
+--- Sayfa 1 ---
+101
+Güvenlik Çalışmaları Dergisi
+ISSN: 2148-6166
+Yıl: 25 Cilt: 25 Sayı: 2 Aralık 2023 s.101-119 Makale Türü: Araştırma
+Makalenin Geliş Tarihi: 22.10.2023 Makalenin Kabul Tarihi: 24.12.2023
+Darbe ve Terörizm Perspektifinde Bir İnceleme: FETÖ
+Yalçın Akdoğan*
+Özet: Terör ve terörizm kavramları farklı ülkeler, gruplar veya kesimler
+tarafından çok farklı şekillerde tanımlanmakta, kavramsal farklılıklar terör-
+le mücadelede ortak hareketi, iş birliğini ve dayanışmayı zayıflatarak çifte
+standart, hoş görme, teşvik ve örtülü/doğrudan destek gibi olumsuzluklara
+yol açmaktadır. Türkiye örneğinde terörle mücadele, terör örgütleri ve terör
+tanımı konusunda geniş bir müktesebat oluşmuştur. Türk siyasi tarihinde
+yaşanan ve demokratik hayatı kesintiye uğratan en önemli gerçeklerden
+biri darbe, muhtıra veya ihtilal kalkışmalarıdır. Emir komuta zinciri veya
+cunta biçiminde gerçekleşen darbelerde, darbecilerin bazıları, daha sonra
+anayasada değişiklik yapmak ve demokratik düzene müdahale etmekle
+suçlanarak yargılanmıştır. Ancak, eylemleri organize ve örgütlü olmasına
+rağmen bir örgüt olarak tanımlanmamışlar veya işlenen suç terörle müca-
+dele kanununa aykırı olmakla birlikte terör örgütü olarak nitelendirilme-
+mişlerdir. Sadece iki girişim terör örgütü iddiasıyla dava konusu olmuş ve
+bunların birincisi olan Ergenekon terör örgütü iddiaları Yargıtay’ca bozul-
+muştur. Diğeri, Fetullahçı Terör Örgütü (FETÖ) ise darbe girişiminde bu-
+lunan terör örgütü olarak Yargıtay’ca onanmıştır. Bu makale FETÖ bağla-
+mında ‘darbeci terör örgütü’ nitelemesini ele alıp incelemektedir.
+Anahtar kelimeler: Terörizm, Darbecilik, FETÖ.
+*  Prof. Dr., İstanbul Aydın Üniversitesi, Kamu Yönetimi Bölümü, yalcinakdogan@aydin.edu.tr,
+ORCID: 0009-0001-8363-6201
+
+--- Sayfa 2 ---
+102
+Journal of Security Studies
+ISSN: 2148-6166
+Year: 25 Volume: 25 Issue: 2 December 2023 p.101-119 Article Type: Research
+Received Date: 22.10.2023 Accepted Date: 4.12.2023
+A Review in the Perspective of Coup and Terrorism: FETO
+Yalçın Akdoğan
+Abstract: The concepts of terror and terrorism are recognized very diffe-
+rently by different countries, groups or segments. This curtails joint action,
+cooperation and solidarity in the fight against systematic terrorism. And
+this leads to negativities such as double standards, tolerance, encourage-
+ment and planned/direct support. In the case of Türkiye, a broad acquis has
+been formed on the fight against terrorism and the definition of terrorism.
+One of the most important facts in Turkish political history that interrupts
+democratic life is coups, memorandums or revolution attempts. In coups
+that took place in the form of a chain of command or a junta, some of
+the coup plotters were later tried and accused of making changes to the
+constitution and interfering with the democratic order. However, although
+their actions were organized and planned, they were not defined as an orga-
+nization, or although the crime committed violated the anti-terrorism law,
+they were not defined as a terrorist organization. Just two alleged coup at-
+tempts have been prosecuted as terrorist organizations and, as one of them,
+the Ergenekon case was overturned by the Supreme Court. Other one the
+Fetullahist Terrorist Organization allegations were upheld by the Supreme
+Court. This article evaluates the qualification of ‘coup plotting terrorist or-
+ganization’ in terms of FETO.
+Key Words: Terrorism, Putschism, FETO.
+
+--- Sayfa 3 ---
+Y. Akdoğan: Darbe ve Terörizm Perspektifinde Bir İnceleme: FETÖ
+103
+Giriş
+Terörizm; toplumda korku ve panik oluşturma amacı taşıyan şiddet eylemlerini
+içeren bir olgu olarak, dünya genelinde güvenlik ve istikrar konularında ciddi
+endişelere yol açmaktadır. Terör örgütleri belirli bir politik, dini veya ideolojik
+amaç doğrultusunda hedef toplumda kaos oluşturarak genellikle sivil halka yö-
+nelik şiddet eylemleri ile belirli bir etki oluşturmaya çalışmaktadır. Bu etki, top-
+lumda geniş çaplı güvensizlik ve istikrarsızlık meydana getirerek, terör örgütünün
+taleplerini dayatma veya belirli bir değişikliği zorla sağlama çabasını içermek-
+tedir. Bununla birlikte terör eylemleri genellikle devletin iç ve dış politikalarını
+şekillendirmeye yönelik baskı oluşturarak, ulusal güvenliği daha da karmaşık bir
+hale getirebilmektedir. Sivil halk arasında endişe ve korku uyandırarak güvenlik
+duygusunu zayıflatmanın yanında ekonomik kayıplara ve toplumsal karışıklıklara
+yol açabilmekte, ülkelerin savunma mekanizmalarının etkinliğini sekteye uğrata-
+bilmektedir.
+Tıpkı terörizm gibi darbe, muhtıra ya da ihtilal kalkışmaları da şiddet içeren
+politik eylemler olup; toplumsal ve siyasi istikrarsızlıklar gibi ortak hedeflere yö-
+nelmektedirler. Hem terörizm hem de darbeci zihniyet genellikle toplumda panik,
+korku ve istikrarsızlık oluşturma amacını taşımakta, meşru hükümete karşı mü-
+cadeleyi içermektedir. Terörizmde bu eylemler genellikle sivil halka yönelik şid-
+detle, darbe girişimlerinde ise hükümeti devirme çabalarıyla belirginleşmektedir.
+Nitekim belirli bir politik amaç doğrultusunda gerçekleşen terörizmde sivil hal-
+ka yönelik şiddetin temel saikleri arasında toplumda güvensizlik ve huzursuzluk
+oluşturarak hükümetin meşruiyetini sarsma ve toplumda geniş etki bırakma amacı
+yer almaktadır. Bu bağlamda darbe ve terörizm arasında siyasi amaçlara ulaşmak,
+meşru hükümete karşı mücadele yoluyla hükümetin otoritesini sarsmak, meşrui-
+yet kaybına neden olmak, toplumda güvensizlik, korku, sosyal karışıklıklar oluş-
+turmak gibi hedeflerden kaynaklanan sebeplerle illiyet bağı bulunabilmektedir.
+Bu illiyet bağına en iyi örneklerden birisi 15 Temmuz 2016’da gerçekleştirdiği
+darbe girişiminde görüleceği üzere Fetullahçı Terör Örgütü (FETÖ)’dür.
+Ordu içerisindeki devşirilmiş ve militanlaştırılmış elemanları vasıtasıyla hem
+meşru seçilmiş hükümeti devirmeye yönelik hem de sivil halka yönelik şiddet içe-
+ren eylemlerde bulunan FETÖ, terör ve darbeyle doğrudan ilişkilendirilmesi gere-
+ken bir yapıdır. Örgüt, 15 Temmuz 2016 öncesindeki süreçte de emniyet, yargı ve
+askeriye gibi stratejik kurumlara sızarak ve kendi üyelerini etkili pozisyonlara ge-
+tirerek hükümete karşı gerçekleştirilen sözde operasyonlarda etkin rol oynamış-
+tır. 2013 yılında örgüt üyelerinin yürüttüğü 17-25 Aralık operasyonları, 2014’te
+MİT tırlarının durdurulması ve aranması nedeniyle devlet içerisindeki kritik ku-
+rumları zayıflatma çabaları, medya organları aracılığıyla örgütün propagandasını
+yayma ve kamuoyunu etkileme stratejileri, askeriye içerisinde kadrolaşma çabası
+örgütün terör ve darbe faaliyetlerini planlama ve uygulama konusunda aktif roller
+üstlendiğini göstermektedir.
+
+--- Sayfa 4 ---
+Güvenlik Çalışmaları Dergisi / Turkish Journal of Security Studies
+104
+Bu çalışma darbe ve terörizm perspektifinde FETÖ’yü ele almaktadır.
+Çalışmada terörizm ve terör suçu kapsamında FETÖ’nün darbe kalkışması değer-
+lendirilmektedir. Çalışmada öne çıkan hususlardan birisi terör ve terörizm kav-
+ramlarını tartışarak terörizmin temel bileşenleri, özellikleri, amaçları ve hedefle-
+rini incelemektir. Bununla birlikte suç örgütü, silahsız örgüt, silahlı terör örgütü
+terimlerini detaylı olarak açıklamak ve bir örgütün terör örgütü olarak tanımlan-
+masına dair kararları incelemek bu çalışmanın temel odak noktasıdır. Çalışmada
+terör, terörizm, terör suçu kavramlarından hareketle ‘darbeci terör örgütü olarak’
+FETÖ analiz edilmekte ve darbe teşebbüsünün terör suçuyla ne şekilde ilişkili
+olduğu ortaya konulmaktadır.
+Terör ve Terörizm Olgusu
+Terör ve terörizm kavramları ne anlam ifade eder; terörizmin temel bileşenleri,
+özellikleri, amaç ve hedefleri nelerdir; suç örgütü, silahsız örgüt, silahlı terör ör-
+gütü kavramları ne anlatır, bir örgütün terör örgütü olduğuna hangi kurum nasıl
+karar verir; darbecilik nedir, darbecilik bir terör suçu mudur, darbeci terör örgü-
+tü kavramı ne anlam ifade eder? Bu sorular çerçevesinde darbeci terör örgütü
+kavramsallaştırmasını yapmadan önce kavramın bileşenlerini ele almak yerinde
+olacaktır. Terör, darbecilik ve silahlı suç örgütü gibi kavramlar hukuk sistemle-
+rinde farklılıklar sergileyebildiği gibi akademik literatürde de geniş bir yelpazeye
+yayılmaktadır.
+Öncelikle ele almak gerekirse terör; korkutma, yıldırma, yıkma, bozma, böl-
+me, yok etme gibi amaçlarla şiddet ve cebir uygulama, tehdit ve baskı yapma,
+tahrip etme ve zarar verme eylemidir. Etnik, dini, mezhebi, ideolojik, kültürel,
+cinsiyetçi gibi farklı muhtevalarla şekillenen bir siyasi amaç taşımak terörün en
+belirgin ve olmazsa olmaz özelliğidir. Adi veya organize suçlar ile terör arasın-
+daki fark ‘siyasi amaç, hedef, motivasyon’ vasfıdır. Siyasi amaç ve hedef rejim
+değişikliğinden hükümeti devirmeye, özerk bölge kurmaktan bağımsız devlet
+kurmaya, hükümetleri bir politika uygulamaya veya uygulamamaya zorlamaktan
+kendi siyasi ütopyalarını gerçekleştirmeye kadar çok farklı siyasi değişim proje-
+lerini kapsayabilmektedir.
+Terör kavramı, farklı disiplinler, kültürler ve tarihler boyunca çeşitli perspek-
+tiflerden ele alınmış; farklı araştırmacılar tarafından çeşitli açılardan değerlendi-
+rilmiştir. Siyaset bilimi disiplini terörü belirli bir siyasi amaç uğruna kullanılan
+şiddet eylemleri olarak analiz ederken; sosyoloji ise terörü genellikle toplumsal
+yapıdaki çatışmaların bir yansıması olarak ele almaktadır. Psikoloji ise terörist-
+lerin motivasyonlarını anlamaya ve yorumlamaya çalışmakta, terörün bireylerin
+ya da toplumların zihinsel süreçlerine olan etkisine odaklanmaktadır. Güvenlik
+çalışmalarında ise terör genellikle çok boyutlu bir tehdit olarak değerlendirilmek-
+te; terörizmin nedenleri, ideolojik temelleri, stratejileri ve etkileri üzerine kap-
+
+--- Sayfa 5 ---
+Y. Akdoğan: Darbe ve Terörizm Perspektifinde Bir İnceleme: FETÖ
+105
+samlı bir analize tabi tutulmakta ve etkili güvenlik politikalarının oluşturulmasına
+katkı sağlanmaktadır. Akademisyenler arasında ise terör çeşitli disiplinler ve teo-
+rik bakış açıları doğrultusunda farklı şekillerde ele alınmaktadır:
+Thornton, terör tanımında özellikle politik değişim saikine şöyle vurgu yapmaktadır:
+“Terör, şiddet kullanımını veya tehdidini gerektiren normal dışı araçlar vasıtasıyla
+politik davranışı etkilemek için tasarlanmış sembolik bir eylemdir.” (Demir, 2018:49)
+Laquer’e göre de terörün amacı, “görevli kişileri zayıflatmak ya da değiştirmek ya da
+siyasi bir değişim sağlamak için devlet-altı düzeyde şiddet uygulamak veya toplumda
+panik oluşturmaktır.” (Sula, 2022: 120).
+J. Goodwin terörü geniş kapsamlı bir çerçevede şu şekilde tanımlamaktadır:
+“Terör, hükümet, grup, örgüt veya tek bir kişinin sivilleri veya siyasi liderleri
+korkutmak, yıldırmak, cesaretlerini kırmak, kışkırtmak veya üzerlerinde baskı
+oluşturmak amacıyla sivilleri veya savaşan olmayanları öldürmek veya yaralamak
+için tasarlanmış, siyasi bir amaca ulaşmak adına başvurduğu herhangi bir taktiktir.”
+(Chenoweth ve diğerleri, 2022: 325)
+Toplumsal etkiyi merkeze alan diğer kapsamlı bir tanım ise terörü şöyle ifade
+etmektedir:
+ “Siyasal ve ideolojik amaçlarla, kişiler ve gruplar tarafından, gizli bir örgütlenme
+çerçevesinde, bir iç veya dış desteğe dayalı olarak, kitleler üzerinde bir korku atmos-
+feri oluşturmak, sosyal sınıflar arasında muhalifleri ve şiddete engel olanları sindir-
+mek veya yok etmek, kitlelerde yalnız kaldıkları kanaati oluşturmak, onlara belirli
+düşünce kalıplarını zorla kabul ettirmek biçimlerinde, sembol ve tanıtım yönleri de
+düşünülerek gerçekleştirilen bir süreçtir.” (Yılmaz, 2017: 289)
+Bütün bu farklı terörizm tanımlarından yola çıkarak kavramın temel bileşenle-
+ri, kanunsuz ve hukuksuz şiddet, cebir ve güç kullanımı; tehdit, şantaj, yıldırma,
+korkutma gibi psikolojik etki üreterek toplumsal kesimleri yönlendirme; çaresiz/
+aciz bırakma, huzuru, istikrarı ve düzeni bozma ile iktidarları bir politika uygu-
+lamaya veya uygulamamaya zorlama; bilinçli, kasıtlı, organize bir eylem ortaya
+koyma; rastgele veya seçilmiş kişi veya grupları hedef alma; sembolik hedeflere
+yönelik saldırıyla sembolik ve siyasi mesajlar verme gibi ifadeler üzerinden vur-
+gulanabilir.
+Terörizmin temel özellikleri ise şu şekilde özetlenebilir: “Terörizm bir ide-
+oloji, doktrin değil bir stratejidir; kendini meşrulaştıran bir senaryoya dayanır;
+yeni düzen ve zafer vaat eder; uluslararası siyasetin parçasıdır, dış destek görür;
+propaganda ile doğar ve gelişir; devlet otoritesine ve düzenine alternatif bir oto-
+rite ve düzen kurmaya çalışır; mali destekle ayakta kalabilir; bilinçli ve amaçlı
+eylemlere dayanır; dehşet ve korku yaymayı amaçlar; başka güçlere taşeronluk
+yaparak amaçlarına ulaşmaya çalışır; kendi dilini ve kavram setini üretir; örgütlü
+bir çabayı gerektirir, bir organizasyon meselesidir.” (Gül, 2012: 15)
+
+--- Sayfa 6 ---
+Güvenlik Çalışmaları Dergisi / Turkish Journal of Security Studies
+106
+Terör örgütlerinin siyasi amaçları; devlet kurmak, iktidarı devirmek, rejimi de-
+ğiştirmek, iktidara politika dayatmak, ülkeyi bölmek, zayıflatmak, istikrarsızlaş-
+tırmak veya özerklik/federasyon kurmak olabilir. Bir ülkede iktidara, rejime veya
+resmi ideolojiye veya bunların uygulamalarına karşı toplumsal/siyasi muhalefet
+ve tepkisellik demokratik siyasetin meşru kanallarıyla ortaya çıkabileceği gibi,
+terör ve şiddet gibi yasadışı yöntemlerle de kendisini gösterebilir. Klasik ulusal
+terörizmde sistemin demokratik kapasitesi bu tepkisellik durumuna etki edebilir-
+ken, küresel düzeyde yaşanan yeni terörizm olgusunda ülkelerin siyasi yapıların-
+dan bağımsız olarak terör hadiseleri ortaya çıkabilmektedir. Bu çerçevede terör
+eyleminin, terör örgütünün veya terörizmin amaçlarını ise şu şekilde sıralamak
+mümkündür: “Varlığından haberdar etme; sesini duyurma ve gücünü gösterme;
+taraftar kitlesi, bağlılar grubu, fedailer üretme, işbirlikçilerine ve izleyicilere mo-
+ral sağlama; karşı olanları korkutma, sindirme; otoriteyi sarsma, kendi otoritesin
+oluşturma; devleti halka baskı uygulamaya, hak-hukuk ihlalleri yapmaya zorla-
+ma; örgütsel yapıyı geliştirme, örgüt üyelerini eğitme; mevcut düzeni değiştirme;
+psikolojik karışıklık çıkarma; sosyal karışıklık çıkarma; devrim için uygun ortam
+hazırlama.” (Gül, 2012: 18)
+Teröristlerin gerçekleştirdikleri eylemlerle dört kesimi hedefledikleri
+düşünülebilir. Bunu bir betimleme üzerinden şu şekilde izah etmek mümkündür:
+Birincisi eyleme maruz kalanlardır. Bir baraja yönelik bombalı saldırıda ilk hedef
+barajda görev yapanlardır ve şiddete doğrudan maruz kalmaktadırlar. İkinci hedef
+etkilenenlerdir. Barajın su taşkınından sele kapılan veya içme/sulama imkânı sek-
+teye uğrayanlar ‘etkilenen’ sınıfına girmektedirler. Üçüncü kesim izleyenlerdir.
+Eylemin toplumsal etkisi doğrudan etkilenen kitleden daha büyük olabilir. Dör-
+düncü hedef ise iktidardır. Terör eylemi iktidarı yıpratmak, yıldırmak, zorlamak,
+aciz düşürmek için yapıldığından her eylemde ana mesaj iktidara verilmektedir.
+Terörizmin türleriyle ilgili literatürde çok farklı sınıflandırmalar yapılmak-
+tadır. Bu sınıflandırmalardan bazıları şunlardır: yerli, ulusal, uluslararası, ulus-
+lar-üstü, devletli, devletsiz; politik, politik olmayan, yarı terörizm, sınırlı politik;
+kitlesel, taktiksel, rastgele; devrimci, politik, milliyetçi etnik, çevreci vb. (Martin,
+2017: 34). Terörün türleriyle ilgili tanımlamalar ise şu şekilde karşımıza çıkmak-
+tadır: Etnik terör, ayrılıkçı terör, siber terör, narko-terör, din istismarına dayalı
+terör, aşırı sol terör, aşırı sağ terör, bireysel terör, biyolojik terör, kimyasal terör,
+iç terör, uluslararası terör, ulus aşırı terör vb. (Gül, 2012: 27).
+Terör ve terörizm tanımlamalarındaki farklılıklar öncelikle siyasi önceliklere,
+hukuki norm farklılıklarına, mağdurun veya örgütün kimliğine, uluslararası
+sistemdeki güç dengelerine, ulusal çıkar ve önceliklere göre değişebilmektedir.
+Ülkeler arasındaki tehdit algısındaki farklılıklar, terör ve terörizm kavramına
+yönelik subjektif, tartışmalı ve politik bakış açısı, terörizmi örtülü, gizli veya
+vekâlete dayalı savaş/çatışma aracı olarak kullanma stratejisi gibi çeşitli faktörler,
+terör tanımlarının değişkenliğinin bazı sebepleri olarak belirtilebilir. Terör tanımı
+üzerine mutabık kalınan bir çerçeve geliştirilememesi uluslararası yaptırımları
+
+--- Sayfa 7 ---
+Y. Akdoğan: Darbe ve Terörizm Perspektifinde Bir İnceleme: FETÖ
+107
+formüle etmeyi zorlaştırmakta, çifte standardı artırabilmekte ve suçluların iadesi
+gibi somut adımları engellemektedir.
+İdeolojik farklılıklar sebebiyle tanımlardaki uzlaşmazlığa rağmen genel olarak
+terörün sivillere yönelik acımasız bir eylem olduğu vurgulanmakta, yani sivil
+mağdur kısmı öne çıkarılmaktadır. Gerçekten de herhangi bir şiddet eylemini te-
+röre dönüştüren hedef ayırt etmemek, eylemin sivillere dönmesi, eylemin vahşi
+ve kanlı olması, eylemin topyekûn bir grubu imha etmesi gibi sebepler midir?
+Oysa terörizmin en kabul gören unsuru olan sivillere yönelik eylem meselesi de
+bakışa göre değişmekte, ‘tüm siviller masum değildir, destekçi veya işbirlikçidir’
+şeklindeki anlayışla mazur gösterilmeye çalışılmaktadır.
+Terörizmin algı operasyonları, propaganda taktikleri ve çeşitli iletişim yön-
+temleri, terör eylemlerini olumlu veya olumsuz bir biçimde tasvir etme çabalarını
+içermektedir. Bu bağlamda, büyük çaplı vahşeti, ideolojik hedeflere ulaşma amacı
+doğrultusunda yapılmış bir fedakârlık olarak sunmak veya eli kanlı bir suçluyu
+fedakâr bir kahraman gibi lanse etmek, terörizmle ilişkilendirilen iletişim strateji-
+lerinin temelini oluşturmaktadır. “Mecbur kaldık, başka yol kalmadı, son çareydi,
+aynı yolla karşılık verdik, sadece savunma yapıyorduk” gibi söylemler teröristle-
+rin kendilerini meşrulaştırma söylemleri olarak ortaya çıkmaktadır.
+Terörizmin Değişen Vasfı ve Yeni Terörizm
+ABD’de yaşanan 11 Eylül saldırısından sonra terörle mücadelenin bir suçla müca-
+dele olmaktan öte bir savaş olarak kodlanması hem mücadelenin seyrini, yöntem
+ve stratejilerini hem de örgütlerin örgütsel yapılarından kullandıkları yöntemlere,
+seçtikleri hedeflere kadar bütün bileşenlerini değiştirmiştir.
+11 Eylül sonrası terörizmin uluslar üstü, uluslar aşırı ve uluslararası hal alması
+teknolojik gelişmelerle, ulaşım ve iletişim araçlarındaki büyük devrimle, internet
+ve sosyal medyadaki büyük dönüşümle alakalı görülebilir. Ortadoğu ve Kuzey
+Afrika’da otorite boşluğundan kaynaklı istikrarsız alanların oluşması, devletle-
+rin güç mücadelelerinde vekâlet savaşları başlatarak örgütleri kullanmaları veya
+terörle mücadelede kullanılan yanlış yöntemler bu süreci hızlandırmıştır. Adalet-
+sizlik, haksızlık, yoksulluk ve geri kalmışlığın dünya çapında yayılması küresel
+tepkilerin şiddete kanalize olmasına sebep olmuştur. ABD’nin uyguladığı terörle
+mücadele stratejisi ve yürüttüğü askeri operasyonlar tepkiselliği artırarak, örgüt-
+lerin propagandalarında kullanabilecekleri gerekçeleri artırmıştır.
+Umberto Eco’nun ‘yeni savaş’ kavramsallaştırmasında (Eco, 2022: 243) vur-
+guladığı gibi, yeni savaş artık iki ülkeyi değil; sayısız gücü karşı karşıya getirmek-
+tedir. Yeni savaşta düşman açık, net, kimlikli, karşıda ve bir ülke değil; içeride,
+çok aktörlü, belirsizdir. Bu savaş biçiminde teknikler, yöntemler, kimlikler, he-
+defler, amaçlar değişmiştir. Yeni terörist örgütler çok esnek bir örgütlenme ağıyla
+dünyanın çok farklı bölgelerine yayılabilmekte, tahrip gücü yüksek silahlara ucuz
+
+--- Sayfa 8 ---
+Güvenlik Çalışmaları Dergisi / Turkish Journal of Security Studies
+108
+şekilde ulaşılabilmekte, asimetrik yöntemlerle devletlerin klasik mücadele yön-
+temleri aşılabilmektedir.
+Günümüzdeki terör tehdidi esnek, ulus aşan ağa sahip, modern teknolojiyi
+kullanan ve kendi içindeki gruplar arasında asgari irtibat kuran bir niteliktedir.
+Küresel düzeyde diğer örgütlerle bağlar kurarak artan bir şekilde kuvvet çarpanı
+etkisi yaratmaktadır (Yılmaz, 2017: 701). Terörizmin ulusal düzeyden bölgesel,
+ulus aşırı ve küresel düzeye genişlemesi, terörizm açısından yeni bir perspektifi
+ifade etmektedir.
+Güvenlik kavramı geçmişten günümüze devlet odaklı ve yalnız askeri teh-
+ditleri ihtiva eden bir yapıdan terörizmin de dâhil olduğu çok boyutlu farklı teh-
+ditlerin ele alındığı genişleme, devlet üstü ve devlet altı aktörlerin de güvenliğin
+odağına yerleştirildiği derinleşme olarak adlandırılabilecek süreçler yaşamıştır
+(Sula, 2022: 9 ve Küpeli, 2021: 267). Genişleme tehditlerin artması, derinleşme
+ise hedeflerin artmasıdır. Genişleme sadece askeri tehditlerin ötesinde, ekonomik,
+siber, biyolojik, göç ve çevre gibi çeşitli alanlarda ortaya çıkan tehditleri içermek-
+te olup; derinleşme ise devlet dışı aktörlere, yani bireylere ve toplum kesimlerine
+yönelik farklı alanlardaki hedeflere ve küresel veya bölgesel düzeyde gerçekleşen
+eylemlere odaklanarak kendini göstermektedir.
+Terör Örgütü Statüsü: Tanımlama ve Süreç
+Terörle mücadele devletlerin terörizme karşı koymak, terör eylemlerini önlemek,
+suçları soruşturmak ve terör örgütlerini etkisiz hale getirmek amacıyla yürütülen
+geniş bir güvenlik ve hukuki çabalar bütünüdür. Bu çabalar; istihbarat toplama, sı-
+nırları koruma, hukuki düzenlemeler, güvenlik güçleri operasyonları, uluslararası
+iş birliği ve toplumla iletişim stratejilerini içermektedir. Ancak terörle mücadele
+noktasında vurgulanması gereken önemli bir husus; terörle mücadelenin ilk saf-
+hası olan örgütü terör örgütü olarak ilan etmek ve hukuk sistemi içinde mücadele
+edilecek bir suç örgütü pozisyonuna oturtmaktır.
+ABD’de bir yapının terör örgütü olup olmadığına ülke içinde İç Güvenlik
+Bakanlığı, uluslararası nitelikte ise Dış İşleri Bakanlığı’nın yayınladığı listeyle
+karar verilmektedir. Almanya’da devlet kurumları liste yayınlayarak örgütlerin
+tehlikeli, zararlı, illegal olup olmadığını ilan etmektedir. İngiltere’de bu görevi
+İçişleri Bakanlığı yürütmektedir (İçişleri Bakanlığı, 2023: 64).  Türkiye’de ise
+temel yöntem mahkeme kararıyla bir örgütün terör örgütü ilan edilmesidir. Bu ise
+bir süreç şeklinde işlemektedir. Ülkenin milli güvenlik siyasetine yönelik tavsiye
+kararları veren Milli Güvenlik Kurulu (MGK) - hükümet tarafından hazırlanan
+ve MGK’ce onaylanan Milli Güvenlik Siyaset Belgesine de uygun olarak- temel
+tehdit ve tehlikelere işaret etmektedir. Hükümetler bu tehdit ve tehlikelere karşı
+idari tedbirler almakta, bir dizi uygulama ile sorunu elimine etmeye çalışmakta-
+dır. Mahkemeler ise somut olaylar üzerinden eylemde bulunan kişi ve yapılara
+
+--- Sayfa 9 ---
+Y. Akdoğan: Darbe ve Terörizm Perspektifinde Bir İnceleme: FETÖ
+109
+yönelik kararlar ile mücadelenin hukuki zeminini şekillendirmektedir. Örneğin
+Fetullahçı Terör Örgütü / Paralel Devlet Yapılanması (PDY), 30 Ekim 2014 tarihli
+MGK toplantısında ‘kamu düzenin bozan iç ve dış legal görünüm altında illegal
+faaliyet yürüten paralel yapılanmalar’, 29 Nisan 2015 tarihli MGK toplantısında
+‘milli güvenliği tehdit eden paralel devlet yapılanması’, 26 Mayıs 2016 tarihli
+MGK toplantısında ‘milli güvenliğimizi tehdit eden ve bir terör örgütü olan para-
+lel devlet yapılanması’ şeklinde nitelendirilmiştir. 20 Temmuz 2016 tarihli MGK
+toplantısında ise FETÖ terör örgütü olarak tanımlanmıştır.
+MGK kararları, milli güvenlik politikasına yönelik tavsiye niteliğindedir ve
+hükümet, bu tavsiye kararlarının yansıması olarak, kanun hükmünde kararname-
+ler ve idari tasarruflar yoluyla FETÖ’ye karşı önlemler almıştır. 2015 yılında,
+FETÖ bağlantılı birçok dava görüşülmeye başlanmış olup, ilk kez silahlı terör
+örgütü ifadesi mahkeme kararına Temmuz 2016’da girmiştir. Verilen cezalar ise
+2017 Eylül’ünde Yargıtay Ceza Kurulu tarafından onanmıştır.
+Yargıtay 16. Ceza Dairesi kararı, FETÖ’nün silahlı terör örgütü olduğunu
+şu şekilde vurgulamaktadır: “…3713 sayılı kanunun 1. Maddesinde tanımlanan
+amaca ulaşmak için silah başta olmak üzere her türlü cebir ve şiddeti araç olarak
+kullanan 5237 sayılı TCK’nin 314/1-2 maddesi kapsamında silahlı bir terör örgü-
+tü olduğu anlaşılmıştır…” (Yargıtay CGK, 2017/16-956).
+Terör Suçu ve Hukuki Çerçeve
+Türk ceza hukukunda örgütler genel (adi) suç örgütü, silahsız terör örgütü, si-
+lahlı terör örgütü olarak üç başlıkta ele alınmaktadır. TCK’nın 220. Maddesine
+göre örgütün unsurları üç kişinin bir araya gelmesi, aralarında hiyerarşik ilişki
+oluşması, suç işleme amacı taşımaları, suç işlemeye yönelik sürekli eylemsellik
+ve ilişki içinde olmalarıdır.
+Terör suçu ve örgütü tanımlamaları Terörle Mücadele Kanunu’nda ifade edil-
+mektedir. Buna göre 1. Madde terör suçunu şöyle tanımlamaktadır:
+“Terör; cebir ve şiddet kullanarak; baskı, korkutma, yıldırma, sindirme veya teh-
+dit yöntemlerinden biriyle, Anayasada belirtilen Cumhuriyetin niteliklerini, siyasî,
+hukukî, sosyal, laik, ekonomik düzeni değiştirmek, Devletin ülkesi ve milletiyle bö-
+lünmez bütünlüğünü bozmak, Türk Devletinin ve Cumhuriyetin varlığını tehlikeye dü-
+şürmek, Devlet otoritesini zaafa uğratmak veya yıkmak veya ele geçirmek, temel hak
+ve hürriyetleri yok etmek, Devletin iç ve dış güvenliğini, kamu düzenini veya genel
+sağlığı bozmak amacıyla bir örgüte mensup kişi veya kişiler tarafından girişilecek
+her türlü suç teşkil eden eylemlerdir” (TMK, 1991: 125).
+Terör örgütü üyesi olmak ve terör suçu ise 2. Maddede şu şekilde vurgulan-
+maktadır:
+
+--- Sayfa 10 ---
+Güvenlik Çalışmaları Dergisi / Turkish Journal of Security Studies
+110
+“Birinci maddede belirlenen amaçlara ulaşmak için meydana getirilmiş örgütlerin
+mensubu olup da, bu amaçlar doğrultusunda diğerleri ile beraber veya tek başına
+suç işleyen veya amaçlanan suçu işlemese dahi örgütlerin mensubu olan kişi terör
+suçlusudur. Terör örgütüne mensup olmasa dahi örgüt adına suç işleyenler de terör
+suçlusu sayılır.” (TMK, 1991: 125)
+Terör suçları devlete, ulusal güvenliğe, hukuk sistemine ve demokratik reji-
+me yönelik cebir, tehdit, şiddet eylemlerini içermektedir. Hükümeti devirmeye,
+Meclis’i lağvetmeye, rejimi değiştirmeye, birlik ve bütünlüğü yıkmaya, hukuk
+sistemini değiştirmeye yönelik eylemler terör örgütlerinin temel siyasi amaçları
+arasında yer almaktadır. Darbe, ihtilal, siyasi kalkışma gibi eylemler de aynı ama-
+cı taşıyan ve aynı kanun maddelerine muhatap olan eylemlerdir. Ceza Kanunu bu
+suçları şu maddelerde düzenlemektedir (TCK, 2004):
+•	 Devletin birliğini ve ülke bütünlüğünü bozmak (TCK, 302. Madde),
+•	 Askeri tesisleri tahrip ve düşman askeri hareketleri yararına anlaşma (TCK,
+307. Madde),
+•	 Anayasayı ihlal (TCK, 309. Madde),
+•	 Yasama organına karşı suç (TCK, 311.Madde),
+•	 Hükümete karşı suç (TCK, 312. Madde),
+•	 Türkiye Cumhuriyeti hükümetine karşı silahlı isyan (TCK, 313.Madde),
+•	 Silahlı örgüt (TCK, 314. Madde),
+•	 Örgüte silah sağlamak (TCK, 315. Madde),
+•	 Cumhurbaşkanına suikast (TCK, 310/1 Madde).
+Darbecilik Suçu
+Darbe; kuvvet kullanılması yoluyla hükümetin devrilmesi ve iktidarın değiştiril-
+mesidir. (Girgin, 1982: 135). İhtilal ise yine kuvvet kullanmak yoluyla ama bu
+kez sadece yönetici sınıfı değil tüm sosyo-ekonomik ve politik sistemi değiştir-
+mek için iktidarı ve sistemi değiştirmektir (Girgin, 1982: 210). Bu tanımlamalar
+aslında Fransız ve Rus ihtilallerine atıf yapan, devrimi anlatan yaklaşımlardır. Si-
+yasi iktidarın beklenmedik bir anda fiziki şiddet kullanılarak veya şiddet kullanma
+tehdidiyle yasalarda belirtilen veya normal sayılan usuller dışında el değiştirmesi
+darbe olarak adlandırılmaktadır (Demirel, 2021: 253).
+Darbe; “bir grubun, bir zümrenin ya da bir askerin yönetimi demokrasi kural-
+ları dışında ele geçirmesi” anlamına gelir (Gökçen, 2021). Askeri darbe ordu için-
+deki kişiler tarafından planlanan ve düzenlenen amacı hükümeti devirmek olan
+bir isyan türüdür (Kalyvas, 2022: 55).
+Bir grubun veya zümrenin demokratik iktidarı devirmesi veya onu etkisizleş-
+tirerek iktidar gücünü kullanması darbe olarak adlandırılmakla birlikte literatürde
+darbeden kasıt; askeri darbe, yani güvenlik güçlerinin hiyerarşik yapı içinde veya
+içinden çıkan bir cunta marifetiyle iktidarı devirmesi ve yönetimi ele almasıdır.
+
+--- Sayfa 11 ---
+Y. Akdoğan: Darbe ve Terörizm Perspektifinde Bir İnceleme: FETÖ
+111
+Askerî darbe, askerlik mesleğince benimsen emir-komuta zinciri zihniyetine tabi,
+eyleminde ve söyleminde şiddet barındıran, toplumsal ve siyasal alana müdaha-
+ledir (Altunok ve Gedikkaya, 2017: 65). Yıldız (2019: 36) darbeyi şöyle ifade
+etmektedir:
+ “Darbe genel olarak askeri gücün/ ordunun, demokratik bir devletin seçilmiş hü-
+kümetine ya da totaliter/otoriter bir devlette siyasal iktidarı elinde bulunduran bir
+iktidara karşı planlanmış bir şekilde güç/ zor/ şiddet kullanarak ya da güç kullana-
+bileceği tehdidi ile var olan siyasal iktidarın yerine geçmesidir. Aslında darbelerin
+sonuçlarına baktığımızda ya siyasal iktidardaki kişi devrilmektedir ya da bir rejim
+değiştirilmektedir”.
+Türkiye’de 27 Mayıs 1960 darbesi, 12 Mart 2971 muhtırası, 12 Eylül darbesi,
+28 Şubat 1997 post-modern darbesi, 27 Nisan 2007 e-bildirisi, 15 Temmuz 2016
+darbe kalkışması demokratik rejime müdahaleler olarak ortaya çıkmıştır. Bu dar-
+beler ve darbe girişimleri toplumun kendilerine yönetme hakkı vermediği kim-
+selerin, iş birliği ve görev bölümü yaptıkları gruplarla beraber halkın iradesine
+müdahale ederek, meşru yönetimi devirerek, yönetme hakkını gasp etme çabası
+olarak görülmektedir (Aygen, 2018: 231).
+27 Mayıs 1960 ve 12 Eylül 1980 darbeleri doğrudan yönetime el koyarken,
+12 Mart 1971 ve 28 Şubat 1997 muhtıraları hükümetlerin devrilmesi tetikleyerek
+(CHP hükümeti aynı ay içinde, RP hükümeti 4 ay sonra istifa etti) darbecilerin
+kendi kontrollerinde yönetimler tesis etmesini amaçlamıştır. 27 Nisan 2007 bil-
+dirisi AK Parti iktidarının istikrarlı tutumu neticesinde hükümeti devirecek bir
+muhtıra niteliği kazanamamış, 15 Temmuz cuntacı darbe girişimi ise halkın de-
+mokratik direnişi ile akamete uğratılmıştır.
+Türk siyasi tarihi incelendiğinde yaşanan darbelerin, muhtıraların ve 15 Tem-
+muz’da FETÖ militanları tarafından gerçekleştirilen darbe girişiminin bürokratik
+vesayetin etkisi altında gerçekleştiği rahatlıkla söylenebilir. Bürokratik unsurların
+politik süreçlere müdahale etme ve demokratik yönetimler üzerinde belirli bir
+etki ve kontrol sahibi olma amacı askeri müdahalelerle kendisini göstermiştir.
+Bu durum demokrasinin temel prensipleri olan halk egemenliği, katılımcılık ve
+yönetimin hesap verilebilirliği gibi değerlere karşı bir tehdit oluşturarak hükü-
+metin meşruiyetini zedeleme, istikrarsızlık yaratma, demokratik kurumların güç-
+lenmesini engelleme, demokratik gelişmeye zarar verme gibi amaçlar taşımıştır.
+Demokratik bir sistemde temel kaide hükümetin seçilmiş temsilciler tarafından
+belirlenmesi ve halkın katılımının esas alınmasıdır. Bir başka ifadeyle seçimle
+göreve gelen siyasetçiler genellikle politika belirleme sürecinde önemli sorum-
+luluklar üstlenirken; bürokratlar ise teknik ve uzmanlık bilgisinden hareketle si-
+yasiler tarafından belirlenen politikaların uygulanması sürecinde görev almakta-
+dırlar. Bürokratların siyasilerin yerine geçerek karar alma süreçlerine müdahalesi
+bürokratik vesayetin doğmasına neden olmaktadır. Şöyle ki bürokratik vesayet,
+bürokratların demokratik süreçlere aşırı müdahale etmeleri veya siyasi liderlik
+
+--- Sayfa 12 ---
+Güvenlik Çalışmaları Dergisi / Turkish Journal of Security Studies
+112
+üzerinde karar verici olmaları durumunda ortaya çıkmaktadır. Demokrasilerde si-
+yasiler halkın seçimleri sonucunda göreve gelmekte ve bu süreç halkın temsilini
+sağlamaktadır. Bürokrasinin seçilmişleri yani siyaseti hizaya getirme, dizginleme
+çabası ve siyasi liderleri by-pass etme arzusu doğrudan halkın temsil yeteneği-
+ne müdahale anlamına gelmektedir. Bu durum demokratik sistemlerin işleyişi-
+ne zarar vermektedir. Çünkü demokrasi, halkın iradesinin üstün olduğu, çeşitli
+görüşlerin temsil edildiği bir sistemdir.  Türk siyasi tarihindeki darbeler genellikle
+bürokratik vesayetin etkisi altında gerçekleşmiştir. Bu müdahaleler, ideolojik ay-
+rılıklar, güvenlik endişeleri veya siyasi istikrarsızlık gibi nedenlere dayanmış ve
+demokratik süreçlere zarar vermiştir. Nitekim 15 Temmuz’da gerçekleşen darbe
+girişimi de bürokratik vesayetin belirgin bir örneği olarak öne çıkmaktadır. Bu
+darbe girişiminde, FETÖ mensupları askeriye gibi güçlü bir bürokratik kuruma
+sızarak; demokratik yönetimi devirmeye yönelmiştir. FETÖ’nün bu girişimi, bü-
+rokratik vesayetin demokratik süreçlere müdahale etme potansiyelini ve bu tür
+yapıların kontrolsüz büyümesinin demokrasiye yönelik tehditlerini göstermiştir.
+Ancak, Türk halkının güçlü bir şekilde demokrasiye sahip çıkması bu girişimin
+başarısızlığa uğramışına neden olmuş ve demokratik süreçlere olan bağlılık vur-
+gulanmıştır.
+Türkiye’de darbe tarihi incelendiğinde yönetime el koyma kaygısı güdenler
+bu mücadeleyi önce TSK içinde vermişlerdir. Türkiye Cumhuriyeti tarihinde ger-
+çekleşen ilk askeri darbe olan 27 Mayıs 1960 darbesi, bir grup askerin giriştiği
+bir kalkışma şeklinde ortaya çıkmış, cuntacılar önce TSK yönetimine el koymuş
+ve komutanları emekli etmiş; beraberinde ise ülke yönetimine el koymuştur. 9
+Mart’ta bir grup askerin Milli Demokratik Devrim adıyla girişeceği cuntacı kal-
+kışma engellenirken, üç gün sonra emir komuta zinciri içinde bir muhtıra ve-
+rilmiş ve askerin bir bölümü diğer bölümünü tasfiye etmiştir. 1980 darbesi ise
+Türkiye›nin siyasi tarihinde bir dönüm noktası oluşturmuştur. Bu süreçte, askeri
+bürokrasinin etkisiyle oluşturulan Anayasa, askeri vesayeti pekiştiren bir yapıyı
+beraberinde getirmiştir. Ordudaki vesayetçi zihniyet sahip aktörler siyasi süreçleri
+kontrol etme ve denetleme amacıyla önemli rol oynamışlardır. Darbeyle birlikte
+birçok siyasi parti kapatılmış, siyasetçiler tutuklanmış ve siyasi faaliyetler büyük
+ölçüde sınırlı hale getirilmiştir. Ayrıca, sendikalar ve sivil toplum örgütleri üzerin-
+de de sıkı denetimler uygulanmıştır. Bu dönemde askeri bürokrasi, ülkedeki siyasi,
+sosyal ve ekonomik süreçleri belirleme noktasında önemli bir rol oynayarak ve-
+sayetin zirve yaptığı bir dönem yaşanmıştır. 27 Nisan 2007 tarihinde gerçekleşen
+e-muhtıraya giden süreçte de askeri bürokratik vesayetin etkisi belirgin bir şekilde
+hissedilmiştir. Bu süreçte siyasi süreçlere müdahalede bulunularak siyasi kararlar
+şekillendirilmeye çalışılmıştır. Askeri bürokrasinin politik gelişmeler üzerindeki
+etkisini sürdürdüğü ve siyasi dengeleri yönlendirmeye çalıştığı bir döneme tanık-
+lık edilmiştir.  15 Temmuz’a giden süreçte ise FETÖ üyeleri Ergenekoncu olduk-
+ları gerekçesiyle saf dışı ettikleri askerlerin yerine kendileri etkili konumları ele
+geçirmişler ve ardından ülke yönetimine el koyma girişiminde bulunmuşlardır.
+
+--- Sayfa 13 ---
+Y. Akdoğan: Darbe ve Terörizm Perspektifinde Bir İnceleme: FETÖ
+113
+Hükümet’ten kaynaklanan veya kaynaklanmayan sebeplerle ülkenin anar-
+şi, huzursuzluk ve istikrarsızlığa sürüklendiği, iç savaş ihtimalinin ortaya
+çıktığı, ülkede güvensizliğin hâkim olduğu, irtica tehdidiyle sistemin laik
+vasfının kaybolduğu, hükümetin yolsuzluk, yozlaşma ve ayrımcı politika-
+larla toplumsal infiale sebep olduğu gibi bir kısım bahaneler darbelerin ge-
+rekçesi olarak sunulmuştur.
+2002 yılında iktidara gelen Adalet ve Kalkınma Partisi hükümeti asker sivil
+ilişkilerini normalleştirmek ve darbeci/vesayetçi anlayışı ortadan kaldır-
+mak için (özellikle AB’ye uyum çalışmaları marifetiyle) ciddi çaba sarf
+etmiş ve sivilleşmeyi sağlamak için yapısal tedbirleri hayata geçirmiştir.
+Olağanüstü halin kaldırılması, devlet güvenlik mahkemelerinin ve özel
+yetkili mahkemelerin kaldırılması, MGK genel sekreterinin sivil olması-
+nın önünün açılması, EMASYA1 Protokolünün kaldırılması, askeri yargı-
+nın yetki alanının daraltılması, Yüksek Askeri Şura kararlarına karşı yargı
+yolunun açılması, YAŞ’ta oturma düzeninin değiştirilmesi, 12 Eylül darbe-
+cilerini yargılama yolunun açılması, TSK İç Hizmet Kanunu’nun 35’inci
+maddesinin değiştirilmesi, bazı kurumlardaki askeri üye uygulamasına son
+verilmesi, milli güvenlik bilgisi dersinin kaldırılması gibi düzenlemeler sis-
+temin demokratikleştirilmesi açısından önemli kilometre taşları olmuştur.
+Özellikle TSK İç Hizmet Kanunu’nun 35’inci maddesindeki görev tanımın-
+daki “koruma-kollama” ifadelerinin değiştirilmesi önemli bir adım olarak gö-
+rülebilir (Akdoğan, 2016: 29). Askeri müdahalelere meşruiyet oluşturduğu var-
+sayılan TSK İç Hizmet Kanunu’nun 35. Maddesi TBMM tarafından şu şekilde
+değiştirilmiştir:
+“Silahlı kuvvetlerin vazifesi; Türk yurdunu ve anayasa ile tayin edilmiş olan Türkiye
+Cumhuriyeti’ni kollamak ve korumaktır” ifadesi, “Silahlı kuvvetlerin vazifesi; yurt-
+dışından gelecek tehdit ve tehlikelere karşı Türk vatanını savunmak, caydırıcılık sağ-
+layacak şekilde askeri gücün muhafazasını ve güçlendirilmesini sağlamak, TBMM
+kararıyla yurtdışında verilen görevleri yapmak ve uluslararası barışın sağlanmasına
+yardımcı olmaktır.” (Aygen, 2018: 235).
+Darbecilere yönelik suçlamalar siyasi arenada sıkça dile getirilmesine rağmen,
+bir darbenin ve darbeci grubun yargılanması uzun bir süre boyunca gerçekleşe-
+memiştir. 12 Eylül askeri müdahalesini gerçekleştiren komuta kademesi TCK’nın
+“devlet kuvvetleri aleyhine cürümler” başlıklı 146. Maddesine göre Anayasal reji-
+mi tağyir ve tebdil suçundan yargılanmış ve müebbet hapis cezasına çarptırılmış;
+ancak şahısların vefatı sebebiyle dava düşmüştür (Euronews, 2022). 28 Şubat
+postmodern darbesiyle ilgili yargılamalar da uzun süre devam etmiştir. Askeri
+emir komuta sisteminin dışında yargı, medya, akademi, sivil toplum ve iş dün-
+yasını kapsayan bir ilişki ağıyla şekillenen 28 Şubat sürecinde farklı kesimlerden
+1  EMASYA, ‘Emniyet Asayiş Yardımlaşma Protokolü’ olarak bilinmektedir. Emniyet Ve Asayiş
+Yönünden Ordu-Sivil İş Birliği Protokolü olarak da ifade edilmektedir. 28 Şubat sürecinden he-
+men sonra gündeme gelen EMASYA Protokolü 13 yıl uygulanmış ve 2010 yılında kaldırılmıştır.
+Protokol, 5442 Sayılı Kanun’un 11/D maddesi esas gösterilerek 27 maddeden oluşmuştur.
+
+--- Sayfa 14 ---
+Güvenlik Çalışmaları Dergisi / Turkish Journal of Security Studies
+114
+birçok kişi yargılanmış ama olay bir terör örgütü veya terör suçu olarak gündeme
+gelmemiştir. Çoğu asker kökenli olan sanıkların büyük kısmı TCK 147. Madde
+uyarınca “Türkiye Cumhuriyeti Hükümetini cebren düşürmeye ve devirmeye işti-
+rak” suçundan ağırlaştırılmış müebbet cezasına çarptırılmıştır (Anadolu Ajansı,
+2018). Darbe suçu terör suçu olarak sayılan maddelerle aynı muhtevada olmasına
+rağmen darbeler bir ‘terör suçu’, darbeciler de ‘terör örgütü’ olarak nitelendiril-
+memiştir. Bunun ilk istisnası hükümeti devirmeye çalıştığı iddia edilen Ergene-
+kon Terör Örgütü suçlamasıdır.
+Ergenekon Terör Örgütü İddiası
+2000’li yıllarda faaliyet gösterdiği ve hükümeti devirmeye yönelik bir dizi gi-
+rişimde bulunduğu iddia edilen Ergenekon Davasına ilişkin “devletin güvenlik
+güçleri içerisinde örgütlendiği; bünyesinde asker, polis, gazeteci, akademisyen
+üyeleri olduğu; bu derin devlet örgütlemesinin 2003-2004 yıllarında Adalet
+ve Kalkınma Partisi hükûmetini devirmeye yönelik darbe planladığı; 2006’da
+bir yüksek yargıcın öldürüldüğü Danıştay Saldırısını,  2007’de Malatya’da
+üç Hristiyan’ın öldürüldüğü Zirve Yayınevi katliamını   gerçekleştirdiğini ve
+2008-2009 yıllarında bazı suikast planları yaptığı” iddia edilmiştir. Soruştur-
+mayı yürüten savcılar, sanıkların 2003-2004 yıllarında mevcut hükûmeti silah
+zoru ile devirip anti-demokratik yollarla devlet idaresini ele geçirmeyi plan-
+ladığını ve bu çerçevede Sarıkız, Ayışığı, Yakamoz ve Eldiven kod adlı darbe
+planları hazırladığını iddia etmiştir (Anadolu Ajansı, 2014).
+Dönemin mahkemesi, Ergenekon’un silahlı terör örgütü olduğunu belirttiği
+iddianamede;
+“Ergenekon terör örgütünün, Türkiye Cumhuriyeti Hükümetine karşı halkı silahlı
+isyana tahrik ettiği gibi, cebir şiddet kullanmak sureti ile Türkiye Cumhuriyeti Hü-
+kümetini cebren ortadan kaldırmaya teşebbüste bulunduğu, amaçlarına ulaşmak için
+kontrolü altında bulunan medya ve sivil toplum kuruluşları vasıtasıyla ülkede kaos
+ve iç çatışma ortamı oluşturmaya çalıştıkları, oluşacak gerginlik ortamından fay-
+dalanarak, görevde bulunan hükümetleri çalışamaz hale getirip, nihai olarak ordu
+içerisinde kendilerine destek vereceklerini umdukları askeri şahısların yardımı ile
+yönetimi değiştirmek amacıyla hükümeti yıkmaya teşebbüs ettikleri (...)” tespitlerinde
+bulunmuştur (Radikal Gazetesi, 2010).
+Ergenekon örgütü iddiası FETÖ’nün kumpas davaları kapsamında ele alınarak
+Yargıtay’ca 21 Nisan 2016 tarihinde bozulmuştur. Yargıtay örgütün varlığına delil
+bulunmadığını ve FETÖ’nün siyasi amaçları için bu davayı kullandığını belirtmiştir.
+KADEM’in FETÖ raporunda Ergenekon hadisesi şu şekilde anlatılmaktadır:
+“FETÖ kendine bağlı mensupların orduda karar alma pozisyonlarına yükselebil-
+mesini sağlamak üzere sahte delillerle Örgüte bağlı savcı ve hâkimlerin yürüttüğü
+
+--- Sayfa 15 ---
+Y. Akdoğan: Darbe ve Terörizm Perspektifinde Bir İnceleme: FETÖ
+115
+düzmece askeri darbe suçlamaları içeren davalar sonucunda orduda önemli
+görevlerdeki kurmayları hapse attırdı ve yerlerine FETÖ üyelerinin gelmesini sağladı.
+O dönem boşalan önemli göreve getirilenlerin birçoğu 15 Temmuz’da başarısız darbe
+girişimine kalkışan kurmaylardı. 15 Balyoz ve Ergenekon darbe planları iddiaları
+ile tertiplenen kumpasta, bu planların hazırladıkları iddia edilen TSK mensubu üst
+düzey askerler FETÖ üyesi yargıçlar tarafından uzun yıllar tutuklu yargılanarak
+TSK’dan uzaklaştırıldı. Böylece FETÖ üyesi askerlere üst düzey pozisyonlar açılmış
+oldu. FETÖ üyesi savcılar, hâkimler ve yüksek yargı mensupları özellikle komuta
+kademesinde bir kadro boşluğu oluşturma amacıyla bu davalarda bir dizi usulsüz-
+lüğün altına imza attı. Kumpasta Balyoz ve Ergenekon davalarına isimleri karışan
+askerlere atfedilen iddiaları bu örgütün üyelerinin yazdığı ortaya çıktı” (KADEM,
+2017: 14).
+FETÖ, kendi ideolojik hedefleri doğrultusunda devletin kritik kurumlarına sı-
+zarak, özellikle ordu, emniyet, yargı, istihbarat ve siyasi mekanizmaları manipüle
+etmeye çalışmıştır. Söz konusu örgüt, 15 Temmuz 2016 tarihinde gerçekleştirdiği
+darbe girişimiyle bu hedeflerini en üst düzeye çıkarmıştır. Kendi ülkesinin milli
+ordusuna, istihbaratına, bankasına ve seçilmiş meşru sivil iktidarına kumpas ku-
+ranların, bu eylemleriyle ülkenin çıkarlarına hizmet etmedikleri açıktır. Bu tür
+kumpaslar, ulusal güvenliği ve demokratik süreçleri tehlikeye atarak toplumsal
+huzuru bozmakta ve devletin temel kurumlarına zarar vermektedir.
+FETÖ
+Darbeci terör örgütü sınıflandırmasına giren veya bu şekilde adlandırılarak hem
+darbeci hem terör örgütü olarak literatüre giren ikinci vaka Fetullahçı Terör Örgü-
+tü’dür. Örgüt lideri Fetullah Gülen’in kurduğu, başlangıçta bir dini cemaat olarak
+algılanan ancak zamanla paralel devlet yapılanması olarak bilinen ve sonunda
+giriştiği kalkışmayla darbeci terör örgütü olarak tanımlanan FETÖ’nün seyri şu
+şekilde özetlenebilir:
+“İlk aşama, yeraltı faaliyeti denilebilecek düzeyde büyük bir gizlilikle işleyen ve 12
+Eylül 1980 askeri darbesine kadar süren ‘kuruluş, temellenme ve kadrolaşmaya başla-
+ma’ aşaması; ikinci aşama örgütün devlet kadrolarının ‘kılcal damarlarına kadar’ sıza-
+rak devleti ele geçirme planını uygulayabilmek için kullandığı takiyye taktiğine dayalı
+ikiyüzlü örgüt mekanizmasının hızla işlediği, gizlilik ve ‘tedbir’ ile ‘güçlenerek yayılma
+ve yayılarak güçlenme’ stratejisinin uygulandığı ve 28 Şubat 1997 post-modern darbe
+sürecine kadar devam eden ‘hem toplumda hem devlette yayılma ve her alanda iktidarı
+ele geçirme aşaması; üçüncü aşama ise nihai hedef olan ‘altın vuruş-kıyam-huruç’ için
+‘kadrolaşmanın tamamlanması ve asıl niyet için harekete geçilmesi’ aşaması olup 15
+Temmuz 2016 darbe girişimine kadar sürmüştür” (Aygen, 2018: 243).
+Paralel Devlet Yapılanması ve FETÖ olarak nitelenen örgüt, 17 Aralık’ta yar-
+gı darbesinden sonuç alamayınca, 15 Temmuz 2016’da doğrudan askeri darbe
+
+--- Sayfa 16 ---
+Güvenlik Çalışmaları Dergisi / Turkish Journal of Security Studies
+116
+yapmaya kalkışmıştır. 16 Temmuz’un ilk saatlerinde darbe girişiminde bulunma-
+yı planlayan cuntacılar, 15 Temmuz günü MİT’e gelen bir ihbar ve arkasından
+MİT Müsteşarı Hakan Fidan’ın Genelkurmay’a bu bilgiyi aktarmasıyla deşifre
+olduklarını düşünerek kalkışmayı erkene çekmişlerdir. Saat 21:30 civarında hare-
+kete geçen bazı birlikler cuntacı müdahalede bulunmuştur. Cumhurbaşkanı Recep
+Tayyip Erdoğan’ın kararlı direnişi ve çağrısı halkın kitlesel olarak sokaklara çık-
+masına yol açmış, aynı zamanda ordu bünyesinde geniş bir katılımın olmaması ve
+polisin direnişi desteklemesi, darbe teşebbüsünün başarısızlıkla sonuçlanmasına
+neden olmuştur.
+15 Temmuz kalkışmasının püskürtülmesiyle olağanüstü hâl ilan edilmiş, hü-
+kümet tarafından TBMM’den alınan Kanun Hükmündeki Kararname çıkarma
+yetkisi kullanarak kamuda ve özel sektörde geniş çaplı tasfiyelere başlanmış-
+tır. Olayın ilk anından itibaren harekete geçen savcılar da her alanda görülen
+hukuksuzlukların üzerine giderek FETÖ ile ilgili geniş kapsamlı yargılamalara
+başlamışlardır. 241 kişinin şehit olduğu olaylarda başta TBMM olmak üzere bir-
+çok yerin bombalanması iç ve dış kamuoyunda büyük tepkiye sebep olmuştur.
+Basın organlarının da ideolojisi, yayın çizgisi ne olursa olsun ‘ülkeye karşı
+hıyanet girişimi’ olarak adlandırılan 15 Temmuz kalkışmasına karşı birlik ve be-
+raberlik içerisinde, darbenin karşısında olan ortak bir söylem geliştirmiştir (Nisan
+ve Şeker, 2017: 95). 15 Temmuz darbe girişimi, uygulanan fiziksel şiddet bakı-
+mından en yoğun ve işgal girişimi şeklinde bir kalkışma olarak değerlendirilmiş-
+tir. Yayla (2016: 12)’nın da vurguladığı gibi: “evvelki darbeler fiziksel şiddetten
+çok psikolojik şiddete, şiddet kullanma tehdidine ve şiddet aygıtlarının teşhirine
+dayanmıştır. 15 Temmuz’da ise yoğun şiddet kullanılmış, bu şiddet hem kamusal
+hedeflere hem de darbeye karşı çıkan sivil vatandaşlara yöneltilmiştir. Bu yönüyle
+şiddet hem terör boyutlarına ulaşmış hem de darbenin failinin bazı korkunç özel-
+liklerini yansıtmıştır.”
+Öğrencilerin sınav sorularını çalmaktan memurların sicilini bozmaya,
+işadamlarına şantaj yapmaktan karalama dosyaları oluşturmaya, casusluk
+yapmaktan kurumlara sızmaya, yargı ve polisteki elemanları tarafından uydurma
+suç dosyaları oluşturmaktan hükümeti devirmeye yönelik kumpaslar kurmaya ve
+en nihayetinde silahlı kalkışmada bulunmaya kadar hayatın her alanında herkesi
+etkileyecek suçlar işleyen FETÖ; TCK’daki birçok maddeden yargılanmış, FE-
+TÖ’cüler çok geniş yelpazede suç maddelerinden hüküm giymişlerdir.
+FETÖ’nün özellikle darbeye yönelik kalkışması; Anayasayı ihlal (Madde 309)
+Cebir ve şiddet kullanarak Türkiye Cumhuriyeti Anayasasının öngördüğü düzeni
+ortadan kaldırmaya veya bu düzen yerine baş kabri düzen getirmeye veya bu dü-
+zenin fiilen uygulanmasını önlemeye teşebbüs etmek; Cumhurbaşkanına suikast
+ve fiili saldırı (Madde 310); Yasama organına karşı suç (Madde 311); Hükümete
+karşı suç (Madde 312). Cebir ve şiddet kullanarak Türkiye Cumhuriyeti hüküme-
+tini ortadan kaldırmaya veya görevlerini yapmasını kısmen veya tamamen engel-
+lemeye teşebbüs etmek; Devletin birliğini ve ülke bütünlüğünü bozmak (Madde
+
+--- Sayfa 17 ---
+Y. Akdoğan: Darbe ve Terörizm Perspektifinde Bir İnceleme: FETÖ
+117
+302); Askeri komutanlıkların gaspı (Madde 317); Askerleri itaatsizliğe teşvik
+(Madde 319), Devlet sırlarına karşı suçlar ve casusluk (Madde 326, 327, 328, 329,
+330, 331, 332, 333, 334, 335, 336, 337, 338, 339); Suç örgütü kurmak (Madde
+220); Silahlı suç örgütü kurmak (Madde 314), (TCK, 2004: 25611) maddelerini
+ilgilendirmektedir.
+Sonuç
+Türkiye’de 27 Mayıs 1960 askeri müdahalesiyle başlayan darbeler sürecinde en
+son 15 Temmuz 2016’daki kalkışması yaşanmıştır. Emir komuta zinciri içinde
+veya cuntacı bir grup tarafından yapılan, yazılı muhtıra, e bildiri veya ordunun
+silahlı gücüyle gerçekleşen, psikolojik veya fiziki şiddet zorlamasıyla netice alan
+darbeler farklı aktörlerce farklı yöntem ve araçlarla gerçekleştirilmiştir.
+Bürokratik vesayet, bir ülkede askeri veya sivil bürokrasinin demokratik sü-
+reçleri etkileyerek, seçilmiş hükümete karşı kontrol ve etki sağlaması durumunu
+ifade etmektedir. Bu tür bir vesayet, demokratik kurumların zayıflamasına ve si-
+yasi karar alma süreçlerinin bozulmasına yol açmaktadır. Bu zayıflama ve bo-
+zulma, darbelerin ve darbe girişimlerinin ortaya çıkma zeminini oluşturmaktadır.
+Türkiye’de askeri darbeler tarihi, 1960, 1971 ve 1980 darbeleriyle başlamıştır.
+1960, 1971 ve 1980 darbeleriyle birlikte 28 Şubat süreci, 27 Nisan 2007 e-muh-
+tırası ve 15 Temmuz darbe girişiminde de görüleceği üzere bürokratik vesayet
+siyasi hayatın kesintiye uğratılmasında önemli bir rol oynamıştır.  Devleti işgal
+eden ve kendisini demokrasinin üzerinde konumlandıran bürokratik yapılar yap-
+tıkları ve amaçladıkları müdahalelerle siyasi süreçleri kontrol altına almak istemiş
+ve seçilmiş meşru hükümetleri devirmeyi hedeflemiştir.
+12 Eylül ve 28 Şubat girişimlerini yapanlar darbecilik suçlamasıyla yargılan-
+mışlardır. Bu suçlamalar devlet düzenini tağyir, Anayasal düzeni değiştirmek veya
+hükümeti devirmek suçlamalarını içermiştir. Her darbe girişimi askeri bürokrasi
+içinde veya yargı, medya, sivil toplum gibi farklı kesimlerin desteğini alarak, or-
+ganize, örgütlü bir çaba olarak ortaya çıkmasına rağmen bu ilişki ağı bildiğimiz
+manada bir örgüt olarak algılanmamıştır. Oysa üç kişinin bir araya gelerek bu
+suçları işlemesi, bir otorite veya odaktan talimat alması, eylemi gerçekleştirmek
+için sürekli bir ilişki içinde olması örgüt suçunu oluşturmaktadır.
+Darbe faaliyetlerinin bir terör suçu gibi algılanmaması önemli bir sorundur.
+Halbuki darbecilik terörle mücadele kanunundaki suç tanımında karşılık bulmak-
+tadır. Bu suçu işleyen terör suçu işlemiştir. Yani ortada hem bir örgütlü yapı hem
+de terör suçu bulunmaktadır. TCK da örgüt ve terör suçunu tanımlamakta, bu
+unsurların bir araya gelmesi terör örgütünü ifade etmektedir.
+PKK veya DEAŞ gibi terör örgütleri ile mücadele, TCK’daki ilgili suç mad-
+deleri kapsamında, terör örgütü olarak kabul edilmektedir. Darbecilik ise bir terör
+suçu olup, örgütlü bir şekilde darbe girişiminde bulunan tüm gruplar terör örgütü
+
+--- Sayfa 18 ---
+Güvenlik Çalışmaları Dergisi / Turkish Journal of Security Studies
+118
+olarak değerlendirilmelidir. Darbecilerin farkı terör suçunu devlet imkânları, si-
+lahları, araçları ile gerçekleştirmeye çalışmalarıdır. Bu durum gerek 27 Mayıs
+darbesini yapanlar gerekse de 15 Temmuz’da darbe kalkışmasında bulunan FETÖ
+militanları için de geçerlidir. İki darbeci grup da terör tanımı içinde yer alan aynı
+darbe suçunu işlemişler, aynı imkânları kullanarak yönetimi ele geçirmeye ça-
+lışmışlardır. Aradaki fark, ilk grubun farklı alanları siyasi-psikolojik etki ederek
+yönlendirmeye çalışması, FETÖ’nün ise buna ek olarak kendi elemanları üzerin-
+den bu alanlarda etkinlik kurmasıdır. Paralel devlet yapılanması veya derin devlet
+yapılanması aynı mahiyette anayasal düzenin altını oyan ve devlet gücünü kulla-
+narak iktidar düzeni kurmaya çalışan illegal yapılardır. Bu illegal yapıların resmi
+devlet görevlisi sıfatını kullanan kişiler üzerinden hukuksuz eylem gerçekleştir-
+meleri sonucu değiştirmemektedir. Sonuç olarak tüm darbe girişimleri ve suçla-
+rı terör suçudur; FETÖ ise mahkemelerce, MGK ve Hükümet kararınca darbeci
+terör örgütü olarak tanımlanmış bir örgüttür.
+
+--- Sayfa 19 ---
+Y. Akdoğan: Darbe ve Terörizm Perspektifinde Bir İnceleme: FETÖ
+119
+Kaynakça
+Akdoğan, Y. (2016). Asker Sivil İlişkileri ve Kumpastan Darbeye FETÖ, İstanbul: Alfa
+Yayınları.
+Altunok, H. ve Gedikkaya, F. G. (2017). “Türkiye’de Darbeler ve Yargı Kurumları”,
+Turkish Studies, C. 12, S. 16, ss. 65-82.
+Anadolu Ajansı, (2014). “Ergenekon Silahlı Terör Örgütüdür”, 03 Nisan 2014.
+Aygen, M. (2018). “Türkiye ve Darbeler, 15 Temmuz Örneği”, Fırat Üniversitesi Sosyal
+Bilimler Dergisi, C. 28, S, 2, ss. 231-253.
+Chenoweth, E. vd. (2022). Terörizmin El Kitabı, Çınar Özen (ed.), (Çev: Ensar Macit ve
+İmran Samancı), Ankara: Siyasal Kitabevi, ss. 31-42.
+Demir, C. K. (2018).  “Terörizm, Medya ve Devlet”, Mehir Terzi ve Serkan Yenal (ed.),
+Uluslararası Güvenlik ve Terörizm, Ankara: Gece Akademi Yayınları, ss. 47-84.
+Demirel, T. (2021). “Darbe”, Sosyal Bilimler Ansiklopedisi, İstanbul: Tübitak Bilim
+Toplum Başkanlığı Popüler Bilim Yayınları.
+Euronews, (2022). “12 Eylül Davası Kapandı”, 31.05. 2022.
+Eco, U. (2022). Yengeç Adımlarıyla, (Çev: Şemsa Gezgin), 4. Baskı, İstanbul: Doğan Kitap.
+Girgin, K. (1982). Politika Sözlüğü, İstanbul: Hür Yayıncılık.
+Gökçen, S. (2021). “Türkiye’nin Demokrasi Mücadelesinde Darbeler: (15 Temmuz
+Darbe Girişiminin 6. Yıl dönümü),” Devlet Dergisi, 21 Eylül 2021, http://devlet.com.
+tr/makaleler/y575-Turkiyenin_Demokrasi_Mucadelesinde_Darbeler_15_Temmuz_
+Darbe_Girisiminin_6_Yil_donumu.html, (E.T.: 12.09.2023).
+Gül, T. (2012). Terör ve Terörizm, İstanbul: Ark Kitapları.
+İçişleri Bakanlığı. (2023). Sorularla Terörizm ve Terör Örgütleri, 50 Soruda Terör ve
+Terörizm, Ankara: TC. İçişleri Bakanlığı.
+Kalyvas, N. S. (2022). “Siyasal Şiddetin Görünümü”, Terörizmin El Kitabı, Çınar Özen
+(ed.), (Çev: Ensar Macit ve İmran Samancı), Ankara: Siyasal Kitabevi, ss. 43-68.
+Martin, G. (2017). Terörizm, Kavramlar ve Kuramlar, (Çev: İhsan Çapçıoğlu ve Bahadır
+Metin), Ankara: Adres Yayınları.
+Nisan, F. ve Şeker, N. T. (2017). “Demokrasiyi Sekteye Uğratan Darbe Haberlerinin
+Çerçevelenmesi: 15 Temmuz 2016 Darbe Girişimi Örneği”, TRT Akademi, C. 2, S.3,
+ss.69-96.
+KADEM, (2017). FETÖ Fethullahçı Terör Örgütü. İstanbul: Kadem Yayınları.
+Radikal Gazetesi (2010). “Sarıkız”La Başlayıp Eldiven’le Bitecek Darbenin 15 Adımı”,
+27 Mart 2010 ve 12 Haziran 2011.
+Sula, İ. E. (2022). “Uluslararası Güvenlik Çalışmalarının Kuramsal Dönüşümü ve Değişen
+Güvenlik Tanımları”, Uluslararası Güvenlik Sorunları, Hakan Karaaslan ve Murat
+Demirel (ed.), Ankara: 2. Baskı. Nobel Yayınları, ss. 1-18.
+Yayla, A. (2016). “15 Temmuz Direnişi ve Türkiye Demokrasisi”, Liberal Düşünce
+Dergisi, S. 83, ss.5-49.
+Yenal, S. (ed.). (2021) Teoriden Uygulamaya Güvelik ve Terörizm Çalışmaları, Ankara:
+Nobel Akademik Yayıncılık.
+Yıldız, F. (2019). “Anglosakson ve Kıta-Avrupası Geleneğinde Darbeler”, Ekonomi,
+İşletme Siyaset ve Uluslararası İlişkiler Dergisi, C.5, S.1, ss.36-48.
+Yılmaz, S. (2017). Uluslararası Güvenlik. Teori, Pratik ve Gelecek, Ankara: Kaynak
+Yayınları.

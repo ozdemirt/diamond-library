@@ -1,0 +1,2039 @@
+--- Sayfa 2 ---
+#girisimcilik101 etiketiyle bu kitabın yayılmasına katkı sağlayabilirseniz sevinirim.
+@serkanunsal
+
+--- Sayfa 4 ---
+SERKAN ÜNSAL
+DİJİTAL GİRİŞİMCİLİK 101
+Kapak Çalışması  -  İllüstrasyonlar  - Sayfa Düzeni
+Damla ÖZGÜN
+
+--- Sayfa 5 ---
+Serkan Ünsal
+
+--- Sayfa 7 ---
+İçindekiler
+GİRİŞİM                         13
+Girişimin Tanımı                  14
+Girişim Türleri                      15
+Fikir ve Girişim                    16
+Yalın Girişim                         17
+Yalın Kanvas                         19
+Pivot                                       21
+Başarısızlık Hikayeleri       23
+Başarı Hikayeleri                28
+33       GİRİŞİMCİ
+34          Girişimci Kimdir?
+34          Girişimciliğin Yaşı
+35          Girişimci Olmadan Önce Bilmeniz Gerekenler
+36          Girişimciyken Yapmanız Gerekenler
+38          Üniversite Sonrası
+39          Girişimci Psikoloji ve Motivasyonu
+40          Şirket Çalısanı mı? Girişimci mi?
+41          Çalışırken Girişimci Olunur mu?
+42          Girişimcide Olması Gerekenler
+45          Türkiye’de Girişimci Türleri
+
+--- Sayfa 8 ---
+FİNASMAN VE YATIRIM                                    47
+Neden Yatırım Gereklidir ?                                               49
+Finansal Kaynaklar                                                             50
+Hangi Aşamada Nasıl Bir Sunum Yapılmalı ?              56
+Girişiminizin Değerlemesi                                                58
+Yatırımcılar Nasıl Girişimleri Beğenir ?                         59
+Girişiminizin Yüzde Kaçı Sizde Kalmalı ?                     59
+Yatırımcılardan Ne Kadar Yatırım İstemelisiniz ?      60
+Yatırım Süreçleri                                                                  61
+Yatırımcı Dünyasının Dünü,Bugünü,Yarını                   62
+Türkiyede Yatırım Ortamının Dünü,Bugünü               62
+Yatırımcıya Nasıl Ulaşmalı ?                                             63
+Ekosistem Oyuncularından Girişimcilere Tüyolar     65
+71         TEMEL BİLGİLER
+72
+Ödeme Sistemleri
+77
+Müşteri Analizi
+80
+Dijital Pazarlama
+83
+Büyüme Sihirbazı
+85
+Gelir Modelleri
+87
+Sosyal Medya
+88
+Ekip Kurma
+
+--- Sayfa 9 ---
+TEŞEKKÜRLER
+Bu kitabı yazmamda yardımcı olan Ali Karabey, Ayşe İnal, Bora Yılmaz, Cankut Durgun, Cem Sertoğlu, Erdem Yurdanur,
+Hakan Erdoğan, Hande Didem Altop, İhsan Elgin, Melih Ödemiş, Nevzat Aydın, Okyar Tahaoğlu, Soner Canko, Sina Afra’ya
+sonsuz teşekkürler. Bu kitap sizlerin sayesinde yazıldı.
+Kitabı yazarken bana gösterdikleri sabır ve destekleri için aileme ve yeğenim Ege Ünsal’a da öpücüklerimi gönderiyorum.
+Kitaptaki anlam bozuklukları ve yazım hatalarıyla ilgili uyarılarıyla bana destek veren Fırat Demirel’e teşekkürler.
+Kitabın mizanpajı ve görselleri ile ilgili desteklerinden ötürü Damla Özgün’e teşekkürler.
+
+--- Sayfa 10 ---
+SERKAN ÜNSAL
+
+--- Sayfa 11 ---
+ODTÜ Elektrik Elektronik Mühendisliği mezunu olan,
+Bilgi Üniversitesi’nde İşletme Yüksek Lisansı yapan
+Serkan Ünsal, Ericsson Crea-World kuluçka merkez-
+inde kariyerine başladı. Turkcell’de Ürün Yönetimi,Proje
+Yönetimi ve İş Geliştirme Uzmanlığı gibi çeşitli görevlerde
+bulundu.2010 yılında Sodamedya kurucuları ve Mikro
+Ödeme A.Ş. kurucu ortağı Alper Akcan ile beraber da-
+kick.com’u kurdu. Aksoy Internet Ventures’dan yatırım
+alarak yoluna devam eden dakick.com ile 2011 yılında En
+Yaratıcı Web Girişimi ödülü aldı. Yine aynı yıl New York
+merkezli bir organizasyon tarafından Türkiye’nin 10 En
+İyi Teknoloji Girişimlerinden biri olarak gösterildi. 2014
+yılında dakick.com’un Turkcell tarafından satın alınması
+ile ilk çıkışını yapan Serkan Ünsal’ın “Dijital Girişimcilik
+Rehberi” ve “Silikon Vadisi ve Girişimcilik Rehberi” adlı
+iki kitabı bulunuyor.
+
+--- Sayfa 13 ---
+Önsöz
+2012 ve 2013 yıllarında yazdığım 2 kitaptan sonra
+girişimciliğin farklı boyutlarıyla ilgili bir kitap yazmak
+istiyordum fakat girişimcilik ekosistemi o kadar hızlı
+değişiyor ve gelişiyor ki ilk kitabımda yazdığım bilgilerin
+2 yıl içerisinde güncelliğini biraz yitirdiğini farkettim.  Bu
+nedenle daha güncel bilgilerle bu kitabı kaleme aldım.
+Bu kitabı girişimcilikle ilgili temel bilgi edinmek isteyen
+girişimciler ve girişimci adaylarının okumasını tavsiye
+ediyorum. Kitaplarımın hiç birinden ticari bir beklentim
+yok. Bir teşekkürünüz ve sosyal medyada bu kitaplardan
+bahsetmeniz benim için en büyük ödül.
+
+--- Sayfa 16 ---
+GİRİŞİMİN TANIMI
+Silikon Vadisi’nin en bilinen yatırıcımlarından Dave McClure’ın tanımına göre girişim “ürünün, müşterinin ve nasıl para ka-
+zanılacağının tam netleşmediği” şirkettir. Bu üç bileşen netleştiğinde ve büyük değişiklikler gerektirmediğinde o şirket girişim
+olmaktan çıkar.
+Müşteri kazanımı “Customer Development” konusunda geliştirdiği model ile Silikon Vadisi’nin en etkin kişilerinden olan Steve
+Blank ise girişimleri “tekrarlanabilir ve büyütülebilir iş modeli peşinde koşan geçici organizasyonlar” olarak tanımlamaktadır.
+Türkçe’ye Yalın Yeni Girişim (Homer Kitabevi) adıyla çevrilen “The Lean Startup” kitabının yazarı Eric Ries’ın girişimcilik
+tanımı ise “yoğun belirsizlik ortamında yeni bir ürün ve servis çıkaran oluşum” şeklindedir.
+İlk iki tanımdan yola çıkarsak ürünü olmayan, terzi usülü iş yapan ajanslar ve yazılım şirketleri “girişim” değildir. Eric Ries’ın
+tanımını ele alırsak ajans ve yazılım şirketleri kurumsal müşterileri için ürün ve servis çıkardıkları için girişim sayılabilir.
+Tüm kitap boyunca “girişim” kavramından internet ve mobil dünyayı kastettiğimi de belirtmekte yarar görüyorum. “Simit
+Sarayı” gibi tuğla ve harç  yani “brick and mortar” gerektiren girişimler bu kitapta ele alınmayacaktır.
+14
+Girişim
+
+--- Sayfa 17 ---
+GİRİŞİM TÜRLERİ
+Girişimleri farklı kategorilendirme yöntemleriyle gruplandırmak mümkün. Yatırım alma durumuna, konusuna göre çeşitli
+girişim türlerinden bahsedebiliriz.
+Yatırım alma durumuna göre girişimler ikiye ayrılmaktadır. Birincisi kendi yağıyla kavrulan girişimler “bootstrapped startups”;
+İkincisi ise yatırım destekli girişimler “VC-backed startups”. Birincisinin ne anlama geldiğini anlamışsınızdır, kendi sermayesiyle
+büyümeye çalışan, dışarıdan yatırım almayan girişimler. İkincisini ise kitabın ilerleyen bölümlerinde daha detaylı anlatacağımız,
+yatırım alarak büyümeye çalışan girişimler olarak özetleyebiliriz.
+Konusuna göre sınıflandırdığımızda ise rakam vermek biraz zordur. Sağlık girişimleri, e-ticaret girişimleri, SaaS girişimleri,
+eğitim girişimleri, Bitcoin girişimleri, ödeme sistemleri girişimleri vb. uzayan bir liste hazırlamak mümkündür.
+15
+Girişim
+
+--- Sayfa 18 ---
+FİKİR VE GİRİŞİM
+“Süper bir fikrim var” cümlesini hayatınızda en az bir
+kere duymuşsunuzdur (ben haftada iki üç kez duyuyo-
+rum). Fikrinin süper ve eşsiz olduğunu, birisine söylerse
+kopyalanacağını düşünen birçok girişimci vardır. Distil
+Networks’un kurucusu Rami Essaid, girişimleri bir yol-
+culuğa benzetmiş ve fikirlerin bunun sadece yüzde 5’ini
+temsil ettiğini söylemiştir. Bir girişimin en basit hatlarıyla
+fikri bulma, ürünü geliştirme, müşteri kazanımı, gelir elde
+etme, takım kurma, takım yönetimi, ürün yaşam eğrisinin
+yönetimi, rekabet yönetimi, pazar analizleri vb. birçok alt
+başlığı olduğunu düşünürsek fikrin gerçekten de bu işin
+küçük bir paydaşı olduğunu görürüz.
+Fikirleri “üretilen çözüm önerileri” olarak düşünürsek Eric
+Ries’ın ve Steve Blank’in metodolojilerine göre başlangıç
+noktamız yanlıştır. Bu iki yazara göre başlangıç noktamız,
+problem (onların deyimiyle “pain”/acı) olmalıdır. Biraz
+daha açarsak “gittigidiyor.com ‘un akıllı televizyonlarda
+çalışan halini düşündüm, fikrim bu” şeklindeki başlangıç
+noktası yanlıştır; “insanlar televizyon başında eticaret
+yapamıyor” gibi bir başlangıç noktası doğrudur.
+16
+Girişim
+
+--- Sayfa 19 ---
+2011 yılında Eric Ries tarafından ortaya atılan fakat geçmişi
+çok daha eskiye dayanan (Kanban, Ian C. MacMillan,
+Rita Gunther McGrath...) bir metodoloji olan yalın girişim
+“lean startup” temel olarak sürekli öğrenmeye ve onaya
+dayalı bir yöntemdir.
+Yalın girişimi daha iyi anlatmak için bir örnek üzerinden
+gidelim. Üniversitedesiniz ve rektör konuşma yapıyor,
+üniversite masraflarının arttığından bahsediyor. Rektör
+projektörle yansıttığı sunum açıkken sunumdan bağımsız
+yarım saat konuşuyor ve salona dönüp “Bu projektörler
+çok elektrik tüketiyor, yarım saattir boşa elektrik tüketiyor.
+Üstelik bir projektör her ay 100 TL’lik elektrik tüketiyor.”
+diyor. Siz de hemen derin düşüncelere dalıyorsunuz ve
+önce sunum sonrası projektörün markasına ve modeline
+bakıyorsunuz, sonra internetten elektrik tüketimine
+bakıyorsunuz, sonra daha az elektrik tüketen bir model
+olmadığını görüyorsunuz ve aklınıza bir fikir geliyor! “Eğer
+çok daha az elektrik tüketen bir model yaparsam kesin
+çok satarım!”. Araştırma yapıyorsunuz, önce kendiniz
+yapabilir misiniz diye inceliyorsunuz, sonra Çin’deki
+üreticilere epostalar gönderiyorsunuz ve iki ay sonra
+Çin’de bir firma buluyorsunuz ve ayda 80 TL elektrik
+tüketimi olduğunu öğreniyorsunuz. Çok seviniyorsunuz
+ve tanesi $1.000’dan 100 tane getirtiyorsunuz. Fikri
+bulduğunuz günden tam beş ay sonra rektörün karşısına
+çıkıyorsunuz ve artık yüzde 20 daha tasarruflu projek-
+törlerinizden bahsediyorsunuz. Rektör ise size “Güzel
+düşünmüşsün fakat biz projektörleri iki yılda bir ihaleyle
+alıyoruz, bu projektörleri alalı altı ay oldu, şimdi tekrar
+masrafa giremeyiz, bir buçuk yıl sonra ihaleye gir, şartlar
+uygunsa senin projektörleri alırız” diyor.  Burada hem
+beş ay kaybettik, hem $100.000 para harcadık, sonra
+da müşteriyle ilk temasımızda hayal kırıklığına uğradık.
+Burada yaşadığımız sıkıntı problem-çözüm uyumunu
+yakalayamamak olarak özetlenebilir.
+17
+Girişim
+
+--- Sayfa 20 ---
+Yukarıdaki gibi vakalar Eric Ries ve Steve Blank tarafından
+eski model çalışma yöntemi olarak nitelendirilmektedir.
+Bu ikili uzun süreli araştırmalar, ofise/eve kapanmalar,
+internetten araştırma yapmalar yerine müşteri ile en
+kısa zamanda temasa geçmeyi ve sürekli ve küçük
+adımlar atarak her adımda müşteri onayı ve öğrenimiyle
+ilerlemeyi önermektedir. Yukarıdaki örnekte yapmanız
+gereken ilk şey, problemi duyduğunuz anda o problemi
+yaşayanlarla (rektör ve belki başka rektörler) iletişime
+geçmek olmalıydı. Bu metodolojiye alışmak için “bence”
+kelimesini sözlüğünüzden çıkarmanız gerekmektedir.
+Yalın Girişim’de hipotezler vardır, ölçüm yapılır, müşteri
+onayı alınır ve başka hipoteze geçilir.
+Indiana Jones’un Lanetli Tapınak filmini izlediyseniz oradaki
+bir sahnenin aslında yalın girişimi oldukça iyi anlattığını
+görmüş olmalısınız. Filmde Indiana Jones, Tanrının İsmi
+adlı taşlarla dolu bir tuzaktan kurtulmak zorundadır. Her
+taşın üstünde bir harf yazmaktadır. Indiana Jones taşları
+önce bir ayağıyla yoklar, hafif dokunmayla bazı taşlar
+çukura düşer. Bazıları ise sağlamdır ve oradan devam
+eder (sonrasında harflere göre hareket eder vs.). Yalın
+girişimde de her adımınızda bir yoklama yapıyorsunuz,
+ölçüp tartıyorsunuz, o adımınız sağlamsa diğer adımınıza
+geçiyorsunuz. Yani koşarak tuzaktan kurtulma gibi bir
+durum yok, adım adım ilerliyorsunuz.
+Son olarak şunu da unutmamak gerekir ki Yalın Girişim
+başarılı olma yöntemi değildir. Zaman ve emekten tasarruf
+etme aracıdır. Hızlıca ve efektif bir şekilde başarılı veya
+başarısız olmanızı sağlar (try and fail quickly).
+18
+Girişim
+
+--- Sayfa 21 ---
+Yalın Kanvas, İş Modeli Kanvası olarak adlandırılan ve
+ilerleyen bölümlerde aktaracağımız tablonun yalın girişime
+indirgenmiş halidir. Yalın Kanvas yukarıda anlattığımız
+yalın girişimin tabloya dökülmüş halidir diyebiliriz.
+Yalın Kanvas’ın bölümlerini projektör vakasını da işin
+içine katarak tek tek açıklayalım:
+          Problem : Çözdüğünüz problem (Ör: Çok elektrik
+harcayan projektör)
+         Çözüm : Çözüm öneriniz (Ör: Çin malı yüzde 20
+tasarruflu yeni bir projektör)
+         Mevcut Çözüm Alternatifleri : Şu anda müşteri
+yaşadığı problemi nasıl çözüyor (Ör: Rektör hoca-
+lara daha tasarruflu kullanmaları konusunda eposta
+gönderiyor)
+         Değer Teklifi : Müşteriye sunduğunuz çözümün
+ayırt edici fark yaratan teklifi (Ör: Tasarruflu Projektörler
+ile maliyetlerinizi düşürün!)
+       Rekabet Avantajı : Rakiplerinize göre avanta-
+jlarınız (Ör: Daha tasarruflu)
+         Müşteri Segmentleri : Hedeflediğiniz müşteriler
+(Ör: Üniversiteler, şirketler, okullar)
+      Kanallar : Müşteriye ulaşacağınız kanallar (Ör:
+Sıcak satış, internetten satış, ihaleler vb.)
+PROBLEM
+ÇÖZÜM
+ÖLÇÜMLER
+DEĞER
+TEKLİFİ
+REKABET
+AVANTAJI
+MÜŞTERİ
+KANALLAR
+MALİYET YAPISI
+GELİR KAYNAKLARI
+YALIN KANVAS
+19
+Girişim
+
+--- Sayfa 22 ---
+Ölçümler  : İlerlemenizi görmek için yaptığınız ölçümler
+(Ör: Haftalık satış ziyareti adedi, satış rakamı)
+Maliyet Yapısı : Tüm maliyet kalemleriniz (Ör:
+Personel, projektörlerin maliyeti, bakım maliyeti vb.)
+Gelir Kaynakları : Gelir elde ettiğiniz kaynaklar (Ör:
+Projektör satışları, özel destek gelirleri...)
+Bir problem buldunuz ve yalın girişim metodolojisi ile hayata geçirmek ve büyütmek istiyorsunuz. Peki nereden başlamalı ?
+Öncelikle yalın kanvas üzerine tüm hipotezlerinizi yazıyorsunuz. Yazdığınız her satır aslında test edilmesi gereken bir hipotez
+ve her şey değişebilir. Bunun bir yolculuk olduğunu ve her adımınızda yeni bir şey öğreneceğinizi unutmamanız gerekiyor. Şimdi
+yapmanız gereken tüm hipotezler için müşteri onayı almak. Müşterinin onayını anket yaparak almak, müşteriyi anketle anlamaya
+çalışmak sık kullanılan bir yöntem fakat asla gerçek bir ürünü kullanmaya başladıktan sonraki davranışlarının (ürünü bir daha
+kullanmama, arkadaşına önerme, bir müddet daha kullanma...) yerini tutmaz. Bu nedenle Yalın Girişim’de ve Steve Blank’in
+Müşteri Kazanımı metodunda sıkça adı geçen En Sade Ürün (MVP/Minimum Viable Product) kullanımını tercih etmenizi öneririm.
+En Sade Ürün, hayalinizdeki ürünün en temel işlevini yerine getiren, öğrenmeye ve geliştirmeye açık, hipotezinizin testi için
+kullanılacak üründür. Bir hipotezi test etmenizi sağlamayan ürün En Sade Ürün değildir.  Taslak çizimler (mockup), karşılama
+sayfaları (landing page) gibi hipotez testi için kullanılan araçlar her ne kadar faydalı olsalar da En Sade Ürün değillerdir. Nedeni
+ise ürünü kullandırmamalarıdır. “Vadedilen Değer Teklifi” ile “Sunulan Değer Teklifi” arasındaki fark nedeniyle En Sade Ürünü
+hipotezlerinizi test ettikçe ve adım attıkça yeni özellikler eklediğiniz veya bazı özellikleri çıkardığınız sürüm olarak da tanımlay-
+abiliriz. Çıkaracak bir özellik kalmadığında en sade ürünü elde etmiş olursunuz.
+20
+Girişim
+
+--- Sayfa 23 ---
+Yalın kanvasınızı çizdiniz, En Sade Ürün de hazır, yol-
+culuğunuza başladınız ve her adımda yeni bir şeyler
+öğrenmeye başladınız. Peki ya hipotezlerinizden bazıları
+yanlış ise, ne yapacaksınız ?
+Projektör örneğinden yola çıkarsak, çözüm konusundaki
+hipotezimiz çürümüştü. Rektörün aslında yeni bir ürün
+değil, belki mevcut bir ürün üzerine yapılacak bir değişiklikle
+ilgilendiğini öğrenmiştik. Bu tip durumlarda çözümümüzün
+parçasını oluşturan öğelerde değişikliğe gitmeye “pivot”
+deniyor. Bu, çözümü komple değiştirmek de olabilir, bir
+kısmını değiştirmek de olabilir. Pivot örneklerini tek tek
+açıklayalım:
+Zoom-in Pivot : Çözümünüzdeki birçok özelliği
+kaldırıp sadece bir tek özellikle devam etmek.
+Zoom-out Pivot : Çözümünüze yeni özellikler
+ekleyerek devam etmek.
+Müşteri Segmenti Pivotu : Hedef kitlenizi değiştirir-
+erek yola devam etmek.
+Müşteri Beklentisi Pivotu : Problemini çözdüğünüzü
+sandığınız müşterinizin başka bir problemini keşfedip
+o problemi çözmeye çalışmak.
+Kanal Pivotu : Ürünü sunduğunuz kanalda değişik-
+lik yapmak.
+21
+Girişim
+
+--- Sayfa 24 ---
+Projektör örneğinden devam edersek şu tip pivotlar yapabilirsiniz. Rektörün projektörleri değiştirmek istemediği bilgisinden
+yola çıkarak mevcut projektörlere takılacak bir aparatla çözüm üretebilirsiniz (müşteri beklentisi pivotu). Üniversitelerden
+umudu kestiniz ve “Üniversitelere değil henüz projektör almamış firmaları hedefleyeceğim.” diyebilirsiniz (müşteri segmenti
+pivotu). Mevcut projektörlere bir aparat takarak enerji tasarrufu sağlama yoluna gittiniz ve rektör size her ay ne kadar tasarruf
+sağladıysanız onun yarısını ödemeyi teklif etti. Bu durumda değer pivotu yaparak ürünü satmak yerine performans bazlı bir
+para kazanma modeline gidebilirsiniz. İş modelinde değişiklik yapmanıza gerek kalmadan, pazar ürününüzü kabul ederse
+‘‘pazar-ürün uyumu’’nu yakaladınız demektir.
+Pivot ile ilgili bilinmesi gereken en önemli konu pivotun bir kere yapılıp tamamlanan bir süreç olmadığıdır. Dave McClure’un
+tanımından yola çıkarsak pivot girişiminizin ömrü boyunca devam eden bir süreçtir. Zaten pivot yapmıyorsanız artık çözümünüz
+girişim olmaktan çıkmış, bir iş haline gelmiş demektir. Girişiminizin hipotezlerden oluştuğu gerçeğini kabullenirseniz pivot
+etmeye, değişime ayak uydurmaya daha az direnç gösterirsiniz. Burada dikkat edilmesi gereken nokta vizyonunuzdan
+vazgeçmemektir. Örneğin çözmeye çalıştığınız problem “tüm insanların özgürce fikirlerini dile getirebildiği bir platform olma-
+ması” ise vizyonunuz pivotlar sonucunda “tüm üniversite öğrencilerinin not paylaştığı bir platform olmak” olmamalıdır. Tabi
+burada çözmeye çalıştığınız ilk problemde başarısız olduysanız ve tüm hipotezleriniz çürütüldüyse yeni bir vizyonu olan yeni
+bir girişime başlayabilirsiniz ki bu pivot anlamına gelmiyor.
+Platform Pivotu : Ürününüzü bir platforma çevirip başka ürünlerin de üzerinde çalışabileceği bir yapıya çevirerek yola
+devam etmek.
+İş Yapısı Pivotu : Düşük kâr çok ürün veya yüksek kâr az ürün gibi kârlılık değişikliği yaparak yola devam etmek.
+Değer Pivotu : Para kazanma modelinde değişiklik yapmak. (Para kazanma modellerini ilerleyen bölümlerde detaylı
+anlatacağım.)
+Büyüme Pivotu : Pazarlama metodolojinizde değişiklik yaparak yola devam etmek.
+Teknoloji Pivotu : Teknolojik değişikliğe giderek yola devam etmek.
+22
+Girişim
+
+--- Sayfa 25 ---
+Everpix
+2011 yılında kurulan ve Techcrunch Disrupt’da dik-
+kat çeken girişimlerden olan Everpix her geçen gün
+çoğalan ve saklaması dert olan fotoğraflarınız için bir
+çözüm sunuyordu. 2,3 milyon dolar yatırım alan girişim
+binlerce para ödeyen üyesi olmasına rağmen kapandı.
+Kapandığında iPhone uygulamalarının 5 üzerinden 4,5
+yıldızı ve uygulama hakkında 1.000’den fazla yorumu
+bulunuyordu. Everpix’i ücretsiz kullananların yarısı haftada
+bir, yüzde 60’ı ise ayda bir kere servisi kullanıyordu fakat
+bunlar servisin kapanmasına engel olmadı. Kurucular en
+büyük hatalarının “sadece ürüne odaklanıp, büyümeye
+ve pazarlamaya odaklanmamak” olduğunu söylüyor.
+Buradan çıkarılacak en büyük ders, ürününüze odaklan-
+mayı doğru zamanda bırakıp, büyümeye ve bir an önce
+sağlıklı finansal bir yapı kurmaya odaklanmak olmalıdır.
+Ülkemizde her ne kadar başarısızlık hikayeleri anlatılmasa
+da başarısızlık hikayelerini paylaşmak, dersler çıkarmak
+sağlıklı bir girişim ekosisteminin olmazsa olmazlarındandır.
+Aşağıda yurtdışından bazı meşhur kapanma hikayelerini
+aktaracağım.
+BAŞARISIZLIK HİKAYELERİ
+23
+Girişim
+
+--- Sayfa 26 ---
+Flud
+2010 yılında haber uygulaması olarak kurulan Flud, 2,1 milyon dolar yatırım almasına, milyonlarca yüklenmeye ulaşmasına rağmen
+3 yıl sonunda kapanmış. Kurucusu kapanma sebebi olarak, çıktıkları ürünün sorunsuz çalışması konusunda yavaş davrandıklarını,
+sosyal bir uygulama oldukları için de kötü deneyimlerin yeni kişilerin gelmesini engellediğini söylüyor. Bunun yanında potansiyel
+işbirliği fırsatları yakaladıklarını fakat pivot edip etmeme konusunda kararsız kaldıklarını da ekliyor. Türkiye’de de Webrazzi
+gibi teknoloji bloglarında haber olma üzerine strateji yapan girişimler çoğunlukla fazla uzun süre yaşamamaktadırlar. Ürününüz
+zaten büyük bir problemi çözüyor ve ilk müşterileriniz de ürününüzü başkalarına tavsiye edecek kadar beğendiyse, zaten basın
+size bir şekilde ulaşacaktır. Ulaştığında da ürününüz sorunsuz çalışıyorsa zaten büyümemek için başka bir nedeniniz kalmıyor.
+Formspring
+2009 yılında kurulan girişim yaklaşık üç buçuk yıl sonra kapanmış. Kurucusu kapanma sebebi olarak “hızlı büyüyen girişimimiz bir
+süre sonra çok hızlı büyümemeye başlamıştı, biz de yine o ivmeyi yakalamak için biraz etrafımızdan esinlenerek kullanıcılarımızın
+hiç kullanmadıkları özellikler eklemiştik “ diye belirtiyor. Buradan çıkarılacak en büyük ders, girişiminizin büyüme hızının elbette
+bir gün yavaşlayacağını bilerek o günlere önceden hazırlanmak olmalıdır. O günler geldiğinde girişiminizi hala karlı bir işe
+dönüştüremediyseniz veya bir değer haline getiremediyseniz başarısız olma ihtimaliniz yüksektir.
+PlayCafe
+2007 yılında kurulan oyun şirketi kapanması sonrası çıkardıkları dersleri şu şekilde sıralamış; Erken dönemimizde paraya daha
+çok ulaşmalıydık. İçerik işi bizi çok yordu, içerik işinde çok sabır gerekiyor. Müşteri kazanım maliyetlerimizi kontrol etmede ve
+yönetmede daha iyi olmalıydık.
+24
+Girişim
+
+--- Sayfa 27 ---
+Outbox
+2011 yılında kurulan ve 5 milyon dolar yatırım alan girişim 2014 yılının başında kapanmış. Kapanma sebebi yeni müşteri
+kazanım maliyetlerinin yüksek olması olarak gösteriliyor. Müşteri kazanım maliyetleriniz düşmüyorsa hatta müşterinin size
+kazandırdığından yüksek ise değiştirmeniz gereken bir şeyler var demektir. Ya pazarlama kanallarınızı değiştireceksiniz  ya
+da mevcut müşterilerden daha çok para kazanmaya çalışacaksınız.
+Exfm
+Müzik odaklı girişim, içerik yönetimi ve teliflerle ilgili problemler nedeniyle kapanmış. Özellikle müzik odaklı girişimlerde yasal
+zemini oturtmadan yapılan çalışmalar hüsranla sonuçlanıyor.
+Sonar
+2010 yılında  New York’ta kurulan girişim 2 milyon dolar yatırım almış. New York’ta bulunduğum dönemde ben de bu
+uygulamayı kullanmış ve beğenmiştim fakat Sonar da kapanan girişimler arasında yerini almış. Müşterilerimizden bazıları
+“şu özelliğiniz olmadığı sürece sizi kullanmam” dedikçe o özellikleri hayata geçiren kurucular bir süre sonra yaptıklarının
+karşılığının olmadığını farketmişler. O yüzden müşterilerin her dediğini yapmak yerine sadece vizyonlarıyla örtüşen ve oda-
+klarını dağıtmayan özellikleri yapmanın önemini vurguluyorlar. “Ürününüzdeki kötü kısımları ortadan kaldırmadan yenilik
+yapmaya başlamayın!” diyen kurucular bir dönem müşteri bağlılığı ve büyüme arasında sıkıştıklarını ve müşteri bağlılığına
+odaklandıklarını söylüyorlar fakat yanıldıklarını da belirtiyorlar. “Sosyal bir ağ kuruyorsanız her zaman büyümeye odaklanmanız
+gerekiyor.” diyorlar. Çıkardıkları bir diğer dersi ise “Büyümeye odaklanmak yerine etkinliklerde boy göstermeye başlamıştık,
+hiçbir etkinlik size 10 milyon yüklenme kazandırmaz.” diye belirtiyorlar. Wired dergisine yaptıkları altı haftalık yan işin de hata
+olduğunu belirten kurucular, odağınızı asla yan işlerle dağıtmamanın gerektiğini söylüyor.
+25
+Girişim
+
+--- Sayfa 28 ---
+SearchMe
+2005 yılında kurulup 2009 yılında kapanan girişim to-
+plamda 43 milyon dolar yatırım almış. Başarısızlığının en
+büyük sebebi olarak, çok erken dönemde yüklü miktarda
+yatırım alması olarak gösteriliyor. Olması gerekenden
+fazla yatırım aldığınızda bu girişiminizi ve sizi rahevete
+sürükleyebilir ki bu da sizi başarısızlığa sürükler. Türki-
+ye’de son dönemde, devlet desteklerinin belirli bir süre
+girişimcileri rehavete sürüklediği ve bunun da girişimcileri
+uzun vadede kötü etkilediği yönünde görüşler çoğalmaya
+başlamıştır.
+Blurtt
+2010 yılında kurulan ve 59 bin dolar yatırım alan girişimin
+kapanması ile ilgili olarak kurucusu, en önemli konunun
+yatırım alamamak olduğunu söylemiş. Yani girişiminize
+yakıt alamazsanız yolda kalmaya mecbursunuz.
+Cuil
+2008 yılında kurulan arama motoru servisi 2010 yılında
+başarısız bir satın alma süreci sonrası kapanmış. Uzmanlar
+kapanmasının en büyük sebebinin ürünün rakiplerinden
+daha iyi olmamasına bağlıyorlar. Rakiplerinizden daha
+iyi değilseniz (hatta Silikon Vadisi’nde rakiplerinizden iyi
+olmanız yetmiyor, tüm pazarı yıkıcı inovasyonla değiştir-
+meniz gerekiyor), zaten o girişime hiç başlamamanız
+gerekiyor.
+Friendster
+2002 yılında kurulan ve 50 milyon dolara yakın yatırım
+alan girişim sosyal ağların en erken örneklerinden göster-
+ilmesine rağmen başarısız girişimler arasında gösteriliyor.
+Bunun en büyük nedeni ise Google’ın satın alma tekli-
+finin reddedilmesi gösteriliyor. Buradan çıkarılacak en
+büyük ders biraz içgüdülerinize güvenip bazı satınalma
+taleplerinde doğru zaman olmasa bile şirketinizin satın
+alınmasına izin vermek olabilir.
+Manilla
+2010 yılında kurulan girişim ödüller de almasına rağmen
+kapanmış. Kapanma sebebi olarak ise hızlı büyümeme
+olarak gösterilmiş.
+26
+Girişim
+
+--- Sayfa 29 ---
+Color
+2010 yılında kurulan girişim kurucusunun da bilinirliği
+sayesinde 41 milyon dolar yatırım almıştı. Robert Scoble’ın
+analizine göre bu girişimin başarısız olmasında kötü bir
+tasarım, kötü zamanlama ve başlangıç aşamasında kötü
+eleştiriler yatıyor.  Sunduğunuz çözüm pazarın beklentisini
+karşılamadan ve düşük bırakma oranı (churn) olmadan
+büyütülmeye çalışılırsa başarısız olursunuz. Bir botu
+yüzdürmek istiyorsanız, hatta hızlı gitmek istiyorsanız
+önce delik olup olmadığını kontrol etmeniz gerekmektedir.
+Delikleri kapattıktan sonra benzin alıp (yatırım) dilediğiniz
+kadar hızlanabilirsiniz.
+Joost
+2006 yılında kurulan girişimin 2009 yılında tüm varlıkları
+satın alınmış ve çoğu çalışanı işten çıkarılmış. Bunun en
+büyük nedeni olarak ise sunulan çözümün geleceği olma-
+ması gösteriliyor. Sunduğunuz çözümün geleceği olduğunu
+öngörmek başta girişimcinin, sonra da yatırımcıların en
+büyük görevi.
+Boo
+1998 yılında kurulan ve ömrü 2 yıl süren girişimin başarısızlığı
+aynı anda birçok özelliği tanıtmalarına ve bunun üstesin-
+den kalkamamalarına bağlanıyor. Girişimin birçok dilde,
+birçok para biriminde ilk gün tanıtım yapması üstesinden
+kalkılamayacak bir duruma sürüklenmesine yol açıyor.
+O yüzdendir ki yalın girişimde olduğu gibi küçük adımlar
+atmalı, müşteri onayı aldıkça diğer adımlara geçilmelidir.
+27
+Girişim
+
+--- Sayfa 30 ---
+Başarı kavramı kişiye ve hedeflerine göre değişiklik
+gösterebilir. Türkiye’de yatırım almak başarılı gösterilse
+de bu sadece yolculuğun bir adımı olarak görülmelidir.
+Girişiminizin satın alınması da başarı olarak görülebilir
+fakat unutmamak gerekir ki bazı uzak doğu ülkelerinde
+şirketinizi satmak/şirketinizin satın alınması kötü bir
+durum olarak algılanır. Ayrıca girişimizi sattığınızda kaç
+kat para kazandığınızın oranı da ayrı bir başarı kriteri
+olabilir. Yani 1 milyon lira harcadığınız bir girişimi üç yıl
+içinde 2 milyon liraya satmak mı başarıdır, yoksa 100 bin
+lira harcadığınız bir girişimi üç yıl içinde 800 bin liraya
+satmak mı başarıdır? Bu bölümde herkese göre başarı
+algısı farklı olsa da başarılı diye gördüğüm girişimlerden
+bahsedeceğim.
+28
+Girişim
+
+--- Sayfa 31 ---
+Dakick
+2010 yılının sonunda kurduğum ve 2013 sonunda satışı için anlaştığım girişimde hem ulaşamadığım hedeflerden dolayı kendimi
+başarısız olarak görüyorum hem de bazı hedeflerimi tutturduğum için başarılı görüyorum. Dünyaya açılma konusunda başarısız
+oldum. Aynı anda hem Amerika pazarına açılmaya çalışmak, hem de Türkiye’de bir ivme yakalamaya çalışmak oldukça yorucuy-
+du. Aynı anda iki hedefiniz olunca iki hedef de tam gerçekleşmiyor. Girişimin bir değere dönüşmesi ve neredeyse sıfır pazarlama
+bütçesiyle pazarda bir yer edinmesi ve satın alınması ise başarı.
+Yemeksepeti
+2000 yılında Nevzat Aydın ve Melih Ödemiş tarafından kurulan şirket 2012 yılında çok büyük yatırımlardan birini aldı ve global
+pazarda genişlemek için önemli bir adım attı. Nevzat Aydın başarılı olmalarındaki en büyük motivasyonun “müşterilerin farkında
+olmadıkları ihtiyacı yaratmak için çok büyük bir vizyonla yola çıkmak” olduğunu söylüyor. Alışkanlık değiştirmek oldukça zor ve
+sabır gereken bir konu. Restorandaki bir yemeği evinize getirtmek 2000 yılında hiç kimsenin alışık olmadığı bir yemek yeme
+yöntemiydi fakat yemekepeti.com bu alışkanlığı oturtmayı başarmış. Bunu başarmak için müşteri memnuniyetini en üst düzeyde
+tutmuşlar.
+Mackolik.com
+2002 yılında kurulan mackolik.com, ADSL’in olmadığı bir dönemde sabırla 2004 yılına kadar ürünü geliştirmiş. Çektikleri finan-
+sal zorlukları diğer projelerden elde ettikleri gelirlerle telafi eden ekip, yaptıkları stratejik ortaklıklarla 2004 yılından sonra çıkışa
+geçmiş. 2012 yılında çoğunluk hissesi Perform Group tarafından satın alınan girişim, içerik bazlı girişim konusunda Türkiye’de
+öncü konumda. Kurucusu Erdem Yurdanur başarı için sabır, hızlı karar verme, özgüven ve kaliteli iş yapmak gerekiyor diyor.
+29
+Girişim
+
+--- Sayfa 32 ---
+Markafoni
+2008 yılında Sina Afra, Tolga Tatari ve Ahmet Emre Sarı tarafından kurulan girişim bir anlamda Türkiye’deki yatırım destekli
+girişim ekosistemi döneminin ilk örneği olarak gösterilebilir. Hatta bu yeni dönemin başlamasına öncülük eden girişimlerden
+diyebiliriz. 2010 yılında yatırım alan ve 2014 yılında kurucuların komple çıkış yaptığı Markafoni’nin başarısının arkasında
+Sina Afra’ya göre üç şey yatıyor. Birincisi sektörde ilk olmanın verdiği avatantajla ve ürün-pazar uyumunu da yakalamanın
+verdiği güçle pazarlama harcaması yapmadan ilk on ay 1 milyon kullanıcıya ulaşmışlar. (İlk günlerinizdeki organik büyümeniz
+hem sizi hem yatırımcıları motive edecektir.) Büyüme sırasında girişimlerin normalden fazla müşteri memnuniyeti yaratması
+gerekmektedir. (Silikon Vadisi’nde “ilk müşterilerinize “vaow” dedirtin yoksa kullanıcılar arkadaşlarına tavsiye etmez ve or-
+ganik büyüyemezsiniz” denilmektedir.) Bu nedenle Markafoni markasına ve müşterisine çok yatırım yapmış. Bu, başarısının
+arkasındaki ikinci faktör olarak gösterilebilir. Üçüncü ve son faktör ise yurt dışına açılan Markafoni, orada gördüğü iyi
+deneyimleri Türkiye’de uygulamış. Yani test edip tuttuğunu gördüğü deneyimleri Türkiye’de de uygulamışlar. Bu da zaman
+tasarrufu sağlamış.
+30
+Girişim
+
+--- Sayfa 33 ---
+31
+Girişim
+
+--- Sayfa 34 ---
+32
+
+--- Sayfa 36 ---
+Girişimciliğin farklı dönemlerde farklı tanımları olmuştur
+fakat bu kitapta iki tanım üzerinde duracağım. Albert Shap-
+ero’nun 1975 yılında yaptığı tanımda; Girişimci insiyatif
+alan, başarısızlık riskini göze alarak kendi iç denetimi
+ile hareket eden kişi olarak görülüyor. 2013 yılında köşe
+yazarı Ronald May’in yaptığı tanımda ise girişimci ino-
+vasyonunu ticarileştirmeye çalışan kişi olarak görülüyor.
+Her iki tanımdan yola çıkarak “risk alan, inovasyonunu
+ticarileştirmeye çalışan kişilere girişimci denir” diyebiliriz.
+Girişimciler her ne kadar genç, 20’li yaşlarında, t-shirt ile
+gezen kişiler olarak görülse de girişimciliğin yaşı yoktur.
+Dilerseniz bazı “yaşlı” girişimciler şirketlerini kaç yaşında
+kurmuş inceleyelim. WhatsApp’in kurucusu Jan Koum
+girişimini 35 yaşında hayata geçirdi. Michael Arrington,
+Techcrunch’ı 35 yaşında kurdu. Pandora’nın kurucusu
+Tim Westergren Pandora’yı 35 yaşında kurdu. Her gün
+kullandığımız yeni nesil ansiklopedimiz Wikipedia’nın
+kurucusu Jimmy Wales, Wikipedia’yı kurduğunda 35
+yaşındaydı. Farmwille oyunuyla tanınan Zynga’yı kuru-
+cusu Mark Pincus 41 yaşındayken kurdu. Amerika’nın en
+büyük ilan sitesi olan Craiglist’i kurucusu 42 yaşındayken
+kurdu. Bu tip örnekleri çoğaltmak mümkün. Burada dikkat
+edilmesi gereken nokta kaç yaşında kurduğunuz değil risk
+alma konusunda ne kadar istekli olduğunuzdur. Bakmak
+zorunda olduğunuz bir aileniz ve çocuklarınız olup olma-
+ması, ülkenin ekonomik şartları, sizin yetişme tarzınız,
+etrafınızın risk almaya yaklaşımı ve en önemlisi sizin
+ekonomik durumunuz, risk almanızı ve girişimci olmanızı
+etkileyen en önemli konu başlıkları olarak sıralanabilir.
+GİRİŞİMCİLİĞİN YAŞI
+34
+Girişimci
+
+--- Sayfa 37 ---
+Girişimci olmadan önce bilmeniz gereken en önemli konu fikrinizin çok değerli olmadığıdır. Önceki bölümlerde değindiğim
+gibi fikriniz ne kadar değerli olursa olsun fikriniz bu işin sadece %5’idir. Girişimcilik takım işidir, iyi bir takım kurmak özellikle
+Türkiye gibi girişim ekosisteminin yeni yeni kurulmaya başladığı ülkelerde oldukça zordur. Üniversite mezunu birçok kişinin hala
+birinci tercihinin büyük şirketlerde çalışmak olduğunu göz önünde bulundurursak takım kurmanın ne kadar zor olduğunu biraz
+daha net anlayabilirsiniz. Girişimcilerin iyi bir iletişimci, iyi bir ürün yöneticisi, iyi bir finansçı, iyi bir insan kaynakları uzmanı,
+iyi bir lider, iyi bir satışçı olması gerektiği gerçeklerini de göz önünde bulundurursak iyi bir girişimci olmak oldukça zordur. Bu
+nedenledir ki Silikon Vadisi başta olmak üzere çoğu girişim ekosisteminde girişimlerin iki kurucusu/girişimcisi olması istenir.
+Çünkü tüm özellikleri birarada bulunduran girişimci bulmak hem zordur hem de risklidir (Yatırımcılar tek kişilik girişimleri
+“one man show” şeklinde nitelendirir ve çekip gitmesi durumunda girişimin de düşüşe geçeceği gerçeğinin farkındadırlar.)
+GİRİŞİMCİ OLMADAN ÖNCE BİLMENİZ GEREKENLER
+35
+Girişimci
+
+--- Sayfa 38 ---
+36
+Girişimci
+
+--- Sayfa 39 ---
+“Fab” girişiminin kurucusu Jason Goldberg, bir girişimcinin her hafta yapması gereken işleri derlemiş.
+1.	 Bir tane hedefiniz olduğunu unutmayın, bunu her geçen gün tekrarlayın!
+2.	 Takımınız kadar iyisiniz! Bu yüzden takımınızı motive etmekle, mükemmelleştirmekle uğraşın.
+3.	 Tavrınızı belirleyin! Herkese girişiminizin adı geçtiğinde ne ile anılması gerektiğini düşünüyorsanız o yönde algı yönetimi
+yapın. Girişiminizin inovasyonla mı anılmasını istiyorsunuz, müşteri hizmetleri ile mi, hızıyla mı?
+4.	 Kişisel zamanınızın %75’ini ürüne harcayın. Ürününüzün her detayına hakim olmak, bir kullanıcısı olmak, sürekli olarak taş
+üstüne taş koymak önemlidir.
+5.	 Haftalık olarak tüm rakamlarınızı/finansallarınızı takip edin ve ekiple paylaşın.
+6.	 Egzersiz yapın. Girişimcinin sağlıklı olması, girişim için de önemlidir. Spor yapın.
+7.	 Geri bildirim toplayın. Geri bildirim toplamaktan çekinmeyin. Tüm geri bildirimleri derleyip değerlendirin. (Bu, her geri bildirimi
+yapın demek değil.)
+8.	 Ofisten çıkın! Gerçek müşterilerinizle yüz yüze konuşun.
+9.	 Yazın! Yazmak rahatlatır, blog yazmaktan, tweet atmaktan çekinmeyin. Sizinle aynı süreçten geçen girişimcileri dinleyin,
+onların yazılarını okuyun.
+10.	 Para akışını yönetin. Paranız sizin nefesiniz. Nefesiniz biterse siz de bitersiniz. Her hafta para durumunuzu kontrol edin,
+paranız bitmeden yatırımcıya gitmeyi de unutmayın.
+11.	 Yatırımcı gibi düşünün. Her hafta, “bu hafta yaptıklarım girişime değer kattı mı?” diye düşünün. Girişiminize değer katmayan
+işlerle uğraşmayın.
+12.	 Eğlenin. Girişimcilik streslidir, o yüzden kendize eğlenecek şeyler bulun. Eğlenmeyi unutursanız bu girişiminize de yansır.
+13.	 Sevin! Size değer veren, girişiminizin büyümesine katkı sağlayan tüm paydaşları sevin.
+37
+Girişimci
+
+--- Sayfa 40 ---
+Sıkça sorulan sorulardan biri "Üniversite sonrası hemen
+girişimci olalım mı ? Yoksa biraz çalışıp sonra mı girişimci
+olalım ?" şeklindedir. Bu sorunun net bir cevabı olmasa
+da bir firmada çalıştıktan sonra girişimci olanların başarı
+ortalaması, üniversite sonrası girişimci olanlara göre
+daha fazladır. Bu yine de "mutlaka bir firmada çalışın
+sonra girişimci olun" anlamına gelmemelidir. Bir firmada
+çalışmak size iş yapış konusunda tecrübe kazandırır, iş
+arkadaşlarınız ve çalıştığınız firmalar sayesinde ilişki
+ağınız genişler ki bu da girişimci olduğunuzda işinize
+yarar. Kötü tarafından bakarsak bir firmada çalıştığınızda
+konfor alanı dediğimiz finansal risklerinizin minimuma
+inmesi ve rahata ermenizi sağlayan alan sizi uyuşturur
+ve o konfor alanından çıkıp riske girmek istemezsiniz.
+Sorumuza tekrar geri dönersek, kendinizi yetiştireceğinizi
+ve bir amaç için bir firmada çalışacağınızı düşünüyorsanız
+üniversite sonrası hemen girişimci olmayın. Üniversite
+sonrası veya sırasında bir fırsat görüyorsanız ise bunun
+için bir firmada çalışma yoluna da gitmeyin, hemen girişimci
+olun. Tabi burada fırsatın tanımı da önemli. İyi bir fikir,
+iyi bir fırsat demek değildir. Yalın girişimde bahsettiğim
+adımları uygulamayı unutmayın.
+ÜNİVERSİTE SONRASI
+38
+Girişimci
+
+--- Sayfa 41 ---
+500 Startups’ın kurucusu  Dave McClure girişimci psiko-
+lojisini roller coaster’a (lunaparklardaki yükselip alçalan
+trenlere) benzetmektedir. Girişimin tanımından yola
+çıkarsak, belirsiz bir ürün, belirsiz müşteriler, belirsiz iş
+modelleri, büyüme stresi, yatırımcı stresi, takımı yönetme
+stresi... binlerce stres arasında bir hayalin peşinden koş-
+mak inişli çıkışlı bir ruh haliyle yaşamanıza neden olur.
+Anlık başarılarla mutlu olursunuz fakat beş dakika sonra
+kendinizi başka bir problemle uğraşıyorken bulursunuz.
+Arkadaşlarınız maaşlı işlerde çalışırken ve finansal prob-
+lemler yaşamazken siz ay sonunu nasıl getireceğinizi,
+nasıl büyüyeceğinizi, ödeme dengelerini düşünürsünüz.
+Girişimcinin ruh hali gel-git’lerle dolu olduğu için özel
+hayatı da dengesizdir. Birçok ülkede girişimcilerin en
+çok sorduğu sorular “özel hayat ile iş hayatı dengesini
+oturtamamanın sebepleri ve çözüm önerileri” üzerinedir.
+Girişimci karakterinin bu belirsizliklere, gel-git’lere yatkın
+olması gerekmektedir. Bu nedenle nasıl bir karakteriniz
+olduğunu girişimci olmadan önce bilmeniz gerekmektedir.
+Girişimciyi en çok motive eden şey ülkelere göre değişiklik
+göstermektedir. Silikon Vadisi’nde ana motivasyon para
+olmadığı halde, gelişmekte olan ülkelerde ana motivasyon
+kurumsal hayata göre daha çok para kazanmaktır. Bir
+girişimin başarılı olması için geçen sürenin kısa olmadığını
+ve başarı oranının çok düşük olduğunu göz önünde
+bulundurursak bir şirkette çalışmak ve iyi bir pozisyona
+gelerek iyi bir maaş almak da girişimciliğe göre avantajlı
+olabilir. Bu nedenle kişisel görüşüm ana motivasyonunuz
+daha çok para kazanmak olmamalıdır. Benim kişisel
+motivasyonum sıfırdan bir değer ortaya çıkarmaktır.
+GİRİŞİMCİ PSİKOLOJİSİ
+VE MOTİVASYONU
+39
+Girişimci
+
+--- Sayfa 42 ---
+Bir şirkette çalışmak hatta büyük ve bilinen bir şirkette çalışmak halen ülkemizde yeni mezun bir öğrencinin ilk tercihidir.
+Bunun nedenlerinin başlıcaları girişimcilik ekosistemimizin çok yeni olması, ülke olarak birçok ekonomik kriz görmemiz ve
+risk alma konusunda tereddütlü olmamız ve rol model sayımızın az olması olarak sıralanabilir.
+Şirket çalışanı olmak kötü, girişimci olmak iyi gibi bir ayrım yapmak oldukça yanlıştır. Doğru olan sizin karakterinizin ve
+yapınızın en çok hangisine uyduğur. Yani risk almamanız gereken bir dönemde risk alırsanız hem mutsuz olursunuz hem de
+kendinize ve bakmak zorunda olduğunuz kişilere zarar verebilirsiniz. Belirsiz ortamlarda kendinizi daha güvende hissediyor,
+sıfırdan bir iş yaratmanın çok zevkli olduğunu düşünüyorsanız bir firmada tekdüze bir iş yapmanız da sizi mutsuz edecektir.
+Bu nedenle “bir şirkette mi çalışayım, girişimci mi olayım ?” sorusundan önce “ne yaparken kendimi mutlu hissediyorum,
+nasıl bir karakter yapım var ve ne kadar risk alabilirim” gibi soruları kendinize sormanız gerekmektedir.
+ŞİRKET ÇALIŞANI MI ? GİRİŞİMCİ Mİ ?
+40
+Girişimci
+
+--- Sayfa 43 ---
+Sıkça sorulan sorulardan biri de “Şu anda bir yerde çalışıyorum, süper bir fikrim var, ayrılıp girişimci olayım mı ?” şeklindedir.
+Yatırımcı açısından bakarsak yatırımcılar risk aldığınızı görmek ister. Çalıştığınız şirketten ayrılmamak da risk almamak olduğu
+için hiçbir yatırımcıya “yatırım alırsam ayrılırım” gibi cümleler kurmayın. Yatırımcı, risk almıyorsanız girişiminize güvenmed-
+iğinizi düşünür.
+Girişimlerin uzun bir yolculuk olduğunu ve fikirlerin bu yolculukta küçük bir yeri olduğu gerçeğinden yola çıkarsak sadece iyi bir
+fikriniz olduğunu düşündüğünüz için girişimci olmayın. Yalın girişim ile önce fikrinizin müşteri onayını alın, gerçeklerle yüzleşin,
+sonrasında istifa edip etmemeyi düşünün.
+Çalıştığınız şirketin bir iş yapmanız için size maaş verdiğini düşünürseniz zaten çalışırken başka bir işle uğraşmamanız ger-
+ekmektedir. O yüzden girişiminizin müşteri onayını almak istiyorsanız bunu sadece boş zamanlarınızda yapın.
+ÇALIŞIRKEN GİRİŞİMCİ OLUNUR MU ?
+41
+Girişimci
+
+--- Sayfa 44 ---
+GİRİŞİMCİDE OLMASI GEREKENLER
+Bir girişimcide aşağıda sıraladığım tüm özellikleri birarada bulmak oldukça zordur, bu nedenle ideal girişimin iki kurucu ortaktan
+kurulması gerektiği gerçeğinden yola çıkarsak bazılarının sizde bazılarının ortağınızda olması gerektiğini düşünerek okuyun.
+Sunum Becerisi
+Eğer yatırımcılara sunum yapacaksanız (pitch) sunum becerileriniz olmak zorundadır. Yatırımcılara sunum hazırlarken çok
+iyi hazırlanın fakat tüm bildiklerinizi de kusar gibi anlatmayın. En etkin ve en öğrenmeleri gereken bilgileri verin. Her şeyi
+anlatmaya çalışmak hem kafa karıştırır, hem gereksizdir. Yatırımcıların sorularına cevap verememeniz çok iyi hazırlan-
+madığınızı gösterir. O yüzden sorabilecekleri tüm soruları önceden hazırlayıp cevaplarınızı hazırlayın hatta sunumunun
+arkasına yedek sayfaları bu sorular ve cevaplarına ayırın. Sunum teknikleri konusunda eğitimler olduğu gibi başarılı sunum
+örneklerini internetten “startup pitch” veya “startup decks” şeklide arayarak bulabilirsiniz. Unutmamak gerekir ki en iyi sunum
+doğru zamanda doğru kişiye doğru şeyleri gösterdiğiniz sunumdur.
+İletişim Becerisi
+İyi bir iletişimci değilseniz her zaman kaybedersiniz. İyi bir iletişimci olmanın da temel şartı dürüst olmaktır. Her zaman dürüst
+olun, yanlış söylemleriniz her zaman başınızı ağrıtacaktır. Kötü bir iletişim sizi ve girişiminizi hiç istemediğiniz noktalara
+sürükleyebilir. Bu nedenle araştırmadan konuşmamaya, düşünmeden konuşmamaya özen gösterin.
+42
+Girişimci
+
+--- Sayfa 45 ---
+Yalın Girişim
+Yalın girişim kitabını mutlaka alın ve okuyun. Yalın girişim
+sizi başarılı yapmaz ama zaman kazandırır. Ülkemizde
+melek yatırımcılar da yalın girişimin önemini kavramaya
+başladıkları için bir melek yatırımcıya gittiğinizde o da
+size attığınız yalın girişim adımlarını soracaktır.
+Ürün Yönetimi
+Girişiminiz en büyük ürününüz. Bu nedenle ürün yaşam
+eğrisi yönetimini, müşteri kazanım taktiklerinizi, ürünün
+kullanımı ile ilgili sıkıntıların (UX) yönetimini sürekli yap-
+manız gerekmektedir. İyi bir ürün yöneticisi olamazsanız
+ürününüz/girişiminiz de başarısız olmaya en büyük adaydır.
+Dijital Pazarlama
+Eğer müşteri kazanım kanallarınızı, hangi kanaldan ne kadara müşteri kazandığınızı, ilgili kanaldan gelen müşterinin size
+ne kadar kazandırdığını bilmiyorsanız finansallarınızı ve büyümenizi yönetemezsiniz. Bunları yönetemezseniz de girişimi-
+nizi yönetemezsiniz. Bu nedenle SEO/SEM/İçerik Pazarlaması/Sosyal Medya Pazarlaması gibi kavramları detaylı şekilde
+öğrenmelisiniz. Hatta girişiminizi hayata geçirmeden önce bu kanalları test etmeli ve ona göre pazarlama planı yaparak
+yatırımcının karşısına çıkmalısınız.
+43
+Girişimci
+
+--- Sayfa 46 ---
+Temel Finans
+Temel vergisel konuları, aylık olarak ne tip ödemeler yapacağınızı bilmeniz gerekmektedir. Net maaş, brüt maaş, ödemeniz
+gereken vergiler, mali müşavir masrafları gibi bilgileri temel bir eğitim ile öğrenebilirsiniz. Eğer internet üzerinden ticaret
+yapıyorsanız ödeme sistemleri, sanal POS, BKM Express, 3Pay konularında temel bilginiz olmalıdır. Nakit akışı açısından
+da bu araçları kullandığınızda ödeme dengelerinizin nasıl değişeceğini bilmeniz gerekmektedir.
+Temel Şirket/Ortaklık/Yatırım Yasal Yapısı
+ Limited, AŞ yapılarını, sermaye ve ortaklık yapılarını, yatırımcı ile sözleşme yaparken dikkat etmeniz gereken konuları te-
+mel düzeyde bilin. Ülkemizde özellikle yatırımcı ile girişimci arasındaki sözleşme konusunda çok tecrübeli kişi olmamasına
+rağmen bu konuları bilen az sayıda kişi ile görüşün ve tavsiyelerini dinleyin.
+Temel Teknik Bilgi
+Eğer internet girişimcisi olacaksanız “Cloud” dendiğinde, “Domain” dendiğinde “Web Server”, “MySql” dendiğinde “bu ke-
+limeler Fransızca mı?” dememeniz gerekmektedir. Eğer işletme kökenli biriyseniz ve teknik bilginiz yoksa bunları bilen bir
+ortağınız olması gerekmektedir.
+44
+Girişimci
+
+--- Sayfa 47 ---
+TÜRKİYE’DE GİRİŞİMCİ TÜRLERİ
+Türkiye’de internet girişimciliği denildiğinde dönemlerine göre iki tür girişimci vardır.
+1.	 Birinci Dönem Girişimciler:
+2000’lerin başlarında, daha ADSL yokken girişimci olan bu girişimciler yatırım almadan kendi imkanlarıyla (bootstrap) girişimlerini
+büyütmüşlerdir. Ersan Özer, Erdem Yurdanur, Nevzat Aydın bu tip girişimcilere örnektir.
+2.	 İkinci Dönem Girişimciler:
+2008 sonrası girişimci olan bu girişimciler ise genelde yatırımcı desteği ile girişimlerini büyütme yolunu tercih etmişlerdir. VC destekli
+girişimcilik ekosistemi döneminin de başlarına denk gelen bu girişimcilerin çoğu kurumsal hayat sonrası girişimci olmuşlardır.
+Sina Afra, Can Turanlı, Demet Mutlu bu tür girişimcilere örnektir.
+2008
+2000
+45
+Girişimci
+
+--- Sayfa 48 ---
+46
+
+--- Sayfa 51 ---
+Türkiye’de 2009-2010 öncesi internet girişimlerinin kurul-
+ması ve büyümesi için gerekli olan sermaye, kurucunun
+kendisinden veya ailesinden gelirdi. Yani fikir sahibi ile
+sermaye sahibi aynı kişiydi. Bu ikisinin birarada olması
+zor olduğu için Silikon Vadisi’nden hatta biraz daha geriye
+gidersek Hollywood’dan kopyalanan bir modele doğru bir
+evrim süreci yaşadık. Fikir sahibi ile sermaye sahibi yavaş
+yavaş birbirinden ayrılmaya başladı ve Türkiye olarak şu
+günlerde sıkça duyduğumuz melek yatırımcı (devletin
+koyduğu isimlendirme: “bireysel katılım yatırımcısı”) ve
+VC (Venture Capital) kavramlarıyla tanıştık. Bu, çok büyük
+sermaye gerektiren girişimlerde küçük bir sermayesi olan
+girişimcinin yatırımlarla büyük işlere girmesini sağladı ki
+bu da inovasyonun önünü açtı.
+Belirsiz iş modellerinin, belirsiz ürünün, belirsiz hedef
+kitlenin olduğu girişimleri karlı ve sürdürülebilir bir işe
+dönüştürmek için gereken sürenin finanse edilmesi şarttır.
+Risk kelimesinin Çince “tehlike” ve “fırsat” kelimelerinden
+oluştuğunu düşünürsek, yatırım tehlikeyi ve fırsatı dağıtmak
+içindir. Yani bir girişime %30’u karşılığı yatırım yapıldığında
+bundan “o yatırımcının riskin %30’unu aldığı” anlaşıl-
+malıdır. Bir girişimde hisse dağılımını bir şirketin ortaklık
+yapısı olarak değil de risk dağılımı olarak gördüğünüzde
+neden yatırımların turlar şeklinde yapıldığını biraz daha
+net anlamış olursunuz (Girişim büyüdükçe risk azalacak
+ve farklı değerlemelerde daha düşük riskle paydaş olmak
+isteyenler olacaktır).
+NEDEN YATIRIM GEREKLİDİR ?
+49
+Finansman ve Yatırım
+
+--- Sayfa 52 ---
+FİNANSAL KAYNAKLAR
+Günümüzde her geçen gün girişimciler için farklı finansal
+kaynaklar çıkmaktadır. Bunlardan başlıcaları aşağıdaki
+gibidir:
+AAA
+Aile-Arkadaşlar-Aptallar diye adlandırılan (İngilizcesi de
+“FFF: Family-Friends-Fools”) bu finansal kaynak fikir
+aşamasında başvurmanız gereken kaynaktır. Henüz
+çözmek istediğiniz problemi yeni keşfetmişsiniz ve daha
+ortada ne bir ürün var, ne de bir müşteri onayı. Tutup
+tutmayacağından bile emin değilsiniz. Bu aşamada melek
+yatırımcıya gitmek veya VC (Venture Capital) firmaya
+gitmek kesinlikle yanlış bir adım olacaktır. Bu aşamada
+risk en yüksek noktadadır, bu nedenle size aileniz, yakın
+arkadaşlarınız veya aptallar dışında kimsenin destek
+olmak istememesi normaldir. Burada AAA’ya en fazla
+%10 pay verebilirsiniz, aldığınız para ile de yapmanız
+gereken yalın girişimde aktardığımız “problem-çözüm
+uyumu”’nu yakalamaya çalışmaktır. Yani sunacağınız
+çözüm gerçekten o problemi yaşayanları tatmin edecek
+midir, bunu öğrenmelisiniz. İlk prototipinizi de bu sermaye
+ile hazırlayabilirsiniz.
+50
+Finansman ve Yatırım
+
+--- Sayfa 53 ---
+Melek Yatırımcı
+İsmini en geriye gidersek Hollywood’daki yatırımcılardan
+alan “Melek Yatırımcı” kavramı iyi bir malvarlığı olan ve
+bu malvarlığının ortalama %10’unu girişimlere yatıran
+bireysel yatırımcılar için kullanılmaktadır. Her ne kadar
+geçmişte bireysel bir yapısı olsa da günümüzde akredite
+olan bireysel yatırımcılara “Melek Yatırımcı” denilmektedir.
+Melek yatırımcıya çözümünüzün o problemi yaşayan-
+lar tarafından kabul edilebilir olduğunu ispatladıktan
+sonra (problem-çözüm uyumu) gitmelisiniz. En yalın
+ürününüzü yaptıktan sonra ve ilk 1000 müşterinizi içeri
+alıp çözümünüzden memnun kaldıklarını gösterdikten
+sonra (ürün-pazar uyumu) giderseniz melek yatırımcı
+karşısında eliniz güçlenecektir. Melek yatırım aldığınız
+takdirde kurucular olarak toplam hissenizin %70’in
+altına düşmemesi tavsiye edilmektedir. Bu nedenle
+melek yatırımcıya girişiminizin %15-30 arası bir payını
+verebilirsiniz.
+51
+Finansman ve Yatırım
+
+--- Sayfa 54 ---
+Venture Capital (VC)
+Kurumsal bir yapısı olan VC’ler, başkalarından (Limited
+Partner) toplayarak kurdukları fonu yöneten oluşumlardır
+(TOBB’un yaptığı tanıma göre ülkemizde Erken Aşama
+Girişim Sermayesi olarak adlandırılmaktadır).
+Bu yapılar şu şekilde çalışır. Öncelikle VC firmasındaki
+ortaklar fon kurmak için ortalama iki yıl, malvarlığı iyi du-
+rumda olan kişileri, fonlar fonu gibi yatırım fonlarına kaynak
+sağlayan oluşumları ve emeklilik fonları gibi çok uzun
+süre vadeli fonları ziyaret ederek para ayırma taahhüdü
+alırlar (“50 milyon dolarlık bir teknoloji fonu kuruyoruz,
+5 milyon dolar taahüd eder misiniz, koşullarımız şunlar
+vs.”). Ortaklar iki yıl sonunda fonlarını yeni yatırımcılara
+kapatırlar ve dışarıya X milyon liralık bir fon kurduklarını,
+ilgi alanlarını (“Sadece mobil ve giyilebilir cihazlar üzerine
+yatırım yapıyoruz”) ve hangi dönem yatırım yapacaklarını
+(“Erken aşamada yatırım yapacağız”) anons ederler.
+Fon anonsu sonrası fonu kurumsal yapıya oturtup yatırım
+yapmaya başladıkları döneme “ekme dönemi” denir.  Bu
+dönem boyunca riski dağıtmak adına portföy mantığı ile
+hareket ederek yönetebilecekleri kadar girişime yatırım
+yaparlar.
+52
+Finansman ve Yatırım
+
+--- Sayfa 55 ---
+Ekme dönemi sonrası (ortalama beş yıl) yeni bir döneme (biçme dönemi) girerler ve yatırım yaptıkları girişimlerden çıkmaya
+“exit”  başlarlar. Fonları kurdukları yıldan ortalama sekiz dokuz yıl sonra da geri dönüp fonlarına para veren Limited Part-
+ner’larla kazandıklarını paylaşırlar (Erken bir dönemde “exit” olduysa o an paylaşım da yapabilirler). Bu paylaşım sırasında
+kazandırdıkları paranın bir kısmını bonus olarak VC yönetimi alır. Bu bonusa “carried interest” denir. On yıl sonunda gelinen
+rakam, kurulan fonun ne kadar çok kat (“multiple” veya çarpan) fazlasıysa VC’nin o fonu da o kadar başarılı sayılır. 3-4 arası
+bir çarpan sektör ortalaması olarak kabul edilir. Yani 50 milyon dolarlık bir fonun 10 yıl sonunda 150-200 milyon dolar olması
+beklenmektedir. VC’ler bu tip bir oran yakalamak için yatırım yaptıkları girişimlerin üçte birinin batacağını, üçte birinin kendini
+kurtaracağını, üçte birinin ise çok çok iyi performans göstereceğini düşünerek yatırım yaparlar.
+VC’lerin ortalama yatırım miktarlarına ise “ticket size” denir. Ticket size genelde toplam fon miktarının yarısının yapılacak
+girişim sayısına bölümü kadarıdır. Yani 50 milyon dolarlık bir fon 10 yatırım yapacaksa 50/2/10=2,5 milyon dolarlık ticket
+size’da yatırımlar yapacaktır. Bunun girişimci açısından anlamı şudur:  “ticket size’ı 2,5 milyon dolar olan bir VC’den 200
+bin dolar yatırım isterseniz sizi beklentilerinin altında bulacaktır.” Bu nedenle VC’lere gitmeden önce ticket size’larını, hangi
+sektörlerle ilgilendiklerini, önceki yatırımlarını, fonlarının kaçıncı yılında olduklarını (ekme dönemi bitmek üzereyse yatırım
+yapmayabilirler) bilmeniz gerekmektedir. Farklı VC’lerin farklı fon büyüklükleri olabileceği için VC’ler de girişimlerin farklı
+evrelerinde farklı miktarlarda yatırım yapmak isteyebilirler. Bu nedenle VC’ler de erken dönem, büyüme dönemi, geç dönem
+gibi farklı evre VC’leri olarak kendilerini konumlayabilirler. Eğer girişiminizde ürün-pazar uyumunu yeni yakaladıysanız erken
+dönemdeki bir VC’ye, satışlarınız günlük çift haneli rakamlara (e-ticaret siteleri için 20 satış/gün) geldiyse erken ve büyüme
+dönemindeki bir VC’ye götürmelisiniz. Hangi şartlarda hangi VC’ye gitmeniz gerektiği konusunda kararsızsanız VC’lerin
+konferanslardaki veya dergilerdeki açıklamalarından hangi ölçümlere sahip girişimlere yatırım yaptıklarını öğrenebilirsiniz.
+Burada en çok yapılan hata “problem-çözüm uyumu ve ürün-pazar uyumu” konusunda henüz aşama kaydetmeden girişimcil-
+erin VC’lerin kapısını çalmasıdır. VC’ler o aşamalarda sizin melek yatırımcıya gitmenizi ister veya o aşamada riski kendinizin
+almasını, kendi sermayenizle o aşamaları geçmenizi beklemektedir. Yani sunum aşamasında, problemin çözümü aşamasında,
+prototip aşamasında VC’lere gitmemeniz yararınıza olacaktır (Çok geç gitmenin de reddedilme sebebi olduğunu unutmayın).
+53
+Finansman ve Yatırım
+
+--- Sayfa 56 ---
+VC’lerin en büyük motivasyonları “carried interest”, bir
+sonraki kuracakları fon için (kurdukları fonları fon I, fon
+II.. şeklinde adlandırırlar) referans oluşturmak ve herkesin
+bildiği başarı hikayeleri yaratmak olarak sıralanabilir.
+(Çarpanı büyük olan bir fon sonrası, VC ortakları yeni
+fon kurarken Limited Partner’lardan çok daha iyi para
+toplayabilmektedirler)
+VC’lerin de bu işi katbekat büyütmek zorunda olduklarını
+düşünürsek (büyütememe riskleri ve buna bağlı olarak
+yeni sermaye toplayamama riskleri vardır) VC’lerin her
+girişime yatırım yapmaları beklenemez. Bazı girişimler
+yavaş yavaş büyür. Hatta kârlı bir iş haline bile gelebilir
+fakat VC’nin o anki portföyündeki yıldız girişim sayısı,
+soru işaretli girişim sayısı, büyüme oranları ve biçme
+dönemine uzaklığı VC’nin o girişime yatırım yapmasına
+engel olabilir. O nedenle bazen bir VC’nin size yatırım
+yapmaması girişiminizin kötü olmasından değil, o anki
+şartlar yüzünden olabilir.
+•
+Hisse bazlı: Para verenlere hisse verilir. (AngelList,
+Fundable, Seedrs)
+•
+Bağış bazlı: Yardım amaçlı yapılır. (Wikipedia)
+•
+Borç bazlı: Para verenlere ilerleyen tarihlerde faiziyle
+paraları geri verilir. (Prosper)
+•
+Ödül bazlı: Verilen paralar karşılığında ürünün ilk
+kullanıcısı olma gibi ödüller verilir. (Kickstarter)
+Genellikle bir site üzerinden girişiminiz veya ürününüz
+için para toplama anlamında kullanılan Crowdfunding’in
+dört farklı çeşidi vardır.
+Crowdfunding
+54
+Finansman ve Yatırım
+
+--- Sayfa 57 ---
+2013 yılında 3 milyon kişinin Kickstarter projelerine 480
+milyon dolar para yatırması (bir önceki sene 319 milyon
+dolar) crowdfunding’in artık önemli bir finansman kaynağı
+olduğunun en önemli göstergesidir.
+Devlet Destekleri
+Ülkemizde Tübitak ve KOSGEB devlet desteklerinde
+başı çekmektedir. Bu tip desteklerin girişimciye yararlı
+mı zararlı mı olduğu tartışılmaktadır. Bunun nedeni ise
+“girişimcinin rehavete kapılıp girişimini sürdürülebilir bir
+işe çevirme konusunda fazla rahat davranması” olarak
+görülmektedir. Kişisel görüşüm, doğru zamanda doğru
+amaç için kullanırsanız bu tip destekler almaktan çekin-
+meyin. Burada unutulmaması gereken, bu desteklerin
+bazılarının siz harcama yaptıktan 5-6 ay sonra size geri
+ödeme yapmasıdır. Bazılarıysa aylık geri ödeme yapar.
+Bu nedenle nakit akışınızı iyi kontrol etmeniz gerekir.
+Hızlandırma Programları
+Hızlandırma programları (Accelerator Programs) sizleri
+kısa bir süre içerisinde (1 hafta ile 12 hafta arasında
+değişen sürelerde) problem-çözüm uyumu, ürün-pazar
+uyumu, yatırımcı sunumu gibi konularda hızlıca eğitip
+“sunum günü” (demo day) denilen yatırımcı karşısına çı-
+karan oluşumlardır. Ülkemizde Etohum, Girişim Fabrikası,
+StartupBootCamp, Pilott, Gemim, Viveka, TeknoJumpp
+gibi hızlandırma programları vardır. Küresel anlamda en
+popüler hızlandırma programları yCombinator, TechStars,
+AngelPad ve SeedCamp’dir. Bu hızlandırma programları
+size hipotezlerinizi test etmeniz için gereken 2-3 aylık
+dönemde masraflarınızı karşılayacak kadar finansal
+destek sağlarlar.
+55
+Finansman ve Yatırım
+
+--- Sayfa 58 ---
+Girişiminizin bulunduğu aşamaya göre farklı sunumlar yapmanız önerilir. Bunun nedeni ise farklı aşamalarda yatırımcıların
+farklı şeylere bakmasıdır. Eğer problem-çözüm aşamasındaysanız ve melek yatırımcılara sunum yapıyorsanız sunumunuzda
+en çok vurgulamanız gereken başlıklar “siz ve ekibiniz”, “problem-çözüm uyumunu yakaladığınıza/yakalayacağınıza dair
+hedef kitle ile yaptığınız görüşmeler” olmalıdır.
+
+Girişiminiz problem-çözüm aşamasını geçmiş ve ürün-pazar aşamasındaysa sunumunuzdaki başlıklar “aldığınız melek
+yatırım detayları”, “ilk müşterilerinizin davranışları (tekrar geliyorlar mı?)”, “büyüme motorunuz ile ilgili bilgiler (en çok hangi
+kanallar ile büyüyorsunuz, en iyi müşteriler hangi kanaldan geliyor, bir müşteriyi kaç liraya kazanmış oluyorsunuz ve size ne
+kadar para kazandırıyor...)” ve “maliyet analizi” olmalıdır.
+En çok yapılan hata, sunumunuzun yarısından çoğunda ürünü anlatıp, diğer konuları çok az bir sürede anlatmaktır. Sunum
+sürenizin en fazla yüzde 20’sinde ürününüzden bahsetmeli, kalan yüzde 80’indeyse diğer konulardan bahsetmeniz tavsiye
+edilir. İyi bir sunum 10 sayfadan ve onu besleyen 40 yedek sayfadan oluşmalıdır. 10 sayfada sunumunuzu yapmalı, sorular
+geldikçe ise yedek sayfalarınızı göstermelisiniz. Yedek sayfalar sizin o konuya ne kadar iyi çalıştığınızın göstergesidir. Eğer
+yedek sayfalarınız olmazsa ve yatırımcıların bazı sorularına “o konuyu araştırıp gelelim” derseniz, tekrar bir sunum yapma
+şansınız kalmayabilir veya bir sonraki toplantınızı bekleyene kadar nakit akışı problemi yaşayabilirsiniz. Bu nedenle sunuma
+çok iyi hazırlanın fakat her şeyi anlatmayın. Sadece gerektiğinde anlatılacak konuları yedek sayfalara koyun.
+HANGİ AŞAMADA NASIL BİR SUNUM YAPMALI ?
+56
+Finansman ve Yatırım
+
+--- Sayfa 59 ---
+HANGİ AŞAMADA HANGİ FİNANSAL KAYNAĞA BAŞVURMALI ?
+57
+Finansman ve Yatırım
+
+--- Sayfa 60 ---
+Eğer girişiminizi hayata geçirmediyseniz ve çözümünüzü hedef kitleyle test etmediyseniz girişiminizin değeri sıfırdır. Eğer
+girişiminizle ilgili olarak sadece problem-çözüm uyumunu yakaladıysanız ve bir melek yatırımcıya gideceğiniz için değer-
+leme yapmanız gerekiyorsa 150 bin TL gibi bir değer biçip melek yatırımcıya 50 bin TL yatırım karşılığı girişiminizin %25’ini
+verebilirsiniz. (150 bin TL “pre-money value” olarak adlandırılır, 150+50=200 bin TL ise “post-money value” olarak anılır.)
+Eğer ürün-pazar uyumunu yakaladıysanız ve tekrar tekrar gelen müşterileriniz olmaya başladıysa girişiminizi 500 bin TL’den
+değerleyebilirsiniz. Bu rakamlar belirsizliğin çok yüksek olduğu ortamda size yol göstermek için pazar ortalamalarıdır. Her-
+hangi bir matematiksel açıklaması yoktur.
+Girişiminiz ürün-pazar uyumunu yakalamış, günlük belirli bir ciroya gelmişse değerleme yöntemleri de belli matematiksel
+metodlara dayandırılarak yapılmaya başlanır. Bunlardan biri girişiminizin bulunduğu pazardaki çarpanları kullanmaktır. Örneğin
+bulunduğunuz pazarda değerleme olarak EBITDA (FAVÖK) x 7 kullanılıyorsa girişimizin değerini girişiminizin EBITDA’sını 7
+ile çarparak bulabilirsiniz. En çok kullanılan değerler EV (Enterprise Value), EBITDA ve REVENUE’dür. Bu değerleri pazar
+ortalaması çarpanıyla çarparak bir değerleme yapabilirsiniz. Burada dikkat edilmesi gereken nokta değerlermelerde tek bir
+doğru yoktur. Farklı hesaplamalarla farklı değerlemeler elde etmeniz normaldir. Bu nedenle değerlemeniz arz taleple de
+ilgilidir (Serbest Piyasa Ekonomisi).
+Eğer girişiminiz kurulalı 1-2 yılı geçmişse ve nakit akışlarınız çok dengesiz değilse kullanabileceğiniz en matematiksel ve
+finansal değerleme yöntemi DCF (Discounted Cash Flow)’dir. Bu metodda girişimin 4-5 yıllık nakit akışı günümüz değerlerine
+indigenerek bir değer hesabı yapılır.
+Eğer girişiminiz bir sosyal ağ girişimiyse ve benzer bir ürünün çok yakın zamanda değerlemesi yapıldıysa o girişimin değerle-
+mesinin üye sayısına bölünmesiyle bulunan çarpan önemlidir. Bu çarpanı girişiminizin üye sayısıyla çarparak bir değerleme
+yapabilirsiniz.
+GİRİŞİMİNİZİN DEĞERLEMESİ
+58
+Finansman ve Yatırım
+
+--- Sayfa 61 ---
+Girişiminiz her yatırım aldığında hisse oranınız düşer fakat hisse değeriniz artar (‘down round’ hariç). Girişiminiz melek yatırım
+aldığında kurucularda yüzde 70-80 arasında pay kalmalıdır. VC’lerden ilk tur yatırım aldığınızda ise yüzde 60 civarı payınız
+olmalıdır. Bir tur daha yatırım aldıktan sonra da yüzde 40 seviyelerinde payınız kalmalıdır.
+Çok erken aşamada kurucuların payının yüzde 50’nin altına düşmesi, ileriki turlarda hem yatırım yapacak muhtemel yatırımcıların
+hem de kurucuların motivasyonunu düşürecektir.
+Ülkemizde VC destekli girişim ekosisteminin 3-4 yıllık bir geçmişi olması nedeniyle bu oranlara henüz uyum sağlanamamıştır.
+Kişisel önerim sizden erken aşamada yüzde 50 ve üstünde pay isteyen yatırımcılardan uzak durmanız gerektiğidir.
+YATIRIMCILAR NASIL GİRİŞİMLERİ BEĞENİR ?
+Yatırımcılar öncelikle doğru zamanda gelen girişimleri
+beğenirler. Yatırımcının ticket size’ından çok küçük bir
+miktarda yatırım istemek veya çok büyük miktarda yatırım
+istemek şansınızı sıfıra düşürecektir. O yüzden ne kadar
+doğru zamanda ve doğru büyüklükte yatırımcının kapısına
+giderseniz beğenilme ihtimaliniz o kadar artar.
+Yatırımcılar çok büyük bir pazarda, çok hızlı büyüyen (ilk
+yıllarında yıllık 3 haneli büyüme, yüzde 100+), her geçen
+gün müşteri kazanım bütçeleri düşen (organik büyümenizin
+ilk yıllarda sıfır olmaması gerekiyor) ve beş altı yıl içerisinde
+15-20 kat büyüyecek girişimleri beğenirler.
+GİRİŞİMİNİZİN YÜZDE KAÇI SİZE KALMALI ?
+59
+Finansman ve Yatırım
+
+--- Sayfa 62 ---
+Problem-çözüm uyumu aşamasındayken, yani
+ürününüzde hala büyük değişiklikler yaptığınız, belirsiz-
+liğin yüksek olduğu aşamadayken istemeniz gereken
+miktar girişiminizin en fazla 8 aylık harcaması kadar
+olmalıdır. Bunun 3 ayında ürününüzü geliştirmeye, 3
+ayını doğru pazarlama kanallarını bulmaya, 2 ayında
+da bir sonraki aşama için yatırım aramaya başladığınızı
+varsayabiliriz. Bu aşamada Türkiye için pazar ortalaması
+$50.000/100.000 TL civarındadır.
+YATIRIMCILARDAN NE KADAR YATIRIM
+İSTEMELİSİNİZ ?
+Yatırımcıdan gereğinden fazla para istemenin iki kötü tarafı
+vardır. Birincisi yatırımcı gereksiz yere daha fazla riske
+girmiş olur. İkincisi bol para içinde olan girişimci rehavete
+kapılabilir ve bu da girişimin geleceğini tehlikeye atar.
+Girişimcinin de yatırımcının da diken üstünde olması
+gerekmektedir. Eğer iki tarafdan biri rehavete kapılırsa,
+girişimin sonu genelde kötü sonlanır. Bu nedenle VC’lerde
+ortaklar kendilerine çok yüksek maaşlar yazmazlar (“car-
+ried interest” ile motive olmaları gerekmektedir.) Yoksa
+“tüm portföyüm batarsa batsın, iyi maaşım var, başka bir
+iş yaparım” demeye başlarlar ki bu portföye zarar verir.
+Girişimcilerin de yatırım alırken kendilerine yüksek maaş
+yazmamaları gerekmektedir. Girişimci kendine iyi bir
+maaş yazarsa bu “girişimim batarsa batar, iyi maaşım
+var, deneyim kazanmış bir şekilde bir şirkette çalışmaya
+başlarım” algısına neden olur. O yüzden girişimcinin de
+ana motivasyonunun uzun vadede yüksek kazanç elde
+etmek olması gerekmektedir. Şu senaryo yatırımcılar
+tarafından daha çok takdir edilmektedir: “10.000 TL
+maaşım vardı, çalıştığım şirketten ayrıldım, kendi girişimimi
+kurdum, girişimimde kendime 3.000 TL maaş yazdım,
+çünkü girişimimim çok büyüdüğünde zaten daha kazançlı
+Melek yatırım sonrası ürününüzde artık daha az değişik-
+lik yapmaya başlayıp ürün-pazar uyumunda da aşama
+kaydettiğiniz zaman VC’lere gitmeli ve Seri A yatırım
+aramalısınız. Bu aşama genelde girişiminizin 18 aylık
+maliyetlerini karşılamak için kullanılır. İlk 14 ayda girişi-
+minizi büyütmek için çalışmalı, son 4 ayda ise “daha çok
+büyümek, küçük rakipleriniz varsa onları satın almak
+için” Seri B için yatırımcıları dolaşmaya başlamalısınız.
+Türkiye’de Seri A yatırım için pazar ortalaması eticaret
+girişimleri için $1.000.000, diğer girişimler için $500.000
+civarındadır.
+60
+Finansman ve Yatırım
+
+--- Sayfa 63 ---
+Yatırım süreçlerinde en çok yapılan hata, bu sürecin sözlü
+olarak 1-2 haftada gerçekleşmesi durumunda bile yatırımın
+bankaya yatırılmasının 3-4 ayı bulduğunun çok bilinmeme-
+sidir. Bu nedenle yatırım sürecini 3-4 aylık bir süreç olarak
+görmeli ve ona göre nakit akışınızı kontrol etmelisiniz. Bu
+yüzden sermayeniz bittiğinde değil, bitmesine 4-5 ay kala
+yatırım sürecine başlamalısınız.
+çıkacağım.” Nedeni ise risk aldığınızı yatırımcıya göster-
+miş olmanızdır. Yani bir şeyler feda ettiğinizi yatırımcıya
+mutlaka gösterin.
+YATIRIM SÜREÇLERİ ?
+Girişiminizi kurduğunuzu ve 1 milyon dolar Seri A yatırım
+ihtiyacınızın olduğunu varsayalım ve nasıl bir yol izlemeniz
+gerektiğine bakalım.
+Öncelikle hangi yatırımcıların girişiminizin bulunduğu
+alana ilgi duyduğunu ve o yatırımcılardan ticket size’ı 1
+milyon dolar civarında olanları belirliyorsunuz. Ardından
+yatırımcıların portföylerini ve varsa bloglarını inceleyip sizin
+girişime yatırım yapmamaları için bir neden olup olmadığını
+araştırıyorsunuz. Eğer size yatırım yapmamaları için bir engel
+yoksa o yatırımcıyı ve sizi iyi tanıyan birinin referansıyla
+yatırımcıya ulaşıp sunumunuzu yapıyorsunuz (“Investor
+pitch”). Yatırımcı sizi ve girişiminizi beğendiyse size yatırım
+şartlarını içeren “term sheet” dökümanını gönderiyor. Term
+sheet’te 500.000 dolar vereceğini taahhüt etti diyelim, diğer
+yatırımcılara da gidip 1 milyon doları aynı değerleme ile
+tamamlayıp turu (“round”) kapatıyorsunuz
+61
+Finansman ve Yatırım
+
+--- Sayfa 64 ---
+2005 yılından sonra Amerika’da erken aşama girişimler
+için en önemli başvuru yeri yCombinator gibi hızlandır-
+ma programları olmuştur. Hem eğitim kısmı, hem kolay
+erişilemeyecek yatırımcılara sunum yapma imkanı ned-
+eniyle çekim merkezi olan bu programlar zamanla tematik
+hızlandırma programlarına da öncülük etmiştir. Sağlık,
+eğitim, mobil gibi tek bir konuyla ilgilenen ve sadece o
+konuyla ilgili deneyimli girişimcilerin mentorluk yaptığı
+ortamlar girişimciler için oldukça cazibelidir.
+2012-2013 yılları itibariyle erken aşama girişimlerin
+ilgisi Angellist ve Kickstarter gibi yerlere kaymış ve bu
+da erken aşama yatırım yapan VC’lerin öneminin azalıp
+azalmayacağı tartışmalarına neden olmuştur. Angellist
+ile sıradan bir Amerikan vatandaşı 10 bin dolar parasını
+ünlü bir yatırımcıya (örneğin Kevin Rose) dijital ortamda
+emanet edebilmekte ve bu ünlü yatırımcının (“syndicate”
+deniyor) kendi (“backer” deniyor) adına girişimlere yatırım
+yapmasını sağlayabilmektedir.
+YATIRIMCI DÜNYASININ
+TÜRKİYE’DE YATIRIM ORTAMININ
+DÜNÜ,BUGÜNÜ,YARINI
+DÜNÜ,BUGÜNÜ,YARINI
+Türkiye’de yatırımcı destekli girişim ekosisteminin 4 yıllık
+bir geçmişi vardır. O yüzden Türkiye’deki ekosisteme
+emekleme aşamasında diyebiliriz. “Exit” yapan girişimci
+sayısı çok az, ilk fonunu iyi bir çarpanla kapatıp yeni
+bir fon kuran yatırımcı ise yoktur. Önümüzdeki 3-4 yıl
+içerisinde girişimcilerimizin de yatırımcılarımızın da başarı
+hikayelerinin artacağını düşünürsek girişimci-yatırımcı
+ekosistemimizin yarınının parlak olduğunu söyleyebiliriz.
+62
+Finansman ve Yatırım
+
+--- Sayfa 65 ---
+YATIRIMCIYA NASIL ULAŞMALI ?
+Bu nedenle sosyal medyadaki duruşunuza, daha önceki
+yaptığınız işlerdeki ilişkilerinizi sıcak tutmaya, iş ahlakını-
+za, iş bitiriciliğinize her zaman özen gösterin. Geçmişte
+her aldığı işi yarım bırakan biriyle, her aldığı işi sonuna
+kadar götürme motivasyonu olan biri arasında elbette fark
+vardır ve yatırımcılar da buna dikkat eder. Bu nedenle hem
+geçmişiniz parlak olsun hem de yatırımcıların fikirlerine
+değer verdiği biri üzerinden yatırımcılara gidin.
+Bir girişimci için en güzel senaryo yatırımcının size
+ulaşmasıdır. Ancak bu senaryoyu düşük bir ihtimal olarak
+görüp pas geçersek, bir girişimci için en güzel ikinci senaryo,
+yatırımcı dünyasında saygı duyulan, fikirlerine değer verilen
+birinin sizi yatırımcıyla tanıştırmasıdır. Yani bir yatırımcıya
+direkt kapıyı tıklayıp giderseniz ilk görüşmeniz pek de iyi
+geçmeyecektir. Çünkü sizi tanımayan bir yatırımcı, girişiminiz
+ne kadar iyi olsa da çok yorum yapamayacaktır.
+63
+Finansman ve Yatırım
+
+--- Sayfa 66 ---
+Eğer eposta üzerinden bir yatırımcıya ulaşmaya çalışıyor-
+sanız, yine referans kullanın. Yatırımcının tanıdığı biri
+yatırımcıya eposta göndersin, siz eposta’da da CC’de
+durun. Referansınızın epostası sonrası yatırımcıya bilgi
+kusmayın. En etkili, kısa ve öz epostanızı gönderin,
+bu epostada amaç her şeyi anlatmak değil, yüzyüze
+yapacağınız toplantı öncesi ön bilgi vermektir. Kişisel
+fikrim iyi bir eposta 150 kelimeyi geçmez. Bu epostayı
+gönderirken aşağıdaki tüyolara dikkat etmenizi öneririm.
+•
+Neden o yatırımcıyla görüşmek istediğinizi iki cümle
+ile aktarın. (Örneğin: “Sizin yatırım portföyünüzü in-
+celedik ve benzer alandaki tecrübe ve ilişki ağınızdan
+dolayı bize değer katacak düşündüğümüz bir yatırımcı
+olduğunuzu düşünüyoruz.” diyebilirsiniz)
+•
+Uygun görürlerse toplantı talebi beklediğinizi bir
+cümle ile belirtin.
+•
+Kısa sunumunuzu (“deck”) epostaya ekleyin.
+•
+Kontak bilgilerinizi ekleyip e-postayı sonlandırın.
+•
+Dil bilgisi kullanımınıza dikkat edin.
+•
+Konu: Epostanın konu kısmına “<girişim adınız> -
+Yatırım Arayışı İçin Görüşme Talebi” yazabilirsiniz.
+•
+Sizi tanıştıran kişiye kısa bir teşekkür edin.
+•
+İki cümleyle girişiminizin ne yaptığını anlatın. (İnanın
+her girişim iki cümle ile anlatılabilir)
+•
+Girişiminizin hedef kitlesini iki cümle ile anlatın.
+(Kimler kullanabilir...)
+•
+Neden bu girişimin büyük bir fırsat olduğunu bir
+cümle ile anlatın.
+•
+İlk kullanım istatistiklerinizi paylaşın. (Örneğin: “lans-
+man sonrası 3. ayımıza girdik ve ilk 2 ayda 100 bin
+kişi üye oldu, 10 bini para ödüyor” gibi)
+•
+Daha önceden yatırım aldıysanız bir cümle ile
+yatırımcılarınızdan bahsedin.
+64
+Finansman ve Yatırım
+
+--- Sayfa 67 ---
+EKOSİSTEM OYUNCULARINDAN GİRİŞİMCİLERE TÜYOLAR
+     Ali Karabey (212 Ltd)
+•
+Yatırımcıda bıraktığınız ilk izlenim önemlidir. Dil bilgisi
+kullanımınıza, yazdıklarınıza özen gösterin.
+•
+Toplantıya zamanında gelin.
+•
+Finansallarınızı iyi hazırlayın. (Internette bolca örnek var)
+•
+Güçlü ve zayıf yanlarınızı bilin.
+•
+Zayıf olduğunuz noktaları VC sormadan önce bilin ve
+listeleyin.
+•
+Yatırımcının bu işi iyilik olsun diye değil, para kazanmak
+için yaptığının farkına varın.
+•
+Avukatınız olmadan yatırım anlaşması yapmayın.
+•
+İki üç yıllık bir girişim değilseniz DCF (Discounted Cash
+Flow) modeli ile şirket değerlemesi yapmayın.
+•
+Yeni başlamış bir girişimseniz VC’nin sizden 15 çarpanlı
+bir geri dönüş beklediğinin farkında olun.
+•
+Size yatırım yapacak VC’nin portföyünü inceleyin.
+•
+Rakibimiz yok demeyin.
+•
+İhtiyacınızdan az veya çok yatırım istemeyin.
+•
+Yatırım almayan başarısız olur diye düşünmeyin.
+•
+Siz de risk alın.
+•
+Nakit akış tablosu konusunda kendinizi geliştirin.
+Bu bölümde Türkiye’deki girişim ekosistemindeki oyunculardan bazılarının girişimcilere verdikleri tüyoları ve önerilerini bulabil-
+irsiniz.
+65
+Finansman ve Yatırım
+
+--- Sayfa 68 ---
+Bora Yılmaz (Revo Capital)
+•
+Limited ve A.Ş. şirket kurmadan önce belli bir yol katedin. Hemen şirket kurmayın.
+•
+Motivasyonunuzu belirleyin. Para, şan, şöhret, basamak...
+•
+En sevdiğiniz adamla değil, sizi en iyi tamamlayanla ortaklık yapın.
+•
+Muhtasar Beyannamesi ne demek bilin. Bu iş sadece kod değil.
+•
+Sizi bir yatırımcıyla tanıştırdı diye kimseye para/pay vermeyin.
+•
+Yatırım aldığınızda cebinize para girmediğini öğrenin.
+•
+Silikon Vadisi’nde olmadığınızın farkında olun.
+•
+Yatırım almadan başarılı olan girişimler olduğunu da bilin.
+•
+Size paradan fazlasını vereceğini düşündüğünüz yatırımcıdan yatırım alın.
+•
+Bir girişim olarak ispatlamanız gereken çok hipotez var, en önemlilerinden başlayın.
+•
+Hayal ettiğiniz ürün gerçekten birilerinin kullanmaya hazır olduğu bir şey mi? Google’dan bakarak, okuyarak bilemezsiniz.
+•
+Vakit kaybetmeden sahaya çıkın. Varsın ürününüz eksik olsun, tam olmasın. Sahadan gelecek geri dönüşleri dinleyin.
+•
+Hiç bir yatırımcıya ‘rakibimiz yok demeyin’. Kullanıcı şu anda size vereceği parayı/zamanı başkasına veriyorsa, rakiptir!
+•
+Sadece Google/Facebook reklamı yapmak pazarlama değildir. Nasıl müşterilere ulaşacaksın sorusuna anlamlı cevap-
+larınız olsun.
+•
+Büyümenizi haftalık takip edin. Örneğin haftalık yüzde 5 büyümüyorsanız sorun vardır.
+•
+Bir yıl sonraki hedeflerinizden önce haftalık hedefinizi tuturmaya odaklanın.
+66
+Finansman ve Yatırım
+
+--- Sayfa 69 ---
+Ayşe İnal (Galata Business Angels)
+•
+Takım kurun, tek başınıza işe başlamayı tercih etmeyin.
+•
+Takımda iş bölümü yapın.
+•
+Mentorluk alamayacağınız yatırımcıdan para almayın.
+•
+Yatırımcınızı seçin.
+•
+Yatırımcının para kazanmak için ortak olduğunu un-
+utmayın.
+•
+Sunumunuzun yatırımcı sunumu olduğuna emin olun.
+•
+Nakit akış tablonuzu yatırımcıya gelmeden önce
+hazırlayın.
+•
+Yatırım ihtiyacınızı belirleyin.
+     Hande Didem Altop (Endeavor Türkiye)
+•
+Çok net tanımladığınız bir müşteri kitlesinin gerçek
+bir ihtiyacını giderin veya sorununu çözün. Varsayım-
+larınızı sürekli teyid ederek ilerleyin.
+•
+Ekosistemde destek veren kişiler, kurumlar ve
+yatırımcıların takıma yatırım yaptığını unutmayın.
+“Ben” yerine “Biz” kültürünü oluştururken net görev
+tanımları ve karar verme süreçleri oluşturun.
+•
+“Networking” için vakit ayırın ve ekosistemde samimi
+ilişki geliştirmeye özen gösterin.
+•
+Gerçeklerle yüzleşin. Konu uzmanı olarak görüşlerine
+hürmet edilen 3-4 kişi sizi aynı konuda uyarıyorsa
+kulak verin ve çözüm üretin.
+•
+Başarıların egonuzu kabartmasına, başarısızlıkların
+kalbinizi kırmasına izin vermeyin. Öğrenmenin hiç
+bitmediğini hatırlayın. Sağduyulu olma sanatını ben-
+imseyin.
+67
+Finansman ve Yatırım
+
+--- Sayfa 70 ---
+Melih Ödemiş (Yemeksepeti)
+•
+Sabırlı olun.
+•
+Yola çıkarken hangi riskleri aldığınızı iyi ölçüp biçin.
+•
+“En kötü ne olur “ sorusunu kendinize sorun. Cevabı
+göze alamıyorsanız yola çıkmayın.
+•
+Ailenizin manevi destegini muhakkak alın.
+•
+Bu yolculuğun bir sprint değil maraton olduğunu
+her an aklınızda tutun.
+•
+İnsanlığına, çalışkanlığına ve zekasına güvendiğiniz
+ortak ya da ortaklar edinin.
+•
+Kendinize ve içgüdünüze güvenin ama her türlü
+eleştiriye de açık olun.
+•
+İnançlı olun ama kör olmayın.
+•
+Küçük başlayın, büyük düşünün , hızlı hareket edin.
+     Cankut Durgun (Aslanoba Capital)
+•
+Tutkulu olduğunuz bir konu üzerinde çalışın.
+•
+Yatırım almak sizi başarılı yapmaz. Yatırım almak
+başarılı olmak için sorumluluklarınızın arttığı bir
+kaldıraçtır.
+•
+Her şeyi kendiniz yapamazsınız. Bilginizi, tecrübel-
+erinizi, ve zamanınızı paylaşırsanız başkaları da
+sizin için paylaşır.
+•
+Ancak ekibiniz kadar iyi olabilirsiniz. Bunun için
+özellikle ilk takım arkadaşlarınızı özenle seçin. Sizin
+eksik olduğunuz alanlarda kuvvetli olan arkadaşlarla
+çalışın.
+•
+Başarılı bir iş kurmak çok stresli. Mutlaka bir maraton
+olarak görün, ‘sprint’ degil. Bu maratonun zor anlarında
+eşinizle ve çocuklarınızla eğlenmek, spor yapmak,
+ve arkadaslarınızla görüşmek gibi size enerji katan
+aktivitelere zaman ayırın.
+68
+Finansman ve Yatırım
+
+--- Sayfa 71 ---
+İhsan Elgin (Girişim Fabrikası)
+•
+Pazarınızın büyüklüğünü doğru tespit edin ve
+ölçeklenelebilir değilse vazgeçin.
+•
+Ürününüzü müşteri ile birlikte geliştirin.
+•
+Doğru takımı oluşturmak için şirketinizden bir şeyler
+vermeyi göze alın.
+•
+Fikrinizi hayata geçirmenizi sağlayacak çevreyi çok
+hızlı kurun.
+•
+Zaman kaybetmenizi engelleyecek ve şeytanın
+avukatlığını yapacak, sektörü bilen bir danışma
+kurulu kurun.
+•
+Başkasına öğretilecek seviyede tekrarlanabilir satış
+modelini bulana kadar siz satın.
+•
+Plan B’ye geçmeye hazır olun.
+•
+İş modelinizinin bir hipotez olduğunu unutmayın ve
+tüm adımları sürekli test edin.
+•
+Çoğunluğa satmaya başlamadan işinizin her an
+batabileceğini unutmayın.
+     Cem Sertoğlu (Earlybird VC)
+•
+Moda diye, heyecanlı diye, herkes yapıyor diye, gi-
+rişim kurmaya karar vermeyin; sağlam değer önerinizi
+iyice test etmeden, startup kurmaya karar vermeyin.
+•
+Takımınıza kendinizden daha iyi insanları almaya
+calışın.
+•
+Mecbur değilseniz, yatırım almayı düşünmeyin.
+69
+Finansman ve Yatırım
+
+--- Sayfa 72 ---
+70
+
+--- Sayfa 74 ---
+POS
+Üye işyerlerinin bankalar ile yaptığı anlaşmalar sonucu
+temin ettikleri elektronik ödeme alma cihazlarıdır. Kredi
+kartı, banka kartı ve ön ödemeli kartlar ile ödeme kabul
+eden cihazlardır.
+Sanal POS
+Fiziksel POS cihazının sanal yani yazılımsal halidir.
+İnternet üzerinden yapılan ödemelerde üye işyerinin
+ödeme isteğini gönderip aldığı yazılımlardır
+Provizyon
+Karttan elektronik olarak para çekme işlemidir. Para
+çekme işleminin fiziksel POS veya sanal POS aracılığıyla
+bankaya iletildikten sonra bankanın olumlu cevap verip
+başarıyla sonuçlanmasıdır.
+E-ticaret girişiminiz varsa veya kullanıcılarınızdan ücret
+talep ediyorsanız bilmeniz gereken en önemli konu
+ödeme sistemleridir. Ödeme sistemleri ile ilgili bilmeniz
+gereken terimler şunlardır:
+72
+Temel Bilgiler
+
+--- Sayfa 75 ---
+Ön Provizyon
+Karttan para çekmeyen fakat ilgili meblağ için blok koyan
+işlem. Örneğin 100 TL’lik provizyon gerçekleştiğinde
+kartınızdan 100 TL çekilmiş olur, kart limitiniz 100 TL
+düşer, ancak ön otorizasyon yapıldığında ise para gerçekte
+çekilmez sadece bloklanır ve limitiniz 100 TL düşer. Kul-
+lanıcının yeterli limitinin olup olmadığı, güvenlik kontrolü,
+ön sipariş vb amaçlarla kullanılır. Ön otorizasyon işlemi
+başarılıysa daha sonradan post-otorizasyon ile para
+çekme işlemine döndürülebilir. Ön otorizasyon sonrası
+hiçbir işlem yapılmazsa, bankadan bankaya değişmekle
+birlikte kabaca 7-10 gün içinde tutar için koyulan blok
+ortadan kalkar ve kartın limiti tekrar eski haline döner.
+3D Secure
+
+Visa tarafından “Verified by Visa” ismiyle geliştirilen,
+daha sonra MasterCard’ın da “SecureCode”  ile dahil
+olduğu sisteme ortak olarak 3D Secure ismi verilmiştir.
+Türkiye’de 3D Secure isminin yanısıra bankaların bu
+sisteme verdiği Uluslararası Güvenlik Platformu, Maxinet,
+3 Boyutlu Güvenlik Sistemi gibi isimler olsa da özünde
+hepsi aynı protokolü ifade eder. 3D Secure; internet
+üzerinden yapılan ödemelerde güvenliği bir boyut daha
+ileriye taşıyan; üye işyeri, banka ve kart sahibi arasındaki
+sorumlulukları düzenleyen bir platformdur. Kullanıcının
+kart bilgilerini girmesinden sonra bildiğimiz normal ödeme
+işleminin gerçekleşmesinden farklı olarak, ödeme esnasın-
+da kullanıcının kartının bankası tarafından ek bir ekran
+(browser redirection ile) gösterilerek kullanıcıdan kayıtlı
+cep telefonuna gelen SMS şifresi ve/veya CVC2 bilgisini
+girmesi istenir. Kullanıcıya SMS şifresi ve/veya CVC2
+bilgisi de sorulduğu için kart sahibinin kimliği doğrulanır
+ve kartın sahibi dışındaki kişilerce kullanılmasının önüne
+geçilmiş olunur.
+Gün Sonu
+Gün içinde yapılan işlemlerin toplu olarak bankaya
+gönderilmesi ve hesap kayıtlarının oluşması işlemidir.
+Günsonu işlemi genelde gece 23:00-24:00 aralığında
+yapılırken bazı bankalar birden fazla günsonu işlemi de
+yapabilirler.
+73
+Temel Bilgiler
+
+--- Sayfa 76 ---
+Taksit
+Kredi kartından yapılan ödemenin bankaya ay ay ödenmesi
+işlemidir. Banka, kart hamilinden parayı tek sefer yerine
+aylara bölünmüş olarak aldığı için buradaki finansmanı
+genelde üye işyerine yıkar, üye işyeri de müşteriye.
+Örneğin bir ürünün peşin/tek çekim fiyatı 100 TL iken,
+3 taksitli fiyatı 105 TL olabilir. Peşin fiyatına taksit ise
+istisnaya sahiptir.
+Fraud (Sahtecilik)
+Sahtecilik/dolandırıcılık anlamına gelen “fraud”, çoğun-
+lukla finansal ve itibari kayba yol açan, adli soruşturma-
+ya konu olabilen, hemen her sektörde farklı türlerini
+görebileceğiniz önemli bir terimdir. Ödeme sistemleri
+anlamında fraud; başkalarına ait kredi ya da debit kart
+ile herhangi bir işyeri veya ATM’den işlem yaparak haksız
+kazanç sağlamak, bu sayede gerçek kart hamili, işyeri
+ya da bankayı finansal zarara uğratmaktır. Dolandırıcı
+(fraudster) şahıs(lar) tarafından gerçekleştirilen sözkonu-
+su işlemler fiziki ya da sanal bir ortamda yapılabilmekte-
+dir.
+Mobil Ödeme
+Ödemenin mobil operatör faturasına yansıtıldığı ödeme
+yöntemidir. SMS ile onay alarak ödeme yapılır, operatörler
+ücreti kullanıcıdan alıp mevcut faturasına yansıtır.
+OTP(Tek Kullanımlık Şifre)
+İşlemlerin doğrulanması için tek seferlik kullanım amacıyla
+üretilen ve/veya gönderilen şifrelerdir. 3D Secure sürecinde
+bankadan cep telefonunuza gelen şifre veya internet
+bankacılığı kullanıcı girişlerinde üretilen anahtar şifreler
+bu uygulamaya örnektir. Ayrıca mobil ödemelerde de
+işlemlerin doğrulaması için kullanılır.
+Bitcoin
+Henüz çoğu ülke tarafından tanınmasa da, hatta yasaklansa
+da gelecekte adını sıkça duyacağımız, merkezi bir yapı
+tarafından kontrol edilmeyen dijital para. Tüm kullanıcıların
+dijital cüzdanı olduğu için ödeme kolaylığı ve gizlilik sağlar.
+74
+Temel Bilgiler
+
+--- Sayfa 77 ---
+Puan
+Bankalar kart üzerinden geçen işlemler için üye işyerlerinden
+komisyon alırlar. Örneğin bankanın, 100 TL’lik bir ödemeyi
+kart ile yaptığınızda tek çekim için üye işyerinden %2 = 2
+TL komisyon aldığını düşünürsek bunun bir kısmını puan/
+bonus/chip para vb isimle kart sahibine hediye eder. Böylece
+siz kart ile alışveriş yaptıkça puan toplarsınız ve bu puanları
+bir sonraki alışverişinizde kullanabilirsiniz.
+Chargeback (Ters İbraz)
+
+Kart hamilinin, kartı üzerinden yapılan ödeme işleminin
+kendisine ait olmadığına dair veya tutar, hizmet ve işleme
+ait bir hatanın bulunmasına istinaden bankasına yaptığı
+itirazdır. Visa, MasterCard, American Express, Diners,
+JCB, BKM gibi ulusal ve uluslararası kartlı ödeme sistemleri
+kuruluşlarının kuralları çerçevesinde kart hamilleri bu itiraz
+hakkına sahiptir.
+Dijital Cüzdan
+Kart bilgilerini bulutta kendi sistemlerinde saklayan ve
+genelde internet üzerinden alışverişlerde kart bilgisi gir-
+meden ödeme yapılmasını sağlayan çözümlere verilen
+genel isimdir. Ülkemizde BKM Express, PayPal ve iPara
+online cüzdan kategorisine girmektedir. Not: BKM Express,
+kart bilgilerinin kaydı esnasında kart bilgilerinin tamamına
+ihtiyaç duymaz, kart numaranızın tamamını ve son kullanma
+tarihini girmezsiniz.
+75
+Temel Bilgiler
+
+--- Sayfa 78 ---
+Bu terimleri öğrendiniz, bir eticaret girişimi için ilk adımınızı
+atmak istiyorsunuz, ne yapacaksınız ? Bunun için öncelikle
+ya PayU gibi size bankaya gitmeden Sanal POS hizmeti
+sunan bir şirketten hizmet alabilirsiniz ya da direkt olarak
+bankalara başvurup Sanal POS talebinde bulunabilirsiniz.
+Burada dikkat etmeniz gereken komisyon oranları ve
+size hangi vadelerde ödeme yaptıklarıdır. Bunu iyi analiz
+etmezseniz ilerleyen günlerde nakit akışı problemleri
+yaşayabilirsiniz.
+Sanal POS aldınız ve işe koyuldunuz, ödemeler gelmeye
+başladı, peki şimdi ne yapmanız gerekiyor ? Sürekli olarak
+hem “fraud” konusunda analiz yapmalısınız hem de ödeme
+akışları ile ilgili analizler yapmalısınız. Bu analizler sepet
+sonrası başarılı ödemeye kadar akışlardaki başarı oranını
+artırmayı içermelidir.
+Günümüzde ödeme seçenekleri çoğaldığı için farklı ödeme
+seçeneklerini girişiminizde sunmak size avantaj sağlaya-
+caktır. Örneğin kolay ve güvenli alışveriş yapmak isteyenler
+için dijital cüzdan olan BKM Express, 3Pay, Paypal gibi
+alternatifleri desteklemelisiniz.
+76
+Temel Bilgiler
+
+--- Sayfa 79 ---
+Bir girişimin sağlıklı bir şekilde büyüyüp büyümediğini, ölüp
+ölmeyeceğini, yıldız olup olmayacağını görebilmek için
+doğru verilere bakmalı ve doğru analizler yapmalısınız.
+Bunun için de verinizin müşteri merkezli olması gerek-
+mektedir. Sitenizi ziyaret edenler, üye olanlar, alışveriş
+yapanlar sitenizde neler yapıyor, uygulamanız varsa
+uygulamanızda neler yapıyor, sizi ne sıklıkla ziyaret
+ediyor... gibi analizleri sürekli yapmanız gerekmektedir.
+MÜŞTERİ ANALİZİ
+RFM (Recency, Freqeuency, Monetary)
+“Yakınlık, Sıklık, Değer” olarak çevrilen metod yapmanız
+gereken analizlerden sadece bir tanesidir. Bu analizle
+girişiminizi seveni de sevmeyeni de, sevip bir süre
+sonra bırakanı da ve girişiminize ne kazandırdığını da
+görebilirsiniz. Burada farklı senaryolar için farklı alarmlar
+kurup farklı aksiyonlar alabilirsiniz. Örneğin girişiminizi
+sürekli kullanan ama sonra bir aydır hiç kullanmayan
+müşterileriniz var diyelim. Bu müşterilerden bazılarını
+arayıp nedenlerini araştırabilir ve ona göre önlemler
+alabilirsiniz.
+77
+Temel Bilgiler
+
+--- Sayfa 80 ---
+CAC (Customer Acquisition Cost)
+Girişiminize bir kişiyi üye yapmak için ne kadar para
+harcıyorsunuz ? Bu değeri ölçmeden sağlıklı büyüyüp
+büyümediğinizi göremezsiniz. Pazarlama planlarınızı da
+bu değer sonrası daha sağlıklı bir yapıya oturtabilirsiniz.
+Hatta bu rakam sayesinde yatırımcınızı da ikna edebilirsiniz
+(Düşük olması durumunda şanslısınız). Örneğin bir üyeyi
+Google reklamları ile 10 TL’ye kazanıyorsanız, facebook
+ile 7 TL’ye kazanıyorsanız, yapmanız gereken bu kanal-
+lardan gelenlerin girişiminizde harcadığı parayı ölçmek
+veya eticaret sitesi değilseniz sitenizdeki davranışlarını
+ölçmek olmalıdır. Bu nedenle CAC tek başına bir anlam
+ifade etmemektedir. Bu rakamı aynı örnekten devam
+edersek “arkadaşını üye yap, 5 TL kazan” gibi bir büyüme
+sihirbazlığı (“growth hacking”) yapmak için de kullanabil-
+irsiniz. Bu sayede en düşük 7 TL’ye kazandığınız üyeyi,
+5 TL’ye düşürmeyi test etmiş olursunuz.
+CPI (Cost per Install)
+Yükleme başına maliyet diye çevrilen bu kavram iPhone
+ve Android cihazlarla hayatımıza giren mobil uygula-
+ma dünyasında kullanılmaktadır. Girişiminiz bir mobil
+uygulama ise uygulamayı müşterinizin cep telefonuna
+indirtmek için ne kadar harcayacağınızı gösterir. Ülkeye,
+bulunduğunuz kategoriye göre ve en iyiler listesinde olup
+olmadığınıza göre bu maliyetler değişkenlik gösterebilir.
+(Uygulamanız en iyiler listesine girdiğinde kar topu et-
+kisiyle CPI rakamlarınız oldukça düşecektir fakat LTV
+değerleriniz düşecektir.)
+ASO (App Store Optimization)
+Uygulama pazarındaki aramalarda daha yukarılarda
+çıkmak için yapacağınız iyileştirmeleri içerir. Burada
+doğru kelimeler, doğru güncellemeler ile organik olarak
+uygulamanızın büyümesini sağlayabilirsiniz.
+LTV (Life Time Value)
+Bir müşterinin girişiminizi ‘‘t’’ anında kullanmayı bıraktığını
+varsayalım. Bu ‘‘t’’ anına kadar girişiminizde yaptığı tüm
+harcamaların ve tıkladığı reklamların toplam gelirine
+“Yaşam Boyu Değer” denir. Bu değeri farklı pazarlama
+kanalları için ölçerek en yüksek değerde olan müşterilerin
+geldiği kanallara odaklanabilirsiniz.
+78
+Temel Bilgiler
+
+--- Sayfa 82 ---
+DİJİTAL PAZARLAMA
+Dijital bir girişiminiz varsa dijital pazarlama, üzerine en
+çok düşünmeniz, aksiyon almanız gereken konudur.
+Bu nedenle girişiminizi hayata geçirmeden önce dijital
+pazarlama konusunda temel bilgi düzeyine gelmelisiniz.
+Aşağıdaki kavramlar ve araçları öğrenmeli, girişiminiz
+büyüdüğünde de bu konuda uzman birilerini işe almalı
+veya ilgili ajanslarla çalışmalısınız.
+80
+Temel Bilgiler
+
+--- Sayfa 83 ---
+SEO (Search Engine Optimization)
+Arama motoru optimizasyonu olarak çevrilen kavram arama motorlarının size organik olarak (arama motorlarına ücret öde-
+meden) trafik göndermesi için yaptığınız optimizasyon çalışmalarıdır. Bu çalışmaları ikiyi bölmek mümkündür, birincisi site
+içinde verinizi arama motorlarının istediği şekilde düzenlemek olarak adlandırılan “site içi optimizasyon”, ikincisi ise adından
+da anlaşılacağı üzere “site dışı optimizasyon”dur.  İyi bir planlama ile site trafiğinizi yarısından çoğu arama motorlarından
+gelebilir. Bu nedenle bu konuda ilgili kitapları mutlaka okumalısınınız.
+SEM (Search Engine Marketing)
+Arama motoru pazarlaması olarak çevrilen kavram arama motorlarında en efektif  şekilde pazarlama yapmayı kapsamaktadır.
+Örneğin web üzerinden çiçek satıyorsanız, ilgili kelimeler veya kelime grupları arandığında sizin sitenizin reklamının çıkmasını
+sağlamak için analizler yapmanız gerekmektedir. Bu kelimeleri seçerken maliyet analizi yapmalı, rakip analizi yapmalı, hatta
+ilgili reklama tıklandığında sitenizde ona uygun şekilde karşılama (“landing page optimization”) sayfası hazırlamalısınız.
+Arama motorları kullanan kullanıcılar niyetlerini belli ettiği için (x kelimesini aradığını söylüyor, facebook, twitter gibi yerlerde o
+anki niyeti net değil) SEM ve SEO girişiminizin geleceği için kritiktir. Örneğin çiçek sektöründesiniz ve anneler günü yaklaşıyor
+diyelim. Google’da anne, çiçek, gül, çiçekci, anne hediye gibi kelimeleri günde bir milyon kişi aramaya başladı diyelim. Eğer
+o kelimeleri arayanlar size değil de rakibinize giderse girişiminiz potansiyel bir çok alıcıyı kaçırmış hatta rakibine kaptırmış
+olur. Bu nedenle SEM konusunda bilinç arttıkça bütçeler giderek artış göstermektedir. Ülkemizde özellikle ayda 100 bin
+doların üzerinde SEM bütçesi olan eticaret girişimleri vardır.
+81
+Temel Bilgiler
+
+--- Sayfa 84 ---
+Google Webmaster Tools
+Google gibi arama motorlarına sitenizin yapısını ne kadar iyi anlatırsanız, Google da sitenizi o kadar iyi tarar ve o kadar iyi
+trafik gönderme potansiyeli olur. Sitenizde problem olduğunda uyarılar da yapan bu servise girişimcilerin her gün en az bir
+kere girmesi gerekmektedir.
+Google Arama Algoritması Güncellemeleri
+Arama motoru optimizasyonu konusunda her şeyi doğru yapmayan, kaçak yollarla Google’ı kandırmaya çalışanlar nedeniyle
+Google ara ara sıralama algoritması ile ilgili değişiklikler yapar. Bu değişiklikleri daha iyi sonuçlar vermek ve zamana ayak
+uydurmak için de yapar fakat öncelik “fraud” yönetimidir. Örneğin son yıllarda sosyal medyanın yükselişi ile girişimlerin sosyal
+medyada daha çok konuşulması google aramalarını da pozitif etkilemektedir. Bu güncellemeleri girişimcilerin takip etmesi
+girişimlerinin gidişatı için önemlidir. Çünkü girişimlerin en büyük trafik kaynaklarından biri olan arama motorlarındaki algoritma
+değişikliği bir anda trafiğinizi yarıya düşürebileceği gibi ikiye de katlayabilmektedir. Panda, Penguin, Hummingbird bu algorit-
+malara verilen isimlerden bazılarıdır.
+Adwords
+Google’de reklam vermek istediğiniz kelime veya kelime gruplarına ihale usulü girebildiğiniz servise Adwords denir. Bu serviste
+hangi kelimelerin ne kadar arandığını, ortalama reklam fiyatlarını görebilirsiniz. Burada dikkat etmeniz gereken konu dönüşüm
+oranlarını (“conversion rates”) ölçüp, karlı bir reklam yapıp yapmadığınızı görmektir. Yani adwords’de $5 harcayıp $6 kar
+marjınız olan bir ürün satabiliyorsanız karlı bir iş yapmış olursunuz. Bu durumda karlı olduğunuz müddetçe o kampanyayı
+sürdürebilirsiniz.
+82
+Temel Bilgiler
+
+--- Sayfa 85 ---
+“Growth Hacker” olarak adlandırılan terim son yıllarda gi-
+rişimlerin en çok odaklandığı konular arasına girmiştir. Düşük
+bütçelerle alternatif ve yeni pazarlama teknikleri ile büyüme
+odaklı pazarlama yapan kişi olarak nitelendirebileceğimiz
+“Büyüme Sihirbazı” kavramı Türkiye’de yeni yeni kullanılmaya
+başlanmıştır. Büyüme Sihirbazı’nın başarılı bir şekilde haya-
+ta geçirdiği metoda ise girişimin “Büyüme Motoru” (Growth
+Engine) denilmektedir.
+Büyüme Sihirbazı kavramı viral video hazırlama ile karıştırıl-
+mamalıdır. Her ne kadar girişimlerin videoları viral olarak
+hızlı bir şekilde yayıldığında düşük bütçelerle büyük kitlelere
+ulaşsanız da bu “Büyüme Sihirbazı” altında değerlendir-
+ilmemektedir. Bu yüzden daha iyi anlamak için Büyüme
+Sihirbazı kavramını örnek vakalarla inceleyelim.
+Dropbox
+ Bu girişim kullanıcılara sınırlı disk alanı verip, ne kadar çok
+arkadaşınızı davet ederseniz size o kadar daha fazla disk
+alanı veriyordu. Yani Dropbox kullanıcılarını daha fazla disk
+alanı karşılığında pazarlama elemanına çevirmiş oldu. Bu
+sayede iki yılda 100 bin kullanıcıdan 4 milyon kullanıcıya
+ulaşmış oldu.
+Hotmail
+E-postaların içinde “Bu eposta Hotmail ile gönderildi, sen
+de hemen kullanmaya başla” diye reklam ekleyen Hotmail
+bu sayede onsekiz ayda 12 milyon kullanıcıya ulaştı.
+83
+Temel Bilgiler
+
+--- Sayfa 86 ---
+Burada dikkat etmeniz gereken en önemli konu girişiminizi
+size değer katmayacak kullanıcılarla doldurmamaktır.
+Eğer kazandığınız kullanıcılar birkaç kullanım sonrası
+kaçıyorsa  veya kazandığınız kullanıcılar para veren
+müşteriye dönüşmüyorsa büyümenizin bir anlamı yoktur.
+Bu nedenle müşteri kazanım kanallarınızı sürekli ölçmeli
+ve hangi kanaldan gelen müşteriler size daha çok değer
+katıyorsa o kanala odaklanmalısınız. Özetlemek gerekirse
+“Büyüme Motoru” kavramını sizi düşük maliyetle en hızlı
+büyüten değil sizi en hızlı şekilde en değerli müşterilerinize
+kavuşturan büyüme olarak görmeye dikkat etmelisiniz.
+Mailbox
+Kullanıcıları servisi açmadan önce sırayla içeriye alan gi-
+rişim, kullanıcılarda heyecan yaratmak için “sizin önünüzde
+bekleyen x kadar kişi var” şeklinde bir mesaj veriyordu.
+Kullanıcılar da sıranın baş taraflarında olduklarını gös-
+termek için sosyal sitelerde paylaşmaya başladılar ve bir
+ay içerisinde milyon kullanıcıya ulaştılar.
+Paypal
+Yeni üye olan herkese $10 veren girişim arkadaşınızı
+davet ettiğinizde de hem size hem arkadaşınıza $10 ver-
+di. Bu sayede on milyonlarca kullanıcıya ulaştı. (Benzer
+bir metodu ülkemizde Markafoni de başarılı bir şekilde
+kullanmıştır.)
+84
+Temel Bilgiler
+
+--- Sayfa 87 ---
+Girişiminizin tek besin kaynağı geliridir, bu nedenle geliri
+nasıl elde ettiğiniz önemlidir. Direkt satış ve reklam üzerinden
+gelir elde etmek en çok bilinen gelir modelleri olsalar da
+günümüzde farklı gelir modelleri öne çıkmaya başlamıştır.
+Direkt Satış
+
+En çok bilinen gelir modelidir. Bir ürünü direkt satarsınız
+ve gelir elde edersiniz. (Burada stok tutma ve tutmama
+gibi durumlar olabilir)
+“Lead Generation” / “Affiliate”
+Siz satış yapan bir girişime trafik yönlendirirsiniz ve bundan
+pay alabilirsiniz. Günümüzde tüm markaları bir arada su-
+nan bilet siteleri (havayolu şirketlerine trafik gönderenler),
+karşılaştırma siteleri bunlara örnek gösterilebilir. Ülkemizde
+“gelirortaklari.com” gibi siteler üzerinden hangi firmaların
+bu tip paylar verdiğini görebilirsiniz.
+Freemium
+Özellikle SaaS çözümlerinde denenen bu modelde kullanıcı
+temel özellikleri ücretsiz kullanır fakat daha fazlasını iste-
+diğinde ücret öder. Sahibinden.com gibi sitelerde ise ilan
+girmek ücretsizken, ilanınızın ön sayfada çıkması ücretlidir.
+Bazı oyunlarda da bu model kullanılmakta ve ekstra güç,
+alet, benzin satın alınabilmektedir.
+85
+Temel Bilgiler
+
+--- Sayfa 88 ---
+Komisyon
+Kendini bir platform olarak konumlayan girişimlerde kullanılan yöntemdir. Apple AppStore’daki uygulamalardan alınan komi-
+syonlar bu modele örnek gösterilebilir.
+Reklam
+Yatırımcıların en az sevdiği gelir modelidir. Nedeni ise iyi reklam geliri elde etmek için yüksek trafiklere ulaşmak gerekmektedir.
+Abonelik
+Günümüzde farklı alanlarda denenmeye başlamıştır. Aylık abonelikle size organik ürünler satan siteler bu modele örnek
+gösterilebilir.
+Lisans
+Yazılımlar için kullanılan bir modeldir. Kullanıcı başına bir ücret modeli üzerine kurgulanır.
+Kullandıkça Ödeme / Kiralama
+DriveYoyo gibi araç kullandırma siteleri bu modele örnek gösterilebilir.
+86
+Temel Bilgiler
+
+--- Sayfa 89 ---
+Girişimcilerin girişimler kadar popüler ve ön planda olması,
+girişimcilere dijital vatandaş olarak sorumluluklar yüklemiştir.
+Sosyal medyada kötü bir profil çizen bir girişimcinin girişiminin
+farklı bir profil çizmesi zordur. Yani bir girişim girişimcisi ile
+benzer karakterler taşır. Bu nedenle girişimcilerin sosyal
+medyada iyi bir profil çizmesi gerekmektedir. Kişisel olarak
+girişimcilere sosyal medya ile ilgili tavsiyelerim şunlardır:
+•
+Her zaman yapıcı olun.
+•
+Girişiminizi eleştirenler olursa bunu kişisel algılamayın,
+onları dinleyin ve çözüm üretmeye çalışın, özür dile-
+mesini bilin.
+•
+Sürekli olarak girişiminizin ne kadar süper(!) olduğun-
+dan bahsetmeyin.
+•
+Almaktan çok verin. Yani faydalı ve her yerde bula-
+mayacakları bilgiler, deneyimler paylaşın.
+•
+İçkiliyseniz mesaj yazmayın.
+•
+Size mesaj yazanların hepsini okuyun ama hepsine
+cevap vermeyin.
+•
+Rakipleriniz hakkında kötü mesajlar yazmayın. Rakipler-
+inizi küçük düşürmeye çalışmayın.
+•
+Alçak gönüllü olun.
+•
+Farklı biriymiş gibi davranmayın. Kendiniz olun.
+•
+Eğer twitter kullanıyorsanız günde beşten fazla tweet
+atmamaya çalışın. Ardı ardına da tweet atmamaya
+çalışın. Sadece paylaşmaya değer bir şey olduğunda
+tweet atın.
+•
+Gerektiğinde takipçilerinizden destek istemeyi, yardım
+almayı unutmayın.
+•
+Küfür etmeyin.
+•
+Politika, din tartışmalarına girmeyin.
+•
+Reklam yapmayın.
+•
+İnsanlara yardım etmekten çekinmeyin.
+87
+Temel Bilgiler
+
+--- Sayfa 90 ---
+EKİP KURMA
+Girişimcilikte en kolay gözüken fakat en zorlanılan konu
+ekip kurmadır. Yazılımcı değilseniz yazılımcı bulmanız
+gerekir, tasarımcı değilseniz tasarımcı bulmanız gerekir.
+Bulursunuz performansından memnun kalmazsınız. Bu
+konu sadece Türkiye’nin problemi de değildir. Global
+ölçekte de en zor konu iyi yazılımcılardan kurulu bir ekip
+kurmaktır. Bu problemin kısa vadede bir çözümü yoktur,
+orta vadede ise yazılımcı sayısının artması bir çözüm
+olabilir. Bunun için Amerika’da M. Zuckerberg ve birçok
+ünlü ismin de yer aldığı kampanyalar başlatılmıştır. İyi bir
+yazılımcı bulmak için öncelikle temel teknik konulardan
+anlamanız veya ortağınızın anlaması gerekmektedir.
+İyi bir ekip, öncelikle sizi tamamlayan bir ortakla başlar.
+Ortağınızı eTohum veya Webrazzi etkinliklerinden bula-
+bilirsiniz. Burada dikkat etmeniz gereken sizi tamamlayan
+biri olmasıdır. Eğer iş odaklı biriyseniz ve teknik biri bu-
+lursanız teknik konulardan anlamak zorunda kalmazsınız
+ve rahat edersiniz.
+Tasarımcı ise genelde tek seferlik bir iş yapan biri gibi
+gözükür fakat yalın girişimden de hatırlayacağınız üzere
+tasarımda da iteratif olarak ilerlemeniz gerekmektedir ve
+bu nedenle tasarımcıyı da sürekli çalışan biri olarak gör-
+meniz gerekmektedir. Reklamlarınız için “landing page”
+hazırlanması, Google Analytics verilerinize göre problemli
+sayfalarda tasarım değişiklikleri tasarımcınızın ilgilenmesi
+gereken konulardır. Tasarımcıyı dribbble, behance gibi
+ağlardan bulmanızı öneririm. Hem daha önceki yaptığı
+işleri görebilir hem de diğer tasarımcılarla karşılaştırma
+fırsatı bulursunuz.
+88
+Temel Bilgiler
+
+--- Sayfa 91 ---
+YARARLANDIĞIM KAYNAKLAR
+•
+aaronkharris.com
+•
+avc.com
+•
+blog.startupprofessionals.com
+•
+bothsideofthetable.com
+•
+datafox.co/blog
+•
+Dave McClure sunumları
+•
+davidcummings.org
+•
+ffvc.com
+•
+Funders and Founders
+•
+Growth Hacking Cook Book
+•
+inc.com
+•
+ismailhpolat.com
+•
+learnvc.com
+•
+medium.com/@christianhern
+•
+medium.com/on-startups
+•
+muhammedtufekyapan.com
+•
+odemesistemleri.org
+•
+producthunt.co
+•
+quora.com
+•
+robgo.org
+•
+Silicon Alley Insider
+•
+startuplawyer.com
+•
+startupnoodle.com
+•
+startuprev.com
+•
+steveblank.com
+•
+tech.eu
+•
+tomtunguz.com
+•
+ugurozmen.com
+•
+venturehacks.com
+•
+webrazzi.com
+•
+dribbble.com/damlaozgun
+89
+
+--- Sayfa 92 ---
+Dijital Girişimcilik Rehberi - Mart 2012
+•
+dijitalgirisimcilikrehberi.com
+•
+bkm.com.tr/yayinlar.bkm
+90
+
+--- Sayfa 93 ---
+Silikon Vadisi ve Girişimcilik - Haziran 2013
+•
+silikonvadisivegirisimcilik.com
+•
+bkm.com.tr/yayinlar.bkm
+•
+Apple iBooks Store (iPad)
+91
+1
+Serkan Ünsal
+
+--- Sayfa 94 ---
+#girisimcilik101 etiketiyle bu kitabın yayılmasına katkı sağlayabilirseniz sevinirim.
+@serkanunsal

@@ -1,0 +1,813 @@
+--- Sayfa 1 ---
+SOSYAL MEDYA VERİLERİ ÜZERİNDEN SİBER İSTİHBARAT FAALİYETLERİ
+
+1
+
+Sosyal Medya Verileri Üzerinden
+Siber İstihbarat Faaliyetleri
+
+S. Savaş, N. Topaloğlu,
+
+Özel--Toplumsal olayların önceden tespit edilebilmesi veya
+gerçekleşen
+olaylarda
+geriye
+dönük
+araştırma
+yapılabilmesi için, sosyal medya verileri çok önemli bir
+istihbarat ortamı haline gelmiştir. Siber istihbarat
+günümüzde gittikçe daha da önem kazanmaktadır. Ülkeler
+istihbarat
+kurumlarında
+siber
+istihbarat
+birimleri
+oluşturmaya başlamıştır. Gereksinimler doğrultusunda
+farklı program ve algoritmalar kullanılarak, sosyal medya
+veri
+yığınlarından
+istendik
+sonuçlara
+ulaşmak
+mümkündür. İstihbarat açısından çok önemli olan sosyal
+medya siteleri ticari, akademik veya güvenlik amaçlarıyla
+analiz edilebilir. Bu çalışmada Türkiye’de sosyal medya
+üzerinde çok tartışılan bir olay analizi gerçekleştirilmiştir.
+Elde
+edilen
+veriler
+içerisinden
+bilgi
+çıkarımı
+ve
+görselleştirme işlemleri yapılmıştır. Bazı anlamlı bilgilere
+ulaşılmıştır. Türkiye’de TT listesinde pek çok paylaşım
+reklam amaçlı yapılmaktadır. Gerçek verilere ulaşmak
+için
+öncelikle
+veriler
+içerisinde
+temizleme
+işlemi
+gerçekleştirilmiştir. Veriler URL’lerden ve etiketlerden
+temizlendiğinde daha anlamlı bilgiler ortaya çıkmıştır.
+Verileri analizi sırasında görülmüştür ki toplum hafızası,
+benzer olaylar arasında köprü kurabilmektedir. Ayrıca
+etiketli
+verilerde
+de
+yüksek
+merkezilik
+oranları
+göstermiştir ki bazı kullanıcılar ve twitler, pek çok farklı
+kullanıcı arasında köprü görevi görmektedir.
+
+Anahtar Kelimeler-- Siber güvenlik, siber istihbarat,
+istihbarat, nodexl, sosyal medya analizi
+
+ Abstract-- Social Media data became very important to
+identify
+community
+events
+before
+or
+to
+make
+retrospective
+research
+on
+actual
+events.
+Cyber
+intelligence is gaining importance more today. Countries
+began to create cyber intelligence units in their
+intelligence departments. Reaching needed information
+from social media data stacks is possible with using
+different programs and algorithms in accordance with
+requirements. Social media sites which are very
+important for intelligence can be analyzed with
+commercial, academical or security purposes. In this
+study, an event which is discussed very much in Turkey
+on social media was analyzed. Accesing information and
+visualization was made on data. Some meaningful results
+were reached. In Turkey TT list, plenty of sharing is
+done for advertising purposes. First, data cleaning
+process was performed in the data to reach the actual
+data. When data was cleaned from URL’s and hashtags,
+more meaningful information were accessed. During
+analysis, it has been seen that community memory is able
+to establish a bridge among similar events. Also high
+centrality of data which includes mentions showed that
+some users and twits are serving like bridges between a
+lot of different users.
+
+Index Terms— Cyber security, cyber intelligence,
+intelligence, nodexl, social media analysis
+
+I. GİRİŞ
+Her geçen gün artan sosyal medya kullanımıyla birlikte dünya
+üzerinde daha fazla insan birbiriyle etkileşim halinde
+bulunmaktadır. Aslında insanların birbiri arasındaki iletişim ve
+etkileşimleri daha 1929 yılında Macar yazar Frigyes Karinthy
+tarafından yayınlanan “Láncszemek” (Zincirler) adlı kısa
+hikâyesinde “6 Degrees of Seperation” teorisinde dile
+getirilmiştir. Karinthy’nin teorisine göre dünya üzerindeki
+herhangi iki kişi arasında en fazla 6 kişi aracılığıyla bir
+bağlantı bulunmaktadır[1,2]. Daha sonra Amerikalı sosyolog
+Stanley Milgram 1967 yılında “Small World Experiment” adlı
+çalışması ile bu teoriyi desteklemiştir. Çalışmasında Milgram,
+rastgele seçilmiş kişilere Boston’a ulaştırmaları için kartlar
+vermiştir. Onlardan da ulaşacağı adrese yakın olduğunu
+düşündükleri tanıdıklarına vermelerini istemiştir. Çalışma
+sonunda görülmüştür ki kartlar ortalama 6 adımda istenilen
+yere ulaşmıştır[1,2]. Sonralarda 6 adım teoremi gittikçe önem
+arz etmiştir. 1996 yılında Virjinya Üniversitesi’nde okuyan
+Brett C. Tjaden tarafından merkeze Kavin Bacon’u yerleştiren
+ve yaklaşık 3 milyon aktör ve aktrisin birbirleriyle aralarındaki
+bağları
+gösteren
+http://oracleofbacon.org/
+sitesi
+oluşturulmuştur. Bu site de teoremin yaygınlaştırılmasına
+büyük katkı sağlamıştır. Son olarak MSN, 180 milyon
+kullanıcısının 30 milyar üzerindeki elektronik posta trafiği
+incelediğinde herhangi iki insanın birbirinden ortalama 6,6
+derece uzakta olduğunu bulmuştur[3,4]. Dünya üzerinde
+insanlar birbiriyle bu kadar yakın etkileşimde olunca sosyal
+medya sitelerinin de kitleleri harekete geçirmek etkisi
+artmaktadır. Dünyaca ünlü Time dergisi, 2010 yılında
+Facebook’un kurucusu ve sahibi Mark Zuckerberg’i yılın
+adamı seçerken, 500 milyon kişilik sanal devletin başkanı,
+insanların hayatlarını yaratıcı ve iyimser olarak değiştiren kişi
+olarak adlandırmıştır[5]. Bu başlıkta dahi derin anlamlar
+yatmakta ve sosyal medyanın insanlar üstündeki etkisine
+dikkat çekmektedir.
+Gün geçtikçe hem sosyal medya siteleri hem de bu siteleri
+kullanan insan sayısı artmaktadır. Son yıllarda gerek Dünyada
+gerekse Türkiye’de sosyal medyanın kitleler üzerindeki
+
+--- Sayfa 2 ---
+SOSYAL MEDYA VERİLERİ ÜZERİNDEN SİBER İSTİHBARAT FAALİYETLERİ
+
+2
+
+etkisini ve kitleleri harekete geçirmekteki etkinliğini gösteren
+bazı olaylar olmuştur. 18 Aralık 2010 tarihinde Tunus’da
+başlayan ve daha sonra Mısır, Libya, Suriye, Bahreyn,
+Cezayir, Ürdün ve Yemen’de büyük çaplı, Moritanya, Suudi
+Arabistan, Umman, Irak, Lübnan ve Fas’ta ise küçük
+çaplı[6,7,8] olayların yaşandığı Arap Baharı sosyal medyanın
+etkinliğine gösterilebilecek en önemli olaylardandır. Bu
+süreçte bahsedilen ülkelerde başta Facebook ve Twitter gibi
+sosyal medya siteleri olmak üzere, sosyal siteleri kullanan
+kullanıcı sayıları katlanarak artmıştır. Örneğin Mısır’da
+Facebook kullanıcı sayısı 5,5 milyondan 8,5 milyona ulaşmış,
+Libya’da Twitter kullanıcıları ilk aylarda 600Bin artmıştır[9].
+Arap Baharının tüm Dünyaya Facebook ve Twitter’ın kitleleri
+harekete geçirmekteki etkisini ispatlamasının ardından pek çok
+araştırmacı, sosyal medya sitelerinin kitleler üzerindeki
+etkilerini araştırmaya yönelik çalışmalar yapmıştır.
+Benzer şekilde Türkiye’de 27 Mayıs 2013 tarihinde başlayan
+ve Gezi Parkı olayları olarak İstanbul’dan tüm Türkiye’ye
+yayılan olaylar sırasında başta Twitter olmak üzere sosyal
+medyanın toplum üzerindeki etkisi belirgin şekilde görülmüş,
+pek çok TV kanalında sosyal medya konulu programlar
+yapılmış, gazetelerde sosyal medyanın etkilerine yönelik
+haberler yapılmıştır. Olaylar sürecindeki bir rapora göre
+twitterda üç ana etiket(#) ile 8.49 milyon mesajın yayınlandığı
+görülmüştür. Olaylarla ilgili toplamda 100 milyonun üzerinde
+mesaj yayınlanmıştır. Olayların başlangıcında Türkiye’de
+günlük aktif twitter kullanıcısı 1.8 milyon civarında iken, 10
+günlük süre içinde bu rakam yaklaşık 9,5 milyona
+ulaşmıştır[10].
+Günümüzdeki bir başka sosyal medya olayı ise Doğu
+Türkistan olaylarıdır. 2015 yılı Haziran-Temmuz aylarında
+Facebook ve Twitter üzerinde paylaşılan, Çin’in Doğu
+Türkistan’da katliam yaptığına yönelik haberler üzerine
+Türkiye’de tepkiler giderek çoğalmıştır. Bu tepkiler sokakta
+Çinli olduğu düşünülen insanları darp etmeye kadar
+gitmiştir[11,12].
+Türkiye ve Dünyada bunlara benzer örnekler çoğaltılabilir. Bu
+olaylar ülkelerin gerek devlet istihbaratı gerekse ticari amaçlı
+istihbarat anlamında sosyal medya üzerine yoğunlaşması
+gereğini ortaya çıkarmıştır. Çünkü sosyal medya günümüzde,
+sanalın gerçeğe dönüşmesini sağlayan, bir anlamda “hayatın
+kendisi” haline dönüşmeye başlamıştır.
+Bu çalışmada istihbarat kavramı açıklanmış ve sosyal
+medyanın devlet istihbaratı amaçlı nasıl kullanılabileceği
+belirtilmiştir. Daha sonra en önemli sosyal medya sitelerinden
+biri olan Twitter’ın kitleler üzerindeki etkisi araştırılmış ve
+yapılan çalışmalara örnekler verilmiştir. Twitter üzerinde bir
+örnek durum incelemesi ve analizi yapılarak sonuçları
+açıklanmıştır.
+
+II. İSTİHBARAT
+İstihbarat, Türk Dil Kurumunun Türkçe Sözlüğüne göre;
+“Yeni öğrenilen bilgiler, haberler, duyumlar ve bilgi toplama,
+haber alma” olarak tanımlanmaktadır[13]. İstihbarat ile ilgili
+yapılan bazı çalışmalardaki tanımlara göre:
+Gültekin Avcı, istihbarata şu şekilde bir tanım getirmektedir:
+“İstihbarat, muhtelif imkân ve vasıtaları kullanarak, herhangi
+bir konuda enformatik materyal temini ve temin edilen
+bilgilerin
+ham
+halden
+kurtarılarak
+işlenmesi,
+kıymetlendirilmesi ve yorumlanarak bunlardan bir netice
+çıkarılmasıyla ilgili faaliyettir.”[14].
+Ümit Özdağ’ın tanımına göre; istihbarat ulaşılabilen bütün
+açık, yarı açık ve/veya gizli kaynaklardan her türlü aracın
+kullanılması sonucunda elde edilen her türlü veri, malumat
+ve bilginin ulusal genel veya ulusal özel plandaki
+politikaların gerçekleştirilmesi ve ulusal politikalara zarar
+verilmesinin engellenmesi amacı ile toplandıktan sonra
+önemine
+ve
+doğruluğuna
+göre
+sınıflandırılması,
+karşılaştırılması,
+analiz
+edilerek
+değerlendirilmesiyle
+ulaşılan bilgidir[15].
+Warner’a göre ise istihbarat; faaliyetleri yönlendirmek üzere
+önceden
+bilinmesi
+gereken
+her
+türlü
+konu
+ile
+ilgilenmektedir[16].
+Kısaca istihbarat, devletlerin başındaki karar vericilerin
+ülkelerinin güvenliklerini sağlama, bekalarını koruma,
+belirsizlikleri
+azaltma
+ve
+çıkarlarının
+arttırılmasını
+sağlamada önemli bir role sahiptir[17].
+Milli İstihbarat Teşkilatı Müsteşarlığı’na göre, "Devlet
+İstihbaratı,
+devletin
+bütünlüğünü,
+rejimin
+emniyetini
+sağlamak için, millî politika ile tespit edilen millî hedefleri
+elde etmek üzere devlet organlarının yaptığı istihbaratın
+tümüdür. Başka bir ifadeyle, Millî Güvenlik Politikaları'nın
+oluşturulması için gerekli bilgileri sağlayan ve ilgili bütün
+devlet istihbarat kuruluşlarının işbirliği ve koordinasyonu ile
+üretilen istihbarattır."[18].
+Bu tanımlamalardan, istihbarat faaliyetleri ile ilgili sadece
+devletlerin değil, şirketlerin, reklam ajanslarının, şahısların da
+rakipleri ile ilgili bilgi edinip bu bilgileri değerlenderip analiz
+ederek gelecekle ilgili hazırlıklar yaptığı anlaşılmaktadır.
+
+Şekil 1. MİT – İstihbarat Çarkı[19]
+
+21. yüzyılda bunların dışında istihbarata eklenen bir bilgi
+boyutu bulunmaktadır. Siber uzay olarak adlandırılan bu
+boyut, bilgi çağı teknolojisinin ulusal güvenliğe hem ödülü
+hem cezası sayılabilir. Bu alanda internet, hem bilgi toplama
+hem de bu bilgiye dayalı operasyonlar yapma olanağı
+sunmaktadır. Siber mücadele organize suçlarla ve terörle
+mücadelede önemli bir araç olarak kullanıldığı gibi, bu
+örgütler
+tarafından
+ulusal
+güvenlik
+kurumlarının
+veri
+tabanlarına ulaşmak ve stratejik bilgileri elde etmek için de
+kullanılmaktadır. Siber mücadelenin bilgi çağının ilerlemesi
+ile
+diğer
+mücadele
+alanlarını
+daha
+fazla
+etkilemeye
+
+--- Sayfa 3 ---
+SOSYAL MEDYA VERİLERİ ÜZERİNDEN SİBER İSTİHBARAT FAALİYETLERİ
+
+3
+
+başlayacağı öngörülmekte ve ulusal güvenliğin sağlanması
+için stratejik olarak ele alınması gerekmektedir[20].
+
+III. SOSYAL MEDYA VE İSTİHBARAT
+İnternet kullanımın yaygınlaşmasıyla birlikte sanal ortamda
+pek çok website alternatifleri oluşmaya başlamıştır. Bu
+siteler içerisinde ise günümüzde en popüler olanları sosyal
+medya siteleri olmuştur. İnsanlar birbirleriyle iletişim ağları
+oluşturmakta, yeni kişiler tanımakta, düşüncelerini sanal
+ortamlarda paylaşmakta, resim, müzik, video paylaşımları
+yapmakta, nerede olduğunu, ne yediğini, ne içtiğini, ne
+yaptığını paylaşmaktadır. Bu kadar yoğun bilginin aktığı
+ortamlarda, bu bilgiyi yararlı veya zararlı, ticari veya
+bireysel kullanmak isteyen kişilerin olması kaçınılmazdır.
+Burada devreye sibergüvenlik kavramı girmektedir. Siber
+güvenlik, “siber ortamda, kurum, kuruluş ve kullanıcıların
+varlıklarını korumak amacıyla kullanılan araçlar, politikalar,
+güvenlik kavramları, güvenlik teminatları, kılavuzlar, risk
+yönetimi
+yaklaşımları,
+faaliyetler,
+eğitimler,
+en
+iyi
+uygulamalar ve teknolojiler bütünüdür”[21] şeklinde tarif
+edilebilir.
+Siber İstihbarat: İstihbaratın faaliyet alanları; devletin
+kontrol fonksiyonundan ötürü tehdidin seviyesine göre yakın
+ve uzak tehlikelerin engellenmesi amacıyla karar vericilere
+bilgi desteği sağlamak, propaganda, psikolojik harekât gibi
+örtülü operasyon yöntemleri ile olayları yönetmek ve
+düşman veya muhtemel düşmanın istihbarat faaliyetlerini
+engellemek olduğu dikkate alındığında, siber uzayda bu
+amaçlı yapılan faaliyetler bütünü “siber istihbarat” olarak
+kavramsallaştırılabilir[22]. Devlet istihbaratında durum
+böyle iken, siber istihbarat kavramı pek çok farklı amaçla da
+kullanılabilir. Ticari, akademik ve güvenlik amaçları, bu
+amaçların birkaçını oluşturmaktadır.
+Ticari siber istihbarat, günlük hayatımızda her an karşımıza
+çıkabilmektedir. Arama motorlarında arama yaptıktan sonra,
+sosyal medya sayfamızda benzer ürünlerin önerilerinin
+görülmesi büyük veri(big data) disiplininin konusu olduğu
+kadar, ticari siber istihbaratın da konusudur. “Serkan
+google’da antivirüs arattı” bilgisi bir istihbarattır. Çünkü
+istihbarat en genel tabiriyle –kaydadeğer bir bilgi-dir. Bu
+istihbarat sonrasında facebook sayfasında Serkan’a çeşitli
+online alışveriş sitelerinden antivirüs önermek ise bu siber
+istihbaratın ticari olarak kullanılmasıdır. Bu şekilde mikro
+siber istihbaratlardan başka, firmalar veya ekonomi dünyası
+için
+yapılmış
+makro
+siber
+istihbarat
+çalışmaları
+bulunmaktadır. 2011 yılında Twitter üzerinde J. Bollen, H.
+Mao ve X. Zeng tarafından Dow Jones Industrial Average
+(DJIA) şirketlerinin hisse senetlerinin oranlarını tahmin için
+bir çalışma gerçekleştirilmiştir. Çalışmada günlük kapanış
+değerleri ile insanların Twitter’daki tutumları kullanılmış ve
+%86,7
+oranla
+günlük
+artış/düşüş
+değerleri
+tahmin
+edilebilmiştir[23]. Benzer bir çalışma 2011 yılında X.
+Zhang, H. Fuehres ve P. A. Gloor tarafından Dow Jones,
+NASDAQ ve S&P 500 üzerinde gerçekleştirilmiştir.
+İnsanların Twitter’da paylaştıkları endişeleri ve düşünceleri
+üzerinden 6 aylık bir veri toplama aşaması sonrasında
+yapılan çalışmada, hisseler ve kişilerin duyguları üzerindeki
+korelasyonlar hesaplanarak açıklanmıştır[24]. 2012 yılında
+R. Agnihotri ve arkadaşları, sosyal medyanın satış ve
+pazarlamada nasıl kullanılabileceğini göstermek üzere bir
+çalışma gerçekleştirmişlerdir[25]. M. M. Mostafa tarafından
+2013 yılındaki başka bir ticari sosyal istihbarat çalışmasında
+Twitter kullanıcılarının, Nokia, T-Mobile, IBM, KLM ve
+DHL gibi büyük firmalar hakkındaki görüşleri analiz
+edilmiştir. Bu çalışmada firma karar alıcılarına, kullanıcı
+görüşlerini kararlarda göz önünde bulundurma imkanı
+sunulmuştur[26].
+Akademik siber istihbarat çalışmaları, siber ortamlardaki
+verilerin analiz edilerek elde edilen bilgilerle yeni
+çalışmaların önünü açmak ve siber dünyada akan verinin
+potansiyellerini göstermek için yapılan çalışmalardır. 2014
+yılında X. Tang ve C. C. Yang, sosyal medya verileri
+içindeki gizli bilgileri ortaya çıkarmak için iki aşamalı bir
+sistem önermişlerdir. Bu çalışmada Dinamik Stochastic
+Blockmodel ve  Geçici Dirichlet Süreci aşamaları 3 farklı
+test grubuna uygulanmış ve klasik algoritmalardan daha
+verimli sonuç üreten bir sistem ortaya çıkmıştır[27]. 2014
+yılında A. Weichselbraun, S. Gindl ve A. Scharl tarafından,
+sosyal medya verilerinde anlamsal bilgilerin keşfine yönelik
+yeni bir yöntem önerilmiştir[28]. 2014 yılında M. C. Yang
+ve H. C. Rim tarafından yazılan Twitlerin konulara göre
+popülerliğini tespit amaçlı bir çalışma gerçekleştirilmiş
+sonuçları açıklanmıştır[29]. Sosyal medya verileri üzerinde
+benzer şekilde gerçekleştirilen pek çok akademik çalışma
+bulunmaktadır. Kullanıcı sayıları ve sosyal medya sitelerine
+ilgi arttıkça, bu ortamda yapılan akademik çalışma sayısı da
+artmaktadır.
+Güvenlik amaçlı siber istihbarat çalışmaları günümüzün en
+önemli konularından biri olmuştur. Sosyal ağların günlük
+hayata büyük oranda yansımasının ardından bireysel,
+kurumsal ve devlet güvenliği konularına siber düzeyde
+çözüm gereksinimi ortaya çıkmıştır. Bireylerin veya
+kurumların güvenliklerinin sağlanması, olası dış tehditlere
+karşı savunma anlamına gelmektedir. Gerçek hayatın kendisi
+durumuna dönüşmekte olan sanal dünyada bireylerin ve
+kurumların gerçek hayatta karşılaşabileceği tehlikelerin
+benzerleri bulunmaktadır. Devlet güvenliği açısından ise
+siber güvenlik bazı farklılıklar göstermektedir. Bu farklılık,
+yapılan saldırı ve sızmaları önleme olduğu gibi siber
+istihbarat ile olası ihtimalleri önceden tahmin, teşhis ve
+önleme de olabilir. Sosyal medya sitelerinin kitleler
+üzerindeki etkileri dünya üzerinde özellikle Arap Baharı
+olaylarından sonra daha da dikkatle incelenmeye başlamıştır.
+2012 yılında Sir D. Omand, J. Bartlett ve C. Miller, Sosyal
+Medya İstihbaratına giriş adında bir yayın ile istihbarat
+yaklaşımlarına yeni bir istihbarat türünü eklediklerini
+duyurmuş
+ve
+bu
+istihbaratın
+nasıl
+yapılacağını
+çalışmalarında açıklamışlardır[30].
+Sosyal medya siteleri ülkelerdeki faaliyetleri için o ülkelerde
+çeşitli anlaşmalar yapmaktadır. Bu anlaşmalarla devletler
+sosyal medyada kendilerine bazı faydalar sağlamaktadır.
+Buna örnek olarak Türkiye’de son çıkan internet yasası da
+gösterilebilir. Ülkeler sosyal medya sahipleri ile yaptıkları
+anlaşmalar sayesinde istedikleri kişilere yönelik istihbarat
+elde edebilmektedirler. Her ne kadar da Facebook ve Twitter
+gibi sosyal medya devlerinin katı kuralları olsa da, bazı
+durumlarda devletler doğrudan veya dolaylı yollarla bu
+sitelerden istediklerini alabilmektedirler. “Sosyal medya
+
+--- Sayfa 4 ---
+SOSYAL MEDYA VERİLERİ ÜZERİNDEN SİBER İSTİHBARAT FAALİYETLERİ
+
+4
+
+takip şirketlerinden Visible Technologies, CIA’in girişim
+sermayesi firması olan In-Q-Tel’den finansman sağlamaya
+başlamıştır. Batı’daki birçok istihbarat şirketi de daha detaylı
+internet kullanıcı bilgilerini incelemeyi sağlayacak internet
+teknolojileri geliştirmek için bütçe ayırmaktadır[31]. Arap
+Baharı sürecinde, ülkelerde pek çok kişi sosyal medya
+aracılığıyla
+ayaklanma
+önderliği
+yapmaktan
+dolayı
+yargılanmıştır. Ülkemizde de gezi olayları sonrasında sosyal
+medya aracılığıyla kitleleri harekete geçirmekten dolayı
+çeşitli gözaltılar ve yargılamalar olmuştur.
+Günümüzde sosyal medyanın ulaştığı güç seviyesi göz
+önüne alındığında, devletler tarafından sosyal medya verileri
+üzerinde istihbarat çalışmaları yapmanın artık kaçınılmaz
+olduğu anlaşılacaktır. Bu çalışmalar gerek sitelerle belirli
+anlaşmalar çerçevesinde gerekse devletlerin kendi yöntem
+ve teknikleriyle yürütülebilmektedir. Burada esas olan
+kitlelerin hareketlerini önceden tespit ederek olası tehlikeleri
+eylem haline dönüşmeden önce engelleyebilmek ve/veya
+olası şüpheli kişilerin takibi ve engellenmesidir. Toplum ve
+devlet güvenliği için ülkelerin sosyal medya verilerine
+kayıtsız kalması mümkün değildir.
+Bu çalışmada, Türkiye’de kadına şiddet ve bunun karşısında
+toplumsal
+tepkilerin
+ölçümüne,
+toplum
+görüşlerin
+anlaşılmasına ve karar vericilerin benzer durumlarda
+toplumun
+nabzını nasıl tutabileceğine örnek olması
+açısından bir çalışma gerçekleştirilmiştir.
+
+IV. TWİTTER VERİLERİ ÜZERİNDE UYGULAMA
+Türkiye’de, üniversite öğrencisi bir genç kız 11 Şubat 2015
+tarihinde kaybolmuş ve araştırmalar sonucu kendisinin
+cinayete kurban gittiği ortaya çıkmıştır. Bu cinayete tüm
+toplumun tepkisi çok büyük ve etkili olmuştur. Kadına
+şiddete pek çok ortamda tepki gösterilmiştir. Bu ortamlardan
+en önemlisi ise sosyal medya olmuştur. Toplum, sanatçılar,
+politikacılar, sporcular, yerli ve yabancı basın olmak üzere
+her kesimden bu konuyla ilgili twitler yayınlanmıştır.
+Toplumun nabzını tutan en önemli sosyal medya sitelerinden
+olan Twitter üzerinde böyle durumlarda, bu verilerden
+istihbarat çalışması yapmak, ilgili birimlerin amaçlarından
+biri olmalıdır. Kitleler sosyal medya mesajları üzerinden
+harekete geçebilmekte, bireysel veya kitlesel şiddete
+başvurabilmekte,
+gösteri
+veya
+eylem
+organize
+edebilmektedir. Bu süreç içerisinde yazdığı twitler yüzünden
+ifade vermeye çağrılan veya basında açıklama yaparak
+düzeltmeler yapmaya çalışanlar dahi olmuştur.
+Olayın ortaya çıkmasını takiben twitter dinlenerek 15 Şubat
+– 15 Mart 2015 tarihleri arasındaki bir aylık süreçte
+NodeXL[32] temasıyla,  twitter üzerinden konu ile ilgili
+62273 veri çekilmiştir. Bu veriler üzerinde yapılan analiz
+sonuçları açıklanmıştır.
+Twitter’dan
+elde
+edilen
+veriler
+öncelikle
+“Tweet”,
+“Mentions” ve “ReplyTo” olmak üzere üç ayrı gruba
+ayrılmıştır. Her grup kendi içinde değerlendirilmiştir. Sonuç
+olarak ortaya, 22626 Twit, 38766 Etiket(bahsetme) ve 796
+Cevap verisi çıkmıştır. 85 veri ise boş veya sadece simgesel
+veri olarak temizlenmiştir.
+Yapılan
+işlemlerden
+sonra,
+Fruchterman-Reingo
+algoritmasıyla her üç veri grubuna ait ağ grafiği Şekil 2,3 ve
+4’te görüldüğü gibi olmuştur.
+
+Şekil 2. Twit verileri ağ grafiği.
+
+Şekil 3. Etiket verileri ağ grafiği.
+
+Şekil 4. Cevap verileri ağ grafiği.
+
+Şekil 2’de görülen düğümlerin tamamı kendine dönmektedir
+çünkü sadece twit verileri işlenmiştir. Şekil 3 ve Şekil 4’te
+ise etiket ve cevap verileri, kişiler arasındaki bağlantıyı
+göstermektedir.
+Yazılan twitler bütün halinde analiz edildikten sonra
+içerisinde çok fazla Uniform Resource Locator (URL)
+bulunması, ülkemizde Trending Topic (TT) listesinin
+çoğunlukla reklam amaçlı kullanıldığını göstermiştir (Tablo
+1).
+
+--- Sayfa 5 ---
+SOSYAL MEDYA VERİLERİ ÜZERİNDEN SİBER İSTİHBARAT FAALİYETLERİ
+
+5
+
+TABLO I
+EN ÇOK KULLANILAN DOMAİN LİSTESİ
+
+Bu sonucu destekleyen diğer bir bulgu, en çok kullanılan
+etiket (# hashtag) tablosunda ortaya çıkmıştır. Tablo 2’de
+görüldüğü gibi ilk üç sırayı konu dışında bulunan “lys”,
+“aof” ve “ygs” etiketleri almıştır. Bu twitler ve içerisindeki
+URL’ler incelendiğinde, Tablo 1’de görülen bazı web
+sitelerin sınav reklamına yönelik twitler olduğu görülmüştür.
+
+TABLO II
+ EN ÇOK KULLANILAN ETİKETLER LİSTESİ
+
+Anahtar kelime grupları incelendiğinde ise Tablo 3’te
+görüldüğü gibi gündem konusu ile ilgili kelime grupları
+belirgin şekilde ortaya çıkmıştır. Buradan anlaşılmaktadır ki
+pek çok kullanıcı, gündem konuları kelimelerini kullanarak
+pek çok farklı konuda da paylaşım yapmaktadır.
+
+TABLO III
+EN ÇOK KULLANILAN ANAHTAR KELİME GRUPLARI (İKİLİ)
+
+Twit verileri daha sonra URL’lerden arındırılmış ve 1919
+twit üzerinde analizler gerçekleştirilmiş ve ortaya çıkan ağ
+grafiği Şekil 5’te görüldüğü gibi olmuştur.
+
+Şekil 5. URL’lerden arındırılmış twit grafiği
+
+Cinayet ile ilgili açılan etiketler, reklam linklerinden
+ayrıldığında ortaya ilginç bir durum çıkmıştır. Başka bir
+şehirde, başka bir nedenle, başka bir cinayete kurban giden
+genç bir üniversite öğrencisinin ismi de veriler içerisinde
+görülmüştür. Böyle bir durumda toplum hafızasının olaylar
+arasında köprüler kurarak tepki gösterebilme olasılığı da
+görülmüştür (Tablo 4).
+
+TABLO IV
+ EN ÇOK KULLANILAN ETİKETLER
+
+Son olarak twit verileri içerisinde # bulunan veriler de
+temizlenerek 1212 veri elde edilmiş ve ortaya çıkan ağ
+grafiği Şekil 6’da görüldüğü gibi olmuştur.
+
+Şekil 6. URL ve #’ lerden arındırılmış twit grafiği
+
+--- Sayfa 6 ---
+SOSYAL MEDYA VERİLERİ ÜZERİNDEN SİBER İSTİHBARAT FAALİYETLERİ
+
+6
+
+Bu verilerden NodeXL ile twitler içerisinde kullanılan
+kelime grupları sayıları belirlenmiş ve ortaya çıkan anahtar
+kelime grupları Tablo 5’te görüldüğü gibi olmuştur. haber
+twitleri ile etiketli twitler temizlendiğinde elde edilen veriler,
+konu ile en alakalı twit veriler olmuştur.
+
+TABLO V
+EN ÇOK KULLANILAN KELİME GRUPLARI (TWİT)
+
+Etiket içeren twit verileri daha karmaşık bir yapı
+içermektedir. Burada kelimeler üzerinde işlem yapılabildiği
+gibi, bağlantılar üzerinde de analizler yapılabilmektedir.
+Etiketli veriler üzerinde yapılan analiz işlemi sonrasında en
+çok kullanılan kelime grupları Tablo 6’da görüldüğü gibidir.
+
+TABLO VI
+EN ÇOK KULLANILAN KELİME GRUPLARI (ETİKETLİ TWİT)
+
+Sosyal ağ analizinde en çok kullanılan kavramlardan birisi
+merkeziliktir. En sık kullanılan merkezilik çeşitleri ise
+yakınlık merkeziliği (closeness centrality) ve arasındalık
+merkeziliği (betweennes centrality)’dir. Yakınlık merkeziliği
+(Eşitlik 1) bir birimin diğer birimlere grafikteki uzaklığının
+toplamıdır (Otte & Rousseau, 2002).
+(1)[33]
+Arasındalık merkeziliği (Eşitlik 2) ise bir birimin ağda diğer
+birimler arasında bulunma derecesidir. Bir birimin yüksek
+derece arasındalığı varsa, köprü görevindedir[33,34].
+(2)[33]
+Analiz edilen veriler üzerinde ortaya çıkan merkezilik
+sonuçları Tablo 7’de görüldüğü gibi olmuştur.
+
+TABLO VII
+MERKEZİLİK SONUÇLARI
+
+Minimum
+arasındalık
+merkeziliğinin
+0(sıfır)
+olması,
+bağımsız twitlerin olduğu anlamına gelmektedir. Ancak
+ortalama arasındalık merkeziliğine bakıldığında, 65787,287
+gibi yüksek bir oran olması, birbiriyle bağlantılı pek çok twit
+verisinin olduğu anlamına gelmektedir. Ayrıca maximum
+yakınlık merkeziliğinin ve maximum arasındalık merkeziliği
+oranlarına bakıldığında, elde edilen twit verileri içerisinde
+birbiriyle bağlantılı pek çok twitin olduğu anlaşılmaktadır.
+
+V. SONUÇLAR VE ÖNERİLER
+Ortaya çıkan tablo ve grafiklerden de anlaşıldığı gibi, sosyal
+medya verileri pek çok bilginin ortaya çıkarılabileceği bir
+büyük veri kaynağıdır. Bu çalışma içerisinde Türkiye’de
+sosyal medya üzerinde çok tartışılan bir olay analizi
+gerçekleştirilmiştir. Elde edilen veriler içerisinden bilgi
+çıkarımı ve görselleştirme işlemleri yapılmıştır. Bazı anlamlı
+bilgilere ulaşılmıştır. Türkiye’de TT listesinde pek çok
+paylaşım reklam amaçlı yapılmaktadır. Twitler içerisindeki
+web site adresleri bunu göstermiştir. Gerçek verilere
+ulaşmak için öncelikle veriler içerisinde temizleme işlemi
+gerçekleştirilmektedir. Veriler URL’lerden ve etiketlerden
+temizlendiğinde daha anlamlı bilgiler ortaya çıkmaktadır.
+Verilerin analizi sırasında aynı twitler içerisinde farklı
+cinayetlerden birlikte bahsedilmesiyle görülmüştür ki
+toplum
+hafızası,
+benzer
+olaylar
+arasında
+köprü
+kurabilmektedir. Ayrıca etiketli verilerde de yüksek
+merkezilik oranları göstermiştir ki bazı kullanıcılar ve
+twitler, pek çok farklı kullanıcı arasında köprü görevi
+görmektedir.
+
+--- Sayfa 7 ---
+SOSYAL MEDYA VERİLERİ ÜZERİNDEN SİBER İSTİHBARAT FAALİYETLERİ
+
+7
+
+Toplumsal olayların önceden tespit edilebilmesi veya
+gerçekleşen olaylarda geriye dönük araştırma yapılabilmesi
+için, sosyal medya verileri önemli bir istihbarat ortamı
+haline gelmiştir. Siber istihbarat günümüzde daha da önem
+kazanmaya başlamıştır. Ülkeler istihbarat kurumlarında siber
+istihbarat birimleri oluşturmaya başlamıştır. Gereksinimler
+doğrultusunda farklı program ve algoritmalar kullanılarak,
+sosyal medya veri yığınlarından istendik sonuçlara ulaşmak
+mümkündür. Bu kadar yoğun verinin aktığı ortamlara
+kayıtsız kalınmamalıdır. İstihbarat açısından çok önemli
+olan sosyal medya sitelerinden ticari, akademik veya
+güvenlik amaçlarıyla analiz edilebilir.
+
+Sosyal medya verileri üzerinde analiz işlemleri yaparken
+karşılaşılan sorunlardan bazıları haber linkleri, TT listesinde
+görünmek için sadece belirli kelimeleri kullanarak twit
+yazmak, sadece simgeler içeren twit verileri, kısaltılmış
+kelimeler içeren twitler, farklı diller kullanılarak yazılan
+etiketli twitler olmuştur. Bu sorunlar araştırmacıların
+çözmesi gereken sorunlardan başlıcaları olmuştur. Ayrıca
+sosyal medya siteleri üzerinde gerçekleştirilen duygu analizi
+işlemleri, toplum nabzını tutmaya yönelik önemli bir
+konudur. Türkçe diline ait araştırmaların azlığı, Türkçe
+kelime kütüphanesinin tam olarak oluşturulmamış olması da
+bu çalışma sırasında karşılaşılan eksiklikler olmuştur.
+Araştırmacılara sosyal medya verileri üzerinde siber
+istihbarat, veri temizleme, Türkçe duygu analizi işlemleri
+konuları, gelecekte araştırma konuları olarak önerilmektedir.
+
+KAYNAKLAR
+[1] Koçak, Z. (2006-5). Six Degrees Of Seperation. Hukuk Gündemi Dergisi,
+108.
+[2] Tufan, S. (2013, 09 10). Aramızdaki Mesafe: En fazla 6 kişi. 08 15, 2015
+tarihinde
+INNOVA:
+http://www.innova.com.tr/blog/yazi.asp?ID=117&baslik=Aramizdaki-
+mesafe_-En-fazla-6-kisi adresinden alındı
+[3] Whoriskey, P. (2008, 08 02). Instant-Messagers Really Are About Six
+Degrees from Kevin Bacon. 08 15, 2015 tarihinde The Washington Post:
+http://www.washingtonpost.com/wp-
+dyn/content/article/2008/08/01/AR2008080103718.html
+[4] Smith, D. (2008, 08 03). Proof! Just six degrees of separation between us.
+08 15, 2015 tarihinde The Guardian:
+http://www.theguardian.com/technology/2008/aug/03/internet.email
+[5] Grossman, L. (2015, 12 15). PERSON OF THE YEAR 2010. 08 15, 2015
+tarihinde TIME:
+http://content.time.com/time/specials/packages/article/0,28804,2036683_
+2037183,00.html
+[6] nedir.com. (tarih yok). Arap Baharı Nedir? 08 5, 2015 tarihinde:
+http://arapbahari.nedir.com/
+[7] Vikipedi. (2015, 06 23). Arap Baharı. 08 10, 2015 tarihinde Vikipedi:
+https://tr.wikipedia.org/wiki/Arap_Bahar%C4%B1
+[8] Kınık, A. M. (2012). Arap Baharı Bağlamı’nda Sosyal Medya-Birey
+Etkileşimi ve Toplumsal Dönüşüm. 21. Yüzyılda Eğitim ve Toplum Eğitim
+Bilimleri ve Sosyal Araştırmalar Dergisi, 87-98.
+[9] Babacan, M. E., Haşlak, İ., & Hira, İ. (2011). Sosyal Medya ve Arap
+Baharı. Akademik İncelemeler Dergisi, 63-92.
+[10] Banko, M., & Babaoğlan, A. R. (2013). Gezi Parkı Sürecine Dijital
+Vatandaş'ın Etkisi.
+[11] Haber, Mynet (2015, 07 04). Sultanahmet'te Çinli sandıkları Koreli turist
+grubuna saldırdılar. 08 10, 2015 tarihinde Mynet Haber:
+http://www.mynet.com/haber/guncel/sultanahmette-cinli-sandiklari-koreli-
+turist-grubuna-saldirdilar-1909429-1
+[12] Cumhuriyet. (2015, 07 09). Bu sefer de Çinli sanılan kadını dövdüler. 08
+10, 2015 tarihinde Cumhuriyet:
+http://www.cumhuriyet.com.tr/video/video/318071/Bu_sefer_de_Cinli_sani
+lan_kadini_dovduler.html
+[13] TDK. Türk Dil Kurumu. 03 29, 2015 tarihinde Türk Dil Kurumu:
+http://www.tdk.gov.tr/
+[14] Avcı, G. (2004). İstihbarat Teknikleri: Aktörleri - Örgütleri ve
+Açmazları. İstanbul: Timaş Yayınları.
+[15] Özdağ, Ü. (2010). İstihbarat Teorisi. Ankara: Kripto Yayınları.
+[16] Warner, M. 03 29, 2015 tarihinde Central Intelligence Agency:
+https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-
+publications/csi-studies/studies/vol46no3/article02.html
+[17] Özçoban, C. (2014). Uluslararası İlişkiler Ana Bilim Dalı Yüksek Lisans
+Tezi. 21. Yüzyılda Ulusal Güvenliğin Sağlanmasında Siber İstihbaratın
+Rolü. İstanbul, Türkiye: T.C. Harp Akademileri Stratejik Araştırmalar
+Enstitüsü.
+[18] MİT. 03 29, 2015 tarihinde Milli İstihbarat Teşkilatı:
+https://www.mit.gov.tr/tarihce/giris.html
+[19] MİT2. 03 29, 2015 tarihinde Milli İstihbarat Teşkilatı:
+http://www.mit.gov.tr/t-cark.html
+[20] Sechser, T. S. (2003). Intelligence and Prediction In An Unpredictable
+World. Eisenhower National Security Series, 4.
+[21] Alkan, M. (2012). Siber Güvenlik ve Siber Savaşlar. Ankara: Siber
+Güvenlik Siber Savaşlar TBMM İnternet Komisyonu.
+[22] Bayraktar, G. (2014). Harbin Beşinci Boyutunun Yeni Gereksinimi: Siber
+İstihbarat. Güvenlik Stratejileri Dergisi, 119-147.
+[23] Bollen, J., Mao, H., & Zeng, X. (2011). Twitter mood predicts the stock
+market. Journal of Computational Science, 1-8.
+[24] Zhang, X., Fuehres, H., & Gloor, P. A. (2011). COINs2010:
+Collaborative Innovation Networks Conference. Predicting Stock Market
+Indicators Through Twitter “I hope it is not as bad as I fear”. Procedia -
+Social and Behavioral Sciences.
+[25] Agnihotri, R., Kothandaraman, P., Kashyap, R., & Singh, R. (2012).
+Bringing Social into Sales- The Impact of Salespeoples Social Media Use
+on Service Behaviors and Value Creation. Journal of Personal Selling &
+Sales Management, 333-345.
+[26] Mostafa, M. M. (2013). More than words: Social networks’ text mining
+for consumer brand sentiments. Expert Systems with Applications, 4241–
+4251.
+[27] Tang, X., & Yang, C. C. (2014). Detecting Social Media Hidden
+Communities Using Dynamic Stochastic Blockmodel with Temporal
+Dirichlet Process. ACM Transactions on Intelligent Systems and
+Technology, 36.
+[28] Weichselbraun, A., Gindl, S., & Scharl, A. (2014). Enriching semantic
+knowledge bases for opinion mining in big data applications. Knowledge-
+Based Systems, 75-85.
+[29] Yang, M. C., & Rim, H. C. (2014). Identifying interesting Twitter
+contents using topical analysis. Expert Systems with Applications, 4330–
+4336.
+[30] Omand, S., Bartlett, J., & Miller, C. (2012). Introducing Social Media
+Intelligence(SOCMINT). Intelligence and National Security, 801-823.
+[31] Papic, M., Noonan, S., & Çeviri(Ece Dündar). (2011). Sosyal Medya: Bir
+Protesto Aracı. Türk Kütüphaneciliği, 165-172.
+[32] Smith, M. (2015, 02 23). NodeXL: Network Overview, Discovery and
+Exploration for Excel. 08 10, 2015, CodePlexProject Hosting for OSS:
+http://nodexl.codeplex.com/
+[33] Otte, E., & Rousseau, R. (2002). Social network analysis: a powerful
+strategy, also for the information sciences. Journal of Information
+Science, 441-453.
+[34] Blogger, G. (2012, 05 24). Tools for Transparency: A How-to Guide for
+Social Network Analysis with NodeXL. 08 15, 2015 tarihinde Sunlight F:
+https://sunlightfoundation.com/blog/2012/05/24/tools-for-transparency-a-
+how-to-guide-for-social-network-analysis-with-nodexl/
+
+Serkan Savaş- 1982 yılında Ankara’da doğdu. Lisans eğitimini Gazi
+Üniversitesi Teknik Eğitim Fakültesi Bilgisayar Sistemleri Öğretmenliği
+Bölümü’nde tamamladı. Yüksek Lisans eğitimini Gazi Üniversitesi Bilişim
+Enstitüsü Elektronik-Bilgisayar Eğitimi Anabilim Dalı’nda tamamladı. Halen
+Gazi Üniversitesi Fen Bilimleri Enstitüsü Bilgisayar Mühendisliği (Tek. Fak.)
+Anabilim Dalı Doktora öğrencisi olarak eğitimine devam etmekte ve
+Kızılcahamam Mesleki ve Teknik Anadolu Lisesi’nde Müdür Yardımcısı
+olarak çalışmaktadır. Veri Madenciliği, Büyük Veri, Siber Güvenlik ve Siber
+İstihbarat alanlarında çalışmaları vardır.
+
+Nurettin Topaloğlu- Elektronik Bölümü mezunu olup, Gazi Üniversitesi
+Bilgisayar Mühendisliği Bölümü’nde Öğretim Üyesi olarak çalışmaktadır.
+Bilişim teknolojileri ve sistemleri ilgi alanına girmektedir.

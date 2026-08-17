@@ -1,0 +1,2809 @@
+--- Sayfa 1 ---
+Siyaset ve İktisatta Oyun Teorisi
+
+Mehmet CAN
+
+International Universty of Sarajevo, Graduate Program on Strategic Analysis ve Risk Assessment,
+Paromlinska 66, 71000 Sarajevo, Bosnia ve Herzegovina
+mcan@ius.edu.ba
+
+ÖZET
+
+Oyun Teorisi çok kişili karar verme problemlerini inceleyen bilim dalının adıdır. Böyle
+problemler ekonomide ve siyasal bilimlerde sık sık karşımıza çıkar. Mikro düzeyde pazarlık
+ve ihale gibi ticari işlem modelleri, oyun teorisi içinde mütalaa edilir. Orta buyuklukte
+problemlerde iş ve finans ekonomisi, girdi pazarlarında şirket davranışına ilişkin oyun teorisi
+modelleri gerektirir. Daha büyük ölçekli problemlerde, uluslararası ekonomide, ülkelerin
+vergi tarifeleri ve diğer ticaret politikalari ihdasıyla rekabet ettikleri modeller kullanılır.
+Makroekonomide ise para politikasını belirleyenler ile ücret ya da fiatları belirleyenler, para
+politikalarının etkilerini belirlemek üzere stretejik olarak yarışırlar. Siyaset bilimlerinde oyun
+teorisinin uygulanması, ekonomideki kadar hızlı olmamıştır. Bununla birlikte kısa zamvea
+siyaset bilimlerinin en güçlü analitik araçlardan biri haline geldi. Siyaset bilimlerinde ilk
+uygulamalari kitlelerin seçimlerde ve yeni yasalar karşısındaki davranışları üzerineydi. Daha
+sonra uluslarası güvenlik, etnik ve uluslararasi uyuşmazlıkların çözümü çözümü ve
+demokratikleşme gibi çok geniş bir alana yayıldı.
+
+Anahtar Kelimeler : Oyun Teorisi, Siyaset; İktisat.
+
+ABSTRACT
+
+Game theory is the study of multi person decision problems. Such problems arise frequently
+in economics and in political sciences. At the micro level, models of trading processes such as
+bargaining and auction models, involve game theory. At an intermediate level of aggregation,
+labor and financial economics include game-theoretic models of the behavior of a firm in its
+input markets. Finally, at a high level of aggregation, international economics includes
+models in which countries compete in choosing tax tariffs and other trade policies, and
+macroeconomics includes models in which the monetary authority and wage or price setters
+interact strategically to determine the effects of monetary policy. Applications of game theory
+have not developed as fast in political science as they have in economics. Nevertheless in a rather short
+period of time, game theory has become one of the most powerful analytical tools in the study of
+politics. From their earliest applications in electoral and legislative behavior, game theoretic models have
+proliferated in such diverse areas as international security, resolution of ethnic and international conflicts,
+and democratization.
+
+Key Words: Game Theory; Political Sciences; Economy.
+
+--- Sayfa 2 ---
+1. GİRİŞ
+
+Bu konuşmamızda oyun teorisinin iktisat ve siyaset bilimlerindeki uygulamalarına dair dört
+örnek vereceğiz. Bunlardan ilk ikisi iktisat uygulamasıdır. Eksik bilgili Courout [1] duopoli
+problemidir. Iktisattan ikinci örneğimiz bir ardışık pazarlık problemi olacak.
+
+Siyaset bilimlerine dair ilk örnek, toplumun ortak çıkarları ile kişisel çıkarların bazan
+örtüşmeyebileceğini gösterecek. Ikinci örnek de bir seçim kampanyası sırasında iki
+politikacının üç şehirde partileri adına yapacakları seçim konuşmalarının planlanmasıyla
+alakalı olacak.
+
+2. EKSİK BİLGİLİ COURNOT DUOPOLİ MODELİ
+
+Cournot'nun 1838’de yaptığı çalışma, oyun teorisinin klasiklerinden biri olduğu kadar,
+endüstriyel organizasyon teorisinin de köşe taşlarından biridir. Bu çalışmamızda Cournou’nun
+klasik modelini biraz değiştirdik. Talep’e biraz belirsizlik kattık. Dolayısı ile bulduğumuz
+çözüm de oyunun Bayes türü Nash dengesi oldu.
+
+Kazanç payları üzerine yapılan pazarlıklar masraflıdır. Müzakereler çok uzarsa, bölüşülecek
+pasta azalabilir, hatta başkaları tarafından kapılabilir. Pazarlik belki ilk insanla beraber vardır.
+Ancak Edgeworth [2]’den beri teorisi, iktisatta ve siyasette önemli bir mesele olarak kabul
+görmektedir. Nash [3]  çalışmasında hem taraflar arasında işbirliği olması ve hem de işbirliği
+olmaması durumlarını inceledi. Ancak Nash’in işbirliksiz modelinde oyuncuların anlaşmak
+için sadece bir imkanları vardı. Bunda başarısız olduklarında müzakerelere devam
+edemiyorlardı. Bu model çok basitti ve pazarlığın zengin yapısını temsil edemiyordu. Nash’in
+modeline 1970’lere gelinceye kadar fazla ilgi gösterilmedi.
+
+2.1 Tekmil Bilgili Cournot Duopoli Modeli
+1
+q ve
+2
+q , bir ürünün 1 ve 2 firmaları tarafından üretim miktarlarını göstersin. Let P(Q) = a –
+Q,  da piyasada toplam ürün miktarı Q =
+1
+q +
+2
+q olduğunda piyasa denge fiatı olsun.
+
+--- Sayfa 3 ---
+i şirketinin bu maldan
+iq tane üretmesinin maliyeti
+1
+0
+,
+)
+(
+≤
+≤
+=
+c
+cq
+q
+C
+i
+i
+i
+ olsun. Yani bu
+durumda sabit masraf yok ve marjinal masraf da c gibi bir sabit. Cournot modeline uyarak
+şirketlerin üretecekleri ürün miktarını birbirlerinden habersiz olarak belirlediklerini
+varsayalım [4].
+
+Cournot oyununun Nash dengesini bulmak için oyunu önce “normal form”a
+çeviririz. Onun için
+(1) oyundaki oyuncular,
+(2) her oyuncu için mümkün olan stratejler, ve
+(3) oyuncuların seeceği her strateji kombinezonu için kazançlarının ne olacağı belirtilmelidir.
+
+Duopoli oyununda iki oyuncu olarak iki şirket vardır. Cournot modelinde her şirket için
+mümkün stratejiler, üretecekleri ürün sayılarıdır. Ürünleri gösteren sayı, doğal sayı olduğu
+halde biz onu gerçel sayı ile temsil edeceğiz. Negatif çıktılar da “gerçekleştirilemez” olarak
+algılanacak. Böylece şirketlerin strateji uzayları
+[
+)
+,0 ∞
+=
+iS
+, negatif olmayan sayıların yarı
+ekseni olacaktır ki, tipik bir
+is stratejisi,
+0
+>
+iq
+ üretim miktarının seçilmesidir. Strateji
+uzayinda çok büyük üretim düzeyleri bulunuyorsa da, hiç bir şirket
+a
+qi >
+.düzeyinde üretim
+yapamaz çünkü Q>a için, P(Q) < 0 olur.
+
+Geriye i şirketinin kazancını kendisinin ve diğer şirketin seçtiği stratejilerin fonksiyonu
+olarak ifade etmek ve sonra da dengeyi konumunu tanımlamak, fonksiyondan bu denge
+konumunu elde etmek kalıyor. Şirketin bu işten kazancının, sadece elde ettiği kar olduğu
+varsayılıyor. O zaman normal formda ifade edilmiş, genel bir iki oyunculu oyun için
+(
+)
+j
+i
+i
+s
+s
+u
+,
+ kazancı
+(
+)
+(
+)
+(
+)
+c
+q
+q
+a
+q
+c
+q
+q
+P
+q
+q
+q
+u
+j
+i
+i
+j
+i
+i
+j
+i
+i
+−
++
+−
+=
+−
++
+=
+)
+(
+)
+(
+,
+.
+
+(1)
+Formülüyle yazılabilir.
+
+Her i oyuncusu için
+(
+)
+(
+)
+i
+i
+j
+i
+i
+j
+i
+i
+S
+s
+s
+s
+u
+s
+s
+u
+∈
+∀
+≥
+,
+,
+,
+*
+*
+*
+
+(2)
+oluyorsa, (
+)
+*
+2
+*
+1 ,s
+s
+ strateji çiftine Nash dengesi denir.
+
+--- Sayfa 4 ---
+Demek ki her i oyuncusu için
+*
+is ,
+(
+)
+*
+,
+j
+i
+i
+S
+s
+s
+s
+u
+Max
+i
+i∈
+.
+
+(3)
+optimizasyon probleminin çözümü olmalıdır.
+
+Bu bölümdeki Cournot duopoli modelinde (
+)
+*
+2
+*
+1 ,q
+q
+ üretim düzeyi çiftinin bir Nash dengesi
+olabilmesi için her i şirketi için,
+*
+iq ’nin
+
+(
+)
+(
+)
+c
+q
+q
+a
+q
+q
+q
+u
+j
+i
+i
+j
+i
+i
+−
++
+−
+=
+∞
+<
+≤
+∞
+<
+≤
+)
+(
+
+Max
+,
+
+Max
+*
+q
+0
+*
+q
+0
+i
+i
+
+(4)
+ probleminin çözümü olması gerekir.
+c
+a
+q j
+−
+<
+*
+ varsayımı altında (doğru olduğu ileride
+gösterilecek), i şirketinin optimizasyon probleminin birinci mertebe koşulu, kazanç
+fonksiyonunun birinci türevinin alınmasıyla elde edilir:
+(
+)
+(
+)
+c
+q
+q
+a
+q
+c
+q
+q
+a
+dq
+q
+q
+u
+d
+j
+i
+i
+j
+i
+i
+j
+i
+i
+−
++
+−
+=
+−
++
+−
++
+−
+=
+)
+2
+(
+1
+)
+(
+,
+*
+*
+*
+.
+
+(5)
+
+Bunu sıfıra eşitlersek
+(
+).
+2
+1
+*
+c
+q
+a
+q
+j
+i
+−
+−
+=
+
+(6)
+Elde ederiz. Demek ki (
+)
+*
+2
+*
+1 ,q
+q
+ üretim düzeyi çiftinin bir Nash dengesi olabilmesi için
+şirketlerin üretim düzeyi seçimlerinin
+(
+)
+(
+).
+2
+1
+,
+2
+1
+*
+1
+*
+2
+*
+2
+*
+1
+c
+q
+a
+q
+c
+q
+a
+q
+−
+−
+=
+−
+−
+=
+
+(8)
+Eşitliklerini sağlamaları gerekir. Bu lineer cebirsel denklem sisteminden (
+)
+*
+2
+*
+1 ,q
+q
+’leri
+çözersek,
+(
+)
+c
+a
+q
+q
+−
+=
+=
+3
+1
+*
+2
+*
+1
+
+(9)
+Buluruz ki, yukarıda varsaydığımız gibi
+c
+a −’den küçüktür.
+
+Probleme grafik olarak yaklaşırsak,
+(
+)
+(
+)
+2,1
+,
+)
+(
+,
+=
+−
++
+−
+=
+i
+c
+q
+q
+a
+q
+q
+q
+u
+j
+i
+i
+j
+i
+i
+ en  iyi tepki
+fonksiyonlarının grafikleri,  sadece bir kere
+(
+) 3
+/
+1
+*
+*
+2
+1
+c
+q
+q
+−
+=
+=
+ noktasında kesişirler..
+
+--- Sayfa 5 ---
+Şekil 1. c = 0.2 için denge üretim düzeyleri:
+(
+) 3
+/
+1
+*
+*
+2
+1
+c
+q
+q
+−
+=
+=
+.
+
+(
+)
+j
+i
+i
+q
+q
+u
+,
+ yarar fonksiyonunun
+(
+) 3
+/
+1
+c
+qi
+−
+=
+ noktasındaki
+2
+3
+1
+3
+1
+,
+3
+1
+
+
+
+
+
+−
+=
+
+
+
+
+
+
+−
+−
+c
+c
+c
+ui
+ değeri,
+j oyuncusunun
+(
+) 3
+/
+c
+a
+q j
+−
+=
+ oynaması halinde, bu fonksiyonun başka herhangi bir
+iq
+noktasındaaldığı değerden daha fazladır. Aynı şey j oyuncusu için de doğrudur. Bu nedenle
+(
+) 3
+/
+1
+*
+*
+c
+q
+q
+j
+i
+−
+=
+=
+ bir Nash dengesidir.
+
+2.2 Eksik Bilgili Cournot Duopoli Modeli
+
+Kesin a pazar talebi yerine kesin olmayan Pazar talebi alarak tekmil bilgili Cournout duopoli
+modelini, eksik bilgili hale getirelim. Artık Pazar talebinin θ olasılıkla
+H
+a yüksek talebi ve
+θ
+−
+1
+ olasılıkla
+L
+a düşük talebi olması beklenmektedir [4]. Ayrıca bu bilgi şu anlamda
+asimetriktir: 1. şirket talebin yüksek mi, düşük mü olduğunu bildiği halde, 2. şirket bundan
+habersizdir. Şirketler üretim düzeylerini aynı anda ve birbirlerinden habersiz olarak
+seçeceklerdir.
+
+O zaman 1. şirket için beklenen yarar
+(
+)
+(
+) (
+) (
+)
+(
+) (
+)
+(
+)
+(
+)
+c
+q
+q
+a
+q
+q
+q
+a
+a
+q
+c
+q
+q
+a
+q
+c
+q
+q
+a
+q
+q
+q
+q
+u
+L
+L
+L
+H
+L
+H
+L
+L
+H
+H
+L
+H
+−
++
+−
++
+−
+−
+−
+=
+−
++
+−
+−
++
+−
++
+−
+=
+)
+(
+)
+(
+1
+)
+(
+,
+,
+2
+1
+1
+2
+2
+1
+2
+1
+1
+2
+1
+1
+2
+2
+1
+1
+θ
+θ
+θ
+
+(10)
+
+Olurken, 2. şirket için beklenen yararlar
+
+--- Sayfa 6 ---
+(
+)
+(
+)
+(
+)
+(
+).
+)
+(
+,
+)
+(
+,
+2
+1
+2
+2
+1
+2
+2
+1
+2
+2
+1
+2
+c
+q
+q
+a
+q
+q
+q
+u
+c
+q
+q
+a
+q
+q
+q
+u
+L
+L
+L
+L
+L
+H
+H
+H
+H
+H
+−
++
+−
+=
+−
++
+−
+=
+
+(11)
+olacaktır.  2. şirketin yüksek ve düşük talep hallerindeki en karlı üretim düzeyleri olan
+*
+2
+*
+2 ,
+L
+H q
+q
+  sırasıyla
+(
+)
+(
+)
+L
+L
+H
+H
+q
+q
+u
+q
+q
+u
+2
+*
+1
+2
+q
+0
+2
+*
+1
+2
+q
+0
+,
+
+Max
+,
+,
+
+Max
+2L
+2H
+∞
+<
+≤
+∞
+<
+≤
+ problemlerinin çözümleridirler.
+Yukarıdaki kazanç fonksiyonlarının türevlerinin alınmasıyla, 2. şirketin maksimizasyon
+probleminin çözümü için birinci basamak şartları elde edilir:
+(
+)
+(
+)
+(
+)
+(
+)
+.
+)
+2
+(
+1
+)
+(
+,
+,
+)
+2
+(
+1
+)
+(
+,
+*
+1
+2
+2
+2
+*
+1
+2
+2
+*
+1
+2
+*
+1
+2
+2
+2
+*
+1
+2
+2
+*
+1
+2
+c
+q
+q
+a
+q
+c
+q
+q
+a
+dq
+q
+q
+u
+d
+c
+q
+q
+a
+q
+c
+q
+q
+a
+dq
+q
+q
+u
+d
+L
+L
+L
+L
+L
+L
+L
+L
+H
+H
+H
+H
+H
+H
+H
+H
+−
++
+−
+=
+−
++
+−
++
+−
+=
+−
++
+−
+=
+−
++
+−
++
+−
+=
+
+(12)
+
+Bu türevler sıfıra eşitlenince:
+
+(
+)
+(
+)
+c
+q
+a
+q
+c
+q
+a
+q
+L
+L
+H
+H
+−
+−
+=
+−
+−
+=
+*
+1
+*
+2
+*
+1
+*
+2
+2
+1
+,
+2
+1
+
+(13)
+
+Bulunur. Öte yandan
+*
+1q ,  1. şirket için optimizasyon problemi olan
+
+(
+)
+(
+) (
+) (
+)
+{
+}
+(
+) (
+)
+(
+)
+(
+)
+{
+}.
+)
+(
+Max
+)
+(
+1
+)
+(
+
+Max
+,
+,
+
+Max
+*
+2
+1
+*
+2
+*
+2
+1
+q
+0
+*
+2
+1
+1
+*
+2
+1
+1
+q
+0
+*
+2
+*
+2
+1
+1
+q
+0
+1
+1
+1
+c
+q
+q
+a
+q
+q
+q
+a
+a
+q
+c
+q
+q
+a
+q
+c
+q
+q
+a
+q
+q
+q
+q
+u
+L
+L
+i
+L
+H
+L
+H
+L
+L
+H
+H
+L
+H
+−
++
+−
++
+−
+−
+−
+=
+−
++
+−
+−
++
+−
++
+−
+=
+∞
+<
+≤
+∞
+<
+≤
+∞
+<
+≤
+θ
+θ
+θ
+
+probleminin çözümüdür. Çözüm için birinci basamak şart, türev alınarak bulunur:
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+.
+2
+1
+)
+(
+,
+,
+*
+2
+1
+*
+2
+*
+2
+1
+*
+2
+1
+*
+2
+*
+2
+1
+*
+2
+*
+2
+1
+1
+c
+q
+q
+a
+q
+q
+a
+a
+q
+c
+q
+q
+a
+q
+q
+a
+a
+dq
+q
+q
+q
+u
+d
+L
+L
+L
+H
+L
+H
+L
+L
+L
+H
+L
+H
+L
+H
+−
++
+−
++
+−
+−
+−
+=
+−
++
+−
++
+−
++
+−
+−
+−
+=
+θ
+θ
+
+(14)
+
+Bunun sıfıra eşitlenmesiyle de
+(
+)
+(
+)
+{
+}.
+2
+1
+*
+2
+*
+2
+*
+2
+*
+1
+c
+q
+a
+q
+q
+a
+a
+q
+L
+L
+L
+H
+L
+H
+−
++
++
+−
+−
+−
+=
+θ
+
+(15)
+
+Elde edilir. (13) ve (15)’deki linear cebirsel denklemlerden (
+)
+*
+2
+*
+2
+*
+1
+,
+,
+L
+H q
+q
+q
+ çözülürse:
+
+--- Sayfa 7 ---
+(
+)
+(
+)
+(
+) (
+)
+{
+}
+(
+)
+{
+};
+1
+3
+1
+4
+1
+4
+3
+2
+1
+2
+1
+2
+1
+*
+1
+*
+1
+*
+1
+*
+1
+c
+a
+a
+q
+c
+a
+a
+a
+q
+c
+c
+q
+a
+a
+a
+a
+a
+a
+q
+L
+H
+L
+L
+H
+L
+L
+L
+H
+L
+H
+−
+−
++
+=
+−
++
+−
+=
+
+
+
+
+
+
+−
+−
+−
+−
++
+
+
+
+
+
+
+−
+−
+−
+=
+θ
+θ
+θ
+θ
+
+(16)
+ve
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+).
+2
+1
+3
+6
+1
+,
+3
+1
+3
+6
+1
+,
+2
+1
+3
+6
+1
+,
+3
+1
+3
+6
+1
+*
+2
+*
+2
+c
+a
+a
+c
+c
+a
+a
+a
+q
+c
+a
+a
+c
+c
+a
+a
+a
+q
+H
+L
+L
+H
+L
+L
+L
+H
+L
+H
+H
+H
+−
+−
+−
+−
+=
+−
+−
+−
++
+−
+=
+−
+−
+−
+−
+=
+−
+−
+−
++
+−
+=
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+
+(17)
+.
+Bulunur. Böylece
+(
+)
+{
+}
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+).
+2
+1
+3
+6
+1
+,
+2
+1
+3
+6
+1
+,
+1
+3
+1
+*
+2
+*
+2
+*
+1
+c
+a
+a
+q
+c
+a
+a
+q
+c
+a
+a
+q
+H
+L
+L
+L
+H
+H
+L
+H
+−
+−
+−
+−
+=
+−
+−
+−
+−
+=
+−
+−
++
+=
+θ
+θ
+θ
+θ
+θ
+θ
+
+(18)
+olmak üzere (
+)
+*
+2
+*
+2
+*
+1
+,
+,
+L
+H q
+q
+q
+, bu oyunun Nash dengesidir. Bu üretim düzeylerinin negatif
+olmaması için (
+)
+θ
+,
+,
+,
+c
+a
+a
+L
+H
+ parametrelerinin
+(
+) (
+)
+L
+H
+L
+L
+a
+a
+c
+a
+c
+a
+−
+−
+≤
+≥
+/
+2
+,
+θ
+
+(19)
+koşullarını sağlamaları gerekir.
+
+3. TEKMİL BİLGİ İLE ARDIŞIK PAZARLIK
+
+Bu bölüme, tekmil ve mükemmel bilgili basit oyunlar sınıfından üç aşamalı pazarlık modeli
+ile başlıyoruz. Sonra aşamalarının sayısı potansiyel olarak sonsuz olan Rubinstein's [5]
+modeline bakacağız. Her iki modelde anlasmaya hemen varılacak, grevler ve uzatmalı
+pazarlıklar olmayacak. İskonto faktörlerinin oyuncular için farklı olduğu hal de ayrıca
+incelenecek.
+
+--- Sayfa 8 ---
+Pazarlıkların sonuçlarını önceden kestirmek için g,r,ş,len ilk çabalar "işbirlikçi oyunlar"
+çerçevesini kullanmıştı. Bu çerçevede pazarlık sürecinin sonucu üzerine, özel olarak da
+ulaşılabilir yararlar kümesindeki değişikliklere bağlı olarak bu sonucun nasıl değişeceği
+hakkında varsayımlar yapılır. Bu varsayımlar işbirlikçi oyunları, işbirlikçi olmayanlardan
+ayırır.
+
+Nash [6,7] pazarlık üzerine yaptığı çalışmalarda vem işbirlikçi, yani aksiyomatik ve hem de
+işbirlikçi olmayan yaklaşımları kullandı. Önce belli varsayımları sağlayan tek neticeyi
+belirledi, sonra da dengesi tamamen bununla aynı olan işbirlikçi olmayan oyunu buldu. Ancak
+Nash’in işbirlikçi olmayan modeli, oyunculara anlaşmaya varmak için sadece bir hamle
+imkanı vermekte, başarısızlık halinde pazarlığa devam edememekteydiler. Böyle bir model
+pazarlığın zenginliklerini yansıtmayı başamazdı. Bu nedenle pazarlığa işbirlikçi olmayan
+yaklaşım 1970’lere kadar fazla ilgi çekmedi.
+
+Stahl [8] ve Rubinstein [9] ilk defa pazarlığın, pazarlıkçıların teklif ve karşı teklif vermelerine
+olanak tanıyan tipik bir dinamik süreç oluşunu yansıtan modelleri buldular. Stahl ve
+Rubinstein tekmil bilgi altında pazarlığı incelediler ve ardışık pazarlığın tek bir Pareto-etkin
+sonuca ulaşacağını kanıtladılar. Pareto-etkin sonuç, pazarlıkçıların yorgun düşmeden önce
+ulaştıkları etkin sonuçtur. Stahl ve Rubinstein pazarlık gücünün nelere bağlı olduğu
+konusunda da ipuçları verdiler. Mesela sabırlı pazarlıkçılar, daha iyi sonuç alır gibi.
+
+3.1 Rubinstain’in Üç Aşamalı Pazarlık Modeli
+
+1 ve 2 numaralı oyuncular 1 YTL üzerinde pazarlık ediyorlar. Teklifler sırayla veriliyor: 1
+numaralı oyuncu 2.’ye bir teklif yapıyor. 2 bunu kabul edebilir, ya da reddedebilir.  Eger 2,
+1’in teklifini reddederse, kendisi 1’e kabul ya da reddedebileceği bir teklif yapar. Rededilen
+teklif, bağlayıcı olmaktan çıkar ve artık oyunun kalan kısmında geçerli değildir. Her teklif bir
+aşama sayılır. Oyuncular sabırsızdır ve daha sonraki aşamalarda elde edecekleri kazançları
+aşama başına
+2
+1,δ
+δ
+ faktörleri ile çarparlar. Burada
+1
+0
+2
+1
+<
+<
+<
+δ
+δ
+ varsayılacak.
+Bu durumda bir sonraki aşamada elde edilecek π kazancının şu andaki kıymeti sadece δπ , iki
+aşama sonra ki kazancının şu andaki kıymeti
+π
+δ2 vs. olacak. Gelecekteki kazancın bu günkü
+kıymetine “şu andaki kıymet” diyeceğiz.
+
+--- Sayfa 9 ---
+Üç aşamalı pazarlık oyununun zamanlamasının ayrıntılarını şöyle ifade edebiliriz:
+(1a) Birinci aşamanın başında 1. oyuncu, kendi payına
+1s YTL alarak, 2. oyuncuya
+1
+1
+s
+−
+ YTL
+bırakır.
+(1b) 2. oyuncu ya teklifi kabul eder ve oyun hemen 1. oyuncuya
+1s , 2. oyuncuya
+1
+1
+s
+−
+
+kazandırarak biter, ya da teklifi reddeder ve oyun ikinci aşamasına geçer.
+(2a) İkinci aşamanın başında 2. oyuncu, 1. oyuncuya
+2s YTL teklif eder,
+2
+1
+s
+−
+ YTL’yi
+kendine ayırır.
+(2b) 1. oyuncu ya teklifi kabul eder ve oyun 1. oyuncuya
+2s , 2. oyuncuya
+2
+1
+s
+−
+ kazandırarak
+biter, ya da teklifi reddeder ve oyun üçüncü aşamasına geçer.
+(3) Üçüncü aşamanın başında 1. oyuncu, kendi payına s (0 < s < 1) alarak, 2. oyuncuya
+s
+−
+1
+
+bırakır.
+
+Şekil 2. Rubinstain’in pazarlık aşamaları.
+
+Bu üç aşamalı oyunun geri-çıkarım kazancını bulmak için önce, ikinci aşamaya ulaşılmış
+olması halinde 2. oyuncunun teklifinin ne olacağını hesaplayalım. Bu aşamada 2. oyuncunun
+2s teklifi cazip değilse, 1. oyuncu bunu reddedip, üçüncü aşamada s ’yi alacaktır. Tabii
+indirim sebebiyle aldığı şeyin ilinci aşama değeri
+s
+1
+δ
+ olacaktır. Bu nedenle
+2s teklifinin 1.
+oyuncuya cazip gelebilmesi için
+s
+s
+1
+2
+δ
+≥
+ olmalıdır.
+Eşitlik halinde oyuncunun teklifi kabul edeceğini varsayıyoruz. Böylece 2. oyuncunun 2.
+aşama problemi, bu aşamada 1. oyuncuya
+2s =
+s
+1
+δ
+ teklif ederek 1 -
+s
+1
+δ
+ almakla; bu aşamada
+
+--- Sayfa 10 ---
+1. oyuncuya
+2s <
+s
+1
+δ
+ olacak şekilde herhangi bir teklif verip gelecek aşamada 1 – s almak
+arasında bir seçim yapma problemidir. Ikinci seçenekteki kazancın ikinci aşamadaki indirimli
+kıymeti
+(
+)s
+−
+1
+2
+δ
+ olup birinci seçeneğin 1 -
+1
+δ getirisinden azdır. Böylece ikinci aşamaya
+ulaşılırsa 2. oyuncunun en iyi stratejisi
+*s2 =
+s
+1
+δ
+ olacaktır ve 1. oyuncu bunu kabul edecektir.
+
+1.oyuncu da 2. oyuncunun ikinci aşama problemini çözmüş olacağından, ikinci oyuncunun,
+birinci aşamada 1. oyuncunun 1-
+1s teklifini reddederek ikinci aşamada 1 -
+*s2 alabileceğini
+bilir. Ancak ikinci aşamada 1 -
+*s2 almanın birinci aşamadaki indirimli kiymeti
+2
+δ (1 -
+*s2 )
+dir. Bu nedenle birinci aşamada 2. oyuncunun 1 -
+1s teklifini kabul etmesi için en azından
+1 -
+1s ≥
+2
+δ (1 -
+*s2 ), ya da
+1s ≤ 1 -
+2
+δ (1 -
+*s2 ) olmalıdır. Böylece 1. oyuncunun birinci
+aşama problemi; 2. oyuncuya 1 -
+1s =
+2
+δ (1 -
+*s2 )  teklif edip bu aşamada 1-
+2
+δ (1-
+*s2 )
+almakla, 2. oyuncuya 1 -
+1s <
+2
+δ (1 -
+*s2 )  olacak şekilde herhangi bir 1 -
+1s teklif edip  gelecek
+aşamada
+*s2 almak arasında tercih yapma problemidir. İkinci seçeneğin indirimli kıymeti
+1
+δ
+*s2   =
+s
+2
+1
+δ
+ olacaktır ki, birinci seçeneğin getireceği 1-
+2
+δ (1-
+*s2 ) = 1 -
+2
+δ (1 -
+1
+δ s )
+miktarından azdır. Böylece 1. oyuncunun en iyi birinci aşama teklifi
+*s1 =1-
+2
+δ (1-
+*s2 ) = 1 -
+2
+δ
+(1 -
+1
+δ s ) olacaktır.
+
+Demek ki bu üç aşamalı oyunun geri-çıkarım sonucu, 1. oyuncunun ilk aşamada, 2. oyuncuya
+(
+*s1 , 1-
+*s1 )  anlaşmasını teklif etmesi ve 2. oyuncunun da bunu kabul etmesidir.
+
+Bu tartışmanın kolayca sonlu aşamalı pazarlık oyununa genelleştirilebileceği bellidir. Ancak
+sonsuz-ufuk hali ayrı inceleme gerektirir.
+
+3.2 Sonsuz Ufuklu Pazarlık Modeli
+
+Şimdi sonsuz ufuklu pazarlık haline bakalım. Zamanlama, 3. adımda kesilmemesi dışında
+önceki gibidir. Aşamalar (3a), (3b), (4a), (4b), ... diye devam eder. 1. oyuncu tek numaralı
+aşamalarda, 2. oyuncu da çift numaralı aşamalarda teklif verir. Burada da geri-çıkarım
+yöntemini kullanmak isterdik ama, başlanacak son aşama yok. Bereket versin ilk defa Shaked
+
+--- Sayfa 11 ---
+ve Sutton [10], tarafından uygulanan aşağıdaki bakış tarzı, sonsuz ufuklu oyunu keserek sonlu
+aşamalı yapmamıza olanak verir.
+
+Bu sonsuz ufuklu pazarlık oyununun geri-çıkarım sonucu biçimsel olarak tanımlanmış
+olmadığından, buradaki mulahazalar da biçimsel olmayacaktır. Varsayalım ki oyunun
+tamamında 1. oyuncunun s , 2. oyuncunun
+s
+−
+1
+ aldığı bir geri-çıkarım sonucu bulunsun.
+Bu kazançları, ulaşılması halinde üçüncü aşamada başlayacak bir oyunda kullanabilir ve geri
+doğru giderek birinci aşamaya ulaşabiliriz. Bu yeni geri-çıkarım sonucunda, birinci aşamada
+1. oyuncu (f(s),1 - f(s)) anlaşmasını önerecek ve 2. oyuncu kabul edecektir. Burada f(s) = 1 -
+2
+δ (1 -
+1
+δ s ), yukarıdaki üç aşamalı modelde (s, 1 - s) anlaşması üçüncü aşamaya empoze
+edildiğinde, 1. oyuncunun birinci aşamada alacağı paydır.
+
+H
+s , 1. oyuncunun, oyunun tamamına uygulanmış herhangi bir geri-çıkarımdan elde
+edebileceği en yüksek kazanç olsun. Bu, daha önce anlatıldığı gibi, 1. oyuncunun birinci
+aşama kazancı f(
+H
+s ) olacak şekilde yeni bir geri çıkarım sürecine yol açar. f(s) = 1 -
+2
+δ +
+s
+2
+1δ
+δ
+ fonksiyonu s değişkenine göre artan ve
+H
+s da bu değişkenin en büyük değeri
+olduğundan, f(
+H
+s ) mümkün en büyük birinci aşama kazancıdır. Ancak mümkün en büyük
+birinci aşama kazancı aynı zamanda
+H
+s ’dır. Demek ki f(
+H
+s )=
+H
+s olmalıdır. Parelel
+mülahazalarla,
+Ls , 3. oyuncunun, oyunun tamamına uygulanmış herhangi bir geri-çıkarımdan
+elde edebileceği en düşük kazanç olmak üzere f(
+Ls ) =
+Ls  bulunur.
+
+S’nin f(s) = s eşitliğini sağlayan yegane değeri (
+) (
+)
+2
+1
+2
+1
+/
+1
+δ
+δ
+δ
+−
+−
+ olur ki, bunu s* ile
+göstereceğiz. Böylece
+H
+s =
+Ls = s* dir ve böylece oyunun tamamınin geri-çıkarımdan elde
+edilebilecek tek bir kazanç vardır. Birinci aşamada 1. oyuncu  2. oyuncuya
+
+(
+)
+
+
+
+
+
+
+−
+−
+=
+−
+−
+−
+=
+2
+1
+1
+2
+2
+1
+2
+1
+1
+*
+1,
+1
+1
+*
+δ
+δ
+δ
+δ
+δ
+δ
+δ
+s
+s
+
+(20)
+Anlaşmasını teklif eder ve 2. oyuncu bunu kabul eder.
+
+--- Sayfa 12 ---
+4. KAMU ÇIKARI MESELESİ
+
+Hume’dan [11] beri siyaset bilimciler ve iktisatçılar, insanların kişisel çıkarlarına önem
+verdiklerini, umumun menfaatine dikkat edilmediğini ve kaynakların israf edildiğini
+farkettiler. Bu gün dünya çevre sorunlarının üstünkörü bir incelemesi bile bu insan tavrının
+gücünü hemen ortaya çıkarır. Burada bir hayvancılık örneği ele alacağız.
+
+Bir köyde  n çiftçi olsun. Her yaz çiftçiler keçilerini köy merasında otlatıyor olsun. i.
+Çiftçinin
+ig keçisi olsun. Köydeki toplam keçi sayısı
+n
+g
+g
+g
+G
++
++
++
+=
+...
+2
+1
+olacaktır. Bir keçi
+satınalmanın ve onu bir yıl bakmanın maliyeti, keçi sayısına bağlı olmaksızın c YTL diyelim.
+Merada G keçi yayılıyor olduğunda çiftçinin merada bir keçi otlatmakla elde ettiği yıllık
+kazanç keçi başına ( )
+G
+v
+ olsun. Bir keçi yaşamak için belli miktarda ot yemek zorunda
+olduğundan, köy merasında yayılabilecek G keçi sayısının bir
+max
+G
+ üst sınırı vardır.
+max
+G
+G <
+ için  ( )
+0
+>
+G
+v
+ fakat
+max
+G
+G ≥
+ için ( )
+0
+=
+G
+v
+ olacaktır.
+
+Çiftçinin merada bir keçi otlatmakla elde ettiği yıllık keçi başına ( )
+G
+v
+ kazancı, şekildeki gibi
+bir fonksiyon olacaktır: G <
+max
+G
+ için, ( )
+0
+'
+<
+G
+v
+ ve v"(G) < 0.
+
+Şekil 3. ( )
+G
+v
+ kazanç fonksiyonunun genel yapısı.
+
+Çiftçiler bahar geldiğinde birbirlerinden habersiz olarak, o mevsim kaç keçi satınalıp
+bakacaklarına karar vermektedirler. i çiftçisinin stratejisi
+ig tane keçi satınalıp köy
+merasında otlatmaktır.
+max
+0
+G
+gi <
+≤
+ olacağı bellidir.  Diğer çiftçilerin keçi sayıları
+(
+)
+n
+i
+i
+g
+g
+g
+g
+g
+,...,
+,
+,...,
+,
+1
+1
+2
+1
++
+−
+ olduğunda, i çiftçisinin
+ig tane keçi satınalıp köy merasında
+otlatmaktan bir yıllık kazancı
+
+(
+) =
+n
+i
+g
+g
+g
+u
+,...,
+,
+2
+1
+(
+)
+i
+n
+i
+i
+i
+cg
+g
+g
+g
+g
+g
+v
+g
+−
++
++
++
++
++
++
++
+−
+...
+...
+1
+1
+2
+1
+
+(21)
+
+Olur. Bu yüzden eğer (
+)
+*
+*
+2
+*
+1
+,...,
+,
+n
+g
+g
+g
+ bir Nash dengesi ise, heri için,
+*
+ig seçimi, Diğer
+çiftçilerin (
+)
+*
+*
+1
+*
+1
+*
+2
+*
+1
+,...
+,
+,...,
+,
+n
+i
+i
+g
+g
+g
+g
+g
++
+−
+ sayılarını seçmeleri halinde
+(
+)
+n
+i
+g
+g
+g
+u
+,...,
+,
+2
+1
+ kazancını
+maksimum yapması gerekir. Bu optimizasyon problemi için birinci basamak koşul, (21)’de
+türev alınarak bulunur:
+
+--- Sayfa 13 ---
+(
+)
+(
+)
+0
+*
+*
+=
+−
++
+′
++
++
+−
+−
+c
+g
+g
+v
+g
+g
+g
+v
+i
+i
+i
+i
+i
+
+(22)
+
+Burada
+*
+i
+g− sembolü,
+*
+*
+1
+*
+1
+*
+2
+*
+1
+...
+...
+n
+i
+i
+g
+g
+g
+g
+g
++
++
++
++
++
++
++
+−
+ eksik toplamını ifade etmektedir.
+
+(
+)
+(
+)
+(
+)
+(
+)
+0
+*
+'
+*
+0
+*
+*
+*
+=
+−
++
+⇒
+=
+−
++
+′
++
++
+−
+−
+c
+G
+v
+g
+G
+v
+c
+g
+g
+v
+g
+g
+g
+v
+i
+i
+i
+i
+i
+i
+
+(23)
+
+İfadesinde Substituting
+*
+i
+i
+g
+g =
+ koymakla ve n tane çiftçinin birinci basamak koşullarını
+toplamakla
+
+(
+)
+(
+)
+0
+*
+'
+*
+*
+=
+⋅
+−
++
+⋅
+c
+n
+G
+v
+G
+G
+v
+n
+
+(24)
+
+elde edilir. Tarafları  n ile bödüğümüzde de
+
+(
+)
+(
+)
+0
+*
+'
+*
+1
+*
+=
+−
++
+c
+G
+v
+G
+n
+G
+v
+
+(25)
+
+buluruz. Burada
+*
+*
+2
+*
+1
+...
+*
+n
+g
+g
+g
+G
++
++
++
+=
+ toplamıdır. Çiftçlerin kişisel kazancını en büyük
+yapan (
+)
+*
+*
+2
+*
+1
+,...,
+,
+n
+g
+g
+g
+ keçi sayısı seçiminin
+*
+G  toplamı bu diferansiyel eşitliği sağlar.
+
+Toplumsal çıkarı en fazla yapan
+*
+*
+G
+ keçi sayısı ise
+
+( )
+Gc
+G
+v
+G
+G
+−
+⋅
+∞
+<
+≤
+0Max
+
+(26)
+
+Probleminin çözümüdür ki, bunu için birinci basamak koşul türev almakla
+
+(
+)
+(
+)
+0
+*
+*
+'
+*
+*
+*
+*
+=
+−
++
+c
+G
+v
+G
+G
+v
+
+(27)
+
+Olarak bulunur. ( )
+G
+v
+ kazanç fonksiyonunun Şekil 3’te gösterilen genel yapısı ışığında (25)
+ve (27) diferansiyel denklemlerinin karşılaştırılmasından G* > G** bulunur: Nash
+dengesinde, toplumsal çıkarı en fazla yapan keçi sayısına nazarak çok daha fazla keçi yayılır.
+
+(
+)
+(
+)
+0
+*
+*
+=
+−
++
+′
++
++
+−
+−
+c
+g
+g
+v
+g
+g
+g
+v
+i
+i
+i
+i
+i
+
+(28)
+
+Eşitliği halihazırda
+ig keçisi olan ve sürüsüne bir keçi daha eklemek isteyen çiftçinin karşı
+karşıya kalacağı durumu anlatır. İlave bir keçinin getirisi (
+)
+*
+i
+i
+g
+g
+v
+−
++
+ ve masrafı c dir.
+Çiftçinin halihazır keçilerinin meraya verdiği zarar keçi başına (
+)
+*
+'
+i
+i
+g
+g
+v
+−
++
+, ya da toplam
+olarak
+(
+)
+*
+'
+i
+i
+i
+g
+g
+v
+g
+−
++
+⋅
+ olur.  Her çiftçi kendi çıkarını düşündüğünden doğal kaynak aşırı
+kullanılmaktadır. Çevreye verilen zarar olarak
+
+ (
+)
+(
+)
+0
+*
+'
+*
+1
+*
+=
+−
++
+c
+G
+v
+G
+n
+G
+v
+ içinde
+(
+)
+*
+'
+*
+1
+G
+v
+G
+n
+
+(29)
+
+fakat
+
+--- Sayfa 14 ---
+(
+)
+(
+)
+0
+*
+*
+'
+*
+*
+*
+*
+=
+−
++
+c
+G
+v
+G
+G
+v
+ içinde
+(
+)
+*
+*
+'
+*
+*
+G
+v
+G
+
+(30)
+
+bulunması bunu gösterir.
+
+5. SEÇİM KAMPANYASI
+İki siyasi partili bir demokraside, partiler adına propaganda konuşması yapmakta olan iki
+politikacı, propaganda yasağına iki gün kala, son kozlarını seçime etkisi büyük olacak A ve B
+şehirlerinde oynamak istiyorlar.
+Propaganda zamanını israf etmemek için şehirlerarası seyahatleri gece yapmaya, ya her iki
+şehirde birer gün, ya da şehirlerden birinde iki tam gün geçirmeyi planlıyorlar. Ancar yer
+ayırtmalar önceden yapılacağından s,yasetcilerden biri, kendiplanını yapmadan önce rakip
+siyasetçinin planını öğrenme imkanına sahip değil. Bu nedenle karar vermek için siyasetçiler
+seçim yardımcılarından her iki şehirde, yapılacak propagandanın etkilerinin ne olabileceği
+konusunda araştırma yapmalarını istiyorlar [12].
+Bu problemi iki oyunculu, sıfır toplamlı oyun ılarak formüle etmek için iki oyuncunun kimler
+olduğunu, oyuncuların stratejilerinin neler olduğunu, kazanç tablosunu belirlememiz gerekir.
+Bir kere oyuncular, politikacılardır. Stratejiler:
+Strateji 1: her şehirde bir gün geçir
+Strateji 2: her iki günü de A şehrinde geçir
+Strateji 3: her iki günü de B şehrinde geçir
+
+Kazanç tablosunda 1. oyuncunun karşısındaki sayı, 1. oyuncunun yararını gösterir. Aynı
+sayının ters işaretlisi 2. oyuncunun yararı olur.
+Politikacılar açısından amaç oy toplamaktır.  Seçim sonuçlarını öğrenmeden önce her oy aynı
+değerdedir. Bu yüzden kazanç tablosunun 1. politikacıya karşılık gelen sayıları,  diğer
+politikacıdan aldığı net oylar, yani  iki günlük propaganda sonunda, her iki şehirdeki net oy
+değişimleridir. 1000 oy 1 birim kabul edilerek bu formülasyon Şekil 4’te özetlenmiştir. Oyun
+teorisi  her iki politikacının da strateji belirlemek için aynı formülasyonu kullandığını
+varsaymaktadır.
+
+--- Sayfa 15 ---
+Aşağıdaki kazanç tablosu verildiğine göre, politikacılar hangi stratejileri seçmelidirler? Bu
+oyun, çekinik stratejilerin ardışık olarak elennerek cevabın bulunmasına imkan veren özel bir
+yapıdadır.
+
+Şekil 4.  Seçim propagandası probleminde 1. Politikacı için kazanç tablosu.
+
+İkinci strateji, rakip ne yaparsa yapsın,  daima en azından birinci strateji kadar iyi ise,  birinci
+strateji, ikinci strateji tarafından bastırılmaktadır, ya da birinci strateji ikinciye göre çekiniktir
+deriz. Çekinik bir strateji, daha sonraki mulahazalar için hemen silinir.
+Başlangıçta yukarıdaki tabloda 2. oyuncu için çekinik strateji yoktur. Ancak 1. oyuncu için 3.
+strateji, 2. oyuncu ne yaparsa yapsın 1. strateji tarafından bastırılmaktadır.  1 > 0, 2 > 1, 4 > -
+1. 3. stratejiyi daha sonraki incelemelrin dışında bırakırsak aşağıdaki kazanç tablosunu elde
+ederiz:
+
+1
+2
+3
+1
+1, -1
+2, -2
+4, -4
+2
+1, -1
+0, 0
+5, -5
+
+İki oyuncunun da rasyonel olduğunu varsayarsak, 2. oyuncu da 1. oyuncunun aslında iki
+stratejisi olduğunu farkedecektir. Bu indirgenmiş kazanç tablosunda 2. oyuncunun 3.
+stratejisi, hem 1. ve hem de 2. stratejisi tarafından bastırılmaktadır. 1 strateji için: 1 < 4, 1
+< 5; 2. strateji için: 2 < 4, 0 < 5. Bu stratejiyi tablodan silersek
+
+1
+2
+1
+1, -1
+2, -2
+2
+1, -1
+0, 0
+
+Elde ederiz. Bu noktada 1. oyuncunun 2. stratejisi, 1. stratejisi tarafından bastırılır. 2 > 0,
+1 = 1. Çekinik stratejinin silinmesiyle
+
+1
+2
+1
+1, -1
+2, -2
+Kazanılan net oylar
+2. Politikacı
+
+1
+2
+3
+1
+1, -1
+2, -2
+4, -4
+2
+1, -1
+0, 0
+5, -5
+1. Politikacı
+3
+0, -2
+1, -1
+-1, 1
+
+--- Sayfa 16 ---
+Bulunur ki, burada 2. oyuncunun 2. stratejisi, 1. stratejisi tarafından bastırılır. 1 < 2,
+böylece 2. strateji de elenmelidir. Neticede her iki oyuncunun da 1. stratejilerini
+seçmelerinin en akıllıca olduğu anlaşılır. Politikacılar her iki şehirde karşılaşmamak
+üzere birer gün propoganda yapacaklar ve sonuçta 1. politikacı 2.’den 1000 oy aktarmış
+olacaktır.
+Genel olarak, iki oyuncunun da çıkarlarına en uyan şekilde oynadıktan sonra 1. oyuncunun
+elde ettiği kazanca oyunun değeri denir. Değeri sıfır olan oyuna dürüst oyun denir.  Bu oyun,
+değeri 1 olduğundan dürüst bir oyun değildir.
+Çekinik strateji kavramı, incelenecek kazanç tablolarının küçültülebilmesine imkan veren çok
+yararlı bir kavramdır. Bu örnekte olduğu gibi nadiren küçültme sonuna kadar gider ve oyunun
+çözümüne kadar varır.  Ancak çoğu kez bundan sonra verilecek iki örnekte olduğu gibi,
+küçültme biğr yere kadar varır, ondan sonra çözümü buolmak iğçin farklı teknikler kullanmak
+gerekir.
+Bu yöntem
+Rasyonel oyuncular  kesin çekinik stratejileri oynamaz.
+genel kuralına dayandığı halde başlıca iki zaafı vardır. Birincisi her adım, oyuncuların
+birbirlerinin rasyonelliği hakkında ne bildiği konusunda bir varsayım gerektirir. Bu yöntemi
+bir çok adım tekrarlayacaksak, oyuncuların rasyonel kişiler olduğunun her kes tarafından
+bilindiğini varsaymamız gerekir. Kesin çekinik stratejilerin ardışık elenmesi yönteminin ikinci
+zayıflığı, yöntemin oyun hakkında çoğu kere hassas olmayan sonuçlara götürmesidir.
+
+ Yukarıdaki siyaset oyununun biraz değitirilmesi ile elde edlen aşağıdaki oyuna bakalım. Bu
+oyunda elenecek kesin çekinik strateji bulunmamaktadır. Bu nedenle yöntem bizi bir sonuca
+götürmez.
+
+Şekil 5.  Kesin çekinik strateji olmayan bir kazanç tablosu.
+
+Toplam net oylar
+2. Politikacı
+
+1
+2
+3
+1
+-3, 3
+-2, 2
+6, -6
+2
+-2, 2
+0, 0
+-2, 2
+1. Politikacı
+3
+5, -5
+-2, 2
+-4, 4
+
+--- Sayfa 17 ---
+Aşağıdaki oyunda da elenecek kesin çekinik strateji bulunmamaktadır
+
+Şekil 6.  Kesin çekinik strateji olmayan bir başka kazanç tablosu.
+
+6. SONUÇLAR VE ÖNERİLER
+
+1984’te John Nash’in ekonomi dalında Nobel ödülü kazanmasıyla dikkatler ilk defa oyun
+teorisine çevirildi. Yirmi senelik süre teorinin iktisat ve siyasette uygulamalarının hızla
+büyümesine şahit olurken, 2005 Nobel Ekonomi ödülünün yine iki oyun teoriciye, T. C.
+Schelling ve R. Aumann’a gitmesi, oyun teorisinin hem siyaset ve hem de iktisat bilimlerinin
+merkezine yerleşmesine neden oldu.
+
+Oyun teorisinin gelişme istikametlerinden biri etnik guruplar arasındaki ya da uluslararası
+snlaşmszlılların çözümüne olan katkısıdır. Gunumuzde her hukumet danışmanları arasına en
+usta oyun teorisyenlerini almaya çalışıyor. Rekabetçi bir piyasada tutunmaya çalışan şirketlerin
+oyun teorisi uzmanlarına ihtiyacı hiç de az değil. Ulkemizde de siyaset ve iktisat bilimleri ile
+ilgili eğitim proğramlarına oyun teorisi muhakkak dahil edilmelidir.
+
+Genç akademisyenlerimiz bu istikamette hızla gelişen, çok hareketli bir araştırma alanı
+bulacaklardır.
+
+        2. Oyuncu
+
+1
+2
+3
+1
+0, 4
+4, 0
+5, 3
+2
+4, 0
+0, 4
+5, 3
+1. Oyuncu
+3
+3, 5
+3, 5
+6, 6
+
+--- Sayfa 18 ---
+7. KAYNAKLAR
+
+1. Cournot, A. 1838. “Recherches sur les Principes Mathe'matiques de la Theorie des
+      Richesses. English edition: Researches into the Mathematical Principles of the Theory
+      of Wealth”. Edited by N, Bacon. New-York: Macmillan, 1897.
+2.   Edgeworth, F.Y., “Mathematical Psychics”,  London: Kegan Paul, 1881.
+3.   Nash, J., Equilibrium Points in n-Person Games. “Proceedings of the National
+      Academy of Sciences”: 36:48-49, 1950.
+4.   Gibbons, R., “Game Theory For Applied Economists”, 14-21, Princeton University Press,
+      1992.
+5.   Rubinstein, A., Perfect Equilibrium in a Bargaining Model, “Econometrica” 50: pp.97-
+      109, 1982,.
+6.   Nash, J. F., The Bargaining Problem, “Econometrica”, 18: pp.155-162, 1950.
+7.   Nash, J. F., Two-Person Cooperative Games, “Econometrica”,  21: pp.128-140, 1953.
+8.   Stahl, I., “Bargaining Theory”, Economics Research Institute, Stockholm School of
+      Economics, 1972.
+9.   Rubinstein, A, A Bargaining Model With Incomplete InformationAbout the Time
+Preferences, “Econometrica”,   53: pp.1151-1172, . 1985.
+10. Shaked, A., and J. Sutton. 1984. Involuntary Unemployment as a Perfect Equilibrium in a
+      Bargaining Model. Econometrica 52:1351-64.
+11. Hume. D., “A Treatise on Human Nature” (Everyman edition: J. M. Dent. 1952), 1739.
+12. Lieberman, H., “Operations Research”, Mc Graw Hill, 2005.

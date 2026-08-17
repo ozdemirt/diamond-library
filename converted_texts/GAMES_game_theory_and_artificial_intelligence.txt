@@ -1,0 +1,892 @@
+--- Sayfa 1 ---
+GAMES, game theory and
+artificial intelligence
+John T. Hanley
+US Naval War College, Newport, Rhode Island, USA
+Abstract
+Purpose – The purpose of this paper is to illustrate how game theoretic solution concepts inform what classes
+of problems will be amenable to artificial intelligence and machine learning (AI/ML), and how to evolve the
+interaction between human and artificial intelligence.
+Design/methodology/approach – The approach addresses the development of operational gaming to
+support planning and decision making. It then provides a succinct summary of game theory for those designing
+and using games, with an emphasis on information conditions and solution concepts. It addresses how
+experimentation demonstrates where human decisions differ from game theoretic solution concepts and how
+games have been used to develop AI/ML. It concludes by suggesting what classes of problems will be amenable
+to AI/ML, and which will not. It goes on to propose a method for evolving human/artificial intelligence.
+Findings – Game theoretic solution concepts inform classes of problems where AI/ML ’solutions’ will be
+suspect. The complexity of the subject requires a campaign of learning.
+Originality/value – Though games have been essential to the development of AI/ML, practitioners have yet
+to employ game theory to understand its limitations.
+Keywords Game theory, Games, Artificial intelligence
+Paper type Conceptual paper
+Introduction
+Playing games is a natural activity for humans and other animals to make sense of, explore,
+experiment and adapt to their environment [1]. The lusory play-mood of games encourages
+players to project imagination beyond their current physical circumstances, thus promoting
+creativity and innovation. Going beyond the physical to the metaphysical, from prehistory
+on, games have played roles in ritual, and animal bones have been used for both divination
+and early games of chance. The ancient Egyptians played chess-like board games using dice,
+presumably abstractions representing battle as were used by all advanced ancient societies
+(David, 1998).
+With the exception of cards coming from ninth century China to Europe around 1,350
+(David, 1998), games in different societies remained more similar than different until the
+Scientific Revolution in the seventeenth century where diplomat-scientist-philosopher-
+mathematician Gottfried Wilhelm (von) Leibniz combined the manipulation of symbols in
+language and games as a basis for logical truth, and wrote a paper anticipating computer
+languages. Leibniz sought to bring similar logical processes to his war game designs. He
+proposed a “German military system” in which:
+Newly invented war game, colonels and captains, also other commanders practice it instead of the
+chessboard and card game, and come to greater science, speed and invention [emphasized in original];
+one could represent with certain game pieces certain battles and skirmishes, also the position of the
+forces, and the lay of the land, both at one’s discretion and from history, for example if one wanted to
+play the Battle of L€utzen, the skirmish with the French at Eisisheim and other historical events;
+JDAL
+5,2
+114
+John T. Hanley. © In accordance with section 105 of the US Copyright Act, this work has been produced
+by a US government employee and shall be considered a public domain work, as copyright protection is
+not available. Published in Journal of Defense Analytics and Logistics. Published by Emerald Publishing
+Limited.
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/2399-6439.htm
+Received 6 October 2021
+Revised 26 October 2021
+Accepted 26 October 2021
+Journal of Defense Analytics and
+Logistics
+Vol. 5 No. 2, 2021
+pp. 114-130
+Emerald Publishing Limited
+2399-6439
+DOI 10.1108/JDAL-10-2021-0011
+
+--- Sayfa 2 ---
+thereby on would often find what others missed and how we could gain wisdom from the losses of
+our forerunners (von Hilgers, 2012, p. 28)
+The Prussian Kriegsakademie, founded by General Gerhard von Scharnhorst in 1801,
+eventually established such a system and adopted the von Reiswitzs’ Kriegspiel adopted
+in 1824.
+Contemporaneously, patrician and merchant Christopher Weikhmann developed the
+chess-like Newly Invented Great King’s Game as an means to derive a “state and war council,”
+whereby “the most necessary political and military axiomata, rules and ways of playing . . .
+without great effort and the reading of many books, are shown and presented as if in a
+compendio” to those who studied the game diligently [2]. Leibnitz’s and Weikhmann’s efforts
+were the first to make abstract gaming used for entertainment and improving strategic
+intuition into games for operational planning and decisions.
+Scharnhorst’s approach to military science and Prussian successes in the 1886 war
+against Austria and 1870–1871 war against France led to widespread adoption of their
+processes as war colleges and gaming proliferated among major military powers. Before First
+World War, a British political game contributed to the formation of the Triple Entante
+between the UK, France and Russia. Gaming demonstrated the weaknesses in the German
+war plans in the west and the Russian war plans in the east. The gaming and exercises
+conducted by the Germans between the World Wars laid the foundations for the rapid
+expansion of Wehrmacht beyond the limits set in the treaty ending First World War and their
+victories early in Second World War. In 1940, Soviet gaming again demonstrated weaknesses
+in their plans, but they were too slow to reorganize and adapt. Similarly, early Japanese
+victories in Second World War followed the course of their games. US Navy gaming and
+exercises led to a deep appreciation of the upcoming war in the Pacific, contributing to
+winning the war (Hanley, 1992).
+War gaming did not have the same salience immediately following Second World War as
+US and Soviet war colleges turned to harvesting the lessons of the war and German and
+Japanese forces were restricted in their activities. However, business and government policy
+makers found operational gaming “a powerful method for simultaneously mastering
+complexity, enhancing communication, stimulating creativity, and contributing to consensus
+and a commitment to action (Duke and Geurts, 2004).” The mathematics of Operations
+Research developed and employed during Second World War displaced much of the US
+military analytic effort that had gone into war gaming, and accelerated with the development
+of computers. However, during the 1980s war gaming at the Naval War College and fleet
+exercises played a similar role in the development and implementation of the Maritime
+Strategy as it had during the interwar years (Hanley, 2014, pp. 11–29).
+In addition to mathematical programming for optimization and stochastic processes that
+formed the core of the Operations Research discipline, game theory and computer science
+further developed during Second World War. Twentieth century mathematicians studied
+ways to play chess better. This led to John von Neumann proving a saddle-point minimax
+strategy as the best solution for two-person zero-sum games in 1928, and with Oskar
+Morgenstern publishing a comprehensive Theory of Games and Economic Behavior in 1944
+extending the theory to cooperative and non-cooperative games other than constant sum, and
+with more than two people.
+Computer advances and Alan Turing’s writings on “thinking machines” led to a
+conference at Dartmouth College in 1956 where the term artificial intelligence (AI) was coined.
+Early work on AI explored neural nets and machine learning. By 1959, Arthur Samuel had
+developed a machine that could beat him at checkers using game theory as the basis for
+rational choice and employing novel techniques (Holland, 1998). Since then, game theory has
+played a major role in machine learning and electronic commercial games. Artificial
+Game theory
+and artificial
+intelligence
+115
+
+--- Sayfa 3 ---
+intelligence has gone through several waves of enthusiasm and disappointment (Richbourg,
+2018). With recent successes in machine learning with algorithms that can beat humans at Go
+and the Department of Defense’s interest in AI, another wave is cresting. AI is finding many
+uses in areas from designing drugs to robots to social control in China and will have many
+commercial successes. However, game theory is key to understanding the kinds of problems
+having well founded solution concepts, and where to expect problems in AI used to inform
+decisions in situations involving paradoxes and dilemmas in competition and cooperation.
+A game theory primer for gamers
+Game theory provides an “elaborate mathematical development centered solely in the social
+sciences (Luce and Raiffa, 1957).” It begins with utility theory to provide an approach for
+quantifying the value of known, certain outcomes for each individual [3].
+Types of games
+Reflecting their interest in economic and social coalitions, von Neumann and Morgenstern
+distinguished between “inessential” games in which coalitions and side-payments between
+partners play no role, and “essential” games where they do. Inessential games include two-
+person, zero-sum games where one person gains what the other loses and two-person, non-
+zero-sum non-cooperative games where the sum of the outcomes for the players is not zero,
+making them not strictly competitive, and where mutual gain is always a possibility, but no
+pre-play communication between players is permitted. In repeated plays of the second type,
+observing the other player’s choices provides a means for signaling within the game, but no
+other messages may be sent.
+Essential games include two-person cooperative games where pre-play messages are
+transmitted without distortion, all agreements are binding and enforceable by the rules of the
+game, and a player’s evaluations of the outcomes are not affected by the pre-play
+negotiations; and n-person games where going beyond two people allows for the formation of
+coalitions [4]. Where assumptions about pre-play negotiations or other communications not
+affecting the evaluation of outcomes are too strong, one can revise the formulation of the
+game to explicitly include negotiations and communications, though coding written and
+verbal language, expressions and behavior are a challenge for any quantitative method.
+Information conditions
+The information that each player, and umpires, have performs a determinative role in game
+theory to the point that changing the information conditions changes the game. The
+information conditions address what information is available to each player at every stage of
+the game, what is the role of a player being informed about the other player’s strategy, and
+about the entire theory of the game (von Neumann and Morgenstern, 2004, p. 47).
+Complete information. To “divide the difficulties” of assuming otherwise, von Neumann
+and Morgenstern assumed that the subjects under consideration “are completely informed
+about the physical characteristics of the situation in which they operate and are able to
+perform all statistical, mathematical, etc. operations which this knowledge makes possible
+(von Neumann and Morgenstern, 2004, p. 30).” Incomplete information is where this
+assumption does not apply.
+Perfect information. Where at every point of time during the play of a game each player
+with a decision to make knows all of the previous moves of the other players when making a
+move. Chess is an example of a game with perfect information (von Neumann and
+Morgenstern, 2004, p. 51). Simultaneous moves where previous moves are known provides
+“almost perfect” information. Lacking perfect information, players need to randomize their
+JDAL
+5,2
+116
+
+--- Sayfa 4 ---
+decisions to achieve the best outcomes (von Neumann and Morgenstern, 2004, pp. 183–184;
+Shubik, 1982, p. 37).
+Imperfect recall. In games like Bridge players decide upon their bids not knowing the
+contents of their partner’s hand. Games involving teams representing a player may not know
+of moves other teammates have made or the information on which those moves were based. In
+games with imperfect recall, players may need to make a random choice of strategy at the
+beginning of play, so that the actions of their agents will be properly correlated. In games with
+perfect recall, randomizing decisions can be deferred until actual decision points are reached.
+Mixed strategies of this kind with on-the-spot randomizations are called “behavioral
+strategies” in the literature, and are far easier to work with, both in theory and practice, than
+general mixed strategies (Shubik, 1982, pp. 37–38). Imperfect recall leads to “direct” signaling
+in Bridge as opposed to “inverted signaling,” or bluffing, in Poker (von Neumann and
+Morgenstern, 2004, p. 54).
+Game theory primarily treats exogenous uncertainty from random processes as “nature’s
+moves.” For calculation, it treats the associated probabilities as known. Decision theories
+make greater distinctions between decisions under “risk” where probabilities are known, and
+uncertainty where the probabilities are more subjective (Luce and Raiffa, 1957).
+Game-theoretic forms
+The theory provides for three forms to represent a game: extensive, strategic (or normal) form
+and the characteristic function. The first level of application of game theoretic analysis is in
+the selection of which way to represent the game.
+Extensive form. Modeling games in extensive form captures the timing of the players’
+moves relative to relevant events and representations of what the players knew about other’s
+choices when they selected their move. Figure 1 illustrates two simple games in extensive
+form involving players Red (R) and Blue (B) making sequential moves in 1a, where Blue
+knows Red’s choice when making its move, and “simultaneous” moves in 1b, where both
+Figure 1.
+Games in extensive
+(tree) form
+Game theory
+and artificial
+intelligence
+117
+
+--- Sayfa 5 ---
+sides select their move without knowing the other’s choice [5]. For simplicity, these games
+represent Red having three and Blue having two alternatives, one “branch” representing each
+alternative. A move involves choosing one of the possible alternatives.
+A strategy in game theory means a complete description of how a player intends to play a
+game, from the beginning to the end. “The test of completeness of a strategy is whether it
+provides for all contingencies that can arise, so that a secretary or agent or programmed
+computer could play the game on behalf of the original player, without having to return for
+instructions (Shubik, 1982, p. 34).” In policy making and the military the term course of action
+(COA) represents following one path down the game tree. COA is used below to avoid
+confusion with other concepts of strategy.
+The alternatives are numbered and the outcomes indicated with subscripts relating to the
+player’s choice of that alternative; e.g. OIJ indicates the outcome should Red select COA i and
+Blue select its COA j. The payoffs to Red and Blue are indicated similarly by Rij and Bij
+respectively. The payoffs are the value (utility) of the outcome to each player [6]. Should the
+value of all outcomes be equal and opposite for Red and Blue (i.e. Rij 5 Bij for all Red COAs i
+and Blue COAs j), the game would be zero-sum. In general, though some situations, such as
+winning or losing a duel, may be usefully modeled as a zero-sum game, the more
+considerations involved in the outcome, the less valuable modeling the game as zero-sum is
+likely to be.
+Figure 1b also illustrates two ways for representing simultaneous moves, and the
+information available to players when they chose their next move. The bubble (ellipse)
+around the positions at which Blue selects its move indicates that Blue does not know which
+move Red has selected when it makes its choice. The set of points enclosed is called an
+information set (Shubik, 1982, p. 42). For simultaneous moves the information set consists of
+one point. The lower figure is an alternative representation of Blue with one information set
+that shows it is the equivalent of the players choosing simultaneously among their
+alternatives.
+In a game with more than two players, the sequence of player alternatives and moves is
+represented adding to the detail above. Nature and game adjudicator decisions are treated
+similarly to a player, representing their adjudications as moves in the game.
+The positional form is a variant of the extensive form useful for reducing redundancy in
+the many games such a Checkers, Chess or Go where pieces can reach the same physical
+positions through various sequences of moves and the history of the game is not relevant to
+the play. A directed graph, network structure, allowing different lines of play to merge is one
+way to capture the moves in such a game. Since the positions of the pieces are used to evaluate
+future moves in machine learning and artificial intelligence, the positional form may save
+computations. This form resembles a flow diagram for a computer program. As with
+computers, loops can result in moves of infinite duration. Chance and simultaneous moves
+can be treated as before, but all nodes with multiple incoming edges are assumed to have the
+same information. Most positional games in the literature have perfect or almost perfect
+information. Also, players may make a different choice when re-arriving at a node,
+complicating the enumeration of strategies. “Stationary strategies’ are where the player uses
+selects the same alternative at each opportunity to move. In games like Monopoly arriving at a
+position leads to a “spot payment,” which when summed up leads to ruin or survival. The
+chance events associated with the roll of dice make the game stochastic (Shubik, 1982,
+pp. 48–57).
+Strategic form. If the focus of the analysis is on strategy and payoffs, representing a game
+in strategic form may be more useful than the extensive form. A two-person game in strategic
+form (also called the normal form) is represented as a two-dimensional matrix. Each player
+represents a dimension, requiring games with three players to be drawn as cubes, and games
+JDAL
+5,2
+118
+
+--- Sayfa 6 ---
+with more than three players being even more challenging to illustrate. Figure 2 illustrates the
+same games as Figure 1, but in strategic form.
+Going to the strategic from the extensive form loses many details of the move sequence
+and information structure. However, the strategic form of these simple games shows the
+importance of intelligence of the other players move. Blue has many more COAs available
+when acting with knowledge of Red’s COA than without that knowledge. Here the strategies,
+or COAs, available to Blue going from the simultaneous to the sequential game go from
+selecting either COA 1 or 2 to selecting among eight along the lines of (1,1); (1,2); (1,3), which
+means Blue selects 1 if Red selects 1; Blue selects 2 if Red selects 1; Blue selects 3 if Red selects
+1, etc. In general, the number of Blue’s strategies is the number of its alternatives raised to the
+power of number information sets at the point of choice. Transitioning from a multi-move
+game in extensive form to one in strategic form requires careful book keeping. Accounting for
+all of the combinations of possible COAs in games with many moves is daunting and
+produces very large matrices.
+Characteristic function. In considering cooperation among more than two players in his
+original work on game theory in 1928, Von Neumann formulated the notion of a characteristic
+function that assigns a value to every coalition that can be formed in a game [7]. Table 1
+illustrates such a game with three players. V(i) indicates the value that player i could achieve
+acting alone. V(ij) indicates the value that players i and j could achieve acting together in a
+coalition. V(123) indicates the value that all three players could receive if they all participated
+in a coalition. The characteristic function is a pre-solution, as matters of how the players
+should share the gains from a coalition require further analysis. This form leaves behind all
+V(1) 5 1
+V(2) 5 1
+V(3) 5 2
+V(12) 5 4
+V(13) 5 4
+V(23) 5 7
+V(123) 5 11
+Figure 2.
+Game in strategic, or
+normal, form
+Table 1.
+Game in
+characteristic form
+Game theory
+and artificial
+intelligence
+119
+
+--- Sayfa 7 ---
+questions of tactics, information and physical transactions to deal with essential features of n-
+person problems. This form must be modified or abandoned when addressing strategic with
+coalitional questions (Shubik, 1982, p. 129).
+Solution concepts. In introducing their theory of games and economic behavior, von
+Neumann and Morgenstern devoted careful attention to their meaning of a solution concept
+(von Neumann and Morgenstern, 2004, pp. 31–45). Game theoretic solution concepts involve
+mathematically complete principles of “rational behavior” for the participants in a social
+economy to derive general characteristics of that behavior. To allow mathematical treatment,
+“rational behavior” involves maximizing individual “utility,” as formulated for the theory.
+The definition of a solution:
+must be precise and exhaustive in order to make a mathematical treatment possible. The construct
+must not be unduly complicated, so that the mathematical treatment can be brought beyond the mere
+formalism to the point where it yields complete numerical results. Similarity to reality is needed to
+make the operation significant. And this similarity must usually be restricted to a few traits deemed
+“essential” pro tempore – since otherwise the above requirements would conflict with each other.
+Recognizing the difficulty of finding principles valid in all situations, they sought to find
+solutions for some special cases.
+The concept of a solution “is plausibly a set of rules for each participant which tell him how
+to behave in every situation that may conceivably arise.” These rules account for the
+irrational conduct on the part of others in the sense that irrational conduct produces less
+utility for that participant than rational behavior would have. Using utility, the solution
+summarizes how much the participant under consideration could get by behaving
+“rationally,” recognizing that more could be obtained if other participants behaved
+irrationally.
+Ideally, the game would lead to a solution that had just one set of payoffs [8]. In his 1928
+paper von Neumann proved that two-person, zero-sum games have a saddle-point where the
+minimizing the maximum (the minimax) that one player receives equals maximizing the
+minimum (the max-min) that the other player receives. Realizing this point may require
+randomizing between two strategies rather than adopting a single strategy. But this solution
+only occurs in two-person zero-sum games.
+Moving on to two-person variable sum, then to more than two people (which allows
+cooperation against the third party – leads to multiple sets, and sets of sets, of feasible payoffs
+for each player) [9]. A dominant strategy is where one player can achieve their goals no matter
+what other players do presents an obvious choice. However, that rarely occurs. Nash
+equilibria, named after John Nash, where no player can improve their position given the other
+players’ choices is another common aspect of a solution, but multiple equilibria in a game is
+not uncommon [10]. In general, though concepts for solutions to all types of games exist, as
+one moves from two-person, zero-sum games the possible solutions are not unique and
+additional rules for what constitutes a solution must be added, which limits the solution to
+cases where that set of rules applies [11].
+To summarize, game theory solutions are mathematical constructs. Game theoretic
+solutions deduce the set of outcomes that are consistent with the embedded assumptions
+about individual and group behavior (Shubik, 1975, p. 91). “As long as the logic is sound, a
+solution cannot be wrong per se. However, a solution can be irrelevant in the sense that it fails
+to provide reasonable normative advice and is of little use in predicting behavior (Shubik,
+1975, p. 276).” Game theorists understand that “multi-person games cannot be properly
+analyzed or solved until adequate information is provided about the social climate – in
+particular, about the possibilities for communication, compensation, commitment, and trust.
+Given this sociological information, one can proceed to the selection of a suitable solution
+concept (Shubik, 1982, p. 24).” An accurate criticism of game-theoretic solutions, as with other
+JDAL
+5,2
+120
+
+--- Sayfa 8 ---
+mathematical models, is that this may not be possible without far more detailed knowledge
+than is usually available, and then the solution applies only to the narrow set of conditions
+modeled.
+Experimentation provides some insight into the relevance of various solution concepts.
+Game theory provides a theoretical framework for extending experimental psychology to
+interpersonal and social relations. The theory provides constructs that sharpen concepts of
+“conflict and co-operation, trust and suspicion, power of bargaining, balance of bargaining
+advantage, and equity . . . (Rapoport, 1960, p. 214)” Experiments identify actual norms of
+behavior. “The game theory is extremely useful in setting up the game, but the running of the
+game is our means to explore behavior (Shubik, 1975, p. 92).”
+Experimenting with games and results
+Designing and using games in the study of game theory and social behavior dates from the
+early 1950s. At Princeton graduate students including John Nash, Lloyd Shapley and Martin
+Shubik informally discussed the use of games in the study of game theory and devised “so
+long sucker” to illustrate the vital roles of coalition formation and double-crossing [12].
+Shubik also created the “dollar auction” as a demonstration of escalation. In this game both
+the winning bidder and the second highest bidder have to pay their bids for the dollar. The
+game is a way for instructors to make some money on the side while teaching game theory.
+The scope of experimentation includes attempts to directly verify the worth of various
+game-theoretic solution concepts for relatively abstract games; social psychological
+experimentation; the study of behavioral characteristics of individuals in loosely structure
+games; the analysis of human factors; logistics and military research for large operational
+games, and the investigation of social factors and basic learning procedures in the study of
+the effectiveness of gaming for teaching (Shubik, 1975, pp. 209–210). Experimental gaming
+has been used with success in psychology and economics, and to a lesser extent in
+organizational theory and political science (Shubik, 1975, p. 10).
+Classic 2 3 2 non-constant-sum games. Because 2 3 2 games are relatively few in number
+and can be used to illustrate several of the paradoxes involving the relationship between
+individual isolated and interactive behavior, they are frequently used in experimentation [13].
+Some of the 2 3 2 games have been given names. Classic among these games are the
+Prisoners’ Dilemma, the Battle of the Sexes and the game of Chicken.
+Prisoner’s Dilemma is a game where two completely rational individuals might not
+cooperate, even though cooperation would produce a better outcome. The story that goes
+with the game is that two members of a criminal gang are arrested and imprisoned. The
+prisoners are separated with no means of communicating with the other. The prosecutors
+lack sufficient evidence to convict the pair on the principal charge, but they have enough to
+convict both on a lesser charge. Simultaneously the prosecutors offer each prisoner a bargain.
+Each prisoner is given the opportunity to either betray the other by testifying that the other
+committed the crime, or to cooperate with the other by remaining silent. The possible
+outcomes are:
+(1)
+If R and B each betray the other, each of them serves two years in prison
+(2)
+If R betrays B but B remains silent, R will be set free and B will serve three years in
+prison (and vice versa)
+(3)
+If A and B both remain silent, both of them will serve only one year in prison (on the
+lesser charge)
+In strategic form the matrix is as shown in Table 2 with representative payoffs.
+Game theory
+and artificial
+intelligence
+121
+
+--- Sayfa 9 ---
+The game demonstrates where choosing what is individually rational provides other than
+what may be considered a socially rational outcome. The only non-cooperative equilibrium
+for the Prisoner’s Dilemma is for both to betray each other, since that is the least bad outcome
+given that neither knows what the other will do. The prisoners would be better off with
+cooperation.
+In the Battle of the Sexes a man and a woman must agree on one of two possible activities
+(such as which movie to see) where their preferences differ. If they do not agree, they do
+neither activity, but are unhappy with each other. Table 3 shows a payoff matrix of the value
+to them for going to her movie, his movie or disagreeing and not going out.
+In the Game of Chicken two hot-rodders drive towards each other on a collision course. If
+they stay on course, they both crash. If one veers and the other stays on course the later
+“wins” and the former is chicken. If both veer their mutual shame cancels out. Table 4 shows
+representative payoffs.
+Control and context. The participants in the experiments are individuals, often students,
+“who come equipped with social conditioning, language and memory of individual
+experience. When they come to an experiment their memories and conditioning cannot be
+wiped out.” In their work on game theory Shapley and Shubik suggested that the condition of
+“external symmetry” be made explicit in game models (Shubik, 1982, p. 16). This condition
+indicates that unless explicitly modeled otherwise, all aspects of the players are assumed to be
+the same. In fact, they never are. At best the experimenter can suggest that as a first order
+approximation the individuals are sufficiently similar. When little in the way of context is
+provided, the influence of differences in wording instructions is magnified.
+Von Neumann began his explorations into game theory by illustrating a completely
+rational solution to a zero-sum game. Thus, from experimental data on zero-sum games one
+can draw conclusions about how the actual behavior of people departs from rationality in a
+completely competitive situation. However, “Even at the level of two-person zero-sum games
+context and professional training appear to be relevant. An early PhD thesis of Simon (1967)
+utilized business school and military science majors playing a two-person, zero-sum game
+with three scenarios for the quantitatively same game. One scenario was based on business,
+one was military and one was abstract. Different results were obtained in all instances.” That
+B Remains silent
+B betrays R
+R remains silent
+1, 1
+3, 0
+R betrays B
+0, 3
+2, 2
+Choose her movie
+Choose his movie
+Choose her movie
+2, 1
+1, 1
+Choose his movie
+1, 1
+1, 2
+Stay on course
+Veer
+Stay on course
+10, 10
+5, 5
+Veer
+5, 5
+0, 0
+Table 2.
+Prisoner’s Dilemma
+payoff matrix
+Table 3.
+Battle of the Sexes
+payoff matrix
+Table 4.
+Game of Chicken
+payoff matrix
+JDAL
+5,2
+122
+
+--- Sayfa 10 ---
+said, “The pure strategy saddle point when it exists provides a reasonably good prediction of
+how people behave (Shubik, 1975, p. 245)”
+An extensive literature exists on cooperation in repeated plays of the Prisoner’s Dilemma.
+Other experiments used different communication conditions (no communication,
+communication, reversible decision and non-simultaneous decisions) and three orientations
+(cooperative emphasizing joint maximization, individualistic where each player was told to
+look out for himself, competitive where each player was made to feel that he played against
+the other). Results of the experimentation demonstrated the value of communication and
+performing a trusting act in achieving cooperation, though betrayal continued to occur in all
+communication conditions. Players’ orientations also significantly affected their choices, as
+did the presence of an “obnoxious” person present as an observer (Rappaport, pp. 218–222).
+One set of experiments involved showing students the payoff matrices of the three
+classical games without descriptions of the choices and having them assign the three names
+to the matrices. There appears to be some support that “numbers tell a story” for the Battle of
+the Sexes but little for the Prisoner’s Dilemma or the Game of Chicken. After the students
+were told of the names of the games, they for the most part agreed that the names were
+“reasonable.” But the percentage of correct guesses indicated at best a fairly weak association
+(Shubik, 2001b, p. 10). Experiments changing the name of the Prisoner’s Dilemma have
+produced different levels of cooperation and betrayal.
+Interpersonal comparison. The three games above have symmetric payoffs for the players.
+Experiments routinely demonstrate that payoffs that are not symmetric, though strategically
+equivalent in having the same equilibrium point (such as multiplying one player’s payoffs by
+100), affects choice as players compare their payoffs to others rather than choosing what
+strategy guarantees their best outcome (Shubik, 2001b, p. 11). Choosing based upon the
+difference in payoffs changes a two-person, non-zero-sum game into zero-sum.
+Tacit communications. Recognizing the limitations of the assumptions of game theory and
+focused on situations involving mixed motivations for competition and cooperation, Thomas
+Schelling sought to extend game theory into a theory of interdependent decision. He
+experimented with situations where the players had common or differing interests, and where
+they could not communicate or could explicitly bargain. He found that even without
+communication people could “often concert their intentions or expectations with others if
+each knew the other was trying to do the same (Schelling, 1960, p. 57).” Schelling concluded
+that in situations where collaboration is advantageous, even where conflict of interest is also
+present but where direct bargaining is impossible, tacit agreements will take place, provided
+the two parties can seize on some prominent, preferably unique feature of the situation, which
+one has reason to believe the other will also seize upon. Also, significantly, the impossibility of
+explicit bargaining precludes quantitative compromises, typical of the results of haggling.
+Even with explicit bargaining, the “solutions” that people arrive at involve some special
+feature of the situation, such as status quo ante. Rather than a continuous range of
+possibilities from most to least advantageous for either side, people are better able to
+recognize qualitative rather than quantitative differences that are lumpy and discrete.
+Using game theory, repeating a 2 3 2 game once produces an 8 3 8 matrix of strategies.
+The size of the matrix grows dramatically with each repetition of play. Providing the players
+with a large matrix of strategies to decide on their course of action is not the same as having
+them repeatedly play the game, where their play provides a form of tacit communication [14].
+Recent research shows that human’s ability to detect patterns stems in part from the
+brain’s goal to represent things in the simplest way possible, balancing accuracy with
+simplicity when making decisions. Errors in making sense of patterns are essential to getting
+a glimpse of the bigger picture, as when looking closely at a pointillist painting, and then
+stepping back to get a sense of the overall structure (Lynn et al., 2020). This theme of
+balancing the level of detail to arrive at an appropriate scale for identifying patterns is a
+Game theory
+and artificial
+intelligence
+123
+
+--- Sayfa 11 ---
+common theme in language, play, gaming, mathematics and studying emergence in complex
+adaptive systems.
+Cooperative games and coalitions. Three-person nonconstant-sum games provide many
+ways to form coalitions and divide the proceeds of coalitions that are formed. The
+characteristic function describes the value of each possible coalition and feasible divisions of
+the proceeds. Game theory provides many possible solutions for dividing the proceeds,
+making these games a rich source for experimenting with the merit of the various solutions. In
+general, when the set of feasible divisions is large, players select a feasible solution. The
+smaller this set, the less often players select a feasible solution (Shubik, 1975, pp. 262–
+269, 2001b).
+Some implications for game design, observation and analysis
+Game theory can be employed at high-church, low-church and folk levels [15]. High-church
+game theory is found in publications such as Mathematics of Operations Research. Low-
+church game theory employs simplified features of game theory to explore the logic of
+particular contingencies. Folk-level game theory is at the level of the narratives that go with
+these classic 2 3 2 non-constant-sum games that allow win-win and lose-lose solutions.
+All three have had impact. But it is the third which has caught the imagination of the
+public. These classical games suggest that game designers, controllers and analysts should
+employ folk-level game theory to address fundamental features of narrative used in the
+scenario framing the contingency under study. Is it a situation where trust is required to
+accomplish the best outcomes for the players? Is it a case where cooperation is required,
+recognizing that one party will accept the other obtaining a greater gain, or both will lose
+possible gains? Is it a situation where not losing means dying? One test of rational play is
+whether the players choose to accept worse outcomes rather than make the required
+compromises.
+Of course, one must have the information to understand what the player considers a worse
+outcome. Many examples of individuals selecting other than “objectively” rational behavior
+exist. One recent example is young Koreans choosing shibal biyong “fuck-it expense” as a
+means to vent their frustration with their future prospects, a trend that applies to other
+nation’s millennials (Kim, 2019).
+Artificial intelligence and games
+Continuing his work in set theory, von Neumann’s development of game theory followed
+Ernest Zermelo, Emile Borel and others’ efforts seeking mathematical approaches for
+determining a method of play better than all others in chess and other games without any
+reference to psychology (Leonard, 2010). As the speed of computations has increased,
+computers have been used to experiment on better ways of playing games. One prominent
+view defines artificial intelligence as “the study and construction of rational agents,” thus
+establishing the connection to game theory when multiple agents are involved (Norvig and
+Russell, 2003).
+Working on the Defense Calculator in 1952, John Holland and his colleague Arthur Samuel
+found that the computer opened possibilities for exploring models far beyond what could be
+done with pencil, paper and an adding machine (Holland, 1998). They aimed to write
+programs that could learn as their calculations explored alternatives, that would allow them
+to tell the computer what to do without telling it how to do it. Holland attacked the problem
+through the metaphor of neural nets while Samuel developed a technique he named Machine
+Learning. Following the work of von Neuman and others on chess, they chose to look at board
+games; in this case Checkers.
+JDAL
+5,2
+124
+
+--- Sayfa 12 ---
+Rather than following the neural net approach of trying to understand how humans make
+decisions, Samuel chose to focus on winning strategies. The novelty of his approach was in
+identifying and assigning weights to features of the game (e.g. pieces ahead, kings,
+penetration), anticipating the opponent’s moves, looking ahead several moves to adjust the
+weights assigned to match a future state of the game and work towards a minimax outcome,
+minimizing the maximum damage that the opponent can inflict. Bootstrapping by having the
+checkersplayer play against itself was an additional technique. By 1959 he had produced a
+program that could beat him at checkers. Though computational capacities and speeds have
+increased geometrically consistent with Moore’s Law, Samuels technique provides the
+foundations for current Machine Learning.
+Computer competitions have determined better schemes for playing an iterated Prisoner’s
+Dilemma and test ideas for teamwork in general agent systems (Anon, 2004). Building on the
+success of IBM’s Deep Blue, programs on commercial software now can defeat even the most
+talented human chess players. Recently, Google’s AlphaZero has outperformed both humans
+and other programs in playing the games of Go, Chess and Shogi (a Japanese form of chess) as
+efforts to apply machine learning to a broader range of subjects have accelerated. Unlike
+previous prototypes like AlphaGo, the program iterates using the rules of the game rather
+than attempting to mimic natural, human game play. However, changing the rules mid-game
+flummoxes the program (Wu, 2018).
+To address games where no best strategy exists, such as rock-paper-scissors, imperfect
+information, actions that pay off only after many moves, continuous play rather than
+alternate turns and a large action space, AlphaStar took on the challenge of playing StarCraft
+II. Beginning with strategies derived from human play and using a set of reinforcement
+learning techniques, Long-Short Term Memory and other techniques, AlphaStar was able to
+defeat top human players. Like Samuel’s checkersplayer, AlphaStar discards risky strategies
+to find approaches that are least likely to go wrong, thus improving the safety and robustness
+of the AI. The final AlphaStar agent employs a Nash distribution of the most effective
+mixture of strategies discovered. The intent is to apply these techniques to the “fundamental
+problem of making complex predictions over very long sequences of data appears in many
+real world challenges, such as weather prediction, climate modelling, language
+understanding and more (The AlphaStar Team, 2019).”
+Multi-agent artificial intelligence (AI) systems, imitation and reinforcement learning and
+adversary training in Generative Adversarial Networks (GANs) compute minimax solutions
+for zero-sum games and Nash equilibria for non-zero-sum games (Ippolito, 2019). Such
+developments have led to a growing literature in “algorithmic game theory” addressing
+topics such as game playing, social choice, and mechanism design. Recent directions in
+mechanism design address resistance to manipulations enabled by anonymous Internet
+connection (Elkind and Leyton-Brown, 2010). Designing auctions employs inverse game
+theory where the game is designed around the behavior of rational participants.
+Artificial intelligence is an essential aspect of commercial video games. Rather than
+attempting to beat the human player, the objective for this AI is to provide virtual competition
+in a way that enhances a player’s experience. To do this in a way that players do not notice,
+the AI must provide proper reactions to specific stimuli. One of the most widely used
+techniques is call the Finite State Machine (FSM) algorithm. The game designer anticipates all
+the possible situations that an AI could encounter, and then specifies a future state as a
+reaction to each situation. Thus, the AI reacts to the human with pre-programmed behavior.
+Many successful games such as Battle Field, Call of Duty, Tomb Raider and Super Mario use
+FSM AI. In using this technique, the game designer is essentially using the game-theoretic
+extensive form to program the game. This technique provides predictability.
+Other games, such as Civilization where players compete to develop a city in competition
+with an AI doing the same thing, uses a Monte Carlo Search Tree (MCST) algorithm that
+Game theory
+and artificial
+intelligence
+125
+
+--- Sayfa 13 ---
+randomizes among possible responses to overcome the repeatability aspect of FSM and make
+the game more enjoyable. Deep Blue used MCST to consider possible moves and the
+opponent’s responses through several iterations, select the most promising and then repeat
+the process following the opponent’s move. Essentially, this approach randomizes among
+possible responses when the set becomes too large to anticipate. Video game developers are
+cautious when randomizing as the play of the game to avoid unexpected AI behaviors that
+could impair the experience of a human player (Lou, 2017). A technique used in Alien:
+Isolation adds another level of a Director AI whose job is to keep the game enjoyable, and an
+Alien AI as the virtual opponent. The Director controls the information that the Alien has
+about the human player to affect the Alien’s behavior. Some games are incorporating neural
+nets, GANs and other techniques to allow the AI and the player to learn through
+iterative play.
+This work transfers to the real world as games like Grand Theft Auto have been used for
+instrumental purposes to provide a safe and realistic environment for testing self-driving car
+algorithms (Shummon Maass, 2019). Also, Assassin’s Creed has been used to develop scenes
+to help train AI algorithms, and Minecraft has been used to conduct research into machine
+learning. As massive-multiplayer online role-playing video games become a prolific source
+for “big data,” both video gaming and AI development will contribute to each other
+(Rue, 2019).
+Summary of experimental results
+Game theory provided structure for behavioral scientists to frame questions and experiments
+related to the underlying assumptions. Also, experimentation using games allowed game
+theorists to understand better the relevance of solution concepts and factors to consider in
+improving them, leading to better applications of game theory.
+“The success of game theory in supplying the language for the study of information and
+providing the basic concept of strategy has led to our understanding the limitations implicit
+in the model of the fully informed rational individual decision-maker. The vistas opened up
+by the formalization of the concepts of player, information set, strategy space, and extensive
+form led us into experimental and operational gaming, simulation and artificial intelligence
+(Shubik, 2001a).” Experimentation demonstrated the need to account for individuals with
+limited capacity, optimizing locally in many special contexts where expertise and
+learning count.
+Game theory has been useful in AI to identify what decisions are “rational.” Players in
+experimental games tend to use the saddle point in two-person zero-sum games where it
+occurs in pure strategies, and to select a feasible distribution of proceeds in cooperative
+games if the core of feasible solutions is large enough. However, game-theoretic solutions are
+not a good predictor of human decisions in many two-person, non-constant-sum games
+(Shubik, 1975, p. 169, 2000). The absence of reliable game theoretic solutions for rational
+decision and rational action in mixed motive situations (e.g. minimizing collateral or
+unintended damage while pursuing a military mission) should suggest cautions when using
+AI in autonomous weapons.
+Another approach is to introduce behavioral considerations explicitly. “In a given
+population sample one can expect that some will resort to “tacit communication” when such is
+called for; some will not. In a mixed motive game, some will behave cooperatively, some
+competitively. In a coalition game, coalitions will form and will persist, winnings will be
+divided in ascertainable ways, even though classical game theory has very little to say
+specifically about such situations. Thus, we may expect to learn something about behavior
+in situations of strategic conflict which is outside the scope of game theory in the present
+state. Nevertheless, game theory is distinctly suggestive for interpreting and systematizing
+JDAL
+5,2
+126
+
+--- Sayfa 14 ---
+the results (Rapoport, 1960, p. 214).” When the results of gaming experiments are not
+adequate approximations of game theoretic solutions the first step is to go back to game
+theory and extend the solution concept. Thus, experimentation has been used to validate
+hypotheses, to generate new ones, to generate new theory, and for the employment and
+enjoyment of academics. Challenges such as interpersonal comparison of utility and social
+choice exposed by game theory also inform limitations of artificial intelligence.
+In summary:
+it is almost impossible to extend the normative theory of games, because the criteria of rationality
+become confused by the clash between individual and group norms and because “equilibria” are
+either nonexistent or not very relevant to the players. On the contrary, an empirical (descriptive)
+approach to bargaining situations (including coalition formation) seems full of promise. . . . All these
+questions related to theory construction based on experimental evidence. It cannot be emphasized
+too strongly that classical game theory is not based on experimental evidence. It represents an
+attempt to build a normative theory on a foundation of strategic logic. We have also seen how such a
+foundation becomes difficult if not impossible to erect without invoking specific norms of behavior.
+These norms are not logical but arbitrary and can be exceedingly varied. From this point on,
+therefore, there can be no single game theory but only a great variety of such theories, each based on
+different norms. Here the experimental scientist should naturally take over to explore the norms
+actually operating in human affairs. (Rapoport, 1960, pp. 224–225)
+AI seeks to provide rational decision and rational action. Though game theory is inadequate,
+rational decision and rational action is in the eye of the beholder absent meeting the criteria
+for game theoretic solutions. Though AI has been successful in inessential games, whether it
+can extend to essential games is an open question.
+SO, what to do?
+Return to the origins of military science; a campaign of learning. Just as Scharnhorst
+instituted rigorous study of quantitative and qualitative techniques, critical analysis of
+military history augmented by intellectual exercises such as staff rides to project how forces
+would be used in a particular terrain and circumstance; followed by gaming to explore
+concepts against active opponents on a map, followed by field exercises to experiment and
+evaluate the concepts in situations using actual forces in a campaign of learning, the
+Department of Defense should employ a campaign of learning in developing and deploying
+AI-enabled systems. Getting prototypes from the laboratory, into operational contexts and
+games employing the AI algorithms, and then into exercises and operations in the context of
+learning is a scheme for rapid concept and technology development while avoiding
+unintended consequences.
+More broadly, military gamers and gaming centers will need to become more proficient in
+employing electronic games similar to commercial games. Much can be learned from manual
+games. However, if the US military wants to lead, it will need to move beyond nineteenth
+century techniques and incorporate twentieth century advances in computers and game,
+chaos and complexity theories.
+Recently, the Department of the Navy initiated an education for seapower initiative to
+enhance the intellectual capability of the Navy and Marine Corps team, stating that it “will be
+the primary military differentiator between our nation and its adversaries and the true
+foundation of any credible deterrent to war (Secretary of the Navy, 2020).” It then cut budgets
+for its educational institutions. Funding for artificial intelligence (AI) has increased. AI can
+solve specific problems for which it has been trained. It can explore alternatives within the
+rules encoded in its algorithms. However, it cannot imagine. It has no subconscious intuition.
+It cannot conduct critical inquiry and encompass intangible aspects of a situation and
+reframe an approach to wicked problem. In short, it has no coup d’œil, no real talent, no
+genius. Investing in AI and machine learning at the expense of a campaign of learning that
+Game theory
+and artificial
+intelligence
+127
+
+--- Sayfa 15 ---
+provides individuals and organizations with the talent and adaptive capacity they need to
+meet complex challenges and conceive of opportunities in those challenges is a dangerous
+mistake.
+Notes
+1. Brian Arthur attributed this phrase to John Holland during a presentation to the International
+Conference on Complex Systems, 29 July 2020.
+2. Also see Sayre (1910). Map Maneuvers and Tactical Rides. Third edition. Ft. Leavenworth: The
+Army Service Schools Press, p. 6.
+3. Individual decision making where risk is present where the probability distributions for alternative
+outcomes are known, or uncertainty where the probability distributions are unknown require
+extensions to von Neumann’s and Morgenstern’s utility theory; Luce and Raiffa, p. 13.
+4. Luce and Raiffa devotes a chapter to each of these topics, along with critiques.
+5. Game theory generally assumes that each player knows the other the other players’ possible courses
+of action and evaluation of outcomes, which rarely occurs in actual circumstances. Some work has
+been done on evaluating games with misperceptions. The analysis is challenging enough, and may
+be sufficient for the purposes of the model without going to this level. The purpose of the analysis
+determines the level of complexity required (Shubik, 1982, Chapter 1).
+6. von Neumann and Morgenstern include a method for expressing the utility of an outcome to an
+individual player as a specific quantity. However, this method is difficult to employ, and is made
+conceptually and practically much more difficult when attempting to quantify a single utility for
+multiple players representing different organizations or groups of individuals (Shubik, 1982,
+Chapter 5).
+7. von Neumann (1928). “Zur theorie der Gesellschaftespiele.” Mathematische Annalen 100: pp. 295–
+320; Luce and Raiffa; (Shubik, 1975). Games for Society, Business and War: Towards a Theory of
+Gaming. New York: Elsevier; (Shubik, 1982); and von Neumann and Morgenstern are all excellent
+sources for discussion of the characteristic function and critiques of its use.
+8. Economics calls the set of payoffs an imputation (Shubik, 1982, p. 111).
+9. The mathematics of game theory involves set theory more than other forms of mathematics (von
+Neumann and Morgenstern, 2004, pp. 60–73).
+10. Formally, an equilibrium point is “a vector of strategies such that no one player, regarding the
+others as committed to their choices, can improve his lot.” John Nash formulated this solution
+concept in his doctoral dissertation, so it is commonly called the Nash equilibrium (Shubik, 1982,
+p. 240).
+11. Shubik (1982, pp. 365–366) provides useful table summarizing solutions and their characteristics.
+12. Nash and Shapley received Nobel prizes in economics for their uses of game theory.
+13. There are 78 strategically different 2 3 2 games with no ties in individual preferences (Shubik, 1975,
+Chapter 11).
+14. The repeated Prisoner’s Dilemma has multiple equilibrium points, all of which are rational solutions
+(Shubik, 1982, p. 259).
+15. Martin Shubik refined these terms to high-church, low-church, and conversational game theory in
+Shubik (2002). “Game Theory and Operations Research.” Research Gate. January. Accessed May 18,
+2021. https://www.researchgate.net/publication/242932751_Game_Theory_And_Operations_
+Research_Research
+References
+Anon (2004), “New tack wins Prisoner’s dilemma”, [Online], available at: https://www.wired.com/2004/
+10/new-tack-wins-prisoners-dilemma/ (accessed 26 February 2020).
+JDAL
+5,2
+128
+
+--- Sayfa 16 ---
+David, F.N. (1998), Games, Gods and Gambling, Dover Pubilcations, Mineola, NY.
+Duke, R.D. and Geurts, J.L. (2004), Policy Games for Strategic Management: Pathways into the
+Unknown, Dutch University Press, Amsterdam.
+Elkind, E. and Leyton-Brown, K. (2010), “Algorithmic game theory”, [Online], available at: www.aaai.
+org/ojs/index.php/aimagazine/article/download/2310/2176 (accessed 27 February 2020).
+Hanley, J.T.J. (1992), On Wargaming: A Critique of Strategic Operational Gaming, UMI, Ann
+Arbor, MI.
+Hanley, J.T.J. (2014), “Creating the 1980s Maritime strategy and implications for today”, Naval War
+College Review, Vol. 67 No. 2, pp. 11-29.
+Holland, J.H. (1998), Emergence, Addison-Wesley Publishing Company, Reading, MA.
+Ippolito, P.P. (2019), “Game theory in artificial intelligence”, [Online], available at: https://
+towardsdatascience.com/game-theory-in-artificial-intelligence-57a7937e1b88 (accessed 27
+February 2020).
+Kim, J. (2019), “Why Young Koreans Love to Splurge: sometimes blowing your paycheck can be a
+rational choice”, [Online], available at: https://foreignpolicy.com/2019/07/04/why-young-
+koreans-love-to-splurge-shibal-biyong-millennial-fuck-it-expense/ (accessed 4 June 2021).
+Leonard, R. (2010), Von Neumann, Morgenstern, and the Creation of Game Theory: from Chess to
+Social Science, Cambridge University Press, Cambridge, 1900-1960.
+Lou, H. (2017), “AI in video games: toward a more intelligent game”, [Online], available at: http://sitn.
+hms.harvard.edu/flash/2017/ai-video-games-toward-intelligent-game (accessed 28
+February 2020).
+Luce, R.D. and Raiffa, H. (1957), Games and Decisions, John Wiley & Sons, New York.
+Lynn, C.W., Kahn, A.E., Nyema, N. and Bassett, D.S. (2020), “Abstract representations of events arise
+from mental errors in learning and memory”, Nature Communications, Vol. 11 No. 1, p. 2313.
+Norvig, P. and Russell, S.J. (2003), Artificial Intelligence: A Modern Approach, ed, Prentice Hall,
+Englewood Cliffs, NJ.
+Rapoport, A. (1960), Fights, Games, and Debates, The University of Michigan Press, Ann Arbor.
+Richbourg, R.F. (2018), Deep Learning: Measure Twice, Cut once, Institute for Defense Analyses,
+Alexandria.
+Rue, N. (2019), “Artificial intelligence & game development: recent trends”, [Online], available at:
+https://becominghuman.ai/artificial-intelligence-game-development-recent-trends-
+a08a67769a63?gi56e3dfe8de1c7 (accessed 28 February 2020).
+Sayre, F. (1910), Map Maneuvers and Tactical Rides, ed, The Army Service Schoos Press,
+FtLeavenworth.
+Schelling, Thomas C. (1960), The Strategy of Conflict, Harvard University Press, Cambridge, MA.
+Secretary of the Navy (2020), Education for Seapower Strategy 2020, Department of the Navy,
+Washington DC.
+Shubik, M. (1975), Games for Society, Business and War: towards a Theory of Gaming, Elsevier,
+New York.
+Shubik, M. (1982), Game Theory in the Social Sciences: Concepts and Solutions, The MIT Press,
+Cambridge(MA).
+Shubik, M. (2000), Game Theory: Some Observations, Yale School of Management, New
+Haven, CT.
+Shubik, M. (2001a), Game Theory and Operations Research: Some Musings 50 Years Later, Yale
+School of Management, New Haven, CT.
+Shubik, M. (2001b), The Uses of Teaching Games in Game Theory Classes and Some Experimental
+Games, Yale University, New Haven.
+Game theory
+and artificial
+intelligence
+129
+
+--- Sayfa 17 ---
+Shubik, M. (2002), Game Theory and Operations Research, [Online], Yale School of Organization and
+Management, New Haven, CT, available at: https://www.researchgate.net/publication/
+242932751_Game_Theory_And_Operations_Research_Research (accessed 18 May 2021).
+Shummon Maass, L.E. (2019), Artificial Intelligence in Video Games: an Overview fo How Video Game
+A.I. Has Developed over Time and Current Uses in Games Today, [Online], Towards Data
+Science, available at: https://towardsdatascience.com/artificial-intelligence-in-video-games-
+3e2566d59c22 (accessed 28 February 2020).
+Simon, R.I. (1967), “The effects of different encodings on complex problem solving”, Ph.D. dissertation,
+Yale University.
+The AlphaStar Team (2019), “AlphaStar: mastering the real-time strategy game StarCraft II”, [Online],
+available at: https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-
+starcraft-ii (accessed 25 August 2020).
+von Hilgers, P. (2012), War Games: A History of War on Paper, MIT University Press,
+Cambridge, MA.
+von Neumann, J. (1928), “Zur theorie der Gesellschaftespiele”, Mathematische Annalen, Vol. 100,
+pp. 295-320.
+von Neumann, J. and Morgenstern, O. (2004), Theory of Games and Economic Behavior: Sixtieth
+Anniversary, Edition, Princeton University Press, Princeton.
+Wu, K.J. (2018), “Google’s new AI is a master of games, but how does it compare to the human Mind?”,
+[Online], available at: https://www.smithsonianmag.com/innovation/google-ai-deepminds-
+alphazero-games-chess-and-go180970981/ (accessed 26 February 2020).
+Further reading
+Statt, N. (2019), “How artificial intelligence will revolutionize the way video games are developed and
+played”, [Online], available at: https://www.theverge.com/2019/3/6/18222203/video-game-ai-
+future-procedural-generation-deep-learning (accessed 28 February 2020).
+Corresponding author
+John T. Hanley can be contacted at: jhanleyd71@aol.com
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+JDAL
+5,2
+130

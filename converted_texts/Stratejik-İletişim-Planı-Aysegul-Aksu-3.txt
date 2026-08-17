@@ -1,0 +1,612 @@
+--- Sayfa 1 ---
+[Metni yazın]
+
+03.08.2011
+
+Stratejik İletişim Uygulamaları  | Ayşegül Aksu
+AYŞEGÜL
+AKSU
+STRATEJİK İLETİŞİM
+
+--- Sayfa 2 ---
+İçindekiler
+1.Giriş ...................................................................................................................................................... 3
+2.Stratejik İletişim ................................................................................................................................... 5
+3. Stratejik İletişim Planlama................................................................................................................... 6
+3.1. Tanımlamaların Yapılması ve Mevcut Konumun Analizi .................................................................. 6
+3.2. Stratejik İletişim Hedeflerinin Belirlenmesi ..................................................................................... 7
+4. Araştırma ve Analiz ............................................................................................................................. 7
+4.1. Hedef Kitle Analiz ............................................................................................................................. 7
+4.1.1. Hedef Kitlenin Belirlenmesi ........................................................................................................ 8
+Politika/ Hizmet / Ürünün Sunulduğu Grup ...................................................................................... 8
+Kanaat Önderleri ................................................................................................................................ 9
+Medya ............................................................................................................................................... 10
+Kurum Yöneticileri ve Personel ........................................................................................................ 10
+Rakip parti/ organizasyon / kurumun ve onların hedef kitleleri .................................................... 10
+4.1.2. Hedef Kitle Analiz Metodları ....................................................................................................... 11
+Demografik Analiz ............................................................................................................................ 11
+Hedef Kitleyi Yönlendiren Düşünce ve Davranış Kodlarının Analizi ............................................... 11
+Psikografik Analiz ............................................................................................................................. 11
+Semiyotik Analiz ............................................................................................................................... 11
+4.2. Karşı Propaganda/ Rekabet Analiz ................................................................................................. 15
+4.3. Kriz Yönetimi ve Gelecek / Olasılık Analizi ..................................................................................... 15
+4.4. Analiz Veri Bankası ......................................................................................................................... 16
+5. Uygulama .......................................................................................................................................... 16
+5.1. Ana Tema ve Mesajlarının Belirlenmesi ......................................................................................... 16
+5.2. İletişim Tetikleyicileri ..................................................................................................................... 16
+5.3. Mesaj Gönderim Yolları.................................................................................................................. 17
+6. Performans ve Etkinlik Ölçüm ........................................................................................................... 17
+7-Stratejik İletişim Planının Güncellenmesi .......................................................................................... 18
+
+--- Sayfa 3 ---
+1.Giriş
+11 Eylül saldırılarının ardından başta Amerika olmak üzere pek çok ülke stratejik iletişim,
+psikolojik operasyon, bilgi operasyon doktrinlerini tekrar gözden geçirme ihtiyacı duydu.
+1990’lardan itibaren popülerlik kazanan ve marka çalışmalarında kullanılan stratejik iletişim
+uygulamaları güncellendi.
+Aşağıda sunulan stratejik iletişim modeli, 2005 Amerikan Ulusal Stratejik İletişim Doktrini,
+2003 US Psikolojik Operasyon doktrini ve bilgi operasyon doktrinlerinden uyarlanmıştır.  Bu
+doktrinlerin kullanılma nedeni konu üzerinde yapılan son çalışmaları kapsaması, iletişimin
+çok yönlü, karmaşık yapısı içindeki tüm etmenleri sisteme dahil etmesi ve duygu, düşünce,
+davranış değişikliği yaratmaya odaklı oluşudur.
+Askeri stratejilerin politikada, marka ve pazarlama stratejilerinde kullanılması ilk değildir.
+Ünlü filozof Sun Tzu’nun  “Savaş Sanatı” adlı eserinde sunduğu stratejiler pek çok alanda
+temel stratejileri oluşturmuştur 1.
+Dünya stratejik iletişimin önemini kavrarken, ne yazık ki Türkiye’de stratejik iletişim modelini
+profesyonel anlamda uygulayan kurum ve kuruluşların sayısı oldukça sınırlı. Pek çok kurum
+ve kuruluş stratejik iletişimi sadece pazarlamaya uygun bir kavram olarak ele almakta ve
+içeriğini boşaltarak 1990 öncesinin klasik PR teknikleriyle satmaya çalışmakta. Hâlbuki
+stratejik iletişim, iletişimin yanı sıra pek çok sosyal bilim dalının birlikte çalıştığı bir
+uygulamadır. Stratejik iletişim temelde sosyal psikoloji, sosyal antropoloji, semiyoloji gibi
+sosyal bilim dallarıyla birlikte çalışmalıdır. Ayrıca çalışan alana bağlı olarak politik psikoloji,
+ekonomi gibi diğer bilim dallarından da faydalanmaktadır.
+Stratejik iletişimin temel amacı belirlenen hedef kitlede duygu, düşünce, davranış değişikliği
+yaratmaktır. ABD ya da Türkiye Cumhuriyeti gibi bir devletin amacı yurt içinde veya dışında
+halkın teröre desteğini kırmak, UN gibi bir organizasyonun amacı az gelişmiş bir ülkede
+çocuklara yönelik şiddetin durdurulması ve çocukların eğitimine önem verilmesini sağlamak,
+bir siyasi partinin amacı, sosyal ve ekonomik politikalarında olan halkın desteğini artırmak ve
+oy toplamak, bir şirketin amacı sunduğu hizmetin ya da ürünün hedeflediği müşteri kitlesi
+tarafından alınmasını sağlamak olabilir.  Bunlardan hangisi amacınız olursa olsun en
+nihayetinde, hedefinize ulaşabilmeniz için hitap ettiğiniz grupta duygu, düşünce ve davranış
+değişikliği yaratmak zorundasınız. Yani stratejik iletişime ihtiyacınız var.
+Stratejik iletişim uygulamasının kurum veya kuruluşunuza uygun olup olmadığını anlamak
+için önce şu sorulara cevap vermelisiniz.
+Kurumu veya kuruluşunuzun geleceğe yönelik hedefleri var mı?
+
+1Mark R. McNeilly, Sun Tzu and the Art of Business, Six Strategic Principles for Managers
+
+--- Sayfa 4 ---
+Kurum veya kuruluşunuzun geleceğe yönelik hedeflerini gerçekleştirmek için bir stratejik
+yönetim planı var mı?
+Eğer geleceğe yönelik planlarınız yoksa ya da bu gelecek hedeflerini gerçekleştirmek için bir
+planınız yoksa yani sadece boş hayaller kurmakla yetiniyorsanız, stratejik iletişim size yönelik
+bir uygulama değildir. Çünkü stratejik iletişim hayallerin değil, o hayalleri
+gerçekleştirebilecek gerçekçi çözümleri üretmek ve yerine getirmek için vardır. Sadece
+bugüne odaklı bir zihniyetle stratejik iletişim uygulaması yapmak mümkün değildir.
+Modelin başarısı stratejik iletişim uygulamasını gerçekleştirecek ekibin bilgi ve becerileri
+kadar aynı zamanda kurum yapılanmasında stratejik iletişim koordinasyon biriminin,
+stratejik yönetim ve planlama birimiyle koordineli çalışmasına bağlıdır. Ancak bu iki birim
+gerçekçi gelecek planları doğrultusunda hareket eder ve gerek kurum içinde çalışanlarla,
+gerek ise kurum dışında hitap edilen kitleyle sinerji yaratılabilirse başarı sağlanır.
+Neden bir başka iletişim modeli değil de stratejik iletişim? Stratejik iletişim diğer iletişim
+modellerini reddeden bir yapı değildir, aksine diğer iletişim modellerinin daha aktif bir
+şekilde uygulanmasını ve tutarlılığını sağlayan temel yönetim şeklidir. Sistem ilk başta
+karmaşık görünse de, gerçekte tam tersine sistem size kurum içerisinde çalışan herkesin tek
+bir plan çerçevesinde uyumlu hareket etmesini sağlayarak sadeliği getirecektir.
+Stratejik iletişim modelinin avantajları:
+ Stratejik iletişim planı sürekli güncellenen, bir anlamda yaşayan bir belge olduğu için
+geleceğe yönelik, esnek ama tutarlı planların yapılmasını sağlarken, öte yandan önemli
+güncel gelişmeler karşısında anında, doğru hedef kitleye, doğru mesajın verilmesini
+garantiler.
+ Geçici trendler yaratmaktan ziyade, kurumun stratejik hedefleri doğrultusunda kalıcı
+duygu, düşünce ve davranış değişiklikleri yaratmaya odaklanır.
+ Hedef kitle istenen yönde değiştirilmekte olan duyguyu/düşünceyi/davranışı sunan
+kurum ve kuruluşlarla arasında aidiyet bağı kurar. Organizasyona, politik partiye ya da
+markaya anlam yükler.
+ Kurum ve kuruluşlara alanlarında gündemi veya gelişmeleri takip eden değil, gündemi ve
+gelişmeleri yaratan ve yönlendiren olma avantajını sağlar.
+ Kurum ve kuruluşların içinde yer alan iletişim birimleri ve kurumda sözcü niteliğinde
+bulunan yöneticilerin iletişim faaliyetlerinin koordinasyonunu sağlar ve marka imajını
+güçlendirir.
+ İhtiyaç düzeyinde bilgi prensibiyle çalışan sistem sayesinde, kurum ve kuruluşların bilgi
+ve strateji güvenliği sağlanır.
+ Medya kampanyaları uygulanmadan olası başarı oranları ölçülerek kurumun
+masraf/fayda dengesi içinde başarı oranı düşük çalışmalara büyük miktarlarda para
+harcanmasının önüne geçilir.
+
+--- Sayfa 5 ---
+ Performans etkinlik, ölçüm sistemiyle, uygulanan medya kampanyalarının başarı oranları
+gerçekçi verilerle ölçülür ve ölçüm sonuçları doğrultusunda stratejik iletişim merkezinin
+de başarı/başarısızlık oranı ortaya konur.
+ Krizlerin başlamadan önlenmesine yardım eder, kriz hallerinde ise krizin en az zararla
+atlatılmasını sağlar.
+Modelin başarılı bir şekilde uygulanabilmesi için yapılacaklar:
+ Kurumun talepleri ve kapasitesi doğrultusunda stratejik iletişim merkezinin kurulması.
+ Stratejik İletişim Biriminin, Stratejik Yönetim ve Stratejik Planlama Birimleriyle koordineli
+olarak çalışmasının sağlanması.
+ Kurumda çalışan iletişim uzmanlarının ve iletişim faaliyetlerine dahil olan yönetici ve
+personelin eğitilmesi
+ İlgili alanlardaki sosyal bilim uzmanlarıyla ortak çalışma platformunun oluşturulması
+ Karşı Propaganda/ Rekabet birimlerinin kurulması ve çalışan personelin eğitilmesi
+ Merkezi bilgi sisteminin oluşturulması ve bilgilerin ihtiyaç düzeyinde bilgi prensibiyle
+dağıtılması
+ Kriz Yönetim Birimine medya ve halk ilişkiler konusunda danışmanlık hizmetinin verilmesi
+Bu ilk rapor taslak niteliğinde olup,  stratejik iletişimin uygulanacağı alan belli olmadığından
+uygulamaya dair genel bilgi verme amacını taşımaktadır. Stratejik iletişim yapılanması ve
+metodu uygulanacak alana göre geliştirilebilir ya da sadeleştirilebilir. Stratejik iletişim
+uygulamasında kullanılan bilgi toplama ve analiz teknikleri, çalışılan alana göre değişiklik
+gösterecektir.
+2.Stratejik İletişim
+Stratejik iletişimin başarısı doğru analiz edilmiş bilgilerle hazırlanmış gerçekçi planların
+uygulanması ve sürekli geri bildirimlerle güncellenmesine bağlıdır. Burada sunulan stratejik
+iletişim modelinin siyasi partiler, dernekler, şirketler gibi farklı alanlarda çalışan ve farklı
+kapasitelere sahip kurum ve kuruluşlara adaptasyonunu kolaylaştırmak için stratejik iletişimi
+sadece 4 ana bölümde ele alacağız.
+
+--- Sayfa 6 ---
+3. Planlama
+3.1. Tanımlamaların Yapılması ve Mevcut Konumun Analizi
+Tanımlamaların doğru yapılması ve mevcut konumun doğru analizi tüm çalışmanın temelini
+oluşturacaktır.
+Hedef kitlenin duygu, düşünce ve davranışlarını değiştirmesi için öncelikle markaya, kuruma,
+sunulan fikre, servise veya ürüne anlam yüklemesi gerekir. Hedef kitlenin yüklediği anlam
+onun istenen yönde hissetmesi, düşünmesi veya davranması (Örnek: Vergisini ödemesi,
+seçimde bir partiye oy vermesi, bir ürün ya da hizmeti alması) için gerekli nedeni verecektir.
+2,3.
+Markalar uzun zaman ekonomik krizlerle baş edebilmek için fiyatlarını düşürdüler. Şimdi ise
+insanların fiyatların ötesinde anlam arayışında olduğu tekrar hatırlandı. Prada, Lois Vuitton
+yıllar sonra hala bir kadın için en az pırlanta kadar arzu edilir nesne grubundadır. Farklı
+olmak için ise her zaman Apple ürünlerine ihtiyacımız vardır ve ihtiyaç duygusunu başarıyla
+yaratan Apple’dan başkası değildir.
+Stratejist Jack Trout’ta Fast Branding dergisine verdiği röportajda buna değiniyor.
+Tüketicilerin satın alma kararlarında fiyatlardan çok markaların anlamlarına baktığını
+vurguluyor ve stratejik iletişimin hayati önemine işaret ediyor.4
+Kurumunuza, markanıza, sunduğunuz politika, servis veya ürüne yüklediğiniz anlam büyük
+oranda onu kime sunulabileceğini ya da sunulamayacağını da gösterir. Dolayısıyla hedef
+kitlenin doğru belirlenebilmesi için de tanımlamalara dikkat etmek gerekir.
+Hali hazırda faaliyet gösteren büyük kurumlar, kendilerinin ve sunmakta oldukları
+politikaların,  servislerin veya ürünlerin tanımlamalarını çoktan yapmış, marka çalışmalarını
+çoktan gerçekleştirilmiştir. Mevcut durum analizi düzenli olarak yapılmaktadır. Bu durumda
+yapılacak şey kurumun marka tanımının ve sunulan politika / servis / ürün tanımının
+rakiplerin, hedef kitlenin ve medyanın gözündeki tanımlamalarla ne kadar örtüştüğünü test
+etmektir. Markaların/ politik partilerin/kuruluşların kendi tanımlamalarıyla, kişilerin onlara
+yükledikleri anlam arasında fark ve çelişkilerin olması iletişim sürecinde hata yapıldığının
+göstergesidir.
+Kurumun mevcut konum analizi ve stratejik hedefleri yine kullanılan analiz tekniğine göre
+SWOT, 5 güç Analizi, PEST, STEER, Haines,  Six Sigma, PE  vb. , stratejik iletişime adapte
+edilerek hazırlanır. Stratejik iletişim analizi hedef kitle odaklı olup, organizasyonun mevcut
+konumunun kanaat liderleri/ rakipler / medya / hedef kitle vb. arasında nasıl algılandığını
+test eder. Bu testlerin büyük bölümü nitel araştırma teknikleriyle gerçekleştirilirken, temel
+
+2 Theory of reasoned action (TRA) , Hale, Householder & Greene, 2003, p. 259
+3 The theory of communicative action Vol1; Reason and the rationalization of society, 1984
+4 Uzmanlaşma Büyüklere Karşı En Güçlü Silah; Fast Brands; Ekonomist
+
+--- Sayfa 7 ---
+veriler için istatistiksel anketlerden de yararlanır. İstatiksel veriler ANOVA, Multi-Varyans
+test gibi çoklu karşılaştırmalara olanak tanıyan tekniklerle değerlendirilir ve analiz edilir.
+Henüz kurulmakta olan bir organizasyon, yeni çıkacak bir ürün, ortaya konacak politika için
+ise tanımlamaları mümkün olduğunca basit tutarak, faaliyet gösterilecek alanda yapılacak
+hedef kitle analiz çalışmasının ardından tanımlamaları netleştirmekte fayda vardır. Mevcut
+konum analizi ise konuya taraf olan gruplarla yapılacak analiz çalışmasıyla ortaya konacaktır.
+3.2. Stratejik İletişim Hedeflerinin Belirlenmesi
+Kurumun yıllık, üç yıllık, 5 yıllık stratejik hedefleri doğrultusunda, stratejik iletişim hedefleri
+belirlenir. Stratejik iletişim hedeflerinin hangi şartlar altında, hangi oranlarda
+gerçekleşebileceği hedef kitle analiz, gelecek olasılık analiz gibi araştırma-analiz
+birimlerinden gelen verilerle değerlendirilir. Eldeki verilerle, stratejik iletişim hedefleri
+doğrultusunda, uygulamanın gerçekleştirileceği tüm konuları kapsayan taslak plan hazırlanır.
+Taslak plan daha sonra diğer birimlerden gelen verilerle güncellenir.
+4. Araştırma ve Analiz
+Çalıştığınız alan her ne olursa olsun, bilgi her zaman güçtür. Doğruluğu test edilmiş ve doğru
+analiz edilmiş bilgiler gerçekçi planların ortaya konmasında ve doğru adımların atılmasında
+önemlidir. Araştırma ve analiz stratejik iletişim uygulamasının bir anlamda bel kemiğini
+oluşturur.
+4.1. Hedef Kitle Analiz
+Stratejik iletişim, bilgi operasyon, psikolojik operasyon çalışmalarında hedef kitle analiz aktif
+biçimde kullanılır. Hedef kitle analizden gelen geri bildirimler, çalışmanın başında yaptığımız
+tanımlamaların ve hedefe ulaşmak için izlenecek politikaların hedef kitle tarafından nasıl
+algılandığını, hedef kitlede istenen duygu, düşünce, davranış değişikliklerinin hangi şartlar
+altında nasıl gerçekleştirilebileceğini, stratejik iletişim hedeflerinin gerçekleştirilebilmesi için
+izlenmesi planlanan politikaların etkinliğini vb. ortaya koyar. Tanımlamalar ve stratejik
+iletişim hedeflerine dair detaylar hedef kitlenin talep, ihtiyaç ve kabullenme esnekliği
+doğrultusunda güncellenir.
+Hedef kitle çoğu zaman tek değildir. Çalışılan alana göre bu organizasyona üye ülkeler,
+kurumun hissedarları, birlikte çalışılan diğer kurum ve kuruluşlar, seçmenler, müşteri kitlesi,
+o alanda sözü geçen ve etkinliği olan kanaat liderleri, medya, kurumun çalışanları vb. olabilir.
+Halkla ilişkiler firmaları genelde istatistik ve sınırlı seçenekli anket yöntemini hedef kitle
+analiz için kullansalar da, istatistik ve seçenekli anketler daha ziyade etkinlik ölçüm
+değerlendirmelerinde ana veridir. Hedef kitle analiz birimleri için ise istatistikler destekleyici
+veri olarak kabul edilir. Bu teknikler içinde sadece açık uçlu sorularla yapılan, seçimlerin
+şıklarla sunulmadığı ve sonuçların paradoksal karşılaştırmalarını ortaya koyan anket
+çalışmaları hedef kitle analizde ana veri olarak kullanılabilir.
+
+--- Sayfa 8 ---
+Hedef kitle analizde çalışılan alana bağlı olarak bilgi toplama yöntemleri değişiklik gösterse
+de biz burada genel geçer teknikler üzerinde duracağız.
+ Hedef kitle ve hedef kitleyi etkileyen kişi ve gruplarla yapılan kapsamlı röportajlar
+ Hedef kitle ve hedef kitle üzerinde etkisi olan kişi ve gruplarla fokus gruplar
+ Hedef kitle ve hedef kitle üzerinde etkisi olan kişi ve gruplarla düzenlenecek “Beyin
+Fırtınası” seansları
+ Açık uçlu, seçimlerin şıklarla sunulmadığı anketler ve istatistikler
+ Medya, sosyal-medya vb. açık bilgi kaynakları
+ Kurum içi ve kurum dışından konu uzmanlarının danışmanlığı
+Hedef kitle analizde konuya bağlı olarak değişmekle birlikte kullanılacak temel analiz
+teknikleri ise şunlardır:
+ Demografik analiz
+ Psikografik analiz
+ Davranış motivelerinin analizi
+ Semiyotik analiz
+4.1.1. Hedef Kitlenin Belirlenmesi
+Hedef kitle analiz çalışmasına başlarken ilk aşamada hedef kitleyi belirlemek gerekmektedir.
+Hedef kitlenin doğru belirlenmesi, mesajların doğru hedef kitleye, doğru yollardan ve doğru
+şekilde verilmesini sağlayacaktır.
+Politika/ Hizmet / Ürünün Sunulduğu Grup
+Bu genelde ana hedef kitledir. Bu grup farklı sosyal, kültürel, ekonomik yapıdan gelen
+insanlardan oluşabileceği gibi, belli bir sosyal, kültürel yapıdan gelen insanlardan da
+oluşabilir.
+Marka çalışmalarında üst gelir grubu, şehirli, bayan gibi daha genel hedef kitleleri belirlemek
+gerekir. Özel programlarda ve kampanyalarda ise bu hedef kitleyi alt hedef kitlelere bölmek
+faydalı olabilir.
+Global bir markanın Tokyo’da düzenleyeceği satış kampanyasında, marka hedef kitlesini
+Tokyo ve çevresinde yaşayan, üst gelir grubu, şehirli bayan olarak sınırlayabilir. Bu ana
+marka mesajını Japon kültürüne ve Tokyo’daki hedef kitlesine göre alt mesajlarla
+destekleyerek, güçlendirme şansı tanır.
+ Yine aynı şekilde bir politik parti lideri genel seçimlere hazırlanırken, TV yayınlarında,
+bahsettiği konuya bağlı olarak daha genel bir hedef kitleye hitap eder ve partinin marka
+imajını ve genel politikalarını yansıtır. İl mitinglerinde ya da meslek örgütleriyle
+buluşmalarında ise hedef kitlesini belli oranda daraltması ve partinin yürüttüğü politikalara
+dair ana mesajları, bu alt hedef kitleye uygun alt mesajlarla desteklemesi gerekir.
+
+--- Sayfa 9 ---
+Hedef kitle analiz çalışmasında kullanılan analiz yöntemlerinin seçim stratejilerinde
+kullanımına dair basit bir örnek verelim.
+İstanbul nüfusunun yaklaşık % 60 `ının asıl memleketi başka bir bölgedir. İkinci, üçüncü kuşak
+çocuklar İstanbul`da doğsalar bile asil memleketleri ile olan bağlantılarının gücü, oy verme
+tercihlerini belirlemektedir.5
+İstanbul belediye başkanlığı seçimlerinde sadece İstanbul`un yerlilerine yönelik siyaset
+yapan bir politikacının başarılı olma şansı oldukça azdır. Çünkü buradaki göçmenler
+seçimlerde belirleyici rolü oynamaktadır.
+Ancak göç almayan bir bölge için aynı tez geçerli değildir.
+Kimi alanlarda coğrafi, demografik, sosyo-psikolojik farklılıklar öyle bir noktadır ki, bölgelere
+özel stratejiler geliştirmek gerekir. Kars’ta , istanbul’da ve Antalya’da aynı eğitim
+kampanyasını yürütmek ya da aynı ürünü bu illerde aynı tekniklerle satmaya çalışmak
+başarılı olmayabilir.
+Çalışmaları mümkün olduğunca çok alt hedef kitle belirleyerek detaya indirmek, tüm alt
+hedef kitleleri birleştireceğimiz noktaları bulmamıza, ortak noktaların yeterli olmaması
+durumunda ise dil kodlamalarını kullanarak ana mesajlar ve politikalarla uyumlu alt mesajlar
+ve politikalar üretmemize yardım eder.
+Kanaat Önderleri
+Toplumsal, ekonomik, siyasal, kültürel hareketlerin yaratılmasında belirleyici olan kişi, kurum
+ve kuruluşlardır. Çalışılan alana bağlı olarak bu gruba devlet kuruluşları, dernek ve
+organizasyonlar, siyasi liderler, diplomatlar,  iş adamları, sanatçılar, yazarlar, bilim adamları
+vb. girer.
+Kanaat liderleri profil analizin stratejik iletişim içerisindeki önemi:
+ Kanaat liderlerinin hedef kitle üzerinde yönlendirici etkisi vardır. Sosyal öğrenme ve
+sosyal davranış değişikliğine dair araştırmalar, kişilerin belli konularda lider konuma
+yerleştirdikleri veya rol model olarak kabul ettikleri kişileri veya kurumları takip etme
+eğiliminde olduklarını ortaya koymuştur 6. Mesajların, kanaat liderlerinin hedef
+kitleye yönelik mesajlarıyla desteklenmesi,  mesajların gücünü artırmaktadır. Kanaat
+liderleri bu anlamda bir yandan hedef kitlenin parçası olarak ele alınırken, diğer
+yandan mesaj gönderim yollarından biridir.
+ Kanaat liderlerinin çalışılan alandaki etkinliği, kurumsal ilişkilerde ve lobi
+çalışmalarında önem taşır.
+
+5 IIF ; Ali T Akarca - Cem Başlevent; Oy verme davranışında orijin etkisi- Türkiye`nin iç  göçmenleri örneği
+6 Sosyal öğrenim teorileri; N.E. Miller,  J. Dollard , Albert Bandur
+
+--- Sayfa 10 ---
+Kanaat liderlerinin profilleri analiz edilerek, bu kişilerin desteğinin hangi alanlarda alınması
+gerektiği ve desteğin sağlanması için izlenecek yollar belirlenir. Bu grup son derece detaylı
+bir şekilde ve mümkünse her biri özel alarak ele alınmalıdır.
+Kişilerin/ kurumların / derneklerin backgroundu detaylı olarak incelenmelidir. Türkiye
+Dışişleri Bakanıyla görüşmede son derece uygun olan bir söz ya da davranış ABD
+büyükelçisiyle ya da Genel Kurmay Başkanıyla görüşmenizde yersiz ya da kaba bulunabilir.
+Buna neden kültür farklılığı, meslek – kişilik ilişkisi, kişinin o konudaki görüşlerinde radikal
+tavır sergiliyor olması olabilir. Kanaat liderleri profil analizi böyle bir hatanın yapılmasına
+engel olur.
+Kanaat liderlerinin eğilimlerini ve çalışmalarını bilmek ilişkide bağ kurma şansını tanır. Destek
+istenen konuda kanaat liderinin görüşleri ve hedef kitle üzerinde olası etkinliği hakkında bilgi
+sahibi olmak iletişim sürecinde izlenecek yol hakkında görüşme yapan kişiye avantaj sağlar.
+Medya
+ Bu gruba TV, gazete , radyo yayıncılığı yapan medya kuruluşları, ilgilenilen alanda haber
+yapan muhabirler, TV programcıları,  köşe yazarları, sosyal medyada takip edilen, önemli
+bloggerlar, gruplar vb. girer.
+Bir zamanlar iletişimde sadece araç olarak görülen medya bugün artık ayrı bir hedef kitle
+olarak kabul görmektedir. Bunun nedeni verdiğiniz mesajların her zaman medyanın
+filtresinden geçerek yayınlanıyor olmasıdır. Bu filtreleme sırasında gazetecinin konuya bakış
+açısı, çalıştığı kurumun yapısı etkili olur. Dolayısıyla hem gazetecilerin hem medya
+gruplarının analizi yapılarak mesajların en doğru biçimde medyaya yansıması sağlanır.
+Medya haritası çalışılan kuruma bağlı olarak ulusal ve/ veya uluslararası düzeyde ele
+alınmalıdır.
+Kurum Yöneticileri ve Personel
+ Kurum yöneticileri, ortakları ve iletişim faaliyetlerinde bulunan birimlerin karakteristik
+özellikleri, en doğru stratejik iletişim uygulamalarının seçiminde ve uygulamaya dahil olacak
+kişilerin eğitiminde önem taşımaktadır. Stratejik iletişim uygulamasında sadece medya
+kampanyalarıyla verilen mesajlar değil, aynı zamanda yöneticilerden, en alt personele kadar
+hedef kitleyle ilişkide bulunan herkes aynı parçanın notalarını uyum içinde çalan bir orkestra
+gibi çalışmalı ve mesajları aynı doğrultuda vermelidir.
+Rakip parti/ organizasyon / kurum ve onların hedef kitleleri
+ Unutulmamalı ki hedef kitlenize vereceğiniz her mesaj rakipleriniz ya da karşıt grup ve
+onların hedef kitlesi üzerinde de olumlu ya da olumsuz etki –tepki yaratacaktır. Dolayısıyla
+bu grubun olası durumlara, olası tepkilerini tespit etmek büyük önem taşımaktadır.
+Rakibinizin mevcut seçmen kitlesini ya da müşteri kitlesini kendinize seçmek için bu grubu
+doğru tanımak gereklidir. Bu grup üzerinde yapılacak çalışmalar ileride bahsedeceğimiz karşı
+propaganda ve rekabet analiz için ana verileri toplamamıza yardım edecektir.
+
+--- Sayfa 11 ---
+4.1.2. Hedef Kitle Analiz Metodları
+Demografik Analiz
+Hedef kitlenin demografik özellikleri detaylı olarak ortaya konmalıdır. Kişilerin ve
+toplumların duygu, düşünce ve davranışları, orijine, o anda bulundukları bölgeye, bölgenin
+kültürüne, etnik, sosyal ve ekonomik olarak bulundukları gruba, yaşlarına, cinsiyetlerine göre
+değişmektedir.  Demografik analiz, hedef kitleyi yönlendiren düşünce ve davranış kodlarının
+analizinde önem taşımaktadır.
+Hedef Kitleyi Yönlendiren Düşünce ve Davranış Kodlarının Analizi
+Yüz yüze yapılan mülakatlar, fokus gruplar, açık bilgi kaynakları vb. kullanılarak her bir grupta
+çalışma yapılan konu ve o konuya etkisi olan diğer etmenler göz önüne alınarak mevcut
+duygu, düşünce ve davranış kodları belirlenmeli ve hangi şartlar gerçekleştiğinde hedef
+kitlenin duygu, düşünce ve davranışının değiştirilebileceği belirlenmelidir.
+Bu tespitler bize belli bir hedef kitleye hitap ederken hangi konularda, nasıl mesajlar
+vermemiz gerektiğini gösterir. Hedef kitlenin önem verdiği konuları gündeme taşımamızı,
+onların da onaylayacağı çözümler sunmamızı sağlar.
+Düşünce ve davranış kodlarının analizinde üzerinde çalışılan konuya bağlı olarak sosyal
+nüfuz/etki ağı ve fikir değiştirme teorileri, 7 motivasyon, sosyal öğrenme ve sosyal davranış
+değişikliği teorilerinden8 faydalanılır.
+Psikografik Analiz
+Weinstein’a göre psikografik;  psikolojik, sosyolojik ve antropolojik faktörlerin, benlik
+kavramı ve yaşam tarzının, pazar içerisinde yer alan grupların eğilimlerine ve bu eğilimlerin
+sebeplerine göre pazarın ne şekilde bölümlendiğinin, bir ürüne, kişiye ya da ideolojiye özgü
+karar verilmesi amacıyla saptanmasında kullanılmasıdır.
+Genelde nitel fokus gruplar ve “benchmark”  araştırmalar hipotez test metotlarıyla test
+edilir.
+Psikografik analiz hedef kitlede istenen duygu, düşünce, davranış değişikliğinin yaratılması
+için izlenecek politikaların ve kullanılacak mesajların belirlenmesine  yardım eder.
+Semiyotik Analiz
+Kelimeler, simgeler, renkler ve beden dili… Aynı dilde ortak tanımlarını yapsak da, her
+birimizin onlara yüklediği anlamlar ve değerler farklı. Etnik kökenimize, geldiğimiz
+coğrafyaya, ait olduğumuz sosyal topluluğa, ait olduğumuz topluluğun ve bizim geçmişimize
+göre değişiklik göstermekteler.
+
+7 Sosyal etki ağı ve fikir değiştirme teorileri hakkında genel bilgi için bknz: http://www2.cs.siu.edu/~hexmoor/classes/CS539-
+F10/Friedkin.pdf ; Noah E. Freidkin- Eugene.C.Johnson
+8 Sosyal öğrenme teorileri hakkında genel bilgi için bknz: http://www.learning-theories.com/
+
+--- Sayfa 12 ---
+İletişim ise yazılı, sözlü, işitsel ya da görsel olarak bu sembolleri buluşturan araç ve bu aracın
+doğru çalışması ancak hedef kitlenin sembolleriyle buluştuğu noktada başarılı olmakta.
+İnsanların duygularını etkilemek, onlar tarafından dinlenmek, kabullenilmek için en önemli
+şartlardan biri aidiyet hissini geliştirmektir. Bunu geliştirmek içinde kişilerin konuşanı
+kendilerinden biri olarak görmesi gerekmektedir.
+Bir gruba ait olmak için onlarla aynı hedefleri paylaşmanın yanı sıra aynı zamanda onlarla
+aynı dili konuşmak gerekir. Burada aynı dilden kastettiğimiz aynı dil kodlamalarıyla
+konuşmaktır. 9
+Dil kodlaması hedef kitlenin kullandığı dilin kelimelerine verdiği anlamın yanı sıra,
+konuşmalarında ne tür cümleler kullandıkları, hangi tür cümle yapısının o grubu etkilemede
+daha etkin olduğu, tekrarlara olan tepkileri vb . ölçülür ve dil kodlaması formülize edilir.
+İletişim uzmanları geçmişte sürekli tekrar edilen, açık mesajların, mesajın etkinliğini
+artacağını savunmaktaydılar. Ancak bugün özellikle siyasiler ve işadamları tarafından sürekli
+tekrarlanan, öğretmen tarzında verilen mesajların olumlu değil tam tersine olumsuz etki
+yaratabildiği anlaşılmıştır. Tekrarın hangi sıklıkta yapılacağına çok dikkatli karar vermek
+gerekir. Tekrarlarla, belli bir duygu, düşünce ve davranışın kendine öğretilmeye çalışıldığını,
+dayatıldığını hisseden toplum, tekrar edilen mesajda belirtilen duygu, düşünce veya
+davranışa karşı tepki duymaya başlamaktadır. Öyle ki bu kimi zaman çocuksu tepkileri
+andırmaktadır. Bugün hala herkes tarafından hatırlanan Apple’ın 1984 yılında çekilen
+reklamı bazen hiç tekrar olmadan bile doğru mesajın, doğru yolla verildiğinde nasıl efsaneye
+dönüşebileceğinin en büyük göstergesidir.
+Profesyonel konuşma metinlerinde her zaman düzgün Türkçe kullanmaktan ve tekrarlara
+girmekten kaçınılır. Ancak kimi zaman kakofoni dil kodlamalarında kullanılabilecek en iyi
+yollardan biridir. Özellikle de antipati yaratmak istediğiniz bir konudan bahsediyorsanız.
+İletişim uzmanlarının hitabette kakafoniden kaçınma uyarıları da, artık tarihe karışmıştır.
+Konuya ve hedef kitleye bağılı olmak üzere genelde aktif cümlelerin, etkisi pasif cümlelerin
+etkisinden daha fazladır. Kişi ve eylem cümleleri de farklı toplumlarda farklı etkiler
+yaratmaktadır.
+Hepimiz çok iyi biliriz ki yakın arkadaşlarımız, ailemiz bizim onaylamadığımız düşünceleri
+savunsalar bile onları dinleriz, normalde tepkiyle karşılayacağımız bu düşünceler bizimle aynı
+dili konuşan ailemizden ya da yakın çevremizden geldiğinde bu düşünceye katılabilir ya da en
+azından normalde vereceğimiz aşırı tepkinin yerini sadece onaylamama davranışı alır.
+Dil kodlamalarının önemini belirtmek için hitabetin büyük önem taşıdığı politikadan birkaç
+örnek vermek gerekirse:
+
+9 Semiotics and Communication: Signs, Codes, Cultures; Wendy Leeds-Hurwitz
+
+--- Sayfa 13 ---
+GENAR’ın 2007’de yaptığı araştırmanın sonuçlarına bakıldığında  görülmekte ki kendini
+Kemalist olarak gören grup aynı zamanda kendini Atatürkçü olarak da tanımlarken, kendini
+Atatürkçü olarak tanımlayan grup arasında oldukça büyük bir bölümü kendini Kemalist
+olarak tanımlamamakta ve Kemalizm’i kendi siyasi görüşlerine aykırı bulmaktadır. 10
+Siyasi duruş olarak size uygunluğu açısından aşağıdaki kavramları değerlendirir misiniz?
+(%)
+
+2007’den bu yana siyasi konjonktürde yaşanan değişiklikler insanların kendilerini
+tanımlamaları ve kelimelere yükledikleri anlamlarda da değişiklikler yapmıştır.  Bu konuda
+yapılmış daha yeni bir çalışma olmadığından, biz örneğimize GENAR’ın 2007’de yaptığı
+araştırmanın geçerliliğini koruduğu varsayımıyla devam edeceğiz.
+Bilimsel ölçütlerde yeterli olmamakla birlikte, sadece semiyotik analizin nasıl çalıştığını
+göstermek üzere, Kemalizm ve Atatürkçülük kavramları üzerine yargısal örnekleme
+yöntemiyle 12.5.2010 tarihinde 26 kişiden oluşan iki ayrı grubun üyleriyle ikişer kez mülakat
+yapıldı. 22.12.2010 tarihinde ise 15 kişiyle açık uçlu soru yöntemiyle anket yapıldı.
+Mülakatlarda ana mesaj değiştirilmeden bir grupla Kemalizm hakkında konuşuldu, diğer
+grup için ise konuşmanın içinde geçen “Kemalizm” kelimesi her defasında “Atatürkçülük”
+vurgusu ile değiştirilerek konu anlatıldı. Ardından konu hakkında sohbet edildi.
+Mülakatlar, GENAR araştırması da ana veri kabul edilerek değerlendirildi.
+Ortaya çıkan sonuç:
+ Toplumsal polarizasyon ve siyasi partiler arasındaki çatışma kelimelerin anlamlarının
+daha keskinleşmesine neden olmaktadır. Kişilerin tarihe dair konularda konuşurken,
+“Kemalizm” kavramına yaklaşımları ile, bugüne dair sosyal konularda “ Kemalizm”
+kavramına yaklaşımları farklıdır. Geçmişe dair konuşmalarda daha ziyade ilkeler üzerinde
+
+10 GENAR, Türk Solu 2 Araştırması, Ana Rapor, Eylül , 2007
+
+--- Sayfa 14 ---
+dururken, bugüne dair konuşmalarda sürekli “ Laikler”, İslamcılar” , “Faşistler”,
+“Modernler” “Onlar” gibi sürekli öteleştirilme ya da taraf olmaya dair kavramlar öne
+çıkmıştır.
+ Kişiler Kemalizm’i daha soyut bir düşünce olarak kabul ederken Atatürkçülüğü daha
+kişisel ve karakteristik özellik olarak tanımlamaktadırlar.
+ Deneklerin % 80’i Kemalizm ve Kemalist kelimelerini, CHP ile bütünleşmiş bir kavram
+olarak tanımlarlarken, deneklerin % 76’sı Atatürkçülük kavramını toplumsal ve kişisel
+karakter özelliği olarak kabul etmekte ve kendilerini Atatürkçü olarak tanımlamaktadır.
+ Deneklerin % 67’si Kemalizm’e dair vurguların politikacılar tarafından toplumu
+ayrıştırmak için kullanıldığını belirtmektelerdir ki bu görüşteki %67lik gruptan % 39’u
+kendini “ Kemalist” olarak tanımlayan gruptur.   Atatürkçülük vurgusu ise deneklerin
+sadece % 40’ı tarafından ayrıştırıcı bir terim olarak kabul edilmektedir.
+ İdeoloji savaşlarının izleriyle büyüyen nesillerin sonu “izm”le biten kelimelere dair
+psikolojik tepkileri bu kişilerin Kemalizm’e duruşlarına da etki etmektedir. Özellikle 40
+yaş ve üstü denekler sonu “izm” ile kelimelere siyasi nedenlerden ötürü tepki
+gösterirken, 40 yaş altı denekler ise sonu “izm” ile biten kelimeleri çok soyut, soğuk
+buldukları için tepki göstermekteler. Kemalizm’in içeriği kadar bilinçaltı sosyal psikolojik
+tepkinin de, kavrama olan duruşu etkilediği görülmüştür.
+Burada stratejik iletişim uygulaması yeni kurulmakta olan ve merkezde yer almayı planlayan
+bir partiye uygulanıyor olsaydı, parti liderinin böyle bir konuşmayı gerektirecek milli günde,
+genele hitabında hedef kitlede ayrıştırıcı özellik gösteren “Kemalizm” yerine hedef kitlede de
+birleştirici özellik gösteren ve aidiyet hissi yaratan “ Atatürkçülük” kelimesini kullanması
+tavsiye edilirdi.
+Uygulama sırasında yine aynı şekilde halk, millet, toplum, vatandaş kelimelerinin de
+bölgelere, etnik kökene ve eğitime bağlı olarak anlamlarının ve kişiler üzerinde yarattığı
+psikolojik etkinin değiştiği de görülmüştür.
+Toplumlar bir mesajı onaylarken ya da karşı çıkarken, bu sadece mesajın içeriği nedeniyle
+değil, bir o kadar da seçilen kelimelerin o toplum üzerinde yarattığı etkiye bağlıdır. Hatta
+kimi durumlarda kelimelerin etkisinin, mesajların da önüne geçtiği bilinmektedir.
+Dil kodlaması her ufak gruba yönelik ayrıştırıcı kelimeler kullanmak değildir. Analizler
+yapıldığında gerçekte toplumun birleştirenlerinin ayıranlarından daha fazla olduğu
+görülecektir. Geniş hedef kitlelere yönelik medya kampanyalarında, hitaplarda tutarlı ve aynı
+zamanda toplumun geneli tarafından kabul görecek konuşma metinleri ve mesajların
+hazırlamasında  dil kodlamalarına dikkat edilmelidir.
+Şirketler için TV ve gazete reklamlarında önemli olan genel hedef müşteri kitlesinin dil
+kodlamalarını kullanarak, müşteri kitlesinde sunulan ürün ya da hizmete ihtiyaçları olduğu
+duygusunu yaratmaktır. İhtiyaç duygusunun nedeni değişebilir. Ancak sonuç değişmemeli ve
+
+--- Sayfa 15 ---
+insanlar saygın olmak için, farklı olmak için, daha güzel ya da daha genç olmak için vb. sizin
+sunduğunuz ürün ya da hizmeti ihtiyaç listesinde görmelidir.
+Ekonomist dergisi muhabiri için verilecek röportajda ise öncelikle muhabirin haber tarzı ve
+dili dikkate alınır. Ardından vurgulanmasını istenen noktada muhabirin ve mesajı gönderilen
+hedef kitlenin buluştuğu dil kodlaması kullanılır. Bu bir yandan en önemli mesajın haber
+içerisinde başlıkta yer almasını sağlarken, öte yandan hedef kitle olan iş dünyasının
+profesyonellerine yönelik mesajlar da doğru olarak iletilir.
+Siyasilerin, işadamlarının, devlet yöneticilerinin medyaya dair en büyük şikayeti her zaman
+asıl verdikleri mesaj yerine, farklı konulardaki mesajlarının, yine farklılaştırılarak haber
+yapılıyor olmasıdır. Bu sıkıntıdan kurtulmak için ise yapılacak şey siyasilerin, işadamlarının,
+yöneticilerin arkalarındaki iletişim ekibinin başarısını ve kendi tarzlarını sorgulamak
+olmalıdır.
+Tıpkı dil kodlamalarında olduğu gibi sembollerin, renklerin, seslerin hedef kitlede hangi
+duyguları yarattığı bulunmalıdır. Bu analiz  doğru mesajların oluşturulmasına büyük katkı
+sağlamaktadır.
+4.2. Karşı Propaganda/ Rekabet Analiz
+Sizinle aynı alanda çalışan diğer kurum, kuruluş ve organizasyonların ya da sizin değiştirmek
+istediğiniz düşünce, duygu, davranış değişikliğine karşı çıkan grupların söylemleri, karşı
+grubun motiveleri, çalışma yöntemleri, etkinlikleri, gelecek planları, kör noktaları, esneklik
+dereceleri net olarak tespit edilmelidir. Bu sizin vereceğiniz mesajlara ya da uygulayacağınız
+politikalara karşı, diğer partinin tavrını önceden tahmin etmenize ve önlem almanıza yardım
+eder. Karşı propaganda/rekabet analiz her zaman kriz yönetimi ve gelecek / olasılık analiz ile
+birlikte düşünülmelidir.
+Karşı propaganda/ rekabet analizde, hedef kitle analiz çalışmalarından faydalanılır.
+4.3. Kriz Yönetimi ve Gelecek / Olasılık Analizi
+Gelecekte olması muhtemel her türlü gelişmenin olasılık oranı tespit edilerek, olasılık /
+masraf / fayda dengesi içinde bu olasılıklar değerlendirilmelidir. Gelecek analizi sizi olayları
+takip eden, gelişen olaylara göre tepki gösteren konumundan çıkararak yönlendiren, liderlik
+eden konumuna sokar.
+Bugün sosyal medya sayesinde olası bir skandal, kriz anında tüm dünyada duyulmaktadır.
+Kimse bir krizin/ skandalın detayını öğrenmek için ertesi gün gazetelerini beklemeyecek ve
+eğer gecikirseniz ortaya çıkacak bilgi kirliliğinde insanların kafası karışacak, mesajınızı
+duymayacaklardır. Krizlere anında müdahale etmek büyük önem taşımaktadır. Önceden
+hazırlanmış kriz yönetim planı çerçevesinde, gerekli bilgiye sahip, izlenecek taktiği bilen
+yöneticiler krizleri daha hafif atlatabilmektedirler. İletişimde kriz yönetimi çoğu zaman büyük
+
+--- Sayfa 16 ---
+masraflara girmeden çözülebilmektedir. Önemli olan gerekli bilgiye sahip ve gelecek
+öngörüsü olan kişilerle çalışmaktır.
+Kriz yönetimi, gelecek olasılık analizi, karşı propaganda / rekabet analizi gibi analizler kurum
+içinde çalışan konu uzmanlarının liderliğinde gerçekleştirilir.
+4.4. Analiz Veri Bankası
+Analiz çalışmalarında elde edilen tüm veriler düzenli olarak hedef kitle analiz veri bankasına
+işlenmelidir. Gelişmiş gruplama ve arama sistemine göre düzenlenen veri bankasında konu
+başlığı ve hedef kitle seçildiğinde, sistem otomatik olarak vurgulanması gereken mesajlar ve
+kelimeler ile kaçınılması gereken hassasiyet noktalarını ortaya koymalıdır.
+Hedef kitle analiz veri bankası sayesinde;
+ Hedef kitlenin düşünce ve davranışlarında ortaya çıkan değişimler ve değişimlere neden
+olan motivasyonlar tespit edilebilir.
+ Mevcut konum analizleri düzenli olarak yapılabilir.
+ İletişimde kullanılacak mesajların temelini hazırlar.
+ Hedef kitle analizden gelen geri bildirimlerle, stratejik iletişim planı güncellenir.
+ Sistem içerisindeki giriş sınırlamalarıyla herkese ihtiyacı olduğu kadar bilgi erişimi
+sağlanır, bilgi güvenliğini artırır.
+5. Uygulama
+5.1. Ana Tema ve Mesajlarının Belirlenmesi
+Analiz edilen veriler ve stratejik iletişim hedefleri doğrultusunda,  üzerinde çalışılacak ana
+konularda izlenecek politikalar netleştirilir ve bu konularda verilecek mesajların çerçevesi
+belirlenir. Alt konular ve alt mesajlar ana mesajı ve ana konuları destekleyecek şekilde
+geliştirilir. Alt mesajlar psikographic ve semiyotik analizin de yardımıyla bilinçdışı ve bilinçaltı
+dil kodlamalarıyla desteklenir.
+Mesajlar stratejik iletişim hedefleri doğrultusunda, belirlenen zaman çizelgesine uygun
+olarak geliştirilir ve güncellenir.
+5.2. İletişim Tetikleyicileri
+Çalışılan alandaki muhtemel gelişmeler ve bu gelişmelere bağlı olarak medyanın
+odaklanacağı muhtemel haber ve program konuları önceden belirlenir.
+ Önemli günler takvimi oluşturulur. Bu çalışılan alana bağlı olarak milli ve dini günleri,
+ulusal ve uluslararası aktiviteleri, meclis takvimini, kongreleri, vergi dönemlerini vb
+kapsayabilir. Bu takvim doğrultusunda bugünlerde verilecek mesajlar, düzenlenecek
+aktiviteler vb. belirlenir.
+
+--- Sayfa 17 ---
+ Beklenen siyasal, sosyal, ekonomik, kültürel gelişmeler not edilir ve olasılıklar
+hesaplanarak verilmesi muhtemel mesajlar belirlenir.
+ Olası krizler her zaman muhtemel medya tetikleyicisidir. Olasılıklara göre kriz yönetim
+planları önceden hazırlanmış olmalıdır.
+5.3. Mesaj Gönderim Yolları
+Her bir mesajı yüz yüze iletişim, mitingler, TV, gazete, radyo, broşür, sosyal medya vb.
+araçlarla verebiliriz. Mesajı kendimiz basın açıklamalarıyla,  reklamlarla, kanaat liderleri
+aracılığıyla, sosyal projelerle vb. hedef kitleye duyurabiliriz.  İletişim yolları ve araçları
+oldukça çok ve çeşitli olsa da, hepsini kullanmaya kimi zaman bütçe elvermez, kimi zaman
+ise mesajın yanlış hedef kitlelere, yanlış yollardan gönderilmesine neden olur.
+Her bir konu için, her iletişim yolunun avantaj ve dezavantajları belirlenerek, hangi
+mesajların, hangi kanallardan verileceği netleştirilmelidir. Mesaj gönderim yollarının
+belirlenmesinde hedef kitlenin özellikleri belirleyici rol oynar. En iyi yaklaşım en az üç –dört
+farklı iletişim yolunu aynı anda kullanarak, mesajı güçlendirmektir.
+Örneğin sadece doktorlara yönelik bilimsel bir çalışmayı/ hizmeti sadece o alanda yayın
+yapan ve konuda uzman magazin yazarlarına özel röportaj vermek daha akıllıca olabilir.
+Romatizma ağrılarına ya da şişmanlığa karşı hastaları da ilgilendiren bir konuda ise tüm basın
+kuruluşlarının davetli olduğu bir basın toplantısı ya da tanıtım programı düzenlenebilir. ,
+Sunulan bir politika/ hizmet / ürün ile ilgili olarak, ünlü bir sanatçının ya da şarkıcının
+destekleyici mesajları yine etkin bir yol olabilir.
+Mesaj gönderim yolları belirlenirken medya analiz ve kanaat önderleri profil analizden gelen
+veriler belirleyici rol oynar.
+6. Performans ve Etkinlik Ölçüm
+Tüm bu aşamaların ardından stratejik uygulamasına hazır sayılırsınız. İletişim sürecinde
+kullanacağınız mesajları, mesajların gönderim yollarını biliyorsunuz. Ancak medya/ halkla
+ilişkiler kampanyalarına başlamadan önce masraf/ fayda dengesini de gözetmek
+zorundasınız. Dolayısıyla kampanya halka açılmadan önce gerekli etkinlik testinin yapmanız
+gerekir.
+Sunulacak ürün, politika ya da hizmetle birlikte verilen mesajın duygu, düşünce, davranış
+değişikliği yaratma olasılığı nedir? Öncelikle sunulması planlanan ürün / politika/hizmet ile
+birlikte mesaj, fokus gruplar düzenlenerek test edilmelidir.
+Ardından stratejik iletişim hedeflerinin hangi oranda gerçekleştirildiğini ölçebilmek için,
+performans ve etkinlik ölçüm sistemini oluşturmalısınız.
+6 -12 aylık periyodlarla performans şeması çıkartılmalı, stratejik iletişim planı çerçevesinde
+uygulanan çalışmalar belirlenmelidir. Her bir konu başlığı için, uygulanan medya
+
+--- Sayfa 18 ---
+kampanyaları, kampanya çerçevesinde ne kadar aktivitenin hazırlandığı, kaç tane TV
+kanalında, ne kadar süre ile yayın yapıldığı, kaç tane miting düzenlendiği vb. çıkartılmalıdır.
+Performans şemasının ardından alan etkinlik ölçüm sistemleri oluşturulmalıdır. Örneğin
+Türkiye’de aktif internet kullanıcısı sayısını artırmayı planlayan bir kampanya düzenlediysek
+burada internet kullanıcı sayısındaki % 20 artış etkinlik ölçüm sisteminde kullanılacak
+verilerden biri olabilir. Ancak bunu tek veri olarak kabul edemeyiz. Sonuçta aktif internet
+kullanıcı sayısının artışına bilgisayar, modem, internet vb. fiyatların düşmesi, şirketlere web
+sayfası kurma zorunluluğunun getirilmiş olması, eğitim sisteminde ki değişiklikler vb.de
+etkide bulunmuş olabilir.
+Etkinlik ölçümün somutlaşması için anket, fokus grup çalışması yapılabilir , % 20 artışı
+etkileyen diğer etmenlere dair yapılmış istatistiki çalışmalara başvurulabilir.
+Performans ve etkinlik ölçüm sistemleri bize stratejik iletişim planının başarısını ya da
+başarısızlığını gösterir. Her iki durumda da yapılacak analizlerin ardından yol şeması çıkarılır.
+Plan başarılıysa kullanılan teknikler geliştirilerek devam edilir, planda herhangi bir aksama
+varsa, nedenler analiz edilerek, sistem yeniden düzenlenir.
+7-Stratejik İletişim Planının Güncellenmesi
+Şu ana kadar yapılan çalışmaların ardından çalıştığınız alanda iletişime, hedef kitlenize,
+rakiplerinize  ve olası gelişmelere karşı detaylı bilginiz var. Bu bilgiler çalışmanın başında
+hazırlanan taslak planın detaylandırılmasına, tanımlamaların, kısa, orta ve uzun vade
+stratejik iletişim hedeflerinin, üzerinde çalışılacak ana konuya dair izlenecek politikaların,
+mesajların, zaman çizelgelerinin güncellenmesinde kullanılır.
+Nihayet yıllar boyunca güncellenerek, devam edecek olan bir stratejik iletişim planınız var ve
+ayağı yere basan reklam ve tanıtım kampanyaları yapmaya, satışlarınızı, oylarınızı artırmaya,
+toplumsal değişimleri yaratmaya hazırsınız.

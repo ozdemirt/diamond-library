@@ -1,0 +1,1193 @@
+--- Sayfa 1 ---
+V I E W F R O M P R A C T I C E
+Artificial intelligence and the fifth phase of political risk
+management: An application to regulatory expropriation
+Thomas A. Hemphill1
+|
+Keith J. Kelley2
+1David M. French Distinguished Professor of
+Strategy, Innovation and Public Policy, School
+of Management, University of Michigan-Flint,
+Flint, Michigan
+2Associate Professor of International Business,
+School of Management, University of
+Michigan-Flint, Flint, Michigan
+Correspondence
+Thomas A. Hemphill, David M. French
+Distinguished Professor of Strategy,
+Innovation and Public Policy, School of
+Management, University of Michigan-Flint,
+2118 Riverfront Center, 303 East Kearsley
+Street, Flint, MI 48502-1950.
+Email: thomashe@umich.edu
+Abstract
+Using the context of regulatory expropriation, this article extends political risk man-
+agement
+theories,
+forecasting
+methodologies
+(employing
+artificial
+intelligence,
+machine learning, and data analytics), and human intelligence evaluation tools useful
+for multinational enterprise executives in their planning and decision-making respon-
+sibilities. The article identifies three key areas where artificial intelligence will specifi-
+cally assist managers in analyzing and mitigating risks: (a) earlier identification of risks,
+(b) precision in risk assessment, and (c) identification of unknown unknown risk corre-
+lations. These three categories also represent how artificial intelligence and its appli-
+cation to political risk assessment will evolve in the fifth phase of political risk
+management, and why it is of particular relevance to risks such as regulatory expro-
+priation. Using the example of an oil exploration joint venture between Russian TNK
+and BP, and reflecting political and public policy indicators of regulatory expropria-
+tion, this political risk management framework and its hypothetical development are
+illustrated.
+K E Y W O R D S
+artificial intelligence, foreign direct investment, human intelligence, political risk management,
+regulatory expropriation
+1
+|
+INTRODUCTION
+The term “expropriation” is defined as “the taking by a government of
+privately owned assets, such as real estate, factories, farms, mines, or
+oil refineries” (Schaffer, Agusti, Dhooge, & Earle, 2012, p. 24). “In
+cases of direct expropriation, there is an open, deliberate and
+unequivocal intent, as reflected in a formal law or decree or physical
+act, to deprive the owner of his or her property through the transfer
+of title or outright seizure” (United Nations Conference on Trade and
+Development, 2012, p. 7). Such government action may have a devas-
+tating financial impact on multinational enterprises (MNEs) when this
+“taking” results in a loss of invested capital without adequate com-
+pensation (Nikiema, 2013).
+For example, in Venezuela, the late President Hugo Chavez was a
+fierce advocate of state control of strategic sectors, and beginning in
+2007, he nationalized steel mills, agribusinesses, and the oil industry
+(Wyss, 2017). In April 2017, the Venezuelan Judicial Authority seized
+General Motors (GM) manufacturing facilities, and the company was
+forced to write off the plant and recognize a $100 million charge
+against profits (Oxford Analytica, 2018). While unfortunate for MNEs
+such as GM, after nearly two decades of rhetoric and nationalist initia-
+tives from the Venezuelan government, such potential outcomes
+would certainly be predictable by international managers using even
+the most basic of political risk assessment tools. However, while some
+political risk leading to direct expropriation is easier to identify and
+account for, other risks that are subtle with indirect outcomes are
+more challenging to forecast.
+As global markets, rules, and regulations have emerged, the risk
+of direct expropriation has conceivably lessened, or possibly evolved
+more recently into a specific subset of expropriation: “creeping”
+expropriation, or “regulatory” expropriation (Newcombe, 2007). Creep-
+ing expropriation is “the incremental encroachment on one or more of
+DOI: 10.1002/tie.22222
+Thunderbird Int. Bus. Rev. 2021;63:585–595.
+wileyonlinelibrary.com/journal/tie
+© 2021 Wiley Periodicals LLC.
+585
+
+--- Sayfa 2 ---
+the ownership rights of a foreign investor that eventually destroys
+(or nearly destroys) the value of his or her investment or deprives him
+or her of control over the investment” (United Nations Conference on
+Trade and Development, 2012, p. 11). Such creeping expropriation
+occurs when a host government imposes regulations that gradually limit
+the exercise of private ownership rights by the foreign-owned business
+(Schaffer et al., 2012). This regulatory expropriation, a subcategory of
+indirect expropriation1 (Escarcena, 2014; Isakof, 2013), may subject for-
+eign direct investment (FDI) to such things as: discriminatory taxes,
+domestic government controls over management of the foreign-owned
+firm, price controls, mandatory employment of nationals, cancellation
+of government-issued business licenses, and restrictions on currency
+convertibility (Schaffer et al., 2012), among others. While Rice and
+Zegart (2018a, p.132) believe that “expropriating leaders are far less
+common than they used to be,” it does not mean that this expropriation
+is not being undertaken utilizing more subtle regulatory actions.
+As MNE interest in emerging markets has dramatically increased
+in the 21st century, host countries have learned, “that more value can
+be extracted from foreign enterprises through the more subtle instru-
+ment of regulatory control rather than outright seizures,” says George
+Chifor (Henisz & Zeiner, 2010, p. 90). Today's MNE, operating under
+the global rules established by the World Trade Organization, is more
+likely to encounter regulatory expropriation that is subtle, indirect,
+incremental, and thus more challenging to identify and manage effec-
+tively than direct expropriation, a blunt, direct, and obvious action
+perpetrated by national governments against foreign-owned compa-
+nies in the 20th century. Consequently, as the current environment
+brings forth a new era of political risk, it has also delivered an increas-
+ingly sophisticated technology to help with a new phase of risk
+assessment: artificial intelligence (AI).
+Regulations that result in the de facto expropriation of property
+deny an owner the ability to use or sell property, or otherwise dramat-
+ically limit its use, therefore reducing its market value (OECD, 2018).
+An example of regulatory expropriation occurred in 2010, when the
+Arctic joint venture between Russian TNK2 and BP came under severe
+Russian government regulatory pressure after the joint venture devel-
+oped conflicts with national state-owned oil and gas giant Gazprom
+over issues concerning pipeline access and development strategy
+(Schaffer et al., 2012). In this case, Russian government regulators
+insisted on a northerly route for the pipeline to pass other, smaller gas
+fields that would otherwise be uneconomical to develop, and made
+clear that Gazprom, and not the TNK-BP joint venture, would decide
+when to build that pipeline (Kramer, 2010). In addition, the Russian
+government later revoked other foreign MNE oil permits, citing envi-
+ronmental regulatory concerns (Schaffer et al., 2012).
+While regulatory expropriation is a recognized political risk by
+MNEs and their stakeholders, the challenge for MNE executives is
+recognizing when this government activity is actually occurring in a
+host country—and if it is applied to all foreign MNEs or focused on
+certain MNEs. For MNEs, regulatory expropriation affects several
+aspects of FDI and executive decision-making and it needs recogni-
+tion as an important ingredient of political risk assessment factored
+into entry and exit of markets, and timing and mode of entry or exit.
+In addition to state-of-the-art developments in the human intelligence
+aspects of political risk assessment, in this paper we formally intro-
+duce data analytics, machine learning, and AI, as integral to the next
+phase in the evolution of political risk management.
+Political risk management has largely undergone four phases of
+incremental evolution (Jarvis, 2008; Jarvis & Griffiths, 2007) and, at
+the start of the 21st century, there is potentially a departure from the
+fourth phase. Here, despite sophisticated analytical tools and systems,
+uncertainty may still be so hard to envision it cannot be reasonably
+incorporated into probabilistic predictions and used in models
+(Makridakis, Hogarth, & Gaba, 2009)—built with the cognitive limita-
+tions of the humans governing them. Political risk management will
+see an evolution toward AI where machines at first need human input
+for crafting predictions, then make decisions on their own in the near
+future, and eventually will not suffer from the limitations of human
+intelligence in trying to incorporate uncertainty.
+According to Rice and Zegart (2018a, p.132) “21st century
+political risk is essentially the probability that a political action will
+significantly affect their business—whether positively or negatively.
+“They go beyond the usual locales—nation's capitals, military bar-
+racks, and political party headquarters—as such political activities
+are “almost anywhere—inside homes, on the streets, and in the
+cloud, in chat rooms, dorm rooms, and bathrooms; in neighborhood
+bars and summit sidebars (Rice & Zegart, 2018b, p. 7).” This is
+where Rice and Zegart's broader concept of “political action” is
+integral to effective political risk analysis. By tapping into these
+“private” sources of real-time opinion, that is, “human intelligence”
+acquiring, allows corporate social scientists to offer their nuanced
+analysis of a possible competitive edge needed to effectively man-
+age the possible impact of these global political actors in a complex
+business environment.
+Following this brief introduction to expropriation and regulatory
+expropriation, this article will first, review the state of the field of polit-
+ical risk analysis and management—with a focus on expropriation. Sec-
+ond,
+we
+extend
+political
+risk
+management
+theories,
+forecasting
+methodologies, and evaluation tools to incorporate the vexing problem
+of regulatory expropriation into a new strategic political risk framework
+employing data analytics, machine learning, and AI, all useful for MNE
+managers. Third, taking this proposed political risk management frame-
+work, we explore its hypothetical development using the above-
+mentioned venture between Russian TNK and BP reflecting political
+and public policy indicators of regulatory expropriation. Finally, we dis-
+cuss the importance of this fifth phase of political risk management,
+and how it will provide heretofore unavailable benefits for MNE exec-
+utives who need to assess nuanced threats and opportunities in the
+global political economy.
+2
+|
+POLITICAL RISK ANALYSIS AND
+MANAGEMENT: STATE OF THE FIELD
+Today, most businesses recognize that political actions and decisions
+have major implications for commercial operations in the global
+586
+HEMPHILL AND KELLEY
+
+--- Sayfa 3 ---
+environment (Fagersten, 2015). For example, Oxford Analytica (2018)
+in a recent survey on managing global business political risk, reported
+60% of business respondents reporting that political risk levels had
+increased since 2017, 75% avoided investing in a country because of
+political risk concerns, and 68% expressed country specific political
+risk concerns. Overall, 35% of respondents replied that they suffered
+political risk-related losses in recent years, with 43% reporting such
+losses exceeding $100 million (Oxford Analytica, 2018).
+Political risk, as confronted by MNEs, is similar to “macroeco-
+nomic risks” and “policy risks” identified under Ghoshal's (1987) risk
+typology framework. It can be defined as “the risk of strategic, finan-
+cial, or personal loss for a firm because of such nonmarket factors as
+macroeconomic and social policies (fiscal, monetary, trade, investment
+industrial, income, labor, and developmental), or events related to
+political instability (terrorism, riots, coups, civil war, and insurrection)”
+(Kennedy, 1988, p. 27). Also, as Bremmer and Keat (2010, p. 21) point
+out, “[U]nlike financial, economic, or environmental risks, political risks
+are usually generated by individuals, people with particular and identi-
+fiable sets of motivations and limitations.” While the field of political
+risk management has traditionally focused on analyzing uncertainties
+in emerging economies, recent political events in the global political
+economy have broadened its scope to include the developed econo-
+mies and established liberal democracies (Campisi, 2016).
+For the purposes of political risk management, political risk can be
+further bifurcated into macrolevel political risk and microlevel political
+risk. Macropolitical risk analysis evaluates nonproject specific risks that
+affect all levels of stakeholders in a country (Alon & McKee, 1999).
+Such macropolitical risks include regulatory changes, endemic corrup-
+tion, government leadership turnover, and national credit defaults.
+Micropolitical risk analysis evaluates project-specific risks affecting a
+business endeavor (Alon, Gurumoorthy, Mitchell, & Steen, 2006). Such
+micropolitical risks may include business project-specific government
+reviews, the selection of questionable, host country business partners,
+and the potential for expropriation or nationalization of a project or
+assets. “Historically, some of the business world's best political risk
+analysis has come from multinational enterprises, like Royal Dutch
+Shell and American International Group (AIG), that have entire depart-
+ments dedicated to the subject” (Bremmer, 2005, p. 52).
+From the vantage point of understanding its modern evolution,
+political risk analysis has gone through four distinct phases (Jarvis, 2008;
+Jarvis & Griffiths, 2007) (see Figure 1 for detailed descriptions). The first
+three phases of political risk analysis are indicative of late 20th century
+development in the field. The fourth phase, however, reflects a critical
+(for MNE executives) 21st century approach to political risk analysis
+designed to link institutional and contextual characteristics to the proba-
+bility of risk events, and thereby warn decision-makers (in NGOs and
+international aid agencies) of impending humanitarian crises (Jarvis &
+Griffiths, 2007). This fourth phase methodological approach is readily
+transferable to MNEs, that are also vulnerable to such impending
+macroenvironmental events affecting their operations and influencing
+managerial responses in these locales.
+While “Phase 4” is largely where the field remains today, the early
+warning systems (EWSs) are made increasingly sophisticated though
+advances in technology and data availability. Business Intelligence
+(BI) tools have proven vital to decision makers in support of EWSs
+across a wide range of industries and applications (e.g., insurance, real
+estate, macroeconomic (Wu, Chen, & Olson, 2014). Limitations in data
+availability still remain a major issue when trying to accurately assess
+political risk; however, perhaps a greater obstacle standing in the way
+of moving to the next “phase” of analysis is knowing what data to
+analyze—that is, “the knowing what to look for” is a greater issue than
+the “not being able to find it” one.
+Phase One
+•
+•
+The first phase focused on normal political activity in efficient markets.
+Phase Two
+•
+This phase simplified the roles of both business and political/public policy activity, but also failed to
+undersand their complex interactions.
+•
+The second phase shifted focus from specific governmental policies to the political system and its
+vulnerability to environmental stresses and shocks.
+Phase Three
+•
+The assumption was that certain political systems are more prone to some types of risks than others.
+•
+Phase Four
+•
+The third phase aimed less at broad theoretical correlations and more towards microanalyses that
+emphasized context and the use of qualitative techniques.
+This phase has increased the use of qualitative methodologies, such as interviewing and scenario
+development, and relied on methods over theory.
+•This approach can be seen in quantitative "early warning systems" being developed by NGOs.
+The fourth phase "involves the construction of data sets that allow political risk analysts to carefully
+examine the relationship between political and economic institutions, as well as the interface between
+domestic norms , actors, institutions, and external influences" (Jarvis and Griffiths, 2007: 18).
+FIGURE 1
+The four phases of political risk analysis (Jarvis, 2008; Jarvis & Griffiths, 2007) [Color figure can be viewed at
+wileyonlinelibrary.com]
+HEMPHILL AND KELLEY
+587
+
+--- Sayfa 4 ---
+Rice and Zegart (2018b) view three megatrends transforming the
+political risk landscape over the last 30 years: first, dramatic changes
+in geopolitics since the end of the Cold War, second, supply chain
+innovations, and third, the information technology revolution (Rice &
+Zegart, 2018b). Furthermore, Rice and Zegart (2018b) identify a politi-
+cal risk management framework that requires four core competencies
+to be effective and, at each step in this political risk management
+framework, they identify three guiding questions that organizational
+members can ask to address the most important issues):
+• Understanding risks (What is my organization's political risk appe-
+tite? Is there a shared understanding of our risk appetite? How can
+we reduce blind spots?)
+• Analyzing risks (How can we get good information about the politi-
+cal risks we face? How can we ensure rigorous analysis? How can
+we integrate political risk analysis into business decisions?)
+• Mitigating risks (How can we reduce exposure to the political risks
+we have identified?
+Do we have a good system and team in place for timely warning
+and action? How can we limit the damage when something bad
+happens?)
+• Responding to crises (Are we capitalizing on near misses? Are we
+reacting effectively to crises? Are we developing mechanisms for
+continuous learning?)
+Yet, while many researchers use financial crises (e.g., currency, sover-
+eign debt, equity) to bring attention to deficiencies in risk manage-
+ment models (Jorion, 2009), others introduce new indicators for
+EWSs (Castell & Dacuy, 2009; Krstevska, 2012), thus highlighting the
+incremental nature of improvements in the field of risk management.
+Furthermore, examining the development of EWSs applied to one
+field may also lead to innovations in other fields. For instance, on
+January 9, 2020, the World Health Organization (WHO) first reported
+a flu-like outbreak and pneumonia symptoms in China's Wuhan prov-
+ince, with the U.S. Centers for Disease Control and Prevention (CDC)
+reporting it days earlier on January sixth (Niiler, 2020). However, as
+Niiler (2020) reported online in Wired, BlueDot, a Toronto-based
+health monitoring platform founded in 2014 that uses AI-driven algo-
+rithms, “had beaten them both to the punch, sending word of the out-
+break to its customers on December 31.” In this article, BlueDot's
+founder Kamran Khan highlights the fact that when there is an out-
+break, speed matters, and Chinese officials are “tight-lipped” and “do
+not have a good track record of sharing information” (Niiler, 2020).
+While there are still challenges, this company and example highlight
+the fact that governments may not provide information at all, or in a
+timely fashion, and that AI-driven algorithms can often discover
+trends and make predictions faster.
+Many attempts at forecasting risk focus on models where “uncer-
+tainty can be reasonably incorporated into probabilistic predictions”
+(Makridakis, Hogarth and Gaba, 2009, p. 795) and not ones where the
+uncertainty is so hard to envision it cannot be modeled (Makridakis
+et al., 2009). BlueDot's founder stated, “We can pick up news of pos-
+sible outbreaks, little murmurs or forums or blogs of indications of
+some kind of unusual events going on” (Niiler, 2020). As fears of the
+spreading virus increased, so did the international response that cau-
+sed three major U.S. airlines to cancel flights to the Chinese mainland,
+sending stocks tumbling, and the issuance of a travel ban suspending
+entry for anyone who has recently traveled to China (Chokshi, 2020).
+So, while the impact of the pandemic on business is felt nearly imme-
+diately, such events are also political in nature and the consequences
+of various governmental responses will be felt in the coming years.
+This draws attention to the possibility that AI-driven algorithms may
+be designed with one purpose in mind (e.g., community health risk
+monitoring), but have several applications (e.g., political and financial
+risk management). In this example, the concerns and utility of such
+predictions are also discussed in terms of reliability of using social
+media information for data mining—without human oversight or a
+healthy skepticism of what predictions and patterns emerge. Fine tun-
+ing analytics in concert with human oversight is still necessary for big
+decisions.
+The fifth phase of political risk analysis, building on a combination
+of data analytics, AI, and human intelligence, will be able to combine
+complex qualitative models and scenarios with real-time big data from
+various social media platforms. Rice and Zegart's (2018a, 2018b) polit-
+ical risk management framework is specifically relevant to this “Fifth
+Phase of Political Risk Analysis” for two competencies: analyzing risks
+and mitigating risks. The analyzing risks competency is based on a rig-
+orous foundation of cloud computing, data analytics and enhanced AI
+technology. The mitigating risks competency is based on a compli-
+mentary foundation of “human intelligence,” steeped in the knowl-
+edge and insights provided by political scientists, political economists,
+sociologists, and country-specific analysts. This fifth phase of political
+risk analysis will be the next generation of strategic political risk man-
+agement, and a valuable mechanism for uncovering the risks of regula-
+tory expropriation for MNEs in the 21st century.
+3
+|
+STRATEGIC POLITICAL RISK
+MANAGEMENT: DATA ANALYTICS,
+MACHINE LEARNING, AND AI
+The “Fifth Phase of Political Risk Analysis” is predicated on develop-
+ments in “machine learning.” According to Fagella (2019):
+Machine learning is the science of getting computers
+to learn and act like humans do, and improve their
+learning over time in autonomous fashion, by feeding
+them data and information in the form of observations
+and real-world interactions.
+Machine learning involves statistical predictions based on unan-
+ticipated correlations to solve problems. Recent advances in machine
+learning have transformed how we can utilize dynamic, probabilistic
+models to predict instead of utilizing rule-based, static logic. The out-
+put of machine learning (“the prediction”) is “a key component of
+intelligence, the prediction accuracy improves by learning, and the
+588
+HEMPHILL AND KELLEY
+
+--- Sayfa 5 ---
+high prediction accuracy often enables machines to perform tasks
+that, until now, were associated with human intelligence, such as
+object identification (Agrawal, Gans, & Goldfarb, 2018, p. 38).” Thus,
+at this level of prediction accuracy, one can refer to it as “AI.” AI is a
+system that makes autonomous decisions. According to Webb (2019),
+p. 13): “The tasks AI performs duplicate or mimic acts of human intelli-
+gence, like recognizing sounds and objects, solving problems, under-
+standing language, and using strategy to meet goals.”
+There are three phases in the evolution of AI systems (Webb,
+2019). First, there is artificial narrow intelligence (ANI). The ANI sys-
+tems, which have proliferated over the last decade, are presently
+capable of performing a singular task at the same level or better than
+humans (Webb, 2019). Second, there are artificial general intelligence
+(AGI) systems which will perform broader cognitive tasks, for example,
+reason, solve problems, think in abstraction, and make choices, as
+these systems are designed to think like humans (Webb, 2019). The
+AGI systems are considered “near future,” that is, implementable
+within the next 10–20 years. Third, are artificial superintelligence (ASI)
+systems. According to Webb (2019), p. 144): “ASI systems range from
+being slightly more capable at performing human cognitive tasks than
+we are to AIs that are literally trillions of times generally smarter
+than humans in every way.” The ASI systems are considered “distant
+future,” that is, implementable beyond the next two decades. For the
+purpose of developing the next phase of political risk management,
+AGI systems will be our focus for applications to impending regulatory
+expropriation.
+There are four categories for understanding the conditions under
+which prediction machines succeed or falter (Agrawal et al., 2018, see
+pp. 59–65). The first category is known knowns, where there is an
+abundance of rich data allowing for good predictions. The second cat-
+egory is known unknowns, where there is little data, so predictions are
+difficult. The third category, unknown unknowns, include those events
+not captured by past experiences or what is present in the data but
+are nonetheless possible, so prediction is also difficult. The fourth cat-
+egory, unknown knowns, is when an association that appears to be
+strong in the past is the result of some unknown or unobserved factor
+that changes over time and makes predictions that were believed to
+be reliable, nevertheless unreliable. Today, the known known is where
+the
+current
+generation
+of
+machine
+intelligence
+is
+successfully
+employed, and results in ANI systems that have the potential to assist
+in effective political risk management—in this case, predicting regula-
+tory expropriation.
+However, the next two decades should see a rise in AGI use and
+capability in political risk management, at first requiring greater levels
+of human oversight and intelligence and then, gradually as the
+machine learning becomes more reliable and accurate, human intelli-
+gence will not only be less important to the process, but may actually
+interfere with it. While known unknowns and limited data make
+machine learning difficult now, AGI systems may be capable of finding
+alternative sources of data or using the absence of data as informa-
+tion. These transitions in the development and use of AI are not unlike
+efforts to bridge the gap between applied and theoretical physics.
+Indeed, with physics “the unknown unknowns will reveal themselves
+to those who study hard, who can see obscure connections, indulge in
+lateral thinking and who might even just get lucky and find some ser-
+endipity!” (Whitehead, 2016, p. 21), which sounds just like what AGI
+systems may eventually do. Similarly to unknown knowns in scientific
+fields, new discoveries may also cause us to reevaluate that which we
+thought we knew.
+The fifth phase of political risk management will be predicated on
+AI developments in cognitive analytics. Cognitive analytics “applies
+intelligent technologies to bring all of these data sources within reach
+of
+analytics
+processes
+for
+decision-making
+and
+BI
+(Expert
+System, 2016).” The three components that make up cognitive analyt-
+ics consist of data management, natural language processing, and digi-
+tal analytics and delivery (see Figure 2). Data management is “an
+administrative process that includes acquiring, validating, storing,
+protecting, and processing required data to ensure the accessibility,
+reliability, and timeliness of the data for its users” (Galletto, 2016),
+and is utilized along with the mining of untapped data sources, which
+will drive predictive and prescriptive insights. The use of “cloud com-
+puting” is integral to effective data management. Natural language
+processing is “a branch of AI that deals with the interaction between
+computers and humans using the natural language (Garbade, 2018).”
+By relying on machine learning, natural language processing will “read,
+decipher, understand, and make sense of the human languages in a
+manner that is valuable (Garbade, 2018).” Data analytics and delivery
+involves the use of cloud technologies and process automation that
+enables on-demand customized analytics and real-time collaboration
+to support key business decisions (Intel, 2015).
+The McKinsey Global Institute, in its discussion paper addressing
+how companies will decide on how to optimize for AI, argue that
+(Bughin, Seohg, Manyika, & Chui, 2018, p. 46):
+The productivity dividend of AI probably will not mate-
+rialize immediately—its impact is likely to build up at an
+accelerated pace over time, and therefore the benefits
+of initial investment may not be visible in the short
+term. Patience and long-term strategic thinking will be
+required.
+The preceding statement aptly describes the later stage of ANI devel-
+opment. That is, involving a specific, bounded parameter of analytic
+Cognitive
+Analytics
+Data
+Management
+Natural
+Language
+Processing
+Digital
+Analytics
+and Delivery
+FIGURE 2
+Components of cognitive analytics [Color figure can
+be viewed at wileyonlinelibrary.com]
+HEMPHILL AND KELLEY
+589
+
+--- Sayfa 6 ---
+capability, and the fifth phase of political risk analysis. Over the last
+5 years, there have been a few examples of private companies who
+have been pathfinders in combining AI, data analytics, and global polit-
+ical risk analysis. For example, Predata, founded in 2015 (Nanalyze,
+2019), uses machine language algorithms to curate anonymized online
+metadata, applies machine learning algorithms to the collected data
+over time and across various countries, and then take predictive sig-
+nals to quantify identified potential geopolitical risks (Predata, 2020).
+The Predata approach focuses on patterns of behavior, as they repli-
+cate more reliably than in the data itself (Predata, 2020). Moreover,
+Predata's (2020) focus offers geopolitical risk insights through a
+dashboard view.
+Another technology startup, GeoQuant has developed high-fre-
+quency, AI-driven political risk intelligence measures that analyze and
+forecast political risks to MNEs in real time (GeoQuant, 2017).
+GeoQuant developed the world's first benchmark measures for geo-
+political risk using both structured and unstructured data (Nanalyze,
+2019). GeoQuant's structured data is acquired from 250 variables
+(many of them political factors previously thought unmeasurable)
+drawn from the company's proprietary, fundamental model of political
+risk (based on measuring 22 fundamentals of politics, drawn from
+political science/political economy literature) and credible, country-
+level databases maintained by multilateral institutions, NGOs, govern-
+ments, and social scientists, with historical data going back to 2009
+(GeoQuant, 2017; Nanalyze, 2019).
+While the above-mentioned data analytics and enhanced AI tech-
+nology are critical to the development of the “Fifth Phase of Political
+Risk Management,” the human intelligence aspect will be of similar
+importance in developing accurate geopolitical risk models, and to accu-
+rately dicern subtle changes in areas difficult to monitor and measure,
+for example, country-based, regulatory expropriation trends. As can be
+seen in Figure 3, the Observe (“Decide what objects to capture
+content—and capture content.”), Orient (“What does the content
+mean?”), Decide (“What should we do about it?”), and Act (“Implement
+the decision.”) Decision Process, developed by John Boyd, is directly
+applicable to the AI decision-making process (Carone, 2019). As Carone
+(2019, p. 12) notes, the “Orient” stage in this process is what AI and
+machine learning cannot do well and requires a knowledgeable human
+being
+to
+analyze
+complex
+meaning.
+Therefore,
+state-of-the-art
+approaches to human intelligence, political risk management techniques,
+and approaches will need to be integrated into these new disruptive
+technologies.
+4
+|
+THE FIFTH PHASE OF POLITICAL RISK
+MANAGEMENT FRAMEWORK
+In the fifth phase of the political risk management framework, involv-
+ing data analytics, machine learning, and ANI, combined with
+enhanced human intelligence, an improved modeling of the regulatory
+expropriation phenomenon, will become available for MNE business
+decision-making (see Figure 4). Regulatory expropriation is subtle,
+indirect, and incremental, and thus more challenging to identify and
+be managed by the MNE effectively.
+The fifth phase will be an evolutionary phase where ANI systems,
+which rely almost entirely on human intelligence for algorithm pro-
+gramming, development, and oversight, transition to AGI systems
+where the relationship with human intelligence is more complemen-
+tary. Naturally, as machine learning is applied to more cognitive rea-
+soning and decision-making, similar to human intelligence, political
+risk management models and other AI-assisted decision-making will
+likely require a great deal more high-level human intelligence interac-
+tion. For instance, this might at first resemble a promising researcher
+both collaborating with, and having his or her work checked by, a
+more seasoned and experienced researcher.
+This collaborative process yields two beneficial outcomes despite
+its seeming redundancy. First, having humans check and oversee the
+decisions and outcomes of the AGI systems will foster a belief and
+assurance of their reliability as a foundation for more automated sys-
+tem (AS) decision-making. Second, the AGI systems are likely to, both
+initially and as they become more sophisticated, produce unexpected
+results that cause further evolutions and developmental break-
+throughs in the AGI programs and the risk management models they
+support. Eventually, as the AGI becomes more refined and reliable,
+complementing human intelligence will increasingly become unneces-
+sary. Building on models of contemporary political risk management,
+we will illustrate how to apply techniques that use ANI systems and
+human intelligence in a complementary fashion, building dynamic
+capabilities (not static ones), that will eventually be considered AGI-
+level technology.
+4.1
+|
+TNK-BP
+The TNK-BP joint venture could be thought of as the perfect reason
+for a joint venture or a perfect storm of challenges waiting to happen.
+TNK (Tyumen Oil) was controlled by the AAR (Alfa Group, Access
+Industries, and Renova) consortium, which is, respectively, owned by
+three Russian oligarchs (Mikhail Friedman, Len Blavatnik, and Victor
+Vekselberg), whereas BP was a western firm and the world's third-
+largest oil company, when the roughly $7 billion merger was
+announced in 2003 (Kyj & Kyj, 2010). At the time, BP was seeking to
+expand its assets and options internationally and this occurred during
+Observe
+Orient
+Decide
+Act
+FIGURE 3
+Observe-orient-decide-act decision process [Color
+figure can be viewed at wileyonlinelibrary.com]
+590
+HEMPHILL AND KELLEY
+
+--- Sayfa 7 ---
+a period of consolidation in the oil industry. TNK, on the other hand,
+hoped to benefit from the technical expertise of BP allowing for fur-
+ther expansion of fields and gains in efficiencies that would likely
+emerge (Kyj & Kyj, 2010). Tyumen also had shared oil field rights with
+Sidanko, another Russian company and project in which BP had pur-
+chased a 10% stake (Kyj & Kyj, 2010). Ironically, BP may have seen
+this as an opportunity to reduce political risk by partnering with two
+Russian companies, but may have missed the fact the Tyumen had
+been sued by a Canadian company for failing to meet its obligations in
+another JV (Feils & Sabac, 2000).
+While in theory the JV was set to be an equal partnership, both
+TNK and BP having 50% ownership and each appointing five mem-
+bers to the board of directors, each may have had divergent needs
+and goals (Kyj & Kyj, 2010). Of course, BP wanted to gain access to
+Russian oil fields and had longer-term development aspirations that
+required more investment and slower returns and was even willing to
+assume some of the liabilities of TNK companies associated with envi-
+ronmental remediation from previous issues, but TNK had a shorter-
+term profit horizon (Kyj & Kyj, 2010) and goals for the venture. Ironi-
+cally, BP's own environmental issues with the Macondo (Prospect),
+Gulf of Mexico oil spill in 2010, required roughly $30 billion cash for
+settlements and pushed TNK-BP to buy BP assets in Venezuela and
+Vietnam, for market expansion (BP/TNK-BP, 2010). This at a time
+when TNK was accusing BP of running the JV as a subsidiary and
+where TNK-BP, found its venture facing increasing pressure from the
+Russian government. TNK-BP had come under investigation and
+inspections from a Russian environmental agency, for issues related to
+past infractions of other companies, demands for back taxes, and the
+sudden withdrawal of visas for BP technical experts under the guise
+that they were compensated unfairly compared to nationals (Kyj &
+Kyj, 2010)—the beginnings of regulatory expropriation.
+For example, the earlier mentioned regulatory expropriation activ-
+ities against the joint venture between Russian TNK and BP, which
+came under Russian government regulatory pressure when regulators
+insisted on a northerly route to pass and smaller gas fields that would
+otherwise be uneconomical to develop, made clear that Gazprom, and
+not the BP-Gazprom joint venture, would decide when to build that
+pipeline (Kramer, 2010). In essence, the Russian government wanted
+greater control over the venture, more of the profits, and with respect
+to the pipeline, unnecessary infrastructural development. In addition,
+the Russian government later revoked other foreign MNE oil permits,
+citing environmental regulatory concerns (Schaffer et al., 2012). Under
+the “Fifth Phase of the Political Risk Management Framework,” there
+would be two integrated, complementary approaches to gauging polit-
+ical risk analysis pertaining to MNE regulatory expropriation in this
+proposed Russian gas pipeline development project.
+The Russian regulators insistence on a northerly route for the
+TNK-BP joint venture is an example of a “direct” data point (the “miti-
+gating risks competency” aspects)—found in preliminary government
+statements
+and
+formal
+correspondence
+to
+the
+companies,
+for
+example—which will be evaluated directly by human intelligence, and
+not as reliant on ANI for political risk assessment. However, the revo-
+cation of other foreign MNE oil permits would not necessarily be as
+“direct,” since these decisions would be based on broad “environmen-
+tal concerns.” These “indirect” data points—the “analyzing risks com-
+petency” aspects—would require a comprehensive assessment of
+what these environmental concerns were and whether an oil/gas
+MNE's building permit was in violation of these “environmental con-
+cerns.” Further, the revocation of visas and demands for back taxes
+would be more direct data points, but bad press of the intent of BP in
+the TNK-BP venture (perhaps in press from the oligarchs running
+TNK) and issues surrounding past environmental infractions in oil
+fields before the TNK-BP venture would be indirect.
+Such an “analyzing risks competency” assessment may require an
+extensive review of government environmental regulations, compari-
+sons among permits granted, an evaluation of previous permits that
+were pulled by the Russian government, formal assessments of writ-
+ten decisions made by the Russian government, and so forth. An ANI
+system will be able to perform this evaluation utilizing cognitive ana-
+lytics
+(specifically
+natural
+language
+processing
+technology)
+and
+through increased exposure to data points and machine learning expe-
+rience, therefore learning to recognize patterns of relevant social and
+Four
+Phases One -
+•
+Phase  Five
+•
+•
+In phases one through four, increasingly sophisticated political risk management models are
+developed and gradually incomporate more complex data sets, as well as, algorithms for collecting
+and processing the raw data into meaningful information. While ANI systems are employed in the
+later phases as part of this proess, the cognitive analytics remain largely governed by humans.
+The fifth phase focuses on the interactions among data analytics, machine learning, and artificial
+narrow intelligence (ANI)  applied to relationships between political and economic institutions, and
+the interactions between and among domestic actors influencing political and social policy.
+Through this evolutionary process of machine learning, in concert with the support of human
+intelligence, ANI technology will offer a sophisticated quanitative "early warning system." It
+eventually will give way to AGI systems with increased cognitive analytical capability, reliability, an
+autonomous decision-making, diminishing the role of human intelligence in 10-20 years.
+FIGURE 4
+The fifth phase of the political risk management framework [Color figure can be viewed at wileyonlinelibrary.com]
+HEMPHILL AND KELLEY
+591
+
+--- Sayfa 8 ---
+political movements, public policy discussions and judicial decision
+indicators that would help build models for increasing predictive prob-
+abilities for specific regulatory expropriation outcomes. This, in turn,
+will assist the human intelligence specialist to further identify what
+these probability outcomes mean, and adjust these predicative proba-
+bilities, by further refining these knowledge inputs to be included in
+policy options for MNE executive decision-making. Eventually, per-
+haps in 10–20 years, AGI technologies will be able to connect and cre-
+ate patterns that precede the direct and indirect data points that more
+easily captured and processed by ANI and human intelligence cur-
+rently, but as part of an enhanced EWI system that exceeds the
+current limitations of ANI and human intelligence.
+This political risk management process could begin by exploring
+several aspects affiliated with such incidences of regulatory expro-
+priation and follow similar suggestions common to the risk assess-
+ment process (as discussed by Rice and Zegart (2018b)). Key
+elements such as determining what value exists in a company, what
+could affect its ability to be created, and the likelihood of such
+events happening are all important steppingstones for incorporating
+AI into political risk management. In the case of BP investing in the
+Kovykta natural gas field in Siberia (Kramer, 2010), executives would
+have known that the value of the acquisition is determined by their
+ability to produce the bulk of the natural gas that existed there—
+and efficiently transport it to China for sale. So, effective risk man-
+agement teams would have assessed that value and then examined
+aspects that could disrupt their ability to extract that value. In this
+case, energy politics came into play where Russia wanted more con-
+trol, a greater share of the profits, and tried to also force, by means
+of developing an indirect pipeline route, BP to invest in accessing
+other less profitable oil fields (Kramer, 2010), essentially altering the
+value proposition.
+This outcome is truly the departure point for evolutionary
+machine learning. Indeed, there are several things that could have
+occurred and did occur that led to this outcome; but ANI technol-
+ogy will need to be developed with human intelligence to address
+“why” they occurred before it approximates AGI and can be auton-
+omously deployed in political risk management. For example, BP's
+initial investment occurred in the mid-1990s and they started to
+confront project development obstacles during the late 1990s and
+early 2000s (Kramer, 2010). A machine might have trouble making
+connections that seem readily apparent to human intelligence in
+relation to the energy politics that would later occur to generate
+this regulatory expropriation. A human with even a cursory under-
+standing of this period of time could suggest that this period of
+transition between the former Soviet Union and Russia, especially
+where Boris Yeltsin was later regarded as selling large state-owned
+companies to insiders in what was called the “loans for shares”
+scheme to gain monies needed to win reelection in 1996. Naturally,
+this might have served as a pretext for political attacks targeting
+businesses, especially foreign ones, for having robbed the country
+of its resources and serve as justification for a renegotiation of
+terms—a perfect sort of energy politics for a newly-elected Vladimir
+Putin.
+5
+|
+DISCUSSION AND IMPLICATIONS
+Rice and Zegart's (2018b) identification of “risk appetite” as part of
+understanding political risk management is consequential for man-
+agers and of particular relevance to the fifth phase in this field. Ulti-
+mately, there are three key areas where AI will assist managers in
+analyzing and mitigating risks: (a) earlier identification of risks,
+(b) precision in risk assessment, and (c) identification of unknown
+unknown risk correlations. These three categories also represent how
+AI and its application to political risk assessment will evolve in the fifth
+phase and why it is of particular relevance to risks such as regulatory
+expropriation.
+Earlier Identification of Risks will provide managers more time,
+more information, and more options to consider. ANI requires a great
+deal more human input and is the state of the field early in the fifth
+phase. Many broad macroeconomic and policy risks, and their ante-
+cedents, have already been identified by managers within MNEs.
+These known knowns are incrementally adjusted with human input
+into risk assessment models and where the human–machine interac-
+tion continuously develop and refine algorithms to enhance EWSs.
+For instance, there are many known antecedents to macrolevel fiscal
+or monetary policy change, and risk issues with income and labor are
+often tied to civil war and insurrection directly. These correlations can
+be programmed into algorithms by humans and automated by
+machines that assist managers in identifying risks earlier with each
+iteration. However, in seeking less incremental, and instead more rev-
+olutionary breakthroughs, humans will begin exploring unknown
+knowns—they know there is likely some unobserved factor at work.
+Thus, they ask machines to look for unknown patterns and indirect
+correlations that come before what they know to be correlated. Man-
+agers that seek the advantages of earlier identification of risk will be
+the catalysts, pushing the use of AI to find unknown relationships that
+can provide an edge, rather than accepting its status quo application.
+Naturally, the “push” for innovations will come from companies and
+industries that stand to benefit the most from earlier identification of
+risks and, therefore, the evolution may not be uniform across indus-
+tries or businesses. Environmental issues are always a concern for oil
+companies and partnerships for market expansion a necessary evil,
+ANI systems as they progress toward AGI would have perhaps not
+missed the previous environmental issues the TNK had and the cur-
+rent legal issues they faced. Both would have been considered impor-
+tant to humans for political risk, but somehow escaped or did not
+garner sufficient attention as possible indirect issues that would
+emerge later.
+Precision in Risk Assessment is a critical component to understand-
+ing risk appetite and the decision to internalize or externalize—this is
+tied to macrolevel and microlevel political risk—the majority of this
+effort and associated resources and costs. Macropolitical risks, includ-
+ing regulatory changes (e.g., monetary and fiscal policies), national
+credit defaults, corruption in government, and leadership turnover
+(Alon & McKee, 1999), have broader contemporary understanding
+(i.e., well-developed risk assessment models) and applicability for gov-
+ernments, NGOs, and across industries. Consequently, there is likely
+592
+HEMPHILL AND KELLEY
+
+--- Sayfa 9 ---
+to be greater demand, and a quicker transition from ANI systems
+requiring human interaction, to AGI systems where human input gives
+way to automated discovery and decision-making with human over-
+sight (see Figure 5). Since these types of macropolitical risk have
+broader applicability, the need to internalize this work is also dimin-
+ished. Micropolitical risks, on the other hand, have project-specific
+risks affecting certain business endeavors (Alon et al., 2006). As busi-
+nesses may have concerns that require precise political risk assess-
+ment related to the endeavor, perhaps even proprietary, the evolution
+of AGI systems to assist firm-specific needs will occur more slowly.
+What is of consequence with TNK-BP is whether this particular ven-
+ture was subject to more or less political risk in relationship to TNK
+and the Russian oligarchs than perhaps other ventures might have
+been, either due to prior issues or the political weight of the actors.
+Perhaps, the areas in which the venture sought to benefit or even the
+industry itself was more subject to risk, certainly the volatility of
+Russia was known to many MNEs at the time, but AGI systems may
+allow more precision by industries or even ventures that have particu-
+lar partners and target areas for development of projects.
+This may also require an internalization of such activities and
+while such companies as AIG and Royal Dutch Shell may have some
+of the world's best political risk assessment through their own dedi-
+cated departments (Bremmer, 2005), others do not. Accordingly, busi-
+nesses that seek the precise political risk assessment that may be
+afforded by innovations in AI, must decide whether to develop or
+enhance their own departments internally, or try to balance the pro-
+tection of proprietary information with the desire to externalize this
+activity. The externalization process may warrant some additional
+legal concerns and perhaps a highly dedicated client server from any
+consulting firm that is hired. Naturally, as the application and use of
+ANI systems for greater and greater types of analysis, machine learn-
+ing will accelerate until AGI systems are available for both macro and
+microlevel risk analysis.
+Identification of unknown unknown risk correlations is the eventu-
+ality of ANI sophistication in the precision analysis that leads to the
+development and deployment of AGI systems. In this latter stage of
+the fifth phase of political risk assessment, humans will no longer
+interact with machines in an effort to direct them to search for
+information, rather the machines will begin to search for patterns
+and causal correlations that humans do not know that they do not
+know. At this point, humans will serve largely in a supervisory role,
+where automating minor decisions may be routine, but major deci-
+sions and analysis will still be in human hands. With the acceleration
+of breakthroughs in AI, this point where AGI systems start leaning
+away from the limitations of humans, and toward the capabilities of
+ASI, may be brief or prolonged. The length of this transitional phase
+will likely be determined by the pace of technological innovation
+and moderated by a host of business, societal, and ethical concerns.
+This is where analysis of things such as regulatory expropriation,
+that is very subtle and difficult for humans to predict, may be well
+supported.
+The TNK-BP joint venture would have benefitted from enhanced
+political risk management models that incorporated ANI, machine
+learning, and data analytics. First, coupled with human intelligence,
+ANI systems might be developed to look for political trends in media
+or other outlets that would suggest the risk of regulatory expropria-
+tion was rising, of direct benefit to BP executives and influencing fur-
+ther decisions regarding investment or disinvestment. Of course, this
+would be in the early stages where the data would more likely
+resemble known knowns and the programming would rely more
+heavily on human assumptions and intelligence. Second, as the tech-
+nology evolves and machine learning is improved, ANI systems could
+give way to AGI ones where unknown unknowns and known
+unknowns, things we as humans do not know that we do not know—
+and things we thought we knew but really did not, make ultra-
+sophisticated political risk models for EWS's the norm (of even
+greater value for improving BP managerial decision-making). Stated
+another way, the initial assumptions and connections a human might
+make about why regulatory expropriation has occurred years later
+could be completely wrong or more readily identified by factors only
+identifiable to AI systems. The AGI systems could have been moni-
+toring press and political changes and also capturing ambitions of
+interested parties in the TNK-BP venture that are all seemingly
+unrelated to how humans perceive and anticipate risks but captured
+by AGI systems. Thus, allowing for probabilities of outcomes that
+could incorporate what-if scenarios for things, such as the Macondo
+Project oil spill in the Gulf of Mexico, and how this might lead to
+changes in assets sold and sought by parties, as well as how this
+affects strategic direction.
+Finally, the “Fifth Phase of Political Risk Management” will pro-
+vide the next level of analytic insights for MNE management. The
+powerful tools inherent in ANI (and later AGI) utilizing state-of-the art
+machine learning and enhanced data analytics, complemented by the
+next generation of political risk management frameworks, approaches
+and concepts applied to human intelligence, will offer MNEs the
+opportunity to seriously address the heretofore challenging issue of
+AGI
+Systems
+ANI
+Systems
+Autonomous AI
+Human-Machine
+Reliance in AI
+Macro-Level
+System Transition
+Micro-Level
+System Transition
+FIGURE 5
+The transition from human–machine reliant artificial
+narrow intelligence (ANI) to autonomous AGI in political risk
+assessment: macrolevel and microlevel systems evolution compared
+HEMPHILL AND KELLEY
+593
+
+--- Sayfa 10 ---
+being confronted by national governments (such as with the Russian
+government) with regulatory expropriation (as in the case of TNK-BP).
+In the case of AGI, the use of high-level human intelligence (involving
+subject matter experts) will further enhance the nuances found in the
+social, political, and economic trends impacting the political risk man-
+agement models. This earlier recognition of these often subtle, incre-
+mental changes in their operating environments at an earlier stage,
+offers MNE executives a wider array of strategic options to embrace,
+thus helping them to mitigate the negative impacts on their compa-
+nies. For example, it is essential for executives to consider a wider
+array of political actors who express opinions on issues relevant to
+MNEs, and who transmit these opinions on their personal electronic
+devices in “real time.”
+However, it should be recognized that while the development
+of AGI technologies may take 10–20 years and be incremental, the
+timeline in development of AI technologies can be described as long
+periods of incremental development coupled with a few giant leaps
+forward (Lee, 2018). While some companies may choose to be at
+the forefront of applying AI in their political risk management,
+investments in such technology could be rendered obsolete by dis-
+ruptive innovations and breakthroughs. Yet such organizational
+investments will, from a benefit–cost perspective, more likely result
+in critical dividends for MNEs over the longer term. In conclusion,
+given the increasingly nationalistic operating environment for MNEs,
+the use of “stealthy” approaches—such as regulatory expropriation—
+to reducing business opportunities for non-domestic competitors
+will become more prolific, and therefore the need for more powerful
+political risk analysis tools and approaches of greater MNE strategic
+importance.
+ORCID
+Thomas A. Hemphill
+https://orcid.org/0000-0001-8325-5479
+ENDNOTES
+1 “Indirect expropriation involves total or near-total deprivation of an
+investment but without a formal transfer of title or outright seizure”
+(United Nations Conference on Trade and Development, 2012, p. 7).
+2 The TNK-BP was an integrated oil company with oil exploration one of
+the joint venture's activities. TNK was controlled by three Russian
+oligarchs who owned a financial entity called AAR, which contributed
+50% of TNK to the TNK-BP joint venture. (The authors wish to acknowl-
+edge a reviewer who provided them with this information.)
+REFERENCES
+Agrawal, A., Gans, J., & Goldfarb, A. (2018). Prediction machines: The simple
+economics of artificial intelligence. Boston, MA: Harvard Business
+Review Press.
+Alon, I., Gurumoorthy, R., Mitchell, M. C., & Steen, T. (2006). Managing
+micro-political risk: A cross-sectional study. Thunderbird International
+Business Review, 48(5), 623–642.
+Alon, I., & McKee, D. L. (1999). Towards a macro-environmental model of
+international franchising. Multinational Business Review, 7(1), 76–82.
+BP/TNK-BP. (2010). FT.Com. Retrieved from http://libproxy.umflint.edu/
+login?url=https://www-proquest-com.libproxy.umflint.edu/trade-
+journals/bp-tnk/docview/759013994/se-2?accountid=14584
+Bremmer, I. (2005). Managing risk in an unstable world. Harvard Business
+Review, 83(6), 51–60.
+Bremmer, I., & Keat, P. (2010). The fat tail: The power of political knowledge
+for strategic investing. New York, NY: Oxford University Press.
+Bughin, J., Seohg, J., Manyika, J., & Chui, M. (2018). Notes from the AI
+frontier: Modeling the impact of AI on the world economy. September,
+Discussion Paper, McKinsey Global Institute. Retrieved from https://
+www.mckinsey.com//media/McKinsey/FeaturedInsights/
+ArtificialIntelligence/
+NotesfromthefrontierModelingtheimpactofAIontheworldeconomy/
+MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-
+world-economy-September-2018.ashx
+Campisi, J. M. (2016). Reconsidering political risk in developed economies.
+Journal of Political Risk, 4(8) Retrieved from https://www.jpolrisk.com/
+re-considering-political-risk-analysis-in-developed-economies/
+Carone, T. E. (2019). Future automation: Changes to lives and to businesses.
+Singapore: World Scientific.
+Castell, M. R. F., & Dacuy, L. B. (2009). Exploring the use of exchange mar-
+ket pressure and RMU deviation indicator for early warning system
+(EWS) in the ASEAN+3 region. DLSU Business and Economics Review,
+18(2), 1–30.
+Chokshi, N. (2020). 3 major U.S. airlines suspend China flights over coro-
+navirus. The New York Times, January 31. Retrieved from https://www.
+nytimes.com/2020/01/31/business/china-flights-suspended.html
+Escarcena, S. L. (2014). Indirect expropriation in international law. Chelten-
+ham, UK: Edward Elgar Publishing Limited.
+Expert System. (2016). What is cognitive analytics?. Retrieved from
+https://expertsystem.com/what-is-cognitive-analytics
+Fagella, D. (2019). What is machine learning? Emerj: The AI: Research and
+Advisory
+Company.
+Retrieved
+from
+https://emerj.com/ai-glossary-
+terms/what-is-machine-learning/
+Fagersten, B. (2015). Political risk and the commercial sector: Aligning the-
+ory and practice. Risk Management, 17(1), 23–39.
+Feils, D. J., & Sabac, F. M. (2000). The impact of political risk on the foreign
+direct investment decision: A capital budgeting analysis. The Engineer-
+ing Economist, 45(2), 129–143.
+Galletto, M. (2016). What is data management? NG Data, March 31.
+Retrieved from https://www.ngdata.com/what-is-data-management/
+Garbade, M. (2018). A simple introduction to natural language processing.
+Medium October 15. Retrieved from https://becominghuman.ai/a-
+simple-introduction-to-natural-language-processing-ea66a1747b32
+GeoQuant. (2017). Political risk done right: A GeoQuant white paper.
+Retrieved from https://GeoQuant.com/GeoQuantWhitePaper.pdf
+Ghoshal, S. (1987). Global strategy: An organizing framework. Strategic
+Management Journal, 8(5), 425–440.
+Henisz, W. J., & Zeiner, B. A. (2010). The hidden risks in emerging markets.
+Harvard Business Review, 88(4), 88–95.
+Intel. (2015). Big data in the cloud: Converging technologies. Intel IT Cen-
+ter, Retrieved from http://blic/us/en/documents/product-briefs/big-
+data-cloud-technologies-brief.pdf
+Isakof, P. D. (2013). Defining the scope of indirect expropriation for inter-
+national investment. Global Business Law Review, 3(2), 189–209.
+Jarvis, D. S. L. (2008). Conceptualizing, analysing and measuring political
+risk: The evolution of theory and method. Lee Kuan Yew School of
+Public Policy, National University of Singapore, Research Paper
+No.
+LKYSPP08-004,
+Retrieved
+from
+http://ssrn.com/abstract=
+1162541
+Jarvis, D. S. L., & Griffiths, M. (2007). Learning to fly: The evolution of
+political risk analysis. Global Society, 21(1), 5–21.
+Jorion, P. (2009). Risk management lessons from the credit crisis. European
+Financial Management, 15(5), 923–933.
+Kennedy, C. (1988). Political risk management: A portfolio planning model.
+Business Horizons, 31(6), 26–33.
+Kramer, A. E. (2010). BP's natural gas joint venture in Russia is in bank-
+ruptcy. The New York Times, June 3, B5.
+594
+HEMPHILL AND KELLEY
+
+--- Sayfa 11 ---
+Krstevska, A. (2012). Early warning systems: Testing in practice. IUP Jour-
+nal of Financial Risk Management, 9(2), 7–22.
+Kyj, M. J., & Kyj, L. S. (2010). A relational framework for analyzing ventures
+in cognitive environments: Illustrations from the TNK-BP experience.
+Journal of East-West Business, 16(4), 340–360. https://doi.org/10.
+1080/10669868.2010.534021
+Lee, K. F. (2018). AI superpowers: China, Silicon Valley, and the new world
+order. New York, NY: Houghton Mifflin Harcourt Publishing.
+Makridakis, S., Hogarth, R. M., & Gaba, A. (2009). Forecasting and uncer-
+tainty in the economic and business world. International Journal of
+Forecasting, 25(4), 794–812.
+Nanalyze.
+(2019).
+Alternative
+data
+for
+predicting
+geopolitical
+risk.
+Retrieved
+from
+https://www.nanalyze.com/2019/07/alternative-
+data-geopolitical-risk/
+Newcombe, A. P. (2007). The boundaries of regulatory expropriation in
+international law. Transnational Dispute Management, 4 Retrieved from
+https://www.transnational-disputemanagement.com/journal-browse-
+issues-toc.asp?key=19
+Niiler, E. (2020). An AI epidemiologist sent the first warnings of the Wuhan
+virus. Wired, January 25. Retrieved from https://www.wired.com/
+story/ai-epidemiologist-wuhan-public-health-warnings/
+Nikiema, S. H. (2013). Compensation for expropriation. Manitoba, Canada:
+International Institute for Sustainable Development.
+OECD. (2018). Policy framework for investment: Expropriation laws and
+review processes. Retrieved from https://www.oecd.org/investment/
+toolkit/policyareas/investmentpolicy/
+expropriationlawsandreviewprocesses.htm
+Oxford Analytica. (2018). How are leading companies managing today's
+political risks? 2018 survey and report (produced for Willis towers Wat-
+son). Oxford, England: Oxford Analytica.
+Predata.
+(2020).
+Products.
+Retrieved
+from
+https://predata.com/our-
+company/
+Rice, C., & Zegart, A. (2018a). Managing 21st century political risk. Harvard
+Business Review, 96(3), 130–138.
+Rice, C., & Zegart, A. B. (2018b). Political risk: How businesses and organizations
+can anticipate global insecurity. New York, NY: Hachette Book Group.
+Schaffer, R., Agusti, F., Dhooge, L. J., & Earle, B. (2012). International busi-
+ness law and its environment (8th ed.). South-Western Cengage Learn-
+ing: Mason, OH.
+United Nations Conference on Trade and Development (UNCTAD).
+(2012). Expropriation: A sequel. UNCTAD Series on Issues in Interna-
+tional Investment Agreements II, July, New York and Geneva.
+Webb, A. (2019). The big nine: How the tech titans and their thinking
+machines could warp humanity. New York, NY: Public Affairs.
+Whitehead, J. C. (2016). Plasma–catalysis: The known knowns, the known
+unknowns and the unknown unknowns. Journal of Physics D: Applied
+Physics, 49(24), 1–24.
+Wu, D. D., Chen, S. H., & Olson, D. L. (2014). Business intelligence in risk
+management: Some recent progresses. Information Sciences, 256, 1–7.
+Wyss, J. (2017). Venezuelan government controls more than 500 busi-
+nesses—And most are losing money. Miami Herald, March 14.
+Retrieved
+from
+https://www.miamiherald.com/news/nation-world/
+world/americas/venezuela/article138402248.html
+AUTHOR BIOGRAPHIES
+Dr. Thomas A. Hemphill, (thomashe@umich.edu), a professor of
+Strategy, Innovation and Public Policy in the School of Manage-
+ment, University of Michigan-Flint, received his PhD in Business
+Administration, with a primary field in Strategic Management and
+Public Policy and a Secondary Field in Technology and Innovation
+Policy, from The George Washington University. Dr Hemphill
+teaches in the areas of nonmarket strategy, innovation manage-
+ment, strategic management, and international business. His
+research interests are in the areas of innovation management and
+policy, corporate governance, business ethics, and international
+business and political economy. His academic research has been
+published in Science and Public Policy, Technology Analysis & Strate-
+gic Management, Journal of Responsible Innovation, International
+Journal of Innovation Management, Journal of Business Ethics, Busi-
+ness and Society Review, International Business Review, Manage-
+ment International Review, and Thunderbird International Business
+Review, among others, and his research presented at the Academy
+of Management and Academy of International Business annual
+conferences.
+Dr. Keith J. Kelley (keithkel@umich.edu) is an associate professor
+of International Business in the School of Management, University
+of Michigan-Flint. He received his PhD from Florida International
+University in Miami, FL and has lived in, worked, and done
+research on Latin America for more than 20 years. His research
+focuses on the implications and management of non-traditional
+performance outcomes and contemporary challenges in global
+strategy such as corporate reputation, digitalization, and artificial
+intelligence. Dr Kelley's publications can be found in the Journal of
+Business Research, Multinational Business Review, Corporate Reputa-
+tion Review, the International Journal of Emerging Markets, and the
+Journal of Global Responsibility.
+How to cite this article: Hemphill, T. A., & Kelley, K. J. (2021).
+Artificial intelligence and the fifth phase of political risk
+management: An application to regulatory expropriation.
+Thunderbird International Business Review, 63(5), 585–595.
+https://doi.org/10.1002/tie.22222
+HEMPHILL AND KELLEY
+595

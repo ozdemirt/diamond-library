@@ -1,0 +1,2483 @@
+{
+  "target_dir": "C:\\Users\\default.LAPTOP-OBA1HVU9\\.antigravity-ide\\Books",
+  "scan_time": "2026-08-14 15:46:36",
+  "total_files": 307,
+  "valid_pdfs": [
+    {
+      "name": "100-Soruda-Ahiret-Hayat-U0131.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\100-Soruda-Ahiret-Hayat-U0131.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\100-Soruda-Ahiret-Hayat-U0131.pdf",
+      "pages": 133,
+      "size_bytes": 1867776,
+      "size_formatted": "1.78 MB"
+    },
+    {
+      "name": "Ahirzaman-ve-Kiyamet-Alametleri-Ayhan-Tekines (1).pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahirzaman-ve-Kiyamet-Alametleri-Ayhan-Tekines (1).pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahirzaman-ve-Kiyamet-Alametleri-Ayhan-Tekines (1).pdf",
+      "pages": 209,
+      "size_bytes": 901576,
+      "size_formatted": "880.4 KB"
+    },
+    {
+      "name": "Haris-El-Muhasibi-Er-Riaye-1.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Haris-El-Muhasibi-Er-Riaye-1.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Haris-El-Muhasibi-Er-Riaye-1.pdf",
+      "pages": 312,
+      "size_bytes": 4882338,
+      "size_formatted": "4.66 MB"
+    },
+    {
+      "name": "Haris-El-Muhasibi-Kalb-Hayati-2.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Haris-El-Muhasibi-Kalb-Hayati-2.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Haris-El-Muhasibi-Kalb-Hayati-2.pdf",
+      "pages": 263,
+      "size_bytes": 28043850,
+      "size_formatted": "26.74 MB"
+    },
+    {
+      "name": "Imam-i-Rabbani-KaynakYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Imam-i-Rabbani-KaynakYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Imam-i-Rabbani-KaynakYayinlari.pdf",
+      "pages": 184,
+      "size_bytes": 810924,
+      "size_formatted": "791.9 KB"
+    },
+    {
+      "name": "Kuranda-Ehli-Kitapla-Muhabbet-IsikAkademiY-pdf.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kuranda-Ehli-Kitapla-Muhabbet-IsikAkademiY-pdf.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kuranda-Ehli-Kitapla-Muhabbet-IsikAkademiY-pdf.pdf",
+      "pages": 481,
+      "size_bytes": 1538147,
+      "size_formatted": "1.47 MB"
+    },
+    {
+      "name": "Kutlu Zamanlar.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kutlu Zamanlar.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kutlu Zamanlar.pdf",
+      "pages": 208,
+      "size_bytes": 886618,
+      "size_formatted": "865.8 KB"
+    },
+    {
+      "name": "Meryem-Oglu-Isa-KaynakYayinlari-pdf.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Meryem-Oglu-Isa-KaynakYayinlari-pdf.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Meryem-Oglu-Isa-KaynakYayinlari-pdf.pdf",
+      "pages": 361,
+      "size_bytes": 956794,
+      "size_formatted": "934.4 KB"
+    },
+    {
+      "name": "Metafizik-Aleminin-Sakinleri-Melekler-ve-Cinler-Mehmet-Seker-IsikYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Metafizik-Aleminin-Sakinleri-Melekler-ve-Cinler-Mehmet-Seker-IsikYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Metafizik-Aleminin-Sakinleri-Melekler-ve-Cinler-Mehmet-Seker-IsikYayinlari.pdf",
+      "pages": 137,
+      "size_bytes": 786243,
+      "size_formatted": "767.8 KB"
+    },
+    {
+      "name": "Osmanlılarda-Hilafet-Mustafa-Alkan.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Osmanlılarda-Hilafet-Mustafa-Alkan.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Osmanlılarda-Hilafet-Mustafa-Alkan.pdf",
+      "pages": 283,
+      "size_bytes": 11893397,
+      "size_formatted": "11.34 MB"
+    },
+    {
+      "name": "Rüya-Hakikat-Penceresi-mi-Hayal-Perdesimi-mi-M-Yusuf-Guven-O-Fatih-Belbagi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Rüya-Hakikat-Penceresi-mi-Hayal-Perdesimi-mi-M-Yusuf-Guven-O-Fatih-Belbagi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Rüya-Hakikat-Penceresi-mi-Hayal-Perdesimi-mi-M-Yusuf-Guven-O-Fatih-Belbagi.pdf",
+      "pages": 273,
+      "size_bytes": 703981,
+      "size_formatted": "687.5 KB"
+    },
+    {
+      "name": "A.Aymaz-Citlembik-6-Anadolunun-en-Buyuk-Sadakasi-IsikYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz\\A.Aymaz-Citlembik-6-Anadolunun-en-Buyuk-Sadakasi-IsikYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz\\A.Aymaz-Citlembik-6-Anadolunun-en-Buyuk-Sadakasi-IsikYayinlari.pdf",
+      "pages": 209,
+      "size_bytes": 726217,
+      "size_formatted": "709.2 KB"
+    },
+    {
+      "name": "A.Aymaz-Gunumuz-Yusuflarina-IsikYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz\\A.Aymaz-Gunumuz-Yusuflarina-IsikYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz\\A.Aymaz-Gunumuz-Yusuflarina-IsikYayinlari.pdf",
+      "pages": 87,
+      "size_bytes": 250061,
+      "size_formatted": "244.2 KB"
+    },
+    {
+      "name": "A.Aymaz-Soz-Saati-IsikYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz\\A.Aymaz-Soz-Saati-IsikYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz\\A.Aymaz-Soz-Saati-IsikYayinlari.pdf",
+      "pages": 190,
+      "size_bytes": 691896,
+      "size_formatted": "675.7 KB"
+    },
+    {
+      "name": "A.Aymaz-Zor-Zamanlar.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz\\A.Aymaz-Zor-Zamanlar.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz\\A.Aymaz-Zor-Zamanlar.pdf",
+      "pages": 160,
+      "size_bytes": 1991715,
+      "size_formatted": "1.90 MB"
+    },
+    {
+      "name": "Saffet-Senih-Ibadetin-Getirdikleri-IsikYayinlari-pdf.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz\\Saffet-Senih-Ibadetin-Getirdikleri-IsikYayinlari-pdf.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz\\Saffet-Senih-Ibadetin-Getirdikleri-IsikYayinlari-pdf.pdf",
+      "pages": 144,
+      "size_bytes": 497917,
+      "size_formatted": "486.2 KB"
+    },
+    {
+      "name": "A.Aymaz-Emirdag-Lahikasi-1.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Emirdag-Lahikasi-1.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Emirdag-Lahikasi-1.pdf",
+      "pages": 499,
+      "size_bytes": 1705981,
+      "size_formatted": "1.63 MB"
+    },
+    {
+      "name": "A.Aymaz-Emirdag-Lahikasi-2.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Emirdag-Lahikasi-2.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Emirdag-Lahikasi-2.pdf",
+      "pages": 393,
+      "size_bytes": 1459714,
+      "size_formatted": "1.39 MB"
+    },
+    {
+      "name": "A.Aymaz-Hanimlar-Rehberi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Hanimlar-Rehberi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Hanimlar-Rehberi.pdf",
+      "pages": 208,
+      "size_bytes": 8260102,
+      "size_formatted": "7.88 MB"
+    },
+    {
+      "name": "A.Aymaz-Hizmet-Rehberi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Hizmet-Rehberi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Hizmet-Rehberi.pdf",
+      "pages": 393,
+      "size_bytes": 1676413,
+      "size_formatted": "1.60 MB"
+    },
+    {
+      "name": "A.Aymaz-Kastamonu-Lahikasi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Kastamonu-Lahikasi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Kastamonu-Lahikasi.pdf",
+      "pages": 350,
+      "size_bytes": 1854498,
+      "size_formatted": "1.77 MB"
+    },
+    {
+      "name": "A.Aymaz-Lemaat-Uzerine.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Lemaat-Uzerine.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Lemaat-Uzerine.pdf",
+      "pages": 159,
+      "size_bytes": 3672950,
+      "size_formatted": "3.50 MB"
+    },
+    {
+      "name": "A.Aymaz-Muhakemat.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Muhakemat.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Muhakemat.pdf",
+      "pages": 370,
+      "size_bytes": 1687700,
+      "size_formatted": "1.61 MB"
+    },
+    {
+      "name": "A.Aymaz-Sunuhat.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Sunuhat.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\A.Aymaz-RN\\A.Aymaz-Sunuhat.pdf",
+      "pages": 83,
+      "size_bytes": 1955797,
+      "size_formatted": "1.87 MB"
+    },
+    {
+      "name": "A.Kurucan-Bosanmak icin mi evleniyoruz-GulYurduYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahmet Kurucan\\A.Kurucan-Bosanmak icin mi evleniyoruz-GulYurduYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahmet Kurucan\\A.Kurucan-Bosanmak icin mi evleniyoruz-GulYurduYayinlari.pdf",
+      "pages": 177,
+      "size_bytes": 826766,
+      "size_formatted": "807.4 KB"
+    },
+    {
+      "name": "A.Kurucan-Evcilik Oynamiyoruz - GulYurduYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahmet Kurucan\\A.Kurucan-Evcilik Oynamiyoruz - GulYurduYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahmet Kurucan\\A.Kurucan-Evcilik Oynamiyoruz - GulYurduYayinlari.pdf",
+      "pages": 142,
+      "size_bytes": 468101,
+      "size_formatted": "457.1 KB"
+    },
+    {
+      "name": "A.Kurucan-Fıkıh-Dunyamız-1.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahmet Kurucan\\A.Kurucan-Fıkıh-Dunyamız-1.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahmet Kurucan\\A.Kurucan-Fıkıh-Dunyamız-1.pdf",
+      "pages": 411,
+      "size_bytes": 2240434,
+      "size_formatted": "2.14 MB"
+    },
+    {
+      "name": "A.Kurucan-Rotasiz Evlilik - GulYurduYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahmet Kurucan\\A.Kurucan-Rotasiz Evlilik - GulYurduYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ahmet Kurucan\\A.Kurucan-Rotasiz Evlilik - GulYurduYayinlari.pdf",
+      "pages": 145,
+      "size_bytes": 657471,
+      "size_formatted": "642.1 KB"
+    },
+    {
+      "name": "hz.-peygamberin-sunnetinde-terbiye.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Aile ve Çocuk-Hzm\\hz.-peygamberin-sunnetinde-terbiye.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Aile ve Çocuk-Hzm\\hz.-peygamberin-sunnetinde-terbiye.pdf",
+      "pages": 640,
+      "size_bytes": 3422971,
+      "size_formatted": "3.26 MB"
+    },
+    {
+      "name": "Caglayan_2019.02.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dergi-caglayan\\Caglayan_2019.02.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dergi-caglayan\\Caglayan_2019.02.pdf",
+      "pages": 53,
+      "size_bytes": 137611006,
+      "size_formatted": "131.24 MB"
+    },
+    {
+      "name": "Sızıntı-2012-01.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dergi-Sızıntı\\Sızıntı-2012-01.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dergi-Sızıntı\\Sızıntı-2012-01.pdf",
+      "pages": 52,
+      "size_bytes": 5559195,
+      "size_formatted": "5.30 MB"
+    },
+    {
+      "name": "Sızıntı-2012.04.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dergi-Sızıntı\\Sızıntı-2012.04.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dergi-Sızıntı\\Sızıntı-2012.04.pdf",
+      "pages": 52,
+      "size_bytes": 5818041,
+      "size_formatted": "5.55 MB"
+    },
+    {
+      "name": "Yeni-Umit-Dergisi-004-1989-4.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dergi-Yeni Ümit\\Yeni-Umit-Dergisi-004-1989-4.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dergi-Yeni Ümit\\Yeni-Umit-Dergisi-004-1989-4.pdf",
+      "pages": 52,
+      "size_bytes": 2287896,
+      "size_formatted": "2.18 MB"
+    },
+    {
+      "name": "Diyalogun-Dini-Ve-Tarihi-Temelleri-Yeni-Umit.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Diyalog\\Diyalogun-Dini-Ve-Tarihi-Temelleri-Yeni-Umit.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Diyalog\\Diyalogun-Dini-Ve-Tarihi-Temelleri-Yeni-Umit.pdf",
+      "pages": 110,
+      "size_bytes": 946160,
+      "size_formatted": "924.0 KB"
+    },
+    {
+      "name": "ayetlerde_dua.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Hzm\\ayetlerde_dua.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Hzm\\ayetlerde_dua.pdf",
+      "pages": 22,
+      "size_bytes": 171271,
+      "size_formatted": "167.3 KB"
+    },
+    {
+      "name": "dua-ufku-m-f-gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Hzm\\dua-ufku-m-f-gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Hzm\\dua-ufku-m-f-gulen.pdf",
+      "pages": 137,
+      "size_bytes": 760427,
+      "size_formatted": "742.6 KB"
+    },
+    {
+      "name": "kisa-sureler-ve-gunluk-dualar-rehberyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Oku\\kisa-sureler-ve-gunluk-dualar-rehberyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Oku\\kisa-sureler-ve-gunluk-dualar-rehberyayinlari.pdf",
+      "pages": 144,
+      "size_bytes": 749070,
+      "size_formatted": "731.5 KB"
+    },
+    {
+      "name": "Mustafa Yilmaz - Yanik Sinelerden Dualar - DefineYayinlari (Mustafa Yilmaz) (z-lib.org).pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Oku\\Mustafa Yilmaz - Yanik Sinelerden Dualar - DefineYayinlari (Mustafa Yilmaz) (z-lib.org).pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Oku\\Mustafa Yilmaz - Yanik Sinelerden Dualar - DefineYayinlari (Mustafa Yilmaz) (z-lib.org).pdf",
+      "pages": 208,
+      "size_bytes": 1108648,
+      "size_formatted": "1.06 MB"
+    },
+    {
+      "name": "teravih-dualari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Oku\\teravih-dualari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Oku\\teravih-dualari.pdf",
+      "pages": 8,
+      "size_bytes": 136666,
+      "size_formatted": "133.5 KB"
+    },
+    {
+      "name": "Aile-reisi-ve-baba-olarak-hz-peygamber-ibrahim-canan-gulyurduyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Aile-reisi-ve-baba-olarak-hz-peygamber-ibrahim-canan-gulyurduyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Aile-reisi-ve-baba-olarak-hz-peygamber-ibrahim-canan-gulyurduyayinlari.pdf",
+      "pages": 143,
+      "size_bytes": 718944,
+      "size_formatted": "702.1 KB"
+    },
+    {
+      "name": "Dillerdeki Mujde-resit-haylamaz.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Dillerdeki Mujde-resit-haylamaz.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Dillerdeki Mujde-resit-haylamaz.pdf",
+      "pages": 265,
+      "size_bytes": 957409,
+      "size_formatted": "935.0 KB"
+    },
+    {
+      "name": "Efendimizin-bir-gunu-abdulhakim-yuce-isikyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Efendimizin-bir-gunu-abdulhakim-yuce-isikyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Efendimizin-bir-gunu-abdulhakim-yuce-isikyayinlari.pdf",
+      "pages": 161,
+      "size_bytes": 720276,
+      "size_formatted": "703.4 KB"
+    },
+    {
+      "name": "Gonullerin Gulu-hz-muhammed-sav-aynur-uraler.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Gonullerin Gulu-hz-muhammed-sav-aynur-uraler.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Gonullerin Gulu-hz-muhammed-sav-aynur-uraler.pdf",
+      "pages": 175,
+      "size_bytes": 800314,
+      "size_formatted": "781.6 KB"
+    },
+    {
+      "name": "Gul-Kokulu-Hikayeler-Kemal-Turan.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Gul-Kokulu-Hikayeler-Kemal-Turan.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Gul-Kokulu-Hikayeler-Kemal-Turan.pdf",
+      "pages": 184,
+      "size_bytes": 982568,
+      "size_formatted": "959.5 KB"
+    },
+    {
+      "name": "Hz Peygamber Modeli-insanlar-arasi-iliskilerde-rehberyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Hz Peygamber Modeli-insanlar-arasi-iliskilerde-rehberyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Hz Peygamber Modeli-insanlar-arasi-iliskilerde-rehberyayinlari.pdf",
+      "pages": 165,
+      "size_bytes": 761716,
+      "size_formatted": "743.9 KB"
+    },
+    {
+      "name": "ilim-ve-sifatlariyla-efendimiz-sav-ali-budak.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\ilim-ve-sifatlariyla-efendimiz-sav-ali-budak.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\ilim-ve-sifatlariyla-efendimiz-sav-ali-budak.pdf",
+      "pages": 199,
+      "size_bytes": 803814,
+      "size_formatted": "785.0 KB"
+    },
+    {
+      "name": "Kutlu Dogum-dergisi-2008-sulh-peygamberi-sav-rehberyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Kutlu Dogum-dergisi-2008-sulh-peygamberi-sav-rehberyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Kutlu Dogum-dergisi-2008-sulh-peygamberi-sav-rehberyayinlari.pdf",
+      "pages": 64,
+      "size_bytes": 15189031,
+      "size_formatted": "14.49 MB"
+    },
+    {
+      "name": "Kutlu Dogum-o-herkesin-peygamberi-rehberyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Kutlu Dogum-o-herkesin-peygamberi-rehberyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Kutlu Dogum-o-herkesin-peygamberi-rehberyayinlari.pdf",
+      "pages": 128,
+      "size_bytes": 10883584,
+      "size_formatted": "10.38 MB"
+    },
+    {
+      "name": "Nebevi-Mujdenin-izinde-Huseyin-Algul.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Nebevi-Mujdenin-izinde-Huseyin-Algul.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Nebevi-Mujdenin-izinde-Huseyin-Algul.pdf",
+      "pages": 143,
+      "size_bytes": 629582,
+      "size_formatted": "614.8 KB"
+    },
+    {
+      "name": "Peygamber Sevgisi-zubeyr-tekin-rehberyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Peygamber Sevgisi-zubeyr-tekin-rehberyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Peygamber Sevgisi-zubeyr-tekin-rehberyayinlari.pdf",
+      "pages": 209,
+      "size_bytes": 769221,
+      "size_formatted": "751.2 KB"
+    },
+    {
+      "name": "Peygamber-Efendimizin-Gunluk-Hayati-Mustafa-Gundogdu-.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Peygamber-Efendimizin-Gunluk-Hayati-Mustafa-Gundogdu-.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Peygamber-Efendimizin-Gunluk-Hayati-Mustafa-Gundogdu-.pdf",
+      "pages": 232,
+      "size_bytes": 977159,
+      "size_formatted": "954.3 KB"
+    },
+    {
+      "name": "Peygamber-Sevgisi-RehberYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Peygamber-Sevgisi-RehberYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Peygamber-Sevgisi-RehberYayinlari.pdf",
+      "pages": 209,
+      "size_bytes": 769221,
+      "size_formatted": "751.2 KB"
+    },
+    {
+      "name": "peygamberimizin-sav-semaili-ahlak-ve-adabi-huseyin-algul.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\peygamberimizin-sav-semaili-ahlak-ve-adabi-huseyin-algul.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\peygamberimizin-sav-semaili-ahlak-ve-adabi-huseyin-algul.pdf",
+      "pages": 200,
+      "size_bytes": 469222,
+      "size_formatted": "458.2 KB"
+    },
+    {
+      "name": "VE GAYBIN SON HABERCİSİ.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\VE GAYBIN SON HABERCİSİ.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\VE GAYBIN SON HABERCİSİ.pdf",
+      "pages": 24,
+      "size_bytes": 586037,
+      "size_formatted": "572.3 KB"
+    },
+    {
+      "name": "Çesitli Yonleriyle Hz Peygamber-sav-ibrahim-bayraktar-isikyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Çesitli Yonleriyle Hz Peygamber-sav-ibrahim-bayraktar-isikyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Çesitli Yonleriyle Hz Peygamber-sav-ibrahim-bayraktar-isikyayinlari.pdf",
+      "pages": 145,
+      "size_bytes": 616834,
+      "size_formatted": "602.4 KB"
+    },
+    {
+      "name": "Şefkat Gunesi-resit-haylamaz.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Şefkat Gunesi-resit-haylamaz.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Şefkat Gunesi-resit-haylamaz.pdf",
+      "pages": 321,
+      "size_bytes": 1927837,
+      "size_formatted": "1.84 MB"
+    },
+    {
+      "name": "Şemail-isikyayinlari-faruk-vural.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Şemail-isikyayinlari-faruk-vural.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Şemail-isikyayinlari-faruk-vural.pdf",
+      "pages": 151,
+      "size_bytes": 676336,
+      "size_formatted": "660.5 KB"
+    },
+    {
+      "name": "The Sultan-of-Hearts-Prophet-Muhammad-Haylamaz-Resit.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm-English\\The Sultan-of-Hearts-Prophet-Muhammad-Haylamaz-Resit.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm-English\\The Sultan-of-Hearts-Prophet-Muhammad-Haylamaz-Resit.pdf",
+      "pages": 976,
+      "size_bytes": 12438754,
+      "size_formatted": "11.86 MB"
+    },
+    {
+      "name": "The-Luminous-Life-of-Our-Prophet-by-Resit-Haylamaz.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm-English\\The-Luminous-Life-of-Our-Prophet-by-Resit-Haylamaz.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm-English\\The-Luminous-Life-of-Our-Prophet-by-Resit-Haylamaz.pdf",
+      "pages": 358,
+      "size_bytes": 1733864,
+      "size_formatted": "1.65 MB"
+    },
+    {
+      "name": "The-messenger-as-Compassion-Resid Haylamaz.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm-English\\The-messenger-as-Compassion-Resid Haylamaz.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm-English\\The-messenger-as-Compassion-Resid Haylamaz.pdf",
+      "pages": 311,
+      "size_bytes": 5372102,
+      "size_formatted": "5.12 MB"
+    },
+    {
+      "name": "Efendimiz Sav-1-resit-haylamaz.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\Efendimiz Sav-1-resit-haylamaz.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\Efendimiz Sav-1-resit-haylamaz.pdf",
+      "pages": 631,
+      "size_bytes": 2180489,
+      "size_formatted": "2.08 MB"
+    },
+    {
+      "name": "Efendimiz Sav-2-resit-haylamaz.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\Efendimiz Sav-2-resit-haylamaz.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\Efendimiz Sav-2-resit-haylamaz.pdf",
+      "pages": 665,
+      "size_bytes": 2680271,
+      "size_formatted": "2.56 MB"
+    },
+    {
+      "name": "Efendimiz Sav-muhtasar-resit-haylamaz-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\Efendimiz Sav-muhtasar-resit-haylamaz-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\Efendimiz Sav-muhtasar-resit-haylamaz-mustuy.pdf",
+      "pages": 617,
+      "size_bytes": 2058548,
+      "size_formatted": "1.96 MB"
+    },
+    {
+      "name": "Hz Muhammed-Sav-ve-İslamiyet-Asım Köksal-.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\Hz Muhammed-Sav-ve-İslamiyet-Asım Köksal-.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\Hz Muhammed-Sav-ve-İslamiyet-Asım Köksal-.pdf",
+      "pages": 705,
+      "size_bytes": 3406415,
+      "size_formatted": "3.25 MB"
+    },
+    {
+      "name": "M-Asım-Koksal-Hazreti-Muhammed-S-A-V-ve-İslamiyet-İslam-Tarihi-1-2-.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\M-Asım-Koksal-Hazreti-Muhammed-S-A-V-ve-İslamiyet-İslam-Tarihi-1-2-.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\M-Asım-Koksal-Hazreti-Muhammed-S-A-V-ve-İslamiyet-İslam-Tarihi-1-2-.pdf",
+      "pages": 648,
+      "size_bytes": 3916292,
+      "size_formatted": "3.73 MB"
+    },
+    {
+      "name": "M-Asım-Koksal-Hazreti-Muhammed-S-A-V-ve-İslamiyet-İslam-Tarihi-5-6-PDFDrive-com-pdf.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\M-Asım-Koksal-Hazreti-Muhammed-S-A-V-ve-İslamiyet-İslam-Tarihi-5-6-PDFDrive-com-pdf.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\M-Asım-Koksal-Hazreti-Muhammed-S-A-V-ve-İslamiyet-İslam-Tarihi-5-6-PDFDrive-com-pdf.pdf",
+      "pages": 2151,
+      "size_bytes": 5812737,
+      "size_formatted": "5.54 MB"
+    },
+    {
+      "name": "M-Asım-Koksal-Hazreti-Muhammed-S-A-V-ve-İslamiyet-İslam-Tarihi-7-8-.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\M-Asım-Koksal-Hazreti-Muhammed-S-A-V-ve-İslamiyet-İslam-Tarihi-7-8-.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz_in Sav Hayatı-Hzm\\M-Asım-Koksal-Hazreti-Muhammed-S-A-V-ve-İslamiyet-İslam-Tarihi-7-8-.pdf",
+      "pages": 2256,
+      "size_bytes": 6186232,
+      "size_formatted": "5.90 MB"
+    },
+    {
+      "name": "kur-an-elifbasi-ilmihalli-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ElifBa-Tecvid-Hzm\\kur-an-elifbasi-ilmihalli-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ElifBa-Tecvid-Hzm\\kur-an-elifbasi-ilmihalli-mustuy.pdf",
+      "pages": 136,
+      "size_bytes": 44731119,
+      "size_formatted": "42.66 MB"
+    },
+    {
+      "name": "KURAN-OKUMA-SANATI.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ElifBa-Tecvid-Hzm\\KURAN-OKUMA-SANATI.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ElifBa-Tecvid-Hzm\\KURAN-OKUMA-SANATI.pdf",
+      "pages": 194,
+      "size_bytes": 1010438,
+      "size_formatted": "986.8 KB"
+    },
+    {
+      "name": "Kur_an Harflerinin-mahrec-cekimi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ElifBa-Tecvid-Hzm\\Kur_an Harflerinin-mahrec-cekimi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ElifBa-Tecvid-Hzm\\Kur_an Harflerinin-mahrec-cekimi.pdf",
+      "pages": 8,
+      "size_bytes": 451125,
+      "size_formatted": "440.6 KB"
+    },
+    {
+      "name": "tecvid-kitabi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ElifBa-Tecvid-Hzm\\tecvid-kitabi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ElifBa-Tecvid-Hzm\\tecvid-kitabi.pdf",
+      "pages": 47,
+      "size_bytes": 1856966,
+      "size_formatted": "1.77 MB"
+    },
+    {
+      "name": "Tecvid-uygulamali-kurani-kerim-elifbasi-defineyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ElifBa-Tecvid-Hzm\\Tecvid-uygulamali-kurani-kerim-elifbasi-defineyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ElifBa-Tecvid-Hzm\\Tecvid-uygulamali-kurani-kerim-elifbasi-defineyayinlari.pdf",
+      "pages": 49,
+      "size_bytes": 30452443,
+      "size_formatted": "29.04 MB"
+    },
+    {
+      "name": "110-Soruda-Yaratilis-ve-Evrim-Tartismasi-Arif-Sarsilmaz-AltinBurcYayinlari-pdf.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Evrim-Hzm\\110-Soruda-Yaratilis-ve-Evrim-Tartismasi-Arif-Sarsilmaz-AltinBurcYayinlari-pdf.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Evrim-Hzm\\110-Soruda-Yaratilis-ve-Evrim-Tartismasi-Arif-Sarsilmaz-AltinBurcYayinlari-pdf.pdf",
+      "pages": 462,
+      "size_bytes": 35529086,
+      "size_formatted": "33.88 MB"
+    },
+    {
+      "name": "Insanlik-Tarihi-Boyunca-Evrim-Adem-Tatli.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Evrim-Hzm\\Insanlik-Tarihi-Boyunca-Evrim-Adem-Tatli.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Evrim-Hzm\\Insanlik-Tarihi-Boyunca-Evrim-Adem-Tatli.pdf",
+      "pages": 264,
+      "size_bytes": 1078266,
+      "size_formatted": "1.03 MB"
+    },
+    {
+      "name": "gencin-yol-rehberi-1-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\gencin-yol-rehberi-1-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\gencin-yol-rehberi-1-mustuy.pdf",
+      "pages": 268,
+      "size_bytes": 15713893,
+      "size_formatted": "14.99 MB"
+    },
+    {
+      "name": "genclere-pirlanta-olculer-1-m-fethullah-gulen-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\genclere-pirlanta-olculer-1-m-fethullah-gulen-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\genclere-pirlanta-olculer-1-m-fethullah-gulen-mustuy.pdf",
+      "pages": 273,
+      "size_bytes": 6786365,
+      "size_formatted": "6.47 MB"
+    },
+    {
+      "name": "genclere-pirlanta-olculer-2-m-fethullah-gulen-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\genclere-pirlanta-olculer-2-m-fethullah-gulen-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\genclere-pirlanta-olculer-2-m-fethullah-gulen-mustuy.pdf",
+      "pages": 305,
+      "size_bytes": 947876,
+      "size_formatted": "925.7 KB"
+    },
+    {
+      "name": "genclerle-nur-dersleri-1-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\genclerle-nur-dersleri-1-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\genclerle-nur-dersleri-1-mustuy.pdf",
+      "pages": 177,
+      "size_bytes": 13545016,
+      "size_formatted": "12.92 MB"
+    },
+    {
+      "name": "genclerle-nur-dersleri-2-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\genclerle-nur-dersleri-2-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\genclerle-nur-dersleri-2-mustuy.pdf",
+      "pages": 177,
+      "size_bytes": 13416113,
+      "size_formatted": "12.79 MB"
+    },
+    {
+      "name": "Sorularla-Acilan-Pencereler-1-MustuY.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\Sorularla-Acilan-Pencereler-1-MustuY.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Gençler için-Hzm\\Sorularla-Acilan-Pencereler-1-MustuY.pdf",
+      "pages": 177,
+      "size_bytes": 754519,
+      "size_formatted": "736.8 KB"
+    },
+    {
+      "name": "Riyazu-s-Salihin-Işık-Yayınları-pdf.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hadis-Hzm\\Riyazu-s-Salihin-Işık-Yayınları-pdf.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hadis-Hzm\\Riyazu-s-Salihin-Işık-Yayınları-pdf.pdf",
+      "pages": 574,
+      "size_bytes": 5775046,
+      "size_formatted": "5.51 MB"
+    },
+    {
+      "name": "Riyazus Salihin - Muhtasar.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hadis-Hzm\\Riyazus Salihin - Muhtasar.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hadis-Hzm\\Riyazus Salihin - Muhtasar.pdf",
+      "pages": 575,
+      "size_bytes": 5723451,
+      "size_formatted": "5.46 MB"
+    },
+    {
+      "name": "Fethullah-Gulenle-Amerika`da-bir-ay-Ismail-Unal.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\Fethullah-Gulenle-Amerika`da-bir-ay-Ismail-Unal.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\Fethullah-Gulenle-Amerika`da-bir-ay-Ismail-Unal.pdf",
+      "pages": 244,
+      "size_bytes": 9633008,
+      "size_formatted": "9.19 MB"
+    },
+    {
+      "name": "Fikir ve Aksiyon İnsanı Olarak Fethullah Gülen - Yüksel Çayıroğlu.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\Fikir ve Aksiyon İnsanı Olarak Fethullah Gülen - Yüksel Çayıroğlu.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\Fikir ve Aksiyon İnsanı Olarak Fethullah Gülen - Yüksel Çayıroğlu.pdf",
+      "pages": 472,
+      "size_bytes": 13993109,
+      "size_formatted": "13.34 MB"
+    },
+    {
+      "name": "Gurbette-Fethullah-Gulen-Nuriye-Akman.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\Gurbette-Fethullah-Gulen-Nuriye-Akman.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\Gurbette-Fethullah-Gulen-Nuriye-Akman.pdf",
+      "pages": 186,
+      "size_bytes": 9905216,
+      "size_formatted": "9.45 MB"
+    },
+    {
+      "name": "Gurbetteki-Ogretmen-M-Fethulllah-Gulen-MustuY.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\Gurbetteki-Ogretmen-M-Fethulllah-Gulen-MustuY.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\Gurbetteki-Ogretmen-M-Fethulllah-Gulen-MustuY.pdf",
+      "pages": 167,
+      "size_bytes": 46651124,
+      "size_formatted": "44.49 MB"
+    },
+    {
+      "name": "İbretlik Hatıralar_Osman Şimşek.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\İbretlik Hatıralar_Osman Şimşek.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\İbretlik Hatıralar_Osman Şimşek.pdf",
+      "pages": 304,
+      "size_bytes": 1276338,
+      "size_formatted": "1.22 MB"
+    },
+    {
+      "name": "Understanding-Fethullah-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm-eng\\Understanding-Fethullah-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm-eng\\Understanding-Fethullah-Gulen.pdf",
+      "pages": 150,
+      "size_bytes": 89476460,
+      "size_formatted": "85.33 MB"
+    },
+    {
+      "name": "Adanmışların-Vasıfları-pdf.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hizmet İnsanı\\Adanmışların-Vasıfları-pdf.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hizmet İnsanı\\Adanmışların-Vasıfları-pdf.pdf",
+      "pages": 273,
+      "size_bytes": 961282,
+      "size_formatted": "938.8 KB"
+    },
+    {
+      "name": "Vazifelendirmede-Peygamber-Metodu-isikyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hizmet İnsanı\\Vazifelendirmede-Peygamber-Metodu-isikyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hizmet İnsanı\\Vazifelendirmede-Peygamber-Metodu-isikyayinlari.pdf",
+      "pages": 201,
+      "size_bytes": 913644,
+      "size_formatted": "892.2 KB"
+    },
+    {
+      "name": "İc-Derinlikleriyle-Hizmet-İnsanı-pdf.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hizmet İnsanı\\İc-Derinlikleriyle-Hizmet-İnsanı-pdf.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hizmet İnsanı\\İc-Derinlikleriyle-Hizmet-İnsanı-pdf.pdf",
+      "pages": 321,
+      "size_bytes": 1197546,
+      "size_formatted": "1.14 MB"
+    },
+    {
+      "name": "Hizmet-Studies-Review.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hzm-Studies\\Hizmet-Studies-Review.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hzm-Studies\\Hizmet-Studies-Review.pdf",
+      "pages": 100,
+      "size_bytes": 634751,
+      "size_formatted": "619.9 KB"
+    },
+    {
+      "name": "Peaceful-Coexistence-Fethullah-Gulens-s-Initiatives.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hzm-Studies\\Peaceful-Coexistence-Fethullah-Gulens-s-Initiatives.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hzm-Studies\\Peaceful-Coexistence-Fethullah-Gulens-s-Initiatives.pdf",
+      "pages": 533,
+      "size_bytes": 5080434,
+      "size_formatted": "4.85 MB"
+    },
+    {
+      "name": "Persecution-of-Hizmet-in-Turkey.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hzm-Studies\\Persecution-of-Hizmet-in-Turkey.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Hzm-Studies\\Persecution-of-Hizmet-in-Turkey.pdf",
+      "pages": 37,
+      "size_bytes": 932084,
+      "size_formatted": "910.2 KB"
+    },
+    {
+      "name": "hac-ve-umre-ilmihali-rehberyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Cep-Hzm\\hac-ve-umre-ilmihali-rehberyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Cep-Hzm\\hac-ve-umre-ilmihali-rehberyayinlari.pdf",
+      "pages": 137,
+      "size_bytes": 583955,
+      "size_formatted": "570.3 KB"
+    },
+    {
+      "name": "namaz-ilmihali-rehberyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Cep-Hzm\\namaz-ilmihali-rehberyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Cep-Hzm\\namaz-ilmihali-rehberyayinlari.pdf",
+      "pages": 216,
+      "size_bytes": 752003,
+      "size_formatted": "734.4 KB"
+    },
+    {
+      "name": "oruc-ilmihali-rehberyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Cep-Hzm\\oruc-ilmihali-rehberyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Cep-Hzm\\oruc-ilmihali-rehberyayinlari.pdf",
+      "pages": 183,
+      "size_bytes": 688823,
+      "size_formatted": "672.7 KB"
+    },
+    {
+      "name": "pratik-ilmihal-rehberyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Cep-Hzm\\pratik-ilmihal-rehberyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Cep-Hzm\\pratik-ilmihal-rehberyayinlari.pdf",
+      "pages": 217,
+      "size_bytes": 2899128,
+      "size_formatted": "2.76 MB"
+    },
+    {
+      "name": "zekat-rehberyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Cep-Hzm\\zekat-rehberyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Cep-Hzm\\zekat-rehberyayinlari.pdf",
+      "pages": 217,
+      "size_bytes": 898944,
+      "size_formatted": "877.9 KB"
+    },
+    {
+      "name": "Bir-Muslumanın-Yol-Haritası-Iman-ibadet-Ahlak.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Hzm\\Bir-Muslumanın-Yol-Haritası-Iman-ibadet-Ahlak.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Hzm\\Bir-Muslumanın-Yol-Haritası-Iman-ibadet-Ahlak.pdf",
+      "pages": 470,
+      "size_bytes": 3377745,
+      "size_formatted": "3.22 MB"
+    },
+    {
+      "name": "Bir_Müslümanın_Yol_Haritası.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Hzm\\Bir_Müslümanın_Yol_Haritası.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Hzm\\Bir_Müslümanın_Yol_Haritası.pdf",
+      "pages": 773,
+      "size_bytes": 4734584,
+      "size_formatted": "4.52 MB"
+    },
+    {
+      "name": "Genclik-ilmihali-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Hzm\\Genclik-ilmihali-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Hzm\\Genclik-ilmihali-mustuy.pdf",
+      "pages": 161,
+      "size_bytes": 4674368,
+      "size_formatted": "4.46 MB"
+    },
+    {
+      "name": "Pratik-İlmihal-Osman-Bilgin-PDFDrive-com-pdf.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Hzm\\Pratik-İlmihal-Osman-Bilgin-PDFDrive-com-pdf.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\ilmihal-Hzm\\Pratik-İlmihal-Osman-Bilgin-PDFDrive-com-pdf.pdf",
+      "pages": 304,
+      "size_bytes": 2906941,
+      "size_formatted": "2.77 MB"
+    },
+    {
+      "name": "Peygamberimizin-teblig-metodlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\irşad-Tebliğ-Hzm\\Peygamberimizin-teblig-metodlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\irşad-Tebliğ-Hzm\\Peygamberimizin-teblig-metodlari.pdf",
+      "pages": 572,
+      "size_bytes": 2390875,
+      "size_formatted": "2.28 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 01.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 01.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 01.pdf",
+      "pages": 623,
+      "size_bytes": 30089484,
+      "size_formatted": "28.70 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 02.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 02.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 02.pdf",
+      "pages": 633,
+      "size_bytes": 29651817,
+      "size_formatted": "28.28 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 03.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 03.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 03.pdf",
+      "pages": 631,
+      "size_bytes": 27951684,
+      "size_formatted": "26.66 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 04.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 04.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 04.pdf",
+      "pages": 624,
+      "size_bytes": 27726076,
+      "size_formatted": "26.44 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 05.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 05.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 05.pdf",
+      "pages": 621,
+      "size_bytes": 26710761,
+      "size_formatted": "25.47 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 06.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 06.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 06.pdf",
+      "pages": 621,
+      "size_bytes": 28649500,
+      "size_formatted": "27.32 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 07.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 07.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 07.pdf",
+      "pages": 617,
+      "size_bytes": 26322343,
+      "size_formatted": "25.10 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 08.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 08.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 08.pdf",
+      "pages": 639,
+      "size_bytes": 24213106,
+      "size_formatted": "23.09 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 09.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 09.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 09.pdf",
+      "pages": 647,
+      "size_bytes": 26201369,
+      "size_formatted": "24.99 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 10.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 10.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 10.pdf",
+      "pages": 605,
+      "size_bytes": 22475922,
+      "size_formatted": "21.43 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 11.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 11.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 11.pdf",
+      "pages": 609,
+      "size_bytes": 22020830,
+      "size_formatted": "21.00 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 12.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 12.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 12.pdf",
+      "pages": 607,
+      "size_bytes": 24489915,
+      "size_formatted": "23.36 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 13.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 13.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 13.pdf",
+      "pages": 640,
+      "size_bytes": 20577216,
+      "size_formatted": "19.62 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 14 Ek.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 14 Ek.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 14 Ek.pdf",
+      "pages": 610,
+      "size_bytes": 20188216,
+      "size_formatted": "19.25 MB"
+    },
+    {
+      "name": "Doğuştan Günümüze Büyük İslam Tarihi Cilt 14.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 14.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\islam Tarihi-ZAMAN\\Doğuştan Günümüze Büyük İslam Tarihi Cilt 14.pdf",
+      "pages": 618,
+      "size_bytes": 21963493,
+      "size_formatted": "20.95 MB"
+    },
+    {
+      "name": "Ezvac-ı Tahirat-gulyurduyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kadın Sahabeler\\Ezvac-ı Tahirat-gulyurduyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kadın Sahabeler\\Ezvac-ı Tahirat-gulyurduyayinlari.pdf",
+      "pages": 249,
+      "size_bytes": 971524,
+      "size_formatted": "948.8 KB"
+    },
+    {
+      "name": "Hanim Sahabiler-gulyurduyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kadın Sahabeler\\Hanim Sahabiler-gulyurduyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kadın Sahabeler\\Hanim Sahabiler-gulyurduyayinlari.pdf",
+      "pages": 321,
+      "size_bytes": 1038363,
+      "size_formatted": "1014.0 KB"
+    },
+    {
+      "name": "Hz Aişe Ra_Reşid Haylamaz.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kadın Sahabeler\\Hz Aişe Ra_Reşid Haylamaz.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kadın Sahabeler\\Hz Aişe Ra_Reşid Haylamaz.pdf",
+      "pages": 472,
+      "size_bytes": 1889919,
+      "size_formatted": "1.80 MB"
+    },
+    {
+      "name": "Rehber Hanimlar-gulyurduyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kadın Sahabeler\\Rehber Hanimlar-gulyurduyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kadın Sahabeler\\Rehber Hanimlar-gulyurduyayinlari.pdf",
+      "pages": 289,
+      "size_bytes": 1039809,
+      "size_formatted": "1015.4 KB"
+    },
+    {
+      "name": "Zahide-hanimlar-gulyurduyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kadın Sahabeler\\Zahide-hanimlar-gulyurduyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kadın Sahabeler\\Zahide-hanimlar-gulyurduyayinlari.pdf",
+      "pages": 309,
+      "size_bytes": 1248281,
+      "size_formatted": "1.19 MB"
+    },
+    {
+      "name": "Ali Unal-Kur-an-i-Kerim-Meal1.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Meal-Hzm\\Ali Unal-Kur-an-i-Kerim-Meal1.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Meal-Hzm\\Ali Unal-Kur-an-i-Kerim-Meal1.pdf",
+      "pages": 3601,
+      "size_bytes": 78094161,
+      "size_formatted": "74.48 MB"
+    },
+    {
+      "name": "Ali Unal-Kuran-i-Kerim-Meal2.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Meal-Hzm\\Ali Unal-Kuran-i-Kerim-Meal2.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Meal-Hzm\\Ali Unal-Kuran-i-Kerim-Meal2.pdf",
+      "pages": 1537,
+      "size_bytes": 20532907,
+      "size_formatted": "19.58 MB"
+    },
+    {
+      "name": "Ali Unal-The-Quran-with-Annotated-interpretation-.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Meal-Hzm\\Ali Unal-The-Quran-with-Annotated-interpretation-.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Meal-Hzm\\Ali Unal-The-Quran-with-Annotated-interpretation-.pdf",
+      "pages": 1327,
+      "size_bytes": 6576436,
+      "size_formatted": "6.27 MB"
+    },
+    {
+      "name": "Kuran-i_Kerim-OKU.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Meal-Hzm\\Kuran-i_Kerim-OKU.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Meal-Hzm\\Kuran-i_Kerim-OKU.pdf",
+      "pages": 623,
+      "size_bytes": 9552992,
+      "size_formatted": "9.11 MB"
+    },
+    {
+      "name": "Davut Aydüz-Kısa Surelerin Tefsiri.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Tefsir-Hzm\\Davut Aydüz-Kısa Surelerin Tefsiri.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Tefsir-Hzm\\Davut Aydüz-Kısa Surelerin Tefsiri.pdf",
+      "pages": 260,
+      "size_bytes": 1561623,
+      "size_formatted": "1.49 MB"
+    },
+    {
+      "name": "Davut-Ayduz-5-Vakit-4-Asir-Namazdan-Sonra-Okunan-Ayetlerin-Tefsiri-DefineYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Tefsir-Hzm\\Davut-Ayduz-5-Vakit-4-Asir-Namazdan-Sonra-Okunan-Ayetlerin-Tefsiri-DefineYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Tefsir-Hzm\\Davut-Ayduz-5-Vakit-4-Asir-Namazdan-Sonra-Okunan-Ayetlerin-Tefsiri-DefineYayinlari.pdf",
+      "pages": 335,
+      "size_bytes": 1457223,
+      "size_formatted": "1.39 MB"
+    },
+    {
+      "name": "Nicin-Helak-Oldular-Abdullah-Emin-Cimen-.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Tefsir-Hzm\\Nicin-Helak-Oldular-Abdullah-Emin-Cimen-.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Tefsir-Hzm\\Nicin-Helak-Oldular-Abdullah-Emin-Cimen-.pdf",
+      "pages": 633,
+      "size_bytes": 7402816,
+      "size_formatted": "7.06 MB"
+    },
+    {
+      "name": "PEYGAMBERİMİZİN-KURANI-TEFSİRİ-Suat-Yıldırım.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Tefsir-Hzm\\PEYGAMBERİMİZİN-KURANI-TEFSİRİ-Suat-Yıldırım.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur_an-Tefsir-Hzm\\PEYGAMBERİMİZİN-KURANI-TEFSİRİ-Suat-Yıldırım.pdf",
+      "pages": 83,
+      "size_bytes": 2124184,
+      "size_formatted": "2.03 MB"
+    },
+    {
+      "name": "Kuranda-Tesbih-Ve-Temsiller-Sadi-Eren.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur`an-Hzm\\Kuranda-Tesbih-Ve-Temsiller-Sadi-Eren.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur`an-Hzm\\Kuranda-Tesbih-Ve-Temsiller-Sadi-Eren.pdf",
+      "pages": 264,
+      "size_bytes": 1090327,
+      "size_formatted": "1.04 MB"
+    },
+    {
+      "name": "Nicin-Helak-Oldular-Abdullah-Emin-Cimen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur`an-Hzm\\Nicin-Helak-Oldular-Abdullah-Emin-Cimen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Kur`an-Hzm\\Nicin-Helak-Oldular-Abdullah-Emin-Cimen.pdf",
+      "pages": 633,
+      "size_bytes": 7402816,
+      "size_formatted": "7.06 MB"
+    },
+    {
+      "name": "Fethullah Gülen’s Teaching and Practice-Paul Weller.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\MFG\\Fethullah Gülen’s Teaching and Practice-Paul Weller.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\MFG\\Fethullah Gülen’s Teaching and Practice-Paul Weller.pdf",
+      "pages": 261,
+      "size_bytes": 1884016,
+      "size_formatted": "1.80 MB"
+    },
+    {
+      "name": "Fethullah-Gulen-Biography.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\MFG\\Fethullah-Gulen-Biography.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\MFG\\Fethullah-Gulen-Biography.pdf",
+      "pages": 52,
+      "size_bytes": 3082189,
+      "size_formatted": "2.94 MB"
+    },
+    {
+      "name": "Gulen-Hareketi-1-Farkli-Seslerin-Ahengi-M-F-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\MFG\\Gulen-Hareketi-1-Farkli-Seslerin-Ahengi-M-F-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\MFG\\Gulen-Hareketi-1-Farkli-Seslerin-Ahengi-M-F-Gulen.pdf",
+      "pages": 256,
+      "size_bytes": 978015,
+      "size_formatted": "955.1 KB"
+    },
+    {
+      "name": "Davut-Ayduz-Namazı-Anlayarak-Kılmak.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Namaz\\Davut-Ayduz-Namazı-Anlayarak-Kılmak.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Namaz\\Davut-Ayduz-Namazı-Anlayarak-Kılmak.pdf",
+      "pages": 122,
+      "size_bytes": 1042193,
+      "size_formatted": "1017.8 KB"
+    },
+    {
+      "name": "Dinimin-Diregi-Namaz-Suleyman-Bosnali.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Namaz\\Dinimin-Diregi-Namaz-Suleyman-Bosnali.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Namaz\\Dinimin-Diregi-Namaz-Suleyman-Bosnali.pdf",
+      "pages": 226,
+      "size_bytes": 32193076,
+      "size_formatted": "30.70 MB"
+    },
+    {
+      "name": "Asrin Getirdigi Tereddutler_1.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Asrin Getirdigi Tereddutler_1.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Asrin Getirdigi Tereddutler_1.pdf",
+      "pages": 163,
+      "size_bytes": 883552,
+      "size_formatted": "862.8 KB"
+    },
+    {
+      "name": "Asrin Getirdigi Tereddutler_2.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Asrin Getirdigi Tereddutler_2.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Asrin Getirdigi Tereddutler_2.pdf",
+      "pages": 183,
+      "size_bytes": 1061546,
+      "size_formatted": "1.01 MB"
+    },
+    {
+      "name": "Asrin Getirdigi Tereddutler_3.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Asrin Getirdigi Tereddutler_3.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Asrin Getirdigi Tereddutler_3.pdf",
+      "pages": 173,
+      "size_bytes": 1029116,
+      "size_formatted": "1005.0 KB"
+    },
+    {
+      "name": "Beyan.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Beyan.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Beyan.pdf",
+      "pages": 155,
+      "size_bytes": 828088,
+      "size_formatted": "808.7 KB"
+    },
+    {
+      "name": "Cekirdekten-Cinara-M.-Fethullah-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Cekirdekten-Cinara-M.-Fethullah-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Cekirdekten-Cinara-M.-Fethullah-Gulen.pdf",
+      "pages": 138,
+      "size_bytes": 889085,
+      "size_formatted": "868.2 KB"
+    },
+    {
+      "name": "CN_1_Cag ve Nesil.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_1_Cag ve Nesil.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_1_Cag ve Nesil.pdf",
+      "pages": 123,
+      "size_bytes": 690608,
+      "size_formatted": "674.4 KB"
+    },
+    {
+      "name": "CN_2_Buhranlar Anaforunda Insan.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_2_Buhranlar Anaforunda Insan.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_2_Buhranlar Anaforunda Insan.pdf",
+      "pages": 102,
+      "size_bytes": 593110,
+      "size_formatted": "579.2 KB"
+    },
+    {
+      "name": "CN_3_Yitirilmiş Cennete Doğru.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_3_Yitirilmiş Cennete Doğru.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_3_Yitirilmiş Cennete Doğru.pdf",
+      "pages": 95,
+      "size_bytes": 580433,
+      "size_formatted": "566.8 KB"
+    },
+    {
+      "name": "CN_4_Zamanin Altin Dilimi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_4_Zamanin Altin Dilimi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_4_Zamanin Altin Dilimi.pdf",
+      "pages": 154,
+      "size_bytes": 816093,
+      "size_formatted": "797.0 KB"
+    },
+    {
+      "name": "CN_5_Gunler Bahari Soluklarken.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_5_Gunler Bahari Soluklarken.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_5_Gunler Bahari Soluklarken.pdf",
+      "pages": 117,
+      "size_bytes": 642747,
+      "size_formatted": "627.7 KB"
+    },
+    {
+      "name": "CN_6_Yeseren Dusunceler.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_6_Yeseren Dusunceler.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_6_Yeseren Dusunceler.pdf",
+      "pages": 157,
+      "size_bytes": 877179,
+      "size_formatted": "856.6 KB"
+    },
+    {
+      "name": "CN_7_Isigin Gorundugu Ufuk.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_7_Isigin Gorundugu Ufuk.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\CN_7_Isigin Gorundugu Ufuk.pdf",
+      "pages": 219,
+      "size_bytes": 1086013,
+      "size_formatted": "1.04 MB"
+    },
+    {
+      "name": "Fasıldan Fasıla-1.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Fasıldan Fasıla-1.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Fasıldan Fasıla-1.pdf",
+      "pages": 313,
+      "size_bytes": 773643,
+      "size_formatted": "755.5 KB"
+    },
+    {
+      "name": "Fasıldan Fasıla-5 - Fikir Atlası.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Fasıldan Fasıla-5 - Fikir Atlası.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Fasıldan Fasıla-5 - Fikir Atlası.pdf",
+      "pages": 127,
+      "size_bytes": 790627,
+      "size_formatted": "772.1 KB"
+    },
+    {
+      "name": "Gaybın Son Habercisi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Gaybın Son Habercisi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Gaybın Son Habercisi.pdf",
+      "pages": 168,
+      "size_bytes": 675469,
+      "size_formatted": "659.6 KB"
+    },
+    {
+      "name": "Hüzmeler ve İktibaslar.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Hüzmeler ve İktibaslar.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Hüzmeler ve İktibaslar.pdf",
+      "pages": 70,
+      "size_bytes": 417824,
+      "size_formatted": "408.0 KB"
+    },
+    {
+      "name": "Kalbin Solukları.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Kalbin Solukları.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Kalbin Solukları.pdf",
+      "pages": 585,
+      "size_bytes": 2282684,
+      "size_formatted": "2.18 MB"
+    },
+    {
+      "name": "KT-1-Kırık Testi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-1-Kırık Testi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-1-Kırık Testi.pdf",
+      "pages": 168,
+      "size_bytes": 1107188,
+      "size_formatted": "1.06 MB"
+    },
+    {
+      "name": "KT-14-Buhranlı Günler ve Ümit Atlası.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-14-Buhranlı Günler ve Ümit Atlası.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-14-Buhranlı Günler ve Ümit Atlası.pdf",
+      "pages": 186,
+      "size_bytes": 1273962,
+      "size_formatted": "1.21 MB"
+    },
+    {
+      "name": "KT-17-İstikamet Çizgisi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-17-İstikamet Çizgisi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-17-İstikamet Çizgisi.pdf",
+      "pages": 211,
+      "size_bytes": 2988365,
+      "size_formatted": "2.85 MB"
+    },
+    {
+      "name": "KT-18-İmtihanlar Kuşağı.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-18-İmtihanlar Kuşağı.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-18-İmtihanlar Kuşağı.pdf",
+      "pages": 241,
+      "size_bytes": 2977669,
+      "size_formatted": "2.84 MB"
+    },
+    {
+      "name": "KT-2-Sohbeti Canan.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-2-Sohbeti Canan.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-2-Sohbeti Canan.pdf",
+      "pages": 136,
+      "size_bytes": 872831,
+      "size_formatted": "852.4 KB"
+    },
+    {
+      "name": "KT-4-Ümit Burcu.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-4-Ümit Burcu.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\KT-4-Ümit Burcu.pdf",
+      "pages": 269,
+      "size_bytes": 1516475,
+      "size_formatted": "1.45 MB"
+    },
+    {
+      "name": "Kuranin-Altin-Ikliminde-M.-Fethullah-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Kuranin-Altin-Ikliminde-M.-Fethullah-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Kuranin-Altin-Ikliminde-M.-Fethullah-Gulen.pdf",
+      "pages": 431,
+      "size_bytes": 2232002,
+      "size_formatted": "2.13 MB"
+    },
+    {
+      "name": "Olcu-veya-Yoldaki-Isiklar-M.-Fethullah-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Olcu-veya-Yoldaki-Isiklar-M.-Fethullah-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Olcu-veya-Yoldaki-Isiklar-M.-Fethullah-Gulen.pdf",
+      "pages": 162,
+      "size_bytes": 734653,
+      "size_formatted": "717.4 KB"
+    },
+    {
+      "name": "Olum-ve-Otesi-Hayat-M.-Fethullah-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Olum-ve-Otesi-Hayat-M.-Fethullah-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Olum-ve-Otesi-Hayat-M.-Fethullah-Gulen.pdf",
+      "pages": 67,
+      "size_bytes": 570770,
+      "size_formatted": "557.4 KB"
+    },
+    {
+      "name": "Oruç-Gufranla Tüllenen İbadet.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Oruç-Gufranla Tüllenen İbadet.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Oruç-Gufranla Tüllenen İbadet.pdf",
+      "pages": 164,
+      "size_bytes": 1180172,
+      "size_formatted": "1.13 MB"
+    },
+    {
+      "name": "SA-2_Bahar Neşidesi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\SA-2_Bahar Neşidesi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\SA-2_Bahar Neşidesi.pdf",
+      "pages": 150,
+      "size_bytes": 1243783,
+      "size_formatted": "1.19 MB"
+    },
+    {
+      "name": "Sonsuz-Nur-1-M.-Fethullah-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Sonsuz-Nur-1-M.-Fethullah-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL\\Sonsuz-Nur-1-M.-Fethullah-Gulen.pdf",
+      "pages": 450,
+      "size_bytes": 3028366,
+      "size_formatted": "2.89 MB"
+    },
+    {
+      "name": "An-Analysis-of-the-Prophet-s-Life-The-Messenger-Of-God-Muhammad-Fethullah-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL-English\\An-Analysis-of-the-Prophet-s-Life-The-Messenger-Of-God-Muhammad-Fethullah-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL-English\\An-Analysis-of-the-Prophet-s-Life-The-Messenger-Of-God-Muhammad-Fethullah-Gulen.pdf",
+      "pages": 455,
+      "size_bytes": 1195451,
+      "size_formatted": "1.14 MB"
+    },
+    {
+      "name": "Questions-and-Answers-About-Islam-Vol-1-M-Fethullah-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL-English\\Questions-and-Answers-About-Islam-Vol-1-M-Fethullah-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL-English\\Questions-and-Answers-About-Islam-Vol-1-M-Fethullah-Gulen.pdf",
+      "pages": 183,
+      "size_bytes": 932485,
+      "size_formatted": "910.6 KB"
+    },
+    {
+      "name": "Questions-and-Answers-About-Islam-Vol-2-M-Fethullah-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL-English\\Questions-and-Answers-About-Islam-Vol-2-M-Fethullah-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL-English\\Questions-and-Answers-About-Islam-Vol-2-M-Fethullah-Gulen.pdf",
+      "pages": 192,
+      "size_bytes": 550086,
+      "size_formatted": "537.2 KB"
+    },
+    {
+      "name": "The-Essentials-of-the-Islamic-Faith-Fethullah-Gulen.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL-English\\The-Essentials-of-the-Islamic-Faith-Fethullah-Gulen.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL-English\\The-Essentials-of-the-Islamic-Faith-Fethullah-Gulen.pdf",
+      "pages": 282,
+      "size_bytes": 734797,
+      "size_formatted": "717.6 KB"
+    },
+    {
+      "name": "The-Messenger-of-God-Muhammad-An-Analysis-of-the-Prophet-s-Life.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL-English\\The-Messenger-of-God-Muhammad-An-Analysis-of-the-Prophet-s-Life.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\PRL-English\\The-Messenger-of-God-Muhammad-An-Analysis-of-the-Prophet-s-Life.pdf",
+      "pages": 369,
+      "size_bytes": 2293737,
+      "size_formatted": "2.19 MB"
+    },
+    {
+      "name": "sayit-kocer-efendimizin-sav-ramazani-isikyayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ramazan-Oruç-Üç aylar\\sayit-kocer-efendimizin-sav-ramazani-isikyayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ramazan-Oruç-Üç aylar\\sayit-kocer-efendimizin-sav-ramazani-isikyayinlari.pdf",
+      "pages": 111,
+      "size_bytes": 917864,
+      "size_formatted": "896.4 KB"
+    },
+    {
+      "name": "Nurlardan-secmeler-1-Sözler_den.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\RN-Külliyat-Hzm\\RN-Seçmeler\\Nurlardan-secmeler-1-Sözler_den.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\RN-Külliyat-Hzm\\RN-Seçmeler\\Nurlardan-secmeler-1-Sözler_den.pdf",
+      "pages": 193,
+      "size_bytes": 926216,
+      "size_formatted": "904.5 KB"
+    },
+    {
+      "name": "Nurlardan-secmeler-2-Sözler_den.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\RN-Külliyat-Hzm\\RN-Seçmeler\\Nurlardan-secmeler-2-Sözler_den.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\RN-Külliyat-Hzm\\RN-Seçmeler\\Nurlardan-secmeler-2-Sözler_den.pdf",
+      "pages": 221,
+      "size_bytes": 1105859,
+      "size_formatted": "1.05 MB"
+    },
+    {
+      "name": "Asere-i-Mubessere-IsikYayinlari-Ahmet-Kurucan-Zuhtu-Mercan.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Asere-i-Mubessere-IsikYayinlari-Ahmet-Kurucan-Zuhtu-Mercan.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Asere-i-Mubessere-IsikYayinlari-Ahmet-Kurucan-Zuhtu-Mercan.pdf",
+      "pages": 357,
+      "size_bytes": 955018,
+      "size_formatted": "932.6 KB"
+    },
+    {
+      "name": "Hayatus Sahabe - Muhtasar 2.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Hayatus Sahabe - Muhtasar 2.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Hayatus Sahabe - Muhtasar 2.pdf",
+      "pages": 453,
+      "size_bytes": 2166830,
+      "size_formatted": "2.07 MB"
+    },
+    {
+      "name": "Hayatus-Sahabe-Muhtasar-Cilt-1-M-Yusuf-Kandehlevi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Hayatus-Sahabe-Muhtasar-Cilt-1-M-Yusuf-Kandehlevi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Hayatus-Sahabe-Muhtasar-Cilt-1-M-Yusuf-Kandehlevi.pdf",
+      "pages": 497,
+      "size_bytes": 1837232,
+      "size_formatted": "1.75 MB"
+    },
+    {
+      "name": "Hazreti Ebu Bekir.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Hazreti Ebu Bekir.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Hazreti Ebu Bekir.pdf",
+      "pages": 192,
+      "size_bytes": 5553876,
+      "size_formatted": "5.30 MB"
+    },
+    {
+      "name": "Hz. Ali.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Hz. Ali.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Hz. Ali.pdf",
+      "pages": 138,
+      "size_bytes": 4319581,
+      "size_formatted": "4.12 MB"
+    },
+    {
+      "name": "Sultan-of-Hearts-Prophet-Muhammad-Haylamaz-Resit.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Sultan-of-Hearts-Prophet-Muhammad-Haylamaz-Resit.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm\\Sultan-of-Hearts-Prophet-Muhammad-Haylamaz-Resit.pdf",
+      "pages": 892,
+      "size_bytes": 59952388,
+      "size_formatted": "57.18 MB"
+    },
+    {
+      "name": "Hz Aisha-the-wife-the-companion-the-scholar-Reşit Haylamaz.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm-English\\Hz Aisha-the-wife-the-companion-the-scholar-Reşit Haylamaz.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Sahabe-Hzm-English\\Hz Aisha-the-wife-the-companion-the-scholar-Reşit Haylamaz.pdf",
+      "pages": 242,
+      "size_bytes": 1465483,
+      "size_formatted": "1.40 MB"
+    },
+    {
+      "name": "Suat Yildirim-Oryantalistlerin Yanilgilari - UfukYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Suat Yıldırım\\Suat Yildirim-Oryantalistlerin Yanilgilari - UfukYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Suat Yıldırım\\Suat Yildirim-Oryantalistlerin Yanilgilari - UfukYayinlari.pdf",
+      "pages": 340,
+      "size_bytes": 1472293,
+      "size_formatted": "1.40 MB"
+    },
+    {
+      "name": "M. Asım Köksal - Peygamberler Tarihi .pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\M. Asım Köksal - Peygamberler Tarihi .pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\M. Asım Köksal - Peygamberler Tarihi .pdf",
+      "pages": 936,
+      "size_bytes": 8279464,
+      "size_formatted": "7.90 MB"
+    },
+    {
+      "name": "Yavuz-Sultan-Selim-Feridun-M-Emecan.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\Yavuz-Sultan-Selim-Feridun-M-Emecan.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\Yavuz-Sultan-Selim-Feridun-M-Emecan.pdf",
+      "pages": 449,
+      "size_bytes": 10702661,
+      "size_formatted": "10.21 MB"
+    },
+    {
+      "name": "İslam Tarihi_1.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\İslam Tarihi_1.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\İslam Tarihi_1.pdf",
+      "pages": 704,
+      "size_bytes": 3706303,
+      "size_formatted": "3.53 MB"
+    },
+    {
+      "name": "İslam Tarihi_2.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\İslam Tarihi_2.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\İslam Tarihi_2.pdf",
+      "pages": 774,
+      "size_bytes": 4779206,
+      "size_formatted": "4.56 MB"
+    },
+    {
+      "name": "İslam Tarihi_3.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\İslam Tarihi_3.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\İslam Tarihi_3.pdf",
+      "pages": 889,
+      "size_bytes": 4019369,
+      "size_formatted": "3.83 MB"
+    },
+    {
+      "name": "İslam Tarihi_4.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\İslam Tarihi_4.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tarih-Hzm\\İslam Tarihi_4.pdf",
+      "pages": 930,
+      "size_bytes": 4165500,
+      "size_formatted": "3.97 MB"
+    },
+    {
+      "name": "Asli-Kaplan-Kozmik-Perde-AltinBurcYayinlari-pdf.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefekkür-Bilim-Hzm\\Asli-Kaplan-Kozmik-Perde-AltinBurcYayinlari-pdf.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefekkür-Bilim-Hzm\\Asli-Kaplan-Kozmik-Perde-AltinBurcYayinlari-pdf.pdf",
+      "pages": 140,
+      "size_bytes": 8678230,
+      "size_formatted": "8.28 MB"
+    },
+    {
+      "name": "Kainattaki Gizli Imza - Altin Oran - AltinBurcYayinlari (Yilmaz Sadikli) (z-lib.org).pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefekkür-Bilim-Hzm\\Kainattaki Gizli Imza - Altin Oran - AltinBurcYayinlari (Yilmaz Sadikli) (z-lib.org).pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefekkür-Bilim-Hzm\\Kainattaki Gizli Imza - Altin Oran - AltinBurcYayinlari (Yilmaz Sadikli) (z-lib.org).pdf",
+      "pages": 81,
+      "size_bytes": 14432565,
+      "size_formatted": "13.76 MB"
+    },
+    {
+      "name": "Zekamatik-AltinBurcYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefekkür-Bilim-Hzm\\Zekamatik-AltinBurcYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefekkür-Bilim-Hzm\\Zekamatik-AltinBurcYayinlari.pdf",
+      "pages": 81,
+      "size_bytes": 3834505,
+      "size_formatted": "3.66 MB"
+    },
+    {
+      "name": "Elmalili - Hak Dini Kuran Dili-01.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefsir-Elmalılı Tefsiri-ZAMAN.pdf\\Elmalili - Hak Dini Kuran Dili-01.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefsir-Elmalılı Tefsiri-ZAMAN.pdf\\Elmalili - Hak Dini Kuran Dili-01.pdf",
+      "pages": 561,
+      "size_bytes": 37794532,
+      "size_formatted": "36.04 MB"
+    },
+    {
+      "name": "Elmalili - Hak Dini Kuran Dili-05.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefsir-Elmalılı Tefsiri-ZAMAN.pdf\\Elmalili - Hak Dini Kuran Dili-05.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefsir-Elmalılı Tefsiri-ZAMAN.pdf\\Elmalili - Hak Dini Kuran Dili-05.pdf",
+      "pages": 569,
+      "size_bytes": 32453550,
+      "size_formatted": "30.95 MB"
+    },
+    {
+      "name": "Elmalili - Hak Dini Kuran Dili-06.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefsir-Elmalılı Tefsiri-ZAMAN.pdf\\Elmalili - Hak Dini Kuran Dili-06.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefsir-Elmalılı Tefsiri-ZAMAN.pdf\\Elmalili - Hak Dini Kuran Dili-06.pdf",
+      "pages": 572,
+      "size_bytes": 33673953,
+      "size_formatted": "32.11 MB"
+    },
+    {
+      "name": "Elmalili - Hak Dini Kuran Dili-10.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefsir-Elmalılı Tefsiri-ZAMAN.pdf\\Elmalili - Hak Dini Kuran Dili-10.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefsir-Elmalılı Tefsiri-ZAMAN.pdf\\Elmalili - Hak Dini Kuran Dili-10.pdf",
+      "pages": 350,
+      "size_bytes": 21943882,
+      "size_formatted": "20.93 MB"
+    },
+    {
+      "name": "Hak Dini Kuran Dili Tefsiri Bütün Ciltler.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefsir-Elmalılı Tefsiri-ZAMAN.pdf\\Hak Dini Kuran Dili Tefsiri Bütün Ciltler.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Tefsir-Elmalılı Tefsiri-ZAMAN.pdf\\Hak Dini Kuran Dili Tefsiri Bütün Ciltler.pdf",
+      "pages": 5596,
+      "size_bytes": 120613664,
+      "size_formatted": "115.03 MB"
+    },
+    {
+      "name": "Turkce-Calisma-Kitabi-11-Harmony.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Turkce\\Turkce-Calisma-Kitabi-11-Harmony.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Turkce\\Turkce-Calisma-Kitabi-11-Harmony.pdf",
+      "pages": 67,
+      "size_bytes": 73491869,
+      "size_formatted": "70.09 MB"
+    },
+    {
+      "name": "B Jill Carrol - Medeniyetler Diyalogu - Gulenin islami Ogretisi ve Humanist Soylem - UfukYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\B Jill Carrol - Medeniyetler Diyalogu - Gulenin islami Ogretisi ve Humanist Soylem - UfukYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\B Jill Carrol - Medeniyetler Diyalogu - Gulenin islami Ogretisi ve Humanist Soylem - UfukYayinlari.pdf",
+      "pages": 168,
+      "size_bytes": 1004580,
+      "size_formatted": "981.0 KB"
+    },
+    {
+      "name": "E Mazhar Kurt - Yaratilis Tabiatin ilahi Emirle Varolusu - UfukYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\E Mazhar Kurt - Yaratilis Tabiatin ilahi Emirle Varolusu - UfukYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\E Mazhar Kurt - Yaratilis Tabiatin ilahi Emirle Varolusu - UfukYayinlari.pdf",
+      "pages": 188,
+      "size_bytes": 816061,
+      "size_formatted": "796.9 KB"
+    },
+    {
+      "name": "Erkam Tufan Aytav - Demokratiklesme Surecinde Turkiyede Oteki Olmak - UfukYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Erkam Tufan Aytav - Demokratiklesme Surecinde Turkiyede Oteki Olmak - UfukYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Erkam Tufan Aytav - Demokratiklesme Surecinde Turkiyede Oteki Olmak - UfukYayinlari.pdf",
+      "pages": 224,
+      "size_bytes": 642440,
+      "size_formatted": "627.4 KB"
+    },
+    {
+      "name": "Hayrettin Karaman - Hakkani Mehmet Bey - Hilye - Gonullerin Susu Hanelerin Zineti - UfukYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Hayrettin Karaman - Hakkani Mehmet Bey - Hilye - Gonullerin Susu Hanelerin Zineti - UfukYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Hayrettin Karaman - Hakkani Mehmet Bey - Hilye - Gonullerin Susu Hanelerin Zineti - UfukYayinlari.pdf",
+      "pages": 217,
+      "size_bytes": 58901735,
+      "size_formatted": "56.17 MB"
+    },
+    {
+      "name": "Kuresel Dunyada islam-1 -Vincent Geisser -  islamofobi - UfukYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Kuresel Dunyada islam-1 -Vincent Geisser -  islamofobi - UfukYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Kuresel Dunyada islam-1 -Vincent Geisser -  islamofobi - UfukYayinlari.pdf",
+      "pages": 134,
+      "size_bytes": 650956,
+      "size_formatted": "635.7 KB"
+    },
+    {
+      "name": "Kuresel Dunyada islam-2 - Ahmet Kurucan - ABD ve Din - UfukYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Kuresel Dunyada islam-2 - Ahmet Kurucan - ABD ve Din - UfukYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Kuresel Dunyada islam-2 - Ahmet Kurucan - ABD ve Din - UfukYayinlari.pdf",
+      "pages": 151,
+      "size_bytes": 692255,
+      "size_formatted": "676.0 KB"
+    },
+    {
+      "name": "Mesnevi Hikayelerinden-1 - Kadir Ozkose - Ten Kafesinden Kurtulus - UfukYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Mesnevi Hikayelerinden-1 - Kadir Ozkose - Ten Kafesinden Kurtulus - UfukYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Mesnevi Hikayelerinden-1 - Kadir Ozkose - Ten Kafesinden Kurtulus - UfukYayinlari.pdf",
+      "pages": 238,
+      "size_bytes": 1009583,
+      "size_formatted": "985.9 KB"
+    },
+    {
+      "name": "Mesnevi Hikayelerinden-2 - Kadir Ozkose - Gafletten Kurtulus - UfukYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Mesnevi Hikayelerinden-2 - Kadir Ozkose - Gafletten Kurtulus - UfukYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Mesnevi Hikayelerinden-2 - Kadir Ozkose - Gafletten Kurtulus - UfukYayinlari.pdf",
+      "pages": 246,
+      "size_bytes": 786198,
+      "size_formatted": "767.8 KB"
+    },
+    {
+      "name": "Rainer Hermann - Turkiyede Neler Oluyor - Anadolunu Uyanisi ve Yeni Elitler - UfukYayinlari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Rainer Hermann - Turkiyede Neler Oluyor - Anadolunu Uyanisi ve Yeni Elitler - UfukYayinlari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Ufuk Yayinlari\\Rainer Hermann - Turkiyede Neler Oluyor - Anadolunu Uyanisi ve Yeni Elitler - UfukYayinlari.pdf",
+      "pages": 351,
+      "size_bytes": 817359,
+      "size_formatted": "798.2 KB"
+    },
+    {
+      "name": "Abdulhakim-Yuce-Gece-ibadeti.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\Abdulhakim-Yuce-Gece-ibadeti.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\Abdulhakim-Yuce-Gece-ibadeti.pdf",
+      "pages": 175,
+      "size_bytes": 872786,
+      "size_formatted": "852.3 KB"
+    },
+    {
+      "name": "Ekrem Dumanli-Alimler-Ve-Zalimler-Ekrem-Dumanli.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\Ekrem Dumanli-Alimler-Ve-Zalimler-Ekrem-Dumanli.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\Ekrem Dumanli-Alimler-Ve-Zalimler-Ekrem-Dumanli.pdf",
+      "pages": 93,
+      "size_bytes": 1013670,
+      "size_formatted": "989.9 KB"
+    },
+    {
+      "name": "Ibrahim-Canan-Islamda-Zaman Tanzimi.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\Ibrahim-Canan-Islamda-Zaman Tanzimi.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\Ibrahim-Canan-Islamda-Zaman Tanzimi.pdf",
+      "pages": 201,
+      "size_bytes": 1725041,
+      "size_formatted": "1.65 MB"
+    },
+    {
+      "name": "OS-Ibretlik-Hatiralar-M-Fethullah-Gulenin-Ruh-Dunyasina-Ayna-OS.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\OS-Ibretlik-Hatiralar-M-Fethullah-Gulenin-Ruh-Dunyasina-Ayna-OS.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\OS-Ibretlik-Hatiralar-M-Fethullah-Gulenin-Ruh-Dunyasina-Ayna-OS.pdf",
+      "pages": 310,
+      "size_bytes": 1186830,
+      "size_formatted": "1.13 MB"
+    },
+    {
+      "name": "OS-Pennsylvania-Surgununde-Bir-Cocuk.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\OS-Pennsylvania-Surgununde-Bir-Cocuk.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\OS-Pennsylvania-Surgununde-Bir-Cocuk.pdf",
+      "pages": 222,
+      "size_bytes": 811899,
+      "size_formatted": "792.9 KB"
+    },
+    {
+      "name": "Vehbi Yildiz-İlham-kaynakları.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\Vehbi Yildiz-İlham-kaynakları.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\Vehbi Yildiz-İlham-kaynakları.pdf",
+      "pages": 249,
+      "size_bytes": 1136724,
+      "size_formatted": "1.08 MB"
+    },
+    {
+      "name": "İslamda-Resim-Heykel-Musiki-Ahmet-Yakutcan-Cuma-Omur.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\İslamda-Resim-Heykel-Musiki-Ahmet-Yakutcan-Cuma-Omur.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Yazarlar-Hzm\\İslamda-Resim-Heykel-Musiki-Ahmet-Yakutcan-Cuma-Omur.pdf",
+      "pages": 135,
+      "size_bytes": 3638862,
+      "size_formatted": "3.47 MB"
+    },
+    {
+      "name": "aglayan-kutuk-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\aglayan-kutuk-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\aglayan-kutuk-mustuy.pdf",
+      "pages": 97,
+      "size_bytes": 2131829,
+      "size_formatted": "2.03 MB"
+    },
+    {
+      "name": "bereketlenen-yemek-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\bereketlenen-yemek-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\bereketlenen-yemek-mustuy.pdf",
+      "pages": 97,
+      "size_bytes": 2650268,
+      "size_formatted": "2.53 MB"
+    },
+    {
+      "name": "gokten-inen-su-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\gokten-inen-su-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\gokten-inen-su-mustuy.pdf",
+      "pages": 97,
+      "size_bytes": 2347843,
+      "size_formatted": "2.24 MB"
+    },
+    {
+      "name": "konusan-kurt-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\konusan-kurt-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\konusan-kurt-mustuy.pdf",
+      "pages": 97,
+      "size_bytes": 1296609,
+      "size_formatted": "1.24 MB"
+    },
+    {
+      "name": "peygamber-efendimizin-mucizeleri-6-ruhi-demirel-isik-sacan-asa-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\peygamber-efendimizin-mucizeleri-6-ruhi-demirel-isik-sacan-asa-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\peygamber-efendimizin-mucizeleri-6-ruhi-demirel-isik-sacan-asa-mustuy.pdf",
+      "pages": 89,
+      "size_bytes": 1534240,
+      "size_formatted": "1.46 MB"
+    },
+    {
+      "name": "zikreden-taslar-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\zikreden-taslar-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Peygamberimizin Mucizeleri-Çocuk\\zikreden-taslar-mustuy.pdf",
+      "pages": 97,
+      "size_bytes": 2033213,
+      "size_formatted": "1.94 MB"
+    },
+    {
+      "name": "akrebin-sifresi-risale-hikayeleri-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Risale Hikayeleri\\akrebin-sifresi-risale-hikayeleri-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Risale Hikayeleri\\akrebin-sifresi-risale-hikayeleri-mustuy.pdf",
+      "pages": 121,
+      "size_bytes": 407387,
+      "size_formatted": "397.8 KB"
+    },
+    {
+      "name": "gokkusaginin-ardindaki-ulke-risale-hikayeleri-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Risale Hikayeleri\\gokkusaginin-ardindaki-ulke-risale-hikayeleri-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Risale Hikayeleri\\gokkusaginin-ardindaki-ulke-risale-hikayeleri-mustuy.pdf",
+      "pages": 97,
+      "size_bytes": 324239,
+      "size_formatted": "316.6 KB"
+    },
+    {
+      "name": "5-saadet-asrinda-Dogruluk-ve-sadakat-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Saadet Asrı-Çocuk\\5-saadet-asrinda-Dogruluk-ve-sadakat-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Saadet Asrı-Çocuk\\5-saadet-asrinda-Dogruluk-ve-sadakat-mustuy.pdf",
+      "pages": 129,
+      "size_bytes": 398125,
+      "size_formatted": "388.8 KB"
+    },
+    {
+      "name": "6-saadet-asrinda-İlim-ve-ibadet-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Saadet Asrı-Çocuk\\6-saadet-asrinda-İlim-ve-ibadet-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Saadet Asrı-Çocuk\\6-saadet-asrinda-İlim-ve-ibadet-mustuy.pdf",
+      "pages": 169,
+      "size_bytes": 482911,
+      "size_formatted": "471.6 KB"
+    },
+    {
+      "name": "1-Saadet-Asrinda-Allah-Sevgisi-Sahabe-Hayatindan-Mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabe Hayatından\\1-Saadet-Asrinda-Allah-Sevgisi-Sahabe-Hayatindan-Mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabe Hayatından\\1-Saadet-Asrinda-Allah-Sevgisi-Sahabe-Hayatindan-Mustuy.pdf",
+      "pages": 201,
+      "size_bytes": 332848,
+      "size_formatted": "325.0 KB"
+    },
+    {
+      "name": "2-Saadet-Asrinda-Resulullah-Sevgisi-Sahabe-Hayatindan-Mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabe Hayatından\\2-Saadet-Asrinda-Resulullah-Sevgisi-Sahabe-Hayatindan-Mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabe Hayatından\\2-Saadet-Asrinda-Resulullah-Sevgisi-Sahabe-Hayatindan-Mustuy.pdf",
+      "pages": 209,
+      "size_bytes": 342892,
+      "size_formatted": "334.9 KB"
+    },
+    {
+      "name": "4-Saadet-Asrinda-Fedakarlik-Ve-Sabir-Sahabe-Hayatindan-Mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabe Hayatından\\4-Saadet-Asrinda-Fedakarlik-Ve-Sabir-Sahabe-Hayatindan-Mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabe Hayatından\\4-Saadet-Asrinda-Fedakarlik-Ve-Sabir-Sahabe-Hayatindan-Mustuy.pdf",
+      "pages": 145,
+      "size_bytes": 434148,
+      "size_formatted": "424.0 KB"
+    },
+    {
+      "name": "5-Saadet-Asrinda-Dogruluk-Ve-Sadakat-Sahabe-Hayatindan-Mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabe Hayatından\\5-Saadet-Asrinda-Dogruluk-Ve-Sadakat-Sahabe-Hayatindan-Mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabe Hayatından\\5-Saadet-Asrinda-Dogruluk-Ve-Sadakat-Sahabe-Hayatindan-Mustuy.pdf",
+      "pages": 129,
+      "size_bytes": 398125,
+      "size_formatted": "388.8 KB"
+    },
+    {
+      "name": "6-Saadet-Asrinda-Ilim-Ve-Ibadet-Sahabe-Hayatindan-Mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabe Hayatından\\6-Saadet-Asrinda-Ilim-Ve-Ibadet-Sahabe-Hayatindan-Mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabe Hayatından\\6-Saadet-Asrinda-Ilim-Ve-Ibadet-Sahabe-Hayatindan-Mustuy.pdf",
+      "pages": 169,
+      "size_bytes": 482911,
+      "size_formatted": "471.6 KB"
+    },
+    {
+      "name": "01-hazreti-ebu-bekir-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\01-hazreti-ebu-bekir-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\01-hazreti-ebu-bekir-mustuy.pdf",
+      "pages": 63,
+      "size_bytes": 1345905,
+      "size_formatted": "1.28 MB"
+    },
+    {
+      "name": "02-hazreti-omer-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\02-hazreti-omer-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\02-hazreti-omer-mustuy.pdf",
+      "pages": 65,
+      "size_bytes": 1129927,
+      "size_formatted": "1.08 MB"
+    },
+    {
+      "name": "03-hazreti-osman-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\03-hazreti-osman-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\03-hazreti-osman-mustuy.pdf",
+      "pages": 57,
+      "size_bytes": 1480809,
+      "size_formatted": "1.41 MB"
+    },
+    {
+      "name": "04-hazreti-ali-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\04-hazreti-ali-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\04-hazreti-ali-mustuy.pdf",
+      "pages": 49,
+      "size_bytes": 979338,
+      "size_formatted": "956.4 KB"
+    },
+    {
+      "name": "05-hazreti-ebu-zer-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\05-hazreti-ebu-zer-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\05-hazreti-ebu-zer-mustuy.pdf",
+      "pages": 48,
+      "size_bytes": 1127622,
+      "size_formatted": "1.08 MB"
+    },
+    {
+      "name": "06-musab-ibn-i-umeyr-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\06-musab-ibn-i-umeyr-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\06-musab-ibn-i-umeyr-mustuy.pdf",
+      "pages": 49,
+      "size_bytes": 1103930,
+      "size_formatted": "1.05 MB"
+    },
+    {
+      "name": "07-hazreti-hasan-ve-hazreti-huseyin-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\07-hazreti-hasan-ve-hazreti-huseyin-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\07-hazreti-hasan-ve-hazreti-huseyin-mustuy.pdf",
+      "pages": 49,
+      "size_bytes": 6882173,
+      "size_formatted": "6.56 MB"
+    },
+    {
+      "name": "08-bedrin-aslani-hazreti-hamza-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\08-bedrin-aslani-hazreti-hamza-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\08-bedrin-aslani-hazreti-hamza-mustuy.pdf",
+      "pages": 59,
+      "size_bytes": 10150700,
+      "size_formatted": "9.68 MB"
+    },
+    {
+      "name": "09-dahi-komutan-hazreti-halid-bin-velid-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\09-dahi-komutan-hazreti-halid-bin-velid-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\09-dahi-komutan-hazreti-halid-bin-velid-mustuy.pdf",
+      "pages": 57,
+      "size_bytes": 8609418,
+      "size_formatted": "8.21 MB"
+    },
+    {
+      "name": "10-Hz-Ebu-Eyyub-el-Ensari-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\10-Hz-Ebu-Eyyub-el-Ensari-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabeler-Çocuk\\10-Hz-Ebu-Eyyub-el-Ensari-mustuy.pdf",
+      "pages": 47,
+      "size_bytes": 956577,
+      "size_formatted": "934.2 KB"
+    },
+    {
+      "name": "1-yetim-yavru-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\1-yetim-yavru-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\1-yetim-yavru-mustuy.pdf",
+      "pages": 129,
+      "size_bytes": 2612918,
+      "size_formatted": "2.49 MB"
+    },
+    {
+      "name": "2-emanet-elbise-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\2-emanet-elbise-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\2-emanet-elbise-mustuy.pdf",
+      "pages": 129,
+      "size_bytes": 1931776,
+      "size_formatted": "1.84 MB"
+    },
+    {
+      "name": "3-bir-tas-corba-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\3-bir-tas-corba-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\3-bir-tas-corba-mustuy.pdf",
+      "pages": 57,
+      "size_bytes": 1156185,
+      "size_formatted": "1.10 MB"
+    },
+    {
+      "name": "3-cocuk-sevgisi-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\3-cocuk-sevgisi-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\3-cocuk-sevgisi-mustuy.pdf",
+      "pages": 113,
+      "size_bytes": 1943105,
+      "size_formatted": "1.85 MB"
+    },
+    {
+      "name": "4-gercek-musteri-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\4-gercek-musteri-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\4-gercek-musteri-mustuy.pdf",
+      "pages": 57,
+      "size_bytes": 1352273,
+      "size_formatted": "1.29 MB"
+    },
+    {
+      "name": "5-kirilan-kalp-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\5-kirilan-kalp-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\5-kirilan-kalp-mustuy.pdf",
+      "pages": 49,
+      "size_bytes": 1107007,
+      "size_formatted": "1.06 MB"
+    },
+    {
+      "name": "6-yol-arkadasi-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\6-yol-arkadasi-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\6-yol-arkadasi-mustuy.pdf",
+      "pages": 57,
+      "size_bytes": 1051401,
+      "size_formatted": "1.00 MB"
+    },
+    {
+      "name": "7-sevinc-yili-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\7-sevinc-yili-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Sahabelerin Örnek Hayatı-Çocuk\\7-sevinc-yili-mustuy.pdf",
+      "pages": 65,
+      "size_bytes": 1804065,
+      "size_formatted": "1.72 MB"
+    },
+    {
+      "name": "1-Gozleri Kamastiran Isik-Peygamberimizin Hayati.PDF",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Siyer-Çocuk\\1-Gozleri Kamastiran Isik-Peygamberimizin Hayati.PDF",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Siyer-Çocuk\\1-Gozleri Kamastiran Isik-Peygamberimizin Hayati.PDF",
+      "pages": 41,
+      "size_bytes": 2811064,
+      "size_formatted": "2.68 MB"
+    },
+    {
+      "name": "2-Kutlu Dogum-Peygamberimizin Hayati.PDF",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Siyer-Çocuk\\2-Kutlu Dogum-Peygamberimizin Hayati.PDF",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Siyer-Çocuk\\2-Kutlu Dogum-Peygamberimizin Hayati.PDF",
+      "pages": 41,
+      "size_bytes": 2434876,
+      "size_formatted": "2.32 MB"
+    },
+    {
+      "name": "3-En Güvenilir Insan-Peygamberimizin Hayati.PDF",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Siyer-Çocuk\\3-En Güvenilir Insan-Peygamberimizin Hayati.PDF",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Siyer-Çocuk\\3-En Güvenilir Insan-Peygamberimizin Hayati.PDF",
+      "pages": 41,
+      "size_bytes": 2542042,
+      "size_formatted": "2.42 MB"
+    },
+    {
+      "name": "5-Medine Yillari-Peygamberimizin Hayati.PDF",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Siyer-Çocuk\\5-Medine Yillari-Peygamberimizin Hayati.PDF",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Siyer-Çocuk\\5-Medine Yillari-Peygamberimizin Hayati.PDF",
+      "pages": 40,
+      "size_bytes": 3334941,
+      "size_formatted": "3.18 MB"
+    },
+    {
+      "name": "ilk-oykulerim-serisi-01-rabia-kandira-yesil-tespih-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-01-rabia-kandira-yesil-tespih-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-01-rabia-kandira-yesil-tespih-mustuy.pdf",
+      "pages": 49,
+      "size_bytes": 1007077,
+      "size_formatted": "983.5 KB"
+    },
+    {
+      "name": "ilk-oykulerim-serisi-02-rabia-kandira-minik-kedi-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-02-rabia-kandira-minik-kedi-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-02-rabia-kandira-minik-kedi-mustuy.pdf",
+      "pages": 41,
+      "size_bytes": 1269035,
+      "size_formatted": "1.21 MB"
+    },
+    {
+      "name": "ilk-oykulerim-serisi-05-osman-kaplan-yarim-elma-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-05-osman-kaplan-yarim-elma-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-05-osman-kaplan-yarim-elma-mustuy.pdf",
+      "pages": 57,
+      "size_bytes": 5306945,
+      "size_formatted": "5.06 MB"
+    },
+    {
+      "name": "ilk-oykulerim-serisi-06-safak-demir-hazine-pesinde-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-06-safak-demir-hazine-pesinde-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-06-safak-demir-hazine-pesinde-mustuy.pdf",
+      "pages": 57,
+      "size_bytes": 2675685,
+      "size_formatted": "2.55 MB"
+    },
+    {
+      "name": "ilk-oykulerim-serisi-07-safak-demir-evimizin-forveti-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-07-safak-demir-evimizin-forveti-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-07-safak-demir-evimizin-forveti-mustuy.pdf",
+      "pages": 57,
+      "size_bytes": 3978649,
+      "size_formatted": "3.79 MB"
+    },
+    {
+      "name": "ilk-oykulerim-serisi-08-h-ibrahim-cayirli-babamin-sol-ayagi-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-08-h-ibrahim-cayirli-babamin-sol-ayagi-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-08-h-ibrahim-cayirli-babamin-sol-ayagi-mustuy.pdf",
+      "pages": 57,
+      "size_bytes": 5111036,
+      "size_formatted": "4.87 MB"
+    },
+    {
+      "name": "ilk-oykulerim-serisi-09-aysel-ertan-seftali-agaci-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-09-aysel-ertan-seftali-agaci-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-09-aysel-ertan-seftali-agaci-mustuy.pdf",
+      "pages": 57,
+      "size_bytes": 3504287,
+      "size_formatted": "3.34 MB"
+    },
+    {
+      "name": "ilk-oykulerim-serisi-10-h-ibrahim-cayirli-kaybolan-top-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-10-h-ibrahim-cayirli-kaybolan-top-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İlk öykülerim\\ilk-oykulerim-serisi-10-h-ibrahim-cayirli-kaybolan-top-mustuy.pdf",
+      "pages": 49,
+      "size_bytes": 2037170,
+      "size_formatted": "1.94 MB"
+    },
+    {
+      "name": "1-Allah_a-iman-Hekimoğlu-ismail.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İman-Hekimoğlu İsmail\\1-Allah_a-iman-Hekimoğlu-ismail.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İman-Hekimoğlu İsmail\\1-Allah_a-iman-Hekimoğlu-ismail.pdf",
+      "pages": 104,
+      "size_bytes": 2101137,
+      "size_formatted": "2.00 MB"
+    },
+    {
+      "name": "2-Kitaplara-İman-Hekimoğlu-İsmail.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İman-Hekimoğlu İsmail\\2-Kitaplara-İman-Hekimoğlu-İsmail.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İman-Hekimoğlu İsmail\\2-Kitaplara-İman-Hekimoğlu-İsmail.pdf",
+      "pages": 104,
+      "size_bytes": 1849513,
+      "size_formatted": "1.76 MB"
+    },
+    {
+      "name": "3-Peygamberlere-İman-Hekimoğlu-İsmail.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İman-Hekimoğlu İsmail\\3-Peygamberlere-İman-Hekimoğlu-İsmail.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İman-Hekimoğlu İsmail\\3-Peygamberlere-İman-Hekimoğlu-İsmail.pdf",
+      "pages": 104,
+      "size_bytes": 1822232,
+      "size_formatted": "1.74 MB"
+    },
+    {
+      "name": "4-Haşre-İman-Hekimoğlu-İsmail.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İman-Hekimoğlu İsmail\\4-Haşre-İman-Hekimoğlu-İsmail.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İman-Hekimoğlu İsmail\\4-Haşre-İman-Hekimoğlu-İsmail.pdf",
+      "pages": 104,
+      "size_bytes": 1784100,
+      "size_formatted": "1.70 MB"
+    },
+    {
+      "name": "Neye-Nasıl-İnanırım-Hekimoğlu-İsmail.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İman-Hekimoğlu İsmail\\Neye-Nasıl-İnanırım-Hekimoğlu-İsmail.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\İman-Hekimoğlu İsmail\\Neye-Nasıl-İnanırım-Hekimoğlu-İsmail.pdf",
+      "pages": 104,
+      "size_bytes": 2200349,
+      "size_formatted": "2.10 MB"
+    },
+    {
+      "name": "sirin-cocuklar-01-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-01-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-01-mustuy.pdf",
+      "pages": 113,
+      "size_bytes": 16211325,
+      "size_formatted": "15.46 MB"
+    },
+    {
+      "name": "sirin-cocuklar-02-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-02-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-02-mustuy.pdf",
+      "pages": 113,
+      "size_bytes": 19954280,
+      "size_formatted": "19.03 MB"
+    },
+    {
+      "name": "sirin-cocuklar-03-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-03-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-03-mustuy.pdf",
+      "pages": 28,
+      "size_bytes": 7661922,
+      "size_formatted": "7.31 MB"
+    },
+    {
+      "name": "sirin-cocuklar-04-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-04-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-04-mustuy.pdf",
+      "pages": 28,
+      "size_bytes": 7123889,
+      "size_formatted": "6.79 MB"
+    },
+    {
+      "name": "sirin-cocuklar-05-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-05-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-05-mustuy.pdf",
+      "pages": 28,
+      "size_bytes": 9842337,
+      "size_formatted": "9.39 MB"
+    },
+    {
+      "name": "sirin-cocuklar-06-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-06-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-06-mustuy.pdf",
+      "pages": 28,
+      "size_bytes": 9483737,
+      "size_formatted": "9.04 MB"
+    },
+    {
+      "name": "sirin-cocuklar-07-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-07-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-07-mustuy.pdf",
+      "pages": 28,
+      "size_bytes": 9561968,
+      "size_formatted": "9.12 MB"
+    },
+    {
+      "name": "sirin-cocuklar-08-mustuy.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-08-mustuy.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Çocuklar için-Hzm\\Şirin Çocuklar-Dini\\sirin-cocuklar-08-mustuy.pdf",
+      "pages": 28,
+      "size_bytes": 9783215,
+      "size_formatted": "9.33 MB"
+    },
+    {
+      "name": "Ahmet Ersöz-Mehmet Özyurt.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz Talebeleri-Hzm\\Ahmet Ersöz-Mehmet Özyurt.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz Talebeleri-Hzm\\Ahmet Ersöz-Mehmet Özyurt.pdf",
+      "pages": 241,
+      "size_bytes": 1919064,
+      "size_formatted": "1.83 MB"
+    },
+    {
+      "name": "Ahmet Ozer - Atabeyli Tahiri - Mehmet Tahiri Mutlu (Ahmet Ozer) (z-lib.org).PDF",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz Talebeleri-Hzm\\Ahmet Ozer - Atabeyli Tahiri - Mehmet Tahiri Mutlu (Ahmet Ozer) (z-lib.org).PDF",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz Talebeleri-Hzm\\Ahmet Ozer - Atabeyli Tahiri - Mehmet Tahiri Mutlu (Ahmet Ozer) (z-lib.org).PDF",
+      "pages": 181,
+      "size_bytes": 885617,
+      "size_formatted": "864.9 KB"
+    },
+    {
+      "name": "Ahmet Ozer - iki Unlu Kul  Abdurrahman ve Abdulmecid Nursi (Ahmet Ozer) (z-lib.org).PDF",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz Talebeleri-Hzm\\Ahmet Ozer - iki Unlu Kul  Abdurrahman ve Abdulmecid Nursi (Ahmet Ozer) (z-lib.org).PDF",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz Talebeleri-Hzm\\Ahmet Ozer - iki Unlu Kul  Abdurrahman ve Abdulmecid Nursi (Ahmet Ozer) (z-lib.org).PDF",
+      "pages": 157,
+      "size_bytes": 2197099,
+      "size_formatted": "2.10 MB"
+    },
+    {
+      "name": "Necmettin-Sahiner-Bekir-Berk-sahdamari.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz Talebeleri-Hzm\\Necmettin-Sahiner-Bekir-Berk-sahdamari.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz Talebeleri-Hzm\\Necmettin-Sahiner-Bekir-Berk-sahdamari.pdf",
+      "pages": 265,
+      "size_bytes": 61197063,
+      "size_formatted": "58.36 MB"
+    },
+    {
+      "name": "Necmettin-Sahiner-Uc-Feyizli-Nur-SahdamarY.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz Talebeleri-Hzm\\Necmettin-Sahiner-Uc-Feyizli-Nur-SahdamarY.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz Talebeleri-Hzm\\Necmettin-Sahiner-Uc-Feyizli-Nur-SahdamarY.pdf",
+      "pages": 261,
+      "size_bytes": 16421483,
+      "size_formatted": "15.66 MB"
+    },
+    {
+      "name": "abdullah-mahmud-tantavi-bediuzzamana-gore-degisim-ve-yeniden-yapilanma-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\abdullah-mahmud-tantavi-bediuzzamana-gore-degisim-ve-yeniden-yapilanma-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\abdullah-mahmud-tantavi-bediuzzamana-gore-degisim-ve-yeniden-yapilanma-sahdamary.pdf",
+      "pages": 105,
+      "size_bytes": 427878,
+      "size_formatted": "417.8 KB"
+    },
+    {
+      "name": "mahmut-acil-ustadla-hasbihal-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mahmut-acil-ustadla-hasbihal-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mahmut-acil-ustadla-hasbihal-sahdamary.pdf",
+      "pages": 276,
+      "size_bytes": 6651257,
+      "size_formatted": "6.34 MB"
+    },
+    {
+      "name": "mehmet-akar-dava-adami-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-dava-adami-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-dava-adami-sahdamary.pdf",
+      "pages": 185,
+      "size_bytes": 694619,
+      "size_formatted": "678.3 KB"
+    },
+    {
+      "name": "mehmet-akar-hizmet-ekseni-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-hizmet-ekseni-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-hizmet-ekseni-sahdamary.pdf",
+      "pages": 249,
+      "size_bytes": 581366,
+      "size_formatted": "567.7 KB"
+    },
+    {
+      "name": "mehmet-akar-ikram-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-ikram-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-ikram-sahdamary.pdf",
+      "pages": 151,
+      "size_bytes": 417191,
+      "size_formatted": "407.4 KB"
+    },
+    {
+      "name": "mehmet-akar-secdede-bir-omur-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-secdede-bir-omur-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-secdede-bir-omur-sahdamary.pdf",
+      "pages": 161,
+      "size_bytes": 718677,
+      "size_formatted": "701.8 KB"
+    },
+    {
+      "name": "mehmet-akar-seyda-2-barla-hayati-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-seyda-2-barla-hayati-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-seyda-2-barla-hayati-sahdamary.pdf",
+      "pages": 481,
+      "size_bytes": 942023,
+      "size_formatted": "919.9 KB"
+    },
+    {
+      "name": "mehmet-akar-seyda-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-seyda-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mehmet-akar-seyda-sahdamary.pdf",
+      "pages": 249,
+      "size_bytes": 825872,
+      "size_formatted": "806.5 KB"
+    },
+    {
+      "name": "mustafa-ozturkcu-bediuezzamanin-bilinmeyen-akrabalari-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mustafa-ozturkcu-bediuezzamanin-bilinmeyen-akrabalari-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\mustafa-ozturkcu-bediuezzamanin-bilinmeyen-akrabalari-sahdamary.pdf",
+      "pages": 129,
+      "size_bytes": 17361916,
+      "size_formatted": "16.56 MB"
+    },
+    {
+      "name": "necmettin-sahiner-medresetuz-zehra-bediuzzaman-universitesi-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\necmettin-sahiner-medresetuz-zehra-bediuzzaman-universitesi-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\necmettin-sahiner-medresetuz-zehra-bediuzzaman-universitesi-sahdamary.pdf",
+      "pages": 129,
+      "size_bytes": 5503637,
+      "size_formatted": "5.25 MB"
+    },
+    {
+      "name": "necmettin-sahiner-nurlarin-ilk-dershanesi-aziz-barla-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\necmettin-sahiner-nurlarin-ilk-dershanesi-aziz-barla-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\necmettin-sahiner-nurlarin-ilk-dershanesi-aziz-barla-sahdamary.pdf",
+      "pages": 185,
+      "size_bytes": 28213457,
+      "size_formatted": "26.91 MB"
+    },
+    {
+      "name": "necmettin-sahiner-yazarlarin-kaleminden-bediuzzaman-sahdamary.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\necmettin-sahiner-yazarlarin-kaleminden-bediuzzaman-sahdamary.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\necmettin-sahiner-yazarlarin-kaleminden-bediuzzaman-sahdamary.pdf",
+      "pages": 233,
+      "size_bytes": 3943171,
+      "size_formatted": "3.76 MB"
+    },
+    {
+      "name": "Yazarlarin-Kalemi-nden-Bedi-uzzaman-Necmeddin-Şahi-ner.pdf",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\Yazarlarin-Kalemi-nden-Bedi-uzzaman-Necmeddin-Şahi-ner.pdf",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Üstad BZ Hz-Hzm\\Yazarlarin-Kalemi-nden-Bedi-uzzaman-Necmeddin-Şahi-ner.pdf",
+      "pages": 233,
+      "size_bytes": 3945554,
+      "size_formatted": "3.76 MB"
+    }
+  ],
+  "non_pdf_files": [
+    {
+      "name": "b-Library_Hzm-20260601T230631Z-3-001.zip",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001.zip",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 2054414852,
+      "size_formatted": "1.91 GB"
+    },
+    {
+      "name": "b-Library_Hzm-20260601T230631Z-3-002.zip",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-002.zip",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-002.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 1924229449,
+      "size_formatted": "1.79 GB"
+    },
+    {
+      "name": "b-Library_Hzm-20260601T235628Z-3-001.zip",
+      "rel_path": "b-Library_Hzm-20260601T235628Z-3-001.zip",
+      "full_path": "Books\\b-Library_Hzm-20260601T235628Z-3-001.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 2063979853,
+      "size_formatted": "1.92 GB"
+    },
+    {
+      "name": "b-Library_Hzm-20260601T235628Z-3-002.zip",
+      "rel_path": "b-Library_Hzm-20260601T235628Z-3-002.zip",
+      "full_path": "Books\\b-Library_Hzm-20260601T235628Z-3-002.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 1914663555,
+      "size_formatted": "1.78 GB"
+    },
+    {
+      "name": "b-Lİbrary_Tr-Gen-20260601T232943Z-3-001.zip",
+      "rel_path": "b-Lİbrary_Tr-Gen-20260601T232943Z-3-001.zip",
+      "full_path": "Books\\b-Lİbrary_Tr-Gen-20260601T232943Z-3-001.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 2048321019,
+      "size_formatted": "1.91 GB"
+    },
+    {
+      "name": "b-Lİbrary_Tr-Gen-20260601T232943Z-3-002.zip",
+      "rel_path": "b-Lİbrary_Tr-Gen-20260601T232943Z-3-002.zip",
+      "full_path": "Books\\b-Lİbrary_Tr-Gen-20260601T232943Z-3-002.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 2016039324,
+      "size_formatted": "1.88 GB"
+    },
+    {
+      "name": "b-Lİbrary_Tr-Gen-20260601T232943Z-3-003.zip",
+      "rel_path": "b-Lİbrary_Tr-Gen-20260601T232943Z-3-003.zip",
+      "full_path": "Books\\b-Lİbrary_Tr-Gen-20260601T232943Z-3-003.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 1996838430,
+      "size_formatted": "1.86 GB"
+    },
+    {
+      "name": "Books for Text_Eng-20260529T160906Z-3-001.zip",
+      "rel_path": "Books for Text_Eng-20260529T160906Z-3-001.zip",
+      "full_path": "Books\\Books for Text_Eng-20260529T160906Z-3-001.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 1336075936,
+      "size_formatted": "1.24 GB"
+    },
+    {
+      "name": "Books for Text_Hzm-20260529T161525Z-3-001.zip",
+      "rel_path": "Books for Text_Hzm-20260529T161525Z-3-001.zip",
+      "full_path": "Books\\Books for Text_Hzm-20260529T161525Z-3-001.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 387198350,
+      "size_formatted": "369.26 MB"
+    },
+    {
+      "name": "Books for Text_TR-20260529T163910Z-3-001.zip",
+      "rel_path": "Books for Text_TR-20260529T163910Z-3-001.zip",
+      "full_path": "Books\\Books for Text_TR-20260529T163910Z-3-001.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 2060298184,
+      "size_formatted": "1.92 GB"
+    },
+    {
+      "name": "Books for Text_TR-20260529T163910Z-3-002.zip",
+      "rel_path": "Books for Text_TR-20260529T163910Z-3-002.zip",
+      "full_path": "Books\\Books for Text_TR-20260529T163910Z-3-002.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 2110045820,
+      "size_formatted": "1.97 GB"
+    },
+    {
+      "name": "Books for Text_TR-20260529T163910Z-3-003.zip",
+      "rel_path": "Books for Text_TR-20260529T163910Z-3-003.zip",
+      "full_path": "Books\\Books for Text_TR-20260529T163910Z-3-003.zip",
+      "extension": ".zip",
+      "detected_type": "ZIP / Arşiv Dosyası",
+      "size_bytes": 2005458263,
+      "size_formatted": "1.87 GB"
+    },
+    {
+      "name": "Proje",
+      "rel_path": "Proje",
+      "full_path": "Books\\Proje",
+      "extension": "(uzantısız)",
+      "detected_type": "Boş Dosya (0 Bayt)",
+      "size_bytes": 0,
+      "size_formatted": "0 B"
+    },
+    {
+      "name": "Bir-Kırık-Dilekce-M-Fethullah-Gulen.epub",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Oku\\Bir-Kırık-Dilekce-M-Fethullah-Gulen.epub",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Dua-Oku\\Bir-Kırık-Dilekce-M-Fethullah-Gulen.epub",
+      "extension": ".epub",
+      "detected_type": "EPUB (ZIP tabanlı arşiv)",
+      "size_bytes": 86338,
+      "size_formatted": "84.3 KB"
+    },
+    {
+      "name": "Efendimiz-in-Bir-Gunu-Abdulhakim-Yuce-Işık-Yayınları-2011.epub",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Efendimiz-in-Bir-Gunu-Abdulhakim-Yuce-Işık-Yayınları-2011.epub",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\Efendimiz Sav-Hzm\\Efendimiz-in-Bir-Gunu-Abdulhakim-Yuce-Işık-Yayınları-2011.epub",
+      "extension": ".epub",
+      "detected_type": "EPUB (ZIP tabanlı arşiv)",
+      "size_bytes": 274432,
+      "size_formatted": "268.0 KB"
+    },
+    {
+      "name": "Fethullah Gülen Röportajı (Ekrem Dumanlı) (z-lib.org).epub",
+      "rel_path": "b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\Fethullah Gülen Röportajı (Ekrem Dumanlı) (z-lib.org).epub",
+      "full_path": "Books\\b-Library_Hzm-20260601T230631Z-3-001\\b-Library_Hzm\\HE-Bio-Hzm\\Fethullah Gülen Röportajı (Ekrem Dumanlı) (z-lib.org).epub",
+      "extension": ".epub",
+      "detected_type": "EPUB (ZIP tabanlı arşiv)",
+      "size_bytes": 98204,
+      "size_formatted": "95.9 KB"
+    }
+  ],
+  "fake_header_pdfs": [],
+  "corrupted_pdfs": []
+}

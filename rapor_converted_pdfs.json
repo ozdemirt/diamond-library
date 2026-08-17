@@ -1,0 +1,842 @@
+{
+  "target_dir": "C:\\Users\\default.LAPTOP-OBA1HVU9\\.antigravity-ide\\Converted_PDFs",
+  "scan_time": "2026-08-14 15:47:41",
+  "total_files": 104,
+  "valid_pdfs": [
+    {
+      "name": "(OSINT) Open Source Intelligence Glossary Guide to keywords, phrases for improved Internet research results (Nicholas Crowder) (z-lib.org).pdf",
+      "rel_path": "(OSINT) Open Source Intelligence Glossary Guide to keywords, phrases for improved Internet research results (Nicholas Crowder) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\(OSINT) Open Source Intelligence Glossary Guide to keywords, phrases for improved Internet research results (Nicholas Crowder) (z-lib.org).pdf",
+      "pages": 49,
+      "size_bytes": 240495,
+      "size_formatted": "234.9 KB"
+    },
+    {
+      "name": "AKPnin Önlenebilir Karşı-Devrimi (Timur, Taner) (z-lib.org).pdf",
+      "rel_path": "AKPnin Önlenebilir Karşı-Devrimi (Timur, Taner) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\AKPnin Önlenebilir Karşı-Devrimi (Timur, Taner) (z-lib.org).pdf",
+      "pages": 105,
+      "size_bytes": 506845,
+      "size_formatted": "495.0 KB"
+    },
+    {
+      "name": "Albert Camus-Yabancı.pdf",
+      "rel_path": "Albert Camus-Yabancı.pdf",
+      "full_path": "Converted_PDFs\\Albert Camus-Yabancı.pdf",
+      "pages": 40,
+      "size_bytes": 191824,
+      "size_formatted": "187.3 KB"
+    },
+    {
+      "name": "All Art Is Propaganda Critical Essays (George Orwell, Keith Gessen, George Packer) (z-lib.org).pdf",
+      "rel_path": "All Art Is Propaganda Critical Essays (George Orwell, Keith Gessen, George Packer) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\All Art Is Propaganda Critical Essays (George Orwell, Keith Gessen, George Packer) (z-lib.org).pdf",
+      "pages": 180,
+      "size_bytes": 877223,
+      "size_formatted": "856.7 KB"
+    },
+    {
+      "name": "Ancient Mysteries and Modern Masonry (C. H. Vail) (z-lib.org).pdf",
+      "rel_path": "Ancient Mysteries and Modern Masonry (C. H. Vail) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Ancient Mysteries and Modern Masonry (C. H. Vail) (z-lib.org).pdf",
+      "pages": 75,
+      "size_bytes": 364638,
+      "size_formatted": "356.1 KB"
+    },
+    {
+      "name": "Ask, Measure, Learn Using Social Media Analytics to Understand and Influence Customer Behavior (Lutz Finger, Soumitra Dutta) (z-lib.org).pdf",
+      "rel_path": "Ask, Measure, Learn Using Social Media Analytics to Understand and Influence Customer Behavior (Lutz Finger, Soumitra Dutta) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Ask, Measure, Learn Using Social Media Analytics to Understand and Influence Customer Behavior (Lutz Finger, Soumitra Dutta) (z-lib.org).pdf",
+      "pages": 145,
+      "size_bytes": 708038,
+      "size_formatted": "691.4 KB"
+    },
+    {
+      "name": "Avrupa ve Biz (İlber Ortaylı) (z-lib.org).pdf",
+      "rel_path": "Avrupa ve Biz (İlber Ortaylı) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Avrupa ve Biz (İlber Ortaylı) (z-lib.org).pdf",
+      "pages": 1,
+      "size_bytes": 755,
+      "size_formatted": "755 B"
+    },
+    {
+      "name": "Bir-Kırık-Dilekce-M-Fethullah-Gulen.pdf",
+      "rel_path": "Bir-Kırık-Dilekce-M-Fethullah-Gulen.pdf",
+      "full_path": "Converted_PDFs\\Bir-Kırık-Dilekce-M-Fethullah-Gulen.pdf",
+      "pages": 39,
+      "size_bytes": 189169,
+      "size_formatted": "184.7 KB"
+    },
+    {
+      "name": "Builders of Empire Freemasons and British Imperialism, 1717-1927 (Jessica L. Harland-Jacobs) (z-lib.org).pdf",
+      "rel_path": "Builders of Empire Freemasons and British Imperialism, 1717-1927 (Jessica L. Harland-Jacobs) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Builders of Empire Freemasons and British Imperialism, 1717-1927 (Jessica L. Harland-Jacobs) (z-lib.org).pdf",
+      "pages": 236,
+      "size_bytes": 1152798,
+      "size_formatted": "1.10 MB"
+    },
+    {
+      "name": "Buyology Satın almaya dair bildiğimiz her şey neden yanlış？ (Martin Lindstrom) (z-lib.org).pdf",
+      "rel_path": "Buyology Satın almaya dair bildiğimiz her şey neden yanlış？ (Martin Lindstrom) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Buyology Satın almaya dair bildiğimiz her şey neden yanlış？ (Martin Lindstrom) (z-lib.org).pdf",
+      "pages": 103,
+      "size_bytes": 496731,
+      "size_formatted": "485.1 KB"
+    },
+    {
+      "name": "BİR AKP BELGESELİ-MASKESİZ SOYGUN (İLHAN TAŞCI) (z-lib.org).pdf",
+      "rel_path": "BİR AKP BELGESELİ-MASKESİZ SOYGUN (İLHAN TAŞCI) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\BİR AKP BELGESELİ-MASKESİZ SOYGUN (İLHAN TAŞCI) (z-lib.org).pdf",
+      "pages": 82,
+      "size_bytes": 394189,
+      "size_formatted": "385.0 KB"
+    },
+    {
+      "name": "Cemaatin İflası (Hanefi Avcı [Avcı, Hanefi]) (z-lib.org).pdf",
+      "rel_path": "Cemaatin İflası (Hanefi Avcı [Avcı, Hanefi]) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Cemaatin İflası (Hanefi Avcı [Avcı, Hanefi]) (z-lib.org).pdf",
+      "pages": 130,
+      "size_bytes": 629056,
+      "size_formatted": "614.3 KB"
+    },
+    {
+      "name": "Charles Dickens-İki Şehrin Hikayesi.pdf",
+      "rel_path": "Charles Dickens-İki Şehrin Hikayesi.pdf",
+      "full_path": "Converted_PDFs\\Charles Dickens-İki Şehrin Hikayesi.pdf",
+      "pages": 172,
+      "size_bytes": 831311,
+      "size_formatted": "811.8 KB"
+    },
+    {
+      "name": "Dark Mysteries of the Vatican    (H. Paul Jeffers) (z-lib.org).pdf",
+      "rel_path": "Dark Mysteries of the Vatican    (H. Paul Jeffers) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Dark Mysteries of the Vatican    (H. Paul Jeffers) (z-lib.org).pdf",
+      "pages": 87,
+      "size_bytes": 419074,
+      "size_formatted": "409.3 KB"
+    },
+    {
+      "name": "Democracy’s Fourth Wave Digital Media and the Arab Spring (Philip N. Howard Muzammil M. Hussain) (z-lib.org).pdf",
+      "rel_path": "Democracy’s Fourth Wave Digital Media and the Arab Spring (Philip N. Howard Muzammil M. Hussain) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Democracy’s Fourth Wave Digital Media and the Arab Spring (Philip N. Howard Muzammil M. Hussain) (z-lib.org).pdf",
+      "pages": 82,
+      "size_bytes": 400547,
+      "size_formatted": "391.2 KB"
+    },
+    {
+      "name": "Dikkat Vücudunuz Konuşuyor (İzgören, Ahmet Şerif) (z-lib.org).pdf",
+      "rel_path": "Dikkat Vücudunuz Konuşuyor (İzgören, Ahmet Şerif) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Dikkat Vücudunuz Konuşuyor (İzgören, Ahmet Şerif) (z-lib.org).pdf",
+      "pages": 64,
+      "size_bytes": 311834,
+      "size_formatted": "304.5 KB"
+    },
+    {
+      "name": "Duygusal Zeka (Daniel Goleman) (z-lib.org).pdf",
+      "rel_path": "Duygusal Zeka (Daniel Goleman) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Duygusal Zeka (Daniel Goleman) (z-lib.org).pdf",
+      "pages": 208,
+      "size_bytes": 1011185,
+      "size_formatted": "987.5 KB"
+    },
+    {
+      "name": "Efendimiz-in-Bir-Gunu-Abdulhakim-Yuce-Işık-Yayınları-2011.pdf",
+      "rel_path": "Efendimiz-in-Bir-Gunu-Abdulhakim-Yuce-Işık-Yayınları-2011.pdf",
+      "full_path": "Converted_PDFs\\Efendimiz-in-Bir-Gunu-Abdulhakim-Yuce-Işık-Yayınları-2011.pdf",
+      "pages": 57,
+      "size_bytes": 275556,
+      "size_formatted": "269.1 KB"
+    },
+    {
+      "name": "Ekonomi 101 Bir Çırpıda Para ve Finans (Alfred Mill) (z-lib.org).pdf",
+      "rel_path": "Ekonomi 101 Bir Çırpıda Para ve Finans (Alfred Mill) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Ekonomi 101 Bir Çırpıda Para ve Finans (Alfred Mill) (z-lib.org).pdf",
+      "pages": 99,
+      "size_bytes": 479895,
+      "size_formatted": "468.6 KB"
+    },
+    {
+      "name": "Esoteric freemasonry rituals  practices for a deeper understanding (Biasi, Jean-Louis de) (z-lib.org).pdf",
+      "rel_path": "Esoteric freemasonry rituals  practices for a deeper understanding (Biasi, Jean-Louis de) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Esoteric freemasonry rituals  practices for a deeper understanding (Biasi, Jean-Louis de) (z-lib.org).pdf",
+      "pages": 109,
+      "size_bytes": 525750,
+      "size_formatted": "513.4 KB"
+    },
+    {
+      "name": "Fethullah Gülen Röportajı (Ekrem Dumanlı) (z-lib.org).pdf",
+      "rel_path": "Fethullah Gülen Röportajı (Ekrem Dumanlı) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Fethullah Gülen Röportajı (Ekrem Dumanlı) (z-lib.org).pdf",
+      "pages": 18,
+      "size_bytes": 83742,
+      "size_formatted": "81.8 KB"
+    },
+    {
+      "name": "Freemasonry in the Ottoman Empire  a history of the Fraternity and its influence in Syria and the Levant (Dorothea Sommer) (z-lib.org).pdf",
+      "rel_path": "Freemasonry in the Ottoman Empire  a history of the Fraternity and its influence in Syria and the Levant (Dorothea Sommer) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Freemasonry in the Ottoman Empire  a history of the Fraternity and its influence in Syria and the Levant (Dorothea Sommer) (z-lib.org).pdf",
+      "pages": 159,
+      "size_bytes": 772307,
+      "size_formatted": "754.2 KB"
+    },
+    {
+      "name": "George Orwell-1984.pdf",
+      "rel_path": "George Orwell-1984.pdf",
+      "full_path": "Converted_PDFs\\George Orwell-1984.pdf",
+      "pages": 118,
+      "size_bytes": 575176,
+      "size_formatted": "561.7 KB"
+    },
+    {
+      "name": "Görünmeyeni Satmak (Harry Beckwith) (z-lib.org).pdf",
+      "rel_path": "Görünmeyeni Satmak (Harry Beckwith) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Görünmeyeni Satmak (Harry Beckwith) (z-lib.org).pdf",
+      "pages": 69,
+      "size_bytes": 331624,
+      "size_formatted": "323.9 KB"
+    },
+    {
+      "name": "Haliçte Yaşayan Simonlar (Hanefi Avcı [Avcı, Hanefi]) (z-lib.org).pdf",
+      "rel_path": "Haliçte Yaşayan Simonlar (Hanefi Avcı [Avcı, Hanefi]) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Haliçte Yaşayan Simonlar (Hanefi Avcı [Avcı, Hanefi]) (z-lib.org).pdf",
+      "pages": 270,
+      "size_bytes": 1314999,
+      "size_formatted": "1.25 MB"
+    },
+    {
+      "name": "Iyi Hissetmek (Turkish Edition) (David Burns) (z-lib.org).pdf",
+      "rel_path": "Iyi Hissetmek (Turkish Edition) (David Burns) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Iyi Hissetmek (Turkish Edition) (David Burns) (z-lib.org).pdf",
+      "pages": 175,
+      "size_bytes": 853332,
+      "size_formatted": "833.3 KB"
+    },
+    {
+      "name": "John-Steinbeck-Fareler ve İnsanlar.pdf",
+      "rel_path": "John-Steinbeck-Fareler ve İnsanlar.pdf",
+      "full_path": "Converted_PDFs\\John-Steinbeck-Fareler ve İnsanlar.pdf",
+      "pages": 36,
+      "size_bytes": 174262,
+      "size_formatted": "170.2 KB"
+    },
+    {
+      "name": "John-Steinbeck-Gazap Üzümleri.pdf",
+      "rel_path": "John-Steinbeck-Gazap Üzümleri.pdf",
+      "full_path": "Converted_PDFs\\John-Steinbeck-Gazap Üzümleri.pdf",
+      "pages": 239,
+      "size_bytes": 1163330,
+      "size_formatted": "1.11 MB"
+    },
+    {
+      "name": "Kabala-Yahudi-Kadim-Mistik-Oğretisi-A-Ekrem-Ulku.pdf",
+      "rel_path": "Kabala-Yahudi-Kadim-Mistik-Oğretisi-A-Ekrem-Ulku.pdf",
+      "full_path": "Converted_PDFs\\Kabala-Yahudi-Kadim-Mistik-Oğretisi-A-Ekrem-Ulku.pdf",
+      "pages": 129,
+      "size_bytes": 625553,
+      "size_formatted": "610.9 KB"
+    },
+    {
+      "name": "Karaciger-fitoterapi.pdf",
+      "rel_path": "Karaciger-fitoterapi.pdf",
+      "full_path": "Converted_PDFs\\Karaciger-fitoterapi.pdf",
+      "pages": 1581,
+      "size_bytes": 2578405,
+      "size_formatted": "2.46 MB"
+    },
+    {
+      "name": "Kevin Roberts-Taking Back Washington to Save America.pdf",
+      "rel_path": "Kevin Roberts-Taking Back Washington to Save America.pdf",
+      "full_path": "Converted_PDFs\\Kevin Roberts-Taking Back Washington to Save America.pdf",
+      "pages": 141,
+      "size_bytes": 686272,
+      "size_formatted": "670.2 KB"
+    },
+    {
+      "name": "Koşmasaydım Yazamazdım (Haruki Murakami) (z-lib.org) (1).pdf",
+      "rel_path": "Koşmasaydım Yazamazdım (Haruki Murakami) (z-lib.org) (1).pdf",
+      "full_path": "Converted_PDFs\\Koşmasaydım Yazamazdım (Haruki Murakami) (z-lib.org) (1).pdf",
+      "pages": 67,
+      "size_bytes": 322912,
+      "size_formatted": "315.3 KB"
+    },
+    {
+      "name": "kukla.pdf",
+      "rel_path": "kukla.pdf",
+      "full_path": "Converted_PDFs\\kukla.pdf",
+      "pages": 1,
+      "size_bytes": 646,
+      "size_formatted": "646 B"
+    },
+    {
+      "name": "Masonry Inside Out ( etc.) (z-lib.org).pdf",
+      "rel_path": "Masonry Inside Out ( etc.) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Masonry Inside Out ( etc.) (z-lib.org).pdf",
+      "pages": 12,
+      "size_bytes": 57425,
+      "size_formatted": "56.1 KB"
+    },
+    {
+      "name": "Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry (Albert Pike [Pike, Albert]) (z-lib.org).pdf",
+      "rel_path": "Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry (Albert Pike [Pike, Albert]) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry (Albert Pike [Pike, Albert]) (z-lib.org).pdf",
+      "pages": 617,
+      "size_bytes": 3015600,
+      "size_formatted": "2.88 MB"
+    },
+    {
+      "name": "Nationalism on the Internet Critical Theory and Ideology in the Age of Social Media and Fake News (Christian Fuchs) (z-lib.org).pdf",
+      "rel_path": "Nationalism on the Internet Critical Theory and Ideology in the Age of Social Media and Fake News (Christian Fuchs) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Nationalism on the Internet Critical Theory and Ideology in the Age of Social Media and Fake News (Christian Fuchs) (z-lib.org).pdf",
+      "pages": 174,
+      "size_bytes": 852326,
+      "size_formatted": "832.3 KB"
+    },
+    {
+      "name": "NATOs Secret Armies Operation Gladio and terrorism in Western Europe (Prados, John Ganser, Daniele) (z-lib.org).pdf",
+      "rel_path": "NATOs Secret Armies Operation Gladio and terrorism in Western Europe (Prados, John Ganser, Daniele) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\NATOs Secret Armies Operation Gladio and terrorism in Western Europe (Prados, John Ganser, Daniele) (z-lib.org).pdf",
+      "pages": 269,
+      "size_bytes": 1181885,
+      "size_formatted": "1.13 MB"
+    },
+    {
+      "name": "Nefes-Ve-Teknikleri.pdf",
+      "rel_path": "Nefes-Ve-Teknikleri.pdf",
+      "full_path": "Converted_PDFs\\Nefes-Ve-Teknikleri.pdf",
+      "pages": 45,
+      "size_bytes": 106678,
+      "size_formatted": "104.2 KB"
+    },
+    {
+      "name": "Network propaganda manipulation, disinformation, and radicalization in American politics (Yochai BENKLER, Robert FARIS, Hal ROBERTS) (z-lib.org).pdf",
+      "rel_path": "Network propaganda manipulation, disinformation, and radicalization in American politics (Yochai BENKLER, Robert FARIS, Hal ROBERTS) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Network propaganda manipulation, disinformation, and radicalization in American politics (Yochai BENKLER, Robert FARIS, Hal ROBERTS) (z-lib.org).pdf",
+      "pages": 250,
+      "size_bytes": 1220484,
+      "size_formatted": "1.16 MB"
+    },
+    {
+      "name": "One Hundred Unorthodox Strategies Battle And Tactics of Chinese Warfare (Ralph D. Sawyer) (z-lib.org).pdf",
+      "rel_path": "One Hundred Unorthodox Strategies Battle And Tactics of Chinese Warfare (Ralph D. Sawyer) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\One Hundred Unorthodox Strategies Battle And Tactics of Chinese Warfare (Ralph D. Sawyer) (z-lib.org).pdf",
+      "pages": 162,
+      "size_bytes": 775780,
+      "size_formatted": "757.6 KB"
+    },
+    {
+      "name": "Open Source Intelligence Glossary Guide to Keywords, Phrases for Improved Internet Research Results (Crowder, Nicholas) (z-lib.org).pdf",
+      "rel_path": "Open Source Intelligence Glossary Guide to Keywords, Phrases for Improved Internet Research Results (Crowder, Nicholas) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Open Source Intelligence Glossary Guide to Keywords, Phrases for Improved Internet Research Results (Crowder, Nicholas) (z-lib.org).pdf",
+      "pages": 49,
+      "size_bytes": 240486,
+      "size_formatted": "234.8 KB"
+    },
+    {
+      "name": "Open Source Intelligence Methods and Tools A Practical Guide to Online Intelligence (Nihad A. Hassan, Rami Hijazi) (z-lib.org).pdf",
+      "rel_path": "Open Source Intelligence Methods and Tools A Practical Guide to Online Intelligence (Nihad A. Hassan, Rami Hijazi) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Open Source Intelligence Methods and Tools A Practical Guide to Online Intelligence (Nihad A. Hassan, Rami Hijazi) (z-lib.org).pdf",
+      "pages": 124,
+      "size_bytes": 607341,
+      "size_formatted": "593.1 KB"
+    },
+    {
+      "name": "Operation Gladio The Unholy Alliance between the Vatican, the CIA, and the Mafia (Paul L. Williams) (z-lib.org).pdf",
+      "rel_path": "Operation Gladio The Unholy Alliance between the Vatican, the CIA, and the Mafia (Paul L. Williams) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Operation Gladio The Unholy Alliance between the Vatican, the CIA, and the Mafia (Paul L. Williams) (z-lib.org).pdf",
+      "pages": 191,
+      "size_bytes": 928254,
+      "size_formatted": "906.5 KB"
+    },
+    {
+      "name": "Peygamber Efendimizin Dilinden Faziletli Dualar (Aydüz Davut) (z-lib.org).pdf",
+      "rel_path": "Peygamber Efendimizin Dilinden Faziletli Dualar (Aydüz Davut) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Peygamber Efendimizin Dilinden Faziletli Dualar (Aydüz Davut) (z-lib.org).pdf",
+      "pages": 99,
+      "size_bytes": 479572,
+      "size_formatted": "468.3 KB"
+    },
+    {
+      "name": "Political Turbulence How Social Media Shape Collective Action (Helen Margetts, Peter John, Scott Hale etc.) (z-lib.org).pdf",
+      "rel_path": "Political Turbulence How Social Media Shape Collective Action (Helen Margetts, Peter John, Scott Hale etc.) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Political Turbulence How Social Media Shape Collective Action (Helen Margetts, Peter John, Scott Hale etc.) (z-lib.org).pdf",
+      "pages": 138,
+      "size_bytes": 670750,
+      "size_formatted": "655.0 KB"
+    },
+    {
+      "name": "Project 2025-MandateF or Leadership.pdf",
+      "rel_path": "Project 2025-MandateF or Leadership.pdf",
+      "full_path": "Converted_PDFs\\Project 2025-MandateF or Leadership.pdf",
+      "pages": 674,
+      "size_bytes": 3298730,
+      "size_formatted": "3.15 MB"
+    },
+    {
+      "name": "Protests in the Information Age Social Movements, Digital Practices and Surveillance (Lucas Melgaço, Jeffrey Monaghan) (z-lib.org).pdf",
+      "rel_path": "Protests in the Information Age Social Movements, Digital Practices and Surveillance (Lucas Melgaço, Jeffrey Monaghan) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Protests in the Information Age Social Movements, Digital Practices and Surveillance (Lucas Melgaço, Jeffrey Monaghan) (z-lib.org).pdf",
+      "pages": 123,
+      "size_bytes": 603663,
+      "size_formatted": "589.5 KB"
+    },
+    {
+      "name": "Psikolojik Manipülasyon.pdf",
+      "rel_path": "Psikolojik Manipülasyon.pdf",
+      "full_path": "Converted_PDFs\\Psikolojik Manipülasyon.pdf",
+      "pages": 8,
+      "size_bytes": 36723,
+      "size_formatted": "35.9 KB"
+    },
+    {
+      "name": "pure_python_test.pdf",
+      "rel_path": "pure_python_test.pdf",
+      "full_path": "Converted_PDFs\\pure_python_test.pdf",
+      "pages": 1,
+      "size_bytes": 620,
+      "size_formatted": "620 B"
+    },
+    {
+      "name": "Rule by Secrecy The Hidden History that Connects the Trilateral Commission, the Freemasons  the Great Pyramids (Jim Marrs) (z-lib.org) (1).pdf",
+      "rel_path": "Rule by Secrecy The Hidden History that Connects the Trilateral Commission, the Freemasons  the Great Pyramids (Jim Marrs) (z-lib.org) (1).pdf",
+      "full_path": "Converted_PDFs\\Rule by Secrecy The Hidden History that Connects the Trilateral Commission, the Freemasons  the Great Pyramids (Jim Marrs) (z-lib.org) (1).pdf",
+      "pages": 241,
+      "size_bytes": 1176804,
+      "size_formatted": "1.12 MB"
+    },
+    {
+      "name": "Savaş ve Barış-Tolstoy.pdf",
+      "rel_path": "Savaş ve Barış-Tolstoy.pdf",
+      "full_path": "Converted_PDFs\\Savaş ve Barış-Tolstoy.pdf",
+      "pages": 722,
+      "size_bytes": 3478977,
+      "size_formatted": "3.32 MB"
+    },
+    {
+      "name": "Scarlet and the Beast A History of the War Between English and French Freemasonry (John Daniel) (z-lib.org).pdf",
+      "rel_path": "Scarlet and the Beast A History of the War Between English and French Freemasonry (John Daniel) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Scarlet and the Beast A History of the War Between English and French Freemasonry (John Daniel) (z-lib.org).pdf",
+      "pages": 420,
+      "size_bytes": 2052590,
+      "size_formatted": "1.96 MB"
+    },
+    {
+      "name": "Secret Practices of the Sufi Freemasons The Islamic Teachings at the Heart of Alchemy (Rudolf von Sebottendorff) (z-lib.org) (1).pdf",
+      "rel_path": "Secret Practices of the Sufi Freemasons The Islamic Teachings at the Heart of Alchemy (Rudolf von Sebottendorff) (z-lib.org) (1).pdf",
+      "full_path": "Converted_PDFs\\Secret Practices of the Sufi Freemasons The Islamic Teachings at the Heart of Alchemy (Rudolf von Sebottendorff) (z-lib.org) (1).pdf",
+      "pages": 39,
+      "size_bytes": 185704,
+      "size_formatted": "181.4 KB"
+    },
+    {
+      "name": "Simdinin-Gucu-Tolle-Eckhart.pdf",
+      "rel_path": "Simdinin-Gucu-Tolle-Eckhart.pdf",
+      "full_path": "Converted_PDFs\\Simdinin-Gucu-Tolle-Eckhart.pdf",
+      "pages": 89,
+      "size_bytes": 429840,
+      "size_formatted": "419.8 KB"
+    },
+    {
+      "name": "Social Movements An Introduction (Donatella Della Porta, Mario Diani) (z-lib.org) (1).pdf",
+      "rel_path": "Social Movements An Introduction (Donatella Della Porta, Mario Diani) (z-lib.org) (1).pdf",
+      "full_path": "Converted_PDFs\\Social Movements An Introduction (Donatella Della Porta, Mario Diani) (z-lib.org) (1).pdf",
+      "pages": 252,
+      "size_bytes": 1231522,
+      "size_formatted": "1.17 MB"
+    },
+    {
+      "name": "Social Movements The Structure of Collective Mobilization (Paul Almeida) (z-lib.org).pdf",
+      "rel_path": "Social Movements The Structure of Collective Mobilization (Paul Almeida) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Social Movements The Structure of Collective Mobilization (Paul Almeida) (z-lib.org).pdf",
+      "pages": 128,
+      "size_bytes": 623044,
+      "size_formatted": "608.4 KB"
+    },
+    {
+      "name": "Suç ve Ceza Hasan Ali Yücel Klasikler (Fyodor Mihayloviç Dostoyevski) (z-lib.org).pdf",
+      "rel_path": "Suç ve Ceza Hasan Ali Yücel Klasikler (Fyodor Mihayloviç Dostoyevski) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Suç ve Ceza Hasan Ali Yücel Klasikler (Fyodor Mihayloviç Dostoyevski) (z-lib.org).pdf",
+      "pages": 291,
+      "size_bytes": 1412342,
+      "size_formatted": "1.35 MB"
+    },
+    {
+      "name": "Ted Gibi Konuş (Gallo Carmine) (z-lib.org) (1).pdf",
+      "rel_path": "Ted Gibi Konuş (Gallo Carmine) (z-lib.org) (1).pdf",
+      "full_path": "Converted_PDFs\\Ted Gibi Konuş (Gallo Carmine) (z-lib.org) (1).pdf",
+      "pages": 98,
+      "size_bytes": 476458,
+      "size_formatted": "465.3 KB"
+    },
+    {
+      "name": "Tehlikeli Oyunlar (Oğuz Atay).pdf",
+      "rel_path": "Tehlikeli Oyunlar (Oğuz Atay).pdf",
+      "full_path": "Converted_PDFs\\Tehlikeli Oyunlar (Oğuz Atay).pdf",
+      "pages": 199,
+      "size_bytes": 971977,
+      "size_formatted": "949.2 KB"
+    },
+    {
+      "name": "That Religion in Which All Men Agree freemasonry in American culture (FreemasonsHackett, David G) (z-lib.org).pdf",
+      "rel_path": "That Religion in Which All Men Agree freemasonry in American culture (FreemasonsHackett, David G) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\That Religion in Which All Men Agree freemasonry in American culture (FreemasonsHackett, David G) (z-lib.org).pdf",
+      "pages": 202,
+      "size_bytes": 986309,
+      "size_formatted": "963.2 KB"
+    },
+    {
+      "name": "The 33 Strategies of War (Robert Greene) (z-lib.org).pdf",
+      "rel_path": "The 33 Strategies of War (Robert Greene) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The 33 Strategies of War (Robert Greene) (z-lib.org).pdf",
+      "pages": 352,
+      "size_bytes": 1711509,
+      "size_formatted": "1.63 MB"
+    },
+    {
+      "name": "The 36 strategies of the martial arts  the classic Chinese guide for success in war, business, and life (Moriya, Hiroshi Wilson, William Scott) (z-lib.org).pdf",
+      "rel_path": "The 36 strategies of the martial arts  the classic Chinese guide for success in war, business, and life (Moriya, Hiroshi Wilson, William Scott) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The 36 strategies of the martial arts  the classic Chinese guide for success in war, business, and life (Moriya, Hiroshi Wilson, William Scott) (z-lib.org).pdf",
+      "pages": 64,
+      "size_bytes": 304798,
+      "size_formatted": "297.7 KB"
+    },
+    {
+      "name": "The Art of War (Sun Tzu) (z-lib.org).pdf",
+      "rel_path": "The Art of War (Sun Tzu) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Art of War (Sun Tzu) (z-lib.org).pdf",
+      "pages": 16,
+      "size_bytes": 72714,
+      "size_formatted": "71.0 KB"
+    },
+    {
+      "name": "The art of war = [Sunzi bing fa] (Sunzi Ralph D Sawyer Mei-chün Sawyer) (z-lib.org).pdf",
+      "rel_path": "The art of war = [Sunzi bing fa] (Sunzi Ralph D Sawyer Mei-chün Sawyer) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The art of war = [Sunzi bing fa] (Sunzi Ralph D Sawyer Mei-chün Sawyer) (z-lib.org).pdf",
+      "pages": 161,
+      "size_bytes": 783426,
+      "size_formatted": "765.1 KB"
+    },
+    {
+      "name": "The Art of War Complete Texts and Commentaries (Sun Tzu, Thomas Cleary) (z-lib.org).pdf",
+      "rel_path": "The Art of War Complete Texts and Commentaries (Sun Tzu, Thomas Cleary) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Art of War Complete Texts and Commentaries (Sun Tzu, Thomas Cleary) (z-lib.org).pdf",
+      "pages": 198,
+      "size_bytes": 954143,
+      "size_formatted": "931.8 KB"
+    },
+    {
+      "name": "The autobiography of Harry S. Truman (Harry S. Truman, Robert H. Ferrell) (z-lib.org).pdf",
+      "rel_path": "The autobiography of Harry S. Truman (Harry S. Truman, Robert H. Ferrell) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The autobiography of Harry S. Truman (Harry S. Truman, Robert H. Ferrell) (z-lib.org).pdf",
+      "pages": 1,
+      "size_bytes": 677,
+      "size_formatted": "677 B"
+    },
+    {
+      "name": "The citizen marketer  promoting political opinion in the social media age (Penney, Joel) (z-lib.org).pdf",
+      "rel_path": "The citizen marketer  promoting political opinion in the social media age (Penney, Joel) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The citizen marketer  promoting political opinion in the social media age (Penney, Joel) (z-lib.org).pdf",
+      "pages": 180,
+      "size_bytes": 879291,
+      "size_formatted": "858.7 KB"
+    },
+    {
+      "name": "The Facts on the Masonic Lodge ( etc.) (z-lib.org).pdf",
+      "rel_path": "The Facts on the Masonic Lodge ( etc.) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Facts on the Masonic Lodge ( etc.) (z-lib.org).pdf",
+      "pages": 30,
+      "size_bytes": 141415,
+      "size_formatted": "138.1 KB"
+    },
+    {
+      "name": "The Freemasons in America Inside the Secret Society (H. Paul Jeffers) (z-lib.org).pdf",
+      "rel_path": "The Freemasons in America Inside the Secret Society (H. Paul Jeffers) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Freemasons in America Inside the Secret Society (H. Paul Jeffers) (z-lib.org).pdf",
+      "pages": 102,
+      "size_bytes": 491537,
+      "size_formatted": "480.0 KB"
+    },
+    {
+      "name": "The Illuminati Facts and Fiction (Mark Dice) (z-lib.org).pdf",
+      "rel_path": "The Illuminati Facts and Fiction (Mark Dice) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Illuminati Facts and Fiction (Mark Dice) (z-lib.org).pdf",
+      "pages": 168,
+      "size_bytes": 817086,
+      "size_formatted": "797.9 KB"
+    },
+    {
+      "name": "The Israel Lobby and U.S. Foreign Policy (John J. Mearsheimer, Stephen M. Walt) (z-lib.org).pdf",
+      "rel_path": "The Israel Lobby and U.S. Foreign Policy (John J. Mearsheimer, Stephen M. Walt) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Israel Lobby and U.S. Foreign Policy (John J. Mearsheimer, Stephen M. Walt) (z-lib.org).pdf",
+      "pages": 1,
+      "size_bytes": 4746,
+      "size_formatted": "4.6 KB"
+    },
+    {
+      "name": "The Jewish State (Theodor Herzl) (z-lib.org).pdf",
+      "rel_path": "The Jewish State (Theodor Herzl) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Jewish State (Theodor Herzl) (z-lib.org).pdf",
+      "pages": 38,
+      "size_bytes": 181394,
+      "size_formatted": "177.1 KB"
+    },
+    {
+      "name": "The Jews And Modern Capitalism (Sombart, Werner) (z-lib.org).pdf",
+      "rel_path": "The Jews And Modern Capitalism (Sombart, Werner) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Jews And Modern Capitalism (Sombart, Werner) (z-lib.org).pdf",
+      "pages": 170,
+      "size_bytes": 828182,
+      "size_formatted": "808.8 KB"
+    },
+    {
+      "name": "The Jews in Britain A Chronology (Frank Raphael Langham) (z-lib.org).pdf",
+      "rel_path": "The Jews in Britain A Chronology (Frank Raphael Langham) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Jews in Britain A Chronology (Frank Raphael Langham) (z-lib.org).pdf",
+      "pages": 73,
+      "size_bytes": 355203,
+      "size_formatted": "346.9 KB"
+    },
+    {
+      "name": "The Jews of France A History from Antiquity to the Present. (Esther Benbassa, M. B. Debevoise) (z-lib.org).pdf",
+      "rel_path": "The Jews of France A History from Antiquity to the Present. (Esther Benbassa, M. B. Debevoise) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Jews of France A History from Antiquity to the Present. (Esther Benbassa, M. B. Debevoise) (z-lib.org).pdf",
+      "pages": 191,
+      "size_bytes": 932804,
+      "size_formatted": "910.9 KB"
+    },
+    {
+      "name": "The Jews of Ottoman Izmir A Modern History (Dina Danon) (z-lib.org).pdf",
+      "rel_path": "The Jews of Ottoman Izmir A Modern History (Dina Danon) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Jews of Ottoman Izmir A Modern History (Dina Danon) (z-lib.org).pdf",
+      "pages": 139,
+      "size_bytes": 677260,
+      "size_formatted": "661.4 KB"
+    },
+    {
+      "name": "The Key to Solomons Key Is This the Lost Symbol of Masonry (Lon Milo DuQuette) (z-lib.org).pdf",
+      "rel_path": "The Key to Solomons Key Is This the Lost Symbol of Masonry (Lon Milo DuQuette) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Key to Solomons Key Is This the Lost Symbol of Masonry (Lon Milo DuQuette) (z-lib.org).pdf",
+      "pages": 81,
+      "size_bytes": 393316,
+      "size_formatted": "384.1 KB"
+    },
+    {
+      "name": "The Last Supper (Philip Willan) (z-lib.org).pdf",
+      "rel_path": "The Last Supper (Philip Willan) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Last Supper (Philip Willan) (z-lib.org).pdf",
+      "pages": 168,
+      "size_bytes": 814039,
+      "size_formatted": "795.0 KB"
+    },
+    {
+      "name": "The Lost Keys of Freemasonry (Hall, Manly P) (z-lib.org).pdf",
+      "rel_path": "The Lost Keys of Freemasonry (Hall, Manly P) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Lost Keys of Freemasonry (Hall, Manly P) (z-lib.org).pdf",
+      "pages": 36,
+      "size_bytes": 171250,
+      "size_formatted": "167.2 KB"
+    },
+    {
+      "name": "The Masonic Myth (Jay Kinney) (z-lib.org).pdf",
+      "rel_path": "The Masonic Myth (Jay Kinney) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Masonic Myth (Jay Kinney) (z-lib.org).pdf",
+      "pages": 125,
+      "size_bytes": 606517,
+      "size_formatted": "592.3 KB"
+    },
+    {
+      "name": "The Rise of the Mafia. The Definitive Story of Organised Crime (Martin Short) (z-lib.org).pdf",
+      "rel_path": "The Rise of the Mafia. The Definitive Story of Organised Crime (Martin Short) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Rise of the Mafia. The Definitive Story of Organised Crime (Martin Short) (z-lib.org).pdf",
+      "pages": 223,
+      "size_bytes": 1082567,
+      "size_formatted": "1.03 MB"
+    },
+    {
+      "name": "The Second Messiah Templars, the Turin Shroud and the Great Secret of Freemasonry (Christopher Knight, Robert Lomas) (z-lib.org).pdf",
+      "rel_path": "The Second Messiah Templars, the Turin Shroud and the Great Secret of Freemasonry (Christopher Knight, Robert Lomas) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Second Messiah Templars, the Turin Shroud and the Great Secret of Freemasonry (Christopher Knight, Robert Lomas) (z-lib.org).pdf",
+      "pages": 133,
+      "size_bytes": 647003,
+      "size_formatted": "631.8 KB"
+    },
+    {
+      "name": "The Secret History of Freemasonry Its Origins and Connection to the Knights Templar (Naudon, Paul) (z-lib.org).pdf",
+      "rel_path": "The Secret History of Freemasonry Its Origins and Connection to the Knights Templar (Naudon, Paul) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Secret History of Freemasonry Its Origins and Connection to the Knights Templar (Naudon, Paul) (z-lib.org).pdf",
+      "pages": 154,
+      "size_bytes": 750027,
+      "size_formatted": "732.4 KB"
+    },
+    {
+      "name": "The Secrets of Freemasonry (Robert Lomas) (z-lib.org).pdf",
+      "rel_path": "The Secrets of Freemasonry (Robert Lomas) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Secrets of Freemasonry (Robert Lomas) (z-lib.org).pdf",
+      "pages": 161,
+      "size_bytes": 779790,
+      "size_formatted": "761.5 KB"
+    },
+    {
+      "name": "The Secrets of Solomon s Temple Discover the Hidden Truth that Lies at the Heart of Freemasonry (Unknown) (z-lib.org).pdf",
+      "rel_path": "The Secrets of Solomon s Temple Discover the Hidden Truth that Lies at the Heart of Freemasonry (Unknown) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Secrets of Solomon s Temple Discover the Hidden Truth that Lies at the Heart of Freemasonry (Unknown) (z-lib.org).pdf",
+      "pages": 221,
+      "size_bytes": 1078380,
+      "size_formatted": "1.03 MB"
+    },
+    {
+      "name": "The Square and the Tower Networks and Power, from the Freemasons to Facebook (Niall Ferguson) (z-lib.org).pdf",
+      "rel_path": "The Square and the Tower Networks and Power, from the Freemasons to Facebook (Niall Ferguson) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Square and the Tower Networks and Power, from the Freemasons to Facebook (Niall Ferguson) (z-lib.org).pdf",
+      "pages": 275,
+      "size_bytes": 1326248,
+      "size_formatted": "1.26 MB"
+    },
+    {
+      "name": "The Symbolism of Freemasonry (Albert G. Mackey, [Mackey, Albert G.]) (z-lib.org).pdf",
+      "rel_path": "The Symbolism of Freemasonry (Albert G. Mackey, [Mackey, Albert G.]) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Symbolism of Freemasonry (Albert G. Mackey, [Mackey, Albert G.]) (z-lib.org).pdf",
+      "pages": 144,
+      "size_bytes": 698318,
+      "size_formatted": "682.0 KB"
+    },
+    {
+      "name": "The Symbolism of Freemasonry Illustrating and Explaining its Science and Philosophy, its Legends, Myths and Symbols (Mackey, Albert Gallatin) (z-lib.org).pdf",
+      "rel_path": "The Symbolism of Freemasonry Illustrating and Explaining its Science and Philosophy, its Legends, Myths and Symbols (Mackey, Albert Gallatin) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Symbolism of Freemasonry Illustrating and Explaining its Science and Philosophy, its Legends, Myths and Symbols (Mackey, Albert Gallatin) (z-lib.org).pdf",
+      "pages": 144,
+      "size_bytes": 699378,
+      "size_formatted": "683.0 KB"
+    },
+    {
+      "name": "The Templars The History and the Myth From Solomons Temple to the Freemasons (Michael Haag) (z-lib.org).pdf",
+      "rel_path": "The Templars The History and the Myth From Solomons Temple to the Freemasons (Michael Haag) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Templars The History and the Myth From Solomons Temple to the Freemasons (Michael Haag) (z-lib.org).pdf",
+      "pages": 150,
+      "size_bytes": 726517,
+      "size_formatted": "709.5 KB"
+    },
+    {
+      "name": "The Thirty-Six Stratagems A Modern Interpretation Of A Strategy Classic (Peter Taylor) (z-lib.org).pdf",
+      "rel_path": "The Thirty-Six Stratagems A Modern Interpretation Of A Strategy Classic (Peter Taylor) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Thirty-Six Stratagems A Modern Interpretation Of A Strategy Classic (Peter Taylor) (z-lib.org).pdf",
+      "pages": 43,
+      "size_bytes": 202853,
+      "size_formatted": "198.1 KB"
+    },
+    {
+      "name": "The Worlds Most Dangerous Secret Societies The Illuminati, Freemasons, Bilderberg Group, Knights Templar, The Jesuits, Skull... (James Jackson) (z-lib.org).pdf",
+      "rel_path": "The Worlds Most Dangerous Secret Societies The Illuminati, Freemasons, Bilderberg Group, Knights Templar, The Jesuits, Skull... (James Jackson) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\The Worlds Most Dangerous Secret Societies The Illuminati, Freemasons, Bilderberg Group, Knights Templar, The Jesuits, Skull... (James Jackson) (z-lib.org).pdf",
+      "pages": 54,
+      "size_bytes": 258602,
+      "size_formatted": "252.5 KB"
+    },
+    {
+      "name": "Tutunamayanlar (Atay Oğuz) (z-lib.org).pdf",
+      "rel_path": "Tutunamayanlar (Atay Oğuz) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Tutunamayanlar (Atay Oğuz) (z-lib.org).pdf",
+      "pages": 293,
+      "size_bytes": 1425210,
+      "size_formatted": "1.36 MB"
+    },
+    {
+      "name": "Türkiyenin Yakın Tarihi (İlber Ortaylı) (z-lib.org).pdf",
+      "rel_path": "Türkiyenin Yakın Tarihi (İlber Ortaylı) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Türkiyenin Yakın Tarihi (İlber Ortaylı) (z-lib.org).pdf",
+      "pages": 69,
+      "size_bytes": 329630,
+      "size_formatted": "321.9 KB"
+    },
+    {
+      "name": "Ustalık Gerektiren Kafaya Takmama Sanatı (Mark Manson) (z-lib.org).pdf",
+      "rel_path": "Ustalık Gerektiren Kafaya Takmama Sanatı (Mark Manson) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Ustalık Gerektiren Kafaya Takmama Sanatı (Mark Manson) (z-lib.org).pdf",
+      "pages": 75,
+      "size_bytes": 360148,
+      "size_formatted": "351.7 KB"
+    },
+    {
+      "name": "Yahudiler, Dünya ve Para - Yahudi Halkının Ekonomik Tarihi (Jacgues Attali) (z-lib.org).pdf",
+      "rel_path": "Yahudiler, Dünya ve Para - Yahudi Halkının Ekonomik Tarihi (Jacgues Attali) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Yahudiler, Dünya ve Para - Yahudi Halkının Ekonomik Tarihi (Jacgues Attali) (z-lib.org).pdf",
+      "pages": 302,
+      "size_bytes": 1475474,
+      "size_formatted": "1.41 MB"
+    },
+    {
+      "name": "Zengin Baba Yoksul Baba (Robert T. Kiyosaki) (z-lib.org).pdf",
+      "rel_path": "Zengin Baba Yoksul Baba (Robert T. Kiyosaki) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Zengin Baba Yoksul Baba (Robert T. Kiyosaki) (z-lib.org).pdf",
+      "pages": 1,
+      "size_bytes": 770,
+      "size_formatted": "770 B"
+    },
+    {
+      "name": "Zihin Gücüyle İyileşme (Debbie Shapiro) (z-lib.org).pdf",
+      "rel_path": "Zihin Gücüyle İyileşme (Debbie Shapiro) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Zihin Gücüyle İyileşme (Debbie Shapiro) (z-lib.org).pdf",
+      "pages": 124,
+      "size_bytes": 601514,
+      "size_formatted": "587.4 KB"
+    },
+    {
+      "name": "Zihin-Kontrolu-ve-Yonlendirmesi-Us.pdf",
+      "rel_path": "Zihin-Kontrolu-ve-Yonlendirmesi-Us.pdf",
+      "full_path": "Converted_PDFs\\Zihin-Kontrolu-ve-Yonlendirmesi-Us.pdf",
+      "pages": 60,
+      "size_bytes": 289297,
+      "size_formatted": "282.5 KB"
+    },
+    {
+      "name": "Zihni Gelistirmenin 101 Yolu (Rachel Walker) (z-lib.org).pdf",
+      "rel_path": "Zihni Gelistirmenin 101 Yolu (Rachel Walker) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\Zihni Gelistirmenin 101 Yolu (Rachel Walker) (z-lib.org).pdf",
+      "pages": 23,
+      "size_bytes": 98924,
+      "size_formatted": "96.6 KB"
+    },
+    {
+      "name": "~$litical_Game_Theory_Princeton.pdf",
+      "rel_path": "~$litical_Game_Theory_Princeton.pdf",
+      "full_path": "Converted_PDFs\\~$litical_Game_Theory_Princeton.pdf",
+      "pages": 1,
+      "size_bytes": 672,
+      "size_formatted": "672 B"
+    },
+    {
+      "name": "~$me_Theory_Princeton.pdf",
+      "rel_path": "~$me_Theory_Princeton.pdf",
+      "full_path": "Converted_PDFs\\~$me_Theory_Princeton.pdf",
+      "pages": 1,
+      "size_bytes": 662,
+      "size_formatted": "662 B"
+    },
+    {
+      "name": "~$t-Game_Theory_Princeton.pdf",
+      "rel_path": "~$t-Game_Theory_Princeton.pdf",
+      "full_path": "Converted_PDFs\\~$t-Game_Theory_Princeton.pdf",
+      "pages": 1,
+      "size_bytes": 666,
+      "size_formatted": "666 B"
+    },
+    {
+      "name": "İmparatorluğun En Uzun Yüzyılı (İlber Ortaylı [Ortaylı, İlber]) (z-lib.org).pdf",
+      "rel_path": "İmparatorluğun En Uzun Yüzyılı (İlber Ortaylı [Ortaylı, İlber]) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\İmparatorluğun En Uzun Yüzyılı (İlber Ortaylı [Ortaylı, İlber]) (z-lib.org).pdf",
+      "pages": 134,
+      "size_bytes": 655139,
+      "size_formatted": "639.8 KB"
+    },
+    {
+      "name": "İstanbul Yahudi Cemaati’nin Tarihi Oluşum Yılları (1453-1566) (Minna Rozen) (z-lib.org).pdf",
+      "rel_path": "İstanbul Yahudi Cemaati’nin Tarihi Oluşum Yılları (1453-1566) (Minna Rozen) (z-lib.org).pdf",
+      "full_path": "Converted_PDFs\\İstanbul Yahudi Cemaati’nin Tarihi Oluşum Yılları (1453-1566) (Minna Rozen) (z-lib.org).pdf",
+      "pages": 276,
+      "size_bytes": 1350267,
+      "size_formatted": "1.29 MB"
+    }
+  ],
+  "non_pdf_files": [],
+  "fake_header_pdfs": [],
+  "corrupted_pdfs": []
+}

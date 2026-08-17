@@ -1,0 +1,212 @@
+--- Sayfa 2 ---
+Dijital Kültür
+ve
+Fragmanları
+
+--- Sayfa 3 ---
+DORUK / Kültür Çalışmaları
+Dijital Kültür ve Fragmanları
+Editör:
+Dilge Kodak
+Yayıma Hazırlayan:
+Niyazi Koçak
+Kapak Tasarımı:
+Doruk Can Koçak
+Sayfa Tasarımı:
+ademsenel.com
+© Doruk Yayımcılık 2022
+Tüm hakları saklıdır. Kaynak gösterilmeden alıntı yapılamaz.
+Bu kitaptaki görüş, düşünce ve bilimsel değerlendirmeler ile arkeolojik
+eserlerin kullanımının yasal sorumluluğu ilgili yazar/yazarlara aittir.
+ISBN: 978-975-553-964-5
+Baskı: Kasım 2022
+Baskı-Cilt:
+Ertem Basım Yayın Dağıtım San. Ltd. Şti
+Sertifika No: 48083
+e-posta: info@dorukyayinlari.com
+www.dorukyayinlari.com
+Sertifika No: 43738
+
+--- Sayfa 4 ---
+Dijital Kültür
+ve
+Fragmanları
+Editör: Dilge Kodak
+
+--- Sayfa 5 ---
+EDİTÖR HAKKINDA
+2007 yılında Girne Amerikan Üniversitesi Halkla İlişkiler Bölümün-
+den lisans derecesini aldı. 2011 yılında T.C. Maltepe Üniversitesi Sos-
+yal Bilimler Enstitüsü Halkla İlişkiler ve Tanıtım Anabilim Dalın-
+dan yüksek lisans derecesini, 2016 yılında aynı enstitünün İletişim
+Bilimleri Anabilim Dalından doktora derecesini aldı. Dijital iletişim,
+iletişim sosyolojisi, metodoloji akademik çalışma alanları arasında-
+dır. Bu alanlarda ulusal ve uluslararası araştırmaları bulunmakta ve
+dersler vermeye devam etmektedir. Halen İstanbul Ticaret Üniver-
+sitesi İletişim Fakültesi’nde öğretim üyesi olarak görev yapmaktadır.
+
+--- Sayfa 6 ---
+•  5
+İÇİNDEKİLER
+ÖNSÖZ .................................................................................................................. 7
+EDİTÖRÜN ÖNSÖZÜ ............................................................................................ 11
+SİBER ZORBALIĞA BÜTÜNCÜL BİR BAKIŞ ............................................................. 13
+M. Murat Mengü
+DİJİTAL KAMUSAL ALANDA HASHTAG AKTİVİZMİ VE DİJİTAL LİNÇ ........................ 71
+Ece Ünür
+DİJİTAL SAĞLIKLA BİRLİKTE BİREYSELLEŞEN
+SAĞLIK ALGISI ÜZERİNE BİR DEĞERLENDİRME .................................................... 107
+Gökçesu Akşit Dudaklı, Ceren Alkan Üstün
+POST-TRUTH ÇAĞDA DOĞRULAMA PLATFORMLARI ............................................ 135
+Aygül Atay
+“KAYIP GÜZELLİK” KEŞFET! TAKİP ET! PAYLAŞ! .................................................... 161
+Cansu Kösem İşık
+TRANSMEDYA HİKAYECİLİĞİ VE REKLAMCILIK .................................................... 183
+Gülcan Şener
+DİJİTAL TÜKETİCİ VE YOLCULUĞU ........................................................................ 217
+Ezgi Eyüboğlu
+
+--- Sayfa 7 ---
+6  •
+DIJITAL KÜLTÜR VE FRAGMANLARI
+DİJİTAL YERLİLER: DİJİTAL ÇAĞIN YENİ NESİL TÜKETİCİLERİ ................................ 235
+G. Motif Atar
+YOUTUBE VE İKNA: İÇERİK ÜRETİMİNDE RETORİK KULLANIMI ............................ 265
+Enes Dönmez
+SİNEMANIN DİJİTAL ÇAĞINDA FİLMLER ARASI ETKİLEŞİM .................................. 303
+Emre Ahmet Seçmen
+DİJİTAL DÜNYANIN TÜKETİM NESNESİ: SANAT .................................................... 333
+Gürdal Ülger, Nur Gözde Tayfur
+TEKNİK OLANAKLARLA YENİDEN ÜRETİLEBİLEN VE BLOCKCHAIN İLE
+KORUMA ALTINA ALINAN DİJİTAL SANAT YAPITI: NFT ART.................................. 363
+Övünç Ege
+NFT GÖLGESİNDE SANATIN DEĞERİNİ VE MEKÂNINI
+.ARTİMU. İLE YENİDEN OKUMAK:  .................................................................... 389
+Özlem Oğuzhan
+
+--- Sayfa 8 ---
+•  7
+ÖNSÖZ
+Bu çalışmanın sorunsalı olan Dijital Kültür, 4.0 endüstri
+devrimini yaşadığımız bu günlerde küreselleşmeyle tartışıl-
+maya başlanan en önemli konulardan biri olmuştur. Pan-
+demi sürecinde değişen toplumsal davranışlar, kültürel ve
+ekonomik politikalar tüm dünyanın artık yeni bir düzene
+geçiş sürecinde olduğunun göstergeleriydi. Diğer bir de-
+yişle insan- makine dinamikleriyle yeni algoritmalar oluş-
+turulmaya başlandı. Gerçekte dijital kültür olgusu ve onun
+yansımalarından oluşan yeni bir dünya şekillendi. Bu Ma-
+novich’ın aktardığı bir yazılım kültürü veya Striphas’ ın al-
+goritmik kültür anlayışı olabilir. Tüm bu kültürel yaklaşım-
+lar, yıllar içerisinde farklı anahtar sözcüklerle ifade edilseler
+de, her biri biz insanlara günlük yaşamlarımızda kolaylıklar
+sağlamak amacıyla sunulan iletişim araçlarıdır.
+Bu ortak çalışmada katılımcı yazarların bir kısmı diji-
+tal kültürün faydalarından çok toplumsal yaşamımızı olum-
+suz olarak nasıl etkilediğini anlatmaya çalışmışlardır. Örne-
+ğin, bir siber zorba olarak karşımıza çıkmaları halinde yasal
+yaptırımların ancak caydırıcı bir etkisi olabildiğini ve ön-
+lemlerin eylem öncesi alınması gerektiğini belirtmişlerdir.
+Dijital dünyada oluşan Hashtag Getto tehlikesinden uzaklaş-
+mak için bireyin bilinçlendirilmesi veya Dijital Okur Yazar-
+lık eğitimi verilmesini önermişlerdir. Dünya Sağlık Örgütü-
+nün her bireyin sağlık hizmetlerine erişiminin sağlanmasını
+
+--- Sayfa 9 ---
+8  •
+DIJITAL KÜLTÜR VE FRAGMANLARI
+öngörmesine rağmen sosyo-ekonomik eşitsizliklerin büyük
+bir engel olduğunu anlatan diğer bir makalede ise sağlık
+sisteminde dijital dünyada eşitsizlik yarattığı aktarılmıştır.
+Pandemi sürecinde üre-tüketici konumuna geçen kul-
+lanıcının Post-truth çağda bir haber kaynağı haline gelerek
+ve dezenformasyon oluşturarak insanları nasıl polarize et-
+tiklerini anlatan makalede günümüz dijital dünyasının bu
+önemli sorunu irdelenmiştir.
+Birey farkında olmadan Maddi Olmayan Emek ürete-
+rek, sermaye lehine yeniden üretim yaparak kapitalist sis-
+temin bir parçası haline gelir. Diğer bir makalede ise birey
+sanal ilişkiler içerisinde özne olarak kullanıldığında “gü-
+zellik” olgusunun nasıl bir tüketim aracına dönüştüğü an-
+latılmaktadır.
+Transmedya sürecinde her platformda kendine özgü bir
+hikâye anlatılarak tüketiciyle buluşma gayreti dijital kültürle
+gelen bir diğer yeni olgudur. Tüketicinin dijitalleşme ile sı-
+nırsız bir enformasyona ulaşması ve karar verme anının de-
+ğişmesi de bir başka önemli bir sorunsaldır.
+Aslında günümüzde yeni oluşan yeni bir insandan bah-
+sedebiliriz Teknolojiyi yakında takip eden, sürekli içerik üre-
+ten, büyük veriyi sorgulayan dijital yerliler, diğer bir deyişle
+araştırmacı bir Alfa kuşağı geliyor. İçerik üreticilerinin ikna
+çalışmalarında kullandıkları retoriklerin ne kadar etkili oldu-
+ğunu anlatan makale bu kitabın önemli başlıklarından biri.
+Kitabın sonunda yer alan üç makale çok güncel bir konu
+olan NFT’yi ele almıştır. Dijital kültürün oluşturduğu yeni
+sanat anlayışı ile birlikte yapay zeka, kripto para, sanal ger-
+çeklik, NFT gibi yeni anahtar kavramların irdelendiği ilk
+makalede sanatın Alfa kuşağının elinde yok olma ihtimali
+aktarılıyor. İkinci çalışmada yazar, Walter Benjamin’in bu-
+gün yaşıyor olsaydı NFT ‘lerin hakiki birer sanat eseri olarak
+
+--- Sayfa 10 ---
+•  9
+ÖNSÖZ
+kabul edebilme ihtimalini tartışmaya açıyor. Bu kitabın en
+son makalesinde ise sanat yapıtının estetik ve ekonomik de-
+ğerinin dolaşıma girdiği araç ve mekanla doğrudan bir iliş-
+kisi olduğu belirtiliyor.
+Dijitalleşmenin sağlıktan iletişime, pazarlama teknikle-
+rinden sanata kadar her alanda etkilerinin olduğu, dolayısı
+ile yaşamlarımızı doğrudan ilgilendirdiği yadsınamaz bir
+gerçeklik. Genç akademisyenlerin konulara ilişkin hakimi-
+yetlerini ifade eden geniş kapsamlı ve akademik değeri yük-
+sek 13 makaleden oluşan bu kitabın, alana ilgi duyan herke-
+sin yararlanabileceği bir kaynak olduğunu belirtmek isterim.
+Başta kitabın editörlüğünü yapan Dr. Dilge Kodak olmak
+üzere çalışmaya katkıda bulunan herkesin emeğine sağlık.
+Prof. Dr. Gül BATUŞ
+
+--- Sayfa 12 ---
+•  11
+EDİTÖRÜN ÖNSÖZÜ
+Son yirmi yılın en merkezi tartışmalarından biri dijital-
+leşme. Teknolojik gelişmelerin toplumsal yapıları bu denli
+güçlü ve hızlı bir şekilde dönüştürdüğü bu çağa yakından
+tanıklık ediyoruz. Dijitalleşmenin yeni bir kültürel dil ya-
+rattığı ve çok sayıda alışkanlığı değiştirdiği yadsınamaz bir
+gerçek. Bu ölçüde bir değişim sürerken, dijitalleşmenin bir
+devrim mi yoksa bir evrim mi olduğu tartışmalarına da ay-
+rıca eşlik etmekteyiz. Dijitalleşme, tarihsel olarak henüz çok
+kısa bir zaman dilimini refere etse de, şimdiden çok kap-
+samlı, çok sesli ve türetilmeye elverişli küresel bir alanya-
+zına sahip durumda. Dijitalleşme sürecini ve beraberinde
+getirdiği kültürel kodları yıllar içerisinde hep avantaj ve de-
+zavantajları ile birlikte düşündüm. Bu denli bir hızla geli-
+şirken, eş zamanlı olarak karşısındakini ve/veya içindekini
+dönüştürebilme gücüne sahip olan bu süreç karşısında, söz
+konusu avantaj ve dezavantajların da merkezsizleştiğini far-
+kettim. Daha da önemlisi merkezsizlikle sonuçlanan bu ve
+benzeri süreçlerin küresel bir olguya dönüştüğü gerçeği üze-
+rinde düşünmeye başladım.
+Dijitalleşme hem kültürel hem de tarihsel olarak an-
+laşılmayı ve sentezi hak eden, hem kendi içinde sorunlu,
+hem de fırsatlara çevrilebilir, büyük çıktıları olan bir alan.
+Bu nedenle beraberinde getirdiği pratikler, davranış kalıp-
+ları, yeni sistem ve modeller, anlayışlar, riskler, kolaylıklar,
+
+--- Sayfa 13 ---
+12  •
+DIJITAL KÜLTÜR VE FRAGMANLARI
+zorluklar ve daha nice kavram ve durumların, tek bir ya-
+zar tarafından, tek bir çalışmada hakkının verilemeyece-
+ğini düşündüm. Bu çalışmada amaçladığım şey; dijitalleşme
+gibi kendi içinde majör çelişkileri ve pozitif sahaları ile aynı
+anda büyümeye ve gelişmeye devam eden bir süreci, alan-
+larında uzman bilim insanlarının gözünden, fikrinden ve
+kaleminden göstermeye ve anlatmaya çalışmak. Bu kitapta
+benimle yol alan hocalarıma, meslektaşlarıma ve öğrencile-
+rime en içten teşekkürlerimi sunarım. Henüz çok genç ol-
+masına rağmen, şimdiden oldukça yoğun olan alanyazına
+katkıda bulunması dileği ile.
+Dilge KODAK
+ İstanbul, 2022

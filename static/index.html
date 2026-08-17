@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="tr" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DiamondLibrary - Kitap & İçerik Arama Motoru</title>
+    <meta name="description" content="DiamondLibrary: 1.913 PDF ve EPUB kitap içinde milisaniyeler seviyesinde tam metin, yazar ve başlık araması yapabilen yüksek hızlı dijital kütüphane arama motoru.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Background Glow Elements -->
+    <div class="bg-glow bg-glow-1"></div>
+    <div class="bg-glow bg-glow-2"></div>
+
+    <!-- Header Navbar -->
+    <header class="navbar">
+        <div class="nav-container">
+            <div class="brand" id="brandLogo" title="DiamondLibrary Ana Sayfası">
+                <span class="brand-icon">💎</span>
+                <div class="brand-text">
+                    <span class="brand-title">Diamond<span class="gradient-text">Library</span></span>
+                    <span class="brand-badge">FTS5 Hızlı Motor</span>
+                </div>
+            </div>
+
+            <div class="nav-actions">
+                <button class="nav-tab active" id="tabSearch">🔍 Arama</button>
+                <button class="nav-tab" id="tabCatalog">📖 Kitaplık (<span id="navBookCount">1.913</span>)</button>
+                <button class="theme-toggle" id="themeToggle" title="Tema Değiştir (Gece/Gündüz)">
+                    <span class="theme-icon" id="themeIcon">☀️</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="main-content">
+
+        <!-- HERO SECTION (SEARCH VIEW) -->
+        <section class="hero-section" id="searchHeroSection">
+            <div class="hero-badge">💎 DiamondLibrary &bull; 120 Milyon Kelimelik Arşivde Milisaniyelik Arama</div>
+            <h1 class="hero-title">Kitapların İçinde <span class="gradient-text">Tam Metin</span> Arayın</h1>
+            <p class="hero-subtitle">1.913 adet PDF ve EPUB kitabın 429.308 sayfası içinde kelime, cümle ve kavramları anında keşfedin.</p>
+
+            <!-- Search Box Card -->
+            <div class="search-box-card">
+                <div class="search-input-wrapper">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="searchInput" class="search-input" placeholder="DiamondLibrary içinde kitap veya kelime arayın..." autofocus autocomplete="off">
+                    <button class="clear-btn" id="clearSearchBtn" title="Temizle">✕</button>
+                    <button class="search-action-btn" id="searchSubmitBtn">Ara</button>
+                </div>
+
+                <!-- Search Scope Pills -->
+                <div class="search-controls">
+                    <div class="scope-group" id="scopeGroup">
+                        <button class="scope-btn active" data-scope="all">⚡ Tüm Metinlerde Ara</button>
+                        <button class="scope-btn" data-scope="title">📖 Kitap Adı</button>
+                        <button class="scope-btn" data-scope="author">✍️ Yazar Adı</button>
+                        <button class="scope-btn" data-scope="exact">🎯 Birebir İfade (" ")</button>
+                    </div>
+
+                    <div class="format-filter-group" id="formatGroup">
+                        <button class="format-btn active" data-format="">Tümü</button>
+                        <button class="format-btn" data-format="PDF">PDF</button>
+                        <button class="format-btn" data-format="EPUB">EPUB</button>
+                    </div>
+                </div>
+
+                <!-- Keyboard Shortcut Hint -->
+                <div class="search-hint">
+                    <span>💡 İpucu: Aramaya odaklanmak için <kbd>Ctrl</kbd> + <kbd>K</kbd> veya <kbd>/</kbd> tuşuna basın.</span>
+                </div>
+            </div>
+
+            <!-- Stats Bar -->
+            <div class="stats-bar" id="statsBar">
+                <div class="stat-card">
+                    <div class="stat-num" id="statBooks">1.913</div>
+                    <div class="stat-label">Toplam Kitap</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-num" id="statPages">429.308</div>
+                    <div class="stat-label">İndekslenen Sayfa</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-num" id="statWords">119.7 M</div>
+                    <div class="stat-label">Kelime Havuzu</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-num stat-highlight" id="statSpeed">&lt; 20 ms</div>
+                    <div class="stat-label">Ortalama Yanıt Hızı</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEARCH RESULTS CONTAINER -->
+        <section class="results-section" id="resultsSection" style="display: none;">
+            <div class="results-header">
+                <div class="results-meta">
+                    <span class="results-count" id="resultsCount">0 sonuç bulundu</span>
+                    <span class="results-time" id="resultsTime">⚡ 0 ms</span>
+                </div>
+                <div class="results-actions">
+                    <button class="btn-secondary btn-sm" id="btnBackToHero">← Yeni Arama</button>
+                </div>
+            </div>
+
+            <!-- Loading Spinner -->
+            <div class="loading-state" id="loadingState" style="display: none;">
+                <div class="spinner"></div>
+                <p>DiamondLibrary arşivinde milyonlarca sayfa taranıyor...</p>
+            </div>
+
+            <!-- Empty State -->
+            <div class="empty-state" id="emptyState" style="display: none;">
+                <div class="empty-icon">📂</div>
+                <h3>Eşleşen Sonuç Bulunamadı</h3>
+                <p>Aradığınız kelime veya ifade DiamondLibrary indeksinde bulunamadı. Farklı bir kelime deneyin veya arama kapsamını değiştirin.</p>
+            </div>
+
+            <!-- Results List Grid -->
+            <div class="results-list" id="resultsList"></div>
+
+            <!-- Pagination Bar -->
+            <div class="pagination-bar" id="paginationBar" style="display: none;">
+                <button class="page-btn" id="prevPageBtn">← Önceki</button>
+                <span class="page-info" id="pageInfo">Sayfa 1 / 1</span>
+                <button class="page-btn" id="nextPageBtn">Sonraki →</button>
+            </div>
+        </section>
+
+        <!-- CATALOG / BROWSE SECTION -->
+        <section class="catalog-section" id="catalogSection" style="display: none;">
+            <div class="catalog-header">
+                <div>
+                    <h2>💎 DiamondLibrary Kitap Kataloğu</h2>
+                    <p>Sistemde kayıtlı ve tam metin olarak taranabilen 1.913 kitabın tamamı</p>
+                </div>
+                <div class="catalog-search-box">
+                    <input type="text" id="catalogFilterInput" placeholder="Katalogda filtrele...">
+                </div>
+            </div>
+
+            <div class="catalog-grid" id="catalogGrid"></div>
+
+            <div class="pagination-bar" id="catalogPaginationBar">
+                <button class="page-btn" id="catPrevBtn">← Önceki</button>
+                <span class="page-info" id="catPageInfo">Sayfa 1 / 80</span>
+                <button class="page-btn" id="catNextBtn">Sonraki →</button>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- IN-APP READER MODAL -->
+    <div class="modal-overlay" id="readerModal" style="display: none;">
+        <div class="modal-container reader-modal-container">
+            <!-- Reader Header -->
+            <div class="reader-header">
+                <div class="reader-book-info">
+                    <span class="reader-badge" id="readerFormatBadge">PDF</span>
+                    <div>
+                        <h3 class="reader-title" id="readerBookTitle">Kitap Başlığı</h3>
+                        <p class="reader-author" id="readerBookAuthor">Yazar Adı</p>
+                    </div>
+                </div>
+
+                <div class="reader-controls">
+                    <!-- Theme Selector -->
+                    <div class="reader-theme-group">
+                        <button class="reader-theme-btn active" data-reader-theme="dark" title="Koyu Mod">🌙</button>
+                        <button class="reader-theme-btn" data-reader-theme="sepia" title="Kitap Kağıdı (Sepia)">📜</button>
+                        <button class="reader-theme-btn" data-reader-theme="light" title="Açık Mod">☀️</button>
+                    </div>
+
+                    <!-- Font Sizer -->
+                    <div class="font-size-group">
+                        <button class="font-btn" id="fontDecBtn" title="Yazıyı Küçült">A-</button>
+                        <button class="font-btn" id="fontIncBtn" title="Yazıyı Büyüt">A+</button>
+                    </div>
+
+                    <!-- Close Modal -->
+                    <button class="modal-close-btn" id="closeReaderBtn" title="Kapat">✕</button>
+                </div>
+            </div>
+
+            <!-- Reader Body -->
+            <div class="reader-body" id="readerBody" data-theme="dark">
+                <div class="reader-content" id="readerContent">
+                    Yükleniyor...
+                </div>
+            </div>
+
+            <!-- Reader Footer Bar -->
+            <div class="reader-footer">
+                <button class="page-nav-btn" id="readerPrevPageBtn">← Önceki Sayfa</button>
+                
+                <div class="reader-page-jump">
+                    <span>Sayfa</span>
+                    <input type="number" id="readerPageInput" min="1" max="9999" value="1">
+                    <span>/ <span id="readerTotalPages">100</span></span>
+                    <button class="btn-sm btn-primary" id="readerJumpBtn">Git</button>
+                </div>
+
+                <div class="reader-footer-actions">
+                    <button class="btn-sm btn-secondary" id="readerCopyBtn">📋 Metni Kopyala</button>
+                    <button class="page-nav-btn" id="readerNextPageBtn">Sonraki Sayfa →</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-container">
+            <p>💎 <strong>DiamondLibrary</strong> &bull; Tam Metin Kitap & İçerik Arama Platformu</p>
+            <p class="footer-sub">&copy; DiamondLibrary &bull; 1.913 Kitap &bull; 429.308 Sayfa &bull; ~120 Milyon Kelime &bull; UTF-8 Türkçe Desteği</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

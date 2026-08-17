@@ -1,0 +1,1600 @@
+--- Sayfa 1 ---
+Akademik Hassasiyetler                                                  The Academic Elegance
+Yıl/Year: 2023                                                                                         Sayı/Issue: 23
+Cilt/Volume: 10                                                                                      Sayfa/Page: 218-248
+Araştırma Makalesi
+Makale Gönderim Tarihi: 04/08/2023
+     Makale Kabul Tarihi: 10/12/2023
+
+HANNAH ARENDT VE İNSAN HAKLARININ ÇIKMAZLARI
+
+Yıldız ÇİRLİ* & Yusuf PUSTU**
+Öz
+İnsan hakları, bütün insanların özgür, onurlu ve haklar bakımından eşit
+doğduklarını ve insan olarak doğdukları için vazgeçilmez haklara sahip olduklarını
+ilan etmektedir. İnsan haklarına dair bu düşünceye karşı en güçlü eleştirinin Hannah
+Arendt tarafından getirildiği söylenebilir. Arendt’in insan hakları eleştirileri, insan
+haklarının ulus devlet içerisindeki çıkmazlarını açığa çıkartır. Arendt, insan
+haklarının insanın sosyal ve siyasal varlığını dikkate almadığını ve ulus-devlet
+çerçevesinde korunmadığını iddia eder. Arendt’e göre insan hakları, insan doğası
+temel alınarak verilmez. Haklar, eşitlik ve özgürlük gibi siyasal bir toplulukta
+kazanılır. Geleneksel insan hakları idealleri, siyasal topluluğunu kaybeden insanların
+hak bildirgelerinde sayılan haklara da sahip olamadığı gerçeğini göz ardı etmektedir.
+Bu makale, Arendt’in esasen azınlık, mülteci ve vatansızların durumundan yola
+çıkarak insan haklarına getirdiği eleştirileri açıklamayı amaçlamaktadır. Bunu
+gerçekleştirmek için Arendt’in eleştirilerini teorik ve siyasal olarak sınıflandırarak
+incelemektedir. Teorik eleştirileri, insan haklarının liberal prensiplerini irdelerken,
+siyasal eleştirileri insan haklarının siyasal anlamına odaklanmaktadır. Makale,
+Arendt'in eleştirilerinin yansımalarını ve güçlü yönlerini ortaya koymak üzere
+Rohingya halkının durumunun tartışılmasıyla son bulmaktadır.
+
+Anahtar Kelimeler: Hannah Arendt, İnsan Hakları, Ulus-Devlet, Rohingya.
+
+HANNAH ARENDT AND PERPLEXITIES OF HUMAN RIGHTS
+
+Abstract
+Human rights declare that all human beings are born free and equal in dignity
+and rights, and that they have inalienable rights by virtue of being born human.
+Hannah Arendt offers one of the most powerful criticisms of human rights. Arendt’s
+analysis of human rights exposes the perplexities of human rights in the nation-state.
+She argues that human rights ignore the social and political existence of human
+beings and have the lack of protection within the system of nation-state. According to
+Arendt, human right are not granted on the grounds of human nature. Rights like
+equality and freedom are produced in a political community. Traditional human
+rights ideals overlook the fact that no rights can be guaranteed when people are
+
+* Doktora Öğrencisi, Ankara Hacı Bayram Veli Üniversitesi, Siyaset Bilimi ve Kamu Yönetimi Bölümü,
+cirliyildiz@gmail.com, https://orcid.org/0000-0003-0720-9782
+** Doç. Dr., Ankara Hacı Bayram Veli Üniversitesi, Siyaset Bilimi ve Kamu Yönetimi Bölümü,
+ypustu@yahoo.com, https://orcid.org/ 0000-0003-2578-3200
+
+--- Sayfa 2 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+219
+deprived of membership in a political community. This study aims to examine Arendt’s
+criticism of human rights mainly based on situation of the minorities, refugees and
+stateless people. To make this point, it analyses Arendt's criticisms by classifying them
+as theoretical and political. Theoretical arguments addresses the perplexities of
+liberal principles of human rights, whereas political arguments focus on the political
+meanings of human rights. The study concludes with a discussion of the Rohingya
+situation to illustrate the reflections and strengths of Arendt's criticisms.
+
+Keywords: Hannah Arendt, Human Rights, Nation-State, Rohingya.
+
+Giriş
+Günümüzde hâkim insan hakları anlayışına yönelik ciddi eleştiriler söz
+konusudur. İnsan hakları anlayışına eleştiri getirenlerin başında Hannah
+Arendt (1906-1975) yer alır.  Hannah Arendt Almanya doğumlu, Amerikalı
+siyaset düşünürüdür. Almanya’da Nazizm’in ve antisemitizmin yükselmesi
+sebebiyle 1933 yılında Fransa’ya geçmiştir. 1941 yılında Amerika Birleşik
+Devletleri’ne gitmiş ve 1951 yılında Amerikan vatandaşlığını elde etmiştir.
+Almanya’dan ayrılmasından Amerikan vatandaşlığını kazanmasına kadar
+geçen on sekiz yıl boyunca mültecilik ve vatansızlık statülerinde yaşamıştır.
+Arendt’in siyasal anlayışını geliştirmesinde, siyasi ve tarihi olarak analizini
+yaptığı yaşadığı dönemin ve bizzat tecrübe ettiği bu statülerin etkisi
+bulunmaktadır. Arendt’in antikiteden başlayıp kendi zamanını da içine alan
+analiz ve gözlemleri, bugünkü dünya gerçekleri perspektifinde dahi
+tartışmalara ve eleştirilere kaynaklık etmeyi sürdürmektedir. İnsan haklarına
+dair tartışmalarda sıkça referans alınan Arendt’in argümanları, modern insan
+hakları
+anlayışının
+tanımını,
+sınırlarını,
+ilkelerini
+ve
+çıkmazlarını
+değerlendirmek için kullanışlı kavramsal araçlar sunmaktadır.
+İnsanların sadece insan olmaları sebebiyle layık oldukları haklarını
+ifade eden insan hakları, belli bir devletin, ırkın veya dinin mensubu olanlara
+değil bütün insanlara atfedilir. İnsan hakları anlayışında bütün insanların
+özgür, onur ve haklar bakımından eşit doğduğu ve doğmuş olmakla birlikte
+bir takım haklara sahip oldukları kabul edilir. Felsefi izleri Antik Yunan’a
+kadar uzanan insan haklarının, siyasi, ahlaki ve hukuki anlamda gelişimi
+tarihsel süreç içerisinde devam ederken, 20. yüzyılın ilk yarısında yaşanan
+dünya savaşları ile birlikte uluslararası kamuoyu insan hakları konusunda yeni
+bir adım atmıştır. İkinci Dünya Savaşı’nın ardından, Birleşmiş Milletlerin 10
+Aralık 1948’de Paris’te gerçekleşen genel oturumunda İnsan Hakları Evrensel
+Beyannamesi 48 ülkenin olumlu oyu ile kabul edilmiştir. İnsan hakları
+konusunda daha önce İngiltere’deki Magna Carta’dan (1215), Amerikan
+Bağımsızlık Bildirgesi’ne (1776) ve Fransa’daki İnsan ve Yurttaş Hakları
+Bildirgesi’ne (1779) kadar bir dizi tarihi bildiri yayınlanmıştır. Ancak
+Beyanname’nin, “insanlık ailesinin bütün üyeleri”ni içerecek şekilde evrensel
+olma amacı vardır ve belki de yıkıcı dünya savaşlarından çıkarılan ders, artık
+
+--- Sayfa 3 ---
+Yıldız Çirli, Yusuf Pustu
+220
+sadece bir millet ya da devlet için değil bütün dünya için evrensel bir insan
+hakları “söz edimi”nin (Kuçuradi, 2018, s. 198) gerekli olmasıdır.
+İnsan Hakları Evrensel Beyannamesi, insanlık ailesinin bütün
+üyelerinin haklarının korunması ve dünya barışı gibi en yüksek amaçlara
+hizmet etmesi için ilan edilirken, Hannah Arendt Beyanname’nin kabulünün
+ardından, 1949 yılında, insan haklarına yönelik eleştirilerini içeren İnsan
+Hakları Nedir? (The Rights of Man: What Are They?) adlı makalesini
+yayınlamıştır. Daha sonra makaleyi Totalitarizmin Kökenleri adlı kitabının
+Ulus-Devletin Yıkılışı ve İnsan Haklarının Sonu başlıklı dokuzuncu bölümü
+haline getirmiştir (DeGooyer vd., 2018, s. 5). Arendt’in itirazları, insan
+haklarına veya insanların evrensel geçerlilikte haklara sahip olması konusuna
+değil (Gallas, 2017, s. 123), modern insan hakları söylemlerinin teorik
+temellerine ve egemen ulus-devlet düzeninde geçerliliğine yöneliktir.
+Eleştirilerini azınlık, mülteci ve vatansızların sorunlarından yola çıkarak
+geliştirir. Bu grupların insan hakları sorunlarını, tesadüfi olayların veya
+uygulama başarısızlıklarının bir sonucu olarak görmek yerine,  ulus-devlet
+sistemine ve insan haklarına içkin çıkmazların birer yansıması olarak ele alır
+(Gündoğdu, 2012, s. 7).
+Eleştirilerini tarihsel, sosyal ve siyasal gözlemlerine dayandıran
+Arendt’in (2018a, s. 255) analizine göre Birinci Dünya Savaşı, Avrupa’daki
+ulusları daha önce eşi görülmemiş bir şekilde parçalamıştır. Savaştan sonra
+mutlak monarşi şeklindeki çok uluslu imparatorlukların egemen ulus-devletler
+halinde bölünmesi, savaşın getirdiği ekonomik zorluklar ve iç savaşlar ile
+birleşince, iki dünya savaşı arasındaki dönem, ulusların birbirinden nefret
+ettiği, herkesin herkese karşı özellikle de komşusuna karşı olduğu bir Avrupa
+yaratmıştır (Arendt, 2018a, s. 257). Avrupa’nın politik düzeninin bozulması,
+oluşan nefret ortamı ve ardından gelen totaliter barbarlık ile birlikte
+milyonlarca mülteci, vatansız ve azınlık ortaya çıkmıştır. Arendt’e (2018a, s.
+256) göre bu dönem, “hiçbir yere kabul edilmeyen ve hiçbir yerde asimile
+olamayan göçmen gruplar yarattı” (s. 256) ve onlar “[a]nayurtlarından
+ayrıldıklarında
+artık
+yurtsuzdular;
+devletlerini
+bıraktıklarında
+artık
+devletsizdiler; insan haklarından yoksun bırakıldıklarında artık haksızdılar,
+yeryüzünün posasıydılar”.1 Bu gruplar toplumsal statülerini ya da mülklerini
+kaybetmekten
+öte,
+devredilemez
+diye
+tanımlanan
+insan
+haklarını
+kaybetmişlerdir (Arendt, 2018a, s. 258). Yurtsuz, devletsiz ve haksız kalan ve
+yeryüzünün posasına dönüşen bu insanlar, insan haklarının aslında
+korunamadığının kanıtı haline gelmiştir. Bu tablo, modern hak bildirilerinin
+merkezinde yer alan bir çelişkiyi, çıkmazı açığa çıkarmıştır. Arendt (2018a)
+ve daha sonra Agamben’in (1998) insan hakları bildirilerine ilişkin
+eleştirilerinin başlangıç noktası olan bu çelişki, bildirilerin bir yandan haklarla
+
+1 Arendt’in “yeryüzünün posası” betimlemesine benzer şekilde Zygmunt Bauman (2019, s. 75), günümüzde
+kitle halindeki mültecilerin istenmeyen nüfus olarak, bir nevi dünyadaki “artık” olarak görüldüğünü
+savunur. Giorgio Agamben (2000, s. 22) ise artık vatandaş olmayan insanları, antik Roma hukukundaki
+ölüme mahkûm “kutsal insan” ile benzeştirir.
+
+--- Sayfa 4 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+221
+birlikte doğan ve onların taşıyıcısı olan doğa durumundaki “insanı”
+varsayarken, öte yandan bu insanı, egemen ulus-devletin bir "vatandaşı"
+olarak addetmeleridir (Gündoğdu, 2012, ss. 7-8). Arendt’in insan hakları
+anlayışından beslenen ve bu başlangıç noktasından hareketle insan haklarının
+çıkmazları olarak ele aldığı eleştirileri, teorik ve siyasal olarak
+gruplandırılarak değerlendirilebilir.
+
+1. HANNAH ARENDT’TE İNSAN HAKLARI ANLAYIŞI
+Arendt,  geleneksel liberal bireyci ilkelere uymayan bir insan hakları
+anlayışına sahiptir. Modern insan hakları anlayışının temel varsayımı, insanın
+insan olarak doğmasının haklara sahip olması için yeterli görülmesidir. Fakat
+Arendt’in bakış açısında insanın hakları, diğer insanlardan soyutlanmış
+bireyin doğuştan getirdiği niteliklerin değil, özneler arası ve müşterek
+dünyanın ürünleridir. Bu bakış açısının kök nedeni, Aristoteles gibi, insanın
+sosyal ve siyasal bir varlık olduğunu kabul etmesidir. Bu sosyallik ve
+siyasallık insana özgürlüğünü, eşitliğini ve haklarını sağlar.
+İnsanın özgürlüğünü, eşitliğini ve haklarını elde edeceği yer siyasal bir
+topluluktur. Hak sahibi olmak ile siyasal topluluk arasında ilişki kuran
+Arendt’in insan haklarına bakışı da siyasal anlayışı ile paraleldir. Arendt,
+siyasal ile ilgili görüşlerini Yunan antikitesinin siyasal deneyimlerine
+başvurarak oluşturur. Öncelikle siyasallığı polis anlamında kavrayan Arendt,
+siyasal anlayışına yön veren özgürlük, eşitlik, eylem ve kamusal alan gibi
+kavramları polisi ve onun karşısındaki oikosu referans göstererek ortaya
+koyar. Arendt’in bakış açısında siyaset, polisin siyaset anlayışına paralel
+olarak belirli bir sebeple ve belirli bir alanda yapılan, oldukça belirli bir insan
+faaliyetidir (McGowan, 1998, s. 16). Bu belirli sebep özgürlük iken; belirli
+alan kamusal alan ve belirli insan faaliyeti ise eylem olarak karşımıza
+çıkmaktadır. Özgürlük, zorunlulukların alanı oikostan çıkmayı, dünyayı
+görerek başkaları ile bir araya gelmeyi mümkün kılan bir statüdür (Arendt,
+2014, s.  209). Ancak özgürlük, irade ve amaçtan doğmayıp, eylemin icrası
+sırasında ortaya çıkarak görünür olur (Arendt, 2014, s. 213). Eylem, rutin
+insan davranışlarından ayrı olarak, başkaları ile bir araya gelindiğinde yani
+çoğulluk içerisinde ortaya çıkan ve kişisel inisiyatif gerektiren etkileşimleri
+kapsayan bir insan faaliyetidir (Canovan, 1995, s. 131). Dolayısıyla eylemin,
+aynı zamanda konuşmanın, temel koşulu beşeri çoğulluğun oluşmasıdır.
+Çoğulluk, hem insanların birbirini anlamalarını sağlayan eşitlik niteliğine hem
+de birbirlerini anlama çabasına gerekçe oluşturan farklılık niteliğine sahiptir.
+İnsanların eşitliği, insanların hem birbirlerini, hem de kendinden öncekileri ve
+sonrakileri anlayabilmesini ifade eder. İnsanların farklılığı ise insanların
+kendilerini anlaşılır kılmak için konuşma ve eylemde bulunması anlamına
+gelir (Arendt, 2013, s. 258). Her canlı türün üyeleri arasında benzersizlik ve
+çeşitlilik bulunsa da bunu ifade edebilen tek canlı insandır. Benzersiz varlıklar
+olarak insanlar bir araya gelerek çoğulluğu oluştururlar (Arendt, 2013, s. 259).
+İnsan, kendisini diğer varlıklardan ayıran eşsiz farklılığı olan eylem ve
+
+--- Sayfa 5 ---
+Yıldız Çirli, Yusuf Pustu
+222
+konuşma etkinliği yoluyla kim olduğunu gösterir, kendi gerçekliğini doğrular.
+Arendt’e (2013, s. 259) göre “kendimizi insani dünyaya söz ve edimle
+sokarız”. Eylem ve konuşma, “insanlar ne onlara karşı olduklarında ne de
+onlar adına değil, başkaları ile birlikte olduklarında günyüzüne çıkar – yani
+salt insani biraradalık durumunda” (Arendt, 2013, s. 263). Çoğulluk sayesinde
+bireyler benzersiz kimliklerini ortaya koyabilir. Benzersiz kimliklerin ortaya
+konduğu yer Arendt’in (2014, s. 210) “özgürlüğün kendini görünür kıldığı bir
+dünyevi mekân” dediği siyaseten temin edilmiş bir kamusal alandır.  Kamusal
+alan birlikte eylemekten ve konuşmaktan doğan bir alandır (Arendt, 2013, s.
+289). Çoğulluk aynı zamanda dinamiktir. Çünkü her insan eşsizdir ve
+çoğulluğa katıldığında yeni bir şeyler başlatma kapasitesine sahiptir
+(Canovan, 1995, s. 130). Ona göre çoğulluk, hiçbir insanın fazlalık olmadığı
+anlamına gelir çünkü her bir insan dünyanın özneler arası yaratımına
+tamamıyla özgün bir şeyler katar. Tek bir kişinin eksikliğinde bile dünya
+azalır, fakirleşir (McGowan, 1998, ss. 30-31). Arendt, Yunan polisini tam da
+böyle çoğulluk içinde eylemde bulunulan ve özgürlüğün görünür olduğu yer
+anlamında ele alır.
+İnsanın, konuşma ve eylemde bulunma nitelikleri sayesinde çoğulluk
+oluşturarak, özgürlüğünü, eşitliğini ve haklarını kazanması için siyasal bir
+topluluğa dâhil olması gerekmektedir. Arendt (2018a), bu gerekliliği haklara
+sahip olma hakkı diye formüle eder ve şöyle tanımlar:
+“Giderek, haklara sahip olmak gibi bir hakkın (ve bu,
+kişinin, eylemlerine ve görüşlerine göre yargılandığı bir
+çerçevede yaşaması anlamına gelmektedir) ve bir tür örgütlü
+topluluğun üyesi olmak gibi bir hakkın varlığının, ancak yeni bir
+küresel siyasi durum nedeniyle bu hakları yitirmiş ve yeniden
+kazanması da olanaksız milyonlarca insan ortaya çıktığında
+farkına vardık” (s. 304).
+Arendt’in tanımlaması doğrultusunda bakıldığında, haklara sahip olma
+hakkının siyasal anlamı, siyasal bir topluma aidiyet; ontolojik anlamı ise
+insanın dünyada anlamlı konuşabileceği ve eyleyebileceği bir yer olmaktadır
+(Parekh, 2008, s. 29). Bu ontolojik ve siyasal anlam birbirini bütünler
+niteliktedir. Eylem, Arendt’in vita activa dediği yeryüzündeki yaşamı
+oluşturan insani etkinliklerden birisidir. Vita activayı emek, iş ve eylem olarak
+sınıflandırmaktadır (Arendt, 2013, s. 35). Emek, “insan bedeninin biyolojik
+[yaşam] sürecine karşılık gelen” (Arendt, 2013, s. 35) etkinlik iken iş, yapay
+şeyler dünyasını oluşturan etkinliktir. Eylem ise sadece insanlar arasında,
+çoğulluk ortamında gerçekleşen bir etkinliktir. Arendt’in bakış açısında,
+emek, iş ve eylem birbirinden farklı ama birbiriyle ilişkilidir, dünyada var
+olmanın yollarını tanımlar ve her bir etkinlik insan olarak yaşamakta hayati
+bir öneme sahiptir (Gündoğdu, 2015, s. 126). İnsan yaşamını emek
+oluştururken, dünyanın kurulumunu iş sağlamakta ve beşeri ilişkilerin ve
+meselelerin dokusunu ise eylem ve konuşma oluşturmaktadır. Eylem ve
+konuşmanın edim, olgu, düşünce veya fikir olarak dünyevi bir şeye
+
+--- Sayfa 6 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+223
+dönüşebilmeleri için görünür olmaları, hatırlanmaları, işitilmeleri, şiir, belge
+veya kitap haline gelmeleri gerektiğinden iş ve emeğe ihtiyaç vardır (Arendt,
+2013, ss. 151-152).
+Vita activa etkinlikleri arasında eylem, konuşma ve düşünmeyi içerdiği
+için değerlidir. Aristoteles’ten beri insan, konuşma ve düşünme yetisine sahip
+tek varlık olarak kabul edilmektedir (Arendt, 2018a, s. 305). Eylem, öznesini
+bulmak, kimliğini, kim olduğunu ortaya koyabilmek için konuşmaya ihtiyaç
+duyar. Eylemi fail başlatır ve sözle dışa vurur böylece eylem fail tarafından
+anlatılarak anlamlı hale gelir (Arendt, 2013, s. 262). Konuşma ve eylemin bir
+aradalığı olmadan, insanın kendi gerçekliği, kim olduğu ve etrafındaki
+dünyanın gerçekliği bilinemez (Arendt, 2013, s. 303). Hiçbir iki insan benzer
+olmadığı için bir araya gelmek, çoğulluk oluşturmak, farklılıklarını tartışmak,
+fikir alışverişinde bulunmak, yarattıkları dünyada siyasal kurumlar
+geliştirmek zorundadır (Young-Bruehl, 2006, s. 81). Bu farklılıklar sürekli
+oluşmadıkça insanlık ortadan kaybolur. Bu özellik vita activanın diğer
+etkinliklerinde yoktur. İnsan çalışmadan ve iş üretmeden yaşayabilir ancak
+konuşma ve eylemin olmadığı bir yer, yaşarken ölmek demektir (Arendt,
+2013, s. 259).
+“Siyasal topluluk ise eylem ve konuşma kapasitesi sağlaması ve eylem
+ve konuşma yoluyla da kendi sürekliliğini devam ettirmesi açısından
+önemlidir. Siyasal topluluk gereksinimi ayrıca hakların doğal değil siyasal ve
+yasal olmasından beslenir. Dolayısıyla haklar, siyasal topluluk içerisinde
+oluşturulur ve sadece bu topluluğa üye ve onun kurallarına tabi olanlar
+tarafından kullanılabilirler” (McGowan, 1998, s. 21). “Topluluk olmaksızın
+bir diğerinin haklarının tanınması ve korunması mümkün değildir.” (Parekh,
+2008, s. 166).
+“Kişinin, eylemlerine ve görüşlerine göre yargılandığı” çerçeveden
+mahrumiyet tam bir haksızlık durumuna düşürmektedir. Emekle normal bir
+hayat rutinini sağlayamayan ve yaşamdan yabancılaşan (Gündoğdu, 2015, s.
+143); iş ile etrafındaki dünyayı şekillendiremeyen ve eylem ile bireyselliğini
+ve görünürlüğünü ortaya koyamayan insanların en temel insani varoluş hakları
+ellerinden alınmış olmaktadır. Vita activayı sağlayan bir siyasal topluluktan
+yoksunluk tam bir haksızlık durumuna dönüşmektedir. Bu durumda bulunan
+ve haklara sahip olma hakkını kaybeden insan, hem konuşma, eylem, siyasal
+düşünce geliştirme, siyasal alanın bir parçası olma gibi insana has
+özelliklerinden hem de emek, iş ve eylem yoluyla kendini dâhil ettiği müşterek
+dünyadan dışlanmaktadır (Parekh, 2008, s. 33). Haklara sahip olma hakkı,
+insanın eylem ve görüşleri ile var olabileceği siyasal bir toplulukta yaşama
+hakkıdır. Bu hak sayesinde, bildirgelerde insan hakkı olarak sayılan ve bir
+devlet ya da hükümet tarafından karşılanan diğer bütün hakların tanınması,
+meşruluğunun talep edilmesi ve sürdürülmesi sağlanabilir. Arendt’in insan
+haklarını bu şekilde ele almasının, modern insan haklarına getirdiği
+eleştirilerinin bir sonucu olduğunu söylemek mümkündür. Sonuç olarak
+
+--- Sayfa 7 ---
+Yıldız Çirli, Yusuf Pustu
+224
+Arendt, insan hakları bildirilerinde sayılan hakların ötesinde, daha temel bir
+hakkın, haklara sahip olma hakkının, varlığına işaret eder.
+
+2. İNSAN HAKLARININ ÇIKMAZLARI
+
+Arendt’in modern insan hakları söyleminin çeşitli çıkmazlar içerdiği
+yönündeki eleştirileri, teorik ve siyasal olarak iki grupta ele alınabilir. İnsan
+haklarının teorik çıkmazları, doğal hak geleneğiyle beraber liberal temellerine
+yönelik iken, siyasal çıkmazları insan haklarının ulus-devlet sistemindeki
+yerini sorgulamaktadır.
+
+2.1. İnsan Haklarının Teorik Çıkmazları
+Modern insan hakları öğretisinin doğuşu, rönesans ve reform
+hareketlerinden başlayarak, aydınlanma çağı ile liberal düşünceye ve
+nihayetinde 18. yüzyıl devrimlerinin zincirleme etkilerine bağlanmaktadır.
+Modern insan haklarına atfedilen devredilmezlik, vazgeçilmezlik, evrensellik
+ve üstünlük gibi ilkeler doğal hukukun ve liberal bireyin özelliklerini işaret
+etmektedir.
+Arendt,
+döneminin
+gelişmeleri
+içerisinde
+vatansızların,
+mültecilerin veya azınlıkların durumunu incelediğinde, ideal ilkelerle
+donatılmış insan haklarının insanı haksızlık ve zulümden korumaya
+yetmediğini gözlemlemiştir. İnsan haklarının hem yetersizlik hem çelişki
+içeren bu durumunu doğal hukuka ve liberalizme dayanan teorik temelleri ile
+açıklamaktadır. Öncelikle doğal hukuk ve insan hakları ilişkisini ortaya
+koymak Arendt’in eleştirilerini anlamak açısından önemlidir.
+İnsan haklarının doğal hukuktan türediği ve doğal hakların bir uzantısı
+veya onun evirilmiş sonuçları olduğu kabul edilir (Deveci, 2002, s. 39). İnsan
+hakları felsefesinin kaynağını oluşturan ve üstün, evrensel idealler olarak
+kabul edilmesini sağlayan doğal hukuk anlayışıdır. Doğal hukuk, beşeri
+yasaların üstünde ve onlara standart oluşturan, onların geçerliliğini
+değerlendirmede ölçüt olan ve evrensel adalet ilkeleri, doğru ve yanlışlar
+olduğunu ifade eden ideal hukuktur. Doğal hukuk düşüncesini sistematik bir
+yapıya kavuşturan Thomas Aquinas’a göre doğal hukukun ilkelerinin temelini
+oluşturan iyilik, tıpkı bir tohumun ağaç olacak şekilde büyümesi gibi, her
+varlığın kendi potansiyelini kullanıp, kendi kendini gerçekleştirmesidir.
+Dolayısıyla dışardan gelen bir standart değil, doğuştan gelen içsel eğilimlerin
+vücut bulmasıdır. Her varlıkta bu iyilik arayışı vardır. Ancak diğer canlıların
+aksine insanlar, rasyonel varlıklar oldukları için doğal eğilimlerinin bilincinde
+ve dolayısıyla davranışlarında özgürdürler. Doğal olarak en düşük düzeyde,
+kendini koruma eğiliminde olan insan, en yüksek düzeyde ise bilgiyi arama
+ve diğerleriyle bir toplumda uyum içinde yaşamayı öğrenme arayışı içindedir
+(Arnhart, 2013, ss. 98-99). Görüldüğü üzere doğal hukukun kaynağını akıl
+sahibi tek varlık olan insan oluşturur. Doğal hukuk düzeninde insanların
+hakları da doğaldır. İnsan bu doğal haklarını doğuştan kazanır ve hakları
+başkasına devredilemeyecek şekilde kendi varlığına bağlıdır. Liberalizmin
+öncüsü John Locke için de insanın rasyonalitesi yani bir akla sahip olması onu
+
+--- Sayfa 8 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+225
+diğer varlıklardan ayırır ve ona haklara sahip olma kapasitesi sağlar. İnsanın
+doğuştan getirdiği bu kapasitesi, hak eşitliğinin kaynağını oluşturur ve bütün
+insanlar mutlak eşit insanlık niteliklerinin sonucu olarak hak eşitliğine ve eşit
+özgürlük hakkına sahiptirler (Arnhart, 2013, ss. 187-188). Fakat hepsi insan
+doğasıyla ilişkilendirmesine rağmen, Platon, Aristoteles ve Aquinas doğası
+gereği ne yapmanın doğru ve hak olduğu konusunda benzeşirken, Thomas
+Hobbes ve Locke daha çok doğa gereği haklara sahip olmayı vurgulayarak
+onlardan ayrılır. Dolayısıyla liberalizmde doğal hakların ana vurgusu bireysel
+hak ve özgürlükler üzerinedir (Arnhart, 2013, s. 100). Liberalizmde insanlar,
+tüm sosyal ve siyasi eklentilerinden önce hayali bir doğa durumunda doğarak,
+bir kanun ya da yönetim nedeniyle değil yalnızca insan oldukları için
+özgürlüğe ve haklara sahip olmuşlardır. Ardından doğa durumundan çıkmak
+üzere güvene dayalı sözleşmelerle bir siyasi toplum oluşturmuşlardır. Ancak
+mükemmel insan özgürlüğü yalnızca doğa durumunda var olabileceğinden,
+kurumsal temellere veya siyasi desteğe yönelik herhangi bir meşrulaştırma
+ortadan kaldırılabilir. Doğal haklar şimdi pozitif hukuka alternatif olarak
+tanımlandığından, Arendt’in (1973, s.291) ifadesiyle “devletin yeni
+egemenliğine” ve “toplumun yeni keyfiyetine” karşı ihtiyaç duyulduğunda ise
+insan haklarına başvurmak gerekmektedir (Somers, 2008, s. 125).
+İnsan haklarına dair bildiriler de doğal hukukun insanı yücelten ve
+doğuştan hak sahibi olduğunu kabul eden esasları üzerine inşa edilmiştir.
+Amerikan Bağımsızlık Bildirgesi’nde yer verilen “tüm insanlara doğuştan
+doğa tarafından belli başlı haklar bahşedildiği” şeklindeki modern yaklaşım,
+doğal hukuk anlayışının izlerini taşır (Arnhart, 2013, s. 99). İnsanların
+doğuştan özgür, haklarla donatılmış ve eşit olduğu şeklindeki doğal hukuk
+öğretisi, aynı şekilde Fransız İnsan ve Yurttaş Hakları Bildirgesi’nin ilk
+maddesinde “insanlar, özgür ve eşit haklarla doğar ve yaşarlar” şeklinde
+formüle edilmiştir (Dumont, 2013, s. 167). Bugün insan hakları konusunda en
+üst seviyedeki belge olan İnsan Hakları Evrensel Beyannamesi birinci
+maddesi ile bütün insanların hür, haysiyet ve haklar bakımından eşit
+doğduğunu ve akıl ve vicdana sahip olduklarını kabul eder. İnsan haklarının,
+sadece insan olarak doğmuş olmanın yeterliliğine ve insanın kişiliğine bu
+şekilde bağlı olması; başka herhangi bir şarta bağlanamayacağı,
+devredilemeyeceği, ondan vazgeçilemeyeceği, inkâr edilemeyeceği veya
+geçersiz kılınamayacağı, herkese karşı, her zaman ve her durumda öne
+sürülebilir olduğu anlamına gelmektedir. Doğal hukukun ve liberal ilkelerin,
+insan hakları ideallerinin oluşumundaki etkisine rağmen, Arendt eleştirileri ile
+bu varsayım ve ilkelerin aynı zamanda insan haklarını çeşitli açılardan yetersiz
+ve sınırlı bir hale getirdiğini gösterir.
+İlk olarak, Arendt’e (2018a, s. 309) göre liberalizmin insan hakları
+mekanizması, doğal hukukun ilkelerine bağlı olarak soyut bir insan
+öngörmektedir. Liberalizmde ontolojik olarak doğanın bir ürünü olan insan,
+doğa durumunda doğal hakların taşıyıcısı olarak doğarlar. Oysa Arendt, bu
+varsayımın insanı toplumdan soyutladığını ve insan haklarını gerçeklikten
+
+--- Sayfa 9 ---
+Yıldız Çirli, Yusuf Pustu
+226
+yoksun kıldığını savunur. Fransız Bildirgesi’nin, “hiçbir yerde var olmayan
+(vahşiler bile belli bir toplumsal düzen içer[i]sinde yaşamaktaydı) “soyut” bir
+insanı göz önüne almış olması” bir paradokstur (Arendt, 2018a, s. 294).
+Arendt’in vahşiler kelimesini kullanması, insan eliyle oluşturulan siyasi
+yapıların evrensel geçerliliğini tartışmak içindir. Çünkü en ilkel görülen, doğa
+durumda yaşayan toplumlarda bile sosyal ve politik kurallar gereklidir
+(Somers, 2008, s. 130). Sosyal bir varlık olan insanın hayatı, sosyal bağları
+kesildiğinde zorlaşır. Ahlaki standartlar da sosyal bir bağlamda daha iyi
+sağlanır. Sosyal, siyasi ve yasal statüsü yok olduğunda çok az insan kendi
+bireysel bütünlüğünü koruyabilir (Arendt, 2007, s. 271). Bu nedenle hiçbir
+toplulukla bağı olmayan soyut insan olarak vatansız insan, insan hakları
+kavramının soyut, resmi, bireysel ve hepsinden öte apolitik karakterini açığa
+çıkarmaktadır (Krause, 2008, s. 339). Arendt’in (2018a, ss. 312-314) savına
+göre, müşterek dünyadan dışlananlar sadece insan olarak kalırlar ve özel
+alandaki farklılıklarına geri dönerek, insan ırkının bir üyesi olurlar. Müşterek
+dünya insanın eşitleriyle bir araya geldiği, onu kurabildiği, değiştirebildiği ve
+orada eyleyebildiği dünyadır. Ancak eşsiz bireysellikten ibaret bu farklılığın,
+eyleme gücünden (iş, meslek, düşünce ve görüş sahibi veya yurttaş olma gibi
+niteliklerden) mahrum bırakılmış insanlar için hiçbir değeri yoktur. İmha
+kamplarında, toplama veya gözaltı kamplarında tutulanlar veya vatansızlar,
+“insandan başka bir şey olmamanın soyut çıplaklığı” (Arendt, 2018a, s. 310)
+ile “[d]evredilemez diye düşünülen, hatta öyle tanımlanan hakları, yani İnsan
+Hakları’nı yitirmişlerdi” (Arendt, 2018a, s. 258). İnsan olmanın dışında, bütün
+nitelik ve ilişkilerini kaybetmiş soyut insanlar ortaya çıktığında, insan
+haklarının uğrattığı hayal kırıklığını Arendt (2018a, s.309) şöyle anlatır:
+“Dünya, insan olmanın soyut çıplaklığında kutsal hiçbir
+şey bulamamıştır. Ayrıca, nesnel siyasi koşullar açısından, insan
+haklarının üzerine dayandırıldığı –(Amerikan formülünde)
+Tanrının imgesine göre yaratılması ya da insanlığın temsilcisi
+olması veya (Fransız formülünde) doğal hukukun kutsal
+istemlerini içinde barındırması gibi– insana dair düşüncelerin, bu
+soruna bir çözüm bulunmasına yardımcı olabileceğini söylemek
+de zordur.”
+İkinci olarak, insan haklarının insanların doğuştan eşit ve özgür olduğu
+varsayımı insanın siyasal varlığıyla uyuşmamaktadır. Liberal düşüncede,
+insanların ontolojik olarak siyaset ve toplum öncesi varlıklar olarak (Somers,
+2008, s. 130) doğa durumunda eşit ve özgür oldukları farz edilir. Arendt
+(2012, s. 37) ise liberalizmin iddia ettiği gibi, insanların eşit doğması ve
+sonradan insan eseri sosyal ve siyasal kurumlar hükmünce bu eşitliği
+kaybetmesi fikrinin aksine, Antiklerden yola çıkarak, eşitliğin sadece herkesi
+eşit kılacak siyasal bir alanda, hatta yurttaşlar olarak ortaya çıktığını iddia
+eder. İnsan, eşitliğini ve özgürlüğünü polisteki gibi siyasi toplulukta kazanır.
+Orada, “[e]şitlik ve özgürlük, insan doğasına içkin özellikler olarak
+anlaşılmamıştı ve hiçbiri de doğal akışın ürünleri ya da kendi kendilerinin
+
+--- Sayfa 10 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+227
+sebebi değillerdi. Daha ziyade insan çabasının kurgusal ve yapay ürünleri,
+insan eseri dünyanın nitelikleriydi” (Arendt, 2012, s. 38). Özgürlüğü, siyasetin
+koşulu ve varoluş nedeni olarak gören Arendt (2014, s. 207),  siyaset karşıtı
+felsefi geleneğin veya Hristiyan geleneğin iddia ettiği gibi özgürlüğün insanın
+iç alanına ait değil, antikitenin polisinde olduğu gibi, iç alanın karşısında
+konumlanan siyasal alana ait bir nosyon olduğunu düşünür (Arendt, 2014, s.
+231). İnsanın özgür olabilmesi için yaşam zorunluluklarından kurtularak
+serbest olması ve kamusal bir alanda diğer insanlarla bir araya gelmesi
+gereklidir.  Özgürlüğün koşulu olan özgürleşme, yaşamın fiziksel ve biyolojik
+ihtiyaçlar
+gibi
+oikosa ait
+zorunluluklarından kurtulmak
+veya
+bu
+zorunluluklardan serbest olmaktır. Özgürlük, zorunluluklardan kurtulmayı,
+dünyayı görerek başkaları ile bir araya gelmeyi mümkün kılan bir statüdür
+(Arendt, 2014, s. 209). Özgürlük ancak polisteki ortak kamu hayatı
+seviyesinde ortaya çıkar. Polisin karşısında konumlanan oikos, hayatın
+gereklilikler alanını yönetme kapasitesi hakkındadır ve eksik bir özgürlük
+sunar. İnsan oikosta kendisinin ve diğerlerinin efendisi iken, poliste özgür ve
+eşitler arasında ve baskının olmadığı siyasal ilişkiler içerisindedir ve tam
+olarak özgürdür (Brunkhorst, 2000, s. 186)2. Bu nedenle polisteki siyasal
+etkinlik, kölelere veya yaşamın zorunluluklarıyla uğraşanlara değil özgür ve
+eşit insanlara hizmet eder (Arendt, 2014, s. 217).
+Üçüncü olarak haklar, insan haklarının kabul ettiği gibi doğal değil
+siyasaldır.  Liberalizm, insanın ilişkisel değil, diğer varlıklardan ayıran aklı ve
+erdemi sayesindeki rasyonel doğasının ona, vazgeçilmez ve devredilmez
+doğal haklara sahip olma imkânı verdiğini varsayar. Locke’a göre, insan
+rasyonalitesi, insana, onu doğuştan yaşama, özgürlük ve mülkiyet haklarına
+sahip kılan “kendinin efendisi olma kapasitesi” sağlar (Arnhart, 2013, s. 187).
+Hakların doğuştan geldiği ve doğal olarak bahşedildiği düşüncesi, hakların
+toplum ve devlet öncesinde de var olduğu anlamını taşımaktadır (Kuçuradi,
+2018, s. 75). Ancak bir noktada bu, bireysel çıkarlarının peşinde koşan
+rasyonel insanların, bireysel özgürlüklerini ve haklarını koruyacak ve doğa
+durumunun güvensizliğinden uzaklaştıracak şekilde bir yönetim üzerinde
+anlaşmalarına yol açar. Bu tür bir toplumsal bir sözleşme ile kurulan devletin
+amacı, insanın toplum ve devlet öncesinde zaten sahip olduğu doğal hakları
+korumakla sınırlıdır. Dolayısıyla doğal haklar, insanı ve doğal onurunu
+devletin tehditlerinden korumak üzere liberalizmin temel mekanizması haline
+gelir. Rasyonel ahlaki failler olarak ancak insanlar eylemlerinden sorumlu
+tutulabildiğinden, saygınlıkla muamele edilmelerini ve haklarının yasal olarak
+korunmasını sağlamak ahlaki bir ilkeye dönüşür (Arnhart, 2013, s. 110). Zaten
+
+2 Brunkhorst (2000, s. 185-186) Yunan ve Roman polis ve oikos şeklindeki özgürlükler hiyerarşisi köle
+toplumunun hâkim sınıf ideolojisine uygun olsa da, Arendt’in antik toplumlardaki siyasal özgürlüğün
+rolüne ilişkin tek taraflı bir bakış açısına sahip olduğunu iddia eder. Aristoteles bile “iyi hayat” düşüncesini,
+kamusal hayata diğer bir deyişle bir vatandaşın hayatına indirgemez. Aynı şekilde Plato, Republic’te
+hayatın ekonomi gibi siyasal olmayan alanlarını da içeren hiyerarşik özgürlükler seviyesi geliştirir.
+Dolayısıyla her ne kadar özgürlük nihayetinde siyasal olsa da, ev hayatının siyasal öncesi durumu da
+antikler için insan özgürlüğünün önemli bir parçasını oluşturur.
+
+--- Sayfa 11 ---
+Yıldız Çirli, Yusuf Pustu
+228
+İnsan Hakları Evrensel Beyannamesi “insan haklarına ve ana hürriyetlerine
+saygıyı temin etme” görevini devletlere vermiştir. Ancak toplumsal
+sözleşmenin kurduğu siyasal topluluğun dışına itilen ya da liberal devletin
+gücüyle karşı karşıya kalan insanın doğal, devredilmez ve vazgeçilmez hakları
+nasıl korunacaktır? Arendt, hakları siyasal eylem ve siyasal iyilerle
+bağlayarak, hakların tamamen siyasal olarak kurulduğunu iddia etmektedir.
+Siyasal olan, insan yaratımıdır ve her şeyin siyasal olması gibi haklar da
+tümüyle siyasaldır. Bu nedenle insan, sadece insanlığın erdemi sayesinde hak
+sahibi olmaz. Belirli bir siyasal topluluğa üye olarak haklarını elde edebilir
+(McGowan, 1998, s. 25). Antik Yunan’daki kölenin veya Westphalian
+düzendeki vatansız insanın siyasi statüsünün yokluğu ile hak ve
+özgürlüklerinin olmayışı arasında kurulacak ilişki buna işaret etmektedir
+(Fudge, 2014, s. 38). Arendt (2018a, s. 312) “[e]şit olarak doğmayız; karşılıklı
+olarak
+eşit
+haklara
+sahip
+olduğumuzu
+birbirimize
+garanti
+etme
+doğrultusundaki kararımıza güvenen bir grubun üyeleri olarak eşit hale
+geliriz” sözleriyle, eşitlik ve hakların siyasi toplulukta kazanıldığını açık bir
+şekilde ifade eder. Bireysel hakların, toplulukta tanınmasını sağlayan süreç
+aslında çift yönlü işlemektedir. Ahlaki-siyasal topluluğun eşit bir üyesi olarak
+her bireyin normatif statüsü, bireysel çıkardan insan haklarına geçiş noktasına
+ulaşılmasını sağlar. Bir kişinin çıkarları, topluluğun eşit bir üyesi olarak
+statüsü nedeniyle saygı görür ve diğer üyeler tarafından önemli kabul edilerek
+insan haklarına dönüşür. Dolayısıyla insan hakları harici olarak ilan edilmez
+ancak belirli bir siyasi topluluğun üyeleri tarafından karşılıklı olarak tanınır.
+İnsan hakları, yalnızca bireylerin eşit statüsünün bir sonucu değil, aynı
+zamanda bu eşit statüyü fiilen kazanmanın ve pekiştirmenin bir yolu
+olduğundan, bireylerin kendi eşitliklerinin faili ve siyasi topluluklarının üyesi
+olmasını sağlar (Besson, 2012, s. 342).
+Dördüncü olarak insan hakları, insanın güvenilir olmayan doğasına ve
+erdemine dayandırılmaktadır. Arendt, insanın bu rasyonel doğası ile birlikte
+insan haklarını doğuran erdemine karşı şüphecidir. Beşeri doğaya olan inanç
+tarih boyunca zaten sınanmıştır. Fakat İnsan ve Yurttaş Hakları Bildirgesi’nin
+hem yasanın kaynağı olarak insanı, hem de insan haklarının kaynağı, amacı
+ve tek koruyucusu olarak yine insanı belirlemesiyle birlikte tarihten ve
+doğadan özgürleşen insan, yasanın kaynağı olarak kendi türünün kaderine
+karar verecek konuma yükselmiştir. Buradaki kuşkulu yan, biri ya da
+birilerinin “iyi”si için onlar dışında kalan herkesin yok edilmesi veya
+insanlığın dışına sürülmesi ihtimalini barındırmasıdır. Arendt (2018a, s.308)
+bunu kendi sözleri ile şöyle anlatır:
+“Dinin mutlak ve aşkın ölçüleri ya da doğanın yasası
+otoritelerini yitirir yitirmez, hakkı, “için” –birey ya da aile veya
+halk ya da en geniş sayı için- “iyi” ile özdeşleşen bir yasa anlayışı
+da kaçınılmaz hale gelir; ve eğer “için iyi”nin uygulandığı birim
+insanlık kadar geniş olursa, bu karmaşa asla çözülmez. Çünkü,
+son derece örgütlü ve donanımlı bir insanlığın günün birinde,
+
+--- Sayfa 12 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+229
+bazı parçalarını tasfiye etmenin bir bütün olarak insanlık için
+hayırlı bir iş olacağına tamamen demokratik bir biçimde –yani
+çoğunluk yoluyla- karar verecek olması, pratik siyasi ihtimaller
+alanında bile son derece anlaşılabilir bir şeydir.”
+Ayrıca, İnsan Hakları Evrensel Beyannamesi'nden hemen önceki tarih,
+insanların doğal kayıtsızlığına dair kanıtları bir kez daha sunmaktadır. Yahudi
+soykırımı, bir yasa tarafından uygulanmadığı durumlarda, sözde doğal insani
+özellikler olan acıma ve özenin korkunç yetersizliğini göstermiştir. Avrupa
+devletlerinin Yahudi vatandaşları, medeni ve siyasi haklarından mahrum
+bırakıldıklarında ve en sonunda kamplarda çıplak insanlar olarak
+kaldıklarında bile bir acıma uyandırmamıştır (Ignatieff, 2001, s. 79). Toplama
+kamplarına kapatılan insanlara karşı sanki artık yoklarmış veya yaşadıkları
+kimseyi ilgilendirmezmiş gibi tavır alınmıştır (Arendt, 2018b, s. 258). Oysaki
+İnsan Hakları Evrensel Beyannamesi’nin birinci maddesinde “[b]ütün insanlar
+hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler
+ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler.” denmektedir.
+İnsan hakları, bu kardeşçe muameleye ilişkin bir talep getirmektedir
+(Kuçuradi, 2018, s. 57). İnsan hakları olarak sayılanlar, insan onurunun
+pratikteki gerektirdikleri olduğu için, insanlardan, insanın değerini yani
+evrendeki yerini koruyan bir muameleyi diğer bütün kişilere göstermeyi talep
+ederler (Kuçuradi, 2018, s. 73). Arendt’in (2018a, s. 310) gözlemlerine göre
+“insan olmaktan başka bir şey olmayan biri, tam da öteki insanların kendisine
+bir hemcinsleri gibi davranmalarını mümkün kılan niteliklerini yitirmektedir”.
+Yahudi soykırımının gösterdiği gibi Ignatieff’e (2001, s. 81) göre yalnızca aklı
+rehber edinen herhangi bir etik, insan aklı kendi yok edici projelerini
+rasyonalize etmeye başladığında güçsüz görünmeye mahkûm olmaktadır.
+Son olarak, insan haklarının evrenselliği siyasi yönetimini kaybeden
+insanları kapsamamaktadır. Arendt hakların ırk, renk, cinsiyet, dil, din, siyasi,
+milli, servet, doğuş gibi niteliklerden bağımsız şekilde evrensel olduğu
+yönündeki ilkeyi çelişkili bulur. Dünya savaşlarından sonra vatansız ve
+mülteci durumuna düşen insanların, sadece vatandaşlık haklarından değil,
+aynı zamanda insan haklarından mahrum kalmaları çelişkilidir. Çünkü doğal
+hukuk geleneğine göre, ulus-devlet gibi belirli bir siyasi topluluğa ait olup
+olmadığına bakılmaksızın, insanın doğası gereği evrensel haklara sahip olması
+gerekirken, siyasal topluluğunu kaybedenler vatandaşlık hakları ile birlikte
+insan haklarını da kaybetmişlerdir (Zembylas, 2017, s. 6). Devletin ulus-
+devlete dönüşmesi ile insan haklarının uygulanacağı topluluğun kapsamı
+ulusal bir tanıma dönüşmüştür. Kendilerini ulus-devletlerinden yoksun
+bulanlar, "evrensel" diye nitelendirilen insan haklarının uygulanmadığını
+keşfetmişlerdir (Beiner, 2000, s. 54). İnsanlar yurtlarını ve siyasi
+yönetimlerini kaybettikleri anda, sırf beşeriyetin bir üyesi diye onları
+kapsayacak ve koruyacak bir yasanın olmadığı gerçeği gün yüzüne
+çıkmaktadır. Siyasi yönetim kaybedildiğinde, örneğin mülteciler yaptıkları ya
+da düşündükleri şeyden dolayı değil, tam da insan hakları olarak sayılan
+
+--- Sayfa 13 ---
+Yıldız Çirli, Yusuf Pustu
+230
+herhangi bir ırka ya da sınıftan doğmuş olmaları gibi değiştirilemez bir
+özelliklerinden dolayı zulüm görebilmektedir (Arendt, 2018a, s. 300). Arendt
+(2007, s. 273) şöyle yazar: “Yahudi olmanın bu dünyada hiçbir yasal statü
+kazandırmadığını hatırlayın. Eğer Yahudi’den başka bir şey olmadığımız
+gerçeğini söylemeye başlarsak, bu kendimizi hiçbir kanun ya da siyasal düzen
+tarafından korunmayan fakat sadece insan olanların kaderine maruz
+bıraktığımız anlamına gelir.”
+
+2.2. İnsan Haklarının Siyasal Çıkmazları
+Arendt, insan haklarının doğal hukuktan gelen liberal temelleri ile
+birlikte ulus-devletteki yerini de analiz eder. Hiçbir egemen ulus-devletin
+vatandaşı olmayan vatansızlar, milliyet bağı bulunmayan vatandaşlar,
+azınlıklar veya başka devletin vatandaşı mülteciler özellikle kitle halinde
+ortaya çıktığında, insan haklarının anlamı ve uygulanabilir olup olmadığı
+sorgulanmaya başlamaktadır. Bu çerçevede Arendt’in insan haklarına siyasal
+açıdan yönelttiği eleştirilerini dört maddede ele almak mümkündür.
+İlk olarak Arendt (2018a, s. 295), insan haklarının halkların hakları ile
+özdeşleştirildiği eleştirisini getirir. Eleştirisini, insanın doğal, devredilmez ve
+kutsal haklara sahip olduğunu ilan eden 1789 Fransız İnsan ve Yurttaş Hakları
+Bildirgesi’ne dayandırır. Arendt, Bildirge’de doğal hukuk geleneğinden
+alınan devredilemez insan haklarına yapılan atfı yalnızca doğal haklar olarak
+yani herhangi bir siyasi üyelik hakkından bağımsız olarak okur (Haker, 2017,
+s. 25). İnsan hakları, bütün siyasi yönetimlerden bağımsız ve “başka yasalara
+ya da haklara indirgenemez ve onlardan çıkarsanamaz” (Arendt, 2018a, s.
+294) özellikleri nedeniyle devredilmez kabul edilir. Bildirgenin, insanı insan
+haklarının kaynağı, amacı ve tek koruyucusu olarak belirlemesi, insan
+haklarını yerleştirecek ya da koruyacak başka bir hakka ya da otoriteye ihtiyaç
+bırakmaz. Böylece doğal hakların seküler versiyonu olan insan hakları ile
+insan, tarihsel törelerden ve Tanrı’dan özgürleştirilirken, devletin büyüyen
+gücüne ve toplumsal adaletsizliklere karşı korumasız kaldığı kabul edilerek,
+tek koruyucusu olarak insan haklarına çağrıda bulunulur. İnsanın devredilmez
+haklarının garantisini kendi kendine bulması doğal bir süreç olarak beklenir
+(Arendt, 2018a, ss. 293-294). Ancak Bildirge’nin ulusal egemenliği ve insan
+haklarını ayrılmaz ikili şeklinde birlikte ele alması, insan haklarının kaynağını
+insanda bulması fikrini iptal edip halkta bulmasına dönüştürür. Arendt’in tam
+ifadesiyle (2018a, s. 295) “Fransız Devrimi’nden sonra insanlık bir uluslar
+ailesi imgesi içerisinde kavrandığından, insanın imgesinin birey değil halk
+olduğu da yavaş yavaş açık hale geldi”. Her türlü otoriteden bağımsız, kendi
+insanlık onurunu bizzat kendisinde bulan insanın, halkın bir unsuruna
+dönüştüğü tam da bu noktada çelişki doğmaktadır (Arendt, 2018a, ss. 293-
+294).
+Arendt, bu durumun Fransız Bildirgesi’ni eleştiren İngiliz muhafazakâr
+Edmund Burke’ün “İngiliz’in hakları” iddiasını teyit ettiğini düşünür.
+
+--- Sayfa 14 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+231
+Burke’e3 göre insan hakları bir “soyutlama”dır. Oysaki haklar, bir ulusa ait
+olmaktan kaynaklanır ve bir İngiliz’in hakları şeklinde somut olarak
+temellenir. Burke’un ifadesiyle, “sahip olduğumuz haklar, “ulusun içinden”
+doğarlar öyle ki hukukun kaynağı olarak, ne doğal hukuka ne ilahi buyruğa ne
+de Robespierre’in “insan ırkı”, “dünya egemenliği” gibi insanlıkla ilgili
+herhangi bir tür kavramlaştırmaya ihtiyaç vardır”  (Arendt, 2018a, s. 309).
+Amerikan Bağımsızlık Bildirgesi’nde olduğu gibi Fransız İnsan ve Yurttaş
+Hakları Bildirgesi’nde de bahsedilen yaşamak, özgür olmak, eşit olmak gibi
+haklar aslında bir ulus-devletin üyesi olan vatandaşın haklarıdır. Arendt
+(2018a, s.301), vatansızların durumunun Burke’un eleştirilerini nasıl
+örneklendirdiğini şöyle tarif eder:
+“Bir zamanlar nasıl tanımlanmış olursa olsunlar (ister
+Amerikan formülüne göre yaşamak, özgürlük ve mutluluğu
+arama hakkı olarak, ister Fransız formülüne göre yasalar
+karşısında eşit olmak, özgürlük, mülkiyetin korunması ve ulusal
+egemenlik biçiminde); mutluluğu aramak gibi belirsiz bir
+formülasyonu ya da şartsız mülkiyet gibi eskitilmiş bir
+formülasyonu geliştirmek için ne yapılmış olursa olsun; 20.
+Yüzyılın yasaların dışına sürdüğü kişilerin gerçek durumu,
+bunların, yitirilmeleri mutlak hak-sızlık durumuna yol açması
+gerekmeyen yurttaş hakları olduklarını göstermektedir.”
+Agamben (2000: 20) için Bildirge’nin, insan ve yurttaş olarak iki ayrı
+gerçekliği belirtmek için mi, yoksa ikincinin daima birinciyi içerdiği bir
+ikileme olarak mı isimlendirildiği net değildir. Ancak Arendt (2012, s. 196)
+insan haklarının Fransız yorumu için “bu sözde insan hakları, yani insanın
+insan olarak haklarını, yurttaş hakları ile denk tutar” ve “[a]zınlıklar gibi
+devletsizler de ulusal hakları yitirmenin insan haklarını yitirmekle özdeş
+olduğuna, birincinin kaçınılmaz olarak ikincisini gerektirdiğine kaniydiler”
+(Arendt, 2018a, s. 296) diyerek aslında bu belirsizliğe yer bırakmaz.
+Bildirge, Locke’un bireysel haklar fikri ile Rousseau’nun halk
+egemenliği kavramını birleştirir (Koçak, 2018, s. 91). Böylece temel haklar,
+bireylerle birlikte uluslara atfedilen bir özellik haline gelirken; ulusun da hem
+insan haklarıyla hem de ulusal egemenlikle bağlı olduğu kabul edilmiştir.
+Aynı zamanda ulusal egemenliğin, üstünde evrensel hukuk dâhil hiçbir şeyi
+tanımayan bir niteliğe sahip olduğu varsayılmıştır. Bu çelişkili gelişmenin
+sonucu olarak insan hakları sadece ulusal haklar olarak algılanmaya başlanmış
+ve devlet, insan haklarının değil ulusal hakların koruyucusu olmuştur (Arendt,
+2018a, s. 193). Ulusal bilincin yükselişi, devletin milliyetine bakmaksızın
+topraklarında yaşayan bütün insanların haklarının koruyucusu olma
+fonksiyonunu, sadece kendi ulusuna ait olanlara medeni ve siyasi hakları
+verme fonksiyonuna dönüştürmüştür. Arendt’in (2018a, s. 192) ifadesi ile
+
+3 İngiliz milliyetçiliğinin ırk ideolojisinin ilk adımlarını Burke’e dayandırmak mümkündür. Burke gibi
+İngiliz muhafazakârları, İngiliz’in haklarının insan haklarının eşitlikçi söylemlerinden üstün olduğunu
+savunarak, ırk düşüncesini ulusal bir hat üzerinde geliştirmişlerdir (Arendt, 2012, s. 98-99).
+
+--- Sayfa 15 ---
+Yıldız Çirli, Yusuf Pustu
+232
+“[d]evlet, halkın iradesi adına, sadece ‘ulusal gruplar’ı yurttaşları olarak
+görmeye, bütün toplumsal ve siyasal hakları sadece köken hakkıyla ve
+doğumla ulusal topluluğun mensubu olan kimselere vermeye zorlandı”.
+Devletin bu işlevsel dönüşümü, Arendt’e (2018a, ss. 192-193) göre devletin
+hukukun bir aygıtı olmaktan çıkıp, ulusun bir aygıtı haline gelerek, kurumsal
+yapısını, yasal ve ussal gücünü yitirdiği anlamına gelmektedir. Hatta bir ulusa
+ait olmanın olumlu yönde kurgulanışı, yabancılardan korunma ve her türlü
+azınlığı dışlama eğilimlerinde bir araç olmaya başlamıştır (Habermas, 2018,
+s. 19). Ulusa ait olmayanların dışlanması, ulusal haklarından mahrum
+bırakılmaları şeklinde uygulamaya konmuştur. Ona (2018a)  göre, “[u]lusal
+haklardan yoksun bırakma, totaliter politikaların güçlü bir silahı haline geldi
+ve Avrupalı ulus devletlerin, ulusal olarak temin edilmiş hakları yitirmiş olan
+kimselerin insan haklarını garanti etmekte anayasal açıdan gösterdiği
+kifayetsizlik” (s. 258) ile birlikte “[t]am da “insan hakları” ibaresi, bütün ilgili
+taraflar – mazlumlar, zalimler ve onları seyredenler – için, umutsuz bir
+idealizmin ya da eblehce beceriksiz bir ikiyüzlülüğün kanıtı haline geldi” (s.
+259). Arendt’in Avrupalı ulus-devletlerin, totaliter yönetimler karşısındaki
+pasif konumlarını sert bir biçimde eleştirmesi, insan haklarının totaliter
+unsurlara yeterli derecede cevap vereceği konusundaki şüphelerinin bir
+göstergesidir (Menke vd., 2007, s. 740). Siyasal olarak gereksiz hale gelen
+ama fiziksel olarak var olan insanlar, kendilerini temsil edecek ve koruyacak
+bir yönetimin pratikteki korumasından mahrum bırakılmış ve nihayetinde
+kalıcı olarak yok edilme tehlikesi ile karşı karşıya kalmışlardır. Bu, bir
+topluluğa aidiyetin milliyet ve ulusal vatandaşlığa sıkı sıkıya bağlı olduğu
+ulus-devletin tarihinin bir sonucudur (Balibar, 2007, ss. 731-732).
+İkinci olarak, Arendt (2018a,  s. 297) göre insan hakları “pratik önemi
+haiz siyasi bir mesele olmamıştır”. İnsan hakları, siyasi yapılardan bağımsız
+ve bu nedenle de devredilmez olarak tanımlandığında, insan haklarının mutlak
+şekilde korunmasını sağlayacak bir yapı aslında öngörülmemektedir. İnsan
+haklarının insan doğasından kaynaklandığı, rasyonelliğe ve doğuştan gelen bir
+ahlaki duyguya güvendiği söylemi, temel hakları örgütsel ve kurumsal olarak
+koruyacak siyasal bir görevden uzaklaştırmaktadır (Cohen, 1996, s. 170).
+İnsan hakları, kimsenin yapmakla sorumlu olmadığı ama “olmalı”
+ideallerinden oluştuğu için gerçeklikten yoksun kalmaktadır (Menke vd.,
+2007, s. 742). Her ne kadar devletlere insan haklarına saygılı olması ve
+koruması gibi prensip ilkeler şeklinde sorumluluk verilse de,  devletin
+korumasının sadece kendi vatandaşları hatta çoğu zaman sadece kendi ulusu
+için geçerli olduğu açıktır. Çünkü siyasi yönetimlerini kaybeden ve asgari
+haklarına çekilen insanları koruyacak bir kurum aslında yoktur (Arendt,
+2018a, s. 295).
+Arendt (2018a, s. 307) uluslararası hukukun vatandaşlığa alma,
+vatandaşlıktan çıkarma ve göç konularında mutlak egemen olan
+devletlerarasındaki anlaşmalarla kuruluyor olmasına dikkat çekerek insan
+haklarına güvensizliğini ifade etmektedir. Sözleşmeci devletlerin ulusal
+
+--- Sayfa 16 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+233
+çıkarlarına fazlasıyla bağlı olan insan hakları rejimi, Arendt'in ima ettiği gibi,
+hukuk dışı ve bu şekilde siyaset dışıdır çünkü egemen devletler söz konusu
+olduğunda yapabileceği bir şey yoktur (Haker, 2017, s. 25). Egemen devletler
+tanım gereği kendi kararları ile insan haklarına dair uluslararası sözleşmelere
+taraf olmaktadır. Örneğin 18 Aralık 1990 tarihli Tüm Göçmen İşçilerin ve Aile
+Fertlerinin Haklarının Korunmasına dair Uluslararası Sözleşme’ye taraf olan
+devlet sayısı sadece 58’dir (Birleşmiş Milletler İnsan Hakları Yüksek
+Komiserliği, 2023). Günümüzde insan hakları konusundaki en üst belge olan
+İnsan Hakları Evrensel Beyannamesi, teknik hukuk anlamında "tavsiye"
+niteliğinde olduğundan "bağlayıcı" bir etkisi yoktur. Sadece genel hukuk
+ilkeleri olarak veya uluslararası teamül hukukundan sayılması yönünde
+hukuksal bağlayıcılık kazandıracak girişimler bulunmaktadır (Aybay, 2006,
+ss. 6-7).
+İnsan hakları siyasi bir meseleden daha çok insani, sosyal ve güvenlikle
+ilgili bir sorun olarak görülmektedir. Fransız Devrimi’nde yönetimin amacı,
+siyasal hakların tam kapasite ile geliştirilmesinden ve yasalarla sağlanan ve
+garantilenen legal persona kavramına saygıdan, hayatın gerekliliklerini
+sağlama garantisi sunmaya dönüşmüştür. İnsan haklarının kaynağı ve amacı,
+insan doğasının ihtiyaçlarının karşılanmasına ve hayatın idame ettirilmesine
+odaklanmıştır (Cohen, 1996, s. 173). Arendt (2012, s. 77), Fransız
+Devrimi’nde yoksulların rolünü anlatırken, devrimci yönetimin özgürlüğü
+kurma çabalarından “giyinme, beslenme ve türünü devam ettirme” haklarına
+yönelmesiyle, insan haklarından halkın mutluluğuna geçiş yapıldığını iddia
+eder4. Fransız Bildirgesi’nin siyasal değil refahla ilgili bir soruna odaklanması
+gibi 1900’lerin başından beri mülteci problemi ile başa çıkmaya çalışan
+Milletler Cemiyeti veya ardından Birleşmiş Milletlerin faaliyetleri de siyasi
+değil, sosyal ve insani niteliktedir. Bireysel değil kitleler halindeki mülteciler
+söz konusu olduğunda, hem devletlerin hem de Birleşmiş Milletlerin sadece
+problemin çözümü konusunda değil, meseleyi yeterli şekilde ele almak
+konusunda da tamamen yeteneksiz oldukları kanıtlandığı için sorun, insani
+organizasyonlara ve polise devredilmiştir (Agamben, 2000, ss. 18-19). İnsan
+hakları konusunda çalışan derneklerin ya da bu konuda yeni veya gelişmiş
+bildiriler için gösterilen gayretlerin, siyasi simalardan ya da kaynaklardan
+ziyade, insancıl duygularla hareket eden kişilerden ve onların yardımlarından
+oluşmasından dolayı, Arendt (2018a, s. 296) bu oluşumları “hayvan koruma
+dernekleriyle tekinsiz bir benzerlik” içinde bulmuştur. Şaşırtıcı olan ise siyasi
+anlamda liberal ya da radikal partilerin insan haklarını parti programlarına
+dâhil bile etmemelerinin yanında, insan hakları kurbanlarının da insan hakları
+derneklerinin uygulamalarına kayıtsız duruşları olmuştur (Arendt, 2018a, s.
+297). Bunun sebepleri 19. yüzyıl ve 20. yüzyıl arasında farklılık gösterir.
+Fransız ve Amerikan Devrimleri ile uygar toplumların bir düsturu olarak
+sunulan insan hakları, 19. yüzyılda bireyleri devletin gücüne ve Sanayi
+
+4 Arendt (2012, s. 77), bu konuda 1789 ve 1793 bildirgelerine atıfla, “insan haklarının baldırı çıplaklar
+haklarına (rights of Sans-Culottes) dönüştüğü” ifadesini kullanır.
+
+--- Sayfa 17 ---
+Yıldız Çirli, Yusuf Pustu
+234
+Devrimi ile artan toplumsal eşitsizliğe karşı (Arendt, 2018a, s. 297) korumak
+üzere liberalizmin bir mekanizması olarak işlemiştir. 20. yüzyılda ise
+herkesin, bir ülkenin vatandaşı olarak “yasalarla cisimleşmiş” insan haklarının
+koruması altında olduğu varsayılmıştır (Arendt, 2018a, s. 298). Fakat etik ya
+da normatif anlamları bir kenara bırakıldığında, uluslararası belgelerle kabul
+edilmiş insan hakları normları, tıpkı anayasalar gibi egemen kişi ve grupların
+çıkar ve değerleriyle uyuşmadığı noktada rafa kaldırılabilmektedir. Örneğin,
+Almanya’nın Weimar Anayasası’nın “etkileyici bir haklar ve özgürlükler
+nizamı” tesis ettiği kabul edilse de, 1930’larda Hitler’in kendi Nazi
+diktatörlüğünü kurması ile kenara atılmıştır (Heywood, 2015, s. 420).
+Anayasalar gibi, insan hakları normları da belli siyasi, ekonomik ve sosyal
+koşullar ile desteklendiğinde işlevselliğini kazanmaktadır. İnsan haklarını
+ihlal eden hükümetlerin birçoğunun özgür seçimlerle geldiği ve politikalarının
+seçmenleri arasında çok az tartışmaya yol açtığı gözlemlenebilir (Finnis,
+2011, s. 225).
+Üçüncü olarak, insan haklarının kaybının ne demek olduğu
+bilinmemektedir. Arendt’e (2018a, ss. 298-299) göre, Martin Heidegger etkisi
+ile5, ilk kaybedilen yurttur; ikinci kaybedilen ise siyasi korumadır. Arendt’e
+(2018a, s. 300) göre tarih boyunca meydana gelen göçlerden farklı olarak, yeni
+çağda yurtlarını kaybedenler herhangi bir yerde yeni bir yurt bulmanın
+imkânsızlığını yaşamaktadır. Bu imkânsızlık, yer yokluğundan ya da dünya
+nüfusunun kalabalıklaşmasından kaynaklanmaz, sadece siyasi bir sorundur.
+Siyasi korumayı kaybedenlere verilen geleneksel sığınma hakkıyla ilgili
+sorun, “yeni zulüm görenler kategorisinin, istisnai durumlar için tasarlanmış
+resmi olmayan bir uygulamanın baş edemeyeceği kadar büyümesiyle”
+(Arendt, 2018a, s. 300) ortaya çıkmıştır. Bireysel vakaların çok ötesine geçen
+kitlesel büyüme, dünyanın bütün topraklarına yayılan uluslar ailesi olarak
+örgütlenme şekli ile birleştiğinde, dünyada yeni bir yurt bulunması
+olanaksızlaşmıştır.
+Sığınma arayanların ulus-devlet sisteminin karşılıklı anlaşma ve
+antlaşmalar ağının dışında kalması, fiziksel olarak bir yurt bulma sorunu ile
+birlikte yasal bir statü veya kişilik kazanamama sorununa dönüşmektedir
+(Parekh, 2008, s. 27). Legal personayı kaybedenlerin “yaşamları, haktan ötürü
+değil, merhametten dolayı uzamaktadır; çünkü ulusları onları beslemeye
+mecbur edecek hiçbir yasa yoktur” (Arendt (2018a, s. 303). (Arendt, 2018a):
+“Hak-sızların içinde bulunduğu felâket, yaşamak, özgür
+olmak ve mutluluğu aramak hakkından ya da yasalar karşısında
+eşit olmak ve düşünce özgürlüğü haklarından yoksun
+
+5 Varlığın mekânsallığı ile ilgilenen Martin Heidegger, başarılı bir varoluşun, önemli ölçüde, bireylerin
+yaşadığı mekânların ve yerlerin uygun şekilde oluşturulmasına bağlı olduğunu düşünmüştür. Bireyin var
+olduğu yer yıkılırsa ya da çökerse, varlığının derinlerine ulaşan bir tür zarara uğrar. Dünya üzerinde bir
+yuvadan yoksunluğun sebep olduğu bir tür kaygı (anxiety) ile birey yetersiz bir varlığa dönüşür (French,
+2015, s. 6).
+
+--- Sayfa 18 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+235
+olduklarından değil –bütün bunlar belli verili topluluklar
+içerisinde sorunları çözmek üzere tasarlanmış formüllerdir–, her
+ne türden olursa olsun artık herhangi bir topluluğun üyesi
+olmamalarından kaynaklanmaktadır. Kötü durumda olmalarının
+nedeni, yasalar karşısında eşit olmamaları değil, onlar için bir
+yasanın var olmamasıdır.” (s. 302).
+Bu sebeple, gözaltı veya toplama kamplarına alınanlar, önce
+yurttaşlıktan ve legal persona olmaktan çıkarılarak hak-sız duruma
+getirilmektedir. Haksız durumuna düştüklerinde düşünce hakkı, ikamet hakkı,
+mülk edinme hakkı gibi hakları da anlamsızlaşmaktadır. Yasaların dışında
+bırakılanlar için bir gözaltı kampında olmak, düşünce özgürlüğünü
+engellemez ama zaten düşünecek bir konu yoktur ya da hareket özgürlüğü
+sağlasa bile ikamet hakkı vermemektedir (Arendt, 2018a, s. 303). Dolayısıyla
+siyasi yönetimini kaybedenlerin insan hakları sorunu, aslında basit bir haktan
+mahrum olma sorunu değil herhangi bir siyasal topluluğun üyesi olarak legal
+persona korumasını kaybederek mutlak haksızlık durumuna düşmüş
+olmalarıdır (Cohen, 1996, ss. 169-170).
+Dördüncü ve en önemlisi olarak, insan hakları insanın en temel hakkı
+olan “haklara sahip olma hakkını” kapsamamaktadır. Arendt’e göre evrensel
+insan hakları olarak sayılanlar sadece bir yönetim ya da hükümet tarafından
+vatandaşına verilen medeni hakları ifade etmektedir ve bunları kaybetmek
+mutlak haksızlık anlamına gelmeyebilir (Parekh, 2004, s. 45). Mutlak
+haksızlık olan durum siyasi topluluğun kaybedilmesidir. Siyasi topluluğunu
+kaybetmek insanın temel niteliği olan insanlık onurunu kaybettiren tek şeydir.
+Oysa insan, siyasal topluluğunu kaybetmeden yani insanlık onurunu
+kaybetmeden de insan haklarını kaybedebilir (Arendt, 2018a, s. 305). Kendini
+mutlak haksızlık durumunda bulan bir insan için insan hakları herhangi bir
+koruma ya da hak sağlayamamaktadır. Arendt’in gözlemlerine göre, 20.
+yüzyılın ilk yarısında vatansızlığın ve milliyetçiliğin yükselmesi, II. Dünya
+Savaşı’nın vahşeti, bir siyasal topluluğa üyelikten mahrum edilenlerin
+haklarının da korunamadığını göstermiştir (Besson, 2012, s. 339). Geleneksel
+devlet-halk-toprak üçlüsünden dışlanan kişi, yasal statüsünden ve siyasi
+topluluk içinde haklarını olması gerektiği gibi kullanma kabiliyetinden
+mahrum kalmaktadır. Arendt’in geleneksel insan hakları doktrini eleştirisinin
+felsefi ve siyasi boyutları bu noktada yakınlaşmakta ve haklara sahip olma
+hakkının tek temel insan hakkı olması iddiasının temelini oluşturmaktadır
+(Hayden, 2008, s. 256).
+Arendt, insan haklarına dair güçlü eleştiriler sunsa da örneğin Cohen
+(1996, ss. 178-182),  bu eleştirilerde özellikle modern dünya koşullarında
+bakıldığında teorik kör noktalar olduğunu iddia eder. Bunlar, Arendt’in
+siyasal topluma tam üyeliğin hakların temeli olduğu konusundaki ısrarı;
+toplumsalın modern biçimine ilişkin olumsuz değerlendirmesi ve insan
+hakları söyleminin anlamına ilişkin yorumudur. Oysaki üyelik olarak
+vatandaşlık günümüzde kimlik, aitlik, katılım ve yasal statü boyutlarında
+
+--- Sayfa 19 ---
+Yıldız Çirli, Yusuf Pustu
+236
+ayrışarak farklı hak düzeylerinde kurumsallaşabilmektedir. Uluslararası
+hukuk, uluslararası kamusal alan ve hareketler, sivil toplum ve sivil aktörler
+toplumsalın modern biçimini oluşturan ve ona siyasi ağırlık veren niteliktedir.
+İnsan hakları söylemi ise sadece ahlaki bir davranış biçimini amaçlamış ve
+ilişkilerden, bağlamdan, vatandaşlıktan veya hukuki statüden arındırılmış
+“dünyasız” bir insanlığı referans almış değildir. Başka bir açıdan ise,
+Arendt’in aktif bir siyasal topluluğa dayandırdığı siyasi kurumlarına nazaran
+daha durağan ve kısıtlı olan modern siyasi kurumlar, onun insan hakları
+siyasetinin gerçekçi olup olmadığını sorgulatabilir (Parekh, 2004, s. 51).
+Arendt insan hakları söyleminin paradokslarına ve etkisizliğine dair
+eleştirilerini geliştirmekte ancak aynı zamanda bu söylemin ahlaki ve siyasal
+önemi üzerinde de ısrar etmektedir (Isaac, 2002, s. 507). Bu bir çelişki gibi
+görünse
+de
+aslında
+yöneltilen
+eleştirilerle
+birlikte
+yeniden
+değerlendirilebilecek ve değişen dünya koşullarına göre okunabilecek bir
+insan hakları değerlendirmesinde bulunduğu kabul edilebilir. Zaten ortaya
+koyduğu çıkmazlar, Arendt’i insan hakları fikrini reddetmesine değil, insan
+haklarının gerçekten nasıl var olabileceği ve felsefi temellerinin nasıl
+kurulabileceği üzerine düşünmeye yöneltmiştir (Berkowitz, 2012, s. 63).
+Arendt’in yaşadığı döneme dair gözlemleriyle desteklediği argümanları
+geçmişte kalmış değildir. Modern dünya, insan hakları meselesinin
+çıkmazlarıyla yüzleşmeye devam etmektedir.
+
+3. İNSAN HAKLARI ÇIKMAZINDA ROHINGYA’LAR
+Arendt’in insan haklarına güvensizliğini içeren yukarıdaki eleştirilerine
+rağmen, İnsan Hakları Evrensel Beyannamesi bugün geçerliliğini
+sürdürmekte ve insan hakları doktrini gelişmeye devam etmektedir. İnsan
+haklarının, 1945'ten itibaren uluslararası hukukun ana söylemi olarak
+benimsenmesi ve uluslararası hukuk ve standartlarda olumlu bir şekilde
+kurumsallaştırılması, devletlerin insan onuru ilkesine, söz konusu insanlar
+tebaaları, yurttaşları ya da düşmanları olduğu için değil, sadece insan oldukları
+için saygı gösterme konusundaki olumlu yönelimini temsil etmektedir
+(Yeatman, 2001, s. 105). İnsan Hakları Evrensel Beyannamesi’nin bağlayıcı
+bir hukuksal niteliği olmamasına rağmen insan haklarının tanınması ve
+korunması açısından çok önemli bir öncü olduğu kabul edilmektedir. Bugün
+553 farklı dilde çevirisinin bulunması da dünya çapında ilgi gördüğünün
+göstergesidir. Beyanname’nin dışında Birleşmiş Milletlerin getirdiği bazı
+düzenlemelerle Arendt’in eleştirilerini benimsediği bile söylenebilir. Mesela
+tabiiyete dair yapılacak her türlü ayrımcılığı yasaklayan somut bir adım olarak
+1954 yılında Vatansız Kişilerin Statüsüne İlişkin Sözleşme kabul edilmiştir.
+Ayrıca 2005 yılında Uluslararası Koruma Sorumluluğu Doktrini adıyla,
+Birleşmiş Milletlere doğal bir hakkın korunmasını siyasi bir hakla
+ilişkilendirerek yasal bir otorite veren uluslararası insani müdahale prosedürü
+oluşturulmuştur (Haker, 2017, s. 28). Bunlara rağmen, dünya savaşlarından
+sonra mülteci, vatansız veya genel olarak göçmenlerin insan hakları sorunları
+
+--- Sayfa 20 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+237
+devletlerin ve uluslararası toplumun gündeminden çıkmış değildir. Arap-İsrail
+savaşı, Bosna Savaşı, Arap Baharı, Afrika ve Orta Amerika’daki gelişmeler
+gibi pek çok savaş, şiddet olayı ve siyasi gerilim her vakada göç krizleri6 ve
+insan hakları sorunları doğurmaya devam etmektedir. Sığınmacı, mülteci,
+vatansız gibi geleneksel temel kategorilerde başlayıp, ülke içinde yerinde
+edilmişler, geçici koruma altındakiler, düzensiz göçmenler gibi yeni modern
+kategoriler ile devam eden insan gruplarının temel ortak sorunu insan
+haklarının ihlal ediliyor olmasıdır.
+Bugün, bu vaka ve kategoriler arasında, Arendt’in insan haklarının
+siyasal ve felsefi yönlerden çıkmazda olduğu yönündeki eleştirilerini en iyi
+örnekleyen güncel durumlardan biri olarak Asya’nın Myanmar ülkesindeki
+Rohingya halkı gösterilebilir. Sayısal olarak bakıldığında, Myanmar’da 2023
+itibariyle iki milyona yakın ülke içinde yerinden edilmiş kişi bulunmaktadır.
+2022 tarihi itibariyle komşu ülkelerde bulunan mülteci ve sığınmacı sayısı ise
+bir milyondan fazladır (Birleşmiş Milletler Mülteciler Yüksek Komiserliği,
+2023). Myanmar’ın 1982 Vatandaşlık Yasası uyarınca etkin bir şekilde
+vatandaşlık verilmeyen Rohingya halkı, aynı zamanda dünyada yerinden
+edilmiş en büyük vatansız nüfusu oluşturmaktadır (Uluslararası Göç Örgütü,
+2022, s. 86). Bu duruma gelinmesinin arkasında uzun bir tarihi geçmiş
+bulunmaktadır. Myanmar’da 2012’de başlayan ve 2016 ve 2017 yıllarında
+artan şiddet, 18. ve 19. yüzyıl İngiliz sömürge politikalarının ardından, İkinci
+Dünya Savaşı sırasında İngiltere ve Japonya’nın desteklediği iki grup olan
+Budist Rakhine ile Müslüman Rohingya (eski adıyla Arakan’lılar) toplulukları
+arasındaki çatışmaların son perdesidir (Druce, 2020, s. 17).
+Myanmar’ın
+1948’de
+bağımsızlığını
+kazanmasıyla
+birlikte
+anayasasında yerli ve yerli olmayan ayrımı getirilmiş, teoride eşit haklara
+sahip olsalar da Rohingya’ların vatandaşlık ve kimlik kartı hakları başvuruya
+bağlanmıştır (Druce, 2020, s. 27). 1982 anayasası ise getirdiği vatandaşlık
+kazanımı kuralları vasıtasıyla Rohingya’ları tam vatandaşlıktan dışlamış ve
+çoğunu vatansız ve yasal bir kişilik kazanmaktan yoksun bırakmıştır (Druce,
+2020, s.  18). 1982 anayasasında jus sanguinis ilkesini benimsemiş ve farklı
+vatandaşlık kategorileri tanımlamıştır.  Tam vatandaşlar, İngiliz sömürgesinin
+başlangıcı olan 1823'ten önce Myanmar'a yerleşen 135 ulusal ırktan birine
+mensup olanlardır. Rohingya’lar, resmi bir etnik grup olarak bu listede yer
+almamıştır. Bağlı vatandaşlar kategorisi, yalnızca kanunun yürürlüğe girdiği
+tarihte 1948 Kanunu kapsamında vatandaşlık başvurusu beklemede olan
+kişileri kapsamıştır. Vatandaşlık kazananlar ise yalnızca Myanmar’ın1948'de
+bağımsızlığını kazanmasından önce ülkeye giriş yapmış ve ikamet konusunda
+kesin kanıt sunabilen, ulusal dillerden birini iyi konuşabilen ve çocukları
+Myanmar'da doğmuş kişilerdir. Ancak çok az Rohingya insanı bu
+gereklilikleri yerine getirebilmiştir. Ayrıca, vatandaşlık kategorilerine uygun
+olarak 1989'da renk kodlu kimlik kartları tanımlanmıştır. Yasal bir statü
+
+6 Bauman (2019) “göç krizi” ifadesini “belirsiz olduğu kadar uğursuz ve kasıtlı olarak endişe verici bir
+kod ad” (s. 60) olarak görür.
+
+--- Sayfa 21 ---
+Yıldız Çirli, Yusuf Pustu
+238
+olmayan “Myanmar'da ikamet edenler” olarak tanımladığı Rohingya’lara ise
+herhangi bir kimlik kartı tanımlanmamış sadece Birleşmiş Milletler Mülteciler
+Yüksek Komiserliği'nin baskısıyla Geçici Kayıt Kartı verilmeye başlanmıştır.
+Ancak doğum yeri belirtilmeyen bu kartlarla doğum yerine ilişkin resmi bir
+kanıt sunulamadığı için vatansızlıkları devam etmektedir (Lewa, 2009, s. 11-
+12).
+Vatandaşlıktan dışlamak ya da tam vatandaş saymamak çoğu haktan
+mahrumiyetin ve adaletsizliğin kaynağını oluşturmaktadır. Kendilerine
+evlilik, çalışma, eğitim, din ve hareket özgürlüğü alanlarında oldukça sınırlı
+haklar verilmiştir (Uluslararası Af Örgütü, 2004). Eğitim ve sağlık sektörleri
+de dâhil olmak üzere kamu hizmetinde çalışmaları yasaktır. Ülke içindeki
+seyahatlerinin izne tabi olması eğitim ve sağlık imkânlarına, iş piyasasına
+erişimlerini kısıtlamaktadır. Sağlık, eğitim imkânları ve evlilik veya doğum
+için Bangladeş’e geçenlerin geri dönmesi ve ülkeye kabul edilmeleri oldukça
+zor olmaktadır (Lewa, 2009, ss. 12-13). Yıllarca süren ve soykırım boyutuna
+varan ayrımcılık ve şiddet, 2000’li yıllarda doruk noktasına ulaşmış ve
+milyonlarca Rohingya insanı ülke içinde yerinden edilmesi veya ülke dışına
+kaçması ile sonuçlanmıştır. Ülke içinde yerinden edilmişlerin, yeterli
+beslenme, sağlık, eğitim, barınma gibi en temel ihtiyaçlara erişim hakları
+reddedilmekte, izin verilen bölgelerin dışında dolaşım özgürlükleri
+bulunmamaktadır (Uluslararası Af Örgütü, 2023, s. 266).
+Komşu ülkelerden Malezya, Tayland, Hindistan ve dünyanın en büyük
+mülteci kampı Cox’s Bazar ile Bangladeş, şiddetten kaçan veya sınır dışı
+edilen Rohingya mültecilerine ev sahipliği yapmaktadır. Sivil toplum
+kuruluşlarından Sınır Tanımayan Doktorlar’a göre Rohingya’lar, en temel
+insani ihtiyaçları karşılamaktan yoksun mülteci kamplarında hareket
+özgürlüğü, çalışma, eğitim ve sağlık hizmetlerine erişim haklarından mahrum
+yaşamakta; yetersiz beslenme, fiziksel ve zihinsel hastalık gibi pek çok
+sorunla mücadele etmektedir (Ten Years, 2022). Bangladeş, gelen
+Rohingya’lara 1990’ı yıllarda mülteci statüsü verilmiş olsa da çok büyük
+kısmını tanımamakta ve “belgesiz Myanmar vatandaşı” olarak tanımlayarak
+yasal bir statü vermemektedir. Kamplarda mülteci olarak tanıdığı
+Rohingya’lara Birleşmiş Milletler Mülteciler Yüksek Komiserliği ve insani
+yardım kuruluşlarının yardımlarıyla çok sınırlı imkânlar sunarken, kamp
+dışında olan ve düzensiz göçmen kabul edilen büyük çoğunluk resmi bir
+korumadan mahrum yaşamaktadır (Lewa, 2009, ss. 11-12). Doğum veya
+evlilik gibi resmi dokümanların verilmeyerek yasal bir statü kazanmalarının
+engellenmesi, beslenme, sağlık gibi haklara olduğu kadar eğitim, çalışma ve
+güvenlik gibi haklara erişmelerine de büyük ölçüde mâni olmaktadır (Avrupa
+Birliği, 2018). Myanmar gibi Bangladeş de 1951 Mültecilerin Hukuki
+Durumuna Dair Sözleşmesi’ne, 1967 Mültecilerin Statüsüne Dair Protokol’e,
+1954 Vatansız Kişilerin Statüsüne İlişkin Sözleşmesi’ne ve 1961
+Vatansızlığın Azaltılmasına Dair Sözleşmesi’ne taraf değildir. Başlangıçta
+Rohingya’lara insani gerekçelerle barınma ve acil durum desteği sağlarken,
+
+--- Sayfa 22 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+239
+sayısı giderek artan Rohingya’ların durumu sınırlı kaynaklara sahip
+Bangladeş için bir mülteci krizine dönüşmüştür. Bangladeş, gönüllü geri
+dönüşü sağlamaya çalışmakla birlikte iki ülke de birbirini işbirliğini
+reddetmekle suçlamaktadır (Habib, 2021, s. 590). Son bir gelişme olarak
+Rohingya’ları uzak ve sel riski bulunan Bhasan Char adasına yerleştirmeyi
+planlamaktadır (Uluslararası Af Örgütü, 2023, s. 88). Hindistan ise 1951
+Sözleşmesi’ne ve 1967 Protokolü’ne taraf olmadığından, mülteci ve
+sığınmacılara karşı uygulamaları geçici ve keyfi gelişmektedir (Sandhu ve
+Sebastian, 2022). Malezya ve Tayland gibi ülkelerde ise yine bir korumaya
+erişememekte ve sınır dışı edilmektedirler.  Rohingya’ların durumunun, ülke
+içinde tutuldukları bölgeler, sığındıkları ülkeler ve mülteci kampları
+açısından, Arendt’in insanların gözaltı veya toplama kamplarına alınmadan
+önce yurttaşlıktan ve yasal bir kişilikten yani legal personadan dışlanarak hak-
+sız duruma getirildiği iddiasını teyit ettiğini söylemek mümkündür.
+Diğer yandan Arendt’in insan haklarının “soyut insan” varsaydığı ve
+aslında “halkların hakları” olduğu eleştirileri, İnsan Hakları Evrensel
+Beyannamesi’nde yer alan haklar açısından Rohingya’ların durumuna
+bakılarak da değerlendirilebilir. Öncelikle 1982 Myanmar Anayasası’nın
+Rohingya’ları vatandaşlıktan ve hatta öz kimlik hakkından yoksun bırakması
+(Avrupa Birliği, 2018), Arendt’in insan haklarının “soyut insan” varsaydığı
+yorumunu doğrular niteliktedir. Rohingya’lar bütün siyasal bağlarından
+koparıldıklarında ve sadece insan olarak kaldıklarında Beyanname’nin
+doğuştan gelen özgürlük ve eşitlik iddiası zedelenmektedir. Bir diğer örnek
+olarak, İnsan Hakları Evrensel Beyannamesi’ndeki, her ferdin bir uyrukluk
+hakkı olduğu ve keyfi olarak uyrukluğundan edilemeyeceği hakları
+gösterilebilir. Uyrukluk hakkı ile aslında birey ve uyruk ilişkisinin uluslararası
+bir mesele olarak kabul edilmesine ve keyfi olarak vatandaşlıktan
+çıkarılmanın
+engellenmesine
+yönelik
+hakların
+evrensel
+kabulünün
+pekiştirilmesi amaçlanmaktadır (Spiro, 2004, s. 92). Ancak etnik, dini, sosyal
+ve anayasaya dayanan yasal bir ayrımcılıkla Rohingya halkının uyruktan
+çıkarılarak vatansız bırakıldığı görülmektedir. Benzer şekilde Myanmar’da ve
+sığındıkları ülkelerde resmi olarak tanınmalarını sağlayacak belgeler
+düzenlenmediği için, Beyanname’de yer alan herkesin hukuk kişiliğinin
+tanınması hakkından mahrum kalmaktadırlar. Uyrukluk hakkı ve hukuk
+kişiliğinin tanınması hakkının ihlal edilerek haksız hale getirilmeleri, artık
+İnsan Hakları Evrensel Beyannamesi’nde insan hakları olarak sayılan diğer
+hemen her haktan kolayca mahrum olabilmelerine sebep olmaktadır. Örneğin,
+herkesin ırk, renk, cinsiyet, dil, din, siyasi veya herhangi başka bir fark
+gözetilmeden Beyanname’de sayılan haklardan faydalandırılması hakkı,
+uyruktan ve yasal kişilikten mahrum edilen Rohingya halkının etnik ve dini
+kökenleri sebebiyle ayrımcılığa uğramasına engel olamamaktadır. Çalışma
+imkânları sınırlandırılarak çalışma hakkı, eğitim ve öğrenime erişimleri
+engellenerek eğitim ve öğrenim hakkı ihlal edilirken, aslında insanlığın
+müşterek dünyasına katılmaları engellenmektedir. Kamp koşullarının
+biyolojik ihtiyaçlarını karşılayacak ve hayat rutini oluşturacak emekten;
+
+--- Sayfa 23 ---
+Yıldız Çirli, Yusuf Pustu
+240
+etrafına kalıcı bir dünya inşa etmesini sağlayacak işten; diğer insanlarla bir
+araya gelerek görünür ve özgür oldukları eylemden yoksun bırakması tam bir
+haksızlık durumuna itmektedir. Bütün bunların sonucunda sivil toplum
+kuruluşları ve merhamet gösterecek diğer ülkelerin yardımlarına muhtaç
+duruma gelmektedirler. Arendt’in dediği gibi “yaşamları, haktan ötürü değil,
+merhametten dolayı uzamaktadır” (Arendt (2018, s. 303). Haker (2017, s. 27)
+da benzer şekilde özellikle yerinden edilmiş kişilerin,  yasal anlamıyla
+adaletsizliğin kurbanları olarak değil ulusal yasalara göre meşru olan
+uygulamaların
+nesneleri
+olarak
+görüldüklerini
+ve
+sivil
+toplumun
+hayırseverliğine bırakıldıklarını düşünmektedir.
+Ayrıca Arendt’in egemen devletlerarasındaki karşılıklı anlaşmalarla
+işlemesinden dolayı uluslararası hukuka ilişkin şüphelerinin (Arendt, 1973, s.
+298) giderildiğini söylemek zordur. Rohingya halkı örneğinde, ağır haksızlık
+durumları ve eşlik eden şiddet karşısında uluslararası toplum tepki vermiştir.
+İnsan Hakları Konseyi’nin 5 Aralık 2017 gerçekleştirilen özel oturumunda
+BM İnsan Hakları Yüksek Komiseri Zeid Ra’ad Al Hussein, Rohingya’ların
+durumundaki soykırım unsurlarının göz ardı edilemeyeceğini ifade etmiştir
+(Birleşmiş Milletler İnsan Hakları Yüksek Komiserliği, 2017). Komiserliğin
+2018 tarihli raporu da soykırım çıkarımına varmış ve uluslararası toplumu
+tepki göstermeye çağırmıştır (Birleşmiş Milletler İnsan Hakları Yüksek
+Komiserliği, 2018). Ancak Myanmar’daki insan hakları ihlallerinin ve
+sorumlularının uluslararası mahkemelere taşınması önerisine, örneğin
+Birleşmiş Milletler Güvenlik Konseyi daimi üyesi olarak veto gücüne sahip
+Çin’in egemenlik çıkarları gereği olumlu bakması olası görünmemektedir
+(Myanmar Rohingya, 2018). Diğer yandan sivil bir girişim olarak,
+Myanmar’da Rohingya halkına barışçıl, müreffeh ve ayrımcı olmayan bir
+gelecek kurmak amacıyla 2016'da Kofi Annan başkanlığında, bağımsız bir
+danışma komisyonu kurulmuştur. Komisyon, devletin sosyoekonomik
+gelişimi, vatandaşlık hakları sorunu, temsil ve katılımın artırılması,
+topluluklar arası uyumun sağlanması, kültürel kalkınma, güvenlik gibi bazı
+önemli noktalarda tavsiyelerde bulunmuştur (Habib, 2021, s. 583). Ancak
+tavsiye, tepki ve çağrılar, Birleşmiş Milletlerin, “dünyanın en çok zulme
+uğrayan azınlığı” (Rohingya Refugee Crisis, 2023) olarak tanımladığı
+Rohingya
+halkı
+için
+haksızlık
+ve
+şiddetin
+sonlandırılmasını
+sağlayamamaktadır. Her ne kadar Benhabib (2000, s. 80), Arendt’in
+vatansızların uluslararası yasal ve normatif bir düzen tarafından
+korunamayacağına dair endişesini “melankolik” bulsa da insan haklarının
+vatandaş olmayanlar için veya ülke içinde yerinden edilmiş kişiler için tam
+olarak sağlanamadığına ve uluslararası kuruluşların çabasının insani
+yardımdan öteye geçemediğine dair kanıtları, başta Birleşmiş Milletlerin
+kuruluşları olmak üzere uluslararası kuruluşların raporlarında görmek
+mümkündür. Sadece Myanmar’da değil dünyanın hemen her kıtasında
+Beyanname’ye aykırı olarak insan hakları krizleri ve ihlalleri (Birleşmiş
+Milletler İnsan Hakları Yüksek Komiserliği, 2018; Avrupa Birliği, 2018;
+İnsan Hakları İzleme Örgütü, 2023) yaşanmaya devam etmektedir.
+
+--- Sayfa 24 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+241
+Sonuç
+İnsan hakları en güçlü çağdaş öğretilerden biridir. En basit anlamıyla
+insanların doğuştan, evrensel ve devredilmez haklara sahip olmasını ifade
+eder. Tarih boyunca insanın haklarına ve korunmasına yönelik bildiriler
+hazırlandığı görülmektedir. Bunlardan İnsan Hakları Evrensel Beyannamesi
+1945’ten beri dünyada kabul gören bir bildiridir. İnsan haklarının felsefesi
+gereği bütün insanlara atfedilen niteliklerden ve bütün insanların yararlanması
+gereken haklardan oluştuğu açıktır. Ancak Hannah Arendt, insan haklarının
+teorik yapısı ve siyasi anlamı konusunda güçlü bir eleştiri geliştirmiştir.
+Eleştirilerinin çıkış noktası, dünya savaşlarının ardından kitle halinde oluşan
+azınlık, mülteci ve vatansız insanların insan haklarının sağlanamamış ve
+korunamamış olmasıdır. Arendt’in bakış açısına göre bu durum öncelikle
+insan haklarının liberal temellerinden dolayı insanı sosyal ve siyasi
+bağlamından
+kopararak
+sadece
+insan
+olmanın
+soyut
+çıplaklığına
+indirgemesinin sonucudur. Toplumsal ve siyasi bağlarından koparılan
+vatansız, mülteci ve azınlıklar için insan haklarının koruma sağlayacağı bir
+dayanak bulunmamaktadır. Bununla bağlantılı şekilde ikinci olarak, siyasi
+yönetimini kaybeden ve hukuki kişilikten yoksun bırakılan insanların durumu,
+insan haklarına sahip olmaktan öte mutlak bir haksızlığa dönüşmektedir.
+Arendt, eleştirileri ile ulus ve devlet gerilimine ve insan haklarına içkin
+çıkmazlara ışık tutmaktadır. Aslında insan haklarının çıkmazlarını ortaya
+sererken, insan haklarının terk edilmesi gerektiğini savunmamaktadır. Aksine
+insan haklarının, haklara sahip olma hakkı gibi siyasal ve ontolojik bir hak
+üzerinden yeniden düşünülmesi çağrısında bulunmaktadır (Gündoğdu, 2011,
+s. 14). Bu çağrı, günümüzde Rohingya halkının örneğinde olduğu gibi
+bildirilere ve antlaşmalara rağmen devam eden ve insan hakları açığı, krizi
+veya ihlali diye nitelendirilen durumlar oluştukça tartışılmaya devam
+etmektedir.
+
+Hakem Değerlendirmesi: Dış Bağımsız
+Yazar Katkısı: Yıldız Çirli %70, Yusuf Pustu %30.
+Destek ve Teşekkür Beyanı: Çalışma için destek alınmamıştır.
+Etik Onay: Bu çalışma etik onay gerektiren herhangi bir insan veya hayvan
+araştırması içermemektedir.
+Çıkar Çatışması Beyanı: Çalışma ile ilgili herhangi bir kurum veya kişi ile çıkar
+çatışması bulunmamaktadır.
+
+Peer Review: Independent double-blind
+Author Contributions: Yıldız Çirli 70%, Yusuf Pustu 30%.
+Funding and Acknowledgement: No support was received for the study.
+Ethics Approval: This study does not contain any human or animal research that
+requires ethical approval.
+
+--- Sayfa 25 ---
+Yıldız Çirli, Yusuf Pustu
+242
+Conflict of Interest: There is no conflict of interest with any institution or person
+related to the study.
+
+Önerilen Atıf: Çirli, Y. & Pustu, Y. (2023). Hannah Arendt ve insan haklarının
+çıkmazları.
+Akademik
+Hassasiyetler,
+10(23),
+218-248.
+https://doi.org/10.58884/akademik-hassasiyetler.1337730
+
+Kaynakça
+Agamben, G. (1998). Homo sacer: Sovereign power and bare life (Ed. W.
+Hamacher & D. E. Wellbery) (Çev. D. Heller-Roazen ). Stanford
+University Press.
+Agamben, G. (2000). Means without end: Notes on politics (Çev. V. Binetti
+& C. Casarino). University of Minnesota Press.
+Arendt, H. (1973). The origin of totalitarianism. Harcourt.
+Arendt, H. (2007). We refugees. J. Kohn & R. H. Feldman (Ed.), The Jewish
+writings içinde  (s. 264-274). Schonken Books.
+Arendt, H. (2012). Devrim üzerine (1. bs., Çev. O. E. Kara). İletişim Yayınları.
+Arendt, H. (2013). İnsanlık durumu (7. bs., Çev. B. S. Şener). İletişim
+Yayınları.
+Arendt, H. (2014). Geçmişle gelecek arasında (5. bs., Çev. B. S. Şener & O.
+E. Kara). İletişim Yayınları.
+Arendt, H. (2018a). Totalitarizmin kaynakları 2: Emperyalizm (6. bs., Çev. B.
+S. Şener). İletişim Yayınları.
+Arendt, H. (2018b). Totalitarizmin kaynakları 3: Totalitarizm (3. bs., Çev. İ.
+Serin). İletişim Yayınları.
+Arnhart, L. (2013). Planton'dan Rawls'a siyasi düşünce tarihi (Çev. A. K.
+Bayram). Adres Yayınları.
+Avrupa Birliği. (2018). The Rohingya crisis. 8 Nisan 2023 tarihinde
+https://ec.europa.eu/echo/files/aid/countries/factsheets/rohingya_en.pd
+f adresinden edinilmiştir.
+Aybay, R. (2006). Açıklamalı insan hakları evrensel bildirisi. Türkiye Barolar
+Birliği Yayınları.
+Balibar. E. (2007). (De)Constructing the human as human institution: A
+reflection on the coherence of Hannah Arendt's practical philosophy,
+Social Research, 74(3), 727-738. 16 Mayıs 2023 tarihinde
+http://www.jstor.org/stable/40972122 adresinden edinilmiştir.
+Bauman, Z. (2019). Kapımızdaki yabancılar (2. bs., Çev. E. Barca). Ayrıntı
+Yayınları.
+Beiner, R. (2000). Arendt and nationalism. D. Villa (Ed.), The Cambridge
+companion to Hannah Arendt içinde (s. 44-62). Cambridge University
+Press. https://doi.org/10.1017/CCOL0521641985
+
+--- Sayfa 26 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+243
+Benhabib, S. (2000). Arendt’s Eichmann in Jerusalem. D. Villa (Ed), The
+Cambridge companion to Hannah Arendt içinde (s. 65-85). Cambridge
+University Press. https://doi.org/10.1017/CCOL0521641985
+Berkowitz, R. (2012). Hannah Arendt on human rights. T. Cushman (Ed.),
+Handbook of human rights içinde (s. 59-67). Routledge.
+Besson, S. (2012). The right to have rights: From human rights to citizens’
+rights and back. M. Goldoni & C. McCorkindale (Ed.), Hannah Arendt
+and the law içinde (s. 335-355). Hart Publishing.
+Birleşmiş Milletler İnsan Hakları Yüksek Komiserliği. (2017, 5 Aralık).
+Special session of the human rights council on the human rights
+situation of the minority Rohingya Muslim population and other
+miniorities in the Rakhine State of Myanmar. 16 Mayıs 2023 tarihinde
+https://www.ohchr.org/en/statements/2017/12/special-session-human-
+rights-council-human-rights-situation-minority-
+rohingya?LangID=E&NewsID=22487 adresinden edinilmiştir.
+Birleşmiş Milletler İnsan Hakları Yüksek Komiserliği. (2018, 10-28 Eylül).
+Report of the independent international fact-finding mission on
+Myanmar.
+16
+Mayıs
+2023
+tarihinde
+https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCo
+uncil/FFM-Myanmar/A_HRC_39_64.pdf adresinden edinilmiştir.
+Birleşmiş Milletler İnsan Hakları Yüksek Komiserliği. (2023). Status of
+ratification: Interactive dashboard. 16 Mayıs 2023 tarihinde
+https://indicators.ohchr.org/ adresinden edilmiştir.
+Birleşmiş Milletler Mülteciler Yüksek Komiserliği. (2023, 6 Mart). Myanmar
+Emergency
+Update.
+14
+Mayıs
+2023
+tarihinde
+https://data.unhcr.org/en/documents/details/99517
+adresinden
+edinilmiştir.
+Brunkhorst, H. (2000). Equality and elistism in Arendt. D. Villa (Ed.), The
+Cambridge companion to Hannah Arendt içinde (s. 178-198).
+Cambridge
+University
+Press.
+https://doi.org/10.1017/CCOL0521641985
+Canovan, M. (1995). Hannah Arendt: A reinterpretation of her political
+thought. Cambridge University Press.
+Cohen, J. L. (1996). Rights and cizenship, and the modern form of the social:
+Dilemmas of Arendtian republicanism. Constellations, 3(2), 164–189.
+https://doi.org/10.1111/j.1467-8675.1996.tb00052.x
+DeGooyer, S., Hunt, A., Maxwell & L. Moyn, S. (2018). The right to have
+rights. Verso.
+Deveci, C. (2002). Understanding human rights with Aristotelian
+Universalism. I. Kuçuradi (Ed.), Human rights: In Turkey and the world
+in the light of fifty-year experience içinde (s. 33-68). Hacettepe
+Üniversitesi.
+
+--- Sayfa 27 ---
+Yıldız Çirli, Yusuf Pustu
+244
+Druce, S. C. (2020). Myanmar’s unwanted ethnic minority: A history and
+analysis of the rohingya crisis. M. Oishi (Ed.), Managing conflict in a
+globalizing ASEAN incompatibility management through good
+governance içinde (s. 17-46). Springer Nature.
+Dumont, L. (2013). Bireycilik üzerine denemeler: Doğuş. XII. yüzyıldan
+başlayarak siyaset kategorisi ve devlet.  C. B. Akal (Der.). Devlet
+Kuramı içinde (4. bs., Çev. H. Tufan). (s. 141-174). Dost Kitabevi.
+Finnis, J. (2011). Natural law and natural rights (2. bs.). Clarendon Press.
+French, C. (2015). To lose one’s home in the world: The injustice of
+immigrant detention. Journal of International Political Theory, 11(3),
+351-369. https://doi.org/10.1177/1755088215585026
+Fudge, J. (2014). Making claims for migrant workers: human rights and
+citizenship.
+Citizenship
+Studies,
+18(1),
+29-45.
+https://doi.org/10.1080/13621025.2014.865894
+Gallas, E. (2017). The struggle for a universal human rights regime: Hannah
+Arendt and Hermann Broch on the paradoxes of a concept. S:I.M.O.N.
+Shoah: Intervention. Methods Documentation. 4(2), 123-131.
+https://doi.org/10.23777/sn.0217/sww_egal01
+Gündoğdu, A. (2011). ‘Perplexities of the rights of man’: Arendt on the
+aporias of human rights. European Journal of Political Theory, 11(1),
+4–24. https://doi.org/10.1177/1474885111417781
+Gündoğdu, A. (2012).  Potentialities of human rights: Agamben and the
+narrative of fated necessity, Contemporary Political Theory, 11(1), 2-
+22. https://doi.org/10.1057/cpt.2010.45
+Gündoğdu, A. (2015). Rightlessness in age of rights: Hannah Arendt and the
+contemporary struggles of migrants. Oxford University Press.
+Habermas, J. (2018). "Öteki" olmak "öteki"yle yaşamak (10. bs., Çev. İ. Ata).
+Yapı Kredi Yayınları.
+Habib, M. R. (2021). The “stateless” Rohingya in Bangladesh: Crisis
+management
+and
+policy
+responses. Asian
+Politics
+and
+Policy, 13(4), 577–596. https://doi.org/10.1111/aspp.12611
+Haker, H. (2017). No space. Nowhere: Refugees and the problem of human
+rights in Arendt and Ricoeur, Ricoeur Studies, 8(2), 22-45.
+https://doi.org/10.5195/errs.2017.412
+Hayden, P. (2008). From exclusion to containment: Arendt, sovereign power,
+and statelessness. Societies Without Borders 3(2), 248-269. 16 Mayıs
+2023 tarihinde https://scholarlycommons.law.case.edu/swb/vol3/iss2/3
+adresinden edinilmiştir.
+Heywood, A. (2015). Siyaset (16. bs., Çev. B. B. Özipek, vd.). Adres
+Yayınları.
+
+--- Sayfa 28 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+245
+Ignatieff, M. (2001). Human rights as idolatry. A. Gutmann (Ed.),  Human
+rights as politics and idolatry içinde (s. 53-98).  Princeton University
+Press.
+Isaac, J. C. (2002). Hannah Arendt on human rights and the limits of exposure,
+or why Noam Chomsky is wrong about the meaning of Kosovo. Social
+Research, 69(2), 505-539. https://www.jstor.org/stable/40971560
+İnsan Hakları İzleme Örgütü. (2023). World report 2023: Events of 2022. 3
+Mayıs
+2023
+tarihinde
+https://www.hrw.org/sites/default/files/media_2023/01/World_Report
+_2023_WEBSPREADS_0.pdf adresinden edinilmiştir.
+Koçak, M. (2018). Self determinasyon hakkı ve self determinasyon hakkı
+teorileri. Dicle Üniversitesi Hukuk Fakültesi Dergisi, 23(38), 85-148.
+Krause M. (2008). Undocumented migrants: An Arendtian perspective.
+European
+Journal
+of
+Political
+Theory.
+7(3),
+331-348.
+https://doi.org/10.1177/1474885108089175
+Kuçuradi, I. (2018). İnsan hakları: Kavramları ve sorunları. Türkiye Felsefe
+Kurumu.
+Lewa, C. (2009). North Arakan: An open prison for the rohingya in
+burma. Forced Migration Review, 32, 11-13. 29 Eylül 2023 tarihinde
+https://www.proquest.com/scholarly-journals/north-arakan-open-
+prison-rohingya-burma/docview/236516719/se-2
+adresinden
+edinilmiştir.
+Myanmar Rohingya: UN says military leaders must face genocide charges
+(2018,
+27
+Ağustos).
+29
+Eylül
+2023
+tarihinde
+https://www.bbc.com/news/world-asia-45318982
+adresinden
+edinilmiştir.
+McGowan, J. (1998). Hannah Arendt an introduction. University of
+Minnesota Press.
+Menke, C., Kaise, B. & Thiele, K. (2007). The "aporias of human rights" and
+the "one human right": Regarding the coherence of Hannah Arendt's
+argument.
+Social
+Research,
+74(3),
+739-762.
+http://www.jstor.org/stable/40972123
+Parekh, S. (2004). A meaningful place in the world: Hannah Arendt on the
+nature of human rights. Journal of Human Rights, 3(1), 41-52.
+https://doi.org/10.1080/1475483042000185215
+Parekh, S. (2008). Hannah Arendt and the challenge of modernity: A
+Phenomenology of Human Rights. Routledge.
+Rohingya Refugee Crisis Explained. (2023, 23 Ağustos). 29 Eylül 2023
+tarihinde
+https://www.unrefugees.org/news/rohingya-refugee-crisis-
+explained/#Rohingya adresinden edinilmiştir.
+Sandhu, K. & Sebastian, S. (2022, 19 Ağustos). Rohingya and CAA: What is
+India’s
+refugee
+policy?.
+16
+Mayıs
+2023
+tarihinde
+
+--- Sayfa 29 ---
+Yıldız Çirli, Yusuf Pustu
+246
+https://www.bbc.com/news/world-asia-india-62573446
+adresinden
+edinilmiştir.
+Somers, M. R. (2008). Genealogies of citizenship markets, statelessness, and
+the right to have Rights. Cambridge University Press.
+Spiro, P. J. (2004). Mandated membership, diluted identity:  Citizenship,
+globalization, and international law. A. Brysk & G. Shafir (Ed.), People
+out of place: globalization, human rights, and the citizenship gap içinde
+(s. 87-108). Routledge.
+Ten years in dire conditions perpetuates severe mental health problems for
+Rohingya.
+(2022,
+14
+Temmuz).
+10
+Mayıs
+2023
+tarihinde
+https://www.msf.org/after-10-years-camps-myanmar-rohingya-
+mental-health-continues-suffer adresinden edinilmiştir.
+Uluslararası Af Örgütü. (2004,  18 Mayıs). Myanmar: The Rohingya Minority:
+Fundamental
+rights
+denied.
+6
+Mayıs
+2023
+tarihinde
+https://www.amnesty.org/en/documents/ASA16/005/2004/en/
+adresinden edinilmiştir.
+Uluslararası Af Örgütü. (2023, 27 Mart). Amnesty international report
+2022/23: The state of the world’s human rights. 5 Mayıs 2023 tarihinde
+https://www.amnesty.org/ adresinden edinilmiştir.
+Uluslararası Göç Örgütü. (2022). World Migration Report 2022. 6 Mayıs 2023
+tarihinde
+https://publications.iom.int/books/world-migration-report-
+2022 adresinden edinilmiştir.
+Yeatman, A. (2001). Who is the subject of human rights? Meredyth, D. &
+Minson, J. (Ed.), Citizenship and Cultural Policy içinde (s. 104-119).
+SAGE.
+Young-Bruehl, E. (2006). Why Arendt matters. Yale University Press.
+Zembylas, M. (2017). Re-envisioning human rights in the light of Arendt and
+Rancière:  Towards an agonistic account of human rights education.
+Journal
+of
+Philosophy
+of
+Education,
+
+51(4),
+709-724.
+https://doi.org/10.1111/1467-9752.12269
+
+Extended Abstract
+The result of the Second World War demonstrated that there was a need
+to find a solution in order to prevent the worst from happening again. United
+Nations adopted The Universal Declaration of Human Rights in 1948 as a
+common standard for protecting the rights of every individual. Shortly after
+the adoption of the Declaration, Hannah Arendt provided the one of the most
+influential critiques of the human rights. Arendt, a German-born American
+philosopher, observed the problems and right struggles of the minorities,
+refugees, and stateless people in the first half of the twentieth century.
+Although human rights premises on the idea that all human beings are born
+free and equal in dignity and rights, Arendt argues that when the minorities,
+
+--- Sayfa 30 ---
+Hannah Arendt ve İnsan Haklarının Çıkmazları
+247
+refugees and stateless people are deprived of their civil and political rights,
+they found that even their human rights do not guarantee the protection against
+injustice and persecution.
+From an Arendtian perspective, human rights differs from traditional
+position of human rights. For Arendt, human rights are products of the
+common world of humanity. It is clear that Arendt takes the human status as
+political beings like Aristoteles. Arendt efforts to understand freedom,
+equality, and rights not as a given status but instead as political practice. Thus,
+Arendt proposes to rethink human rights as a “right to have rights” at the end
+of reflections on minority, refugees, and stateless people. A right to have right
+denotes a right to belong to a political community or to live in a framework
+where one’s actions, speeches, and opinions count.
+Arendt’s analysis of human rights brings to light the perplexities of
+human rights in the nation-state. Arendt draws her argument against classical
+idea of the human rights from her sociological and political observations. One
+of the aspect of Arendt’s arguments can be found in the liberal principles of
+human rights. Firstly, the human rights ideals are based on an abstract man.
+The abstract understanding of a human being suggests the idea that people are
+free from all political and social context.  Secondly, the idea that each human
+being is born free and equal excludes their political identity. Thirdly, when
+people are deprived of membership in a political community, it is very
+difficult to claim and exercise the rights simply because they are human
+beings. Fourthly, considering the history of human, there is also reason to
+doubt that human nature and dignity can do defend human rights morally and
+politically. Finally, the principle that people have inalienable rights whether
+or not they are citizens or migrants, no matter their race, and their colour loses
+its significance for those who lost their political community.
+Another aspect of Arendt’s arguments focus on the political meanings
+of human rights. In this context, first, Arendt claims that the dichotomy of
+"man" and "citizen" stated in the French Declaration of The Rights of Man
+and of The Citizen (1789) leads to the assumption that the rights of man are
+the rights of the people not the individuals. Second, human rights are mainly
+perceived as a humanitarian and social problem rather than a practical political
+issue. Third, it is disregarded the fact that the loss of human rights means
+inability to find a new home in the world and at the same time the loss of all
+government protection. Four, the human rights do not recognize the right to
+have right as a fundamental right. Arendt’s critiques of human rights indicate
+the right to have right as the condition of possibility for other rights such as
+the right to legal personhood, the right to education, and the right to work.
+Every year, war, conflicts, underdevelopment and even climate changes
+are leading to large movements of people in the world. Millions of people
+becomes refugee, asylum-seeker, internally displaced or stateless person
+because of these movements.  One of the leading challenges of this global
+phenomenon is the human rights of migrants. At this point, Arendt provides
+
+--- Sayfa 31 ---
+Yıldız Çirli, Yusuf Pustu
+248
+useful conceptual of tools to discuss the human rights under the paradigm of
+the nation-state. In case of the Rohingya people, a rereading of Arendt offers
+an opportunity to review her human rights critiques and think about
+conceptions of right to have rights, action, work, and labour. The Rohingya
+people, the one of the ethnic groups in Myanmar and the largest stateless
+population in the world, placed on the political and humanitarian agenda as
+the victims of long-running conflicts. The Rohingya people, stripped of their
+citizenship, continue to remain internally displaced or live in refugee camps
+without legal status. The lack of legal personhood of the Rohingya have
+serious consequences for social and economic rights including the rights to
+work, health, education, and family. In this framework, it becomes clear that
+the rights declared in The Universal Declaration of Human Rights cannot be
+guaranteed when people are deprived of membership in a political community.
+The condition of rightlessness also denotes obstacles to enjoying vitality from
+daily activities of life, establishing an inhabitable world, and creating an
+identity in the company of others.
+Arendt’s critique of human rights takes its starting point from the
+problems of the minority, refugees, and stateless people. Arendt’s critique is
+not an attempt to object to universally accepted rights. Rather she proposes to
+rethink the politics of human rights by exposing the embedded paradox of
+human rights and the limits of nation-state. Because, the world history
+demonstrates that human rights issues are not accidental incidents or
+implementation failures.

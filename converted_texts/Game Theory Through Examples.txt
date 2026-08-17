@@ -1,0 +1,2579 @@
+--- Sayfa 1 ---
+through EXAMPLES
+ERICH
+PRISNER
+Game
+CLASSROOM RESOURCE MATERIALS
+
+--- Sayfa 2 ---
+p g
+Game Theory
+Through Examples
+
+--- Sayfa 3 ---
+p g
+c
+ 2014 by the Mathematical Association of America, Inc.
+Electronic edition ISBN 978-1-61444-115-1
+
+--- Sayfa 4 ---
+p g
+Game Theory
+Through Examples
+Erich Prisner
+Franklin University Switzerland
+Published and Distributed by
+The Mathematical Association of America
+
+--- Sayfa 5 ---
+p g
+Council on Publications and Communications
+Frank Farris, Chair
+Committee on Books
+Fernando Gouvˆea, Chair
+Classroom Resource Materials Editorial Board
+Susan G Staples, Editor
+Michael Bardzell
+Jennifer Bergner
+Caren L Diefenderfer
+Christopher Hallstrom
+Cynthia J Huffman
+Paul R Klingsberg
+Brian Lins
+Mary Morley
+Philip P Mummert
+Barbara E Reynolds
+Darryl Yong
+
+--- Sayfa 6 ---
+p g
+CLASSROOM RESOURCE MATERIALS
+Classroom Resource Materials is intended to provide supplementary classroom material for students—
+laboratory exercises, projects, historical information, textbooks with unusual approaches for presenting math-
+ematical ideas, career information, etc.
+101 Careers in Mathematics, 3rd edition edited by Andrew Sterrett
+Archimedes: What Did He Do Besides Cry Eureka?, Sherman Stein
+Calculus: An Active Approach with Projects, Stephen Hilbert, Diane Driscoll Schwartz, Stan Seltzer, John
+Maceli, and Eric Robinson
+Calculus Mysteries and Thrillers, R. Grant Woods
+Conjecture and Proof, Mikl´os Laczkovich
+Counterexamples in Calculus, Sergiy Klymchuk
+Creative Mathematics, H. S. Wall
+Environmental Mathematics in the Classroom, edited by B. A. Fusaro and P. C. Kenschaft
+Excursions in Classical Analysis: Pathways to Advanced Problem Solving and Undergraduate Research, by
+Hongwei Chen
+Explorations in Complex Analysis, Michael A. Brilleslyper, Michael J. Dorff, Jane M. McDougall, James S.
+Rolf, Lisbeth E. Schaubroeck, Richard L. Stankewitz, and Kenneth Stephenson
+Exploratory Examples for Real Analysis, Joanne E. Snow and Kirk E. Weller
+Exploring Advanced Euclidean Geometry with GeoGebra, Gerard A. Venema
+Game Theory Through Examples, Erich Prisner
+Geometry From Africa: Mathematical and Educational Explorations, Paulus Gerdes
+Historical Modules for the Teaching and Learning of Mathematics (CD), edited by Victor Katz and Karen
+Dee Michalowicz
+Identiﬁcation Numbers and Check Digit Schemes, Joseph Kirtland
+Interdisciplinary Lively Application Projects, edited by Chris Arney
+Inverse Problems: Activities for Undergraduates, Charles W. Groetsch
+Keeping it R.E.A.L.: Research Experiences for All Learners, Carla D. Martin and Anthony Tongen
+Laboratory Experiences in Group Theory, Ellen Maycock Parker
+Learn from the Masters, Frank Swetz, John Fauvel, Otto Bekken, Bengt Johansson, and Victor Katz
+Math Made Visual: Creating Images for Understanding Mathematics, Claudi Alsina and Roger B. Nelsen
+Mathematics Galore!: The First Five Years of the St. Marks Institute of Mathematics, James Tanton
+Methods for Euclidean Geometry, Owen Byer, Felix Lazebnik, and Deirdre L. Smeltzer
+Ordinary Differential Equations: A Brief Eclectic Tour, David A. S´anchez
+Oval Track and Other Permutation Puzzles, John O. Kiltinen
+Paradoxes and Sophisms in Calculus, Sergiy Klymchuk and Susan Staples
+A Primer of Abstract Mathematics, Robert B. Ash
+Proofs Without Words, Roger B. Nelsen
+Proofs Without Words II, Roger B. Nelsen
+Rediscovering Mathematics: You Do the Math, Shai Simonson
+
+--- Sayfa 7 ---
+p g
+She Does Math!, edited by Marla Parker
+Solve This: Math Activities for Students and Clubs, James S. Tanton
+Student Manual for Mathematics for Business Decisions Part 1:
+Probability and Simulation,
+David
+Williamson, Marilou Mendel, Julie Tarr, and Deborah Yoklic
+Student Manual for Mathematics for Business Decisions Part 2:
+Calculus and Optimization,
+David
+Williamson, Marilou Mendel, Julie Tarr, and Deborah Yoklic
+Teaching Statistics Using Baseball, Jim Albert
+Visual Group Theory, Nathan C. Carter
+Which Numbers are Real?, Michael Henle
+Writing Projects for Mathematics Courses: Crushed Clowns, Cars, and Coffee to Go, Annalisa Crannell,
+Gavin LaRose, Thomas Ratliff, and Elyn Rykken
+MAA Service Center
+P.O. Box 91112
+Washington, DC 20090-1112
+1-800-331-1MAA
+FAX: 1-301-206-9789
+
+--- Sayfa 8 ---
+p g
+Contents
+Preface
+xvi
+1
+Theory 1: Introduction
+1
+1.1
+What’s a Game? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1
+1.2
+Game, Play, Move: Some Deﬁnitions
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1
+1.3
+Classiﬁcation of Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+2
+Theory 2: Simultaneous Games
+4
+2.1
+Normal Form—Bimatrix Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+2.1.1
+Two Players . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+2.1.2
+Two Players, Zero-sum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+2.1.3
+Three or More Players . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+2.1.4
+Symmetric Games
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+2.2
+Which Option to Choose . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+2.2.1
+Maximin Move and Security Level . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+2.2.2
+Dominated Moves
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+2.2.3
+Best Response
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+2.2.4
+Nash Equilibria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+2.3
+Additional Topics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+2.3.1
+Best Response Digraphs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+2.3.2
+2-Player Zero-sum Symmetric Games . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+Project 1: Reacting fast or slow . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+18
+3
+Example: Selecting a Class
+19
+3.1
+Three Players, Two Classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+3.1.1
+“I like you both” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+3.1.2
+Disliking the Rival . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+21
+3.1.3
+Outsider . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+21
+3.2
+Larger Cases
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+3.3
+Assumptions
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+Project 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+Project 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24
+Project 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24
+vii
+
+--- Sayfa 9 ---
+p g
+viii
+Contents
+4
+Example: Doctor Location Games
+25
+4.1
+Doctor Location . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+4.1.1
+An Example Graph . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+4.1.2
+No (Pure) Nash Equilibrium?
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+4.1.3
+How Good are the Nash Equilibria for the Public?
+. . . . . . . . . . . . . . . . . . .
+28
+4.2
+Trees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+4.3
+More than one Ofﬁce (optional)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31
+Project 5: Doctor location on MOPs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+33
+Project 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+33
+Project 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+33
+5
+Example: Restaurant Location Games
+34
+5.1
+A First Graph . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+35
+5.2
+A Second Graph . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+36
+5.3
+Existence of Pure Nash Equilibria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+37
+5.4
+More than one Restaurant (optional) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+38
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+39
+6
+Using Excel
+42
+6.1
+Spreadsheet Programs like Excel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+42
+6.2
+Two-Person Simultaneous Games
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+43
+6.3
+Three-Person Simultaneous Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+43
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+43
+Project 8: Simultaneous Quatro-Uno . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+44
+Project 9: Restaurant Location Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+44
+Project 10: 5 Knights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+45
+Project 11: 5 Cardinals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+45
+7
+Example: Election I
+47
+7.1
+First Example . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+47
+7.2
+Second Example
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+48
+7.3
+The General Model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+50
+7.4
+Third Example
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+50
+7.5
+The Eight Cases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+51
+7.6
+Voting Power Indices (optional)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+51
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+52
+8
+Theory 3: Sequential Games I: Perfect Information and no Randomness
+53
+8.1
+Extensive Form: Game Tree and Game Digraph . . . . . . . . . . . . . . . . . . . . . . . . .
+53
+8.2
+Analyzing the Game: Backward Induction . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+56
+8.2.1
+Finite Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+56
+8.2.2
+The Procedure
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+57
+8.2.3
+Zermelo’s Theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+59
+8.3
+Additional Topics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+59
+8.3.1
+Reality Check . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+59
+8.3.2
+Playing it Safe—Guaranteed Payoffs
+. . . . . . . . . . . . . . . . . . . . . . . . . .
+61
+8.3.3
+Two-person Zero-sum Games
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+63
+
+--- Sayfa 10 ---
+p g
+Contents
+ix
+8.3.4
+Breaking Ties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+64
+8.3.5
+Existing Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+64
+8.3.6
+Greedy Strategies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+65
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+65
+Project 12: TAKE SOME . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+69
+Project 13: WHO’s NEXT(n) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+69
+Project 14: LISA’s GAME . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+69
+Project 15: 2-AUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+69
+Project 16: 3-AUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+69
+9
+Example: Dividing A Few Items I
+70
+9.1
+Greedy Strategy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+70
+9.2
+Backward Induction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+71
+9.2.1
+Game Tree
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+71
+9.2.2
+Game Digraph
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+71
+9.2.3
+Example: Game Digraph for ABBAB . . . . . . . . . . . . . . . . . . . . . . . . . .
+72
+9.3
+An Abbreviated Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+72
+9.3.1
+Why it Matters: Complexity (optional)
+. . . . . . . . . . . . . . . . . . . . . . . . .
+74
+9.4
+Bottom-Up Analysis
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+75
+9.5
+Interdependencies between the Items (optional) . . . . . . . . . . . . . . . . . . . . . . . . .
+76
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+76
+10 Example: Shubik Auction I
+77
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+79
+Project 17: SHUBIK AUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+79
+11 Example: Sequential Doctor and Restaurant Location
+80
+11.1 General Observations for Symmetric Games . . . . . . . . . . . . . . . . . . . . . . . . . . .
+80
+11.2 Doctor Location . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+81
+11.3 Constant-Sum Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+82
+11.4 Restaurant Location . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+83
+11.5 Nash Equilibria and First Mover Advantage for Symmetric Games . . . . . . . . . . . . . . .
+84
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+84
+Project 18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+85
+Project 19: Hostile versus Friendly Play . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+85
+12 Theory 4: Probability
+86
+12.1 Terminology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+86
+12.2 Computing Probabilities
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+88
+12.2.1 Equally Likely Simple Events . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+88
+12.2.2 Simple Events not Equally Likely . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+88
+12.3 Expected Value . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+89
+12.4 Multistep Experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+91
+12.4.1 Probability Trees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+91
+12.4.2 Conditional Probabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+91
+12.4.3 Probability Digraphs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+93
+12.5 Randomness in Simultaneous Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+94
+12.6 Counting without Counting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+95
+
+--- Sayfa 11 ---
+p g
+x
+Contents
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+95
+Project 20: Tennis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+97
+Project 21: Final Exam . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+98
+13 France 1654
+99
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+14 Example: DMA Soccer I
+102
+14.1 1-Round 2-Step Experiment for Given Player Distributions . . . . . . . . . . . . . . . . . . . 103
+14.2 Expected Goal Difference for the One-Round Game . . . . . . . . . . . . . . . . . . . . . . . 104
+14.3 3-Rounds Experiment for Given Player Distributions . . . . . . . . . . . . . . . . . . . . . . 105
+14.4 Static Three-round Game . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+14.5 Static Nine-round DMA Soccer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
+Project 22: DMA6* Soccer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+Project 23: DMA7* Soccer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+15 Example: Dividing A Few Items II
+110
+15.1 Goals of Fairness and Efﬁciency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+15.1.1 Fairness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+15.1.2 Efﬁciency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+15.1.3 Three Additional Features . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+15.1.4 Mechanism Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+15.2 Some Games
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+15.2.1 Selecting one by one Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+15.2.2 Cut and Choose . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+15.2.3 Random and Exchange . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+15.3 Examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+15.4 Comparison of the Games for Seven Items and Complete Information
+. . . . . . . . . . . . . 115
+15.4.1 Opposing or Similar Preferences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+15.5 Incomplete Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+Project 24: Dividing ﬁve items A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+Project 25: Dividing ﬁve items B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+16 Theory 5: Sequential Games with Randomness
+121
+16.1 Extensive Form Extended . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
+16.2 Analyzing the Game: Backward Induction again . . . . . . . . . . . . . . . . . . . . . . . . . 121
+16.3 Decision Theory: Alone against Nature
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
+Project 26: Job Interviews
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+Project 27: 5 Envelopes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+Project 28: Oh-No or Oh-No6
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
+Project 29: 3  4 version of Polyomino REC THE SQUARE with randomness . . . . . . . . . . . . 128
+17 Example: Sequential Quiz Show I
+129
+17.1 Candidates with Little Knowledge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129
+17.1.1 More May be Less . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+
+--- Sayfa 12 ---
+p g
+Contents
+xi
+17.2 One Candidate Knows More . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+17.2.1 Cindy Knows one Answer to be False . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+Project 30: SEQUENTIAL QUIZ SHOW, clever Ann . . . . . . . . . . . . . . . . . . . . . . . . . 134
+Project 31: SEQUENTIAL QUIZ SHOW, clever Beth . . . . . . . . . . . . . . . . . . . . . . . . . 134
+18 Las Vegas 1962
+135
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 138
+19 Example: Mini Blackjack and Card Counting
+139
+19.1 The Basic Game . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+19.2 Playing against the House . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+19.2.1 How Likely are the Distributions? . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+19.2.2 Betting High and Low . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
+19.2.3 Reshufﬂing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+Project 32: 8 ROUNDS BLACK OR WHITE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+Project 33: x ROUNDS RED, GREEN, OR BLUE . . . . . . . . . . . . . . . . . . . . . . . . . . 148
+Project 34: MINI BLACKJACK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148
+20 Example: Duel
+149
+20.1 One Bullet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+20.1.1 Analysis of One-bullet Variants with Increasing Probabilities without Computer Help . 150
+20.1.2 Analysis of DUEL(1; 1jm; 2m; 3m; : : :) . . . . . . . . . . . . . . . . . . . . . . . . . 151
+20.2 Two or more Bullets
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+20.2.1 A few Cases of DUEL(2; 2jm; 2m; 3m; : : :) . . . . . . . . . . . . . . . . . . . . . . . 153
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+Project 35: Drunk Adam . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+Project 36: How more dangerous weapons affect the state budget and the health of citizens . . . . . 154
+Project 37: Selecting m between 0.04 and 0.13
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+Project 38: What duels are best for society? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155
+21 Santa Monica in the 50s
+156
+22 Theory 6: Extensive Form of General Games
+159
+22.1 Extensive Form and Information Sets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+22.2 No Backward Induction for Imperfect Information . . . . . . . . . . . . . . . . . . . . . . . . 163
+22.3 Subgames . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 164
+22.4 Multi-round Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+22.5 Why Trees for Imperfect Information? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+23 Example: Shubik Auction II
+169
+23.1 Possible Sudden End . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+23.2 Imperfect and Incomplete Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172
+23.3 The Auctioneer Enters the Game (optional) . . . . . . . . . . . . . . . . . . . . . . . . . . . 172
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 174
+Project 39 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 174
+
+--- Sayfa 13 ---
+p g
+xii
+Contents
+Project 40 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 174
+Project 41: SHUBIK AUCTION(45; 35; 6; p) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+Project 42: SHUBIK AUCTION(A; B; C; n; p) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+24 Theory 7: Normal Form and Strategies
+176
+24.1 Pure Strategies
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 176
+24.1.1 Reduced Pure Strategies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+24.2 Normal Form . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+24.3 Using Tools from Simultaneous Games for the Normal Form . . . . . . . . . . . . . . . . . . 180
+24.4 Subgame Perfectness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180
+24.5 Special Case of Sequential Games with Perfect Information . . . . . . . . . . . . . . . . . . . 182
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182
+25 Example: VNM POKER and KUHN POKER
+185
+25.1 Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 185
+25.2 VNM POKER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 187
+25.3 KUHN POKER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 191
+26 Example: Waiting for Mr. Perfect
+193
+26.1 The Last Round . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 193
+26.2 The Eight Pure Strategies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 194
+26.3 Computing the Payoffs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 194
+26.4 Domination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195
+26.5 The Reduced Normal Forms in the Three Cases . . . . . . . . . . . . . . . . . . . . . . . . . 196
+26.5.1 The Case p2 C 2p3 < 1
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 196
+26.5.2 The Case p2 C 2p3 > 1
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 197
+26.5.3 The Case p2 C 2p3 D 1
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 197
+Project 43 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+Project 44 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+Project 45 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+Project 46 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+Project 47 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+Project 48 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+27 Theory 8: Mixed Strategies
+199
+27.1 Mixed Strategies
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 199
+27.1.1 Best Response
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+27.1.2 Brown’s Fictitious Play . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+27.1.3 Mixed Maximin Strategy, Mixed Security Level, and Linear Programs . . . . . . . . . 202
+27.2 Mixed Nash Equilibria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+27.2.1 Two-player Zero-sum Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+27.2.2 Non-Zero-sum Games
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+27.3 Computing Mixed Nash Equilibria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 204
+27.3.1 Small Two-player Zero-sum Games (optional)
+. . . . . . . . . . . . . . . . . . . . . 205
+27.3.2 Solving Small non Zero-sum Two-player Games by Solving Equations (optional) . . . 207
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 209
+Project 49: Balanced 3-spinner duel with ﬁve options . . . . . . . . . . . . . . . . . . . . . . . . . 210
+
+--- Sayfa 14 ---
+p g
+Contents
+xiii
+Project 50: Balanced 3-spinner duel
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+Project 51: COLONEL BLOTTO(4, 9, 9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+Project 52: Iterated COLONEL BLOTTO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+Project 53: Simultaneous Quatro-Uno . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+Project 54 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+Project 55: 4-round Waiting for Mr. Perfect . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+28 Princeton in 1950
+212
+29 Example: Airport Shuttle
+215
+29.1 The Simple Model
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+29.1.1 To the Airport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+29.1.2 From the Airport . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+29.1.3 Combining Both
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+29.2 Impatient Customers
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 219
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 219
+30 Example: Election II
+220
+30.1 Left Over from Election I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+30.2 More Effort into Large Districts
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
+30.3 Defend Where Ahead or Attack Where Weak? . . . . . . . . . . . . . . . . . . . . . . . . . . 222
+30.4 Is Larger Better?
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 223
+30.5 ELECTION(7; 8; 13j   1;  1; 2jx; x/ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 223
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 224
+31 Example: VNM POKER(2; r; m; n)
+225
+31.1 The Case n
+m  2   1
+r
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+31.2 Best Responses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 227
+31.3 Reading the Opponent (optional) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 227
+31.4 Mixed Nash Equilibrium for n
+m  2   1
+r . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 228
+31.5 Small Changes in the Parameters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230
+32 Theory 9: Behavioral Strategies
+231
+32.1 Behavioral versus Mixed Strategies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 232
+32.1.1 Calculating Mixed Strategies from Behavioral Strategies . . . . . . . . . . . . . . . . 233
+32.1.2 Calculating Behavioral Strategies from Mixed Strategies for a Game Tree with Perfect
+Recall . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+32.1.3 Kuhn’s Theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235
+33 Example: Multiple-Round Chicken
+237
+33.1 Ordinary Chicken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237
+33.2 Two-round Chicken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+33.2.1 Generalized Backward Induction, using the Extensive Form
+. . . . . . . . . . . . . . 238
+33.2.2 Working with the Normal Form
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 240
+33.2.3 Connections between the two Approaches . . . . . . . . . . . . . . . . . . . . . . . . 240
+33.3 Three-round Chicken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
+
+--- Sayfa 15 ---
+p g
+xiv
+Contents
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+Project 56 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+Project 57 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+Project 58 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+34 Example: DMA Soccer II
+244
+34.1 Multi-round Simultaneous Games
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244
+34.2 Information Sets and Moves
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+34.3 The Optimal Third Move in Selected Cases
+. . . . . . . . . . . . . . . . . . . . . . . . . . . 246
+34.3.1 A Detailed Example: (2, 2) versus (3, 1) . . . . . . . . . . . . . . . . . . . . . . . . . 246
+34.3.2 A Second Example: (1, 3) versus (2, 2) . . . . . . . . . . . . . . . . . . . . . . . . . 249
+34.4 The Optimal Second Move for Seven Positions
+. . . . . . . . . . . . . . . . . . . . . . . . . 249
+34.5 Couldn’t We Analyze the Whole Game? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 251
+34.6 How Good a Model is it? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 251
+35 Example: Sequential Quiz Show II
+252
+35.1 Fixed Coalitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+35.1.1 Ann and Cindy Form a Coalition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+35.1.2 Ann and Beth Form a Coalition
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
+35.1.3 Beth and Cindy Form a Coalition
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
+35.2 Which Coalition Will Form? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
+35.2.1 Fixed 50:50 Split . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
+35.3 Another Variant: Split can be Negotiated . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255
+35.4 The Grand Coalition
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+35.4.1 The Core . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+35.4.2 The Shapley Value . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 257
+Project 59 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 258
+36 Example: VNM POKER(4, 4, 3, 5)
+259
+36.1 Mixed Nash Equilibria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259
+36.2 Performance of Pure Strategies against the Mixed Nash Equilibria . . . . . . . . . . . . . . . 261
+37 Example: KUHN POKER(3, 4, 2, 3)
+264
+37.1 From Behavioral Strategies to Mixed Strategies to Expectations
+. . . . . . . . . . . . . . . . 265
+37.2 From Mixed Strategies to Behavioral Strategies . . . . . . . . . . . . . . . . . . . . . . . . . 266
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 266
+38 Example: End-of-Semester Poker Tournament
+268
+38.1 Expectations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 269
+38.2 Odds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 270
+38.2.1 Many Rounds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 273
+38.3 The Favorite in Knockout Tournaments
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 273
+38.4 Similarity of the DNA (optional) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 274
+38.5 How to Create your own Tournament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 274
+Exercises
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 275
+Project 60 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 275
+Project 61 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 276
+
+--- Sayfa 16 ---
+p g
+Contents
+xv
+Project 62 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 276
+39 Stockholm 1994
+277
+Bibliography
+280
+Index
+284
+
+--- Sayfa 17 ---
+p g
+Preface
+Welcome to game theory, the mathematical theory of how to analyze games and how to play them optimally.
+Although “game” usually implies fun and leisure, game theory is a serious branch of mathematics. Games like
+blackjack, poker, and chess are obvious examples, but there are many other situations that can be formulated
+as games. Whenever rational people must make decisions within a framework of strict and known rules, and
+where each player gets a payoff based on the decisions of all the players, we have a game. Examples include
+auctions, negotiations between countries, and military tactics. The theory was initiated by mathematicians
+in the ﬁrst half of the last century, but since then much research in game theory has been done outside of
+mathematics.
+This book gives an introduction to game theory, on an elementary level. It does not cover all areas of a ﬁeld
+that has burgeoned in the last sixty years. It tries to explain the basics thoroughly, so that it is understandable
+for undergraduates even outside of mathematics, I hope in an entertaining way. The book differs from other
+texts because it emphasizes examples. The theory is explained in nine theory chapters, and how it is applied
+is illustrated in twenty-four example chapters, where examples are analyzed in detail. Each example chapter
+uses tools developed in theory chapters.
+Audience
+The text can be used for different purposes and audiences. It can be used by students of economics, political
+science, or computer science. Undergraduate mathematics students should enjoy the book as well and proﬁt
+from its approach. The book may also be used as a secondary text, or for independent study, as its many
+concrete examples complement expositions of the theory.
+I think there is another audience that could proﬁt from the book, the one I had in mind when I wrote
+the book, which is undergraduates who take a mathematics class to fulﬁll general education or quantitative
+reasoning requirements. The text began as an online text for a ﬁrst year seminar at Franklin College in 2007,
+when I couldn’t ﬁnd an appropriate text. Since then, I have used versions of the text in our ﬁrst year seminar
+and in a liberal arts course I have called Introduction to Game Theory. Game theory and my approach to it are
+well suited for these courses because:
+ The underlying mathematics is basic: for example, ﬁnding minima and maxima, computing weighted
+averages and working systematically through trees or digraphs.
+ The mathematical topics that are covered—probability, trees, digraphs, matrices, and algorithms—are
+among the most useful tools used in applications.
+ Game theory is applied mathematics. Some would claim it is not even mathematics, but part of eco-
+nomics. The “why are we doing this?” question has an an obvious answer. Students accept the fact that
+mathematical tools have to be developed for studying and analyzing games.
+ Game theory gives opportunities for students to do projects.
+ Game theory allows a playful approach.
+xvi
+
+--- Sayfa 18 ---
+p g
+Preface
+xvii
+Features of the book
+There are thirty-eight chapters of three types:
+ Nine chapters present the basic theory. They are listed as theory chapters in the table of contents. In
+most courses all these chapters would be covered. There is an additional chapter explaining how to use
+the Excel ﬁles, which is also required reading.
+ Five chapters describe notable landmarks in the history and development of game theory: the 1654
+letters between Pascal and Fermat, which mark the beginning of probability theory; Princeton University
+before 1950, where game theory started as an academic discipline; RAND Corporation in the 1950s and
+the early optimism there about what game theory could achieve; casino games; and the Nobel prizes
+awarded to game theorists. The chapters provide background about some of the important persons in
+the development of game theory, and discuss game theory’s role in society. The chapters might be for
+reading at home for students. They could also be vehicles for class discussions.
+ The real core of the manuscript are the twenty-four chapters that treat concrete examples. They dis-
+tinguish the book from others. The chapters use the theory developed in the theory chapters, and they
+usually build on at most one other example chapter, so an instructor can select those that seem most ap-
+propriate. In my classes, I usually discuss about eight examples. Some of the example chapters provide
+glimpses into areas that are not covered in the theory chapters. Examples of this are trees in Chapter 4,
+voting power indices in Chapter 7, complexity and binomial coefﬁcients in Chapter 9, statistics, mech-
+anism design, and incomplete information in Chapter 15, incomplete versus imperfect information in
+Chapter 23, work with parameters and algebra in Chapter 31, and cooperative games in Chapter 35.
+There are two other main features of the book: the Excel spreadsheets and Javascript applets.
+ The Javascript applets are small games, in which students can try out many of the games discussed and
+analyzed in the examples. Students can play against the computer or against students. Before reading
+the analysis students should have played the games and developed some ideas on how to play the game.
+The Javascripts are also used to conﬁrm theoretical results.
+ The Excel spreadsheets either are generally usable for any simultaneous 2-player game or for every
+2-player game in normal form, or they are designed for speciﬁc games. They give the students tools
+to check what is described in the text without having to do many routine or tedious calculations, and
+also tools to apply “what if” analysis to games. Students will see, sometimes in unexpected ways, how
+changing parameters may change strategies, outcomes, and payoffs.
+In my opinion Excel is the best tool for the game theory in this book, better than Mathematica or Maple
+or MathCad. Since all steps are elementary (no functions are used except, “Min”, “Max”, “Sum”, and “If”’),
+everything could also be done by the student on a sheet of paper, at least in principle. Every student should
+learn some Excel anyway, another feature which makes a course based on this book very well-suited for
+general education core requirements.
+For the Instructor
+The book’s presentation is informal. It emphasizes not formulas but understanding, interpretation, and appli-
+cability. In my opinion, formalism and proof are perfect tools and unavoidable for professional mathemati-
+cians but are of limited value for students, even to some extent for undergraduate students of mathematics.
+Some proofs of theorems are given, for others informal reasonings, but often students have to rely on evi-
+dence from the examples and simulations given. I try to avoid using complicated formulas. When I present
+a formula, I try to explain it in words. It helps students to concentrate on concrete examples with concrete
+
+--- Sayfa 19 ---
+p g
+xviii
+Preface
+numbers. When the book introduces parameters, the analysis carries them forward as a ﬁrst step towards
+abstraction.
+Although the book is elementary and avoids formalism, it may not be easy reading. Some books consider
+only 2 by 2 bimatrix games or simple real-life situations, but the examples in thisbook are sometimes complex.
+In my opinion, the power of mathematics cannot be appreciated by looking only at small examples. In them
+little mathematics is needed and common sense shows the best strategy. The students who use this book will
+use tables of numbers with ten to twenty rows and columns. Although this requires more effort than smaller
+examples, the Excel sheets will help with the calculations, and in the end the results should justify the extra
+effort. Students will see that mathematical theory sometimes produces unexpected results.
+Though the examples are sometimes complex, they are still far removed from most real games or from
+serious modeling. I try to make this clear throughout the book. That does not mean that no lessons can be
+drawn from them!
+It is common knowledge that mathematics can be learned only by doing. The book contains sixty or so
+projects that ask for the solution of a game and the presentation of it. Experimenting and going beyond what
+is described in the text is in my opinion crucial for mastering the material. Some projects are difﬁcult and
+some are open-ended. I tell my students to do as much as they can, and to do that well!
+Figure 1 shows how the chapters are related. The eight theory chapters are squares, the Excel is a diamond,
+the ﬁve history chapters are stars, and the example chapters are circles. The backbone of every course would
+be the theory chapters and the Excel chapter, chapters 1, 2, 6, 8, 12, 16, 22, 24, 27, and 32. They should in
+my opinion be covered in every course on game theory. Some of the history chapters, chapters 13, 18, 21, 28,
+and 39, could be assigned as reading and material for class discussion.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25 26
+27 28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+39
+Election
+Shubik Auction
+Location Games
+Dividing Items
+DMA Soccer
+Poker
+Sequential
+Quiz Show
+38
+Figure 1. Structure of the chapters
+Each example chapter is attached by a line to the earliest theory chapter after which it can be covered.
+Some of the example chapters form pairs, like Election and Election II, which are enclosed by dashed lines. I
+would not recommend covering a part II chapter without having covered part I. There are two larger groups,
+the location games of chapters 4, 5, and 11, and the poker chapters 25, 31, 36, 37, 38. In these cases I would
+recommend at least one of chapters 4 or 5 before chapter 11, and covering chapter 25 before covering any of
+chapters 31, 36, 37, or 38.
+As more tools become available, the example chapters become more complex and difﬁcult, so later chap-
+ters are generally more difﬁcult than early ones. In Figure 1 I indicate the difﬁculty of the example chapters
+by showing them above or below the theory backbone. The example chapters below the backbone I consider
+
+--- Sayfa 20 ---
+p g
+Preface
+xix
+to be easier, those above more difﬁcult. But sometimes it is possible to skip the difﬁcult parts. For example,
+chapters 4, 5, and 11 all contain proofs that relate games to the structure of graphs, and this may be of interest
+to mathematics or computer science majors. But the games provide all readers with instructive examples of
+simultaneous and sequential games.
+When I teach my course, I usually cover at least one example chapter after each theory chapter. For a
+general education mathematics course an appropriate set may be chapters 3, 4 (just Section 4.1), 7, 10, 17, 23,
+26, 30, and 35.
+Though the poker chapters 31, 36, and 37, are complex, I usually cover one of them in my course, since
+I end the semester with a robot poker tournament similar to the one described in chapter 38. The tournament
+gets the student’s attention and is usually a lot of fun! Instructors can modify the applets to run their own
+tournaments and even vary the rules of the game.
+Acknowledgements
+Early versions of this book were used as an online text for seven classes at Franklin College (now Franklin
+University) between 2007 and 2013. I want to thank all my students for ﬁghting their way through these
+often incomplete and imperfect pages, and for the valuable feedback they gave me. I want to thank in par-
+ticular Samy Al-Ansari, Nurbek Almakuchukov, Meghan Canale, Eric Gors, Ruth Kappes, Matej Kristic,
+Grigore Tocitu, Karam Zaidkilani, Conner Crawford, Chikara Davis, James Jasper, Artyom Machekin, Nico-
+laus Owens, Megan Austin, Dylan Bontempo, Maija Butler, Andriana Friel, Rene Musech, Sannan Panaruna,
+Aaron Brinckerhoff, Caitlin Curtis, Mihael Djambazov, Mariah Grubb, Sophie Winckel, Nathan Ayers, Jen-
+nalee Bauman, Alex Bromwell, Stephanie Erichsen, Sachint Goel, Segev Goldberg, Andrea Hak, Michael
+Radomile, Cooper Stoulil, Jennifer Byram, Arnulfo Hermes, Connor McCormack, Benjamin Smick, Paige
+Stumbough, Emil Akhmetov, (Kevin) Yikfai Chan, Todd Gilbert, Ishan Hill, Anna Hixson, Adrian Lewis,
+Ariane Mottale, Lily Rybarczyk, Adam Taylor, and Senya Webster.
+I also want to express my gratitude to Franklin University Switzerland for granting me released time
+during the years I have worked on writing this book.
+I am grateful to Jerry Bryce and the Classroom Resource Materials Board of Editors, and would thank the
+following members for reviewing my manuscript: Phil Mummert, Phil Strafﬁn, Susan Staples, Holly Zullo,
+Sister Barbara Reynolds, Cynthia Woodburn, and Diane Herrmann. Their remarks greatly helped to improve
+the book.
+But my very deepest thanks go to the CRM Editor Jerry Bryce for going very carefully, sentence by
+sentence, over the text and correcting typos, bad English, and pointing out the many cases of unclearness in
+earlier versions of the manuscript. Any errors that remain are my sole responsibility. Without Jerry, the book
+would not have been possible.
+Many thanks also to Underwood Dudley for copy editing the manuscript very carefully and greatly im-
+proving the manuscript.
+I also want to thank the MAA acquisitions editors Don Albers, Zaven Karian, and Steve Kennedy, and
+the whole MAA editing and production team, in particular Carol Baxter and Beverly Ruedi, for help with the
+production process.
+
+--- Sayfa 21 ---
+p g
+
+--- Sayfa 22 ---
+p g
+C H A P T E R1
+Theory 1: Introduction
+1.1
+What’s a Game?
+Every child understands what games are. When someone overreacts, we sometimes say “it’s just a game.”
+Games are often not serious. Mathematical games, which are the subject of this book, are different. It was
+the purpose of game theory from its beginnings in 1928 to be applied to serious situations in economics,
+politics, business, and other areas. Even war can be analyzed by mathematical game theory. Let us describe
+the ingredients of a mathematical game.
+Rules
+Mathematical games have strict rules. They specify what is allowed and what isn’t. Though many
+real-world games allow for discovering new moves or ways to act, games that can be analyzed mathe-
+matically have a rigid set of possible moves, usually all known in advance.
+Outcomes and payoffs
+Children (and grown-ups too) play games for hours for fun. Mathematical games
+may have many possible outcomes, each producing payoffs for the players. The payoffs may be
+monetary, or they may express satisfaction. You want to win the game.
+Uncertainty of the Outcome
+A mathematical game is “thrilling” in that its outcome cannot be predicted
+in advance. Since its rules are ﬁxed, this implies that a game must either contain some random elements
+or have more than one player.
+Decision making
+A game with no decisions might be boring, at least for the mind. Running a 100 meter
+race does not require mathematical skills, only fast legs. However, most sport games also involve
+decisions, and can therefore at least partly be analyzed by game theory.
+No cheating
+In real-life games cheating is possible. Cheating means not playing by the rules. If, when
+your chess opponent is distracted, you take your queen and put it on a better square, you are cheating,
+as in poker, when you exchange an 8 in your hand with an ace in your sleeve. Game theory doesn’t even
+acknowledge the existence of cheating. We will learn how to win without cheating.
+1.2
+Game, Play, Move: Some Deﬁnitions
+The complete set of rules describes a game. A play is an instance of the game. In certain situations, called
+positions, a player has do make a decision, called a move or an action. This is not the same as strategy. A
+strategy is a plan that tells the player what move to choose in every possible position.
+Rational behavior is usually assumed for all players. That is, players have preferences, beliefs about the
+world (including the other players), and try to optimize their individual payoffs. Moreover, players are aware
+that other players are trying to optimize their payoffs.
+1
+
+--- Sayfa 23 ---
+p g
+2
+1. Theory 1: Introduction
+1.3
+Classiﬁcation of Games
+Games can be categorized according to several criteria:
+ How many players are there in the game? Usually there should be more than one player. However,
+you can play roulette alone—the casino doesn’t count as player since it doesn’t make any decisions. It
+collects or gives out money. Most books on game theory do not treat one-player games, but I will allow
+them provided they contain elements of randomness.
+ Is play simultaneous or sequential? In a simultaneous game, each player has only one move, and all
+moves are made simultaneously. In a sequential game, no two players move at the same time, and
+players may have to move several times. There are games that are neither simultaneous nor sequential.
+ Does the game have random moves? Games may contain random events that inﬂuence its outcome. They
+are called random moves.
+ Do players have perfect information? A sequential game has perfect information if every player, when
+about to move, knows all previous moves.
+ Do players have complete information? This means that all players know the structure of the game—the
+order in which the players move, all possible moves in each position, and the payoffs for all outcomes.
+Real-world games usually do not have complete information. In our games we assume complete infor-
+mation in most cases, since games of incomplete information are more difﬁcult to analyze.
+ Is the game zero-sum? Zero-sum games have the property that the sum of the payoffs to the players
+equals zero. A player can have a positive payoff only if another has a negative payoff. Poker and chess
+are examples of zero-sum games. Real-world games are rarely zero-sum.
+ Is communication permitted? Sometimes communication between the players is allowed before the game
+starts and between the moves and sometimes it is not.
+ Is the game cooperative or non-cooperative? Even if players negotiate, the question is whether the results
+of the negotiations can be enforced. If not, a player can always move differently from what was promised
+in the negotiation. Then the communication is called “cheap talk”. A cooperative game is one where
+the results of the negotiations can be put into a contract and be enforced. There must also be a way of
+distributing the payoff among the members of the coalition. I treat cooperative games in Chapter 35.
+Student Activity
+Play ten rounds in the applets for each one of the games LisaGame, QuatroUno, and
+Auction. In the ﬁrst two you can play against a (well-playing)computer, but in the third the computer serves
+only as auctioneer and you need to ﬁnd another human player. Categorize each game as simultaneous or se-
+quential or neither, and determine whether randomness is involved, whether the game has perfect information,
+and whether it is zero-sum. Determine the number of players in each game, and justify your conclusions.
+Modeling Note
+Analyzing games like parlor games or casino games may seem to
+be enough motivation to develop a theory of games. However, game theory has higher
+aims. It provides tools that can be applied in many situations where two or more persons
+make decisions inﬂuencing each other.
+A model is an abstract, often mathematical, version of reality. In this book a model
+is a game, which is supposed to yield some insight into a real-world situation. It is
+important not to confuse the model with reality—in reality there are almost never totally
+strict rules and players almost always have more options than they think they have, more
+than what the model allows.
+In this book we also will try to model some real-world situations as games, but the
+approach taken is cautious. Whenever we try to model a real-life situation, we will
+
+--- Sayfa 24 ---
+p g
+1.3. Classiﬁcation of Games
+3
+discuss in detail the assumptions of the model and whether the conclusions from the
+model are relevant. Whether game theory can be useful in real life is something for each
+reader to decide.
+Exercises
+1. In English auction, an item is auctioned. People increase bids in increments of $10, and the player
+giving the highest bid gets the item for that amount of money. Give reasons why the auctioneer would
+be considered a player of the game, or reasons why he or she would not. Does the game contain random
+moves? Is it zero-sum? Would a real-world art auction have complete information?
+2. In roulette, would the croupier be considered to be a player? Does the game contain random moves? Is
+it zero-sum? Can players increase their chances of winning if they form a coalition and discuss how to
+play before each round?
+3. In the well-known game rock, scissors, paper game, how many players are there? Is it simultaneous, or
+sequential, or neither, and, if it is sequential, does it have perfect information?
+4. For poker, discuss number of players, whether it is sequential or simultaneous, or neither, and if it is se-
+quential, whether it has perfect information. Discuss whether there are random moves. Is communication
+allowed in poker?
+5. For blackjack discuss its number of players; whether it is sequential or simultaneous, or neither; and
+if it is sequential, whether it has perfect information. Discuss whether there are random moves. Is
+communication allowed in blackjack?
+6. It’s late afternoon and you are in a train traveling along a coastline. From time to time the train stops
+in villages, some of them nice, some of them ugly, and you can evaluate the niceness of the village
+immediately. The beneﬁt of an evening and night spent at that village depends only on its niceness. You
+want to get off at the nicest village. Unfortunately you don’t know how many villages are still to come,
+and you know nothing about how villages in this country normally look. Worse, you are not able to ask
+anybody, since you don’t speak the language of the country. You also know that some (unknown) time
+in the evening the train will reach its destination where you will have to stay whether it is nice or not.
+Explain the features of this game, with emphasis on the informational issues. How would you play it?
+Give a reason for your strategy. Comment on whether we have complete or incomplete information here,
+and why.
+(Initially I formulated this example in terms of marriage in a society where divorce is impossible, but I
+saw that this is a different game. Could you give some arguments why?)
+7. In this more realistic version of the game suppose that you know that the train will stop in ten villages
+before it reaches its destination. How would you play now? Comment on whether we have complete or
+incomplete information here, and justify your comment.
+
+--- Sayfa 25 ---
+p g
+C H A P T E R2
+Theory 2: Simultaneous Games
+In his story “Jewish Poker” the writer Ephraim Kishon describes how a man called Ervinke convinces the
+narrator to play a game called Jewish Poker with him. “You think of a number, I also think of a number”,
+Ervinke explains. “Whoever thinks of a higher number wins. This sounds easy, but it has a hundred pitfalls.”
+Then they play. It takes the narrator some time until he realizes that it is better to let Ervinke tell his number
+ﬁrst. [K1961] Obviously this is a game that is not fair unless both players play simultaneously.
+In this chapter we will start our journey through game theory by considering games where each player
+moves only once, and moves are made simultaneously. The games can be described in a table (called the
+game’s normal form). Then we discuss approaches that allow the players to decide which move they will
+choose, culminating with the famous Nash equilibrium.
+2.1
+Normal Form—Bimatrix Description
+Imagine you want to describe a simultaneous game. We know that each player has only one move, and that all
+moves are made simultaneously. What else do we need to say? First, we must stipulate the number of players
+in the game. Second, we must list for each player all possible moves. Different players may have different
+roles and may have different options for moves. We assume that each player has only ﬁnitely many options.
+Players simultaneously make their moves, determine the outcome of the game, and receive their payoffs. We
+need to describe the payoffs for each outcome.
+How many outcomes are possible? Each combination of moves of the players generates a different out-
+come. If there are n players, and player 1 has k1 possible moves, player 2 has k2 possible moves, and so on,
+then there are k1 k2  kn possible outcomes. For each, n numbers would describe the payoffs for player
+1, player 2, and so on.
+In games where each player has inﬁnitely many options, we may use methods of calculus for functions
+with two variables, but such games are not discussed in this book. We describe simultaneous games with
+randomness in Chapter 12.
+2.1.1
+Two Players
+Here is an example of a simultaneous 2-player game:
+Example 1
+ADVERTISING: Two companies share a market, in which they currently make
+$5,000,000 each. Both need to determine whether they should advertise. For each company adver-
+tising costs $2,000,000 and captures $3,000,000 from the competitor provided the competitor doesn’t
+advertise. What should the companies do?
+4
+
+--- Sayfa 26 ---
+p g
+2.1. Normal Form—Bimatrix Description
+5
+Let’s call the two companies A and B. If both don’t advertise, they get $5,000,000 each. If both
+advertise, both lower their gain to $3,000,000. If A advertises, but B doesn’t, A gets $6,000,000 and
+B only $2,000,000, and conversely if B advertises and A doesn’t. The payoff pattern is shown in the
+following table. The numbers are in millions of dollars. The rows correspond to the options of player
+A, and the columns correspond to the options of player B. The entries are payoff for A and payoff for B
+provided the corresponding options are chosen, separated by a comma.
+B advertises
+B doesn’t advertise
+A advertises
+3, 3
+6, 2
+A doesn’t advertise
+2, 6
+5, 5
+Whenever we have two players, we often name them Ann and Beth. Assume Ann has k1 options and Beth
+has k2 options. We want to display the different payoffs for Ann and Beth, depending on the different choices
+they have. Each of the k1  k2 outcomes has payoffs for Ann and Beth attached. Usually this is visualized
+in a table, the normal form with n rows, corresponding to Ann’s options, and m columns, corresponding to
+Beth’s options. Such a table is called a n  m bimatrix. The entries in the cells are payoffs for Ann and Beth,
+separated by a comma.
+2.1.2
+Two Players, Zero-sum
+A game is called zero-sum if the sum of payoffs equals zero for any outcome. That means that the winnings
+of the winning players are paid by the losses of the losing players.
+For zero-sum two-player games, the bimatrix representation of the game can be simpliﬁed: the payoff of
+the second player doesn’t have to be displayed, since it is the negative of the payoff of the ﬁrst player.
+Example 2
+Assume we are playing ROCK-SCISSORS-PAPER for one dollar. Then the payoff matrix
+is
+Rock
+Scissors
+Paper
+Rock
+0
+1
+ 1
+Scissors
+ 1
+0
+1
+Paper
+1
+ 1
+0
+The ﬁrst cell says “0”, which stands for “0; 0” a payoff of 0 for both players. The second cell entry of
+“1” should be read as “1;  1”, a payoff of 1 for Ann which has to be paid by Beth, therefore a payoff of
+ 1 for Beth.
+2.1.3
+Three or More Players
+If we have more than two players, we need another systematic way to generate the needed k1  k2     kn
+cells corresponding to the different outcomes, into which we write the n payoffs for the n players. Here is an
+example:
+Example 3
+LEGISLATORS’ VOTE: Three legislators vote whether they allow themselves a
+raise in salary of $2000 per year. Since voters are observing the vote, there is some loss of face for a
+legislator to vote for a raise. Let’s assume that the legislators estimate that loss of face is worth $1000
+per year. What happens if all three vote at the same time? (This game is a variant of the game described
+in [K2007]).
+
+--- Sayfa 27 ---
+p g
+6
+2. Theory 2: Simultaneous Games
+This is a simultaneous three-player game. It is best visualized with two matrices. Player A chooses
+the matrix, B chooses the row, and C chooses the column. The payoffs (in thousands of dollars) are
+A votes for a raise
+A votes against a raise
+C votes
+C votes
+for raise
+against it
+B votes
+1, 1, 1
+1, 1, 2
+for raise
+B votes
+1, 2, 1
+-1, 0, 0
+against
+C votes
+C votes
+for raise
+against it
+B votes
+2, 1, 1
+0, -1, 0
+for raise
+B votes
+0, 0, -1
+0, 0, 0
+against
+2.1.4
+Symmetric Games
+All our examples so far are symmetric: All players have the same options, and if the two players interchange
+their moves, the payoffs are also interchanged. More formally, for a 2-player game, let m1; m2 be moves
+and let a.m1; m2/ and b.m1; m2/ be Ann’s and Beth’s payoffs if Ann plays m1 and Beth plays m2. Then
+a.m1; m2/ D b.m2; m1/ and b.m1; m2/ D a.m2; m1/ for symmetric games. That means that the entries
+in the j s row and the is column is obtained from the entries in the is row and j s column by interchang-
+ing the payoffs. For symmetric 3-player games, a.m1; m2; m3/ D b.m2; m1; m3/ D b.m3; m1; m2/ D
+c.m2; m3; m1/ D c.m3; m2; m1/, and so on. Symmetric games are fair by design, giving the same chances to
+every player.
+2.2
+Which Option to Choose
+It is useful to describe simultaneous games by a bimatrix, but what players want is advice on how to play.
+Game theory should (and will in some cases) provide players with a mechanism to ﬁnd which move is best.
+The mechanisms would refer to the bimatrix only, the solution would be the same no matter whether we
+face a casino game or a war, provided the corresponding matrices are the same. The essence of the game lies
+in the numbers in the bimatrix.
+Such mechanisms are the content of this section. We will give three or four of them. Like advice from
+well-meaning uncles, they all have a good and convincing point, but since they concentrate on different
+features of the game, they don’t always lead to the same conclusion. We will discuss them ﬁrst separately
+before investigating the relations between them.
+2.2.1
+Maximin Move and Security Level
+Some people always expect the worst. No matter what she plays, a player (let’s call her Ann) may assume
+that the other players will always respond with moves that minimize Ann’s payoff. This may be justiﬁed in
+a two-player zero-sum game if Ann is so predictable that the other player always anticipate her move. In
+other cases the belief borders on paranoia, since the other players will not be interested in harming Ann but
+instead want to maximize their payoffs. Still, pessimistic Ann will evaluate her strategies in light of the worst
+expected case. She would concentrate, for any of her options, on her smallest possible payoff. If she believes
+that this is what she would get, then Ann would choose the option with highest value. This value is called
+the maximin value or security level. The option Ann will play is called a maximin move (strategy), since
+it maximizes the minimum possible payoff. Playing the maximin move, the player can guarantee a payoff of
+at least the maximin value, no matter how the others are playing. To choose the maximin move, the player
+doesn’t have to know the payoffs of the other players.
+In the ADVERTISING example, company A may fear that company B will advertise too if A advertises,
+yielding a payoff of 3 for A. If company A does not advertise, the worst that could happen would be company
+
+--- Sayfa 28 ---
+p g
+2.2. Which Option to Choose
+7
+B advertising with payoff of 2 for A. Therefore company A would advertise to maximize the worst possible
+payoff.
+In the LEGISLATORS’ VOTE example, the worst that could happen if A votes for a raise is that both
+others vote against, leaving A with a payoff of  1000. If A votes against a raise, in the worst case (actually in
+three of four cases) A gets a payoff of 0, which is more than in the other case. Therefore A would vote against
+a raise if using the maximin principle.
+In a two-player game the ﬁrst player, Ann, would look at the rows of the bimatrix and in each row highlight
+the cell with her lowest payoff. Then she would select the row with the highest number highlighted. In the
+same way, the second player, Beth, when playing the maximin strategy would mark in each column the cell
+with lowest payoff for Beth, and then select the column with the highest number marked.
+How do we treat ties, if two or more rows have the same minimum payoff for Ann? Ann could choose
+one of these moves, or alternate randomly between such moves. The latter leads to mixed strategies that are
+covered in Chapter 27.
+2.2.2
+Dominated Moves
+A move, M1, for Ann strictly dominates another M2, if M1 always results in a higher payoff for Ann than
+M2. A rational player would never play a move that is strictly dominated by another one. Domination doesn’t
+tell what to play but rather what not to play. In the rare case where one of Ann’s moves strictly dominates all
+her other moves, this would turn into positive advice to play the move dominating all other moves.
+In the ADVERTISING example “advertising” strictly dominates “not advertising” for both companies.
+Therefore both companies will advertise, when applying this mechanism.
+It is no coincidence that the advice given by the maximin mechanism and the advice given by the rule not
+to play strictly dominated moves are the same for this example. Actually a player’s maximin move is never
+strictly dominated by any of her other moves.
+Advice for players could go further than to disregard strictly dominated moves. In particular, if player
+Ann believes that other players would also obey this rule, then we may disregard all strictly dominated moves
+in the game, not only for Ann but for all other players. However, this assumption about the other players’
+behavior is not automatic. It assumes that all players are rational and clever or experienced enough. Under
+the assumption that all players accept this belief in the rationality and sophistication of all players, we know
+that all players reduce the game by eliminating all strictly dominated moves. Then, in the reduced game, strict
+domination may occur where it had not before, and the same round of eliminations could be done to reduce
+the game further. The process of repeatedly reducing the game, as well as its result, a game that cannot be
+reduced any further since there are no strictly dominated moves, is denoted by IESD—iterated elimination
+of strictly dominated moves. Except in cases where the IESD result is a game with just one option for Ann,
+IESD is a method of excluding moves rather than telling what move to choose.
+Here is a successful application of the IESD procedure:
+Example 4
+TWO BARS: Each one of two bars charges its own price for a beer, either $2, $4, or
+$5. The cost of obtaining and serving the beer can be neglected. It is expected that 6000 beers per
+month are drunk in a bar by tourists, who choose one of the two bars randomly, and 4000 beers per
+month are drunk by natives who go to the bar with the lowest price, and split evenly in case both bars
+offer the same price. What prices would the bars select? [S2009]
+The game, as all games considered so far, is symmetric. Let me illustrate in one instance how to
+compute the payoffs. If bar A charges $2 and bar B charges $4, then all natives will choose bar A.
+
+--- Sayfa 29 ---
+p g
+8
+2. Theory 2: Simultaneous Games
+Therefore bar A will serve 4000 beers to the natives, and 3000 beers to tourists, serving 7000 beers in
+total, making 7000  2 D 14000 dollars. Bar B will only serve 3000 beers to tourists, making 3000  4 D
+12000 dollars.
+The payoff matrix, with values in thousands of dollars, is
+2
+4
+5
+2
+10, 10
+14, 12
+14,15
+4
+12, 14
+20, 20
+28, 15
+5
+15, 14
+15, 28
+25, 25
+For each bar, move “4” strictly dominates move “2”, therefore we could eliminate both moves “2” to
+get the reduced game:
+4
+5
+4
+20, 20
+28, 15
+5
+15, 28
+25, 25
+Now, but not before the elimination, move “4” strictly dominates move “5”. Therefore we eliminate
+these moves for both players as well and arrive at a game with only one option, “4”, for each player, and
+a payoff of $ 20000 for each. Therefore both players will choose $4 as the price of the beer.
+A weaker condition is weak domination. Ann’s move weakly dominates another one of her moves if it
+yields at least the same payoff for Ann in all cases generated by combinations of moves of the other players,
+and in at least one case an even better payoff. So the weakly dominating move is never worse than the weakly
+dominated one, and sometimes it is better. The common wisdom is that iterated elimination of weakly
+dominated moves, IEWD is not something that should performed automatically. Weakly dominated moves
+may still be played, in particular in cases where the weakness of the weakly dominated move appears in a
+combination with other player’s moves that are known not to be played by them. This opinion is also based
+on different behavior of Nash equilibria (discussed in Section 2.4) under IEWD and IESD.
+2.2.3
+Best Response
+Assume you will play a one-round simultaneous game against your friend tomorrow. Your friend has been
+thinking about her move, arrives on a decision what move to play, and writes it on a piece of paper so as
+not to forget it. You get a look at this paper without your friend noticing it. The game thus changes from
+simultaneous to sequential with perfect information. The move you play under these conditions is called the
+best response to the move of your friend.
+Let us start with two players. Ann’s best response to Beth’s move M is the move that yields the highest
+payoff for Ann, given Beth’s move M. There may be several best responses to a given move. To ﬁnd Ann’s
+best response to Beth’s move M, we don’t even have to know Beth’s payoffs.
+You ﬁnd the best responses for the ﬁrst player’s (Ann’s) moves by looking at the rows of the bimatrix one
+by one and selecting in each row the cell where the second entry is a maximum. The label of the corresponding
+column is the best response to the move corresponding to that row. In the same way, to ﬁnd best responses
+against the second player’s (Beth’s) moves we consider the columns and pick in each column the cell with
+maximum ﬁrst entry. The label of the corresponding row is the corresponding best response for the move
+corresponding to that column.
+In the ADVERTISING example, the best response to advertising is to advertise, and the best response to
+not advertising is also to advertise. This holds for both players, since the game is symmetric.
+In the TWO BARS example, the best response to a price of “2” is a price of “5”, the best response to a
+price of “4” is a price of “4”, and the best response to a price of “5” is a price of “4”. The game is symmetric.
+
+--- Sayfa 30 ---
+p g
+2.2. Which Option to Choose
+9
+Example 5
+Let us give an asymmetric example. Assume Ann has four moves, A1, A2, A3, A4, and
+Beth has three B1, B2, and B3. The payoff bimatrix of this non zero-sum two-person game is
+B1
+B2
+B3
+A1
+1, 3
+2, 2
+1, 2
+A2
+2, 3
+2, 3
+2, 1
+A3
+1, 1
+1, 2
+3, 2
+A4
+1, 2
+3, 1
+2, 3
+We ﬁnd Beth’s best response to Ann’s move A1 by ﬁnding the largest second value (Beth’s payoff)
+in the ﬁrst row, which is underlined. That implies that Beth’s best response to Ann’s move A1 is move
+B1. In the same way we underline the highest second values in other rows, and conclude that Beth’s
+best responses to Ann’s move A2 are both moves B1 and B2, Beth’s best responses to move A3 are both
+moves B2 and B3, and that Beth’s best response to move A4 is move B3.
+To ﬁnd Ann’s best responses, we underline in each column the highest ﬁrst (Ann’s payoff) entry.
+Therefore Ann’s best response to Beth’s move B1 is A2, Ann’s best response to B2 is A4, and Ann’s best
+response to B3 is A3.
+Best Response for Three Players
+Best responses make also sense for games with three or more players. For detecting the best response moves
+of Beth, we look at the second entries (Beth’s payoffs) in each column and mark the highest value. To detect
+the best response moves for the third player (let’s call her Cindy) we look at the third entries of the rows and
+mark in each row the highest entry. For Ann the method is a little more complicated to explain. Here we look
+at ﬁrst entries only, and compare cells having the same position in the different matrices, as “upper left”, for
+instance.
+Example 6
+Let’s ﬁnd best responses in an example of a simultaneous three-person game where each
+player has two options, Ann has the moves A1 and A2, Beth has B1 and B2, and Cindy has C1 and C2.
+Assume the payoffs are
+A1
+A2
+C1
+C2
+B1
+0, 2.1, 0
+ 1, 1.1, 0.1
+B2
+1, 0,  1
+0, 1, 1.1
+C1
+C2
+B1
+0.1, 1.1, 1
+1.1, 0.1,  0:9
+B2
+ 0:9, 1, 0
+0.1, 2, 0.1
+Because the highest second entry in the ﬁrst column is 2.1, it is underlined. The highest second entry
+in the second column is 1.1, in the third column (ﬁrst column of the second matrix) 1.1, and in the fourth
+column 2, so they are underlined. For Cindy’s best responses, the highest third entry in the ﬁrst row of
+the ﬁrst matrix is 0.1. The highest third entry in the second row of the ﬁrst matrix is 1.1. For the second
+matrix, the highest third entry in the ﬁrst row is 1, and in the second row 0.1. For Ann, the highest ﬁrst
+entry of upper-left cells in the two matrices is 0.1, the highest ﬁrst entry of upper-right cells is 1.1, and
+we get 1 respectively 0.1 for the lower-left respectively lower-right cells.
+2.2.4
+Nash Equilibria
+In this section we will identify outcomes—combinations of moves for each player— that are more likely to
+occur than others. An outcome is called a pure Nash equilibrium provided nobody can gain a higher payoff
+by deviating from the move, when all other players stick to their choices. A higher payoff for a player may be
+possible, but only if two or more players change their moves. An outcome, a combination of moves, is a pure
+
+--- Sayfa 31 ---
+p g
+10
+2. Theory 2: Simultaneous Games
+Nash equilibrium if each move involved is the best response to the other moves. A cell in the normal form
+is a pure Nash equilibrium if each entry is marked (underlined in our examples) as being the best response to
+the other moves. Nash equilibria were introduced by John Nash around 1950.
+Nash equilibria are self-enforcing agreements. If some (non-binding) negotiation has taken place before
+the game is played, each player does best (assuming that the other players stick to the agreement) to play the
+negotiated move.
+In the ﬁrst half of the book, Nash equilibria will be pure. Chapter 27 will introduce mixed Nash equilibria.
+In Example 5, there are two Nash equilibria: .A2; B1/ and .A3; B3/. In the symmetric TWO BARS ex-
+ample (4, 4) is the unique pure Nash equilibrium. As another example we consider the famous PRISONER’S
+DILEMMA.
+PRISONER’S DILEMMA
+Adam and Bob have robbed a bank and been arrested. They are inter-
+rogated separately. Adam and Bob have the option to confess (move C) or to remain silent (move S).
+The police have little evidence, and if both remain silent they will be sentenced to one year on a minor
+charge. Therefore the police interrogators propose a deal: if one confesses while the other remains
+silent, the one confessing goes free while the other is sentenced to three years. However, if both talk,
+both will still be sentenced to two years. If each player’s payoff is 3 minus the number of years served
+in jail, we get the following payoff bimatrix:
+S
+C
+S
+2, 2
+0, 3
+C
+3, 0
+1, 1
+It seems obvious that both should remain silent, but that’s not likely to happen. Each player’s move C
+strictly dominates move S. Furthermore, the best response to move S is C, and the best response to move C
+is also move C, therefore the pair (C, C)—both confessing forms the unique Nash equilibrium of this game.
+The choice C—confessing—with payoffs of only 1 may seem counterintuitive if negotiations can take
+place in advance, but their terms are non-binding and cannot be enforced. It would be useless to agree on
+move S in advance, since each of the players would feel a strong urge to deviate (cheat). Only if binding
+agreements are possible, would both agree on the S-S combination, reaching a higher payoff. Thus PRIS-
+ONER’S DILEMMA gives a paradoxical result. Players will play moves that result in lower payoffs for both
+than are possible. This is in part because the rules of the game do not allow binding agreements.
+Not every simultaneous game has a (pure) Nash equilibrium.
+An example is Example 2 ROCK-
+SCISSORS-PAPER.
+Next we consider a game with more than one Nash equilibrium:
+Example 7
+BATTLE OF THE SEXES: A couple, Adam and Beth, decide independently whether
+to go to a soccer game or to the ballet in the evening. Each person likes to do something together with
+the other, but the man prefers soccer, and the woman prefers ballet.
+To simplify the game, we assume that the total payoff for each player is the sum of the payoffs (in
+terms of satisfaction) of being at the preferred place, which gives a satisfaction of c satisfaction units, and
+
+--- Sayfa 32 ---
+p g
+2.2. Which Option to Choose
+11
+being together with the partner, giving d satisfaction units. We have two variants, depending on whether
+c or d is larger, the low or high love variants. The payoff here is satisfaction instead of money. The
+assumption of the additivity of satisfaction is severe—satisfaction could just as well be multiplicative, or
+some more complicated function of c and d. It could even be that satisfaction in one area could interfere
+with satisfaction in the other. The satisfactions may differ for both persons, one appreciating the presence
+of the other more than the other, or one having a clear preference for soccer or ballet, when the other is
+indifferent. Examples will be given in the exercises.
+As this example was devised before there were cell phones, we assume that no previous communica-
+tion is possible. Here are the payoff bimatrices for both variants, where Adam chooses the rows and Beth
+chooses the columns.
+High Love version, c D 1, d D 2
+Low Love version, c D 2, d D 1
+soccer
+ballet
+soccer
+3, 2
+1, 1
+ballet
+0, 0
+2, 3
+soccer
+ballet
+soccer
+3, 1
+2, 2
+ballet
+0, 0
+1, 3
+The high love version of BATTLE OF THE SEXES has two Nash equilibria: (soccer, soccer) and
+(ballet, ballet). For Adam choosing “soccer”, Beth’s best response is “soccer”. For Adam choosing
+“ballet”, Beth’s best response is “ballet”. Also, Adam’s best response for Beth choosing “soccer” is
+“soccer”, and his best response for Beth choosing “ballet” is “ballet”. The low love version has one Nash
+equilibrium, namely (soccer, ballet): both players go where they want to go anyway.
+Modeling Note
+We made a simple assumption in the example, namely that the total
+payoff for a player is the sum of the utilities of certain ingredients. In many situations
+we will use this approach, since it is simple and is the way money is added. However,
+there are situations where additivity is not appropriate. One asset may establish worth
+only when combined with another asset, as a left shoe and the corresponding right shoe,
+or money and free time available. In many situations each has real value only in combi-
+nation with the other.
+Games with more than one pure Nash equilibriumare sometimes called “coordination games”, since if pre-
+game negotiations are allowed, the players have to agree on one of them. The high love version of BATTLE
+OF THE SEXES is an example. In this case, the obvious question is: which Nash equilibrium is the best?
+One idea is to concentrate on Pareto-optimal Nash equilibria only. A Nash equilibrium is Pareto-dominated
+by another Nash equilibrium if every player’s payoff in the ﬁrst one is smaller or the same as in the second
+one. Nobody would object to move to the second Nash equilibrium. A Nash equilibrium is Pareto-optimal
+if it is not Pareto-dominated by any other Nash equilibrium, except maybe by some having exactly the same
+payoffs. In the BATTLE OF THE SEXES example, both Nash equilibria are Pareto-optimal.
+For games with more than two players, we use the marking (underlining) procedure as described in the
+section on best responses. Then the cells with all entries underlined are the pure Nash equilibria.
+In Example 6, a 3-player game, we have two pure Nash equilibria—the cells where all entries are under-
+lined, where each move is the best response to the pair of moves of the other two players. These are the triples
+(A2, B1, C1) and (A2, B2, C2). So player A will probably choose A2.
+
+--- Sayfa 33 ---
+p g
+12
+2. Theory 2: Simultaneous Games
+In our other example of a 3-player game, LEGISLATORS’ VOTE, let us underline the best responses:
+A votes for a raise
+A votes against a raise
+C votes
+C votes
+for raise
+against it
+B votes
+1, 1, 1
+1, 1, 2
+for raise
+B votes
+1, 2, 1
+ 1, 0, 0
+against
+C votes
+C votes
+for raise
+against it
+B votes
+2, 1, 1
+0,  1, 0
+for raise
+B votes
+0, 0,  1
+0, 0, 0
+against
+Here we have four pure Nash equilibria: the three outcomes where two legislators vote for a raise and one
+votes against, and the one where all three vote against. The fourth equilibrium is Pareto-dominated by the
+other three, so it is not Pareto-optimal and is therefore less important than the other three.
+The next example, a 5-player game, illustrates how you can determine whether an outcome is a Nash
+equilibrium when you don’t have a bimatrix representation:
+Example 8
+5 KNIGHTS: Five knights, A, B, C, D, E, are electing their leader. Each one has a list
+of preferences. Examples of preferences, given from highest to lowest, are
+A: A, D, E, C, B
+B: B, C, E, A, D
+C: C, E, D, B, A
+D: D, B, C, E, A
+E: E, C, B, A, D.
+They elect in rounds. In each round, each knight submits one name. A knight is elected if he gets more
+votes than all the others. So even two votes may sufﬁce if no other knight gets two votes. If no one is
+elected, we proceed to the next round. There are two versions:
+Early Case
+If the knight’s ﬁrst choice is elected, this is a payoff of 2 for that knight. If his second
+choice is elected, his payoff is 1. If nobody is elected and we proceed to the next round, the payoff is
+0. If his third, fourth, or ﬁfth choice is elected, his payoff is  1,  2, or  3.
+Exhausted Case
+The knight’s ﬁrst, second, and third choice gives payoffs of 2, 1, and 0. If no one is
+elected and we proceed to the next round, the payoff is  1. If his fourth or ﬁfth choice is elected, his
+payoff is  2 or  3.
+Each preference pattern deﬁnes a new game.
+Because every player has ﬁve options, there are 5  5  5  5  5 D 3125 outcomes. We could represent
+them with payoffs on a 5-dimensional cube.
+Let’s instead look at an outcome and determine whether it is a Nash equilibrium in the two versions
+of the game. Assume A votes for A, B votes for B, C votes for C, D votes for C, and E votes for C. Then
+C is elected, and the payoffs for A, B, C, D, E are  2, 1, 2,  1, 1 in the early case game. Knight A is not
+happy but still has no reason to vote differently—if he voted for A or D instead, C would still be elected.
+But this outcome is not a Nash equilibrium, since D, knowing the voting pattern of the others, would
+rather have voted for B to obtain a tie and a payoff of 0.
+
+--- Sayfa 34 ---
+p g
+2.3. Additional Topics
+13
+In the exhausted case game, the payoffs for A, B, C, D, E for the same voting pattern are  2, 1, 2, 0, 1.
+Knight D still doesn’t prefer C, but is now just content that somebody has been elected. That outcome is
+a Nash equilibrium in this version of the game. Nobody would, given the voting of the others, reconsider
+and vote differently. Knights A and D are still not happy, but they cannot unilaterally change this.
+Let me show how we could search for Nash equilibria in the “exhausted knight” version. The idea
+is to start with any outcome, deﬁned by a set of choices of the players. If all players are playing a best
+response to the other players’ moves, we have a Nash equilibrium. Otherwise, at least one player does
+not play a best response yet—we let this player reconsider and play a best response. Then we evaluate
+the outcome again. Either we have a Nash equilibrium now, or we still have a player not playing the best
+response to the other players’ moves. We continue, until we get a Nash equilibrium.
+Look at the outcome where everybody votes for himself ﬁrst. This would give a tie and everyone
+would prefer if his second choice would be elected. So, let’s say D reconsiders and votes for B instead
+of for himself. Then B would be elected. B and E have better responses; A could vote for E instead for
+himself to get a tie and avoid the election of B. Now B, C, and E have better responses. Let’s assume
+B plays his best response E to the other’s moves. This voting pattern EECBE turns out to be a Nash
+equilibrium.
+The process can be simulated in the ExhaustedKnights applet. Initially everybody votes his ﬁrst
+preference. Change D’s vote to B, then A’s vote to E, then B’s vote to E.
+The process does not always terminate; conﬁrm the following in the applet. We start with everyone
+voting for himself. Then A chooses a best response and votes for D. Then B chooses a best response and
+votes for C. After that D reconsiders and votes for B, then B reconsiders again, voting for himself again,
+and D reconsiders again, voting for himself again. After this we have an outcome that we had discussed
+earlier (voting pattern DBCDE) and the process could continue the same way forever.
+Historical Remark
+In the Ph. D. thesis he wrote at Princeton University in 1950 the
+mathematician John Forbes Nash Jr. deﬁned the equilibrium concept which is named
+after him. Later he did extraordinary work in other areas of mathematics. Around 1959
+he became ill, suffering from paranoid schizophrenia throughout the 60s and the 70s.
+Surprisingly he recovered in the 80s. There is no Nobel prize in mathematics, but in
+1994, with Reinhard Selten and John Harsanyi, Nash was awarded the Nobel prize in
+economics (to be more precise, the Nobel Memorial Prize in Economic Sciences). The
+award was given for his early work in game theory, including his deﬁnition of Nash
+equilibria and the existence theorem for them. The story of his life has been told in
+the book A Beautiful Mind by Sylvia Nasar [N1998], which in 2002 was made into an
+Oscar-winning movie with the same title.
+2.3
+Additional Topics
+2.3.1
+Best Response Digraphs
+For a 2-player game, the best response information can be displayed in a graph. The bipartite best response
+digraph for two-player games is deﬁned as follows: for every move of Ann we draw a white circle and for
+every move of Beth we draw a black circle. The circles are called the vertices of the digraph. From every
+white vertex we draw an arrow, an arc, towards black vertices that are best responses to the corresponding
+move of Ann. In the same way, arcs are drawn from black vertices towards best response white vertices. For
+Example 5, the best response digraph is shown in Figure 2.1.
+
+--- Sayfa 35 ---
+p g
+14
+2. Theory 2: Simultaneous Games
+A3
+B1
+A4
+A1
+A2
+B3
+B2
+Figure 2.1. The best response digraph for Example 5
+Condensed Best Response Digraphs for Symmetric Games
+In symmetric games, like ADVERTISING and TWO BARS, it sufﬁces to display a condensed version of the
+best response digraph. For every move (of either player— the game is symmetric, therefore both players have
+the same moves as options) we draw one vertex, and we draw an arc from move X to move Y if Beth’s Y
+is a best response to Ann’s X (and therefore also Ann’s move Y is a best response to Beth’s move X). See
+Figures 2.2 and 2.3 for the best response digraph and the condensed best response digraph for the TWO BARS
+example. We may have curved arcs in the condensed version (in our example from vertex 4 to itself) when
+one of Ann’s move (in our example move 4) is the best response to the corresponding move (move 4) of Beth.
+2
+5
+4
+2
+ 
+2
+5
+4
+Figure 2.3. The condensed best response digraph for the symmetric TWO BARS game
+For two-player games, Nash equilibria can be recognized from the best response digraph. Any pair of
+moves with arcs between them, one being the best response of the other, is a Nash equilibrium. For symmetric
+2-person games, in the condensed best response digraph any pair of arcs between two vertices, or any loop
+starting at a vertex and pointing to itself represents a pure Nash equilibrium. Those stemming from loops
+are symmetric insofar as both players use the same move in them. In symmetric games they may seem more
+natural than asymmetric Nash equilibria.
+2.3.2
+2-Player Zero-sum Symmetric Games
+For the class of games with these three attributes, Nash equilibria, if they exist, can be spotted easily, and the
+maximin point of view is the same as the Nash equilibrium view.
+Theorem
+In every symmetric zero-sum simultaneous game,
+1. every pure Nash equilibrium has zero payoff for both players, and
+2. every maximin move of Ann with security level 0 versus any maximin move of Beth with security
+level 0 forms a Nash equilibrium.
+
+--- Sayfa 36 ---
+p g
+2.3. Additional Topics
+15
+Our ﬁrst theorem! What is a theorem anyway? So far this chapter has contained mostly deﬁnitions,
+examples, and facts about examples, such as the fact that TWO BARS has one Nash equilibrium. Theo-
+rems are also facts, not about single concrete examples but about general abstract mathematical objects like
+simultaneous games.
+We want to provide a proof for this theorem. Although proofs can be complicated, they just provide the
+reasons why the theorem is true. You can accept the truth of a theorem based on the authority of the author
+or teacher, so it is all right if you skip the (very few) proofs in this book on ﬁrst reading. But if you want to
+understand a mathematical area, you also have to understand the reasoning behind the proofs, at least to some
+extent.
+Proof
+1. Look at an outcome where one player, say Ann, has a payoff of less than zero. Then the move chosen by
+Ann could not be her best response for the move chosen by Beth, since she can always get 0 by choosing
+the same move as Beth.
+2. Ann’s minimum payoff in each row cannot exceed 0, since, if both players choose the same option, both
+have a payoff of 0. Therefore the security level cannot be larger than 0.
+If Ann’s minimum payoff in a row is less than 0, then each of Beth’s best responses to the move of Ann
+corresponding to the row carries a payoff of more than 0 for Beth, therefore this move of Ann cannot be
+part of a Nash equilibrium by (1).
+Therefore, if the security level is less than 0, there are no pure Nash equilibria.
+If the security level (for both players, it is a symmetric game) equals 0, look at any maximin move for
+Ann and any maximin move for Beth. Then Ann’s payoff in this move combination is at least 0, and
+Beth’s payoff is at least 0. Since the game is zero-sum, both payoffs must be equal to 0. Then each move
+is the best response to the other move, and the move pair forms a pure Nash equilibrium.
+It follows that a 2-player zero-sum symmetric game has no pure Nash equilibria provided the security
+level is less than 0. An example is ROCK-SCISSORS-PAPER.
+One feature used in the analysis of simultaneous games is still missing. It is the topic of mixing moves
+and is discussed in Chapter 27.
+Exercises
+1. a) Write the matrices of the SIMULTANEOUS LEGISLATORS VOTE game in the variant where each
+of the three voters has also the option to abstain. The raise passes only if more agree than voting
+against. The loss of face by abstaining is relatively small, only $200.
+b) Solve the game, using the approaches discussed above.
+2. Consider the following two-player game.
+L
+M
+R
+U
+1, 1
+3, 4
+2, 1
+M
+2, 4
+2, 5
+8, 1
+D
+3, 3
+0, 4
+0, 9
+ Find the maximin moves for both players.
+ Which moves are dominated?
+ Find the bimatrix obtained by IESD.
+ Find the bimatrix obtained by IEWD.
+
+--- Sayfa 37 ---
+p g
+16
+2. Theory 2: Simultaneous Games
+ Mark all best responses.
+ Are there any Nash equilibria?
+3. Analyze the following two-person zero-sum games for maximin moves, domination, best responses, and
+Nash equilibria:
+a)
+L
+R
+U
+1
+2
+D
+3
+4
+b)
+L
+R
+U
+1
+2
+D
+4
+3
+c)
+L
+R
+U
+1
+3
+D
+2
+4
+d)
+L
+R
+U
+1
+3
+D
+4
+2
+e)
+L
+R
+U
+1
+4
+D
+2
+3
+f)
+L
+R
+U
+1
+4
+D
+3
+2
+4. Consider a two-person variant of the GUESS THE AVERAGE game: Ann and Beth simultaneously
+submit a number, 1, 2, 3, or 4. The player whose number is closest to 2/3 of the average of both numbers
+gets $1. Create the payoff bimatrix. Decide whether the game has a Nash equilibrium.
+5. In the TWO BARS example a lack of tourists increases competition. Assume the number of natives is
+4000. For which number of tourists would both bars choose $4 as the price for a beer? For which tourist
+numbers is $2 possible, and for which tourist numbers is $5 possible?
+6. Write the payoff bimatrix of the following game. Find maximin moves, domination, best responses, and
+pure Nash equilibria.
+SCHEDULING A DINNER PARTY: Ann and Beth are not on speaking terms, but have a lot of common
+friends. Both want to invite them to a dinner party this weekend, either Friday or Saturday evening. Both
+slightly prefer Saturday. If both set the party at the same time, this will be considered a disaster with a
+payoff of  10 for both. If one plans the party on Friday and the other on Saturday, the one having the
+Saturday party gets a payoff of 5, and the other of 4.
+7. Analyze the following game. Create payoff bimatrices consistent with the information given. Explain
+your choices. Then ﬁnd the maximin moves, domination, and all pure Nash equilibria.
+SELECTING CLASS: Adam, Bill, and Cindy are registering for a foreign language class independently
+and simultaneously. The available classes are ITA100 and FRE100. They d not care much which, but
+they care with whom they share the class. Bill and Cindy want to be in the same class, but want to avoid
+Adam. Adam wants to be in the same class as Bill or Cindy, or even better, both.
+8. DEADLOCK: Two players play a symmetric game where each can either cooperate or defect. If they
+cooperate, both get an payoff of 1. If they defect, both get a payoff of 2. If one cooperates but the other
+defects, the one cooperating gets a payoff of 0, and the one defecting a payoff of 3.
+Draw the bimatrix of the game. Find the maximin moves, possible domination, best responses, and ﬁnd
+all pure Nash equilibria.
+9. STAG HUNT: Two players play a symmetric game where each can hunt either stag or hare. If both hunt
+stag, both get an payoff of 3. If both hunt hare, both get a payoff of 1. If one hunts stag and the other
+hare, the stag hunter gets a payoff of 0, and the hare hunter a payoff of 2.
+Draw the bimatrix of the game. Find the maximin moves, possible domination, best responses, and ﬁnd
+all pure Nash equilibria.
+10. CHICKEN: Two players play a symmetric game where each can either play dove or hawk. If both play
+dove, both get an payoff of 2. If both play hawk, both get a payoff of 0. If one plays dove and the other
+hawk, the one playing dove gets a payoff of 1, and the other one a payoff of 3.
+Draw the bimatrix of the game. Find the maximin moves, possible domination, best responses, and ﬁnd
+all pure Nash equilibria.
+
+--- Sayfa 38 ---
+p g
+2.3. Additional Topics
+17
+11. BULLY: Two players play the following game
+cooperate
+defect
+cooperate
+2, 1
+1, 3
+defect
+3, 0
+0, 2
+(compare [P1993]).
+Find the maximin moves, possible domination, best responses, and ﬁnd all pure Nash equilibria.
+12. Two cars are meeting at an intersection and want to proceed as indicated by the arrows in Figure 2.4.
+Each player can proceed or move. If both proceed, there is an accident. A would have a payoff of  100
+in this case, and B a payoff of  1000 (since B would be made responsible for the accident, since A has
+the right of way). If one yields and the other proceeds, the one yielding has a payoff of  5, and the
+other one of 5. If both yield, it takes a little longer until they can proceed, so both have a payoff of  10.
+Analyze this simultaneous game, draw the payoff bimatrix, and ﬁnd pure Nash equilibria.
+A
+B
+Figure 2.4. Two cars at a crossing
+13. Three cars are meeting at an intersection and want to proceed as indicated by the arrows in Figure 2.5.
+Each player can proceed or move. If two with intersecting paths proceed, there is an accident. The
+one having the right of way has a payoff of  100 in this case, the other one a payoff of  1000. If a
+car proceeds without causing an accident, the payoff for that car is 5. If a car yields and all the others
+intersecting its path proceed, the yielding car has a payoff of  5. If a car yields and a conﬂicting path
+car as well, it takes a little longer until they can proceed, so both have a payoff of  10. Analyze this
+simultaneous game, draw the payoff bimatrices, and ﬁnd all pure Nash equilibria.
+A
+B
+C
+Figure 2.5. Three cars at a crossing
+14. Solve the SIMULTANEOUS ULTIMATUM GAME. Display the payoff bimatrix, and investigate max-
+imin moves, domination, best responses, and whether there are any equilibria.
+15. Analyze a version of the BATTLE OF THE SEXES example where one partner has high love and the
+other low love. For the high love partner, being together with the partner is more important than being at
+the preferred location, whereas for the low love partner it is the opposite. Are there Nash equilibria?
+
+--- Sayfa 39 ---
+p g
+18
+2. Theory 2: Simultaneous Games
+16. Assume that a simultaneous two-player game has the best response digraph shown in Figure 2.6.
+A3
+B1
+A1
+A2
+B3
+B2
+Figure 2.6. A best response digraph
+Display a possible payoff bimatrix. Can you ﬁnd a zero-sum payoff bimatrix generating this best re-
+sponse digraph?
+17. In the 5 KNIGHTS game described in Example 8 with preferences as described there, determine whether
+the voting pattern ECEDE (A votes for E, B votes for C, etc.) forms a Nash equilibrium in the early case
+game or in the exhausted case game.
+18. In the 5 KNIGHTS game described in Example 8 with preferences as described there, determine whether
+the voting pattern ACEBE (A votes for A, B votes for C, etc.) forms a Nash equilibrium in the early case
+game or in the exhausted case game.
+19. Use the 5KNIGHTS applet to ﬁnd a Nash equilibrium for the early version of the 5 KNIGHTS game.
+Project 1
+Reacting fast or slow
+Assume the ﬁve players of the 5 KNIGHTS game are negotiating what to vote before
+actually voting. They start with the obvious proposal of everybody voting for his ﬁrst choice. If somebody’s
+move is not the best response to the other players’ moves he changes the proposal, proposing his best response
+as his move. This is repeated until a Nash equilibrium is found.
+The process is not unique, since if two or more players want to reconsider, only one will modify the
+proposal at a time. Discuss whether it is better in such a negotiation to always modify early, or to wait
+and see whether the others change the proposal ﬁrst. Simulate the process for different preferences in the
+5KNIGHTSRANDOM applet with the assumption that A always reacts faster than B, B always reacts faster
+than C, and so on. Do this at least 30 times, and keep track how often each one of the players is elected in the
+resulting Nash equilibrium (which you hopefully get—there may also be cyclic cases as discussed in Example
+8 of Chapter 27).
+
+--- Sayfa 40 ---
+p g
+Bibliography
+[A1989]
+J. D. Allen, A note on the computer solution of connect-four, in Heuristic Programming
+in Artiﬁcial Intelligence, D.N.L. Levy, D.F. Beal, eds., Ellis Horwood, 1989, 134–135.
+[A1988b]
+L. V. Allis, A knowledge-based approach to connect-four, the game is solved: white
+wins, Master’s Thesis, Vrije Universiteit Amsterdam, 1988.
+[A1988]
+William Aspray, The emergence of Princeton as a world center for mathematical re-
+search, 1896–1939, in History and Philosophy of Modern Mathematics, W. Asprey
+and P. Kitcher eds., University of Minnesota Press, 1988, www.mcps.umn.edu/
+philosophy/11_15Aspray.pdf, accessed on October 2011.
+[A2005]
+William Aspray, On John von Neumann and his role in the development of the computer,
+SIAM News March 1, 2005, www.siam.org/news/news.php?id=37, accessed
+on October 2011.
+[ARD1986]
+Donald J. Albers, Constance Reid, and George B. Dantzig, An interview with George B.
+Dantzig: the father of linear programming, The College Mathematics Journal 17 (1986),
+292–314.
+[B1951]
+G. W. Brown, Iterative solutions of games by ﬁctitious play, in Activity Analysis of
+Production and Allocation, Cowles Comission for Research in Economics, Monograph
+No. 13, John Wiley & Sons, 1951, 374–376.
+[B2004]
+J. Bewersdorff, Luck, Logic, and White Lies: The Mathematics of Games, AK Peters,
+2005.
+[BCMM1957]
+Roger R. Baldwin, Wilbert Cantey, Herbert Maisel, and James McDermott, Playing
+Blackjack to Win: A New Strategy for the Game of 21, M. Barrows and Company, 1957.
+[BG2002]
+Arthur T. Benjamin and Alan J. Goldman, Analysis of the N -card version of the game
+Le Her, Journal of Optimization Theory and Applications, 114 (2002) 695–704.
+[BS1979]
+Steven J. Brams and Philip D. Strafﬁn Jr., Prisoner’s Dilemma and professional sports
+drafts, American Mathematical Monthly 86 (1979) 80–88.
+[BT1999]
+Steven J. Brams and Alan D. Taylor, The Win-Win Solution: Guaranteeing Fair Shares
+to Everybody, W.W. Norton, 1999.
+[C1983]
+Vasek Chvatal, Linear Programming, W. H. Freeman & Co, 1983.
+[D1997]
+Morton D. Davis, Game Theory: A Nontechnical Introduction, Dover Publications,
+1997.
+[D1961]
+Melvin Dresher, Games of Strategy, Theory and Applications, RAND corporation, 1961.
+[D2003]
+Ruchira S. Datta, Using computer algebra to ﬁnd Nash equilibira, in Proceedings of the
+2003 international symposium on symbolic and algebraic computation, ACM, 2003,
+74–79.
+280
+
+--- Sayfa 41 ---
+p g
+Bibliography
+281
+[D2013]
+Freeman Dyson, A walk through Johnny von Neumann’s garden, Notices of the AMS 60
+(2013).
+[Fn.d.]
+FairVote, Who picks the president? A report by FairVote, archive.fairvote.org
+/media/research/who_picks_president.pdf, accessed in February 2012.
+[GW1950]
+O. Gross and R. Wagner, A continuous Colonel Blotto game, RAND Research Memo-
+randum 408, 1950.
+[GN1994]
+Ralph Gasser and J¨urg Nievergelt, Es ist entschieden: Das M¨uhlespiel ist unentschieden,
+Informatik Spektrum 17(5) (1994) 314-317.
+[G1996]
+R. Gasser, Solving nine men’s morris, Computational Intelligence 12 (1996) 24–41.
+[HL2010]
+Frederick S. Hillier and Gerald J. Lieberman, Introduction to Operations Research,
+McGraw-Hill Higher Education, 9th ed. 2010.
+[J1869]
+C. Jordan, Sur les assemblage de lignes, Journal Reine Angew. Math. 70 (1869) 185–
+190.
+[K1950]
+H. W. Kuhn, A simpliﬁed two-person poker, Contributions to the Theory of Games 1
+(1950) 97–103.
+[K1953]
+H. W. Kuhn, Extensive games and the problem of information, Contributions to the
+Theory of Games 2 (1953) 193–216.
+[K1956]
+J. L. Kelly Jr., A new interpretation of information rate, Bell System Technical Journal
+35 (1956) 917–926.
+[K1959]
+S. Karlin, Mathematical Methods and Theory in Games, Programming and Economics,
+Vol. I, Addison-Wesley, 1959.
+[K1961]
+Ephraim Kishon, Jewish Poker, 1961, www.ephraimkishon.de/my_favorite_
+stories.htm, last accessed September 2010.
+[K2003]
+Tinne Hoff Kjeldsen, New mathematical disciplines and research in the wake of world
+war II, in Mathematics and War, Bernhelm Booss-Bavnbek and Jens Høyrup, eds.,
+Birkh¨auser, 2003, 126–152.
+[K2004]
+H. W. Kuhn, Introduction, in the commemorative edition of John von Neumann & Os-
+kar Morgenstern, Theory of Games and Economic Behavior, 2004, Princeton Univer-
+sity Press, also at press.princeton.edu/chapters/i7802.pdf,accessed on
+October 2011.
+[K1995]
+V. Knoblauch, Geometric versions of ﬁnite games: prisoner’s dilemma, entry deterrence
+and a cyclic majority paradox, International Journal of Game Theory 24 (1995) 165–
+177.
+[K2007]
+Marek Kaminski, Lecture 6, Sequential Games, in Introduction to Game Theory,
+webfiles.uci.edu/mkaminsk/www/gtp/06SequentialGames.pdf, ac-
+cessed in November 2011.
+[Kn.d.]
+Levent Kockesen, Game Theory Lecture Notes, Lecture 5, undated web pages,
+home.ku.edu.tr/˜lkockesen/teaching/uggame/lectnotes/
+uglect5.pdf, last accessed August 2011.
+[KC1971]
+David A. Kohler and R. Chandrasekaran, A class of sequential games, Operatons Re-
+search 19 (1971) 270–277.
+[L2006]
+Steven M. LaValle, Planning Algorithms, Cambridge University Press, 2006.
+
+--- Sayfa 42 ---
+p g
+282
+Bibliography
+[LH1964]
+Carlton E. Lemke and J. T. Howson, Jr., Equilibrium points of bimatrix games, SIAM
+Journal of Applied Mathematics 12 (1964) 413–423.
+[MP1992]
+R. McKelvey and T. Palfrey, An experimental study of the centipede game, Economet-
+rica 60 (1992) 803–836.
+[M1998]
+John Milnor, John Nash and A Beautiful Mind, Notices of the AMS, 45 (1998) 1329–
+1332.
+[N1998]
+Sylvia Nasar, A Beautiful Mind, Simon & Schuster, 1998.
+[N2001]
+Nobel Prize Committee, Interview with George A. Akerlof, A. Michael Spence,
+and Joseph E. Stiglitz, www.nobelprize.org/mediaplayer/index.php?.
+id=502.
+[N2008]
+Nobel Prize Committee, Interview with Robert Aumann, www.nobelprize.org/
+nobel_prizes/economics/laureates/2005/aumann-interview.html.
+[P1993]
+William Poundstone, Prisoner’s Dilemma, Random House, 1993.
+[P2005]
+William Poundstone, Fortune’s Formula, Hill and Wang, 2005.
+[P2011]
+E. Prisner, Best response digraphs for two location games on graphs, in Contributionsto
+Game Theory and Managament IV, Leon A. Petrosjan and Nikolay A. Zenkevich, eds.,
+St. Petersburg, (2011) 378-388.
+[PF1654]
+English translation (by Vera Sanford and Maxine Merrington) of the letters between Fer-
+mat and Pascal, www.york.ac.uk/depts/maths/histstat/pascal.pdf,
+accessed in December 2011.
+[PP2005]
+Knowing when to fold ’em, Q &A with Palisades’ poker champ Chris Ferguson,
+Palisadian Post,
+2005,
+www.palisadespost.com/content/index.cfm?
+Story_ID=1369.
+[R1951]
+J. Robinson, An iterative method for solving a game, Annals of Mathematics 54 (1951)
+296–301.
+[R1981]
+R. Rosenthal, Games of perfect information, predatory pricing, and the chain store,
+Journal of Economic Theory 25 (1981) 92-100.
+[RC2004]
+Allan Rossman and Beth Chance, Conditional probability activity: AIDS testing,
+cs.zju.edu.cn/people/yedeshi/probability08/aidstesting.doc,
+accessed in September 2010.
+[S1971]
+Martin Shubik, The dollar auction game: A paradox in noncooperative behavior and
+escalation, The Journal of Conﬂict Resolution 15 (1971) 109–111.
+[S1960]
+Thomas C. Schelling, The Strategy of Conﬂict, Harvard University Press, 1960.
+[SBBKMLLS2007] Jonathan Schaeffer, Neil Burch, Yngvi Bj¨ornsson, Akihiro Kishimoto, Martin M¨ueller,
+Robert Lake, Paul Lu, and Steve Sutphen, Checkers is solved, Science 317 (2007) 1518–
+1522.
+[S2009]
+Branislav L. Slantchev, Game theory: dominance, Nash equilibrium, symmetry, 2009,
+slantchev.ucsd.edu/courses/gt/04-strategic-form.pdf, accessed
+January 2012.
+[SW2001]
+U. Schwalbe and P. Walker, Zermelo and the early history of game theory, Games and
+Economic Behavior 34 (2001) 123–137.
+[T1962]
+Edward O. Thorp, Beat the Dealer, Blaisdell Pub. Co., 1962.
+
+--- Sayfa 43 ---
+p g
+Bibliography
+283
+[VNM1944]
+John von Neumann and Oskar Morgenstern, Theory of Games and Economic Behavior,
+Princeton University Press, 1953.
+[VS2007]
+Bernhard von Stengel, Lecture Notes on Game Theory, www.maths.lse.ac.uk/
+Courses/MA301/lectnotes.pdf 2007
+[Wn.d.]
+Dollar Auctions, a Wikipedia article at en.wikipedia.org/wiki/Dollar_
+auction.
+[Z1968]
+B. Zelinka, Medians and peripherians of trees, Archivum Mathematicum 4 (1968) 87–
+95.
+[Z1913]
+E. Zermelo, ¨Uber eine Anwendung der Mengenlehre auf die Theorie des Schachspiels,
+Proceedings of the Fifth International Congress of Mathematicians 2 (1913) 501–504.
+[ZP1993]
+Uri Zwick and Michael S. Paterson, The memory game, Theoretical Computer Science
+110 (1993) 169–196.
+
+--- Sayfa 44 ---
+p g
+Index
+1-CANDIDATE QUIZ SHOW, 123
+2 FINGERS, 56
+2-AUCTION, 69
+3-AUCTION, 69
+5 CARDINALS, 45
+5 ENVELOPES, 124
+5 KNIGHTS, 12
+5 PIRATES, 68
+5 PIRATES with random selection, 126
+8 ROUNDS BLACK OR WHITE, 147
+A Beautiful Mind, 212
+ABABA, 112
+ABABAB, 70
+ABBAAB, 70
+ABBABA, 70, 112
+action, 1
+acyclic digraph, 57, 160
+adjacent, 25, 34
+Akerlof, George A., 278
+alternatives, 160
+altruism, 60
+arc, 13
+arcs, 54
+Aumann, Robert, 157, 278
+backward induction
+for perfect information and no randomness, 59
+for perfect information and randomness, 122
+Banzhaf-Penrose Index, 52
+BARGAINING, 65
+BATTLE OF THE SEXES, 10
+behavioral strategy, 231
+best response, 8
+best response digraph, 13
+Borel, Emile, 63
+bottom-up analysis, 75
+branch subgame, 164
+Brown’s ﬁctitious play, 200
+Brown, George W., 156
+C&C, 113
+Card counting, 135
+cardinal scale, 90
+CENTIPEDE GAME, 60
+CHICKEN, 81
+CHOCOLATES IN THE BOX, 68
+COLONEL BLOTTO, 157
+complete information, 2
+conditional probability, 91
+cooperative game, 2
+core, 256
+CRASH ROCK-SCISSORS-PAPER, 201
+CREATING HOLES, 66
+cycle, 33
+cyclic digraph, 57
+Dantzig, George, 156, 204, 213
+digraph
+acyclic, 160
+probability, 93
+DMA6* SOCCER, 109
+DMA7* SOCCER, 109
+Dresher, Melvin, 158
+DUEL, 149, 152
+two-bullet, 149, 152
+edge, 34
+ELECTION, 50, 157
+empirical probability, 87
+end positions, 53
+end vertex, 33, 160
+envy-free, 111
+equilibrium
+Nash, 10
+event, 86
+Excel, 42
+cells, 42
+input cells, 42
+output cells, 42
+experiments, 86
+284
+
+--- Sayfa 45 ---
+p g
+Index
+285
+extensive form, 54, 159
+fair, 80
+Ferguson, Chris, 138
+ﬁctitious play, 200
+FINAL EXAM, 98
+ﬁnal vertex, 160
+ﬁrst mover advantage, 80
+Flood, Merrill, 158
+gain digraph, 72
+gain value, 72
+Gale, David, 279
+game, 1
+ﬁnite, 56
+symmetric, 6
+zero-sum, 5
+game digraph, 54, 159
+game tree, 55, 160
+games
+1-CANDIDATE QUIZ SHOW, 123
+2 FINGERS, 56
+2-AUCTION, 69
+3-AUCTION, 69
+5 Cardinals, 45
+5 ENVELOPES, 124
+5 Knights, 12
+5 PIRATES, 68
+5 PIRATES with random selection, 126
+8 ROUNDS BLACK OR WHITE, 147
+ABABA, 112
+ABABAB, 112
+ABBABA, 112
+BARGAINING, 65
+C&C, 113
+CENTIPEDE GAME, 60
+CHICKEN, 81
+CHOCOLATES IN THE BOX, 68
+COLONEL BLOTTO, 157
+CRASH ROCK-SCISSORS-PAPER, 201
+CREATING HOLES, 66
+DMA6* SOCCER, 109
+DMA7* SOCCER, 109
+DUEL, 149
+ELECTION, 50, 157
+FINAL EXAM, 98
+iterated COLONEL BLOTTO, 211
+JOB INTERVIEWS, 127
+LISA’S GAME, 69
+MATCHING CHAIRS, 65
+MINI BLACKJACK, 142
+MINI BLACKJACK(a; b), 139
+NIM(6), 53
+OH-NO, 124
+OH-NO6, 128
+Polyomino REC THE SQUARE with Random-
+ness, 125
+Polyomino REC THE SQUARE with random-
+ness, 128
+PRISONER’S DILEMMA, 158
+R&E2, 113
+R&E4, 113
+RANDOM NIM(n; p), 121
+REC THE SQUARE, 66
+ROCK-SCISSORS-PAPER, 81
+ROCK-SCISSORS-PAPER2, 202
+SEANATE RACE II, 54
+SENATE RACE, 96
+SEQUENTIAL LEGISLATORS VOTE, 57
+SHUBIK AUCTION, 77, 169
+Simultaneous Quatro-Uno, 44
+symmetric, 80
+TAKE SOME, 66, 69
+TENNIS:, 97
+ULTIMATUM GAME, 60
+WHO’S NEXT, 67
+x ROUNDS RED, GREEN, OR BLUE, 148
+graph, 34
+greedy strategy, 70
+guaranteed payoffs, 62
+Harsanyi, John, 181, 277
+Hurwicz, Leonid, 278
+IESD, 7
+IEWD, 8
+inefﬁciency, 111
+inequity, 111
+information set, 159
+interval scale, 90
+isomorphic, 157
+iterated COLONEL BLOTTO, 211
+JOB INTERVIEWS, 127
+Julia Robinson’s theorem, 203
+
+--- Sayfa 46 ---
+p g
+286
+Index
+Kelly criterion, 136, 137
+Kelly Jr., J. L., 135
+Kimmel, Emmanuel, 135
+Kuhn Poker, 186
+Kuhn, H.W., 185
+Kuhn, Harold William, 279
+law of large numbers, 87
+Le Her
+Le Her*(S,r), 178
+linear program, 203
+LISA’S GAME, 69
+Marcum, Jess, 135
+Maskin, Eric S., 278
+MATCHING CHAIRS, 65
+maximal outerplanar graph, 33
+maximin move, 6
+maximin strategy, 6
+maximin value, 6
+median of a graph, 30
+Min Sat, 112
+MINI BLACKJACK, 142
+MINI BLACKJACK(a; b), 139
+Mirrlees, James A., 278
+mixed maximin strategy, 202
+mixed Nash equilibrium, 203
+mixed security level, 202
+mixed strategy, 199
+MOP, 33
+Morgenstern, Oskar, 185
+move, 1
+moves, 160
+Myerson, Roger B., 278
+Nash equilibrium
+mixed, 203
+Pareto-optimal, 11
+pure, 10
+subgame perfect, 181
+Nash’s Theorem, 204
+Nash, John, 13, 135, 156, 181, 212, 277
+neighbor, 34
+net odds, 136
+NIM(6), 53
+Nobel Memorial Prize in Economics, 13, 157
+Nobel, Alfred, 277
+nominal scale, 90
+normal form, 4, 5, 177
+OH-NO, 124
+OH-NO6, 128
+options, 160
+ordinal scale, 90
+outcome, 4
+outcomes, 1
+Pareto-dominated, 11, 111
+Pareto-optimal, 11
+payoff, 1
+perfect information, 2
+perfect recall, 233
+play, 1
+Polyomino REC THE SQUARE with Randomness,
+125
+Polyomino REC THE SQUARE with randomness,
+128
+position, 1, 53
+PRISONER’S DILEMMA, 10, 158
+probability, 87
+empirical, 87
+theoretical, 87
+probability digraph, 93
+probability tree, 91
+projects
+5 Cardinals, 45
+5 ENVELOPES, 127
+5 Knights, 12
+JOB INTERVIEWS, 127
+OH-NO, 128
+Polyomino REC THE SQUARE with random-
+ness, 128
+Restaurant Location Games, 44
+Simultaneous Quatro-Uno, 44
+proof, 15
+pure Nash equilibrium, 10
+pure strategy, 176
+R&E2, 113
+R&E4, 113
+random moves, 2
+RANDOM NIM(n; p), 121
+random variable, 89
+random vertex, 121
+ratio scale, 90
+REC THE SQUARE, 66
+
+--- Sayfa 47 ---
+p g
+Index
+287
+reduced pure strategy, 177
+relative frequency, 87
+relative values, 111
+ROCK-SCISSORS-PAPER, 81
+ROCK-SCISSORS-PAPER2, 202
+Roth, Alvin E., 278
+satisfaction, 111
+scale
+cardinal, 90
+interval, 90
+nominal, 90
+ordinal, 90
+ratio, 90
+Schelling, Thomas, 157, 278
+second mover advantage, 80
+security level, 6, 62
+security level analysis, 62
+security strategy, 62
+Selten, Reinhard, 181, 277
+SENATE RACE, 96
+SENATE RACE II, 54
+sequential game, 2, 53
+SEQUENTIAL LEGISLATORS VOTE, 57
+set position, 72
+Shapley value, 256
+Shapley, Lloyd, 278
+Shapley, Lloyd Stowell, 135, 156
+SHUBIK AUCTION, 77, 169
+Shubik, Martin, 135, 279
+simple event, 86
+simultaneous game, 2
+Simultaneous Quatro-Uno, 44
+Spence, A. Michael, 278
+spreadsheet program, 42
+stable coalition, 255
+standard deviation, 115
+start position, 53
+start vertex, 160
+Stiglitz, Joseph E., 278
+strategic form, 177
+strategy, 1
+pure, 176
+reduced, 177
+strict domination, 7
+subgame, 164
+subgame perfect, 181
+support, 200
+swing voter, 52
+symmetric games, 80
+TAKE SOME, 66, 69
+TENNIS, 97
+terminal vertex, 160
+theorem, 15
+theoretical probability, 87
+Thorp, Edward O., 135
+ULTIMATUM GAME, 60
+unique response, 84
+Uston, Ken, 138
+utilities, 60
+utility function, 136
+value of a two-player zero-sum game, 202
+variance, 116
+vertex, 13, 34
+vertices, 54
+Vickrey, William, 278
+VNM Poker, 185
+von Neumann’s Theorem, 203
+von Neumann, John, 63, 156, 185, 212
+weak domination, 8
+WHO’S NEXT, 67
+Williams, John David, 157
+winning coalition, 52
+x ROUNDS RED, GREEN, OR BLUE, 148
+Zermelo’s Theorem, 59
+Zermelo, Ernst, 59
+zero-sum, 5
+zero-sum game, 2

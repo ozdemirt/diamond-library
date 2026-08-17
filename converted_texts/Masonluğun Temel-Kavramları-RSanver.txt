@@ -1,0 +1,846 @@
+--- Sayfa 1 ---
+1
+
+MASONLUĞUN TEMEL KAVRAMLARINA DAİR BİR REHBER
+
+M. Remzi Sanver
+
+--- Sayfa 2 ---
+2
+
+İÇİNDEKİLER
+
+ÖNSÖZ
+
+1. BÖLÜM: BÜYÜK LOCA
+
+2. BÖLÜM: BÜYÜK LOCALAR ARASI İLİŞKİ
+
+3. BÖLÜM: RİTLER
+
+4. BÖLÜM: TÜRKİYE’DEKİ MASONLUK UYGULAMALARINA DAİR NOTLAR
+
+SONSÖZ
+
+--- Sayfa 3 ---
+3
+
+ÖNSÖZ
+
+Bundan bir süre evvel, bir konferansın metninde, konuşmacı kardeşin “Büyük Locamızın Eski
+ve Kabul Edilmiş Skoç Riti’nde, Özgür Masonlar Büyük Locası’nın ise Fransız Riti’nde çalıştığı;
+bu sebepten bizim muntazam olduğumuz, onların muntazam olmadıkları” ifadesini okudum.
+Oysa Büyük Locamız Eski ve Kabul Edilmiş Skoç Riti’nde çalışmıyor; tersine, Özgür Masonlar
+Büyük Locası Eski ve Kabul Edilmiş Skoç Riti’nde çalışıyor; Türkiye’de Fransız Riti’nde çalışan bir
+büyük loca yok; zaten rit kavramının da intizamla ilişkisi yok.
+
+Alıntıladığım ifadenin gerçekle ilişkisizliğinin istisnai bir halin yansıması olduğunu düşünseydim
+bu satırları kaleme almazdım. Ancak masonluğun temel kavramlarına dair bir kafa
+karışıklığının, istisna addedilemeyecek kadar yaygın olduğu izlenimine sahibim. Elbette her
+birimiz dünya masonluğu uzmanı olmak zorunda değiliz ama hepimiz masonluğun temel
+kavramlarını bilirsek iyi olur.
+
+Bu çalışmayı bu yönde yardımcı olacak bir rehber olarak tasarladım. Kitap dört bölümden
+oluşuyor. İlk bölüm, büyük loca kavramını ele alıyor. Burada, evvela bir büyük locanın belirli
+bir coğrafi alanla tanımlı masonik egemenliği ile bağımsızlığının ne manaya geldiği anlatılıyor.
+Daha sonra, bu bağımsızlık çerçevesinde, her büyük locanın kendince bir masonluk anlayışına
+sahip olabileceği ifade edilip, geleneksel masonluk anlayışını yansıtan “muntazam masonluk”
+kavramı tarif ediliyor. İkinci bölüm, büyük localar arası ilişkileri ele alıyor. Burada evvela
+“karşılıklı tanışma” kavramının manası ve sonuçları anlatılıyor. Daha sonra karşılıklı tanışma
+kararlarını belirleyen unsurlardan bahsediliyor. Nihayet, bu ilişkilerin yol açtığı dünya
+masonluk panoraması tasvir ediliyor.  Üçüncü bölüm, rit kavramını ele alıyor. Burada, evvela
+bu kavramın tanımı, masonluktaki işlevi ve konumu, bazı örnekler de verilerek anlatılıyor. Daha
+sonra ritlerin büyük localarla olan ilişkisinin esasları ifade ediliyor. Nihayet, rit ve intizam
+kavramlarının ilişkisizliğine işaret ediliyor. Dördüncü bölüm, ilk üç bölümdeki tahlillerin
+ışığında, Türkiye Büyük Locası bünyesinde kavram kargaşasına maruz kalmış bazı yaklaşımları
+açıklığa kavuşturuyor.
+
+--- Sayfa 4 ---
+4
+
+Dünyada masonluğun yapılanması ziyadesiyle karmaşıktır. Bu yapılanmayı bütünüyle tasvir
+etmek, sayısız detayı ele almayı gerektirir. Bunu özellikle yapmıyor ve bu çalışmayı kasıtlı
+olarak eksik bırakıyorum. Gayem masonluğun temel kavramlarına dair kısa ve kolay okunur bir
+el kitabı oluşturmak. Dilerim konuya ilgi duyanların işine yarar.
+
+Metni yayınlanmadan önce okuyan, kitabın gelişmesine değerli katkılarda bulunan, çalışmamı
+takdir ve teşvik eden Yavuz Ağaoğlu, Cem Altunkaynak, Murat Özgen Ayfer, Mehmet Bekar,
+Tayfun Çalkavur, Serhat Demirel, Erol Dolunay, Ali Kerem Gülermen, Cevad Gürer, Ergin
+Koparan, Celil Layiktez, Yalın Manço, Levent Özbakkaloğlu, Tiğin Sertcan, Murat Sezer, Ahmet
+Şenkut, Emre Üge, Erol Yavuz, Okan Yunusoğlu kardeşlerime müteşekkirim. Elbette muhtemel
+bütün eksik ve hataların sorumlusu benim.
+
+--- Sayfa 5 ---
+5
+
+1. BÖLÜM: BÜYÜK LOCA
+
+Büyük loca, çırak-kalfa-üstat derecelerinde çalışan locaların bir araya gelmeleriyle oluşan
+masonik yönetim otoritesidir. Localar, masonik yasama yetkilerini, oluşturdukları büyük locaya
+devrederler. Büyük loca, localar adına masonik yasaları (tüzükler) yapar; bunların
+yürütülmesinin ve bunlara dair ihtilafların yargılanmasının usul ve esaslarını belirler. Bu, büyük
+locanın kendisini oluşturan localar üzerindeki masonik egemenliğidir.1
+
+Bir büyük locanın masonik egemenliği aynı zamanda belirli bir coğrafi alan üzerinde tariflidir.
+Başka bir deyişle, her büyük loca masonik egemenliğini belirli bir coğrafi alanda bulunan localar
+üzerinde kurar. Esasen bu alan da büyük locaya ismini verir. Mesela Türkiye Büyük Locası’nın
+yasalarında - Büyük Loca Tüzüğü’nün ilk maddesinde- masonik egemenliğinin Türkiye
+topraklarında geçerli olduğu yazmaktadır; zaten ismi de bundan dolayı Türkiye Büyük
+Locası’dır.
+
+Büyük locaların masonik egemenliklerini tarif ettikleri alan çoğu zaman büyük locanın ait
+olduğu ülkenin millî sınırlarıdır. Diğer yandan bu durumun yabana atılmayacak sayıda istisnası
+vardır. Mesela Amerika Birleşik Devletleri’ndeki büyük localar egemenliklerini eyalet
+sınırlarıyla tanımlar: Florida Büyük Locası vardır, Alaska Büyük Locası vardır ama Amerika
+Birleşik Devletleri Büyük Locası yoktur. İstisnalar eyalet sistemine sahip ülkelere has olmak
+zorunda değildir. Mesela Birleşik Krallık Büyük Locası yoktur; İngiltere Birleşik Büyük Locası2,
+İrlanda Büyük Locası ve İskoçya Büyük Locası vardır. İngiltere Birleşik Büyük Locası’nın
+egemenliği hem İngiltere hem de Galler üzerindedir. İrlanda Büyük Locası’nın alanı ise Kuzey
+İrlanda ve İrlanda Cumhuriyeti olmak üzere iki siyasi sınırı içerir.
+
+1 Bazı büyük localar, localarıyla ilişkide, bölge büyük locası adı verilen bir ara kademeyi kullanır. Geniş
+coğrafyalarda faaliyet gösteren büyük locaların üzerlerindeki merkezî yükü hafifletmek amaçlı bu model, merkezî
+büyük locanın masonik egemenliğinden vazgeçtiği anlamına gelmez: bölge büyük locaları merkezî büyük locaya
+tam bağımlıdır ve kendilerinden kaynaklanan herhangi bir masonik egemenlikleri söz konusu değildir.
+2 Bu büyük locanın unvanındaki “birleşik” sıfatı, İngiltere masonluğunda yaşanmış bölünmeyi sonlandıran 1813
+senesindeki birleşmeden kaynaklanır; egemenlik alanıyla ilişkisi yoktur.
+
+--- Sayfa 6 ---
+6
+
+Büyük locaların isimlerini aldıkları alan dışında da locaları, dolayısıyla egemenlik iddiaları
+olması mümkündür. Mesela, İngiltere Birleşik Büyük Locası’nın Malta’da veya Türkiye Büyük
+Locası’nın Arnavutluk’ta locaları mevcuttur.
+
+İstisnası bol ve karmaşık bir konu olan büyük locaların egemenlik alanı meselesinin bazı
+detaylarını ikinci bölümde ele alacağız. Ana fikir, büyük loca egemenliği kavramının daima bir
+alan iddiasıyla birlikte var olduğudur. Zaten bu yüzden büyük locaların sembolik isimleri olmaz,
+hep bir coğrafi alanla birlikte anılırlar. Mesela “Sevgi Büyük Locası”, “Ülkü Büyük Locası” olmaz;
+“Arkansas Büyük Locası”, “İspanya Büyük Locası” olur.
+
+Büyük localar masonik açıdan sadece egemen değil, aynı zamanda bağımsız yapılardır. Her
+büyük loca masonluk anlayışını, yasalarını/tüzüklerini, ritüellerini, ilişki kuracağı ya da
+kurmayacağı büyük locaları dilediği gibi belirlemekte serbesttir. Dolayısıyla dünyada
+masonluğun yapılanması bağımsız büyük localar eliyledir. O halde bütün dünyayı içeren
+merkezî bir masonik yönetim otoritesi mevcut olmadığı gibi bir büyük locanın bir başka
+merkeze bağlı olduğu, mesela “Türkiye Büyük Locası’nın İngiltere’ye bağlı olduğu” ya da
+“Özgür Masonlar Büyük Locası’nın Fransa’ya bağlı olduğu” gibi ifadelerin de gerçeklikte
+karşılığı yoktur.
+
+Özetle, büyük loca, belirli bir coğrafi alan üzerinde locaları adına masonik yasama, yürütme ve
+yargı yetkisini üstlenmiş; egemen ve bağımsız yapıdır. “Obediyans” ve “jüridiksiyon”,
+literatürde, büyük locanın bağımsızlık ve egemenliğini kasteden iki kavramdır yani bir büyük
+locanın obediyansından ya da jüridiksiyonundan bahsedilebilir.3
+
+3 “Obediyans” ve “jüridiksiyon” denk kavramlardır. Hangisini kullanacağınız, daha seküler bir tabiri tercih edip
+etmediğinize bağlı olduğu gibi İngilizce ya da Fransızca literatür arasındaki tercihinize de bağlıdır. Bu iki kavramın
+aslında farklı içeriğe sahip olduklarına dair görüşün dünya masonluk literatüründe bildiğim bir karşılığı
+yoktur. Aynı şekilde, obediyans kavramının “ortak bir anlayışa sahip büyük localar grubu” anlamında bir kullanımı
+da dünya masonluk literatüründe mevcut değildir.
+
+--- Sayfa 7 ---
+7
+
+Bu tarifiyle büyük locayı masonik manada devlete, locaları bu devletin vatandaşlarına
+benzetebiliriz. Her loca, bir büyük locaya tabi olmakla, o büyük locanın masonik yasama,
+yürütme ve yargı yetkisini kabul etmiş olur. Bu benzetme çerçevesinde ifade edilecek bir husus
+da localar açısından “çifte vatandaşlığın” mümkün olmadığıdır. Bir loca bir ve sadece bir büyük
+locaya bağlı olabilir. 4 Bu noktada, locaların da nihayetinde masonlardan oluştuklarını
+hatırlamakta fayda var. Her mason bir locaya üye olmak zorundadır. Bir büyük locanın bir
+mason üzerindeki masonik egemenliği, o masonun üye olduğu loca vasıtasıyladır. Bir masonun
+kendi büyük locasına ya da başka bir büyük locaya bağlı ikinci bir locaya üye olup olamayacağı
+ise her büyük locanın kendi yasalarında düzenlediği bir konudur.5
+
+Burada not etmeye değer bir husus, bir büyük locanın masonluk anlayışını o büyük locanın
+kendi hazırladığı yasaları dışında aramamak gereğidir. Anderson Anayasası ya da İngiltere
+Birleşik Büyük Locası’nın 1929 senesindeki beyannamesi gibi belgeler, tarihsel referanslar
+yahut kaynak metinler olarak görülebilirler ama bir büyük locanın masonluk anlayışını görmek
+için o büyük locanın kendi yasalarına bakmak hem gerekir hem de yeter.6
+
+Her ne kadar büyük localar masonluk anlayışlarını dilediklerince belirleseler de aşağıdaki beş
+ilke, büyük locaların masonluk anlayışlarının tespitinde bir mihenk taşıdır:
+
+1. Mason olacakların bir yüce varlığa inandıklarını beyan mecburiyeti;
+
+4 Aslında, hiçbir büyük locaya bağlı olmadan çalışan localar da vardır ama bunlar dünya masonluğunda ihmal
+edilebilir istisnai bir hali teşkil eder.
+5 Türkiye Büyük Locası, kendi localarındaki masonların başka büyük localara bağlı localara da üye olmalarına izin
+vermektedir; buna mukabil bir masonun Türkiye Büyük Locası’na bağlı iki locaya birden üye olması, tüzüklerle
+tarif edilmiş istisnai haller dışında, mümkün değildir.
+6 Masonluğun inisiyatik uygulamaları, ifadesini ritüellerde bulur. Dolayısıyla ritüeller, bir büyük locanın inisiyatik
+kimliğini belirleyen temel metinlerdir. Diğer yandan ritüel, sembolik karakteriyle, masonun birey olarak
+masonlukla kendi iç dünyasında kurduğu ilişkiyi belirler. Bu ilişki doğal olarak özneldir, yorum temellidir. Ritüel
+metinlerine tüzük metni muamelesi yapmak ve ritüel ifadelerinin yorumundan yasa hükmünde sonuç çıkartmak
+mümkün değildir. Benzeri bir imkansızlık, masonluğun çok değerli bir kavramı olan “yazılı olmayan kurallar” için
+de geçerlidir. Bu kavram bize, her şeyi yazmanın imkansızlığını; masonluğun esasen gelenekleriyle yürüdüğünü
+hatırlatır. Masonların, yazılı olmayan kuralların neler olduğuna dair kendilerince sonuç çıkartmaları da değerli bir
+çabadır. Önemli olan, bu kişisel çıkarımların kişisel seviyede kalması ve Türkiye Büyük Locası’nın genel hukuk
+düzeninin bir parçası zannedilmemesidir.
+
+--- Sayfa 8 ---
+8
+
+2. Yeminlerin masonluğun üç büyük sembolik nuru (kutsal kitaplar, gönye ve pergel) üzerine
+edilmesi ve çalışma sırasında bunların açık bulundurulmaları;
+3. Kadınların tekris edilmemesi;
+4. Büyük locanın ve locaların bünyesinde dinî ve siyasi içerikli konuşma yapılmaması;
+5. Büyük locanın, çırak-kalfa-üstat derecelerinin tek hâkimi olması; bu dereceler üzerindeki
+egemenliğini herhangi bir başka masonik yapıyla paylaşmaması.
+Masonluk anlayışlarını, masonluğun geleneksel değerlerini yansıttıkları düşünülen bu beş
+ilkenin tümünü benimseyerek belirleyen büyük localar “muntazam” olarak adlandırılır. Bu
+tabirin, bu beş ilkenin tümünü benimsemeyen yani “muntazam olmayan” büyük localar
+tarafından her zaman çok sevimli bulunmadığını biliyorum; buna saygı da duyuyorum ama
+literatürdeki yaygınlığı açısından “muntazam olan ve olmayan büyük localar” ifadesini
+kullanmaya devam edeceğim. Bunu yaparken, intizam kavramına herhangi bir olumluluk ya da
+olumsuzluk yüklemiyorum. Neticede, bir büyük locanın muntazam olması ya da olmaması, o
+büyük locanın kendi masonluk anlayışına dair tercih ve kararını yansıtır. Bu vesileyle, bir büyük
+locanın intizamının o büyük locanın dışında bir kurum tarafından belirlenmesinin söz konusu
+olmadığını not edebiliriz. O halde, mesela “İngiltere Birleşik Büyük Locası’nın İtalya Büyük
+Doğusu’nu gayrımuntazam ilan ettiği” ifadesinin gerçeklikte herhangi bir karşılığı yoktur. 7
+
+Türkiye’deki tek muntazam büyük loca, Hür ve Kabul Edilmiş Masonlar Türkiye Büyük Locası
+ya da kısaltılmış ismiyle Türkiye Büyük Locası’dır. Muntazam olmayan masonluk anlayışının
+önde gelen temsilcisi ise Özgür Masonlar Büyük Locası’dır. Bu durum, Türkiye’de muntazam
+masonluğun “hür masonluk”, muntazam olmayan masonluğun ise “özgür masonluk” olarak
+anılmasına yol açmıştır. İki kurumu bu tabirlerle ayrıştırmak Türkiye özelinde belirli bir mana
+ifade etse de, neticede “hür” ve “özgür” kavramları aynı anlamı taşıdıklarından, bu ayrımın bu
+tabirlerle yapılmasının dünya literatüründe bir karşılığı yoktur. Muntazam masonluktan “İngiliz
+masonluğu”, muntazam olmayan masonluktan “Fransız masonluğu” olarak bahsetmek ise
+yanıltıcıdır çünkü muntazam olan ve olmayan masonluk ayrımının İngiltere-Fransa ekseninde
+
+7 Muntazam masonluk ilkelerinin daha detaylı bir incelemesi M. Remzi Sanver’in “Muntazam Masonluk ve
+İnanç” başlıklı kitabında bulunabilir (Kurtiş Matbaacılık, 2003).
+
+--- Sayfa 9 ---
+9
+
+ortaya çıktığı tarihsel bir olgu olmakla birlikte, uzun yıllardır her iki ülkede de muntazam olan
+ve olmayan masonluk mevcuttur. Dolayısıyla “Fransız masonluğu” denince illa ki muntazam
+olmayan masonluk anlaşılamayacağı gibi “İngiliz masonluğu” ifadesi de sadece muntazam
+masonluğa işaret etmez. Aynı şekilde, büyük loca/büyük doğu kavramsal ayrımı da intizamla
+ilişkisizdir. Tarihsel olarak, büyük doğular, büyük localarla aynı işleve sahip ancak localara iç
+işlerinde daha fazla serbestlik tanırken merkezi yönetimin belirlenmesinde daha az yetki
+tanıyan yapıları yansıtırlar. Diğer yandan, kurumların yıllar içerisindeki evrimiyle, bu
+yapılanmalar gitgide birbirine benzer hale gelmiştir. Her halükarda, bu ayrımdan intizama dair
+bir netice çıkartmak mümkün değildir. Mesela Fransa Büyük Doğusu’nun muntazam olmadığı
+doğrudur ama Hollanda Büyük Doğusu muntazamdır. Keza İtalya Büyük Doğu’su muntazamdır
+ama İtalya Büyük Locası muntazam değildir.8
+
+Son olarak “menşe intizamı” ve “büyük locaların patenti” kavramlarına değinelim. Bir büyük
+locanın yoktan var olamayacağı, zaten mevcut bir masonluk geleneğinden doğması gereği
+aşikardır. Bu gerek, masonluğun inisiyatik kimliğinin bir parçası, bir nevi masonluğun tanımı
+icabıdır. Bu açıdan, menşe intizamı anlamlı ve önemli bir kavramdır. Diğer yandan bu kavramın
+İngiltere Birleşik Büyük Locası tarafından “bir büyük locanın en az üç muntazam locanın bir
+araya gelmesiyle kurulması” olarak ifadelendirilen bir hali vardır. Bir büyük locaya kuruluşunda
+verilen patent, locaların büyük locadan aldıkları berattan farklı olarak, bir çalışma izni değil, o
+büyük locanın kuruluşuna katılmış locaların daha önceden bağlı oldukları büyük locaların
+intizamının tescilidir. Esasen, patent kavramı, menşe intizamı kavramının İngiliz yorumuyla
+yakından alakalıdır. Muntazam masonluk içinde menşe intizamının İngiliz yorumunu
+benimseyen büyük localar olduğu gibi, bu yorumun harfiyen uygulanmasını şart görmeyen
+büyük localar da vardır. Dolayısıyla menşe intizamının İngiliz yorumunu muntazam
+masonluğun olmazsa olmaz bir kuralı olarak görmemek gerekir. 9
+
+8 İtalya Büyük Locası, muntazam olan İtalya Muntazam Büyük Locası ile karıştırılmamalıdır. Bu konuyu ikinci
+bölümde ele alıyoruz.
+9 Mesela İskoçya Büyük Locası ya da Türkiye Büyük Locası, menşe intizamının İngiltere Birleşik Büyük Locası’nın
+yorumladığı haliyle anlaşılmasını şart koşmaz. Zaten Türkiye Büyük Locası menşe intizamı şartını İngiltere Birleşik
+Büyük Locası’nın yorumladığı haliyle sağlamadığı gibi, bu anlamda bir patenti de yoktur. İngiltere Birleşik Büyük
+Locası’nın kendi yorumunun arkasında istisnasız duruyor olmadığını da bu vesileyle not edelim.
+
+--- Sayfa 10 ---
+10
+
+2. BÖLÜM: BÜYÜK LOCALAR ARASI İLİŞKİ
+
+Büyük localar arası ilişkiyi belirleyen temel kavram “tanışma”dır. Bir büyük loca, kendi
+yasalarına uygun olarak alacağı bir kararla, başka bir büyük locayı tanıyabilir. İki büyük locanın
+birbirini tanıması, bu büyük locaların birbirlerinin masonik hukuki varlıklarını kabul etmeleri
+anlamına gelir. Tanışmanın en temel sonucu, tanışan büyük locaların mensuplarının
+birbirlerinin loca toplantılarına katılabilmeleridir. Birbiriyle tanışmayan iki büyük locanın
+mensupları ise birbirlerinin loca toplantılarına katılamaz.
+
+İki büyük locanın birbirini tanıması, bu büyük locaların ayrı ayrı verecekleri iki taraflı bir
+karardır; bu kararı belirleyen, o iki büyük locanın dışında bir merci yoktur. Alışılmış usul, daha
+yeni olan büyük locanın daha eski olandan tanışma talebinde bulunmasıdır.
+
+İki büyük locanın tanışma kararını belirleyen ana unsur, temel masonluk anlayışlarında
+mutabık olmalarıdır. Şöyle ki muntazam büyük localar ancak muntazam büyük locaları tanır;
+muntazam olmayan büyük locaları tanımazlar.10 Diğer yandan intizam, büyük locaların birbirini
+tanıma kararlarının tek belirleyicisi değildir ve iki muntazam büyük locanın birbirini illa ki
+tanıdığı da düşünülmemelidir. Esasen büyük locaların egemenlik alanı iddiaları, tanışma
+kararını belirleyen önemli bir unsurdur. Zira iki büyük locanın birbirini tanımasının bir diğer
+önemli sonucu, bu büyük locaların birbirlerinin egemenlik alanı iddialarını kabul etmeleridir.
+
+Bazen bir büyük loca, belirli bir alandaki tek egemen büyük locadır. Bu durumda o alandaki
+bütün masonlar, bu büyük locaya mensup olmasalar bile, onun masonik kurallarına tabidir.
+Zira o alanda gidebilecekleri başka bir büyük locaya bağlı loca yoktur. Bir büyük locanın bir
+alandaki tek egemen olma haline literatürde “mahsus egemenlik”11 denir. Mahsus egemenlik
+iddiası, genellikle bir büyük locanın ismini aldığı alanda karşımıza çıkar. Mesela Türkiye Büyük
+
+10 Zaten tarif ettiğimiz haliyle tanışma, muntazam masonluk dünyasına has olup, muntazam olmayan masonlukta
+bu berraklıkta tarif edilmiş bir tanışma kavramı yoktur.
+11 İngilizce ifadesiyle “exclusive jurisdiction”
+
+--- Sayfa 11 ---
+11
+
+Locası, Türkiye’de mahsus egemenlik iddiasındadır ve burada kendisinden başka büyük locayı
+kabul etmez.12
+
+Bazen de bir alanda birden fazla büyük loca faaliyet gösterir ve bu büyük localar, kendi
+bağımsızlık ve egemenliklerini korurken, birbirlerinin bağımsızlık ve egemenliğine de itiraz
+etmezler. Bu duruma, egemenlik paylaşımı denir.13 Egemenlik paylaşımının karşımıza yaygın
+olarak çıktığı üç farklı hal vardır:
+
+- Bir alanın kendi büyük locası yoktur ve burada başka büyük localar faaliyet göstermektedir.
+Mesela “Zimbabwe Büyük Locası” yoktur ama Zimbabwe’de hem İngiltere Birleşik Büyük
+Locası’nın hem İskoçya Büyük Locası’nın locaları vardır ve her iki büyük locanın da bu duruma
+itirazı yoktur.
+- Bir alanın kendi büyük locası, başka bir büyük locanın o alanda faaliyet göstermesini kabul
+etmektedir. Mesela İngiltere Birleşik Büyük Locası’nın Hindistan’da locaları vardır ve Hindistan
+Büyük Locası bu durumu kabul etmektedir.
+- Bir alanın kendi büyük locası birden çoktur ve bunlar birbirlerinin faaliyetlerini kabul
+etmektedir. Mesela Amerika Birleşik Devletleri’nde birçok eyalette, biri bu ülkede siyahların
+mason olamadıkları dönemden kalan Prince Hall büyük locası olmak üzere, iki muntazam
+büyük loca vardır ve bu durumun yaşandığı eyaletlerin çoğunda bu iki büyük loca birbirleriyle
+egemenlik paylaşmayı kabul ederler.14 Farklı bir örnek olarak, Almanya topraklarında faaliyet
+gösteren beş muntazam büyük loca vardır; bunların beşi de bağımsız ve Almanya topraklarının
+tümünde egemenlik sahibidir. Bu beş büyük loca birbirleriyle egemenlik paylaşırlar; birbirlerini
+tanırlar hattâ uluslararası ilişkilerini Almanya Birleşik Büyük Locaları adı verilen ortak bir çatı
+üzerinden kurarlar. Almanya Birleşik Büyük Locaları, uluslararası zeminlerde Almanya’daki
+masonluğun tek temsilcisidir. Diğer yandan Almanya Birleşik Büyük Locaları’nın uluslararası
+
+12 Buna mukabil Türkiye Büyük Locası’nın Arnavutluk’ta da locaları dolayısıyla egemenliği vardır ama bu ülkede
+mahsus egemenlik iddiası yoktur.
+13 Egemenlik paylaşımı, büyük locanın faaliyet alanına dair bir kavram olup, muntazam masonluğun “bir büyük
+locanın, çırak-kalfa-üstat derecelerinin tek hâkimi olması; bu dereceler üzerindeki egemenliğini herhangi bir
+başka masonik yapıyla paylaşmaması” ilkesiyle çelişmez.
+14 Ancak hala ırkçı yaklaşımların hüküm sürdüğü bazı eyaletler vardır ki buralarda Prince Hall büyük locası ile
+egemenlik paylaşımı kabul edilmez.
+
+--- Sayfa 12 ---
+12
+
+temsil dışında kayda değer bir işlevi yoktur. Özel birkaç istisna haricinde Almanya’daki bütün
+localar Almanya Birleşik Büyük Locaları içindeki beş büyük locadan birine bağlıdır; doğrudan
+Almanya Birleşik Büyük Locaları’na bağlı loca mevcut değildir.15
+
+Birbirlerini tanıyan büyük localar, birbirlerinin egemenlik alanı iddialarına uygun hareket eder.
+Mesela Türkiye Büyük Locası ile İspanya Büyük Locası birbirini tanır. Böylece Türkiye Büyük
+Locası İspanya’da, İspanya Büyük Locası da Türkiye’de masonik faaliyet göstermemeyi kabul
+etmiş olur. Egemenlik alanı iddiaları çatışan iki büyük loca, her ikisi muntazam olsa dahi
+birbirlerini tanımayabilir. Mesela muntazam bir “Lübnan Büyük Locası” yoktur; buna mukabil
+New York ve İskoçya Büyük Locaları’nın bu ülkede çalışan locaları vardır. Şu anda, her ikisi de
+muntazam olan New York Locası ve İskoçya Büyük Locası, Lübnan’daki masonik egemenlik
+iddialarının çatışmasından dolayı birbirlerini tanımaktan vazgeçmişlerdir. İtalya’da ise
+halihazırda her ikisi de İtalya’da mahsus egemenlik iddiasında olan iki muntazam büyük loca
+vardır: İtalya Büyük Doğusu ve İtalya Muntazam Büyük Locası. Bu iki büyük loca -her ikisi de
+muntazam olmasına rağmen- aynı alan üzerindeki egemenlik iddiaları çatıştığından birbirlerini
+tanımamaktadır. Bu tarz örnekler muntazam masonluk dünyasında istisna addedilemeyecek
+kadar çoktur.
+
+Muntazam masonlukta, “bir coğrafi alanda sadece bir muntazam büyük loca olabileceği”
+ifadesiyle kastedilen ilke, bir coğrafi alanda birbiriyle egemenlik paylaşmayı kabul etmeyen
+birden fazla büyük loca olması halinde, bunlardan sadece birinin tanınabileceğidir. Diğer
+yandan bu büyük locaların egemenlik paylaşmayı kabul etmeleri halinde tümü tanınabilir.
+Mesela bir muntazam büyük locanın, New York eyaletinde egemenlik paylaşmayı kabul eden
+iki büyük locanın ikisini de (yani hem New York Büyük Locası’nı hem de New York Prince Hall
+Büyük Locası’nı) tanıması mümkündür. Buna mukabil Yunanistan topraklarında faaliyet
+gösteren ve birbiriyle egemenlik paylaşmayı kabul etmeyen iki muntazam büyük locadan
+
+15 Almanya’daki kendisine has bu modelin kendisine has incelikleri de vardır. Mesela ülkedeki beş büyük locanın
+Almanya Birleşik Büyük Locaları’nın “altında” değil “içinde” çalıştıkları önem verilen bir vurgudur. Aynı şekilde,
+ortak çatının isminin “Almanya Birleşik Büyük Locası” değil “Almanya Birleşik Büyük Locaları” olduğunun altı
+çizilir.
+
+--- Sayfa 13 ---
+13
+
+(Yunanistan Büyük Locası ve Yunanistan Milli Büyük Locası) ancak bir tanesi tanınabilir.
+Hangisini tanınacağına ise, tabiatıyla, her büyük loca kendisi karar verir. 16
+
+Masonluğun günümüzdeki dünya panoramasına bu kavramlar ışığında baktığımızda, her
+şeyden evvel muntazam masonluk ilkelerini benimseme ve benimsememe ekseninde bir
+ayrışma görüyoruz: dünyada masonluğun var olduğu her toprakta muntazam olan ve olmayan
+büyük localar mevcut olabilir. Muntazam büyük localar kendi aralarında tanışır, muntazam
+olmayan büyük localarla tanışmazlar. Muntazam olmayan büyük localar da kendi aralarında
+ilişki kurar. Böylece muntazam olma ve olmama ayrışması zemininde tarif edilmiş iki ayrı
+masonluk dünyasından söz etmek mümkündür. 17 Bu durum, bu iki ayrı dünyaya mensup
+masonların loca toplantılarında bir araya gelmelerine mani olur; masonlar arasındaki ilişkilere
+başka bir kısıt getirmez.
+
+Muntazam masonluk dünyasına baktığımızda, buradaki yapılanmanın, belirli bir coğrafi alanda
+sadece bir muntazam büyük loca olması ve bunların hepsinin birbiriyle tanışması esası üzerine
+kurgulanmış olduğunu görürüz. Diğer yandan, bu bölümde ele aldığımız üzere, bu esasın ihlali
+istisna sayılamayacak kadar sık görülen bir haldir: azımsanamayacak kadar çok coğrafi alanda
+birden fazla muntazam büyük loca faaliyet gösterir. Bu çokluk birçok durumda egemenlik alanı
+ihtilafını da beraberinde getirir ki bu da birbiriyle tanışmayan muntazam büyük locaların
+varlığına yol açar. Muntazam masonluk içerisinde, büyük locaların yöneticilerini bir araya
+getiren ve bu tarz ihtilafların da görüşüldüğü uluslararası diplomasi zeminleri mevcuttur.
+Büyük locaların bağımsızlığı ilkesi gereği bu zeminler istişaridir; müşterek ya da bağlayıcı karar
+alınması söz konusu değildir. Yine de buralardaki görüş alışverişinin, muntazam masonluğun
+dünyada gittiği istikameti belirlemekte önemli bir unsur olduğunu da tespit etmek gerekir.18
+
+16 Yunanistan örneğinde, Türkiye Büyük Locası Yunanistan Büyük Locası’nı, buna mukabil İskoçya Büyük Locası
+Yunanistan Milli Büyük Locası’nı tanımaktadır. Dolayısıyla bir coğrafi alanda, egemenlik paylaşmayı kabul
+etmeyen birden fazla muntazam büyük loca olduğunda, bunlardan hangisinin tanınacağına dair diğer
+muntazam büyük localar arasında mutabakat olmayabilir.
+17 Muntazam büyük locaların isimlerinde sıklıkla karşımıza çıkan “hür ve kabul edilmiş” sıfatındaki “kabul
+edilmiş” ifadesi, inşaat mesleğinden olmadan masonluğa kabul edilenlere yapılan tarihsel bir atıf olup, ilgili
+büyük locanın “dünyaca kabul edildiği” anlamına gelmez.
+18 Bu zeminler arasında, bazıları farklı yapı ve kapsamda olsalar da, Afrika Büyük Üstatlar toplantısı, Asya-Pasifik
+Büyük Localar toplantısı, Avrupa Büyük Üstatlar toplantısı, Avrupa Büyük Sekreterler toplantısı, Kuzey Amerika
+
+--- Sayfa 14 ---
+14
+
+Son olarak, iki büyük locanın aynı muntazam masonluk ilkelerini benimsiyor olmalarının, bu iki
+büyük locada aynı masonluk kültürünün hâkim olduğu anlamına gelmediğine işaret etmek
+isterim. Neticede masonluk kültürü, ezoterizmin masonluktaki yerinden kardeşler arası
+ilişkinin mahiyetine; fikrî çalışmaların masonluktaki işlevinden hasenat kavramına verilen
+öneme uzanan girift bir kavramdır ve sadece beş muntazam masonluk ilkesiyle tarif edilmesi
+mümkün değildir. Bu çerçevede, muntazam masonluk içerisinde karşımıza belirgin farklılıklarla
+çıkan iki kültür görüyoruz.
+
+Anglosakson masonluk kültüründe, masonluk, hakikat arayışından ziyade iyi insan olma
+yolculuğudur. Bu kültürde, dinsel vurguları yüksek ritüeller ezberlenir ve bir ayin havasında
+uygulanırlar. Loca içinde sadece ritüel uygulanır ve fikrî çalışma yapılmaz; üye kabulünde
+entelektüel seçicilik olduğu da pek söylenemez. Buna bağlı olarak üye sayıları da ziyadesiyle
+yüksektir.
+
+Kıta Avrupası masonluğu kültüründe, masonluk evvela bir hakikat arama yolculuğudur. Bu
+kültürde, ezoterik vurguları yüksek ritüeller, illa ezberlenmeseler de çalışmaya katılanların iç
+dünyasına tesir edecek şekilde uygulanır. Fikrî çalışmalar loca kültürünün bir parçasıdır; üye
+alımında entelektüel standartlar vardır; üye sayıları da nispeten düşüktür.
+
+Bu kültürel ayrışmanın tarihsel perspektiften ele alınması ve detaylı incelenmesi bu çalışmanın
+kapsamında olmasa da “Anglosakson masonluğu” ifadesinin belirli bir masonluk kültürünü
+yansıttığını, Türkiye’nin de içinde bulunduğu Kıta Avrupası masonluk kültürünün bundan çok
+farklı olduğunu ve bu tabirin “muntazam masonluk” yerine kullanılmasının yanıltıcı olduğunu
+not etmek faydalı olabilir.
+
+Büyük Üstatlar Konferansı, Güney Amerika Masonik Konfederasyonu  ve Dünya Muntazam Büyük Localar
+Konferansı zikredilebilir.
+
+--- Sayfa 15 ---
+15
+
+--- Sayfa 16 ---
+16
+
+3. BÖLÜM: RİTLER
+
+Masonlukta rit kavramının farklı ama ilişkili iki anlamda kullanıldığını görüyoruz. Birinci anlam,
+bir ritüel sisteminin bütünlüğüdür. Bu ritüel sistemi çırak-kalfa-üstat derecelerinden ibaret
+olabileceği gibi, daha fazla dereceye de sahip olabilir. İlerleyen kısımlarda ele alacağımız
+sebeplerden, bir ritin çırak-kalfa-üstat dışında dereceleri olması halinde, bunların büyük loca
+bünyesinin dışında yapılanmaları esastır ki bu da rit kavramının “üyelerini üstat derecesindeki
+masonlardan alan, kendisine has sayı ve içerikte dereceye sahip inisiyatik sistem” olarak ifade
+edebileceğimiz ikinci anlamına yol açar.
+
+Dünyada farklı sayı ve içerikte dereceye sahip çeşitli ritler mevcuttur. Bunlardan örnek olarak,
+sadece çırak-kalfa-üstat derecelerinden oluşan Schröder Riti, 7 dereceli Fransız Riti, 8 dereceli
+Rektifiye Skoç Riti, 10 dereceli İsveç Riti, 13 dereceli York Riti, 33 dereceli Eski ve Kabul Edilmiş
+Skoç Riti, 99 dereceli Memfis-Misraim Riti verilebilir. Dünyadaki ritler başlı başına ve detaylı
+bir inceleme konusudur. Bu inceleme, kitabımızın kapsamının dışında kalsa da Türkiye Büyük
+Locası bünyesinde sözü sıkça geçen ve dünyada önde gelen iki ritten biraz bahsedeceğiz.
+
+Eski ve Kabul Edilmiş Skoç Riti (EKSR), çırak-kalfa-üstat dereceleriyle birlikte 33 dereceli bir
+sistemdir. Ritin ismindeki “Skoç” ifadesi coğrafi değil felsefi bir atıftır; EKSR’nin bugünkü
+İskoçya masonluğuyla bir ilişkisi yoktur. Tersine, her ne kadar yapılanmasını Amerika Birleşik
+Devletleri’nde tamamlamış olsa da doğuşu Fransa’da gerçekleşmiştir ve ikinci bölümde
+değindiğimiz Anglosakson - Kıta Avrupası masonluk kültürü ayrışmasında, Kıta Avrupası
+kültürünün parçasıdır. EKSR, 33. derece masonlardan oluşan yüksek şuralar tarafından
+yönetilir. Büyük localarda olduğu gibi, EKSR'nin de dünyada merkezî bir yönetimi söz konusu
+olmadığından, ritin bulunduğu her coğrafi alanda bağımsız bir yüksek şura mevcuttur. Bu alan,
+yine büyük localarda olduğu gibi çoğu zaman bir ülkedir. Amerika Birleşik Devletleri’nde alan
+büyük localar için eyaletlerken, EKSR'de kuzey eyaletleri için bir, güney eyaletleri için bir olmak
+üzere toplam iki yüksek şura vardır. Bunlar "Kuzey Jüridiksiyonu" ve "Güney Jüridiksiyonu"
+olarak anılır. Bu iki yüksek şuranın her birinde EKSR 33 dereceli olsa da dereceler tıpatıp aynı
+değildir. Özetle, yeryüzünde farklı coğrafi alanlarda egemen ve farklılaşabilen EKSR
+
+--- Sayfa 17 ---
+17
+
+uygulamalarına sahip sayısız yüksek şura vardır.  Büyük localarda olduğu gibi bunlar da
+birbirlerini tanır ya da tanımazlar. EKSR, Türkiye'de, Türkiye Yüksek Şurası tarafından yönetilir.
+Esasen EKSR, Türkiye'de faaliyet gösteren tek rittir.
+
+York Riti, çırak-kalfa-üstat dereceleriyle birlikte 13 dereceli bir sistemdir. İkinci bölümde
+değindiğimiz Anglosakson - Kıta Avrupası masonluk kültürü ayrışmasında, Anglosakson kültüre
+aittir. Bu ritin bir diğer ismi de Amerikan Riti’dir. York Riti, EKSR’den farklı olarak bütün
+derecelerini yöneten tek bir yönetim organına sahip değildir. Bu ritin dereceleri dört ayrı
+grupta toplanır ve her grubun ayrı bir yönetim organı vardır. Bu açıdan York Riti, aslında
+birbirinden ayrı derece gruplarının birlikteliğidir. York Riti’nin yönetim yapısı ülkeden ülkeye
+farklılık gösterir; mesela Amerika Birleşik Devletleri uygulamalarıyla İngiltere uygulamaları
+birbirinden farklıdır. Ziyadesiyle detaylı bir konu olan York Riti uygulamalarını burada ele
+alacak olmasak da 1990’ların ortasında Türkiye’de masonluğun gündemine gelmiş Royal Arch
+konusundan bahsetmekte fayda olabilir. Amerika Birleşik Devletleri uygulamalarında Royal
+Arch Masonluğu, York Riti’nin, çırak-kalfa-üstat derecelerinden sonra gelen ve dört derece
+içeren dereceler grubunun ismidir. “Kutsal Royal Arch derecesi” bu dört dereceden birinin
+adıdır. Bu derece İngiltere ve İskoçya’da farklı içerikteki bir ritüelle uygulanmaktadır.
+İskoçya’da Royal Arch derecesi büyük locadan ayrı Royal Arch Şapitri tarafından verilmektedir.
+Buna mukabil İngiltere Birleşik Büyük Locası, Royal Arch derecesini üstat derecesinin
+tamamlayıcısı olarak görmekte ve bunu kendi bünyesi içinde tevdi etmektedir.19 Aslında, isad
+edilmiş üstadı muhteremlik de Royal Arch sisteminden kaynaklanan bir derece olup, bugün
+dünyanın birçok ülkesinde büyük locaların bünyesinde tevdi edilmektedir. Bu daha ziyade fiili
+bir durumdur ve büyük localar tevdi ettikleri bu dereceyi resmen ayrı bir derece olarak tarif
+etmemektedir. Türkiye Büyük Locası’nda isad edilmiş üstad-ı muhteremlik derecesi 1970’lerde
+sisteme dahil edilmiş ancak resmen bir derece olarak tanımlanmamıştır.
+
+19 İngiltere’deki masonluğun tarihî süreçlerinin bir sonucu olan bu uygulama, İngiltere Birleşik Büyük Locası’nın
+çok önemsediği, masonluğun üç dereceli olması ve ritlerin büyük locadan ayrı tutulmaları prensibiyle
+çelişmektedir. İngiltere Birleşik Büyük Locası bu durumu Royal Arch’ın “aslında bir rit değil üstat derecesinin
+tamamlayıcısı” olduğunu söyleyerek tevil etmektedir. 1990’larda Royal Arch’ın Türkiye’ye getirilmesine olan
+itirazların önemli kısmı bu derecenin kendisinden çok İngiliz modelindeki haliyle Türkiye Büyük Locası bünyesine
+dahil edilmesineydi.
+
+--- Sayfa 18 ---
+18
+
+Muntazam masonlukta sembolizma, çırak-kalfa-üstat dereceleriyle tamamlanır. Başka bir
+deyişle masonluğun sembol dağarcığında bu üç derecede olmayan bir unsur yoktur; üstatlık
+da masonluğun son ve âli derecesidir. Dolayısıyla, ritlerin derecelerinin üstat derecesinin
+devamı olduğuna dair algı yanlıştır. Ritlerin misyonu, kendi sembol ve alegorileriyle,
+mensuplarına yeni inisiyatik bakış açıları kazandırmak ve böylece masonluğun ifadesini üç
+derecede bulan sembol dağarcığını daha iyi idrak etmelerini sağlamaktır. Her rit, masonluğa
+bir bakıştır ve her ritin kendine has bir bakışı yani masonluk anlayışı vardır. Bir üstat mason,
+masonluktaki arayışında ritlerden birine (hattâ bazen birden fazlasına) intisap edebileceği gibi
+hiçbirine intisap etmemeyi de seçebilir. Bu bir kişisel tercihtir; muntazam masonluk açısından
+bu tercihlerin hepsi aynı derecede makbuldür. Bu vesileyle not edelim ki masonluk 33 dereceli
+değildir. 33 dereceli olan EKSR’dir. Yoksa Memphis Misraim Riti de 99 derecelidir. Ritlerin
+kendilerine özel derecelerini masonluğun dereceleri olarak görmek, “hangi ritin gerçek
+masonluk olduğu” gibi cevabı hiç de aşikar olmayan bir soruyu gündeme getirir.
+Muntazam  masonluk bu meseleyi masonlukla ritleri ayrı mütalaa etmek suretiyle halletmiştir.
+
+Bu ayrışma yapılanmaya da yansır. Ritler ve büyük localar birbirinden ayrı yapılardır. Her rit
+bağımsızdır ve çırak-kalfa-üstat dışındaki derecelerinde egemendir. Diğer yandan muntazam
+masonlukta büyük localar çırak-kalfa-üstat derecelerinin tek hâkimi olduklarından, ritler kendi
+çırak-kalfa-üstat derecelerinde çalışma hakkına sahip değildir.  Buna mukabil büyük localar,
+dilerlerse ritlerin çırak-kalfa-üstat ritüellerini kullanabilir. Mesela EKSR’nin çırak-kalfa-üstat
+derecesi ritüelleri Fransız Milli Büyük Locası’nın kullandığı ritüeller arasındadır.20 Buna mukabil
+Türkiye Büyük Locası, tarihî süreçleri neticesinde, bugün kendi hazırladığı ve resmen “Türk
+ritüeli” olarak adlandırdığı ritüeli benimsemiş olup, herhangi bir ritin çırak-kalfa-üstat derecesi
+ritüelini kullanmamaktadır. Dolayısıyla Türkiye Büyük Locası’nda EKSR ritüelleri kullanıldığı
+ifadesinin de gerçekle alakası yoktur.
+
+Büyük localar ve yüksek şuralar ayrı cinsten yapılar olduklarından, aralarında tanışmaktan
+ziyade karşılıklı kabule dayanan bir ilişki vardır. Bu ilişkinin esasları bazen "konkordato" adı
+
+20 Dünyada birçok büyük locada birden fazla ritüelin uygulanması kabul edilmiştir ve localar bunlardan herhangi
+birini seçme hakkına sahiptir.
+
+--- Sayfa 19 ---
+19
+
+verilen yazılı bir anlaşmayla, idealinde ise karşılıklı anlayış ve saygıya dayanan geleneklerle
+belirlenir. Türkiye’de, yılların birikimiyle bu ideal uygulanmakta olup, Türkiye Büyük Locası ve
+Türkiye Yüksek Şurası herhangi bir konkordatoya ihtiyaç duymaksızın fevkalade ahenkli bir
+ilişkiyi sürdürmektedir.
+
+Dikkat edilirse, intizam ve tanışmaya dair açıklamaları yaptığımız ilk iki bölümde rit
+kavramından bir defa dahi bahsetmedik. Zira bir büyük locada kullanılan ritüellerin hangi rite
+ait olduğuyla o büyük locanın intizamı arasında ilişki yoktur. İntizamı, birinci bölümde
+zikredilen beş ilke belirler; rit ise sistemin inisiyatik kurgusuyla alakalıdır. Esasen, ikinci
+bölümde ifade ettiğimiz üzere, muntazam olma ve olmama ayrışması zemininde tarif edilmiş
+iki ayrı masonluk dünyası vardır ve muntazam masonluk dünyasındaki her ritin, muntazam
+olmayan masonluk dünyasında -o dünyanın anlayışıyla çalışan- bir karşılığı vardır. Mesela
+muntazam olmayan dünyada da EKSR vardır ve buradaki EKSR, dereceleri, sembolleri,
+işaretleri ve sırlarıyla, muntazam masonluktaki EKSR’nin aynıdır; diğer yandan muntazam
+olmayan masonluktaki EKSR, muntazam masonluk ilkelerinin bazılarını ihlal ederek çalışıyor
+olabilir. Nitekim muntazam olmayan masonluk içinde bir yüce varlığa inanç şartı koşmayan,
+kadınları kabul eden yahut büyük locanın bağımsızlığı ilkesini tanımayan EKSR yapıları
+mevcuttur. Özetle, aynı riti muntazam olan ve olmayan masonluk dünyalarının ikisinde de
+gözlemleyebildiğimizden, ritten yola çıkarak intizam hakkında bir sonuç çıkartmak mümkün
+değildir.
+
+Konuyu açıklamaya yardımcı olacak bir örneği Türkiye’deki muntazam olan ve olmayan
+masonluk ayrışmasından verelim: Muntazam masonluğa baktığımızda, Türkiye Büyük Locası’nı
+ve Türkiye Yüksek Şurası tarafından yönetilen bir tek EKSR yapısını görüyoruz. Türkiye Büyük
+Locası EKSR ritüellerini değil, Türk ritüelini kullanıyor; Türkiye Yüksek Şurası 4-33 arası
+derecelerin bağımsız ve egemen otoritesi olarak üyelerini Türkiye Büyük Locası ve diğer
+muntazam büyük localardan alıyor. Zaten muntazam masonluk dünyasındaki bir rit üyelerini
+muntazam büyük localardan almak zorundadır.
+
+--- Sayfa 20 ---
+20
+
+Muntazam olmayan masonluk dünyasına baktığımızda önde gelen iki büyük loca (Özgür
+Masonlar Büyük Locası ve Kadın Mason Büyük Locası) ve bu iki büyük locaya karşılık gelen iki
+ayrı EKSR yapısı görüyoruz. Bu dünyada yakın zamana kadar üyelerini her iki büyük locadan
+alan ve Türkiye Süprem Konseyi tarafından yönetilen tek bir EKSR yapısı vardı; kısa bir süre
+önce kadın masonluğunu temsil eden ikinci bir EKSR yapısı kuruldu. Bu iki yapıdaki EKSR ile
+muntazam masonluk dünyasında Türkiye Yüksek Şurası tarafından yönetilen EKSR, dereceleri,
+sembolleri, işaretleri ve sırları itibarıyla denktir. Farklılık, EKSR uygulamalarının muntazam
+masonluk ilkelerine riayet ederek ya da etmeyerek gerçekleşmesinde görülür. Bu
+farklılıklardan biri, Özgür Masonlar Büyük Locası ile Türkiye Süprem Konseyi arasındaki ilişkinin
+muntazam masonluğun gerektirdiği şekilde ayrışmamış olmasıdır. Buna bağlı olarak, Özgür
+Masonlar Büyük Locası bünyesinde (Fransız Riti değil) EKSR ritüelleri kullanılmaktadır.21
+
+Biraz evvel aynı riti muntazam olan ve olmayan masonluk dünyalarının ikisinde de
+gözlemleyebildiğimizden, ritten yola çıkarak intizam hakkında bir sonuç çıkartmanın mümkün
+olmadığını söyledik. Bu ifadeyi Türkiye örneğinden açacak olursak, muntazam bir büyük loca
+olan Fransız Milli Büyük Locası’nın EKSR ritüeli kullanan bir locasındaki masonla Özgür
+Masonlar Büyük Locası’ndaki bir mason aynı şekilde selam verecek ya da düzenli duruşa
+geçecektir. Oysa bu büyük localardan biri muntazamdır; diğeri değildir.
+
+21 Bir büyük locanın EKSR ritüellerini kullanmasının tek başına muntazam masonluk ilkelerine aykırı bir hal
+olmadığını hatırlatalım.
+
+--- Sayfa 21 ---
+21
+
+4. BÖLÜM: TÜRKİYE’DEKİ MASONLUK UYGULAMALARINA DAİR NOTLAR
+
+Türkiye Büyük Locası’nın masonluk çizgisi, kurulduğu 1909 senesinden bugüne kadar aynı
+kalmadı. Tersine, bir asrı aşan tarihimiz çok kapsamlı anlayış değişikliklerini yansıtır. Siyasetle
+iç içe bir ilk elli yıl, o dönemde EKSR ile bir türlü düzene giremeyen ilişkiler, kuruluşumuzdan
+yarım asır sonra muntazam masonluk anlayışını benimseyişimiz, bu büyük dönüşümün
+yarattığı kurumsal sarsıntı, yine bu dönüşüm dolayısıyla etki alanına girdiğimiz Anglosakson
+masonluk kültürünün yarattığı kimlik buhranı, daha sonra bu kültürü kısmen özümseme
+kısmen tasfiye çabalarımız, bütün bunların ritüellerimiz üzerindeki şiddetli yansımaları...
+
+Bir büyük yolculuktur bu: bir büyük locanın kök salma ve gerçek anlamıyla kurum olma
+yolculuğu... Henüz tamamlanmış olmasa da çok mesafe kat ettiğimiz bu büyük yolculuğun
+geçmişteki bütün safhalarını bilmeyenlerin, Türkiye Büyük Locası’nın kimliğine dair kafa
+karışıklıkları yaşamaları doğaldır. Nitekim 1960’larda İngiltere’ye yazılan bir mektuba
+dayanarak mason olacaklarda aranan inanç şartına karar vermekten, 1990’lardaki bir büyük
+üstat mesajından yola çıkarak kadın masonluğu ile ilişkilerimizi belirlemeye uzanabilen
+yaklaşımlar –azalmış olsa da- yok değildir.
+
+Bu bölümde Türkiye’deki masonluk uygulamalarına dair kavram karışıklığı yaşandığını
+düşündüğüm konuları başlıklar halinde ele alacağım ama evvela yapacağımız tahlile yön
+verecek temel ilkeyi tespit edelim. Aslında bu ilkeyi birinci bölümde tespit etmiştik: Bir büyük
+locanın masonluk anlayışını görmek için o büyük locanın yasalarına bakmak hem gerekir hem
+de yeter.
+
+Türkiye Büyük Locası’nın yasaları ifadesini tüzüklerinde (Büyük Loca Tüzüğü ve Localar Genel
+Tüzüğü) bulur. Türkiye Büyük Locası’nın masonluk anlayışına dair tüzüklerde açıkça ifade
+edilmemiş hususlar, olsa olsa kişisel yorumlardır; geneli bağlamazlar. Kaynağını tüzüklerden
+almayan idari tasarruflar ise masonik hukuk açısından yok hükmündedir. Dolayısıyla filanca
+
+--- Sayfa 22 ---
+22
+
+tarihte İngiltere’ye yazılmış mektubun, falanca tarihteki büyük üstat mesajının yahut büyük
+görevliler kurulu kararının Türkiye Büyük Locası’nın masonluk anlayışının belirlenmesindeki
+işlevi tarihsel referans olmakla sınırlıdır.22 Bundan sonraki konu başlıklarına dair bütün tahliller
+tüzük kaynaklıdır.
+
+-
+Mason olacaklarda aranan inanç şartı:
+
+Türkiye Büyük Locası’nın yasalarına göre masonluk, Evrenin Ulu Mimarı adını verdiği yüce
+varlığı ve ruhun ölmezliğini kabul eder. Buna göre mason olacaklara Tanrı’ya inanıp
+inanmadıkları sorulur ve tekris edilebilmeleri için bu soruya olumlu cevap vermeleri gerekir.
+Bunun dışında, mason olacakların semavi bir dine hattâ herhangi bir dine mensup olmaları
+gerekmez. Aksi yöndeki görüşler, sistemi bağlamayan kişisel yorumlar ya da 1960’lardaki
+muntazam masonluğa geçiş süreci tartışmalarından günümüze uzanabilmiş kavram
+karışıklıklarıdır.
+
+Türkiye Büyük Locası bünyesinde mason olacakların semavi dinlere mensup olmaları gerektiği
+yanlış bilgisinden yola çıkarak “Türkiye Büyük Locası’nın teist olduğu” ifadesini ise hiç
+kullanmamak gerekir. Zira Türkiye Büyük Locası’nın ne Evrenin Ulu Mimarı ne de ruhun
+ölmezliği kavramını kurumsal olarak yorumlaması söz konusu değildir. Muntazam büyük
+localar herhangi bir tanrı tasavvuru ya da teolojik doktrin vaz etmezler; sadece üye olacaklarda
+aradıkları bir inanç şartı vardır. Türkiye Büyük Locası için bu şart, üzerine herhangi bir ilave
+yorum ya da tarif getirmeden, Tanrı’ya inanmaktır.23
+
+22 Türkiye Büyük Locası’nın yürütme organı olan Büyük Görevliler Kurulu’nun tüzüklere aykırı olarak yasa yapıcı
+işlevini üstlendiği bir dönem vardır. Fiilî bir durumu yansıtan bu dönemin kapanışı, 2011 yılında kabul edilen
+tüzüklerle olmuştur.
+23 Buna mukabil bu konuda daha kısıtlayıcı şartlar getiren, mesela tekris edeceği haricilerde Hristiyan olma şartı
+arayan muntazam büyük localar da vardır.
+
+--- Sayfa 23 ---
+23
+
+-
+Fiziksel engellilerin mason olmaları:
+
+Üyelik şartlarımızda “fiziksel engel” kavramına hiçbir atıf yoktur. Dolayısıyla, fiziksel
+engellilerin Türkiye Büyük Locası bünyesinde mason olamayacakları doğru değildir. Aksi
+yöndeki ifadeler, tarihsel bir referans olan Anderson Anayasası’nı güncel bir yasa
+zannetmekten kaynaklanmaktadır.
+
+-
+İngiltere Birleşik Büyük Locası’nın masonluktaki yeri:
+
+İngiltere Birleşik Büyük Locası, muntazam masonluk dünyasındaki sayısız büyük locadan biridir.
+En eski büyük locadır. Dünyadaki muntazam büyük localar arası ilişki dinamiklerinde yüksek
+etkisi olduğu doğrudur. Ancak hangi büyük locanın muntazam olduğunu ya da hangi büyük
+locanın tanınabileceğini belirleyen bir merkez değildir. Nitekim İtalya Büyük Doğusu örneğinde
+olduğu gibi, bugün dünyada İngiltere Birleşik Büyük Locası’yla tanışmayan ama muntazam
+masonluk dünyasında önde gelen büyük localar vardır.
+
+-
+ Muntazam olmayan büyük localar:
+
+Türkiye Büyük Locası mensubu masonlar, muntazam olmayan büyük localara bağlı locaların
+ritüelik çalışmalarına katılamaz. Bu kesin bir kuraldır. Aynı şekilde, muntazam olmayan büyük
+locaların mensubu masonların da Türkiye Büyük Locası’na bağlı locaların çalışmalarına
+
+--- Sayfa 24 ---
+24
+
+katılabilmeleri söz konusu değildir. Diğer yandan bu iki ayrı dünyaya ait masonların, locaların
+ritüelik zemini dışında bir araya gelmelerine mani hiçbir hal yoktur.24
+
+Muntazam olmayan büyük locaların mensuplarına “mason denemeyeceği” ya da “kardeş
+olarak hitap edilemeyeceği” gibi görüşler, muntazam masonluğa geçiş dönemi
+tartışmalarından günümüze uzanmış ve dünyada pek de karşılığı olmayan anlayışlardır. Bu
+yıllardan gelen ve gerçeği yansıtmayan bir diğer görüş de Türkiye’deki ayrışmanın 1965
+senesindeki bir iç kavganın neticesi olduğu ve “barışılırsa” yeniden aynı çatı altında
+buluşulabileceğidir. Ayrışmaya 1965’te yaşanan bir iç kavganın vesile olduğu doğru olmakla
+birlikte, gelinen nokta aslında dünyada zaten var olan bir ilkesel ayrılığın Türkiye’ye de
+yansımasıdır. Dolayısıyla Türkiye’deki ilişkilerin geleceği de, esas olarak, dünya normlarındaki
+gelişmelerle belirlenecektir.
+
+-
+Kadın masonluğu:
+
+Kadın masonluğu, tanımı itibarıyla muntazam olmayan masonluk dünyasının içindedir.
+Dolayısıyla muntazam olmayan büyük localarla ilişkilere dair genel prensipler kadın masonluğu
+için de geçerlidir. Diğer yandan, muntazam olmayan erkek masonluğundan farklı olarak,
+dünyadaki birçok muntazam büyük loca, kendi egemenlik alanları içerisindeki kadın büyük
+localarının varlığını resmen kabul ederek, mason olmak isteyen kadınları kurumsal internet
+siteleri üzerinden bu büyük localara yönlendirmektedir.
+
+Türkiye’de kadın masonluğuna dair alınmış olan anakronik tavırlar, muntazam masonluğa
+geçiş sürecimizin kafa karışıklıklarının, Türkiye’de kadın masonluğunun kurulduğu 1990’lara
+kadar uzanmasının ürünüdür. Türkiye Büyük Locası mensuplarının eşlerinin kadın mason
+olamayacakları ya da kadın mason olan hemşirelerimizin hemşire sıfatıyla dahi olsa açık
+
+24 Türkiye Büyük Locası’nın 7 Nisan 2018 tarihinde düzenlediği uluslararası masonluk sempozyumuna hem
+Özgür Masonlar Büyük Locası’ndan hem Kadın Mason Büyük Locası’ndan katılımlar olması bunun güzel bir
+örneğidir.
+
+--- Sayfa 25 ---
+25
+
+celselere gelemeyeceklerine dair ifadeler temelsiz ve yanlıştır. Keza kardeşlerimizin, kadın
+mason olan eşlerinin localarının sosyal faaliyetlerine katılmalarına da hiçbir mani yoktur.
+
+-
+Tanışmadığımız muntazam büyük localar:
+
+Büyük localar arası ziyaret karşılıklı tanışma şartına bağlı olduğundan, tanışmadığımız
+muntazam büyük localarla ilişkiler, bireyler açısından, muntazam olmayan büyük localarla
+ilişkiler gibidir: Türkiye Büyük Locası mensubu masonlar, tanışmadığımız büyük localara bağlı
+locaların ritüelik çalışmalarına –söz konusu büyük loca muntazam olsa dahi- katılamaz.
+Bununla birlikte, burada muntazam olmayan büyük localara nazaran önemli bir fark vardır:
+Türkiye Büyük Locası mensubu bir masonun, tanışmadığımız muntazam bir büyük locaya
+mensup bir masonla, üçüncü bir büyük locanın çatısı altında karşılaşması mümkündür. Mesela
+Türkiye Büyük Locası ile Kıbrıs Büyük Locası tanışmazlar ama İngiltere Birleşik Büyük Locası her
+iki büyük locayla da tanışır. Dolayısıyla Türkiye Büyük Locası mensubu bir mason, Kıbrıs Büyük
+Locası mensubu bir masonla, İngiltere Birleşik Büyük Locası’na bağlı bir locada karşılaşabilir.
+Böyle bir durumda ne yapılması gerektiği Türkiye Büyük Locası yasalarında belirtilmemiş
+olmakla birlikte dünyadaki teamül, “Roma’da Romalılar gibi davran” kuralının uygulanması
+yani ev sahibi büyük locanın (bu örnekte İngiltere Birleşik Büyük Locası) tanışma kararlarına
+saygı gösterip toplantıda bulunmaya devam etmektir.25
+
+Tanışmadığımız muntazam büyük localarla kurumsal ilişkiler de muntazam olmayan büyük
+localara göre farklılaşır. Türkiye Büyük Locası’nı muntazam olmayan büyük localarla bir araya
+getiren uluslararası bir masonik zemin yoktur. Buna mukabil Türkiye Büyük Locası, mesela
+Kıbrıs Büyük Locası’yla uluslararası platformlarda düzenli olarak karşılaşır.
+
+25 Esasen Türkiye Büyük Locası’nın 2013 yılında aldığı bir kararla büyük üstadın –belirli şartlara bağlı olarak-
+Türkiye Büyük Locası’nın tanışmadığı muntazam büyük localara ziyaret hakkı tanıması mümkündür.
+
+--- Sayfa 26 ---
+26
+
+-
+Locaların hürriyeti:
+
+Birinci bölümde büyük locayı masonik manada devlete, locaları da bu devletin vatandaşlarına
+benzetmiştik. “Locaların hürriyeti” kavramı da bir hukuk devletinde vatandaşların hürriyeti
+gibidir. Localar büyük locanın yasalarıyla bağlıdır ve bu yasalar içinde kalmak kaydıyla
+dilediklerince hareket edebilirler.
+
+Türkiye Büyük Locası’nın ilk yarım asrında Türkiye Yüksek Şurası’na bağlı olmasından
+kaynaklanan yukarıdan aşağı yönetim modeli, Türkiye Büyük Locası’nın bağımsızlığını
+almasından sonra da bir yönetim kültürü olarak yerleşti. Aslında büyük loca yasalarının
+yürütülmesinden sorumlu olan büyük görevliler kurulu, uzun yıllar boyunca locaları, yüksek
+şuranın atölyelerini yönettiği mantıkla yönetti; yetkisi olmadan yasa ve ritüel değiştirdi;
+kendisini bir nevi büyük loca yerine koydu. Bu, kardeşlerde de var olan bir algıydı. Büyük
+görevliler kuruluna seçilen bir kardeşin büyük locaya seçildiğinin söylenmesi hiç de tuhaf
+addedilmezdi. Bu durum tüzüklerdeki yanlış büyük loca tarifi ile beslendi.
+
+Türkiye Büyük Locası’nın yönetim kültürünü masonluğun genel normlarına uydurma
+çabalarının neticesi, 2011 yılında gerçekleşen tüzük değişiklikleriyle alındı. Büyük loca tarifi
+düzeltildi; locaları merkeze alan bir sisteme geçildi; büyük görevliler kurulunun yetkilerinin
+yürütmeyle sınırlı olduğu açıklığa kavuşturuldu. Bugün her loca, Büyük Loca Tüzüğü, Localar
+Genel Tüzüğü ve ritüellerin tarif ettiği sınırlar içinde kalmak kaydıyla dilediğince hareket
+etmekte serbesttir. Başka bir deyişle, yasalar ve ritüellerin bir locaya tanıdığı hakka büyük
+görevliler kurulu eliyle kısıt getirilmesi mümkün değildir.
+
+Türkiye Büyük Locası’ndaki yönetim kültürü evriminin bir yansıması da “büyük üstadın sınırsız
+yetkileri” anlayışı üzerindedir. Medeni her toplulukta ve bilhassa masonlukta, yasalar her şeyin
+üzerindedir. Yasalarımızın, masonluğun gelenekleriyle uyumlu olarak büyük üstada çok geniş
+yetkiler tanıdığı doğrudur ama bu yetkiler sınırsız değildir ve büyük üstat da yasalarımızla
+
+--- Sayfa 27 ---
+27
+
+bağlıdır. Büyük üstadın büyük locadaki yetkilerine dair bu husus, üstad-ı muhteremin
+locasındaki yetkileri için de geçerlidir.
+
+-
+Eğitim locaları:
+
+Bu kavram Türkiye Büyük Locası’na muntazam masonluğa geçiş süreciyle birlikte, Anglosakson
+masonluk kültürünün bir yansıması olarak gelmiştir. Ritüelin ezbere yapıldığı bu kültürde,
+kardeşlerin ritüel pratiği yapmaları için kurulmuş “talim locaları” 26 vardır. Bu kavram
+Türkiye’ye “eğitim locası” adıyla getirilmiş ve bu iddialı unvandan dolayı eğitim localarının
+işlevine dair tartışmalar yıllar boyu sürmüştür.27 Bu tartışmaların sonuçlanması, 2011 yılındaki
+tüzük değişiklikleriyle olmuştur. Gelinen noktada, eğitim locaları Anglosakson dünyadaki
+işlevlerine benzer faaliyet göstermektedir.
+
+Gelinen noktayı açıklığa kavuşturmak açısından, locaların Türkiye Büyük Locası’nın kabul
+ettikleri ritüellere göre çalışmaları mecburidir. Ritüeli harfiyen uygulamak esastır. Ritüelin
+tespit etmediği hususlardaki uygulama üstad-ı muhteremin takdirindedir. Eğitim locaları, ritüel
+uygulamalarının doğru yapılmasına yönelik çalışır. “Doğru”dan kasıt, ritüelde yazanın olduğu
+gibi ve güzel uygulanmasıdır. Eğitim locaları ritüelin tespit etmediği hususlardaki uygulamalara
+dair öneriler de getirebilir ama bu yönde locaları bağlayıcı karar alma yetkileri yoktur.
+
+-
+Loca çalışmalarındaki müzik:
+
+Localarda hangi müziklerin çalınabileceği Türkiye’de masonluğun tarihsel tartışmalarındandır.
+Bu, masonik bir tartışma olmaktan ziyade Türk toplumunun kültür tartışmalarının masonluğa
+
+26 İngilizcesiyle “loge of instruction”.
+27 Bu sürecin tarihsel incelemesi, Yavuz Selim Ağaoğlu’nun “Masonluk Tarihimizde Eğitim Locaları”  başlıklı
+makalesinde bulunabilir (Mimar Sinan Dergisi, Sayı 177, sayfa 26-27).
+
+--- Sayfa 28 ---
+28
+
+yansımasıdır. Buna bağlı olarak, uzun yıllar boyunca, karşımıza büyük görevliler kurulunun
+localarda çalınan müzikleri kontrol etme çabaları çıkar. Bu süreç, 2011 yılındaki tüzük
+değişiklikleriyle geçtiğimiz loca merkezli yapılanmayla sona ermiştir.28 Gelinen noktada, ritüel
+uygulanması esnasında çalınacak müziklerin içeriği ritüel tarafından tespit edilmediğinden,
+bunların belirlenmesindeki yetki localardadır.
+
+28 Bu tartışmaların tarihsel incelemesi, Yavuz Selim Ağaoğlu’nun “Ritüel Tarihçemizde Müzik” başlıklı
+makalesinde bulunabilir (Mimar Sinan Dergisi, Sayı 178, sayfa 14-26).
+
+--- Sayfa 29 ---
+29
+
+SONSÖZ
+
+Masonluk, kadim bir gelenek içerisinde yaşanan bireysel bir serüven. İnsanın anlam arayışına,
+aydınlanma mücadelesine, yücelme ve tekamül çabasına dair bu serüvenin merkezinde
+locaların inisiyatik ortamı var. Kitabın inisiyasyon ve semboller üzerine hiçbir şey
+söylemediğinin farkındayım. Bu durum, bu kavramları önemsememekten değil, çok
+önemsemekten kaynaklanıyor; nispeten kolay bulduğum bir işe giriştim ve bu çalışmayı
+masonluğun daha ziyade yapılanmasıyla alakalı nesnel temel kavramları anlatmakla sınırladım.
+Her halükarda, bir masonun bu nesnel temel kavramları bilme halinin, masonluktan alabileceği
+feyzi artırabileceğini düşündüm.
+
+Kitabın bu kimliğiyle uyumlu olarak mümkün olduğunca yorumdan kaçınmaya ve nesnel
+bilgiler vermeye gayret ettim. Elbette bunda tam başarılı olmak mümkün değil. Neticede insan
+aidiyetlerinden ve yaşadıklarından etkileniyor. Yine de kişisel yorumları asgariye indirmek için
+elimden geleni yaptım. Yazdıklarımda eksik ve kusur muhakkak vardır ama niyetim halistir.

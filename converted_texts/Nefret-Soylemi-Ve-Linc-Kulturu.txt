@@ -1,0 +1,4065 @@
+--- Sayfa 1 ---
+T.C
+FIRAT ÜNİVERSİTESİ
+SOSYAL BİLİMLER ENSTİTÜSÜ
+İLETİŞİM BİLİMLERİ ANABİLİM DALI
+
+NEFRET SÖYLEMİ VE LİNÇ KÜLTÜRÜNÜN
+SOSYAL MEDYA ÖZELİNDE
+DİSTOPİK AÇIDAN ANALİZİ
+
+YÜKSEK LİSANS TEZİ
+
+DANIŞMAN
+
+                             HAZIRLAYAN
+Prof. Dr. Mustafa YAĞBASAN                             Sevim Dilay ERCAN
+
+ELAZIĞ-2020
+
+--- Sayfa 2 ---
+II
+ÖZET
+
+Yüksek Lisans Tezi
+
+Nefret Söylemi ve Linç Kültürünün Sosyal Medya Özelinde Distopik Açıdan
+Analizi
+
+Sevim Dilay ERCAN
+
+Fırat Üniversitesi
+Sosyal Bilimler Enstitüsü
+İletişim Bilimleri Anabilim Dalı
+Elazığ-2020; Sayfa: X+82
+
+İletişim alanı teknoloji geliştikçe yenilenip gelişmekte ve bu dönüşümlere yeni
+iletişim teknolojilerinin sağladığı kolaylıklarla toplumsal yapı çok daha hızlı bir şeklide
+uyum sağlayabilmektedir. Dolayısıyla yeni iletişim teknolojileri ile birlikte yeni medya
+diye adlandırılan mecralar hayatımızın her alanına sirayet etmiş durumdadır. Yeni
+medya kavramsal olarak kitle iletişim araçlarının ve sosyal ağ bağlantılarının tümünü
+kapsamaktadır. Evde, sokakta, iş yerinde veya akla gelebilecek her yerde; telefon,
+televizyon, tablet vb. teknolojik araçlar ile iletişim sağlanabilmektedir. Toplumsal
+açıdan bu sürece kayıtsız kalınması kuşkusuz mümkün görünmemektedir. Diğer bir
+anlatımla birey, herhangi bir yolla yeni medyanın içene dâhil olmaktadır. Ancak
+kullanıcısına sınırsız enformasyon imkânı sağlayan söz konusu bu kitle iletişim araçları,
+diğer yandan pek çok değer yargılarının törpülenmesine, kaybolmasına veya
+yozlaşmasına zemin hazırlamaktadır. Son zamanlarda siber âlemdeki kriminal vakaların
+artması bu öngörüyü doğrular niteliktedir. Bunun temel nedenin şüphesiz denetim
+mekanizmasının sağlanamamasında veya sınırlı olmasında aranması gerekmektedir.
+Zira sosyal medya araçları marifetiyle kişisel saygı sınırları sıvılaşmakta veya gün
+geçtikçe yok olmaktadır.
+Sosyal mecraların; bireylerin bir birlerine istediği şekilde nefret, hakaret ve
+küfür söyleminde bulunabildiği, hatta toplu olarak gerçekleştirildiğinde linç oluşumuna
+dahi neden olabildiği bir platforma dönüşmesi sosyal bir sorun olarak karşımızda
+
+--- Sayfa 3 ---
+III
+durmaktadır. Söz konusu bu sorunların boyutunu ölçmek ve soruna matuf olarak çözüm
+önerileri geliştirmek bu araştırmanın temelini oluşturmaktadır. Sosyal medya
+kullanıcılarının daha ziyade gençler olması nedeniyle Üniversite öğrencileri üzerinde
+gerçekleştirilen bir anketle desteklenen bu çalışmada değer atfedilebilecek önemli
+bulgulara ulaşılmıştır.
+
+Anahtar Kelimeler: Sosyal Medya, Nefret Söylemi, Linç Kültürü, Ütopya,
+Distopya
+
+--- Sayfa 4 ---
+IV
+ABSTRACT
+
+Master Thesis
+
+Dystopic Analysis of Hate Speech and lynch Culture in Social Media
+
+Sevim Dilay ERCAN
+
+Fırat University
+Social Sciences Institute
+Department of Communication Sciences
+Elazig-2020; Page: X+82
+
+The field of communication is renewed and developed as technology develops,
+and the social structure can adapt to these transformations much faster with the
+convenience provided by new communication technologies. Therefore, with new
+communication technologies, medium called new media have spread to every aspect of
+our lives. New media conceptually includes all mass media and social network
+connections. At home, on the street, at work or anywhere imaginable; communication
+can be provided by technological tools such as phones, televisions, tablets, etc.
+Undoubtedly, it does not seem possible to remain indifferent to this process in social
+terms. In other words, a person is included in the new media in any way. However,
+these mass media, which provide unlimited information opportunities to its users, also
+pave the way for the corruption, loss or corruption of many value judgments. Increase
+of criminal cases in cyberspace lately confirms this prediction. Undoubtedly, the main
+reason for this should be sought in the inability or limited control mechanism.  Because,
+with the help of social media tools, limits of personal respect are liquefied or disappear
+day by day.
+The transformation of social media into a platform where individuals can
+express hate, insult and swear to each other as they wish and even cause lynching when
+carried out collectively appears as a social problem.  Measuring the dimensions of these
+problems and developing solutions to the problem form the basis of this research. Since
+
+--- Sayfa 5 ---
+V
+social media users are mostly young people, this study supported by a survey conducted
+on university students reached important findings that can be attributed to value.
+
+Key Words: Social Media, Hate Discourse, Lynch Culture, Utopia, Dystopia
+
+--- Sayfa 6 ---
+VI
+İÇİNDEKİLER
+
+ÖZET .............................................................................................................................. II
+ABSTRACT ................................................................................................................... IV
+İÇİNDEKİLER ............................................................................................................. VI
+TABLOLAR LİSTESİ .............................................................................................. VIII
+ÖN SÖZ .......................................................................................................................... X
+GİRİŞ ............................................................................................................................... 1
+BİRİNCİ BÖLÜM
+1. KURAMSAL, KAVRAMSAL ÇERÇEVE VE LİTERATÜR ............................... 6
+1.1. Sosyal Medya ......................................................................................................... 6
+1.1.1. Sosyal Medya Platformları ve İçerikleri .......................................................... 6
+1.1.2. Sosyal Medya Kullanım Kültürü ve Türkiye’de Sosyal Medya Kullanımı .... 8
+1.2. Nefret Söylemi ve Linç Kültürü ........................................................................... 15
+1.2.1. Etnik Bağlamda Nefret Söylemi ve Linç Kültürü ......................................... 17
+1.2.2. Teolojik Bağlamda Nefret Söylemi ve Linç Kültürü .................................... 18
+1.2.3. Siyasal Bağlamda Nefret Söylemi ve Linç Kültürü ...................................... 18
+1.2.4. Cinsiyetçi Bağlamda Nefret Söylemi ve Linç Kültürü .................................. 19
+1.3. Sosyal Medyada Nefret Söylemi ve Linç Kültürü ............................................... 19
+1.3.1. Türkiye’de Nefret Söylemi ve Linç Kültürü ................................................. 21
+1.3.3.1. Sosyal Medyada Nefret Söylemi ve Linç Kültürünün Tarihsel Gelişimi,
+Hukuksal Dayanakları ve Cezai Müeyyidesi ....................................................... 21
+İKİNCİ BÖLÜM
+2. ÜTOPYA-DİSTOPYA BAĞLAMINDA NEFRET SÖYLEMİ VE LİNÇ
+KÜLTÜRÜ .................................................................................................................... 24
+2.1. Ütopya ve Distopya .............................................................................................. 24
+2.1.1. Ütopya ve Distopya Kavramlarının Dayanakları .......................................... 24
+2.1.1.1. Postmodern Anlayış ve Dijital Çağın Ütopyası ve Distopyası ............... 26
+2.1.1.2. Sosyal Medyanın Ütopya İnşası ............................................................. 35
+2.1.1.3. Yeni bir Panaptikon Ortamı: Sosyal Medya ve Distopya İnşası ............ 35
+2.2. Gözetim Toplumunda Distopya ........................................................................... 39
+2.3. Gözetimin Nefret Söylemi ve Linç Kültüründeki Etkisi...................................... 40
+
+--- Sayfa 7 ---
+VII
+ÜÇÜNCÜ BÖLÜM
+3. ARAŞTIRMA VE METODOLOJİ ......................................................................... 41
+3.1. Araştırma .............................................................................................................. 41
+3.1.1. Araştırmanın Problematiği ............................................................................ 41
+3.1.2. Araştırmanının Amacı ................................................................................... 41
+3.1.3. Araştırmanın Önemi ...................................................................................... 42
+3.1.3.1. Araştırmanın Varsayımları (Hipotezleri) ................................................ 42
+3.1.3.2. Araştırmada Ki Kare İle İlgili Hipotezler ............................................... 43
+3.2. Metodoloji ve Veri seti ......................................................................................... 44
+3.2.1. Yöntem .......................................................................................................... 44
+3.2.2. Evren ve Örneklem ........................................................................................ 44
+3.2.3. Sınırlılıklar ..................................................................................................... 44
+3.2.4. Verilerin Toplanması ..................................................................................... 44
+3.2.5. Verilerin Analizi ............................................................................................ 45
+3.3. Bulgular (Verilerin Çözümü - Anket Sonuçları ve Değerlendirilmesi) ............... 45
+3.3.1. Araştırmanın Cronbach’s Alfa Katsayısı ve Güvenirlilik Testi Sonuçları .... 45
+3.3.2. Araştırmanın Frekans ve Yüzdelik Dağılımları ............................................ 46
+3.3.3. Araştırmanın Ki Kare Sonuçları .................................................................... 58
+SONUÇ .......................................................................................................................... 63
+KAYNAKÇA ................................................................................................................. 72
+EKLER .......................................................................................................................... 76
+Ek 1. Orijinallik Raporu .............................................................................................. 76
+Ek 2. Anket.................................................................................................................. 77
+Ek 3. Etik Kurul Belgesi ............................................................................................. 80
+ÖZ GEÇMİŞ ................................................................................................................. 82
+
+--- Sayfa 8 ---
+VIII
+TABLOLAR LİSTESİ
+
+Tablo 1:  Araştırmanın Cronbach’s Alfa Katsayısı ve Güvenirlilik Bulguları .............. 45
+Tablo 2: Katılımcıların Yaş Aralığı ............................................................................... 46
+Tablo 3: Katılımcıların Cinsiyetlerine Göre Dağılımı ................................................... 46
+Tablo 4: Katılımcıların Gelir Düzeyi ............................................................................. 47
+Tablo 5: Katılımcıların Okumakta Oldukları Fakülteler ............................................... 47
+Tablo 6: Katılımcıların Gün İçinde Telefon Kullanım Süresi (En az 3 Saat) ................ 48
+Tablo 7:  Denekler Herhangi Bir Sosyal Medya Platformuna Üye Olup Olmadığına
+Dair Bulgular .................................................................................................. 49
+Tablo 8: Deneklerin En Az Üç Sosyal Medya Platformuna Üye Olup Olmadıklarına
+İlişkin Bulgular ............................................................................................... 49
+Tablo 9:  Katılımcıların En Çok Twitter Adlı Sosyal Medya Platformunu Kullanıp
+Kullanmadıklarına İlişkin Bulgular ................................................................ 50
+Tablo 10: Katılımcıların Sosyal Medyayı Yararlı Şekilde Kullanılıp Kullanılmadığına
+İlişkin Görüşleri ............................................................................................ 50
+Tablo 11: Katılımcıların Sosyal Medya Kullanıcıları Üzerinde Bir Denetim ve
+Gözetim Mekanizmasının Bulunup Bulunmadığına İlişkin Görüşleri ......... 51
+Tablo 12: Katılımcıların Gözetim ve Denetim Mekanizmasının Toplumu Olumsuz
+Etkileyip Etkilemediğine İlişkin Görüşler. ................................................... 51
+Tablo 13: Sosyal Medyanın Toplumu Nefret Söylemine ve Linç Kültürüne
+Yönlendirip Yönlendirmediğine İlişkin Bulgular ......................................... 52
+Tablo 14: Katılımcıların Sosyal Medyada Her Hangi Bir Kullanıcıya Karşı Nefret
+Söyleminde Bulunup Bulunmadığına İlişkin Görüşleri ................................ 52
+Tablo 15: Katılımcıların Sosyal Medyada Her Hangi Bir Konuda Nefret Söylemine
+veya Linç Oluşumuna Maruz Kalıp Kalmadığına İlişkin Görüşleri ............. 53
+Tablo 16: Katılımcıların Türkiye’de En Çok Nefret Söyleminin ve Linç Oluşumunun
+Cinsiyet Ayrımcılığı Bağlamında Yapılıp Yapılmadığına İlişkin Görüşleri 53
+Tablo 17: Katılımcıların Sosyal Medyada Oluşan Nefret Söyleminin ve Linç
+Kültürünün Cezai Müeyyidesinin Olup Olmadığı Hakkındaki Görüşleri .... 54
+Tablo 18: Katılımcıların Gözetim ve Baskının Sosyal Medya Üzerinde Nefret ve
+Linç Söylemine Sebep Olup Olmadığına İlişkin Görüşleri .......................... 54
+
+--- Sayfa 9 ---
+IX
+Tablo 19: Sosyal Medya Üzerinden Oluşan Nefret Söylemi ve Linç Oluşumunun
+Kullanıcıları Rahatsız Edip Etmediğine Dair Bulgular. ............................... 55
+Tablo 20: Katılımcıların Sosyal Medya Üzerinden Oluşturulan Linç Kültürü ve
+Nefret Söylemi Nedenleriyle Sosyal Medya Hesaplarını Kapatmayı
+Düşünüp Düşünmediklerine İlişkin Görüşleri .............................................. 55
+Tablo 21: Katılımcıların Medyada Oluşan Toplumsal Gözetim ve Denetimin
+Sosyal Medya Kullanıcıları Üzerinde Nefret Söylemini ve Linç
+Kültürünü Teşvik Edip Etmediğine İlişkin Görüşleri ................................... 56
+Tablo 22: Devlet Mekanizmasının Oluşturduğu Toplumsal Gözetim ve Denetimin
+Sosyal Medya Kullanıcıları Üzerinde Nefret Söylemi ve Linç Kültürünü
+Teşvik Edip Etmediğine Dair Bulgular ........................................................ 57
+Tablo 23: Sosyal Medyada Herhangi Bir Kullanıcıya Karşı Nefret Söyleminde
+Bulunma Durumu İle Cinsiyet Değişkeni Arasındaki Ki Kare İlişki Testi .. 58
+Tablo 24: Sosyal Medya Toplumu Nefret Söylemi ve Linç Kültürüne Yönlendirir
+Düşüncesi İle Telefon Kullanma Süresi Arasındaki Ki Kare İlişki Testi ..... 59
+Tablo 25:   Devlet Mekanizmasının Toplumsal Gözetim ve Denetim Olgusunun
+Sosyal Medya Kullanıcılarını Nefret Söylemi ve Linç Kültürüne
+Yönlendirme Durumu ile Sosyal Medyanın Bireyler Üzerinde Bir
+Denetim ve Gözetim Mekanizmasının Olduğu Düşüncesi Arasındaki
+Ki Kare İlişki Testi ....................................................................................... 60
+Tablo 26: Sosyal Medyada Nefret Söylemi ve Linç Oluşumu Söz Konusu Olduğu
+Takdirde Sosyal Medyayı Kapatma Durumu İle Katılımcıların Cinsiyet
+Durumu Arasındaki Ki Kare İlişki Testi ....................................................... 61
+Tablo 27: Cinsiyet Değişkeni İle Telefon Kullanım Süresi Arasındaki Ki Kare İlişki
+Testi .............................................................................................................. 62
+Tablo 28: Hipotezlerin Kabul ve Ret Durumları ........................................................... 63
+
+--- Sayfa 10 ---
+X
+ÖN SÖZ
+
+Her eser kuşkusuz bir çabanın, fedakârlığın ve azmin ürünüdür. Akademik
+dünyaya ilk adımların atıldığı bu çalışmaya en az şahsım kadar emek ve mesai
+harcayan, taslaktan, somuta dönüşünceye değin geçirdiği evrelerinde güç ve destek
+sağlayan isimler olmuştur.
+Öncelikli faslın değerli hocam Sayın Prof. Dr. Mustafa Yağbasan’a açılması bir
+zorunluluktur. Bilaistisna tüm öğrencilerine entelektüel bir birey olabilmeyi ve
+akademik sevgiyi aşılayan, alanının en saygın isimleri arasında olan değerli hocamın tez
+öğrencisi olabilme şerefine nail olduğum için kendimi oldukça şanslı hissetmekteyim.
+Gerek bir kişilik ve akademisyen gerekse bir danışman olarak sunduğu fikirlerle
+entelektüel anlamda ufkumun açılmasına öncülük ederek şahsıma önemli katkılar
+sağlamıştır. Salt bir hocadan öte, bir birey olarak da bundan sonraki akademik
+yaşantımda rol model olarak alacağım ve bu intisabımdaki sancılı süreçte desteklerini
+hiçbir zaman esirgemeyen değerli hocama buradan minnetlerimi sunuyorum. Aynı
+zamanda gerek lisans gerekse yüksek lisans derslerine iştirak ettiğim diğer tüm
+hocalarımın da şüphesiz buradan şükranla yâd edilmesi gerekir, ben de öyle yapıyor ve
+kendilerine saygı ve hürmetlerimi sunuyorum.
+Dünyaya geldiğim ilk günden bugüne değin varlığından güç aldığım,
+destekleriyle ayakta kaldığım, fikirleriyle ufkuma yeni yönler kattığım ve bu çalışma
+özelinde; entelektüel bakış açılarıyla büyük destekler sağlayan babam Kenan Dilaver
+Ercan’a, annelik fıtratı gereği tüm çalışma sürecinde kahrımı çeken, yorulduğumda
+elimden tutarak kaldıran ve beni teşvik eden canım annem Ayten Ercan’a, sadece
+akademik çalışmalarımda değil bütün hayatıma yol arkadaşı olan eşim Harun Furkan
+Yağbasan’a ve her daim yanımda olan, anket verilerimi en eğlenceli şekilde
+tablolaştırmama
+yardımcı
+olan
+kardeşim
+Muhammet
+Umut
+Ercan’a,
+anket
+çalışmalarımda bana yardımcı olan manevi kardeşim Mert Kılınç’a teşekkür ederim.
+Adını aldığım sevgili babaannnem Sevim Ercan’a ömrüm boyunca yanımda
+olduğu için teşekkür ederim.
+
+ELAZIĞ-2020
+
+   Sevim Dilay ERCAN
+
+--- Sayfa 11 ---
+GİRİŞ
+
+Tarihsel sürecin nerdeyse her döneminde toplumların geleceğe dair kaygı izlerini
+sürmek, okumak veya gözlemlemek mümkündür. Bu telaşın derinliklerinde yatan ve
+umuda dair beklentilere tekabül eden ütopyalar inşa etmek ise kuşkusuz insanlığın doğal
+izleklerinden biridir. Zira gerek siyasal, gerek ekonomik veya gerekse sosyolojik
+bağlamda hayali idealar yaratmak bir bakıma ‘öteki’ anlayışıyla türdeş olmayan, ancak
+‘rıza’ ile hayat bulan ve refleksif işlevleri ile ütopya-realite arasındaki paradoksallığı da
+dışlayarak heterotopyaya dönüştürmektedir denilebilir. Foucault deyimi ile ‘izomorfik’
+olanı, bir bütün olarak ütopyaya zeval vermeden ve bir prosedür bağlamında
+heterotopyaya sunmaktadır.
+Farklılıkları mevcut zaman içinde, bir arada ve birçok işlev ile birlikte prezante
+eden ve adeta bir post ütopya yapısalcılığını çağrıştıran bu hetertopik anlayış; aynı
+zamanda çağın ruhu ile barışık, ancak dışlanan jenerasyonun sığınacak limanı gibidir
+adeta... Bütün dönemlerin ruhsal bunalımlarını aksettiren söz konusu bu kaygıların
+günümüz koşullarında da olması şüphesiz beklenen bir durumdur.  Nitekim sosyolojik
+bağlamda insanlık vizyonun mihenk taşı olarak da nitelendirilebilecek olan ütopya;
+ideal olma algısı açısından kutsanması gereken bir statüko da inşa etmektedir. Simülatif
+bu yaklaşımın karşısında duran distopya; ütopyanın ve uzantısı heteretopyanın neden
+olabileceği olumsuzluklara karşı bir duruşu tanımlamaktadır. Diğer bir anlatımla bu
+otokritik yaklaşım aynı zamanda; ‘yılgınlık’, ‘korku’ ve ‘pesimist’ tasarımları da içinde
+barındıran bir uyarı niteliği taşımakta ve genel kabul gören bir ifadeyle distopyanın bir
+antitezi olarak karakterize edilmektedir. Daha açık bir anlatımla; distopya, pesimistliğini
+ütopyanın optimistliğine borçludur denilebilir.
+Son çeyrek yüzyıldaki teknolojik devinim, geleceğe yönelik tasarımların geçmiş
+ile olan bağlarını koparmaya başlamıştır. Metropolleşen şehirlerle birlikte banliyöleşen
+zihinlerin bulanık yapısının ve yalnızlaşan insanın psikolojik ruhunun kurduğu dijital
+ortamda ütopyacı anlayışın boşalma yöntemi de yine dijital formatta olmaktadır.
+Özellikle çağın ruhu ile örtüşen sosyal mecralar bu bağlamda pesimist ruh halinin
+dışavurumunda yeni bir kültür oluşturmaktadır. Nefretin ve linçin adeta meşrulaştığı bu
+ortamların hiç şüphesiz sorgulanması gerekmektedir.
+
+--- Sayfa 12 ---
+2
+İçinde bulunulan milenyum çağı bireylere kuşkusuz sınırsız imkânlar
+sunmaktadır.
+Özellikle
+enformasyona
+ulaşımın
+sıradanlaşması
+bilgiyi
+değersizleştirmekle birlikte istenilen yerde ve istenilen şekilde kullanabilme imkânı
+sağlamaktadır. Kitle iletişim araçları artık etkisini kaybederken yeni medya diye
+adlandırılan kavram hayatın her an içinde olmaya başlamıştır. Yeni medya sayesinde
+internet üzerindeki haber platformlarından her hangi bir haberi o habere konu olan olay
+üzerinden dakikalar geçmeden kullanıcılara sunma imkânı sağlamaktadır. Aynı
+zamanda yeni medya ile haberler linear sürecin dışına çıkmış, aynı anda görüntülü
+olarak kullanıcıların izlemesini mümkün hale getirilmiştir. Dolayısıyla artık her birey
+kendi haberinin muhabiri, kendi medyasının kurucusu ve patronu haline gelmiştir.
+Pazarın özgürlüğüne ve tecimsel otoriteye hizmet eden neoliberal akımın izleri,
+geleneksel medya kültürüne ve yayıncılık anlayışına dair bütün bilinenlerin yeniden
+yorumlanmasını gerektirmektedir. Modernizm ışığında inşa edilen kitle iletişim araçları,
+postmodern biçimde kabuk değiştirmiş ve post-medyayı yeni iletişim teknolojileri
+bağlamında değerlendirmeyi de gerekli kılmıştır.
+Bahsi geçen tüm yeni imkân ve teknolojileri kullanıcılarına en aktif şekilde
+sunan sosyal medya platformları, kullanıcıları fiziksel ve reel ilişkilerden ziyade sanal
+ilişkiler kurmaya itmektedir. Nitekim bu durum kişinin gündelik yaşantısında karşısına
+çıkan bütün hayat pratiklerini, alışkanlıklarını, zevklerini ve hatta doğrudan kendini,
+diğer tüm kullanıcılara, kendine ait olduğunu düşündüğü medya marifetiyle sunarak,
+gerçek hayatta kazanamadığı edinim ve özgürlük alanını yaratarak kendini
+gerçekleştirme girişimlerini oluşturmuştur. Artık bireyler fiziksel, ruhsal ve duygusal
+fonksiyonlarını kendi kişisel hesapları üzerinden sergilemeye başlamışlardır. Bu sayede
+insanlar yaşamlarını, bir süre sonra kendileri için değil, sosyal medyadaki kullanıcı
+hesapları için yaşamaya, yarışmaya ve onlar arasından sivrilmeye adamaktadırlar.
+Yeni medya toplumu, geleneksel kitle iletişim araçlarının mekân ve zaman
+sınırlılığını ortadan kaldırarak, istedikleri koşula ve ölçeğe indirgemiş durumdadır.
+Ceplere sığacak, kola takılacak, gözlükten yansıyacak teknolojiye erişen medya araçları
+sayesinde
+edinilmek
+istenilen
+tüm
+bilgi
+ve
+enformasyonlara
+kolaylıkla
+ulaşılabilmektedir. Kitle iletişim teknolojileri bu sayede sadece izlenen veya dinlenen
+bir araç olma durumundan, giyilebilir ve anlık olarak tüketilebilir bir konuma erişmiştir.
+İletişimin, kameranın, basılı yayınların ve diğer tüm kitle iletişim araçlarının tek bir
+cihaza entegre olmuş olması ve bu teknolojilerin her geçen saniye güncellenmesiyle
+
+--- Sayfa 13 ---
+3
+takip edilmesi güç hale gelmiştir. Ancak bu teknolojinin tam olarak ortasına yerleşmiş
+bireyler, yeni güncellemeleri yabancılık çekmeden içselleştirebilecek ve tüketebilecek
+yeterliliğe de eriştirilmektedir. Böyle bir tablo karşısında bireylerin hangi pozisyonda
+konumlandığı, bu gelişmelerin genel konjonktürde ne tür biçimsel ve kültürel habitat
+yarattığı önem arz etmektedir. Bu bağlamda, medya teknolojilerinin postmodern
+yapısöküme tabi tutmak hem bugünün hem geleceğin toplumunu analiz etme noktasında
+oldukça kıymetlidir. Bu bakış açısıyla karşılaştığımız geniş akademik literatür ve
+bilimsel çalışmalar değinilen bu konuların önemi noktasında adeta sağlama
+yapmaktadır. Aynı zamanda bu teknolojik çeşitlilik ve anonimleşmiş sanal ortam
+nedeniyle medya araçlarının kontrol dışına çıkması, bilginin enformasyon yığınına
+dönüşmesi, gerçek ile yalan arasındaki farkın flulaşmasını olası hale getirerek
+sosyolojik anlamda gri bir alanın hegemonyasını da söz konusu hale getirmiştir.
+Bütün bu enformasyon yoğunluğunda alınan haberin büyüklüğü ne olursa olsun
+kitlenin karşısına her an çıkan yeni alternatif enformasyonlar dolayısıyla güncelliğini
+kaybeder. Sosyal medyada gezinirken kullanıcıların rastladığı kadına şiddet, terör
+eylemi veya savaşla ilgili kötü bir haber içeriği karşısında kullanıcıların yaşadığı hüzün
+bir sonraki sayfada veya hemen aynı paylaşımın altında bulanan bir mizah içeriği ile
+yok olup gidebilmektedir. Sosyal medyanın kullanıcılarına sunduğu sınırsız
+enformasyonlar, sanal döngünün içinde bilinçsizce dolaşarak değerlerin içini
+boşaltabilmektedir. Bu sayede enformasyonların bilgi formatına ulaşıp ulaşmadığı test
+edilmeyerek duyum halini almakta ve bilgi dedikodulaştırılarak hızla tüketilip değer
+kaybetmektedir. Ayrıca bolca bulunan enformasyonun niteliği düşük olduğundan
+beyinleri çöple dolacak insanların bilinçlenmekten uzak oldukları da iddia edilebilir.
+(Nalbantoğlu, 2009) Başka bir söylemle, enformasyon sorununu farklılaştırmıştır.
+İnsanlar
+bir
+zamanlar
+enformasyona
+gerçek
+hayat
+ortamlarını
+kendileri
+yönlendirebilmek amacıyla ihtiyaç duyarlarken, şimdilerde, aslında hiçbir işe
+yaramayan enformasyonların görünüşte yararlı olabileceği bağlamları yaratmak zorunda
+kalmaktadırlar (Postman, 2018).
+Ayrıca kullanıcılar gerçek hayatta yapamadıkları yorumları, dile getiremedikleri
+şikâyetleri, suçlamaları sosyal medya platformunda ister anonim ister farklı kullanıcı
+isimleri
+isterlerse
+de
+kendi
+isimleri
+ile
+kolayca
+dile
+getirip
+paylaşımda
+bulunabilmektedirler. Kullanıcılar kişisel olarak yaşamış oldukları sıkıntıları ya da
+yaşamsal deneyimlerini bu noktada kolayca dışa vurabilmektedirler. Sosyal medya
+
+--- Sayfa 14 ---
+4
+üzerinden kullanıcıların başka kullanıcılara nefret söylemlerinde bulunması, hatta
+kendileri gibi başka insanlarında bunu yaptığını görüp toplu olarak hakaret veya küfür
+içerikli paylaşımlar yapması ile linç kültürünü oluşturmaktadır. Kullanıcılar gerçek
+hayatta belki yan yana bile hiç gelmediği, toplumun belli bir kitlesi tarafından tanınmış
+veya tanınmamış insanlara karşı yapmış olduğu belli bir davranışın veya bir paylaşımın
+hesabını sormakta, bunu eleştirmekte ve hatta hakaret edip linç edebilmektedir. Sadece
+yapmış oldukları paylaşımı değil kişisel tercihlerini, sosyal ve özel hayatını da
+sorgulayıp eleştirebilmekte ve onur kırıcı ifadelerle aşağılayabilmektedirler.
+Kullanıcıları bu yönde bir nefret söylemine ve linç etmeye yönelten sebepleri,
+sosyal hayatında yaşadığı sorunlar, kişisel olarak kendini gösterme ve ifade etme isteği,
+kendini daha aşağı görme ve kıskançlık gibi bireysel yaşantısından doğan sonuçları dışa
+yansıtması olarak yorumlamak mümkündür. Kişilerin veya kitlelerin nefret söylemini ve
+linç etme faaliyetlerini, sosyal medya üzerinden yukarıda da bahsedildiği şekilde
+sürdürmesi, gelecekte toplumsal olarak bireylerin kendilerini hangi şekilde ifade ederek
+sosyal medyayı kullanacakları sorusunu akıllara getirmektedir. Bu noktada ise devreye
+araştırmanın kaynağını oluşturan distopya kavramı girmektedir.
+21.yüzyıl insanının doğumuyla beraber kayıt altına alınması, yüksek
+enformasyon teknolojisi sayesinde mahrem alanların sanal ortama açılması, ses
+alıcılarıyla
+ortamların
+dinlenebilmesi,
+Gps
+verilerinin
+paylaşımıyla
+kişilerin
+bulundukları yeri tespit edilebilen cep telefonlarının tüm dünyaya yayılması, kişilerin
+sanal bir panaptikon ağında Big Brother’ların hegemonyası altında yaşamaya çalıştığını
+göstermektedir. Aynı zamanda akıllı (smart) kartlar aracılığıyla bireyin tüm ekonomik
+kayıtlarının bir merkezde toplanabilmesi, birçok yerde bulunan kamera ve mobese
+kayıtları ile bireylerin sürekli takip ediliyor hissine kapılması, küresel olarak sanal
+ortamdan elektronik posta ve diğer mobil uygulamalar aracılığıyla sesli ve görüntülü
+haberleşmeye başlanması ve bu yolla iletilen tüm bilgilerin takip edilebilir durumda
+olması günümüz toplumunu distopya toplumu haline getirmektedir.
+Toplumsal açıdan bakıldığında ise distopya; gelişen teknolojinin kişisel ve
+kitlesel yaşamın eylemlerini denetim altında tutması ve yönlendirmesinin sonucunda,
+tüm yapıları teknolojiyle yeniden yorumlanmış bir toplumun ortaya çıkmasına işaret
+etmektedir. Oluşan bu toplumun bireylerini, ihtiyaçlarının kolayca giderilmesine
+yönelik sunduğu ütopya karşılığında, yetkinlik düzeyini ispat etme süreçlerinden yoksun
+bırakılmış, bir tür çoklu bağımlılık sistemi içerisine entegre edilmiştir. Distopya
+
+--- Sayfa 15 ---
+5
+isteminde her bireyin gönüllülüğü esastır. Bu durum Platon’un ‘şölen’, Boetie’nin
+‘gönüllü kulluk’ veya Chomsky’nin ‘rızanın imalatı’ söylemlerini hatırlatmaktadır.
+Platon’da aşık olunan sevgiliye boyun eğme insanlar ve Tanrılar tarafından takdir alır.
+Boetie ise, tiranın gücünü sadece halkın kendi özgürlüğünden vazgeçen gönüllüğüne
+dayandırmaktadır. Nitekim iktidara rızalık göstermezseniz iktidar kendiliğinden yol
+olacaktır. Bu nedenle gerek siyasi gerek ekonomik otoritelerin Chomsky’nin bahsettiği
+rızayı imal eden kültür endüstrisini yaratarak, gönüllü kulluğu ve rızayı sürekli, yeniden
+üretilebilir ve bireyleri gönüllü birer kul haline getirmesi büyük önem arz etmektedir.
+Zira tiran, egemenliklerinin devamını sağlamak için, hegemonya alanını genişletmeli ve
+çevresinde tıpkı kendisi gibi mevcut düzenden çıkar sağlayan gettonun belli çıkar ve
+mevkiler elde etmesini sağlar.
+Tutkulu söylevleri ile kutsal sembollerin yeniden imal edilmesi, dinleri, batıl
+inançları ve hurafelerin elde edilmek istenilen sonuca göre kullanması, genel kabul
+gören ve iktidara hizmet eden ideolojilerin yaratılması insanlar üzerinde bir tür
+tapınmaya yol açar ve düşünme kapasitesi uyuşturulan toplumun kapital duygularına
+hükmederek, otoriteye gönüllü kulluk etme geleneğini sürdürmesini sağlar. Bu durumun
+21.yüzyıldaki en büyük karşılığının yeni iletişim teknolojileri olduğunu ileri sürmek pek
+de yanlış olmayacaktır. Bir ekran ve tek tuşla ulaşabileceği her türlü hizmeti alabilme
+görevini yerine getirebilmesi toplumu giderek eve bağlamıştır. Her ihtiyacın sipariş
+üzerine getirildiği evlerde beynin ilgili bölgelerine sinyaller gönderilerek oluşturulan,
+rengiyle kokusuyla gerçeğini aratmayan ve tüm duygusal ihtiyaçlara cevap verebilen
+sanal dış dünya algısı aile kurumunu manipüle etmiştir. Aile bireylerini hepsi aynı evin
+içindeyken bile sistemin kontrolündeki başka dünyalara savurmuştur. Söz konusu bu
+süreç, modernizmin getirdiği kapitalist sistemin otoriteler tarafından kontrol edilebilir
+ve istenilen biçimde şekillendirilebilir olması İtalyan düşünür Gramsci’nin de ifade
+ettiği gibi hayat tarzı olarak modernizmi ve ekonomik anlamda kapitalizmin kötü bir
+olgu olarak görülmesindense dizayn edilecek bir süreç olarak yorumlanmasının praksise
+dönüşmüş halidir denilebilir.
+
+--- Sayfa 16 ---
+BİRİNCİ BÖLÜM
+
+1. KURAMSAL, KAVRAMSAL ÇERÇEVE VE LİTERATÜR
+
+1.1. Sosyal Medya
+1.1.1. Sosyal Medya Platformları ve İçerikleri
+21.yüzyıl insanı, gelişen ulaşım ve iletişim teknolojileri aracılığıyla, duygularını,
+düşüncelerini, eylemlerini zaman ve mekân bağlamı olmadan yaşayabilme ve dile
+getirebilme özgürlüğüne sahiptir. Sıvılaşmış ortamlar bu özgürlük ortamını sosyal
+medya platformları ile sağlamaktadır. Küresel düzeyde yayılan sosyal medya içerikleri
+artık yaş farkı olmaksızın, hedef kitlesini ve içeriklerini global mantıkla oluşturmakta ve
+üretmektedir. Fotoğraf paylaşmak, duygu veya düşüncelerini açıklamak için metinler
+oluşturmak, video içerikler sunmak, ruh halini tasvir eden müzikler paylaşmak ve hatta
+internet bağlantısı marifetiyle, bulunduğu coğrafyadan bağımsız şekilde kişilerin canlı
+konuşmalar yapabileceği ve bunları diğer kullanıcılarla paylaşarak geleneksel
+yayıncılığın canlı yayın algoritmasını oluşturan birçok sosyal medya platformları
+oluşmaya başlamıştır. Zamanla alışkanlığa ve devamında bağımlılığa dönüşen sosyal
+medya platformları, temel hayat pratiklerinden biri olmaya başlamıştır. Yeni iletişim
+teknolojilerinin sunduğu sanal uzamlar, kullanıcılar için rutinleşmiş günlük ihtiyaç
+düzeyine ulaşmaktadır. Adeta bir günlük tutmak gibi yaşanılan olayları, gezilen
+mekanları, sosyolojik bir olay karşısında verilen tepkiyi ve geriye kalan tüm kişisel
+paylaşımlarını sürekli olarak yapmak sosyal medya hesabının getirdiği sorumluluk ve
+mecburiyet olarak görülmeye başlanmıştır. Nitekim bireyler artık aldıkları like ve
+takipçi sayısıyla sosyal konumlarını ve statülerini belirlemekte, popülerliğini kaybetme
+noktasında ciddi endişeler yaşamaktadır. Ya da yeterince takipçi sayısı ve like
+alamadığından kendini sosyal olarak yetersiz görerek psikolojik bunalımlar yaşayan
+kişileri görebilmek de pekâlâ mümkündür. Aynı zamanda diğer kullanıcıların kendi
+hesaplarında ne ölçüde aktif olduğunu, ne tür paylaşımlar yaptığını günlük olarak
+kontrol etmek ve diğer kullanıcılarla iletişime geçmek günlük hayat akışında önemli bir
+yer tutmaktadır. Bireylerin güne başladığında sosyal medya hesaplarında aktif olmadığı
+süre içerisindeki veri akımını kontrol etmesinin, yüzünü yıkamaktan daha önce geldiğini
+ifade etmek abartılı bir yaklaşım olmayacaktır.
+
+--- Sayfa 17 ---
+7
+Gündemi ve güncel olayları takip edebilmek için geleneksel kitle iletişim
+araçlarına yönelik mecburiyet ortadan kalkmış durumdadır. Daha doğrusu bu bilgileri
+elde edebilmek için geleneksel medya araçlarının ve sunduğu enformasyonların tekeli
+yıkılmış durumdadır. Gündem artık olay hızı ile paralel olarak sosyal medyadan takip
+edebilir ve gündem hakkında değerlendirmeler yaparak, diğer kullanıcılarla eş zamanlı
+olarak paylaşımlarda bulunulabilir. Geleneksel medya araçlarının tek taraflı ileti akışı,
+yeni medya teknolojileri ve web 2.0, 3.0 teknolojileriyle çok daha ileri boyutlara
+taşınarak etkileşimli hale getirilmiştir.  Aynı zamanda kişiler hashtagler vasıtasıyla
+gündemler oluşturabilir, değer taşıdığını düşündüğü gelişmeleri haberleştirebilir ve
+sosyal medya hesaplarından paylaşarak kitlelere ulaştırabilir. Dolayısıyla artık bir
+gündemi haberleştirebilmek için bir gazeteci, spiker veya iletişimci olma zorunluluğu
+kalmamıştır. Bu durum geleneksel medya araçlarının içerik üretimi ve yayıncılık
+faaliyetlerine dahi yansımış, herhangi bir sosyal medya platformundan çokça etkileşim
+almış
+bir
+gönderiyi
+alarak
+kendi
+bültenlerine
+yerleştirme
+yöntemlerini
+kullanmaktadırlar. Nitekim sanal ortamlarda önemli ölçüde tartışılmış olayları ekranlara
+yansıtmak geleneksel yayıncıların share ve reytinglerine katkıda bulunacaktır. Sosyal
+medya platformlarının ‘trend topic’ (TT) olarak kodladığı, bilhassa popüler mikro
+blogging sitesi olan Twitter'da ve diğer sosyal medya uzamlarında da kullanılan anahtar
+kelimeler veya hashtagler aracılığıyla oluşturulmuş gündem listeleri sayesinde,
+etkileşim kurulup, yorumlar yapılıp, en çok konuşulan konular takip edilebilmektedir.
+TT listesini takip eden bir kullanıcı anlık olarak sosyal medyada kitlesi tarafından neyin
+odak noktası olduğu ve hangi konuların daha yaygın olarak konuşulduğu kolayca
+anlayabilir. Böylece gazeteyi veya haber saatlerini beklemeden enformasyonlara
+ulaşabilir ve gündem hızlı ve yoğun bir şekilde takip edilebilir.
+Sanal dünyanın kullanıcılarına sunduğu çoklu ve bağımsız enformasyon ağı ve
+gündem oluşturarak istenilen gönderilerin paylaşılabilme imkânı, geleneksel kitle
+iletişim araçlarının haber, enformasyon, eğlendirme işlevleri noktasında tekel olma
+konumunu da sonlandırmıştır. Geleneksel medya aygıtlarının önce kamusal ve tekel
+yayıncılık formatında oluşturduğu içeriklerin farklı otoriteler tarafından kalıp halinde
+sunulması daha sonra ise tecimsel yayıncıların çeşitlilik adı altında sunduğu tek tipleşen
+içerik üretimleri veya ulaşılmak istenen bilgiye dair tek kaynak olma pozisyonu sosyal
+medya platformlarının yaygın kullanımı ile son bulmuştur. Nitekim milyarlarca
+kullanıcının haberleri öncelikle sosyal medyadan alarak geleneksel araçlara yöneldiği
+
+--- Sayfa 18 ---
+8
+rahatlıkla iddia edilebilir. Şüphesiz bu durum sanal mekanların kesin doğru bilgileri
+sunduğu anlamına gelmeyecektir. Yapısı itibariyle manipüle etmeye oldukça müsait
+olan ve herhangi bir denetim mekanizmasından geçmediği için yanıltıcı bilgilerle sıkça
+karşılaşabilmekte oldukça mümkündür. Bu durum kullanıcıların söz konusu bu ağı
+hangi yeterlilikte ve donanımda kullandığıyla da doğrudan ilişkilidir. Dolayısıyla kitle
+iletişim araçlarına yönelik bu dönüşüm, medya araç ve teknolojilerinin adeta makus
+tarihi olarak değerlendirilebilmeye açıktır. Zira medya varolduğu her dönemde,
+propaganda, manipüle, ideolojik aygıt, pazarlama, simülasyon aracı, uyuşturucu,
+kapitalizm çarlığı görevleriyle gerek siyasi gerek ekonomik otoritelerin ele geçirmek
+istediği ilk alanlardan birisi konumunda olmuştur. İçinde bulunulan dönem itibariyle
+yeni medya teknolojilerinin sunduğu anlık feedback dönüşümü ile sosyal medya araçları
+bir haberin gerçek olup olmadığına dair test ortamı sağlamakta ve bir tartışma ortamı
+veya yorum yapabilme imkânları sunabilmektedir. Kişisel imkânlar dâhilinde
+ulaşılamayan
+hedef
+kitleye
+ulaşarak
+iletilmesi
+gereken
+mesajların
+iletimini
+sağlamaktadır. Dolayısıyla yeni medya teknolojileri aynı zamanda geleneksel medya
+araçlarının unuttuğu yerelliğe ve bireyselliğe de değerek kitle iletişim araçlarının temel
+işlevlerinden birinin de canlanmasına neden olmuştur. Teknolojinin medya araçlarıyla
+entegre olmasıyla gelen tüm bu yenilikler salt metinsel veya podcast biçiminde
+şekillenmemiş aynı zamanda geleneksel kitle iletişim araçlarının dev araçlarla yaptığı
+canlı yayın hizmetleri, yeni medya araçları ile mikro düzeye indirgeyerek kullanıcıya
+tek tuş ile bulunduğu ortamı, aktarmak istediği görselleri diğer tüm kullanıcı yahut
+takipçileriyle canlı olarak deneyimleyebilmektedir. Bu bağlamda değerlendirildiğinde
+geleneksel medya araçlarının temel işlevlerini, ihmal edilen çeşitliliği, etkileşim
+fonksiyonu yeni medya araçları ile ortaya çıkmakta ve her geçen gün gelişim
+göstermektedir.
+
+1.1.2. Sosyal Medya Kullanım Kültürü ve Türkiye’de Sosyal Medya
+Kullanımı
+Dijital dünyanın en kapsamlı veri analizlerini yapan kuruluşlardan biri olan We
+Are Social’in 2020 raporuna göre Türkiye’de 62 milyon internet kullanıcısı
+bulunmaktadır. Bu oran Türkiye nüfusunun %74’üne tekabül etmektedir. Böyle bir oran
+Dijk’in “internet sayesinde birbirine bağlanış bir dünyada yaşıyoruz ve bu döneme
+‘bağlı çağ-insan ağı- web toplumu’ deniliyor” ifadelerini adeta ispatlar niteliktedir.
+
+--- Sayfa 19 ---
+9
+(Dijk, 2016; 12). Söz konusu veriler Türkiye’nin de wep toplumuna ayak uydurduğunu
+açıkça göstermektedir. We are Social internete bağlı kesimin 54 milyonun ise sosyal
+medya kullanıcısı olduğuna yönelik raporları sunmaktadır. Bu oran Türkiye nüfusunun
+%64’üne denk gelmektedir. Dolayısıyla reel olarak bir toplumun varlığından söz
+edilebildiği gibi, oluşan yeni bir ağ toplumundan da söz edebilmek mümkündür. Söz
+konusu bu toplumun oluşturduğu küresel medya sistemi, geleneksel medyadan hatta
+geleneksel tüm olgulardan farklılaşmakta ve yeniden yorumlanmayı gerekli kılmaktadır.
+21. yüzyılı ağlar çağı olarak adlandıran Jan Van Dijk,  sosyal medya uzamlarını ve
+ağları sinir sistemine benzetmektedir. Sinir sistemi yapısal olarak bütün vücudu saran
+bir elektriksel akımdır. Bu sistem internet gibi organların çalışmasını sağlayan ve
+vücutta olan biten her şeyi beyine ileterek refleksler geliştirmeyi sağlar. Bu benzetme
+sosyal medya kullanıcılarının verdiği kişisel veya toplumsal refleksler şeklinde hayat
+bulabilir. Şayet sinir sistemi çökerse, yaşamsal tüm fonksiyonlar durur. Dijital yaşam
+içerisinde sıkça karşılaşılan ‘ağ çöktü’ ifadesi önemli ölçüde benzerlik arz etmektedir.
+Sanal veri akışının kesilmesi durumunda 21.yüzyıl insanının hayatı durma noktasına
+gelmekte, eli kolu bağlı kalmaktadır.
+Günlük rutinlerin ve genel alışkanlıkların tam ortasına nüfuz eden internet
+alışkanlıkları, aynı zamanda ciddi bir mesai de gerektirmektedir. Nitekim ağ toplumu
+içerisinde aktif olarak kalabilmek, reel dünyada hayatta kalabilme çabasını
+çağrıştırmaktadır. Sosyal medya platformları içerisinde gerekli dinamizme ulaşılmadığı
+takdirde, kullanıcıların korkulu rüyası haline gelen takipçi kaybetme, like oranının
+azalması gibi sözde tehlikeleri de beraberinde getirmektedir. Dolayısıyla bu durumlar
+bir süre sonra, tik haline gelen mobil bağımlılığı da beraberinde getirmektedir. Söz
+konusu bu süreci istatistiki veriler ile dile getirmek gerekirse, Türkiye örnekleminden
+hareketle, ağ toplumu üyelerinin günde ortalama olarak 7,5 saat internette vakit
+geçirdiği görülmektedir. We are Social’ın sunduğu bu oran, günlük olarak insan vücudu
+için gerekli olan yemek yeme, uyuma kadar zaman aldığını veya hayatın devamı için
+zaruri olan çalışma eylemi kadar süreyi işgal ettiğini açıkça göstermektedir. Süreklilik
+ve yoğun mesai isteyen sanal dünya, zorunlu pratikler statüsüne erişerek popüler
+dünyanın inşasının ham maddeleri arasında kendine yer bulmaktadır. Bu ağ toplumu ve
+sosyal medya üyelerinin yaş aralığı ise yine Türkiye üzerinden incelendiğinde en
+yüksek kullanım oranının 25-34 yaş arasında olduğunu görülmektedir. Bu orana
+bakıldığı zaman sosyal medyanın daha çok genç ve yetişkin bir kitleye sahip olduğu
+
+--- Sayfa 20 ---
+10
+görülmekte ve yaş arttıkça sosyal medya kullanımının azaldığı dikkat çekmektedir.
+Türkiye’de sosyal medya kullanım alışkanlıklarına bakıldığında ise kullanıcıların
+%96’sı ayda bir kez sosyal medya platformları üzerinden mesajlaşmakta, %88’i sosyal
+medya paylaşımları ile etkileşime geçmektedir. Ortalama 3 saate yakın sosyal medyada
+vakit harcanmakta ve ortalama bir kullanıcı başına 9 sosyal medya hesabı
+bulunmaktadır. We are Social tarafından sunulan bu bilgiler ışığında, dijital ortamda
+harcanan zamanın üçte birini sosyal medya platformlarının işgal ettiğini ve
+kullanıcıların tek bir sosyal medya mecrasına odaklanmadığını, dolayısıyla teknolojik
+sınırlılıkların elverdiği tüm uzamların hızla tüketildiği dikkat çekmektedir.
+Türkiye’nin bu çalışmanın hitap ettiği ilk hedef kitle olması nedeniyle ağ
+toplumu olma noktasında daha detaylı bilgilere yine We Are Social’ın sunduğu
+verilerden ulaşmak mümkündür. Buna göre 2020 yılı verileri şu şeklidedir:
+
+Raporda dünyanın en popüler sosyal medya mecraları sıralamasında Facebook
+yine ilk sırada yer alıyor. Türkiye de 37 milyon aktif kullanıcı sayısı ile dünyada
+Facebook kullanan ilk 10 ülke arasında. Bu veriler doğrultusunda Türkiye’deki sosyal
+medya kullanıcılarının, dünya genelinde en popüler olan uygulamalarla paralel olarak
+kullanıcı kitlesini yoğunlaştırdığı görülmektedir. Facebook kullanıcı kitlesinin ilk üç
+sırasını Hindistan, Amerika Birleşik Devletleri ve Endonezya oluşturmaktadır. Yine
+aktif kullanıcı sayısına göre değerlendirildiğinde Avrupa ülkeleri arasında da ilk sırada
+Türkiye yer almaktadır. Bir diğer popüler sosyal medya içerik sunucusu YouTube ise
+hızla kitlesini arttırmakta. Sosyal medya platformları arasında en fazla kullanıcıya sahip
+
+--- Sayfa 21 ---
+11
+olan Facebook’u, 2 milyar kullanıcı ile YouTube takip ediyor. Sosyal medya
+platformları içerisinde 2017 yılından ilk iki sırada yer alan YouTube, Türkiye’de de
+yine kullanıcılar arasında en çok ilgi gören mecraların başında yer almaktadır. Dünya
+genelinde 1 milyar kullanıcı sayısı ile en popüler sosyal mecralar sıralamasında 3. sırada
+bulunan Instagram uygulamasının en yoğun olduğu ülke Amerika Birleşik
+Devletleri’dir. 2019 yılından bugüne %2,7’lik bir artışla 38 milyon kullanıcı sayısına
+yükselen Türkiye ise Instagram kullanan ülkeler sıralamasında 6. sırada yer alıyor. Bir
+diğer küresel platform haline gelen ve gerek siyasi gerek sosyolojik iklimin resmi
+yansıtıcısı konumuna erişen Twitter’da ise Türkiye’nin önemli bir konumda olduğu
+görülmektedir. 2020 itibariyle kullanıcı sayısının 340 milyonu bulan Twitter’ı en çok
+kullanan ülkeler listesinde de Türkiye yine ilk sıralarda yer almaktadır. İlk sırayı
+ABD’nin aldığı bu platformda, 2019 yılın istatistiklerine bakıldığında, Türkiye’deki
+Twitter kullanıcı sayısının %3 civarında düştüğü görülse de son rapora göre 11.8 milyon
+aktif kullanıcıyla dünyada 6. sırada, Avrupa’da ise 2. sırada bulunmaktadır. LinkedIn
+kullanıcı sayısı hızla artıyor.Kullanıcısı sayısını her geçen gün artıran LinkedIn,
+şirketlerin ve beyaz yakalıların favori sosyal medya platformu olarak öne çıkıyor ve
+büyümeye devam ediyor. LinkedIn’de en fazla aktif kullanıcısı olan ülke ABD, Türkiye
+ise listenin 15. Sırasında bulunmaktadır. Ancak Türkiye’nin bu listede de zirveye
+oynaması uzun zaman almayacaktır. Zira araştırma sonuçları Türkiye’de son bir yılda
+100 bin yeni kullanıcının LinkedIn kullanmaya başladığını gösteriyor. Bu artış diğer
+ülkelerdeki
+artışa
+kıyasla
+oldukça
+yüksek
+görünmektedir.(
+https://wearesocial.com/digital-2020#)
+Rapora konu olan ve veriler doğrultusunda en çok kullanıcı sayısına sahip
+Facebook platformunun %64’ü erkek ve %36’sı kadın olmak üzere toplam kullanıcı
+sayısının 37 milyona ulaştığı görülmektedir. Facebook’un sosyal medya mecraları
+içerisinde bu denli tutulmasının sebepleri arasında bugünkü anlamda ilk sosyal medya
+uzantısı olması ve Twitter, Whatsapp, İnstagram, Youtube, Snapchat gibi daha özerk
+alanlara yoğunlaşmış platformların işlevlerini yüklenmesi gösterilebilir. Platformun
+içeriği, kullanıcılar takipçileriyle, fotoğraf, video veya metinlerini paylaştığı bir özel
+alan oluşturmaktadır. Kullanıcıların paylaşımlarına yapılan yorumlar, beğeniler veya
+bırakılan emoji ifadeleri sayesinde hızlı bir etkileşim içerisine girebilmekte ve
+Messenger özelliği ile görüntülü, sesli veya metinsel diyaloglar kurabilmektedirler.
+Facebook kullanımı adından da anlaşıldığı gibi kullanıcıların genellikle bir anı defteri
+
+--- Sayfa 22 ---
+12
+veya kişisel bilgi paylaşımlarının çoğunlukla kullanıldığı bir platform olarak faaliyet
+göstermektedir. Ayrıca yirmi dört saat içinde yaptıkları ‘story-hikaye’ paylaşımları ile
+belirlediği
+takipçileri
+ile
+kalıcı
+olmayan
+paylaşımlar
+yaparak
+etkileşim
+kurabilmektedirler. Story şeklinde dijital literatüre eklenen bu kavram ile diğer birçok
+sosyal medya platformunda da kullanılmaya başlanmıştır. Bu teknolojik girişimin,
+dijitalleşen küresel düzenin geçiciliği, hızlı kapitalist tüketimin ve geçici ilişkilerin
+izlerini sunduğu şeklinde yorumlanmaya oldukça açıktır. Ayrıca bu platformda belli
+gruplar veya belli aktivite, etkinlikler oluşturulabilir katılımcılar kapılı ya da açık olan
+bu gruplara katılabilir veya bir etkinliğe kimin katılıp katılmayacağını, kaç kişinin
+katılacağını veya etkinlik saatini tarihini bu yolla öğrenebilir. Facebook’un bu anlamda
+örgütlenmeyi mümkün kılan bir özellik sunduğu, dolayısıyla olumlu olarak sivil toplum
+kuruluşlarının yahut sendika işlevlerini yüklendiği olumsuz anlamda da örgütsel
+faaliyetlere ya da linç kültürü için birleşme ortamına imkan sağladığı görülmektedir.
+Facebook aynı zamanda kişisel hafıza görevine de soyunarak kişisel verilerin
+paylaşımını sağlayarak kullanıcıların takipleştiği, etkileşim halinde olduğu diğer
+kullanıcıların özel günlerini unutmaması için hatırlatmalarda yapmaktadır. Örnek olarak
+takip ettiğin başka bir kullanıcının doğum gününü veya seni başka bir etkinliğe davet
+eden kullanıcının etkinlik günlerini hatırlatmaktadır.
+Facebook geleneksel medya araçlarının sunduğu yayıncılık işlevlerini de
+kullanıcılarına sunmaktadır. Geleneksel yayıncılıkta devrim niteliği taşıyan naklen
+görüntü aktarımları, yeni medya teknolojileri sayesinde cebe sığan mobil cihazlar
+sayesinde tek tuşla aktarma fırsatı sunmaktadır. Kişiler anlık olarak, bulunduğu ortamı,
+durumu veya düşünceyi canlı olarak uygulamayı kullanan diğer kullanıcılarla
+paylaşabilmektedir. Yeni medya teknolojilerinin entegre olduğu bu platformlar,
+geleneksel araçlardan farklı olarak etkileşime açıktır. Kitle iletişim tarihi açısından
+radikal bir dönüşüm olarak nitelendirilebilecek bu durum, iletişim ve enformasyonun
+akış yönünü çift taraflı olarak değiştirmiştir. Canlı yayına katılan kullanıcılar sürece
+dâhil olabilmekte, yorumlarda bulunabilmekte veya görüntülü olarak katılım
+gösterebilmektedirler. Kullanıcıların maksimum sayıda takipçi sayısına erişebilmesi,
+sosyal medya doyumunu tatmin edebilmesi veya sanal ilişkiler ile yoğun bir
+enformasyon döngüsü içinde yer alabilmesi için, takip edilen ve etkileşimde bulunulan
+kişilerle bağlantılı olabilecek öngörüler ile ‘tanıyor olabileceğin kişiler’ diye bir başlık
+altında sunmaktadır.
+
+--- Sayfa 23 ---
+13
+İkinci sırada yer alan Youtube ise kullanıcılarına sınırsız bir video etkileşimi
+sunmaktadır. Sansürün yer almadığı bu platformda isteyen her kullanıcı istediği içeriği
+video haline getirip paylaşabilmektedir. Ayrıca bu platforma katılım ücretsizdir. Fakat
+platformda videolara erişim sağlanmadan önce kullanıcıların karşısına çıkan yoğun
+reklam gönderilerinin ortadan kalkması ücretli olarak ‘YoutubePremium’ gibi ücretli bir
+üyeliğe dönüştürebilmektedir. Aynı zamanda bu platform aracılığıyla, kişisel bir medya
+ortamı oluşturulabilir, canlı yayınlar veya radyo yayınları, platform kullanıcıları yahut
+youtube literatürünce aboneler ile paylaşılabilir.  Dünya çapında ciddi bir ekonomik
+sektör haline gelen Youtube, bir iş kapısı ve meslek olarak da görülmektedir. Youtube
+için içerikler üreterek aboneleri ile paylaşan kişiler ‘Youtuber’ adıyla anılmaktadır.
+Kullanıcılar yüklediği içeriğin görüntülenme sayısına oranla sunduğu içerikler ile para
+kazanmaktadır. Özellikle son zamanlarda Youtube platformu ile kullanıcıların karşısına
+çıkan ve çok yaygın olarak kullanılan ‘vlog’ kültürü oluşmaya başlamış ve pek çok kişi
+bu sayede sosyal medya fenomeni olarak ün kazanmıştır. Vlog adı altında kullanıcılar
+günlük hayatta yaptığı bütün eylemlerini gün gün videolara dönüştürüp bu videoları
+paylaşmaya başlamıştır. Youtube’da aynı zamanda her dilden ve her kültürden
+kullanıcılara hitap eden videolar, diziler, filmler, belgeseller gibi birçok video içeriği
+mevcuttur. İzleyici pozisyonunda buluna kullanıcılar ile yayıncı pozisyonundaki içerik
+üreticisi arasında feedbackler hızlı ve yoğun bir şekilde gerçekleşmektedir. İzleyiciler
+videoların altında bulunan, yorumda bulunabilmeleri için ayrılmış bölüme fikir ve
+düşüncelerini aktarabilir ve diğer kullanıcıların yorumlarını görebilir. İlaveten ‘like ve
+unlike’ ikonları ile içerikleri beğenip beğenmediğini gösteren geribildirimler ile
+videoların popülerliğine katkıda bulunabilir. Like ve unlikelar videonun altında toplam
+görüntülenme sayısıyla beraber diğer kullanıcılara sunulmaktadır. Telefon, tablet,
+bilgisayar ve televizyondan erişimi sağlanabilen bu platforma kullanıcı internete
+bağlatışının olduğu her yerde kullanabilme özgürlüğü sağlamaktadır.
+“YouTube CEO’su Susan Wojcicki platformun hızlı yükselişini gözler önüne
+seren bazı rakamlar açıkladı. İlk olarak YouTube kullanıcı sayısı açıklandı.
+Wojcicki’nin verdiği rakamlara göre platformun aylık aktif kullanıcısı sayısı 1.5 milyarı
+geçti. Üstelik bu sadece YouTube’a giriş yaparak video izleyenlerin sayısı. Bir de giriş
+yapmadan video izleyenler eklenince bu sayı daha da artıyor ki aslında birçok kişi
+YouTube’da giriş yapmadan video izliyor. Yani bu noktada dünya nüfusunun belki de
+üçte birinin YouTube kullanıcısı olduğunu söylemek mümkün” (cnnturk.com).
+
+--- Sayfa 24 ---
+14
+Tabloda da görüldüğü üzere; We are Social verilerine göre en çok kullanılan
+üçüncü platform İnstagram olmuştur. Söz konusu bu platformun temel kullanım amacı
+video ve fotoğraf paylaşımı yapmaktır. Aynı zamanda kişisel hesaplarda takipçilerine
+açılan canlı yayın, mesajlaşma, yorum gibi geribildirimi olan birçok özelliğe sahiptir.
+İnstagram platformu aynı zamanda Youtube gibi meslek haline gelerek takipçi sayısı
+fazla olan kullanıcılara gelir sağlamaktadır. İnstagram popülerliğine göre hesaplarında
+reklamlara yer veren kullanıcılar kendi kişisel hesaplarını adeta geleneksel medyanın
+finans mekanizmasına benzer şekilde işletmektedir. Kurumların bu kişiler üzerinden
+pazarlama yapma istemleri ise ağ toplumunda takipçisi yüksek olan kişilere kamuoyu
+önderi gözü ile bakılmasından kaynaklandığı ileri sürülebilir. Nitekim sosyal medyanın
+büyük bir kitlesi oluşturan genç kesim, bu sosyal medya fenomenlerini örnek almakta
+ve rutin olarak karşılaşmaktadır. Bu isimler milenyum çağında ‘İnflucer’a’
+dönüşmüştür. Kurumsal firmaların, özel ticari yapıların, devletin resmi birimlerinin ve
+pek çok diğer yapının yer aldığı platform kullanıcılar tarafından takip edilerek,
+gelişmeler ilk ağızdan öğrenilir. Gönderi bildirimlerini açma durumda kullanıcılara
+saniyesinde haber gelerek, bireylerin ağ toplumu üyelerinin enformasyonu en hızlı
+biçimde tüketmesi sağlanmaktadır.  Bir ilin belediye başkanı veya valisi kendi ili
+hakkında kamuoyu duyurularını bu platform ile hedef kitlesine duyurabilmektedir.
+Kurumsal firmalar veya henüz kurumsal olmayan firmaların çoğu instagram üzerinden
+indirim, yeni modellerini veya verdiği hizmeti tanıtmakta aynı zamanda bazı firmalar
+ürünlerini ve hizmetlerini satışa sunmaktadır.
+Bir diğer popüler sosyal medya platformu Twitter’a bakıldığında, Türkiye geneli
+toplam kullanıcı sayısının 11,8 milyona ulaştığı görülmekte ve bu kitlenin büyük bir
+bölümünü erkek kullanıcıların oluşturduğu dikkat çekmektedir. Ancak Twitter diğer
+sosyal medya araçlarından farklı olarak toplumsal reflekslerin dile getirildiği bir araç
+olarak sosyal medyadan daha fazlasını ifade etmektedir. Sosyal medyalar arasında
+çoğunluk olarak metinsel ifadelerle yapılan paylaşımlar hem takip etiğin kişiler
+tarafında hem de kişisel hesabındaki tweetler koruma halinde değilse profiline giren
+herkes tarafından görülmektedir.  Hastag  ‘#’ kültürünü sosyal medyada yayılımını
+sağlayan bu platform kullanıcılarının sesini duyurmasını sağlamaktadır. Hastag kısaca
+söylemek istediğin düşüncelerinin ana teması içinde # karakteri ile bitişik yazdığın ve
+bu yazımlar sonucunda en çok kullanılan kelime yada cümlelerin ‘trendtopik’ olduğu ve
+gündemi oluşturduğu alandır. Kullanıcılar Türkiye veya Dünya gündemine dair ilk 30
+
+--- Sayfa 25 ---
+15
+trendtopik’i görebilir , aynı zamanda yazılanları inceleyip üstüne güncel olarak yorum
+yapabilmektedir. Feedback çok yüksek olduğu bu platformda özellikle siyasal
+kimliklere veya yetkili kişilere mesaj atılabilir ve tweetlerinin altına yorum
+yapılabilmektedir.
+LinkedIn platformuna baktığımızda toplam 8,4 milyon kullanıcının olduğunu ve
+erkek bireylerin çoğunlukta olduğunu söyleyebiliriz. Bu platformun genel amacı kariyer
+odaklı olup genellikle firmaların yaptıkları sosyal sorumluluk projelerine veya kariyer
+zirvelerini paylaştığı ve en çokta iş gücünü paylaşıp kurumsal platformda çalışan
+eksiklerini tamamladığı medya kurumudur. Kullanıcıların güncel cvlerini bu mecrada
+bulundurmaları üzerine kurumların çalışanlara teklif yapabildiği veya iş arayanların
+kurumları cv bırakabildiği sosyal bir platformdur.
+Türkiye’de en çok kullanılan sosyal medya platformlarının sonunda yer alan
+Snapchat  baktığımızda toplam 7,7 milyon kullanıcının olduğunu ve kadın bireylerin
+çoğunlukta olduğunu söyleyebiliriz. Diğer mecraların aksine Snapchat, kadın
+kullanıcılar tarafından daha fazla kullanılan sosyal medya platformudur. İçeriği ise
+genel olarak fotoğraf ve video üzerine kuruludur. Dünyada çok daha fazla rehavet gören
+bu platformun asıl özelliklerinden biri kullanıcıların paylaştığı fotoğraf videoların 24
+saat içinde silinmesi yapılan paylaşım takipilerin tarafından 24 saat içinde ancak
+görülebiliyor. Aynı zaman da bir çok farklı filtreye sahip olan bu platformda insanlar
+kendi yüz hatlarını veya fotoğraf çekilen alını çekildiği an filtreleyip atabilmektedir.
+
+1.2. Nefret Söylemi ve Linç Kültürü
+İnsanoğlu tekten topluma dönüşme yolculuğunda kendinden olanlarla
+olmayanları ayırdı. Buda toplumsal hayata biz ve öteki kavramını soktu, bu iki kavram
+insan ilişkilerine bütünlük ve birliği getirirken aynı zamanda ayrımcılık ve
+ötekileştirmeyi de getirdi temeli aslen biz ve bizden olmayanlardı. Öteki kavramı
+ayrımcılık ve önyargılardan beslenirken beslendiği başka bir nokta insanların içinde
+yatan koruma ve korunma içgüdüsüdür. Toplum haline geldikten sonra bizden olanı
+korumak için bizden olmayanlara karşı  bu yabancılaşma ayrımcılığın başlangıcı oldu.
+Ayrımcılığın insan tarafından öne sürülen bir sürü sebebi nedeni olabilmektedir.
+Öne sürülen sebepler aslında bunların spekülatif bir yapıya sahip olup hiç biri gerçek bir
+dayanağı olmayan sebeplerdir. Bu sebepeler toplum içinde genel olarak etnik köken, din
+, dil , ırk, dünya görüşü, cinsiyet, cinsel yönelim gibi bir çok alt başlıkta ortaya çıkar. Bu
+
+--- Sayfa 26 ---
+16
+sebepler benlik veya biz yapısı gelişmiş bir toplumda benden olmayan yada bizden değil
+şeklinden terimselleştirilir. Bizden olamayana , ötekine yaşam hakkı bile tanımak
+istemeyen ve bunu sürekli olarak hayat pratikleri içerisinde söylemlerine koymuş
+insanlar ‘nefret söylemi’ kavramını ortaya çıkartır. Bu noktada temel olraka nefret
+söylemi ve nefret suçu farklılaşmaktadır.
+Nefret suçlarında, önyargı saiki olmasa dahi, işlenen fiil suç teşkil etmekte iken,
+nefret söyleminin suç olarak düzenlendiği hallerde, önyargı saikinden bağımsız olarak
+fiili cezalandırmak mümkün değildir. Herhangi bir söylemde bulunmak değil, nefret
+söyleminde bulunmak suçtur. Nefret söyleminden önyargı saikini çıkarırsak, ortada
+cezalandıracak bir fiil, yani failin saikinden bağımsız, temel bir suç kalmayacaktır
+(İnceoğlu, 2012:107)
+Irk, etnik kimlik, milliyet, din, dil, renk, cinsiyet, cinsel yönelim, yaş, fiziksel
+veya zihinsel engellilik ve bunun gibi mağdurun veya mağdurların sahip olduğu temel
+ve değiştirilemez nitelikteki belirli bazı özellikler sebebiyle işlenen suçlar, nefret suçu
+(hate crime) olarak ifade edilmektedir. Nefret suçunun oluşumu açısından iki unsurun
+mevcudiyeti aranmaktadır. Özellikle fail tarafından gerçekleştirilen fiil, kanunlarda suç
+olarak düzenlenen bir fiil olmalıdır. Bu suç; yaralama, öldürme, tehdit, mala zarar
+verme, cinsel saldırı, hakaret, hırsızlık, yağma gibi herhangi bir suç olabilir. İşlenen bir
+suçun, ‚nefret suçu‛ olarak kabul edilebilmesi için aranan diğer unsur ise, mağdurun
+veya mağdurun mensubu olduğu düşünülen grubun sahip olduğu bazı ayırt edici
+karakteristik özellikler sebebiyle, yani önyargı saiki ile suçun gerçekleştirilmiş
+olmasıdır (Hall, 2009:8’den aktaran İnceoğlu, 2012:103-104).
+Nefret söylemi söz konusu olduğunda iki insan hakkı arasında bir çatışma ortaya
+çıkmaktadır. Söz konusu çatışma ifade özgürlüğü ile nefret söylemine maruz kalan kişi
+veya grubun ayrımcılığa maruz kalmaması arasındadır ve bu noktada insan haklarıyla
+uyum içerisinde bir çözüm bulunması ve bu çatışmanın giderilmesi gerekmektedir. Bu
+çatışmanın giderilmesi çok kolay değildir ve bu konuda farklı ülkelerde farklı
+yaklaşımlar ortaya çıkmıştır (Karan, 2012: 82). Bu nedenle şunu net bir şekilde
+söyleyebiliriz ki, nefret söylemi kavramının sıklıkla kullanılmasına rağmen herkes
+tarafından kabul gören bir tanımı bulunmamaktadır. Nefret söylemine yönelik olarak
+birçok ülkede yasalarla kabul edilen bazı yasaklar ve kurallar olsa da, nelerin yasak
+olduğu konusunda tanımlamalar birbirinden farklılaşmaktadır (Weber, 2009b: 3). Hem
+bu kavram kargaşası hem de içeriğe yönelik olarak çok sarih ifadelerin olmaması, yeni
+
+--- Sayfa 27 ---
+17
+medya araçları üzerindeki denetimsizlik ile birleştiğinde, nefret söyleminin günümüz
+iletişim ve bilgi çağında üzerinde önemle durulması gereken bir konu olarak görülmesi
+gerektiğini söylememizi zorunlu hale getirmektedir.
+
+1.2.1. Etnik Bağlamda Nefret Söylemi ve Linç Kültürü
+Etnik bağlamda homojen bir toplum yapısı geçmişte olmadığı gibi günümüzde
+bulunmamaktadır. Homojen "istisna"lar arasında sayılan İskandinav ülkeleri kuzey
+bölgelerinde asırlardır yaşayan etnik Lapp azınlıktan başka, Asya, Afrika ve Doğu
+Avrupa'dan gelen göçmenleri de barındırmaktadırlar. Kısacası günümüzde etnik
+anlamda homojen bir toplum yoktur demek yanlış olmaz. Tüm devletler çok-etnikli bir
+toplumla karşı karşıyadır (Aktürk, 2006:36).
+Farklı etnik kökenlerin tek bir ulusta toplanması azınlık terimini ortaya
+çıkartıyor bu kavramda ayrımcılık teriminin yaygınlaşmasına sebebiyet vermektedir.
+Toplumlar içerisinde oluşturulan birliktelik ve beraberlik ideolojisi bakış açısı ile
+milliyetçilik kavramını orataya çıkartmaktadır.
+Bir ideoloji olarak milliyetçilik anlayışı, türleri bakımından birbirine alternatif
+olacak düzeyde öylesine derin farklılıklar arz etmektedir ki, çoğu zaman onu tek bir
+yaklaşımla açıklamak imkansız hale gelmektedir. Çünkü milliyetçilik rengini
+bağlamından alan bir değişkenliğe sahiptir. Bu sonsuz kere yönlendirilebilir, şekil
+verilmeye ziyadesiyle müsait inanç, hissiyat ve sembollerden mürekkep dokuyu
+anlamak, yalnızca her bir özgül durum içinde mümkündür (Smith, 1991).
+Etnik kökenlere dayanan  ve ırkçı nefret söylemleri,  kaynağını çoğunluk olarak
+geçmiş tarihin kötü olaylarıyla beslenen ve desteklenen, aşırı milliyetçi ideolojiden
+almaktadır. Bu bağlamda Türkiye’de en çok tartışılan etnik köken bağlamında konu
+Ermenilik ve Kürtlük, farklı sosyal medya platformlarda da yerini bulmuş; geleneksel
+medyanın topluma kattığı “biz” ve “ötekiler” algısı, sosyal medya içinde de yer
+bulmaktadır. Bu defa kullanıcıların onay ve yorumları ile yeniden üretilmiştir.
+Facebook’ta açılan Ermeni karşıtı gruplar ve bu gruplarda twitter da bu bağlamda atılan
+tweetlerde paylaşılan içerik ve yorumlar bu durumu özetler niteliktedir. Nitekim Sercan
+Gidişoğlu ve Kerem Rızvanoğlu’nun “İnternette Türk Milliyetçiliği: Türk Milliyetçisi
+Siteler ve Ağ Yapısı Üzerine Bir Analiz” başlıklı çalışmalarına göre; “Türk
+milliyetçileri interneti özellikle ideolojilerini yaymak, milli kimlik ve milliyetçi cemaat
+
+--- Sayfa 28 ---
+18
+yapısını güçlendirmek ve kendini ‘davaya’ adamış bir sanal cemaat yaratmak için
+kullanmaktadır.” (Gidişoğlu ve Rızvanoğlu, 2011:239)
+
+1.2.2. Teolojik Bağlamda Nefret Söylemi ve Linç Kültürü
+Teolojik bağlamda nefret söylemi, çoğunlukla bir din veya inanış mensubu olan
+veya olmayan kişiler altında şekillenen dini görüşlere veya söz konusu görüşleri
+paylaşan bu görüşü savunan veya sempati duyan insanlara yada topluma yönelik nefret
+söylemini ifade etmektedir. Bazen bir dinin tamamını, bazen yalnızca bir veya birkaç
+din grubunu bazen ise direk şahısları hedef alan ve bu hedefleri doğrultusunda nefret
+söylemi linç etme eylemine geçen şahıs veya gruplardır.
+Radikal İslam terör örgütlerinin gerçekleştirmiş olduğu eylemlerden dolayı
+dünya genelinde İslam’a karşı bir önyargı ve korku duymasına sebep olmuştur, bu da
+‘islamafobi’ kavramanın ortaya çımasına sebebiyet vermiştir. Bu terim dünya çapında
+dinler arasında yaşanılan ve sürdürülen nefret söylemine örneklerinden biridir.
+Türkiye’de ise insanların kimliklerini dindar, laik, gerici ve benzer söylemlerle
+ayrımcılık yapılıp ötekileştirmeye itilmektedir. Bunun getirisi olarak insanlar benden
+olmayana nefret söyleminde bulunmaktadır. Türban takana gerici, türban takmayana
+dinsiz denilmiş ve siyasetle örtüştürülmüştür.
+
+1.2.3. Siyasal Bağlamda Nefret Söylemi ve Linç Kültürü
+Siyasal nefret söylemi, genellikle siyasi isimleri altında şekillenen siyasi
+görüşlere ve söz konusu görüşleri paylaşan, bu görüşlere yakınlık duyan kişilere yönelik
+nefret söylemine işaret etmektedir. Siyasal nefret söylemi; “Siyasal bir görüşü ve bu
+görüşün takiplerini hedef alan nefret söylemidir. Bazen bir ideolojinin tamamını, bazen
+yalnızca bir veya birkaç siyasi partiyi, bazen ise çok daha küçük grupları hedef
+alabilmektedir.” (Binark ve Bayraktutan, 2013:85).
+Nefret söyleminin temelinde önyargı, hoşgörüsüzlük, taraf tutma, ayrımcılık,
+yabancı korkusu ya da düşmanlığı, cinsiyetçilik, homofobi vb. yatar. Nefret söylemine
+neden olarak sayılan bu durumların varlığı adaletsizliklere, başkalarının haklarının gasp
+edilmesine, barışı yaralamaya yol açabilme potansiyeline de sahiptir. Nefret söyleminin
+çeşitli boyutlarından biri olan politik boyutu, “demokratik mücadele ile mağlup edilen
+tüm gerici fikir ve teorileri yeniden canlandırma amacı güden ve demokratik
+mücadelenin kazanımlarını yıkmayı amaçlayan bir söylem”dir. Dolayısıyla, nefret
+
+--- Sayfa 29 ---
+19
+söyleminin yozlaştırıcı ve demokratik düzeni yaralayıcı olduğunu söylemek yanlış
+olmayacaktır (Sosyal Değişim Derneği, 2010: 10).
+İleri düşünce yapısı için ‘ötekiler’ in varlığına ihtiyaç duyulur ve diğerlerinin de
+bakış açıları göz önünde bulundurulur. Ancak, nefret söylemi ile ‘ötekilik’ zarar
+görmekte ve başkalarının düşünceleri ve değerlendirmeleri hesaba katılmamaktadır.
+Dolayısıyla düşünce farklılığı zarar görmekte ve ileri düşünceden nefret söylemi
+nedeniyle mahrum kalınmaktadır (Kınık, 2013: 46).
+
+1.2.4. Cinsiyetçi Bağlamda Nefret Söylemi ve Linç Kültürü
+“Cinsiyet”, toplumsal olarak niteliği olan belirleyici bir öğe ve bireysel kimliğin
+kaynağı olarak yorumlanmaktadır (Mengü, Büyükbaykal ve Mavnacıoğlu, 2010:185).
+“Cinsel kimlik” ise kişinin sahip olduğu tüm farklı kimlikler içinde en çok içselleştirilen
+öğedir, çünkü biriyle karşılaştığımızda ilk gördüğümüz şey karşımızdakinin kadınlığı ya
+da erkekliğidir.
+Butler’a göre cinsiyet, bedenlerin benzetilmeye çalışıldığı hayali birer kurgu,
+“toplumsal cinsiyet”se, yaradılışını sürekli ve düzenli olarak gizleyen bir inşa; kültürel
+bir kurgu olarak üretme ve sürdürme yönünde kolektif sözleşme olarak açıklanmaktadır
+(Butler, 2008, s.229).
+Cinsel rol kimliği toplumun bize kazandırdığı normlardan oluşan bir kimliktir.
+Bu bağlamda toplumun en küçük birimi ailenin payı yüksektir. Erkek veya kız çocukları
+çok küçük yaşlarda gelecekte onlardan beklenen bu rol kalıplarına bağlı olan normlarla
+büyürler ve normlara karşı gelenler ise erken yaşlarda nefret söylemi ile dışlanmaya
+başlanır ve bu nefret söylemi büyük bir çoğunluğa ulaşırsa linç hatta dışlanma ile
+sonuçlanır. Başka bir ifadeyle ile toplumsal cinsiyet rolleri kültürel öğretiler ile bize
+kazandırılır ve bu öğretilerin dışına çıkılırsa yine aynı toplum tarafından nefret
+söylemine maruz bırakılır.
+
+1.3. Sosyal Medyada Nefret Söylemi ve Linç Kültürü
+Toplumun algısına şekil vermek yeni medya için artık çok kolay bir hale
+gelmiştir. Dördüncü kuvvet olarak anılan medya artık hayatımızın her hangi bir yerinde
+değil her yerindedir. İnsansalar kapitalist sisteme uyku hariç günlerinin yarısını
+çalışarak verirken kendi rızaları ile günlerinin geri kalanında sosyal medyaya içerik
+üretmek için çabalarlar. Sosyal medya bu kuvvetini ile ister toplumsal bağları
+
+--- Sayfa 30 ---
+20
+güçlendirmek için kullanır isterse toplumu nefret söylemi ve linç kültürüne
+yönlendirebilir.
+Sosyal medya günümüzde üretimleri ile ayrımcılık ve ötekileştirmeyi
+meşrulaştırarak
+nefret
+söylemine
+de
+katkı
+sağlamaktadır.
+Sosyal
+medyanın
+sorumsuzluğu toplumdaki din, siyasal, hatta cinsiyete dayalı farklılıklar arz eden
+grupların, hâkim görüş tarafından bastırılmasına sebep açmaktadır. Sosyal medya
+kullanıcılarına demokratik ortamlar sunmaktadır. Fakat bu ortamlar kullanıcı ile fail
+arasında mesafeyi kaldırmakta ve nefret söylemine ortam hazırlamaktadır.
+Düşünce özgürlüğünün en rasyonel olduğu bu platformda geleneksel medyanın
+aksine editöryel denetim olmaksızın kişinin bireysel etik anlayışının eline bırakılmıştır.
+Nefret söyleminin yaygınlaşarak üretildiği bir saha haline gelen sosyal medya en çok
+siyaset, din, ırkçılık ve cinsiyet üzerine yoğunlaşmaktadır. Bu bağlamda sosyal medya
+nefret söyleminin üreticisi değil dağıtıcısıdır, nefret söyleminin kaynağı toplumun
+kendisidir.
+Nefret söylemini sosyal medyanın bu kadar içermesinin bir sebebi henüz daha
+geleneksel medya gibi etik kodlara sahip olmamasıdır.
+Sosyal medya platformunda meydana getirilen ve paylaşılan nefret söylemi ve
+linç kültürü ile alakalı belki de en kritik mevzu, aşırı ve uç görüşlere sahip olmayan
+olağan kişiler tarafından da farkında olmadan içselleştirilebilmesidir. Şahıs, toplumsal
+yaşamın neredeyse bütün düzeyinde olduğu gibi burada da bir gruba aidiyetini
+gösterebilmek için diğerini ötekileştirmekle yükümlü hissettirilir. Bir müddet sonra
+nefret söylemi içeren paylaşımlar kullanıcının gözünde tabii ve kabul edilebilir bir
+görünüm kazanır.
+Sosyal medyada nefret söylemi ve linç kültürü hususunda üzerinde durulması
+gereken bir diğer nokta, sosyal medyanın nispi bağımsız ve olağan dışı duruşunun,
+basılı yayıncılıkla sınırlı kalmayan geleneksel medya aktörleri tarafından sekteye
+uğratılmasıdır. Günümüzde ana akım medyayı vekil eden birçok geleneksel medya
+kuruluşu, aynı zamanda yeni medya yapısında da faaliyet göstermektedir. Filhakika
+geleneksel medyanın yeni medyaya yansıması, ana akım medyanın haber sitelerinde
+yayımlanan haber ve paylaşımların sosyal paylaşım sitelerinde paylaşılmasıyla
+gerçekleşmektedir. Söz konusu paylaşımlar da bir kez dolaşıma girdikten sonra farklı
+platformlarda da paylaşılmakta ve kullanıcı yorumlarıyla zenginleşebilmektedir.
+
+--- Sayfa 31 ---
+21
+1.3.1. Türkiye’de Nefret Söylemi ve Linç Kültürü
+ Türkiyede yaşanan mefret sölemi linç kültürüne en önemli örneklerden biri
+Hrant Dink hadisesidir. Hrant Dink’in öldürülmesinin ardından oluşturulan bazı sosyal
+medya içerikleri hem Ermenileri hem de Hristiyanları birlikte ötekileştirmiştir.
+Böylelikle Türklük ve Müslümanlık birlikte olumlanmış, toplumun normları tekrar
+üretilmiştir.
+ Türkiye’de sosyal medya mecralarındaki nefret söylemi incelendiğinde bundan
+en çok zarar görenin Kürtler ve LGBT’ler olduğu görülmektedir. Her ne kadar yapılan
+şikâyetler üzerine Twitter ve Facebook mesajları kaldırıldığı için doğrudan alıntılamak
+her zaman mümkün olmasa da terör örgütü PKK’nın saldırıları sonrasında geleneksel
+medya metinleriyle hassaslaşan sosyal medya kullanıcılarının bir kısmının tüm Kürtleri
+öteleyici
+ve
+aşağılayıcı
+mesajlar
+yazarak
+nefret
+söylemini
+güçlendirdikleri
+bilinmektedir. Bununla birlikte kimi zaman terör örgütü sempatizanı bazı kişiler de
+sosyal medyada örgütlenmekte ve karşıtlarını ötekileştiren mesajlar üreterek, kendi
+nefret söylemlerini kurmaktadırlar.
+LGBT ise homofobik nefret söyleminin hedefinde bulunmaktadır. Örneğin
+Twitter’da açılan #ruzgarerkoclar etiketi sanatçının cinsiyet değiştirmesi nedeniyle tüm
+LGBT üyelerine dönük bir nefret söylemi kampanyasının merkezi olmuştur. Bunun gibi
+2015 yılında Genç İslami Müdafaa adlı bir grup Twitter hesapları üzerinden, LGBT
+onur yürüyüşüne istinaden “Genç İslami Müdafaa olarak LGBT kuruluşunun yapmış
+olduğu ahlaksızlığa sessiz kalmadık” mesajı yayımlamış, mesaja ek olarak şehrin çeşitli
+yerlerine astıkları ve üzerinde “Lut kavminin çirkin işini yapanı görürseniz faili de
+mef’ulü de öldürünüz.” hadisinin yazılı –olduğu afişlerin fotoğraflarını eklemişlerdir.
+Benzer görüşteki kullanıcılar tarafından çeşitli hakaretlerle retweetlenen bu ileti, nefret
+söyleminin nefret suçuna dönüşme eşiğinde bulunan önemli bir örnektir.
+
+1.3.3.1. Sosyal Medyada Nefret Söylemi ve Linç Kültürünün Tarihsel
+Gelişimi, Hukuksal Dayanakları ve Cezai Müeyyidesi
+Nefret suçu ve nefret suçları ifadeleri medyada ilk olarak yer verilişi Amerika
+Birleşik Devletleri’nde gerçekleşmiştir. Nefret söylemi suçu ifadesi 1986 yılında New
+York’ta beyaz ırka mensup öğrenci topluluğunun siyah ırka mensup bir öğrenciye
+yönelik saldırılarından ardından kapsamlı bir şekilde kullanılmaya başlanmıştır.
+Günümüz toplumunda sık olarak kullanılan bu tabirin içeriği ise 1990’ların başından
+
+--- Sayfa 32 ---
+22
+başlayarak değişmiş, yalnızca ırk, cinsiyet, siyaset, din ve inanca yönelik saldırılara
+değil cinsel yönelim ve engellilik durumu rollerini de içerir hale gelmiştir (Alğan ve
+Şensever 2010:9).
+Nefret suçları niteliği gerekçesi ile aslen işlenen suçun zorluğunu bir kişiye karşı
+değil genelde bir topluma veya topluluğa karşı yaşatır. Bu durum bireyden ayrıca
+topluma karşı bedel ödetir. Dolayısıyla suçun cezalandırılması toplumdaki azınlık diye
+nitelendirilen topluluğun ötekileştirilmemesine kendi içlerinde bir kaosa girmemesine
+ve toplumların hafızasında oluşan travmaların önüne geçmesine sebebiyet verir.
+Birçok devlet toplumdaki demokratik düzenin bir şartı olarak toplumdaki
+düzenin sağlanabilmesi ve bu düzenin sürdürülebilir olabilmesi için yasalarında nefret
+suçlarıyla ilgili düzenlemeler getirmektedirler. Nefret suçu terimi ilk olarak yalnızca
+Amerika Birleşik Devletleri’nde kullanımmış aynı zamanda nefret suçlarına karşı ilk
+yasal düzenleme de Amerika Birleşik Devletleri’nde yapılmıştır. Kaliforniya eyaletinde
+1978 yılında yasal mevzuata önyargı ve nefret amacıyla işlenen ve sonucunda ölüm
+meydana gelen suçlara bir takım ağırlaştırıcı hükümler eklenmiştir. Bununla birlikte
+gerçek anlamda ilk nefret suçları yasası Amerika Birleşik Devletleri’nde kabul edilen
+Nefret Suçları İstatistik Yasası’dır. Bu yasayı 1994 yılında çıkarılan Nefret Suçlarında
+Ağırlaştırıcı Hükümler Yasası takip etmiş ve 2007 yılında Senato Nefret Suçlarını
+Önlemede Yerel Yasaların Güçlendirilmesi Yasası’nı kabul etmiştir (Alğan ve Şensever
+2010:12-13).  Amerika Birleşik Devletleri böylelikle ‘nefret suçları’ terimini hukuk
+diline bir kanun metninde yer veren ilk devlet olmuştur.
+Türkiye Cumhuriyeti Anayasası’nda ve Türk Ceza Kanunu’nda tüm
+vatandaşların dini ve cinsiyeti gibi farklar gözetilmeksizin özdeş olduğuna dair
+hükümler ile çeşitli saiklerle (belirli içerikte bir sözleşme yapmaya sevk eden düşünce
+ve tasavvurlar) işlenmiş olan suçlara dair bir takım maddeler bulunmaktadır. Türk Ceza
+Kanunu’nun nefret suçlarıyla ilgili bağlantı kurulabilecek maddeleri bulunmaktadır. Bu
+maddelerden biri Türk Ceza Kanunu’nun ‘İnsanlığa karşı suçlar’ başlıklı 77.
+maddesinde kasten öldürme, kasten yaralama, işkence, eziyet veya köleleştirme gibi bir
+takım fiillerin ‘siyasal, felsefi, ırki veya dini saiklerle toplumun bir kesimine karşı bir
+plan doğrultusunda sistemli olarak işlenmesi, insanlığa karşı suç oluşturur.’
+bulunmaktadır. Bu maddede geçen ‘siyasal, ırki veya dini saik’ nefret suçlarının paydaş
+özelliği olan ‘nefret saiki olarak geçer. Kanun 2. fıkrada birinci fıkranın a bendindeki
+fiilin yani ‘kasten öldürme’ fiilinin işlenmiş olması halinde fail hakkında ağırlaştırılmış
+
+--- Sayfa 33 ---
+23
+müebbet hapis cezası uygulanacağını belirtmekte, dolayısıyla bu ağırlaştırıcı bir sebep
+saymaktadır
+ Türk Ceza Kanunu’nun ‘Ayrımcılık’ başlığını taşıyan 122. maddesi ‘kişilerin
+arasında dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri
+sebeplerle ayrım yaparak; bir taşınır veya taşınmaz malın satılmasını, devrini veya bir
+hizmetin icrasını veya hizmetten yararlanılmasını engelleyen veya kişinin işe alınmasını
+veya alınmamasını yukarıda sayılan hallerden birine bağlayan, besin maddelerini
+vermeyen veya kamuya arz edilmiş bir hizmeti yapmayı reddeden, kişinin olağan bir
+ekonomik etkinlikte bulunmasını engelleyenlere ‘altı aydan bir yıla kadar hapis’ cezası
+verilmesini öngörmüştür. Bu madde de ise kusurun dil, ırk, renk, cinsiyet, siyasi
+düşünce ve din gibi bir takım farklılıklara dayanan bir saikle işlenmiş olması bağlamına
+önem verdiği için nefret suçlarıyla bağlantılıdır.
+ Türk Ceza Kanunu’nun ‘Şerefe Karşı Suçlar’ başlıklı sekizinci bölümünün ilk
+maddesi olan ve ‘hakaret’ başlığını taşıyan 125. maddenin 3. fıkrasının b bendi bu fiilin
+‘dini, siyasi, sosyal, felsefi inanç, düşünce ve kanaatlerini açıklamasından,
+değiştirmesinden, yaymaya çalışmasından, mensup olduğu dinin emir ve yasaklarına
+uygun davranmasından dolayı’ gerçekleşmesi halinde verilecek cezanın alt sınırının bir
+yıldan az olamayacağını ifade etmektedir. Dolayısıyla bu madde hakaret suçunun
+toplumda bir yönüyle çoğunluktan farklı olan ötekileştirilmiş grubun bu farklılıkları
+yüzünden gerçekleşmesi durumunda, yani azınlığı değerleri bu suçu işleyenlere
+isteklendirme kaynağı olması halinde bu durumun ağırlaştırıcı bir etken olacağını
+belirtmektedir.
+Türk Ceza Kanunu’nun da yer alan bu konu hakkındaki bir diğer maddesin de
+ise  ‘Halkı kin ve düşmanlığa tahrik veya aşağılama’ başlığını taşıyan 213. maddedir.
+Bu madde  de ‘halkın sosyal sınıf, ırk, din, mezhep veya bölge bakımından farklı
+özelliklere sahip bir kesimini, diğer bir kesimi aleyhine kin ve düşmanlığa alenen tahrik
+eden kimse, bu nedenle kamu güvenliği açısından açık ve yakın bir tehlikenin ortaya
+çıkması halinde, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.’ ifadeleriyle
+türlü saiklerle işlenmiş nefret suçlarına dikkat çekilmiştir.
+
+--- Sayfa 34 ---
+İKİNCİ BÖLÜM
+
+2. ÜTOPYA-DİSTOPYA BAĞLAMINDA NEFRET SÖYLEMİ VE LİNÇ
+KÜLTÜRÜ
+2.1. Ütopya ve Distopya
+2.1.1. Ütopya ve Distopya Kavramlarının Dayanakları
+Thomas More’un tanımına göre; Utopia, gerçeğin adeta bala bandırılmış gibi
+insanların zihinlerine daha sevimlice girebileceği bir kurgudur. Thomas More'un
+romana benzeyen yapıtı Ütopya ‘da oraya koyduğu üzere l55l'de yayımlanan ilk
+İngilizce versiyonunda; eşitlik, sosyal uyum, ekonomik refah ve politik istikrar
+kavramlarına dayanan ideal bir toplum önerir.
+Ütopya kavramı anlamsal olarak incelendiğinde hem hiçbir yer hem de iyi bir
+yer olarak tasvir edilişi görülmektedir (Kumar, 2006:9). Ütopya sözcüğü tüm dünya
+dillerine İngiliz yazar, hukukçu ve devlet insanı Thomas More’un ütopya adlı
+kitabından geçmiştir. Yunanca ou (değil) ve topos (yer) kelimelerinden, ‘hiçbir yerde
+olmayan’ mealinde türetilmiştir (Avcı, 2006:15). Ancak manasına tanımlanışına
+bakıldığında ayrı yaklaşımlardan söz edilebilir. Bu bağlamda, Türk Dil Kurumu (TDK)
+ütopyayı “gerçekleştirilmesi imkânsız tasarı veya düşünce” olarak tanımlar (tdk.gov.tr).
+Felsefe Sözlüğünde ise ideal ya da yetkin toplum; ideal bir toplum düzeni ya da
+yönetim biçimi ortaya koyan tasarı olarak ifade edilir (Cevizci, 1999:880). Bir başka
+deyişle “salt düşüncede de olsa içinde yaşayanlara eşitlikçi, doğru, haktanır, yetkin bir
+düzen içerisinde kötülüklerden arındırılmış mutlu bir yaşam sürmeyi vaat eden kurgusal
+ve ülküsel kusursuz toplum tasarısı: düş ülke ya da düş ülkü olarak da açıklanabilir.”
+(Güçlü 2003:1507).
+Sosyolojik manada ise “kusursuz bir toplumu ya da ideal bir devleti ifade eden
+hayali bir kurgudur” (Tandaçgüneş, 2013:19). Bu bağlamda, her sosyal öğreti, mevcut
+şartlardaki rahatsızlığın ve huzursuzluğun kaynağı olan düzeni değiştirmek ve bu kurulu
+düzene yeniden biçim vermek isteyeceğine göre, toplumun ileride alacağı ideal durumu
+dile getirir. Bu bakımdan her sosyal öğretiye bir çeşit ‘ütopya’ denilebileceği de
+savunulmaktadır (Avcı, 2006:16). Kumar’ın da vurguladığı gibi ütopyanın iyi bir
+yaşama bakış açısı içinde yer bulduğu bugünün gerçekliğinden etkilenmektedir. Başka
+bir deyişle, ütopyacıların kâhinlik yetenekleri yoktur; görüşleri içinde yaşadıkları
+toplum biçimi tarafından sınırlanır (Kumar, 2006:79).
+
+--- Sayfa 35 ---
+25
+Var olmayan bu ütopya ülkesini betimlemek gerekirse  paranın geçerli olmadığı,
+paylaşılan kaynaklarda nöbetleşe çalışan vatandaşların üretiminin ortak depolarda
+biriktirilerek ihtiyaç sahiplerine ihtiyaçları kadar dağıtıldığı, yokluk yaşanmayan mutlu
+ve müreffeh bir ülkedir. Devletin kasasındaki para ve varlığın tepe sınırı vardır, bu sınır
+aşıldığında para ve varlık herkese eşit dağıtılır. Kişisel mülkiyet yoktur. Hiçbir
+vatandaşın mülkiyeti olmadığı halde herkes variyetlidir. Halk belli dönemlerde kurayla
+oturdukları evleri değiştirirler, bu sayede her ev bakımlı olur.
+Burada evlilik kutsaldır, evlilik öncesi birliktelik ve zina yasaklanmıştır.
+Yaşlılara itibar ve hatır gösterilir, toplum en üstten en alta kadar aile boyutuyla
+örgütlüdür. Akşamları belirli noktalarda mahalle eşrafı yaşlı-genç karışık oturarak
+birlikte yemek yer. Vatandaşlar mütevazı, gösterişsiz ve özdeş tip elbiseler giyer.
+Edebiyat ve felsefeye düşkündürler. Her insanın canı kıymetlidir, mecbur kalmadıkça
+savaşmazlar, mecbur kalmadıkça kendi vatandaşlarını ölüme sürmezler. Çok az sayıda
+yasa mevcuttur, vatandaşlar bunları bilir, avukata ihtiyaç yoktur. Farklı inanışlar bir
+arada laik intizamda yaşamaktadır.
+Vatandaşlar ziraatçılık işlerini bilir. Ek olarak terzilik, dokumacılık gibi yan
+işlerin öğrenilmesi de özendirilir. Kadın-erkek, genç-yaşlı herkes çalışır, dolayısıyla
+aşırı
+üretmeye
+gerek
+yoktur.
+Seyahate
+çıkanların
+gittikleri
+yerlerde,
+memleketlerindekine benzer bir iş yapmaları beklenir. Taraf tutma ve açgözlülük
+yargıya yerleşirse toplumu bir arada tutan en güçlü bağ olan adaleti söker atar.
+Distopya, Yunanca 'dus' = 'zor' ve 'topos' = 'yer' sözcüklerinden türetilen bir
+terimdir. Ütopya'nın olumsuzluk anlamı veren 'u' öneki ile 'topos' sözcüğünden
+üretilerek 'olmayan-yer'i işaret etmesi gibi 'distopya' terimi de 'zor /zorlu-yer'i anlatır
+(Akkoyun, 2016:29). Distopya kavramı on dokuzuncu yüzyıldan beri kullanılmaktadır.
+ilk kez John Stuart Mill tarafından 1868 yılında dile getirilmiştir. Edebi bir tür olarak ilk
+örnek, H. G. Wells'in (1899) Efendi Uyamyor'udur. Wells'in Modern Bir Ütopya'sı
+(1905) ideal toplumları geleceğin, dolayısıyla da umudun ve kuramsal olarak
+gerçekleştirilebilir olanın içine aktarılan öncel emesidir (a.g.e). Distopik romanlar
+bilinmeyen yerlerde var olan kötüyü, karanlık dünyaları ele alırlar. Temelde distopya
+yazarları yakın gelecekte gözlemledikleri kötü karanlık dünyaya okuyucularına
+anlatırlar. En ünlü distopik romanlar arasında George Orwell’ın 1984 ve Hayvan Çifliği,
+Ray Bradbury’ın Fahrenheit 415’i,  Aldous Huxley’in Cesur Yeni Dünyası, Anthony
+Burgess’ın Otomatik Portokalı adlı eserleridir.
+
+--- Sayfa 36 ---
+26
+2.1.1.1. Postmodern Anlayış ve Dijital Çağın Ütopyası ve Distopyası
+Postmodernizm; gerek akademik gerek genel konjonktürde üzerinde mutabakata
+varılamayan bir kavram olarak dikkat çekmektedir. Söz konusu kavrama yönelik
+eleştirilerin başında ise bu flu yapısı gelmektedir. Nitekim belirli bir çerçeveye
+oturtulamaması, modernizm gibi kuram ve tanımlarla açıklanamaması, postmodernizm
+kavramını her yeni bakış açısına ve eleştirilere açık hale getirmektedir. Featherstone
+(1996: 21) ifade ettiği gibi postmodernlerin sayısı kadar postmodern tanımı vardır. Bu
+bağlamda postmodernizmi; modernizmin devamı olarak değerlendiren ve hatta kapitalin
+tıkanan işleyişini ve düğümlerini çözmek adına ileri sürülmüş bir anlayış olarak
+değerlendiren düşünürlerin yanı sıra, dünyayı modernizmin, ussun egemen ve tekel
+hegemonyasından kurtarmış ve farklı perspektifler getirmiş olduğunu dile getiren
+düşünürlerde bulunmaktadır. Örneğin modernizm alanında yaptığı pek çok çalışmayla
+tanınan İngiliz akademisyen yazar Terry Eagleton, postmodernizme mesafeli
+yaklaşımıyla bilinmektedir. Eagleton, rasyonalizm temelli üst anlatıların postmodernizm
+ile bertaraf edilebileceğinden söz etmektedir. Modernizmin aklı öne sürerek çektiği
+perdenin öteyi gölgelediğini egemen güç silahına postmodernizmin adeta bir panzehir
+etkisi yaratabileceğini ve bu hilelerle oynadıkları düzeni bozarak, ussun kirlerinden
+temizleyerek, evrensel tek tipe dönüştürülen bireyin tekrar yerelliğini koklayarak
+arınabileceği fikriyle hareket etmektedir. Ona göre “postmodemizm, bu tür üst-
+anlatıların ölümünün habercisidir. Bu üstanlatıların gizli terörist işlevi, evrensel bir
+insan tarihi yanılsamasını temellendirek ve meşrulaştırmaktı postmodemizme göre.
+Şimdi artık, manipülasyona dönük aklı ve bütünsellik fetişi ile bu modernlik
+karabasanından uyanma sürecindeyizdir. İçine uyandığımız yeni ortam, bütünleme ve
+kendini meşrulaştırma yolundaki nostaljik dürtüden kurtulmuş postmodern dünyanın,
+hayat tarzlarının ve dil oyunlarının o heterojen yelpazesinin, ferah çoğulculuğudur.
+Bilim ve felsefe, o şaşalı metafizik iddialarını fırlatıp atmalı ve kendilerini daha alçak
+gönüllü bir tarzda, başka anlatılardan farkı olmayan bir dizi anlatı olarak görmeyi
+öğrenmelidirler (Eagleton, 1987).
+Bir başka örnek ise yapıbozum ve yapısöküm kuramlarının en önemli ismi olan
+Derrida’nın postmodenirzmin modernizm ile birlikte kurulan, işleyen kurumlar ve
+kavramları yapı bozumuna uğrattığına yönelik getirdiği yorum postmodernizmin,
+modernizmin bir türevi olarak şekillendiğini ancak temel yapıları yeniden inşa ettiğine
+yöneliktir. Bu yeniden inşa sürecinin anlamlar ve bakış açılarında uğratacağı değişimler
+
+--- Sayfa 37 ---
+27
+önem arz etmektedir.   Postmodernizm, modernizmin kurumlarını, siyasal hareketlerini,
+yasalarını, geliştirdiği ahlakı ve düşünceleri meşrulaştıran büyük hikayelerin bittiği,
+bilgi kuramının yeniden ele alındığı, ilerleme ve kalkınma kavramının içeriğini yitirdiği,
+sürüleşmiş, standartlara bağlanmış bir bireyden, davranışları ve tercihleri farklı olan
+kişiliklerin ve kimliklerin geliştiği kaos dönemi olarak tanımlanmaktadır (Jameson,
+1994). Daha önce de zikredildiği üzere Jameson’un tanımladığı yapısökümcülük
+yaklaşımının en önemli ismi Derrida tarafından da ‘postmodernistlerin asıl amacı
+modernizmle birlikte kurulan, işleyen kurumlar ve kavramları yapı bozumuna
+uğratmaktır’ (Derrida, 2006) şeklinde yorumlanmaktadır.
+Huyssens ise bir dönüşümünün gerçekleştiğini ancak bunu net çizgiler ile ifade
+etmenin zor olduğunu dile getirmektedir. Nitekim konjonktürel hareketlilik bu savı
+doğrular niteliktedir.
+“Postmodern terimi, hiç olmazsa şimdilik, bu değişimi ifade etmek için
+bütünüyle yeterlidir. Söz konusu dönüşümün doğası ve derecesi tartışılabilir, ama
+dönüşümün kendisinin varlığı tartışmasızdır. Yanlış anlaşılmasın, kültürel, toplumsal ve
+ekonomik düzenlerde toptan bir paradigma değişimi yaşandığını iddia etmiyorum; buna
+benzer herhangi bir iddia, açıktır ki, şişirilmiş olacaktır. Ama kültürümüzün önemli bir
+kesiminde, duyarlılıkla, pratikte ve söylem oluşumunda gözle görülebilir bir değişim
+yaşanıyor. Bu değişim, bir dizi postmodern varsayımı, deneyimi ve önermeyi daha
+önceki dönemden ayırır” (Huyssens, 1984:36).
+Söz konusu yaklaşımların pek çoğunda kapitalizm ve modernizmin getirdiği
+aklın arkasına saklanan tek tip insan modelinin postmodernizm ile birlikte bireye
+döndüğü ifade edilmektedir. Söz konusu bu bireycilik tutumu dijital dönem ile birlikte
+daha da belirgin hale gelerek, modernizmin yarattığı evrensel insan modelinin minimal
+bir sunumu noktasına gelmiştir. “Günümüzün baş döndürücü hızının yarattığı decadence
+durum, dikkati ve dolayısıyla hakikati dumura uğratmıştır. İnsanlar fedakârlık
+kültüründen uzaklaşmış daha çok kendileriyle ilgilenir olmuşlardır. Bu bağlamda sosyal
+ağlar sürekli benliğin yüceltilmesine vurgu yaparak insanları kendi benlik kabuğunu
+daha kıramaz hale getirmişlerdir” (Karabulut, 2020:2955). Postmodernizmin
+modernizmden ayrıldığı bu temel farklılık McHale’un da (1987) ifade ettiği gibi
+epistemoloji alanından ontolojiye dönüşümü simgelemektedir. Kastedilen değişim,
+“modernistin, karmaşık ama yine de tekil bir gerçekliğin anlamını daha iyi kavramasına
+izin veren perspektivizmine karşıt olarak, radikal biçimde farklı gerçeklikleri nasıl bir
+
+--- Sayfa 38 ---
+28
+arada varolabileceğine, birbirine değebileceğine ve iç içe geçebileceğine ilişkin
+soruların ön plana çıkışı yönündeki değişimdir” (Harvey, 2010:56).
+ Postmodernizm için en azından şu şekilde fikir birliğinden söz edilebilir; tanıdık
+postmodernist mahsul, bir anlamda kendiyle dalga geçme eğiliminde ve hatta şizoiddir.
+Aynı zamanda, yüksek modernizmin gösterişsiz hali, ticareti ve metalaşmış halini
+kabullenerek tepki göstermektedir. Geleneksele karşı tutumu saygısız bir pastiş
+görünümündedir; bilinçli bir derinlik yokluğu, her tür metafizik ağırlığın anlamıyla
+oynar. "Genellikle pozitivist, teknoloji merkezli ve rasyonalist eğilimli olarak algılanan
+evrensel modernizm, doğrusal gelişmeye ve mutlak doğrulara inançla, toplumsal
+düzenin rasyonel biçimde planlanmasıyla ve bilgi ve üretimin standartlaştırılmasıyla
+özdeşleştirilir." Buna karşıt olarak, postmodernizm, "kültürel söylemin yeniden
+tanımlanmasında, heterojenliği ve farklılığı özgürleştirici güçler olarak" öne çıkarır.
+Parçalanma, belirlenemezlik ve bütün evrensel (ya da sevilen deyimle) "bütün¬cül"
+söylemlere karşı derin bir güvensizlik, postmodernist düşüncenin temel özellikleridir
+(Harvey, 2010:21). Modernizmden türeyen ve açımlanması anlamında modernizmin
+temel girdilerinden ne tür farklılıklar içerdiği Ihab Hassan’dan aktarılarn tabloyla
+somutlaşmaktadır.
+Postmodern bir dünyadan ve onun getirdiği değişimlerden söz edebilmek için
+İkinci Dünya Savaşı sonrasına bakmak gerekmektedir. Postmodernizm ilk olarak II.
+Dünya Savaşı’ndan sonra, edebiyat, mimari ve plastik sanatlarda ortaya çıkmış bir
+kavramdır. 1980’ler, postmodernizm ile ilgili yayınların, araştırmaların en yoğun olduğu
+dönemdir (Odabaşı, 2006: 165).  Nitekim aydınlanma, fordizm ve kapital üçgende
+yoğurulan modernizmin çöküşünün bu müsellesin sorgulanmasıyla beraber ortaya
+çıktığını söylemek yanlış olmayacaktır. “Örneğin mimarlık alanında, Charles Jencks
+modernizmin sonunun ve postmoderniteye geçişin sembolik tarihini, Le Corbusier'nin
+modern yaşam makinesinin ödül kazanmış bir versiyonu olan, St. Louis'deki Pruitt-Igoe
+toplu konut bloklarının, içinde yaşayan düşük gelirli insanlar için oturulamaz bir çevre
+olduğu gerekçesiyle dinamitle havaya uçurulduğu 15 Temmuz 1972 günü saat 15:32
+olarak verir. Bundan böyle, CIAM'ın, Le Corbusier'nin ve "yüksek modernizm"in öteki
+havarilerinin fikirleri çeşitli olanakların istilası karşısında yenilgiye uğrayacaktı”
+(Harvey, 2010:54). Nitekim söz konusu bu tarihler dünyada siyasi ve ekonomik
+dengelerin ve krizlerin yaşandığı, devamında ise neo-liberal politika furyasının koptuğu
+yıllara denk düşmektedir.
+
+--- Sayfa 39 ---
+29
+Gerek ekonomik gerek siyasal gerekse de sosyal ve sanatsal boyutlarda duyulan
+bu değişim çığlıklarının öncelikle bireylerin özünde, ruhsal ve manevi dünyalarında
+karşılık bulduğu dile getirilebilir. “Modernizm, günlük hayatın rutinleşmesi, dini
+değerlere olan inancın zayıﬂaması, yaşam tarzlarının farklılaşması ve bireyselleşmesi,
+kentleşmenin üst düzeye çıkması, hayatın her alanına bilim ve tekniğin yerleştirilmesi,
+kapitalizmin ekonomik hayat üzerinde bitmek tükenmek bilmeyen bir devinimle devam
+etmesi süreci olarak ifade edilebilmektedir” (Kırılmaz ve Ayparçası, 2016:34). Aynı
+zamanda Harvey’in de belirttiği gibi sosyal yapıda meydana gelen deformasyonların
+temelinde aydınlanma düşüncesi ve modernizm yatmaktadır. Çünkü aydınlanma
+gerçekten de insanın kendini bireysel özgürlüğünün üstünü örten orta çağ geleneğinden
+ve cemaatinden özgürleştirmesine izin vermiş olabilir, ama bu düşüncenin "Tanrısız bir
+benlik" iddiası, sonunda kendi kendini yadsıyacaktı; çünkü bir araç olan akıl, Tanrı'nın
+yokluğunda, herhangi bir ruhsal ya da ahlaki amaçtan yoksun kalacaktı. Şayet tensel
+arzu ve iktidar "aklın ışığını gereksinmeksizin keşfedilebilecek yegâne değerler" ise, o
+zaman akıl başkalarına boyun eğdirmek için basit bir araç haline gelmek zorunda
+kalırdı. Postmodern teolojik proje, aklın kudretini terk etmeksizin, Tanrı'nın hakikatini
+yeniden ileri sürmektir (Harvey, 2010:57). Bir anlamda postmodernizm; hem
+kapitalizmin tıkanıklığını hem de metafizik ve aklın hüküm sürdüğü, düşsel âlemin ve
+teolojik çıktıların toplum üzerindeki izlerini temizlemekle sorumluydu.
+Konjonktür içerisindeki bu silsile zamanla adeta bir çığ gibi büyüyerek
+modernizmin ağır eleştirilere maruz kalmasına yol açmıştır. Dolayısıyla postmodern
+süreç ile “kişilerin yorumlarına göre şekillenen öznel doğruların önem kazandığı
+postmodern çağda, özellikle sosyal bilimler alanında nesnellikten uzaklaşılmaya ve
+kişisel anlamlandırmaların önem kazandığı öznel bir bakış açısı benimsenmesine
+başlandı” (Neimeyer ve Bridges, 2003). Bütün bu gelişmeler evrensellikten yerelliğe
+geçişin, bilim ve aklın yerini özgür düşünceye bırakışına yönelik bireyin ön plana
+çıktığı bir döneme işaret etmektedir. “Postmodernizm, modernizmin oluşturduğu
+Aydınlanma, Bilimsel ve Sanayi Devrimlerinin getirdiği kalkınmacı anlayıştan ve
+bilimsel bilginin kutsallığından ciddi bir kopuşu da ifade etmektedir. Postmodernizm
+genel geçerlik iddiaları taşıyan meta anlatılarının reddedildiği, çoğulculuğun ve
+parçalanmanın kabul edildiği farklılıkların ayrıştırılmadığı aksine bunların vurgulandığı,
+bireyselleşmenin kutsandığı bir durumu anlatır” (Harvey, 2010: 59).
+
+--- Sayfa 40 ---
+30
+Bireyler artık genel değer yargılarından sıyrılarak, daha geniş bir düşünsel alan
+yaratabileceklerdi. Egemen güçlerin akıl ve bilim sonuçlarında elde ettiğini ileri
+sürdüğü ve evrensel insan modelinin bu tipolojiye uygun formata dönüşmesi için
+yarattığı sistem, birey mekanizmasını yeniden canlandıran bir sisteme dönüşmekteydi.
+Ancak özgür düşünceyi ve bireyi kutsayan bu dönüşümün, postmodern bir tekel
+oluşturup oluşturmayacağı pek çok düşünür tarafından eleştirilmiş ve eleştirilmeye
+devam edilmektedir. Örneğin yayıncılık alanında kamusal tekeller olarak varlık
+sürdüren pek çok kurum, postmodernizmin ekonomi ayağı olan neo-liberalizm ile
+birlikte ticari kuruluşlarla mücadele etmek durumunda kalmış, özerk olarak
+yapılandırılmış monopolü yıkılmıştır. İzleyicilere çoklu bir yayın sistemi ve seçme
+hakkını verdiği düşünülen yeni yayıncılık politikaları devam eden süreçte yatay ve
+dikey birleşmeler ile yeni bir tekel sistemine doğru yol almış, egemen güçlerin
+hegemonyasında ekonomik ve siyasi tabanlı olarak değişimler göstermiştir. Nitekim
+benzer gelişmelerin pek çok farklı alanlarda da meydana gelebileceği düşünüldüğünde
+modernizmin postmodernizmden kopuşu ve kapitalizmin farklı çehreler ile liberalizm
+veya neo-liberalizm kılığına girip girmediği tartışılmaktadır.
+Ulaşım ve iletişim teknolojilerinin gelişmesi, zaman ve mekân kavramlarının
+sıvılaşması, reklam ve pazarlama faaliyetlerinin gelişmesi, dijital medya platformlarının
+yöndeşerek önemli aşamalar katetmesi ve büyük kitlelere ulaşması toplumsal yapı ve
+reflekslerde önemli rol oynamıştır. İlk kitle iletişim kaynakları olarak kabul edilen yazılı
+kaynaklardan beri alışılagelen tek taraflı enformasyon etkileşimleri internet teknolojileri
+ile birlikte çift yönlü olmaya başlamış, bunun da medya araçları ve kullanımı açısından
+devrimsel değişiklikler yarattığı ifade edilebilir. Gelişen bu teknolojilerle beraber;
+istenilen mekanlara hızlı ulaşım, reklam ve pazarlama faaliyetleri ile beraber gelen
+tüketim vurguları, medya araçlarının yöndeşmesi ve çift yönlü etkileşime açık hale
+gelmesi ve aynı zamanda her bireye özgü medya platformlarının oluşması konjonktürde
+önemli etkiler yaratmıştır. “Postmodernizm popüler kültür ve medya ile birlikte yeni bir
+tüketim algısı ortaya çıkarmıştır. Bu algı her şeyi tüketim üzerine kurulu olan yığınları
+ortaya çıkarmıştır. Zaman içinde, tüketimle birlikte kişinin kendi ürettiklerine
+şeyleşmesi,
+kendine
+yabancılaşması,
+özne
+olarak
+istenç
+nesnesine
+karşı
+yabancılaşmasıyla sonuçlanmıştır. Bunun sonucunda da özne ile nesne arasındaki
+mesafe aralığı tüketim edimi olarak doldurmuştur. Bu oluşumda, ihtiyaç istek haline
+dönüştürülerek, sürekli olarak varlığını korur hale gelmektedir” (Hatipler, 2017:33).
+
+--- Sayfa 41 ---
+31
+Söz konusu bu gelişmelerin yekününün postmodern dönemdeki dönüşümleri
+anlamlandırma noktasında yardımcı olacağı gibi, bireylerin gerek maddi gerek manevi
+dünyalarındaki olguları tüketme noktasındaki eğilimini de aşikâr etmektedir. Öyle ki
+teknolojinin getirdiği hız yaşamın tümüne sirayet etmekte, ivedilikle yaşanmakta ve
+tüketim alışkanlığının zamanla döngünün doğal bir parçası olarak kabul görülmesine
+neden olmaktadır.
+Foucault’un da (1986:22) ifade ettiği gibi üretimde etkin rol alan yapıların
+yerleşiklik düzenden çıkıp göçebe ve hareketli düzene geçtiği dönem öne çıkmıştır.
+Fordist dönemden kalan kol gücü, emeğin metalaşması, kişinin işine ve kendine
+yabancılaşması da postfordist dönemde ve postmodern çağda başkalaşım geçirmiştir.
+Postmodernizm aynı zamanda, teknolojide büyük atılımların olduğu ve üretimin sınırsız
+hale geldiği ve kol gücü yerine beyin gücünün, bilgisayar teknolojisinin ve baskın
+piyasa kurallarının mutlak hâkimiyetinin olduğu bir dönemi ifade etmektedir (Yeygel,
+2006:199).
+Bireylerden artık iğne fabrikasında olduğu gibi minimal performanslar değil çok
+yönlü kazanımlar elde edilmek istenmekte, salt kol gücünün değil tüm zihinsel
+yetkinliklerinin de sömürülmesine yönelik bir sistem varlığının oluşumundan söz etmek
+pek de iddialı olmayacaktır. “Post-modern dünya, anlam derinliğinden yoksundur.
+Burada her şey müstehcen, aşikâr ve daima hareket halindedir. Göstergeler, bu süreç
+içerisinde giderek daha hızlı dallanıp budaklanmakta, sınırların ötesine tasan büyüme,
+kendi içine dönme ve atalet içerisinde çökmeyle karakterize olan ve gittikçe artan bir
+infilak edip içe göçme söz konusudur” (akt. Best-Kellner, 1998:158-159).  Dolayısıyla
+sistem içerisinde hıza hizmet eden tüm çıktılar önem taşımaktadır. İletişim teknolojileri,
+yeni medya araçları ve bireyleri ataletsizliğe itebilecek, tüm gösterge, kısayollar ve
+bireyleri süratle fiziksel ve duygusal rehabilite edebilecek ve arındıracak mecralar
+kutsanmaktadır.
+Egemen güçlerin postmodernizm, neo-liberalizm veya postfordizm marifetiyle
+dijital çağ ile birlikte yeni bir hareket alanı kazandığı ileri sürülebilir. Nitekim kol
+gücünden ziyade bireylerin zihinsel eforlarını da talep eden bu gelenekler; dijital medya
+platformları ile toplumların en derinlerine sızabilme, mahrem olarak nitelendirilebilecek
+duygu, düşünce ve ideolojilerini takip ve kontrol edebilecek seviyelere ulaşmıştır.
+Popüler olarak boş zaman aktivitesi olarak değerlendirilen internet gezintileri ve sosyal
+medya dolaşımlarının dolaylı olarak egemen güçlere hizmet edip etmediği tartışma
+
+--- Sayfa 42 ---
+32
+konusudur. Nitekim web 2.0 ve web 3.0 teknolojileri ile birlikte, en çok ilgi gösterilen
+alanlar, ziyaret edilen web sayfaları, kullanıcının kullandığı anahtar kelimeler ile kişisel
+portföyler tespit edilebilmekte ve bitmek bilmeyen bannerlar ile tüketmeye yönelik
+tacizler yapılmaktadır. Aynı zamanda pek çok sosyal medya ortamında gönderiler
+arasına sıkıştırılmış reklamlar, tüketim profiline yönelik içerikler ile oluşturulmuş
+‘keşfet’ sayfaları dijital dünyanın oluşturduğu ütopya fikrinin distopyaya doğru
+seyrettiğe yönelik bir bakış açısı getirebilmektedir. Aynı zamanda dijital medya
+platformları için milyonlarca kullanıcının ürettiği içerikler, kapital mantığa hizmet
+edebilmekte, bireyler standart
+çalışma saatleri haricinde de
+sisteme katkı
+sunmaktadırlar. “Dijital medyanın en önemli sahnelerinden biri haline gelen sosyal
+medya ise, bir yandan popüler kültürün en önemli temsil alanlarından biri haline
+gelirken, diğer yandan da yenidünya düzeni içinde ve çok-uluslu şirketlerin tekelinde
+kültürel emperyalizmi pompalayan, küresel-ticari medyaya karşı alternatif bir sosyal ağ
+işlevi gördüğü ileri sürülebilir. Bu en açık şekilde, ‘yeni toplumsal hareketler’ olarak
+bilinen günümüzün başkaldırı ve protesto hareketleri üzerinde oynadığı rolle kendini
+göstermiştir” (Yağbasan, 2019:66).
+Gerek siyasi gerek ekonomik gerekse de sosyal gelişmeler hakkında kamuoyu
+yoklamasının etkin şekilde alınabildiği, fikir ve yorumları anlık etkileşimler sayesinde
+ulaşılabilen ve bu doğrultuda tavır ve politika izleyen kurumların sayısı da bir hayli
+fazladır. Aynı zamanda bireyler pek çok sanatsal faaliyetini dijital platformlardan
+kullanıcılara açabilmekte, kişisel fotoğraf ve videolarını yükleyebilmektedir. Söz
+konusu bu mecralar sayesinde, medya sahipleri kullanıcılarını çalıştırarak dünyanın her
+yerinde olabilme, bütün gelişmeleri diğer kullanıcılara ulaştırabilme gücüne sahip
+olmuştur. Artık geleneksel medya araçları dahi haber bültenlerinin pek çoğunu internet
+kullanıcılarından sağlayabilmekte, yüksek meblağlar ödenerek sahip olunan içeriklere
+meccanen sahip olabilmektedir. Dolayısıyla fiziksel anlamda kurulamayacak bir ağa
+sosyal medya aracılığıyla sahip olunduğu ifade edilebilir.
+Bireyin düşüncelerini özgürce ifade edebildiği, evrensel olarak etkileşim
+kurabildiği, enformasyonlara kolaylıkla ulaşabildiği, dilediği içerik ve paylaşımı
+yapabildiği ve bir anlamda kapital güçlere meydan okuyarak monopolleri
+yıkabileceğine yönelik distopik algının dijital medyaya sızan otoriteler marifetiyle
+distopyaya dönüştüğü iddia edilebilir. “Walter Benjamin (1999), flaneurü kentin
+modern deneyimdeki esas figürü olarak tanımlar. Flaneur, modern yaşamın
+
+--- Sayfa 43 ---
+33
+araştırmacısıdır. Benjamin’e göre, Flaneur tüketici kapitalizmin zaferiyle ortadan
+kalkar. Flaneur, bireyliğin ortadan kalktığı, yaratıcılığını ve keşfetme arzusunu
+kaybederek kalabalığın bir parçası haline geldiği yerde, aylağa dönüşür” (Aydoğan,
+2017:1). Modern zamanlar için verilen Flaneur örneği, postmodern zamana
+uyarlandığında dijital kullanıcıların, egemen güçlerin sanal düzende uyguladığı sistemle
+bir aylağa dönüştüğü iddia edilebilir.
+Kapitalizm ile toplumsal belleğe işleyen tüketim olgusu, teknolojik devrimlerin
+ve postmodernizmin yarattığı sosyal format ile birlikte yeniden inşa edildiği veya
+Derrida’nın yaklaşımıyla yapıbozumuna uğradığı ifade edilebilir. Çarkın dönebilmesi
+için tüketimin deneyimlenmeden, düşünülmeden ve ihtiyaç ile arasındaki çizginin
+grileştirilerek dikte edilmesi, atalet yaratacak veya rejim geleneklerini ihlal edebilecek
+tavırların bertaraf edilmesi gerekmektedir. Bu nedenle otoriteler tarafından tüketim
+alışkanlıklarının birer distopyaya dönüştürülmesi önem arz etmektedir. Nitekim
+mutluluk veren eylemlerin sürekliliği oldukça önemlidir. “Toplumsal bakış açılı
+distopyalarda egemen güçler umudun, kurtarıcının olmadığı, dinin ve bilginin
+sömürüldüğü,
+insanların
+mutluluklarının
+(tv,
+internet
+vs.)
+ile
+sağlandığı,
+tepkiselliklerinin uyuşturulduğu bir dünya yaratmıştır” (Akkoyun, 2016:35). Lyotard
+‘Postmodern Durum’ adlı eserinde bu süreci postmodernizmin modernizmin geldiği en
+uç nokta söylemleriyle analiz etmektedir. Tüketimin gerçekleşebilmesi için talep edilen
+meşru sürece popüler kültürün tahammül etmesi olanaksızdır. Dolayısıyla çalışmak
+temel yaşamsal ihtiyaçların karşılanması için değil hazzın ve tüketimin karşılanmasına
+dönüşmüştür denilebilir. Bu nedenle popüler kültürde amaç Akkoyun’un da (2016:39)
+ifade ettiği gibi tüketime odaklanan insanların sistem tarafından herşeyi yok etmeye
+sürüklenmesidir. Herşeyi tüketen toplumun, duyguları da metalaştırarak sevinç, öfke
+hüzün gibi doğal refleksleri popüler kültür bağlamında yeniden inşa ederek fast-sense
+biçiminde ortaya çıkarmaktadır. Bu sunnileşen refleksler hızın en çok anlam ifade ettiği
+dijital dünya ve uzantılarında görünmektedir.
+Postmodenrizmin daha öncede ifade edildiği üzere egemen ifadeler veya
+anlatılara karşı bir başkaldırı hareketi olarak değerlendirilmektedir. Modernizmin
+getirdiği olumsuzlukları ortadan kaldırmaya meyilli, bireylerin duygu ve düşüncelerinin
+ön plana çıktığı, tüm siyasal ve maddi pratiklerin, düşünsel ve kuramsal ürünleri
+kapsayan bir yaklaşım vadetmektedir. Ütopyanın zillerini çalan bu gelenek, egemen
+güçlerin hegemonyasının oluşturduğu distopya ağlarına takılmaktadır. Akkoyun
+
+--- Sayfa 44 ---
+34
+(2016:35) distopyayı ütopyanın yoldan çıkmış hali olarak değerlendirirken distopyanın
+ütopya vaatlerini “istismar edilerek insanlık için hangi trajik sonuçlara yol açtığı ya da
+açabileceği konusunda insanlara ironik bir biçimde düşünmeye yönlendirir” (2016:34)
+şeklinde tasvir etmektedir. Ütopya modernizmi demokratik yönüyle göstermeye
+çalışmış fakat bilime yeterince yer vermemiştir. En önemli distopik eserlerden biri olan
+Aldous Huxley’in kaleme aldığı Cesur Yeni Dünya eserinde, savaş ve yoksulluğun
+olmadığı, ırkların eşit teknolojik yeterliliklerle var olduğu; ancak aile, kültürel değerler,
+din ve felsefe egemen güçler tarafından yok edildiği işlenmektedir.
+Postmodern çağa atıf alan yeni dünya, egemen güçlerin müdahaleleriyle birer
+distopyaya dönüşmektedir. Postmodern ve dijital çağda yaşayan bireylerin bu dönüşümü
+fark etmemesi ancak, düşünmeyi ve toplumsal refleksleri uyuşturan bir mekanizma ile
+mümkün olabilecektir. Cesur yenidünyada verilen soma ilacının postmodern çağdaki
+karşılığının sosyal medya araçları olduğunu ileri sürmek pekâlâ mümkün
+görünmektedir. Nitekim soma eserde egemen ideolojilere çağrışım yapsa da iletişim
+teknolojilerinin egemen olduğu postmodern çağda, otorite söylemlerinin hızla ve en
+aktif şekilde yayıldığı mecralar olarak değerlendirilmektedir.  Ütopyadaki bilim ahlaki
+ve toplumsal idealin hizmetindedir. Ütopyada bilimin hedefsiz ve anarşik ruhuna kota
+koyulur. Nitekim hayal ve arzuları tatmin etmenin imgelemi olan ütopya ancak
+postmodern bir toplumda varolabilir. Postmodern ve dijital çağın sunduğu Amarot,
+kapital müdahaleler ile yıkılmaktadır. Cesur yeni dünyada alfa, beta, gama, delta ve
+epsilon yumurtaları bulunur. Yumurtadaki her birey şartlandırma dersinde eğitilir. Bu
+durum ise dijital çağın medya uzantılarında sıkça karşılaşılan fake hesap ve söylemleri
+çağrıştırmaktadır. Aynı zamanda doğduğu andan beri bu araçlarla hem hal olan
+bireylerin, duygu düşünce ve hatta mizah tarzları bile benzerlik göstermektedir.
+Baudrillard (1998: 125-126) çocuk doğurmamanın bile sistem açısından sessiz bir
+direniş biçimi olduğunu söyleyerek, genetik ve klonlama alanındaki çalışmaları da
+birbirine benzeyen ve sisteme boyun eğen bir insan modeli yaratmak hedefine
+dayandırmakta olduğuna yönelik iddialarda bulunmaktadır. Tüm bu bağlamlar
+çerçevesinde postmodern dünyanın sunduğu ütopya ve distopyaların yine egemen
+ideolojilerin tesiri ile şekillendiğini ifade etmek, sunulan ütopya vaatlerinin istismara
+uğrayarak direk veya en direk şekilde otoritelerin lehine işlendiği söylemlerinin ucunu
+açık bırakmaktadır.
+
+--- Sayfa 45 ---
+35
+2.1.1.2. Sosyal Medyanın Ütopya İnşası
+Günümüz insanında bir bağımlılık haline gelen sosyal medya her kültürden ve
+her kesimden geniş kitlelerin, sosyal taleplerine cevap verirken aynı zamanda
+kullanıcıları tarafından eleştirilere odak noktası olmaktadır. Bu eleştirilerden en büyüğü
+kullanıcıların kendi hayatlarını yansıtmayıp aslında yaşamak istediği yansıtmalarıdır.
+Sosyal medyada kullanıcılar hiç içmediği kahveleri çekip paylaşmakta veya hiç
+okumadığı kitapları çekip paylaşmaktadır. Sosyal medyada kendileri hakkında bir algı
+ve imaj oluşturmak isteyen bu kullanıcılar sosyal medya üzerinden kendi ütopyalarını
+inşa etmektedir. Hayvan sevmeyen bir insanın hayvanlarla fotoğraf çekmesi veya
+hayvan haklarını savunacak şekilde gönderiler paylaşması bunun en küçük
+örneklerinden biridir.
+Sosyal medyanın eleştiri aldığı başka br boyut ise bütün hayatların mükemmele
+yakın olduğunu paylaşma istediği kullanıcıların üstüne giydiği markayı bile
+fotoğraflarını paylaşıp üstüne etiket yapması kullanıcıların ne marka giydiğini
+kanıtlamaya yönelik bir harakettir. Yemek yemek için gidilen restoran veya kafelerde
+bulunduğu konumun paylaşılması kişinin kendini kanıtlama güdüsünden gelmektedir.
+Kişiler hayatlarını mükemmel olduğunu kanıtlamak için evlerini arabalarını hatta
+kendine ait olmayan ev ve arabalarını paylaşarak yaşamak istediği hayatı yaşıyormuş
+gibi gönderiler paylaşmaktadır. Hayatının ütopyasını belki de sadece sosyal medyada
+yaşamaktadır.
+Kullanıcılar sadece metalaştırdığı şeyleri paylaşırken mükemmelliği aramaz aynı
+zamanda mükemmel bir vücut ve mükemmel bir yüz içinde birçok shop veya filtre
+programı kullanarak kendilerini de değiştirmektedir. Ayrıca bu ütopya inşanın en
+önemli parçalarından biri ise hayatının hep çok mutlu olduğunu kişilere kanıtlamaktır.
+Sosyal medya kullanıcıların her zaman mutlu oldupu anları takipçileri ile paylaşır.
+Çünkü ütopik bir profil oluşturmak için mutluluk algısı çok önemlidir.
+
+2.1.1.3. Yeni bir Panaptikon Ortamı: Sosyal Medya ve Distopya İnşası
+Endüstri sonrası imajın baskın hale gelmesiyle gerçek ile sahnenin iç içe geçtiği,
+her şeyin görüntüler üzerinden değerlendirilmeye başladığı, meta fetişizminin toplumu
+hâkimiyeti altına aldığı ve imajın hâkim olduğu bir dönem yaşanmıştır. Fransız düşünür
+Debord bu döneme ‘gösteri toplumu’ adını vermiştir.
+
+--- Sayfa 46 ---
+36
+Kapitalizm ile doğru orantılı bir şekilde ilerleyen gösteri toplumu, kapitalist
+sistemin toplumu tüketmeye, gösteriye özendirmesi ile aynı amacı taşımakta ve toplumu
+disipline etmeye çaba sarf etmektedir. Bireyler bu toplumda eleştirel düşünceden ve salt
+doğrudan uzaklaştırılarak pasif hale getirilip her şey yerini bir temsile bırakmaktadır.
+Aslında bu sayede insanların bir birinden uzaklaştığı saptanmaktadır. Çünkü Debord’a
+göre kapitalist toplum, bütün şahısları “müşteri” vasıflarıyla etiketleyen, bedensel ve
+zihinsel sömürülerinin boş zaman ve eğlence endüstrisi içinde “gösteri” kılığına
+bürünerek görünmez kılındığı bir toplum yapısıdır ( Tükel, 2014: 9). Modern üretim
+şartlarının hegemonya sürdüğü toplumların tüm hayatı bir gösteri şeklinde
+görünmektedir. Dolayısıyla gösteri toplumunda yaşanmış olan her şey yerini bir temsile
+ya da imaja bırakmıştır (Debord, 2012:13).
+Debord’a göre, modern toplumların tüm hayatı, sonsuz sayıdaki gösterilerden
+oluşmaktadır, Gösterinin içeriği ve biçimi, gerek enformasyon ya da propaganda,
+gerekse reklam veya eğlencenin tüketilmesi yoluyla mevcut sistemin koşullarını ve
+amaçlarını tümüyle aynen doğrulamaya dayanmaktadır (Evecen, 2018:483). Bu
+bağlamda görülen dünya aslında metanın dünyası olarak tanımlanmaktadır. Gösteri
+toplumunda kapitalist aklın denetimine maddi ve tinsel boyutta girmektedir.
+İletişim sürecini “gerçeğin yerini alarak gerçeğe son veren bir model” olarak
+niteleyen Baudrillard, bunu yaparken “iletişim aracının bir biçim olarak kendi gücünden
+de yararlanarak gerçeği dönüştürdüğüne” dikkat çekmektedir. Bunun da ötesinde
+simülasyon evreninde iletişim ve simülasyon simüklakrlarının bir kısırdöngü içinde
+sürekli olarak birbirlerini ürettiklerini söylemektedir.Gösteri toplumu aynı zamanda bir
+yeni medya çağıdır. Gerçeklik kavramının yerini simülasyona bıraktığı, her şeyin
+içeriğinden koparılarak eğlence unsurlarına dönüşmesi, Baudrillard’ın da (2003:11)
+ifade ettiği gibi “biz aynı zamanda aşırı anlam bolluğuyla, kusursuz bir anlamsızlığın
+yol açtığı bir korku düzeni içinde yaşıyoruz” söylemini onaylar nitelikte yapılan
+enformasyon bombardımanları ile insanların uyuşturulması ve algılama becerilerinin
+körelmesi yeni medya ve gösteri toplumunun ortak özellikleridir. Nitekim “gösteri,
+insanların olup bitenleri görmezlikten gelmelerini ve yine de anlaşılabilen bir şey varsa
+bunu unutturmayı büyük bir ustalıkla başarmaktadır” (Öker, 2005: 244; Debord, 2012:
+131).
+Temelde geleneksel medya ile başlayan bu gösteri internetin ve sosyal medyanın
+ortaya çıkması ile beraber kendisine yeni bir yaşam alanı bulmuştur ve yeni medyaya
+
+--- Sayfa 47 ---
+37
+farklı boyutlar kazanmıştır. Toplumun gösterinin bir parçası haline geldiği sosyal medya
+yeni bir gösteri boyutu ortaya çıkarmıştır.
+Sosyal medyanın gösteri ile birlikte doğal olanı köklerinden koparıp bir meta
+üretimine çevirdiği görülmektedir, böylelikle gösterinin baskın olduğu bir toplum
+olmuştur. Bireyler arasındaki ilişkiyi bile görsel ve imajlar üzerinden sunan bu sosyal
+platformlar insanların bir birinden uzaklaşmasına ve iletişimlerinde engeller yaratmaya
+sebep olmaktadır. Kullanıcıların söz konusu bu gösterinin alanı olan sosyal medyada
+başrol oynadığı, yeni bir gösteri ve aynı zamanda gözetim alanı haline gelmektedir. Bu
+bağlamda günümüzün panoptikonunun sosyal medya platformları olduğu ileri
+sürülebilir.
+18.yüzyılda pek çok devlet, kaos ortamı içerisinde bulunan veya oluşabilecek
+muhtemel karışıklıkların önüne geçebilmek, kendi toplumlarını kontrol edebilmek için
+güçlü ve etkili bir kontrol sistemleri oluşturmaya çalışmışlardır. Bu dönemde modernize
+bir yapı tipi ortaya çıkmıştır. Filozof ve hukukçu Jeremy Bentham ve mimar olan
+kardeşi Samuel Bentham ile beraber gözetleme konusunda ileri seviyede olan,
+imparatorlara yardımcı olacak bir yapı tasarlamıştır. 1785 yılında panoptikon denilen bu
+yapı ortaya çıkmıştır. (Özdel, 2012:23; Şentürk ve Elçiboğa, 2017:120-121).
+Panoptikon, Jeremy Bentham tarafından oluşturulmuş bir hapishane modelidir.
+Hapishanenin ortasında bir kule vardır ve bu kuledeki kişi aynı anda birçok hücreyi
+gözetleyebilmektedir. Hücresinin gözetlendiğini bilen kişiler ise davranışlarına dikkat
+etmektedir. Bu hapishane modelinde, kuledeki kişi bütün hücreleri görebilirken
+hücrelerde bulunan mahkûmlar kulede bulunan kişiyi görememektedir. Burada
+gözetleyicinin otoritesini pekiştiren ve etkin bir denetim yapılmasını sağlayan asıl
+nokta, otoritenin görünmeden görebilmesidir (Çoban-Özarslan,2008:9-12)
+Jeremy Bentham, tasarlanan bu yapının nezaret altında tutma, hapis, tecrit, zorla
+çalıştırma, eğitim gibi çeşitli amaçlarla kullanılabileceğini ve farklı mekanlara
+uyarlanabileceğini belirtmiştir. Söz konusu amaçlara ulaşılabilmesi ve etkin bir
+gözetleme yapılabilmesi ise “görünmeden gözetleme” ilkesinin uygulanmasına bağlı
+olmaktadır (Bentham, 2008:23). Asıl işlevi görünmeden gözetlemedir.
+Panoptikon’da her şey gözetim halinde olumakla beraber mahremiyete yer
+verilmemektedir. Gözetimle birlikte disiplin sağlanmaktadır. Mahkûmlar veya toplum
+ne zaman olduğunu bilmese de, izlendiklerini bilmekte ve davranışları sadece izlenme
+korkusu ile kontrol edilmektedir.
+
+--- Sayfa 48 ---
+38
+Foucault bu mimari yapı için modern gözetleme toplumunun bir metaforu
+demştir (Foucault, 1954:25-41). Foucault, bu sistemin modern dönemde iktidarın
+otomatik işleyişini sağlayan bir denetim mekanizması olduğunu vurgulamaktadır.
+Böylece iktidarlar, bireyleri ve onların bedenlerini kontrol altında tutarak disipline
+etmektedir. Panoptikon, iktidarın işleyişini ve sürekliliğini sağlamak için mahkûmlar
+üzerinde bilinçli ve sürekli bir görülebilirlik halini yaratmaktadır (Foucault, 1992: 251-
+252).
+Günümüzde gözetim sosyal medya ile farklı bir boyuta everilmiştir. Yeni
+panoptikon haline gelen sosyal medya tek taraflı gözetimin yerini herkesin
+gözetleyebildiği bir platforma bırakmıştır. Gösterinin hiç ara vermeden devam ettiği
+sosyal medyada mahremiyet ortadan kalkmıştır. Fakat günümüzün gözetlemesinin en
+farklı boyutlarından biri önceden baskı ve zorlama ile yapılan gözetim artık gönüllük ve
+rızaya dayalı bir gözetim haline gelmiştir. Bu bağlamda günümüzün panaptikonu olan
+sosyal medya distopya ile tam olarak bağlantı sağlamıştır.
+Sosyal medyanın temel amacı kullanıcıların bir birini gözetlemesidir. Bu
+gözetim rıza ile yapılır ve sosyal medya da temel olarak distopya böyle inşa
+edilmektedir. Kullnıcılar sosyal medya hesaplarını isterlerse sadece takip etmelerini
+onayladıkları kişiye isterlerse de tüm kullanıcılara açık hale getirebilirler. Her iki
+durumda da sizi takip eden kişiler sizin rızanızla sizi gözetimi altını alırlar. Mahrem
+olan her şey görünür ve açık hale gelir. Gösterinin mütemadiyen devam ettiği sosyal
+medya mahremiyetten yoksun bir imaj üretim mekanizmasına dönüşmüştür.
+Kapitalist sistem, gösteri ve tüketim üzerinden insanlığı disipline etmekte,
+gösteriyi ve tüketici bilinci yaygınlaştırarak toplumu gönüllü bir itaatin, uyumculuğun
+ve katılımcılığın öznesi haline getirmektedir. Toplumun kontrolü ve yönlendirilmesi
+için artık karmaşık-etkili tekniklere gerek duyulmadığı bulgulanır.
+Sistemin
+bireylerin
+özel
+yaşantısına
+olan
+ilgisi,
+tüketim
+portföyünü
+oluşturmaktan geçmektedir. Kapitalin 1929 Büyük Buhran’da yaşadığı krizin tekrarına
+düşmemek için, üretimden çok tüketim önem taşımaktadır. Talebe hükmeden kapitalin
+arzı da yönetebilmesi sistem çarklarının devam etmesini sağlayacaktır. Bu nedenle
+bireylerin kendilerini ifşa ettikleri sosyal medya hesapları ve internet gezintilerinin
+gözetim ve denetim olması kaçınılmazdır. En önemlisi ise bu gelenek içerisinde üretilen
+rıza ve mutluluktur. Bu durum devamlılığı sağlayacak, sistemin tıkanışını
+engelleyecektir.
+
+--- Sayfa 49 ---
+39
+Kapitalist sistemin ve gösteri toplumunun bir parçası olan iktidar sosyal
+medyada paylaşılan her türlü bilgi ve görüntüyü çeşitli amaçlarla kullanabilmektedir.
+Sosyal medyada yaptığı her paylaşım kişinin ardında bıraktığı dijital izlerdir. Bu dijital
+izler kullanıcıları gözetim sistemin bir nesnesi haline getirmektedir. Gönüllü olarak
+kullanıcıların bu nesneye dönüşmesi kişiliklerini kaybetmesi tam olarak distopik bir
+yapının temsilleridir.
+Temel dayanağı gözetleme içgüdüsüne dayanan bu medya biçimi zaten
+kullanıcıların hayatlarını paylaşması ve kendinden izler bırakması için yapılmış bir
+platformdur. Bu platformda bıraktığınız izler artık hiç silinmez çünkü bu izler doğrudan
+internet veri tabanına düşer ve sadece kullanıcıların değil egemen güçlerinde bu izler
+doğrultusunda gözetimine aynı zamanda denetimine yol açmaktadır. İşte sosyal
+medyanın distopik inşası tam olarak buradan beslenmektedir.
+Sosyal medya kullanıcılarının bu platformlarda en haz aldığı içeriği beğenilmek
+ve izlenmek hatta gerçek benliklerini bir tarafa bırakarak ideal bir benlik yansıtmaktır.
+Çünkü ideal benlikler beğenilip izlendikçe itibar en yüksek seviyede olmaktadır.
+Dolayısıyla onaylanmayı arzu eden kullanıcılar onaylanmak için hayatına dair bütün
+bilgi ve verilerini paylaşıp denetimi sürekli hale getirebilir. Sosyal medyada
+kullanıcıların sağlamış olduğu bu algı gözetim ve denetimi aynı bir distopya kurgusu
+gibi
+normalleştirmektedir.
+Bu
+normalleşme
+mahremiyet
+kaygısını
+ortadan
+kaldırmaktadır.
+
+2.2. Gözetim Toplumunda Distopya
+İlk olarak 1800’lu yıllarda kullanılmaya başlanan gözetim kelimesi etimolojik
+olarak Fransız kökenli “surveiller” kelimesinden gelmektedir. “Sur” yukarıdan “veiller”
+ise izlemek manasına gelmektedir (Online Etymology Dictionary, 2017). Gözetim (İng;
+surveillance), Oxford sözlüğünde (2017) “şüpheli ya da suçlu şahısların izlenmesi”
+şeklinde tanımlanmaktadır.  Türk Dil Kurumu sözlüğünde ise “gözetme, işe nezaret,
+himaye altına alma” olarak ifade edilmektedir (TDK, 2020). Gözetim farklı düşünürler
+tarafından çeşitli şekillerde tanımlanmıştır.
+Foucault gözetimi, bir ya da daha fazla kişinin iletişim veya eyleminin
+sistematik olarak araştırılması, izlenmesi faaliyeti olarak tanımlarken Petersen ise
+birisini veya bir şeyi izlemek ve bunları kaydederek saklamak olarak görmüştür.
+Gözetim bir süreci temsil etmektedir. Gözetimi bireyler, süreçler ve kurumlar hakkında
+
+--- Sayfa 50 ---
+40
+bilginin
+depolanması,
+değerlendirilmesi,
+gözlemlenmesi,
+kayıt
+edilmesi
+ve
+aktarılmasından oluşan bir süreçtir. Gözetim üzerine yaptıkları çalışmalarla bilinen
+David Lyon (1994, 2004, 2006a/b, 2007), Christian Fuchs (2011), Thomas Mathiesen
+(1997, 2004) ve Uğur Dolgun (2005, 2008) gibi birçok akademisyen modern
+toplumların, “Gözetim Toplumu” olarak adlandırılabileceğini savunmaktadır.
+Distopya, kelime anlamı itibariyle karşı ütopya veya ütopik bir toplum
+anlayışının anti-tezi olarak kullanılmaktadır. Ütopya kavramı, Thomas More’un
+1956’da yazdığı Utopia (Ütopya) isimli kitabıyla yaygınlaşmıştır (More, 2010). Ütopya
+terimi genellikle “gerçek dışı, tasarlanmış olan ideal bir toplum şeklini” anlatmak için
+kullanılmaktadır. Bu bağlamda Orwell’in yazdığı 1984 isimli romanıyla çizdiği karanlık
+senaryo, vatandaşların gözetlendiği, hatta düşüncelerinin denetlendiği, totaliter bir
+topluma doğru gidildiğini göstererek, modern Batı toplumlarının özgür bir toplum
+olacağı iddiasının tam tersini ifade eder. (More, 2010: 220).
+Bütün distopik romanlar da yer alan gözetleme ve gözetim altında tutma,
+totaliter bir merkezin tek parti yönetimi, beyin yıkama ve insanları manipüle etme,
+partinin insanlar için bir yaşam politikası belirlemesi ve toplumun bu politikayla
+uyumlu yaşaması hepsi gözetim toplumu ile ortak özelliklerdir.
+
+2.3. Gözetimin Nefret Söylemi ve Linç Kültüründeki Etkisi
+Gözetimin meşrulaşması ve insanlar ve toplum üzerinde varlığının hissedilmesi
+insanların ve toplumun davranışlarını kontrol etmeye hatta kişisel davranışları, duygu ve
+düşünceleri üzerinde bir sınırlandırmaya sebep olmaktadır. Ve bu sınırlandırma ve
+kontrol mekanizması insanların kendi duygu ve düşüncelerini ifade edememesine sebep
+olmaktadır. Toplumların ve kişilerin düşüne yapasının sınırlandırılması bu toplumların
+veya insanların patlama veya bu düşünceleri bir şekilde dışa vurma gereksinimi
+yaratmaktadır. Bu farklı farklı şekillerde dışa vurabilir bu dışavurumların bir şekli ise
+insanların nefret öylemi ve toplumların linç oluşunu yaratmasıdır.
+Nefret söylemi özellikle dijital çağda sosyal medya özelinde dışa vurulmaktadır.
+Kullanıcılar kendi kimliklerini dışa vurmadan anonim olarak katıldıkları sosyal medya
+hesaplarına gözetimden uzak kendilerini ifade etme yoluna sığınmıştır. Kişilerin anonim
+oluşu daha açık daha rasyonel bir yorumlama gücü doğurur bunun doğrultusunda kişiler
+üzerlerinde hissettikleri baskı, gözetim ve denetimin dışa yansımasını nefret söylemi ve
+linç oluşumları ile ortaya çıkarır.
+
+--- Sayfa 51 ---
+ÜÇÜNCÜ BÖLÜM
+
+3. ARAŞTIRMA VE METODOLOJİ
+
+3.1. Araştırma
+3.1.1. Araştırmanın Problematiği
+Günümüzün insanının doğuştan itibaren kayıt altına alınması, yüksek
+enformasyon teknolojisi sayesinde mahrem alanların sanal ortama açılması, ses
+alıcılarıyla ortamların dinlenmesi, uydu yer belirleme sistemleriyle takip edilebilen cep
+telefonlarının tüm dünyaya yayılması, akıllı (smart) kartlar aracılığıyla bireyin tüm
+ekonomik kayıtlarının bir merkezde toplanabilmesi, birçok yerde bulunan kameraların
+kayıtları, tüm dünyanın sanal ortamdan elektronik posta ile haberleşmeye başlaması ve
+bu yolla iletilen tüm bilgilerin takip ediliyor olması günümüz toplumunu distopya
+toplumu haline getirmektedir.
+Distopya isteminde her bireyin gönüllülüğü esastır. Bir ekran ve tek tuşla
+ulaşabileceği her türlü hizmeti alması, hatta görevini yerine getirebilmesi toplumu
+giderek eve bağlamıştır. Her ihtiyacın sipariş üzerine getirildiği evlerde beynin ilgili
+bölgelerine sinyaller gönderilerek oluşturulan, rengiyle kokusuyla gerçeğini aratmayan
+ve tüm duygusal ihtiyaçlara cevap verebilen sanal dış dünya algısı aile kurumunu
+manipüle etmiştir. Aile bireylerini hepsi aynı evin içindeyken bile sistemin
+kontrolündeki başka dünyalara savurmuştur. Sistem bu haliyle bizleri teknoloji
+geliştikçe sanal dünyalara yöneltmiş ve toplumun birincil ilişkilerinden kopmuştur.
+Ayrıca toplumda oluşan bu gözetim ve denetim sistemleri toplumu somut ilişkiler
+üzerinden nefret söylemine ve linç kültürüne yönlendirmektedir bu yönelim toplumsal
+bağları zedelemektedir.
+Bu araştırmanın problemi sosyal medya kullanıcılarının paylaştıkları nefret ve
+linç söylemlerinin bu platformları nasıl etkilediğinin distopik açıdan incelenmesidir.
+
+3.1.2. Araştırmanının Amacı
+Bu araştırmanın amacı sosyal medya bağlamda nefret ve kin söyleminin
+toplumsal gözetim ve denetime bağlı olup olmadığını distopik açıdan ele almaktır. Bu
+çalışmada, yeni medyadaki nefret söylemine yönelik eğilimleri saptamak ve sorunun
+boyutlarını ortaya çıkarmaktır. Bu amaca yönelik olarak, yeni medya ve sosyal medyaya
+
+--- Sayfa 52 ---
+42
+yönelik platformlar üzerinden kullanıcıların kendilerini ifade etme biçimleri, olaylara ve
+gelişmelere yaptıkları yorumlar/değerlendirmeler ile bu etkileşimin nefret söylemi ve
+linç kültürü ekseninde ne şekilde oluştuğu ve nasıl algılandığı ölçülmeye çalışılmıştır.
+
+3.1.3. Araştırmanın Önemi
+Bu araştırmanın amacı toplumsal gündemi artık toplumun kendisinin belirlediği
+sosyal medya platformlarının toplamsal yapıdaki denetim üzerine kullanıcılarında
+oluşan nefret söylemini ve linç oluşumlarının toplumsal tepkilerini saptamak ve aynı
+zamanda sosyal medya kullanıcılarının gelecekte onların ne ile karşılaşacağını
+bulgulamaktır. Söz konusu bu sorunları ve muğlaklıkları paradoksallık bağlamında ele
+alan ve bir saha çalışması ile desteklenerek analiz edilen çalışmaların sınırlılığı alan
+yazınına önemli katkılar sağlayacağı düşünüldüğünden önem arz etmektedir.
+
+3.1.3.1. Araştırmanın Varsayımları (Hipotezleri)
+Bu araştırmada aşağıdaki hipotezlerden hareket edilerek söz konusu hipotezler
+sınanmaya çalışılmıştır.
+H 1- Denekler gün içerisinde 3-5 saat arasında telefon kullanırlar.
+H 2- Denekler sosyal medya hesabı kullanmaktadır.
+H 3- Denekler en az 3 sosyal medya platformuna üyelerdir.
+H 4- Denekler en çok twitter adlı sosyal medya platformunu kullanırlar.
+H 5- Denekler sosyal medyayı yaralı bir biçimde kullandığına inanmamaktadır.
+H 6- Denekler sosyal medyanın kullanıcılar üzerinde denetim ve gözetim
+mekanizması oluşturduğuna inanır.
+H 7- Denekler gözetim ve denetim mekanizmasının toplumu olumsuz yönde
+etkilediğini öne sürer.
+H 8- Denekler sosyal medyanın toplumu nefret söylemi ve linç kültürüne
+yönlendirdiğini savunur.
+H 9- Denekler sosyal medyada herhangi bir kullanıcıya karşı nefret ve kin
+söyleminde bulunmuştur.
+H 10- Denekler sosyal medya hesapları üzerinden her hangi bir konu hakkında
+nefret ve linç söylemi oluşumuna maruz kalmıştır.
+H 11- Türkiye’de sosyal medya kullanıcıları en çok cinsiyet ayrımcılığı
+bağlamında nefret söylemi ve linç etme yönelimine başvururlar.
+
+--- Sayfa 53 ---
+43
+H 12- Sosyal medyada oluşan bu nefret söylemi ve linç kültürünün bir cezai
+müeyyidesi vardır.
+H 13- Toplumsal gözetim ve baskı sosyal medya üzerinde nefret ve linç
+söylemlerine sebep olmaktadır.
+H 14- Sosyal medyanın içerisinde oluşan nefret söylemi ve linç oluşumu
+denekleri rahatsız eder.
+H 15- Denekle sosyal medya üzerinde nefret söylemi ve linç oluşumu devam
+ederse sosyal medyayı kapatmayı düşünürler.
+H 16- Medyada oluşan toplumsal gözetim ve denetimin sosyal medya
+kullanıcıları üzerinde nefret söylemi ve linç kültürüne teşvik etmemektedir.
+H 17- Devlet mekanizmasının oluşturduğu toplumsal gözetim ve denetimin
+sosyal medya kullanıcıları üzerinde nefret söylemi ve linç kültürüne teşvik etmektedir.
+
+3.1.3.2. Araştırmada Ki Kare İle İlgili Hipotezler
+1- Sosyal medyada herhangi bir kullanıcıya karşı nefret söyleminde bulunma
+durumu ile cinsiyet değişkeni arasındaki anlamlı bir ilişki vardır.
+2- Sosyal medyanın, toplumu nefret söylemi ve linç kültürüne yönlendirme
+durumu ile telefon kullanma süresi arasında anlamlı bir ilişki vardır.
+3- Devlet mekanizmasının toplumsal gözetim ve denetim olgusunun sosyal
+medya kullanıcılarını nefret söylemi ve linç kültürüne yönlendirme durumu
+ile sosyal medyanın bireyler üzerinde bir denetim ve gözetim mekanizmasının
+olduğu düşüncesi arasında anlamlı bir ilişki vardır.
+4- Sosyal medyada nefret söylemi ve linç oluşumu söz konusu olduğu takdirde
+sosyal medyayı kapatma durumu ile cinsiyet değişkeni arasında anlamlı bir
+ilişki vardır.
+5- Cinsiyet değişkeni ile bir gün içerisinde en az 3 saat telefon kullanma durumu
+arasında anlamlı bir ilişki yoktur.
+
+--- Sayfa 54 ---
+44
+3.2. Metodoloji ve Veri seti
+3.2.1. Yöntem
+Bu araştırmada, Survey modeli uygulanmış ve model yöntemlerine sadık
+kalınarak 5’li likert ölçeğine uygun şekilde anket tekniğine başvurulmuştur (Kaptan
+1993: 150). Anketin öngörülen koşullar çerçevesinde (75 bin kişi ile 1 milyon nüfuslu
+yerleşim yerleri için öngörülen) en az 384 kişiye uygulanması öngörülmüş ve bu
+mevcuda uymak amacıyla 392 deneğe ulaşılarak anket uygulanmıştır (Krejcie and
+Morgan 1970: 607-610). Bu bağlamda sosyal medyada linç kültürü ve nefret söylemi
+olguları distopik bir anlayışıyla ele alınarak bulgular analiz edilerek bir sonuca
+ulaşılmaya çalışılmıştır.
+
+3.2.2. Evren ve Örneklem
+ Evren: Sosyal medyada oluşan nefret söylemini ve linç kültürünü distopik
+açıdan analiz etmek üzere için Elazığ ili pilot bölge olarak seçilmiştir. Dolayısıyla
+araştırmanın evrenini, Elazığ ili oluşturmaktadır.
+Örneklem: Araştırmanın örneklem gruplarını, Fırat Üniversitesi öğrencileri
+oluşturmaktadır. Anket uygulaması için Random (şans–kura) yöntemi uygun bulunmuş
+ve tabakalama yöntemi gereğince katılımcılar rasgele seçilmiştir (Kaptan 1993:120-
+122).
+
+3.2.3. Sınırlılıklar
+Bu araştırmada, anketin seçilen örneklem grubu içerisinde 18 yaş ve üstü
+deneklere uygulanması, bu grubun sadece Fırat Üniversitesi merkez kampüsü ile sınırlı
+tutulması, deneklerin en az bir sosyal medya hesabı kullanıyor olmaları ve anket
+uygulaması sırasında üniversite kampüsü içerisinde bulunanlara uygulanması
+araştırmanın sınırlılıklarını oluşturmaktadır.
+
+3.2.4. Verilerin Toplanması
+5‘li likert ölçeğine göre hazırlanan Anket, Elazığ ilinde bulunan Fırat
+Üniversitesinin yedi ayrı noktasında ve anket sayısı eşit şekilde yediye bölünerek
+(56+56+56+56+56+56+56 şeklinde) anketörlere dağıtılarak uygulanmıştır. Seçilen
+örneklem gruplarına, çalışmanın temsil niteliğini arttırması ve farklı gelir ve statü
+düzeyini temsil etmesi açısından kota yöntemi uygulanarak sorular yöneltilmiştir.
+
+--- Sayfa 55 ---
+45
+Araştırmanın amacına yönelik olarak, Elazığ ili Fırat Üniversitesinde anket uygulaması
+sırasında kampüs içerisinde bulunanlara anketler verilmiş ve katılımcı olmaları
+istenmiştir. Deneklere anketler tek tek verilmiş ve doldurdukları anketler anında
+toplanmıştır. Yüz yüze görüşme tekniğiyle daha sağlıklı veriler elde edileceğinden,
+soruların net anlaşılmasını sağlamak amacıyla gerekli görülen yerlerde deneklere
+herhangi bir yönlendirme olmaksızın sondajlama yapılmıştır. Katılımcıların, anketi
+objektif ve kuşkudan uzak bir şekilde cevaplamalarını sağlamak için kimlik bilgilerini
+belirtmemeleri özellikle istenmiştir.
+
+3.2.5. Verilerin Analizi
+Araştırma, Basit Rasgele Örnekleme yöntemi kullanılarak ulaşılan 400 denek
+üzerinde yapılmıştır. Random yöntemiyle ulaşılan deneklere anket uygulanmıştır. Anket
+5’li likert öleceğine göre dizayn edilmiştir. Elde edilen veriler bilgisayar ortamında
+SPSS 7.05 versiyonu kullanılarak değerlendirilmiştir. Deneklere yöneltilen sorularda
+sorulara bağlı olarak ikili, dörtlü, beşli, ölçekler kullanılmıştır. Bütün sorulara verilen
+cevaplar
+kategorize
+edilerek
+SPSS
+altında
+değerlendirilmiştir.
+Hataların
+engellenebilmesi ve soruların anlaşılabilirliğinin test edilmesi amacıyla, anket, öncelikle
+20 kişilik bir denek gruba uygulanarak, ön test yapılmış ve tespit edilen hatalar
+düzeltilerek genele uygulaması yapılmıştır. Elde edilen verilerin yüzdeleri ilgili soruya
+verilen yanıtların kendi içerisindeki yüzdelik dilimleri ile hesaplanmış, yanıt
+vermeyenler ise yüzdelik dilimin dışında tutulmuştur.
+
+3.3. Bulgular (Verilerin Çözümü - Anket Sonuçları ve Değerlendirilmesi)
+3.3.1. Araştırmanın Cronbach’s Alfa Katsayısı ve Güvenirlilik Testi
+Sonuçları
+
+Tablo 1:  Araştırmanın Cronbach’s Alfa Katsayısı ve Güvenirlilik Bulguları
+Cronbach's Alpha
+Cronbach's Alpha Based on Standardized Items
+N of Items
+0,681
+0,691
+17
+
+Bu çalışmada güvenirliliği belirlemek amacıyla Cronbach's Alpha değerine
+ulaşılmıştır. Cronbach's Alpha değeri likert tipi maddeler üzerinden (N=17)
+
+--- Sayfa 56 ---
+46
+değerlendirilmiştir.  Elde edilen veriler doğrultusunda, çalışmadaki maddeler arasındaki
+güvenirlilik (iç tutarlılık kat sayı) değeri α=0.68’dir. Bu değer, çalışmadaki maddelerin
+güvenilir olduğunu göstermektedir. Zira,  0.60≤ α ≤0.90 arasındaki Cronbach’s Alfa
+katsayısı maddelerin güvenilir olduğunu göstermektedir (Can, 2013).
+
+3.3.2. Araştırmanın Frekans ve Yüzdelik Dağılımları
+Tablo 2 ile 4 arasındaki veriler katılımcıların demografik özelliklerini
+yansıtmaktadır.
+
+Tablo 2: Katılımcıların Yaş Aralığı
+Yaş
+f
+%
+18-22
+178
+45.4
+23-27
+154
+39.3
+28-32
+59
+15.1
+33 ve üzeri
+1
+0.3
+Toplam
+392
+100.0
+
+Tablo 2’de örneklem grubunu oluşturan öğrencilerin 178’i  (% 45,4) 18-22 yaş
+grubunda; 154’ü (% 39,3) 23-27 yaş grubunda; 59’u (% 15,1) 28-32 yaş aralığında; 1’i
+(% 0,3) 33 ve üzeri yaş grubunda bulunmaktadır. Elde edilen verilere göre deneklerin en
+çok 18-22 yaş aralığında olduğu belirlenmiştir.
+
+Tablo 3: Katılımcıların Cinsiyetlerine Göre Dağılımı
+Cinsiyet
+f
+%
+Kadın
+180
+45.9
+Erkek
+212
+54.1
+Toplam
+392
+100.0
+
+Tablo 3’te ankete katılan deneklerin cinsiyetlerine ait bulgular yer alır. Elde
+edilen verilere göre; deneklerin 180’i (% 45,9) kadın, 212’si  (% 54,1) ise erkeklerden
+oluşmaktadır.
+Veriler
+doğrultusunda
+erkek
+deneklerin
+daha
+baskın
+olduğu
+görülmektedir.
+
+--- Sayfa 57 ---
+47
+Tablo 4: Katılımcıların Gelir Düzeyi
+Gelir Düzeyi
+f
+%
+0-500 TL
+79
+20.2
+501-1000 TL
+143
+36.4
+1001-2000TL
+123
+31.4
+2001 ve üzeri
+47
+12.0
+Toplam
+392
+100.0
+
+Katılımcıların gelir düzeyleri tablo 4’te katılımcıların gelir düzeyine ilişkin
+bulgular yer almaktadır. Buna göre; 79’ü (% 20,2) 0-500 TL arasında, 143’ü (% 36,4)
+5001-1000 TL arasında, 120’si (% 31.4) 1001-2000 TL arasında ve 47’si (% 12,0) 2001
+TL arasında bir gelir düzeyine sahip oldukları belirlenmiştir.
+
+Tablo 5: Katılımcıların Okumakta Oldukları Fakülteler
+                Fakülte
+f
+%
+ Teknoloji Fakültesi
+29
+7,4
+Spor Bilimleri Fakültesi
+9
+2,3
+Su Ürünleri Fakültesi
+7
+1,8
+Tıp Fakültesi
+17
+4,3
+Sağlık Bilimleri Fakültesi
+11
+2,8
+Mühendislik Fakültesi
+19
+4,8
+Fen Fakültesi
+37
+9,4
+İletişim Fakültesi
+152
+38,8
+Mimarlık Fakültesi
+10
+2,6
+Diş Hekimliği Fakültesi
+8
+2,0
+Eğitim Fakültesi
+25
+6,4
+İlahiyat Fakültesi
+11
+2,8
+İktisadi İdari Bilimler Fakültesi
+25
+6,4
+İnsani ve Sosyal Bilimler Fakültesi
+26
+6,6
+Veterinerlik Fakültesi
+6
+1,5
+Toplam
+392
+100,0
+
+--- Sayfa 58 ---
+48
+Katılımcıların eğitim gördükleri bölümler tablo 5’te verilmiştir. Buna göre
+deneklerin; 29’ü (% 7,4) Teknoloji Fakültesinde, 9’u (% 2,3) Spor Bilimleri
+Fakültesinde, 7’si (% 1,8) Su Ürünleri Fakültesinde, 17’si  (% 4,3) Tıp fakültesinde,
+11’i (% 2,8) Sağlık Bilimleri Fakültesinde, 19’u (% 4,8) Mühendislik Fakültesinde,
+37’si (% 9,4) Fen Fakültesinde, 152’si (% 38,8) İletişim Fakültesinde, 10’u (% 2,6)
+Mimarlık Fakültesinde, 8’i (% 2,0) Diş Hekimliği Fakültesinde, 25’i (% 6,4) Eğitim
+Fakültesi, 11’i (% 2,8) İlahiyat Fakültesinde, 25’i (% 6,4) İkdisad İdari Bilimler
+Fakültesi, 26’sı (% 6,6)  İnsani ve Sosyal Bilimler Fakültesi, 6’sı (% 1,5) Veterinerlik
+Fakültesinde okuduğu görülmektedir. Bu sonuçlara göre ankete katılan katılımcıların
+ağırlıklı olarak İletişim Fakültesinde eğitim gördükleri belirlenmiştir.
+
+Tablo 6: Katılımcıların Gün İçinde Telefon Kullanım Süresi (En az 3 Saat)
+Gün içinde telefon kullanım süresi (en az üç saat)
+f
+%
+ Kesinlikle hayır
+46
+11,7
+Hayır
+41
+10,5
+Kararsızım
+20
+5,1
+Evet
+116
+29,6
+Kesinlikle evet
+169
+43,1
+Toplam
+392
+100,0
+
+Ankete katılan katılımcıların gün içeresinde en az üç saat telefon kullanıp
+kullanmadıklarına ilişkin veriler tablo 6’da yer almaktadır. Buna göre ‘kesinlikle hayır’
+ve ‘hayır’ diyenlerin oranı % 23,2’dir. ‘kararsızım’ diyenlerin oranı ise % 5,1’dir. ‘evet’
+ve ‘kesinlikle evet’ diyenlerin oranı da % 72,7 olarak belirlenmiştir. Elde edilen verilere
+göre gün içinde telefon kullanıcılarının % 72,7 gibi yüksek bir oranla 3 saat telefonla
+uğraştıkları sonucuna ulaşılmıştır.
+
+--- Sayfa 59 ---
+49
+Tablo 7:  Denekler Herhangi Bir Sosyal Medya Platformuna Üye Olup Olmadığına
+Dair Bulgular
+Herhangi bir sosyal medya platformuna üye olma durumu
+f
+%
+ Kesinlikle hayır
+44
+11,2
+Hayır
+19
+4,8
+Kararsızım
+19
+4,8
+Evet
+140
+35,7
+Kesinlikle evet
+170
+43,4
+Toplam
+392
+100,0
+
+Deneklerin herhangi bir sosyal medya platformuna üye olup olmadıklarına
+ilişkin veriler tablo 7’de yer almaktadır. Buna göre; ‘kesinlikle hayır’ ve ‘hayır’
+diyenlerin oranı % 16,0’dır. ‘Kararsızım’ diyenlerin oranı ise % 4,8’dir. ‘Evet’ ve
+‘kesinlikle evet’ diyenlerin oranının % 79,1 olması katılımcıların çoğunluğunun
+herhangi bir sosyal medya platformu üye olduğunu göstermektedir.
+
+Tablo 8: Deneklerin En Az Üç Sosyal Medya Platformuna Üye Olup Olmadıklarına
+İlişkin Bulgular
+En az üç sosyal medya platformuna üye olma durumu
+f
+%
+ Kesinlikle hayır
+49
+12,5
+Hayır
+46
+11,7
+Kararsızım
+32
+8,2
+Evet
+119
+30,4
+Kesinlikle evet
+146
+37,2
+Toplam
+392
+100,0
+
+Katılımcıların çoğunluğu en az üç adet sosyal platformuna üye olup
+olmadıklarına dair bulgular tablo 8’de yer almaktadır. Buna göre; ‘kesinlikle hayır’ ve
+‘hayır’ diyenlerin oranı % 24,2, ‘kararsızım’ diyenlerin oranı ise % 8,2’dir. Bu
+sonuçlara göre ‘evet’ ve ‘kesinlikle evet’ diyenlerin oranının % 67,6 olması dikkat
+çekmektedir.
+
+--- Sayfa 60 ---
+50
+Tablo 9:  Katılımcıların En Çok Twitter Adlı Sosyal Medya Platformunu Kullanıp
+Kullanmadıklarına İlişkin Bulgular
+Twitter platformunu kullanma durumu
+f
+%
+ Kesinlikle hayır
+118
+30,1
+Hayır
+56
+14,3
+Kararsızım
+80
+20,4
+Evet
+71
+18,1
+Kesinlikle evet
+67
+17,1
+Toplam
+392
+100,0
+
+Deneklerin en fazla twitter platformunu kullanıp kullanmadıklarına ilişkin
+veriler üye tablo 9’da yer almaktadır. Elde edilen verilere göre; ‘kesinlikle hayır’ ve
+‘hayır’ diyenlerin oranı % 44,4 iken, ‘kararsızım’ diyenlerin oranı % 20,4’te kalmıştır.
+‘Evet’ ve ‘kesinlikle evet’ diyenlerin oranı ise % 35,2’dir. Bu sonuçlara göre Twitter
+platformunun katılımcılar tarafından ağırlıklı olarak kullanılmadığı sonucuna
+ulaşılmıştır.
+
+Tablo 10: Katılımcıların Sosyal Medyayı Yararlı Şekilde Kullanılıp Kullanılmadığına
+İlişkin Görüşleri
+Sosyal medyayı yararla bir şekilde kullanma durumu
+f
+%
+ Kesinlikle hayır
+90
+23,0
+Hayır
+77
+19,6
+Kararsızım
+92
+23,5
+Evet
+88
+22,4
+Kesinlikle evet
+45
+11,5
+Toplam
+392
+100,0
+
+Deneklerin sosyal medyayı yararlı bir şekilde kullanıp kullanmadıkları tablo
+10’da şu şekilde belirlenmiştir; ‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranı % 32,6’dır.
+‘kararsızım’ diyenlerin oranı % 23,5’dir. ‘Evet’ ve ‘kesinlikle evet’ diyenlerin oranı %
+33,9’dur.
+
+--- Sayfa 61 ---
+51
+Tablo 11: Katılımcıların Sosyal Medya Kullanıcıları Üzerinde Bir Denetim ve Gözetim
+Mekanizmasının Bulunup Bulunmadığına İlişkin Görüşleri
+Sosyal medyanın kullanıcılar üzerinde denetim ve gözetim
+mekanizması durumu
+f
+%
+ Kesinlikle hayır
+17
+4,3
+Hayır
+25
+6,4
+Kararsızım
+107
+27,3
+Evet
+141
+36,0
+Kesinlikle evet
+102
+26,0
+Toplam
+392
+100,0
+
+Deneklerin sosyal medyanın kullanıcıları üzerinde gözetim ve denetim
+mekanizmasının olup olmadığına dair görüşleri tablo 11’de yer almaktadır. Buna göre;
+‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranı % 10,7 ve ‘kararsızım’ diyenlerin oranı %
+27,3’tür. ‘Evet’ ve ‘kesinlikle evet’ diyenlerin oranının ise  % 62,0 olması baskın bir
+görüş olarak dikkat çekmektedir.
+
+Tablo 12: Katılımcıların Gözetim ve Denetim Mekanizmasının Toplumu Olumsuz
+Etkileyip Etkilemediğine İlişkin Görüşler.
+Gözetim ve denetim mekanizması toplumu olumsuz etkiler.
+f
+%
+ Kesinlikle hayır
+49
+12,5
+Hayır
+42
+10,7
+Kararsızım
+132
+33,7
+Evet
+95
+24,2
+Kesinlikle evet
+74
+18,9
+Toplam
+392
+100,0
+
+Deneklerin gözetim ve denetim mekanizmasının toplumu olumsuz etkileyip
+etkilemediğine ilişkin bulgular tablo 12’de yer almaktadır. Buna göre; ‘kesinlikle hayır’
+ve ‘hayır’ diyenlerin oranı % 23,2 ve ‘kararsızım’ diyenlerin oranı % 33,7’tür. ‘Evet’ ve
+‘kesinlikle evet’ diyenlerin oranı ise % 43,1 şeklinde öne çıkmaktadır.
+
+--- Sayfa 62 ---
+52
+Tablo 13: Sosyal Medyanın Toplumu Nefret Söylemine ve Linç Kültürüne Yönlendirip
+Yönlendirmediğine İlişkin Bulgular
+Sosyal medya toplumu nefret söylemi ve linç kültürüne yönlendirir.
+f
+%
+ Kesinlikle hayır
+25
+6,4
+Hayır
+69
+17,6
+Kararsızım
+104
+26,5
+Evet
+101
+25,8
+Kesinlikle evet
+93
+23,7
+Toplam
+392
+100,0
+Deneklerin sosyal medyanın toplumu nefret söylemine ve linç kültürüne
+yönlendirip yönlendirmediğine ilişkin görüşleri tablo 13’te yer almaktadır. Buna göre;
+‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranı % 24,0 ve ‘kararsızım’ diyenlerin oranı ise
+% 26,5’dir. Elde edilen bu verilere göre ‘evet’ ve ‘kesinlikle evet’ diyenlerin oranının %
+49,5 şeklinde baskın görünmesi dikkat çekmektedir.
+
+Tablo 14: Katılımcıların Sosyal Medyada Her Hangi Bir Kullanıcıya Karşı Nefret
+Söyleminde Bulunup Bulunmadığına İlişkin Görüşleri
+Sosyal medyada her hangi bir kullanıcıya karşı nefret söyleminde
+bulundum
+f
+%
+ Kesinlikle hayır
+108
+27,6
+Hayır
+88
+22,4
+Kararsızım
+54
+13,8
+Evet
+70
+17,9
+Kesinlikle evet
+72
+18,4
+Toplam
+392 100,0
+
+Deneklerin sosyal medyada her hangi bir kullanıcıya karşı nefret söyleminde
+bulunup bulunmadıklarına ilişkin görüşleri tablo 14’te yer almaktadır. Buna göre;
+‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranı % 50,0 ve ‘kararsızım’ diyenlerin oranı ise
+% 13,8’dir. Elde edilen verilere göre ‘evet’ ve ‘kesinlikle evet’ diyenlerin oranının ise
+% 36,3’te kaldığı görülmektedir. Buna göre katılımcıların sosyal medyada her hangi bir
+kullanıcıya karşı nefret söyleminde bulundukları baskın şeklide dikkat çekmektedir.
+
+--- Sayfa 63 ---
+53
+Tablo 15: Katılımcıların Sosyal Medyada Her Hangi Bir Konuda Nefret Söylemine
+veya Linç Oluşumuna Maruz Kalıp Kalmadığına İlişkin Görüşleri
+Sosyal medyada her hangi bir konuda nefret söylemine
+veya linç oluşumuna maruz kaldım.
+f
+%
+
+Kesinlikle hayır
+129
+32,9
+Hayır
+106
+27,0
+Kararsızım
+34
+8,7
+Evet
+66
+16,8
+Kesinlikle evet
+57
+14,5
+Toplam
+392
+100,0
+
+Katılımcıların sosyal medyada her hangi bir kullanıcı tarafından nefret
+söylemine maruz kalıp kalmadıklarına ilişkin görüşleri tablo 15’te verilmiştir. Buna
+göre; ‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranı % 59,9’ ve ‘kararsızım’ diyenlerin
+oranı % 8,7’dir. ‘Evet’ ve ‘kesinlikle evet’ diyenlerin oranı ise % 31,3’tür. Bu sonuçlara
+göre katılımcıların sosyal medyada her hangi bir kullanıcının nefret söylemine maruz
+kalmadıkları baskın şeklide dikkat çekmektedir.
+
+Tablo 16: Katılımcıların Türkiye’de En Çok Nefret Söyleminin ve Linç Oluşumunun
+Cinsiyet Ayrımcılığı Bağlamında Yapılıp Yapılmadığına İlişkin Görüşleri
+Türkiye’de en çok nefret söylemi ve linç oluşumu cinsiyet
+ayrımcılığı bağlamında yapılmaktadır.
+f
+%
+ Kesinlikle hayır
+28
+7,1
+Hayır
+75
+19,1
+Kararsızım
+134
+34,2
+Evet
+90
+23,0
+Kesinlikle evet
+65
+16,6
+Toplam
+392
+100,0
+
+Katılımcıların Türkiye’de en çok nefret söylemi ve linç oluşumunun cinsiyet
+ayrımcılığı bağlamından ele alındığı hakkındaki bulgulara tablo 16’da yer verilmiştir.
+Buna göre; ‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranı % 28,2 ve ‘kararsızım’
+
+--- Sayfa 64 ---
+54
+diyenlerin oranı % 34,2’dir. ‘Evet’ ve ‘kesinlikle evet’ diyenlerin oranının ise % 39,6
+olduğu belirlenmiştir.
+
+Tablo 17: Katılımcıların Sosyal Medyada Oluşan Nefret Söyleminin ve Linç
+Kültürünün Cezai Müeyyidesinin Olup Olmadığı Hakkındaki Görüşleri
+Sosyal medyada oluşan bu nefret söylemi ve linç kültürünün
+bir cezai müeyyidesi vardır.
+f
+%
+ Kesinlikle hayır
+42
+10,7
+Hayır
+39
+9,9
+Kararsızım
+114
+29,1
+Evet
+127
+32,4
+Kesinlikle evet
+70
+17,9
+Toplam
+392
+100,0
+
+Sosyal medyada oluşan nefret söyleminin ve linç kültürünün herhangi bir cezai
+müeyyidesinin olup olmadığı hakkındaki katılımcı görüşlerine tablo 17’de yer
+verilmiştir. Buna göre; ‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranı % 20,6 ve
+‘kararsızım’ diyenlerin oranı % 29,1’dır. ‘Evet’ ve ‘kesinlikle evet’ diyenlerin oranının
+ise % 50,3 oranı ile baskın olduğu dikkat çekmektedir.
+
+Tablo 18: Katılımcıların Gözetim ve Baskının Sosyal Medya Üzerinde Nefret ve Linç
+Söylemine Sebep Olup Olmadığına İlişkin Görüşleri
+Gözetim ve baskı sosyal medya üzerinde nefret ve linç
+söylemine sebep olmaktadır.
+f
+%
+ Kesinlikle hayır
+20
+5,1
+Hayır
+50
+12,8
+Kararsızım
+112
+28,6
+Evet
+109
+27,8
+Kesinlikle evet
+101
+25,8
+Toplam
+392
+100,0
+
+Sosyal medyada gözetim ve baskının sosyal medya üzerinde nefret ve linç
+söylemine sebebiyet verip vermediğine ilişkin katılımcı görüşleri tablo 18’de yer
+
+--- Sayfa 65 ---
+55
+almaktadır. Buna göre; ‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranı % 17,9 ve
+‘kararsızım’ diyenlerin oranı % 28,6’dır. ‘Evet’ ve ‘kesinlikle evet’ diyenlerin ise  %
+53,6 oranında baskın olduğu dikkat çekmektedir.
+
+Tablo 19: Sosyal Medya Üzerinden Oluşan Nefret Söylemi ve Linç Oluşumunun
+Kullanıcıları Rahatsız Edip Etmediğine Dair Bulgular.
+Sosyal medya üzerinden oluşan nefret söylemi ve linç
+oluşumu beni rahatsız eder.
+f
+%
+ Kesinlikle hayır
+25
+6,4
+Hayır
+31
+7,9
+Kararsızım
+58
+14,8
+Evet
+146
+37,2
+Kesinlikle evet
+132
+33,7
+Toplam
+392
+100,0
+
+Sosyal medya marifetiyle oluşturulan nefret söylemi ve linç oluşumunun
+kullanıcıları rahatsız edip etmediğine dair katılımcı görüşleri tablo 19’da sınanmıştır.
+Buna göre; ‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranının % 14,3 ve ‘kararsızım’
+diyenlerin oranının ise % 14,8 şeklinde olduğu belirlenmiştir. Buna karşın ‘evet’ ve
+‘kesinlikle evet’ diyenlerin oranının ise % 70,9 olduğu tespit edilmiştir. Bu sonuçlara
+göre sosyal medya marifetiyle oluşturulan nefret söyleminden ve linç oluşumundan
+katılımcıların rahatsızlık duydukları söylenebilir.
+
+Tablo 20: Katılımcıların Sosyal Medya Üzerinden Oluşturulan Linç Kültürü ve Nefret
+Söylemi
+Nedenleriyle
+Sosyal
+Medya
+Hesaplarını
+Kapatmayı
+Düşünüp
+Düşünmediklerine İlişkin Görüşleri
+Sosyal medya üzerinde nefret söylemi ve linç oluşumu devam
+ederse sosyal medyayı kapatmayı düşürüm.
+f
+%
+ Kesinlikle hayır
+74
+18,9
+Hayır
+62
+15,8
+Kararsızım
+114
+29,1
+Evet
+76
+19,4
+Kesinlikle evet
+66
+16,8
+Toplam
+392
+100,0
+
+--- Sayfa 66 ---
+56
+Sosyal medya üzerinde nefret söylemi ve linç oluşumu olması durumunda sosyal
+medyayı hesaplarını kapatmayı düşünüp düşünmediklerine dair katılımcı görüşleri tablo
+20’de yer almaktadır. Buna göre ‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranının % 34,7
+ve ‘kararsızım’ diyenlerin % 29,1 olduğu belirlenmiştir. Buna karşın ‘evet’ ve
+‘kesinlikle evet’ diyenlerin ise % 36,2 şeklinde olduğu tespit edilmiştir. Görüldüğü
+üzere katılımcıların nefret söylemi ve linç oluşumunda baskın bir görüşe sahip
+olmadıkları söylenebilir.
+
+Tablo 21: Katılımcıların Medyada Oluşan Toplumsal Gözetim ve Denetimin Sosyal
+Medya Kullanıcıları Üzerinde Nefret Söylemini ve Linç Kültürünü Teşvik Edip
+Etmediğine İlişkin Görüşleri
+Medyada oluşan toplumsal gözetim/denetimin sosyal medya
+kullanıcıları üzerinde nefret söylemini ve linç kültürünü
+teşvik etmemektedir.
+f
+%
+ Kesinlikle hayır
+68
+17,3
+Hayır
+48
+12,2
+Kararsızım
+125
+31,9
+Evet
+80
+20,4
+Kesinlikle evet
+71
+18,1
+Toplam
+392
+100,0
+
+Sosyal medya oluşan toplumsal gözetim ve denetimin sosyal medya
+kullanıcılarını linç kültürüne sevk edip etmediğine dair katılımcı görüşleri tablo 21’de
+verilmiştir. Buna göre; ‘kesinlikle hayır’ ve ‘hayır’ diyenlerin oranı % 29,5 ve
+‘kararsızım’ diyenlerin oranı % 31,9’dur. Buna karşın ‘evet’ ve ‘kesinlikle evet’
+diyenlerin oranın ise % 38,5 olduğu tespit edilmiştir. Bu sonuçlara göre Sosyal medyada
+oluşan toplumsal gözetim ve denetimin sosyal medya kullanıcılarını baskın olarak linç
+kültürüne sevk ettiği söylenebilir.
+
+--- Sayfa 67 ---
+57
+Tablo 22: Devlet Mekanizmasının Oluşturduğu Toplumsal Gözetim ve Denetimin
+Sosyal Medya Kullanıcıları Üzerinde Nefret Söylemi ve Linç Kültürünü Teşvik Edip
+Etmediğine Dair Bulgular
+Devlet mekanizmasının oluşturduğu toplumsal gözetim ve
+denetimin sosyal medya kullanıcıları üzerinde nefret söylemi
+ve linç kültürüne teşvik etmektedir.
+f
+%
+ Kesinlikle hayır
+41
+10,5
+Hayır
+70
+17,9
+Kararsızım
+103
+26,3
+Evet
+91
+23,2
+Kesinlikle evet
+87
+22,2
+Toplam
+392
+100,0
+
+Devlet mekanizmasının oluşturduğu toplumsal gözetim ve denetimin sosyal
+medya kullanıcıları üzerinde nefret söylemi ve linç kültürüne teşvik edip etmediğine
+dair bulgular tablo 22’de şu şekilde yer almıştır; ‘kesinlikle hayır’ ve ‘hayır’ diyenlerin
+oranı % 28,4’dür. ‘kararsızım’ diyenlerin oranı % 26,3’dur. ‘Evet’ ve ‘kesinlikle evet’
+diyenlerin oranı % 45,4’dür.
+
+--- Sayfa 68 ---
+58
+3.3.3. Araştırmanın Ki Kare Sonuçları
+
+Tablo 23: Sosyal Medyada Herhangi Bir Kullanıcıya Karşı Nefret Söyleminde
+Bulunma Durumu İle Cinsiyet Değişkeni Arasındaki Ki Kare İlişki Testi
+
+Sosyal medyada herhangi bir kullanıcıya karşı nefret
+söyleminde bulundum
+Toplam
+X2
+P
+Kesinlikle
+Hayır
+Hayır
+Kararsızım
+Evet
+Kesinlikle
+Evet
+-Katılımcıların Cinsiyet Durumu
+Kadın
+Frekans
+61
+48
+24
+21
+26
+180
+17,468a 0,002
+Yüzde
+56,50%
+54,50%
+44,40%
+30,00%
+36,10%
+45,90%
+Toplam
+Yüzde
+15,60%
+12,20%
+6,10%
+5,40%
+6,60%
+45,90%
+Erkek
+Frekans
+47
+40
+30
+49
+46
+212
+Yüzde
+43,50%
+45,50%
+55,60%
+70,00%
+63,90%
+54,10%
+Toplam
+Yüzde
+12,00%
+10,20%
+7,70%
+12,50%
+11,70%
+54,10%
+Toplam
+Frekans
+108
+88
+54
+70
+72
+392
+Yüzde
+27,60%
+22,40%
+13,80%
+17,90%
+18,40%
+100,00%
+Toplam
+Yüzde
+27,60%
+22,40%
+13,80%
+17,90%
+18,40%
+100,00%
+
+Elde edilen veriler, katılımcıların cinsiyet durumu ile sosyal medyada
+herhangi bir kullanıcıya karşı nefret söyleminde bulunma durumu arasında anlamlı bir
+ilişkinin olduğunu göstermektedir (P=0,002 < 0,050). Diğer bir ifadeyle, sosyal
+medyada nefret söyleminde bulunma durumu ile cinsiyet değişkeni arasında anlamlı bir
+ilişki vardır. Zira, kadınların (%30,00), erkeklere oranla (%70,00) sosyal medyada
+herhangi bir kullanıcıya karşı nefret söyleminde bulunma durumunun daha az olduğu
+tespit edilmiştir. Yani erkeklerin, sosyal medya platformlarında herhangi bir kullanıcıya
+karşı nefret söyleminde bulunma durumunun daha fazla olduğunu söylemek
+mümkündür. Söz konusu bu durum araştırmanın “Sosyal medyada herhangi bir
+kullanıcıya karşı nefret söyleminde bulunma durumu ile cinsiyet değişkeni arasındaki
+anlamlı bir ilişki vardır.” şeklindeki hipotezini doğrulamaktadır.
+
+--- Sayfa 69 ---
+59
+Tablo 24: Sosyal Medya Toplumu Nefret Söylemi ve Linç Kültürüne Yönlendirir
+Düşüncesi İle Telefon Kullanma Süresi Arasındaki Ki Kare İlişki Testi
+
+Madde 12. Sosyal medya toplumu nefret söylemi ve
+linç
+Kültürüne yönlendirir.
+Toplam
+X2
+ P
+Kesinlikle
+Hayır
+Hayır
+Kararsızım Evet
+Kesinlikle
+Evet
+Madde 5. Bir gün içerisinde en az 3 saat telefon kullanırım
+Kesinlikle
+Hayır
+Frekans  6
+5
+14
+9
+12
+46
+ 35,828a 0,03
+Yüzde  24,00%
+7,20%
+13,50%
+8,90%
+12,90%
+11,70%
+Toplam
+Yüzde
+1,50%
+1,30%
+3,60%
+2,30%
+3,10%
+11,70%
+Hayır
+Frekans  3
+14
+10
+6
+8
+41
+Yüzde  12,00%
+20,30% 9,60%
+5,90%
+8,60%
+10,50%
+Toplam
+Yüzde
+0,80%
+3,60%
+2,60%
+1,50%
+2,00%
+10,50%
+Kararsızım
+Frekans  2
+4
+6
+2
+6
+20
+Yüzde  8,00%
+5,80%
+5,80%
+2,00%
+6,50%
+5,10%
+Toplam
+Yüzde
+0,50%
+1,00%
+1,50%
+0,50%
+1,50%
+5,10%
+Evet
+Frekans  2
+26
+31
+40
+17
+116
+Yüzde  8,00%
+37,70% 29,80%
+39,60% 18,30%
+29,60%
+Toplam
+Yüzde
+0,50%
+6,60%
+7,90%
+10,20% 4,30%
+29,60%
+Kesinlikle
+Evet
+Frekans  12
+20
+43
+44
+50
+169
+Yüzde  48,00%
+29,00% 41,30%
+43,60% 53,80%
+43,10%
+Toplam
+Yüzde
+3,10%
+5,10%
+11,00%
+11,20% 12,80%
+43,10%
+Toplam
+Frekans 25
+69
+104
+101
+93
+392
+Yüzde
+6,40%
+17,60% 26,50%
+25,80% 23,70%
+100,00%
+Toplam
+Yüzde
+6,40%
+17,60% 26,50%
+25,80% 23,70%
+100,00%
+
+Araştırmada elde edilen verilere göre, sosyal medya toplumu nefret söylemi ve
+linç kültürüne yönlendirme düşüncesi ile telefon kullanma süresi arasında anlamlı bir
+ilişki bulunmaktadır  (P=0,03< 0,05).  Bu bakımdan, telefon kullanım süresi arttıkça
+(gün içerisinde en az 3 saat), sosyal medyada nefret ve linç kültürüyle karşı karşıya
+kalma durumunun da arttığını (% 53,80) söylemek mümkündür. Bu bulgular
+
+--- Sayfa 70 ---
+60
+araştırmanın “Sosyal medyanın toplumu nefret söylemi ve linç kültürüne yönlendirme
+durumu ile telefon kullanma süresi arasında anlamlı bir ilişki vardır.” şeklindeki
+hipotezini doğrulamaktadır.
+
+Tablo 25:   Devlet Mekanizmasının Toplumsal Gözetim ve Denetim Olgusunun Sosyal
+Medya Kullanıcılarını Nefret Söylemi ve Linç Kültürüne Yönlendirme Durumu ile
+Sosyal Medyanın Bireyler Üzerinde Bir Denetim ve Gözetim Mekanizmasının Olduğu
+Düşüncesi Arasındaki Ki Kare İlişki Testi
+
+Madde 21. Devlet mekanizmasının oluşturduğu toplumsal
+gözetim ve denetimin sosyal medya kullanıcıları üzerinde
+nefret söylemi ve linç kültürüne teşvik etmektedir.
+Toplam
+X2
+p
+Kesinlikle
+Hayır
+Hayır
+Kararsızım
+Evet
+Kesinlikle
+Evet
+Madde 10. Sosyal medyanın kullanıcılar üzerinde bir
+denetim ve gözetim mekanizması vardır.
+Kesinlikle
+Hayır
+Frekans
+4
+4
+0
+4
+5
+17
+41,974
+
+0,00
+Yüzde
+9,80%
+5,70%
+0,00%
+4,40%
+5,70%
+4,30%
+Toplam
+Yüzde
+1,00%
+1,00%
+0,00%
+1,00%
+1,30%
+4,30%
+Hayır
+Frekans
+4
+4
+11
+3
+3
+25
+Yüzde
+9,80%
+5,70%
+10,70%
+3,30%
+3,40%
+6,40%
+Toplam
+Yüzde
+1,00%
+1,00%
+2,80%
+0,80%
+0,80%
+6,40%
+Kararsızım
+Frekans
+9
+18
+33
+15
+32
+107
+Yüzde
+22,00%
+25,70%
+32,00%
+16,50%
+36,80%
+27,30%
+Toplam
+Yüzde
+2,30%
+4,60%
+8,40%
+3,80%
+8,20%
+27,30%
+Evet
+Frekans
+12
+27
+39
+47
+16
+141
+Yüzde
+29,30%
+38,60%
+37,90%
+51,60%
+18,40%
+36,00%
+Toplam
+Yüzde
+3,10%
+6,90%
+9,90%
+12,00%
+4,10%
+36,00%
+Kesinlikle
+Evet
+Frekans
+12
+17
+20
+22
+31
+102
+Yüzde
+29,30%
+24,30%
+19,40%
+24,20%
+35,60%
+26,00%
+Toplam
+Yüzde
+3,10%
+4,30%
+5,10%
+5,60%
+7,90%
+26,00%
+Toplam
+Frekans
+41
+70
+103
+91
+87
+392
+Yüzde
+10,50%
+17,90%
+26,30%
+23,20%
+22,20%
+100,00%
+Toplam
+Yüzde
+10,50%
+17,90%
+26,30%
+23,20%
+22,20%
+100,00%
+
+Elde edilen veriler doğrultusunda, devlet mekanizmasının oluşturduğu
+toplumsal gözetim ve denetimin, sosyal medya kullanıcılarını nefret söylemi ve linç
+kültürüne teşvik etme durumuyla; sosyal medyanın, kullanıcılar üzerinde bir denetim ve
+gözetim mekanizmasının olduğunun düşünme durumu arasında anlamlı bir ilişki vardır
+(P=0,00 < 0,05). Zira her iki madde arasındaki ilişkiye bakıldığında; sosyal medyada bir
+denetim ve gözetim mekanizmasının olduğunu düşünen katılımcıların; devlet
+mekanizmasının toplumsal gözetim ve denetim amacıyla, sosyal medya üzerinden nefret
+söylemi ve linç kültürüne teşvik ettiğini düşündüğünü göstermektedir. Bu durum,
+araştırmanın “Devlet mekanizmasının toplumsal gözetim ve denetim olgusunun sosyal
+
+--- Sayfa 71 ---
+61
+medya kullanıcılarını nefret söylemi ve linç kültürüne yönlendirme durumu ile sosyal
+medyanın bireyler üzerinde bir denetim ve gözetim mekanizmasının olduğu düşüncesi
+arasında anlamlı bir ilişki vardır” şeklindeki hipotezini doğrulamaktadır.
+
+Tablo 26: Sosyal Medyada Nefret Söylemi ve Linç Oluşumu Söz Konusu Olduğu
+Takdirde Sosyal Medyayı Kapatma Durumu İle Katılımcıların Cinsiyet Durumu
+Arasındaki Ki Kare İlişki Testi
+
+Madde 19. Sosyal medya üzerinden nefret söylemi ve linç
+oluşumu devam ederse sosyal medyayı kapatmayı düşürüm.
+Toplam   X2
+P
+Kesinlikle
+Hayır
+Hayır
+Kararsızım
+Evet
+Kesinlikle
+Evet
+Madde 11. Gözetim ve denetim mekanizması toplumu olumsuz etkiler.
+Kesinlikle
+Hayır
+Frekans
+16
+3
+13
+0
+17
+49
+52,681a 0,00
+Yüzde
+32,70%
+6,10%
+26,50%
+0,00%
+34,70%
+100,00%
+Toplam
+Yüzde
+4,10%
+0,80%
+3,30%
+0,00%
+4,30%
+12,50%
+Hayır
+Frekans
+3
+8
+13
+8
+10
+42
+Yüzde
+4,10%
+12,90%
+11,40%
+10,50%
+15,20%
+10,70%
+Toplam
+Yüzde
+0,80%
+2,00%
+3,30%
+2,00%
+2,60%
+10,70%
+Kararsızı
+m
+Frekans
+26
+26
+47
+20
+13
+132
+Yüzde
+35,10%
+41,90%
+41,20%
+26,30%
+19,70%
+33,70%
+Toplam
+Yüzde
+6,60%
+6,60%
+12,00%
+5,10%
+3,30%
+33,70%
+Evet
+Frekans
+16
+15
+26
+28
+10
+95
+Yüzde
+21,60%
+24,20%
+22,80%
+36,80%
+15,20%
+24,20%
+Toplam
+Yüzde
+4,10%
+3,80%
+6,60%
+7,10%
+2,60%
+24,20%
+Kesinlikle
+Evet
+Frekans
+13
+10
+15
+20
+16
+74
+Yüzde
+17,60%
+16,10%
+13,20%
+26,30%
+24,20%
+18,90%
+Toplam
+Yüzde
+3,30%
+2,60%
+3,80%
+5,10%
+4,10%
+18,90%
+Toplam
+Frekans
+74
+62
+114
+76
+66
+392
+Yüzde
+18,90%
+15,80%
+29,10%
+19,40%
+16,80%
+100,00%
+Toplam
+Yüzde
+18,90%
+15,80%
+29,10%
+19,40%
+16,80%
+100,00%
+
+ Eldeki veriler doğrultusunda, gözetim ve denetim mekanizmasının toplumu
+olumsuz etkileme durumu ile sosyal medyada nefret söylemi ve linç oluşumu devam
+ettiği takdirde, katılımcıların sosyal medyayı kapatmayı düşünme durumu arasında
+anlamlı bir ilişkinin olduğu tespit edilmiştir (P=0,00 < 0,05). Gözetim ve denetim
+mekanizmasının toplumu olumsuz etkilediğini düşünen katılımcıların daha fazla oranla
+(Kesinlikle Evet % 26, 30; Evet % 36,80); sosyal medya üzerinden nefret söylemi ve
+linç oluşumu devam ettiği takdirde sosyal medyayı kapatacağını belirtmektedir. Bu
+durum araştırmanın “Sosyal medyada nefret söylemi ve linç oluşumu söz konusu olduğu
+
+--- Sayfa 72 ---
+62
+takdirde sosyal medyayı kapatma durumu ile katılımcıların cinsiyet durumu arasında
+anlamlı bir ilişki vardır” şeklindeki hipotezini doğrulamaktadır.
+
+Tablo 27: Cinsiyet Değişkeni İle Telefon Kullanım Süresi Arasındaki Ki Kare İlişki
+Testi
+
+Madde 5. Bir gün içerisinde en az 3 saat telefon
+kullanırım.
+Toplam
+
+X2
+
+P
+Kesinlikle
+Hayır
+Hayır
+Kararsızım Evet
+Kesinlikle
+Evet
+Katılımcıların Cinsiyeti
+Kadın
+Frekans
+18
+16
+8
+61
+77
+180
+
+4,006a
+
+0,
+40
+Yüzde
+39,10%
+39,00% 40,00%
+52,60% 45,60%
+45,90%
+Toplam
+Yüzde
+4,60%
+4,10%
+2,00%
+15,60% 19,60%
+45,90%
+Erkek
+Frekans
+28
+25
+12
+55
+92
+212
+Yüzde
+60,90%
+61,00% 60,00%
+47,40% 54,40%
+54,10%
+Toplam
+Yüzde
+7,10%
+6,40%
+3,10%
+14,00% 23,50%
+54,10%
+Toplam
+Frekans
+46
+41
+20
+116
+169
+392
+Yüzde
+11,70%
+10,50% 5,10%
+29,60% 43,10%
+100,00%
+Toplam
+Yüzde
+11,70%
+10,50% 5,10%
+29,60% 43,10%
+100,00%
+
+Bu çalışmada, “Katılımcıların cinsiyet durumu ile bir günde en az üç saat telefon
+kullanma düzeyi arasında anlamlı bir ilişki yoktur” şeklindeki hipotezi test etmek
+amacıyla Ki Kare analizi kullanılmıştır. Bu analiz sonucunda, iki kategorik değişken
+arasında anlamlı bir ilişkinin olmadığı (P=0,05< 0,40) görülmüştür. Dolayısıyla,
+araştırmanın ilgili hipotezi doğrulanmıştır. Bu veriler, gerek kadınların gerekse
+erkeklerin, günde en az üç saat telefon kullanma süreleriyle, cinsiyetleri arasında
+anlamlı bir ilişkinin olmadığını göstermektedir. Dolayısıyla, her iki cinsiyet arasında da
+günde en az üç saat telefon kullanma süresi arasında bir benzerliğin söz konusu olduğu
+söylenebilmektedir. Diğer bir anlatımla, eldeki veriler doğrultusunda; günde en az üç
+saat telefon kullanma süresinin, cinsiyet değişkenine bağlı olmadığı görülmektedir.
+
+--- Sayfa 73 ---
+63
+SONUÇ
+
+Anket uygulaması sonrasında verilerin güvenirliliği belirlemek amacıyla yapılan
+C. Cronbach's Alpha değeri likert tipi maddeler üzerinden (N=17) değerlendirilmiştir.
+Elde edilen veriler doğrultusunda, çalışmadaki maddeler arasındaki güvenirlilik (iç
+tutarlılık kat sayı) değeri α=0.68’nin olması, çalışmadaki maddelerin güvenilir olduğuna
+tekabül etmektedir. Çünkü 0.60≤ α ≤0.90 arasındaki Cronbach’s Alfa katsayısı,
+maddelerin güvenilir olduğunu göstermektedir (Can, 2013).
+Araştırma sonucunda çalışmanın başında sunularak ortaya konulan hipotezlerin
+kabul ve ret durumları tablo 21’de verilmiştir.
+
+Tablo 28: Hipotezlerin Kabul ve Ret Durumları
+
+Hipotezler
+Kabul
+Ret
+H1
+Katılımcılar gün içerisinde 3 saat arasında telefon kullanırlar.
+X
+
+H2
+Katılımcılar herhangi bir sosyal platforma üyedir
+X
+
+H3
+Katılımcılar en az 3 sosyal medya platformuna üyelerdir.
+X
+
+H4
+Katılımcılar en çok twitter adlı sosyal medya platformunu kullanırlar.
+
+X
+H5
+Katılımcılar sosyal medyayı yaralı bir biçimde kullandığına inanmamaktadır.
+X
+
+H6
+Katılımcılar sosyal medyanın kullanıcılar üzerinde denetim ve gözetim
+mekanizması oluşturduğuna inanır.
+X
+
+H7
+Katılımcılar gözetim ve denetim mekanizmasının toplumu olumsuz yönde
+etkilediğini öne sürer.
+X
+
+H8
+Katılımcılar sosyal medyanın toplumu nefret söylemi ve linç kültürüne
+yönlendirdiğini savunur.
+X
+
+H9
+Katılımcılar sosyal medyada herhangi bir kullanıcıya karşı nefret ve kin
+söyleminde bulunmuştur.
+
+X
+H10
+Katılımcılar sosyal medya hesapları üzerinden her hangi bir konu hakkında nefret
+ve linç söylemi oluşumuna maruz kalmıştır.
+
+X
+H11
+Türkiye’de sosyal medya kullanıcıları en çok cinsiyet ayrımcılığı bağlamında
+nefret söylemi ve linç etme yönelimine başvururlar.
+X
+
+H12
+Sosyal medyada oluşan bu nefret söylemi ve linç kültürünün bir cezai müeyyidesi
+vardır.
+X
+
+H13
+Toplumsal gözetim ve baskı sosyal medya üzerinde nefret ve linç söylemlerine
+sebep olmaktadır.
+X
+
+H14
+Sosyal medyanın içerisinde oluşan nefret söylemi ve linç oluşumu denekleri
+rahatsız eder.
+X
+
+H15
+Katılımcılar sosyal medya üzerinde nefret söylemi ve linç oluşumu devam ederse
+sosyal medyayı kapatmayı düşünürler.
+X
+
+H16
+Medyada oluşan toplumsal gözetim ve denetimin sosyal medya kullanıcıları
+üzerinde nefret söylemi ve linç kültürüne teşvik etmemektedir.
+X
+
+H17
+Devlet mekanizmasının oluşturduğu toplumsal gözetim ve denetimin sosyal medya
+kullanıcıları üzerinde nefret söylemi ve linç kültürüne teşvik etmektedir.
+X
+
+--- Sayfa 74 ---
+64
+Yukarıdaki tablodan da görüleceği üzere araştırmanın başında ortaya konulan 17
+hipotezin üç tanesi yanlışlanmış, buna karşın 14 hipotezin ise doğrulandığı tespit
+edilmiştir. Anket uygulamasına iştirak eden denek grubunun demografik özelliklerine
+bakıldığında; örneklem grubunu oluşturan öğrencilerin ağırlıklı olarak 18-22 yaş
+aralığında olduğu belirlenmiştir. Katılımcıların cinsiyetler göre dağılımda ise bir birine
+yakın bir oranın yakalandığı belirlenmiştir. Katılımcıların gelir düzeyinde ise ağırlıklı
+olarak aylık 500-2000 TL arasında bir gelire sahip oldukları tespit edilmiştir.
+Anket uygulaması sonucunda elde edilen verilere göre katılımcıların gün
+içerisinde en az üç saat telefonla sosyal medyada sörf yaptıkları, herhangi bir sosyal
+medya platformuna üye oldukları ve bu sayının en üç platform olduğu hipotezleri
+doğrulanmıştır. Ancak katılımcıların en çok twitter adlı sosyal medya platformunu
+kullandıkları hipotezi yanlışlanmıştır.
+Yapılan analiz değerlendirmeleri sonucunda; katılımcıların sosyal medyayı
+yaralı bir biçimde kullandıklarına, sosyal medyanın kullanıcılar üzerinde denetim ve
+gözetim mekanizması oluşturduğuna inandıkları, ancak gözetim ve denetim
+mekanizmasının toplumu olumsuz yönde etkilediği ve sosyal medyanın toplumu nefret
+söylemi ve linç kültürüne yönlendirdiği hipotezlerin doğrulandığı bulgularına
+ulaşılmıştır.
+Diğer taratan Katılımcılar sosyal medyada herhangi bir kullanıcıya karşı nefret
+ve kin söyleminde bulundukları ve kendilerinin sosyal medya hesapları üzerinden her
+hangi bir konu hakkında nefret ve linç söylemi oluşumuna maruz kaldıkları yönünde
+sınanan hipotezlerin yanlışlandığı sonucuna ulaşılmıştır.
+Bu değerlendirmelere ak olarak Katılımcıların; Türkiye’de sosyal medya
+kullanıcılarının en çok cinsiyet ayrımcılığı bağlamında nefret söylemi ve linç etme
+yönelimine başvurdukları, Türkiye’de sosyal medyada oluşan nefret söylemi ve linç
+kültürünün bir cezai müeyyidesi olduğunu, toplumsal gözetim ve baskının sosyal medya
+üzerinden nefret ve linç söylemlerine sebebiyet verdiğini, sosyal medya yolu ile oluşan
+nefret söyleminden ve linç oluşumundan deneklerin rahatsız olduğunu, sosyal medya
+üzerinden nefret söyleminin ve linç oluşumunun devam etmesi durumunda hesaplarını
+kapatmak istediklerini, çünkü sosyal medyada oluşan toplumsal gözetim ve denetimin
+sosyal medya kullanıcıları üzerinde nefret söylemini ve linç kültürünü teşvik ettiğini,
+yine bu bağlamda devlet mekanizmasının oluşturduğu toplumsal gözetim ve denetimin
+
+--- Sayfa 75 ---
+65
+sosyal medya kullanıcıları üzerinde de nefret söylemini ve linç kültürünü tahrik ettiğini
+düşündükleri yönündeki hipotezlerin doğrulandığı bulgularına ulaşılmıştır.
+Tüm bu değerlendirmeler sonucunda katılımcılar özelinde sosyal medyanın
+günlük hayatın tamamına sirayet ettiği, hatta kullanıcılar üzerinde bir hegemonya
+oluşturduğu söylenebilir. Zira üniversite öğrencileri özelinde sosyal medya kullanmayan
+öğrencilerin çok sınırlı olması bu platformların yaşamın bir parçası haline geldiğini ve
+hızla yayıldığını göstermektedir. Bu düzlemde hareket edildiğinde bu savı doğrular
+mahiyette kullanıcılar artık sadece bir sosyal medya hesabı ile yetinmediği, üç veya üç
+den fazla sosyal medya platformuna üye oldukları görülmüştür. Çünkü her platform
+kendine özgü farklı özellikler içermekte ve bireye kendini ifade edebilmesi ve dijitalizer
+kalmasını sağlamak üzere farklı seçenekler sunmaktadır. Bunun temel nedeni farklı
+seçeneklerin, kullanıcıların farklı platformlara yönlenmesine sebebiyet vermesine
+dayandırılabilir.
+Elde edilen bulgular içerisinde en önemlisi; haber yayılımının en etkin sosyal
+mecra ve toplumsal gündemin öncelikle belirlendiği alan olan, toplumsal reaksiyonların
+ve aynı zamanda tepkilerin hızla alınıp yayılabildiği ‘#-hastag’ kültürünü hayatımıza
+sokan kitle iletişim araçlarından twitter adlı uygulamasının en çok kullanılan platform
+olmamasıdır.
+Araştırma bulguları sonucunda sosyal medya kullanıcılarının aslında sosyal
+medya platformlarını yararlı şekilde kullanmadıkları sonucuna ulaşılmış olmasının
+anlamlı bir bulgu olarak değerlendirilmesi gerekir. Araştırma özelindeki kullanıcıların
+aslında sosyal medyanın kullanım şekillerden memnun olmadıkları, buna rağmen
+kullanmaya devam ettiklerini açıklamaları manidardır. Bu sonucun aslında sosyal
+medya kullanıcıların sosyal medya ile arasındaki bağlantıyı koparamadıkları, hatta
+bağımlı oldukları sonucunu ortaya çıkarmaktadır.
+Araştırmada öne çıkan önemli unsurlardan biri de sosyal medyanın gözetim ve
+denetim sürecini normalleştirmesinin kullanıcılar tarafından farkında olunmasına
+rağmen kullanılmaya devam edilmesidir. Kuşkusuz bu durum rızaya dayalı bir süreçtir,
+ancak gözetimin rutinleşerek küresel boyuta taşınmasına sebebiyet vermektedir.
+Dolaysıyla sosyal medya artık post modern dünyanın gözetimle kontrol altına alındığını
+göstermektedir. Sonuç olarak toplumlar artık gözetime karşı bir refleks geliştirmemekte
+veya geliştirememekte hatta gözetime destek olmaya aracılık etmektedirler. Diğer bir
+anlatımla gözetimdeki rıza, distopik repertuar unsurlarından biri haline gelmiştir
+
+--- Sayfa 76 ---
+66
+denilebilir. Bu açıdan bakıldığında gözetimin toplum üzerinde olumsuz sonuçlar
+doğurduğunu doğrulayan araştırma bulguları, gözetime karşı direnç gösteremeyen
+sosyal medya kullanıcıları ile tezat bir sonuç doğurduğunu göstermektedir. Ancak bu
+tezatlığın sosyal medya kullanımına etki etmemesi diğer bir manidar bulgu olarak
+dikkat çekmektedir.
+Deneklerin alına cevaplar üzerinden hareket edildiğinde; sosyal medya
+kullanıcılarının nefret söylemi ve linç kültürüne yönelmedikleri veya meşru olarak
+değerlendirmedikleri
+görülebilmektedir. Katılımcıların
+sosyal
+medya hesapları
+üzerinden her hangi bir nefret söylemine ve linç oluşumuna maruz kalmadıklarını ifade
+etmeleri ve kendilerinin bir nefret söylemi veya linç kültürü ile bağlantılı olarak bir
+oluşum içerisinde bulunmadıkları yönündeki beyanları bu savı destekler niteliktedir.
+Ancak kendileri maruz kalmamakla beraber Türkiye’de sosyal medya kullanıcılarının
+en çok cinsiyet ayrımcılığı üzerinden nefret ve linç kültürü oluşumuna maruz
+kalındıkları yönündeki görüşü doğrulamaları dikkat çekmektedir.
+Araştırmanın temel hipotezlerinden biri olan gözetim ve baskının toplumsal
+düzenin temsili durumunda olan “sosyal medya platformlarının nefret söyleminin ve
+linç oluşumunun araçsallaşmasına neden olduğu yönündeki hipotezin doğrulandığı
+tespit edilmiştir. Gözetimin ve baskının doğal bir sonucu olarak bireylerin kendilerini
+ifade etmesine engel teşkil ettiği düşünüldüğünde, sosyalleşme adına bireylere
+kendilerini ifade edebilecekleri ve dönüt alabilecekleri bir ortam sağlayan sosyal
+medyaya yöneldikleri öngörülebilir. Katılımcıların sosyal medya platformlarına duyulan
+ilginin bu güçten kaynaklandığı ve yönelimi arttırdığı söylenebilir. Ancak baskı ve
+gözetimin etkisi ile başka kullanıcılara karşı nefret söylemi geliştirmeye ve linç
+oluşumuna sebebiyet vermeye tepkisiz kalınmaması beklenen hümanist bir yaklaşımdır.
+Dolayısıyla sosyal medyada oluşan nefret söyleminin ve linç oluşumunun katılımcılar
+tarafından olumlanmaması anlamlı bir bulgudur. Zira rahatsızlık verici bu durumun
+sosyal medya platformlarda görülmesi veya devam ettirilmesi halinde katılımcıların
+hesaplarını kapatabileceklerini veya kullanmayacaklarını düşünebilecekleri yönündeki
+görüşleri bu savı doğrular mahiyettedir.
+Tezin temel amacı; sosyal medya üzerinden nefret söyleminin ve linç kültürünün
+distopik bakış açısından değerlendirilmesi temeline dayanmaktadır. Bu amaca ulaşmak
+üzere oluşturulan hipotezler bir anket uygulaması ile denekler üzerinde sınanmaya
+çalışılmıştır. Araştırmanın sonucunda sosyal medyanın gözetim özelliği ve denetim
+
+--- Sayfa 77 ---
+67
+baskısı sayesinde nefret söylemi olgusunun veya linç kültürünün teşvik edilmesine
+aracılık ettiği yönündeki katılımcı görüşleri anlamlı bir bulgu olarak değerlendirilmiştir.
+Bu gerçekler doğrultusunda katılımcıların sosyal medyadan uzaklaşmaya kadar
+gidebileceği ve bu durumun yakın bir tarihte toplumsal bir refleks haline dönüşebileceği
+öngörülebilir.
+Daha ziyade distopik romanlarda görülebilen, ancak günümüzde sosyal medya
+platformlarında hayat bulan gözetim olgusu distopik açıdan ele alındığında; gözetimden
+haberdar olmayı rıza ile gerçekleştiren kullanıcıların kendilerine dair bıraktıkları dijatil
+izleri ile sisteme katkı sağladıkları söylenebilir. Zira gelecekte nefret söyleminin veya
+linç oluşumunun kendilerini de bekleyen bir tehlike olabileceğinin farkında olan
+katılımcıların bağımlı oldukları sosyal medya hesaplarını bu doğrultuda ilerleyen
+süreçte kapatabileceklerini ifade etmeleri yine bu savı doğrular niteliktedir.
+Katılımcıların cinsiyet durumu ile sosyal medyada herhangi bir kullanıcıya karşı
+nefret söyleminde bulunma durumu arasında anlamlı bir ilişkinin olup olmadığını tespit
+etmek amacıyla yapılan ki kare çözümlemesinde; P=0,002 < 0,050 sonucuna
+ulaşılmıştır. Diğer bir anlatımla sosyal medyada nefret söyleminde bulunma durumu ile
+cinsiyet değişkeni arasında anlamlı bir ilişkinin olduğu sonucuna varılmıştır. Verilere
+bakıldığında; kadınların (% 30,00), erkeklere oranla (%70,00) sosyal medyada herhangi
+bir kullanıcıya karşı nefret söyleminde bulunma durumunun daha az olduğu
+görülmektedir. Diğer bir anlatımla erkeklerin, sosyal medya platformlarında herhangi
+bir kullanıcıya karşı nefret söyleminde bulunma durumunun daha fazla olduğunu
+söylemek mümkündür. Söz konusu bu durum araştırmanın “Sosyal medyada herhangi
+bir kullanıcıya karşı nefret söyleminde bulunma durumu ile cinsiyet değişkeni
+arasındaki anlamlı bir ilişki vardır.” şeklindeki hipotezini doğrulamaktadır.
+Araştırmada sosyal medyanın toplumu nefret söylemine ve linç kültürüne
+yönlendirme düşüncesi ile telefon kullanma süresi arasında anlamlı bir ilişkinin olup
+olmadığına yönelik yapılan ki kare çözümlemesinde P=0,03< 0,05 sonucuna
+ulaşılmıştır. Bu verilere göre telefon kullanım süresi arttıkça (gün içerisinde en az 3
+saat), sosyal medyada nefret ve linç kültürüyle karşı karşıya kalma durumunun da
+arttığını (% 53,80) söylemek mümkün görünmektedir. Bu bulgular araştırmanın “Sosyal
+medyanın toplumu nefret söylemi ve linç kültürüne yönlendirme durumu ile telefon
+kullanma süresi arasında anlamlı bir ilişki vardır.” şeklindeki hipotezini
+doğrulamaktadır.
+
+--- Sayfa 78 ---
+68
+Devlet mekanizmasının oluşturduğu toplumsal gözetim ve denetimin, sosyal
+medya kullanıcılarını nefret söylemine ve linç kültürüne teşvik etme durumuyla; sosyal
+medyanın, kullanıcılar üzerinde bir denetim ve gözetim mekanizmasının olduğunun
+düşünme durumu arasında anlamlı bir ilişkinin olup olmadığına yöenlik yapılan ki kare
+çözümlemesinde P=0,00 < 0,05 sonucuna ulaşılmıştır. Diğer bir ifadeyle her iki madde
+arasındaki
+ilişkiye
+bakıldığında;
+sosyal
+medyada
+bir
+denetim
+ve
+gözetim
+mekanizmasının olduğunu düşünen katılımcıların; devlet mekanizmasının toplumsal
+gözetim ve denetim amacıyla, sosyal medya üzerinden nefret söylemi ve linç kültürüne
+teşvik ettiğini düşündüğünü göstermektedir. Bu durum, araştırmanın “Devlet
+mekanizmasının toplumsal gözetim ve denetim olgusunun sosyal medya kullanıcılarını
+nefret söylemi ve linç kültürüne yönlendirme durumu ile sosyal medyanın bireyler
+üzerinde bir denetim ve gözetim mekanizmasının olduğu düşüncesi arasında anlamlı bir
+ilişki vardır” şeklindeki hipotezini doğrulamaktadır.
+Gözetim ve denetim mekanizmasının toplumu olumsuz etkileme durumu ile
+sosyal medyada nefret söylemi ve linç oluşumunun devam etmesi durumunda
+katılımcıların sosyal medyayı kapatmayı düşünme durumu arasındaki ilişkiyi belirlemek
+amacıyla yapılan ki kare analizinde anlamlı bir ilişkinin olduğu tespit edilmiştir (P=0,00
+< 0,05). Zira gözetim ve denetim mekanizmasının toplumu olumsuz etkilediğini
+düşünen katılımcıların daha fazla oranla sosyal medya üzerinden nefret söylemi ve linç
+oluşumu devam ettiği takdirde sosyal medyayı kapatacağını belirtmektedir. Bu durum
+araştırmanın “Sosyal medyada nefret söylemi ve linç oluşumu söz konusu olduğu
+takdirde sosyal medyayı kapatma durumu ile katılımcıların cinsiyet durumu arasında
+anlamlı bir ilişki vardır” şeklindeki hipotezini doğrulamaktadır.
+Bu çalışmada, “Katılımcıların cinsiyet durumu ile bir günde en az üç saat telefon
+kullanma düzeyi arasında anlamlı bir ilişki yoktur” şeklindeki hipotezi test etmek
+amacıyla Ki Kare analizi kullanılmıştır. Bu analiz sonucunda, iki kategorik değişken
+arasında anlamlı bir ilişkinin olmadığı (P=0,05< 0,40) tespit edilmiştir. Bu sonuç,
+araştırmanın ilgili hipotezinin yanlışlandığını göstermektedir. Diğer bir anlatımla bu
+bulgular gerek kadınların gerekse erkeklerin, günde en az üç saat telefon kullanma
+süreleriyle, cinsiyetleri arasında anlamlı bir ilişkinin olmadığını göstermektedir.
+Dolayısıyla, her iki cinsiyet arasında da günde en az üç saat telefon kullanma süresi
+arasında bir benzerliğin söz konusu olduğu söylenebilmektedir. Diğer bir anlatımla,
+
+--- Sayfa 79 ---
+69
+eldeki veriler doğrultusunda; günde en az üç saat telefon kullanma süresinin, cinsiyet
+değişkenine bağlı olmadığı görülmektedir.
+
+Öneriler
+Sosyal medya platformları toplumu artık distopik bir yapıya sürüklemektedir.
+Vadettiği veya simüle ettiği gerçeklik ve mutluluk illüzyonlarının sosyolojik yapıda
+distopik deformasyonlar yarattığı dile getirilebilir. Ancak bu deformasyonların
+temelinde sosyal medya platformlarının araçtan ziyade meta olarak algılanmasının
+yattığı iddia edilebilir. Zira yaratılmış bir distopya varsa bunu salt egemen güçlere
+yüklemek doğru olmayacaktır. Tüketime odaklı bireyin önüne gelen her şeyi yok etme
+istenci, yeni teknolojilere de sirayet etmektedir. Dolayısıyla tüketilen bu mecra ve
+enformasyonlar herhangi bir süzgeçten geçirilmemektedir. Burada hem bireyin medya
+okuryazarlığı bağlamında bilinçlenmeye istekli olması gerekmekte hem de devlet
+kurumlarının sanal ortamlardan gelecek kültürel saldırılara karşı bilinçlendirme
+faaliyetlerini yapması gerekmektedir. Nitekim sosyal medya platform içeriğinde hem
+distopyayı hem de ütopyayı içinde barındırmaktadır. Tek bir tuş ile başka bir kıtada
+yapılan bir konferansa katılabilir, evinize yemek söyleyebilir, dışarı çıkmak için
+kendinizi bir araç talep edebilir, bambaşka insanlarla tanışabilir veya istediğiniz her
+türlü enformasyona ulaşabilirsiniz. Söz konusu bu mecraların ütopya veya distopya
+olarak yaşanılmasını belirleyecek şey ise kullanım eylemleridir.
+Sosyal medya aynı zamanda yapay zekâ kullanımı (web 3.0, web 4.0) sayesinde
+artık kullanıcılarına neyi izlemesi gerektiğini gösterebilme, neyi tüketmesi gerektiğine
+karar verdirtme, hangi duygusal veya ruhsal forma gireceğiniz noktasında
+yönlendirebilme gücüne ve daha fazlasına sahiptir. Gündem oluşturmak artık sosyal
+medya kullanıcıları ve bunu elinde bulunduran güçler tarafından yönlendirilmektedir.
+Kuşkusuz bu gücün bir kısmını da sanal medya üyeleri oluşturmaktadır. Ancak bu
+kullanıcıların eşit standartlara sahip olmadığını dile getirmek gerekmektedir. Takipçi
+sayısı ve etkileşim kurabileceği kitle her kullanıcı için aynı değildir. Kullanıcı bu takipçi
+sayılarına erişebilmek için de gene popüler kültürün dayattığı içerikler üretmeye,
+evrensel mizah anlayışına hizmet etmeye, eğlence ve tüketim içerikli davranmaya
+mecbur bırakılmaktadır. Etkileşimin ve çift yönlü iletişiminin yeni bir teknoloji çağı
+yarattığı söylemleri bu değişimler ile geleneksele doğru yol almakta, kullanıcılar
+izleyici pozisyonu alarak kısıtlı sayıda fenomenleri takip etmekle sınırlandırılmaktadır.
+
+--- Sayfa 80 ---
+70
+Belli bir takipçi sayısını geçen sosyal medya kullanıcılarının hemen reklam alma
+girişimlerinde bulunması, kapital mantığın yeni medya araçlarına ne denli nüfuz
+ettiğinin göstergesi durumundadır. Benzer tüketim, söylem ve ideoloji yaratma, küresel
+insan tek tipi ve bunları monotipe çeviren iletişim araçları modernizmin tekrar ayak
+seslerinin duyulduğu yönünde veya postmodern söylemlerin evrensel kapitalin
+boyunduruğunu kabul ettiği yönünde düşünmeye sevk etmektedir. Sosyal medya
+söylemlerinin dışına çıkılırsa linç edilme, nefret söylemleriyle karşı karşıya kalma
+tehlikeleri söz konusudur. Dolayısıyla kullanıcının neyi izlemekten keyif aldığını
+belirlenir ve buna benzer içerikler kullanıcının önüne sunulur. Bu durumda sosyal
+medya kullanıcılarının yeni gelen teknolojileri tüketme noktasında daha dikkatli
+davranması gerekmektedir. Zira iletişim araçlarını ortadan kaldırabilme gibi veya
+devrim niteliğinde büyük değişimlerin olmasını önermek gerçekçi olmayacaktır. Sanal
+uzamların dayattığı içeriklerin uygunluğu test ederek spamlamak, engellemek veya
+reklam içeriklerini görmemeye yönelik hamleler gerçekleştirilebilir. Neticede bireysel
+tedbirler almak ve neyin tüketildiğine dikkat ederek internet çağının distopyasına
+nispeten bir gölgelik çekilebilir.
+Dijital medya araçlarının yarattığı en önemli fark ise üretici ve tüketici
+kavramlarını birleştirmesine yönelik olmuştur. Üreten tüketici anlamındaki “produser”
+terimi, internet içeriklerini üreten ve tüketen yapıların aynı olduğuna işaret etmektedir.
+Multimedia gibi multiconsept üreten sosyal medya araçları, kullanıcılarının dijital
+hareketliliklerini metalaştırarak reklam üretebilmektedir. Aynı zamanda içerik üreten
+kullanıcılarının da aynı zamanda birer sosyal medya kullanıcısı olduğu önem arz
+etmektedir. Ücretsiz erişim sağlanan bu platformlar, ücretlerini reklamlar üzerinden
+almakta ve bu reklamlar karşılığında veriler satılmaktadır. Kişinin eylemlerini
+metalaştıran, eğlence veya boş vakit eylemleri olarak geliştirilen içerikleri kullanan ve
+bu minvalde gelişen bir yapının kendi döngüsünü kurduğu rahatlıkla ifade edilebilir.
+Toplumu gönüllü olarak bağlandığı bir medya platformunda bir meta haline getirir. Bu
+nedenle üretilen içeriklerin, yapılan paylaşımların ve internet hareketliliğin bu bilinçte
+yapılması oldukça önemlidir. Nitekim yol yine medya okuryazarlığına çıkmaktadır.
+Ancak klasik medya okuryazarlığı söylemleri geliştirilmeli, eleştirel yaklaşımlar, yeni
+teknolojilerin getirdiği farklılıklar dile getirilmelidir. Medya okuryazarlığı kavramı
+sürekli güncellenmesi ve geliştirilmesi gereken bir kavram olmakla birlikte salt
+
+--- Sayfa 81 ---
+71
+eğitimciler değil, yazılımcı, mühendis, akademisyen, geleneksel ve yeni medya
+uzmanları tarafından desteklenerek kapsamını genişletmelidir.
+Kullanıcıların dikkat etmesi ve farkındalık oluşturması gereken bir diğer husus
+ise internet çağında yeni teknolojiler marifetiyle bireylerin gözetim altında olduğunu
+bilmesidir. Hangi gönderiyi kaç saniye, izlediği nelerden hoşlandığı, neleri araştırdığı,
+kimlerle iletişime geçtiği hatta neler konuşup neler yaptığı izlenmeye açık durumdadır.
+Söz konusu bu durum gözetimin varlığı göstermektedir. Bu noktada dijital medya
+araçlarının ve sosyal medya platformlarının etik yapısını tartışılır hale getirmektedir. Bu
+durumun anayasa ile koruma altında olan özel hayatın mahremiyeti hususunda
+caydırıcılığı olması önem arz etmektedir. Ancak bu hususta hali hazırda bir cezai
+müeyyidenin olmadığı görülmektedir.
+Sosyal medya araçları vasıtasıyla oluşturulan gündemler ile toplumu
+kutuplaştırmaya, insanların özel hayatına, ailesine, onur ve gururuna yönelik saldırıların
+sonucunda nefret söylemi yaratmaya ve linç kültürü oluşturmaya yönelik eylemlerde
+bulunan kullanıcıların tıpkı gerçek hayattaki gibi caydırıcı unsurlarla karşılaşması
+gerekmektedir.  Bu platformlar hakkında bilgilendirmeler yapılmalı ve platformlara
+yönelik bazı etik sorumluluklar yüklenmelidir. Ve kuşkusuz caydırıcılık etkisi olması
+için bu etik sorumlulukların cezai müeyyidesi olmalıdır.
+
+--- Sayfa 82 ---
+72
+KAYNAKÇA
+
+Aktürk, Şener (2006) ‘Etnik Kategori ve Milliyetçilik: Tek-Etnili, Çok-Etnili ve Gayri-
+Etnik Rejimler’: Genel Tıp Dergisi.
+Alğan, T. Cengiz ve Şensever, F. Levent (Ed.) (2010), Ulusal Basında Nefret Suçları,
+Sosyal Değişim Derneği, İstanbul: Yön Matbaası.
+Avcı Raşit (2006) ‘Şiddet Davranışı Gösteren ve Göstermeyen Ergenlerin Ailelerinin
+Aile İşlevleri, Öfke Ve Öfke İfade Tarzları Açısından İncelenmesi’
+Aydoğan, Filiz (2017). Yeni Medya Kuramları, DR Yayınları İstanbul.
+Baudrillard Jean (1998). Simülakrlar ve Simülasyon, Oğuz Adanır (çev), Dokuz Eylül
+Yayınları, İzmir.
+Bayraktutan Gürseli, Binark Mutlu (2013) ‘Ayın Karanlık Yüzü: Yeni Medya Ve
+Etik’ Sosyal Değişim Derneği (2010):İstanbul;Yön Matbaası.
+Best, Steven ve Douglas Kellner (1998), Postmodern Teori (Çeviri: Mehmet Küçük),
+İstanbul: Ayrıntı Yayınları.
+Butler Judith (2008). Cinayet Belası, Beyoğlu, İstanbul :Metis Yayınları.
+Can A. (2013). Spss İle Bilimsel Araştırma Sürecinde Nicel Veri Analizi, Ankara:
+Pegem Yayınları.
+Cevizci Ahmet (1999). Ortaçağ Felsefesi Tarihi, Bursa: Asa Kitabevi.
+Çoban Barış ve Özarslan Zeynep (2008). Panoptikon: Gözün İktidarı, İstanbul: Su
+Yayın Evi
+Debord
+Guy
+(2012).
+‘Society
+Of
+The
+Spectacle’
+https://www.theguardian.com/commentisfree/2012/mar/30/guy-debord-society-
+spectacle
+Derrida, Jacques (2006). “Kendime Karşı Savaştayım”, Cogito, İstanbul, Yaz-Güz,
+Sayı:46-47.
+Dijk, Jan Van (2016). Ağ Toplumu, Taksim/İstanbul:Epsilon Yayıncılık Hizmetleri
+Eagleton, T. ( 1987). Awakening from Modernity, Times Literr Supplement, 20
+February 1987.
+Evecen Mithat (2018). Düşler Kadar Uzak, İstanbul: Cinius Yayınları
+Featherstone, Mike (1996). Postmodernizm ve Tüketim Kültürü (Çeviri: Mehmet
+Küçük), İstanbul: Ayrıntı Yayınları.
+
+--- Sayfa 83 ---
+73
+Foucault Michel (1954). Power: Essential Works of Michel Foucault, İstanbul:
+Penguin Yayınevi
+Foucault Michel (1992). İktidarın Gözü,İstanbul: Ayrıntı Yayınları
+Fredric Jameson (1994). Postmodernizm: Ya Da Geç Kapitalizmin Mantığı, Çev., Nuri
+Plümer, İstanbul, Yapı Kredi Yayınları, 53-93.
+Gidişoğlu Sercan, Rızvanoğlu Kerem (2011), “İnternette Türk Milliyetçiliği: Türk
+Milliyetçisi Siteler ve Ağ Yapısı Üzerine Bir Analiz”, Nefret Söylemi ve/veya
+Suçları, İstanbul: Ayrıntı Yayınları.
+Güçlü Nezahat (2003). Örgüt Kültürü,  Kırgızistan Manas Üniversitesi, Sosyal Bilimler
+Dergisi, Sayı:6, ss.147-159.
+Harvey, David. (2010). Postmodernliğin Durumu, İstanbul Metis Yayınları
+Hatipler Mustafa (2017). Postmodernizm, Tüketim, Popüler Kültür ve Medya Bilgi,
+(34) Summer/32-50
+Huyssens, Andreas (1984). Mapping The Post-Modern, New Gennan Critique, 33, 5-
+52.
+Ihab Hassan (1985). The Postmodern Turn: Essays in Postmodern Theory and Culture
+İnceoğlu, Yasemin (2013). “Tartışmalı Bir Kavram: Nefret Söylemi - Medya Ve Nefret
+Söylemi, Kavramlar, Mecralar, Tartışmalar, Mahmut Çınar” (Der.) İçinde
+İstanbul:  Hrant Dink Vakfı Yayınları.
+İnceoğlu, Yasemin ve Sözeri, Ceren (2012). “Nefret Suçlarında Medyanın
+Sorumluluğu:  ‘Ya Sev Ya Terk Et Ya Da…’, Nefret Söylemi ve/Veya Nefret
+Suçları”, Yasemin İnceoğlu (Der.) İçinde İstanbul: Ayrıntı Yayınları
+Karabulut, Aydın. (2020). “Geç Modern Zamanda Parrhesia ve Kahramanlık Üzerine
+Bir Değerlendirme”, Turkish Studies, 15(7), 2943-2957.
+Karan, U. (2012). Nefret İçerikli İfadeler, İfade Özgürlüğü ve Uluslararası Hukuk.
+Yasemin İnceoğlu (Der.), Nefret Söylemi Ve/Veya Nefret Suçları, İçinde (s: 81-
+102) İstanbul: Ayrıntı Yayınları.
+Kınık Kerem (2010) ‘Göç, Sürgün ve İltica’, http://www.amnesty.org.tr/ai/node/1538,
+E.T.: 13.05.2011.
+Kırılmaz Harun ve Ayparçası Fatma (2016). Modernizm ve Postmodernizm
+Süreçlerinin Tüketim Kültürüne Yansımaları, İnsan&İnsan Dergisi, Yıl:3 Sayı:8
+Bahar 32-58
+
+--- Sayfa 84 ---
+74
+Kumar Krishan (2006). Modern Zamanlarda Ütopya ve Karşı Ütopya, İstanbul:
+Kalkedon Yayıncılık.
+Lyotard, F. Jean (2014). Postmodern Durum (Çev. Dr. İsmet Birkan) Bilgesu
+Yayıncılık, İstanbul
+Mengü Ç. S. ve Diğ. (2010). “Toplumsal Cinsiyetçilik Ve İş Yaşamında Kadınların
+Karşılaştığı Sorunlar”. C: 4, Ss.183-211. İzmir: Uluslararası Multidisipliner
+Kadın Kongresi.
+Michel Foucault (1986). Of Other Spaces, Diacritics, 16 (1986), 22.
+More Thomas (2010) ‘Ütopya’, Dergah Yayınları, İstanbul.
+Nalbantoğlu, Hasan Ünal (2009). Arayışlar Bilim, Kütür, Üniversite, İletişim
+Yayıncılık
+Neimeyer, R.A. ve Bridges, S. K. (2003). Postmodern approaches to psychotherapy.
+(Ed: A.S. Gurman ve B. M. Stanley), İkinci Baskı. Essential Psychotherapies:
+Theory and Practice. (sayfa, 272-316). NY: The Guilford Press.
+Odabaşı, Yılmaz (2006). Tüketim Kültürü: Yetinen Toplumdan Tüketen Topluma,
+İstanbul: Sistem (İkinci Baskı).
+Öker Zuhal (2005). ‘Kadife Karanlık’, Baudrillard, J. (2005). İçinde: Kurgusal
+dünyanın gölgesinde bir unutkan, Kadife karanlık 21. yüzyıl iletişim çağını
+aydınlatan kuramcılar içinde (s. 193–256). İstanbul: Su Yayınları.
+Özdel Gizem (2012).  “Foucault Bağlamında İktidarın Görünmezliği ve ‘Panoptikon’
+İle ‘İktidarın Gözü’ Göstergeleri”
+Postman, Neil (2018). Televizyon Öldüren Eğlence, İstanbul:Ayrıntı Yayın Evi
+Şentürk Kara Eylem, Elçinboğa Alattin (2017). ‘Yenidünya Düzeninde Gözetlenme:
+Araçsal Gözetimden Sanal Gözetime’,
+Tandaçgüneş Nilnur (2013). Ütopya: Antikçağdan Günümüze ‘Mutluluk Vaadi’,
+İstanbul:Ayrıntı Yayınları.
+Tükel İrem (2014). ‘Tüketimin Yeni Aktörleri ve Y Kuşağı’, Hacettepe Üniversitesi
+Sosyolojik Araştırmalar Elektronik Dergisi, Ankara, 2014, 1-22, pdf.
+Yağbasan, F. Harun (2019). Türkiye’de Yeni Medyanın Kamu Hizmeti Yayıncılığında
+Yarattığı Değişimler: Trt Ve Yeni Medya İlişkisi, Yayınlanmamış Yüksek
+Lisans Tezi, Fırat Üniversitesi, Sosyal Bilimler Enstitüsü, Elazığ.
+
+--- Sayfa 85 ---
+75
+İNTERNET KAYNAKLARI
+cnnturk.com
+https://wearesocial.com/digital-2020#
+Online Etymology Dictionary, (2017)
+tdk.gov.tr
+
+--- Sayfa 86 ---
+76
+EKLER
+
+Ek 1. Orijinallik Raporu
+
+--- Sayfa 87 ---
+77
+Ek 2. Anket
+ARAŞTIRMA ANKETİ
+Aşağıda yer alan anket formundaki bilgilerin Prof. Dr. Mustafa Yağbasan danışmanlığında
+gerçekleştirilecek olan Yüksek Lisans proje çalışmasında yararlanılacaktır. Anket soruları genel olarak
+değerlendirileceği için isiminiz istenmeyecektir. Anketin amacı iş görenlerin şirket için yapılan
+performans değerlendirme yöntemine bakış açıları ölçmektedir. Bu nedenle sorulara içtenlikle cevap
+veriniz. Araştırmaya katılımda bulunduğunuz için teşekkür ederiz.
+Sevim Dilay Ercan
+Fırat Üniversitesi –İletişim Bilimleri Yüksek Lisans Öğrencisi
+DEMOGRAFİK SORULAR
+1-
+ Yaşınız :     (  )18-22          (  )23-27          (  )28-32          (  )33- ve üzeri
+2-
+Cinsiyetiniz:   (  ) Kadın         (  ) Erkek
+3-
+ Gelir Düzeyiniz:  (  ) 0-250 TL    (  ) 251-500   (  ) 501-750   (  )751- 1000    (  )
+4-
+Okuduğunuz Bölüm : (  ) Teknoloji Fakültesi (  ) İnsani ve Sosyal Bilimler Fakültesini  (  ) Su
+Ürünleri Fakültesi  (  ) Sağlık Bilimleri Fakültesi (  ) Mühendislik Fakültesi (  ) Fen Fakültesi    (
+)İktisadi ve İdari Bilimler Fakültesi (   ) Diş Hekimliği Fakültesi (   ) Eğitim Fakültesi (   ) Fen Fakültesi (
+) İletişim Fakültesi  (   ) İlahiyat Fakültesi (   ) Mimarlık Fakültesi (   ) Spor Bilimleri Fakültesi  (  ) Tıp
+Fakültesi
+S.No
+ANKET SORULARI
+Kesinle
+Katılıyorum
+Katılıyorum
+Kararsızım
+Katılıyorum
+Kesinlikle
+Katlıyorum
+1.
+Bir gün içerisinde en
+az 3 saat telefon
+kullanırım.
+
+2.
+Her hangi bir sosyal
+medya platformuna
+üyeyim.
+
+3.
+En az 3 sosyal medya
+platformuna üyeyim.
+
+4.
+En çok twitter adlı
+sosyal medya
+platformunu
+kullanırlar.
+
+5.
+Sosyal medyayı yararla
+bir şekilde
+kullanmıyorum.
+
+6.
+Sosyal medyanın
+kullanıcılar üzerinde
+bir denetim ve gözetim
+mekanizması vardır.
+
+--- Sayfa 88 ---
+78
+7.
+Gözetim ve denetim
+mekanizması toplumu
+oluşuz etkiler.
+
+8.
+Sosyal medya tolumu
+nefret söylemi ve linç
+kültürüne yönlendirir.
+
+9.
+Sosyal medyada her
+hangi bir kullanıcya
+karşı nefret söyleminde
+bulundum
+
+10.
+Sosyal medyada her
+hangi bir konuda nefret
+söylemine veya linç
+oluşumuna maruz
+kaldım.
+
+11.
+Türkiye’de en çok
+nefret söylemi ve linç
+oluşumu cinsiyet
+ayrımcılığı
+bağlamından ele
+alınmıştır.
+
+12.
+Sosyal medyada oluşan
+bu nefret söylemi ve
+linç kültürünün bir
+cezai müeyyidesi
+vardır.
+
+13.
+Gözetim ve baskı
+sosyal medya üzerinde
+nefret ve linç
+söylemine sebep
+olmaktadır.
+
+14.
+Sosyal medyanın
+içerisinde oluşan nefret
+söylemi ve linç
+oluşumu kullanıcıları
+rahatsız eder.
+
+15.
+sosyal medya üzerinde
+nefret söylemi ve linç
+oluşumu devam ederse
+
+--- Sayfa 89 ---
+79
+sosyal medyayı
+kapatmayı düşürüm.
+16.
+16-Medyada oluşan
+toplumsal gözetim ve
+denetimin sosyal
+medya kullanıcıları
+üzerinde nefret söylemi
+ve linç kültürüne teşvik
+etmemektedir.
+
+17.
+17-Devlet
+mekanizmasının
+oluşturduğu toplumsal
+gözetim ve denetimin
+sosyal medya
+kullanıcıları üzerinde
+nefret söylemi ve linç
+kültürüne teşvik
+etmektedir.
+
+--- Sayfa 90 ---
+80
+Ek 3. Etik Kurul Belgesi
+
+--- Sayfa 91 ---
+81
+
+--- Sayfa 92 ---
+82
+ÖZ GEÇMİŞ
+
+1997 yılında Elazığ’da doğdu. Sırasıyla; Vali Lütfullah Bilgin İlkokulu, Mezre
+Ortaokulu Ve Necip Güngör Kısaparmak İletişim Meslek Lisesi’nden mezun oldu. 2014
+yılında Fırat Üniversitesi İletişim Fakültesi Halkla İlişkiler ve Tanıtım Bölümünü
+kazanarak, 2018 yılında mezun oldu. Bu süreçte ulusal ve uluslararası sempozyumlara
+katılarak bilimsel bildiriler sundu. 2016-2018 yılları arasında yerel bir televizyon kanalı
+olan ‘Kanal 23’te çalıştı
+Halen Fırat Üniversitesi Sosyal Bilimler Enstitüsü İletişim Bilimleri ABD’ndaki
+Yüksek Lisans çalışmasını sürdürmektedir.

@@ -1,0 +1,6070 @@
+--- Sayfa 1 ---
+Aylık Popüler Bilim Dergisi  Şubat 2020  Yıl 53  Sayı 627 - 7 TL
+Plastikten
+Dost Olur mu?
+ÖZEL EK
+BİLİM DÜNYASININ
+KADINLARI - I
+Kuantum Bilgisayar
+Çağında Siber Güvenlik
+Uyuz Hastalığı
+2020'nin Merakla Beklenen
+Bilimsel Çalışmaları
+9 7 7 1 3 0 0 3 3 8 0 0 1
+2 7
+Lityum-İyon Piller
+
+--- Sayfa 2 ---
+Sahibi
+TÜBİTAK Adına Başkan
+Prof. Dr. Hasan Mandal
+Genel Yayın Yönetmeni ve
+Sorumlu Yazı İşleri Müdürü
+Doç. Dr. Rukiye Dilli
+(rukiye.dilli@tubitak.gov.tr)
+Yayın Yönetmeni
+Dr. Özlem Kılıç Ekici
+(ozlem.ekici@tubitak.gov.tr)
+Yayın Danışma Kurulu
+Doç. Dr. Emine Adadan
+Prof. Dr. Elif Damla Arısan
+Bekir Çengelci
+Doç. Dr. Ekin Özman Karakurt
+Doç. Dr. Lokman Kuzu
+Prof. Dr. Faruk Soydugan
+Yazı-Araştırma ve Editörler
+Dr. Özlem Ak
+(Tıp ve Sağlık Bilimleri)
+(ozlem.ak@tubitak.gov.tr)
+Dr. Tuncay Baydemir
+(Temel Bilimler ve Teknoloji)
+(tuncay.baydemir@tubitak.gov.tr)
+Dr. Bülent Gözcelioğlu
+(bulent.gozcelioglu@tubitak.gov.tr)
+Dr. Mahir E. Ocak
+(Fiziksel Bilimler)
+(mahir.ocak@tubitak.gov.tr)
+Dr. Tuba Sarıgül
+(Temel Bilimler)
+(tuba.sarigul@tubitak.gov.tr)
+İlay Çelik Sezer
+(Yaşam Bilimleri)
+(ilay.celik@tubitak.gov.tr)
+Redaksiyon
+Nurulhude Baykal
+(nurulhude.baykal@tubitak.gov.tr)
+Mehmet Sığırcı
+(mehmet.sigirci@tubitak.gov.tr)
+Grafik Tasarım
+Hüseyin Diker
+(huseyin.diker@tubitak.gov.tr)
+Ödül Evren Töngür
+(odul.tongur@tubitak.gov.tr)
+Video-Animasyon-Web
+Selim Özden
+(selim.ozden@tubitak.gov.tr)
+Teknik Yönetmen
+Sadi Atılgan
+(sadi.atilgan@tubitak.gov.tr)
+Mali Yönetmen
+Adem Polat
+(adem.polat@tubitak.gov.tr)
+İdari Hizmetler
+Nahide Soytürk
+(nahide.soyturk@tubitak.gov.tr)
+Yazışma Adresi Bilim ve Teknik Dergisi
+Kavaklıdere Mahallesi Esat Caddesi
+TÜBİTAK Ek Hizmet Binası No: 6
+06680 Çankaya ANKARA
+Tel (312) 298 95 24 Faks (312) 428 32 40
+İnternet www.bilimteknik.tubitak.gov.tr
+e-posta bteknik@tubitak.gov.tr
+Abone İlişkileri (312) 222 83 99
+abone@tubitak.gov.tr
+Abone www.tubitakdergileri.com.tr
+ISSN 977-1300-3380
+Fiyatı 7 TL - Yurtdışı Fiyatı 5 Euro
+Dağıtım TDP http://www.tdp.com.tr
+Baskı PROMAT Basım Yayın San. ve Tic. A.Ş.
+http://www.promat.com.tr/
+Tel (212) 622 63 63
+Baskı Tarihi 24.01.2020
+Bilim ve Teknik Dergisi, Milli Eğitim Bakanlığı
+[Tebliğler Dergisi, 30.11.1970, sayfa 407B, karar no: 10247]
+tarafından lise ve dengi okullara; Genelkurmay Başkanlığı
+[7 Şubat 1979, HRK: 4013-22-79 Eğt. Krs. Ş. sayı Nşr.83]
+tarafından Silahlı Kuvvetler personeline tavsiye edilmiştir.
+Bilim ve Teknik
+Aylık Popüler Bilim Dergisi
+Yıl 53  Sayı 627
+Şubat 2020
+“Benim mânevi mirasım ilim ve akıldır”
+Mustafa Kemal Atatürk
+Dünyada plastik üretimi yıllara göre sürekli bir artış gösteriyor. Küresel plastik üre-
+timi 2017 yılında 348 milyon ton civarlarındayken bu sayı 2018 yılında 360 milyon tona
+yaklaştı. Yıllar içerisinde plastiklere olan talebin artması ve bazı plastik türlerinin tam
+anlamıyla bozunmasının yüzlerce yıl sürebildiği göz önünde bulundurulduğunda,
+plastik üretimi ve kullanımının daha çevreci düzenlemeler ve yaklaşımlar çerçevesin-
+de gerçekleştirilmesi gerekiyor. Ülkemizde ve çoğu diğer ülkede bu konuyla ilgili bazı
+önemli girişimlerin başladığını biliyoruz.  Bunlar arasında plastik kullanımının azaltıl-
+ması, geri dönüşüm ve tekrar kullanım faaliyetlerinin üst seviyelere taşınması gibi poli-
+tikalar var. Mücadelenin en önemli öğelerinden birisi de petrol bazlı plastiklerin yerini
+mümkün olduğunca biyobozunur özelliğe sahip ve sürdürülebilir şekilde üretilebilen
+biyoplastiklerle doldurmaktan geçiyor. Tuncay Baydemir “Plastikten Dost Olur mu?” baş-
+lıklı yazısında biyoplastiklerle ilgili çalışmaları ve bu konudaki yeni eğilimleri anlatıyor.
+Özlem Ak bu ayki yazısında son zamanlarda oldukça gündemde olan uyuz hastalığı-
+nı ele alıyor.  İlay Çelik Sezer “2019 Nobel Kimya Ödülü Dünyanın En Güçlü Pilini Gelişti-
+renlere” başlıklı yazısıyla bu yılın Nobel yazı serisini sonlandırıyor. Mahir Ocak “Kuantum
+Bilgisayarlar Çağında Kriptografi” başlıklı yazısında kuantum bilgisayarlar çağında siber
+güvenliğin nasıl sağlanacağını sorguluyor. Bir diğer yazısında ise 2020 yılında gerçek-
+leşmesi merakla beklenen bilimsel çalışmaları özetliyor.  “Gökadamızın Huzurevinde
+Keşfedilen Genç Yıldızlar”, “Avustralya’daki Orman Yangınlarında Son Durum” ve “Yaşa-
+mımızın Bir Parçası Olan Kauçuk” başlıklı yazılarımızı da zevkle okuyacağınıza eminiz.
+Bu ay, sizler için yine çok özel bir kitapçık eki hazırladık. Bu kitapçıkta geçmişten
+günümüze bilim tarihine başarılarıyla damga vuran farklı ülkelerden bilim kadınlarını
+ele alıyoruz. Mart 2020 sayısında da başarılarıyla öne çıkmış Türk bilim kadınlarına yer
+vereceğiz.
+Dergimizin daha düşük fiyata ve ücretsiz kargoyla sizlere ulaşacağı abonelik kam-
+panyasından (yıllık 60 TL) faydalanmak için www.tubitakdergileri.com.tr adresini ziyaret
+edebilirsiniz.
+Dergimizin internet sayfasını (http://www.bilimteknik.tubitak.gov.tr) ve sosyal med-
+ya hesaplarını da takip edebilir, hayatınızdaki yerini ve size neler kattığını bizlerle payla-
+şabilirsiniz (bteknik@tubitak.gov.tr).
+Nesiller büyüten dergimizin bu sayısını da keyifle okumanızı diliyor, sonraki sayıla-
+rımızı sabırsızlıkla bekleyeceğinizi umuyoruz. Bilimle kalın...
+Unutmayın #bilimokuyanbilir!
+Saygılarımızla,
+Özlem Kılıç Ekici
+Dünyanın bilime, bilimin de kadınlara ihtiyacı var...
+Birleşmiş Milletler Genel Kurulu’nun 2015 yılında aldığı kararla,
+kadın ve kız çocuklarının bilim, teknoloji ve mühendislik alanlarında
+daha çok varlık göstermelerinin, bilim için çalışmalarının ve
+üretmelerinin teşvik edilmesi amacıyla her yıl 11 Şubat
+"Uluslararası Bilimde Kadınlar ve Kız Çocukları Günü" olarak kutlanıyor.
+
+--- Sayfa 3 ---
+28
+Plastikten Dost Olur mu?
+Biyoplastikler ve Yeni Eğilimler
+Tuncay Baydemir
+Modern toplumlarda plastik malzemeler
+hemen hemen her alanda kullanılıyor.
+Yaşamımızın vazgeçilmezleri hâline gelen
+plastik malzemelerin kullanılmasına gelecekte de
+yoğun bir şekilde devam edileceğe benziyor.
+Bu nedenle plastik üretimi ve kullanımının daha
+çevreci düzenlemeler ve yaklaşımlar
+çerçevesinde gerçekleştirilmesi gerekiyor.
+44
+Kuantum Bilgisayarlar Çağında
+Kriptografi
+Mahir E. Ocak
+Bugün internet üzerinden aktarılan
+bilgileri şifrelemek için kullanılan yöntemlerin
+bazıları kuantum bilgisayarlar karşısında
+tamamen savunmasız kalacak.
+Dolayısıyla kuantum bilgisayarlar çağında
+siber güvenliğin nasıl sağlanacağının şimdiden
+düşünülmesi gerekiyor.
+70
+Gökadamızın “Huzurevinde” Keşfedilen
+Genç Yıldızlar
+Faruk Soydugan
+Gökadamızın, emekli yıldızların huzurevi de
+denilebilecek halo bölgesinde beklenmedik bir
+şekilde, bir genç yıldız sürüsü belirlendiği
+rapor edildi. Keşfedilen bu genç yıldızların tayfsal
+analizleri daha da ilginç bir sonucu
+beraberinde getirdi: Bu genç yıldızların kökeni
+veya malzemesi bizim gökadamıza ait değil!
+İçindekiler
+
+--- Sayfa 4 ---
+4
+Bilim ve Teknik ile
+Büyüdüm!
+Özlem Ak
+6
+Haberler
+16
+Avustralya’daki
+Orman Yangınlarında
+Son Durum
+İlay Çelik Sezer
+18
+Dünya Sağlık Örgütü’nün
+“İhmal Edilen Hastalıklar”
+Listesinde... Uyuz
+Özlem Ak
+Önemli bir sağlık sorunu olan
+uyuz, 2017 yılında
+Dünya Sağlık Örgütü tarafından
+ihmal edilen hastalıklar
+listesinde yerini aldı.
+Uyuz için erken teşhis ve
+acil tedavi hayli önemli.
+Aksi takdirde salgın
+ve artan ekonomik yük
+karşılaşılacak problemlerden
+sadece birkaçı.
+26
+Bilim Çizgi
+Cahit Arf (2. Bölüm)
+Sinancan Kara
+40
+Tekno-Yaşam
+Gürkan Caner Birer
+52
+Merak Ettikleriniz
+Mesut Erol
+54
+2020’de Gerçekleşmesi
+Merakla Beklenen
+Bilimsel Çalışmalar
+Mahir E. Ocak
+Uzaydan parçacık fiziğine,
+iklim değişikliğinden
+sağlığa ve sentetik mayalara,
+enerjiden süperiletkenlere
+kadar birçok alanda
+gerçekleştirilmekte olan
+önemli çalışmaların merakla
+beklenen sonuçlarını
+bu yıl içinde öğrenebileceğiz.
+62
+2019 Nobel Kimya Ödülü
+Dünyanın En Güçlü Pilini
+Geliştirenlere
+İlay Çelik Sezer
+2019 Nobel Kimya Ödülü,
+lityum-iyon pillerin
+geliştirilmesine yaptıkları
+katkılardan dolayı
+John B. Goodenough,
+M. Stanley Whittingham ve
+Akira Yoshino
+adlı bilim insanlarına
+verildi.
+76
+Yaşamımızın Bir Parçası:
+Kauçuk
+Şahin İdin
+Giydiğimiz ayakkabıdan,
+otomobillerimizdeki
+tekerleklere ve
+cam sileceklerine,
+dalgıç giysilerinden
+hortumlara, hastanelerde
+kullanılan eldivenlerden
+izolasyon malzemelerine
+ve futbol toplarına
+kadar kauçuğu yüzyıllardır
+birçok şeyde kullanıyoruz.
+Kauçuğun bu kadar geniş bir
+yelpazede kullanılmasının
+sebebi esneklik, yumuşaklık,
+dayanıklılık, yapışkanlık
+ve su geçirmezlik gibi
+özellikleri.
+82
+Doğa - Fauna
+Koalalar
+Bülent Gözcelioğlu
+84
+Düşünme Kulesi
+Ferhat Çalapkulu
+86
+Satranç
+Kıvanç Çefle
+90
+Gökyüzü
+Faruk Soydugan
+93
+Ayın Sorusu
+(Matematik)
+Azer Kerimov
+94
+Zekâ Oyunları
+Emrehan Halıcı
+96
+Yayın Dünyası
+İlay Çelik Sezer
+EKLER -
+Özel Ek -
+Bilim Dünyasının
+Kadınları (1. Bölüm):
+Farklı Ülkelerden
+Bilim Tarihine
+Damga Vuranlar
+Özlem Kılıç Ekici,
+Sinancan Kara,
+Hüseyin Diker
+Bu özel kitapçık ekinde
+geçmişten günümüze
+bilim tarihine başarılarıyla
+damga vuran farklı ülkelerden
+bilim kadınlarını ele alıyoruz.
+Mart 2020 sayısında da
+başarılarıyla öne çıkmış
+Türk bilim kadınlarına
+ yer vereceğiz.
+Bilim ve Teknik
+Dergi Kutusu
+Sadi Atılgan,
+Hüseyin Diker
+(Dergi kutusu sadece Bilim ve Teknik
+dergisi abonelerine gönderilmektedir.)
+ Bilim ve Teknik
+ tubitakbiltek
+ tubitakbilimteknik
+ TÜBİTAK Bilim ve Teknik
+Dergimizin içeriğinden seçerek hazırladığımız bilimsel ve teknolojik bilgileri Bilim ve Teknik dergisinin sosyal medya hesapları aracılığıyla takip edebilirsiniz.
+
+--- Sayfa 5 ---
+Dr. Özlem Ak  [ TÜBİTAK Bilim ve Teknik Dergisi
+Bilim ve Teknik  Şubat 2020
+Okurlarımızın Bilim ve Teknik
+dergisinin hayatlarındaki yerini,
+onlara neler kattığını,
+geleceklerine yön verirken
+nasıl bir rol oynadığını bizimle
+paylaştıkları mektuplarını
+yayımlamaya devam ediyoruz.
+Bilim ve Teknik ile ilgili anılarını,
+duygu ve düşüncelerini
+bizimle paylaşan okurlarımıza
+çok teşekkür ediyor,
+“Bilim ve Teknik bilimi sevmemde ve
+kariyerimi seçmemde rol oynadı”
+diyen okurlarımız için
+adresimizi hatırlatıyoruz:
+bteknik@tubitak.gov.tr
+“Bilim ve Teknik hep hayatımda oldu, olacak”
+ Merhaba,
+Sizlerle ilk tanışmam çok eskiye dayanıyor. Çocukluğu-
+mun belli bir dönemi Bilim Çocuk dergisinden çıkan öğ-
+retici kartlarla oynamakla geçti . Şimdi ise Bilim ve Tek-
+nik dergisinin her yeni sayısının çıkmasını heyecanla
+bekleyen biriyim. Şu an biyomedikal mühendisliği bö-
+lümü öğrencisiyim. Hem mesleki hem de kişisel anlam-
+da bana çok şey kattı diyebilirim. Hem dünyadan hem
+de Türkiye’den inovasyon ve teknoloji konusundaki bir-
+çok gelişmeyi doğru bilgilerle bir arada toplayan ve her
+sayıda kendi çizgisini bozmadan yenileyen bir dergi. Bi-
+zim için de böylesi bir dergiyle karşılaşmak ve onu oku-
+mak büyük bir şans.
+Bilim ve Teknik hep hayatımda oldu, olacak da.  Her-
+kesin bir gün yolunun Bilim ve Teknik’le kesişmesi di-
+leğiyle.... Esen kalın.
+Ecem Kurnaz,
+Başkent Üniversitesi, Biyomedikal Mühendisliği Bölümü Öğrencisi
+“Deney ve gözlem yapmamı sağladı”
+ Merhaba,
+Bu serüvene başlamam 2007 yılında ilk dergimi almam-
+la başladı. Bu dergiyi ilk aldığımda ilgi çekici ve günlük
+hayattan bahseden faydalı konulara eriştiğimi fark et-
+tim. Şimdi Türkçe öğretmenliği bölümünde okuyorum
+ama fen ve teknik bilimden hiç kopmadım. Derginiz ay-
+nı zamanda deney ve gözlem yapmamı sağladı.
+Sizlerle tanıştığım için çok mutluyum. İyi ki sizi tanımı-
+şım ve dergilerinize erişmişim diyebiliyorum. Bilim ve
+Teknik ekibine her zaman yanımızda oldukları için te-
+şekkür ediyorum, hep var olun...
+Muhammet Sefa Ezbet,
+Artvin Çoruh Üniversitesi, Türkçe Öğretmenliği Bölümü,
+1. Sınıf Öğrencisi
+Aylık Popüler Bilim Dergisi  Şubat 2020  Yıl 53  Sayı 627 - 7 TL
+Plastikten
+Dost Olur mu?
+ÖZEL EK
+BİLİM DÜNYASININ
+KADINLARI - I
+Kuantum Bilgisayar
+Çağında Siber Güvenlik
+Uyuz Hastalığı
+2020'nin Merakla Beklenen
+Bilimsel Çalışmaları
+Lityum-İyon Piller
+
+--- Sayfa 6 ---
+5
+“Ufkumun genişlediğini hissediyorum”
+ Merhaba,
+Ben bu serüvene Bilim Çocuk dergisiyle başladım.
+Beni bu serüvene dâhil eden de 2. sınıf öğretmenim-
+di. Her ayın dergisini alır, sınıfta bizlere okur, anlatır-
+dı. Konu gökyüzüne geldiği zaman pür dikkat dinler-
+dim öğretmenimi, gökyüzü çok ilgimi çekerdi. Ayın
+evrelerini Bilim Çocuk dergisinden öğrenir, zama-
+nı geldiğinde gece dışarı çıkar ayı ve yıldızları izler-
+dim. Bu koca evrende yalnız olmadığımızı, üzerin-
+de akıllı ya da yarı akıllı canlıların yaşadığı bir geze-
+geni keşfettiğimi hayal ederdim. Son birkaç yıldır da
+Bilim ve Teknik’te buluyorum kendimi. Gökyüzüne
+olan merakım hâlâ yerini koruyor fakat şu an yapay
+zeka mühendisi olmayı hedefliyorum. Bu algoritma-
+ları anlamak ve insanlığa vermeleri muhtemel olan
+zararı en düşük seviyede tutmak için çabalamak is-
+tiyorum. Bilim ve Teknik ile ufkumun genişlediğini
+hissediyorum. İnanıyorum ki Türkiye’de benim gibi
+daha niceleri var. Sizler sayesinde de var olmaya de-
+vam edeceğiz. Yolumuzu bulmamızda yardımcı ol-
+duğunuz için çok teşekkür ederim. İyi ki varsınız.
+Rumeysa SARICA,
+Hayme Ana Fen ve Sosyal Bilimler Kız Anadolu İmam Hatip
+Lisesi, 10. Sınıf Öğrencisi, Antalya
+“Teşekkürler Bilim ve Teknik”
+ Merhabalar,
+Aslında buraya yazmak istediğim çok şey var, sizin-
+le epey küçükken tanıştım. Bilim Çocuk dergileri-
+nizi kardeşlerimle paylaşamazdım. Dergileri genel-
+de ağabeyim alırdı, ben de en sevdiğim bölümle-
+ri her sayıdan keserek dosya sayfalarıma koyardım
+ve bir nevi kendi dergimi oluşturmuş olurdum. Gel
+zaman git zaman dergileri unutmuştum bile... Bir
+kez dosyamı açtığımda eski günlerim canlandı ve
+Bilim ve Teknik dergisine abone olmaya karar ver-
+dim. Hâlâ aynı duyguyu yaşıyorum ama artık bu
+sefer sayfalar yerinde duruyor.
+Teşekkürler Bilim ve Teknik, çocukluğumda büyük hatıra-
+ya sahip olup beni yetiştirdiğiniz için.
+Zeynep Karaköse,
+Şehit İlhan Güleç Anadolu Lisesi, 2. Sınıf Öğrencisi, Kahramanmaraş,
+“Öğrencilerin bilime olan sevgi ve
+  tutkusunu hep taze ve canlı tutmak”
+ Merhabalar,
+Üniversiteden bu sene mezun oldum ve uzun bir süredir
+düzenli olarak her sayınızı takip ediyorum. Derginizi sevi-
+yorum, çünkü ele aldığınız konular ilgi alanıma giriyor ve
+bir fen bilgisi öğretmenliği bölümü mezunu olarak takip
+edilmesi gereken bir dergi olarak görüyorum. Staj yaptı-
+ğım okullarda Bilim ve Teknik dergisini derslerde kulla-
+nıyordum ve öğrencilerden çok güzel geri dönüşler alı-
+yordum. Örneğin azot döngüsü konusunu, Mars’taki azot
+miktarını anlatan bir içeriğinizle bağdaştırarak anlatmış-
+tım ve bu çok ilgilerini çekmişti, daha kalıcı bir öğren-
+me gerçekleşmişti. Normalde azot döngüsü; su döngüsü,
+karbon döngüsü gibi konulara nazaran öğrencilerin akıl-
+larında daha az kalıyor. Ama bizim sınıfta tam tersi bir du-
+rum oldu. Ayrıca bir defasında sınıfa birkaç dergi bırak-
+mıştım, öğrenciler boş zamanlarında incelerler umuduy-
+la ve sınıftaki tüm öğrencilerin merakla dergiyi inceledi-
+ğine şahit oldum. Kimse de öyle üstün körü bakıp geçme-
+di, hepsi üzerinde vakit harcadı. Çok hoşuma gitmişti bu
+durum, paylaşmak istedim.
+Bu yüzden öğretmen olarak bir okula atandığım zaman
+her dersin en az 5-10 dakikasını Bilim ve Teknik dergisine
+ayırmayı düşünüyorum. Önceden belirlediğimiz bir içeri-
+ği sınıfta okur ve çocuklarla onun üzerine beyin jimnas-
+tiği yaparız diye düşünüyorum. Amacım onların bilime
+olan sevgi ve tutkusunu hep taze ve canlı tutmak. Bu ol-
+duktan sonra zaten gerisini onlar başaracaktır.
+Umarım bilim dolu bir gençliğimiz olur, ben ümitliyim...
+Fatih Albayrak
+Fen Bilgisi Öğretmenliği Bölümü Mezunu, Kelkit, Gümüşhane
+
+--- Sayfa 7 ---
+Ayılardan
+Öğreneceğimiz
+Bir Şey Var
+Dr. Özlem Ak
+Kuzey Amerika boz
+ayıları aylarca uyusa da
+kaslarında hareketsizliğe
+bağlı bir sorun oluşmuyor.
+Scientific Reports
+dergisinde yayımlanan
+ve liderliğini Michael
+Gotthardt'ın yaptığı
+çalışmada ayıların bunu
+nasıl başardıkları ve bu
+stratejinin insanlarda kas
+kaybının önlenmesine
+yardımcı olup
+olamayacağı araştırıldı.
+Yılda sadece üç mevsim
+aktif olan Kuzey Amerika
+boz ayılarının aktif olduğu
+zamanlar mart ve mayıs
+ayları arasında başlıyor.
+Boz ayılar eylül civarı çok
+miktarda yemek tüketiyor,
+kasım ve ocak ayları
+arasında ise kış uykusuna
+yattıkları fizyolojik
+açıdan en ilginç dönem
+başlıyor. Bu dönemde
+metabolizma hızları ve
+kalp atış hızları hızla
+düşüyor, kanlarındaki
+azot miktarı büyük ölçüde
+artıyor ve insülin direnci
+gelişiyor. Ayrıca boz ayılar
+bu dönemde idrar ve dışkı
+atmıyor. Bir insanın bu
+evreleri sağlıklı bir şekilde
+atlatması ise hayli zor.
+Tromboz (pıhtı oluşumu),
+psikolojik değişiklikler ve
+kas sorunları insanların
+karşılaşılacabileceği  en
+belirgin problemlerden.
+Kuzey Amerika boz
+ayılarında ise durum
+farklı. İlkbaharda
+kış uykusundan
+uyandıklarında ilk başta
+biraz hâlsiz olsalar da
+genel olarak bir sağlık
+sorunu yaşamıyorlar.
+Dolayısıyla, ayıların üç
+mevsime uyum stratejisi
+uzun zamandır birçok
+bilim insanının
+ilgisini çekiyor.
+Berlin'deki Max
+Delbrueck Moleküler
+Tıp Merkezinde (MDC)
+Nöromusküler ve
+Kardiyovasküler Hücre
+Biyolojisi grubu başkanı
+Profesör Michael
+Gotthardt tarafından
+yönetilen bir ekip kış
+uykusunda ayıların
+kaslarının nasıl zarar
+görmediğini  araştırdı.
+Berlin, Greifswald ve
+ABD'den bilim insanları
+özellikle boz ayıların
+kas hücrelerinde hangi
+genlerin kopyalanıp
+hangi proteinlerin
+üretildiği ve bu
+proteinlerin hücrelere
+etkisini inceledi.
+Kas atrofisi yani kas
+kaybı insanlarda birçok
+durumda ortaya çıkan
+önemli bir problem.
+Araştırma ekibinden
+Dr. Douaa Mugahid şu
+an bunu önlemenin
+imkânsız olduğunu
+söylüyor. Dolayısıyla bu
+araştırma sonucunda
+bilim insanları kas
+atrofisini önlemek ve
+tedavi etmek için önemli
+bulgulara ulaşmayı umut
+ediyorlar.
+Çalışmada kış uykusu
+sırasında ve iki kış uykusu
+arasında boz ayıların kas
+örnekleri incelendi. En
+yeni sekanslama teknikleri
+Haberler
+Bilim ve Teknik  Şubat 2020
+
+--- Sayfa 8 ---
+kütle spektrometrisi
+ile birleştirilerek bu
+dönemlerde hangi
+genlerin aktivitesinin ve
+proteinlerin üretiminin
+arttığı veya azaldığı tespit
+edilmeye çalışıldı. Ancak
+boz ayının genom dizilimi
+de proteinleri de tam
+olarak bilinmiyordu. Bu
+nedenle araştırmacılar
+bir sonraki adımlarında
+bulgularını insan, fare ve
+nematod solucanlarıyla
+ilgili gözlemleriyle
+karşılaştırdı.
+Deneylerde, kış uykusu
+sırasında ayıların amino
+asit metabolizmasını
+güçlü bir şekilde
+etkileyen proteinler
+bulundu. Boz ayıların
+kas hücrelerinin
+temel olmayan (vücut
+tarafından doğal olarak
+üretilen) belirli amino
+asitleri yüksek miktarda
+içerdiği tespit edildi. Kas
+atrofisi olan insanlardan
+ve farelerden izole edilen
+kas hücreleri ile yapılan
+deneylerde ise hücre
+çoğalmasının temel
+olmayan amino asitlerle
+uyarılabildiği görüldü.
+Bununla birlikte,
+Dr. Gotthardt önceki
+klinik çalışmalardan,
+amino asitlerin hap veya
+toz şeklinde verilmesinin
+yaşlılarda veya yatalak
+insanlarda kas atrofisini
+önlemek için yeterli
+olmadığını söylüyor.
+Önemli olan kas
+hücrelerinin bu amino
+asitleri kendi kendilerine
+üretmesi. Dolayısıyla,
+tedavi stratejisi uygun
+ajanlarla metabolik
+yolları aktive ederek
+insan kas hücrelerinin
+bu amino asitleri
+üretmesini sağlamak
+olmalı.
+Kasta hangi
+sinyal yollarının
+etkinleştirilmesi
+gerektiğini bulmak için
+Dr. Gotthardt ve ekibi,
+boz ayılarda, insanlarda
+ve farelerde genlerin
+aktivitesini karşılaştırdı.
+Bunun için yaşlı veya
+yatalak hastalar ile kas
+atrofisi olan farelerden
+gerekli örnekler alındı.
+Kış uykusuna yatan ve
+yatmayan hayvanlarda
+hangi genlerin farklı
+düzenlendiği tespit
+edilmeye çalışıldı ve
+gerçekten de böyle bir
+dizi genle karşılaşıldı.
+Daha sonra kas atrofisi
+tedavisi için başlangıç
+noktası olabilecek
+olası adayları daraltmak
+için nematod
+solucanlarıyla deneyler
+yapıldı. Solucanlarda,
+genler nispeten
+kolayca devre dışı
+bırakılabildiğinden
+devre dışı kalan her bir
+genin kas hücrelerinin
+çoğalması üzerindeki
+etkileri hızlı bir şekilde
+görülebildi.
+Bu deneylerin
+yardımıyla gelecekte
+farelerde daha fazla
+araştırma yapmayı uman
+ekip, glikoz ve amino
+asit metabolizmasında
+rol oynayan Pdk4 ve
+Serpinf1 genlerini ve
+sirkadiyen ritimlerin
+gelişimine katkıda
+bulunan Rora genini
+tespit etti.
+Bundan sonra
+bu genleri devre dışı
+bırakmanın etkilerini
+inceleyecekler.  n
+Obezitenin
+Beyne Etkisi
+Dr. Özlem Ak
+Obezitenin kalbe, akciğere
+ve karaciğere olan zararlı
+etkileri hâlihazırda
+biliniyor; peki beyne olan
+etkileri? Yeni bir araştırma
+obez olan gençlerin
+beyninde meydana gelen
+değişiklikleri inceledi.
+Araştırmaya göre
+beyindeki bu görünür
+değişiklikler, insanların
+bilişsel ve duygusal
+işlevlerini değiştirebiliyor;
+bu da aşırı yeme ve
+obezite ile ilişkili
+davranış döngülerini
+güçlendirebiliyor.
+Brezilya'daki São Paulo
+Üniversitesinden
+araştırmacılar, obez ve
+sağlıklı gençlerin beyinleri
+arasındaki farkı araştıran
+çalışmalarında, ergenlik
+çağındaki 59 obez ve 61
+sağlıklı kişinin beyinlerini
+manyetik rezonans
+görüntüleme tekniğiyle
+incelediler.
+Özellikle beyin bölgeleri
+arasındaki beynin beyaz
+maddesinin durumunu
+analiz etmek için difüzyon
+tensör görüntüleme
+(DTI) tekniği kullanıldı.
+Bu teknikte difüzyonun
+yöne bağımlı etkileri
+ortadan kaldırılarak saf
+difüzyon görüntüsü
+7
+
+--- Sayfa 9 ---
+sağlanıyor. Araştırmacılar
+görüntüleme sonuçlarına
+dayanarak obez olanlarda
+beynin sağ lobuyla sol
+lobu arasında sinirsel
+iletişimi sağlayan corpus
+callosum bölgesinde
+hasar oluşma eğilimi
+tespit ettiler.
+Dr. Pamela Bertolazzi,
+obez ergenlerde iştah,
+duygu ve bilişsel işlevlerin
+kontrolünden sorumlu
+önemli beyin bölgelerinde
+de değişiklik gördüklerini
+belirtiyor. Araştırmacılara
+göre, hasarın nedeni
+yangı gibi görünüyor.
+Araştırmacılar, yağ
+hücreleri tarafından
+üretilen ve tokluk
+hormonu olarak
+da bilinen leptin
+hormonunun seviyesi
+gibi yangıya dair
+belirtilerle hasar
+seviyesi arasında ilişki
+olduğunu düşünüyor.
+Bazı obez insanlar, bol
+yağ depolarına rağmen,
+fazla yemek yemelerine
+neden olabilecek leptin
+direnci geliştirebiliyor.
+Bu da kilo vermeyi
+zorlaştıran etkenlerden
+biri. Bilim insanları
+beyaz maddedeki
+bozulmanın yüksek
+insülin seviyeleri ile de
+ilişkili olduğunu tespit
+etti. İnsülin vücuttaki
+glikoz seviyesini kontrol
+etmek için pankreasta
+salınan bir hormon.
+Leptindeki durumla
+benzer şekilde, bazı obez
+insanlar genellikle insülin
+direncinden muzdarip
+ve bu da kan şekerinin
+düzenlenmesiyle ilgili
+sorunlara yol açıyor.
+Dr. Bertolazzi araştırma
+sonuçlarının beyin
+değişiklikleri ile leptin ve
+insülin gibi hormonlar
+arasında bir ilişki
+olduğunu gösterdiğini
+söylüyor. Bu obezite ve
+beyin sağlığı arasındaki
+ilişkiyi araştıran ilk çalışma
+değil. 2016 yılında yapılan
+bir başka araştırmada,
+aşırı kilolu orta yaşlı
+insanların beyinleri
+incelenmiş ve beyaz
+maddenin aynı yaştaki
+zayıf insanlarınkine göre
+10 yıl daha yıpranmış
+gibi göründüğü tespit
+edilmişti. n
+Fabrika
+Dumanlarından
+CO2’yi
+Ayırabilecek
+Yeni Malzeme
+İlay Çelik Sezer
+Sonuçları Nature’da
+yayımlanan bir
+araştırmada fabrika
+dumanlarından
+karbondioksiti (CO2)
+temizlemeye yönelik
+yeni bir malzeme
+geliştirildi. Uluslararası
+bir araştırma ekibi
+veri madenciliğinden
+faydalanarak metal
+organik kafes
+(MOF) adı verilen
+nanomalzemelerin yüz
+binlerce çeşidini
+bilgisayar ortamında
+inceledi. MOF’lar
+CO2’yi tutarak fabrika
+8
+
+--- Sayfa 10 ---
+dumanlarından
+uzaklaştırma
+potansiyeline sahip
+moleküller ancak bu
+dumanlarda
+su buharı bulunması
+işleri hayli karmaşık hâle
+getiriyor. Su molekülleri
+CO2 ayrıştırmak için
+kullanılan malzemelerdeki
+CO2 bağlanma bölgesine
+bağlanma eğilimi
+göstererek malzemenin
+seçiciliğini düşürüyor.
+Araştırmacılar
+325.000 MOF’un
+bilgilerini barındıran
+dijital bir kütüphanedeki
+incelemelerin
+ardından CO2’ye
+bağlanabilecek birkaç
+molekül bölgesi
+keşfetti. Bu bölgeler
+CO2’ye seçici olarak
+bağlanma özelliklerini
+suyun varlığında bile
+kaybetmiyordu.
+Araştırmacılar daha
+sonra bu özel bağlanma
+bölgelerinden birini
+taşıyan iki MOF’u
+laboratuvar ortamında
+üreterek test etti. Sonuçta
+bu MOF’ların CO2’yi
+ayırma performanslarının
+sudan etkilenmediği,
+üstüne üstlük
+bunların şu anda piyasada
+bulunan bazı CO2 ayırıcı
+malzemelerden, örneğin
+aktif karbon ve
+zeolit 13X’ten
+daha iyi performans
+gösterdiği anlaşıldı.
+Geliştirilen MOF’ların
+su buharı içeren
+baca gazından CO2
+yakalayabilmesi,
+yapılarında bulunan
+iki belirgin bölge
+sayesinde mümkün
+oluyor. Bölgelerin
+biri su moleküllerine
+diğeri CO2 moleküllerine
+bağlanıyor, böylece su
+molekülleri ile CO2
+aynı bölge için
+rekabete girmemiş oluyor.
+Araştırmacılar bundan
+sonra yöntemin büyük
+ölçekte uygulanabilirliği
+konusunda çalışmalar
+yapmayı planlıyor.
+Yöntem, önemli bir
+sera gazı olan CO2’nin
+atmosferdeki oranının
+azaltılmasına, dolayısıyla
+küresel ısınmanın
+yavaşlatılmasına
+katkıda bulunma
+potansiyeli taşıyor. n
+Beyninin
+Yarısı Alınan
+İnsanlarda
+Beyin
+Bağlantıları
+Daha Güçlü
+İlay Çelik Sezer
+California Institute
+of Technology’den
+araştırmacıların
+çocukluk çağında
+epilepsi tedavisi için
+hemisferektomi adı
+verilen bir operasyonla
+beyinlerinin bir yarım
+küresi alınmış altı
+yetişkin üzerinde
+yaptığı yeni bir
+araştırmada, bu
+kişilerinin beyinlerinin
+operasyondan sonra
+yeni duruma nasıl
+uyum sağladığına
+ilişkin önemli bulgular
+elde edildi. Böyle bir
+operasyonun
+kendisi bile şaşkınlık
+verici iken, bir de
+operasyonu geçiren
+pek çok insanın dil ve
+düşünme becerilerini
+geri kazandığı
+biliniyor.
+Araştırmacılar
+katılımcıların
+beyinlerinde MRI
+taramaları yaptı ve
+sonuçları sağlıklı
+insanlara ait sonuçlarla
+karşılaştırdı.
+Katılımcılar MRI
+tarayıcısının içinde
+dinlenme hâlinde iken
+araştırmacılar görme,
+dikkat ve hareket gibi
+işlevlerle ilintili yedi
+beyin bölgesindeki kan
+akışını ölçtü.
+Deneyde kan akışı
+beyin etkinliğinin
+göstergesi
+olarak kullanıldı.
+Bir bölgedeki etkinliğin
+bir diğer bölgedeki
+etkinlikle peşpeşe
+değişim göstermesi
+bu bölgelerin birlikte
+çalıştığına ve bilgi
+paylaştığına işaret
+ediyor. Bunlar ise
+sağlıklı bir beyin için
+elzem sayılan güçlü
+bağlantıların belirtisi.
+Sonuçları Cell
+Reports’da yayımlanan
+araştırmada çocukken
+hemisferektomi
+uygulanmış olan altı
+kişide incelenen yedi
+beyin bölgesinin normal
+şekilde çalıştığı yönünde
+bulgular elde edildi.
+Hatta bu insanlarda
+9
+
+--- Sayfa 11 ---
+söz konusu yedi beyin
+bölgesi arasındaki
+bağlantıların kontrol
+grubundaki bireylerde
+incelenen bağlantılara
+göre daha güçlü
+olduğu gözlemlendi.
+Araştırmacılar bu
+normalden daha
+güçlü bağlantıların
+hemisferektomiyle
+yarısı alınan
+beyinlerin eksik
+kısımları telafi
+etmesine yönelik
+bir uyum mekanizması
+olabileceğini
+düşünüyor.
+Araştırmacılardan
+Lynn Paul’e göre,
+ameliyat sonrası
+optimal iyileşme
+gösteren hastaların
+beyinlerinin
+eksiklikleri nasıl telafi
+ettiğinin daha iyi
+anlaşılması, gelecekteki
+hemisferektomi
+hastaları için
+hedefe yönelik
+müdahale stratejileri
+geliştirilmesine
+yardımcı olabilir.
+Araştırmacılar
+bundan sonra
+çocuk hastaları
+hemisferektomi
+öncesinde ve
+sonrasında takip
+ederek beyinlerinde
+zamanla oluşan
+değişimi doğrudan
+gözlemleyebilmeyi de
+umuyor. n
+Golf Topu
+Büyüklüğündeki
+Robotlar
+Su Şebekelerini
+Takip Edecek
+İlay Çelik Sezer
+Hollanda’daki
+Eindhoven Teknoloji
+Üniversitesinden
+Peter Baltus ve ekibi,
+yer altındaki temiz ve
+atık su borusu ağlarının
+haritalanmasında ve
+bu ağlardaki kaçakların
+ve tıkanıklıkların
+tespit edilmesinde
+faydalı olabilecek bir
+robot geliştirdi. Golf
+topu büyüklüğündeki
+bu robotlar borular
+içinde yüzerken veri
+toplamalarını
+sağlayan algılayıcılar
+içeriyor.
+Her birinin içinde
+bir mikroişlemci,
+bir hafıza kartı,
+algılayıcılar ve pil
+bulunan robotlar
+sesi, sıcaklığı, basıncı,
+ivmeyi, konumlarını,
+yönlerini ve manyetik
+alanı algılamak üzere
+programlanabiliyor.
+Enerji tasarrufu
+sağlamak amacıyla,
+robotların algılayıcılarını
+ancak şartlarda ani
+değişimler olduğunda,
+örneğin su kaçağına
+işaret eden bir ses
+geldiğinde ya da
+girdaplı su akışını
+gösteren hızlı
+dönme hareketi
+gerçekleştiğinde
+etkinleştirmeleri
+sağlanabiliyor. Bu
+durumda robot
+ölçüm alma sıklığını
+artırabiliyor.
+Baltus, temiz ve atık su
+borusu ağlarıyla ilgili
+verilerin hassasiyetinin
+önem taşıdığını çünkü
+bir sorun durumunda
+genellikle kazı gerektiğini
+belirtiyor. Araştırmacılar
+bu yüzen robotları
+şehirlerin altındaki
+su dağıtım ağlarının
+haritalarını çıkarmak için
+kullanabilmeyi umuyor.
+Bu ağlarla ilgili belgeler
+genellikle yetersiz
+oluyor. Baltus bunların
+bazılarının 50-100 yıllık
+olabildiğini, belgelerdeki
+verilerin düzensiz,
+yanlış ya da çok genel
+olabildiğini belirtiyor.
+Geliştirilen robotların en
+önemli avantajlarından
+biri de içinde ilerledikleri
+hatlarda bu hatların
+geçici olarak kesilmesine
+gerek kalmaksızın
+ölçüm yapabilmeleri.
+Zira su şebekelerinde
+yapılan muayeneler
+10
+
+--- Sayfa 12 ---
+çoğu zaman incelenen
+hattın kesilmesini
+gerektiriyor. Robotların
+benzer şekilde kimya
+fabrikalarındaki boru
+hatlarının, üretim
+hattının tamamen
+kesilmesine gerek
+kalmadan muayene
+edilmesine de imkân
+sağlayabileceği
+düşünülüyor. n
+Hava Kirliliği
+Artışını Takip
+Eden Günlerde
+Hastaneler
+Daha Dolu
+İlay Çelik Sezer
+Yeni bir araştırmada
+hava kirliliğinin sağlık
+üzerindeki olumsuz
+etkilerinin sadece
+uzun vadede değil kısa
+sürelerde de kendini
+gösterebildiğine işaret
+eden bulgular elde edildi.
+Görünüşe göre, hava
+kirliliğinin bir parçası
+olan küçük sıvı ve katı
+parçacıklar akciğerlerden
+kan dolaşımına geçip
+insanların hastanede
+yatmasını gerektirecek
+kadar ciddi hastalıklara
+yol açabiliyor. Harvard
+Üniversitesinden
+Francesca Dominici ve
+ekibi, hastanelerde yatan
+insan sayısının ortalama
+olarak arttığı günlerde
+hava kirliliğinin daha
+yüksek olduğunu
+tespit etti.
+Dominici ve ekibi hava
+kirliliğindeki küçük
+artışların etkisini ölçmek
+için ABD’den 13 yıllık
+bir zaman aralığında 65
+yaş üstü hastalara ait 95
+milyon hastane kaydı
+ile hastaların kayıtlı
+oldukları adreslerde
+hastaneye gelişlerinin
+bir gün öncesinde
+ölçülen PM2.5 (çapı
+2,5 mikrometrenin
+altında kalan madde
+parçacıklarının
+konsantrasyonu)
+değerlerini birlikte
+analiz etti. Sonuçlar
+ölçülen madde parçacığı
+konsantrasyonunda
+metreküp başına her
+1 mikrogramlık artışın
+fazladan 2050 hastane
+başvurusuna ve toplamda
+hastanede kalınan
+fazladan 12.216 güne
+karşılık geldiğini
+gösterdi.
+Araştırmacıların
+geliştirdikleri modele
+göre, PM2.5 değerindeki
+her 1 mikrogram/
+metreküplük artış
+yıl başına 634 ölüme ve
+100 milyon ABD doları
+hastane masrafına yol
+açıyor. Hastanede yatma
+nedenlerindeki artışın
+aralarında kan dolaşımı
+enfeksiyonları, böbrek
+yetmezliği, kalp-damar
+ve solunum hastalıkları,
+Parkinson hastalığı,
+yangı, pıhtı atması
+ve şeker hastalığının
+da bulunduğu bir
+dizi sağlık sorunuyla
+ilintili olduğu görüldü.
+Hastane kayıtları
+65 yaş üstü hastalara
+ait bir veritabanından
+alınmıştı ancak
+Dominici PM2.5
+sınıfındaki hava kirliliği
+unsurlarının genç
+insanlar için de zararlı
+olduğunun daha önce
+başka araştırmalarla
+ortaya konduğunu
+belirtiyor. Dünya
+Sağlık Örgütünün
+(WHO) hava kalitesi
+standartlarına göre
+PM2.5 değerinin
+metreküp başına 25
+mikrogramla sınırlı
+olması gerekiyor.
+Ancak Dominici ve
+ekibi analizlerini
+hava kirliliğinin bu
+sınırda kaldığı günlerle
+sınırlandırdıklarında
+bile sağlık risklerinin
+sürdüğünü ortaya
+koydu. WHO bu
+konudaki standartlarını
+güncellemek üzere
+çalışıyor. n
+11
+
+--- Sayfa 13 ---
+Ötegezegen
+Takipçisi
+CHEOPS Uzayda
+İlay Çelik Sezer
+Başka yıldızların
+yörüngesinde dolanan
+gezegenleri izlemeye
+adanmış yeni bir uydu,
+geçtiğimiz yılın sonunda,
+18 Aralık günü uzaya
+gönderildi. Avrupa
+Uzay Ajansı’na (ESA) ait
+CHEOPS (CHaracterising
+ExOPlanet Satellite)
+adlı uydu, sadece
+Güneş Sistemi dışındaki
+gezegenleri araştırmak
+üzere ESA liderliğinde
+oluşturulmuş ilk uzay
+görevini temsil ediyor.
+Pek çok ötegezegen
+görevinden farklı olarak
+CHEOPS yeni gezegenler
+bulmak için değil,
+hâlihazırda keşfedilmiş
+ötegezegenler hakkında,
+araştırmacıların bu
+dünyaların nasıl
+oluştuğunu daha iyi
+anlamasına yardımcı
+olacak bilgiler toplamak
+amacıyla gönderildi. Bu
+uzay görevinde, hassas
+gözlem verisi elde etmek
+amacıyla, ötegezegeni
+olduğu bilinen yakın ve
+parlak yıldızlar hedef
+alınıyor ve süper-Dünya
+(kütleleri 3-10 Dünya
+kütlesi aralığındaki
+kayaç ötegezegenler) ile
+Neptün arası büyüklük ve
+kütlelerdeki gezegenlerin
+detaylı incelenmesi
+planlanıyor.
+CHEOPS üç buçuk
+yıl boyunca Dünya
+yörüngesinde dolanırken
+Güneş Sistemi’nin ötesini
+ötegezegen geçişleri
+için izliyor olacak. Bu
+geçişler, ötegezegen
+yıldızının önünden
+geçerken yıldızın ışığında
+oluşan belli belirsiz
+azalmalar şeklinde
+gözlemleniyor. Gezegen
+ne kadar büyükse yıldızın
+ışığını o kadar fazla
+engelliyor. Araştırmacılar
+yıldızın ışığındaki
+azalmanın ölçülmesiyle
+karşılaştırmalı olarak
+yıldızın ve gezegenin
+boyutlarını anlayabiliyor.
+CHEOPS görevi, görece
+parlak yıldızların
+yörüngesinde dolanan
+500 gezegenin boyutlarını
+hassas biçimde
+belirlemeye odaklanacak.
+Astronomlar bu verileri
+gezegenlerin kütle
+verileriyle bir araya
+getirip, gezegenlerin
+bileşimi konusunda
+önemli bir ipucu olan
+yoğunluk bilgisine
+ulaşmaya çalışacak.
+Gezegenlerin kütleleri,
+yeryüzünden alınan
+veriler kullanılarak dikine
+hız yöntemi adı verilen
+yöntemle, gezegenin
+uyguladığı kütleçekimin
+ev sahibi yıldızın
+hareketi üzerindeki etkisi
+ölçülerek belirleniyor.
+CHEOPS yeni gezegenler
+bulmaya adanmış
+olmasa da tabi ki
+bazı beklenmedik
+gezegenlerin CHEOPS’un
+izlediği yıldızların
+önünden geçme ihtimali
+her zaman mevcut. n
+Verileri Hem
+İşleyip Hem
+Depolayabilen
+Transistör
+İlay Çelik Sezer
+Purdue Üniversitesinden
+araştırmacılar
+transistörleri ve
+hafızaları bir araya
+getirmenin daha
+verimli bir yolunu
+geliştirdi. Normalde
+bilgisayar çipleri verileri
+işleme ve depolama
+işi için iki farklı cihaz
+kullanıyor. Bu iki cihaz
+birleştirilebilir ya da
+bir şekilde yan yana
+getirilebilirse çiplerde
+yer kazancı sağlanıp
+daha hızlı ve güçlü çipler
+geliştirilebilir. Purdue
+araştırmacıları verileri
+işlemeye yarayan
+12
+
+--- Sayfa 14 ---
+ve transistör adı verilen
+milyonlarca minik
+devre anahtarının
+aynı zamanda bu
+verileri depolayabildiği
+yeni bir sistem
+geliştirdi. Ayrıntıları
+Nature Electronics’te
+yayımlanan yöntem bu
+işi -başka bir problemi
+çözerek- transistörleri,
+ferroelektrik RAM
+adı verilen ve
+çoğu bilgisayarda
+kullanılanlardan daha
+yüksek performansa
+sahip bir hafıza
+teknolojisiyle
+birleştirerek
+gerçekleştiriyor.
+İki işlevi tek cihazda
+birleştirmek bu alandaki
+araştırmacıların on
+yıllardır yapmak
+istediği bir şeydi.
+Ancak ferroelektrik
+bir malzeme ile
+transistörlerin
+yapıldığı yarıiletken
+malzeme olan
+silikonun arayüzünde
+aşılamayan sorunlarla
+karşılaşılıyordu.
+Purdue
+araştırmacılarından
+Peide Ye, bu sorunu
+aşmak için ferroelektrik
+özellikleri olan
+bir yarıiletken
+kullandıklarını, bu
+şekilde iki malzemeyi
+tek malzeme hâline
+getirdiklerini ve
+arayüz sorunlarından
+kurtulduklarını
+belirtiyor. “Ferroelektrik
+yarıiletken alan-etkili
+transistör” olarak
+adlandırılan yeni cihaz,
+hâlihazırda bilgisayar
+çiplerinde kullanılan
+transistörlere benzer
+şekilde üretiliyor.
+Cihazda kullanılan
+alfa indiyum selenür
+adlı malzemenin
+en büyük avantajı
+ferroelektrik özelliğinin
+yanı sıra yarıiletkenlik
+göstermesi. Oysa yaygın
+olarak kullanılan
+ferroelektrik malzemeler
+“geniş bant aralığı”
+sorunundan dolayı
+yarıiletken değil
+de yalıtkan olarak
+davranıyor. Elektriği
+iletmeyen bir malzeme
+ise hesaplama işinde
+kullanılamıyor. n
+Bor Karbür:
+Radyasyona
+Dayanıklı ve
+Çok Sert Bir
+Malzeme
+Dr. Tuncay Baydemir
+Sergiledikleri
+üstün mekanik
+özellikleri ve
+radyoaktiviteye karşı
+dirençleri sayesinde
+bor karbür
+ailesinin üyeleri
+yakın gelecekte
+kritik potansiyel
+uygulamalarda
+kendilerine oldukça
+fazla yer bulacağa
+benziyor. Yapılan
+son araştırmaların
+sonuçları bunun
+gerçekleşmesini
+oldukça hızlandıracak
+gibi görünüyor.
+Profesör Francisco
+Luis Cumbrera
+önderliğindeki
+Sevilla Üniversitesinden
+araştırmacılar,
+Zaragoza
+Üniversitesinden
+meslektaşları ve
+CSIC (İspanya Ulusal
+Araştırma Konseyi)
+ile birlikte bor karbürün
+B6C formunda üretilmesi
+için yeni bir yöntemi
+hayata geçirdiler.
+Scientific Reports’ta
+yayımlanan araştırma
+ile daha önce
+teorik olarak
+tanımlanan
+yöntem pratikte de
+gerçekleştirilmiş oldu.
+Bu gelişme ile birlikte
+mukavemeti
+çok yüksek bir
+malzemeyi kolay bir
+şekilde ve düşük
+maliyetlerde
+üretmek mümkün
+olacak.
+Bor karbür seramikler
+çok yüksek sertliğe ve
+mukavemete sahip.
+Ayrıca bu malzemeler
+sıcaklığa ve aşınmaya
+karşı da oldukça
+dirençliler. Bu sebeple
+bor karbürler yüksek
+performanslı
+seramik malzemeler
+olarak kabul ediliyor.
+Üstün özelliklere sahip
+bu malzemeler
+nükleer radyasyon
+kalkanları, personel ve
+araçlar için
+balistik zırh gibi
+pek çok uygulamada
+kullanılmak üzere en
+önemli adaylardan
+sayılıyor.
+Bor karbür
+olarak bilinen
+seramik ailesi BxC
+genel ifadesiyle
+gösteriliyor.
+Bor karbür ailesi
+(B4C’den B14C’ye kadar
+13
+
+--- Sayfa 15 ---
+giden) oldukça
+büyük bir ailedir.
+Yaygın formu ise
+yüksek sıcaklıklarda
+kararlı yapısını
+koruyabilen
+oldukça sert bir
+katı malzeme olan
+B4C’dir. Borun ve
+karbonun oranlarına
+göre fiziksel
+özellikleri değişiklik
+gösteren bu ailenin
+üyelerinden yüksek
+sertlikteki B6C’yi
+şimdiye kadar kolay ve
+ucuz üretmenin
+bir yolu bulunamamıştı.
+Eskiden sadece
+sıcak presleme ile
+çok yüksek basınç ve
+sıcaklıklarda
+üretilebilen bor karbür
+seramikler alternatif
+bir yolla daha kolay
+bir şekilde
+üretilebilecek gibi
+görünüyor.
+Araştırmacılar
+tarafından
+uygulanan yeni
+yöntemle,
+malzemenin
+sentezi yoğun bir
+lazer radyasyonu
+uygulamasını
+takiben hızlı bir
+şekilde katılaştırma
+yoluyla gerçekleştirilen
+kristallendirme
+tekniği kullanılarak
+yapıldı. Bu yöntemle
+yüksek erime
+noktasına sahip
+malzemeler
+yüksek saflıkta ve
+düşük maliyette
+üretilebiliyor.
+Gerçekleştirilen
+mekanik dayanım
+testleri sonucunda
+elde edilen değerler,
+B6C’nin elmas ve
+kübik fazdaki bor
+nitrürden sonraki
+en sert malzeme
+olduğunu ortaya
+koyuyor. n
+Yeni Karbon
+Nanotüp
+Malzeme Isıyı
+Tek Yönde
+İletiyor
+Dr. Tuncay Baydemir
+Asimetrik ısı iletken
+malzemeler, bilgisayar
+ve diğer cihazlar için
+soğutma sistemlerinde
+devrim niteliğinde
+olma potansiyeli taşıyor.
+Elektrik ve elektronik
+mühendisliğinde
+sistem ısısının
+kontrolü oldukça
+büyük önem taşıyor.
+Çünkü sistemlerdeki
+ısı artışı cihazların
+kararlı bir şekilde
+çalışmasını engelliyor
+ve güvenilirliklerini
+azaltıyor. Isı kontrolünün
+yeterli seviyede
+sağlanamadığı
+durumların pek çoğu da
+çeşitli kritik arızalarla
+sonuçlanıyor.
+Örneğin, bilgisayar
+bileşenlerinin termal
+macunlarla kaplanması;
+fanlarla, soğutma
+kanallarıyla ve hatta
+sulu soğutma
+sistemleriyle donatılması
+gibi pek çok uygulamayla
+sistemdeki ısınma
+problemi çözülmeye
+çalışılıyor. Böylece ısıyı
+hassas bileşenlerden
+uzaklaştırmak
+amaçlanıyor.
+Ancak nanometre
+boyutlarındaki
+cihazlar söz konusu
+olduğunda bu amacı
+gerçekleştirmek
+daha da zorlaşıyor.
+Uygun maliyetli ısı
+iletken malzemeler
+kullanıldığında ısı
+her yönde iletiliyor
+ve yolu üzerindeki
+herhangi bir sistem
+bileşenini olumsuz
+etkileyebiliyor. Ancak
+daha etkili bir malzeme
+kullanılmasıyla ısının
+sadece malzeme boyunca
+iletilmesi ve diğer
+sistem bileşenlerinin
+ısınması engellenebilir.
+Bu tür asimetrik
+iletken bir malzeme,
+ısı mühendislerinin
+işlerini önemli ölçüde
+kolaylaştırabilir. Bu
+tür malzemelerin elde
+edilmesinin oldukça
+zor olması ise buradaki
+en büyük problemi
+oluşturuyor.
+Japonya’daki Tokyo
+Üniversitesinden
+Shingi Yamaguchi
+ve arkadaşları, ısıyı
+asimetrik şekilde ileten,
+hizalanmış karbon
+nanotüplerden oluşan
+bir malzeme geliştirdiler
+ve araştırmalarının
+14
+Universidad de Sevilla
+
+--- Sayfa 16 ---
+sonuçlarını Applied
+Physical Letters’ta
+yayımladılar. Bu yeni
+malzeme bilgisayar ve
+diğer tüm cihazlar için
+soğutma sistemleri
+tasarlanmasında ve inşa
+edilmesinde bir devrim
+niteliği taşıyor.
+Karbon nanotüplerin
+olağanüstü iletken
+özelliklere sahip olduğu
+malzeme mühendisleri
+tarafından oldukça
+iyi biliniyor.
+Karbon nanotüpün
+ısı iletkenliği, oldukça
+iyi bir ısı iletken olan
+bakırın yaklaşık 2,5
+katı. Bu yüzden karbon
+nanotüpler ısının belli
+bir yönde transferi için
+kullanılabilir.  Ancak
+burada aşılması gereken
+önemli problemler
+bulunuyor.
+Nanotüplerden oluşan
+bir malzeme yapılmaya
+çalışıldığında, bu
+tüpler polimerik bir
+malzeme üzerine
+katman oluşturacak
+şekilde yerleştiriliyor.
+Oluşturulan katmanda
+nanotüpler düzenli bir
+şekilde hizalanmıyor ve
+rastgele bir düzene
+sahip oluyorlar.
+Sonuçta birbirleriyle
+termal temasları zayıf
+olan nanotüplerden
+oluşan malzeme
+istenilen düzeyde tek
+yönlü termal iletkenliğe
+sahip olamıyor.
+Dolayısıyla, yüksek
+termal iletkenliğin
+sağlanması için karbon
+nanotüplerin düzenli
+bir şekilde hizalanması
+büyük önem taşıyor.
+Yamaguchi ve ekibi
+kontrollü vakum
+filtrasyon tekniği
+kullanarak yüzen karbon
+nanotüplerin hizalanmış
+bir şekilde düzenli yapı
+oluşturmasını başardılar.
+Bunun için nanotüpler
+öncelikle yüzey
+gerilimini düşüren yüzey
+aktif madde içeren bir sıvı
+içerisinde karıştırılıyor.
+Nanotüpler uygun
+derişimlerde hizalanıp
+kendi kendilerine
+düzenli bir yapı
+oluşturuyor.
+Daha sonra ise vakum
+kullanılarak sıvı dikkatli
+bir şekilde ortamdan
+uzaklaştırılıyor.
+Sonuçta geriye
+hizalanmış
+nanotüplerden oluşmuş
+bir tabaka kalıyor.
+Elde edilen malzeme
+ısıyı tek bir yönde
+oldukça başarılı bir
+şekilde iletiyor. Asıl
+ısı iletkenliğinin
+gerçekleştiği yöne
+dik olan eksende ise
+ısı iletimi cam fiberi
+ile kıyaslandığında
+3 kat daha düşük.
+Malzemenin asimetrik
+ısı iletkenliğinin (ısının
+amaçlanan doğrultuda
+iletiminin bu doğrultuya
+dik olan yönde iletimine
+oranı) yaklaşık 500
+değerinde olduğu
+vurgulanıyor.
+Bu şimdiye kadar
+yapılan çalışmalarda
+elde edilen tüm
+asimetrik ısı iletkenliği
+değerlerinden oldukça
+yüksek. Sonuçlar
+yapılacak yeni
+çalışmalara da ilham
+verecek gibi görünüyor.
+Geliştirilmesi
+gereken yönlerin
+olduğunu vurgulayan
+araştırmacılar, tek
+yönde ısı iletiminin
+başarılı olduğunu ancak
+elde edilen iletkenlik
+değerlerinin beklenenden
+düşük olduğunu
+belirtiyorlar.
+Kalay/kurşun
+lehimlerdeki iletkenlik
+değerine yakın değerlere
+ulaşabilen araştırmacılar
+bu değerleri geliştirmek
+için çalışmalara devam
+etmeyi planlıyorlar.
+Karbon nanotüpleri
+hizalamayı başarmalarına
+rağmen bu tüplerin
+birbirlerine olan
+temaslarının mükemmel
+düzeyde olmadığını
+ve ısı iletkenliğinin
+her bir nanotüp
+geçişinde azaldığını
+vurgulayan Yamaguchi
+ve ekibi, daha uzun
+nanotüpler kullanarak
+iletkenlik değerlerini
+yükseltmenin mümkün
+olduğunu düşünüyor.
+Hizalama işleminin
+bu durumda daha zor
+gerçekleştirilebileceğinin
+bilincinde olan ekip, ısı
+mühendislerine daha iyi
+haberler verebilmek için
+araştırmalarını
+ara vermeden
+sürdürüyor. n
+15
+
+--- Sayfa 17 ---
+Bilim ve Teknik  Şubat 2020
+Y
+angınlar Avustralya’nın en
+büyük şehirlerinden bazı-
+larında da etkili oldu. Bun-
+lardan Melbourne ve Sydney’de
+yangınlar uzak banliyölerde evlere
+zarar verdi ve kalın duman örtüsü
+şehir merkezlerini kapladı. Du-
+manlar o kadar etkili oldu ki geç-
+tiğimiz Aralık ayının başlarında
+Sydney’de hava kirliliği tehlikeli
+düzeyin 11 katına ulaştı.
+En çok etkilenen eyalet olan
+New South Wales’de (NSW) yan-
+gınlar en az beş milyon hektar
+alanı etkileyip 2000’den fazla evi
+yok ederek binlerce insanı başka
+yerlere kaçmak zorunda bıraktı.
+Yağmur fırtınaları son günlerde
+bir miktar rahatlama sağlamış ve
+yangınların bir kısmını söndür-
+müş olsa da yangın sezonu henüz
+sonlanacak gibi görünmüyor.
+Aslında Avustralya’da yazları
+rutin olarak bir yangın sezonu ya-
+şanıyor. Sıcak ve kuru hava yangın-
+ların başlamasını ve yayılmasını
+kolaylaştırıyor. Ancak bu sezonki
+yangınlar kapsam, şiddet ve za-
+manlama açısından sıra dışı oldu.
+Bu büyük felaketin küresel ısın-
+mayla doğrudan ilişkilendirilmesi
+pek kolay olmasa da gerek doğal
+orman yangınlarının küresel ısın-
+ma dolayısıyla daha da şiddetlene-
+ceğine işaret eden araştırmalar, ge-
+Avustralya’daki
+Orman
+Yangınlarında
+Son Durum
+Avustralya kıtasını 2019 Eylül
+ayından beri kasıp kavuran, in-
+sanlar tarafından kurtarılan ko-
+alaların adeta sembolü haline
+geldiği orman yangınları hala de-
+vam ediyor. Rekor kıran sıcaklık-
+ların ve aylarca süren kuraklığın
+zemin hazırladığı bir dizi büyük
+orman yangını, haberi hazırladı-
+ğımız Ocak ayının üçüncü hafta-
+sındaki istatistiklere göre en az 29
+kişinin ölümüne,  11 milyon hek-
+tara yakın çalılık, orman ve park
+alanının yanmasına ve tahminen
+1 milyardan fazla hayvanın (yara-
+salar, sürüngenler, böcekler ve di-
+ğer omurgasızlar hariç) ölümüne
+neden oldu.
+Orman yangınları sırasında çıkan dumanlar, bulut oluşumuna ve dolayısıyla yıldırım düşmesine neden
+olarak yeni yangınlar başlamasına neden olabiliyor.
+İlay Çelik Sezer  [ TÜBİTAK Bilim ve Teknik Dergisi
+
+--- Sayfa 18 ---
+17
+rekse 2019’un Avustralya’nın kayde-
+dilmiş en sıcak ve en kurak yılı olması
+bu tür bir ilişkiyi doğrular yönde.
+Ne yazık ki Avustralya’da yaz
+mevsimi hâlâ sürdüğü için yangınla-
+rın kısa süre içinde sona ermesi umu-
+lamıyor. Ancak ekologlar yangınların
+söndüğü yerlerde uzun yıllar sürecek
+olumsuz etkilerin elden geldiği kadar
+azaltılabilmesi için acilen koruma ve
+iyileştirme tedbirleri alınması gerek-
+tiğini vurguluyor. n
+Kaynaklar
+https://theconversation.com/a-season-in-hell-
+bushfires-push-at-least-20-threatened-species-closer-
+to-extinction-129533
+https://edition.cnn.com/2020/01/01/australia/
+australia-fires-explainer-intl-hnk-scli/index.html
+https://www.bbc.com/news/world-australia-50951043
+Otoriteler yangınların evlere ya da mülklere ulaşma riski yüksek ise insanların durum sakinken bölgeyi terk etme-
+leri gerektiği konusunda uyarıyor çünkü yangınlar bir insanın koşabileceğinden daha hızlı bir şekilde yayılabiliyor.
+Yangınlar tamamen sona erinceye kadar çevre üzerindeki zararın ölçüsünün tam olarak anlaşılması imkânsız.
+Ancak soyu tehlike altındaki canlı türlerinin soyunun tükenme riskinin önemli ölçüde arttığı biliniyor. Medyadaki
+görünürlüklerinin aksine asıl tehlike altındakiler koala gibi kıta sathında geniş bir yayılış alanına sahip olan türler
+değil, Kanguru Adası yağ kuyruklu “dunnart”ı olarak bilinen türler gibi (resimde görülen küçük bir kemirgen türü)
+daha kısıtlı alanlarda yaşayanlar.
+
+--- Sayfa 19 ---
+Son günlerde adını sıkça duyduğumuz uyuz hastalığı,
+dünyada yaklaşık 300 milyon kişiyi etkiliyor.
+Önemli bir sağlık sorunu olan uyuz, 2017 yılında Dünya Sağlık Örgütü tarafından
+ihmal edilen hastalıklar listesinde yerini aldı. Uyuz için erken teşhis ve acil tedavi hayli önemli.
+Aksi takdirde salgın ve artan ekonomik yük karşılaşılacak problemlerden sadece birkaçı.
+Her yaştan, her ırktan ve her sosyal sınıftan insanı etkileyen uyuz,
+özellikle bakımevleri, hastaneler ve okullar gibi kalabalık ortamlar için bir tehlike,
+ayrıca uyuzun kan dolaşımı enfeksiyonu, kalp hastalığı ve
+kronik böbrek hastalığı gibi ciddi sağlık komplikasyonlarına yol açması da
+söz konusu.
+Bilim ve Teknik  Şubat 2020
+Dr. Özlem Ak  [ Bilim ve Teknik Dergisi
+Dünya Sağlık Örgütü’nün
+“İhmal Edilen Hastalıklar” Listesinde...
+
+--- Sayfa 21 ---
+20
+U
+yuz, Arachnida sınıfına,
+Astigmata takımına ve Sar-
+coptidae ailesine ait bir ek-
+lembacaklı ve zorunlu insan paraziti
+olan Sarcoptes scabiei var. hominis’in
+neden olduğu bir deri hastalığı. Has-
+talığın yayılması insandan insana
+yakın fiziksel temas yoluyla gerçek-
+leşiyor. Özellikle geceleri artan ka-
+şıntı gibi belirtilerin ortaya çıkması
+2 ila 6 haftayı buluyor.
+Derinin üst tabakasının hemen al-
+tında, tünel biçiminde beyaz ince
+kanallar açan Sarcoptes scabiei bu
+tünellere yumurtalarını bırakır. De-
+rinin yüzeyinde iken deri salgılarıy-
+la, saç derisindeyken saç kökünün
+salgılarıyla beslendiğinden aslında
+hayatta kalmak için konakçıya ihti-
+yaç duyar. İnsan vücudunun dışında
+normal oda koşullarında (21°C ve
+%40-80 bağıl nem) 24 ile 36 saat arası
+hayatta kalabilir ve bu süre içinde de
+enfekte edebilirler.
+
+--- Sayfa 22 ---
+21
+Tamamlanması yaklaşık 10 ila 17 gün
+süren Sarcoptes scabiei’nin yaşam
+döngüsü dört aşamadan oluşur. Bir
+kişiye Sarcoptes scabiei bulaştığında,
+yetişkin dişi akarları, epidermisin
+yüzeysel katmanları içinde 1-10 mm
+uzunluğunda yuva tünelleri oluştu-
+rur ve günde 2-3 yumurta bırakır.
+Bu yumurtalar oval ve 0,1- 0,15 mm
+uzunluğundadır. 3-4 gün içinde yu-
+murtadan çıkan larvaların sadece 3
+çift bacağı vardır. Larvalar deri yü-
+zeyine doğru yol alırlar ve derinin
+sağlam olan dış tabakasına girerler.
+Bu aşama yaklaşık 3-4 gün sürer. Ar-
+dından 4 çift bacağa sahip oldukları
+erişkin larva aşamasına geçerek tüy
+dökerler. Erişkin dönemdekiler oval,
+kese benzeri, gözsüz akarlardır. Di-
+şiler 0,30 ila 0,45 mm uzunluğun-
+da ve 0,25-0,35 mm genişliğindedir,
+erkeklerin boyutu ise dişilerinkinin
+yarısından biraz daha küçüktür. Çift-
+leşme, yetişkin erkek akarın dişinin
+açtığı tünele sızmasından sonra
+gerçekleşir. Çiftleşme sonrası dişiler
+kendi tünellerinden ayrılıp kalıcı bir
+tünel buluncaya kadar deride gezi-
+nirler, kalıcı tünellerini buldukların-
+da da yumurtalarını bırakırlar. İdeal
+koşullar altında dişi yumurtalarının
+yaklaşık %10’u erişkinliğe ulaşır,
+çiftleşir ve döngü tekrar eder.
+1
+Yetişkin dişi akarlar
+deri altına açtıkları tünellere
+günde
+2-3 yumurta bırakır.
+2
+Yumurta
+3
+3-4 gün sonra
+larvalar yumurtadan çıkar.
+4
+Kısa tünel içinde
+larvalar
+erişkin larva aşamasına
+geçer.
+5
+Çiftleşme
+yetişkin erkek akarın
+dişinin
+bulunduğu tünele sızmasıyla
+gerçekleşir.
+Sarcoptes scabiei’nin yaşam döngüsü
+
+--- Sayfa 23 ---
+Biri Kabuklu,
+Diğeri Tipik
+Tipik ve kabuklu uyuz olmak
+üzere iki tür uyuz hastalığı bulunu-
+yor. Hastalığın bir kişiden başka bir
+kişiye, yakın cilt temasıyla, kişinin
+giysi ve çarşaf gibi kişisel eşyaları-
+nın ortak kullanımıyla bulaşması
+söz konusu. Belirtilerin fark edilme-
+si 6 hafta kadar sürebilir. Genellikle
+sivilce benzeri döküntü ve küçük
+kabarcıklar şeklinde görüntüler or-
+taya çıkıyor. Sağlıklı görünen bir kişi
+gece artan kaşıntıdan şikayet ede-
+bilir ancak bağışıklığı baskılanmış
+kişilerde veya yaşlılarda belirtiler
+görülmeyebilir.
+Kabuklu uyuz diğerine göre daha
+ciddi bir uyuz türü olarak biliniyor.
+Kabuklu uyuz hastalığına yakalanan
+kişilerin cildinde pul pul dökülen, so-
+yulan ve çok sayıda uyuz akarı ve yu-
+murta içeren kalın kabuklar gözlenir.
+Kabuklu uyuz ve tipik uyuz arasın-
+daki en önemli fark kabuklu uyuzda
+vücutta bulunan akar sayısının çok
+daha fazla olmasıdır. Tipik uyuzda-
+ki akar sayısı 10-15 civarındayken
+kabuklu uyuzda bu sayı 2 milyona
+kadar çıkabilir. Uyuz salgınlarında
+görülen uyuz tipi ise kabuklu uyuz.
+Kabuklu uyuz, kalabalık ortam-
+larda yaşayanlarda, bağışıklık sis-
+temi baskılanmış kişilerde, diyabet
+hastalarında, insan immün yetmez-
+lik virüsü (HIV) taşıyanlarda ve ileri
+yaş nedeniyle bağışıklık sistemi yet-
+mezliği olanlarda daha yaygın olarak
+görülüyor. Bu tip uyuzda belirtiler
+avuç içlerinde, ayak tabanlarında ve
+tırnakların altında görülür. Diğer bir
+belirti ise hiperkeratotik plakların
+oluşması yani derinin dış katman-
+larının kalınlaşması. Ayrıca kabuk-
+lu uyuzda genellikle lenfadenopati
+yani lenf bezlerinin sayısında, boyu-
+tunda ve şekillerinde değişikliklerin
+meydana gelmesi; kanda bir lökosit
+türü olan eozinofil sayısının artması
+ve serum IgE düzeyinin yükselmesi
+gözlenir ve ölüme neden olabilecek
+ikincil bir bakteri enfeksiyonuna da
+yaygın olarak rastlanır.
+Cilt bariyerinin en üst tabakasının yani epidermisin ve onu kap-
+layan hidrolipidik tabakanın yapısının uyuz hastalığı nedeniyle
+bozulması bakteriyel enfeksiyonlara davetiye çıkartabilir. Bun-
+lar çoğunlukla Streptococcus pyogenes (A grubu streptokoklar,
+GAS) ve Staphylococcus aureus nedeniyle ortaya çıkan enfek-
+siyonlar. Yapılan çalışmalarda, derideki akar tünellerinden ve
+akar dışkılarından alınan örneklerde bu bakterilere rastlanmış.
+İkinci bakteriyel enfeksiyonlar denilen bu tür enfeksiyonlar, ge-
+nellikle deride uyuz akarları tarafından tünel açıldıktan sonra
+ortaya çıkıyor. İmpetigo yani bakteri nedeniyle ortaya çıkan deri
+enfeksiyonu özellikle yaygın olarak görülüyor. Bu deri enfeksi-
+yonunun sonuçları ciddi yumuşak doku enfeksiyonlarına kadar
+varabiliyor. Bu ikincil enfeksiyonlar, bağışıklık sisteminin yanıtı
+sonucunda poststreptokoksik glomerülonefrit, akut romatiz-
+mal ateş gibi komplikasyonlara da neden olabiliyor. Sonrasında
+poststreptokoksik glomerülonefritin kronik böbrek hastalığına,
+akut romatizmal ateşin de romatizmal kalp hastalığına yol aç-
+ması ihtimali söz konusu.
+Diğer Hastalıklara da Kapı Açıyor
+l Deride lekelenme
+ve delikler
+l Toplumdan uzaklaşma
+l Uyku bozukluğu
+l Deride belirtiler
+l Şiddetli kaşıntı
+l Deri bariyerinin bozulması
+l Bağışıklık sisteminin tepkisi
+İmpetigo
+l Streptococcus pyogenes
+l Streptococcus aeurus
+l Eğitime veya işe devam edememe
+l Ekonomik etkiler
+Bağışıklık yanıtı
+sonucunda
+l Romatizmal ateş
+l Glomerülonefrit
+Kalp romatizması
+l yılda %2-5 ölüm oranı
+Sepsis ve invaziv
+enfeksiyonlar
+l %5-10 ölüm oranı
+l Ciddi deri ve yumuşak doku
+enfeksiyonları
+İstila
+Bakteriyel Deri Enfeksiyonu
+Ciddi Komplikasyonlar
+İkincil Etkiler
+Birincil Etkiler
+Uyuz Hastalığının Birincil ve İkincil Etkileri
+
+--- Sayfa 24 ---
+23
+İnsana bir tek insandan
+uyuz bulaşabilir.
+Hayvandan insana uyuz
+bulaşmaz.
+Çünkü hayvanlar,
+insan vücudunda hayatta
+kalamayan veya
+üreyemeyen farklı bir
+uyuz akarı
+ile enfekte olur.
+Uyuz olan bir hayvanın
+bir insanla yakın teması varsa,
+akar o kişinin deri altına
+girebilir ancak insan vücudunda
+sadece geçici kaşıntıya
+ve cilt tahrişine neden olabilir
+ve uygun yaşam ortamı
+bulamadığından
+birkaç gün içinde ölür.
+Bu durumda
+kişinin tedavi edilmesine
+gerek olmasa da
+hayvanın tedavi edilmesi
+gerekir.
+Bulaşmaya
+Dikkat!
+Sarcoptes scabiei ile enfekte ol-
+muş bir kişiyle uyumak ve/veya uzun
+süreli cilt temasında bulunmak uyu-
+zun bulaşmasında büyük risk oluştu-
+rur. Aynı zamanda uyuz hastalığına
+sahip kişinin giysileri, havluları ya
+da nevresimleri gibi eşyalarını kul-
+lanmak da bulaşmaya neden oluyor.
+Kabuklu uyuz, vücutta çok sayıda
+akar bulunması nedeniyle, tipik uyu-
+za göre çok daha bulaşıcı. Tipik uyuz
+olan bir kişiyle kısa süreli el sıkışmak
+nispeten düşük risk olarak kabul edi-
+lebilirken, kabuklu uyuz söz konusu
+olduğunda aynı şekilde el sıkışmak
+çok daha yüksek bir risk oluşturuyor.
+Uyuzun en yaygın ve ilk görülen
+belirtisi özellikle geceleri şiddetli ka-
+şıntı. Ayrıca sivilce benzeri kaşıntılı
+uyuz döküntüsü de yaygın olarak
+görülebiliyor. Uyuz akarlarının pro-
+teinlerine ve dışkısına karşı vücutta
+oluşan bir tür alerjik reaksiyon bu
+belirtilere neden oluyor. Kişi, daha
+önce akar proteinlerine ve dışkıları-
+na hiç maruz kalmadıysa bağışıklık
+sisteminin bu reaksiyonu geliştirme-
+si ve duyarlı hâle gelmesi biraz za-
+man alıyor. Bu nedenle, kişiye ilk kez
+uyuz akarı bulaştığında, belirtilerin
+ortaya çıkması genellikle 2 haftayı
+bulabiliyor. Bir kişi daha önce uyuz
+geçirmişse belirtiler genellikle akara
+maruz kaldıktan 1-4 gün sonra orta-
+ya çıkıyor. Diğer yandan uyuz hasta-
+lığına sahip kişi, belirti göstermese
+de başkalarına uyuz bulaştırma po-
+tansiyeline sahip olabiliyor.
+Çoğu zaman uyuz döküntüsü
+ya da uyuz nodülleri parmaklarda,
+bileklerde, koltuk altında, kasıklar-
+da, kalçada, genital organda ve me-
+melerde görülüyor. Bebeklerde ve
+küçük çocuklarda döküntüler avuç
+içi, taban ve kafa (yüz, boyun ve kafa
+derisi) bölgesinde daha yaygın ola-
+rak görülüyor. Uzun süreli ve şiddetli
+kaşıntı kişinin hem hayat kalitesini
+düşürüyor hem de toplumdan dış-
+lanmasına neden oluyor.
+Kabuklu uyuz, bağışıklık sistemi
+zayıflamış ya da baskılanmış kişiler-
+de görüldüğünde, akar proteinlerine
+ve dışkılarına karşı, bağışıklık sistemi
+alerjik reaksiyon geliştirmeyeceğin-
+den ya da çok az geliştireceğinden
+bazen karakteristik döküntü veya ka-
+şıntı gibi olağan uyuz belirtileri gö-
+rülmüyor ve hastalık genellikle sağlık
+uzmanının dikkatinden kaçabiliyor.
+Uyuz hastalığının
+dünya çapında görülme oranları
+
+--- Sayfa 25 ---
+24
+Teşhis
+Bazen Zor,
+Bazen de Yanlış!
+Uyuzu teşhis etmek genellikle
+zor olduğu için tanı koyarken za-
+man kaybı söz konusu olabilir. Diğer
+yandan genellikle egzama, prurigo
+nodularis veya lupus eritematozus
+gibi başka deri hastalıklarıyla karıştı-
+rılıp yanlış teşhis de konabilir. Bu ne-
+denle de döküntülerin görünümü ve
+dağılımına bağlı olarak uyuz teşhisi
+konusunda deneyimli dermatologla-
+ra ve doktorlara başvurmak önemli.
+Çıplak gözle görülebilen deride yılan
+kıvrılışını andırır tünel benzeri yayıl-
+malar ve geceleri artan kaşıntı dok-
+torların tipik bir muayeneyle teşhis
+koymasına yardımcı olan en önemli
+belirtiler.
+Tanıda kullanılan yöntemlerden
+biri cilt kazıntısı. Bu yöntemde dö-
+küntünün ya da nodüllerin olduğu
+farklı bölgelerden alınan cilt kazın-
+tıları deneyimli hekimler tarafından
+mikroskopta incelenir.  Tipik uyuzda
+akar sayısı çok az olduğundan cilt
+kazıma yöntemi teşhis koyarken çok
+başarılı olmayabilir ama kabuklu
+uyuzda vücutta 2 milyon civarında
+akar olabileceğinden cilt kazıntısı
+sonucunda mikroskop altında akarı
+ve yumurtasını gözlemlemek, dola-
+yısıyla da teşhis koymak daha müm-
+kün. Mürekkep testi de kullanılan di-
+ğer bir yöntem. Bu yöntemde ciltte
+tünelin bulunduğu düşünülen alana
+mürekkep uygulanır ve hemen al-
+kollü bir pamukla silinir. Tünel varsa
+mürekkep koyu ve düzensiz bir çiz-
+gi şeklinde tünelin içinde yayılmış
+hâlde gözlenebilir.
+Dermatoskopi ise incelenen ala-
+nın görüntüsünü 10 kat büyütme
+imkânı sağlayan video dermatosko-
+piye benzeyen, elde taşınabilen ve
+bilgisayar bağlantısına ihtiyaç duy-
+mayan bir cihazın kullanıldığı başka
+bir yöntem. Dermoskopi cihazıyla
+yapılan inceleme, kıvrımlı ve pulsu
+tünellerin, hatta tünelin sonundaki
+akarın pigmentli başının ve ön ba-
+caklarının oluşturduğu koyu renk
+üçgen yapının görülmesini sağlar. Bu
+görüntü tıp dünyasında bir jet uçağı-
+nın arkasında bıraktığı ize benzetili-
+yor. Bu yapı içinde akarın yumurta-
+ları ve dışkısı da yer alıyor. Tünelin
+ucundaki larva deri yüzeyine yakla-
+şıp bu noktada deride küçük cepler
+oluşturarak tüy döküyor ve gelişimi-
+nin bir sonraki aşamasına geçiyor.
+Ayrıca tanı koyarken akarın daha
+iyi incelenmesini sağlayan ve cerra-
+hi olmayan video dermatoskopi ve
+reflektans konfokal mikroskopi gibi
+diğer görüntüleme yöntemleri de
+kullanılıyor.
+Video dermatoskopi 1000 kat bü-
+yütme özelliği ile deri yüzeyinden
+dermis tabakasına kadar inceleme
+yapmaya olanak sağlar. Böylece tü-
+neller, akarlar, yumurtalar, larvalar
+ve dışkı tanımlanabilir. Cilt kazıntı
+yöntemine göre video dermatosko-
+pinin birçok avantajı vardır. Birincisi,
+çocuklar, hassas hastalar ve cilt ka-
+zıntılarını reddedebilecek kişiler için
+bir alternetif olarak görülüyor. Video
+dermoskopi yöntemi daha kolay ve
+hızlı. Ayrıca video dermoskopide,
+cerrahi bir müdahaleye gerek olma-
+dığından, HIV veya hepatit C virüsü
+(HCV) taşıyan kişilerden bu hastalık-
+ların bulaşma riskini en aza indirir.
+Video dermatoskopi aynı zamanda
+hastalıkların tedavisinin tamamlan-
+masının ardından hasta takibinin ve
+değerlendirilmesinin yapılmasında
+hayli yarar sağlar. Reflektans konfo-
+kal mikroskopi ise diğer görüntüle-
+me yöntemlerine göre çok daha yeni
+bir yöntem.
+Akar
+Tünel
+Dışkı
+Yumurtalar
+Dermatoskopi cihazıyla yapılan incelemede görülen yapı
+
+--- Sayfa 26 ---
+25
+Tedavi Doğru
+Uygulanmalı
+Uyuz tedavisinde kullanılan, sa-
+dece hekimin yazdığı reçeteyle alı-
+nabilen, uyuz akarlarını ve yumur-
+talarını öldüren ürünlere skabisit
+deniyor. Skabisit kremi veya losyonu,
+yetişkinlerin ve büyük çocukların te-
+davisinde boyundan ayak parmakla-
+rına kadar vücudun tüm bölgelerine
+uygulanmalı. Uyuz hastalığına yaka-
+lanmış bebekler ve küçük çocuklar
+ise özellikle yüz, kafa ve boyun böl-
+geleri etkilendiği için tedavi sırasın-
+da losyon veya kremin göze ve ağıza
+teması önlenerek tüm baş ve boyun
+bölgesine uygulanması öneriliyor.
+Uygulamada en önemli şey los-
+yonu veya kremi temiz bir vücuda
+uygulamak ve genellikle 8 ila 14 saat
+vücutta kalmasını sağlamak. Bu ne-
+denle tedavinin gece uygulanması
+ve sabah yıkanması daha uygun.
+Tedaviden sonra da temiz giysiler,
+havlular ve nevresimler kullanılmalı.
+Hatta tedaviye başlamadan önceki 4
+gün içinde kullanılan tüm eşyaların
+yüksek sıcaklıkta (en az 75oC) yıkan-
+ması, sıcak hava ile kurutulduktan
+sonra da 10 gün boyunca kapalı bir
+torbada tutulması öneriliyor. Tedavi-
+yi hastayla yakın ilişkide olan herke-
+sin uygulaması şart.
+Uyuz belirtileri, akarlara ve dış-
+kılarına karşı alerjik bir reaksiyona
+bağlı olduğundan, tedavi başarılı ol-
+masına ve tüm akarlarla yumurtala-
+rın yok edilmesine rağmen derideki
+döküntüler ve kaşıntı tedaviden son-
+ra bir aya kadar devam edebilir. Bu
+durumda hekim kaşıntıyı azaltacak
+ek bir ilaç önerebilir. Bunun dışında
+yanlış teşhis, aile üyelerinden birinin
+ya da birkaçının tedaviyi uygulama-
+ması, tedavide kullanılan ilaçlara
+direnç gibi çeşitli nedenlerle kaşıntı
+ve diğer şikayetlerin ilk tedaviden
+sonraki 4-6  hafta daha devam etmesi
+mümkün. Bu durumda ise tedavinin
+tekrarı gerekir.
+Önemli bir halk sağlığı sorunu
+olan uyuz hastalığında tedavinin ba-
+şarısız olmasının ve hastalığın salgın
+boyutuna ulaşmasının en önemli
+nedenlerinden biri olarak tedavinin
+gerektiği gibi uygulanmaması görü-
+lüyor. Salgınların, bağışıklık sistemi
+zayıflamış veya yaşlı kişilerde görü-
+len kabuklu uyuz hastalığının gecik-
+miş tanı ve tedavisi nedeniyle ortaya
+çıkması da muhtemel.
+Bu noktada hastalığın yayılma-
+sını önlemek için hastane, bakıme-
+vi gibi kalabalık ortamlarda gerekli
+önlemlerin alınması gerekiyor. Uyuz
+hastalığı, korunma yolları, belirtileri
+ve tedavisi hakkında verilecek eği-
+timlerin de salgını önlemekte yarar
+sağlayacağı düşünülüyor. n
+Dünya Sağlık Örgütünün
+ihmal edilen hastalıklar
+listesine aldığı uyuz hastalığında
+erken teşhis ve acil tedavi
+çok önemli.
+Lütfen ihmal etmeyelim!
+Kaynaklar
+https://odh.ohio.gov/wps/wcm/connect/gov/
+6697e4af-8115-4b66-bb56-
+90f71aedeaf1/Scabies+Manual+2019.
+pdf?MOD=AJPERES&CONVERT_
+TO=url&CACHEID=ROOTWORKSPACE.Z18_
+M1HGGIK0N0JO00QO9DDDDM3000-6697e4af-8115-
+4b66-bb56-90f71aedeaf1-mze2kqb
+Engelman D. ve ark. “The public health
+control of scabies: priorities for research and action”,
+Lancet, Cilt 394, s.81-92, 2019.
+Chandlera, D., J., Fullerb, L., C.,
+“A Review of Scabies: An Infestation More than
+Skin Deep”, Dermatology, Cilt 235,
+s.79-90, 2019.
+https://www.ncbi.nlm.nih.gov/
+books/NBK544306/#_article-28727_s2_
+
+--- Sayfa 27 ---
+Sinancan Kara  [ btcizgiroman@tubitak.gov.tr
+Bilim Çizgi
+Bilim ve Teknik  Şubat 2020
+
+--- Sayfa 28 ---
+27
+
+--- Sayfa 29 ---
+Modern toplumlarda plastik malzemeler önemli bir rol oynuyor
+ve günümüzde hemen hemen her alanda yoğun olarak kullanılıyorlar.
+Bilim ve Teknik  Şubat 2020
+Biyoplastikler ve
+Yeni Eğilimler
+Dr. Tuncay Baydemir  [ TÜBİTAK Bilim ve Teknik Dergisi
+
+--- Sayfa 30 ---
+Ambalaj, tarım, gıda, sağlık, inşaat, otomotiv,
+havacılık ve uzay gibi çok çeşitli sektörlerde geniş uygulama olanaklarıyla
+yaşamımızın vazgeçilmezleri hâline gelen plastik malzemeler,
+amaca göre farklı özelliklere sahip olacak şekilde sentezlenip son ürüne
+dönüştürülebiliyor.
+
+--- Sayfa 31 ---
+30
+ünyada plastik üretimi yıllara göre sü-
+rekli bir artış gösteriyor. Küresel plastik
+üretimi 2017 yılında 348 milyon ton ci-
+varlarındayken bu sayı 2018 yılında 360
+milyon tona yaklaştı. Plastiklerin çağının
+başladığı 1950’lerden itibaren ortaya çıkan plastik atık-
+ların sadece %21’lik kısmı geri dönüştürüldü veya enerji
+üretiminde kullanıldı. Geriye kalan plastikler ise ya katı
+atık depolama alanlarına gönderildi ya da doğaya bıra-
+kıldı.
+Sayılara bakıldığında durumun iyi bir yönde seyretme-
+diği açık bir şekilde görülüyor. Plastiklerin çevre üzerin-
+de bıraktığı olumsuz etkiler hakkında farkındalık ise son
+dönemde iyice arttı. Daha çevreci yaklaşımlar için dünya
+ülkeleri artık önemli adımlar atıyorlar. Ancak görünen
+o ki plastik malzemelerin eşsiz özelliklerinden fayda-
+lanmaktan vazgeçmek pek de mümkün olmayacak. Bu
+nedenle plastik üretimi ve kullanımının daha çevreci
+düzenlemeler ve yaklaşımlar çerçevesinde gerçekleşti-
+rilmesi gerekiyor.
+
+--- Sayfa 32 ---
+Plastiklerin büyük çoğunluğu petrol bazlı olarak üre-
+tiliyor. Sahip oldukları üstün özellikleri sayesinde çok çe-
+şitli alanlarda kullanılan plastik malzemeler genel olarak
+doğadaki kalıcılıkları sebebiyle kirliliğe yol açıyor. Plas-
+tiklerin üretim ve kullanımına ilişkin yetersiz politikalar,
+istenilen düzeyde gerçekleştirilemeyen geri dönüşüm ve
+yeniden kullanım sağlama çalışmaları bu kirliliğin gü-
+nümüzde çok ciddi boyutlara ulaşmasına neden oluyor.
+Ev eşyalarından tutun da uzay teknolojilerine kadar
+pek çok alanda kullanımı olan plastik malzemeler ve
+türevleri, kullanımları sona erdiğinde ya geri dönüştü-
+rülmeli ya da doğada kirliliğe neden olmayacak şekilde
+kısa sürelerde bozunma süreçlerine dâhil olabilmelidir.
+Sentetik plastiklerin kimyasal, fiziksel ve biyolojik bo-
+zunmaya karşı direnci, son yıllarda ciddi endişeler ya-
+ratmaya başladı. Mevcut plastik malzemelere alternatif
+olarak doğal ve sürdürülebilir kaynaklardan üretilen,
+biyolojik olarak parçalanabilen, biyouyumlu ve düşük
+toksisiteli bozunma özelliği taşıyan plastik malzemelere
+ihtiyaç duyuluyor.
+Plastik malzemelerin doğaya zarar vermeyecek şe-
+kilde parçalanan türlerinin üretimini ve kullanımını ar-
+tırmak sorunun bir kısmını çözmemize yarayabilir. Bu-
+rada karşımıza biyo bazlı ve biyobozunur polimerler bir
+alternatif olarak çıkıyor. Konuyla ilgili yapılan araştırma-
+ların doğadaki plastik kirlenmesinin önüne geçmemize
+yardımcı olması öngörülüyor.
+31
+
+--- Sayfa 33 ---
+32
+Plastikler - Polimerler
+Sıcaklık ve basınç uygulanarak kalıplanabilen ve şekil
+verilebilen sentetik ya da yarı sentetik polimerlere plastik
+deniyor. Plastik kelimesi Yunanca kökenli olup şekil ve-
+rilebilir ve kalıplanabilir malzeme grubunu işaret ediyor.
+Üretim aşamasında plastikler film, iplik, plaka, tüp, şişe,
+kutu gibi pek çok şekilde son ürün hâline dönüştürülebi-
+liyor. Endüstriyel plastiklerin büyük bir kısmı petrokim-
+yasal maddelerden elde ediliyor. Tipik bir plastik reçine
+birden fazla polimer türü içerebileceği gibi bunlara ek ola-
+rak renklendirici, plastikleştirici, UV koruyucu gibi çeşitli
+katkı maddeleri ve dolgu maddeleri de içerebilir. Bunların
+eklenmesiyle son ürünün işlenebilirlik, termal ve çevresel
+dayanım ve mekanik özellikleri geliştirilebilir.
+Polimerler halk arasında genel olarak plastik olarak
+biliniyor. Bu kullanım tam olarak doğru sayılmaz. Bütün
+plastik malzemeler polimerlerden oluşur ancak tüm poli-
+merler plastik olarak değerlendirilemez.
+Hayatımızda bu kadar önemli yere sahip olan plastikleri
+daha iyi anlamak için polimerleri biraz daha yakından tanı-
+makta fayda var. Polimer molekülleri pek çok küçük mole-
+külün birleşiminden oluşan oldukça büyük moleküllerdir.
+Kökeni Yunancaya dayanan polimer ismi “çok parçalı, çok
+parçadan oluşan” anlamlarına geliyor. Bu isim polimerin
+oluşumunda yer alan pek çok küçük molekülün yani mo-
+nomerlerin, polimerleşme reaksiyonu sonucunda birbi-
+rine eklenmesini ifade ediyor. Tıpkı yapı oyuncaklarında
+birbiriyle aynı blokların birbirine eklenmesi gibi... Sonuç
+olarak elimizde birbirine eklemlenen halkaların oluşturdu-
+ğu zincir şeklinde uzun bir yapının olduğunu düşünebili-
+riz. İşte polimer molekülleri de aşağı yukarı bu şekildedir.
+Elbette elde edilen yapı her zaman düz bir zincir şeklin-
+de olmaz. Bazı yerlerinde dallanıp budaklanır, bazen iki
+zincir arasındaki belli bölgeler birbirine küçük zincirlerle
+bağlanır, bazen merdivene benzer yapılar elde edilir. Bazı
+durumlarda zincirler ortak tek bir noktadan çıkarak yıldı-
+za benzer yapılar oluşturabilir. Bunların yanında oldukça
+karmaşık sayılabilecek farklı yapılar da sentezlenebilir.
+Polimerler doğal polimerler ve sentetik polimerler
+olarak iki ana sınıfa ayrılabilir. Doğal polimerler arasında
+proteinler, nükleik asitler, ipek, kauçuk, selüloz ve nişasta
+sayılabilir.  Polistiren, polipropilen, polietilen, polivinilklo-
+rür, naylon gibi polimerler ise yapay olarak sentezlenebi-
+len polimerler arasında yer alır. Bazı durumlarda (kauçuk
+örneğinde olduğu gibi) doğal polimerler yapay yollarla
+da sentezlenebilir.
+Polimer Moleküler Yapılar
+Doğrusal
+Seyrek çapraz bağlı
+Dallanmış
+Yoğun çapraz bağlı
+
+--- Sayfa 34 ---
+33
+Kısaca belirtilmeye çalışıldığı gibi tekrarlayan aynı
+moleküller yani monomerler kullanılarak pek çok farklı
+polimer yapıları elde edilebiliyor. Ayrıca farklı monomer
+türleri kullanılarak kopolimer denilen yapılar da oluştu-
+rulabiliyor. Kullanılan monomer türleri, polimer zincirle-
+rin uzunlukları ve moleküler yapılar gibi pek çok farklılık
+sayesinde elde edilen son malzemenin özellikleri değişik-
+lik gösteriyor. Bunlarla birlikte endüstriyel işlemlerle üre-
+tilen son ürünün özellikleri de yeni katkı maddeleri ve
+pek çok farklı kimyasal ve fiziksel süreçle istenildiği gibi
+ayarlanabiliyor. Bahsedilen çeşitlilikteki malzeme üreti-
+mi araştırmacılara sayısız olanak sağlıyor. Sonuç olarak
+polimerler bilim insanları için pek çok araştırma konusu
+sunduğu gibi elde edilen nihai ürünler de modern haya-
+tın vazgeçilmezleri arasında yer alıyor.
+Tüm polimerler ve dolayısıyla plastikler termal işlem
+davranışlarına göre iki sınıfta değerlendiriliyor. Termop-
+lastikler ısıtıldığında eritilebilen ve soğutulduğunda ye-
+niden sertleşip aldığı şekli koruyabilen malzemelere de-
+niyor. Bu işlem geri döndürülebilir özellik taşıyor. Sıcaklık
+ve basınç yardımıyla kalıplama işlemi yeniden tekrarla-
+nabiliyor ve farklı üretim teknikleriyle istenilen şekilde
+son ürünler üretilebiliyor. Termosetler ise sentezlenme
+ya da üretim aşamasında polimer zincirlerinin birbirine
+kimyasal bağlarla çok sıkı bir şekilde bağlanmış olduğu
+polimer malzemelerdir. Isıtılıp son şekil verildikten sonra
+bu malzemeler tekrar eritilip şekillendirilemiyor. Oldukça
+yüksek sıcaklıklarda direkt olarak bozunmaya uğruyorlar.
+Küresel ölçekte plastik atıkların hızlı birikimi, üstün
+niteliklere sahip (örneğin, zararlı yan ürünler oluşmadan
+tam biyobozunur özellikli) ve yenilenebilir (fosil yakıt-
+lara ihtiyaç duyulmadan biyokütlelerden üretilebilen)
+plastiklere olan talebi artırıyor. Sonuç olarak küresel bi-
+yoekonomi sürekli şekilde büyüme gösteriyor.
+Plastik Atıklar Sürekli Artıyor
+Petrokimya endüstrisinde yakıt olarak kullanıl-
+mayan kimyasal yan ürünlerin yaklaşık %80’lik kısmı
+polimer üretiminde kullanılıyor. 2015 yılına kadar
+küresel plastik üretimi 8,3 milyar tona ulaştı ve 6,3
+milyar ton plastik atığa sebep oldu. Bu malzemelerin
+sadece %21’lik kısmı geri dönüştürüldü veya enerji
+üretiminde kullanıldı. Geriye kalan %79’luk kısım ise
+ya katı atık sahalarına bırakıldı ya da çevreye atıldı.
+2050 yılına kadar toplam plastik atık miktarının 12
+milyar tona yükselmesi bekleniyor.
+Küresel plastik kirliliğinin ulaştığı boyutları gös-
+teren en önemli örneklerden biri 1,6 milyon km2’lik
+bir alanı kaplayan ve hızla büyümeye devam eden
+Büyük Pasifik Çöp Yaması. Okyanus akıntılarının bir
+araya getirdiği bu plastik atık yığını gibi dört alan
+daha bulunuyor. Yığınlardaki plastik parçalarının ço-
+ğunun birkaç milimetre çapında olduğu ve en az 5,25
+trilyon plastik parçasının okyanuslarda kirliliğe ne-
+den olduğu tahmin ediliyor. 5 mm çapından büyük
+parçalar bu atıkların ağırlıkça %87’sini oluştururken,
+mikroplastik olarak ifade edilen ve çapı 5 mm’den
+küçük olan plastik parçalar da yaklaşık %13 ağırlığa
+karşılık geliyor. Atıkların besin zincirine dâhil olması
+sonucunda deniz canlıları ve bunları tüketen insan-
+lar mikroplastiklere maruz kalıyor. Mikroplastiklerin
+tuz, bal, şeker ve şişelenmiş su gibi farklı kaynaklarda
+da bulunduğu çeşitli araştırmalarla ortaya çıkarıldı.
+Beslenme ya da solunum yoluyla alınan mikroplas-
+tikler vücutta birikerek iltihaplanmalara, kansere
+(özellikle hayvanlarda), zehirlenmelere (özellikle in-
+sanlarda) neden olabilir.
+Yıllar içerisinde plastiklere olan talebin artması
+ve bazı plastik türlerinin tam anlamıyla bozunması-
+nın yüzlerce yıl sürebildiği göz önünde bulundurul-
+duğunda bazı önemli girişimlerin yapılması gereki-
+yor. Bunlar arasında plastik kullanımının azaltılması,
+geri dönüşüm ve tekrar kullanım faaliyetlerinin üst
+seviyelere taşınması gibi politikalar var. Mücadelenin
+en önemli öğelerinden birisi de petrol bazlı plastikle-
+rin yerini mümkün olduğunca biyobozunur özelliğe
+sahip ve sürdürülebilir şekilde üretilebilen biyoplas-
+tiklerle doldurmaktan geçiyor.
+Çeşitli kopolimer yapıları
+Rastgele
+Alternatif (sürekli değişen)
+Blok
+Graft (aşı)
+
+--- Sayfa 35 ---
+Biyoplastik ne demek?
+B
+iyoplastik terimi biyokütleden veya biyo-
+kütleden üretilen monomerlerden elde edi-
+len biyo bazlı polimerler için kullanılıyor ve bu
+terimle genel olarak fosil kaynaklı polimerlerin
+tam zıttı kastediliyor.
+Biyoplastik ifadesinin kullanımı çoğu za-
+man yanlış anlaşılabiliyor ve biyokütlelerden
+elde edilen polimerlerin tamamıyla çevre dos-
+tu olduğu kanısı oluşabiliyor. Yaşam döngüsü
+değerlendirmesi yapılmadan biyo bazlı bir poli-
+mer malzemenin çevre dostu olma bakımından
+petrol bazlı bir polimer malzemeye herhangi bir
+üstünlüğü olmayabiliyor.
+Biyoplastikler farklı malzemelerden elde
+edilebiliyor ve çok farklı alanlarda kullanılabili-
+yor. Son yapılan tanımlamalara göre bir plastik
+malzemenin biyoplastik olarak sınıflandırılabil-
+mesi için biyo bazlı ya da biyobozunur olması ya
+da her iki özelliği de taşıması gerekiyor. Buradan
+yola çıkılarak biyoplastik malzemeler günümüz-
+de üç ana grupta toplanıyor: biyo bazlı plastik-
+ler, biyo bazlı biyobozunur plastikler ve petrol
+bazlı biyobozunur plastikler.
+Biyoplastik üretimi için kullanılabilecek
+malzemelere her geçen gün yenileri eklenmeye
+devam ediyor. Yaygın olarak kullanılan biyoküt-
+leler arasında selüloz, lignin, bitkisel yağlar, mı-
+sır nişastası, bezelye nişastası, patates nişastası,
+şeker kamışı, avokado, yosun ve algler, kaktüs,
+karides ve mantar sayılabilir. Biyoplastik üreti-
+mi için kullanılan kaynakların sürdürülebilir ve
+doğa dostu olmaları sayesinde hem petrol baz-
+lı hammaddelere ihtiyaç azalıyor hem de daha
+çevreci bir yaklaşım sergileniyor. Örnek vermek
+gerekirse, Avrupa’nın yıllık polietilen (PE) tale-
+binin fosil bazlı yerine biyo bazlı kaynaklardan
+karşılanması durumunda doğaya 42 milyon ton
+daha az karbondioksit salımı gerçekleşebilir.
+34
+Biyobozunur Plastikler
+Varlar ve Daha Sonra Yoklar
+Sentetik polimerlerin büyük çoğunluğu kimyasal,
+fiziksel ya da biyolojik süreçlerde parçalanmaya karşı
+oldukça dayanıklı olabiliyor. Bozunma süreçlerinin ol-
+dukça uzun olması bu malzemelerin yaygın kullanımını
+sorgulamayı gerekli kılıyor. Araştırmacılar bu nedenle
+kullanılan fosil bazlı polimerlerin yerine geçebilecek bi-
+yobozunur, biyolojik süreçlere uyumlu ve bozulduğun-
+da doğaya ve insan sağlığına zehirli ürünler bırakmaya-
+cak alternatiflerini bulmaya çalışıyorlar.
+IUPAC (International Union of Pure and Applied
+Chemistry), biyobozunur polimerleri, biyolojik aktivi-
+teler sonucunda daha küçük moleküllere parçalanarak
+molekül ağırlıkları düşmeye uygun ve bu sayede bozun-
+maya yatkın polimerler olarak tanımlıyor. Diğer tanımla-
+malar ise biyobozunur malzemelerin kısa sayılabilecek
+sürelerde genel olarak karbondioksit, su ve biyokütleye
+bozunmasını öngörüyor.
+Biyobozunur plastikler daha çevreci çalışmaların
+odağındaki malzemeler olarak dikkat çekiyor. Bu mal-
+zemeler ortamın asitliği, sıcaklık, mikroorganizmalar,
+oksitlenme ve ışık gibi etmenlerle önce daha küçük ya-
+pılara, daha sonrasındaysa karbondioksit, metan, su ve
+çürümüş organik yapılar gibi zararsız bileşenlere bozu-
+nuyor. Bu süreçlerin hepsi malzemenin bulunduğu ya
+da bırakıldığı doğal ortamda kendiliğinden gerçekleşi-
+yor. Bu sayede bu ortamlarda herhangi bir kirlenmeye
+de yol açmıyorlar.
+Biyobozunma işlemi malzemenin türüne göre en-
+düstriyel kompostlama, bahçe kompostlama, toprak ve
+su (tatlı, acı ve deniz suyu) gibi farklı ortamlarda ger-
+çekleştirilebiliyor. Sadece endüstriyel kompostlama iş-
+leminde bozunma koşulları ve zaman dilimleri net bir
+şekilde ortaya konulabiliyor. Bu yöntemle biyobozunma
+süreci standart bir hâle getirilip kolay bir şekilde takip
+edilebiliyor.
+Biyobozunur plastikler tamamen doğal kaynaklar-
+dan elde edilebildiği gibi doğadan elde edilen malzeme-
+lerin kimyasal süreçlerde işlenmesiyle yarı sentetik ola-
+rak da üretilebiliyor. Ayrıca sayıları az da olsa tamamen
+sentetik yollarla elde edilen biyobozunur plastikler de
+bulunuyor.
+
+--- Sayfa 36 ---
+Biyobozunma Süreci
+Nasıl Gerçekleşiyor?
+Avrupa Birliği Stratejik Raporuna göre plastik mal-
+zemelerin tamamının 2030 yılına kadar geri dönüştü-
+rülebilir ya da yeniden kullanılabilir hâle getirilmesi
+hedefleniyor. Biyobozunur polimerler ise bu hedefin
+gerçekleştirilmesinde büyük önem taşıyor.
+Biyobozunma, maddeleri karbondioksit, su ve/veya
+metana metabolize eden mikroorganizmalar tarafından
+gerçekleştirilen kimyasal bir işlem. Genel olarak biyobo-
+zunma süreci dört aşamada gerçekleşiyor. İlk adımda, mal-
+zemenin yüzeyinde mikrobiyal film oluşumu ile polimer
+malzemenin daha küçük parçalara ayrılması gerçekleşi-
+yor. Biyofilm mikroorganizmaları salgıladıkları enzimlerle
+polimer zincirlerini parçalayarak daha küçük moleküllere
+dönüşmelerine neden oluyor. Bu daha küçük moleküller
+mikrobiyal hücrelerde işleniyor. En son aşamada ise mi-
+neralizasyon adı verilen süreç gerçekleşiyor ve karbondi-
+oksit, metan, su ve azot gibi ürünlere dönüşüm tamamla-
+nıyor. Zararsız olan bu son ürünler doğada yerlerini alıyor.
+Biyobozunur polimerlerin bozunma süreçleri çevre
+koşullarına bağlı olarak gerçekleşiyor. Nem, sıcaklık ve
+mikroorganizma konsantrasyonları farklı ortamlar fark-
+lı biyolojik bozunma süreçleri anlamına geliyor. Doğal
+ortamlarda daha iyi biyolojik bozunma süreçlerine sa-
+hip malzemeler geliştirmek için araştırmacıların işbirli-
+ği içinde çalışması gerekiyor. Farklı ortamlarda bulunan
+mikroorganizmalar ve bunların biyolojik bozunmadaki
+işleyişi hakkında yapılacak araştırmalar mikrobiyal bi-
+yolojik parçalanmaya uyumlu yeni polimer malzemeler
+sentezlenmesinde belirleyici rol oynayabilir.
+Biyobozunma Nasıl Gerçekleşir?
+  BİYOLOJİK BOZUNMA
+Biyofilm oluşumu
+  MİNERALİZASYON
+Basit moleküllerin oluşması
+  BİYOASİMİLASYON
+Mikrobiyal hücreler tarafından
+tutulma
+Polimer zincirinin
+rastgele bozunması
+Polimer zincirinin
+uçlardan bozunması
+Biyokütle
+CO2, CH4, H2O, N2
+  POLİMER PARÇALANMASI
+Hücre dışı enzimlerce
+Biyo Bazlı Plastikler
+Biyo bazlı plastikler, malzeme ya da ürünün
+kısmen de olsa yenilenebilir biyokütle kaynak-
+larından (bitki ve mikroorganizmalardan) elde
+edildiği anlamını taşıyor. Biyoplastikler için yay-
+gın kullanılan biyokütle örnekleri arasında mısır,
+şeker kamışı ve selüloz yer alıyor. Yaygın olarak
+kullanılan plastiklerin büyük çoğunluğu fosil ya-
+kıtlardan elde edilirken biyo-bazlı plastikler ise
+yenilenebilir kaynaklardan elde ediliyor. Biyo
+bazlı plastikler fosil bazlı muadilleriyle eşdeğer
+özelliklere sahip olup aynı zamanda karbon ayak
+izinin azaltılmasını sağlıyorlar.
+Biyo bazlı ve biyobozunur terimleri genellik-
+le birbirlerine karıştırılıyor. Biyobozunma malze-
+menin doğal ya da sentetik kaynağına bağlı olma-
+yıp daha çok onu oluşturan moleküllerin kimyasal
+yapısıyla alakalıdır. Daha açık anlatmak gerekirse
+biyo bazlı bir plastik malzeme biyobozunur özel-
+lik taşımayabilir ve tamamen petrol bazlı bir plas-
+tik malzeme de biyobozunur özellikte olabilir.
+Bu noktada biyo bazlı plastik malzemelerin
+petrol bazlılara üstün olduğu noktaları vurgula-
+mak gerekiyor. Öncelikle biyo bazlı plastikler fosil
+yakıtların daha az kullanılmasını ve bu sayede
+karbon ayak izinin ve sera gazı salımının azaltıl-
+masını sağlıyorlar. Kullanılan biyokütle kaynakla-
+rının yeniden üretilebilir olması (en az yılda bir
+kez ürün hasadı gerçekleştiği düşünülebilir) biyo
+bazlı plastik üretiminin sürdürülebilirliğini sağlı-
+yor. Biyokütleler daha sonra enerji üretimi için de
+kullanılabiliyor. Ayrıca bu malzemeler biyobozu-
+nurluk özelliği de taşıyorsa doğaya bırakıldıkla-
+rında herhangi bir kirliliğe de yol açmıyorlar.
+0
+6
+1
+9
+GÜN
+2
+15
+4
+30
+35
+Kale, G., Auras, R. & Singh, S. “Degradation of Commercial
+Biodegradable Packages under Real Composting and
+Ambient Exposure Conditions”,  J Polym Environ 14, 317-334
+(2006).
+
+--- Sayfa 37 ---
+Biyoplastiklerin sınıflandırmasında çizgiler henüz tam olarak
+net değil. Referans alınacak standartlar, metodolojiler ve bunlara
+ilişkin kullanıcıları doğru bilgilendirici terimler konusunda çalış-
+malar devam ediyor.
+Küresel standartları belirleyen temel kuruluşlar arasında ISO
+(Uluslararası Standardizasyon Teşkilatı), CEN (Avrupa Standardi-
+zasyon Komitesi) ve ASTM (Amerikan Test ve Malzeme Kurumu)
+yer alıyor. Bunlara ek olarak pek çok ulusal standardizasyon kuru-
+luşu da mevcut. Tüm kurum ve kuruluşlar biyoplastikler ve biyobo-
+zunma konusundaki çalışmalara olumlu katkı sağlıyor. Dolayısıyla
+tüm standartların uluslararası düzeyde birbirlerine uyumlu hâle
+getirilmesi konuyla ilgili küresel gelişmeler açısından büyük önem
+taşıyor.
+Biyo bazlı içeriği tespit etmek için kullanılan standart testler-
+den bazıları biyo bazlı karbon içeriğini ya da biyo bazlı kütle içe-
+riğini belirtiyor. İfadelerdeki ölçü birimleri arasındaki farklılıklar
+ürünler arasında karşılaştırma yaparken dikkatli olunmasını ge-
+rektiriyor. Malzeme ya da ürün, içeriğindeki biyo bazlı kütle içe-
+riğine göre biyo bazlı olarak sınıflandırılabiliyor. Başka bir testte
+ise biyo bazlı karbon içeriği dışındaki kimyasal elementler (oksijen,
+azot gibi) temel alınıyor. CEN bu standardın sertifikasyon şeması-
+nın geliştirilmesi için çalışmalara devam ediyor.  Standartlara uy-
+gun olarak yapılan testler sonucunda bazı sertifikasyonlar da veri-
+lebiliyor. TÜV (eski adıyla Vinçotte) ve DIN CERTCO sertifikaları
+bunlara örnek olarak gösterilebilir.
+Biyobozunurluk ifadesi ise çevresel faktörler ve zaman aralık-
+ları belirtildiğinde bir anlam taşıyor. Bu nedenle bir ürün ya da
+malzeme için biyobozunur ifadesi kullanılacaksa bunun hangi çev-
+re koşullarında, ne kadar süre içerisinde ve hangi oranda  gerçek-
+leşeceğinin mutlaka belirtilmesi gerekiyor. Ürünlerde kullanılacak
+biyobozunurluk sertifikasyon ve etiketleme işlemlerinin standart
+bir hâle getirilmesi için küresel anlamda daha fazla çaba gösteril-
+mesi kaçınılmaz gözüküyor.
+Biyobozunma süreçlerinin çevresel faktörlere bağlı olması
+nedeniyle ürünlerde kullanılan “biyobozunur” etiketinin bozunma
+testlerinin gerçekleştirildiği koşulları net olarak belirtmesi gerekiyor.
+Önemli Girişimler
+Biyoplastikler genel anlamda sahip oldukları potan-
+siyel sayesinde gelecek malzeme üretimi eğilimlerinde
+belirleyici rol oynuyor. Petrol bazlı üretilen ve küresel an-
+lamda çok yaygın kullanıma sahip polietilen (PE), polip-
+ropilen (PP) ve polivinilklorür (PVC) gibi ticari plastikler
+yenilenebilir kaynaklardan da elde edilebiliyor. Biyo-PE
+hâlihazırda üretiliyor ve önümüzdeki dönemlerde bazı
+büyük firmalar da üretim aşamasına geçmeyi planlıyor.
+Bu eğilimi biyo-PP ve biyo-PVC üretiminin de izlemesi
+bekleniyor. Kısmen biyo-bazlı polietilen teraftalat (PET)
+polimeri ise paketleme işlemlerinde (özellikle içecek şişe-
+leri yapımında) kullanılıyor.
+Poliamit, poliester, poliüretan ve poliepoksiler biyo
+bazlı ancak biyolojik olarak bozunmayan yüksek perfor-
+manslı plastiklere örnek verilebilir. Bu biyo bazlı yüksek
+performans malzemeleri genel olarak tekstil ve otomotiv
+sanayisinde dayanıklı son ürünler için kullanılıyor. Bu
+ürünlerde kullanım ömrü tamamlandıktan sonra geri dö-
+nüşüm işlemi gerekiyor.
+Biyo bazlı biyobozunur plastikler olarak nişasta ve se-
+lüloz türevleri, polilaktik asit ve polihidroksialkanoatlar
+ön plana çıkıyor. Şimdiye kadar daha kısa ömürlü ürünler
+için kullanılan bu plastik sınıfı, çeşitli biyo bazlı mono-
+merlerin üretime katılması ile hızla büyüyor. Son yıllarda
+bu polimer sınıfının geri dönüşümü için de araştırmalar
+yapılıyor. Tüm gelişmeler yenilikçi ve rekabetçi ürünlerle
+karşımıza çıkan biyoplastiklerin, polimer endüstrisini şe-
+killendirme potansiyeli taşıdığını işaret ediyor.
+Petrol bazlı polimerlerden biyobozunur özellik taşı-
+yanlar ise nispeten küçük bir grubu oluşturuyor. Diğer
+biyoplastiklerle kombinasyon hâlinde kullanılmaları ile
+hem biyobozunur özellikte hem de mekanik dayanımı
+yüksek malzemeler üretilebiliyor. Oldukça sınırlı çeşitlili-
+ğe sahip bu alan geliştirilmeye açık görünüyor.
+Standartlar ve Sertiﬁkasyonlar Yeterli mi?
+36
+biyobozunmaz
+Biyoplastikler
+örn. PLA, PHA, PBS
+ve Nişasta Karışımları
+Biyoplastikler
+örn. biyobazlı PE, PET, PA
+ve PTT
+Yaygın Olarak Kullanılan Plastikler
+örn. Polietilen (PE), Polipropilen (PP) ve
+Polietilen teraftalat (PET)
+Biyoplastikler
+örn. Polibütilen adipat teraftalat (PBAT)
+Polikaprolakton (PCL)
+biyo bazlı
+fosil bazlı
+biyobozunur
+Genel Sınıﬂandırma
+European Bioplastics
+
+--- Sayfa 38 ---
+Ayrıca biyobozunur ifadesinin sadece her türlü doğal ortamda ma-
+kul bir zaman çerçevesi içinde karbondioksit, su, biyokütle ve inor-
+ganik tuzlara dönüşebilen ve toksik bozunma ürünlerine yol açma-
+yan polimerler için kullanılması daha doğru olarak kabul görüyor.
+Biyobozunma özelliği daha önce de belirtildiği gibi malzeme-
+nin kaynağına bağlı bir özellik değil. Doğrudan polimerin kimyasal
+yapısına bağlı olan bu özellik geri kazanım ve geri dönüşüm ola-
+naklarını da beraberinde getiriyor. Örneğin, plastikler gerekli biyo-
+bozunma standartlarına sahipse bunların büyük bir kısmı endüst-
+riyel tesislerde kontrollü olarak organik gübre hâline getirilebiliyor.
+Eğer bir ürün kompostlanabilir (biyolojik olarak tamamen bo-
+zulabilir, gübreleşebilir) olarak etiketlenmişse bu ürünün aksi ifade
+edilmediği takdirde endüstriyel kompostlama tesislerinde gübre
+hâline gelebilmesi beklenmelidir. Kompostlanabilir sertifikası ile mal-
+zemeler okso-biyobozunur ya da benzer etiketlerle piyasaya sürülen
+ürünlerden ayrılır. Çünkü okso-parçalanma genel anlamda biyobo-
+zunma olarak değerlendirilmez. Bu süreçte plastiklere eklenen kat-
+kı maddeleri ile oksitlenmeye yol açılarak biyobozunma taklit edilir.
+Ancak bu işlem malzemenin sadece daha küçük parçalara ayrıl-
+ması ile sonuçlanır. Neticede doğada kirlenmeye yol açan bu tür
+malzemeler biyobozunur olarak sınıflandırılmaz.
+Ürünlerdeki biyo bazlılık, biyobozunurluk ve kompostlana-
+bilirlik sertifikaları bilinçli tüketicinin ürün tercihi üzerinde etkili
+olabiliyor. Bununla birlikte güvenilir sertifikalar ürünün kullanı-
+mından sonra doğru şekilde değerlendirilmesi açısından da bü-
+yük önem taşıyor. Ancak biyobozunurluk söz konusu olduğunda
+standartlar ve sertifikasyonlar gerekli bozunma koşulları ve zaman
+dilimlerini açık olarak ortaya koymakta hâlâ yetersiz kalıyor. Bu
+konuda kabul görecek standartlar ve sertifikasyonlar için araştır-
+malar devam ediyor.
+Dünya Biyoplastik Pazarı
+Günümüzde biyoplastik üretimi yıllık plastik üretiminin yak-
+laşık olarak %1’lik kısmına karşılık geliyor. Bu oran oldukça
+düşük görünmesine rağmen taleplerin ve ürün çeşitliliğinin
+artmasıyla birlikte biyoplastiklerin pazar hacmi sürekli ola-
+rak büyümeye devam ediyor. Son piyasa verilerine göre, 2019
+yılında yaklaşık 2,11 milyon ton olan biyoplastik üretiminin
+2024 yılında 2,43 milyon tona ulaşması öngörülüyor.
+biyo bazlı / biyobozunmaz
+biyobozunur
+ tahmini değerler
+toplam üretim kapasitesi
+ÜRETİM MİKTARI (x1000 ton)
+Esnek Ambalajlama (%31,3)
+Sert Ambalajlama (%22,5)
+Tekstil (%11,2)
+Tüketici Ürünleri (%7,9)
+Tarım ve Bahçecilik (%7,6)
+Otomotiv ve Ulaşım (%6,7)
+Kaplama ve Yapıştırıcı (%5,9)
+Yapı ve İnşaat (%3,8)
+Elektrik ve Elektronik (%1,9)
+Diğer (%1,2)
+European Bioplastics, nova-Institute (2019)
+European Bioplastics, nova-Institute (2019)
+Sektörlere Göre Küresel Biyoplastik Üretimi (2019)
+Küresel Biyoplastik Üretim Miktarları
+Malzeme Türüne Göre Küresel Biyoplastik Üretimi (2019)
+Diğer - %1,1
+Polietilen (PE) - %11,8
+Polietilen teraftalat
+(PET) - %9,8
+Poliamit (PA) - %11,6
+Polipropilen (PP) - %0,9
+Politrimetilen teraftalat
+(PTT) - %9,2
+Polibütilen adipat teraftalat
+(PBAT) - %13,4
+Polibütilen süksinat (PBS) - %4,3
+Polilaktik asit (PLA) - %13,9
+Polihidroksialkanoat (PHA) - %1,2
+Nişasta karışımları - %21,3
+Diğer - %1,4
+biyo bazlı / biyobozunmaz
+%44,5
+biyobozunur
+%55,5
+934
+1077
+0
+2500
+2000
+1500
+1000
+500
+1174
+2114
+941
+1201
+951
+1234
+938
+1286
+1053
+1328
+1082
+1334
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+1092
+2011
+2152
+2172
+2339
+2410
+2426
+YIL
+
+--- Sayfa 39 ---
+Doğal ya da yapay olarak sentezlenen biyoplastikler
+özelliklerine bağlı olarak pek çok yerde kullanılıyor. Bu
+plastikler de çoğu geleneksel plastik işleme teknikleriyle
+(film ekstrüzyonu, enjeksiyonlu kalıplama, şişme kalıp-
+lama, ısıl şekillendirme gibi) işlenebiliyor. Biyoplastikler
+petrol bazlı olarak üretilen plastiklerin kullanıldıkları her
+alanda kullanılabiliyor.
+Ambalajlama sektörü plastiklerin oldukça fazla kul-
+lanıldığı bir alan. Bu sektörde özellikle biyobozunur
+plastiklerin kullanılması atık hacminin azaltılması
+bakımından büyük önem taşıyor. Paket-
+lenecek ürünün özellikleri ve iste-
+nilen depolama süresi dikkate
+alınarak üretilen uygun ya-
+pıdaki (hava ve ışık geçir-
+genliği, neme dayanım
+gibi çeşitli özelliklere
+sahip)
+biyobozunur
+plastikler,
+bardak,
+şişe, film ve atık tor-
+baları gibi ürünler
+için de kullanılıyor.
+Tıp alanında  da
+biyoplastikler ve bi-
+yobozunur plastikler
+oldukça önemli bir yere
+sahip. Biyouyumlu, biyo-
+lojik süreçlerde kolay bozu-
+nan ve aynı zamanda belirli
+bir mekanik dayanıma da sahip
+pek çok malzeme bu alanda başarılı
+şekilde kullanılıyor. Mevcut uygulamalar ara-
+sında cerrahi protezler, ameliyat iplikleri, yapay kemikler,
+membranlar, yara kaplamaları, kontrollü ilaç salım ürün-
+leri sayılabilir. Gözenekli yapıdaki polimerler de doku
+mühendisliğinde yaygın kullanım buluyor.
+Tarım uygulamalarında biyobozunurluk aranan bir
+özellik. Özellikle nişasta bazlı biyobozunur plastikler
+en yaygın olarak kullanılanlardan. Biyobozunur örtücü
+filmler nemi ve toprak sıcaklığını koruma ve yabancı ot-
+ları engelleme gibi asli görevleri  başarılı bir şekilde ger-
+çekleştiriyor. Hasattan sonra bu filmler bozunma süreci
+ile yok oluyorlar. Biyobozunur polimerler ayrıca bitki
+ekim bantları olarak da kullanılıyor. Bu bantlarda bitki
+tohumları ve gübre bir arada bulunuyor. Filtrasyon ve
+drenaj uygulamalarının yanı sıra tarım alanlarında uy-
+gulanacak kimyasalların (böcek ilaçları, besleyici madde-
+ler, feromonlar gibi çeşitli tarım kimyasalları) kontrollü
+bir şekilde salımı için de biyobozunur plastiklerden sık-
+lıkla faydalanılıyor. Bunun yanında bitki saksıları ve güb-
+re muhafazaları için de söz konusu malzemeler
+oldukça kullanışlı. Örneğin, ekimi yapıla-
+cak bitki doğrudan kabıyla birlikte
+ekiliyor ve bitki büyümeye baş-
+ladığında bu kaplar biyobo-
+zunmaya başlamış oluyor.
+Deniz tarımı uygulama-
+larında da destek ze-
+min, halat ve balık ağ-
+ları yapımında yine
+bu
+malzemelerden
+kullanılıyor.
+Biyoplastikler
+otomotiv, havacılık,
+elektronik, inşaat gibi
+sektörlerde de kullanı-
+lıyor. Ancak biyobozu-
+nurluk bahsi geçen sek-
+törlerde ilk etapta aranan
+özellikler arasında sayılmıyor.
+Otomotiv ve havacılık sektörlerin-
+de biyoplastik ve biyokompozit kulla-
+nımı dayanıklı ve hafif parça tasarımları ger-
+çekleştirilmesine yardımcı oluyor. Elektronik sektöründe
+ise elektronik cihaz bileşenlerinde ve kablo kaplamaları
+ile koruyucu dış kasaların yapımında geniş ölçüde biyop-
+lastiklerden faydalanılıyor. Yanmaya, bakteri ve mantar
+oluşumuna ve UV ışınlarına dayanıklı biyoplastik malze-
+meler inşaat sektörünü şekillendiriyor, ses ve ısı yalıtımı
+için biyoplastik paneller kullanılıyor.  Spor kıyafetleri ve
+malzemelerinde de biyoplastik malzemeler gün geçtikçe
+önem kazanıyor.
+38
+G
+I
+D
+A
+
+A
+M
+B
+A
+L
+A
+J
+L
+A
+M
+A
+E
+L
+E
+K
+T
+R
+O
+N
+İ
+K
+
+E
+Ş
+Y
+A
+L
+A
+R
+A
+L
+I
+Ş
+V
+E
+R
+İ
+Ş
+
+Ç
+A
+N
+T
+A
+L
+A
+R
+I
+
+V
+E
+
+A
+M
+B
+A
+L
+A
+J
+L
+A
+R
+S
+P
+O
+R
+
+M
+A
+L
+Z
+E
+M
+E
+L
+E
+R
+İ
+O
+Y
+U
+N
+C
+A
+K
+L
+A
+R
+B
+İ
+Y
+O
+A
+T
+I
+K
+
+Ç
+Ö
+P
+
+P
+O
+Ş
+E
+T
+L
+E
+R
+İ
+K
+A
+H
+V
+E
+
+K
+A
+P
+S
+Ü
+L
+L
+E
+R
+İ
+
+V
+E
+
+Ç
+A
+Y
+
+P
+O
+Ş
+E
+T
+L
+E
+R
+İ
+K
+O
+Z
+M
+E
+T
+İ
+K
+
+Ü
+R
+Ü
+N
+L
+E
+R
+M
+O
+D
+A
+
+V
+E
+
+G
+İ
+Y
+İ
+M
+O
+F
+İ
+S
+
+M
+A
+L
+Z
+E
+M
+E
+L
+E
+R
+İ
+Y
+A
+T
+A
+K
+L
+A
+R
+S
+E
+Y
+A
+H
+A
+T
+
+V
+E
+
+U
+L
+A
+Ş
+I
+M
+Biyoplastikler Nerelerde Kullanılıyor?
+
+--- Sayfa 40 ---
+Neler Yapılıyor - Neler Yapılmalı?
+Endüstriyel plastikler genel olarak birçok uygulama-
+da faydalı sayılabilecek şekilde uzun kullanım ömrüne
+sahipler. Ancak kontrolsüz bir şekilde bertaraf edildikleri
+durumlarda ise bu avantaj doğada birikme gibi bir deza-
+vantaja dönüşüyor. Yapılan araştırmalar polietilen terafta-
+lat (PET) şişelerin %100 bağıl nemde 27 ile 93 yıl arasında
+bir ömre sahip olduğunu gösteriyor.
+Küresel tüketimin artmasıyla birlikte ambalajlama ve
+kısa süreli kullanım amaçlı plastik kullanımı da artmış-
+tır. Yoğun plastik kullanımına bağlı olarak gelinen nokta
+gezegenimizi ve içinde yaşayan canlıları pek çok açıdan
+olumsuz etkiliyor. Hatta plastik atıklar (genellikle mikrop-
+lastikler olarak bilinen) daha küçük parçalara bölünerek
+nehirler aracılığı ile okyanuslara taşınıyor ve çöp yamala-
+rı olarak adlandırılan birikim bölgeleri oluşturuyorlar. Bu
+problemden daha fazla sorumlu olan ülkelerin bazıların-
+da ise uygun atık yönetimi altyapısının kurulması çalış-
+malarına henüz yeni yeni başlanması kaygı uyandırıyor.
+Biyoplastiklerin ve biyobozunur polimerlerin gelişi-
+mi daha çevreci bir kimya endüstrisinin oluşturulmasına
+yardımcı olacak gibi görünüyor. Endüstrinin bu doğrultu-
+da doğru ve hızlı bir şekilde yapılandırılmasını sağlamak
+için üretilecek biyoplastiklerin ve biyobozunur plastikle-
+rin maliyetlerinin geleneksel plastik malzeme maliyet-
+leriyle kıyaslanabilir hâle getirilmesi  gerekiyor. Bunu
+başarmak için de araştırma ve geliştirme çalışmalarına
+yatırım yapılması kaçınılmaz görünüyor. Elde edilecek
+yeni biyoplastik ve biyobozunur plastik malzemelerin
+kullanımıyla birlikte çevreye verilen zarar büyük ölçü-
+lerde azaltılabilir. Örnek vermek gerekirse 2020’deki PLA
+(polilaktik asit) üretim hacminin yılda 3,6 milyar kg olma-
+sı bekleniyor. Bu ürünün petrol bazlı muadilinin yerini al-
+ması durumunda karbondioksit emisyonunda 10 milyon
+ton düşüş gerçekleşmesi öngörülüyor.
+Avrupa Birliği 2018 yılı Ocak ayında 2030 yılına kadar
+sürdürülebilir bir plastik endüstrisi için vizyonunu orta-
+ya koydu. Önümüzdeki süreçte plastik geri dönüşümü
+ile ilgili gelişmelerin yanında biyoplastik ve biyobozunur
+plastiklerin kullanımının artırılması ile ilgili planlamalar
+da bulunuyor.
+Tüm bu gelişmeler küresel ölçekte yeni politikaların
+üretilmesi, üretici ve kullanıcı alışkanlıklarının değiştiril-
+mesi, çevre temizlik çalışmaları ve bilinçlendirme kampan-
+yaları gibi yeni girişimlerin ortaya çıkmasına neden oldu.
+Biyoplastiklerin ve biyobozunur polimerlerin çeşitlendi-
+rilmesi ve kullanımlarının yaygınlaştırılması yapılan mü-
+cadelenin önemli bir ayağını oluşturuyor. Biyoplastikler
+ve biyobozunur plastiklerle ilgili yayımlanan on binlerce
+araştırma makalesi, biyoplastik sentezi, bozunma meka-
+nizmaları, çevresel faktörler ve bu faktörlerin bozunmaya
+etkileri gibi çeşitli konulardaki araştırmaların hızlı bir şe-
+kilde sürdüğünü gösteriyor. Tüm bu çalışmaların amacı en-
+düstriyel polimerlerin yerini mümkün olduğunca çabuk
+ve yaygın bir şekilde çevre dostu plastiklerle doldurmak.
+Yakın gelecekte biyoplastiklerin ve biyobozunur plas-
+tiklerin, petrol bazlı plastiklerin yerini tam olarak alama-
+salar da daha fazla kullanım bulmaları bekleniyor.  Gü-
+nümüzde pek çok alanda faydalanılan bu malzemelerin
+daha fazla kullanımını sağlamak için araştırma ve çalış-
+maların sürdürülmesi gerekiyor. Diğer taraftan doğaya
+verdiğimiz tahribatın boyutlarını azaltması beklenen bi-
+yoplastik ve biyobozunur plastiklerin bütün sorunu orta-
+dan kaldırmasını beklemek çok da gerçekçi görünmüyor.
+Daha sürdürülebilir çözümler için tüm paydaşlar olarak
+günümüzdeki plastik üretim/kullanım ve kullanım sonra-
+sı alışkanlıklarımızı değiştirmemiz gerekiyor. n
+Kaynaklar
+Stuart, B. H., “Polymer Analysis”, John Wiley & Sons, 2002.
+Haider, T.P., Völker, C., ve ark., “Plastics of the Future? The Impact of Biodegradable
+Polymers on the Environment and on Society”, Angew. Chem. Int.Ed., Sayı 58, s. 50-62, 2019.
+Karan, H., Funk, C., ve ark., “Green Bioplastics as Part of a Circular Bioeconomy”,
+Trends in Plant Science, Cilt 24, Sayı 3, s. 237-249, 2019.
+Shah, T.V., Vasava, D.V., “A glimpse of biodegradable polymers and their biomedical applications”,
+e-Polymers, Sayı 19, s. 385-410, 2019.
+Garrison, F.T., Murawski, A., ve ark., “Bio-Based Polymers with Potential for Biodegradability”,
+Polymers, Cilt 8, Sayı 262, 2016.
+Doppalapudi, S., Jain, A., ve ark., “Biodegradable polymers-an overview”,
+Polymer Advanced Technologies, 25, 427-435, 2014.
+Vroman, I, Tighzert,L., “Biodegradable Polymers”, Materials, Sayı 2, s. 307-344, 2009.
+Gross, R.A., Kalra, B., “ Biodegradable Polymers for the Environment”,
+Science, Cilt 297, s. 803-807, 2002.
+Emadian, S.M., Onay, T.T., Demirel, B., “Biodegradation of bioplastics in natural environments”,
+Waste Management, Cilt 59, s. 526-536, 2017.
+Luckachan, G.E., Pillai, C.K.S., “Biodegradable Polymers-A Review on Recent Trends
+and Emerging Perspectives”, Journal of Polymers and the Environment, Cilt 19, s. 637-676, 2011.
+Vert, M., Doi, Y., ve ark., “Terminology for biorelated polymers and applications
+(IUPAC Recommendations 2012)”, Pure and Applied Chemistry, Cilt 84, Sayı 2, s. 377-410, 2012.
+https://www.european-bioplastics.org/bioplastics/
+https://www.bbc.com/future/article/20191030-why-biodegradables-wont-solve-the-plastic-crisis
+http://www.plastice.org/fileadmin/files/EN_Certificiranje_PH.pdf
+https://www.plasticseurope.org/application/files/9715/7129/9584/FINAL_
+web_version_Plastics_the_facts2019_14102019.pdf
+https://docs.european-bioplastics.org/publications/fs/EUBP_FS_Standards.pdf
+39
+
+--- Sayfa 41 ---
+Japonya’da Akıllı Şehir İnşa Ediliyor
+Bu kadar çok akıllı cihazın olduğu bir dünyada artık
+şehirlerin de akıllı hâle gelmesi gerekiyor. Toyota’nın
+Japonya’da sıfırdan inşa etmeyi planladığı akıllı şehirde
+evlerden sokaklara, trafikten kullanılan cihazlara her şey
+yeni teknolojilerle donatılacak. Yaklaşık 700 dönümlük
+bir araziye kurulacak şehir için çalışmalar gelecek yıl baş-
+layacak. Woven City adı verilen şehir, yaşayan bir labora-
+tuvar olarak tanımlanıyor. Otonom araçların, akıllı evle-
+rin, robotların ve yenilenebilir enerji kaynaklarının kul-
+lanılacağı şehirde ilk aşamada 2000 kişinin yaşaması he-
+defleniyor. Google’un sahip olduğu Sidewalk adlı firma
+benzer bir projeyi Toronto’da inşa etmeyi planlıyor. Bu
+projeler ne kadar başarılı olur bilinmez ama en azından
+böylesi deneysel çalışmaların yapılması geleceği görmek
+açısından ufuk açıcı olacaktır.
+_
+http://bit.ly/akilli-sehir
+Gürkan Caner Birer  [ teknoyasam@tubitak.gov.tr
+Tekno-Yaşam
+Bilim ve Teknik  Şubat 2020
+
+--- Sayfa 42 ---
+41
+Her Şey Akıllansın
+Akıllı sanal asistanlar her geçen gün yeni yetenekler kaza-
+nıyor. Apple, Google, Microsoft ve Amazon gibi firmalar
+bu alanda ciddi bir rekabet içindeler. Ev, telefon, televiz-
+yon derken akıllı olmayan hiçbir alet kalmayacak gibi gö-
+rünüyor. Alexa adlı akıllı dijital asistanı geliştiren Amazon
+BMW, Toyata, Ford ve Lamborghini gibi otomobil üretici-
+leriyle anlaşarak otomobillerden Alexa’ya erişimi mümkün
+kılacak bir altyapı kurmaya çalışıyor. Böylece sesli komut-
+larla arabanın birçok özelliğini kontrol etmek ve internete
+bağlanıp çeşitli işleri halletmek mümkün olacak.
+Alexa’yla tanışan sadece otomobiller değil! Geçtiğimiz yıl
+Alexa’ya bağlı cihaz sayısı iki katına çıkmış. Bunlar arasın-
+da akıllı duş başlığı, tuvalet, ayna, gözlük, hatta raf bile var.
+Örneğin Dash adlı akıllı raf üzerindeki malzemelerin ağır-
+lığını ölçüyor ve eğer malzeme sayısı azalmışsa otomatik
+olarak yeni malzeme siparişi veriyor.
+Elbette akıllanmak sadece Alexa uyumlu cihazlarla sınırlı
+değil. BIC adlı firmanın geliştirdiği jilet, tıraş olurken yap-
+tığınız hareketleri, ortamdaki nemi, sıcaklığı, yüzünüzde-
+ki tüylerin sıklığını ve daha birçok veriyi analiz ederek si-
+ze önerilerde bulunuyor. Tıraş bıçağının bile akıllandığı bir
+çağda RollBot adlı tuvalet kâğıdı bittiğinde yerine yenisi-
+ni takabilen akıllı tuvalet kâğıdı kutusu, Townew adlı çöp
+poşetinin ağzını bağlayabilen akıllı çöp kutusu, Mateo ad-
+lı ağırlık ve duruş analizi yapabilen akıllı paspas, Weber’in
+geliştirdiği sizi biftek ustası yapacak akıllı mangal, Motion
+Pillow adlı horlama analizi yapan akıllı yastık, Petit Qoobo
+adlı akıllı kedi kuyruğu, Ballie adlı kendi kendine yuvarla-
+nabilen top sizi pek şaşırtmayacaktır.
+_
+http://bit.ly/akilli-ol
+Petit Qoobo robotik bir
+kedi kuyruğu ama çok akıllı!
+Kendiliğinden
+yuvarlanan top Ballie
+Deliksiz Uyku İçin Gürültü Şart
+Bütün bu yüksek teknoloji ürünü cihazların arasında ba-
+zen temel ihtiyaçlarımız için basit cihazlara da ihtiyaç du-
+yuyoruz. Big Red Rooster adlı gürültü makinesi geceleri
+uyumakta zorlananlara yardım etmek için ortam gürültü-
+sü oluşturuyor. Yağmur, dere, gök gürültüsü, hafif gürültü,
+okyanus ve yaz gecesi seslerinden birini seçerek belli bir
+süre ya da sabaha kadar çalmasını sağlayabiliyorsunuz. El-
+bette aynısını bir cep telefonu uygulamasıyla yapmak da
+mümkün ama tek bir iş yapan basit bir alet bazen çok da-
+ha cazip olabiliyor. Pille ya da elektrik prizine takılarak kul-
+lanılabilen cihazın fiyatıysa 120 TL.
+_
+https://amzn.to/3aelOBv
+
+--- Sayfa 43 ---
+42
+Akıllı telefonların yatay veya dikey tutuşa göre ekranı oto-
+matik döndürme özelliği birçok uygulamayı daha kolay kul-
+lanmayı sağlıyor. Samsung bu kolaylığı televizyonlara da
+taşımak istemiş. Sero adını verdiği televizyon elinizde tut-
+tuğunuz akıllı telefonla tümüyle senkronize çalışıyor. Böy-
+lece hem cep telefonunun ekranında gördüğünüz görüntü-
+yü televizyona yansıtabiliyor hem de telefonu tuttuğunuz
+şekle göre televizyonunuzu da döndürebiliyorsunuz. Cep
+telefonu ekranından sürekli etrafınızdakilere bir şeyler gös-
+teriyorsanız bu televizyon tam size göre. Henüz fiyatı bel-
+li olmayan Sero’yu tanıtan bir videoyu izlemek için https://
+youtu.be/IIuNKtlnGUM adresini ziyaret edebilir ya da aşa-
+ğıdaki kare kodu akıllı telefonunuza okutabilirsiniz.
+Intel, Horseshoe Bend adını verdiği bükülebilir ekrana sa-
+hip bir dizüstü bilgisayar geliştirdi. Lenovo, Thinkpad mo-
+delinde; Dell ise Ori modelinde benzer ürünlerini tanıttı.
+Royale Mirage ise 360 derece ekranla kaplı bir akıllı hopar-
+lör tanıttı.
+Ekranlar pek ilginizi çekmediyse yine Samsung’un geliştir-
+diği SelfieType adlı sanal klavyeye göz atabilirsiniz. Görün-
+tü işleme ve yapay zekâ tekniklerinden faydalanan yazılım,
+cep telefonun önünde klavye varmış gibi yazdığınız yazıları
+algılayabiliyor. SelfieType’ı tanıtan bir videoyu izlemek için
+https://youtu.be/LRFvUYQ_SZ0 adresini ziyaret edebilir ya
+da aşağıdaki kare kodu akıllı telefonunuza okutabilirsiniz.
+_
+http://bit.ly/sero-tv
+http://bit.ly/selfietype
+Ekran Teknolojileri Gelişiyor
+Okyanusları Plastiklerden Temizlemek...
+Okyanuslardaki plastik atıkların temizlenmesi için uygulana-
+bilir bir yöntem geliştirilemediği için bu alandaki çalışmalar
+okyanusların daha fazla kirletilmesini engellemeye odaklan-
+mış durumda. Öte yandan okyanusların temizlenmesinin
+mümkün olduğunu düşünen bir grup araştırmacının geliş-
+tirdiği okyanus temizleme aracı başarılı sonuçlar elde etti. U
+şeklindeki ağın deniz yüzeyine gerildiği sistem, dalgalar sa-
+yesinde hareket ederek deniz yüzeyindeki plastikleri toplu-
+yor. Deniz canlıları bu ağdan etkilenmezken plastik atıkla-
+rın büyük çoğunluğu bu ağ sayesinde toplanabiliyor. Siste-
+min iyileştirilmesi için çalışmalar devam etse de mevcut du-
+rum bile umut verici.
+_
+https://cnn.it/2FXOeBB
+
+--- Sayfa 44 ---
+43
+Sürücülerin özellikle gün doğumunda ve gün batımın-
+da güneş ışığından etkilenmemek için kullandıkları gü-
+neşlikler faydalı olsa da bu güneşliklerin görüş alanını
+kısıtladığı da bir gerçek. Bosch’un geliştirdiği sanal gü-
+neşlik bu sorunu hayli teknolojik bir yöntemle çözüyor.
+LCD ekran ile kamera ve görüntü işleme tekniklerinin
+birlikte kullanılmasıyla geliştirilen sanal güneşlik sade-
+ce güneş ışığının sürücünün gözüne gelen kısmını ka-
+patıyor ve geriye kalan kısmı saydam kalıyor. Böylece
+sürücünün gözlerinin kamaşması engellenerek yolu ra-
+hatlıkla görmesi sağlanıyor.
+Sanal güneşlik son derece güzel bir çözüm olsa da yük-
+sek maliyeti ve teknik karmaşıklığı dikkate alındığında
+lüks araçlar dışında kullanılması zor görünüyor. Yine de
+etrafımızda gördüğümüz sıradan aletlerin yeni teknolo-
+jilerle iyileştirilebilme potansiyelini göstermesi açısın-
+dan güzel bir örnek. Sanal güneşliği tanıtan eğlenceli
+bir videoyu izlemek için https://youtu.be/BJgwEt12mEU
+adresini ziyaret edebilir ya da aşağıdaki kare kodu akıllı
+telefonunuza okutabilirsiniz.
+Otomobillere Sanal Güneşlik
+Arduino’dan Profesyonel Kit
+Hobi ve eğitim amaçlı açık kaynak donanım kitleriy-
+le bilinen Arduino, profesyonel kullanıma yönelik ye-
+ni bir kit geliştirdi. Portenta H7 adlı kit nesnelerin in-
+terneti (IoT) uygulamaları geliştirilmesine yönelik.
+Arduino’nun daha önceki ürünlerine göre çok daha yük-
+sek fiyata satılacak kitin Türkiye fiyatının seçilen özel-
+liklere göre 300-600 TL arasında olacağı tahmin edili-
+yor. Portenta H7, 32 bitlik ARM Cortex M7 ve M4 model
+birbirinden bağımsız çalışan iki çekirdek işlemciye sa-
+hip. Python ve Javascript dillerinde yazılan uygulama-
+ları rahatlıkla çalıştırabilen Portenta H7 daha çok ya-
+pay zekâ, robotik, drone, 3B yazıcı ve cihaz üzeri görün-
+tü işleme gibi amaçlarla kullanılmak üzere tasarlanmış.
+USB Type-C ve 80-pin bağlantı girişi ile gelen kit, tak çı-
+kar modülü olarak kullanılabilir yapıya sahip. Böylesi-
+ne yüksek bir fiyatla önceki kitlerindeki başarıyı yakala-
+yabilecek mi bilinmez ama Türkiye pazarında Portenta
+H7’nin çok daha ucuz olacak Çin malı kopyalarının da-
+ha fazla satılacağını tahmin ediyoruz.
+_
+http://bit.ly/portenta-h7
+
+--- Sayfa 45 ---
+Siber güvenliği bekleyen çok önemli bir tehlike var: kuantum
+bilgisayarlar. Bugün internet üzerinden aktarılan bilgileri şifrelemek
+için kullanılan yöntemlerin bazıları kuantum bilgisayarlar karşısında
+tamamen savunmasız kalacak. Dolayısıyla kuantum bilgisayarlar
+çağında siber güvenliğin nasıl sağlanacağının şimdiden düşünülmesi
+gerekiyor. Araştırmacılar bunun için çalışmalara başladı bile
+Bilim ve Teknik  Şubat 2020
+Kuantum
+Bilgisayarlar
+Çağında
+Kriptografi
+Dr. Mahir E. Ocak  [ TÜBİTAK Bilim ve Teknik Dergisi
+
+--- Sayfa 47 ---
+46
+Günümüzde Kriptografi
+Günümüzde internet üzerinden aktarılan verileri
+şifrelemek için kullanılan kriptografi yöntemleri iki ana
+grupta sınıflandırılır: simetrik ve asimetrik yöntemler.
+Simetrik algoritmaların temel özelliği hem şifreleme
+hem de şifreyi çözmek için aynı “anahtarın” kullanılması-
+dır. Gönderici, alıcı tarafından da bilinen bir anahtarı kul-
+lanarak aktarılacak metni şifrelendirir, alıcı da yine aynı
+anahtarı kullanarak şifreli metni çözer. Eğer kullanılan
+anahtar göndericiden ve alıcıdan başkası tarafından bi-
+linmiyorsa ve bir anahtar sadece bir aktarım için kullanılı-
+yorsa bu yöntem tamamen güvenlidir. Bilginin aktarıldığı
+hatta sızan bir dinleyici, şifreli metni ele geçirse bile, han-
+gi anahtarın kullanıldığını bilmediği için metni çözemez.
+Ayrıca her bir aktarım için farklı anahtarlar kullanıldığın-
+dan çeşitli şifreli metinleri karşılaştırarak anahtarın ne
+olduğunu bulmasının bir yolu da yoktur.
+Simetrik kriptografi ile ilgili temel sorun anahtarın
+nasıl belirleneceğidir. Örneğin, internet bankacılığı üze-
+rinden işlem yapmak istediğinizi düşünün. Her seferin-
+de en yakınınızdaki şubeye bir koşu gidip güvenilir bir
+görevliye verileri hangi anahtarla şifrelendirip göndere-
+ceğinizi söyleyemeyeceğiniz açıktır. Şifreleme için kulla-
+nılacak tek kullanımlık anahtarın da internet üzerinden
+belirlenmesi gerekir. Peki ama nasıl? Yetkisiz kişilerin eli-
+ne geçmesi ihtimaline karşılık anahtarın da şifrelenerek
+gönderilmesi gerekir. Öyleyse anahtarı şifrelemek için
+kullanılacak anahtar nasıl belirlenecek? Asimetrik krip-
+tografi bu soruna çare bulmak için geliştirilmiştir.
+Asimetrik sistemlerde bir değil iki anahtar vardır. Bu
+anahtarların biri açık anahtar, diğeri gizli anahtar olarak
+adlandırılır. Alıcı, kendisine mesaj göndermek isteyen bi-
+risine şifreleme için kullanmasını istediği açık anahtarı
+“alenen” söyler. Kendisine gönderilen, açık anahtarla şif-
+relenmiş mesajları ise hiç kimseye söylemediği gizli anah-
+tarı kullanarak çözer.
+Asimetrik sistemlerde açık anahtarlar herhangi bir şif-
+releme olmaksızın internet üzerinden aktarılır. Herhangi
+birisinin hatta sızıp açık anahtarı ve bu anahtar kullanıla-
+rak şifrelenmiş mesajları dinlemesinde de sakınca görül-
+mez. Çünkü şifrelenmiş mesajları “kolayca” çözmek ancak
+gizli anahtarın bilinmesiyle mümkündür ve bu anahtarın
+ne olduğunu sadece alıcının kendisi bilir. İlke olarak şifre-
+li mesajların çözülmesi mümkündür. Ancak gizli anahtar
+olmaksızın böyle bir şeyi başarmak çok uzun sürecektir.
+Bir dinleyici yıllarca uğraşıp şifreli metinleri çözmeyi ba-
+şarsa bile eline geçen bilgilerin “zamanı geçmiş” olacaktır.
+Asimetrik kriptografi sistemleri internet üzerinden
+aktarılan “tüm bilgilerin” şifrelemesi için kullanılmaz.
+Çünkü hem şifreleme hem de şifreyi çözme işlemleri
+zaman alır. Bu yüzden asimetrik sistemler, genellikle sa-
+dece simetrik bir şifreleme sistemindeki tek kullanımlık
+anahtarın belirlenmesi için kullanılır. Önce gönderici ve
+alıcı asimetrik şifreleme yöntemiyle iletişim kurup tek
+kullanımlık bir şifre belirlerler. Daha sonra bu anahtarı
+kullanarak aralarında bilgi aktarımı yaparlar. İleri bir ta-
+rihte aynı gönderici ve alıcı yeniden iletişim kurmak is-
+tediklerinde asimetrik şifreleme yöntemiyle yeni bir tek
+kullanımlık şifre belirlemeleri gerekir.
+Kısacası, internet üzerinden aktarılan bilgilerin gü-
+venliği asimetrik sistemlerle oluşturulmuş şifreli metin-
+leri çözmenin “zorluğuna” dayanır. Ancak şifreli metinleri
+çözmek imkânsız değildir. Bu yüzden gelişen teknolojiyle
+birlikte şifreleri kırmak giderek kolaylaşıyor. Söz konusu
+sadece klasik bilgisayarlar olduğunda bu durumun çok
+da önemli olduğu söylenemez. Ancak günümüzde gelişti-
+rilme aşamasında olan kuantum bilgisayarlar arzu edilen
+kapasiteye ulaştığında her şey değişecek!
+
+--- Sayfa 48 ---
+Kuantum Bilgisayarlar
+Kuantum bilgisayarları klasik bilgisayarlardan ayıran
+temel özellik bilginin depolandığı ve işlendiği birimler-
+dir. Klasik bilgisayarlardaki bitlerin aksine kuantum bilgi-
+sayarlardaki kübitler, sadece “0” ve “1” durumlarında de-
+ğil, bu durumların bir süperpozisyonunda da bulunabi-
+lir. Kübitler üzerinde yapılan bir işlem her iki durumu da
+aynı anda etkiler. Bir kuantum bilgisayarı n tane kübite
+sahipse, bu kübitler, kuantum mekaniği ilkeleriyle uyum-
+lu bir biçimde, 2n farklı durumun süperpozisyonunda
+bulunabilir. Dolayısıyla n tane kübite sahip bir kuantum
+bilgisayarı, tek bir seferde 2n tane işlemi paralel biçimde
+gerçekleştirebilir. Kuantum bilgisayarları klasik bilgisa-
+yarlar karşısında güçlü kılan işte bu özellikleridir.
+Davranışları kuantum mekaniği ilkeleri ile açıklanan
+sistemler üzerinde yapılan ölçümlerin sonuçları olasılı-
+ğa dayalıdır. Bu yüzden kuantum bilgisayarlar için yazı-
+lan algoritmalar, doğru sonuçları kesin olarak vermez.
+Ancak işlemler ve ölçümler tekrarlandıkça elde edilen
+sonuçlardan biri eninde sonunda doğru olacaktır. So-
+nuçların olasılığa dayalı olması kuantum bilgisayarlarla
+yapılan hesapları tabii ki yavaşlatır. Ancak süperpozisyo-
+nun sağladığı hesaplama gücüyle karşılaştırıldığında bu
+durum önemsizdir.
+Kuantum bilgisayar düşüncesi, ilk olarak 1982 yılın-
+da Richard Feynman tarafından ortaya atılmıştı. Aradan
+geçen kırk seneye yakın zamanda kuantum bilgisayarları
+için çok sayıda algoritma geliştirildi. Bu algoritmaların
+47
+Çok sayıda kübit içeren bir kuantum bilgisayarın temsili gösterimi
+Bir kübitin durumunun temsili gösterimi. Kübitler, bitlerin aksine sadece 0
+ve 1 durumlarında değil, bu durumların herhangi bir süperpozisyonunda
+da bulunabilir.
+
+--- Sayfa 49 ---
+bazıları siber güvenlikle doğrudan alakalı matematik
+problemleriyle ilgili. Dolayısıyla günümüzde siber gü-
+venliği sağlamak için kullanılan bazı yöntemlerin bu al-
+goritmalar karşısında savunmasız kalacağı biliniyor.
+Bugüne kadar geliştirilmiş kuantum bilgisayarların
+hiçbiri bu algoritmaları uygulayarak modern kriptogra-
+fik yöntemlerle hazırlanmış şifreli metinlerin çözülmesi-
+ni sağlayacak kapasitede değil. Ancak birkaç sene içinde
+olmasa bile 30-40 yıl sonra siber güvenliği gerçek anlam-
+da tehdit edecek kuantum bilgisayarların geliştirileceği
+düşünülüyor. Peki, o gün geldiğinde siber güvenlik nasıl
+sağlanacak?
+Kuantum Bilgisayarlarla
+Şifre Kırma
+ Kuantum algoritmalarla kolaylıkla çözülebilecek, mo-
+dern kriptografiyle ilgili çeşitli problemler var. Bunların
+bazıları asimetrik, bazıları da simetrik algoritmalarla ilgili.
+Asimetrik kriptografi Günümüzde kullanılan asimet-
+rik kriptografi algoritmalarından biri 1977 yılında Ronald
+Rivest, Adi Shamir ve Leonard Adelman tarafından gelişti-
+rilmişti. Kısaca RSA olarak adlandırılan bu algoritma çifta-
+sal (iki asal sayının çarpımı olarak ifade edilebilen) sayıları
+çarpanlarına ayırmanın zorluğuna dayanıyor. Örneğin 15
+48
+Richard Feynman
+Shor Algoritması
+Peter Shor 1994 yılında kuantum bilgisayarla çifta-
+sal sayıların çarpanlarının hesaplanmasına imkân ve-
+ren bir algoritma geliştirdi. Bu algoritma özetle şu şe-
+kilde işler:
+1. Asal çarpanlarını bulmak istediğiniz n sayısından
+küçük bir x tam sayısı alın,
+2. m bir tam sayı olmak üzere xp=m*n+1 (ya da xp=1
+mod n) eşitliğini sağlayan p sayısını bir kuantum
+bilgisayarı yardımıyla bulun,
+3. Bu eşitlik çözüldüğünde (xp/2-1)(xp/2+1)=m*n olduğu
+görülür. Dolayısıyla xp/2-1 ve xp/2+1 sayıları n sayısıy-
+la ortak çarpanlara sahip olabilir.
+Bu algoritma her durumda n sayısının çarpanla-
+rından birini vermez. Çünkü hesaplanan xp/2-1 ve xp/2+1
+sayıları tam sayı olmayabilir ya da bu sayılardan biri
+aradığımız n sayısının tam katı olabilir. Böyle bir du-
+rumla karşılaşıldığında farklı bir x sayısı seçilerek he-
+sap yeniden yapılır. Ta ki n sayısının çarpanlarından bi-
+ri bulununcaya kadar.
+Bu algoritmayı klasik bilgisayarlarla da uygula-
+mak mümkündür. Örneğin 15 sayısının çarpanlarını
+bulmaya çalıştığımızı ve seçtiğimiz rastgele x sayısının
+2 olduğunu düşünelim. p sayısını bulmak için x=2’nin
+tam kuvvetlerini birinci kuvvetinden başlayarak sıray-
+la hesaplar ve xp= m*n +k biçiminde yazarız:
+
+21=0*15+2 ➡ 21=2 mod 15,
+
+22=0*15+4 ➡ 22=4 mod 15,
+
+23=0*15+8 ➡ 23=8 mod 15,
+
+24=1*15+1 ➡ 24=1 mod 15.
+Görüldüğü gibi dört sayısına geldiğimizde aradı-
+ğımız p sayısını buluruz. Dolayısıyla 15 sayısının muh-
+temel çarpanlarını 24/2-1=3 ve 24/2+1=5 olarak hesapla-
+rız, ki her iki sayı da doğrudur.
+Bu algoritmayı klasik bilgisayarla uygulamaktaki
+ana sorun p sayısını bulmanın çok uzun zaman alma-
+sıdır. Özellikle de çarpanlarına ayrılacak sayı çok bü-
+yük olduğunda. Bu algoritmayı kullanmak yerine ka-
+baca 1’den başlayıp tüm sayma sayılarını tek tek dene-
+mek bile daha kısa sürer.
+
+--- Sayfa 50 ---
+49
+Kuantum bilgisayarlarının sağladığı avantaj, sü-
+perpozisyon durumları üzerinde yapılan işlemlerle
+tek bir seferde olmasa bile sadece birkaç denemede
+p sayısını bulmaya imkân vermeleri. Bunun nasıl ger-
+çekleştiğini anlamak için önce modüler aritmetikle il-
+gili bir bilgiye daha ihtiyacımız var: Eğer xp=1 mod n
+ve xq=k mod n ise xp+q=k mod n’dir. Dolayısıyla p sayı-
+sını bulmanın bir başka yolu x sayısının kuvvetlerinin
+mod n’deki değerlerinde herhangi bir k sayısının han-
+gi sıklıkla ortaya çıktığını tespit etmektir. Örneğin, yu-
+karıda 15 sayısını çarpanlarına ayırmak için verilen ör-
+neği tekrar ele alalım. İki sayısının kuvvetlerinin mod
+15’teki değerlerini 1’den başlayarak tek tek hesapladı-
+ğımızda aynı sonuçların her dört seferde bir tekrar et-
+tiğini görürüz. Örneğin 22, 26, 210 sayılarının tamamı
+mod 15’te 4’e eşittir. Benzer biçimde 23, 27, 211 sayıla-
+rının tamamı da mod 15’te 8’e eşittir. Aynı sonuçların
+tekrar etme sıklığı dört olduğu için bulmaya çalıştığı-
+mız p sayısının 4 olduğu çıkarımını yaparız.
+Bir kuantum bilgisayarıyla aynı sonuçların hangi
+sıklıkla tekrar ettiğini bulmak için önce kübitlerin du-
+rumu muhtemel tüm kuvvet değerlerinin (q) bir sü-
+perpozisyonuna getirilir. Daha sonra xq=k mod n hesa-
+bı yapılır. İşlemden sonra kübitler muhtemel tüm so-
+nuçların (k) bir süperpozisyonunda olacaktır. Son ola-
+rak aynı sonuçların hangi sıklıkla ortaya çıktığını tes-
+pit etmek için kübitlere “Fourier dönüşümü” denilen
+bir işlem uygulanır ve üzerlerinde ölçüm yapılır. Eğer
+işlemlerde kullanılan x değeri arzu edilen sonucu ver-
+mezse, başka bir x değeriyle hesaplar tekrar edilir. Böy-
+lece tek bir seferde  olmasa bile sadece birkaç deneme-
+de p sayısını tespit etmek mümkün olur.
+Kısacası kuantum bilgisayarların bu problemi ko-
+layca çözebilmesinin nedeni, klasik bilgisayarların ak-
+sine, x sayısının kuvvetlerini tek tek sırayla değil, hepsi-
+ni birden tek seferde hesaplayabilmeleridir.
+
+--- Sayfa 51 ---
+ve 63 iki asal sayının çarpımı olarak yazılabilen sayılar-
+dandır. Bu sayıları sırasıyla 3*5 ve 7*9 olarak yazabiliriz.
+Söz konusu olan bu kadar küçük sayılar olduğunda asal
+çarpanları bulmak pek zor değildir. 1’den başlayarak tüm
+sayma sayılarını sırasıyla deneyerek çarpanları bulabilirsi-
+niz. Ancak söz konusu olan yüzlerce basamaklı sayılar ol-
+duğunda bu kaba yöntem yararsızdır. En gelişmiş bilgisa-
+yarlarla bile yüzlerce basamaklı sayıları asal çarpanlarına
+ayırmak yıllar sürer. Cevabın kısa süre içinde bulunmasına
+imkân veren klasik bir algoritma da yoktur. Ancak Peter
+Shor tarafından 1994 yılında kuantum bilgisayarları için
+geliştirilmiş bir algoritma çiftasalları çok kısa sürede çar-
+panlarına ayırmaya imkân veriyor.
+Modern kriptografiyle ilgili bir diğer matematik soru-
+su, kesikli logaritma problemi olarak adlandırılır. Bu prob-
+lem matematiksel olarak şu şekilde ifade edilir: verilen q,
+x ve p sayıları için qr =x mod p eşitliğini sağlayan r tam
+sayısı nedir? Seçilen sayılar çok büyük olduğunda kesik-
+li logaritma problemini çözmek çok zordur. Günümüzde
+kullanılan Diffie-Hellman ve Eliptik Eğri Kriptografisi gibi
+şifreleme yöntemleri de bu problemi çözmenin zorluğu-
+na dayanır. Geçmişte yapılan çalışmalar, kesikli logaritma
+probleminin de kuantum bilgisayarlar tarafından kolayca
+çözülebileceğini gösterdi. Dolayısıyla Diffie-Hellman ve
+Eliptik Eğri Kriptografisi de kuantum bilgisayarlar karşı-
+sında tamamen savunmasız kalacak şifreleme yöntemleri
+arasında yer alıyor.
+Kısacası modern asimetrik kriptografi belirli matema-
+tik problemlerini çözmenin zorluğuna dayanıyor. Ancak
+bu problemler gelecekte kuantum bilgisayarlar tarafından
+kolayca çözülebilecek.
+Simetrik Kriptografi Bir hackerın simetrik krip-
+tografi yöntemiyle şifrelenmiş bir mesajı çözmeye
+çalıştığını düşünelim. Anahtarın ne olduğunu bilmez.
+Anahtarı bulmak için tek tek muhtemel tüm şifreleri
+denemeye kalkabilir. Ancak bu “kaba kuvvet” yönte-
+miyle şifreli metni çözmesi çok uzun sürecektir. Üste-
+lik anahtarın uzunluğu arttıkça klasik bir bilgisayarın
+muhtemel tüm anahtarları taraması için gereken süre
+de giderek artacaktır. Günümüzde simetrik bir şifrele-
+me algoritmasının güvenli olarak kabul edilmesi için
+kullanılan anahtar uzunluğunun en azından 80 bit ol-
+ması isteniyor.
+Lov Grover 1996 yılında düzensiz veri tabanlarını ta-
+ramak için kullanılabilecek bir algoritma geliştirdi. Ku-
+antum bilgisayarlar için yazılmış bu algoritma ile N tane
+kayıt içeren bir veri tabanı √N adımda taranabiliyor. Kaba
+kuvvetle anahtar bulmaya çalışmak da bir nevi veri ta-
+banını taramak gibidir. Dolayısıyla Grover’in algoritması
+simetrik kriptografi ile şifrelenmiş metinleri çözmek için
+de kullanılabilir. Ancak Grover’in algoritmasının simetrik
+kriptografi açısından çok da büyük bir tehdit oluşturduğu
+söylenemez. Yapılması gereken sadece anahtar uzunluğu-
+nu biraz daha artırmaktır. Örneğin, bugün klasik bilgisa-
+yarlar karşısında 128 bitlik güvenlik sağlayan bir şifreleme
+yöntemi, kuantum bilgisayarlar karşısında ancak 64 bitlik
+güvenlik sağlayacaktır. Ancak anahtar uzunluğunu artıra-
+rak kuantum bilgisayarlar karşısında da arzu edilen her-
+hangi bir güvenlik seviyesine ulaşmak mümkündür.
+Kriptografinin Geleceği
+Günümüzde internet üzerinden aktarılan bilgilerin
+güvenliğini sağlamak için doğrudan ya da dolaylı olarak
+asimetrik kriptografiden yararlanılıyor. Ancak kuantum
+bilgisayarlar pratik amaçlar için yararlı işlerin üstesinden
+gelebilecek kapasiteye ulaştıklarında, asimetrik sistemle-
+rin güvenli olmasını sağlayan matematiksel problemleri
+çözmek kolaylaşacak ve böylece modern kriptografinin
+sonu gelmiş olacak. Dolayısıyla kuantum bilgisayarlar ça-
+ğında kriptografinin yeni bir hâle bürünmesi gerekecek.
+50
+Peter Shor
+
+--- Sayfa 52 ---
+Bugün pek çok araştırmacı kuantum bilgisayarlar
+karşısında bile dirençli şifreleme sistemleri geliştirmek
+için çalışmalar yapıyor. Bu araştırmaları genel anlamda
+fiziksel ve matematiksel olarak ikiye ayırabiliriz.
+Fiziksel araştırmalarda kuantum bilgisayarlarla baş
+edebilmek için kuantum mekaniği ilkelerinden yararla-
+nılan kriptografi yöntemleri geliştirilmeye çalışılıyor. Bu
+yöntemlerin temel özelliği, şifreleme için kullanılacak
+anahtarın kuantum mekaniği ilkeleriyle uyumlu davra-
+nışlar gösteren sistemler kullanılarak belirlenmesidir.
+Kuantum mekaniksel sistemler üzerinde yapılan ölçüm-
+lerin  sonuçlarının olasılığa dayalı olması, herhangi birisi-
+nin varlığını belli etmeden hatta sızmasını engeller. Çün-
+kü anahtarın ne olduğunu tespit etmek için yapılacak
+ölçümler aktarılan verilerde bozulmaya sebep olacaktır.
+Bu düşünce her ne kadar ilke olarak kırılması tamamen
+imkânsız şifreli metinlerin oluşturulmasına olanak verse
+de pratikte uygulanması zordur. Bugün bu konu üzeri-
+ne yapılan çalışmalarda da kuantum kriptografinin nasıl
+gerçeğe dönüştürülebileceği araştırılıyor.
+Gelecekte internet üzerinden aktarılan bilgilerin gü-
+venliğini sağlamanın bir başka yolu da kuantum bilgisa-
+yarlar tarafından bile çözülmesi çok zor matematik prob-
+lemlerine dayalı yeni şifreleme yöntemleri geliştirmek.
+Bu amaçla yapılan çalışmaları çeşitli gruplar altında sı-
+nıflandırmak mümkün. Örneğin, bazı araştırmacılar, asal
+sayıların yerini matrislerin aldığı algoritmalar üzerine
+çalışmalar yapıyorlar. Bazı araştırmacılarsa çok değişken-
+li polinom sistemlerini çözmenin zorluğuna dayalı algo-
+ritmalara odaklanıyorlar.
+2016 yılında ABD Ulusal Standartlar ve Teknolojiler
+Enstitüsü (NIST) Kasım 2017’ye kadar kuantum bilgisayar-
+lara karşı dirençli olduğu düşünülen kriptografi algorit-
+maları teklif etmeleri için araştırmacılara çağrı yaptı. Ocak
+2018’de NIST toplamda 82 algoritma önerisi yapıldığını
+açıkladı. Bu algoritmaların değerlendirilmesi ve gerçekten
+de kuantum bilgisayarlara karşı dirençli olup olmadıkları-
+nın belirlenmesi birkaç yıl sürecek. Önümüzdeki yıllarda
+henüz klasik bilgisayarlardan üstün kuantum bilgisayar-
+lar geliştirilmeden bilgi alışverişinde kullanılan algoritma-
+ların güncellenmesi sürpriz olmayacak.
+Kaynaklar
+Mavroeidis, Vasileios, ve ark., “The impact of quantum computing on present
+cryptography”, International Journal of Advanced Computer Science and
+Applications, Cilt9, s. 405-414, 2018.
+51
+
+--- Sayfa 53 ---
+Kelebeklerin
+Kanatlarındaki Pulcuklar
+Ne İşe Yarar?
+Bilim ve Teknik  Şubat 2020
+Merak Ettikleriniz
+Mesut Erol  [ merak.ettikleriniz@tubitak.gov.tr
+P
+ul kanatlılar (Lepidoptera) takımında bulunan
+kelebeklerin kanatlarında, kiremit gibi dizilmiş
+kılların uçlarının yassılaşarak genişlemesiyle oluşan
+pullar bulunur. Milimetrenin onda biri boyutundaki
+bu küçük pullar kolaylıkla kanattan kopabilir. Pulla-
+rın yapısında bulunan mikroskobik ölçekteki karma-
+şık çıkıntı ve çukur benzeri yapılar, pigmentleşmenin
+yanı sıra ışığı kırarak da kanatların eşsiz görünümü-
+ne katkıda bulunur.
+Pullar kelebeklerin korunmasında da etkilidir. Ayrıca
+bazı kelebek ve güve türlerindeki özelleşmiş pulla-
+rın feromonlar (aynı türün üyeleri arasındaki sosyal
+ilişkileri düzenleyen kimyasal maddeler) salgıladığı
+bilinmektedir.
+2017 yılında kral kelebekleri ile deneyler yapan bir
+grup havacılık mühendisi pullu ve pulsuz kanatlı
+kelebeklerin uçuşlarını kıyasladı ve pulların uçuş sı-
+rasında yükselme verimliliğini %16 ile %82 arasın-
+da artırdığını fark ettiler. Deney sonrası araştırma-
+cıların tasarladıkları yapay kanatlardaki pulların da
+kanadın üst yüzeyinde hava dolaşımını etkileyerek
+yükselmeyi olumlu etkilediği anlaşıldı. Kral kelebek-
+lerinin 4000 kilometreyi aşan göçlerini mümkün kı-
+lan performans detaylarını anlamaya çalışan bilim
+insanları, pulların uçuş için şart olmasa da perfor-
+mans artışına katkıda bulunduğu konusunda hem-
+fikir. Ancak pulların performansa ne şekilde katkıda
+bulunduğu henüz tam olarak anlaşılabilmiş değil.
+Kaynaklar
+sciencefocus.com/nature/whats-the-powder-on-a-moths-wings
+
+sciencemag.org/news/2017/01/scaly-wings-help-these-butterflies-soar
+vqronline.org/vqr-portfolio/scales-wings-butterflies-and-moths
+
+--- Sayfa 54 ---
+53
+Dünya’nın
+Eksen Eğikliği
+45 Derece Olsaydı
+Ne Değişirdi?
+B
+ir gezegenin sahip olduğu mevsimsel değişimler,
+eliptik dolanma hareketi boyunca yıldızından aldığı
+enerji miktarının değişiminden ve eksen eğikliği sebe-
+biyle yıldızdan aldığı enerjinin gezegene dağılımından
+etkilenir. Dünya’nın Güneş etrafındaki yörüngesi daire-
+ye yakın bir elips olduğu için yıl boyu yıldızımıza olan
+uzaklığın az miktardaki değişimi mevsimler üzerinde
+çok belirgin farklılıklara sebep olmaz.
+Dünya’nın eksen eğikliği, yani dönme ekseniyle yörünge
+ekseni arasındaki açı, 23027’  (23 derece, 27 dakika) ve düş-
+me eğilimindedir. Yaklaşık 26.000 yıllık yalpalama (preses-
+yon) döngüsünde eksen eğikliği 22,1 ile 24,5 derece arasın-
+da değişir. Eksen eğikliği sayesinde farklı enlemlere farklı
+açılarla düşen güneş ışınları gezegenimizdeki mevsimsel
+değişimlerin oluşmasında temel belirleyici faktördür.
+Eksen eğikliğinin yüksek enlemlerdeki etkisi düşük enlem-
+lere kıyasla daha fazladır. Eğiklik 45 derece olsaydı 66°33’
+olan kutup daireleri Ekvator’a yaklaşık 21,5 derece daha
+yaklaşırdı. Güneş ışınlarının dik geleceği aralık da geniş-
+leyeceği için tropikal kuşak da genişler ve orta kuşak or-
+tadan kalkardı. Genişleyen kutup bölgelerinde yazlar çok
+daha sıcak, kışlar da çok daha soğuk geçerdi. Kutuplarda
+artan sıcaklık varyasyonları diğer bölgelerde gerçekleşen
+mevsimsel olayların ve felaketlerin şiddetini artırırdı.
+Böyle bir değişimden gece ve gündüz süreleri de etkilenir-
+di. Örneğin yaz mevsimini yaşayan yarımkürede en az 24
+saat kesintisiz güneş ışığı alan bölge genişlerdi.
+Kaynaklar
+astro.wsu.edu/worthey/astro/html/lec-precession.html
+bilimgenc.tubitak.gov.tr/makale/dunyanin-eksen-egikligini-nasil-olcebiliriz
+Silgi
+Kalem İzlerini
+Nasıl Siler?
+K
+urşun kalemlerde karbon elementinin bir formu
+olan grafit kil yardımıyla sertleştirilerek kullanılır.
+Grafit kristali iki boyutlu düzlemde karbon atomlarının
+birbirine bağlanarak oluşturduğu yassı levhaların üst
+üste yığılmış hâlidir. İnce atom levhaları kalem hareket-
+lerinden kaynaklanan sürtünmenin etkisiyle birbirleri
+üzerinden kolayca ayrılarak kâğıdın liflerine yapışır ve
+kağıtta iz bırakır.
+18. yüzyılın sonlarına doğru, Edward Nairne silgiyi icat et-
+meden önce, insanlar kurşun kalem hatalarını düzeltmek
+için beyaz ekmeğin içini kullanıyorlardı. Günümüzde ise
+silgilerin neredeyse tamamında polivinil klorür (PVC) gibi
+petrol bazlı sentetik kauçuk türevleri tercih ediliyor. Doğal
+kauçuk lateks bazı insanlarda alerjiye yol açtığı için pek ter-
+cih edilmiyor. Silgilere esneklik kazandırmak için bitkisel
+yağlar, dayanıklılığını artırmak için de kükürt ekleniyor.
+Silginin çalışması, yüzeye sürtüldüğünde kâğıttan daha
+fazla sürtünme oluşturması temeline dayanır. Sürtünme
+sayesinde oluşan ısı, silginin daha yapışkan hâle gelmesini
+sağlar ve grafit levhalarının kâğıt liflerinden toplanmasına
+yardımcı olur.
+Kaynaklar
+science.howstuffworks.com/innovation/everyday-innovations/erasers-erase.htm
+
+--- Sayfa 55 ---
+Bilim ve Teknik  Şubat 2020
+2020’de
+Gerçekleşmesi
+Merakla Beklenen
+Bazı Bilimsel
+Çalışmalar
+Dr. Mahir E. Ocak  [ Bilim ve Teknik Dergisi
+
+--- Sayfa 56 ---
+Uzay
+Sağlık
+Enerji
+Süperiletkenler
+Sentetik Mayalar
+Parçacık Fiziği
+İklim
+
+--- Sayfa 57 ---
+2020
+’de ismini en çok duyacağımız gökcismi
+muhtemelen Mars olacak. Mars’ın yüze-
+yine araç indirmeyi planlayan çeşitli uzay ajansları var.
+NASA, Mars 2020 aracıyla gezegenin yüzeyinden taş ör-
+nekleri toplamayı ve daha sonraları yapılması planlanan
+başka bir görevle de bu örnekleri Dünya’ya getirmeyi
+planlıyor. Ayrıca bu proje kapsamında bir döner kanatlı
+insansız hava aracının da uzay aracıyla beraber gezegene
+gönderilmesi planlanıyor.
+Uzay
+2020’de Mars’a uzay aracı indirmeyi planlayan
+bir başka ülke ise Çin. Ayrıca Avrupa Uzay Ajansı (ESA) da
+Kızıl Gezegen’in yüzeyine araç indirmeyi planlıyor.
+Birleşik Arap Emirlikleri ise bir uyduyu
+Mars’ın etrafında yörüngeye sokarak bir Mars görevine
+imza atan ilk Arap ülkesi olmaya hazırlanıyor.
+Çin 2019’da Chang’e-4 isimli uzay aracını
+Mars’ın Dünya’dan görünmeyen yüzüne indirmişti.
+2020 yılında ise Chang’e-5 isimli yeni bir araç
+Dünya’ya örnekler getirmek üzere
+Ay’a gönderilecek.
+56
+Ay
+Chang'e-4
+
+--- Sayfa 58 ---
+ESA, 2020’nin sonlarına doğru
+Gaia görevi kapsamında
+gökadamızın üç boyutlu haritasını
+güncellemeyi planlıyor.
+Kütleçekimsel dalga gözlemleri ile elde edilen çeşitli verilerin
+analiz sonuçları 2020’de yayımlanacak.
+Gözlemlenen olayların arasında daha önceleri de gözlemlenen
+karadelik birleşmelerinin yanı sıra karadeliklerin
+yıldız çarpışmalarının da olması bekleniyor.
+Japonya’ya ait Hayabusa 2 aracı 2019’da
+Ryugu isimli bir asteroitten örnekler toplamıştı.
+Hayabusa 2 topladığı örnekleri 2020’de
+Dünya’ya getirecek. Ayrıca NASA’ya ait OSIRIS-REx
+aracı da Bennu isimli asteroitten örnekler
+toplayacak.
+57
+Olay Ufku Teleskopları ile gözlemler yapan
+araştırmacılar 2019’da ilk kez bir
+karadeliğin görüntülerini elde etmeyi başarmıştı.
+Aynı araştırma grubu bu yıl içinde gökadamızın
+merkezindeki Sagittarius A* karadeliğinin
+görüntülerini, hatta belki de
+bir videosunu, yayınlamayı planlıyor.
+Mars
+Gaia
+Hayabusa 2
+
+--- Sayfa 59 ---
+CERN
+gelecekte kurmayı planladığı devasa par-
+çacık çarpıştırıcı için gerekli mali kaynağı
+bu yıl elde etmeyi bekliyor. Mayıs ayında bir toplantı ya-
+pılacak ve gelecekte atılacak adımlar hakkında kararlar
+alınacak. Yaklaşık 21 milyar avroya mal olacak, bugün-
+künden altı kat daha güçlü bir çarpıştırıcının kurulması
+umut ediliyor.
+ABD’deki Fermi Ulusal Hızlandırıcı Laboratuvarında
+yapılan müonların manyetik alanlardaki davranışlarıyla
+ilgili deneylerin sonuçları açıklanacak.
+Verilerin analiziyle daha önceleri varlığı bilinmeyen
+yeni parçacıkların keşfedilmesi bekleniyor.
+Çeşitli şirketler 2020’de perovskitli
+güneş gözelerini piyasaya sürmeyi planlıyor.
+Ayrıca Toyota’nın katı hâl lityum iyon
+bataryalarından güç alan ilk araç prototipini de
+üretmesi bekleniyor. Bataryalardaki sıvı elektrolitlerin
+katı elektrolitlerle değiştirildiği bu bataryalar,
+daha uzun ömürlü ancak daha yavaş
+ şarj oluyor.
+Enerji
+58
+Parçacık Fiziği
+
+--- Sayfa 60 ---
+Bilinen süperiletkenler sadece çok düşük sıcaklıklarda
+elektriği hiçbir direnç göstermeden iletiyor. 2018
+yılında üretilen lantan hidrürlerin atmosfer basıncının
+milyonlarca katı basınç altında -15°C sıcaklıkta
+bile süperiletken özellik gösterdiği bulunmuştu.
+Araştırmacılar 2020’de itriyum süperhidrürler olarak
+isimlendirilen bileşikleri üretmeyi planlıyor. Tahminlere
+göre bu bileşikler 53°C sıcaklıkta bile hiçbir direnç
+göstermeden elektriği iletebilir.
+Süperiletkenler
+
+--- Sayfa 61 ---
+2015 yılında çeşitli ülkeler Paris’te bir araya gelerek küresel ısınmayı
+ 2°C ile sınırlandırmak için çeşitli taahhütlerde bulunmuşlardı.
+Kasım 2020’de Glasgow’da düzenlenecek bir konferansta ülkelerin taahhütlerini
+ne ölçüde yerine getirdikleri değerlendirilecek ve taahhütler güncellenecek.
+B
+irleşmiş Milletler Çevre Progra-
+mı, Ağustos ayında iklim değişik-
+liğiyle baş etmek için uygulanması
+düşünülen çeşitli stratejilerin değer-
+lendirileceği bir rapor yayımlayacak.
+60
+İklim
+
+--- Sayfa 62 ---
+Sentetik Mayalar
+61
+Sağlık
+Bir grup araştırmacının ekmek mayasını yeniden
+“inşa etmek” için yaptığı çalışmalar 2020’de sonuçlanacak.
+Araştırmacılar mayanın kromozomlarındaki DNA’yı
+parça parça sentetik versiyonlarla değiştirdi.
+Ayrıca mayanın DNA’sını çeşitli biçimlerde yeniden
+düzenleyerek deneyler yaptı. Genetiği değiştirilmiş mayalarla
+biyoyakıtlardan tıbbi malzemelere kadar pek çok ürünün
+daha verimli bir biçimde üretilebilmesi bekleniyor.
+Kaynak
+Castelvecchi, Davide,
+“The Science Events to Watch For in 2020”,
+Nature, Cilt 577, s. 15, 2019.
+2020 yılında organ nakline ihtiyaç duyan hastalar için organlar üretilmeye başlanabilir.
+Bazı araştırmacılar, insan organlarını hayvanların bedenlerinde büyütmek için çalışmalar yapıyor.
+Bazı bilim insanlarıysa organları laboratuvar ortamında büyütmenin
+ daha iyi bir seçenek olduğunu düşünüyor.
+Bir grup araştırmacı, sivrisineklere hastalık taşımalarını engelleyecek bir bakteri bulaştırdı.
+Serbest bırakılan sivrisinekler, enfeksiyonun doğadaki sivrisinekler arasında da yayılmasını sağladı.
+Yöntemin ne ölçüde başarılı olduğu 2020’de belli olacak.
+Bir sıtma aşısı 2020’de test edilecek.
+Ayrıca Dünya Sağlık Örgütü uyku hastalığı olarak da bilinen
+Afrika tripanosomiyazisi hastalığını tamamen
+ortadan kaldırmayı planlıyor.
+
+--- Sayfa 63 ---
+Bilim ve Teknik  Şubat 2020
+2019 Nobel Kimya Ödülü
+lityum-iyon pillerin
+geliştirilmesine yaptıkları
+katkılardan dolayı John B.
+Goodenough, M. Stanley
+Whittingham ve Akira Yoshino
+adlı bilim insanlarına verildi.
+Bu şarj edilebilir pil türü
+cep telefonları ve dizüstü
+bilgisayarlar gibi kablosuz
+elektronik cihazlar için
+temel teşkil etti. Elektrikli
+arabalarda güç kaynağı olarak
+kullanılan ve yenilenebilir
+kaynaklardan elde edilen
+enerjinin depolanmasını
+sağlayabilen bu teknoloji aynı
+zamanda fosil yakıtlardan
+arınmış bir dünyayı da mümkün
+hâle getiriyor.
+2019
+Nobel
+Kimya Ödülü
+Dünyanın En Güçlü Pilini
+Geliştirenlere
+Çeviri ve Uyarlama: İlay Çelik Sezer [ TÜBİTAK Bilim ve Teknik Dergisi
+
+--- Sayfa 64 ---
+Stanley Whittingham
+2019 Nobel Kimya Ödülü’ne 1/3’lük payla hak kazanan
+Stanley Whittingham, 1941’de İngiltere’nin Nottingham
+kentinde doğdu. Lisans derecesini 1964’te, yüksek
+lisans derecesini 1967’de, doktora derecesini 1968’de
+Oxford Üniversitesinden kimya alanında aldı. 1968-1972
+arasında Stanford Üniversitesinde araştırmacı olarak
+çalıştı. Daha sonra ABD’nin New Jersey eyaletinde
+bulunan Linden’deki Exxon Araştırma ve Geliştirme
+Şirketine geçti. 1984’te Connecticut’ın Ridgefield
+kentindeki Schlumberger-Doll Araştırma şirketinde
+çalışmaya başlayan Whittingham, 1988’den bu yana
+New York’taki Binghampton Üniversitesinde profesör
+olarak görev yapıyor.
+John Goodenough
+2019 Nobel Kimya Ödülü’ne 1/3’lük payla hak kazanan
+John Goodenough, 1922’de Almanya’nın Jena kentinde
+doğdu. Matematik alanındaki lisans derecesini
+1943’te Yale Üniversitesinden, fizik alanındaki yüksek
+lisans ve doktora derecelerini ise sırasıyla 1951 ve
+1952’de Chicago Üniversitesinden aldı. 1952’de MIT
+bünyesindeki Lincoln Laboratuvarında araştırmacı oldu.
+1976’da Oxford Üniversitesinde profesör olarak görev
+yapmaya başladı. 1986’dan bu yana Austin’deki Texas
+Üniversitesinde profesör olarak görev yapıyor.
+Akira Yoshino
+2019 Nobel Kimya Ödülü’ne 1/3’lük payla hak kazanan
+Akira Yoshino, 1948’te Japonya’nın Suita kentinde
+doğdu. Petrokimya alanındaki lisansını 1970’te, yüksek
+lisansını 1972’de Kyoto Üniversitesinde tamamladı.
+Daha sonra şimdiki adı Asahi Kasei olan Asahi
+Chemical şirketinde çalışmaya başladı. 2005’te Osaka
+Üniversitesinden mühendislik alanında doktora derecesi
+aldı. Hâlen Asahi Kasei’de onur üyesi.
+
+--- Sayfa 65 ---
+64
+Bir elementin tek başına başrol oynadığı az sayıda
+hikâye vardır, oysa 2019 Nobel Kimya Ödülü’nün
+hikâyesinin apaçık bir kahramanı var: Büyük
+Patlama’nın ilk dakikalarında ortaya çıkmış
+kadim bir element olan lityum. 1817’de, İsviçreli
+kimyagerler Johan August ve Jöns Jacob Berzelius,
+Stockholm takımadalarında bulunan
+Utö Madeni’ndeki bir mineral numunesinden
+bir miktar saflaştırdıkları zaman insanlık
+lityumdan haberdar oldu.
+Berzelius yeni elementi Yunanca taş anlamındaki
+“lithos” kelimesine dayanarak lityum olarak
+adlandırdı. Ancak adındaki ağırlık imasına karşın
+lityum en hafif katı elementtir. Nitekim her yere
+yanımızda taşıdığımız cep telefonlarımızın bu kadar
+hafif olması boşuna değil.
+Aslında İsviçreli kimyagerler saf metalik lityumu
+değil tuz biçimindeki lityum iyonlarını bulmuşlardı.
+Özellikle de anlatacağımız hikâyede pek çok defa
+yangın alarmları çaldırmış olan saf lityum kararsız
+bir elementtir ve havayla tepkimeye girmemesi için
+yağ içinde saklanması gerekir.
+Lityumun zayıf yanı olan tepkinirliği
+(tepkimeye girmeye meyilli oluşu) aynı zamanda
+güçlü yanıdır. Stanley Whittingham 1970’lerin
+başlarında ilk işlevsel lityum pilini geliştirdiğinde
+lityumun en dıştaki elektronunu bırakmaya
+yönelik muazzam eğiliminden yararlanmıştı.
+1980 yılında John Goodenough çok daha güçlü
+ve faydalı bir pil geliştirmek için doğru koşulları
+oluşturarak pilin potansiyelini iki katına çıkardı.
+1985’te ise Akira Yoshino saf lityumu tamamen
+devreden çıkarıp pili saf lityumdan
+daha güvenli olan lityum iyonlarına dayalı
+hâle getirmeyi başardı. Bu da pili uygulamada
+kullanılabilir hâle getirdi. Lityum iyon pilleri
+dizüstü bilgisayarların, cep telefonlarının
+ve elektrikli vasıtaların geliştirilmesini ve
+güneş ve rüzgâr gücüyle elde edilen enerjinin
+depolanmasını mümkün kılarak insanlık için en
+çok fayda sağlayan buluşlardan biri oldu.
+Şimdi zamanda elli yıl geriye, lityum-iyon
+pillerinin heyecan verici hikâyesinin başlangıcına
+gideceğiz.
+Lityum bir metaldir. Dıştaki elektron kabuğunda sadece bir elektronu vardır ve bu elektronun başka bir atoma geçmek üzere lityumu terk
+etme yönünde güçlü bir eğilimi vardır. Bu gerçekleştiğinde artı yüklü-ve daha kararlı- olan lityum iyonu oluşur.
+Lİtyum
+Lİtyum İyonu
+
+--- Sayfa 66 ---
+Petrol Dumanları
+Pil Araştırmalarını Tetikliyor
+20. yüzyılın ortalarında petrolle çalışan araçların sayısı
+önemli ölçüde arttı ve bu araçlardan çıkan egzoz
+dumanları büyük şehirlerdeki hava kirliliğini büsbütün
+artırdı. Bu duruma petrolün tükenebilir bir kaynak
+olduğuna ilişkin artan farkındalık da eklenince hem
+araç üreticileri hem de petrol şirketleri uyanmaya
+başladı. İşlerini gelecekte de sürdürebilmek istiyorlarsa
+elektrikli araçlara ve alternatif enerji kaynaklarına yatırım
+yapmaları gerektiğini anladılar. Hem elektrikli araçlar için
+hem de alternatif enerji kaynaklarının kullanılabilmesi
+için büyük miktarlarda enerji depolayabilen güçlü pillere
+ihtiyaç duyuluyor. O dönemde piyasada sadece iki çeşit
+şarj edilebilir pil bulunuyordu: biri ta 1859’da geliştirilen
+-ve hâlâ petrol temelli yakıtlarla çalışan arabaların
+akülerinde kullanılan- ağır kurşun piller, diğeri ise 20.
+yüzyılın ilk yarısında geliştirilen nikel-kadmiyum piller.
+Petrol Şirketleri Yeni Teknolojilere
+Yatırım Yapıyor
+Petrolün tükenme tehlikesi bir petrol devi olan Exxon
+adlı şirketi etkinliklerini çeşitlendirme kararı almaya sevk
+etti. Şirket, temel bilimsel araştırmalara yaptığı büyük
+bir yatırım kapsamında enerji alanında o dönemin en
+önde gelen araştırmacılarından bazılarını istihdam etti
+ve onlara araştırma konusunda dilediklerini yapmalarına
+olanak veren bir serbestlik tanıdı. Stanley Whittingham
+1972’de Exxon’a geçen araştırmacılar arasındaydı.
+Whittingham öncesinde Stanford Üniversitesinde yüklü
+iyonların tutunabileceği atom boyutlu boşluklara sahip
+katı maddelerle ilgili çalışmalar yapmıştı. Bu olguya
+interkalasyon denir. Malzemelerin özellikleri bünyelerinde
+iyonlar tutulduğu zaman değişir. Stanley Whittingham
+ve çalışma arkadaşları, Exxon’da, aralarında tantalum
+disülfürün de bulunduğu, iyonları interkalasyonla
+bünyesine alabilen süperiletken malzemeleri incelemeye
+başladı. Tantalum disülfüre iyonlar ekleyip iletkenliğinin
+nasıl etkilendiğini incelediler.
+Whittingham Aşırı Yoğun Enerjili
+Bir Malzeme Keşfediyor
+Bilimde çokça yaşandığı gibi bu deneyler umulmadık
+ve değerli bir keşif getirdi. Potasyum iyonlarının
+tantalum disülfürün iletkenliğini etkilediği anlaşıldı
+ve Stanley Whittingham malzemeyi ayrıntılı olarak
+incelemeye başladığında çok yüksek bir enerji
+yoğunluğuna sahip olduğunu gözlemledi. Potasyum
+iyonları ile tantalum disülfür arasında ortaya
+çıkan etkileşimler şaşırtıcı ölçüde enerji yüklüydü.
+Whittingham malzemenin voltajını ölçtüğünde birkaç
+voltu bulduğunu gördü. Bu, o dönemki pillerin
+çoğundan daha iyi bir değerdi. Whittingham bir yön
+değişikliği zamanının geldiğini hemen anladı ve
+geleceğin elektrikli araçları için enerji depolayabilecek
+yeni teknolojiyi geliştirmeye koyuldu. Ancak tantalum
+en ağır elementlerden biriydi ve piyasa daha da
+ağır pilleri kaldıracak durumda değildi. Bu yüzden
+Whittingham tantalum yerine benzer özelliklere sahip
+ancak çok daha hafif olan titanyumu kullandı.
+Eksi Elektrotta
+Lityum
+Lityumun bu hikâyenin başrolünde yer alması
+gerekmiyor muydu? İşte lityum hikâyeye tam da bu
+noktada, Stanley Whittingham’ın yenilikçi pilinin eksi
+elektrotu rolünde dâhil oluyor. Lityum rastgele bir seçim
+değildi; bir pilde elektronların eksi elektrottan (anottan)
+artıya (katot) akması gerekir. Dolayısıyla anotun,
+elektronlarını kolayca veren bir materyal içermesi
+gerekir, lityum ise tüm elementler arasında elektronlarını
+salıvermeye en eğilimli olandır. Sonuçta oda sıcaklığında
+çalışabilen, şarj edilebilen ve kelimenin tam anlamıyla
+büyük bir potansiyel taşıyan lityum piller elde edildi.
+Stanley Whittingham projeyle ilgili görüşmek üzere
+Exxon’un New York’taki genel merkezine gitti. On beş
+dakika kadar süren toplantı sonunda yönetim ekibi hızlı
+bir karar aldı: Whittingham’ın keşfinden yararlanarak
+ticari olarak uygulanabilir bir pil geliştireceklerdi.
+65
+
+--- Sayfa 67 ---
+66
+Pil Patlıyor ve Petrol Fiyatları
+Düşüyor
+Ne yazık ki pili üretmeye başlayan ekip bazı aksaklıklar
+yaşadı. Yeni lityum pil tekrar tekrar şarj edildiğinde
+lityum elektrottan ince lityum iğnecikleri büyüyordu.
+Bu iğneciklerin diğer elektrota ulaşması pilin kısa devre
+yapmasına ve bazen de patlamasına neden oluyordu.
+Yangın birimi bir dizi yangını söndürdükten sonra
+lityum kaynaklı yangınları söndürmek için kullanılan
+özel kimyasalları laboratuvara fatura etme tehdidinde
+bulundu.
+Pili daha güvenli hâle getirmek için metalik lityum
+elektrota alüminyum eklendi ve elektrotlar arasındaki
+elektrolit adı verilen çözelti değiştirildi. Stanley
+Whittingham buluşunu 1976’da duyurdu ve pil,
+İsviçreli bir saat üreticisinin güneş enerjili saatlerinde
+kullanılmak üzere küçük ölçekte üretilmeye başlandı.
+Lİtyum İyonu
+ELEKtRon
+tİtAnyum
+DİSÜLFÜR
+KAtot
+ELEKtRoLİt
+BARİyER
+Anot
+mEtALİK Lİtyum
+İlk şarj edilebilir pillerin elektrotlarında elektrolitle kimyasal olarak etkileştiklerinde bozunuma uğrayan katı malzemeler bulunuyordu. Bu da pillerin
+ölmesine neden oluyordu. Whittingham’ın tasarladığı lityum pilinin avantajı, lityum iyonlarının katottaki titanyum disülfür içindeki boşluklarda
+depolanmasıydı. Pil kullanıldığı zaman lityum iyonları anottaki lityumdan katottaki titanyum disülfüre akıyordu. Pil şarj edildiğinde ise lityum iyonları
+geri akıyordu.
+mEtALİK Lİtyum
+İĞnECİKLER
+Anotunda saf lityum bulunan piller şarj
+edildiği zaman lityum iğnecikler oluşur. Bunlar da
+kısa devre oluşturup yanmaya ve
+hatta patlamalara sebep olabilir.
+
+--- Sayfa 68 ---
+67
+Bir sonraki hedef, şarj edilebilir lityum pili bir
+arabada kullanılabilecek boyuta getirmekti. Ne var ki
+1980’lerin başlarında petrol fiyatları çarpıcı biçimde
+düştü ve Exxon’un kısıntıya gitmesi gerekti. Pili
+geliştirme işi kesintiye uğradı. Whittingham’ın pil
+teknolojisi dünyanın üç farklı bölgesindeki üç farklı
+şirkete lisanslandı. Ancak bu, pilin geliştirilmesinin
+son bulduğu anlamına gelmiyordu. Exxon vazgeçince
+işi John Goodenough devraldı.
+Petrol Krizi Goodenough’ı Pillerle
+İlgilenmeye Sevk Etti
+John Goodenough çocukken okumayı öğrenme
+konusunda sorunlar yaşadı ki bu matematiğe
+ve sonunda -İkinci Dünya Savaşı sonrası- fiziğe
+yönelmesinin nedenlerinden biriydi.
+Goodenough uzun yıllar Massachusetts
+Institute of Technology’deki (MIT) Lincoln
+Laboratuvarında çalıştı. Oradayken,
+günümüzde de  bilgisayarlı hesaplamanın ana
+bileşenlerinden biri olan rastgele erişimli
+belleklerin (RAM) geliştirilmesine katkıda
+bulundu. John Goodenough pek çok insan gibi
+1970’lerdeki petrol krizinden etkilenmişti ve
+alternatif enerji kaynaklarının geliştirilmesine
+katkıda bulunmak istiyordu. Ancak Lincoln
+Laboratuvarı ABD Hava Kuvvetleri tarafından
+finanse ediliyordu ve her türden araştırma
+desteklenmiyordu. Bu yüzden kendisine Büyük
+Britanya’daki Oxford Üniversitesinden
+profesörlük pozisyonu teklif edilince Goodenough
+bu şansı değerlendirip enerji araştırmalarının
+mühim dünyasına daldı.
+Lİtyum İyonu
+ELEKtRon
+KoBALt oKSİt
+ELEKtRoLİt
+BARİyER
+Goodenough lityum pilin katotunda kobalt oksit kullanmaya başladı. Bu, pilin potansiyelini neredeyse ikiye katladı ve pili daha güçlü hâle getirdi.
+
+--- Sayfa 69 ---
+68
+Lityum İyonları Kobalt Oksitte
+Saklanınca Yüksek Voltaj
+John Goodenough, Whittingham’ın devrim niteliğindeki
+pilinden haberdardı ve maddelerin iç yapısına ilişkin
+uzmanlığı ona bir metal sülfür yerine bir metal oksit
+kullanıldığı takdirde katotun daha yüksek potansiyele
+sahip olabileceğini söylüyordu. Bunun üzerine
+Goodenough’ın araştırma ekibindeki birkaç kişiye lityum
+iyonlarını interkalasyonla bünyesine aldığında yüksek
+voltaj üreten ancak iyonlar uzaklaştırıldığında çökmeyen
+bir metal oksit bulma görevi verildi.
+Bu sistematik arayış John Goodenough’ın umduğundan
+da başarılı sonuçlandı. Whittingham’ın pili iki volttan
+daha yüksek bir gerilim üretiyordu oysa Goodenough
+katotunda lityum-kobalt oksit bulunan pilin dört voltluk
+bir gerilimle neredeyse iki kat güçlü olduğunu keşfetti.
+John Goodenough’ı başarıya götüren anahtarlardan
+biri pillerin o zamana kadar yapıldığı gibi şarj edilmiş
+olarak üretilmesi gerekmediğini fark etmesiydi. Bunun
+yerine piller üretildikten sonra da şarj edilebilirlerdi.
+Goodenough 1980’de hafifliğine karşın yüksek kapasiteli
+güçlü piller üretilmesine imkân veren bu yoğun enerjili
+yeni katot malzemesinin keşfini yayımladı. Bu, kablosuz
+teknoloji devrimine yönelik belirleyici bir aşamaydı.
+Japon Şirketleri Yeni Elektronik
+Cihazlar İçin Çok Hafif Piller İstiyor
+Öte yandan Batı dünyasında petrol ucuzladıkça
+alternatif enerji teknolojisine ve elektrikli araçlar
+geliştirilmesine yönelik yatırımlara ilgi giderek söndü.
+Japonya’daysa durum farklıydı; elektronik şirketleri
+yana yakıla video kameralar, kablosuz telefonlar ve
+kablosuz bilgisayarlar gibi yenilikçi elektronik cihazlara
+güç sağlayacak çok hafif şarj edilebilir pillere ihtiyaç
+duyuyordu. Bu ihtiyacı fark eden kişilerden biri de
+Asahi Kasei şirketinden Akira Yoshino’ydu. Yoshino
+bu durumu: “Eğilimlerin gidişatının âdeta kokusunu
+aldım. İyi bir koku duyum olduğu söylenebilir.”
+sözleriyle ifade etmişti.
+Lİtyum İyonu
+ELEKtRon
+ELEKtRoLİt
+BARİyER
+KoBALt oKSİt
+PEtRoL KoKu
+Akira Yoshino ticari olarak uygulanabilir ilk lityum-iyon pili geliştirdi. Yoshino, Goodenough’ın katotta kullandığı lityum-kobalt oksit malzemeyi,
+anotta ise karbon temelli bir malzeme olan ve lityum iyonlarını yine interkalasyon yoluyla bünyesine alabilen petrol kokunu kullandı. Bu pilin
+işleyişi aşındırıcı kimyasal tepkimelere değil, lityum iyonlarının elektrotlar arasında ileri-geri akmasına dayanıyor -bu da pilin ömrünü uzatıyor!
+
+--- Sayfa 70 ---
+69
+Yoshino İlk Ticari Olarak Uygulanabilir
+Lityum-İyon Pili Üretiyor
+Akira Yoshino işlevsel bir şarj edilebilir pil
+geliştirmeye karar verdiğinde elinde katot olarak
+Goodenough’ın lityum-kobalt oksit malzemesi
+vardı ve karbon temelli çeşitli malzemeleri anot
+olarak denedi. Araştırmacılar daha önce lityum
+iyonlarının grafitin moleküler tabakaları arasına
+interkalasyonla nüfuz edebildiğini göstermişti ancak
+pilin elektroliti grafitin kırılmasına neden oluyordu.
+Yoshino’nun “İşte buldum!” anı, grafit yerine petrol
+endüstrisinin bir yan ürünü olan petrol koku adlı
+malzemeyi denediği zaman geldi. Petrol kokunu
+elektronlarla yüklediğinde lityum iyonlarının bu
+malzeme tarafından çekildiğini gördü. Sonra pili
+çalıştırdığında, elektronlar ve lityum iyonları
+çok daha yüksek bir potansiyele sahip olan
+katottaki kobalt oksite doğru aktı. Akira Yoshino’nun
+geliştirdiği pil dayanıklı, çok hafif, yüksek kapasiteye
+sahipti ve dört voltluk hatırı sayılır bir gerilim
+üretiyordu.
+Lityum-iyon pilin en büyük avantajı iyonların
+elektrotların bünyesine interkalasyonla nüfuz
+etmiş olması. Diğer çoğu pil, elektrotların yavaş
+ama emin adımlarla değiştiği kimyasal tepkimelere
+dayanıyor. Bir lityum iyon pil şarj edildiğinde ya da
+kullanıldığında iyonlar çevreleriyle etkileşmeden
+elektrotlar arasında akar. Bu da pilin uzun ömürlü
+olması ve performansı düşmeden yüzlerce kez şarj
+edilebilmesi anlamına gelir.
+Bir diğer önemli avantaj da pilin saf hâlde lityum
+içermemesi. 1986’da Akira Yoshino pilin güvenliğini
+test ederken tedbirli davranarak patlayıcı cihazların
+test edildiği bir tesisten yararlandı. Pilin üzerine
+büyük bir demir parçası düşürdü ve hiçbir şey
+olmadığını gözlemledi. Aynı deneyi saf lityum içeren
+bir pille tekrarladığındaysa şiddetli bir patlama oldu.
+Güvenlik testlerinin geçilmesi pilin geleceği açısından
+çok önemliydi. Dolayısıyla, Akira Yoshino asıl bunun
+“lityum-iyon pilin doğduğu an” olduğunu söylüyor.
+Lityum-İyon Pil Fosil Yakıttan Arınmış
+Bir Toplum İçin Gerekli
+1991’de büyük bir Japon elektronik şirketinin
+ilk lityum-iyon pilleri satışa sunmasıyla
+elektronikte bir devrim yaşandı. Taşınabilir
+telefonlar ufaldı, bilgisayarlar taşınabilir hâle geldi,
+MP3 çalarlar ve tabletler geliştirildi.
+Sonrasında tüm dünyadan araştırmacılar
+daha da iyi piller geliştirmek amacıyla
+periyodik tabloyu arayıp taradı ancak şimdiye
+kadar hiç kimse lityum-iyon pilin yüksek
+kapasitesini ve voltajını alt edebilen
+bir buluş yapamadı. Öte yandan
+lityum-iyon pil değiştirildi ve geliştirildi.
+Örneğin John Goodenough
+kobalt-oksiti demir fosfatla değiştirip
+pili daha çevre dostu bir hâle getirdi.
+Neredeyse diğer her şey gibi lityum-iyon
+pillerin de çevre üzerinde olumsuz bir etkisi var
+ancak bu piller çevre açısından büyük
+faydalar da sağlıyor. Lityum-iyon pil daha
+temiz enerji teknolojilerini ve elektrikli cihazları
+mümkün hâle getirerek sera gazlarının ve hava
+kirletici partiküllerin salımının azaltılmasına
+katkıda bulundu.
+John Goodenough, Stanley Whittingham ve
+Akira Yoshino yaptıkları çalışmalarla
+kablosuz ve fosil yakıttan arınmış bir
+toplum için gerekli koşulları oluşturdu ve
+insanlığa çok büyük bir katkı yaptı. n
+Kaynak
+
+Basın bildirisi: The Nobel Prize in Chemistry 2019. NobelPrize.org. Nobel Media
+AB 2020. 14 Ocak 2020. <https://www.nobelprize.org/prizes/chemistry/2019/press-
+release/>
+
+--- Sayfa 71 ---
+Bilim ve Teknik  Şubat 2020
+Gökadamız, fiziksel, kimyasal, kinematik ve dinamik özellikler açısından
+farklı yıldız gruplarının bulunduğu şişim, ince disk, kalın disk ve halo bölgelerinden oluşur.
+Halo, gökadamızın görünen bölümünü saran küresel bir yapı olup çok düşük bir ışıtmaya sahiptir ve
+tahminlere göre kütlesi tüm gökadanın kütlesinin sadece yüzde biri kadardır.
+Ancak bir de “karanlık halo” denilen,
+çok büyük bir hacme yayılan ve önemli miktarda kütle içerdiği tahmin edilen
+karanlık maddenin olabileceği bölge söz konusu.
+Gökadamızın halosunda gözlenen yıldızların çok büyük çoğunluğu
+evren 3-4 milyar yaşına ulaşana kadar oluştuklarından,
+bu bölge yaşlı yıldızların "huzurevi" denilebilecek bir büyük hacme karşılık gelir
+ve burada genç yıldızların bulunması beklenmez.
+Prof. Dr. Faruk Soydugan [ Çanakkale Onsekiz Mart Üniversitesi - Fizik Bölümü
+
+--- Sayfa 73 ---
+48
+H
+alodaki yıldızlar, genellikle ya alanda başka bir
+yıldıza veya gruba bağlı olmadan -başıboş- bu-
+lunuyor ya da küresel kümeler denilen akraba
+yıldız topluluklarında yer alıyorlar. Buradaki
+yıldızlar, disktekilerin aksine, çok daha büyük yaşlarda
+(genellikle 10 milyar yıldan daha büyük) ve oldukça dü-
+şük metal içeriğe sahipler. Başka bir deyişle, haloda gö-
+kadamızın ilk oluşan yıldızları yer alıyor ve gökadamızın
+tarihinden izler sergiliyorlar.
+Magellan Bulutlarından
+gökadamıza doğru gaz akışları
+(NASA)
+Dr. Adrian Price-Whelan
+Flatiron Enstitüsü, Hesaplamalı Astrofizik Merkezinde
+astronomik veri analizi ekibinin bir üyesi olarak
+çalışmalarına devam ediyor.
+İlgi alanları arasında hesaplamalı veri analizi,
+yıldızlardan elde edilen kinematik ve kimyasal verilerin
+analizleri ve yorumlanması, galaksilerdeki
+karanlık maddenin yapısı ve dağılımı, galaksilerin yapısı,
+ötegezegenler, yıldız oluşumu, açık yıldız kümeleri,
+çoklu yıldız sistemleri yer alıyor.
+Şu sıralar ekip olarak özellikle Gaia uydusundan
+elde edilen verilerin analizi üzerinde
+çalışıyorlar.
+
+--- Sayfa 74 ---
+Bugüne kadar yapılan araştırmalardan yola çıkılarak,
+gökadamızın halo bölgesinde yer alan yıldızların bazı
+temel astrofiziksel özelliklerinin (yaş, hız dağılımı, me-
+tal bolluğu vb.) aralıkları tahmin edilebiliyor. Buna kar-
+şın, Price-Whelan ve arkadaşlarının gerçekleştirdikleri
+ve Astrophysical Journal dergisinde yayınlanan yeni bir
+araştırmada, emekli yıldızların huzurevi de denilebile-
+cek halo bölgesinde, beklenmedik bir şekilde, bir genç
+yıldız sürüsü belirlendiği rapor edildi. Keşfedilen bu
+genç yıldızların tayfsal analizleri daha da ilginç bir sonu-
+cu beraberinde getirdi: Bu genç yıldızların kökeni veya
+malzemesi bizim gökadamıza ait değil!
+Yeni keşfedilen genç yıldızların, yakın iki cüce gökada
+olan Magellan Bulutlarının malzemesinden oluştuğu dü-
+şünülüyor. Aslında bu iki gökada, bizim gökadamızla çar-
+pışma rotasında yer alıyor. Dolayısıyla, keşfedilen yıldız-
+ların bu komşu gökadalara ait gaz yığınlarında oluştuğu
+fikri öne çıkıyor. Yeni belirlenen bu genç yıldızlar, birkaç
+binden az üyeye sahip seyrek bir yıldız kümesinin eleman-
+ları olmalarına karşın gökadamızın kozmik karşılaşmala-
+rının geçmiş ve geleceğine dair önemli kanıtlar sunuyor.
+Yıldız kümelerini ve onların üye yıldızlarını araştırmak
+zahmetli bir araştırma alanı çünkü kalabalık bölgede
+ve farklı derinliklerde olan bu yıldızların hangilerinin
+küme üyesi olduğunu belirlemek için hassas gözlem-
+lere ihtiyaç vardır. Bu gözlemlerin en önemlilerinden
+biri de astrometri denilen ve konum-uzaklık ölçümüne
+dayanan bir yöntem olarak biliniyor. Bu kapsamda, son
+birkaç yıl içinde, Gaia uydusu sayesinde bir milyardan
+fazla yıldızın hassas konum ve uzaklık verileri elde edil-
+di. Price-Whelan ve arkadaşları da keşfettikleri genç yıl-
+dızları, Gaia verilerini kullanarak ortaya çıkardı. Aslında
+araştırmacıların amacı, Gaia veri setlerini kullanarak, az
+rastlanan mavi-sıcak yatay kol yıldızlarını belirlemek ve
+böylece gökadamızın yeni aday uydularını araştırmaktı.
+Hedefledikleri mavi-sıcak yıldızları belirlediler ancak bu-
+radan başka bir sonuca ulaştılar: Keşfettikleri yıldızlar,
+farklı kökene sahip genç (yaklaşık 117 milyon yıl yaşın-
+da) bir yıldız kümesine aitti.
+Keşfedilen genç yıldızlardan oluşan bu kümenin yeri-
+nin, Magellan Bulutlarının dış bölgelerinden bizim gö-
+kadamıza doğru yaklaşan bir “gaz nehrine” yakın olduğu
+anlaşıldı. Daha önce yapılmış araştırmalardan gaz nehri
+ve gökadamızın bu bölgesinin metal içeriğinin farklı ol-
+duğu biliniyor. Yeni yayınlanan tayfsal analizler de yeni
+keşfedilen genç yıldızlarda, Magellan Bulutları kaynaklı
+nehirlerdeki gibi daha az metal bulunduğunu ortaya ko-
+yuyor.
+73
+
+--- Sayfa 75 ---
+Gökadamıza yaklaşık 90 bin ışık yılı uzakta olduğu tah-
+min edilen Magellan nehrinde, gökadamızın çekim kuv-
+vetinin de etkisiyle oluşan sıkışmanın yıldız oluşumunu
+tetiklediği ve yeni oluşan yıldızların bu nehrin dışına
+doğru gelerek gökadamıza katıldığı tahmin ediliyor. Araş-
+tırmacılar, Magellan Bulutlarının bize en yakın kolu ola-
+bilecek bu gaz nehirlerinin tahmin edilenden daha kısa
+sürede gökadamıza katılacağını düşünüyor. Bu durum da
+gökadamız için ek bir gaz rezervuarı demek oluyor. Gelen
+yeni gaz yığınları da gökadamızda daha fazla sayıda yeni
+yıldız oluşmasına ve dolayısıyla da gökadamızın gelişme-
+sine katkı sağlayacaktır.
+Carlos Fairbairn  / 27 Ağustos 2015
+
+--- Sayfa 76 ---
+75
+Kaynaklar
+Adrian M. Price-Whelan et al, Discovery of a Disrupting Open Cluster
+Far into the Milky Way Halo:
+A Recent Star Formation Event in the Leading Arm of the Magellanic Stream?
+The Astrophysical Journal, Cilt 887, s.19-31, 2019
+David L. Nidever et al. Spectroscopy of the Young Stellar Association
+Price-Whelan 1: Origin in the Magellanic Leading Arm and Constraints on the
+Milky Way Hot Halo, The Astrophysical Journal, Cilt 887, s.115-129, 2019
+https://phys.org/news/2020-01-milky-impending-galactic-collision-birthing.html
+Gökadamızda emekli yıldızların ikame ettiği halo böl-
+gesindeki bu genç yıldız keşiflerinin, sadece bir yıldız
+sürüsünün belirlenmesinden ibaret olmadığı açıkça gö-
+rünüyor. Bu tür araştırmalar, gökada dışından gelen gaz
+akışlarının anlaşılması, gökadamızın kozmik etkileşme-
+leri, geçmişi ve gelişimi, Magellan Bulutlarının dinamiği
+gibi çok sayıda soru barındıran önemli çalışma alanları-
+na da ışık tutuyor. n
+Gökadamız,
+Büyük ve Küçük Magellan Bulutları
+(NASA)
+Büyük Magellan Bulutu
+(NASA)
+
+--- Sayfa 77 ---
+Giydiğimiz ayakkabıdan, otomobillerimizdeki tekerleklere ve
+cam sileceklerine, dalgıç giysilerinden hortumlara
+ve futbol toplarına kadar günlük yaşamımızda vazgeçilmez olan
+kauçuğu yüzyıllardır kullanıyoruz.
+Doğalgaz borularının ocak ile bütünleşmesini sağlayan conta,
+arabalarımızdaki aks millerini koruyan körük,
+ameliyathanede kullanılan eldivenler, iletken olan bakır telin etrafını
+saran yalıtkanlar, bizi yağmurdan koruyan yağmurluklar ve
+ev çatılarında kullanılan izolasyon malzemeleri
+kauçuktan yapılır.
+Kauçuğun bu kadar geniş
+bir yelpazede kullanılmasının sebebi
+esneklik, yumuşaklık, dayanıklılık,
+yapışkanlık ve su geçirmezlik gibi özellikleridir.
+Yaşamımızın Bir Parçası
+Bilim ve Teknik  Şubat 2020
+Dr. Şahin İdin [ TÜBİTAK
+
+--- Sayfa 79 ---
+78
+Yüzyıllar önce, Güney Amerika’da İnkalar, giydikleri san-
+daletlerin tabanını kauçukla kaplayarak su geçirmeyen
+ayakkabılar, Aztekler ise içi boş kauçuk heykeller yapar-
+lardı. Kristof Kolomb, 15. yüzyılın sonlarına doğru Gü-
+ney Amerika’ya gittiğinde, yerlilerin küre şeklinde cisim-
+lerle oyun oynadığını ve bu cisimlerin yerden sektiğini
+gözlemledi. Yerlilerin bu cisimleri “cau-uchu” ismini ver-
+dikleri ağaçlardan elde ettiklerini öğrendi. Yerliler ağaç-
+tan elde ettikleri malzemeyi sertleştirmek için palmiye
+cevizlerinin dumanında tütsülüyorlardı. Kelimenin kö-
+keni Keçuva dilindeki “Kauchuk” sözcüğü olup “ağlayan
+ağaç” anlamına gelir. Kolomb, yanında bir miktar kauçu-
+ğu Avrupa’ya götürdüyse de o dönem altın ve gümüşe
+olan ilgiden dolayı kauçuk göz ardı edilmiş.
+1730’lu yılların ilk yarısında, Fransız kimyager Charles-
+Marie de la Condamine’in Fransız Bilimler Akademisine
+kauçuk örnekleri göndermesiyle Avrupa’da kauçuk bi-
+linmeye başlandı. 1751’de François Fresneau’nun ka-
+uçuğun birçok özelliğini tanıttığı makalesi, kauçuk ile
+ilgili ilk bilimsel makale olarak kabul ediliyor. Michael
+Faraday, 1826 yılında doğal kauçuğun kimyasal formü-
+lünü (C5H8) ortaya koydu.
+Michael Faraday
+İngiliz kimya ve fizik bilgini
+1839 yılına gelindiğinde ise kauçuk işlemede önemli bir
+aşamaya geçildi. Kauçuk çok yüksek sıcaklıklarda eriyor,
+düşük sıcaklıklarda ise parçalanıyordu. Charles Good-
+year bu sorunu geliştirdiği vulkanizasyon yöntemi ile
+çözdü: Kauçuğa kükürt ekleyip malzemeyi ısıtarak onu
+sertleştirmeyi başardı. Vulkanizasyon öncesinde yük-
+sek plastik özelliklere sahip olan kauçuk, vulkanizasyon
+sonrasında yüksek elastik özelliğe sahip olur. Kauçuğun
+sağlamlığı bu şekilde artırıldıktan sonra kauçuktan te-
+kerlek üretilmeye başlandı ve kullanımı arttı. O dönem-
+lerde kauçuk yalnızca Güney Amerika’da üretiliyordu.
+1876 yılında İngiliz kaşif Henry Wickham, 70.000 kadar
+kauçuk ağacı tohumunu gizlice Brezilya’dan İngiltere’ye
+kaçırdı. Bu tohumların 2400 kadarı çimlendi. Sonrasında
+bunlardan yararlanarak Sri Lanka, Singapur ve Afrika’da
+kauçuk plantasyonları kurdu. Yirminci yüzyılın ilk çey-
+reğine gelindiğinde kauçuk üretiminin çoğu Güney
+Amerika’dan Asya’ya kaymıştı.
+Birinci Dünya Savaşı sırasında Almanya’nın doğal ka-
+uçuk kaynaklarına ulaşması zorlaştı ve bunun üzerine
+Alman bilim insanları kauçuğa benzer bir madde olan
+metil kauçuğu sentezlemeyi başardı. Ancak bu madde
+kauçuk kadar kullanışlı değildi ve üretimi maliyetliydi.
+1930’lara gelindiğinde bilim ve teknolojideki gelişme-
+lere bağlı olarak kauçuğun moleküler yapısı ortaya çı-
+karıldı. Bu keşfin ardından yapay kauçuk çalışmaları ve
+üretimi arttı. İkinci Dünya Savaşı sırasında, uçaklar ve
+diğer taşıtların tekerlekleri için kauçuğa ihtiyaç duyul-
+ması sentetik kauçuk üretimini büyük ölçüde artırdı.
+Dünden Bugüne Kauçuk
+
+--- Sayfa 80 ---
+Kauçuk çapraz bağlanmamış ama çapraz bağlanabilme özelliğine sa-
+hip bir polimerdir. Doğal olarak sıcak ve nemli bölgelerde yetişen ka-
+uçuk ağacından (Hevea brasiliensis) elde edilir. Doğal lateks kauçuğu-
+nun %90’ı bu ağacın öz suyundan elde edilir. Meksika ve ABD’de gua-
+yule ağacından da lateks elde edilir. Bir diğer doğal kauçuk olan çikl ise
+sapodilla ağacından elde edilir. Çiklden vulkanizasyonla sert kauçuk el-
+de edilmez. Bitkinin kauçuk içeren özsuyuna lateks denir. Lateks yapış-
+kan, sütlü kolloidal bir yapıda olup elde edilebilmesi için ağaç kabuğu-
+nun V şeklinde yarılarak sıvının akması sağlanır. Akan sıvı ağaca bağ-
+lı bulunan bir kaba aktarılır ve elde edilen sıvının içerisine genellikle
+formik asit eklenir. Lateks havayla temas ettiğinde koyulaşarak katıla-
+şır. Bunun önüne geçmek için sıvı kauçuk, amonyak ile karıştırılır. Son-
+rasında hava ile teması kesilir. Lateks yaklaşık otuz dakika içerisinde pıh-
+tılaşır. Lateks pıhtılaştıktan sonra elastik bir hamur görünümü alır. La-
+teksteki fazla suyun giderilmesi için iki silindir arasına alınarak hadde-
+leme işlemi gerçekleştirilir. Bu aşamadan sonra içeriğinde bulunan for-
+mik asidin lateksten tamamıyla uzaklaştırılması için durulama işlemi
+yapılır ve askılarda kurutma uygulanır. Askılarda ortalama beş saat bek-
+letilen lateks kuruma sonrasında daha sağlam ve sert bir yapıya ulaşır.
+Rengi koyulaşan lateksin yıkayıcılarda iyice temizlenmesi sağlanır. El-
+de edilen ürün küflenmemesi için tuğla fırınlarda 45 gün kadar bek-
+letilir. Bu işlemin ardından elde edilen kauçuk, daha az yer kaplaması
+için presleme işlemine alınır ve depolara gönderilir. Buradan elde edi-
+len lateksin yaklaşık %35’i kauçuktur. Kauçuğun lastik hâline gelebilme-
+si için kükürt elementi gibi kimyasal maddelerle karışması gerekir, içe-
+risinde yaklaşık %12-20 oranında kükürt bulunan kauçuklara lastik adı
+verilir. Kauçuk içerisindeki kükürt oranı (%30 gibi) fazla olursa elekt-
+rik yalıtkanı olarak kullanılan bir ürün elde edilir. Kauçuk ağaçlarının
+ekonomik ömrü yaklaşık otuz yıldır. Bunun yaklaşık yedi yılı olgunlaş-
+ma süreci, geriye kalan da salgısını kullanabildiğimiz üretim safhasıdır.
+Kauçuk Nasıl Elde Edilir?
+79
+
+--- Sayfa 81 ---
+Doğal kauçuk iyi bir elastik yapıya sahip iken sentetik
+kauçuk ise sıcaklık, kimyasallar ve ultraviyole ışınlar
+gibi çevre koşullarına daha dayanıklı bir yapıda. Doğal
+ve sentetik kauçuğun giderek artan miktarlarda üretimi
+çevre sorunlarına neden oluyor.
+2017 yılı verilerine göre, yılda yaklaşık 14,5 milyon ton
+doğal kauçuk üretilmiş. Malezya, Tayland, Endonezya,
+Brezilya, Nijerya, Liberya, Zaire, Hindistan, Sri Lanka ve
+Filipinler doğal kauçuk üretiminde önde gelen ülkeler.
+En fazla kauçuk tüketen ülke ise Çin. Endonezya, Çin
+ve Hindistan gibi ülkeler daha çok kauçuk üretmek için
+geniş alanlara plantasyonlar kuruyor. Buralardaki doğal
+orman alanları tahrip edilerek kauçuk ağaçları dikiliyor.
+Bu durum yalnızca ağaçlar için değil, ormanlarda yaşa-
+yan canlı türleri için de bir tehdit unsuru. Ayrıca orman
+ağaçlarının kesilmesi erozyonun etkilerinin daha görü-
+nür biçimde hissedilmesine yol açıyor.
+Kauçuk fabrikaları da çevrenin kirlenmesine neden olur.
+Kauçuğun vulkanizasyon işlemi sürecinde çinko oksit
+ve kurşun oksit gibi bileşikler kullanılır. Bu kimyasal
+malzemeler sıvı atık hâlinde toprağa, akarsulara ve su
+birikintilerine karışarak canlıları zehirleyebilir. Kauçuk
+işlenme sürecinde oluşan atık madde oranı üretilen ka-
+uçuğun yaklaşık yirmi beş katı.
+Bununla birlikte, atık lastikler çevre için yangın riski de
+oluşturur. Atık lastiklerin yanmasıyla açığa çıkan yüksek
+ısı ve yoğun dumandan dolayı yangını kontrol etmek ve
+söndürmek zorlaşır. Örneğin, ortalama büyüklükte bir
+otomobil lastiğinin petrokimyasal içeriğinin eşdeğeri
+yaklaşık 9,5 litre yağdır. Dolayısıyla, lastiklerdeki yüksek
+yağ miktarı yangının uzun sürmesine neden olur. Yan-
+gın sırasında havaya zehirli gazlar da salınır, bu gazlar
+toprağın ve su kaynaklarının kirlenmesine yol açar.
+80
+l Kauçuk 220°C’de tamamen eriyen esnek bir madde. Kauçuk eritildik-
+ten sonra damıtılarak kauçuk yağı elde edilir ve bu yağ kauçuğu çözmek
+için kullanılır. Aldehit fenol, eter, piridin ve klorlanmış hidrokarbonlar gi-
+bi maddeler de kauçuğu çözebilir.
+l Kauçuk iyi bir elektrik yalıtkanıdır. Yirminci yüzyılın başlarında elektri-
+ğin santrallerden evlere, fabrikalara ve sokak lambalarına iletimi iletken
+malzemelerle sağlanıyordu. Elektriği ileten bu malzemelerin etrafı kau-
+çukla kaplanmaya başlandı ve elektrik çarpmalarına karşı önlem alındı.
+l Kauçuğun önemli özelliklerinden biri de esnemesi. Günlük yaşamı-
+mızda lastik bantları, bandajları ve eldivenleri sahip oldukları esneklik
+özelliğinden dolayı sıkça kullanırız. Kauçuktan elde edilen malzemelere
+genellikle lastik denir. Lateks eldivenler de kauçuktan yapılır.
+l Kauçuk su geçirmez. Çok yağmur yağdığında ya da bahçede çalışır-
+ken giydiğimiz kauçuk çizmeler sayesinde ayaklarımız ıslanmaz. Bula-
+şık yıkarken ellerimizdeki kauçuk eldivenler sayesinde ellerimiz su al-
+maz. Evlerin ve fabrikaların çatıları da su almasın diye kauçuk malze-
+me ile kaplanır.
+l Kauçuk cisimlerin bir diğer özelliği de sert bir yüzeye çarpınca sekme-
+leri. Bu özellikleri olmasaydı futbol, voleybol, basketbol ve benzeri birçok
+spor dalı olmayabilirdi. Futbol, voleybol ve basketbol toplarının içinde
+havayı içeride tutan kauçuk astar bulunur. Topun içine sıkıştırılan hava
+topa vurulduğunda zıplayarak çok daha uzağa gitmesini sağlar.
+Kauçuğun Hayatımızı Kolaylaştıran Özellikleri
+Kauçuk Üretimi Çevreye Zarar Verebilir
+
+--- Sayfa 82 ---
+81
+Kauçuk üretimi sürecinde çok fazla atık madde oluşur
+ve bu maddelerin çürüyerek toprağa karışması binler-
+ce yıl sürebilir. Bu nedenle kauçuğun geri dönüşümü,
+çevrenin daha az kirlenmesi, canlıların olumsuz olarak
+etkilenmesinin önüne geçilmesi ve ekonomik getirileri
+bakımından hayli önemlidir.
+Kauçuk üretiminin yarıdan fazlası, taşıt tekerlek lastikle-
+ri içindir. Lastiklerin üretim sürecinde, kalıplama işlemi
+öncesi malzemenin aşırı vulkanizasyona maruz kalması,
+kauçuğun elastik özelliğini kaybetmesine ve elastik özel-
+liğini kaybeden malzeme tekrar kalıplanamadığından
+atık olarak değerlendirilmesine yol açar. Bu atık malze-
+melerde sağlam kısımlar da bulunur. Kauçuk değerli bir
+madde olduğundan, bazı firmalar sağlam kısımları ayır-
+mak için rafinasyon işlemi uygular. Kurtarılan kısımlar,
+otomobil, conta, paspas ve silecek üreten firmalara satılır.
+Bu malzemeler halı sahalarda, traktör ve el arabası teker-
+leklerinde dolgu malzemesi olarak da kullanılır.
+Kauçukla ilgili bir diğer atık oluşum da kullanım ömürle-
+ri tamamen bitmiş lastiklerdir. Kullanım ömrünü tamam-
+layan (binek araçlar için diş derinliği 1,6 mm’ye düşen)
+lastiklerin araçlardan söküldükten sonra tekrar kullanıl-
+ması tehlikelidir. Bu yüzden lastiklerin farklı yöntemlerle
+değerlendirilmesi ve geri dönüştürülmesi önemlidir.
+Lastiklerin geri dönüşümünde kullanılan yöntemlerden
+biri piroliz işlemidir. Piroliz ısı yardımı ile lastikteki kim-
+yasal bağların kırılmasıdır ve lastiklerin yakıta dönüşü-
+mü için kullanılan bir yöntemdir. Piroliz sonucu geri dö-
+nüşümü sağlanan lastikten pirolitik yağ elde edilir ve bu
+ürün jeneratör yakıtı olarak kullanılır.
+Lastik endüstrisi yetişen doğal kauçuğun %70’ini tüke-
+tiyor. Bu yüksek talebin çoğunu taşıt lastikleri oluşturu-
+yor. 2024 yılına kadar, artan kauçuk ihtiyacını karşılamak
+üzere yaklaşık 8,5 milyon hektarlık yeni ekim alanının
+gerekeceği tahmin ediliyor. Kauçuk üretim alanlarının
+artması ise tropikal biyoçeşitliliğin azalması anlamına
+geliyor. Bunun önüne geçebilmek için lastik üreticileri
+yeni kaynak arayışında.
+ABD ve Meksika’da yetişen guayule bitkisinden de kauçuk
+elde edilebiliyor. Guayule bitkisinden daha fazla verim al-
+mak için Teksas’ta yeni üretim tesisleri kuruluyor. Avru-
+pa Birliğine üye altı ülkeden sekiz endüstri kuruluşu ve
+beş araştırma enstitüsünün ortak yürüttüğü DRIVE4EU
+adlı projeyle Rus karahindiba (kauçuk karahindiba) bitki-
+sinden doğal kauçuk elde etme çalışmaları da Belçika’da
+yürütülüyor. Böylece, doğal kauçuk üretimine bağlı ola-
+rak doğaya verilen zararın azaltılması hedefleniyor. n
+Kaynak
+https://en.wikipedia.org/wiki/Natural_rubber
+https://www.bbc.com/news/science-environment-32350985
+http://www.drive4eu.eu/
+Somervill,B., Geçmişten Günümüze Kauçuk, TÜBİTAK Popüler Bilim Kitapları, 2018.
+https://www.britannica.com/science/rubber-chemical-compound#ref289650
+http://megep.meb.gov.tr/mte_program_modul/moduller_pdf/Do%C4%9Fal%20
+Kau%C3%A7uk%20%C3%96zellikleri%20Ve%20Testleri.pdf
+Kauçuğun Geri Dönüşümü
+
+--- Sayfa 83 ---
+Bilim ve Teknik  Şubat 2020
+Koalalar
+Dr. Bülent Gözcelioğlu  [ turkiye.dogasi@tubitak.gov.tr
+Fauna
+Doğa
+Koalalar, Avustralya’nın doğu ve güneydoğu kısımlarında yaşayan
+keseli memelilerdendir. Yavruları gelişimlerini tamamlamadan
+(2-3 cm boylarında) doğar ve annelerinin keselerinde gelişimlerini tamamlarlar.
+İlk 6 ay tamamen annelerinin keselerinde yaşarlar.
+Sonra yavaş yavaş keseden dışarı çıkmaya başlarlar.
+Yavru tamamen bağımsız oluncaya kadar annesinin sırtında taşınır.
+etre
+kabilirken
+olur.
+
+--- Sayfa 84 ---
+Soyu tehlike altında olan koalaların, Avustral-
+ya’da son zamanlarda gündemde olan yangın-
+larda popülasyonlarının %30’unu kaybettiği
+tahmin ediliyor.
+Zaten nesli tükenme tehlikesiyle karşı karşıya olan bir can-
+lı türü için bu çok büyük bir oran.
+Yangınlardan önce de endüstriyel gelişmeler, orman alan-
+larının temizlenmesi, araba çarpmaları (yılda 300 kadar),
+yaşam alanı kaybı ve vahşi köpeklerin saldırısı gibi neden-
+ler koalaların yaşamlarını tehdit eden faktörler arasında
+sıralanıyordu. Son yangınlarla birlikte popülasyonlarında-
+ki büyük kayıp ve yaşam alanlarının hızla yok olması koa-
+laların soyunu iyice tehlikeye atmış durumda.
+Koalalar günlerinin 18 saatini (hatta bazen daha da fazlasını)
+ağaçlarda dinlenerek ya da uyuklayarak geçirirler.
+Yaşamsal faaliyetlerini gece yaparlar. Besin değeri çok düşük olan okaliptüs yapraklarıyla beslendikleri için
+yavaş hareket ettikleri ve zamanlarının çoğunu dinlenerek ve uyuyarak geçirdikleri düşünülüyor. Ayrıca yedikleri
+yaprakların uyurken sindirilmesi zor olduğu için dinlendikleri sırada sindirildiği tahmin ediliyor.
+İhtiyaçları olan suyu da genelde yedikleri
+okaliptüs yapraklarından karşılarlar.
+Günde 500 gr kadar okaliptüs yaprağı
+tüketirler.
+83
+
+--- Sayfa 85 ---
+Ayın Oyunu:
+TOPLAMLI APARTMANLAR
+Ferhat Çalapkulu  [ dusunme.kulesi@tubitak.gov.tr
+Düşünme Kulesi
+Toplamlı Apartmanlar
+Oyununun Kuralları
+Apartmanların
+kat sayılarını belirten
+diyagramların
+sol üst köşelerinde verilmiş
+aralıktaki rakamları
+her bir satıra ve sütuna
+birer kez yerleştirin.
+Diyagram dışındaki sayılar
+o yönden bakıldığında
+daha yüksek apartmanlarca
+gizlenmeyip görülebilen
+apartmanların katlarının
+toplamını vermektedir.
+Ödüllü soru
+t TOPLAMLI APARTMANLAR
+sorusunu çözüp ok doğrultu-
+sundaki içeriği yazarak, ad, so-
+yad ve adres bilgileri ile birlikte
+dusunme.kulesi@tubitak.gov.tr
+adresine gönderenler arasından
+çekilişle belirlenecek 10 kişiye
+TÜBİTAK Popüler Bilim Kitapları
+tarafından yayımlanmış Dünyanın
+En Zeki Çocukları Nasıl Başardı-
+lar başlıklı kitap hediye edilecek.
+Çekiliş sonuçları dergimizin fa-
+cebook ve twitter hesaplarından
+önümüzdeki ayın ilk haftasında
+duyurulacak. Geçen ayın ödüllü
+Bölgesel Sudoku sorusunu doğru
+yanıtlayan ve kitap ödülü kazanan
+okurlarımızın listesi facebook ve
+twitter hesaplarımız üzerinden
+duyuruldu.
+www.bilimteknik.tubitak.gov.tr
+Ok doğrultusundaki içeriği yazın.
+Örnek çözümün ilk satırı 34125 şeklinde
+yazılmalıdır.
+Toplamlı Apartmanlar - Örnek Çözüm
+Bilim ve Teknik  Şubat 2020
+
+--- Sayfa 86 ---
+Geçen Sayının Çözümleri
+Simetri
+Ödüllü Soru: Simetri
+Ardışık Sudoku
+Üçlüler
+85
+Çadır: Bu bulmacada amaç her
+ağaca bağlı birer çadırın yerini bul-
+maktır. Bu çadırların ağaçlara yatay
+veya dikey komşu karelerden bağlı
+olması gerekiyor. Ayrıca çadırların
+birbirbirlerine yatay, dikey ya da
+çapraz olarak komşu karelerde bu-
+lunmaması gerekiyor. Dışarıda veri-
+len sayılar ise ilgili satır veya sütun-
+daki çadır sayısını gösteriyor.
+Hiroimono: Tablodaki tüm taşla-
+rı toplayın. Yatay veya dikey çizgiler
+boyunca ilerleyerek karşılaştığınız
+ilk taşı toplamalısınız. Herhangi bir
+taştan başlayabilirsiniz. Bir sonraki
+taşa ulaşırken yön değiştirebilirsiniz
+ancak geri dönmemelisiniz.
+Hiroimono
+Örnek Çözüm
+Çadır
+Örnek Çözüm
+
+--- Sayfa 87 ---
+Kıvanç Çefle [ btsatranc@tubitak.gov.tr
+Satranç
+İlk Ölmez Oyun
+On dokuzuncu yüzyıl başlarının
+muhtemelen en kuvvetli
+oyuncusu Fransız Louis-Charles
+Mahé de La Bourdannais’ydi.
+La Bourdannais, Madagaskar’ın
+doğusunda vanilyası ve
+yanardağıyla meşhur Fransız
+toprağı olan Réunion adasında
+1795 yılında soylu bir ailenin
+çocuğu olarak dünyaya geldi.
+Satrancı 1814 yılında eğitim
+için geldiği Paris’te öğrenen
+La Bourdonnais, ünlü Café de
+la Régence’ta düzenli olarak
+oynamaya başladı ve
+kısa zamanda bir satranç yıldızı
+olarak tanındı. Zamanının
+çoğunu Café’de geçiriyor,
+öğle saatlerinden gece yarılarına
+kadar kendine ayrılmış bir
+masada satranç oynuyordu.
+Yanlış ticari yatırımlarla
+servetini kaybettiğinden satranç
+onun için bir geçim kaynağı
+hâline gelmişti: bahis bedelini
+ödeyebilecek herhangi biriyle
+satranç oynamaya hazırdı. Sık
+sık Londra’ya seyahat eden La
+Bourdonnais, İngiltere’nin en iyi
+oyuncularının hepsini de
+alt etmeyi başarmıştı.
+Onun rakibi olacak Alexander
+McDonnell ise 1798 yılında
+Belfast’ta (İrlanda) doğmuştu.
+Gençliğinde denizaşırı ülkelerde
+ticaretle uğraştı. Daha sonra
+yerleştiği Londra’da önemli bir
+ticaret firmasının sekreteri olarak
+çalışmaya başladı.
+Bilim ve Teknik Şubat 2020
+Louis-Charles Mahé de La Bourdannais
+
+--- Sayfa 88 ---
+Bu iş ona iyi bir gelir sağlıyordu ve
+varlıklı olması sayesinde satranca
+istediği kadar zaman ayırabiliyordu.
+Körleme satrançta başarılıydı ve
+Londra’nın iyi oyuncularından
+biri olarak ün yapmıştı. Kendine
+güveni artınca, Paris’e gitti ve Café
+de la Régence’ta La Bourdannais
+ile birkaç oyun oynadı. Ancak
+hepsinde de yenildi!
+İngiltere’ye dönünce ülkenin
+en iyi oyuncularından biri olan
+William Lewis’ten ders aldı ve
+kısa zamanda ilerledi. Öyle ki
+1830’da yenileceği ve ününün zarar
+göreceği korkusuyla hocası onunla
+maç yapmayı reddetti.
+Bu arada, önemli bir oyuncu ve
+satranç tarihçisi olan George
+Walker 1832’de Londra’da
+Westminster Satranç Kulübünü
+kurmuştu. McDonnell da
+kurucu üyelerdendi. Walker,
+hem satrancı halka sevdirmek
+hem de kulübünü tanıtmak
+amacıyla La Bourdonnais ve
+artık İngiltere’nin en kuvvetli
+oyuncusu kabul edilen
+McDonnell arasında bir
+müsabaka düzenledi.
+Bu maçlar dizisi satranç
+tarihinde bir dönüm noktası
+oldu. Westminster Satranç
+Kulübünde oynanan oyunlar
+gazetelerde yayınlanıyor ve bütün
+Avrupa’da heyecanla izleniyordu.
+Amansız bir rekabet havası
+içinde oynanan bu yüksek kaliteli
+oyunlar, satrancı hiç olmadığı
+kadar popüler hâle getirdi.
+Günümüzdeki maçlardan
+farklı olarak zaman sınırlaması
+yoktu. McDonnell bazen tek
+bir hamle için bir buçuk saat
+harcıyordu, La Bourdonnais ise
+hamlelerini çabucak yapıyordu.
+İzleyicilerin masaya yaklaşması
+ve devam eden oyun hakkında
+yüksek sesle yorum yapmaları
+olağandı.
+Dört ay süren ve o zamanlar için
+“devlerin savaşı” olarak görülen
+müsabakada altı maç oynandı.
+Yalnızca ikinci maçı McDonnell
+kazandı. Altıncı maç, önde
+olan McDonnell’ın sağlığının
+bozulması nedeniyle yarım kaldı
+ve tamamlanamadı. İkili
+arasında oynanan toplam 85
+oyundan 45’inde kazanan La
+Bourdonnais oldu, 27’sinde
+yenildi, 13 oyun ise beraberlikle
+sonuçlandı. İşte bu tarihi
+müsabakada oynanan oyunların
+en ünlülerinden biri:
+87
+Alexander McDonnell
+Café de la Régence’ta bir satranç turnuvası, 1874
+
+--- Sayfa 89 ---
+La Bourdonnais–
+McDonnell ellinci maç
+oyunu, Londra 1834
+Kabul Edilen Vezir
+Gambiti (D20)
+1. d4 d5 2. c4 dxc4 3. e4
+e5 4. d5 f5 5. Ac3 Af6 6.
+Fxc4 Fc5 7. Af3 Ve7 8.
+Fg5 Fxf2+ 9. Şf1 Fb6 10.
+Ve2 f4 11. Kd1 Fg4 12. d6
+cxd6 13. Ad5
+Hem vezir isteyen hem
+de f6’daki at üzerindeki
+baskıyı artıran bir hamle
+(Diyagram 1)
+Diyagram 1
+a
+1
+2
+3
+4
+5
+6
+7
+8
+b
+c
+d
+e
+f
+g
+h
+13…Axd5!!
+İrlandalıdan cesur bir
+hamle! İşin ilginç tarafı
+bu vezir fedasından sonra
+ortaya çıkan durumda
+varyasyonlar sonu
+hesaplanabilir türden
+değil. Çünkü McDonnell,
+zorunlu bir hamle
+dizisinin matla bittiği
+bir kombinezon peşinde
+değildi, pozisyonel
+üstünlükle sonuçlanan
+bir konumsal feda
+amaçlamıştı.
+Derin bir durumsal
+kavrayış gerektiren bu tür
+fedalar o çağ için büyük
+bir yenilikti.
+14. Fxe7 Ae3+
+Siyah fili hemen almak
+yerine bu ara hamle
+(zwischenzug) ile önce
+atını e3’e yerleştiriyor.
+Bu kare bir at için
+ideal konumlardan
+biridir, hatta daha sonra
+Adolf Anderssen
+“Atınızı e6’ya yerleştirin,
+sonra uykuya
+dalabilirsiniz” demişti.
+Bu söz beyazlar için
+söylenmişti ama
+elbette e3 karesindeki
+bir siyah at da
+siyahlar için aynı
+değerdedir.
+15. Şe1 Şxe7 16. Vd3 Kd8
+Bu hamle ile McDonnell
+e3’teki atın kıymetinin
+farkında olduğunu
+gösteriyor. e1’deki kaleyi
+alıp attan vazgeçmek
+konumsal vezir fedasının
+amacıyla çelişirdi.
+17. Kd2 Ac6 18. b3   Fa5 19.
+a3 Kac8
+Siyah açmazdaki kaleyi
+almak yerine savaş
+alanına yeni bir kuvvet
+sürüyor. Beyazın 20.
+b4 hamlesinden endişe
+etmiyor: 20…Axb4 21.
+axb4 Fxb4 22. Şf2 Kxc4
+ve siyah bir kazanç
+durumu elde ederdi.
+20. Kg1 b5 21. Fxb5 Fxf3
+22. gxf3 Ad4 23. Fc4
+Beyaz c sütununu
+bloke etmek istiyor.
+Diğer seçenekler de
+çok cazip değil.
+Örneğin 23. b4 Axf3+ 24.
+Şf2 Axg1 25. Bxa5 Ah3+
+dizisinden sonra siyah
+pozisyona hâkim.
+23…Axf3+ 24. Şf2 Axd2
+25. Kxg7+ Şf6 26. Kf7+
+Şg6 27. Kb7 Adxc4 28.
+bxc4 Kxc4 29. Vb1 Fb6
+Bu hamleyle siyah
+bir dizi “açarak şah”
+tehdidi yaratacak.
+30. Şf3
+Eğer 30. Vg1+??
+oynarsa 30… Ag4++
+(çifte şah) ve
+beyaz vezirini
+kaybeder.
+30…Kc3 31. Va2 Ac4+ 32.
+Şg4 Kg8 33. Kxb6
+Ümitsizce yapılan bir
+hamle. Beyaz, 33…h5+
+34. Kh4 Fd8+ 35. Ke7 Fxe7
+mat tehdidini kalesini
+feda ederek önlüyor.
+33…axb6 34. Şh4 Şf6 35.
+Ve2 Kg6 36. Vh5 Ae3
+ve beyaz terk eder.
+Çünkü siyah son
+hamlesiyle 37…Ag2
+mat ile tehdit ediyordu
+ve beyaz vezirinden
+vazgeçmeden mat
+ağından kurtulamazdı
+(Diyagram 2).
+Diyagram 2
+a
+1
+2
+3
+4
+5
+6
+7
+8
+b
+c
+d
+e
+f
+g
+h
+Çok sonra, 1930’larda
+dünyanın en iyi
+oyuncularından biri kabul
+edilen ABD’li Reuben Fine
+(1914-1993)   bu oyunu
+“Ölümsüz Oyunların İlki”
+olarak niteledi. 1985-2000
+yılları arasında Dünya
+Satranç Şampiyonu
+olan Garry Kasparov
+da bu oyundan derin
+etkilenen büyükustalar
+arasında: Söylediğine
+göre ellinci oyunu ilk kez
+gördüğünde satrançsız
+yaşayamayacağına karar
+vermişti. Bu sırada yalnızca
+altı yaşındaydı!
+Öyle görünüyor ki bu
+müsabaka iki oyuncuya
+da uğurlu gelmedi.
+Yalnızca bir yıl sonra,
+1835’te McDonnell böbrek
+hastalığından yaşamını
+yitirdi. Mali durumu iyice
+kötüleşen La Bourdonnais
+ise 1840 yılında fakirlik
+içinde öldü. George
+Walker, La Bourdonnais’nin
+rakibi McDonnell ile
+Londra’da aynı mezarlığa
+defnedilmesini sağladı.
+88
+
+--- Sayfa 90 ---
+89
+Ayın
+Soruları
+2019/2020 Dünya
+Çözme Kupası
+kapsamında
+14-15 Aralık 2019’da
+yapılan Varşova 18.
+Grand Prix Çözme
+Şampiyonası’nı Polonyalı
+Piotr Murdzia kazandı.
+Bu ayın soruları için
+sizlere bu yarışmadan
+iki problem ve
+bir etüt seçtik.
+Diyagram 3
+a
+1
+2
+3
+4
+5
+6
+7
+8
+b
+c
+d
+e
+f
+g
+h
+Beyaz oynar, iki hamlede
+mat eder.
+Diyagram 4
+a
+1
+2
+3
+4
+5
+6
+7
+8
+b
+c
+d
+e
+f
+g
+h
+Beyaz oynar, üç hamlede
+mat eder.
+Diyagram 5
+a
+1
+2
+3
+4
+5
+6
+7
+8
+b
+c
+d
+e
+f
+g
+h
+Beyaz oynar ve kazanır.
+Geçen ay sorulan
+problemlerin
+çözümleri
+Geçen ay size
+yakınlarda yaşamını
+yitiren ünlü Macar
+problemci György
+Bakcsi’nin (1933-2019)
+üç problemini sormuştuk.
+İşte çözümleri:
+Diyagram 6
+Probleemblad, 1971
+İkincilik ödülü
+a
+1
+2
+3
+4
+5
+6
+7
+8
+b
+c
+d
+e
+f
+g
+h
+Beyaz oynar, iki hamlede
+mat eder.
+a) Diyagram
+b) a2 ← a4
+c) a2 ← a5
+d) a2 ← a6
+e) a2 ← a7
+Tek diyagramda beş
+problem: a2’deki piyon
+sırasıyla a4, a5, a6 ve a7’ye
+konduğunda dört adet iki
+hamlelik problem daha elde
+ediliyor.
+Çözüm:
+a) 1.a4! Ş×c6 2. Fe4  mat
+b) 1.a5! Ş×c6 2. V×f3 mat
+c) 1.a6! Ş×c6 2. Vc5 mat
+d) 1.a7! Ş×c6  2.a8=V(F)
+mat
+e) 1.a8=A! Ş×c6 2.V×f3
+mat
+Başlangıç karesindeki
+a2 piyonu her seferinde
+bir kare yukarı konularak
+sonunda a8 karesine kadar
+ilerlemiş oluyor!
+“Excelsior” teması…
+
+Diyagram 7
+Magyar Sakkszövetseg
+"Földeak-70", 1988
+a
+1
+2
+3
+4
+5
+6
+7
+8
+b
+c
+d
+e
+f
+g
+h
+Beyaz oynar, on hamlede
+mat eder.
+Çözüm:
+1. b3+  Şd4 2. c3+  Şe4 3.
+g×f3+  Ş×f5 4. h×g4+  Şe5
+5. g×f4+  Şd5 6. e4+ F×e4
+7. f×e4+  Şc5 8. d4+  Şb5
+9. c4+  Şa5 10. b4 mat!
+Taşları dizip çözümü
+kendiniz görün. Eminim siz
+de hayran kalacaksınız
+Diyagram 8
+Die Schwalbe, 1967
+Birincilik Ödülü
+a
+1
+2
+3
+4
+5
+6
+7
+8
+b
+c
+d
+e
+f
+g
+h
+Dört hamlede yardımlı mat.
+Çözüm:
+1. h2 Kg1 2. h1=V Kf5 3.
+Vh8 Kg5 4. V×e5  mat.
+
+--- Sayfa 91 ---
+Y
+ıldızların yaşam zincirleri takip
+edildiğinde, dev bir moleküler
+buluttan cüce ve kararlı bir plazma
+küresine, plazma küresinden de kır-
+mızı deve doğru ilerleyen yolculuk,
+yine bir cüce artık çekirdek ile son
+bulur. Milyonlarca veya milyarlarca
+yıl yaşayabilen yıldızlar, bu sürede
+karmaşık süreçler içinde çok sayıda
+fiziksel ve kimyasal değişim geçir-
+seler de hayatlarını birkaç bölüme
+ayırarak kolayca özetlemek müm-
+kün: DEV-cüce-DEV-cüce.
+Evrenin önemli bölümü hidrojen
+elementinden oluşur ve yıldızlar da
+bundan payını alır. Yıldızlar, ömür-
+lerinin yaklaşık %90’ında hidrojen
+yakarak enerji üretirler ve ürettik-
+leri enerjiyi uzaya yayarlar. Yıldız
+öncesi cisimler, hidrojen yakma-
+ya başlayıncaya kadar sıkışmaya ve
+ısınmaya devam ederler. Çekirdek-
+te hidrojen temelli füzyon reaksi-
+yonlarıyla üretilen enerji, sıkışma-
+larına neden olan çekim kuvveti-
+ni durduruncaya kadar çökme de-
+vam eder. Son durumda, çökme
+durduğunda, aslında dev bir bulut-
+tan kararlı enerji üreten cüce ve sı-
+cak plazma küreleriyle yani yıldız-
+larla karşılaşırız. Bu durumda, ken-
+di yaşamlarında eriştikleri farklı bo-
+yutlarla karşılaştırıldığında, yıldızla-
+rın ömürlerinin önemli bölümünde
+“cüce” olarak kaldıkları söylenebilir.
+Başka bir deyişle, gökyüzünde gör-
+düğümüz yıldızların çok büyük kıs-
+mı “cüce” sınıfındadır. Cüce dışın-
+daki aşamalarda veya DEV olduk-
+larında, enerji kararsızlıkları veya
+enerji üretme problemleri söz ko-
+nusudur. Yıldızların doğumlarını
+veya ölüme giden sonlarını araştır-
+mak için DEV yapıların peşine düş-
+memiz gerekir. Bunlardan biri de
+kış aylarında Kuzey Yarımküre’de
+en çok dikkat çeken yıldızlardan biri
+olan Betelgeuse’dür.
+Avcı Takımyıldızı’nın en parlak üye-
+lerinden olan Betelgeuse (Betel-
+göz), “avcının” omuzunun üzerin-
+de, gökbilim severlerin bakışları-
+nı üzerinde toplar. İsmi Arapçadan
+gelir ve “Avcı’nın kolu” anlamında-
+dır.  Kırmızı süper dev olarak sınıfla-
+nan yıldız, gözle görülebilen en bü-
+yük boyutlu yıldızlardandır. Bu de-
+vin yarıçapı 4,1 ile 4,6 AB (Astro-
+nomik Birim: Dünya-Güneş uzak-
+lığına karşılık gelir ve değeri yak-
+laşık 149,6 milyon km’dir.) arasın-
+da değişmektedir. Bu dev gökcismi,
+Güneş’ten sonra yüzeyi görüntüle-
+nerek kısmen çözülebilen çok az sa-
+yıda yıldızdan biridir.
+Betelgeuse’ün
+Güneş’e
+uzaklı-
+ğı yaklaşık 700 ışık yılı olup yaşı-
+nın 10 milyon yıldan küçük olduğu
+tahmin edilmektedir. Bugüne ka-
+dar yapılan gözlemlerin analizleri,
+onun başlangıçta çok büyük kütle-
+li (yaklaşık 20 Güneş kütlesi) bir yıl-
+dız olduğunu ve kısa sürede kırmı-
+zı dev aşamasına geldiğini gösteri-
+yor ve yaklaşık yüz bin yıl içinde de
+bir süpernova patlaması gerçekleş-
+tireceğini ortaya koyuyor. Betelge-
+use süpernova patlaması geçirdi-
+ğinde gökyüzünde dolunay parlak-
+lığına yakın fener benzeri bir parla-
+ma görülmesi bekleniyor ancak bu
+dev çok uzakta olduğundan patla-
+manın Güneş Sistemi’ne etki etme-
+si beklenmiyor. Tabii biz bu patla-
+mayı gerçekleştikten ancak 700 yıl
+kadar sonra görebileceğiz!
+Son günlerde Betelguese, her za-
+mankinden daha fazla dikkat çekiyor
+çünkü parlaklığı Kasım 2019’dan iti-
+SÜPER DEV BETELGEUSE
+BUGÜNLERDE SOLGUN!
+Prof. Dr. Faruk Soydugan
+[ fsoydugan@comu.edu.tr
+Gökyüzü
+Bilim ve Teknik  Şubat 2020
+02 Şubat
+İlkdördün
+09 Şubat
+Dolunay
+16 Şubat
+Sondördün
+23 Şubat
+Yeniay
+
+--- Sayfa 92 ---
+91
+baren hızla azalmaya başladı. Değişen
+yıldız olarak sınıflanan yıldızın aslın-
+da, parlaklığı sürekli değişiyordu an-
+cak bu kez son yüzyılın en düşük par-
+laklık değerine ulaşacak kadar soldu!
+Bu süper dev, son iki ay içinde yak-
+laşık 1 kadir kadar söndü. Bu durum,
+amatör veya profesyonel fark etmek-
+sizin çok sayıda astronom ve astrofi-
+zikçinin dikkatini çekti ve parlaklıkta-
+ki bu radikal düşüşün nedeni sorgu-
+lanmaya başlandı. Bu aşamada, “Aca-
+ba Betelgeuse yakında bir süpernova
+patlaması geçirebilir mi?” sorusu da
+gündeme geldi.
+Betelgeuse
+zonklayan,
+yarı-düzenli
+parlaklık değişimleri gösteren bir süper
+devdir. Baskın zonklama periyodu 425
+gün olsa da buna eşlik eden farklı zonk-
+lama modları da gösterir. Bu aslında
+bu devin şişip büzülmesi şeklinde ger-
+çekleşen bir zonklamadır. Betelgeuse’ü
+Güneş’in yerine koyarsak, şiştiğinde
+Jüpiter’e ulaşan yüzeyi, büzüldüğün-
+de Mars’a kadar çekilecektir. Bu zonk-
+lamanın kaynağı çok iyi bilinmese de
+yıldızın dış katmanlarındaki enerji ak-
+tarımını sağlayan dev konvektif hücre-
+lerin yükselip alçalmasının parlaklık de-
+ğişimine neden olabileceği düşünülü-
+yor. Bu hareket simetrik değildir ve çok
+modludur; bu nedenle, Betelgeuse’ün
+parlaklığı yakın zamanda tekrar artma-
+ya başlarsa sürpriz olmayacaktır.
+Araştırmacılar, bugünlerde görülen
+ve beklenenden daha büyük ölçek-
+te gerçekleşen parlaklık düşmesini,
+iki değişim modunun üst üste bin-
+mesi (böylece daha büyük bir parlak-
+lık düşmesi ve süper minimum evre)
+ile açıklıyorlar. Buna ek olarak parlak-
+lık azalması için başka bir etkiden de
+bahsediliyor: Bu tür süper dev yıldız-
+Güneş, Betelgeuse ve diğer bazı yıldızların boyutlarının karşılaştırılması.
+Betelgeuse’ün yüzey
+görüntüsü (sağda)
+ve parlaklık değişimine
+neden olduğu tahmin edilen
+dev konvektif hücreleri
+içeren yüzey modeli (solda)
+(NASA)
+Betelgeuse
+Aldebaran
+Castor
+Sirius
+Rigel
+Güneş
+ların oldukça genişlemiş atmosferleri-
+nin dış kısımlarında çekim kuvvetinin
+azalması, maddenin bir kısmının kaç-
+ması ile sonuçlanıyor. Bu kaçan mad-
+denin bizim görüş açımızla yıldız ara-
+sında yoğunlaşmasının da zaman za-
+man parlaklık düşmesinde etkili oldu-
+ğu düşünülüyor.
+Avcı’nın sağ omzunda parlamaya de-
+vam eden Betelgeuse, araştırmacıla-
+rın ve gözü yukarıda olanların dikka-
+tini çekmeye devam ediyor. Bu dev,
+bugünlerde solgun yüzüyle gündem-
+de olsa da kısa zamanda kendini to-
+parlayacağı tahmin ediliyor! Gökbilim
+meraklıları, gözlerini Avcı’nın omzuna
+çevirirlerse, belki de kış aylarında çıp-
+lak gözle görülebilen bu devin tekrar
+uyanışına tanıklık edebilirler.
+Kaynaklar
+Edward F. Guinan, Richard J. Wasatonic (Villanova
+University) and Thomas J. Calderwood (AAVSO),
+“The Fainting of the Nearby Red Supergiant
+Betelgeuse“, The Astronomer’s Telegram, ATel
+#13341, 8 Dec 2019.
+Edward F. Guinan, Richard J. Wasatonic (Villanova
+University) and Thomas J. Calderwood (AAVSO),
+“Updates on the “Fainting” of Betelgeuse“, The
+Astronomer’s Telegram, ATel #13365, 23 Dec 2019.
+https://www.skyandtelescope.com/observing/
+fainting-betelgeuse/
+
+--- Sayfa 93 ---
+Merkür: Günbatımından hemen
+sonra batı ufkuna yakın gözlenebile-
+cek olan gezegen oldukça parlak gö-
+zükecek. Gezegen gökyüzünde gide-
+rek Güneş’e yaklaşacağından ayın
+ikinci yarısından sonra gözlenmesi
+zor olacak. Ay sonuna doğru geze-
+gen Güneş’in batısına geçmeye baş-
+layacak ve sabah gökyüzünde görü-
+lebilecek.
+
+Venüs: Bu ay boyunca yine akşam-
+ları gökyüzünün en parlak gezege-
+ni olacak. İki saati bulan sürelerle
+günbatımından itibaren batı gökyü-
+zünde gözlenebilecek olan gezegen
+ayın 27’sinde ilk dördün evresindeki
+Ay’ın hemen üzerinde olacak.
+Mars: Sabahları gündoğumundan
+önce güneydoğu bölgesinde Jüpiter ve
+Satürn ile gökyüzünün aynı bölgesini
+paylaşan gezegenin yüksekliği ve par-
+laklığı fazla olmasa da üç saate varan
+sürelerle gözlenebilecek.
+
+Jüpiter: Sabahları gündoğumundan
+önce doğuda alçak bir şekilde göz-
+lenebilecek olan gezegen oldukça
+parlak gözükecek. Günler ilerledik-
+çe gökyüzünde Güneş’ten olan ayrı-
+lığını artıran gezegenin gözlem süre-
+si de artacak.
+Satürn: Jüpiter ve Mars ile aynı böl-
+geyi paylaşan gezegen, ay boyunca
+gündoğumundan önce doğuda göz-
+lenebilecek fakat ufuktan fazla yük-
+selemeyecek. Parlaklığı fazla olma-
+yan gezegenin günler ilerledikçe göz-
+lem süresi yavaş yavaş artacak.
+1 Şubat 23:00
+15 Şubat 22:00
+29 Şubat 21:00
+   Gezegenler
+92
+Ayın Önemli Gök Olayları
+01 Şubat
+Uranüs ve Ay birbirine
+
+yakın konumda
+10 Şubat
+Merkür en büyük doğu
+
+uzanımında (180)
+10 Şubat
+Ay Dünya’ya en yakın
+
+konumunda (361.270 km)
+18 Şubat
+Mars ve Ay birbirine
+
+yakın görünümde
+20 Şubat
+Satürn, Jüpiter ve Ay
+
+birbirine yakın konumda
+26 Şubat
+Ay Dünya’ya en uzak
+
+konumunda (406.275 km)
+27 Şubat
+Venüs ve Ay
+
+yakın konumda
+28 Şubat
+Uranüs ve Ay
+
+yakın konumda
+20 Şubat sabahı gündoğumu öncesi
+güneydoğu ufku
+KUZEY
+GÜNEY
+BATI
+DOĞU
+Betelgeuse
+Satürn
+Ay (x4)
+Jüpiter
+Mars
+
+--- Sayfa 94 ---
+Soruyu çözüp cevabı
+ad, soyad ve adres bilgileri ile birlikte
+bteknik@tubitak.gov.tr adresine
+gönderenler arasından
+çekilişle belirlenecek beş kişiye
+TÜBİTAK Popüler Bilim Kitapları
+Yayınları’ndan bir kitap
+hediye edeceğiz:
+Bu ay:
+Bir Matematikçinin Savunması
+Çözümü ile birlikte gönderilmeyen cevaplar
+değerlendirmeye alınmayacaktır.
+Doğru çözüm ve çekiliş sonuçları
+dergimizin sosyal medya hesaplarından
+(facebook ve twitter) önümüzdeki ayın ilk
+haftasında duyurulacak
+(www.bilimteknik.tubitak.gov.tr).
+Prof. Dr. Azer Kerimov  [ bteknik@tubitak.gov.tr
+Bilkent Üniversitesi Fen Fakültesi
+Matematik Bölümü
+Ayın Sorusu
+(Matematik)
+12 cücenin yaşadığı bir çiftliği ziyaret eden Keloğlan,
+çiftlikte 12 gece geçirip kaldığı her akşam için bir
+davet yemeği düzenliyor ve her yemeğe
+bütün cüceleri davet ediyor.
+Bütün cüceler de Keloğlan’ın davetine icabet ederek
+12 gün boyunca tüm davetlere katılıyorlar.
+Akşam yemeklerinin tamamı düzenlendikten sonra
+Keloğlan tüm cücelerin bütün akşam yemeklerine
+başlarında kavuklarla katıldığını ve her bir akşam
+yemeğinde en fazla iki farklı renk kavuk gördüğünü
+fark ediyor.
+Çiftlikteki her bir cücenin birbirinden farklı renkte
+iki kavuğu varsa çiftlikteki 12 cücenin
+toplamda en fazla kaç farklı renkte kavuğu olabilir?
+Cücelerin Renkli
+Kavukları
+Bilim ve Teknik  Şubat 2020
+
+--- Sayfa 95 ---
+Emrehan Halıcı [ zeka.oyunlari@tubitak.gov.tr
+Zekâ Oyunları
+Göz Aldanması
+Baktığımız yere göre cevabı
+değişecek bir çizim.
+Hangisi Farklı
+Hangisi farklıdır?
+   A       B        C        D       E
+Basketbolcular
+1’den 6’ya kadar numaralandırılmış
+altı basketbolcunun üçü kısa boylu,
+üçü uzun boyludur.
+- 1 ve 2 numaralı oyunculardan
+  en az biri kısa boyludur.
+- 2 ve 3 numaralı oyunculardan
+  en az biri uzun boyludur.
+- 3 ve 4 numaralı oyunculardan
+  en az biri kısa boyludur.
+- 4 ve 5 numaralı oyunculardan
+  en az biri uzun boyludur.
+- 5 ve 6 numaralı oyunculardan
+  en az biri kısa boyludur.
+- 1 ve 3 numaralı oyunculardan
+  biri kısa boylu diğeri uzun
+  boyludur.
+Bu bilgilere göre her birinin
+boylarını bulunuz.
+Dört Basamaklı Sayı
+Dört basamaklı bir doğal sayının
+ilk iki rakamının oluşturduğu
+sayının karesi, ortadaki
+iki rakamın oluşturduğu sayının
+karesi ve son iki rakamının
+oluşturduğu sayının karesi
+toplandığında sayının
+kendisi elde ediliyor.
+Bu sayı kaçtır?
+Dizi
+Dört farklı doğal sayının ilk
+üçü aritmetik dizi, son üçü ise
+geometrik dizi oluşturuyor. Bu
+dört sayının toplamları en az
+ne olabilir?
+Not: Ardışık her iki terimin
+arasındaki farkın eşit olduğu
+diziye aritmetik dizi, ardışık
+her iki terimin aralarındaki
+oranın eşit olduğu diziye ise
+geometrik dizi denir.
+Harf Sayıları
+Bir sayının iki katının
+yazılışındaki harf sayısı kendi
+yazılışındaki harf sayısının
+yarısıdır. Bu özelliğe sahip en
+küçük doğal sayı 25’tir.
+(YİRMİ BEŞ – 8 harf,
+ELLİ – dört harf).
+Aynı özelliğe sahip olan,
+25’ten sonraki ilk doğal sayıyı
+bulunuz.
+Top
+Şekilde görülen düzenek
+oluşturulmuş ve üstteki delikten
+bir top bırakılmıştır. Topun D
+harfinin olduğu yuvaya düşme
+olasılığı nedir?
+Silindir ve İp
+Bir ipi şekilde görülen silindirin
+tabanından başlayarak iki kez
+sararak tavanına ulaştıracaksınız.
+Başlangıç ve bitiş noktaları
+taban ve tavan çemberlerinde
+aynı konumda olacak. Silindirin
+yüksekliği 12 birim, taban ve tavan
+çevresi 8 birim olduğuna göre bu
+işlem için gerekli ipin uzunluğu en
+az ne olabilir?
+Bilim ve Teknik  Şubat 2020
+Blok sayısı 5 mi, 9 mu?
+12
+Çevre = 8 birim
+  A      B      C      D      E       F       G
+
+--- Sayfa 96 ---
+2020 Soruları
+Cevap 1
+12 / 3 + 4 * 567 * 8 / 9 = 2020
+Cevap 2
+9 * 8 + 7 + 654 * 3 - 21 = 2020
+Cevap 3
+1 - 35 / 7 + 9 * 75 * 3 - 1 = 2020
+1 - 3 + 5 - 7 + 9 * 75 * 3 - 1 = 2020
+Cevap 4
+24 / 6 + 8 * 6 * 42 = 2020
+2 - 4 + 6 + 8 * 6 * 42 = 2020
+Cevap 5
+112 / 2 * 3 * 3 * 4 + 4 = 2020
+Ters-Düz
+90 tane.
+Soru İşareti
+B gelecek.
+Altı Nokta
+En fazla 9 yol çizilebilir.
+Bir çözüm örneği:
+Üçgeni Kapatan Kare
+İp Parçaları
+2/3.
+Herhangi bir uç seçildiğinde
+geriye kalan üç uçtan biri
+seçilen ipin diğer ucudur.
+Diğer iki uç ise ikinci ipin uçlarıdır
+ve bağlandığında
+tek parça ip elde edileceği için
+olasılık 2/3’tür.
+Boş Kare
+52.
+Birinci rakam o ayın kaç harf olduğunu,
+ikinci rakam ise kaçıncı ay olduğunu
+gösteriyor.
+Yarış
+Cenk
+Altı “L”
+Geçen Sayının Çözümleri
+Mavi dik üçgende Pisagor bağıntısını kullanarak,
+(y-a)2 + (y-a)2 = 1
+2 (y-a)2 = 1
+2a2 - 4a y + 2y2 = 1
+2a2 + 2y2 = 1+ 4a y
+Sarı dik üçgende a2 + y2 = 1 olduğu için
+2 = 1 + 4a y
+a y =             a =
+denklemlerde yerine konarak y ve a değerleri için
+
+1
+4
+2- 3
+2
+ve
+bulunur, y > a olduğu için
+1
+4 y
+2+ 3
+2
+y =                  ve karenin alanı
+2+ 3
+2
+y2 =                olarak bulunur.
+2+ 3
+4
+Altı “L”
+Altı “L” parçasını bir araya getirerek sağdaki şekli elde ediniz.
+Parçalar döndürülebilir ve ters çevrilebilir.
+Kare
+Şekildeki beş parçadan
+dördü bir araya getirilerek
+bir kare oluşturulabilir.
+Kullanılmayan parça hangisidir?
+95
+y-a
+y-a
+a
+y
+1
+1
+1
+
+--- Sayfa 97 ---
+İlay Çelik Sezer  [ TÜBİTAK Bilim ve Teknik Dergisi
+Yayın Dünyası
+Bilim Güzeldir
+Mikroskop Altında İnsan Vücudu
+Colin Salter
+Çeviri: Hira Doğrul
+TÜBİTAK Popüler Bilim Kitapları,
+Yetişkin Kitaplığı, 2019
+İnsan vücudunun mikroskobik unsurları
+son derece büyüleyici, aynı zamanda
+çok güzeldir. Bu müthiş derleme,
+insan vücudunun teknolojinin mümkün kıldığı
+en muhteşem mikroskobik görüntülerinden
+bir kısmını gün yüzüne çıkarıyor.
+Kitapta görsellerde yer alan hücreler ve
+yapılarla ilgili açıklamaların yanı sıra
+bunların elde edilmesinde kullanılan
+mikroskobik görüntüleme yöntemleriyle de
+ilgili sade açıklamalar yer alıyor.
+İster bir beyaz kan hücresinin faaliyeti,
+ister insan hormonlarının gücü
+isterse de kafein kristallerinin tuhaf güzelliği
+olsun, bu hayret uyandıran görüntüler
+insan vücudunu daha derinlemesine
+keşfetmenizi sağlayacak.
+Bilim ve Teknik  Şubat 2020
+İlk Adımlar - Üç Ayı
+KIM Cecil, Mique Moriuchi
+Çeviri: Yasemin Şahin
+TÜBİTAK Popüler Bilim Kitapları,
+2 yaş+, 2018
+İki ve üzeri yaş grubuna hitap eden “İlk Adımlar”
+serisi renkler, sayılar, şekiller, çizgiler, yaşam
+döngüsü ve uyku gibi konuları kısa hikâyelerle
+betimliyor. Çocukların yaratıcı ve analitik düşünme
+becerilerinin oluşumuna katkı sağlayacak serinin
+eğlenceli ve rengârenk resimlerle dolu sayfaları
+minik okurları cezbedici nitelikte.
+Bilimin Patlama Çağı
+Bell ve Telefonun Bilimi
+Brian Williams
+Çeviri: Cengiz Adanur
+TÜBİTAK Popüler Bilim Kitapları,
+10 yaş+, 2019
+Bilim insanlarına kulak verin:
+- Yoğurt kapları ve tel parçalarıyla basit bir telefon
+  yapabilirsiniz!
+- Fiber optik kablolardaki ışık sinyalleri ile
+  ses gönderilebilir!
+- Megafonun konik şekli, ses dalgalarının
+  dağılmasını önler ve sesin uzağa gitmesini sağlar!
+- Cep telefonları, sesleri radyo dalgalarıyla iletir!

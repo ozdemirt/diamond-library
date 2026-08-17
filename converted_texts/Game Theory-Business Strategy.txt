@@ -1,0 +1,1489 @@
+--- Sayfa 1 ---
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/46540815
+AN INTRODUCTION TO GAME THEORY AND BUSINESS STRATEGY
+Article  in  Journal of Applied Corporate Finance · June 2000
+DOI: 10.1111/j.1745-6622.2000.tb00056.x · Source: RePEc
+CITATIONS
+16
+READS
+27,712
+3 authors, including:
+Clifford W. Smith
+University of Rochester
+148 PUBLICATIONS   26,644 CITATIONS
+SEE PROFILE
+Jerold L. Zimmerman
+University of Rochester
+88 PUBLICATIONS   18,913 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Clifford W. Smith on 05 March 2018.
+The user has requested enhancement of the downloaded file.
+
+--- Sayfa 2 ---
+Journal of Applied Corporate Finance
+
+ S U M M E R 2 0 0 0
+V O L U M E 1 3 . 2
+
+An Introduction to Game Theory and Business Strategy
+
+by James Brickley, Clifford Smith, and Jerold Zimmerman,
+
+University of Rochester
+
+--- Sayfa 3 ---
+84
+BANK OF AMERICA      JOURNAL OF APPLIED CORPORATE FINANCE
+AN INTRODUCTION TO
+GAME THEORY AND
+BUSINESS STRATEGY
+by James Brickley,
+Clifford Smith, and
+Jerold Zimmerman,
+University of Rochester*
+he Boeing Company and Airbus Industrie
+(a consortium of four European firms)
+manufactured most of the world’s large
+commercial jetliners in the 1990s.1 In
+T
+*This is a shortened form of Chapter 9 in the recently published second edition
+of the author’s book, Managerial Economics and Organizational Architecture
+(Irwin/McGraw-Hill, 2001).
+1990s was to be overtly negative toward Boeing. One
+Airbus brochure depicted the Boeing 777 as an aging
+stretch limousine painted like a yellow taxicab, while
+the Airbus craft was pictured as a Mercedes luxury
+sedan. In another ad, Airbus pointed out that the
+Boeing 737 entered service in 1968, the same year
+Richard Nixon first was elected President of the
+United States. Perhaps not surprisingly, Boeing
+produced negative advertisements of its own. In
+choosing its advertising policy, Airbus presumably
+had to consider whether a negative campaign was
+value-maximizing given Boeing’s likely response.
+Similarly, Boeing had to consider Airbus’s response
+in choosing its actions.
+Game theory provides a useful set of tools for
+managers to use when considering the responses of
+rivals in decision-making. This article describes the
+basic theory and shows how managers might use
+these tools in setting strategy. This analysis also
+provides managers with a richer understanding of
+competition within different market settings. For
+example, it provides insights into why there is fierce
+competition in some concentrated industries (such
+as commercial aircraft), whereas in others the com-
+petition is more benign. Although we focus primarily
+on interactions among rival firms in product markets,
+these concepts also are useful to managers when
+dealing with other parties, such as suppliers, em-
+ployees, or government officials.
+1. Details for this example are from: A. Bryant (1997), “The $1 Trillion
+Dogfight,” The New York Times (March 23) 3.1; and M. Freudenheim and J.
+Tagliabue (1998), “Regulators Investigating Price Increases by Boeing and Airbus,”
+The New York Times (November 27), C1.
+1998 Boeing, the long-standing market leader, had
+about a 60 percent market share and Airbus, about
+30 percent. With just two major companies in the
+market, one might expect that the firms would
+cooperate regularly, avoiding competition to in-
+crease prices and profits. In actuality, these compa-
+nies compete quite aggressively. During 1997 and
+the first part of 1998, prices of commercial jets
+dropped by about 20 percent. Boeing posted a $178
+million loss in 1997, and earnings at Airbus fell by 61
+percent to $147 million.
+Many of the world’s markets are like the
+commercial aircraft industry in that there are a few
+large firms who are the major players. Examples
+include soft drinks (Coke and Pepsi), U.S. domes-
+tic airlines (American, United, and Delta), copy
+machines (Canon and Xerox), candy (Hershey
+and Mars), and film (Kodak and Fuji). Even small
+firms often compete with an identifiable set of
+rivals and can act as the major players within a
+given market area. Consider two competing gaso-
+line stations in a small town.
+In this type of market, managers must consider
+rivals’ responses when making major decisions. For
+example, part of Airbus’s marketing plan in the late
+
+--- Sayfa 4 ---
+85
+VOLUME 13 NUMBER 2      SUMMER 2000
+GAME THEORY
+Game theory is concerned with the general
+analysis of strategic interaction. It focuses on optimal
+decision-making when all decision agents are as-
+sumed to be rational, with each attempting to
+anticipate the likely actions and reactions of its
+rivals.2 Although it began as a set of methods to
+analyze parlor games, this theory has evolved to the
+point where it is applied to study a wide variety of
+strategic interactions, ranging from politics to com-
+petitive strategy. In the pages that follow, we
+introduce its basic elements and apply them in the
+context of managerial decision-making.
+Sound managerial decision-making often requires
+“putting yourself behind your rivals’ desk.” Assuming
+rivals are rational and acting in their self-interest, what
+decisions are they likely to make and how are they likely
+to respond to your actions? A complicating factor is that
+rivals’ optimal choices typically will depend on their
+expectations of what you will do; their expectations in
+turn depend on their assessments of your expectations
+about them. This type of circularity or recursive thinking
+might appear to make the overall problem completely
+intractable. Yet, this situation is precisely where game
+theory is most useful.
+Strategic interactions can take a variety of forms
+and involve many players who choose among a variety
+of potential actions. In this article, we limit ourselves to
+simple two-player, two-action cases. This limitation
+allows us to depict strategic problems using convenient
+diagrams. The fundamental intuition and concepts
+developed in these basic cases readily extend to more
+complicated situations. Some problems involve simul-
+taneous decisions by rivals, whereas others involve
+sequential choices. We begin by examining strategic
+problems involving simultaneous choices. Later, we
+consider sequential problems. In some cases, interac-
+tion is expected to be repeated; in others, it is not.
+Throughout most of this article, we focus on problems
+where the interaction is not expected to be repeated.
+At the end of the article we briefly consider the
+implications of repeated interaction.
+SIMULTANEOUS-MOVE, NONREPEATED
+INTERACTION
+In strategic problems that involve simulta-
+neous moves, rivals must make decisions without
+knowledge of the decisions made by their com-
+petitors. Nonrepeated means that the interaction is
+presumed to occur only once. As an example,
+suppose that Boeing and Airbus are asked to
+submit sealed bids on the price of ten jet airliners
+to a foreign national airline. Both companies
+doubt that they will compete in similar ways in the
+future. Both companies can select either a high
+price or a low price. If one company bids high and
+the other bids low, the order goes to the low
+bidder; if both companies submit the same bid,
+they split the order. Each firm has the capacity to
+build all ten airplanes.
+Both companies privately choose their bids at
+the same time. The resulting payoffs (profits ex-
+pressed in millions of dollars) depend on both firms’
+choices; they are displayed in Figure 1. This type of
+diagram presents the potential payoffs from the
+interaction in what is called strategic form (also
+called normal form). Each cell presents the payoffs
+for a pair of decisions. The entry on the lower right
+of each cell is the profit for Airbus, and the entry on
+the upper left is for Boeing.
+Game Theorists Win the Nobel Prize
+In 1994, John Harsanyi, John Nash, and
+Reinhard Selten won the Nobel Prize for Econom-
+ics “for their pioneering analysis of the theory of
+non-cooperative games.” Their contributions have
+had an important impact not only on theoretical
+economics, but on business practice as well. Firms
+hire game theorists as consultants in formulating
+strategic decisions (for example, in government
+auctions, corporate takeovers, pricing, labor ne-
+gotiations, and competitive positioning). Several
+best-selling business books have illustrated how
+game theory can be used in everyday business
+decisions. Game theory now is taught at most
+major business schools.
+2. Game theory is divided into two branches. In cooperative games, players
+can negotiate binding contracts that allow them to plan and implement joint
+strategies. In this article, we focus on noncooperative games, where negotiation
+and enforcement of binding contracts is not possible. This type of game theory is
+often useful for analyzing managerial decision making.
+
+--- Sayfa 5 ---
+86
+JOURNAL OF APPLIED CORPORATE FINANCE
+Dominant Strategies
+A dominant strategy exists when it is optimal for
+a firm to choose that strategy no matter what its rival
+does. In Figure 1, both firms have a dominant
+strategy—choose the low price. To illustrate, con-
+sider Boeing’s position. If Airbus chooses a high
+price (right column), Boeing captures the entire
+order by submitting a low price. The resulting payoff
+of $1 billion is higher than the payoff of $750 million
+if both firms price high and split the order. If Airbus
+chooses a low price (left column), Boeing is clearly
+better off to price low and split the order. Its
+alternative is to price high and sell no planes.
+Examining the rows, the same logic holds for Airbus.
+Given these strong incentives, the likely outcome is
+for both firms to submit a low price. Note that the
+firms would be better off if they jointly were to
+submit high prices. But this outcome is unlikely
+without repeated interactions. (This problem has the
+same structure as the well-known prisoners’ di-
+lemma—or the “rivals’ dilemma,” as we will call it
+here.) As we discuss later, a “cooperative” outcome
+where both firms submit high prices without explicit
+collusion is more likely if their interaction is ex-
+pected to be repeated.
+This logic helps explain why Boeing and Air-
+bus frequently compete aggressively on price. Air-
+line orders frequently are measured in billions of
+dollars, so each sale is important. Further, custom-
+ers (normally commercial airline companies) have
+economic incentives to deal with a single major
+supplier of aircraft since this policy reduces the
+required inventory of spare parts, technician train-
+ing (maintenance personnel work only on one
+make of plane), and so on.3 Thus if Boeing or
+Airbus lose an order, it implies the loss of potential
+future orders as well. Just as in Figure 1, the
+companies have strong economic incentives to
+submit low bids to capture orders.
+Boeing and Airbus have particularly strong
+incentives to compete on price because each firm
+has the capacity to produce more output. Boeing has
+stated that it wants to win two-thirds of all new orders
+(slightly above its current level), whereas Airbus
+wants to win about 50 percent (substantially above
+its current level). These conflicting goals promote
+price competition as each firm tries to take orders
+from the other. If the rivals faced tighter capacity
+constraints, it is likely that there would be less price
+competition. For instance, in our simplified ex-
+ample, a firm clearly would be reluctant to lower the
+price to capture the full order if it lacked the capacity
+to produce all ten planes.
+Nash Equilibrium
+Firms do not always have dominant strategies.
+For instance, suppose in our example that the U.S.
+government places pressure on the foreign country
+to have its national airline purchase planes from
+Boeing (governments actually have done this for
+FIGURE 1
+STRATEGIC FORM
+In this case, Boeing and Airbus individually choose and
+simultaneously submit a bid price for 10 planes. They can
+submit either a high price or a low price. If one company bids
+high and the other bids low, the order goes to the low bidder;
+if both companies submit the same bid, they split the order. This
+diagram presents the possible profits from the interaction in
+strategic form (normal form). Each cell presents the payoffs of
+a pair of decisions. The entry on the lower right of each cell is
+the payoff for Airbus, whereas the entry on the upper left is for
+Boeing. Both firms have a dominant strategy (shaded cell)—
+choose a low price.
+Boeing: Low Price
+Boeing: Low Price
+Airbus: Low Price
+$500
+$500
+$1000
+$750
+$0
+$0
+$1000
+$750
+Airbus: Low Price
+Airbus: High Price
+Airbus: High Price
+Boeing: High Price
+Boeing: High Price
+3. Given these considerations, our assumption that if the bids are the same,
+the order is split between Boeing and Airbus should be questioned. Yet, if the buyer
+flips a coin and gives all the order to the lucky bidder whenever the bids are equal,
+the expected payoffs are the same as in Figure 1.
+
+--- Sayfa 6 ---
+87
+VOLUME 13 NUMBER 2      SUMMER 2000
+their domestic producers). The airline still splits the
+order when the bids are the same and awards Boeing
+the entire order if Boeing is the low bidder. But due
+to this political pressure, if Boeing bids high and
+loses the bid, the airline will buy four planes from
+Boeing at the high price on a side deal after
+purchasing the ten planes from Airbus at the low
+price. Figure 2 presents this new payoff structure.
+Choosing a low price is still a dominant strategy for
+Airbus. Boeing, however, does not have a dominant
+strategy. If Airbus prices high, it is optimal for Boeing
+to price low to capture the entire order, whereas if
+Airbus prices low, it is better for Boeing to price high
+and make the side deal.
+When dominant strategies do not exist, the con-
+cept of a Nash equilibrium is useful in predicting the
+outcome. A Nash equilibrium is a set of strategies (or
+actions) in which each firm is doing the best it can,
+given the actions of its rival. In Figure 2, the combina-
+tion of a low Airbus price and a high Boeing price is
+a Nash equilibrium. Neither firm would want to change
+its price given the price submitted by the other firm.
+A particular problem might have multiple Nash
+equilibria. Nash equilibria are not necessarily the
+outcomes that maximize the joint payoff of the
+players. For instance, in Figure 1 the outcome where
+both firms submit low prices is a Nash equilibrium.
+Yet both firms would be better off if they jointly
+submitted high prices.
+Identifying a Nash Equilibrium. The arrow
+technique4 provides a simple way to identify a Nash
+equilibria in such a problem. Consider the case in
+Figure 2. Start by assuming that Boeing will charge
+a low price (this is in the top row). Draw an arrow
+pointing to the maximum payoff that Airbus can
+achieve. This payoff (labeled #1) is in the cell where
+Airbus submits a low price (if the same payoff were
+to occur regardless of whether Airbus submits a high
+or low price, the arrow would point to both cells).
+Second, move to the bottom row and assume that
+Boeing submits a high price; again draw an arrow
+pointing to Airbus’s higher payoff (#2). Third, as-
+sume Airbus submits a low price (left column) and
+draw an arrow to Boeing’s higher payoff (#3).
+Stocklifting—A Dominant Strategy?
+In the spring of 1998, Midwest Quality Gloves,
+Inc., paid about $700,000 to Lowe’s Home Im-
+provement Stores (the number-two home-center
+chain behind Home Depot) for 225,000 pairs of
+gloves produced by competing firm, Wells Lamont.
+Midwest then sold the gloves for about $280,000
+to a firm that specializes in liquidating closed-out
+merchandise. The motivation for this transaction
+was to clear shelf space, allowing Lowe’s to
+restock the shelves with Midwest’s gloves.
+This practice, known as “stocklifting,” is
+increasing in popularity. Makers of everything
+from bicycle chains to party napkins are lifting
+truckloads of competitors’ products from large
+retail chains such as Kmart and Revco drugstores.
+Other stocklifting examples include cellular
+phones, power adapters, leather cases, pet toys,
+humidifiers, flashlights, faucets, and glue. The
+stocklifted merchandise is subsequently “dumped”
+for resale by faraway (sometimes foreign) retail-
+ers. The purpose in each case is to clear shelf space
+for the stocklifter’s products. To quote one execu-
+tive involved in this practice, “buybacks are a
+necessary evil in gaining market share.”
+From the standpoint of the manufacturer, this
+costly practice is potentially a dominant strategy.
+To quote one product manager, “It costs a ton of
+money, however, if you want to land a major retail
+account, you’re going to have to do it.”
+When competing manufacturers jointly en-
+gage in this practice, they can find themselves
+in a “rivals’ dilemma,” such as in our Boeing/
+Airbus example: They would each be better off
+if no one stocklifted. Given the private incen-
+tives of each firm, however, stocklifting is
+difficult to avoid. For instance, after purchasing
+stocklifted products from a company, one ma-
+jor liquidator makes “courtesy calls” to the
+victims, encouraging them to “return the favor”
+by working with his company.
+Source: Y. Ono, “Where are the Gloves? They Were Stocklifted by a Rival
+Producer,” The Wall Street Journal (May 15, 1998), A1.
+4. This technique is described in I. Png (1997), Managerial Economics
+(Blackwell: London).
+Many of the world’s markets are like the commercial aircraft industry in that there
+are a few large firms who are the major players. In this type of market, it is generally
+important for managers to consider rivals’ responses when making major decisions.
+
+--- Sayfa 7 ---
+88
+JOURNAL OF APPLIED CORPORATE FINANCE
+Finally, move to the right column and assume Airbus
+submits a high price; draw an arrow to Boeing’s
+higher payoff (#4). If a Nash equilibrium exists,
+arrows will point to the payoffs in both halves of the
+cell. In this problem, the Nash equilibrium is the
+shaded cell where Boeing submits a high price and
+Airbus submits a low price.
+Dominant strategies also can be identified by this
+technique. If the firm has a dominant strategy, arrows
+will point to the strategy for all actions by the rival firm.
+In this example, submitting a low price is a dominant
+strategy for Airbus: For each of Boeing’s possible
+actions the arrows point to submitting a low price.
+Management Implications. The power of a
+Nash equilibrium to predict the outcome in strategic
+situations stems from the fact that Nash equilibria are
+self-enforcing: They are stable outcomes. For in-
+stance, if Boeing can forecast Airbus’s choice (per-
+haps because it understands that Airbus has a
+dominant strategy), it is optimal for Boeing to choose
+its equilibrium action, a high price. And Airbus has
+no incentive to avoid its equilibrium choice, a low
+price. Thus, even if both firms can forecast the
+outcome, neither firm has an incentive to choose any
+other action.
+Although the idea of a Nash equilibrium is quite
+useful, it is not as powerful in predicting the outcomes
+of strategic interactions as the concept of a dominant
+strategy. When dominant strategies exist, there are
+strong private incentives to choose them regardless of
+what the other player does. Thus, it is quite predictable
+that rivals will choose dominant strategies. With a
+Nash equilibrium, your best choice generally is
+contingent on what you expect your rival to do.
+In many cases it is reasonable to expect that a
+Nash equilibrium will occur. This is more likely to be
+true when the rivals have more experience in similar
+strategic problems, have better information about
+each other, or when the Nash equilibrium is what is
+called a natural focal point.5 For example, consider
+the problem in Figure 2. If Boeing has reasonable
+information about potential payoffs and Airbus’s
+FIGURE 2
+NASH EQUILIBRIUM
+Boeing and Airbus individually submit prices for 10 planes. They
+can choose either a high price or a low price. If one company bids
+high and the other bids low, the order goes to the low bidder; if
+both companies make the same bid they split the order. If Boeing
+loses the bid, it sells four planes at the high price through a side
+deal. The arrow technique provides a simple way to identify a
+Nash equilibrium. Start by assuming that Boeing will submit a low
+price (the top row). Draw an arrow pointing to the maximum
+payoff that Airbus can achieve. This payoff (labeled #1) is in the
+cell where Airbus submits a low price (if the same payoff occurs
+regardless of whether Airbus submits a high or low price, the
+arrow would point to both cells). Second, move to the bottom row
+and assume that Boeing submits a high price; draw an arrow
+pointing to Airbus’s highest payoff (#2). Third, assume Airbus will
+charge a low price (left column) and draw an arrow pointing to
+Boeing’s highest payoff (#3). Fourth, move to the right column
+and assume Airbus submits a high price; draw an arrow pointing
+to Boeing’s highest payoff (#4). If a Nash equilibrium exists,
+arrows will point to the payoffs in both halves of the cell. In this
+case, the Nash equilibrium is where Boeing submits a high price
+and Airbus submits a low price—shaded cell. (Note: Airbus has
+a dominant strategy—submit a low price—both arrows point left.)
+5. A focal point exists when there is a reasonable and obvious way to behave.
+To illustrate how a Nash equilibrium could be a focal point, consider a game where
+two strangers are asked to raise a hand. Both players receive a large payoff if they
+stick up the same hand (both left hands or both right hands) and nothing if they
+raise opposite hands. Two Nash equilibria exist: (1) both raising left hands, (2) both
+raising right hands. Nonequilibrium outcomes occur when the players raise
+opposite hands. The Nash equilibrium of both raising right hands is potentially a
+focal point. Most people are right-handed. If one player expects that the other is
+likely to raise his right hand because he is right-handed, she will have the incentive
+to raise her right hand as well. Reciprocally, it is reasonable for the other player
+to follow the same logic. Thus this outcome is potentially much more likely than
+either the nonequilibrium outcomes or the Nash equilibrium of two left hands.
+Boeing: Low Price
+Airbus: Low Price
+$500
+#1: $500
+#4:
+$1000
+$750
+#3: $600
+$0
+#2: $1000
+$750
+Airbus: Low Price
+Airbus: High Price
+Airbus: High Price
+Boeing: High Price
+Boeing: Low Price
+Boeing: High Price
+
+--- Sayfa 8 ---
+89
+VOLUME 13 NUMBER 2      SUMMER 2000
+lack of political power within the specific country (it
+understands that there is a close working relation-
+ship between the local and U.S. governments), it will
+realize that Airbus has a dominant strategy to submit
+a low price. Boeing correspondingly will choose a
+high price—the Nash equilibrium. When rivals know
+little about the setting or each other and when there
+is not a natural focal point, outcomes other than Nash
+equilibria (nonequilibrium outcomes) are more likely
+to occur.
+Competition versus Coordination
+To this point, we have analyzed competitive
+interaction. In each case, at least one of the firms has
+an incentive to bid low to take sales from the other
+and garner additional profits. This potential gain
+comes at the expense of the other firm. Many
+strategic situations, however, involve coordination
+rather than competition.
+Consider the problem in Figure 3, in which
+Boeing and Airbus make simultaneous choices of
+new communication systems for their planes.6 Two
+technologies exist: Alpha and Beta. Both firms
+benefit if they choose the same technology. A
+common technology standard allows producers to
+exploit scale economies and increases the likelihood
+that other companies will invest to develop new
+enhancements for the system because they can sell
+to both companies. Similarly, companies are more
+likely to develop service capabilities and stock larger
+inventories of spare parts. The overall demand for
+Are Nash Equilibria Likely?
+Researchers have conducted many labora-
+tory experiments on how people act in strategic
+situations. One particular question of interest is
+“Do they choose Nash Equilibria?” The evidence
+suggests that the concept works relatively well in
+predicting behavior in simple single-move situa-
+tions—especially if the individuals have prior
+experience interacting in similar ways with differ-
+ent partners in the past. It appears to work less
+well in more complex situations (for example,
+situations that involve sophisticated mathematical
+calculations) and in repeated situations (we dis-
+cuss implications of repetition later in this article).
+Also it often fails where coordination is required
+and there are multiple equilibria, unless there is a
+natural focal point.
+Source: D. Davis and C. Holt (1993), Experimental Economics (Princeton
+University Press: Princeton, NJ).
+FIGURE 3
+COORDINATION GAME
+Boeing and Airbus make simultaneous choices of new
+communication systems for their planes. Two technologies
+exist: Alpha and Beta (payoffs in millions of dollars). Both firms
+benefit if they choose the same technology. Applying the arrow
+technique, we can see that there are two Nash equilibria: Alpha/
+Alpha and Beta/Beta (shaded cells).
+6. For example, suppose each company is working to introduce a new
+intermediate-capacity plane at next year’s Paris Air Show and each views its choice
+of communication technology as a critical selling point for their model. Each will
+have to commit to a technology at the design phase, and each might be reluctant
+to discuss such features with its rival before the new model is unveiled, possibly
+becauseit would communicate other proprietary design information.
+Boeing: Alpha
+Airbus: Alpha
+$100
+$100
+$50
+$100
+$50
+$50
+$50
+$100
+Airbus: Alpha
+Airbus: Beta
+Airbus: Beta
+Boeing: Beta
+Boeing: Alpha
+Boeing: Beta
+When dominant strategies do not exist, the concept of a Nash equilibrium is useful
+in predicting the outcome. A Nash equilibrium is a set of strategies (or actions) in
+which each firm is doing the best it can, given the actions of its rival.
+
+--- Sayfa 9 ---
+90
+JOURNAL OF APPLIED CORPORATE FINANCE
+planes also might be higher because airlines would
+have lower costs in learning a single system.
+Applying the arrow technique, we can see that
+there are two Nash equilibria: Alpha/Alpha and Beta/
+Beta. If precommitment communication is possible, it
+is quite likely that one of these equilibria will be
+reached. For instance, if both firms announce that they
+will choose Alpha, there is no private incentive to
+deviate from this choice. Coordination can prove more
+difficult in cases where precommitment communica-
+tion is costly and/or there are many players.
+Some strategic interactions involve elements of
+both competition and coordination. In the interactions
+problem in Figure 4, Boeing and Airbus benefit from
+choosing the same technology; again, there are two
+equilibria. But the companies are not indifferent be-
+tween the two. Boeing prefers the Alpha technology,
+whereas Airbus prefers the Beta technology (the tech-
+nologies are better matches for their particular aircraft
+design). Coordination in this setting can be more dif-
+ficult than in pure coordination problems, since the
+firms would like different outcomes. Nonetheless, if
+one of the firms is convinced of the choice the other
+firm is going to make, it has an economic incentive to
+follow suit and choose the same technology. Below we
+discuss ways that firms might be able to make credible
+statements regarding their upcoming choices.
+Mixed Strategies
+In the strategic problems we have examined
+thus far, firms have chosen one specific action (for
+FIGURE 4
+COORDINATION/COMPETITION GAME
+Boeing and Airbus must make simultaneous choices of new
+communication systems for their planes. Two technologies
+exist: Alpha and Beta (payoffs in millions of dollars). Both firms
+benefit if they choose the same technology. Applying the arrow
+technique, we can see that there are two Nash equilibria
+(shaded cells): Alpha/Alpha and Beta/Beta. Boeing prefers the
+Alpha/Alpha equilibrium, whereas Airbus prefers the Beta/Beta
+equilibrium.
+FIGURE 5
+MIXED STRATEGY
+Boeing and Airbus simultaneously must commit to an advertising
+campaign. The advertising can either focus on the negatives of
+the other company’s planes or the positive aspects of the
+company’s own planes (payoffs in millions of dollars). Boeing
+is the market leader and benefits when both firms choose the
+same strategy. Airbus does better when it can differentiate itself
+by choosing a different strategy. The arrow technique indicates
+that there is no equilibrium in pure strategies. There is a unique
+equilibrium in mixed strategies. In this equilibrium, each firm
+randomizes between the two campaigns (choosing each with a
+probability of .5).
+Boeing: Alpha
+Airbus: Alpha
+$100
+$50
+$40
+$50
+$25
+$40
+$25
+$100
+Airbus: Alpha
+Airbus: Beta
+Airbus: Beta
+Boeing: Beta
+Boeing: Alpha
+Boeing: Beta
+Boeing: Negative
+Campaign
+$10
+–$10
+–$10
+$10
+–$10
+$10
+$10
+–$10
+Airbus
+Negative Campaign
+Airbus:
+Positive Campaign
+Airbus:
+Positive Campaign
+Boeing: Positive
+Campaign
+Boeing: Negative
+Campaign
+Boeing: Positive
+Campaign
+Airbus:
+Negative Campaign
+
+--- Sayfa 10 ---
+91
+VOLUME 13 NUMBER 2      SUMMER 2000
+Coordination Problems with HDTV
+High Definition Televisions are digital and
+capable of displaying images at very high resolu-
+tion. When combined with a good sound system,
+HDTV can provide a theater-like experience. The
+introduction of HDTV into the marketplace was
+slowed by coordination problems between tele-
+vision networks and manufacturers. Both groups
+thought that they would benefit by the develop-
+ment of this product. However, neither wanted
+to be the first to commit. Network executives
+were quoted as saying that they were reluctant to
+move forward with plans for new programming
+until the television manufacturers committed them-
+selves to producing enough affordable sets to
+receive it. Yet manufacturers did not want to
+commit until the networks indicated that there
+would be enough digital programming for con-
+sumers to want to buy the sets. The situation was
+summed up in 1997 by a senior executive at CBS,
+“The networks are waiting to see what the TV
+makers are going to do, and the TV makers are
+waiting to see what the networks are going to
+do.” In this situation, there are two Nash equilib-
+ria: manufacturers and broadcasters both invest
+or neither invests. Due to coordination problems,
+firms may “get stuck” in the second equilibrium,
+even though both groups prefer the first. While
+the development of HDTV was slowed by coor-
+dination problems, it became a commercial real-
+ity by 1999. Manufacturers were selling the sets
+and broadcasting companies were providing more
+and more HDTV programming (the first equilib-
+rium). Nonetheless, for HDTV to become a widely
+adopted product, available programming had to
+increase and set prices had to decline. Their
+initial prices for the sets ranged from about
+$5,000 to $10,000.
+The coordination problems illustrated in this
+example arise frequently with new technologies.
+The overall value of a technology is usually higher
+when there are many users (there are network
+effects) and there is a common standard (for
+example, consider how much less valuable DVDs
+would be if there were several different incompat-
+ible formats and only a small number of users of
+any one type). Adopting a uniform standard can
+be difficult when there are numerous players with
+somewhat conflicting interests. Sometimes gov-
+ernments, joint ventures among firms, and indus-
+try trade groups play a constructive role in pro-
+moting common standards, thereby helping to
+realize a preferred equilibrium.
+Source: J. Brinkley, “Networks and Set Makers in Standoff over HDTV,”
+The New York Times (August 29, 1997), 5.
+example, a high or low price). This type of choice is
+known as a pure strategy. Sometimes it can pay to
+“randomize”; for example, choose a high price with
+probability p and a low price with probability (1–p).
+The benefit of this so-called mixed strategy derives
+from the element of surprise. For example, a foot-
+ball team does not want its opposing team to
+forecast its plays with 100 percent accuracy because
+it will field defenses specifically designed to stop
+the predicted plays. The team wants to mix up its
+plays and surprise the other team. This same logic
+can hold in business.
+Consider the strategic problem in Figure 5
+where Boeing and Airbus simultaneously must com-
+mit to an advertising campaign. The advertising
+might focus either on the negatives of the other
+company’s planes or the positive aspects of the
+company’s own planes. Boeing is the market leader
+and benefits more when both firms choose the same
+strategy. Airbus does better when it can differentiate
+itself by choosing a different strategy. The arrow
+technique indicates that there is no equilibrium in
+pure strategies. If the campaigns match, Airbus
+wants to change. If the campaigns do not match,
+Boeing wants to change.
+The problem has an equilibrium employing
+mixed strategies: Both firms randomize between the
+two actions with a probability of .5—they might base
+their actions on a coin flip. To understand why this
+is an equilibrium, consider the following logic.7 This
+7. All strategic interactions with a finite number of both players and actions
+have at least one Nash equilibrium in either pure or mixed strategies. In this article,
+we give examples of mixed strategies and discuss the general intuition behind the
+associated equilibria. More detailed discussion on how to solve for these equilibria
+can be found in Dixit and Nalebuff (1991), Chapter 7.
+A Nash equilibrium is more likely to occur when the rivals have more experience in
+similar strategic problems, have better information about each other, or when the
+Nash equilibrium is what is called a natural focal point
+
+--- Sayfa 11 ---
+92
+JOURNAL OF APPLIED CORPORATE FINANCE
+problem is what is called a zero-sum game: If Boeing
+gains $10, Airbus loses $10 and vice versa. Thus if one
+company has a positive expected payoff from their
+interaction, the other must have a negative expected
+payoff. If Boeing selects one of the campaigns with
+a probability greater than .5, Airbus can choose the
+other campaign with a probability of 1 and gain more
+than half the time. For instance, suppose Boeing
+chooses a positive campaign with a probability of .6,
+Airbus would gain 60 percent of the time by always
+choosing a negative campaign. Its expected payoff
+would be .6(10) + .4(–10) = 2 > 0. Boeing’s expected
+payoff would be .6(–10) + .4(10) = –2 < 0. The only
+way that Boeing can assure an expected payoff of
+zero is by randomizing between the two actions with
+equal probabilities.8 Symmetric logic holds for Air-
+bus. The outcome of both firms randomizing with a
+probability of .5 is a Nash equilibrium. Neither firm
+has an incentive to change its strategy given the
+strategy of the other firm.
+In equilibrium, a firm receives the same ex-
+pected payoff regardless of which of the campaigns
+it actually chooses. Thus if Boeing flips a coin that
+indicates it should choose a positive campaign, there
+is no reason to deviate and choose a negative cam-
+paign. In either case it gets the same expected payoff
+(zero). By definition, it would not be an equilibrium
+if either firm had an incentive to alter its choice.
+Managerial Implications
+Managers often make decisions in circumstances
+where the decision is not expected to be repeated
+and the payoff depends on the simultaneous deci-
+sions of other parties, be they rival firms, customers,
+suppliers, or employees. Potential examples include
+making a large investment decision to enter a new
+market or industry, pricing a new product, or making
+an acquisition bid for a firm.
+To summarize the managerial implications of
+our analysis, consider the case of Valerie Black, who
+must submit the bid for Boeing in our example. Val
+should perform the following calculations:
+Estimate the payoffs given each of her potential
+actions as well as those of her rival, Airbus.9
+Examine whether she has a dominant strategy—if
+so, she should employ it.
+Without a dominant strategy, she should make
+her best estimate of what Airbus will do and
+identify her corresponding best action (which
+might be a mixed strategy).
+Check whether the resulting outcome is a potential
+Nash equilibrium: Does the forecasted action of
+Airbus appear optimal from their viewpoint, given
+her proposed action? If so, her proposed action
+appears reasonable; if not, Val should reexamine the
+underlying assumptions of her initial forecast.
+A Mixed Strategy at Wimbledon
+Tennis players can serve either to an
+opponent’s backhand or forehand. The receiver
+can choose to move left or right in anticipation of
+the serve. Both the opponent and receiver want
+to mix their choices to catch the other off guard.
+For example, if the server always serves to the
+backhand, the receiver will know that it is best to
+favor that side. The server would then want to mix
+it up and serve to the opponent’s forehand. In a
+mixed-strategy equilibrium, the expected payoff
+to a given player is the same regardless of which
+action he actually ends up taking. Thus, if the
+server is mixing between serving to the receiver’s
+backhand and forehand, the likelihood of win-
+ning the point should be the same. To test whether
+the concept of a mixed-strategy equilibrium actu-
+ally explains the behavior of top tennis players,
+researchers recorded the results of serves in 10
+matches at Wimbledon. There, data supported
+the theory—the success rates with serves to
+either the forehand or backhand were virtually
+the same.
+Source: M. Walker and J. Wooders (1999), “Minimax Play at Wimbledon,”
+working paper, University of Arizona.
+8. If Boeing chooses each action with probability .5, the expected payoff is
+zero independent of Airbus’s strategy. Suppose Airbus chooses the positive
+campaign with probability p. The probability of Boeing matching the positive
+campaign is .5p (the probability of two independent events is the product of the
+individual probabilities of the events). Similarly the probability of matching a
+negative campaign is .5(1–p). Thus the likelihood of Boeing winning is .5p + .5(1–
+p) = .5. It correspondingly loses .5 of the time and has an expected payoff of zero.
+This is true independent of the p Airbus actually chooses.
+9. If she has many potential actions, she may wish to simplify the problem by
+focusing on a few key possibilities. Sometimes it is not feasible to quantify the
+payoffs. In these cases, managers can go through the following steps on a more
+qualitative basis.
+
+--- Sayfa 12 ---
+93
+VOLUME 13 NUMBER 2      SUMMER 2000
+Her forecast probably should be revised if it is
+based on the implicit assumption that Airbus is either
+dumb or irrational (for example, Airbus is unable to
+forecast a likely action on her part or incapable of
+assessing what is in its own best interests). In
+essence, Val should place herself behind her rival’s
+desk and ask what she would do if she worked for
+Airbus. She should recognize that Airbus undoubt-
+edly is trying to forecast her actions, as well. Is there
+some reasonable set of beliefs that Airbus might have
+about her actions that would motivate the firm to
+choose the action in the initial forecast—can it be
+rationalized? If not Val probably should revise the
+forecast. Since Val almost surely has less than perfect
+information about the factors affecting Airbus’s
+choice, she may misforecast what Airbus actually
+does. Nonetheless, her goal is simply to do the best
+she can, given her imperfect information. Sometimes
+it will pay to collect additional information about a
+rival to make a better-informed choice (when the
+expected incremental benefits of the new informa-
+tion are larger than its incremental costs).
+If Val is reasonably confident that Airbus will
+choose a nonequilibrium strategy (for example,
+Airbus has a track record of choosing a particular
+strategy in similar situations), it might be best for her
+to choose a nonequilibrium strategy as well. For
+instance, if she knows that Airbus will choose a
+particular action, she should choose the action that
+maximizes her payoff, even if the outcome is not a
+Nash equilibrium. The moral here is not that Val
+always should avoid nonequilibrium strategies, but
+that she should think carefully before selecting one.
+If Val is extremely risk averse and has little
+experience either dealing with this rival or managing
+in similar situations, one option is to choose a secure
+strategy—a strategy that guarantees the highest
+payoff given the worst possible case.10 In other
+words, she forecasts the worst payoff that could arise
+for each of her potential actions and chooses the
+action that offers the highest payoff among the worst
+payoffs. But following such a strategy generally will
+not maximize the value of the firm (for example, if
+the primary benefit is to guard against an unlikely
+outcome) and often she could do better with addi-
+tional analysis and thought.
+SEQUENTIAL INTERACTIONS
+Thus far, we have limited our attention to
+simultaneous-move strategic problems. Yet in many
+business situations managers make decisions se-
+quentially. For example, consider the problem in
+Figure 4 where Boeing and Airbus simultaneously
+chose new communication technologies. Decisions
+of this type often are made sequentially. For ex-
+ample, Boeing might choose the technology in one
+year, while Airbus chooses it in the next. As we shall
+Failure to Consider Strategic Interactions: The Paper Industry
+Bennett Stewart of Stern Stewart & Co. made
+the following point in a roundtable discussion
+with the CFO of International Paper:
+“I’m kind of fascinated by your industry
+because it does go through these cycles, and some
+part of that cyclical market behavior seems to be
+self-inflicted…When demand does rise, all the com-
+panies tend to throw piles of money into new
+capacity in attempts to maintain market share …
+then you all suffer together from excess capacity.
+The CFO responded:
+If you’re thinking about building a new paper
+facility, you’re going to base your decision on some
+assumptions about economic growth—and, as the
+result of globalization, the relevant growth mea-
+sure today is worldwide rather than just domestic
+or US growth. What we never seem to factor in,
+however, is the response of our competitors. Who
+else is going to build a plant or machine at the
+same time?
+Managers generally will make better deci-
+sions if they incorporate the responses of com-
+petitors into their analysis.
+Source: “Stern Stewart EVA Roundtable” Journal of Applied Corporate
+Finance (Summer 1994).
+10. Another name for this type of strategy is maximin.
+Some strategic interactions involve elements of both competition and coordination.
+Coordination can prove more difficult in cases where precommitment
+communication is costly and/or there are many players.
+
+--- Sayfa 13 ---
+94
+JOURNAL OF APPLIED CORPORATE FINANCE
+see, the equilibrium outcome of strategic interac-
+tions can vary, depending on whether they occur
+simultaneously or sequentially. For instance, in this
+technology choice problem, there are two possible
+equilibria given simultaneous choices, but only one
+given sequential choices.
+Extensive Form. Figure 6 displays this strategic
+interaction in extensive form assuming that Boeing
+moves first (for example, Boeing chooses the tech-
+nology for the new model it introduces at this year’s
+Paris Air Show, while Airbus will introduce its new
+model next year). The extensive form depicts the
+sequence of actions and the corresponding out-
+comes. A node indicates a point at which a firm must
+choose an action, while the branches leading from
+a node display possible choices at the node. At the
+first node (node 1) Boeing must choose between the
+Alpha and Beta technologies. Airbus makes the next
+move. Whether it is at node 2 or node 3 depends on
+Boeing’s initial choice. At either node Airbus must
+choose whether to adopt the Alpha or Beta technol-
+ogy. The numbers at the end of the final branches
+indicate the ultimate payoffs to Boeing and Airbus,
+given the sequence of choices made by the two
+firms. (These payoffs are the same as in Figure 4.) If
+both firms choose the Alpha technology, the payoffs
+are 100 for Boeing and 50 for Airbus (as in the upper
+left cell of Figure 4), while if they both choose the
+Beta technology the payoffs are reversed (as in the
+lower-right cell). Payoffs are lower for both firms
+when they choose different technologies.
+Backward Induction. We analyze this extensive
+form using backward induction—looking forward
+to the final decision nodes and reasoning backward.
+To illustrate, continue with the example in Figure 6.
+Begin at the final two nodes (2 and 3). At node 2,
+Airbus has an incentive to choose Alpha because it
+prefers the payoff of 50 to 40. At node 3, Airbus
+chooses Beta. Now move to the initial node. If
+Boeing foresees how Airbus will act at the final
+nodes, Boeing will see that it is in its best interests
+to choose Alpha in the initial stage. If it chooses
+Alpha, Airbus will do so as well and Boeing will
+receive 100. In contrast if Boeing chooses Beta,
+Airbus will match that choice and Boeing will receive
+a final payoff of 50. Thus, the equilibrium outcome
+is for Boeing to choose Alpha in the first stage with
+Airbus matching that choice in the second stage.
+The equilibrium strategy of a firm given sequen-
+tial strategic interaction consists of a sequence of its
+best actions, where the actions are taken at the
+corresponding nodes. In this problem, Boeing’s
+equilibrium strategy is to choose Alpha in the first
+stage, whereas Airbus’s equilibrium strategy is to
+choose Alpha in the second stage if Boeing chooses
+Alpha and Beta if Boeing chooses Beta. The strate-
+gies of the two firms are a Nash equilibrium: Neither
+firm wants to change its strategy given the other
+firm’s strategy.
+First-Mover Advantage
+In this example, Boeing has a first-mover ad-
+vantage: By moving first, Boeing makes higher
+profits than Airbus, who moves second. If Airbus
+moves first, the advantage is reversed. Knowing
+Boeing’s incentive to match the technology in the
+second stage, Airbus would choose Beta in the first
+round and receive higher profits. This example
+illustrates that managers must consider carefully the
+FIGURE 6
+EXTENSIVE FORM
+In this sequential game, Boeing chooses the technology first
+and then Airbus makes a choice. This diagram shows the game
+in extensive form. A node indicates a point at which a firm must
+choose an action, whereas the branches leading from a node
+indicate the possible choices. The numbers at the end indicate
+the payoffs (in millions of dollars) for Boeing and Airbus,
+respectively. The game is solved by backward induction. Given
+the payoffs, Airbus will choose Alpha at node 2 and Beta at node
+3. If Boeing forecasts these choices, it will choose Alpha at node
+1. Colored lines and type indicate equilibrium choices.
+Boeing
+Node 1
+Node 2
+Node 3
+α
+α
+α
+β
+β
+β
+Airbus
+Airbus
+Airbus
+Airbus
+Airbus
+Airbus
+Boeing
+Boeing
+Boeing
+Boeing
+100
+100
+50
+50
+40
+40
+25
+25
+
+--- Sayfa 14 ---
+95
+VOLUME 13 NUMBER 2      SUMMER 2000
+order of moves in strategic situations. When Boeing
+and Airbus make simultaneous choices, there are
+two potential equilibria. In the sequential game there
+is only one. The outcome, however, depends on
+who moves first.
+The first mover does not always have a strategic
+advantage. In some situations, the follower has the
+advantage. Consider a firm that cuts its development
+costs by copying product innovations by pioneering
+firms (or a football quarterback who gains an
+advantage by observing the opponent’s defense
+prior to calling a play).
+Strategic Moves
+Actions that are taken to influence the beliefs or
+actions of the rival in favorable ways are called
+strategic moves. Typically, they require individuals to
+restrict their own future actions. For example, prior
+to Boeing’s choice, if Airbus could make a binding
+commitment to choose Beta no matter what Boeing
+did, it then would be in Boeing’s interest to adopt the
+Beta technology in the first year.
+Credibility. Can Airbus offset Boeing’s first-
+mover advantage by simply announcing that it will
+adopt the Beta technology next year no matter what
+Boeing does this year? Boeing would clearly be better
+off to adopt the Beta technology if it really believed that
+Airbus would carry out its announced plan. Yet Boeing
+probably should ignore such a statement by Airbus
+because it is not credible. The statement lacks credibility
+specifically because it would not be in Airbus’s self-
+interest to carry out its announced plan if Boeing
+adopted the Alpha technology first. Airbus would be
+foolish to adopt the Beta technology after Boeing
+chooses the Alpha technology given its low payoff.
+For a strategic move to be credible, it must consist
+of a sufficient commitment to convince the rival to
+change its beliefs. Merely announcing a planned future
+action typically is not enough—talk is cheap. As an
+example of a potentially credible action, suppose that
+Airbus signs a contract with the manufacturer of the Beta
+technology to pay the supplier a large sum of money
+whether or not Airbus employs its technology in the
+following year. This contract is legally binding and
+expensive to renegotiate. Now Boeing has a substantive
+reason to believe that Airbus will carry through with its
+announced plan to adopt the Beta technology even if
+Boeing were to choose the Alpha system. If it does not,
+it still will have to pay a large sum of money to the
+supplier and thus would be worse off than if it matches
+Boeing by choosing the Alpha technology. If Boeing
+decides this announcement is credible, Boeing should
+adopt the Beta system in the first year.
+Managerial Implications
+Many strategic situations involve a sequence of
+actions by the rivals. Examples include management
+negotiations with a labor union and the dissemina-
+tion of a new product within an industry.
+To illustrate the management implications of
+our analysis of sequential strategic interactions,
+consider Helmut Mueller, the manager who must
+choose the communication technology for Airbus
+in the communication technology problem. Helmut
+should begin by defining carefully the sequence
+of moves. For example, he may have enough
+information to know that Boeing will choose a
+new technology this year, whereas Airbus’s pro-
+duction schedule will not allow it to make a choice
+until the following year. He then should work
+backward to predict the likely outcome of their
+interaction. Starting at the end of the process, he
+will realize that he will have a strong incentive to
+match Boeing’s choice in the second period.
+Moving to the first node, he should place himself
+behind a Boeing desk. He should realize that
+Boeing is likely to understand that Helmut will
+have strong incentives to match Boeing’s technol-
+ogy in the second period. Given this belief,
+Boeing will adopt the Alpha technology. Airbus is
+First-Mover Advantage: Wal-Mart
+Wal-Mart was the first company to place
+large discount stores in many small towns in the
+southeastern region of the United States (for
+instance, in Arkansas). Even though Wal-Mart
+has been quite profitable at these stores, other
+companies have been reluctant to place com-
+peting stores in the same towns. They realize
+that each town is big enough to support only
+one such store. If they did enter, they would
+have to compete with Wal-Mart and both would
+lose money. Thus Wal-Mart has a first-mover
+advantage in these communities.
+For a strategic move to be credible, it must consist of a sufficient commitment to
+convince the rival to change its beliefs. Typically, it requires acompany
+to restrict its own future actions.
+
+--- Sayfa 15 ---
+96
+JOURNAL OF APPLIED CORPORATE FINANCE
+less profitable with this outcome and thus would
+prefer the joint adoption of the Beta system. As a
+final step, he should analyze whether he could
+make any strategic moves that would influence
+the beliefs of Boeing managers and thus motivate
+them to adopt the Beta technology. He must
+realize that Boeing’s management is unlikely to
+believe a simple announcement that Airbus will
+choose the Beta technology in the future. Helmut
+might conclude that a contract with the Beta
+manufacturer would provide sufficient commit-
+ment to alter Boeing’s beliefs and choice. After
+entering this contract, it is important that Helmut
+make his action known to Boeing. For instance,
+Helmut might want to report the contract to the
+financial press.
+Strategic Behavior: NBA
+There was a major labor dispute between
+National Basketball Association players and
+team owners in 1998. Issues included the per-
+centage of revenues devoted to salaries, maxi-
+mum salary caps, rookie salaries, maximum
+annual raises, as well as several other items. The
+players’ union had delegated negotiating au-
+thority to a group of 19 players. The general
+membership of the union was to vote only on
+contract proposals endorsed by the negotiating
+group. The key negotiator on the owner’s side
+was David Stern, commissioner of the NBA.
+The first half of the season was canceled by
+a labor lockout as the two sides repeatedly
+exchanged contract proposals. By January 1999,
+the dispute had cost the league over a billion
+dollars in forgone revenue and the players over
+$500 million in salaries. Given the short life of
+the typical player’s career (around five years)
+the cost borne by the players was particularly
+high. The dispute also created significant ill will
+among NBA fans. At the beginning of January,
+Stern informed the players that he would not
+consider their “final offer,” would recommend
+to the owners that they cancel the rest of the
+season and would begin looking for replace-
+ment players for the following year. The sea-
+son, however, would be played if the players
+accepted the owner’s “final” offer.
+Stern’s threat to end the season was a
+strategic move to motivate the players to settle
+the dispute. Was this move credible? After all,
+canceling the season also would impose signifi-
+cant costs on the owners. Apparently the play-
+ers’ negotiating group thought that the threat
+had merit. Following Stern’s announcement,
+the negotiating group decided to allow the full
+470 members of the union to vote on the
+owner’s proposal. This action was something
+that Stern had wanted all along but the negoti-
+ating group had refused. However, Stern did
+back off on his commitment not to consider
+new proposals from the union. Prior to the final
+vote, a union attorney called the commissioner’s
+office and indicated that the players were
+prepared to vote to cancel the remainder of the
+season. However, a last minute deal was still
+possible if the NBA owners “gave some ground.”
+After an all-night bargaining session, a deal was
+reached and the labor dispute settled.
+Source: S. Fatsis, “NBA, Players Reach Accord, Saving Season,” The Wall
+Street Journal (January 7, 1999), A3.
+It Pays to Think Sequentially
+According to a story that frequently has
+circulated over the Internet, two college students
+drove to an out-of-town basketball game the day
+before an important exam. The students drank too
+much and were unprepared to take the test. Rather
+than flunk the exam, they decided to tell the
+teacher that a flat tire delayed their return. Being
+the understanding type, the professor said, “No
+problem; take the test tomorrow.” The students
+arrived the next day to take the exam; they were
+put into separate rooms. The first question, worth
+5 points, was quite easy. But confidence turned to
+apprehension as each student turned to the next
+question, worth 95 points, that simply asked,
+“Which tire?” If the students had thought ahead more
+carefully, they would have behaved differently.
+
+--- Sayfa 16 ---
+97
+VOLUME 13 NUMBER 2      SUMMER 2000
+REPEATED STRATEGIC INTERACTION
+Many strategic situations involve repeated inter-
+action among rivals. For example, Boeing and Airbus
+have many opportunities to compete against each
+other to supply commercial jet aircraft. Indeed many,
+if not most, companies deal with the same competi-
+tors, suppliers, employees, and regulators over ex-
+tended periods of time.
+When interaction is expected to occur repeat-
+edly, more equilibria frequently are possible. For
+instance, recall the situation illustrated in Figure 1. In
+this problem, Boeing and Airbus make bids to
+produce ten airplanes. The dominant strategy is for
+both to bid low, even though they would be better
+off if both bid high—a rival’s dilemma. With repeated
+interaction, the equilibrium still might consist of both
+firms’ pricing low. However, other equilibria, such as
+both firms’ pricing high, are possible. The basic idea
+is that with repeated interaction, there is more to
+consider than the short-run payoffs. The decision-
+maker also has to consider the potential benefits of
+establishing a long-term cooperative relationship.11
+The likelihood of a “cooperative” outcome increases
+if (1) the long-run gains from cooperating are larger
+relative to the short-run gains from not cooperating
+(assuming the other firm does), (2) it is easier for the
+firms to recognize whether or not cooperation has
+occurred, and (3) the expected length of the re-
+peated relationship is longer. Discount rates also are
+important (higher discount rates imply that the
+decision maker cares more about present payoffs
+relative to future payoffs).
+SUMMARY
+In this article we introduce the basic elements
+of game theory within the context of forging busi-
+ness strategy. A firm’s optimal strategy generally
+depends on its forecast of the actions that will be
+selected by its rivals. The primary value of game
+theory stems from its focus on strategic interaction:
+decision-making when all participants are presumed
+rational, each attempting to anticipate likely actions
+and reactions by its rivals.
+In our discussion, we employ extremely simple
+examples of two rivals considering only two actions.
+Most business problems are much more complex.
+Although technical challenges mount as the number
+of rivals and the range of their potential actions
+increase, some of the basic insights from this intro-
+duction to game theory appear quite robust.
+Understand your business setting. Identify the
+relevant set of rivals and the nature of their interac-
+Boeing and Airbus Accused of Price Collusion
+On July 21, 1998, Boeing raised prices on its
+aircraft by five percent, its first price increase in 23
+years. Airbus followed with a three-percent in-
+crease in September. Antitrust regulators in Wash-
+ington and at the European Union in Brussels
+almost immediately began separate investigations
+of whether the two companies had engaged in
+price fixing. Both companies vehemently denied
+the allegations.
+Game theory implies that a cooperative
+equilibrium is possible given repeated interac-
+tion without explicit communication or collu-
+sion. One interpretation of the price increases
+is that the two firms had moved from cutthroat
+competition where both firms were losing money
+to a more cooperative equilibrium. Experience
+suggests, however, that cooperative equilibria
+are not always easy to sustain. Consider the
+difficulties experienced by OPEC in trying to
+restrict output to maintain high oil prices or the
+American airline industry in avoiding price
+wars. It will be interesting to see if Boeing and
+Airbus engage in vigorous price competition in
+the future.
+Source: M. Freudenheim and J. Tagliabue, “Regulators Investigating Price
+Increases by Boeing and Airbus,” The New York Times (November 27, 1998),
+C1.
+11. Generally, it is important to have an uncertain ending date in the repeated
+relationship. If there is a finite ending date, both you and your rival are likely to
+realize that there is no incentive for either of you to cooperate in the last interaction.
+Then both of you will have an incentive not to cooperate in the next to the last
+interaction (since your reputation for cooperating will not matter in the last round).
+Yet if this is true there is no incentive to cooperate in the interactions before. The
+final result can be no cooperation in the first interaction. If on the other hand the
+date of the final interaction is uncertain, there always can be some reason to
+cooperate.
+With repeated interaction, there is more to consider than the short-run payoffs.
+The decision-maker also has to consider the potential benefits of establishing
+a long-term cooperative relationship.
+
+--- Sayfa 17 ---
+98
+JOURNAL OF APPLIED CORPORATE FINANCE
+tion. What are their potential actions? What informa-
+tion will they have when they choose their actions?
+What are the consequences of their various actions?
+Is similar interaction among these rivals likely to be
+repeated either over time or across other markets?
+Place yourself behind your rival’s desk. Absent
+specific reasons to believe otherwise, assume that
+your rival is knowledgeable, thoughtful, and pur-
+poseful, and ensure that your forecast of its future
+actions are consistent with that assumption.
+Look forward, reason backward. Consider the
+entire sequence of decisions that are likely to be
+made over the course of this interaction. Look
+forward to the ultimate set of potential outcomes and
+then reason backward to determine your best strat-
+egy. This process identifies critical choices that your
+rivals face and highlights why you should under-
+stand the basis for their choices.
+With a first-mover advantage, move first. If the
+business setting does not naturally permit you to
+implement your action first, consider whether
+you can credibly precommit to a particular action.
+Effective precommitment, by convincing your
+rivals of your future actions, can induce them to
+change their actions. This logic highlights the fact
+that maintaining flexibility undercuts your ability
+to precommit—in this sense, flexibility can be
+quite expensive.
+With a second-mover advantage, avoid moving
+first. Delay implementation of actions where pos-
+sible. Try to reduce the predictability of your ac-
+tions. Finally, if you have to implement an action,
+maintain as much future flexibility to change your
+actions as possible.
+Repetition facilitates cooperation. With repeated
+interaction among a given group of rivals, a broader
+array of choices typically is appropriate. Some form
+of cooperation is more likely where interaction is
+expected to be repeated either over time or
+across markets.
+JAMES BRICKLEY
+is the James Gleason Professor of Economics and Finance at the
+University of Rochester’s William E. Simon Graduate School of
+Business Administration.
+CLIFFORD SMITH
+is the Louise and Henry Epstein Professor of Finance at the
+University of Rochester’s William E. Simon Graduate School of
+Business Administration.
+JEROLD ZIMMERMAN
+is the Ronald Bittner Professor of Accounting at the University
+of Rochester’s William E. Simon Graduate School of Business
+Administration.
+
+--- Sayfa 18 ---
+Journal of Applied Corporate Finance (ISSN 1078-1196 [print], ISSN
+1745-6622 [online]) is published quarterly on behalf of Morgan Stanley by
+Blackwell Publishing, with ofﬁces at 350 Main Street, Malden, MA 02148,
+USA, and PO Box 1354, 9600 Garsington Road, Oxford OX4 2XG, UK. Call
+US: (800) 835-6770, UK: +44 1865 778315; fax US: (781) 388-8232, UK:
++44 1865 471775, or e-mail: subscrip@bos.blackwellpublishing.com.
+Information For Subscribers For new orders, renewals, sample copy re-
+quests, claims, changes of address, and all other subscription correspon-
+dence, please contact the Customer Service Department at your nearest
+Blackwell ofﬁce.
+Subscription Rates for Volume 17 (four issues) Institutional Premium
+Rate* The Americas† $330, Rest of World £201; Commercial Company Pre-
+mium Rate, The Americas $440, Rest of World £268; Individual Rate, The
+Americas $95, Rest of World £70, Ð105‡; Students**, The Americas $50,
+Rest of World £28, Ð42.
+*Includes print plus premium online access to the current and all available
+backﬁles. Print and online-only rates are also available (see below).
+†Customers in Canada should add 7% GST or provide evidence of entitlement
+to exemption
+
+‡Customers in the UK should add VAT at 5%; customers in the EU should also
+add VAT at 5%, or provide a VAT registration number or evidence of entitle-
+ment to exemption
+** Students must present a copy of their student ID card to receive this
+rate.
+For more information about Blackwell Publishing journals, including online ac-
+cess information, terms and conditions, and other pricing options, please visit
+www.blackwellpublishing.com or contact our customer service department,
+tel: (800) 835-6770 or +44 1865 778315 (UK ofﬁce).
+Back Issues Back issues are available from the publisher at the current single-
+issue rate.
+Mailing Journal of Applied Corporate Finance is mailed Standard Rate. Mail-
+ing to rest of world by DHL Smart & Global Mail. Canadian mail is sent by
+Canadian publications mail agreement number 40573520. Postmaster
+Send all address changes to Journal of Applied Corporate Finance, Blackwell
+Publishing Inc., Journals Subscription Department, 350 Main St., Malden, MA
+02148-5020.
+Journal of Applied Corporate Finance is available online through Synergy,
+Blackwell’s online journal service which allows you to:
+•  Browse tables of contents and abstracts from over 290 professional,
+science, social science, and medical journals
+•  Create your own Personal Homepage from which you can access your
+personal subscriptions, set up e-mail table of contents alerts and run
+saved searches
+•   Perform detailed searches across our database of titles and save the
+search criteria for future use
+• Link to and from bibliographic databases such as ISI.
+Sign up for free today at http://www.blackwell-synergy.com.
+Disclaimer The Publisher, Morgan Stanley, its afﬁliates, and the Editor cannot
+be held responsible for errors or any consequences arising from the use of
+information contained in this journal. The views and opinions expressed in this
+journal do not necessarily represent those of the Publisher, Morgan Stanley,
+its afﬁliates, and Editor, neither does the publication of advertisements con-
+stitute any endorsement by the Publisher, Morgan Stanley, its afﬁliates, and
+Editor of the products advertised. No person should purchase or sell any
+security or asset in reliance on any information in this journal.
+Morgan Stanley is a full service ﬁnancial services company active in the securi-
+ties, investment management and credit services businesses. Morgan Stanley
+may have and may seek to have business relationships with any person or
+company named in this journal.
+Copyright © 2004 Morgan Stanley. All rights reserved. No part of this publi-
+cation may be reproduced, stored or transmitted in whole or part in any form
+or by any means without the prior permission in writing from the copyright
+holder. Authorization to photocopy items for internal or personal use or for the
+internal or personal use of speciﬁc clients is granted by the copyright holder
+for libraries and other users of the Copyright Clearance Center (CCC), 222
+Rosewood Drive, Danvers, MA 01923, USA (www.copyright.com), provided
+the appropriate fee is paid directly to the CCC. This consent does not extend
+to other kinds of copying, such as copying for general distribution for advertis-
+ing or promotional purposes, for creating new collective works or for resale.
+Institutions with a paid subscription to this journal may make photocopies for
+teaching purposes and academic course-packs free of charge provided such
+copies are not resold. For all other permissions inquiries, including requests
+to republish material in another work, please contact the Journals Rights and
+Permissions Coordinator, Blackwell Publishing, 9600 Garsington Road, Oxford
+OX4 2DQ. E-mail: journalsrights@oxon.blackwellpublishing.com.
+View publication stats

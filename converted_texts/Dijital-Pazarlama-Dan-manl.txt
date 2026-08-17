@@ -1,0 +1,351 @@
+--- Sayfa 3 ---
+Tüm hakları saklıdır. Bu yayının herhangi bir bölümü, yazarın önceden izni olmaksızın, hiçbir
+formatta ve hiçbir amaçla çoğaltılamaz, dağıtılamaz, yayılamaz, bir veri tabanı veya bilgi
+kurtarma sisteminde saklanamaz.
+Bu e-kitap sadece sizin kullanımınız için lisanslanmıştır. Bu e-kitap başkalarına tekrar satılamaz
+veya verilemez.
+Eğer bu kitabı paylaşmak istiyorsanız lütfen her birey için bir kopya satın alın. Eğer bu kitabı
+okuyorsanız fakat satın almadıysanız veya sadece sizin kullanımınız için satın alınmadıysa
+lütfen satın alan kişiye iade edin ve kendinize bir kopya satın alın.
+
+Copyright © 2021 Gurkanzone
+
+--- Sayfa 4 ---
+İÇİNDEKİLER
+
+●Başlamadan Önce……………………………..
+
+●Dijital Pazarlama Nedir.………………………..
+
+●Dijital Pazarlama Türleri……………..……….
+
+●Sosyal Medya Pazarlamacılığı……………….
+
+●Not………………………………………………...
+
+●Ben Kimim……………………………………….
+
+--- Sayfa 5 ---
+BAŞLAMADAN ÖNCE
+
+Bu Kitap Neden Hazırlandı
+
+Bu rehber niteliğindeki kitap gelişen dijitalin pazarlama alanın kullanılarak nasıl iş
+kurulabileceğini göstermek için hazırlandı. Dijital dünya -ve dolayısı ile dijital pazarlama-
+hayatımızda bu kadar etkin olmasına rağmen piyasada dijital pazarlamayı anlatan,
+algoritmalardan bahseden ve bunun üzerine meslek kurmayı anlatacak bir okul yok.
+Dolayısı ile bu eksikliği tamamen kendi çabası ile çalışanlar ve bu işe gönül verenler
+dolduruyor. Fakat sayımız çok az, bu hizmetten faydalanmak isteyen, ve faydalanması
+gereken, şirket ise çok fazla. Günümüzde şirketlerin en az %99’u geleneksel pazarlama
+metodlarının en az birisini kullanmışken, aynı şirketlerin %1’den daha azı dijital pazarlamayı
+kullanıyor. Piyasanın boşluğunu buyrun siz analiz edin. İşte bu eksikliği fırsata çevirme ve
+büyük bir dijital pazarlama ajansı kurma yolunda bu kitap bir rehber niteliği taşımaktadır.
+
+Bu Kitap Kimler İçin
+
+Büyük bir fırsatı için de barındırsa da maalesef bu kitap az çalış çok kazan felsefesi ile
+taban tabana zıt ilerlemektedir. Eğer sadece bazı numaralar öğreneyim, az çalışayım fakat
+bir yandan da çok büyük paralar kazanayım düşüncesindeyseniz kötü bir haberim var: Bu
+kitap size göre değil. Öte yandan doğru bir yol görürsem çalışmaktan geri durmam, bir işte
+karar verdikten sonra o işi yapmadan bırakmam diyorsanız iyi haberlerim var: Dijital
+Pazarlama Danışmanlığı hayatınızı değiştirebilir.
+
+--- Sayfa 6 ---
+Dijital Pazarlama Nedir
+
+Dijital Pazarlama Nedir?
+
+Dijital pazarlama, bir elektronik cihazı veya interneti kullanan tüm pazarlama çabalarını
+kapsar. İşletmeler, mevcut ve potansiyel müşterilerle bağlantı kurmak için arama motorları,
+sosyal medya, e-posta ve diğer web siteleri gibi dijital kanalları kullanır. Geleneksel
+pazarlama basılı reklamlarda, telefonla iletişimde veya fiziksel pazarlamada var olabilirken,
+dijital pazarlama elektronik ve çevrimiçi olarak gerçekleşebilir. Bu, e-posta, video, sosyal
+medya ve arama motorları dahil olmak üzere markaların müşterilere ulaşması için çok daha
+fazla olasılık olduğu anlamına gelir.
+
+Bir Şirket İçin Dijital Pazarlama Ne Anlama Geliyor?
+
+Dijital pazarlama, müşterilerle, ya da potansiyel müşterilerle, zamanlarının çoğunu
+geçirdikleri online kanallarda bağlantı kurması, ürün veya içerik pazarlaması olarak
+tanımlanır.
+
+Geleneksel Pazarlamadan Farkı Nedir?
+
+Pazarlama pazarlamadır diye düşünebilirsiniz. Sonuçta ikisinde de ürün satılmaya
+çalışılıyor değil mi? Pek de öyle değil aslında. Geleneksel pazarlama yöntemlerinde amaç
+sadece ürünü veya markayı müşteriye tanıtmak iken (elbette burada çok değişik geleneksel
+reklam kampanyalarından bahsedilebilir fakat temel amaç her zaman budur) aynı zamanda
+verdiğiniz reklamların verilerine erişemiyor olmanız, kar zarar analizi yapamıyor olmanız,
+müşteri veya potansiyel müşteriniz ile reklamlar üzerinden kişisel seviyede iletişim kuramıyor
+olmanız ve bu reklamların maalesef maliyetli oluyor olması sebebi ile geleneksel reklamlar
+artık popülerliğini yitiriyor. Öte yandan Dijitalde verdiğiniz her bir reklamı kuruşu kuruşuna
+takip edebiliyor olmanız, hedef kitlenizi nokta atışlar ile tespit edip onlara özgü reklamlar
+veriyor olmanız, takip edilebilir reklam verilerine sahip olduğunuz için daha özgün ve müşteri
+deneyimini gözeten reklamlar verebiliyor olmanız ve yine en önemlisi tüm bunlara çok çok
+küçük maliyetlere erişebiliyor olmanız sebebi ile Dijital Pazarlama ise her geçen gün yayılım
+alanını genişletiyor. Aslında ikisinde de pazarlama kelimesi geçiyor olmasına rağmen
+birbirlerinden oldukça farklılar değil mi :)
+
+Hadi şimdi Dijital Pazarlama Türlerine bakalım:
+
+--- Sayfa 7 ---
+Dijital Pazarlama Türleri
+
+Dijital Pazarlama Türleri?
+1. Arama Moturu Optimizasyonu (SEO)
+2. İçerik Pazarlama
+3. Sosyal Medya Pazarlamacılığı
+4. Tıklama Başına Ödeme (PPC)
+5. Affiliate Marketing
+6. Email Pazarlamacılığı
+7. Online PR
+8. Sponsorlu İçerikler
+Dijital Pazarlama Türlerine yapacağımız kısa bir ön giriş sonrası bu kitapta asıl
+değineceğimiz Sosyal medya pazarlamacılığı kısmına geçeceğiz.
+1- Arama Motoru Optimizasyonu (SEO)
+
+SEO, web sitenizi arama motoru sonuç sayfalarında daha üst sıralarda yer alacak şekilde
+optimize etme ve böylece web sitenizin aldığı organik (veya ücretsiz) trafik miktarını artırma
+işlemidir. SEO'dan yararlanan kanallar arasında web siteleri, bloglar ve infografikler bulunur.
+Web sitenize nitelikli trafik oluşturmak için SEO'ya yaklaşmanın birkaç yolu vardır. Bu kitapta
+SEO üzerinde durmayak olsak da, SEO’nun markalar için önemi kesinlikle yadsınamaz.
+
+2- İçerik Pazarlama
+
+İçerik Pazarlama, marka bilinirliği, trafik artışı, müşteri adayı oluşturma ve müşteriler
+oluşturmak amacıyla içerik varlıklarının oluşturulması ve tanıtılmasını ifade eder. Bu içerikler;
+video, blog yazıları, ebooklar olabilir.
+
+3- Sosyal Medya Pazarlamacılığı (Genelde Dijital Pazarlama dendiğinde akla gelen pazarlama yöntemi)
+
+Sosyal Medya Pazarlamacılığı, bu kitapta üstünde duracağımız ana başlık. Doğru
+stratjilerle çalıştığınız markaların cirosunu 2,3 katına çıkartmanın yanında, marka bilinirliği,
+marka fanları oluşturma vb. uygulamalar ile markanın değerini de çok büyük ivmelerle
+katlamanıza imkan veren pazarlama türüdür. Kitabın ilerleyen sayfalarında daha detaylı
+
+--- Sayfa 8 ---
+gireceğimiz bu pazarlama türünü kısaca tanımlamak gerekirse: Marka farkındalığını
+artırmak, trafik çekmek ve işletmeniz için potansiyel müşteriler oluşturmak için markanızı ve
+içeriğinizi sosyal medya kanallarında tanıtmaktır. (Gerçekten kısa oldu :))
+
+4- Tıklama Başına Ödeme (PPC)
+
+PPC, reklamınız her tıklandığında bir yayıncıya ödeme yaparak web sitenize trafik
+çekmenin bir yöntemidir. En yaygın PPC türlerinden biri, Google'ın arama motoru sonuç
+sayfalarındaki en üst sıralar için yerleştirdiğiniz bağlantıların "tıklama başına" fiyatına ödeme
+yapmanızı sağlayan Google Ads'tir. Aynı SEO gibi bu kitapta ayrıntılarına girmeyeceğimiz bu
+pazarlama türü de piyasada yüksek talep olan ürünleri pazarlamada çok etkili bir yöntemdir.
+
+5- Affiliate Marketing
+Affiliate Marketing, web sitenizde başka birinin ürünlerini veya hizmetlerini tanıtmak için
+komisyon aldığınız, performansa dayalı bir reklam türüdür. İsminin ingilizce olmasının sebebi
+ise Türk piyasasına direk bu şekilde geçmiş olmasıdır. Biz buna Komisyoncu Pazarlama
+yöntemi de diyebiliriz :)
+6- E-Mail Marketing (E-Posta Pazarlama)
+
+Şirketler, kitleleriyle iletişim kurmanın bir yolu olarak e-posta pazarlamasını kullanır.
+E-posta genellikle içeriği, indirimleri ve etkinlikleri tanıtmanın yanı sıra insanları işletmenin
+web sitesine yönlendirmek için kullanılır. Bir e-posta pazarlama kampanyasında
+gönderebileceğiniz e-posta türleri örneğin:
+
+●
+Blog aboneliği haber bültenleri.
+●
+Bir şey indiren web sitesi ziyaretçilerine takip e-postaları.
+●
+Müşteri karşılama e-postaları.
+●
+Sadakat programı üyelerine tatil promosyonları.
+●
+Müşteri desteği için ipuçları veya benzer seri e-postalar.
+
+7- Online PR
+
+Çevrimiçi PR, dijital yayınlar, bloglar ve diğer içerik tabanlı web siteleriyle kazanılan
+çevrimiçi kapsamı güvence altına alma uygulamasıdır. Yüksek seviyede her marka için
+gerekli bir pazarlamadır ve psikoloji, algı yönetimi konularında bilgi sahibi olmayı gerektirir.
+
+8- Sponsorlu İçerik
+
+Sponsorlu içerikle, bir marka olarak markanızı veya hizmetinizi bir şekilde tartışan içeriği
+oluşturmak ve tanıtmak için başka bir şirket veya kuruluşa ödeme yaparsınız.
+
+Popüler bir sponsorlu içerik türü, etkileyici pazarlamadır. Bu tür sponsorlu içerikle, bir
+marka, sosyal medyada şirketle ilgili gönderileri veya videoları yayınlamak için sektöründe
+bir influencer'a sponsor olur.
+
+Bir başka sponsorlu içerik türü, bir konuyu, hizmeti veya markayı vurgulamak için yazılmış
+bir blog yazısı veya makale olabilir.
+
+--- Sayfa 9 ---
+Sosyal Medya Pazarlamacılığı
+
+Neden Sosyal Medya Pazarlamacılığı?
+
+Yukarıda Dijital Pazarlamanın birçok çeşidini okudunuz. Bu aşamada neden Sosyal
+Medya Pazarlamacılığının üzerinde duracağımızı merak ediyor olabilirsiniz. Cevap basit
+aslında: Öğrenmesi kolay, hızlı aksiyon alınabilir ve her işletmenin sahip olması gereken bir
+pazarlama türü. Bir işletme için diğer pazarlama türlerinin gerekliliği tartışmaya açıkken,
+Sosyal Medya Pazarlaması tartışmaya açık değil. Yani eğer bir işletmeniz varsa, Sosyal
+Medya’da pazarlama yapmak zorundasınız. Bu sebeple biz Sosyal Medya Pazarlamacılığı
+üzerinde duracağız.
+
+Sosyal Medya Pazarlama Danışmanlığı Nedir?
+
+Sosyal Medya Pazarlama Danışmanlığı ise işletmelere Sosyal Medyada pazarlama
+konusunda danışmanlık verdiğiniz bir iş modelidir. Siz bu işletmeleri hem mesaide
+çalıştıracakları birden çok eleman derdinden kurtarırken, hem de profesyonel şekilde
+sürdürdüğünüz sisteminize dahil ediyor olacaksınız. Kazan-Kazan iş modeli. Birçok işletme
+kendi Sosyal Medyasını kendisi yönetiyor gibi gözükebilir, inanın %99 ne yaptıklarını
+bilmiyor. Sosyal Medya Danışmanlığını iki farklı kola ayırabiliriz:
+
+1- Sosyal Medya Danışmanlığı (Markalaşma, uzun vade)
+2- Paralı Reklamlar ile Pazarlama (Ciro arttırma, kısa vade)
+
+1- Sosyal Medya Danışmanlığı?
+
+Sosyal Medya Danışmanlığı, işletmelerin sosyal medya hesaplarını yönettiğiniz. Direk
+geri dönüş olmasa bile uzun vadede her işletmenin sahip olması gereken Markalaşmayı
+sağladığınız danışmanlık türüdür. Asıl hedefiniz satıştan ziyade işletmenin sosyal medya
+hesaplarını büyütmek ve insanların gözündeki marka imajını artırmak olacaktır. İşletmelere
+birebir maddi dönüş raporu veremediğiniz için yüksek bir servis bedeli almasanız bile
+sisteminin basit olması ve otomasyona dökülebilmesi sayesinde çok hızlı şekilde ajansınızı
+büyütebileceğiniz iş modelidir.
+
+Yapmanız gereken düzenli olarak Canva veya Photoshop üzerinden işletme ile ilgili
+gönderiler hazırlamak, bunları düzenli olarak paylaşmak ve sosyal medya üzerinden gelen
+yorumları/mesajları cevaplamak olacaktır.
+
+Buradaki hizmetinizi aylık getirdiğiniz takipçi ‘fan’ üzerinden ücretlendirebilirsiniz. Ne de
+olsa takip eden her bir müşteri potansiyel bir müşteridir ve bugün işletmeden alışveriş
+yapmasa bile periyodik olarak alışveriş yapma ihtimali en yüksek potansiyel müşterilerden
+biridir.
+
+--- Sayfa 10 ---
+Eğer daha önce herhangi bir şekilde pazarlama tecrübeniz yoksa bu iş modeli ile
+başlamanızı ve bu işe devam ederken aynı zamanda Paralı Reklamlar ile Pazarlama üzerine
+kendinizi geliştirmenizi şiddetle tavsiye ederim.
+
+2- Paralı Reklamlar İle Pazarlama Danışmanlığı?
+
+Paralı Reklamlar ile Pazarlama, online platformlarda paralı olarak işletmelerin reklamlarını
+verdiğimiz ve direk ciro artırmaya yönelik stratejiler geliştirdiğimiz iş modelidir. Doğru
+stratejileri uyguladığınızda bir işletmenin satışlarını 3,5 hatta 10’a katlayabileceğiniz bir iş
+modeli olması sebebi ile üzerine ciddi şekilde eğilinebilecek bir iş modelidir. Özellikle
+Facebook reklamlar ve datası sayesinde birebir müşterilerle iletişime geçme fırsatı sunan bu
+iş modeli, piyasadaki her işletmenin ihtiyaç duyması bir yana; piyasada neredeyse hiç
+uzmanı olmaması sebebi ile en etkili pazarlama yöntemidir.
+
+Başlangıç seviyesi için çok kolay olmasa da internette bulabileceğiniz bir çok kaynaktan
+algoritmaları ve data işlemeyi öğrenebilirsiniz. Dijital Pazarlamada uygulayabileceğiniz
+sınırsız reklam stratejisi olduğu için elbette asla kendinizi hazır hissetmeyeceksiniz, bu
+sebeple yola koyulmalı ve temel bilgileri/stratejileri bildikten sonra bol bol tecrübe etmelisiniz.
+
+İşletmelere direk ciro üzerinden rapor sunabileceğiniz için yüksek miktarda servis ücreti
+almanın yanında, kendini kanıtlamış bir ajans olduğunuz takdirde servis ücreti + reklam
+kazanç komisyon oranı teklifleri sunarak gelirinizi büyük oranda artırabilirsiniz.
+
+Sosyal Medya Pazarlama Danışmanlığı İle Ne Kadar Kazanabilirsiniz?
+
+Ne kadar kazanacağınız sorusunun cevabı çalışmak istediğiniz sektörle birebir alakalı çok
+değişkenlik gösteriyor. Temelde yaptığınız iş aynı gibi gözükse de bir emlakçıya getirdiğiniz
+müşterinin kazandıracağı para ile, bir gym’e kazandırdığınız para aynı olmayacaktır. Fakat
+ortalama olarak Sosyal Medya Danışmanlığı fiyatlarında işletme başına alabileceğiniz servis
+ücreti aylık ortalama 500-2000 TL/Euro iken, Reklam Pazarlama Danışmanlığı için bu miktar
+aylık 1000-50.000 TL/Euro olarak değişmektedir. 50.000 Tl işletme başı yüksek gibi gözükse
+de bir işletmeye aylık reklamlar ile ekstra 300.000-400.000 TL kazandırdığınızda bu miktarı
+seve seve ödemeye hazır binlerce işletme bulunuyor. Yine de başlangıç olarak hedefinizi
+işletme başı aylık 2000-5000 TL/Euro’dan yüksek tutmamanızı öneririm.
+
+Sosyal Medya Pazarlama Danışmanlığı İçin Nereden Başlamalısınız?
+
+Öncelikle Sosyal Medya Danışmanlığı mı yoksa Paralı Reklamlar ile Pazarlama
+Danışmanlığı mı yapmak istediğinize karar vermelisiniz. İkisini aynı anda yapabilecek
+olsanız bile genel olarak bir şeye odaklanmak her zaman çok daha iyi sonuç veriyor.
+
+Üzerine eğilmek istediğiniz iş modelini seçtikten sonra bir niş (sektör) seçmenizi öneririm.
+İlk başta elbette bir nişte karar kılıp ilerlemek çok zor, fakat belli nişler seçmek hem derin
+araştırma yapmak için hem de o nişi domine noktasında size çok daha fayda sağlayacaktır.
+
+--- Sayfa 11 ---
+Niş veya nişlerinizi seçtikten sonra bu nişteki işletmelerin müşteri profillerini
+incelemelisiniz. Genel olarak müşteri tipleri, satın alma alışkanlıkları, demografik özellikleri
+vb. çıkarmalısınız. Örneğin seçtiğiniz niş ‘GYM nişi’ ise genel olarak gymlere giden
+insanların yaş aralığı, aylık maddi durumu, neden gym’e gittikleri, gym’den ne bekledikleri,
+genel korkuları vb şeyleri çıkarmalısınız.
+
+Ardından seçtiğiniz nişteki  büyük işletmelerin sosyal medya profillerine girmeli, mail
+listelerine kaydolmalı ve varsa satış hunilerinden geçmelisiniz. Burada baktığımız şey
+piyasanın büyük oyuncuları neyi doğru yapıyor, pazarlamada en çok neyi kullanıyor. Bu
+aşamadan sonra seçtiğiniz nişteki nispeten küçük işletmelere bakın, dijitalde eksikleri neler,
+neyi yapmıyorlar. Sosyal medya hesapları güncel paylaşım yapıyor mu, sitelerinde facebook
+pixel yüklü mü, halihazırda reklam veriyorlar mı vb?
+
+Tüm bunları bir excel tablosuna not edebilirsiniz. Bu aşamalardan sonra zaten önünüzde
+güzel bir eylem planı olacak. Piyasadaki büyük işletmelerin (Piyasa derken illa bulunduğunuz
+bölgede olmasına gerek yok, dünya büyük. Sektörünüzle ilgili diğer ülkelerdeki büyük
+işletmeleri de inceleyebilirsiniz) doğru yaptığı stratejileri modelleyin ve özgün şekilde kendi
+bölgenizdeki işletmelere uygulayın.
+
+Nasıl Müşteri Bulunur?
+
+Buraya kadar geldiğinize göre sektörleriniz ve eylem planlarınız aşağı yukarı belli olmalı.
+Şu an yapmanız gereken sektördeki işletmelerin iletişim bilgilerini (e-mail ve telefon) tek tek
+almak. Bunu yapmak için genel olarak websitelerini ziyaret edebilirsiniz. Bu işletmeleri tek
+tek arayarak stratejinizden bahsedin ve onlara neler kaçırdıklarını gösterin. En iyi müşteri
+bulma taktiği onlara işletmelerini önemsediğinizi göstermektir. İşletmelerini çalışırsanız,
+rakipleri hakkında bilgi sahibi olursanız ve en önemlisi o işletmeye yardım edebileceğinizi
+düşünüyorsanız daha ne olsun :) Hazırsınız..
+
+Kendinin ve işletmesinin merkeze alındığını düşünen müşterileri bağlamak en kolayı,
+sonuçta size bebeklerini emanet edecekler. Onlara bu emaneti en iyi şekilde temsil
+edeceğinizi gösterin ve onları en iyi müşterileriniz yapın.
+
+Nasıl Sonuç Götürülür?
+
+Elbette başta zorlanacaksınız, hatta birçok kampanyada başarısız olacaksınız.
+Teleşlanmayın, hepimizin geçtiği yollardan geçiyorsunuz. Eğer müşterinizin ürününe
+güveniyorsanız öyle ya da başarılı olacaksınız çünkü tüm potansiyel müşterileri online olarak
+reklamları bekliyor. İyi bir sonuç getirme, iyi bir test ve analiz sürecinden geçiyor.
+Olabildiğince düşük bütçe ile maksimum miktarda test yapmayı ve bu testlerden elde edilen
+datayı okumayı öğrenmeniz gerekiyor. Müşteriniz ile ulaşmak istediğiniz sonuç her ne ise
+ona yönelik reklamlar çıkmalı ve günün sonunda en ideal müşterileri hedeflemeyi
+hedeflemelisiniz. Başta da dediğim gibi kendinizi teknik olarak asla hazır
+hissetmeyeceksiniz, o sebeple bir yerden başlamalısınız.
+
+--- Sayfa 12 ---
+Ajansınızı Nasıl Ölçeklersiniz?
+
+Ajans ölçekleme noktasında yapabileceğiniz en iyi şey müşterileri almaya devam ettikçe
+kendinizi işin içinden yavaş yavaş çekmek ve çektiğiniz pozisyonlara eleman almak. Burada
+izlemeniz gereken taktik vaktinizi en çok alan yerlere alacağınız elemanlara öncelik vermek.
+Kendi tecrübelerime göre tek bir insan- müşteriye kadar her şeyi kendi halledebiliyor, fakat
+oradan sonra öyle bir vaktiniz kalmıyor ki işin içinden çıkamıyorsunuz O sebeple bu seviyeye
+gelmeden işin içinde değil üstünde çalışmanız gerektiğini kavramalı ve kademeli olarak işin
+içinde vakit alan yerleri doldurmayı öğrenmelisiniz.
+
+NOT
+
+Forbes’e göre Dijital Pazarlama Danışmanlığı, 2025 yılına geldiğimizde en değerli 10
+meslek grubundan birisi olacak. O sebeple eğer gerçekten kendinizi bu alanda başarılı
+olabilecek birisi olarak görüyorsanız bu sizin için mükemmel bir fırsat olabilir. Her işletme
+öyle ya da böyle bir gün Dijital Pazarlama yollarına başvuracak, böyle bir talep içerisinde bu
+hizmeti sunan birkaç şanslı işletmeden birisi olmak istiyorsanız bence bugünden
+başlamalısınız.
+
+Ben kimim:
+
+--- Sayfa 13 ---
+GURKANZONE
+
+Ankara’da liseyi bitirdikten sonra Çin’e üniversite okumaya giden ve ardından
+Hollanda’ya gelerek burada Hollanda’da Dijital Pazarlama şirketimi kurdum. Hollanda,
+Almanya, İngiltere, Belçika ve Türkiye üzerinde onlarca şirkete Dijital Pazarlama hizmeti
+veriyoruz.
+
+Aynı zamanda Hollanda’da E-Ticaret yaptığım (Shopify Dropshipping ve Amazon FBA)
+iki farklı şirketim daha mevcut. Bana aşağıdaki sosyal platformlar üzerinden ulaşabilirsiniz:
+
+GURKANZONE
+
+GURKANZONE

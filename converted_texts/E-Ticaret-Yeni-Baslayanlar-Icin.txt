@@ -1,0 +1,1948 @@
+--- Sayfa 1 ---
+Yeni Başlayanlar İçin
+Ümit BÜYÜKYILDIRIM
+E-Ticaret Girişimciliği İçin Temel Başvuru Kılavuzu
+E-Tic@ret
+
+--- Sayfa 2 ---
+Dijital dünyadaki uzun soluklu çözüm ortağınız...
+www.ajanslongplay.com
+
+--- Sayfa 3 ---
+Yeni Başlayanlar İçin E-Ticaret
+1
+Ümit BÜYÜKYILDIRIM
+Çocukluğundan itibaren bilim ve teknolojiyle hep ilgili oldu. Bilişim ve İnternet
+teknolojileri sektöründeki üretkenliğine 2000 yılında grafiker olarak başladı. 2000
+yılı sonunda IBM Türk’ten ayrılarak serbest olarak web projeleri üretmeye başladı.
+2005 yılında Infranet’te proje yöneticisi olarak çalıştı. Şu an, 2009 yılında başladığı
+Index Grup firması Datagate’teki e-ticaret yöneticisi görevini sürdürmektedir.
+Sektörde 15 yılı aşkın bir sürelik geçmişinde, sayısız proje ve uygulama bu-
+lunmaktadır.  Önlisans eğitimini Marmara Üniversitesi’nde, Lisans eğitimini
+Anadolu Üniversitesi İktisat bölümü ile tamamlayan Ümit Büyükyıldırım aynı
+zamanda 2002 yılından bu yana kendi kurduğu Türkçe içerikli bilim portalı
+Bilim.org sitesinin yönetimini sürdürmektedir.
+umityildirim.com
+/umit2050
+bilimorg@gmail.com
+
+--- Sayfa 4 ---
+Yeni Başlayanlar İçin E-Ticaret
+2
+Önsöz
+Teşekkür
+Dünyada ve Türkiye’de her yıl düzenli olarak büyümeye devam eden e-ticaret
+ekosistemi, süphesiz ki şu an cazip bir mecra durumunda. Hem bireysel, hem
+kurumsal anlamda sayısız girişimcilik teşebbüsü ve düşüncesi mevcut. Ancak
+her girişimcilik çabası girişime dönüşmüyor ya da her girişim başarılı olamı-
+yor. Bunda en önemli sebeplerden birisi, e-ticaretle ilgili yeterli bilgiye sahip
+olmadan, yeterli etüd ve fizibilite çalışmasına girmeden sadece “iyi bir fikir”
+veya “sermaye” temelinden yola çıkmak oluyor.
+
+E-Ticaret konusunda İnternette sayısız Türkçe kaynağa ulaşmak müm-
+kün. Ancak yola henüz çıkmış olanların bu devasa bilgi yığının içe-
+risinde işlerine yarayan bilgiyi ayrıştırması zor ve zahmetli bir süreç.
+E-Ticaretle ilgili yalın ve anlaşılır e-kitap sayısı ise yok denecek kadar az şu an.
+Yeni Başlayanlar İçin E-Ticaret, bu eksikliği doldurmak adına İnternet girişim-
+ciliği temelli bir e-ticaret başlangıç kılavuzu olarak hazırlandı.
+Okuyanlara faydalı olmasını diliyorum.
+Bu kitabın tanıtımı konusunda önemli destekler veren Turkcell’den Serkan
+Ünsal’a (Dakick.com kurucusu), Markafoni kurucu ortağı Sina Afra’ya, M.
+Serdar Kuzuloğlu’na, İndex Grup CEO’su Erol Bilecik’e, e-bebek CEO’su Halil
+Erdoğmuş’a, Enuygun.com CEO’su Çağlar Erol’a, eTohum’dan Burak Büyük-
+demir’e, Reengen kurucu ortağı Şahin Çağlayan’a, Hürriyet Bumerang’dan
+Hilal Meriç’e, iDergi’den Özgür Özkü’ye, Marjinal Porter Novelli PR ajansın-
+dan Umut Ersoy’a, Homend kurucu genel müdürü Hakan Koçer’e, TEB Giri-
+şim Evi’nden Fatih Canan’a, Özyeğin Üniversitesi Girişimcilik Merkezi’nden
+Murat Tortopoğlu’na, Girişim Fabrikası’ndan Furkan Gül’e, ETicaretMag genel
+müdürü Sonay Onur’a, Webrazzi editörü Ali Altuğ Koca’ya, eGirisim.com ku-
+rucusu Hilmi Öğütçü’ye, Aktif Grup CEO’su Emre Metin’e, Girisimhaber.com
+kurucusu İdris Cin’e, İnternetanneleri.com kurucusu Nihan Kayalıoğlu İçten’e,
+Homend’den Hakan Yalçın’a, Paraşüt kurucusu Sean X. Yu’ya, Mobidik.com
+ekibine, kapak tasarımını gerçekleştiren Yalçın Atasever’e, tanıtım videosu-
+nun seslendirmesini yapan Gökhan Akçakara’ya, teknik konularda yardımcı
+olan Kutay Burunsuz’a ve e-kitabımın basılı hale gelmesini sağlayan sevgili
+dostum Longplay Dijital Ajans’tan Ercan Erkü’ye çok teşekkür ediyorum.
+
+--- Sayfa 5 ---
+Yeni Başlayanlar İçin E-Ticaret
+3
+İçindekiler
+1. E-Ticarete Giriş
+E-Ticaret nedir?
+E-Ticaretin Avantajları
+E-Ticaretin Dezavantajları
+Küresel E-Ticaret
+Türkiye’de E-Ticaret
+E-Ticaret İş Modelleri
+2. E-Ticarete Hazırlık
+İş Planı Hazırlama
+Girişimcilik ve yatırımcı süreçleri
+3. Teknik Altyapı
+Hazır e-ticaret paketleri
+E-Ticaret sitesi yazılımı ve hosting
+ERP & CRM
+E-Ticarette Güvenlik
+Ödeme Sistemleri
+4. Operasyon
+Tedarik Zinciri Yönetimi
+Ürün Yönetimi
+Lojistik ve Depolama
+Sevkiyat ve Kargolama
+5. Pazarlama
+Marka Yönetimi
+SEM & SEO
+Facebook Pazarlama
+E-Posta Pazarlama
+Diğer Dijital Pazarlama Kanalları
+6. E-Ticaret Hukuku
+Türkiye’de e-ticaretin hukuki tarihçesi
+E-Ticareti düzenleyen kanun ve uygulamalar
+Bölümler
+
+--- Sayfa 6 ---
+Yeni Başlayanlar İçin E-Ticaret
+4
+1. E-Ticarete Giriş
+•
+E-Ticaret nedir?
+•
+E-Ticaretin Avantajları
+•
+E-Ticaretin Dezavantajları
+•
+Küresel E-Ticaret
+•
+Türkiye’de E-Ticaret
+•
+E-Ticaret İş Modelleri
+E-Ticaret Nedir?
+
+Kısaca E-Ticaret olarak tanımlanan
+Elektronik Ticaret, her türlü mal ve
+hizmet satışının güvenli olarak İnter-
+net üzerinden gerçekleştirilmesidir.
+E-Ticarette tanıtım, satış, ödeme,
+müşteri desteği ve teslimat gibi tüm
+süreçler İnternet üzerinden yürütülür.
+E-Ticaret sadece dijital dünyaya ait
+ürün ve hizmetleri kapsamaz, aynı za-
+manda elle tutulan, yani fiziksel ola-
+rak kullanılabilen ürünlerle gündelik
+hayatımızda
+kullandığımız
+dijital
+dünya dışı hizmetleri de kapsar.
+E-Ticaretin Avantajları
+
+E-Ticaretin en büyük avantajı, zaman-
+dan ve mekândan bağımsız olarak
+dünyanın herhangi bir yerinde ve
+herhangi bir saatinde müşterilere
+alışveriş imkanı sunabilmesidir. E-Ti-
+carette süreçlerin büyük kısmı dijital
+ortamda yürütüldüğü için kısıtlayıcı
+zaman ve mekân problemleri bulun-
+mamaktadır. Firmalar, fiziki ortam-
+da ulaşabildiklerinin çok üzerinde
+müşteri ve ciroya ulaşabilirler.
+E-Ticaret, müşterilere daha şeffaf bir or-
+tam sunar. E-Ticarette müşteriler farklı
+firmaların web siteleri ve farklı ürünler
+arasında hızlıca fiyat araştırması
+yapabilir. Bu da rekabetin artmasını ve
+fiyatların düşmesini sağlar.
+
+E-Ticarette firmalar müşterilerine birebir
+pazarlama yapabilir. Toplanan müşteri
+verileri ve deneyimlerini kullanarak,
+yüksek maliyetler gerekmeksizin her
+müşteriye, kendisine özel pazarlama
+yapılabilmektedir.
+
+İnternette bir sanal mağaza açmanın
+maliyeti, fiziksel mağaza açmanın
+maliyetine göre çok daha düşüktür. Aynı
+zamanda e-ticaret sayesinde stok
+maliyetlerine girmeden düşük giderler-
+le satış yapabilme imkânı da vardır.
+
+E-Ticaret, geleneksel alışverişe göre
+müşterinin zaman kaybını azaltır. Bin-
+lerce müşteri, beklemeksizin aynı anda
+alışveriş ve ödeme yapabilir. Bunun yanı
+sıra e-ticaret mekândan bağımsız ol-
+duğu için ulaşım giderlerini azaltır.
+
+E-Ticarette tüketiciler çok sayıda ürün
+çeşidini görebilir, en uygun ürünü bul-
+ma şansı artar.
+
+--- Sayfa 7 ---
+Yeni Başlayanlar İçin E-Ticaret
+5
+E-Ticaretin Dezavantajları
+
+İnternet üzerinden yapılan alışverişlerde müşterinin ürünü canlı olarak
+görüp inceleme ve deneme şansı yoktur. Bu yüzden de e-ticaratteki iade
+oranları geleneksel mağazacılıktaki iade oranlarına göre daha yüksektir. Ancak
+firmalar bilgilendirme ve daha iyi müşteri deneyimi yaratma konusunda çeşitli
+iyileştirmeler yaparak bu oranı düşürmeye çalışmaktadır.
+Potansiyel müşteriler İnternet üzerinden yapılan alışverişlerde güvenlik kay-
+gısından ötürü  kredi kartı kullanımından çekinmektedir. Son dönemde giderek
+yaygınlaşan alternatif ödeme sistemleri ve kredi kartı ödemelerini daha güvenli
+hale getiren hizmetler sayesinde bu çekinceler aşılmaya başlamıştır.
+Ürünü  satın alın müşteri teslimat süresi boyunca beklemek zorundadır. E-Ti-
+caretin dezavantajlı yönleri arasında en çözümsüzü bu olarak görünse de, dünya
+devi Amazon.com hızlı teslimat konusunda havadan teslimat, sipariş vermeden
+teslimat gibi bazı konsept fikirler üretmeye başladı bile.
+İnternet siteleri ve altyapılarında oluşabilecek açıklar ve onlardan faydalanmak
+isteyecek kötü niyetli kişiler tarafından kişisel bilgilerin çalınması gibi hoş olma-
+yan durumlarla karşılaşılabilir.
+Amazon.com’un PrimeAir “havadan teslimat” konsepti
+
+--- Sayfa 8 ---
+Yeni Başlayanlar İçin E-Ticaret
+6
+Küresel E-Ticaret
+
+Teknik anlamda ilk online alışveriş sistemi 1979’da devreye girmiş olsa da, bi-
+zim bildiğimiz anlamda e-ticaret 90’ların ortalarına doğru ortaya çıkmıştır.
+E-Ticaretin öncüleri olan ve bugün de hâlâ lider konumlarını koruyan Amazon.
+com (1995) ve eBay (1995) de o yıllarda ortaya çıkmıştır. Yaklaşık 20 yıllık tarihi
+olan e-ticaretin B2C (Business to Consumer) satış hacmi bugün küresel olarak
+1,2 trilyon dolara kadar ulaşmıştır. Düzenli olarak büyüme gösteren B2C satış
+hacminin 2017’de 2,3 trilyon dolara ulaşması bekleniyor.
+Küresel e-ticaret hacminin en önemli kısmı Kuzey Amerika’da gerçekleşirken,
+onu Asya-Pasifik ve Batı Avrupa izlemekte. Asya-Pasifik’in e-ticaret hacmi hızla
+büyümekte. Asya-Pasifik’in bu büyüme hızıyla 2014 sonunda Kuzey Amerika’yı
+geride bırakarak birinci sıraya oturması bekleniyor. İnternet altyapıları, bilişim
+teknolojileri ve güvenlik yönünden gelişmiş olan bu bölgelerin e-ticarette de
+gelişmesi doğal bir sonuç olarak görülebilir.
+Gelişmekte olan ülkelerde yer alan yoğun nüfus, bu nüfus içeriside orta sınıfın
+yükselmesi ve buna bağlı olarak harcama eğilimlerinin artmasıyla birlikte bu ül-
+kelerde e-ticaret hacminin hızla arttığı ve yüksek bir potansiyel olduğu görül-
+mektedir.
+E-Ticaret harcamalarında ABD, ülkeler bazında lider durumda ve bir süre daha
+bu konumunu korumaya devam edecek gibi görünüyor. ABD nüfusunun %54’ü
+İnternet üzerinden alışveriş yapıyor ve toplam tüketici harcamalarının %10’u İn-
+ternet üzerinden gerçekleşiyor. Asya-Pasifik bölgesinin lideri durumundaki Çin
+2012’de %88’le hızla artış gösteren bir B2C e-ticaret pazarına sahip.
+Mevcut büyümesini, 550 milyon İnternet kullanıcısı ve 220 milyon on-
+line alışveriş tüketicisine borçlu olan Çin’in yakın bir gelecekte yine
+ABD’ye e-ticaret harcamalarında da güçlü bir rakip olması bekleniyor.
+
+--- Sayfa 9 ---
+Yeni Başlayanlar İçin E-Ticaret
+Türkiye’de E-Ticaret
+
+Türkiye, İnternetle resmi olarak 12 Nisan
+1993’te tanıştı. Türkiye’de e-ticaretin devlet
+tarafından denetimsel temelleri ise ilk ola-
+rak 1997’te atıldı ve 2003’te e-Ticaret Çalış-
+ma Grubu ile kontrol mekanizmaları anla-
+mında kapsamı genişletildi. 2000 yılından
+sonra büyümeye başlayan İnternet altyapısı
+sayesinde daha fazla kullanıcı İnternet erişi-
+mine kavuşmuş ve e-ticaret giderek artan bir
+büyüme ivmesi yakalamıştır.
+Türkiye’de 2013 rakamlarına göre 37 milyon
+İnternet kullanıcısı bulunmakta. İnternet nü-
+fusunun genel nüfusa oranı ise %45,1. Geliş-
+miş ülkelerle karşılaştırma yapmak gerekirse
+bu oran; ABD’de %81, İngiltere’de 87, Alman-
+ya’da %84, Fransa’da %83, Norveç’te %95 ve
+Güney Kore’de %84. Ancak toplam İnternet
+nüfusu olarak baktığımızda Küresel listede
+17. sıradayız ve henüz katılım sağlamamış
+nüfusumuzu da dikkate alınca e-ticaret hac-
+minin gelişmesi açısından potansiyelimizin
+yüksek olduğunu söyleyebiliriz.
+TÜİK’e göre İnternet kullanıcılarının %20’si
+B2C e-ticaretin müşterisi durumunda. Kredi
+kartı kullanıcılarınınsa %33’ü İnternet üze-
+rinden alışveriş yapmakta. Türk kullanıcıla-
+rının %41’i İnternetten alışveriş konusunda
+güvenlik kaygısı taşımaktadır. Bu oran Avru-
+pa ülkelerinde %1-12 arasında değişmekte-
+dir.
+2013 rakamlarına göre Türkiye’nin
+e-ticaret hacmi 40 milyar TL civa-
+rında ve bir önceki yıla göre e-tica-
+ret sektörü %30 büyüme gerçek-
+leşti.
+12 bin civarında e-ticaret sitesinin
+bulunduğu Türkiye e-ticaret paza-
+rı daha çok firmadan son kullanıcı-
+ya satış (B2C) şeklinde çalışmakta.
+Özellikle son yıllarda Markafoni,
+Trendyol, Limango, Morhipo ve
+benzeri kadın odaklı sitelerin yay-
+gınlaşmasıyla moda perakendeci-
+liği gelişmiş, kadınların e-ticarete
+katılım oranlarında artış gerçek-
+leşmiştir. Özel alışveriş kulüpleri ve
+fırsat siteleri de e-ticaretin katılım
+oranına son yıllarda katkı sağla-
+mıştır.
+1998’de kurulan ve sektörün lideri
+durumunda bulunan Hepsibura-
+da.com gibi yatay modelde çalı-
+şan e-ticaret sitelerine son yıllarda
+çok sayıda dikey model çalışan
+e-ticaret sitesi eklenmiştir.
+BKM’nin 2012 verilerine göre Tür-
+kiye’de İnternet üzerinden en çok
+alışveriş yapılan ürün grupları aşa-
+ğıdaki tabloda yer almaktadır.
+7
+
+--- Sayfa 10 ---
+Yeni Başlayanlar İçin E-Ticaret
+8
+
+--- Sayfa 11 ---
+Yeni Başlayanlar İçin E-Ticaret
+E-Ticaret İş Modelleri
+
+Henüz 20 yıllık bir geçmişi olan ve sürekli gelişim içerisindeki e-ticaretin kapsa-
+mı net olarak belirlenmiş değil. Ancak bu yeni ticaret şekline ait bir çok farklı iş
+modeli geliştirilmiş durumda ve önümüzdeki yıllarda buna yenilerinin eklenme-
+si kaçınılmaz. E-Ticarete girmek isteyenlerin bu mevcut iş modelleri arasından
+hangisinin kendilerine en uygun olduğunu belirlemeleri açısından şu ana kadar
+kullanılan önemli e-ticaret iş modellerinin neler olduğuna bir bakalım.
+Çalışma şekline göre, platforma göre ve iş modeline göre üç ana başlık altında
+kategorilendirebileceğimiz iş modelleri, birbirleri ile tanımsal olarak ayrılsa da
+operasyonel anlamda kesişebilmekteler.
+Çalışma şekline göre:
+
+B2C
+
+Firmadan tüketiciye (Business to Consumer), dünyada en yaygın e-ticaret çalış-
+ma şeklidir. Bu çalışma şeklinde firmalar ürün ve hizmetlerin satışını doğrudan
+tüketicilere yaparlar. Geniş bir müşteri kitlesine ulaşma imkanı vardır. Bu çalış-
+ma şekliyle hizmet veren firmalar arasında dünyadan Amazon.com, ülkemizden
+hepsiburada.com, n11.com, hizlial.com, teknosa.com, ebebek.com, idefix.com
+örnek gösterilebilir.
+9
+
+--- Sayfa 12 ---
+Yeni Başlayanlar İçin E-Ticaret
+B2B
+Firmadan firmaya (Business to Business), firmaların tedarik ayağını yürüttükleri
+platformlar olarak da düşünülebilir. Örneğin Hepsiburada.com’un tüketicisine
+satacağı ürünü sipariş verdiği üretici/tedarikçi site ile arasındaki ticaret şekli
+B2B e-ticarettir. B2B e-ticaretin B2C satış yapan firmalar için sağladığı stok ve
+lojistik avantajları vardır. Çoğunlukla tercih edilen, B2B sitelerin sağladığı XML
+bilgileri ile kendi müşterilerine ürün ve stok gösterip, sipariş geldikçe B2B kanalı
+üzerinden tedarik sağlamaktır. Böylece firmalar gereksiz stok maliyetlerinden
+kurtulurlar.
+B2B çalışma şekliyle faaliyet gösteren firmalara dünyadan Ingram Micro,
+ülkemizden Index Grup örnek gösterilebilir.
+C2C
+Tüketiciden tüketiciye (Consumer to Consumer), aynı zamanda B2C ile para-
+lel bir çalışma şeklidir. Bu çalışma şeklinde firmalar, tüketicilerin kendi arasında
+ürün ve hizmetlerini alıp-satabileceği bir platform oluşturur ve bu işlemlerden
+komisyon başta olmak üzere farklı tipte gelirler elde ederler. Tüketiciler için bu
+tip siteler oldukça avantajlıdır. Tüketicilerin firmalar gibi düzenli ticari yükümlü-
+lüklere girmeden ürün ve hizmetin alım-satımını yaparlar.
+Bu çalışma şekliyle faaliyette olan dünyaca ünlü site eBay, ülkemizden sahibin-
+den.com ve yine eBay’in sahibi olduğu gittigidiyor.com başarılı örneklerdir.
+Çalışma şekline göre diğer e-ticaret iş modelleri şöyledir:
+C2B (Consumer to Business): Tüketiciden Firmaya
+B2E (Business to Employee): Firmadan Çalışana
+G2G (Government to Government): Devletten Devlete
+G2B (Government to Business): Devletten Firmaya
+B2G (Busines to Government): Firmadan Devlete
+G2C (Government to Consumer/Citizen): Devletten Tüketiciye/Vatandaşa
+C2G (Consumer/Citizen to Government): Tüketiciden/Vatandaştan Devlete
+10
+
+--- Sayfa 13 ---
+Yeni Başlayanlar İçin E-Ticaret
+İş modeline göre:
+
+Yatay E-Ticaret
+
+Çok sayıda farklı ürün ve ürün grubu
+barındıran türdeki e-ticaret sitelerinin iş
+modelidir. Günümüzün en başarılı B2C
+siteleri bu modelde çalışmaktadır. Çok
+sayıda ürün grubunun yönetimi, lojistiği
+ve pazarlaması geniş bir ekip ve güçlü
+bir sermaye gerektirir. Bu yüzden paza-
+rın da iyice oturduğu, rekâbetin arttığı
+ve yeni girişimler için zorlaştırdığı bir
+ortamda, eğer güçlü sermaye yapıları
+yoksa yeni e-ticaret girişimlerinin bu
+modelden başlamaları önerilmez.
+
+Yatay e-ticaretin dünyadaki en başarılı
+örneği olarak Amazon.com, ülkemizde-
+ki en başarılı örneği olarak da hepsibu-
+rada.com gösterilebilir.
+Dikey E-Ticaret
+Belli bir ürün veya ürün grubuna odakla-
+nan e-ticaret iş modelidir. Yatay e-ticaret
+sitelerinden daha yeni olan bu model,
+pazardaki yeni ihtiyaçların değerlendi-
+rilmesi sonucunda ortaya çıkmış ve hala
+gelişmekte olan bir iş modelidir.
+
+Ebebek, Saat & Saat, Decathlon, Ofix di-
+key iş modelinde çalışan firmalara örnek
+gösterilebilir.
+Pazaryeri
+Pazar yerleri tüketicilere, birbirleri ara-
+sında mal ve hizmetlerini satma im-
+kanı veren sitelerdir. Bu iş modelinde
+firmanın kendisi doğrudan satıcı de-
+ğildir. Alıcı ve satıcılar arasında aracılık
+yapar. Kurduğu platform üzerinden
+gerçekleşen e-ticaretten komisyon
+almasının yanı sıra, farklı tipteki gelir
+modellerini de ekler.
+Pazaryeri iş modeli aynı zamanda C2C
+iş modelidir. Bu iş modelinde çalışan
+sitelere ABD’li eBay, ülkemizden sahi-
+binden.com ve eBay’in sahibi olduğu
+gittigidiyor.com örnek gösterilebilir.
+Özel Alışveriş
+Private Shopping olarak da bilinen
+Özel Alışveriş iş modelinde önemli
+markaların sezon sonu ürünleri indi-
+rimli olarak satılır. Ülkemizde özellikle
+moda perakendeciliğinin son yıllarda
+hareketlenmesine yol açan özel alış-
+veriş sitelerine Markafoni, Trendyol,
+Limango ve Morhipo örnek gösterile-
+bilir.
+11
+
+--- Sayfa 14 ---
+Yeni Başlayanlar İçin E-Ticaret
+Fırsat Siteleri
+
+Çalışma şekli olarak özel alışveriş iş
+modeline benzeyen fırsat siteleri iş
+modelinde
+tüketicilere
+firmaların
+ürün ve hizmetleri indirimli olarak
+sunulur. Özellikle mekan bazlı indirim
+fırsatlarının yer aldığı bu tip sitelerin
+sayısı son yıllarda oldukça artmıştır.
+Fırsat sitelerine  yurtdışından
+Groupon, ülkemizden Şehir Fırsatı,
+Grupanya, Bonubon ve Grupfoni
+örnek gösterilebilir.
+Aracılık
+Yenilikçi iş modellerinden birisi olan
+aracılık siteleri, ürün bazlı satışlarda
+firmalara aracılık ederek  tüketiciye
+ulaşmasını sağlar. Yaygın şekildeki fir-
+maları tek bir çatı altında toplayarak
+tüketiciye  ulaştıran aracı siteler tüke-
+tici desteğini de kendileri verirler.
+Bu iş modeliyle çalışan en iyi örnek
+dünyaya açılan Türk markası Yemek-
+sepeti.com’dur. Biletix ve Çiçeksepeti
+de aracılık iş modeliyle çalışan sitelere
+örnek olarak gösterilebilir.
+Platforma göre:
+Mobil E-Ticaret
+Akıllı cep telefonları ve tablet gibi mo-
+bil cihazlar üzerinden gerçekleşti-
+rilen ve GSM operatörleri aracılığı ile
+yapılan e-ticaret iş modelidir. Mob-
+ilitenin hızla geliştiği dünyada mo-
+bil e-ticaretin de geleceğinin par-
+lak olduğunu söyleyebiliriz. 2013’te
+dünya genelinde online ödemelerin
+%19’u mobil olarak gerçekleşti. 2014
+öngörüleri ise bu oranın %23’e çıka-
+cağı yönünde.
+Sosyal E-Ticaret
+Sosyal ağlar üzerinden gerçekleşti-
+rilen sosyal e-ticaret henüz yeni ve
+geliştirilmekte olan bir iş modelidir.
+Sosyal ağların öneminin giderek art-
+tığı göz önünde bulundurulursa, mo-
+bil e-ticaret gibi sosyal e-ticaretin de
+yüksek potansiyel taşıdığını söyleye-
+biliriz.
+12
+
+--- Sayfa 15 ---
+Yeni Başlayanlar İçin E-Ticaret
+13
+2. E-Ticarete Hazırlık
+•
+İş Planı Hazırlama
+•
+Girişimcilik ve Yatırımcı Süreçleri
+İş Planı Hazırlama
+
+İş planı, girişiminizin önceliklerini ve yol
+haritasını belirleme açısından gereklidir.
+Ayrıca yatırımcılar açısından bakıldığın-
+da, girişimci tarafından detaylandırılmış,
+gerçekçi bir iş planı, fikrin pazarlanması
+açısından önemlidir.
+İş planını hazırlamadan önce SWOT
+analizi yaparak mevcut durumun
+artıları ve eksileri görülebilir.
+
+--- Sayfa 16 ---
+Yeni Başlayanlar İçin E-Ticaret
+14
+Swot Analizi
+
+Pazar analizi yaptıktan sonra artık elimizde olan verilerle SWOT analizi yapabili-
+riz. SWOT analizi (Strengths-Weaknesses-Opportunities-Threats), Güçlü ve zayıf
+yanlar ile, fırsatlarla tehditlerin karşılaştırıldığı bir analiz türüdür. SWOT analizi ile
+girişiminiz için gerçeğe yakın bir perspektif çizme şansınız olur.
+SWOT analizini daha iyi anlamak için kurgusal bir analizi inceleyelim: Örneğin
+bilgisayar oyunları dikeyinde e-ticaret siteyi kurmayı düşünen, uzun yıllar oyun
+sektöründe tecrübe sahibi, yaratıcı pazarlama özellikleri bulunan ancak finansal
+yapısı güçlü olmayan bir girişim olduğunu varsayalım.
+Daha önce bu alana girmiş, finansal yapısı daha güçlü olan ancak bariz eksik-
+leri bulunan rakiplerin olduğunu da düşünerek aşağıdaki gibi bir SWOT analizi
+oluşturabiliriz. Bu analize gerçekçi olarak baktığımızda, tehditler kısmının orta ve
+uzun vadede ciddi riskler taşıdığını ve finansal yapının güçlendirilmesi gerekti-
+ğini görüyoruz.
+
+--- Sayfa 17 ---
+Yeni Başlayanlar İçin E-Ticaret
+15
+Temel bir iş planı örneklere göre farklılık gösterebilir. Ancak girişimciler için kul-
+lanılabilecek bir iş planı genel olarak aşağıdaki bölümlerden oluşur.
+1.
+Profesyonel özet
+2.
+Şirket analizi
+3.
+Pazar analizi
+4.
+Müşteri ve rekâbet analizi
+5.
+Pazarlama planı
+6.
+Üretim, tedarik ve geliştirme planı
+7.
+Yönetim planı
+8.
+Finansal plan
+9.
+Ekler
+
+1. Profesyonel özet
+Girişiminize ait tüm iş planlarınızın özetini içerir. Yapılacak olan iş, girişimcinin
+özellikleri ve hedefleri, sektörün durumu, pazarlama stratejileri ve işin yapılması
+için gerekli olan finansal kaynakların özeti yer alır.
+Yatırımcılar oluşturulan bu özete bakarak girişimin yatırım yapmaya değer olup
+olmadığına karar verirler.
+2. Şirket analizi
+Şirket analizi şu an kurulu olan veya kurmakta olduğunuz şirketinizin stratejik
+olarak değerlendirilmesini içerir. Aşağıdaki sorular ve benzerleri şirket analizi
+bölümünde yer almalıdır.
+Şirketinizi farklı kılabilecek ürün ve hizmetler neler?
+Şirketiniz hangi stratejilerle fırsatları lehine çevirebilir?
+Şirketinizin organizasyon yapısı nedir?
+
+--- Sayfa 18 ---
+Yeni Başlayanlar İçin E-Ticaret
+16
+3. Pazar analizi
+Geleneksel firmalara göre çok daha kısa sürede markalaşan ve önemli bir hacme
+ulaşan e-ticaret girişimi örnekleri, girişimcilik ruhu taşıyanları elbette ki teşvik
+ediyor. Ancak girişimlerin çok azı gerçekten başarılı olabiliyor.
+Nasıl ki fiziksel bir dükkan açmadan önce çevredeki müşteri potansiyeli, satılan
+ürüne olan talep ve tahmini satış miktarı gibi unsurlar araştırılıp analiz ediliyor-
+sa, e-ticarette de bir girişimde bulunmadan önce iyi bir pazar analizi yapmak
+gerekiyor.
+Pazarın durumu ve potansiyeli
+E-Ticaret girişiminizin yer alacağı pazarın büyüklüğü ve potansiyeli bilmek
+önemlidir. Pastanın büyüklüğü ve potansiyeli, girişimin ne kadar büyüyebilece-
+ği konusunda bir ön fikir verecektir. Pasta eğer büyükse ve potansiyel taşıyorsa,
+buna paralel olarak çok sayıda oyuncu yer alacaktır.
+Rakipler
+Belli bir iş modelinde bir girişimde bulunmadan önce, girmeyi düşündüğünüz
+alanda başka girişimlerin olup olmadığını, bu girişimlerin ölçeğini ve pazar pay-
+larını bilmek gerekir. Genellikle ilk olmanın önemli bir avantajı vardır. Eğer ilk
+değilseniz, pastanın büyüklüğüne bakarak, rakiplerinizden ne kadar pay çalabi-
+leceğinizin analizini iyi yapmanız gerekiyor.
+
+--- Sayfa 19 ---
+Yeni Başlayanlar İçin E-Ticaret
+17
+İyi ve kötü örnekler
+Girişim yapacağınız alanda daha önceden denenmiş başarılı ve başarısız örnekle-
+rin iyi analiz edilmesi gerekir. Başarılı olanların neden başarılı oldukları, başarısız
+olanların neden başarısız olduklarını bilmek, pazarın bu girişimlere nasıl reaksi-
+yon verdiğini analiz etmek, hareket planınızı yaparken size kılavuzluk edecektir.
+Pazar trendleri
+Pazarın trendlerinin şirketinizi ve stratejilerinizi nasıl etkileyeceğini, bunları nasıl
+fırsata dönüştürebileceğini belirlemek, orta ve uzun vadede girişiminiz için hayati
+rol oynayacaktır.
+Örneğin e-ticaret sektörünün genel trendi olarak mobil e-ticaretin yükselişini ve
+buna yatırım yapacak firmaların daha avantajlı hale gelebileceklerini söyleyebi-
+liriz.
+Pazar trendlerini henüz başlangıç aşamalarında görmek ve buna uygun stratejiler
+geliştirmek fark yaratacaktır, çünkü genelde ilkler hatırlanır.
+Yeterli yatırımı alamayan vipdukkan.com mevcut
+rekâbet koşullarında daha fazla  devam edemeyerek
+2013 yılı içerisinde kapanmıştı.
+
+--- Sayfa 20 ---
+Yeni Başlayanlar İçin E-Ticaret
+18
+4. Müşteri ve rekâbet analizi
+Pazardaki müşteri profilini ve rekâbeti iyi analiz etmek de farklılaşabilmek için
+önemlidir. Başarılı pazarlama stratejileri ile rakiplerinize göre farklılaşarak öne çı-
+kabilirsiniz. Bu bölümde aşağıdaki ve benzeri konu başlıkları yer alır.
+•
+Müşterinin ihtiyaçları
+•
+Müşterilerinizin demografik yapısı
+•
+Ürün hizmet/talep yapısı
+•
+Rakipleriniz hangi stratejileri kullanıyorlar?
+•
+Rakiplerinizin güçlü ve zayıf yanları
+•
+Rakiplerinizin sizi taklit etme olanakları ve süresi
+5. Pazarlama planı
+Ürün ve hizmetleri hedef kitleye ulaştırma planları, pazarlama aktivite planı bu
+bölümde yer almaktadır. Bir pazarlama planı aşağıdaki bölümlerden oluşabilir.
+•
+Pazarlama stratejileri
+•
+Ürün ve hizmetler
+•
+Ücretlendirme
+•
+Reklam ve tanıtım bütçesi
+•
+Dağıtım
+•
+Satış planı
+•
+Müşteri ilişkileri
+6. Üretim, tedarik ve geliştirme planı
+Ürün veya hizmet üretim iş akışı üretim/tedarik planlaması, gerekli personel (iş-
+gücü), girdiler ve ekipmanlarla işyerinin kuruluş yeri ve özellikleri bu bölümde yer
+alır.
+
+--- Sayfa 21 ---
+Yeni Başlayanlar İçin E-Ticaret
+19
+7. Yönetim Planı
+Satın alma, satış, pazarlama ve destek süreçlerinin planlaması, örgüt şeması, per-
+sonelin görev ve sorumlulukları gibi üretim dışı faaliyetlere dair planlamalar bu
+bölümde yer alır.
+8. Finansal Plan
+İş planındaki en önemli kısımlardan birisi finansal plandır. İşletmenin kurulması
+için gerekli yatırım ve işletme sermayesi ihtiyacı, işletmenin ihtiyaç duyduğu
+toplam yatırım ihtiyacı ve potansiyel finansal kaynaklar, işletmenin kredi ihtiyacı,
+tahmini nakit akışı ve kârlılığı gösteren hesaplamalar finansal planda yer alır.
+9. Ekler
+Çalışma tabloları, yasal doküman kopyaları, çeşitli belge ve diyagram gibi metin
+harici dökümanlar bu bölümde yer alır.
+
+--- Sayfa 22 ---
+Yeni Başlayanlar İçin E-Ticaret
+20
+Girişimcilik ve Yatırımcı Süreçleri
+Girişimcilik
+Girişimci, genellikle yenilikçi bir fikre sahip olarak, fırsatları görüp risk alan kişi-
+dir. Girişimci olan birisi yetenekli, cesur ve bilgi sahibidir. Bu yüzden her iş kuran
+kişiyi girişimci olarak tarif etmek doğru olmaz.
+Günümüzde İnternet ekonomisinin cazibesi ve bununla ilgili olarak sunulan im-
+kânlar girişimci profilinin de değişmesine sebep oldu. İnternet öncesi dönem-
+lerin girişimcileri sermaye sahibi olan kişilerden oluşuyordu. Bugünse iyi bir iş
+fikri ve iş planı olan birisi, gerekli sermaye desteğini dışarıdan sağlayarak iş fikrini
+hayata geçirebiliyor ve girişimci olabiliyor. Başarıya ulaşmış çoğu e-ticaret proje-
+sinin ardında da bu tarz bir girişimcilik öyküsü yer alıyor.
+Ülkemiz, barındırdığı genç nüfusla İnternet girişimciliği açısından avantajlı bir
+demografik yapıya sahiptir ancak girişimcilik kültürü henüz yeni yeni gelişmek-
+tedir. Türkiye’deki okullarda ve okul dışında girişimcilik eğitimi alabilenlerin
+oranı %6,3 iken, Almanya’da %21,2, İngiltere’de %18,4 ve Güney Kore’de %13,6’dır.
+İş fikrini hayata geçirmek isteyen ve finansal desteğe ihtiyacı olan girişimcilerin,
+girişim sermayesini temin etmek için çeşitli seçenekleri mevcuttur. Bunlardan
+en riskli olanı, girişimcinin kendi olanakları ile hareket ederek kredi kullanma-
+sıdır. Risk sermayesi olarak da adlandırılabilecek olan girişim sermayesini temin
+etmek için fon sahibi sermayedarlara ulaşmak veya hibe destekler daha makul
+çözümlerdir.
+
+--- Sayfa 23 ---
+Yeni Başlayanlar İçin E-Ticaret
+21
+Ülkemizdeki girişim yatırımcılığının
+imkânlarını değerlendirmek için fi-
+nansman bulma olanaklarına bakabi-
+liriz. Örneğin yeni şirketlerin kurula-
+bilmesi için ihtiyaç duyulan finans-
+man bulma oranı ABD’de %96, İngil-
+tere’de %85, Almanya’da %48 iken
+Türkiye’de %12’dir. Melek yatırımcı
+ağlarının milyon kişiye oranı ABD’de
+1,10, İngiltere’de 1,00, Almanya’da
+0,51  iken, Türkiye’de 0,07’dir.
+Bir girişimin gelişim sürecinde 3 farklı
+finansman ihtiyacı aşaması vardır:
+Başlangıç aşaması: Girişim fikrinin
+oluştuğu, geliştirildiği, şirketin kurul-
+duğu ve pazara giriş yaptığı aşa-ma-
+dır. Bir girişimin her açıdan en zayıf
+olduğu aşamadır.
+Büyüme aşaması: Şirketin kurulduğu
+ve artık pazara açıldığı, iş planının
+yazılarak gelir akışının oluşmaya baş-
+ladığı aşamadır. Bu dönemde hızlı
+büyüme ile birlikte gelirlerin, gider-
+leri karşılamaya başlanması beklenir.
+Olgunluk aşaması: Şirketin gelir açısından
+olgunluğa ulaştığı aşamadır. Hızlı büyüme
+yerini, oturmuş bir büyüme oranı ve sürdü-
+rülebilir bir gelir modeline bırakmıştır.
+Devlet destekleri
+Devlet tarafından hibe ve kredi şeklindeki
+doğrudan ya da vergi muafiyeti veya banka
+kredisi, için teminat ve kefalet gibi dolaylı
+olarak sağlanan desteklerdir. Ülkemizde
+devletin 6 kurumu girişimcilere destek sağ-
+lamaktadır.
+•
+KOSGEB
+•
+TÜBİTAK
+•
+Bilim, Sanayi ve Teknoloji Bakanlığı
+•
+Türkiye Odalar ve Borsalar Birliği
+•
+Ekonomi Bakanlığı
+•
+Kalkınma Bakanlığı’na bağlı Bölge-
+sel Kalkınma Ajansları
+Bu girişimci destekleri sadece İnternet
+odaklı girişimler için kurgulanmasa da, İn-
+ternet girişimcileri de yararlanabilmektedir.
+
+--- Sayfa 24 ---
+Yeni Başlayanlar İçin E-Ticaret
+22
+
+--- Sayfa 25 ---
+Yeni Başlayanlar İçin E-Ticaret
+23
+Kuluçka Merkezleri ve Hızlandırma Programları
+Kuluçka merkezleri iş fikirlerine yatırımdan ziyade kurulum aşamasında mentor-
+luk, ofis yeri sağlama, pazarlama ve yönetim gibi destekler sağlayarak o iş fikrinin
+olgunlaşmasını sağlarlar.
+Ülkemizde de sayıları giderek artan kuluçka merkezleri ve hızlandırma program-
+ları sayesinde yüksek potansiyel taşıyan iş fikirleri yatırımcılarla buluşma imkânı
+buluyor.
+Türkiye’de bu amaçla faaliyet gösteren ve e-ticaret projelerine de destek veren
+kuluçka merkezleri ve hızlandırma programlarını şöyle sıralayabiliriz.
+•
+eTohum
+•
+Girişim Fabrikası
+•
+TEB Girişim Evi
+•
+Arı Çekirdek
+•
+Embryonix
+•
+Viveka
+•
+Enkuba
+•
+Sabancı Kuluçka Merkezi
+•
+TOBB Garaj
+
+--- Sayfa 26 ---
+Yeni Başlayanlar İçin E-Ticaret
+24
+Melek Yatırımcı (Angel Investor)
+Yüksek potansiyel ve risk taşıyan bir firma veya iş fikrinin büyüyüp gelişmesi için
+henüz yolun başındayken finansal destek sağlayarak yatırım yapan bireysel fon
+sahiplerine “melek yatırımcı” denir.
+Melek yatırımcılık son 20-30 yıl içerisinde özellikle ABD ve Avrupa’da ortaya çık-
+mıştır ve dünyanın diğer bölgelerinde de gelişim göstermektedir.
+Genellikle deneyimli işadamları ve iş kadınlarından oluşan melek yatırımcılar, risk
+sermayedarlarından farklı olarak yatırıma değil projeye destek olarak katılırlar.
+Geçmiş deneyimleri doğrultusunda ilgi alanında olan bir girişime yatırım yapan
+melek yatırımcı, mentorluk, altyapı, networking ve pazarlama gibi farklı alanlar-
+da da girişime katma değer sağlayarak projenin büyümesine yardımcı olur. Melek
+yatırımcılar kuluçka merkezlerinden daha yüksek oranlarda pay talep edebilirler.
+Melek yatırımcılar aynı zamanda yatırımcı grupları ve ağlar oluşturarak kolektif
+şekilde de hareket ederler.
+Ülkemizde henüz başlangıç aşamasındaki melek yatırımcılığın desteklenme-
+si amacıyla 4059 sayılı kanunun ek 5. Maddesine dayanılarak hazırlanan ve
+15.02.2013’te yürürlüğe giren Bireysel Katılım Sermayesi Yönetmeliği ile me-
+lek yatırımcı olmak isteyenler Hazine Müşteşarlığı’ndan lisans almaları halinde,
+yıllık 1 milyon TL’yi geçmeyen vergi indirim hakkı kazanmaktadır.
+Ülkemizdeki bazı önemli melek yatırımcılar şunlardır:
+•
+Nevzat Aydın
+•
+Burak Büyükdemir
+•
+Çağlar Erol
+•
+Sina Afra
+•
+Cem Sertoğlu
+
+--- Sayfa 27 ---
+Yeni Başlayanlar İçin E-Ticaret
+25
+Risk Sermayesi
+(Venture Capital)
+Yüksek risk ve yüksek büyüme potansi-
+yeli taşıyan yatırım fonlarıdır. Risk ser-
+mayesi fonları yeni teknolojiye dayalı
+firmaların hızlı büyümesinde önemli rol
+oynarlar. Venture Capital şirketleri bir-
+den fazla yatırımcının fonlarını ortak
+bir havuzda toplarlar ve riski dağıtmak
+için birden fazla girişime yatırım ya-
+parlar. Risk sermayesi şirketleri yapıları
+gereği finansal yatırımcılar oldukların-
+dan dolayı yatırım yaptıkları şirketler-
+de genellikle azınlık hissedarı olurlar.
+Türkiye’de faaliyet gösteren risk serma-
+yesi şirketlerinden bazıları şunlardır:
+•
+212 Venture Capital
+•
+Young Turk Venture
+•
+Aslanoba Capital
+•
+iLab Venture
+•
+Endeavor
+•
+İş Girişim Sermayesi
+•
+Teknoloji Yatırım A.Ş
+•
+Aksoy Internet Venture
+•
+Esas Holding
+•
+Rhea Girişim
+•
+Kobi Girişim Sermayesi
+•
+Istanbul Venture Capital
+•
+Inventram
+•
+Labx
+•
+Globalturk Capital
+•
+Revo-Capital
+•
+Galata Business Angels
+•
+Alesta Girişim
+•
+BIC Angel Investments
+Dünya’daki önemli risk sermayesi şir-
+ketleri arasında Türkiye’de yatırım yap-
+mış olanlardan bazıları şunlardır:
+•
+Intel Capital
+•
+Hummingbird Ventures
+•
+ePlanet Capital
+•
+General Atlantic
+•
+Corporate Finance Partners
+•
+3TS Capital Partners
+•
+Pond Ventures
+•
+Tiger Global
+•
+Lumia Capital
+•
+Ru-net
+•
+Quants Financial Services
+Özel Sermayeler
+(Private Equity)
+Henüz halka açılmamış şirketlere risk
+sermayesinden daha büyük yatırımlar
+yapan sermaye türüdür. Hızlı büyüyen
+şirketler bu tür yatırımlarla daha yük-
+sek ivmeli büyüme şansı elde ederler.
+
+--- Sayfa 28 ---
+Yeni Başlayanlar İçin E-Ticaret
+26
+3. Teknik Altyapı
+•
+Hazır e-ticaret paketleri
+•
+E-Ticaret sitesi yazılımı ve hosting
+•
+ERP & CRM
+•
+E-Ticarette Güvenlik
+•
+Ödeme Sistemleri
+Hazır E-Ticaret Paketleri
+
+Özellikle dikey modelde iş yapmayı dü-
+şünen düşük bütçeli e-ticaret girişimleri
+için hazır e-ticaret paketleri son derece
+idealdir. Bir e-ticaret sitesi yazılımını sıfır-
+dan oluşturmak zaman, bütçe ve bir ekip
+gerektirir. Ancak bir hazır bir e-tica-
+ret paketi oldukça ucuz ve zahmetsiz bir
+çözümdür.
+Hazır e-ticaret paketlerinin avan-
+tajlarını şöyle sıralayabiliriz:
+
+Uzun geliştirme süreçleri sonucunda or-
+taya çıkmıştır. Bu geliştirme sürecinde
+ihtiyaç duyulabilecek bir çok özellik ek-
+lenmiştir ve olası önemli hatalarının çoğu
+tespit edilip giderilmiştir.
+Kendi geliştirme ekibinize ihtiyaç yoktur,
+hizmeti veren firma paketi sürekli geliştirir
+ve teknik destek sağlar.
+Hazır e-ticaret paketleri bulut hizmeti
+özelliğinde olduğu için hostingle de uğ-
+raşmanız gerekmez. Paket sizin yerinize
+hizmeti host eder.
+Tedarikçi firmaların ürün, fiyat ve stok bil-
+gisini kullanmak üzere önemli firmaların
+XML entegrasyonları hazırdır.
+Sanal POS başta olmak üzere önemli
+ödeme sistemlerinin entegrasyonları
+hazırdır.
+Görünümde ve seçeneklerde ihtiyaç-
+lara göre özelleştirme imkânı bulu-
+nur.
+Varolan bir hizmeti kiraladığınız için
+ucuz bir çözümdür.
+E-Ticaret girişiminiz belli bir hacme
+ulaştıktan sonra farklılaşmak adına
+kendi yazılım ekibinizi oluşturup,
+kendi e-ticaret yazılımınızı gelişti-
+rebilirsiniz. O zamana kadar hazır
+e-ticaret paketleri ile hizmet vermek
+firmanın giderleri açısından rasyonel
+bir çözümdür.
+Türkiye’de hazır e-ticaret paketi hiz-
+meti veren firmalardan bazılarını
+Ideasoft, Hemenal, T-Soft, EStore-
+park, Summercart, Platin Market,
+Neticaret ve Shop & More olarak sı-
+ralayabiliriz.
+
+--- Sayfa 29 ---
+Yeni Başlayanlar İçin E-Ticaret
+27
+E-Ticaret sitesi yazılımı ve
+hosting
+
+Kendi e-ticaret yazılımını geliştirmeyi
+düşünen bir girişimin içerisinde kaliteli
+bir yazılım ekibi ve hosting konuların-
+da destek verecek IT elemanları bulun-
+malıdır. Peki hazır e-ticaret paketleri
+bu kadar avantajlıyken neden kendi
+yazılımımızı geliştirme ihtiyacı   duya-
+lım?
+Kendi e-ticaret sitesi yazılımını
+geliştirmenin avantajları:
+
+Size özel tasarım ve altyapıya sahip si-
+teyle müşterilerinize daha fazla güven
+verirsiniz. Bu da markalaşmanıza yar-
+dımcı olur.
+Kullanacağınız ERP ve CRM yazılımları
+ile e-ticaret siteniz arasında kolayca
+entegrasyon sağlayabilirsiniz.
+Herhangi bir kısıtlama olmadan isteni-
+len her kısımda değişikliği ve özelleş-
+tirmeyi yapabilirsiniz. Sitenizi rakipleri-
+nizden farklı kılabilecek yeni bölümler
+ve özellikler ekleyebilirsiniz.
+E-Ticaret sitenizin web barındırma
+(hosting) hizmeti de teknik altyapının
+önemli kısımlarından biridir. Güvenilir
+ve altyapısı sağlam firmalardan hizmet
+almak, daha sonradan yaşanabilecek
+kötü süprizlerin önüne geçecektir.
+ERP & CRM
+E-Ticaret sitesi yazılımınız teknik altya-
+pınızın görünen kısmıdır. Firma içi tüm
+süreçlerinizi ERP (Enterprise Resource
+Planning / Kaynak Planlama) yazılımları
+ile yönetebilirsiniz. ERP yazılımları saye-
+sinde tüm operasyonunuzu tek kaynak
+üzerinden yürütebilirsiniz.
+ERP yazılımını hazır olarak alabileceğiniz
+gibi, kendi kaynaklarınızla da geliştirebi-
+lirsiniz. Ancak e-ticaret sitesi yazılımı ge-
+liştirme süreçlerinde avantaj ve dez-
+avantajlar bunun için de geçerlidir.
+ERP yazılımları, firmanın operasyon
+ve personel süreçlerindeki işlem sa-
+yısının çok fazla olması durumunda
+kullanılması
+anlamlı
+olabilecek
+bir
+çözümdür.
+CRM (Customer Relationship Manage-
+ment / Müşteri İlişkileri Yönetimi) yazı-
+lımları da müşteri süreçlerinizi yönete-
+bileceğiniz yazılımlardır. CRM ile müşteri
+bilgileri ve tercihlerini içeren verileri
+toplayabilir ve bunu ürün ve hizmetle-
+rinizi pazarlarken kişiye özel ayrıştırmalar
+yapmak için kullanabilirsiniz.
+CRM yazılımları ayrı olabileceği gibi ERP
+yazılımları içerisinde bir modül olarak da
+bulunabilirler.
+
+--- Sayfa 30 ---
+Yeni Başlayanlar İçin E-Ticaret
+28
+E-Ticarette Güvenlik
+
+E-Ticaret dünyada ve ülkemizde emin adımlarla büyürken, Türkiye’deki İnternet
+kullanıcılarından 5’te 1’i online alışveriş yapıyor. Tüketici tarafında online alışve-
+rişle ilgili en fazla kaygı uyandıran konu güvenlik. Kişisel bilgiler ve en önemli online
+ödeme aracı olan kredi kartı bilgilerinin çalınma riski tüketicileri rahatsız ediyor.
+Online alışverişteki güvenlik kaygısı sadece müşteri tarafında değil, satıcı tarafında
+da olduğundan ötürü işlemleri güvenli hale getiren SSL ve SET gibi güvenlik stan-
+dartları geliştirildi.
+SSL (Secure Sockets Layer)
+Web üzerindeki bilgi aktarımının doğru kişiye iletimi için geliştirilmiş bir program
+katmanıdır. Bilgiyi gönderen ve alan arasında karşılıklı olarak doğrulama sağlayan
+SSL, oturum bilgisini esas alarak bilgiyi şifreleme yoluyla gönderir ve karşı tarafta
+deşifre edilen bilgi, alıcı tarafından kullanılır hale gelir.
+SSL teknolojisi sunucuyu tanımak için dijital imzalı sertifikaları kullanır. Bu sunucu
+sertifikaları kurum hakkında bilgiler içerir. SSL sertifikaları VeriSign gibi güvenilir
+sertifika kuruluşları tarafından dağıtılır.
+SET (Secure Electronic Transaction)
+E-Ticarette güvenli bilgi aktarımını sağlamak, özellikle de kredi kartı işlemlerini
+güvenli hale getirmek amacıyla oluşturulmuştur. IBM, MasterCard ve VISA gibi
+önemli kuruluşlar tarafından geliştirilir.
+
+--- Sayfa 31 ---
+Yeni Başlayanlar İçin E-Ticaret
+29
+Ödeme Sistemleri
+
+Bir e-ticaret sitesinin başarısını etkileyen en önemli sebeplerden birisi ödeme
+seçeneklerinin zenginliğidir. Bir online alışveriş sitesinde ödeme seçenekleri
+ne kadar çok olursa, bununla ilgili olarak siparişten vazgeçme oranları
+düşerken, dönüşüm oranları yükselmiş olur.
+Dönüşüm
+oranı,
+bir
+e-ticaret
+sitesinde
+alışveriş
+yapan
+müşteriler-
+in, siteyi ziyaret eden tüm kullanıcılara (potansiyel müşterilere) oranıdır.
+
+Müşterilerin sepeti terk etme, yani alışverişten vazgeçme oranı da dönüşüm or-
+anının en kritik noktalarından biridir.
+Müşterilerin sepeti terk etme (drop out) oranı 2013’te %65 olarak gerçekleşti.
+Sepeti terk etme nedenleri arasında ödeme seçeneklerinin yetersiz olmasının
+oranı ise %7.
+Ülkemiz özellikle banka altyapıları ve son yıllardaki yeni ürün ve hizmetler
+sayesinde ödeme sistemleri açısından oldukça fazla seçeneğe sahip hale geldi.
+
+--- Sayfa 32 ---
+Yeni Başlayanlar İçin E-Ticaret
+30
+Sanal POS
+
+E-Ticaret ödeme sistemleri arasında en yaygın kullanılanı, kredi kartı ve banka
+kartı ile ödeme yapmaya imkân veren sanal pos sistemidir. Özellikle ülkemizdeki
+bankaların sunduğu seçeneklerdeki bolluk da kredi kartı ve banka kartı kullanı-
+mını yaygın hale getirdi.
+
+Bankalararası Kart Merkezi (BKM) verilerine göre 2013 sonunda Türkiye’de 28
+milyon kişiye ait 56,8 milyon adet kredi kartı, 100,2 milyon adet banka kartı ol-
+mak üzere toplamda 157 milyon adet banka kartı bulunuyor. Yine BKM verilerine
+göre 2013 yılında 400 milyar TL dolayında kartlı ödeme gerçekleşti. Bu ödeme-
+lerin 35 milyar TL’lik kısmı ise İnternet üzerinden gerçekleşti. Bir önceki yıla göre
+%37 artış gösteren online kartlı ödemeler, 40 milyar TL’lik (2013) toplam e-ticaret
+hacminin %87,5’ini oluşturuyor. Bu da gösteriyor ki e-ticaretin en önemli ödeme
+aracı sanal pos olmaktadır.
+Firmalar, bankaların sunduğu sanal pos hizmetinden yararlanmak için ilgili ban-
+kaya üye işyeri başvurusu yaparlar. Başvuru sonucu incelemeden geçen firma,
+olumlu geri dönüş olması halinde sanal posu kendi e-ticaret sitesine entegre
+eder. Üye işyeri olan firmalar yıllık düzenli bir üyelik bedeli öderler.
+Sanal POS, bir İnternet ödemesinin güvenli bir şekilde alınmasını sağlar, yani in-
+ternet üzerinden transfer edilen bilgilerin 3. şahısların ellerine geçmesini önle-
+mek için kullanılan SSL şifreleme tekniği ile uyumlu çalışır. Tüm bu güvenli yapısı-
+na rağmen sanal pos kullanımının da riskleri vardır ve tüketici tarafında bu riskler
+çoğu zaman abartılı şekilde algılandığı için online ödeme yapmaktan kaçınan
+potansiyel müşteriler bulunmaktadır. Bu mevcut durum, e-ticaret ödeme sistem-
+lerinin çeşitlenmesine ve kartlı ödemeleri daha güvenli hale getiren seçeneklerin
+ortaya çıkmasına sebep oldu.
+
+--- Sayfa 33 ---
+Yeni Başlayanlar İçin E-Ticaret
+31
+3D Güvenli Ödeme
+
+Sanal POS ödemelerini güvenli hale
+getirmek için Visa ve MasterCard tara-
+fından geliştirilen 3D ödeme sistemin-
+de e-ticaret siteleri ödeme esnasında
+müşterileri bankaların 3D güvenli öde-
+me sayfasına yönlendirir. Telefon doğ-
+rulaması ve şifre kullanılarak yapılan
+3D ödemeleri, kart sahibine iki aşamalı
+bir güvenlik sunar ve bu tür ödemeler
+provizyona takılmadan işlem tamam-
+lanmış olur.
+
+Bu ödeme tipi SSL sertifikası olmayan
+sitelerin ortak olarak kullanabileceği
+güvenli ödeme sayfası sağlar. SSL ser-
+tifikası bulunan firmalar da sitelerinde
+3D güvenli ödeme sayfasını kullana-
+bilirler. 3D güvenli ödeme sistemi kart
+sahtekârlıklarını azalttığı için, charge-
+back (geri ödeme) denilen, firmanın
+kart sahibine işlem ücretini iade oran-
+ları da azalmış olur.
+BKM Express
+Kartlı alışverişleri daha pratik ve güven-
+li hale getirmek amacıyla Bankalarara-
+sı Kart Merkezi tarafından oluşturulan
+BKM Express ödeme sistemi, farklı ban-
+kalara ait kartlarınızı e-ticaret sitelerinde
+şifre girmeden güvenli ve pratik olarak
+kullanabilmenizi sağlar.
+Bu sistemde farklı bankalara ait kart-
+larınızı bir kereliğine BKM Express’e ta-
+nımlıyorsunuz. BKM Express ödeme sis-
+temini destekleyen e-ticaret sitelerinde
+kart bilgilerini girmeden ödemenizi
+güvenli olarak tamamlayabiliyorsunuz.
+Bütün büyük bankaların dahil oldu-
+ğu BKM Express sistemine, aralarında
+Türk Hava Yolları, Teknosa, Markafoni,
+Migros Sanal Market ve D&R  gibi bü-
+yük firmaların da yer aldığı 200’ü aşkın
+e-ticaret sitesi kullanmaktadır. Sistemin
+kayıtlı üye sayısı da 2013 sonu itibarıyla
+220 bini aşmış durumdadır.
+PayPal
+Dünya genelinde online cüzdan olarak
+hizmet veren en önemli firmaların ba-
+şında gelen PayPal, 15 yılı aşkın bir geç-
+mişe sahip. PayPal da yine BKM Express
+gibi kredi kartlarınızı kullanarak veya
+diğer PayPal hesaplarından para akta-
+rarak ödeme yapabileceğiniz güvenli
+bir ödeme sistemi. PayPal’in diğer öde-
+me biçimlerine göre en büyük avantajı,
+sistemi kullanmak için ticari bir işletme
+olmanın gerekmemesi.
+
+--- Sayfa 34 ---
+Yeni Başlayanlar İçin E-Ticaret
+32
+PayU
+
+Sanal POS almaksızın tek bir sözleşme
+ve entegrasyonla ile 7 banka kartının
+(Bonus, World, Axess, CardFinans, Maxi-
+mum, AsyaCard ve Paraf) sanal pos kul-
+lanımını sunan yeni bir ödeme türüdür.
+PayU, müşterilerine sağladığı ve özelleş-
+tirilebilen ortak ödeme sayfası ile aynı
+zamanda BKM Express’i de ödeme seçe-
+neği olarak sunar.
+Sahtecilik izleme ve önleme üzerine gü-
+venlik hizmeti sunan PayU, tekrarlayan
+ödemeler tanımlanabilmesini de sağlar.
+PayU altyapısı ile tüm bankalara ait iş-
+lemler tek bir ekrandan yönetilebiliyor.
+PayU sunduğu tüm bu zengin seçenek-
+lerle ciddi bir ödeme altyapısı olarak dik-
+kat çekiyor.
+Mobil Ödeme Sistemleri
+Telefon operatörü kullanarak ödeme ve
+mobil uygulama üzerinden yapılan öde-
+me olmak üzere temelde iki çeşit mobil
+ödeme sistemi vardır.
+Telefon operatörü kullanarak
+ödeme
+Anlaşmalı üye işyerlerindeki alışveriş-
+lerde cep telefonuna gelen sms mesajı
+doğrulaması ile yapılan ödeme şeklidir.
+Mobil ödemelerde kredi kartı veya nakit
+para transferi yöntemi kullanılmaz. Öde-
+menin tutarı faturalı hatta yansıtılır veya
+hazır kart kullanıcısının TL hesabından
+düşülür.
+Mobil telefon operatörlerinin sağladığı
+altyapı ile gerçekleştirilir.
+Mobil uygulama üzerinden
+ödeme
+Cep telefonu uygulamaları kullanarak
+anlaşmalı anlaşmalı sitelerden alışveriş,
+para transferi  ve temassız ödeme ya-
+pılabilmesini sağlayan güvenli ödeme
+sistemleridir.
+Havale / EFT
+Kredi kartı kullanımı vadelerden doğan
+komisyon ücretleri içerdiğinden dolayı
+ürün ve hizmetlerin ödeme tutarı nakit
+ödemeye göre daha yüksek olabilir. Bu
+sebeple tüketicilerin bir kısmı havale ve
+EFT (Elektronik Fon Transferi) yoluyla
+peşin ödeme yapmayı tercih ederler.
+Bu tür işlemlerin onay süresi kartlı iş-
+lemlere göre daha yavaştır.
+Kapıda Ödeme
+Online alışverişe temkinli yaklaşan ve
+kart bilgilerini İnternet üzerinde pay-
+laşmak istemeyen müşterilerin tercih
+ettiği bir ödeme biçimidir. Kapıda öde-
+meler, kargo firmaları tarafından ürü-
+nün teslimi ile birlikte gerçekleştirilir.
+
+--- Sayfa 35 ---
+Yeni Başlayanlar İçin E-Ticaret
+33
+4. Operasyon
+•
+Tedarik Zinciri Yönetimi
+•
+Ürün Yönetimi
+•
+Lojistik ve Depolama
+•
+Sevkiyat ve Kargolama
+Tedarik Zinciri Yönetimi
+
+E-Ticarette satılan iki temel unsur ürün ve hizmettir. Eğer satılan şey bir
+ürünse, bunun üretiminin ve/veya tedariğinin planlanması gerekir. Teda-
+rik zinciri yönetimi genel olarak müşteriye doğru ürünün, doğru zaman-
+da, doğru yerde ve doğru fiyatla ulaştırılması, satıcı tarafından bu işlemle-
+rin en düşük maliyetle gerçekleştirilmesi amacını kapsayan, malzeme, bilgi ve
+para akışının entegre şekilde yönetilmesini içerir.
+90’lardan önce tedarik yönetimi temel anlamda ürünün tedariği, depolanma-
+sı ve sevki aşamalarından oluşan bir süreçti. Bilgi ve iletişim teknolojilerindeki
+gelişmeler, artan müşteri sayısı ve rekâbet sonucunda tedarik zinciri yönetimi
+aşamaları ve yönetimi daha fazla strateji gerektiren bir alan haline geldi.
+Üretici olmayan bir firma için ürünlerin tedariği doğrudan üretici, dağıtıcı veya
+toptancı kanallarından birinden sağlanabilir. Müşterilere ürün devamlılığını sağ-
+lamak adına ürünlerin teminini birden fazla tedarikçi üzerinden sağlamak  daha
+akılcı olacaktır.
+Ürün Yönetimi
+Firmanın sattığı ürün ve hizmetlerin tedarik, stok planlaması, fiyatlandırılması,
+rekâbet takibi ve satış ve pazarlama stratejilerinin yönetimini içeren süreçlerdir.
+Bir e-ticaret sitesinin sattığı ürün veya ürün grupları, ürün yöneticileri veya kate-
+gori yöneticileri tarafından yönetilir.
+
+--- Sayfa 36 ---
+Yeni Başlayanlar İçin E-Ticaret
+34
+Lojistik ve Depolama
+
+Lojistik, ürünlerin taşıması, envanteri, depolaması, idaresi ve paketlemesini kap-
+sayan süreçler bütünüdür. İnsan gücü, araç ve fiziki depolama alanı gerektiren
+lojistik işlemleri firmalar için önemli masraflar yaratmaktadır. Özellikle yatay mo-
+delde çalışan firmalar günümüzde tedarikçi firmalar üzerinden XML ile ürün ve
+stok göstererek lojistik maliyetlerini minimuma indirmektedirler. Hazır e-ticaret
+paketleri, yönetim panellerinde birçok ana tedarikçinin XML’ini kullanıma hazır
+olarak sunmaktadır.
+Stok maliyetlerine girmeden satış yöntemi bir çok e-ticaret sitesi için uygun olsa
+da, geciken teslimat sürelerinden ötürü dezavantaj yaratmaktadır. Büyük e-tica-
+ret firmaları çok satılan ürünlerini doğrudan stoğa alarak teslimat sürelerini kı-
+saltma yoluna gitmekteler.
+Sevkiyat ve Kargolama
+E-Ticaret operasyonunun müşteri ayağındaki son halkası ürünlerin sevk edilmesi
+veya kargolanmasıdır. Migros Sanal Market, Çiçek Sepeti gibi ürünlerini müşteri-
+sine gün içerisinde ulaştırması gereken firmalar sevklerini kendi araçları ile ger-
+çekleştirirken, geri kalan bir çok firma ürün teslimatını kargo firmaları üzerinden
+sağlamaktadır.
+Kargo firmaları ile yapılan anlaşmalar sonucunda firmalar, sipariş hacmine göre
+ürünleri kendilerine özel indirimli fiyatlardan gönderebilmekteler. Bu ücretler belli
+bir satış limitine kadar müşteriden tahsil edilir, belli bir tutarın üzerindeki siparişle-
+rin kargo ücretleri çoğunlukla e-ticaret firması tarafından karşılanır.
+Hepsiburada.com Sultanbeyli deposu
+
+--- Sayfa 37 ---
+Yeni Başlayanlar İçin E-Ticaret
+35
+5. Pazarlama
+•
+Marka Yönetimi
+•
+SEO
+•
+SEM
+•
+Facebook Pazarlama
+•
+E-Posta Pazarlama
+•
+Diğer Dijital Pazarlama Kanalları
+Marka Yönetimi
+
+Tanımını ilk olarak 2004 yılında O’Reilly Media’nın yaptığı Web 2.0, bugün herkesin
+bildiği adıyla Sosyal Medya kavramını tanımlıyor. Buna göre artık İnternet içeriği
+sadece site sahipleri tarafından değil, kullanıcıların da katılımı ve etkileşimi ile or-
+taklaşa oluşturuluyor. Günümüzün pazarlama kanalları arasında dijital mecralar
+ve sosyal medya artık çok etkili durumda. Firmaların da kendi marka imajlarına en
+çok dikkat etmeleri gereken yerlerin başında artık dijital ortamlar geliyor.
+Dijital ortamda marka yönetimi, firmanızın veya markanızın dijital kimliğine dair
+izleme ve ölçümler yapıp, düzenli olarak koruyan ve değer katan faaliyetlerinizi
+kapsar.
+Dijital ortamda marka yönetimi yapabilmek için ilk olarak izleme yapmanız ge-
+rekir. Firmanız ve markanız hakkında çıkan haber ve yazılardan anında haberdar
+olarak, gerekli aksiyonları alabilmek için sosyal medya izleme araçlarından fayda-
+lanabilir veya bu konuda faaliyet gösteren bir firmadan hizmet alabilirsiniz.
+
+--- Sayfa 38 ---
+Yeni Başlayanlar İçin E-Ticaret
+36
+Google Alerts
+
+Ücretsiz temel izleme araçlarından biri olan Google Alerts, izleme yapmak iste-
+diğiniz anahtar kelimelerle Google üzerinde çıkan haber, blog yazısı gibi içerik-
+leri takip edebilmenizi sağlar. Seçtiğiniz kelimelerle uygun eşleşme olduğunda
+Google Alerts bir eposta göndererek sizi uyarır. Böylece sizinle ilgili olarak çıkan
+haber ve yazılar bilginiz dahilinde olur.
+Google Alerts ile sadece kendi markanızı değil, rakiplerinizi de izleyebilme şan-
+sınız olur.
+Şikayet Yönetimi
+Dijital ortamda faaliyet gösteren şirketler artık geleneksel şirketlere oranla daha
+hızlı markalaşabiliyorlar. Ancak dijital dünyanın getirdiği bu avantajın yanı sıra
+marka imajlarını zedeleyici olayların gerçekleşmesi ve hızla yayılması da bir deza-
+vantaj olarak karşımıza çıkıyor. İşte bu noktada şikâyet yönetiminin önemi ortaya
+çıkıyor.
+İyi bir şikâyet yönetimi için ilk olarak müşteri memnuniyeti politikanızı belirleme-
+niz gereklidir. Müşteri odaklı, şeffaf, erişilebilir ve objektif bir yaklaşım sergilerse-
+niz müşteri memnuniyet oranınız yüksek olacaktır.
+Bu kapsamda size müşteri tarafından sitenize iletişim formu, eposta, telefon
+veya şikâyet sitelerinden gelen her bilgi talebi ve şikâyeti yanıtlamanız önem-
+lidir. Bu talep ve şikâyetleri memnuniyetle karşılayıp, ürün ve hizmetlerini-
+zin geliştirilmesi için olumlu geri dönüşler olarak değerlendirmelisiniz.
+
+--- Sayfa 39 ---
+Yeni Başlayanlar İçin E-Ticaret
+37
+SEM
+
+Arama motoru pazarlaması (Search En-
+gine Marketing), sitenizin arama motor-
+larındaki arama sonuçlarında bulunabi-
+lirliğini artıran çalışmaların tümünüdür.
+SEM, ücretli reklam gösterimlerinin yanı
+sıra SEO adı verilen arama motoru opti-
+mizasyonunu da kapsar.
+Google Adwords
+SEM, pazar payı en yüksek arama mo-
+toru olan Google üzerine odaklanmış
+durumdadır. Adwords reklam yayıncılığı
+aracı ile seçilen kelimelerle arama so-
+nuçlarında ücretli reklamlarınızı yayın-
+layabilirsiniz. Daha sonra reklamlarınızın
+dönüş oranlarını takip ederek gerekli
+analizleri ve iyileştirmeleri yapabilirsiniz.
+Google Adwords’le entegre olarak çalı-
+şan Google Analytics, sitenizle ilgili öl-
+çümleme ve analizler yapabilmeniz için
+size detaylı istatistikler sunar.
+SEO
+Arama motoru optimizasyonu (Search
+Engine Optimization), başta Google
+olmak üzere arama motorlarında iste-
+nilen kelime ve kelime grupları arama-
+larında, ilk sayfalarda ve üst sıralarda
+çıkmak için siteniz üzerinde yapacağı-
+nız teknik uyarlama ve iyileştirmeleri
+kapsayan işlemlerdir.
+Arama motorları kendi belirledikleri
+kurallar dahilindeki algoritmalara göre
+sitelerin arama sonuçlarındaki sırala-
+malarını belirler. SEO ile sitelerin arama
+motorlarındaki performansı iyileştirilir.
+SEO tek seferlik bir işlem değildir. Hem
+arama motorlarının kural ve algoritma
+değişiklikleri, hem de rakiplerin değiş-
+ken durumlarından dolayı düzenli ola-
+rak SEO yapılması gerekir.
+Sayıları milyonları geçen web siteleri
+arasında aradığınızı bulmanın en etkili
+yolu arama motorlarını kullanmaktır.
+Adresi bilinen web sitelerinin bile bir
+çok insan tarafından Google’a adı yazı-
+larak girildiği düşünülürse, arama mo-
+toru optimizasyonunun önemi ortaya
+çıkıyor.
+SEM ve SEO konusu artık bir uzmanlık
+haline geldiğinden, bu konuda yetkin
+bir personeli ekibinize katabilir veya
+bu konuda faaliyet gösteren bir firma-
+dan hizmet alabilirsiniz.
+
+--- Sayfa 40 ---
+Yeni Başlayanlar İçin E-Ticaret
+38
+Facebook Pazarlama
+
+Facebook reklamları, facebook sayfa ve
+grupları ile uygulamalarından oluşan Fa-
+cebook pazarlaması, düşük maliyeti ve
+hedef kitleye reklam yapabilme olanağı
+sayesinde oldukça verimli bir reklam ka-
+nalıdır.
+Facebook reklamları
+Facebook, kullanıcı veritabanını kullana-
+rak reklam verenlere özelleştirilebilir, he-
+def kitleye yönelik reklam olanağı sağlar.
+Facebook reklamları size tıklamaya veya
+gösterime göre iki farklı reklam seçeneği
+sunar. Bu reklamlarla facebook sayfanızın
+abone sayısını artırabilir, facebook gönde-
+rinize veya web sitenize ziyaretçi gönde-
+rebilirsiniz.
+Facebook sayfası
+Facebook sayfaları, şirketinizin veya mar-
+kanızın ürün ve hizmetlerini takipçileriniz-
+le paylaşacağınız en önemli sosyal medya
+araçlarından biridir. Günümüzde kimse
+bir markanın web sayfasını herhangi bir
+sebep olmaksızın ziyaret etmez. Ancak fa-
+cebook sayfalarında yapılan paylaşımlarla
+takipçilerinize markanızı düzenli olarak
+hatırlatma şansınız olur.
+Facebook sayfanızda takipçiler gön-
+derilerinize yorum yazabilir, gön-
+derilerinizi başkaları ile paylaşabilir,
+düzenlediğiniz anketlere katılabilir,
+doğrudan size mesaj gönderebilirler.
+Facebook sayfanıza yapacağınız ya-
+ratıcı değişiklikler, özelleştirilmiş say-
+falar, etkileşimi artırıcı paylaşımlar,
+kampanyalar ve oyunlaştırma tabanlı
+uygulamalarla takipçilerinizi artırabi-
+lirsiniz.
+
+--- Sayfa 41 ---
+Yeni Başlayanlar İçin E-Ticaret
+39
+E-Posta Pazarlama
+
+E-Posta pazarlaması özellikle son yıllarda daha etkili hale gelen bir dijital pazar-
+lama kanalı. Facebook ve Twitter her ne kadar artık hayatımızın vazgeçilmez bir
+parçasına haline gelse de, konu müşteri kazanımı olduğunda eposta reklamları
+Facebook ve Twitter’a üstünlük sağlıyor. McKinsey’in son araştırmasına göre epos-
+ta pazarlamasının geri dönüş oranı Facebook ve Twitter’dan 40 kat daha etkili.
+Araştırmaya göre kullanıcıların %91’i hergün epostalarını kontrol ediyor.
+E-Posta pazarlamasında en çok kullanılan yöntemler, ürün ve hizmetlerinizle ilgili
+fırsat ve güncellemelerden aboneleri haberdar eden gönderiler. Özellikle düzen-
+li e-bülten gönderimi sayesinde e-ticaret sitesinin hatırlanma ve yeniden ziyaret
+oranı artıyor.
+Klasik ürün ve hizmet duyurusu, fırsat, kampanya ve e-bültenlerin yanı sıra son
+yıllarda kişilleştirilmiş eposta gönderimleri de yaygınlaşmış durumda. Müşteri-
+nin bakıp henüz satın almadığı, sepetine atıp alışveriş yapmadan çıktığı, stokta
+olmadığı için alamadığı ürünler kişiye özel eposta gönderimleriyle müşteriye ha-
+tırlatılıyor. Bu tarz kişiye özel gönderimler sayesinde yeniden ziyaret ve alışveriş
+gerçekleşme oranları artıyor.
+Günlük, haftalık veya aylık periyotlarda ürün ve hizmetlerinizle ilgili gönderim-
+ler yaparak müşterilerinizi sitenize çekebilirsiniz. E-Bülten gönderimlerinizi kayıtlı
+müşteri veritabanınıza ve sitenizde açacağınız e-bülten aboneliği ile kazanacağı-
+nız takipçilerinize yapabilirsiniz. E-Bültenlerin görünen bir yerinde mutlaka abo-
+nelikten çıkma seçeneği olmalı. E-Bülten aboneliklerinizde ad soyad kaydı alır-
+sanız, kişilere adları ile hitap ederek başlayan gönderimler yapabilirsiniz. Bu tarz
+kişiye özel gönderimler daha etkili bir müşteri deneyimi yaratacaktır.
+
+--- Sayfa 42 ---
+Yeni Başlayanlar İçin E-Ticaret
+40
+Toplu e-posta gönderimlerinizin spam diye tabir edilen istem dışı reklam amaçlı
+gönderilerle aynı statüye girmemesi için bu gönderimler özel sunucular üzerin-
+de, özel programlar yardımıyla ve belli kurallara uyarak yapılmalıdır. İzinli eposta
+listenize bu gönderimleri kiralayacağınız bir sunucu hizmeti ile yapabilir veya ta-
+mamen bu konu üzerinde çalışan firmalardan hizmet alabilirsiniz. Bu tür firma-
+lar eposta gönderimlerinizin gelen kutularına erişimi konusunda büyük oranda
+garanti verir. Sundukları detaylı istatistiklerle gönderdiğiniz e-postalardan kaçının
+alıcısına ulaştığını, görüntülendiğini ve tıklandığını, kaç tane eposta adresinin ak-
+tif olmadığını görebilirsiniz.
+E-Posta gönderimlerinizin etkili geri dönüşler sağlaması için, gönderinizdeki bağ-
+lantınızı web sitenizin ana sayfası yerine doğrudan gönderinizin içeriği ile alakalı
+bir sayfaya yönlendirmeniz gerekir. E-Posta gönderilerinizin yönlendiği
+sayfalara varış sayfası (Landing Page) denir. Varış sayfalarınızın özel olarak hazır-
+lanmış sayfalar olması, geri dönüş oranlarınızı yükseltecektir.
+
+--- Sayfa 43 ---
+Yeni Başlayanlar İçin E-Ticaret
+41
+Diğer Dijital Pazarlama Kanalları
+Banner reklamları
+Ürün ve hizmetlerin diğer web sitelerinde belirli boyutlardaki reklam görselleri
+ve flash animasyonları ile gösterildiği reklam türüdür. Bu tür reklamlar Google
+Adwords, aracı reklam firmaları veya doğrudan yayıncı web siteleri üzerinden
+gerçekleştirilir. Yayıncının çalışma şekline göre gösterim adedi (CPV) ve/veya tık-
+lamaya (CPC) göre ücretlendirilebilir.
+İnternetin ilk zamanlarında en etkili pazarlama aracı olan banner reklamları, gü-
+nümüzde giderek artan rakipleri karşısında etkisini büyük ölçüde yitirmiş durum-
+da. Hatta öyle ki, Infolinks’in yaptığı araştırmaya göre kullanıcıların %60’ı banner
+reklamları görmüyor. Ancak retargeting adı verilen hedefli reklam gösterimleri
+sayesinde banner reklamlarının performansında yükselme sağlıyor.
+Remarketing de denilen hedefli reklam, gezdiğiniz bir web sitesi veya o sitede
+ilgilendiğiniz bir ürünün, arama motorları aracılığıyla diğer web sitelerinde veya
+sosyal ağ sitelerinde reklam olarak karşınıza çıkmasıdır. Hedefli reklamlar kullanı-
+cının ilgi alanlarını yansıttığı için dikkat çekme oranı yüksektir ve yeniden göste-
+rimler sayesinde kullanıcıya bir şekilde ulaşır. Hedefli reklamlar tüm bu avantajla-
+rının yanı sıra kullanıcılara sürekli olarak aynı reklamları göstermelerinden ötürü
+rahatsızlık yaratabilirler. Bu sebeple reklam verenlerin hedefli reklam süresini
+ayarlarken bu durumu göz önünde bulundurması gerekir.
+Hepsiburada.com’da GoPro’ya baktığım için farklı bir sitede Google bana GoPro
+reklamları gösteriyor.
+
+--- Sayfa 44 ---
+Yeni Başlayanlar İçin E-Ticaret
+42
+Satış Ortaklığı (Affiliate Marketing)
+Bir e-ticaret sitesinin ürün ve hizmetlerini, anlaşmalı olan başka bir site üzerinden
+gelen ziyaretçiye satması sonucu oluşan komisyon tabanlı satış-pazarlama yön-
+temidir. Satıcı durumundaki siteler kendi satış ortaklığı programını kuracağı gibi,
+sadece bu konuda faaliyet gösteren bir aracı firma ile de çalışabilirler.
+Gelir ortaklığı olarak da adlandırılan sistemde tıklama başına ödeme (CPC), üyelik
+başına ödeme (Cost Per Lead, CPL) ve satış başına ödeme (Cost Per Sale, CPS)
+gelir modelleri uygulanmaktadır.
+Ülkemizde gelir ortaklığı üzerine çalışan sitelere gelirortaklari.com,
+reklamaction.com, zanox.com, adtriplex.com, dünya üzerinde ise clickbank.com
+ve cj.com örnek gösterilebilir.
+Doğrudan gelir ortaklığı programı sunan e-ticaret sitelerine ise ülkemizden gitti-
+gidiyor.com, enuygun.com ve kitapyurdu.com örnek gösterilebilir.
+Gelir ortaklığının nasıl işlediğini anlatan şema (Gelirortaklari.com)
+
+--- Sayfa 45 ---
+Yeni Başlayanlar İçin E-Ticaret
+43
+Blog
+Firmaların dijital imajlarını yükseltmek ve müşterileri ile sürekli temas halinde
+olmalarının en iyi yollarından birisi blog açmaktır. Doğrudan satış içerikli payla-
+şımlar yerine son gelişmeler, ipuçları ve bilgilendirici yazıların yer alacağı bir blog,
+takipçi müşteriler için daha cazip olacaktır.
+Blogunuzun etkili olabilmesi için arama sonuçlarında üst sıralarda çıkması önem-
+lidir. Özgün bir dille yazılan blog, markanızla ilgili doğru anahtar kelimeleri ba-
+rındırması halinde SEO açısından avantajlı olacaktır. İçerik dışındaki SEO opti-
+mizasyonlarını düzenli olarak yaparak, markanızla ilgili aramalarda ilk sıralarda
+çıkabilirsiniz. Firmanız ve markanızla ilgili bilgileri müşterilerinize başka siteler
+yerine doğrudan sizin sunmanız, markanızın dijital ortamdaki imajı açısından
+olumlu sonuçlar verecektir.
+Oluşturacağınız blogun düzenli olarak güncellenmesi ve kurumsal bir
+dil yerine samimi bir dil kullanılması da blogun başarısı için önemlidir.
+Blogunuzdaki yazıları periyodik olarak e-bülten gönderimi ile müşterilerinize
+ulaştırabilirsiniz.
+Bunu başarı ile uygulayan firma olarak İstanbul Business School’u (IBS) örnek
+gösterebilirim. Çoğu zaman okumadan sileceğim reklam içerikli gönderiler yeri-
+ne düzenli olarak farklı ve ilgi çekici içeriğe sahip yazıları e-bülten ile  gönderiyor-
+lar ve bunca zamansızlığın arasında vakit ayırıp okuyorsam bence bu pazarlama
+hizmeti amacına ulaşmış demektir.
+
+--- Sayfa 46 ---
+Yeni Başlayanlar İçin E-Ticaret
+44
+Youtube Pazarlama
+Markanızı pazarlamanın etkili yollarından biri de viral (ağzıdan ağıza yayılan) pa-
+zarlama kanallarından sosyal video pazarlamasını kullanmaktır. Dünyanın en çok
+ziyaret edilen ilk üç sitesinden birisi olan Youtube, sosyal video paylaşım ortamı
+olarak lider durumda. Her ay bir milyardan fazla ziyaretçinin geldiği ve 6 milyar
+saatten fazla videonun yüklendiği Youtube’da markalar, yükledikleri videolarla
+ürün ve hizmetlerini tanıtabiliyor, ipuçları ve eğitimler içeren videolar yayınlaya-
+biliyor ve alanlarında etkili isimlerle yapılan röportajlara yer veriyorlar.
+Youtube üzerinden yayınlanan yaratıcı viral videolar, oldukça düşük maliyetle bü-
+yük kitlelere ulaşabiliyor ve bu da Youtube’u markalar için önemli bir pazarlama
+kanalı haline getiriyor.
+Bir saç ürünleri firmasının Stockholm metrosunda yaptığı billboard reklamı viral
+pazarlama amaçlı videoların son örneklerinden biri olarak gösterilebilir. İçinde
+sensör bulunan billboard’ta yer alan model kızın saçları, tren istasyona giriş yap-
+tığında rüzgardan etkilenmiş gibi dalgalanarak istasyondakilerin dikkatini çek-
+meyi başarıyor. Bu ve bunun gibi viral pazarlama örnekleri, Youtube’un sunduğu
+geniş kitlelere düşük maliyetle ulaşma imkânı sebebiyle firmaların ilgisini çekiyor
+ve sıkça yaratıcı örneklerle karşılaşıyoruz.
+
+--- Sayfa 47 ---
+Yeni Başlayanlar İçin E-Ticaret
+45
+Twitter Pazarlama
+Sosyal
+medyanın
+en
+popüler
+araçlarından
+biri
+olan
+Twitter,
+rek-
+lam olanakları açısından şu an rakipleri kadar etkili durumda de-
+ğil. Ancak Twitter yakın zamanda daha geniş hedefleme özelliklerine
+sahip olacağını duyurmuştu. Twitter şu an müşterilerine sponsorlu tweet, spon-
+sorlu hesap ve sponsorlu trendler olmak üzere üç farklı reklam modeli sunuyor.
+Sponsorlu tweet ile sizi takip etmeyen kullanıcılara önemli tweetlerinizi ulaştıra-
+bilir, sponsorlu hesapla tavsiye edilen hesaplar arasında görünerek takipçi sayını-
+zı artırabilir ve sponsorlu trendler ile #hashtag etiketleri ile yapılacak aramalarda
+üst sıralarda çıkabilirsiniz.
+
+--- Sayfa 48 ---
+Yeni Başlayanlar İçin E-Ticaret
+46
+5. E-Ticaret Hukuku
+•
+Türkiye’de e-ticaretin hukuki tarihçesi
+•
+E-Ticareti düzenleyen kanun ve uygulamalar
+Türkiye’de e-ticaretin hukuki tarihçesi
+Türkiye İnternetle resmi olarak 12 Nisan
+1993’te PTT’nin sağladığı 64Kbps kapa-
+siteli kiralık hat kullanılarak, ABD’deki
+NSFNet (National Science Foundation
+Network) ile ODTÜ arasında gerçekleş-
+tirilen bağlantı ile ilk kez tanışmış oldu.
+Teknolojinin hayatımıza kattığı bir çok
+yenilikte olduğu gibi İnternet ve e-tica-
+rette de uygulamalar, beraberinde ihti-
+yaç duyulan hukuki düzenlemelerden
+daha hızlı gelişiyor. Ülkemizde de e-tica-
+ret ve kapsamına giren konuları düzen-
+leyen ve uluslararası uyumluluğu olan
+yasal düzenlemeler yapılmıştır.
+Bu konuda devletin yasal düzenlemeler
+konusunda ilk adımı Bilim ve Teknoloji
+Yüksek Kurulu’nun (BTYK) 25 Ağustos
+1997 tarihli toplantısında atılmıştır.
+E-Ticaretin yaygınlaştırılması amacıyla
+BTYK toplantısında bir çalışma grubu
+oluşturulması kararlaştırılmış ve koor-
+dinatörlük görevi Dış Ticaret Müşteşar-
+lığına, sekreterya görevi de TÜBİTAK’a
+verilmiştir. Alınan bu kararla Dış Ticaret
+Müşteşarlığının başkanlığında ilgili ku-
+ruluşların katılımıyla oluşturulan Elekt-
+ronik Ticaret Koordinasyon Kurulu’nun
+(ETKK) ilk toplantısı 16 Şubat 1998’de
+yapılmıştır. 2 Haziran 1998 tarihli toplan-
+tıda, e-ticaretin geliştirilmesine ilişkin
+devletin uzun vadeli dört temel görevi
+belirlenmiştir.
+•
+Gerekli teknik ve idari alt yapının
+kurulmasını sağlamak
+•
+Hukuki yapıyı oluşturmak
+•
+E-Ticareti özendirecek önlemleri
+almak
+•
+Uygulanacak politika ve uygula-
+maların uluslararası uyumunu sağ-
+lamak
+Kamu ağları konusundaki yasal dü-
+zenlemeler 19.03.1998 tarihinde Baş-
+bakanlık tarafından yapılarak, T.C.
+Başbakanlık Kamu-Net Üst Kurulu ve
+Kamu-Net Teknik Kurulu kurulmuştur.
+e-Türkiye çalışmaları, 30.07.2001 tari-
+hinde Başbakanlığın koordinasyonun-
+da geniş katılımlı bir toplantı ile başla-
+tılmıştır. Bu kapsamda 13 ayrı çalışma
+grubu kurulmuştur. Elektronik Ticaret
+Genel Koordinatörlüğü 2001 Ekim
+ayından itibaren bu 13 çalışma grubun-
+dan birisi olan e-Ticaret Çalışma Grubu
+olarak görevini sürdürmeye devam
+etmiştir. e-Ticaret Çalışma Grubu 2002
+yılında, eAvrupa Eylem Planı, e-Türkiye
+Girişimi I. Ara Raporu ve e-Türkiye Girişi-
+mi Eylem planı çalışmalarına katılmıştır.
+Haziran 2003 tarihinde, e-Dönüşüm
+Türkiye çalışmaları içerisinde Kısa Dö-
+nem Eylem Planı (KDEP) hazırlanmış ve
+4 Aralık 2003 tarihinde yürürlüğe gir-
+miştir.
+
+--- Sayfa 49 ---
+Yeni Başlayanlar İçin E-Ticaret
+47
+Türkiye’de e-ticarete ilişkin kanuni düzenlemelerin olmaması nedeniyle hukuki alt
+yapı oluşturma çabaları başlatılmıştır. Avrupa Birliği’nin 2000/31 sayılı Elektronik
+Ticaret Direktifi kapsamına giren düzenlemelerin Türk mevzuatına uyarlanması
+için ilgili bakanlık ve kurumların katılımıyla 9 Mayıs 2007 ve 15 Mayıs 2008 tarihleri
+arasında Elektronik Ticaret Direktifi Çalışma Grubu adı altında toplantılar gerçek-
+leştirilerek bir rapor hazırlanmıştır.
+Proje çalışmalarına paralel olarak Adalet Bakanlığınca kurulan “E-Ticaret Kanunu
+Hazırlama Komisyonu” çalışmaları neticesinde, 2009 Ekim ayı sonunda tamamla-
+nan “Elektronik Ticaretin Düzenlenmesi Hakkında Kanun Tasarı Taslağı” 20 Kasım
+2009 tarihinde İstanbul’da düzenlenen bir seminerle kamu ve özel sektör temsilci-
+lerinin görüşüne sunulmuştur.
+E-Ticareti düzenleyen kanun ve uygulamalar
+•
+Mesafeli Satış Sözleşmesi
+•
+E-Fatura
+•
+E-İmza Kanunu
+•
+E-Ticareti Düzenleyen Kanun Tasarısı
+•
+Tüketicinin Korunması Hakkında Kanun
+Mesafeli satış sözleşmesi
+E-Ticarette işlem ve sözleşmelerin İnternet üzerinden yapılması, tarafların bir ara-
+ya gelemediği yeni bir bir durum ortaya çıkarmıştır. Mesafeli sözleşmeler olarak ni-
+telendirilen bu kavram, 06.03.2003’de, 4822 sayılı Kanun’un 14. Maddesine, 4077
+sayılı Tüketicinin Korunması Hakkında Kanun’un 9. maddesine dahil edilmiştir. Bu
+düzenleme bir tarafın tüketici olduğu ilişkileri düzenlemektedir.
+Mesafeli Sözleşmeler Uygulama Usul Ve Esasları Hakkında Yönetmelik ile de konu-
+ya ilişkin düzenlemeler bulunmaktadır. 2007 yılında yapılan değişiklikle elektronik
+ortamda yapılan sözleşmelerin teyitinin yine elektronik ortamda yapılacağı, bu
+sözleşmelerin tüketiciye tüketici tarafından kolay erişilir durumda tutulmasını ve
+bilgilendirme formunun tüketiciye ulaştırma zorunluluğunu karara bağlanmıştır.
+07.11.2013 tarihinde kabul edilen 6502 sayılı Tüketicinin Korunması Hakkında Ka-
+nun’da mesafeli sözleşmelere 48 ve 49. maddelerde yer verilmiştir.
+
+--- Sayfa 50 ---
+Yeni Başlayanlar İçin E-Ticaret
+48
+E-Fatura
+Elektronik ortamda kağıtsız olarak faturalama yapılmasını sağlayan e-fa-
+tura yeni bir belge türü olmayıp, kâğıt fatura ile aynı hukuki niteliklere
+sahiptir.
+E-fatura ile fatura gönderim ve ödeme süreleri kısalmakta, bilgilerin dijital ortam-
+da düzenlenmesinden dolayı hatalar azalmakta, gerektiğinde bulunması daha
+kolay olduğundan iş süreçleri her iki taraf için de kısalmakta ve kolaylaşmaktadır.
+Aynı zamanda elektronik ortamda arşivleme olanağından ötürü faturaların sak-
+lanması için gereken arşiv depoları ihtiyaç olmaktan çıkmaktadır.
+Avrupa Birliği e-fatura ile ilgili 2001 yılında düzenleme yapmıştır. Ülkemizde e-fa-
+tura ile ilgili ilk adım, E-Dönüşüm Projesi 2005 Eylem Planının 49 ve 50 Numaralı
+“Elektronik Faturanın Kullanım Usul ve Esaslarının Belirlenmesine Yönelik Hazırlık
+Çalışmalarının Yapılması “ve “Ticari defterlerin elektronik ortamda tutulması” baş-
+lıklarında ele alınarak atılmıştır.
+E-Fatura, 5 Mart 2010 tarihinde 397 sıra no.lu VUK tebliği ile hayata geçirilmiştir.
+
+--- Sayfa 51 ---
+Yeni Başlayanlar İçin E-Ticaret
+49
+E-İmza Kanunu
+Elektronik İmza, başka bir elektronik veriye eklenen veya mantıksal bağlantısı bu-
+lunan ve kimlik doğrulama amacıyla kullanılan elektonik veridir. E-İmza hukuki
+açıdan bazı istisnalar dışında elle atılan imzaya eşdeğerdir ve aynı sonuçları do-
+ğurur. Elektronik sertifikalar, elektronik imza sahibinin imza doğrulama verisini ve
+kimlik bilgilerini birbirine bağlar.
+5070 sayılı Elektronik İmza Kanunu, 15.01.2004 yılında kabul edilerek ülkemizde
+yürürlüğe girmiştir.
+E-Ticareti düzenleyen kanun tasarısı
+Türk hukukunda farklı tarihlerde İnternet ve hizmetlerini konu alan düzenlemeler
+yapılmıştır. 5661 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu
+Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun, 5070 sayılı
+Elektronik İmza Kanunu,  6502 sayılı Tüketicinin Korunması Hakkında Kanun, 5809
+sayılı Elektronik Haberleşme Kanunu ve Türk Borçlar Hukuku Kanun Tasarısındaki
+yeni hükümler buna örnek gösterilebilir.
+E-Ticaretle ilgili kapsamlı bir yasal düzenleme yapmak üzere oluşturulan Elektro-
+nik Ticaretin Düzenlenmesi Hakkında Kanun Tasarısı ile elektronik ortamda yapı-
+lan ticaret ve sözleşmelere ilişkin yükümlülükler ve yaptırımlar belirlenmiştir.
+
+Kanun tasarısında hizmet sağlayıcının yani satıcının bilgi verme yükümlülükleri,
+e-posta gönderim hakları ve tüketicinin eposta iletilerini reddetme hakkı, bilgileri
+ön belleğe almadan doğan sorumluluklar, kişisel verilerin korunması, bakanlığın
+yetkisi ve cezai hükümler hakkındaki yasal düzenlemeler yapılmıştır.
+
+--- Sayfa 52 ---
+Yeni Başlayanlar İçin E-Ticaret
+50
+Tüketicinin Korunması Hakkında Kanun
+6502 Tüketicinin Korunması Hakkında Kanun 07.11.2013 tarihinde kabul
+edil-miştir. Temel amacı her türlü tüketici işlemi ve tüketiciye yönelik uygulama-
+ları düzenlemek olan kanunda e-ticaret ile ilgili düzenlemeler de yer almaktadır.
+Satıştan kaçınma
+Madde 6 – Elektronik ortamda teşhir edilen malın, satılık olmadığı belirtilmediği
+sürece satışından kaçınılamaz.
+Sipariş edilmeyen mal ve hizmetler
+Madde 7 – Tüketici tarafından sipariş edilmeyen bir malın gönderilmesi halinde
+tüketici gönderilen malı kullansa dahi siparişi kabul etmiş sayılmaz ve malı gön-
+dermek veya muhafaza etme yükümlülüğü yoktur.
+Ayıplı mal
+Madde 8 – İnternet sitesinde sunulan bir mal, belirtilen özelliklerden bir veya
+daha fazlasına sahip olmaması, sözleşmede belirtilen süre içinde teslim edilme-
+mesi halinde ayıplı mal kapsamına girer. Bu tür durumlarda tüketicinin kendi le-
+hine olacak birden fazla seçim hakkı bulunmaktadır.
+Mesafeli sözleşmeler
+Madde 48 – Satıcılar, siparişten itibaren taahhüt edilen süre içinde ürün ve hiz-
+metle ilgili edimini yerine getirmelidir. Mal satışlarında bu süre her koşulda 30
+günü geçemez.
+Tüketiciler 14 gün içerisinde herhangi bir gerekçe göstermeksizin ve cezai şart
+ödemeksizin sözleşmesinden cayma hakkına sahiptir.
+Madde 49 – Finansal hizmetlere ilişkin mesafeli sözleşmelerde de tüketiciler 14
+gün içerisinde herhangi bir gerekçe göstermeksizin ve cezai şart ödemeksizin
+cayma hakkına sahiptir. Satıcı tarafından cayma hakkıyla ilgili olarak tüketicilerin
+bilgilendirilmesi zorunludur.
+
+--- Sayfa 53 ---
+Yeni Başlayanlar İçin E-Ticaret
+51
+Abonelik sözleşmeleri
+Madde 52 – Mesafeli abonelik sözleşmelerinde, sözleşmenin bir nüshası kağıt
+üzerinde veya kalıcı veri saklayıcısıyla tüketiciye verilmelidir.
+Belirli süreli abonelik sözleşmelerine, sözleşmede belirlenen süre kadar uzaya-
+cağına dair madde konulamaz. Belirsiz süreli veya bir yıldan uzun süreli abonelik
+sözleşmelerinde tüketici herhangi bir gerekçe göstermeden, cezai şart ödemek-
+sizin istediği zaman fesih hakkında sahiptir.
+Üretici ve ithalatçı satıcıları ilgilendiren maddeler
+Kanunda, üretici ve ithalatçı olarak e-ticaret satışı yapacakları ilgilendiren üç
+madde bulunmaktadır.
+Madde 55 – Tüketiciye sunulan malların tanıtım, kullanım, kurulum, bakım ve ba-
+sit onarımına ilişkin Türkçe tanıtım ve kullanma kılavuzu olmalıdır. Bu ürünler ge-
+rektiğinde uluslararası sembol ve işaretleri kapsayan etiketle satışa sunulmalıdır.
+Madde 56 – Üretici ve ithalatçılar, tüketiciye yönelik ürünlerde, içeriği yönetme-
+likle belirlenen garanti belgesi düzenlemek zorundadır.
+Garanti süresi malın teslim tarihinden itibaren başlamak üzere en az iki yıldır.
+Ancak, özelliği nedeniyle bazı malların garanti şartları Gümrük ve Ticaret Bakan-
+lığı tarafından farklı bir süre olarak belirlenebilir.
+Madde 58 – Üretici ve ithalatçılar, ürettikleri veya ithal ettikleri mallar için
+Bakanlıkça belirlenen kullanım ömrü süresince, satış sonrası bakım ve onarım
+hizmetlerini sağlamak zorundadır.
+
+--- Sayfa 54 ---
+Yeni Başlayanlar İçin E-Ticaret
+52
+Kaynakça
+Sektörel bilgi ve istatistikler
+Kalkınma Bakanlığı “İnternet Girişimciliği ve e-Ticaret” raporu
+http://www.bilgitoplumustratejisi.org/tr/doc/8a3247663ecdf0f3013ef454f52f0007
+Serkan Ünsal (2014). Dijital Girişimcilik Rehberi: Girişim Ekosistemi ile İlgili Temel
+Soruların Cevapları
+http://ww.bkm.com.tr/basin/digital-girisimcilik-rehberi.pdf
+İş Bankası İktisadi Araştırmalar Bölümü (2013). Dünyada ve Türkiye’de
+E-Ticaret Sektörü
+http://ekonomi.isbank.com.tr/UserFiles/pdf/ar_04_2013.pdf
+BKM Aylık Bülten (Aralık 2013)
+http://www.bkm.com.tr/basin/BKM-Aylik-Bulten-201312.pdf
+TÜİK. Hanehalkı Bilişim Teknolojileri Kullanım Araştırması
+http://www.tuik.gov.tr/PreTablo.do?alt_id=1028
+Europen Travel Commission. E-Commerce Insights: Asia-Pacific
+http://etc-digital.org/digital-trends/ecommerce/ecommerce-insights/
+regional-overview/asia-pacific/
+Ekonomi Bakanlığı E-Ticaret Portalı
+http://www.e-ticaret.gov.tr/
+Gelir İdaresi Başkanlığı. e-Girişimci Portalı
+http://www.egirisimci.gov.tr/
+Youtube. İstatistikler
+http://www.youtube.com/yt/press/statistics.html
+Elektronik Ticaret Rehberi
+http://www.elektronikticaretrehberi.com/
+Akbank, AkbankPOS. E-Ticaret
+http://www.akbankpos.com/e-ticaret/e-ticaret.aspx
+Garanti Bankası. E-Ticaret Bilgi ve Referans Portalı
+http://eticaret.garanti.com.tr/
+
+--- Sayfa 55 ---
+Yeni Başlayanlar İçin E-Ticaret
+53
+Finansbank. Kobi Meydan Portalı
+https://www.kobimeydan.com.tr
+BKM Express
+https://www.bkmexpress.com.tr/BKMExpress/
+PayU Türkiye
+http://www.payu.com.tr/sanal-pos-cozumleri
+E-Tohum Girişimcilik Portalı
+http://www.etohum.com/
+Ideasoft. E-Ticaret Bilgi Bankası
+http://www.eticaret.com/e-ticaret-bilgi-bankasi
+http://www.eticaret.com/e-ticarette-farkli-is-modelleri-nelerdir.html
+http://www.eticaret.com/mobil-odeme-nedir.html
+Wikipedia
+http://en.wikipedia.org/wiki/E-commerce
+http://tr.wikipedia.org/wiki/Elektronik_ticaret
+http://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users
+http://tr.wikipedia.org/wiki/Tedarik_zinciri_y%C3%B6netimi
+http://tr.wikipedia.org/wiki/Web_2.0
+Kanun ve düzenlemeler
+Başbakanlık. Elektronik Ticaretin Düzenlenmesi Hakkında Kanun Tasarısı
+http://www.basbakanlik.gov.tr/Handlers/FileHandler.ashx?FileId=6593
+TBMM. Elektronik İmza Kanunu
+http://www.tbmm.gov.tr/kanunlar/k5070.html
+Gelir İdaresi Başkanlığı. E-Fatura Portalı
+http://www.efatura.gov.tr/efaturahakkinda.html
+Resmi Gazete. Tüketicinin Korunması Hakkında Kanun
+http://www.resmigazete.gov.tr/eskiler/2013/11/20131128-1.htm
+Elektronik Ticaret İşletmeleri Derneği. E-Ticarete Giriş Yaparken
+http://www.etid.org.tr/articles/8/article
+
+--- Sayfa 56 ---
+Yeni Başlayanlar İçin E-Ticaret
+54
+Güncel sektörel haberler
+Webrazzi
+http://www.webrazzi.com/2012/03/01/kulucka-merkezleri/
+http://www.webrazzi.com/2014/01/15/twitter-reklam-hedefleme/
+http://www.webrazzi.com/2014/01/20/
+mckinsey-e-posta-pazarlamasi-facebook-ve-twitterdan-40-kat-daha-etkili/
+E-TicaretMag
+http://eticaretmag.com/swot-analizi-nedir-nasil-hazirlanir/
+http://eticaretmag.com/is-plani-business-plan-nedir-nasil-hazirlanir/
+http://eticaretmag.com/e-ticaret-girisimcilerinin-bilmesi-gereken-temel-kavramlar/
+http://eticaretmag.com/yatirim-surecindeki-girisimcilerin-bilmesi-gereken-terimler/
+http://eticaretmag.com/turkiyedeki-venture-capital-risk-sermayesi-yatirim-sirketleri/
+http://eticaretmag.com/turkiyedeki-yabanci-venture-capital-risk-sermayesi-yatirim
+-sirketleri/
+http://eticaretmag.com/kullancilarin-yuzde-60i-banner-reklamlari-gormuyor/
+http://eticaretmag.com/retargeting-remarketing-reklamlari-nedir/
+http://eticaretmag.com/e-ticaret-siteleri-icin-blog-kullanim-rehberi/
+http://eticaretmag.com/turk-e-ticaret-pazari-ve-istatistikleri/
+http://eticaretmag.com/turkiyedeki-kulucka-merkezleri/
+Teknokulis. Türkiye’de İnternet 19 Yaşında
+http://www.teknokulis.com/Yazarlar/hasan_genc/2012/04/11/
+turkiyede-internet-19-yasinda
+
+--- Sayfa 57 ---
+Yeni Başlayanlar İçin E-Ticaret
+55
+NOT:
+
+--- Sayfa 58 ---
+Yeni Başlayanlar İçin E-Ticaret
+56
+NOT:
+
+--- Sayfa 59 ---
+Dijital dünyadaki uzun soluklu çözüm ortağınız...
+• Web Siteleri / Mikro Siteler
+• Web Uygulamaları
+• İnteraktif Oyunlar
+• Dokunmatik Ekran (Multitouch - Kiosk) Uygulamaları
+• Mobil Uygulamalar (IOS, Android ve Windows Phone)
+• Facebook Uygulamaları
+• Logo & Kurumsal Kimlik Çalışmaları
+• Video Prodüksiyon, Seslendirme ve Montaj Hizmetleri
+• Baskı, Matbaa ve Promosyon Hizmetleri
+• İnternet Reklamcılığı Hizmetleri
+• Banner Tasarımları
+www.ajanslongplay.com

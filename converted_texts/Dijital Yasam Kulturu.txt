@@ -1,0 +1,1455 @@
+--- Sayfa 1 ---
+DİJİTAL YAŞAM
+KÜLTÜRÜ
+ISOC-TR ve Medya Okuryazarlığı Derneği tarafından hazırlanan
+bu eser Creative Commons Atıf-GayriTicari-AynıLisanslaPaylaş
+4.0 Uluslararası Lisansı ile lisanslanmıştır.
+
+--- Sayfa 2 ---
+İçindekiler
+Bu modülde yer alan konu başlıkları aşağıda listelenmiştir.
+İlgili konu başlığına gitmek için üzerine tıklayabilirsiniz.
+Tasarım
+Dr. Öğr. Üyesi İlker Kayabaş
+Dizgi
+Hakan Kip
+Yazar
+Cansu Coşan
+1. Giriş
+2. Analogdan Dijitale Dönüşen Dünya
+3. Yeni Medya Düzeni
+4. Dijital Yaşamın Psikolojik ve Sosyal Boyutları
+2.1. Gündelik Yaşam ve Bireysel Alışkanlıklar
+3.1. Dijital Yerliler ve Göçmenler
+4.1. Çocuklara Dikkat!
+4.2. Dijital Anne-Baba Olmak
+4.3. Siber Zorbalık
+3.2. Dijital Beceriler
+3.3. Kavram Olarak Dijital Vatandaşlık
+3.4. Mobilite ve Bağlanabilirlik
+3.5. Sosyal Ağlar
+3.6. Hak ve Özgürlükler
+3.7. Dijital Ayak İzleri ve Güvenlik
+2.2. Bireyler ve Kurumlar Arası İletişim
+2.3. Kaybolan ve Yeni Doğan Meslekler
+5. Kaynakça
+Diji Vatandaş e-Öğrenme Platformu (https://dijivatandas.org) için ISOC-TR ve
+Medya Okuryazarlığı Derneği tarafından hazırlanan bu eser Creative Commons
+Atıf-GayriTicari-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı ile lisanslanmıştır.
+Yayın Tarihi
+14 Eylül 2020
+Son Güncellenme Tarihi
+07 Haziran 2021
+
+--- Sayfa 3 ---
+3
+Bilgi ve iletişim teknolojilerinin (BİT) ulaştığı
+kullanım kolaylığı ve yaygınlık, insan yaşamının
+dinamiklerini dönüştürmeye devam etmektedir.
+Özellikle bilgisayar sistemleri aracılığıyla internet
+üzerinden
+oluşturulan
+dijital
+yaşamlar,
+her
+geçen gün insanlığın gerçeklik algısını yeniden
+tanımlamaktadır. Gerçeklik sanal ve gerçek hayat
+ile iç içe geçmiş durumdadır. Bugün artık, bireysel
+ya da kurumsal aktivitelerimizin tamamına yakını,
+gerçeklik ile sanallığın kesişiminde dijital bir
+dünyaya atıf yapmaktadır.
+İnsanlığın 21. Yüzyılına hakim olan dijital yaşam
+kültürünü tüm detaylarıyla keşfedebilmenizi ve
+farkındalığınızı arttırmayı amaçlayan bu ders
+kapsamında, öncelikle insanlığın dijitale geçiş
+sürecini mercek altına alacağız. Ardından dijital
+yaşamın temel bileşenlerini tanımlayacağız. Son
+bölümde ise dijital yaşam kültürünün psikolojik ve
+sosyal boyutlarına odaklanacağız.
+Analogdan Dijitale
+Dönüşen Dünya
+Gündelik Yaşam ve Bireysel
+Alışkanlıklar
+Alışkanlıklar, insanın hayatındaki neredeyse bütün
+tutumlarını (örneğin duygusal, zihinsel, sosyal)
+sürekli olarak yönlendiren, insanın karakterinin
+adeta yapı taşları olan davranışlardır.
+Sosyal medya kullanımı kimi kullanıcılar için
+özellikle bir alışkanlık haline gelmiştir. Bunun
+farklı sebepleri olabilir. Bu sebeplere ileride daha
+detaylı olarak değineceğiz. Ancak özellikle dijital
+dünya,
+kullanıcıların
+gerçek
+hayatta
+yapmak
+isteyip yapamadıklarını yaptıkları, hayal ettiklerini
+gerçekleştirdikleri,
+bir
+tür
+rahatlama
+alanı
+olarak kullanıldıkları, kimi zaman ise meraklarını
+gönderdikleri ve kendilerini -mış gibi gösterdikleri
+alandır.
+Giriş
+
+--- Sayfa 4 ---
+4
+Günden güne hayatımıza yerleşen teknoloji ile
+birlikte alışkanlıklarımızda da değişiklikler ve
+farklılıklar meydana gelmektedir. Örneğin, dışarıda
+arkadaşlarımız ile buluşma ya da spor yapma
+şeklimizin dahi içerisinde artık sosyal medya var.
+‘Geleneksel Medya’nın yerini ‘Yeni Medya’nın
+almasıyla; yeni medyanın kullanıcıyı da içerik üretme
+safhasına dahil eden aktif ve cazibeli doğası, gündelik
+yaşamımızdaki medya tüketim alışkanlıklarımızı
+değiştirmiş durumdadır. Artık toplumun hemen
+her kesiminin aktif birer kullanıcı olarak içerisinde
+kendine yer bulduğu yeni medya ekollerinde; yeni
+kullanım stilleri, yeni içerik türleri, yeni etkileşimsel
+21. Yüzyılda bireyler eleştirel
+düşünme ve problem çözme,
+yaratıcılık ve yenilikçilik, iş
+birliği yapma, iletişim kurma,
+medya okuryazarlığı, esnek
+çalışabilen ve öz-yönetim gibi
+becerilere sahip olmalıdır.
+fazlar oluşması da kaçınılmaz bir sonuç. Bu
+alışkanlıkların olumlu olduğu kadar olumsuz yönleri
+de olabilir. Örneğin, bir çocuk her sıkıldığında uyarcı
+tetikleyici olan akıllı telefonunu kullanmaya veya
+televizyon seyretmeye yöneliyorsa, bu araçları
+kullanmayı duygu durumundan dolayı rutin haline
+getiriyorsa, yeni bir alışkanlık ortaya çıkıyor. Sonuç
+olarak sıkılma, cep telefonu kullanımını tetikleyerek,
+olumsuz alışkanlıklar kazanmaya yol açabiliyor
+(Orhan, 2017).
+
+--- Sayfa 5 ---
+5
+Kendini gösterme ihtiyacı, ilgi ihtiyacı, beğenilme
+ve paylaşma ya da gösterme ihtiyacı da bunlardan
+bazıları… Hatta dijital mecralar gerçek hayatın
+birer yansıması olduğundan dolayı, arkadaşlıktan
+çıkarma, küsme, samimi olma, duygularını yansıtma
+hatta hayranlığını gösterme aracı olarak da
+kullanılmaktadır. Dijital dünyada da suç ve suçlular
+da gerçek. Özellikle kimliksizlik sorunu sebebiyle, bir
+çok sahte ya da kimliksiz hesap üzerinden zorbaca
+davranışlar gerçekleşmektedir. Kısacası gerçek
+dünyada yaşanan ya da yaşanmayan duyguların
+tümü, dijital dünyada da bulunup çoğu zaman birer
+alışkanlık haline gelmektedir. Ve dijital dünya çoğu
+zaman, çoğu kullanıcı için yara bandı işlevi görür…
+Ne demektir yara bandı işlevi görmesi? Kullanıcının
+kimi duygularını tatmin edebildiği, özlem duyduğu
+davranışları karşılayabildiği yer olması sebebiyle,
+üzerini örtme davranışı göstermesine denir.
+Tabi ki yeni teknoloji aracılığıyla olumlu alışkanlıklar
+geliştirmek de mümkün. Örneğin, sosyal medya
+aracılığıyla kişiler, en yakın dönemden örnek vermek
+gerekir ise -pandemi sürecinde bile- yakınlarıyla ve
+çevreleriyle günlük iletişimi rahatlıkla sürdürebiliyor
+ya da yeni medya kanalları aracılığıyla şirketler,
+çalışanlar,
+faaliyetlerini
+çevrimiçi
+ortamdan
+yürütmeye devam edebiliyorlar.
+Her türlü iletişim mecrası üzerinden çalışanlar,
+şirkette yaptıkları işleri devam ettirenebilme, okullar
+ise eğitimi farklı online platformlar üzerinden
+gerçekledtirebilmenin yollarını aradı. Dijital dünyayı
+doğru ve bilinçli kullanabilen kullanıcılar şanslıydı.
+Çok hızlı bir şekilde adapte olabildikler bu sürece.
+Hatta kimileri için evden çalışma süreleri, daha
+verimli olmalarına sebep oldu.
+“Erciyes
+Üniversitesi
+Öğrencilerinin
+İnternet
+ve Sosyal Medya Kullanım Amaçları” başlıklı
+çalışmasında 19-24 yaş aralığındaki üniversite
+öğrencilerinin
+interneti
+en
+çok
+bilgilenmek,
+araştırma yapmak, sosyal medya sitelerine erişmek
+için kullandıkları bilgisine ulaşıldı. Öğrencilerin
+sosyal medya alışkanlıkları izlendiğinde de her
+internete girişte mutlaka en az bir sosyal medya
+sitesini ziyaret ettikleri, bunlardan öne çıkanların
+öncelikli olarak Facebook, Twitter, YouTube olduğu
+öğrenildi (Koçer, 2012).
+Teknolojinin gelişimi ile birlikte gündelik yaşamımız
+ve alışkanlıklarımız değişime uğramıştır. Artık çoğu
+ihtiyacımı evden çıkmadan giderebilir durumdayız.
+Eskiden öğrenmek istediğiniz herhangi bir şey için
+bir kursa giderken şu an çoğu alanın online ders
+içerikleri bulunmaktadır.
+Market ve kişisel ihtiyaçlarımız için dışarı çıkmak
+bir gereklilikken sanal alışveriş siteleri sayesinde
+online yapabiliyoruz.
+Teknoloji ile yaşamımız değişirken aynı şekilde
+bireylerde değişmiştir. Hayatımızın büyük bir
+bölümünü dijitalde yaşarken bizler de kendimizi
+dijital de korumalıyız ve dijital çağın becerilerine
+sahip olmalıyız.
+
+--- Sayfa 6 ---
+6
+Bireyler ve
+Kurumlar Arası
+İletişim
+Bilgi ve teknoloji alanındaki gelişmeler
+bireyler ve kurumlar arası iletişimi de
+doğrudan etkilemiştir.
+İletişim; iş birliği, koordinasyon ve kontrol
+işlevlerini yerine getirmenin yapıtaşı. Etkin bir
+iletişim de bütün şirketlerin ve aynı zamanda
+insanlar arasındaki ilişkilerin tüm yönlerini
+olumlu etkilemektedir.
+Geçmiş dönemlerde haber alma ve gönderme
+uzun zamanlar alırken şu an bu işlemi çok
+kısa sürede gerçekleştirebilmekteyiz. Bireyler
+arasındaki iletişim günümüzde sosyal medyaya
+taşınırken kurumlar arasındaki iletişim de
+e-maillere, online toplantılara ve online ortak
+çalışma alanlarına taşınmıştır.
+Günümüzde,
+internet
+ve
+sosyal
+medya
+kanalları da bu iletişimin sürdürülmesine
+ve geliştirilmesine yön veren araçlar olarak
+karşımıza çıkmaktadır. Kurumlar, yeni medya
+kanalları sayesinde kendi kimliklerini inşa etme
+imkanını buluyorlar ve böylece kullanıcılarıyla,
+müşterileriyle ve paydaşlarıyla daha geniş
+ve sağlıklı bir iletişim ağı kurma fırsatını
+yakalıyorlar.
+Organizasyonlar
+bu
+iletişimi
+sağlamak için web siteleri ve daha çok sosyal
+medya kanallarından faydalanıyorlar, (Bruning
+ve Ledingham, 2000), çünkü Fombrun and
+Shanley’e (1990) göre günümüzdeki kamuoyu,
+kurumların sosyal sorumluluk projelerine
+ve ekonomik olmayan faaliyetlerine her
+zamankinden fazla önem veriyor.
+1990’lı yılların ortasından beri İnternetin hızlı
+yayılımıyla beraber, halkla ilişkiler uzmanları bu
+yeni medya kanalının bireyler ve kurumlar arası
+iletişimi geliştirmekteki potansiyeline dikkat çektiler.
+İnternetin sunduğu imkanlar sayesinde, bireyler
+ve kurumlar sorulan sorular, paylaşılan içerikler
+ve hatta çevrimiçi ortamda yapılan konuşmalar
+aracılığıyla daha etkili iletişim kuruyorlar (Ozdora-
+Aksak ve Atakan-Duman, 2015).
+Burada yeni medya kanallarından kasıt, yalnızca
+Facebook, Twitter gibi son derece yaygın web
+sitelerini değil, bütün blogları, mikroblogları,
+işletmelerin
+çevrimiçi
+ağlarını,
+ürün/servis
+incelemelerini, fotoğraf ve video paylaşımlarını vs.
+da içeriyor.
+
+--- Sayfa 7 ---
+7
+Elbette ki, bu kadar geniş çaplı ve farklı bir alana ilk
+kez atılan kurumlar, dinamik değil de geleneksel
+halkla iletişim yöntemini kullandıklarında istedikleri
+olumlu sonuca ulaşamayabiliyorlar. Araştırmalar
+gösteriyor ki, kurumların yalnızca bir yeni medya
+hesabı oluşturup, ‘orada olmaları’ artık yeterli
+değil. 21. yüzyılda kurumlar profillerini ve web
+sitelerini düzenli aralıklarla güncelleyerek, müşteri
+ve kamuoyundan gelecek taleplere de dönüş
+yapmak durumundalar. Dolayısıyla artık kurumların
+çevrimiçi kimliklerini, yenilikçi, dinamik ve ve aynı
+zamanda gayet itinalı bir bakış açısıyla inşa etmeleri
+gerekiyor (Aichner ve Jacob, 2015).
+İletişim ve bilgi teknolojileri alanındaki gelişmeler
+bireylerin
+günlük
+yaşamlarını
+etkilediği
+gibi
+kurumları da etkilemiştir. Kurumlar yeni medya
+sayesinde kendilerine bir kimlik oluşturmuş ve aynı
+zamanda hedef kitleleriyle interaktif iletişim kuran
+yapılar haline gelmiştir. Bu gelişmeler kurum içi
+iletişimi de pek çok yönden etkilemiştir.
+İletişim ve çalışma alanları değişmiş kişileri aktif hale
+getirerek iş akışını hızlandırmıştır. Yeni teknolojik
+uygulamalar sayesinde kişiler uzaktan birbirleri ile
+çalışabilir hale gelmiştir.
+Kaybolan ve Yeni Doğan Meslekler
+Teknolojinin gelişimi ile birlikte insanlar ve ihtiyaçlar değişmiş
+yeni meslek dalları ortaya çıkmıştır.
+Teknolojinin içinde yaşayan dijital yerliler çağın gereksinimlerini anlayarak, medya karşısında
+aktif bireylere dönüşmüşlerdir. Yeni iletişim teknolojilerinin yaygınlaşmasıyla birlikte eskiden
+öğretmen, mühendis veya doktor olma hayalleri kuran öğrencilerin hayalleri de bir miktar
+dönüşüme uğramıştır.
+Influencer
+(Fenomen)
+Robot
+Koordinasyon
+Uzmanı
+YouTuber
+IoT Uzmanı
+Yazılım
+Geliştirici
+Akıllı Şehir
+Uzmanı
+Oyun
+Geliştirici
+Yapay Zekâ
+Uzmanı
+
+--- Sayfa 8 ---
+8
+Influencer (Fenomen)
+Sahip olduğu sosyal medya kanalı aracılığı ile bir
+ürün ya da hizmet hakkındaki deneyimlerini ve
+düşüncelerini takipçileri ile paylaşarak, o ürünün
+tanıtımını yapan kimseye verilen isim. Örneğin
+bir çoğumuzun bildiği Duygu Özaslan, Danla Bilic,
+Eylül Öztürk, Oğuzhan Uğur vb. kişiler bu sektörde
+tanınan isimler. Bu kişiler kendi kendilerini bir
+‘marka’ şeklinde konumlandırarak kazançlarını
+bu şekilde elde ediyorlar. Pazarlama ve medya
+öteden beri kol kola ilerleyen endüstriler oldukları
+için, fenomenlerin sosyal medya aracılığıyla kendi
+kendilerini markalaştırmaları ve ürün tanıtımları
+yaparak hatırı sayılır bir gelir elde etmeleri mümkün
+oluyor. Ancak fenomenlerin iş modeli kendi
+çevrimiçi kişilikleri üzerinden yürütüldüğü için, bu
+durum zaman zaman yorucu ve aşırı ilgi gerektiren
+bir hal alabiliyor (Khamis ve Welling, 2017).
+YouTuber
+YouTube içerik oluşturucusu olarak da bilinen bir
+YouTuber, YouTube’un video paylaşım web sitesi için
+video üreten ve bazen ağlar tarafından desteklenen
+bir tür kameraman veya eğlence aracıdır (Jerslev,
+2016). Ülkemizde tanınan en ünlü YouTuber’lar
+Orkun Işıtmak, Enes Batur, Barış Özcan, Ruhi Çenet
+vb. isimlerdir.
+Mobil Uygulama ve Oyun Geliştiricisi
+Bu meslek grubunda yer alanları artık hayatımızda
+daha sık görüyoruz, üstelik çok daha fazla
+göreceğimizi
+de
+söylemek
+mümkün.
+Mobil
+uygulama ya da oyun geliştirenler; alışverişten
+oyuna, güvenlikten bankacılık işlemlerine, sağlıktan
+müzik dinlemeye kadar birçok farklı alanda hizmet
+sağlarlar (Alkan, 2020).
+Robot Koordinasyon Uzmanı
+Günümüz sanayindeki bazı üretim yöntemleri
+ve bunların gerektirdiği hız, artık insan beceri ve
+yeteneğinin ötesine geçmiş durumda. Dolayısıyla
+bu üretim yöntemlerini mümkün kılan makine
+ve robotların da tasarımını, bakımını, onarımını,
+vesaire apayrı bir meslek olan ‘Robot Koordinasyon
+Uzmanları’ gerçekleştirecek. Bu meslek dalının
+önümüzdeki senelerde önemli bir branş haline
+geleceği öngörülüyor.
+IoT Uzmanı
+‘Nesnelerin İnterneti’ olarak bilinen kavramdan
+haberiniz var mı? Kısaltması ‘IoT’ şeklinde olan
+bu kavram, bankacılıktan yemek siparişinize,
+sosyal hayatınızdan TV keyfinize hemen her şeyin
+internetteki bilgi trafiğine bağlı araçlar sayesinde
+işlem görmesi anlamına geliyor. Yani, akıllı binalarda
+
+--- Sayfa 9 ---
+9
+yer alan klimalar, alarm sistemleri, güvenlik
+kameraları ve diğer birçok şey, nesnelerin interneti
+için birer başlangıç aşaması. Yakın gelecekte bütün
+elektronik aygıtlar, uzaktan bile olsa internet
+bağlantısı sayesinde yönetilebilecekler. Dolayısıyla
+sektörde bu alanda çalışacak yetişmiş insanlara da
+büyük bir ihtiyaç olacak (Alkan, 2020).
+Programcı / Yazılımcı
+Günümüz teknoloji ekosistemini geliştiren meslek
+kolu. Sektör kendi içinde dallanıp budaklansa da
+dünya çapında onbinlerce programcı her gün
+globalleşen dünyanın iletişim ağlarını ve araçlarını
+üretmek ve geliştirmek için uğraşıyor. İlgililerine
+programcılık hem gelecek vaat eden, hem de kişinin
+yaratıcılığını göstermesi için ideal bir kariyer olabilir.
+Akıllı Şehir Uzmanı
+Bilgisayarınız ve cep telefonunuz kadar, kapı zilinizin
+ve trafik ışıklarının da internete bağlı olduğu bir
+dünya düşünün. Şu anda bile milyonlarca insan
+için gerçeklik halini almış olan bu durum, yakında
+şehirlerin
+onbinlerce
+sensörle
+(yani
+alıcıyla)
+donatılasıyla hayata geçecek. Böylece internet,
+elektrik, doğalgaz gibi hizmetlerin çok daha etkili
+ve kolay bir biçimde halka sunulması mümkün
+olacak. Tabii ortaya çıkabilecek arızalarda, yeni
+sistemlerin tasarımı ve kurulumunda da ‘Akıllı Şehir
+Uzmanları’na çok iş düşecek.
+Yapay Zekâ Uzmanı
+Hayatımızın hemen her alanında (sağlık, üretim,
+eğlence, tasarım, dinlence) bize inanılmaz kolaylıklar
+sağlayabilecek yapay zeka teknolojisi de son yıllarda
+büyük bir atılım göstermiş durumda. Dolayısıyla
+bir yapay zeka uzmanı için her zaman gelişme ve
+kendini gösterme fırsatı var!
+
+--- Sayfa 10 ---
+10
+Yeni Medya Düzeni
+Haber almak ve bilgi edinmek insanoğlunun her zaman temel ihtiyaçlarından biri olmuştur. Hiç şüphe
+yok ki her toplum bilgi ve haber almaya belirli bir değer ve anlam yüklemektedir. Haber ve bilgi almak
+ise bilgi ve iletişim teknolojilerinin gelişimi ile değişmiş, çeşitlenmiş ve gelişim göstermiştir.
+Her çeşit bilgiyi, bireye ve topluluklara aktaran; eğlendirme, bilgilendirme ve eğitme gibi üç temel
+sorumluluğa sahip görsel, işitsel ve hem görsel, hem işitsel araçların tümü medya olarak tanımlanır.
+Medya, insanların bilgi alma ihtiyaçlarını geçmişten günümüze farklı şekillerde karşılayan önemli bir
+unsurdur. Medyayı son gelişmelere bakarak ‘Geleneksel Medya’ ve ‘Yeni Medya’ olarak ikiye ayırabiliriz.
+Geleneksel Medya
+Geleneksel, yani yazılı ve görsel basın (gazeteler,
+dergi, televizyon), olayların bu kanallar vasıtasıyla
+insanlara haber olarak duyurulduğu ve bu yolla
+iletişim kurulan medya ürünleridir. Yapıları gereği
+okuyucuya tek taraflı olarak sunulan ve tüketilen bu
+medya organları, elbette ki hem yayınlarının hem de
+reklamlarının hangi kitlelere, ne kadar ve nasıl bir
+etkide bulunduğunu da kesin olarak ölçemeyecek
+ve analizde bulunamayacak konumdalar.
+Geleneksel medyada birey, yalnızca bir tüketici
+olarak yer alır. Medya içeriğini (haber, eğlence,
+görüntü gibi) üretenler, tüketilmek üzere bireylere
+üzere bunları sunarlar ve karşılığında bireyler yorum
+yapamaz, içerik üzerinde değişiklik yapamaz ve
+bunları yayınlayamaz. Geleneksel medyada bireyin
+direkt bir bağlantısı yoktur ve medya üretenler ve
+tüketiciler farklı kişilerdir (Yüksel, 2012).
+
+--- Sayfa 11 ---
+11
+Yeni Medya
+İnternet bağlantısı olan çevrimiçi herhangi bir akıllı
+cihaz ile (Bilgisayar, Akıllı Telefon, Tablet) yer ve
+mekândan bağımsız olarak erişilebilen sanal ortama
+“Yeni Medya” diyoruz. Yeni medya tamamen dijital
+bir alan olup ortamda bulunanlara yüksek iletişim
+ile çift taraflı etkileşim olanağı sunar (Müyesseroğlu,
+2018).
+Farklı bir tanıma bakarsak, Manovich’e (2001) göre,
+yeni medya dijital olarak kompoze edilmiş (yeniden
+oluşturulmuş,
+parçalar
+bir
+araya
+getirilerek
+düzenlenmiş) film, sanal 3D ortamları, bilgisayar
+oyunları, hypermedia Website veya Web’in, yani
+İnternet ortamlarının tamamıdır. Başka bir tanımda
+ise Lister (2009); yeni medya, medya kullanımı,
+üretimi ve dağıtımı süreçlerinde kapsamlı bir
+değişim olmasını ifade etmektedir.
+Kısaca yeni medya, gelişen bilgisayar, internet ve
+mobil teknolojilerle ortaya çıkan, kullanıcıların
+zamandan ve mekandan bağımsız bir şekilde
+interaktif olarak etkileşimde bulundukları sanal
+medya ortamıdır. Geleneksel medyada ise (yazılı ve
+görsel basında gazete, televizyon ve diğer araçlarda)
+iletim tek yönlüdür. Yalnızca yeni medya araçlarında
+hedef kitle ile karşılıklı etkileşim mevcuttur. Belli
+başlı yeni medya araçları mobil iletişim, internet
+tabanlı medya, sosyal medyadır (Yüksel, 2012).
+Yeni
+medya
+ve
+gelişen
+teknoloji
+sayesinde
+iletişim ve bilgi edinme, geleneksel yöntemler ile
+karşılaştırdığımızda daha hızlı ve daha ucuz hale
+gelmiştir. Aynı zamanda bireyleri sadece haber alan
+kişi değil, haberi üreten aktif bireyler konumuna
+getirmiştir. Üretilen içeriğin artmasıyla geleneksel
+anlamda ifade edilen okuma yazma becerisinin
+yanında yeni okuryazarlık türlerinin de gerekliliği
+söz konusu olmuştur.
+
+--- Sayfa 12 ---
+12
+Dijital Yaşamın Bileşenleri
+Dijital Yerliler ve Göçmenler
+Teknolojinin hızla gelişmesi ile birlikte insanların da üzerinde bir değişim olmuş ve yeni toplumlar doğmuştur.
+İletişim teknolojileri alanındaki hızlı değişim, yeni bir dijital ortamın  kurulmasına neden olmuştur. Yeni dijital
+ortamda insanlar bilgi üretebilen, farklı kullanıcılar tarafından üretilen bilgiyi alabilen, paylaşan ve en önemlisi
+bunu çok hızlı yapan kişilere dönüşmüşlerdir. Gelişen teknoloji ile birlikte bireylerin yaşam biçimleri, değer
+ve yargıları değişmiştir.
+Çocuklarımız artık
+neredeyse hayata ilk
+gözlerini açtıkları andan
+itibaren teknolojiyle,
+ekranlarla ve internetle
+tanışıyorlar.
+Prensky’e
+göre
+(2001:3),
+‘çevrimiçi’
+büyüyen bu çocukların tamamını ifade
+etmek üzere ortaya atılmış genel geçer
+bir kavram yok.
+Bu yüzden, alanda uzman birisi olarak
+kendisi  “dijital yerli” kavramını ortaya
+atıyor; zira bu kuşak yeni teknolojinin
+getirdiği dijital dili “ana dil” olarak
+konuşuyor diyebiliriz.
+İlk kez Prensky tarafından ortaya atılan
+bu kavram, günümüzde “dijital yerli”
+kuşağını tanımlayan kavram olarak kabul
+ediliyor.
+Dijital yerlileri göçmenlerden
+ayıran en önemli özellik,
+teknolojik gelişmelere daha
+hızlı adapte olmalarıdır.
+Dijital Yerliler
+Dijital yerliler, internet çağının içine doğmuş
+bireylerdir. Bu kişiler için teknoloji ile hemen hemen
+doğuştan iç içedirler.
+Dolayısıyla akıllı cihazları ve uygulamaları kolayca
+ve etkili kullanabilen kişilerdir.
+
+--- Sayfa 13 ---
+13
+Dijital Göçmenler
+İnternet kullanımının toplumumuzda neredeyse
+elektrik
+kullanımı
+kadar
+yaygınlaşmasından
+öncesinde dünyaya gelmiş olan; dolayısıyla da
+çevrimiçi teknoloji ürünlerinin hayatımıza girişine
+ilk kez yetişkin hayatlarında tanık olmuş olan
+bireyler için ise ‘dijital göçmen’ kavramı tercih
+ediliyor.
+Dijital
+göçmenler
+bazı
+durumlarda
+teknolojiye uyum sağlamakta veya teknolojinin
+inceliklerini benimseyip öğrenmede zorluklarla
+karşılaşabiliyorlar,
+ve
+ortalamada
+teknoloji
+okuryazarlıkları dijital yerlilere kıyaslandığında
+elbette ki daha düşük bir seviyede (Prensky, 2001:
+5 akt. Karabulut).
+Dijital yerlileri dijital göçmenlerden ayıran en
+önemli özellik teknolojik gelişmelere daha hızlı
+adapte olmalarıdır. Dijital yerliler birçok akıllı cihazı
+ayna anda etkin kullanabilen kişilerdir.
+
+--- Sayfa 14 ---
+Bireylerin, sadece bilgiyi
+tüketmesi değil aynı zamanda
+yeni bilgiler üretebilmesi ve
+bilinçli olarak kullanabilmesi
+artık bir gereklilik halini aldı.
+Dijital Beceriler
+İletişim
+ve
+teknoloji
+alanındaki
+gelişmeler
+sonucunda artık dijital bir dünyada yaşıyoruz. Bu
+geleneksel dünyadan dijital dünyaya dönüşüm, iş
+hayatımızı, günlük yaşantımızı, hobilerimizi, haber
+alma yöntemlerimizi ve daha birçok alışkanlığımızı
+değiştiriyor. Dolayısıyla, hızla gelişen bu değişim
+karşısında içinde bulunduğumuz çağa uyum
+sağlamak için edinmemiz gereken birtakım beceriler
+mevcut.
+Bilgi ve iletişim alanındaki gelişmeler, yeni üretilen
+bilginin karşı tarafa iletilmesi, bu bilgiye erişilmesi
+ve üretilen bilginin saklanması-depolanması gibi
+durumlar için değişiklikler meydana getirdi.
+Yaşanan tüm bu gelişmeler insanların bilgi ve
+iletişim teknolojileri alanındaki yeterliliklere sahip
+olmasını kaçınılmaz kılmıştır. Bu sebeple bireylerin,
+bilgiyi sadece tüketen değil, onu üretebilen ve
+bilinçli olarak kullanabilen dijital yeniliklere sahip
+olması artık bir gereklilik halini aldı (Akkoyunlu ve
+Soylu, 2010 akt. Gürültü, Bildik, Erişen, 2018).
+Dijital teknolojilerin gelişimi ve kullanımına yönelik
+olarak bilgi okuryazarlığı, dijital okuryazarlık ve
+medya okuryazarlığı,teknoloji okuryazarlığı gibi pek
+çok okuryazarlık türü ortaya çıkmıştır.
+14
+
+--- Sayfa 15 ---
+15
+Bilgi Okuryazarlığı
+Association of College & Research Libraries
+(Kolej ve Araştırma Kütüphaneleri Derneği), ‘Bilgi
+okuryazarlığı’ kavramını, kişinin bilgiye gereksinim
+duyduğunda
+bunun
+farkında
+olması,
+bunu
+değerlendirebilmesi ve yetkinlikle kullanabilmesi
+olarak sıralanan bir takım kabiliyetler olarak
+literatüre kazandırmıştır (ACRL, 2013).
+Medya Okuryazarlığı
+Bu kavram, medyanın herhangi bir kolu tarafından
+herhangi bir şekilde sunulmuş olan içeriği veya
+görseli, kişinin eleştirel bir gözle okuyup kritize
+edebilme ve sorgulayabilme yeteneğini tarif etmek
+için kullanılıyor.
+Elizabeth Thoman’a göre medya okuryazarlığı,
+her gün televizyon, radyo, bilgisayar gazete,  dergi
+ve reklamlar aracılığıyla alınan yüzlerce ve hatta
+binlerce sözlü ve görsel sembolleri yorumlama ve
+bunlardan kişisel anlamlar çıkarabilme becerisidir.
+Teknoloji Okuryazarlığı
+International Technology Education Association,
+(Uluslararası
+Teknoloji
+Eğitim
+Derneği)
+bu
+kavramı: “Mevcut teknolojiyi yeterlilikle kullanma,
+yönetebilme, değerlendirme ve anlamlandırma
+becerisi” şeklinde tanımlıyor (ITEA, 2000: 9).
+Teknoloji
+okuryazarlığına
+sahip
+bir
+bireyin,
+teknolojinin toplumun her safhası üzerindeki
+mevcut etkileri hakkında yeterli bir bilgi seviyesinde
+olması, teknolojinin ona sunduğu imkanların
+ve önünde açtığı fırsatların da farkında olması
+beklenir.
+Dijital Okuryazarlık
+Dijital okuryazarlık kavramını şöyle tarif edebiliriz:
+Kişinin, birbirinden farklı teknolojileri bir arada ve
+doğru bir biçimde kullanarak, bilgiyi elde etme,
+bilgi üretme ve paylaşma aşamalarında dijital
+teknolojilerden aktif olarak faydalanma becerisi
+
+--- Sayfa 16 ---
+16
+Kavram Olarak
+Dijital Vatandaşlık
+Vatandaş, bir ülke olan politik kurumların bir
+parçası olan kişiye denir. İnsanlar, kendi ülkelerinin
+yasalarının onlara tanıdığı anayasal haklardan
+yararlanmak için, ülkelerinin birer vatandaşı olmak
+durumundadırlar.
+İletişim teknolojilerinin hızlı gelişmesiyle birlikte
+bireylerin de kullandığı akıllı cihazlar artmıştır.
+İletişim ve haberleşme hızı bu gelişim sayesinde
+oldukça hızlanmıştır.
+McLuhan,
+teknolojideki
+gelişmelerin
+insan
+iletişimini nasıl etkilediği konusunda çalışmalar
+yapıp dünyanın bir ‘global köye’ dönüşeceği teorisini
+60’lı yıllarda ortaya atmıştır. Kitle iletişim araçlarının
+hızla yayılmaları ve kullanımlarının da oldukça
+kolaylaşmasıyla, insanlarin birbirleriyle görülmemiş
+hız ve kolaylıkta iletişime geçebileceklerinden
+ve böylece dünyanın ‘küçük bir küre’ haline
+geleceğinden bahsetmiştir. Bu durumda, herhangi
+bir insan dünyanın neresinde olursa olsun istediği
+kişiyle istediği zaman rahatlıkla iletişim kurabilecek,
+gündemdeki konulardan haberdar olacak ve aynı
+konuyu düşünüp ortak fikirlere varacaktır (Atalay,
+2018).
+Dijital
+vatandaşlık
+kavramının
+dokuz
+farklı
+elementten oluştuğu ve bu elementlerin birbirleriyle
+ilişkili olduğu ortaya atılmıştır.
+Ribble ve Bailey (2007), yaptıkları araştırmalar
+sonucu, dijital vatandaşlık konusunda eğitimcilerin
+önce kendilerinin kapsamlı olarak bu kavrama
+hâkim olmaları, daha sonra ise bu bilgileri
+öğrencilerine aktarabilmeleri için anlaşılır bir
+dil
+kullanarak
+esnek
+yapıdaki
+bu
+çerçeveyi
+tasarlamışlardır (Kabataş, 2019).
+
+--- Sayfa 17 ---
+17
+Dijital Erişim
+Digital Access
+Çevrimiçi ortamlarda yararlı-zararlı birçok bilgiye
+erişim sağlayan dijital vatandaşlar, eriştiği bu
+bilgilerle ilgili başarılı çözümlemeler yapabilmelidir
+(Çubukcu ve Bayzan, 2013 akt. Kabataş,2019).
+Dijital Ticaret
+Digital Commerce
+Mobil cihazlar kullanılarak gerçekleştirilen (online
+olarak) alışveriş işlemleri olarak tanımlanmaktadır.
+E-ticaret olarak da adlandırılmakta olan dijital
+ticaretin farklı çeşitleri mevcuttur (TÜBİSAD, 2014
+akt. Kabataş,2019).
+Dijital İletişim
+Digital Communication
+Dijital ortamlarda yapılan bilgi alışverişi olarak
+tanımlanmaktadır (Kaya ve Kaya, 2014). Dijital
+iletişim sayesinde kullanıcılar istenilen mekan ve
+zamanda sesli, görüntülü ya da yazılı iletişim kurma
+imkanı bulabilmektedir. (Kabataş,2019).
+Dijital Okur-Yazarlık
+Digital Literacy
+Bireylerin teknolojiyi öğrenme süreçlerinde temel
+bilgileri edinmeleri ve kullanmalarıyla ilgili boyuttur
+(Kocadağ, 2012 akt. Kabataş,2019).
+Dijital Etik
+Digital Etiquette
+Teknolojinin nasıl kullanılması gerektiği konusundaki
+başkalarının
+ve
+kendimizin
+davranışlarımızı
+düzeltmemiz
+hakkında
+bilgiler
+içeren
+dijital
+vatandaşlık unsurudur (Ribble, 2011 akt. Kabataş,
+2019).
+Dijital Hukuk
+Digital Law
+Hukuksal alanda bilinçli olmayı ifade eder. Özellikle
+telif hakları gibi durumlarda bireylerin mülkiyet
+haklarının ihlal edilmemesi gerekliliğini savunur
+(Kocadağ, 2012  akt. Kabataş,2019).
+Dijital Haklar ve Sorumluluklar
+Digital Rights and Responsibilities
+Dijital ortamlarda yapılan tüm iş ve işlemlerde
+dijital hak ve sorumluluklarımız olduğunu bilerek
+davranmamızı öngören dijital vatandaşlık unsurudur
+(Çubukcu ve Bayzan, 2013 akt. Kabataş,2019).
+Dijital Sağlık
+Digital Health and Wellness
+Dijital teknolojilerin kullanılmasıyla oluşabilecek
+sağlık alanındaki problemleri tanımayı ve gerekli
+önlemleri almayı ifade eder (Kocadağ, 2012 akt.
+Kabataş,2019).
+Dijital Güvenlik
+Digital Security
+Ehliyeti olmayan bir sürücünün trafiğe çıkması
+ile örneklendirebileceğimiz bu boyut, güvenlik
+önlemleri alarak internet kullanımının önemi
+üzerinde durmaktadır (Kocadağ, 2012 akt. Kabataş,
+2019).
+
+--- Sayfa 18 ---
+Mobilite ve Bağlanabilirlik
+Dijital dünya günden güne teknolojik aletlerin
+küçülmesi ve mobil bir şekildedir çalışıp üretebilecek
+bir pozisyonda bizi karşılamaktadır.
+Mobil olmak, kimi zaman hayat kurtarıcı olurken
+kimi zaman ise iş ve özel hayat kavramlarını iç içe
+sokmuş durumdadır. Mobil olmak mobil çalışmak
+günümüz genç yetişkinlerinin en çok sevdiği çalışma
+stilidir.
+Zaman tasarrufu verimlilik artışı dijital dünyanın iş
+ve verimliliğe etkisi vardır. Bağlanabilirlik kısmına
+hem internette online bağlanma hem de ev ile iş
+ile arkadaş ve sevdiklerinizle bağlanma şeklinde
+açıklayabiliriz.
+Sosyal Ağlar
+Sosyal medya, kullanıcısı olan kişilere hesap
+açma, içerik oluşturma, günlük yaşantınızı ve
+düşüncelerinizi paylaşma, reklam yapma olanağı
+sağlayan dijital platformlara denir.
+Günümüzde birçok kişinin sosyal medya hasapları
+bulunmakta ve sosyal medyayı aktif olarak
+kullanmaktadır. We Are Social’ın 2020 yılında
+yayınladığı raporda dünyanın en popüler sosyal
+mecraları Facebook, YouTube, Instagram, TikTok,
+QQ, QZone, Sina Weibo, Reddit, Snapchat, Twitter
+ve Pinterest olarak göze çarpmaktadır.
+Türkiye sosyal medya kullanıcı sayısı söz konusu
+olduğunda  her platformda hemen hemen ilk
+10 ülke arasında yer alıyor. Özellikle Facebook
+ve Instagram kullanımı söz konusu olduğunda
+Türkiye’nin Avrupa’da ya ilk sırada ya da ilk sıraya
+yakın olduğunu görüyoruz. Türkiye’deki kullanıcılar
+sırasıyla YouTube, Instagram, Facebook, Twitter
+ve son zamanlarda etkin kullanılan LinkedIn’e ilgi
+gösteriyor.
+Geleneksel medyada kullanıcıya tek taraflı bir bilgi
+akışı sağlarken sosyal medyada çift taraflı bir iletişim
+söz konusudur. Geleneksel medyada kullanıcılar
+sadece
+okuyucu,
+dinleyici
+ve
+izleyici
+olarak
+kalmaktaydılar. Kısaca pasif konumdalardı. Sosyal
+medya ile aktif konuma geçen kullanıcılar  hesap
+açabiliyorlar, içerik üretebilir, farklı birinin içeriğine
+Bunları Biliyor musunuz?
+	»
+4.57 milyar internet kullanıcısı, dünya
+nüfusunun %59’u
+	»
+3.81 milyar sosyal medya kullanıcısı,
+dünya nüfusunun %49’u
+	»
+5.16 milyar mobil kullanıcısı, dünya
+nüfusunun %66’sını oluşturmaktadır.
+- We Are Social, 2020
+18
+
+--- Sayfa 19 ---
+19
+yorum yapabilir ve farklı kişilerle paylaşabiliyorlar.
+Aynı zamanda sosyal medyada üretilen bir haber
+çok hızlı bir biçime kullanıcılara yayılabilmektedir.
+Bu da sosyal medyayı geleneksel medyadan ayıran
+çok önemli bir özelliktir. Farklı bir avantaja bakacak
+olursak, sosyal medyada yaptığınız herhangi reklam
+geleneksel medyaya oranla daha fazla kişiye daha
+kısa sürede ulaşır. Ancak sosyal medyanın şöyle bir
+dezavantajı bulunmaktadır. Sosyal medya herkese
+içerik üretme imkânı verdiğinden, üretilen içerik
+sayısı da oldukça fazladır. Bu da bireylerin doğru
+ve gerçek bilgiye, habere ulaşmasını zorlaştırır.
+Bu sebeple sosyal medya kullanıcıları, edinmek
+istedikleri haberi ve bilgiyi farklı kaynaklarda
+aramalı, analiz etmeli ve değerlendirebilmelidirler.
+Hak ve Özgürlükler
+Gözetim ve mahremiyet sorunları, dijital iletişim
+araçlarına özgü değiller, ancak son yıllarda
+teknolojik yeniliklerle birlikte yaygınlaşıyorlar ve
+daha fazla insani faaliyet alanını etki altına alıyorlar.
+Bu da kamusal ve özel alan arasındaki sınırların
+silikleşmesine neden olabiliyor. Bu gün geldiğimiz
+noktada özel alan, özseçime bağlı gerçekleşen teşhir
+ve dijital gözetim pratikleri aracılığıyla çevrimiçi
+ortamda
+kamusallaşmaktadır.
+Günümüzde,
+mahremiyet sorununun merkezinde, halihazırda
+var olan fiziksel uygarlığımız ile henüz oluşum
+aşamasındaki
+sanal
+uygarlığımızın
+çatışması
+olduğunu söyleyebiliriz. Öyle ki, gözetleyen  göze
+görünmeden beklerken; gözetlenen ise bizzat
+kendi öz iradesiyle kendisiyle ilgili her türlü bilgiyi
+kamusal alana yayabiliyor. Ancak özellikle dijital
+kamusal alanlarda bazen kişiler, kişisel verileri
+aracılığıyla tıpkı gerçek yaşamdaki gibi izlendiklerinin
+bilincinde olamayabilirler (Çaycı ve Çaycı, 2017).
+Kişisel
+veriler,
+en
+temelinde
+insanın
+insan
+olmasından kaynaklanan, dolayısıyla insana ait
+olan ve insanı belirleyen bilgilerden oluşurlar.
+Buna rağmen kişisel veriler, yakın zamana kadar
+korunması gerekli olan birbir hukuki değer olarak
+görülmüyordu. Kişiler ve onların verileri üzerinde
+farklı nitelikte tehditler oluşmaya başladı. Buradan
+hareketle, bireylerin özünde kendilerine ait olan
+bilgilerinin bu bilgilerle hiçbir ilgisi ve menfaati
+olmayan üçüncü kişilerin eline geçmesi ve bu
+bilgilerin üçüncü kişiler tarafından hukuka uygun
+veya aykırı olarak işlenmesi oluşan tehditlerin
+temelinde yatıyor.
+Örneğin, bireylere ait olan verilerin, bu veriler
+üzerinde herhangi bir yetkisi olmayan üçüncü
+şahıs veya kurumların kullanımına geçmesi ve bu
+verilerin hukuksuz bir biçimde işlenmesi önemli
+bir tehlike. Çünkü bireylerin özel hayatlarına ilişkin
+bilgiler de dahil herhangi bir verinin rahatlıkla
+işlenebilmesi söz konusu. İşte bu tehditlere karşı
+koymak amacıyla, kişisel verilerin korunması adına
+önemli çalışmalar yürütülmüştür.
+Günümüzde 6698. sayılı Kişisel Verilerin Korunması
+Kanunu’nun çıkarılmış olması ve Kanunla  öngörülen
+yükümlülüklerin de tamamının yürürlüğe girmesi,
+kişisel verileri koruma hukukunun uygulamaya
+yönelik güncel sorunlarını ön plana çıkarmıştır
+(Dülger, 2018).
+
+--- Sayfa 20 ---
+Dijital Ayak İzleri ve Güvenlik
+Dijital dünyanın gelişmesi ile birlikte, gerçek
+dünyanın bir yansıması ve daha fazlası olan
+dijital dünyada her bir kullanıcının dijital ayak izi
+oluşmaktadır.
+Dijital
+ayak
+izi,
+paylaştığımız
+fotoğraflardan
+yazdığımız düşünce ve fikirden, paylaştığımız yer
+bildiriminden tutun, dijital dünyada araştırdığımız
+her bir konu/bilgiyi içerisinde barındırmaktadır.
+Dijital ayak izlerinin aynı birer dövme gibidir.
+Paylaştığımız andan itibaren bizi temsil eder ve
+asla silinmez. İyi birer dijital kullanıcı olmak için
+mutlaka dijital vatandaş olmak gerekir. (Bu konuda
+daha detaylı bilgiye Dijital Vatandaşlık eğitim
+modülünden ulaşabilirsiniz.)
+Günümüzde özellikle sosyal medyada güvenlik
+konusunda kullanıcıların pek bir bilgisi olmaması
+sebebiyle, yaşanan güvenlik açıkları ile kişisel bilgi
+ve fotoğraf hatta kredi kart bilgileri dahi kolaylıkla
+alınabilmekte ve kullanıcı için kötü sonuçlar
+doğurabilmektedir.
+Günlük
+yaşantımızda
+dışarıda
+kötü
+insanlar
+olduğu gibi sanal dünyada da kötü amaçları olan
+insanlar olabilir. Bu tehlikelere karşı kendimizi ve
+sevdiklerimizi dijital alanda korumalıyız.
+Dijital araç gereçler ve onları kullanmaya yarayan
+yazılımlar üretildikleri zaman tamamen bireylere
+yararlı olmak adına ortaya çıkmış olsalar da
+günümüzde tahmin bile edilemeyen boyutlarda
+tehlikelere kapı aralamaktadırlar.
+Telekomünikasyon
+İletişim
+Başkanlığı
+[TİB],
+2015’dan (akt., Vural, 2016) internet risklerini şu
+şekilde açıklamıştır; ‘’Özellikle internet riskleri;
+yanlış veya zararlı bilgiye erişim, siber zorbalık,
+sanal dolandırıcılık, kişisel bilgilerin paylaşımı,
+zararlı yazılımlar, pornografi, çocuk istismarı, fuhuş,
+oyun ve internet bağımlılığı, yabancılarla çevrimiçi
+ve çevrimdışı iletişim, şiddet, nefret, ırkçılık olarak
+kendini
+göstermektedir’’
+(Telekomünikasyon
+İletişim Başkanlığı [TİB], 2015’dan akt., Vural, 2016).
+UNUTMAYIN!
+Dijital dünyada kendinizi korumak
+için şu tedbirleri alabilirsiniz;
+	»
+Kullandığınız cihazlardaki yazılımları
+güncel tutun.
+	»
+Güvenlik yazılımları ile koruma
+kalkanınızı güçlendirin.
+	»
+Güçlü şifreler kullanın,
+hesaplarınızdaki güvenlik ayarlarını
+doğru yaptığınızdan emin olun.
+	»
+İnternetteki önemli bilgilerinizi
+saklayın.
+20
+
+--- Sayfa 21 ---
+21
+Dijital Yaşamın
+Psikolojik ve Sosyal
+Boyutları
+Çocuklara Dikkat!
+Günümüz toplumsal yaşamında herkes için serbest
+zaman sağlayan teknolojik gelişmelerle birlikte,
+işsizlik ve serbest zaman olanaklarında da bir artış
+söz konusu. Bu serbest zaman etkinliklerinin bir
+kısmını; sosyal medyada vakit geçirmek, video ya
+da televizyon izlemek, gazete ve dergi okumak,
+bilgisayarlar gibi ev içindeki araçlarla geçirilen zaman
+olarak bir kategori altında toplamak mümkün.
+Gitgide ev dışı eğlencelerin yerini ev içi eğlencelere
+bırakması, televizyonun yanında telekomünikasyon
+ve bilgisayar teknolojilerini, yani yeni medyayı
+giderek artan bir biçimde yaşamımıza sokmakta.
+Üstelik artık çocuklar da okul dışındaki serbest
+zamanlarını
+bu
+yeni
+medya
+ortamlarında
+geçiriyorlar.
+Yeni medya teknolojileri ve çocuklar arasındaki
+ilişkiyi
+irdeleyen
+yazarlar;
+çocukların,
+eskiye
+oranla daha az televizyon izlediklerini, buna
+karşın zamanlarını bilgisayar karşısında daha fazla
+zaman geçirdiklerini belirtiyorlar. Bu yeni nesildeki
+çocuklar, bilgisayarı öğrenmek için, eğlenmek
+için, alışveriş için, iletişimde bulunmak için, oyun
+oynamak için kullanıyorlar.
+Böylece artık çocuklar; çocuklara yönelik dergiler,
+programlar, filmler, çizgi filmler, video ve bilgisayar
+oyunları vesaire aracılığıyla, cirosu milyar dolarları
+bulan serbest zaman endüstrisinin parçası ve
+tüketicisi haline geldiler. Bu nedenle, günümüzde
+
+--- Sayfa 22 ---
+22
+reklam mesajlarının önemli bir kısmı da çocuklara
+yönelik. Oysa, çocuk eğlencesi etiketi takılan bu
+ürünlerle yapılan çocukların körpe zihinlerini
+eğlence endüstrisi tarafından sızılan alanlar hâline
+dönüştürüyor. Çünkü artık bu nesil sadece izleyici
+ya da sadece dinleyici olmak istemiyor, daha aktif
+olmak, onlar da birer kullanıcı olmak istiyorlar
+(Aydoğan, 2017).
+Tıpkı yörenin kendine ait farklı giyim biçimleri gibi,
+bir zamanlar kasaba ve kentlerimizin sokaklarında
+görebildiğimiz kendine özgü çocuk oyunları, giderek
+ortadan kayboluyorlar. Geleneksel saklambaç,
+birdirbir, körebe ya da top zıplatma gibi oyunlar da
+giderek azalıyor (Postman, 1995).
+Çocukların fiziksel olarak aktif olmaları; ileride
+bilişsel, fiziksel, sosyal ve duyuşsal yönlerden
+sağlıklı olabilmeleri için oldukça önemli. Fakat,
+yaşanan hızlı ve çarpık kentleşme sonucunda
+özellikle şehirlerde bulunması gereken açık oyun
+alanları giderek yok oluyor ve aynı zamanda dijital
+oyunlar da gitgide daha ya yaygın ve ulaşılabilir hale
+geliyor. Dolayısıyla, çocukların daha pasif oyunlar
+olan dijital oyunlara bu yönelimleri aslında çok da
+şaşırtıcı değil (Hazar, Namlı ve Demir, 2017:322).
+Dünya genelinde 1 milyarın üzerinde dijital oyun
+kullanıcısı olduğu biliniyor. Yeni neslin dijital dünya
+ile tanışma yaşları ortalaması ise 5 ila 6 yaş aralığına
+kadar gerilemiş durumda. Böylece teknolojinin
+gelişmesine bağlı olarak koca bir nesil bilgisayar ve
+internet nesli olarak hayatını devam ettiriyor (Yücel
+ve Şan, 2018: 99).
+Bir başka nokta da, çocuklar ve mahremiyet
+konusudur. Son dönemlerde sosyal medyadan
+etkilenen mahremiyet kavramı için yeni bir
+dönemin başladığını söyleyebiliriz. Yetişkin veya
+
+--- Sayfa 23 ---
+23
+çocuk, kullanıcılar artık sosyal medya hesaplarında
+isteyerek ya da istemeyerek takipçilerine ve
+arkadaşlarına kendi mahremiyetlerini açıyorlar.
+Takip edilen bir bireyin nerede okuduğu, hangi
+şehirde yaşadığı, ne iş yaptığı, yakın arkadaş
+çevresi, medeni durumu gibi pek çok kişisel bilgi
+zahmetsizce öğrenilebilir. Bu durum sosyal medya
+hesaplarında çocuklarının rızası dışında çocuklarıyla
+ile ilgili fotoğraf ve video paylaşımı yapan ebeveynler
+için de geçerli. Bazı hanelerde artık öyle bir
+duruma gelinmiştir ki, aileler çocuklarının günlük
+yaşantısının neredeyse tamamını sosyal medya
+hesaplarına taşımışlardır (Türten, 2019).
+Peki, internet ortamı ve gelişen teknoloji çocuklar
+için her zaman zararlı bir çevre mi? Elbette hayır.
+21. yüzyılın dijital nimetlerinden çocuk eğitiminde
+ve gelişiminde faydalanmak da pekala mümkün;
+bu konuda da birçok çalışma mevcut.
+Güncel akademik çalışmalarda, çocuk eğitiminde
+yaratıcılık kavramı üzerinde yoğunlukla duruluyor
+ve geleceğimiz için yaratıcı insanlar yetiştirmenin
+gerekliliği sıklıkla vurgulanıyor. Örneğin müzeler,
+öğrenme mekanları oldukları kadar aynı zamanda
+yaşantı mekanlarıdırlar. İletişimin başat kurumları
+olan müzelerin eğitim programları, son yıllarda sergi
+uygulamalarındaki sunumlar, dijital tabanlı medya
+sistemleri gibi konuların çocuklara yönelik sanat
+eğitiminin uygulama yöntemlerini değiştirdiğini
+ve kalitesini artırdığını söylemek mümkündür. Bu
+dalda İstanbul Modern, Sakıp Sabancı Müzesi ve
+Pera Müzesi’nin eğitim atölye çalışmaları örnek
+gösterilebilir (Bozkuş, 2019).
+Elbette, eğitimdeki teknolojik yenilikler yalnızca
+müzelerle
+sınırlı
+değil.
+Aslında
+tüm
+eğitim
+dünyasının bir teknoloji devriminden geçtiğini
+söyleyebiliriz. Dijital teknolojiler ve internetin
+sağladıkları imkanlar, eğitim anlayışını günden
+güne değiştiriyor ve geliştiriyor. Artık toplumun
+her yaştan hemen her kesiminin teknolojiyle haşır
+neşir olduğu günümüzde; eğitim alanında da dijital
+simülasyonlar sayesinde öğrenciler güvenli bir
+şekilde uzmanlık kazanabiliyorlar, çevrimiçi eğitim
+okullarda ve üniversitelerde gitgide yayılıyor,
+yetişkinler yine çevrimiçi etkinlikler ve sertifikalar
+sayesinde portföylerini geliştirme imkanı buluyorlar.
+Her yaştan insanın kendi öğrenim imkanlarını
+yaratmasının önünü açan, eğitimi telefonlarımıza,
+bilgisayarımıza, evlere, kütüphanelere taşıyan bu
+eğitim teknolojileri, dolayısıyla geleneksel eğitim
+ekollerini de sarsma yolunda (Collins ve Halverson,
+2010).
+Biz yetişkinler olarak böylece çocukların önünü
+açmakla
+yükümlüyüz.
+Gelişen
+teknoloji
+ve
+internetin zararlı yönlerini en aza indirirken, aynı
+zamanda sağladığı imkanları da en üste çıkarmak
+bizim elimizde. Toplumumuzun geleceği olan
+çocuklarımızı artık gerçek hayatta olduğu kadar,
+sanal ortamda da koruyup kollamak, onların önünü
+açmak ve onlara rehberlik etmek bütün toplumun
+yararına olacaktır.
+
+--- Sayfa 24 ---
+24
+Dijital Anne-Baba Olmak
+Teknolojinin
+günlük
+hayatımıza
+entegre
+olmasıyla birlikte, çocuklar dijital bir dünyanın
+içinde büyümeye ve yaşamaya başladılar.
+Çağın çocukları dijital dünyamızın yerlileridir.
+Ebeveynlere oranlara dijital ve akıllı cihazlar
+hakkında
+daha
+çok
+bilgi
+ve
+yetkinliğe
+sahipler. İnternet ve uygulamalar aracılığıyla
+üretilen içerikler çocukları pek çok açıdan
+etkileyebilecek
+konumdadır.
+Bu
+sebeple
+ebeveynlerin çocuklar için dijital dünyayı ve
+teknolojiyi doğru kullanan rehberler olmaları
+gerekmektedir.
+Peki dijital ebeveyn olmak ne demek?
+Kabakçı ve arkadaşları (2013, s.888) Dijital
+ebeveyni şu şekilde açıklamaktadır; ‘’Dijital
+Ebeveyn, dijital çağın gereksinimlerine göre
+hareket eden, temel düzeyde dijital araçlara
+hâkim, uçsuz bucaksız bir ortam olan dijital
+ortamlardaki olanakların farkında olan ve
+çocuğunu bu ortamlardaki risklere karşı
+koruyabilen, kişi haklarına gerçek hayatta
+saygı duyulması gerektiği gibi sanal ortamda
+da aynı şekilde davranılması gerektiğini
+çocuğuna aşılayan ve teknolojik gelişmelere
+kendini kapatmayan bireydir’’.
+Yay (2019), Dijital ebeveynliğin önemini şu
+şekilde
+açıklamıştır:
+‘’Ebeveynlerin
+dijital
+cihazların güvenli ve verimli kullanımıyla
+ilgili
+bilinçlenmeleri,
+teknolojinin
+faydalı
+taraflarından istifade edip riskli ve zararlı
+taraflarının
+farkında
+olmaları
+konusunda
+çocuklarına rehberlik etmeleri ve önlem
+almaları
+gibi
+meseleler,
+günümüz
+ebeveynlerinin sorumlulukları arasına girmiş
+ve sağlıklı nesillerin yetiştirilebilmesi adına
+elzem hale gelmiştir. ‘’
+Ebeveynler
+dijital
+alanda
+çocuklarına
+rehber
+olabilmeleri için bazı yetkinliklere sahip olmalıdır.Bu
+yetkinliklerden biri dijital okuryazarlık becerisidir.
+Ebeveyn teknolojiyi ne zaman ve nasıl kullanması
+gerektiğini bilmelidir. Diğer önemli bir yetkinlik ise
+medya okuryazarlığı becerisidir. Bireyler medyada
+başkaları tarafından oluşturulmuş haberleri analiz
+edebilmeli ve değerlendirebilmelidir. Edineceği
+bilgiyi veya haberi doğru kaynaktan bulabilen kişi
+olmalıdır.
+Ebeveynlerin çocuklarını dijital ortamda yalnız
+bırakmamalı aynı zamanda çocuğun paylaşımlarını
+ve
+içeriklerini
+kontrol
+etmelidir.
+Ebeveynler
+çocuklarına dijital ortamdaki kullanıcılara saygı
+göstermeleri gerektiğini ve siber zorbalığı doğru
+şekilde aktarmalıdır. Çocuk siber zorbalığa maruz
+kalan kişi ve aynı zamanda siber zorba olan kişi
+konumunda
+olmamak
+için
+biliçlendirilmelidir.
+Teknoloji kontrollü kullanıldığı sürece bireylere
+günlük yaşantılarında kolaylık sunmaktadır. Bu
+sebeple ebeveyn kendini geliştirmeli ve gelecek
+nesil için çocuğunu da eğitmelidir.
+
+--- Sayfa 25 ---
+25
+Dijital Anne
+Nihal
+Nihal’in 7 yaşında bir Ayşe adında bir kızı var.
+Ayşe, tıpkı yaşıtları gibi dijital dünyada vakit
+geçirmeyi seven bir çocuk. Ancak dijital bir ebeveyn
+olan Nihal, kızının dijital dünyada doğru ve sağlıklı
+bir şekilde vakit geçirmesine çok dikkat ediyor.
+Nihal, öncelikle kızına rol model olmaya dikkat
+ediyor; sanal ortamı saatlerce kullanmıyor ve kızı
+Ayşe’nin yaşına uygun içerikleri özenle seçiyor.
+Kızına koyduğu sınırları ona da anlatıyor.
+Nihal, kızı için gerçek hayatı da keyifli hale getirmeye
+çalışıyor. Kızıyla birlikte ödev yapıyor, parka gidiyor
+ve onunla oyunlar oynuyor.
+Böylece kızı Ayşe’nin sanal dünyanın bir bağımlısı
+haline gelmemesine dikkat ediyor.
+Bunları Biliyor musunuz?
+Northwestern Üniversitesi’nde (2014) yapılan bir çalışmada
+sonuçlar anne-babaların %69’unun, onlar ev işleri yaparken
+çocuklarının dijital alet (Ipad, bilgisayar, akıllı telefon gibi)
+kullanımına izin verebildiğini gösteriyor.
+
+--- Sayfa 26 ---
+26
+Bireylerin, sadece bilgiyi
+tüketmesi değil aynı zamanda
+yeni bilgiler üretebilmesi ve
+bilinçli olarak kullanabilmesi
+artık bir gereklilik halini aldı.
+Siber Zorbalık
+Siber zorbalık dijital ortamda bireylerin birbirine
+yaptığı psikolojik saldırı türüdür.
+Siber zorbalığı Langos (2012) (akt. Akgül, 2018)
+ise, “Bilgi iletişim teknolojileri kullanılarak, kendini
+savunamayacak birine (mağdur) karşı yapılan
+bir dizi davranış ya da tek bir davranış.” olarak
+tanımlamaktadır. (akt. Akgül, 2018)
+İletişim alanında teknolojinin gelişmesiyle birlikte
+bireyler birçok kanaldan birbirlerine zorbalık
+yapmakta ve bunu zaman ve mekan kısıtlaması
+olmadan sürekli tekrarlamaktadırlar.
+Gelişen iletişim kanalları ile bireyler siber zorbalığı
+akıllı telefon, sosyal medya, e-posta ve diğer
+elektronik araçlar üzerinden gerçekleştirmektedir.
+Gelişen teknoloji ile birlikte internetin çevrimiçi
+oyun oynama, arkadaşlarla sohbet etme, bilgi
+edinme ve paylaşma gibi birçok imkanı vardır.
+Özellikle yetişkin grupları interneti etkin ve uzun
+saatler kullanmaktadır.
+Demirtaş
+ve
+Karaca
+(2018)
+ise,
+‘’İletişim
+teknolojilerinin hızlı gelişimi ve etkin kullanımı bazı
+sorunlara sebep olmuştur. Bu sorunlardan biri siber
+zorbalıktır. Kavramsal olarak ilk kez ABD’de ortaya
+atılan bir kavram olan siber-mobbing, internet
+tabanlı iletişim araçlarında meydana gelen, her
+türlü taciz, hakaret ve tehditleri ifade etmektedir.’’
+(Demirtaş, Karaca, 2018)
+
+--- Sayfa 27 ---
+27
+Siber zorbalığın gerçekleşme şekline göre bazı
+türleri vardır.
+	»
+İftira Atmak
+Zorbalığı
+gerçekleştiren
+kişinin,
+mağdurun
+hakkında gerçek olmayan bilgileri, konuşmaları
+dijital ortamda paylaşmasıdır.
+	»
+Dışlama
+Mağdurun çevrimiçi gruplardan dışlanması,
+çıkarılması durumudur.
+	»
+İfşaa
+Mağdurun
+görüntüsünün
+izinsiz
+olarak
+başkalarına
+gönderilmesidir.
+Bu
+zorbalık
+türünü genellikle yakın arkadaşlar arkadaşlıkları
+bittiğinde birbirine yapmaktadır.
+	»
+Taciz
+Hedeflenen kişiye sürekli şiddet ve tehdit  içerikli
+mesajların  gönderilmesidir.
+	»
+Kimliğe Bürünme
+Zorbanın
+mağdurun
+hesaplarına
+erişim
+sağlayarak onun kimliğine bürünmesi ve ona
+zarar verecek paylaşımlar yapmasıdır.
+
+--- Sayfa 28 ---
+Siber Zorbalığın Psikolojik Boyutu
+Siber ortamda zorbalığa maruz kalan bireyler
+psikolojik olarak bu durumdan etkilenebilirler.
+Meadows ve arkadaşlarına (2005) göre siber
+zorbalık genç insanlar arasında önemli sorunlara
+yol açmaktadır. Bunlar düşük benlik saygısı, zayıf
+akademik performans, depresyon, stres ve bazı
+vakalarda şiddet ve hatta intihardır.
+Siber zorbalığa maruz kalan bireyler bu durumu aile
+üyelerinden birine veya güvendiği yakın çevresine
+anlatabilir. Bu zorbalığı durdurmak ve maruz
+kalmamak için çeşitli yollara başvurabilirler.
+Aksaray 2011 yılında yayınladığı makalesinde siber
+zorbalık gören çocuklar üzüntü, anksiyete, korku
+gibi duyguları daha fazla hissettiklerini belirtmişler,
+ayrıca konsantrasyon bozukluğu nedeniyle okul
+notlarında düşmeler olduğunu ifade etmişlerdir.
+Yukarıda belirtilen sonuçlara göre siber zorbalığa
+uğrayan bireylerin sosyal ve okul yaşamlarında
+ciddi sorunlar yaşandığı belirtilmiştir.
+Farklı araştırmalara baktığımızda siber zorbalığa
+maruz kalan bireylerde, kural tanımama, saldırgan
+davranışlarda bulunma, madde kullanımı gibi
+davranışlar sergileyebilirler.
+Siber zorbalığa maruz kalmamak ve korunmak için
+teknoloji doğru kullanmak ve kişisel verilerimizi
+dijital alanda saklamayı bilmek çok önemlidir.
+UNUTMAYIN!
+Zorbalığa
+uğradığınızı düşünüyorsanız
+yapmanız gereken ilk iş anne-babanız,
+ailenizden yakın bir kişi, ya da güvendiğiniz
+başka bir yetişkin kişiden bu konuda
+yardım istemenizdir.
+Tanıdığınız
+bir
+kişiyle
+konuşmaktan
+rahatsızlık duyacaksanız profesyonel bir
+danışmanla konuşmak için ülkenizdeki
+bir yardım hattına başvurun.
+http://genclikdestekhatti.org.tr
+28
+
+--- Sayfa 29 ---
+29
+Kaynakça
+	»
+Karaca, M. ve Demirtaş Ö., (2018). Siber Mobbing: Kavramsal Çerçeve, Öncülleri ve Sonuçları, Journal EMI
+Dergisi, 2(2):21-34
+	»
+Orhan, R., & Yoncalık, O. (2016). Türkiye’deki Ortaokul Öğrencilerinin Beden Eğitimi ve Spor Alışkanlıkları.
+Kırıkkale Üniversitesi Sosyal Bilimler Dergisi, 6(1), 3
+	»
+Karabulut, B (2015). Bilgi Toplumu Çağında Dijital Yerliler, Göçmenler ve Melezler. Pamukkale
+Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Sayı 21: 11-23
+	»
+Aichner, T., & Jacob, F. (2015). Measuring the degree of corporate social media use. International Journal
+of market research, 57(2), 257-276.
+	»
+Ozdora-Aksak, E., & Atakan-Duman, S. (2015). The online presence of Turkish banks: Communicating the
+softer side of corporate identity. Public Relations Review, 41(1), 119-128.
+	»
+Çubukcu, A. ve Bayzan, Ş. (2013). Türkiye’de Dijital Vatandaşlık Algısı Ve Bu Algıyı İnternetin Bilinçli,
+Güvenli ve Etkin Kullanımı ile Artırma Yöntemleri. Middle Eastern & African Journal Of Educational
+Research, 5: 148-174
+	»
+Khamis, S., Ang, L., & Welling, R. (2017). Self-branding, ‘micro-celebrity’ and the rise of social media
+influencers. Celebrity Studies, 8(2), 191-208.
+
+	»
+Bruning, S. D., & Ledingham, J. A. (2000). Perceptions of relationships and evaluations of satisfaction: An
+exploration of interaction. Public Relations Review, 26, 85–95.
+	»
+Dülger, M. V. (2018). İnsan Hakları ve Temel Hak ve Özgürlükler Bağlamında Kişisel Verilerin Korunması.
+İstanbul Medipol Üniversitesi Hukuk Fakültesi Dergisi, 5(1), 71-144.
+
+	»
+Fombrun, C., & Shanley, M. (1990). What’s in a name? Reputation building and corporate strategy.
+Academy of Management Journal, 33(2), 233–258.
+	»
+Alagözlü, Çağrı (2012) Türkiye’de ve Avrupa Birliği Ülkelerinde Medya Okuryazarlığı. Radyo ve Televizyon
+Üst Kurulu. Uzmanlık Tezi, Ankara.
+	»
+Aksaray, S (2011). Siber Zorbalık. Çukurova Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Cilt 20, Sayı 2:
+405- 432 Çev: Aydın, A (2015). Dijital Vatandaşlık, Türk Kütüphaneciliği 29 1 142-146
+	»
+Aydoğan, D. (2013). İlköğretim 8. Sınıf Öğrencilerinin “Bilişim Teknolojileri Okuryazarlık” Düzeyleri
+(Malatya Örneği). Avrasya Uluslararası Araştırmalar Dergisi Cilt:2, Sayı:3, 34-58.
+
+--- Sayfa 30 ---
+30
+	»
+Çaycı, A. E., & Çaycı, B. (2017). Dijital iletişim çağında teknolojinin açığa çıkardıkları: gözetim ve
+mahremiyet.
+	»
+Erişen, Y., Gürültü, E. ve Bildik, C. (2018). 21. Yüzyıl Becerileri ve Milli Eğitim Kalite Çerçevesi Bağlamında
+Türkiye’deki Dijital Yetkinliğin Bilişim Teknolojileri Öğretmenleri Tarafından Değerlendirilmesi. European
+Journal Of Education Studies.
+	»
+Yüksel, U. (2012). Geleneksel Medya ve Yeni Medya. Anadolu Üniversitesi, Güzel Sanatlar Fakültesi,
+Grafik Tasarım Bölümü. Eskişehir.
+	»
+Kabataş, S. (2019). Öğretmen Adaylarının Dijital Vatandaşlık Algılarının Yaşam Boyu Öğrenme Tutumları
+ve e-Öğrenmeye Hazır Bulunuşluğu Açısından Değerlendirilmesi. Bartın Üniversitesi Eğitim Bilimleri
+Enstitüsü, Yüksek Lisans Tezi. Bartın.
+	»
+Yaman, F. (2018). Türkiye’deki Ebeveynlerin Dijital Ebeveynlik Öz Yeterliklerinin İncelenmesi. Anadolu
+Üniversitesi, Eğitim Bilimleri Enstitüsü, Doktora Tezi. Eskişehir.
+	»
+Vural, S. (2016), Üniversite Öğrencilerinin Bakış Açısıyla Dijital Vatandaşlık Göstergelerinin İncelenmesi.
+Anadolu Üniversitesi, Eğitim Bilimleri Enstitüsü, Doktora Tezi. Eskişehir.
+
+--- Sayfa 31 ---
+https://dijitvatandas.org
+Diji Vatandaş e-Öğrenme Platformu için
+ISOC-TR ve Medya Okuryazarlığı Derneği tarafından hazırlanan bu eser
+Creative Commons Atıf-GayriTicari-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı
+ile lisanslanmıştır.

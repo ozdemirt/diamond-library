@@ -1,0 +1,1153 @@
+--- Sayfa 1 ---
+Rutgers Business Review   Vol. 2, No. 2
+163
+
+Global Leadership in an Era of Growing
+Nationalism, Protectionism, and Anti-
+Globalization
+
+Farok J. Contractor
+Rutgers University
+
+Abstract
+
+The rise of nationalistic political leaders has spanned the globe—from Donald
+Trump and Marine Le Pen in the West, to Recep Tayyip Erdoğan in the Middle
+East, to Narendra Modi and Rodrigo Duterte in the East. To varying degrees,
+each of these leaders espouse an “our country first” mentality, skepticism or
+outright hostility toward multilateral institutions and global trade, and
+leadership styles that emphasize ethnic or group identification, distrust of
+immigrants, and increased assertiveness sometimes bordering on bluster and
+aggression.
+How do we measure this phenomenon called globalization? What are some
+underlying causes of the backlash against globalization? Is national progress
+incompatible with global progress? Has globalization stopped or slowed in
+recent years? Is nationalism—or a “my country first” approach—compatible
+with economic growth? What leadership qualities are needed for a 21st-century
+civilization? Are leadership styles that emphasize strength of personality,
+ethnic or group identification, and increased assertiveness compatible with
+human progress and civilization? In the most general sense, does human
+evolution suggest a dominant role for competition—or cooperation?
+
+Globalization and How to Measure It
+To trace the progress or slowdown of globalization, we first need to
+measure it. Various criteria of globalization have been used by the OECD,1
+consultants such as McKinsey & Co., and academics. They generally include
+ Trade flows (products and services)
+ Investment flows (portfolio and direct investment capital)
+
+--- Sayfa 2 ---
+Global Leadership in an Era of Anti-Globalization
+
+164
+Rutgers Business Review
+Summer 2017
+
+ Information flows (cross-border information and data flows on
+
+internet networks)
+ People flows (persons crossing borders temporarily or permanently)
+One of the most comprehensive is an index developed by Pankaj
+Ghemawat at New York University and sponsored by DHL (a global courier
+and delivery service), whose categories are shown in Table 1. The weightings
+of the sub-indexes roughly correspond to their relative importance in the
+world economy. The DHL “Depth” measure is a ratio of a country’s
+international flows compared with its domestic economy (GDP), whereas the
+“Breadth” index in Table 1 compares a country’s distribution, or spread, of
+international flows with the rest of the world’s distribution of the same index.
+
+Table 1. DHL Global Connectedness Index 20162
+Pillar
+(weight % of total)
+Depth Component
+(weight % of pillar)
+Breadth Component
+(weight % of pillar)
+1. Trade (35%)
+1.1. Merchandise Trade (75%)
+1.1. Merchandise Trade (100%)
+1.2. Services Trade (25%)
+-
+2. Capital (35%)
+2.1. FDI Stocks (25%)
+2.1. FDI Stocks (25%)
+2.2. FDI Flows (25%)
+2.2. FDI Flows (25%)
+2.3. Portfolio Equity Stocks (25%) 2.3. Portfolio Equity Stocks (50%)
+2.4. Portfolio Equity Flows (25%)
+-
+3. Information (15%)
+3.1. International Internet
+Bandwidth (40%)
+-
+3.2. Telephone Call Minutes
+(40%)
+3.2. Telephone Call Minutes
+(67%)
+3.3. Trade in Printed Publications
+(20%)
+3.3. Trade in Printed Publications
+(33%)
+4. People (15%)
+4.1. Migrants (33%)
+4.1. Migrants (33%)
+4.2. Tourists (33%)
+4.2. Tourists (33%)
+4.3. Students (33%)
+4.3. Students (33%)
+Source: Ghemawat, P., & Altman, S.A. (2016). DHL Global Connectedness Index 2016: The
+State of Globalization in an Age of Ambiguity.2
+
+How has globalization progressed (or some say shrunk) in the past
+decade? Figure 1 shows the movement of the Depth, Overall or Average, and
+Breadth indexes over the period 2005–2015. For a half century after the end
+of World War II, globalization by most measures had shown an unremitting
+upward increase. But some things began to go wrong around the year 2005.
+The great recession of 2008 is reflected in the dip in the graphs in Figure 1.
+And indeed, on the Breadth measure, globalization has been flat, or has even
+shrunk slightly, since 2005. The Breadth measure tracks the geographical
+spread of multinational activity. The Depth measure, by contrast, tracks the
+penetration of international trade, investment, data flows, and people in each
+
+--- Sayfa 3 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+165
+
+country—i.e., how deep a role globalization is playing in each nation’s Gross
+Domestic Product (GDP).
+
+Figure 1. How Globalization Has Progressed or Shrunk Recently:
+Global Connectedness, Depth and Breadth (2005–2015)
+
+Source: Ghemawat, P., & Altman, S.A. (2016). DHL Global Connectedness Index 2016: The
+State of Globalization in an Age of Ambiguity.2
+
+By the Breadth measure (coverage of number of countries), globalization
+may indeed have plateaued temporarily.3 But by Prof. Ghemawat’s Depth and
+Overall indexes, after the dip in 2008, globalization kept increasing at a
+healthy rate, as seen in Figure 1.
+Taking a longer sweep of history over the last two centuries gives us an
+even more dramatic perspective on how world civilization has integrated
+across borders. See Figure 2. While international trade over distances of
+thousands of kilometers has been occurring since the Babylonian and Persian
+empires 2,600 years ago, a big acceleration in globalization occurred  from
+the year 1800 onward. The overall trend, covering two centuries, is decidedly
+upward, although we see in Figure 2 that exports and Foreign Direct
+Investment (FDI)4 as a percentage of GDP declined temporarily after the
+Great Depression, with exports recovering and growing exponentially after
+1950. FDI took off sharply after the 1980s, following the collapse of socialist
+ideologies, and a liberalizing sea-change in government attitudes that began
+to welcome multinational companies into local markets.5 Today, for the most
+part, governments appear to be falling over each other to welcome FDI.
+
+--- Sayfa 4 ---
+Global Leadership in an Era of Anti-Globalization
+
+166
+Rutgers Business Review
+Summer 2017
+
+Figure 2. Globalization Over the Last 215 Years: World Urbanization
+and Selected Indicators, 1800-2015
+
+Sources: Ghemawat, P., & Altman, S.A. (2016). DHL Global Connectedness Index 2016: The
+State of Globalization in an Age of Ambiguity,2 who in turn drew from UNCTAD, World
+Bank, and IMF data.
+
+Agglomerations and Networks: Their Impact on Civilization and
+Global Business
+An even more significant change affecting world civilization generally is
+the acceleration in the exchange of ideas and innovation through physical
+proximity. Historically, humans had been isolated into small groups of
+hunter-gatherers. Even after the agricultural revolution around 10,000 BCE,
+relatively little interaction occurred between isolated farming villages and
+communities. Urban centers such as Babylon, Rome, ChangAn (Xian today),
+or Pataliputra (Patna today) were the exception, never containing even at
+their peak more than a few hundred thousand inhabitants each, so that 95
+percent of humanity lived lives within a 10 kilometer radius. See the
+Urbanization graph in Figure 2.
+Innovation, science, and progress require a cross-fertilization of ideas, to
+say nothing about mass production needing a market of sufficient national
+
+--- Sayfa 5 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+167
+
+or international scale that can sustain the development and sale of new
+products and ideas. By the year 1800, barely 5 percent of humanity lived in
+urban centers. Today, 55 percent of us do so, as seen in Figure 2. Urban
+clusters such as Silicon Valley or Bangalore, where like-minded firms and
+individuals congregate, confirm the need for physical proximity of
+technicians to spark the interchange of knowledge and ideas.6 But it is not
+just high-technology sectors such as Information & Communication
+Technology (ICT) or Bio-Pharmaceuticals that form clusters. Mundane
+production does the same: 70 percent of bags and suitcases sold in the US
+and Europe are produced in Shiling, China (population 350,000); 90 percent
+of global-brand eyewear comes from Ouhai, China (population 900,000); and
+85 percent of polished diamonds destined for the global market are produced
+by over half a million workers in Surat, India.7, 8
+And this is not just about cheap labor. An agglomeration of local suppliers
+of, say, only zippers, or diamond-polishing compounds, or plastic injection-
+molding machinery, provide accumulated expertise, and rapid delivery
+because of proximity to the assemblers of the final product. Buyers from
+abroad communicate quality and design standards that spread throughout
+firms in the cluster. Physical proximity rapidly disseminates ideas, designs,
+labor, standards, and materials for rapid response to changes in global
+market demand.
+But why do we need physical proximity in an internet-connected world?
+Virtual networks do substitute for physical proximity9—partially. In the new
+millennium, Information & Communication Technology ICT networks are as
+critical a measure of globalization as are shipping lanes for the export of
+goods. The DHL Global Connectedness Index (Figure 3) shows this as the
+fastest growing component of its index. Whereas International Trade, Cross-
+Border Capital, and Migration of People increased by barely 10 percent in the
+20052015 decade, Information Flows zoomed by more than 60 percent.
+
+The Viral Spread of Thoughts, Sentiments, and Phobias Worldwide
+If we define globalization not merely in commercial terms (exports,
+capital, etc.) but also in terms of the transmission and blending of ideas,
+concepts, lifestyles, cultures—and also phobias—then the introduction of
+the internet must surely be reckoned as a major inflection point in human
+history.
+The term “virus” is not inappropriate. In my opinion humankind is
+developing an emerging “global consciousness”—a global simultaneity and
+collective sensitivity to noble thoughts, as well as to phobias and ignoble
+protectionism. The same channels that transmit the latest décolleté fashion
+styles from Milan or Gangnam music style from Seoul to a farm family outside
+
+--- Sayfa 6 ---
+Global Leadership in an Era of Anti-Globalization
+
+168
+Rutgers Business Review
+Summer 2017
+
+Bombay or Basra also then engender in those viewers  a feeling of cultural
+unease or ambiguity, raising questions about identity that are often
+expressed in a backlash against globalization.
+
+Figure 3. Trade, Capital, Information, and People Pillars of the DHL
+Index of Globalization, 2005–2015
+
+Source: Ghemawat, P., & Altman, S.A. (2016). DHL Global Connectedness Index 2016: The
+State of Globalization in an Age of Ambiguity.2
+
+The Backlash against Globalization
+Anti-globalization sentiment springs from very different sources in the
+developed and the developing worlds. In richer nations, globalization has
+been (for the most part falsely) accused of causing job losses and economic
+stagnation. In developing nations, the reaction stems from the threats to
+identity because of the influx of foreign products and ideas.
+
+Cultural Angst
+Among the more than 10,000 Catholic Christian saints, St. Valentine
+(226–278 CE) of Terni, Italy remained a relatively obscure figure until the
+1850s, when American entrepreneurs began marketing greeting cards. Even
+past the middle of the 20th century, Valentine’s Day was unknown outside
+the US and UK. Today we have the astonishing spectacle every February 14 of
+malls in Asian cities from Beijing to Singapore thronged with extra shoppers
+
+--- Sayfa 7 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+169
+
+and restaurants and shows being heavily booked, with streets suffering
+additional traffic, because of this almost mythical figure that lived 1,700 years
+ago and 8,000 kilometers away.
+The transmission of ideas, fashions, and “cultural” practices began, even
+before 1998, via print media. But the internet has radically speeded up the
+interchange. One may ask, “What’s wrong if flower and chocolate shops in
+Asia and Latin America do additional business on February 14?” After all, if
+consumers and merchants are happier, that may appear to be a good thing.
+But not everybody agrees. Demonstrations against Valentine’s Day occur
+almost annually in India, some involving vandalism of shops, and also
+resulting, albeit rarely, in the lynching or suicide of harassed couples.10 Hindu
+fundamentalist groups protest the incursion of foreign cultural practices as
+eroding traditional culture.
+The incursion of foreign styles and culture is threatening to all ancient
+societies. Only one or two generations ago, the markers of identity in India
+or Korea or Bolivia or the Middle East were based on local religion, traditions,
+and small-distance familial relationships.11 Today, to their children squinting
+at a small screen, all the world’s a stage.
+
+Job losses
+The laid-off workers in the rust belts of Ohio, USA or Northeast France
+bear a different grudge. Whipped up by politicians such as Don Trump or
+Marine Le Pen, they blame globalization for their misfortunes. The job losses
+and angst are real. The diagnoses of politicians (blaming trade and
+immigration) are grossly overstated or false. Figure 4 shows the results of an
+analysis done by the McKinsey Global Institute, which concludes that in six
+industrialized nations (with the exception of Sweden) the majority of
+households saw a flattening or drop in their wages and investment income.12
+Even after accounting for taxes and transfer payments, households in Italy,
+the Netherlands, and the UK were affected. Undoubtedly, a major reason was
+that the year 2014 was compared with the year 2005, a period during which
+the effects of the Great Recession were still present in most nations.
+The reader should note that it is easy to misread the survey results in
+Figure 4. The survey covers both “falling (as well as) flat incomes.”  But for
+many respondents, even if their income remained “flat” for a decade, that is
+certainly cause for dismay—a legitimate concern that politicians such as Le
+Pen and Trump latched onto and magnified.
+In 2017, jobs have rebounded since 2014. However, a sense of malaise
+lingers. Employees in the US and Europe (and perhaps worldwide) are
+working harder, running faster, and more apprehensive because of greater
+competition in the labor market, aided by the relentless drive for productivity
+
+--- Sayfa 8 ---
+Global Leadership in an Era of Anti-Globalization
+
+170
+Rutgers Business Review
+Summer 2017
+
+gains through automation and ICT. Most depressingly, the McKinsey report
+suggests that a great psychological letdown is felt in western nations where
+two centuries of economic progress led every generation to believe they
+would be better off than their parents. No longer.
+
+Figure 4. Flat or Falling Incomes: Percent of Households in Segments
+with Flat or Falling Income, 2005–2014
+
+Source: McKinsey Global Institute, 2016
+
+Politicians demagogically put the blame on international trade, the
+offshoring of production, and immigrants allegedly robbing native-born
+citizens of their jobs. This assertion is true only in small part. For every one
+US job lost through international trade (1980–2016), informed analysts, such
+as the Wharton School, conclude that three or four jobs have been lost
+because of automation, robotics, information technology, and other
+productivity boosters.13
+The simplest example of a “productivity” measure is “output-per-worker.”
+When workers are laid off and replaced with machines, computers, or robots,
+the same output comes out of a factory, but with fewer workers, thus raising
+the output-per-worker ratio, or productivity measure. Automation, much
+more than international trade, has made the US the world’s most productive
+nation, by far.14 International business has certainly produced cheaper prices
+for industrial and retail consumers. But productivity increases and
+automation have delivered far greater benefits.
+
+--- Sayfa 9 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+171
+
+Which groups have benefited most from the productivity gains in the US
+and Europe over the last 30 years? There are three principal beneficiaries (and
+they do not include labor):
+1) Consumers of the finished products and services, who benefit from
+cheaper prices when productivity savings are passed on to buyers.15
+2) Top managers of companies that award themselves bonuses and
+higher salaries in cases where the incremental profits from
+productivity gains need not be passed on to consumers in the shape
+of lower prices, but can be otherwise allocated. (It is worth noting here
+that the power of unions in Europe, and particularly in the US, has
+greatly diminished so that they cannot demand a significant share of
+the incremental benefits for workers, as in the past. Union
+membership in the US, for example, has fallen to a low of less than 10
+percent of the workforce.)
+3) Shareholders of the firms who expect, and get, fatter dividend
+distributions and equity growth.
+What about labor sharing in the benefits? Gains from automation,
+robotics, ICT, and artificial intelligence have not gone to labor, as many
+studies show.16, 17 Over the past 15 years, the best an American or Western
+European worker could hope for, on average, is to keep his/her job and earn
+the same pay as before. The ones laid off because of automation are degraded
+to lower-paying jobs and/or receive government assistance, which partially
+ameliorates their pain (this is why the right-hand side of Figure 4 shows lower
+percentages compared with the left-hand side).
+
+International trade (on the import side only) and globalization have
+undoubtedly resulted in job losses. But automation has caused far more. The
+benefits of cheaper imports are widely dispersed over all the consumers in an
+importing nation. (In a hypothetical scenario, assuming all Chinese
+manufactured imports were replaced by US manufacturing, I calculated an
+additional cost of $295 billion to American consumers.18 That is to say the
+average US household benefits to the tune of $2,380 each year because of
+Chinese imports compared with the make-it-in-America alternative.) On the
+export side, international trade creates millions of new jobs. But the pain of
+import-induced job losses tend to be geographically concentrated in certain
+regions of France and the US.19 Depending on the voting system, these
+(dis)affected regions can sometimes have a disproportionate impact in
+elections in some countries.20
+
+Immigration
+Most studies (even those by authors with a conservative bent)21 concur
+that immigrants, on the whole, produce a net benefit for a country in the
+
+--- Sayfa 10 ---
+Global Leadership in an Era of Anti-Globalization
+
+172
+Rutgers Business Review
+Summer 2017
+
+medium and long run. That is to say, on average, and over time, immigration
+produces a net benefit for the nation. Alas, the economist’s and sociologist’s
+favorite expressions, “on average” and “over time,” are small comfort to those
+affected in labor markets by competition from immigrants—generally at the
+unskilled or low-income end of the spectrum. As in the case of import
+competition, the pain of job competition is concentrated on a small
+proportion of the population, while the benefits of immigration are widely
+spread over the entire population. (For example, while all Americans benefit,
+few think about how much more their lettuce, or meat, or lawn-cutting
+service would cost were it not for Latin American and Mexican immigrants
+who toil in difficult conditions for a pittance.)
+Figure 5 lists the 10 countries with the largest immigrant populations.22
+With the exception of Russia, the number of immigrants has increased
+slightly since 2005. Nevertheless, for most on the top-10 list, immigrants
+constitute only around 11–14 percent of the population. (Exceptions are small-
+population nations with a large land surface—Canada, Australia, and Saudi
+Arabia—which have quietly been welcoming selected immigrants to boost
+their GDP and expand and spread their populace over their large empty
+spaces.)
+Despite as many as 43 million US residents born elsewhere, immigrants
+(both legal and undocumented) constitute only around 13 percent of the
+overall US population of 326 million in 2017. Germany, France, and the UK
+have comparable or lower percentages.
+Besides competition for jobs, mostly at the lower-income end of the labor
+market,23 immigrants bring foreign ideas, religions, and ethnicity that
+threatens the self-perception and identity of sensitive native-born segments
+of the population.
+Again, as in many aspects of globalization, the impact is concentrated in
+certain parts of each nation. Immigrants tend to congregate in certain cities
+and areas. The irony in the US and French presidential elections, as well as
+in the Brexit vote, was that in areas with the largest immigrant
+concentrations (such as New York, San Francisco, London, and Paris), the
+native-born votes went to the liberal and globalist candidates. But in areas
+where immigrants are scarce or unseen (such as in Wyoming and West
+Virginia in the US, or in Lincolnshire in the UK), the votes went to the nativist
+scaremonger.24, 25
+How to explain this seemingly paradoxical result? In part, the answer lies
+in the fact that major metropolitan areas tend to be more prosperous and
+contain more educated and higher-income residents than outlying areas.
+Immigrants also cluster in major metropolises. Eventually, the proximity of
+multicultural ideas and ethnicities renders immigrants unthreatening to the
+
+--- Sayfa 11 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+173
+
+native-born urbanites. By contrast, in Lincolnshire or Wyoming, where
+few foreigners are seen, residents, who may not be as well-educated as their
+urban counterparts, tend to be more fearful watching images of terrorism on
+their televisions, making them easier targets for scaremonger politicians.
+
+Figure 5. Countries with Largest Immigrant Populations
+
+Source: Kirk, A. (2017). Which Country Has the Most Immigrants? The Telegraph.22
+
+In cold-blooded insurance or actuarial terms, the likelihood of an
+American being killed by a foreign-born terrorist is vanishingly small.26 Even
+including the 3,000 deaths on 9/11/2001, the lifetime odds are roughly
+comparable to tornado deaths, at one in 60,000.27 Since 9/11, which is unlikely
+to occur again on that scale, fewer than five Americans have died annually at
+the hand of terrorists, domestic or foreign. By contrast, around 350
+Americans die annually by falling out of beds, chairs, or other furniture.
+Traffic fatalities in 2016 killed 40,000 people, and injured 4.6 million more,
+on U.S. roads.28
+
+Fragmentation of the New Media Landscape and Erosion of Trust in
+Institutions
+Fear sells products as well as political platforms. Advertisers, mass-
+market television news stations seeking higher ratings, and campaign
+
+--- Sayfa 12 ---
+Global Leadership in an Era of Anti-Globalization
+
+174
+Rutgers Business Review
+Summer 2017
+
+managers all know that what hooks viewers and votes are the two bookends
+of mortality: sex leading to conception and death. Male candidates can be
+more appealing when gossip links them with multiple women.29 A strong
+personality that frequently threatens or scares is similarly attractive to many.
+The internet has fragmented and multiplied media sources. A the turn of
+the millennium, Americans got their information from what were then
+considered reliable and venerable sources such as CBS, NBC, and the New
+York Times, just as the British public trusted its institutions such as the BBC
+and the Times of London. Today, that trust in institutions has eroded to the
+point where Don Trump and Nigel Farage (the UK Independence Party
+[UKIP] leader principally responsible for Brexit) can openly mock the
+traditional news outlets—and get thunderous applause at rallies. Readers
+and viewers do not know whom to trust anymore.
+Hence, many turn to Facebook as their principal source of “information.”
+Especially pernicious and troubling has been the role of algorithms in the
+new media companies. Half of 18–49-year-old Americans get their “news”
+online in a biased fashion.30 According to a Pew Research study, “About two-
+thirds (63%) of Americans say family and friends are an important way they
+get news.”31 What nobody realizes is that algorithms at Google and Facebook
+deduce what users prefer and then steer them toward “like”-minded
+customized news sources that their family, friends, and social network also
+read.
+Why do Google, Facebook, and others do this? The answer is that a user
+is more likely to purchase from an advertiser when the content viewed is
+congruent with his/her preconceptions and predilections. Similarly, Fox
+News, MSNBC, and Breitbart endeavor to lure and retain “like-minded”
+viewers whose biases are confirmed and reinforced every time they visit the
+site. No organization wishes to drive viewers away by presenting them with
+dissonant or uncomfortable facts—hence, the selective algorithm-driven
+filter.
+Such viewer screening and algorithms create and perpetuate inbred,
+selective, and self-reinforcing “filters” that segregate the public into
+“alternative realities”—separate camps and “silos” from which the world
+looks very different, depending on which silo one occupies. Is it any wonder
+that politics in the US, Europe, and even Turkey and India are becoming
+polarized into camps with markedly different views on the same
+phenomenon?
+This institutional failure away from objective journalism that presents a
+wide range of facts—however uncomfortable—should not be blamed on the
+internet, which is merely a dumb medium. Rather, it is a manifestation of a
+phenomenon that has been gaining momentum over the past three
+
+--- Sayfa 13 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+175
+
+decades—the drive for profits superseding the duty of a journalistic
+institution or company to serve the largest interest of the public. (Mind you,
+I am a professor at a business school who very much believes in the social
+value of fair competition. But I also recognize that sometimes corporate
+interests diverge from the “greater good.”)
+
+Is Globalization in Retreat?
+No. Some aspects of globalization, such as trade, saw their growth slowed
+in the 2005–2014 period. And increasing nationalism in some nations such as
+the US, UK, and Turkey may result in greater protectionism against the
+import of several categories of products. Immigration may level off or decline
+in certain countries. But the welcome mat continues to be laid out for
+incoming FDI. Cross-border data and communication flows continue to grow
+rapidly. Moreover, the giant domestic markets of China and India are far from
+a saturation point for foreign products and ideas. Indians and Chinese (who
+total 2.6 billion persons and constitute 37 percent of humanity) are not
+xenophobic. They are more ready to adopt foreign ideas and modern 21st-
+century lifestyles32 compared with sections of US and European societies
+currently undergoing self-examination and angst. The “middle class” citizens
+who buy processed or manufactured goods and services in China and India
+have been variously estimated to total between 800 million and 1,400 million.
+They joyfully buy mobile phones from Korea or the US, watch action-
+oriented American movies with subtitles, and clothe themselves in jeans and
+tailored western-cut garments.33
+Is globalization in retreat? The answer is a reasonably strong “no,”
+especially if the view is from an emerging-nation context rather than the
+West. While America and parts of Europe are in a temporary bout of
+introspection, developing nations are optimistically forging ahead. While
+aging infrastructure (roads and bridges) in the US need attention, Don
+Trump calls for billions to be spent on a border wall. Meanwhile, thousands
+of kilometers of China’s “One Belt, One Road” construction project, designed
+to connect China with Europe and SE Asia by road and train, have already
+been completed, as well as a string of ports built on the Pacific and Indian
+Oceans.34 The Asian Infrastructure Investment Bank (AIIB), with 70
+emerging countries as members (from Azerbaijan to Vietnam), has an already
+subscribed capital of $100 billion and is sponsoring projects in Asia and
+Africa.35
+The second broad conclusion is that globalization has been falsely
+accused. It is not globalization, per se, that causes job losses, culture shocks,
+and xenophobia among sections of the public in the US and Europe. Rather,
+it is modernization of lifestyles and industries that more fundamentally alters
+
+--- Sayfa 14 ---
+Global Leadership in an Era of Anti-Globalization
+
+176
+Rutgers Business Review
+Summer 2017
+
+the patterns of work and life. Much more than imports or offshoring, it is
+automation that eliminates jobs in advanced nations. Increased domestic
+competition (more than import competition) drives companies to try to cut
+costs and the labor content of production.
+In part, Marine Le Pen is correct. In the US, Western Europe, and indeed
+worldwide, the last 25 years have proclaimed the gospel of hyper-competition
+and an intense focus on company stock values and profits. The power of
+unions has shrunk. This has tilted the social balance in favor of capital
+investors, top management, and all consumers (who benefit from better and
+cheaper products) and against labor. “Nothing wrong with that,” many would
+say. Indeed, before the 1980s, unions in several manufacturing sectors were
+perhaps overly strong, resulting in inefficiencies, low productivity, and
+meager profits. For each society it is a matter of finding the right balance—
+how to manage the allocation of benefits accruing to (1) labor, to (2)
+consumers, to (3) top management, or to (4) shareholders.
+Do not blame globalization. It is a symptom, and not the cause, of the
+introspection convulsing some western societies groping for the right
+balance in lifestyles between work and leisure, as well as between
+consumerism, corporate interests, and social justice.
+
+A Globalizing World: Benefits and Backlash
+We still live in a world of distinct nation-states and cultures, although the
+various aspects of globalization such as trade, FDI, the internet, travel, and
+migration are stitching us together. Today, nations and societies are grossly
+unequal in income and knowledge. But this inequality is not based on
+malevolent forces trying to keep the poor down. On the contrary,
+globalization has lifted around two billion people out of poverty since 1980
+through FDI and trade. Table 2, derived from World Bank data (using $1.90
+per person per day as their cutoff), shows dramatic decreases in poverty rates
+after 1980. In 1981, 44 percent of humankind lived in absolute poverty. With
+the big increase in global trade and investment since then, even though the
+world population almost doubled, by 2015 only 9.6 percent of us were in
+grinding poverty.
+Take Bangladesh as an example. Although it is one of the poorer nations
+on the planet, today it is the second biggest exporter of garments to retailers
+around the world (e.g., H&M, Zara, Marks & Spencer, Walmart). Its 2.4
+million garment workers, supporting households totaling 8.5 million, enjoy
+a minimal lower-middle-class life. True, their hourly wage, hovering at 45–85
+US cents per hour, appears shockingly low to westerners. But a $5 daily wage
+times two income earners, or $10 per day, is enough in a low-cost nation to
+allow a family to live an adequate or tolerable life. (The alternative, in the
+
+--- Sayfa 15 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+177
+
+farm villages from where many came to work in the urban factories, would
+likely be below the World Bank’s criterion of $1.90 per person per day.)
+
+Table 2. Reduction in Poverty
+Year
+World
+Population
+% Living in Extreme
+Poverty (at $1.90 per
+person per day)
+Absolute Numbers of
+Humankind Living in
+Extreme Poverty
+1981
+4.5 billion
+44%
+1.98 billion persons
+2015
+7.4 billion
+9.6%
+.71 billion persons
+Source: World Bank. http://iresearch.worldbank.org/PovcalNet/index.htm?1
+
+Citizens of Europe, the US, and Japan also benefit. As consumers, they
+enjoy low prices compared with a world where international trade and FDI
+did not exist and garments would cost thrice as much, for example. They can
+spend the savings on a wider range of items. As producers, many have jobs
+intended for foreign markets—i.e. export. In the US alone, 12 million jobs are
+directly related to exports, with up to 35 million jobs if ancillary suppliers of
+components and services are included.36 (Contrary to the statements of
+scaremonger politicians, the US remains by far the most productive nation
+on earth and is also highly competitive in world markets—a very close second
+to China in total exports, as seen in Table 3, where the EU is grouped into a
+total of 28 countries).37, 38 Worldwide, I conservatively estimate at least 200
+million jobs directly dedicated to exports and around 600 million total jobs,
+including ancillary suppliers.
+FDI is an alternative channel to exports in reaching a foreign buyer. An
+American purchasing a Honda CR-V may not know whether his or her
+particular car was assembled in Honda’s US subsidiary, exported to the US
+from Honda’s Mexico subsidiary, or shipped to the US out of Japanese
+production. (All three sources are used.) Honda’s USA subsidiary employs
+30,000 Americans directly39 (and an estimated 60,000 more indirectly). The
+worldwide total stock of FDI in 2015 was $24,983 billion, and the total jobs (at
+multinational headquarters and subsidiaries globally) are likely to approach
+the hundreds of millions, the numbers attributable to exports.
+Some economists estimate that the world GDP is at least 10 percent
+higher—or an additional $8.5 trillion—because of globalization.40
+Globalization has produced enormous net benefits for the world:  gains for
+consumers, hundreds of millions of additional jobs, and alleviation of mass
+poverty in developing nations.
+
+--- Sayfa 16 ---
+Global Leadership in an Era of Anti-Globalization
+
+178
+Rutgers Business Review
+Summer 2017
+
+Table 3. The US and EU (28 Nations) Together Are Far Bigger Exporters
+than China and Japan
+Country/Region
+Services
+Exports
+$ Billions
+Merchandise
+Exports
+$ Billions
+Total
+Exports
+$ Billions
+EU (28 nations)
+2,064
+5,374
+7,438
+USA
+752
+1,455
+2,207
+Japan
+174
+645
+819
+China
+208
+2,098
+2,306
+WORLD
+4,879
+16,002
+20,881
+Source: UNCTADStat. http://unctadstat.unctad.org/wds/ReportFolders/ reportFolders.aspx
+
+What Leadership Qualities Are Needed in an Interdependent
+Globalizing World?
+All of the above suggest we are in a far more complex, interdependent
+world where negotiated cooperation, based on common rules, is the only way
+to make our planetary civilization function. My exports are your country’s
+imports. My new drug discovery needs patent protection in your nation.
+International banking and finance cannot function without common norms
+and protocols for transactions. African dust pollution wafts over to the
+eastern US. Air travel is impossible without close coordination among
+controllers in many nations. Millions outside the US use GPS devices
+receiving signals from American satellites. Passengers and cargo require
+assurances of safe passage through waters claimed by individual countries.
+The internet must operate on commonly accepted technical standards.
+Mutually negotiated technical standards apply to almost all industries.
+Since we live in a world of nation-states (as opposed to a world
+government), negotiations on a multitude of issues must take place. A “my
+country first” approach may be desirable, but only as an early starting point.
+Great mutual gains are to be had in every nation by participating in planetary
+standards, common rules, technical and economic cooperation, and policies
+that promote trade and FDI—while tackling at home the inevitable
+adjustments and pain suffered by segments of each country’s workers who
+are laid off. Globalization is not pain-free. But the overall gains vastly
+outweigh the pain felt by affected segments of each nation’s population.
+For politics, if global cooperation inevitably means a minor loss of
+economic sovereignty, what are desirable leadership qualities in an
+interdependent world? Our recent tribal past still powerfully influences
+human behavior and politics. From a leadership qualities point of view, the
+opposite of globalization is not nationalism, it is tribalism. Tribes were, and
+are, led by “big chiefs,” “strong men,” potentates, and kings—in short,
+autocrats.
+
+--- Sayfa 17 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+179
+
+Table 4. Leadership Qualities for a Global Civilization
+The “Big Chief” or Autocrat
+The Globalist Leader
+Personality expansion
+Process facilitation
+Central decision-making
+Collaboration across organization levels
+and borders
+Egotism / Impulse
+Humility / Deliberation
+Family / Nepotism / Patronage
+Merit
+Demands for personal loyalty
+Loyalty to principles / Democracy
+Mano a mano (Win / Lose)
+Consensus (Win / Win)
+No obligation beyond immediate circle
+Noblesse oblige
+Secrecy
+Openness / Disclosure / Communication
+Language:
+
+Short
+
+Succinct
+
+Repeated
+
+Powerful
+Language:
+
+Nuanced
+
+Contingent
+
+Complex
+
+Persuasive
+
+Tribal leadership is characterized by centralization of power,
+concentrated in an individual (the chief) and his immediate circle. See Table
+4. Ego, impulse, and passion are frequently displayed. Outward impressions
+are emphasized, and flaunting of wealth, power, hangers-on, and retinue are
+the result. Value is placed on fast decision-making and the appearance, or
+image, of decisiveness and machismo.
+The globalist leader, on the other hand, recognizes her apex role
+differently, knowing that a global economy and civilization require
+cooperation and assent from other countries, as well as from her own
+organization and citizens. S/he sees her/himself as a facilitator of interactive
+and interdependent processes, a catalyzer of cooperation across organization
+levels in her own government, as well as inter-organizational cooperation at
+the international level. Passion (strong likes and dislikes) and rapid decision-
+making are recognized as impulses to be suppressed in favor of deliberation,
+consultation, and advice from a wider circle of opinion.
+The tribal leader, or autocrat, typically draws from a smaller circle of
+advice—from family, sycophants who have pledged personal loyalty, and
+external patrons who stand to be politically rewarded. Sharing information
+and disclosure are seen as forms of weakness, giving needless advantage to
+others. Secrecy is a desirable norm. His language is characterized by short
+phrases, often repeated, and his speech projects an impression of “great”
+power. Life and work to him are an endless series of “mano a mano”
+negotiations in which one party wins and the opponent loses. Maneuver,
+covertness, and psychological tactics are seen as important ways to get ahead
+in this world view that emphasizes a “me first” or “my country first and the
+rest be damned” mentality.
+
+--- Sayfa 18 ---
+Global Leadership in an Era of Anti-Globalization
+
+180
+Rutgers Business Review
+Summer 2017
+
+The globalist leader has a more realistic and humble perception of her
+own capabilities. Her instincts are democratic. She knows, in today’s
+complex, interdependent, and multicultural world, that no single person is
+knowledgeable or wise enough to make highly centralized decisions.
+Advisors are chosen based on merit, rather than nepotism. Her language style
+is moderate, nuanced, contingent, complex, and persuasive. Openness and
+disclosure make for better collective decisions. Openness, communication,
+and cooperation also enable reciprocity and consensus to be reached with
+other countries on common rules, standards, protocols, and norms without
+which something as simple as the internet or cross-border phone calls and
+air travel would not be possible—let alone the “architecture” of thousands of
+worldwide technical standards or the political dialogue needed to build and
+sustain a global civilization.
+The tribal leader’s world view is a planet populated by distinct and often
+conflicting tribes, with each tribe looking after its own. If not racist, tribalists
+look upon other tribes as inferior in capability and skills. The globalist’s
+weltanschauung41 is a planet populated by a uniform and undifferentiated
+humanity with a collective global consciousness. If in the 21st century some
+of humanity remains inferior in wealth or education, that is not an
+indictment or judgment against them. Rather it represents an opportunity,
+nay an obligation, to raise their education and living standards higher. As
+Table 2 shows, this happy transformation of billions being lifted out of abject
+poverty is something that globalization is already accomplishing.
+
+Conclusions
+It took humankind 100,000 years to reverse their scattering into tiny
+isolated tribes occupying remote corners of the planet and begin having
+contact with one another, and another 12,000 years to move from being
+hunter-gatherers to launching the industrial revolution in the 18th century.
+Another 250 years later, we are today in a globalizing economy that has
+benefited most of humanity, especially in the developing world, although it
+may have adversely affected jobs, expectations, and self-worth in some
+segments of society in Europe and the US. The gains of globalization, as seen
+in Table 2, vastly exceed the pain felt by some in advanced nations—
+although it is no consolation to the laid-off worker in Lille, Detroit, or
+Birmingham42 to be told that millions in Buenos Aires, Bombay, and Beijing
+enjoy an elevated existence. It is small comfort to the television viewer in
+Kent, traumatized by images of terrorism (however minuscule the
+probability of being personally affected may be) to be told that millions in
+Kinshasha, Kolkata, and Kunming don western dress, speak English, listen to
+
+--- Sayfa 19 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+181
+
+Beyoncé, and follow Facebook, so that their culture and life, superficially at
+least, approximates that of the person in Kent.
+Darwin may not be all wrong. But today we know that he was less than
+half-right. Cooperation, even more than competition (or “survival of the
+fittest”), forms the basis, or architecture, of biological life at the cellular level,
+as well as behavior within and between species.43
+The same applies to the mind. In the 21st century, when we speak of
+“institutions” (be they national or international) we are speaking of mental
+architecture. Treaties, technical standards, air traffic control, shipping lanes,
+GPS, international postage, the internet, and all such commonly accepted
+standards may have a paper or softcopy repository. But once negotiated and
+implemented, they really are collective pathways of the mind that most of
+humanity follows to its advantage.
+The coming-together of humankind in a global, integrated economy will
+likely continue—although history is replete with scenarios of human
+progress followed by retreat or even “dark ages.” To build a global civilization,
+we need leaders who espouse democracy, openness, morality, benevolence,
+meritocracy, egalitarianism, and a recognition that our edifice is built on
+international cooperation, mutually negotiated rules, and commonly
+accepted procedures.
+
+Author
+Farok Contractor is Distinguished Professor of Management and Global Business
+at Rutgers Business School, a Fellow of the Academy of International Business
+(AIB), and author of nine books and over 100 scholarly articles. He holds a Ph.D.
+(Managerial Science and Applied Economics) and an M.B.A. from the Wharton
+School, as well as two engineering degrees (M.S. in Industrial Engineering,
+University of Michigan, and B.S. in Mechanical Engineering, University of Bombay).
+He has chaired or been on the supervisory committees of 17 doctoral dissertations
+on International Business topics. He has taught at the Wharton School,
+Copenhagen Business School, Fletcher School of Law and Diplomacy, Tufts
+University, Nanyang Technological University, Indian Institute of Foreign Trade,
+XLRI (India), Rutgers business programs in Beijing and Shanghai, Lubin School of
+Business, and Theseus and EDHEC in France. He has also conducted executive
+seminars in the US, Europe, Latin America, and Asia. Farok Contractor’s research
+focuses on key issues in International Business, such as corporate alliances,
+outsourcing and offshoring, valuation of intangible assets, the technology transfer
+process, licensing, and foreign direct investment. His papers and books have been
+cited approximately 9,000 times, and he is among the top-ranked contributors of
+scholarly papers in the field. He has served Rutgers as Department Chair, CIBER
+(Center for International Business Education and Research) Research Director,
+Ph.D. program coordinator, and other key school and university initiatives. He
+
+--- Sayfa 20 ---
+Global Leadership in an Era of Anti-Globalization
+
+182
+Rutgers Business Review
+Summer 2017
+
+writes a blog for managers, students, policy makers, and educated laypeople
+covering International Business issues from economic and cultural perspectives at
+https://globalbusiness.blog.
+ email: farok@business.rutgers.edu
+
+Acknowledgment
+Small portions of this article were derived from Contractor, F. (2017). Why Do
+People Oppose Globalization?. YaleGlobal (June 15). http://yaleglobal.yale.edu/
+content/why-do-people-oppose-globalization
+
+Endnotes
+1.
+The Organization of Economic Cooperation and Development (OECD) is a research and
+policy think tank organized and funded by 35 of the richest nations. See
+http://www.oecd.org/about/membersandpartners/list-oecd-member-countries.htm
+2.
+Ghemawat, P., & Altman, S.A. (2016). DHL Global Connectedness Index 2016: The State
+of
+Globalization
+in
+an
+Age
+of
+Ambiguity.
+Deutsche
+Post
+DHL
+Group.
+http://www.dhl.com/content/dam/downloads/g0/about_us/logistics_insights/gci_2016
+/DHL_GCI_2016_full_study.pdf
+3.
+Ibid. Multinational companies grow out of their home markets to serve neighboring
+nations. But most multinationals—even the giant ones—have controlled subsidiaries
+typically in no more than 40-odd nations. There are natural limits to a firm’s
+geographical spread. In a ranking of countries, below rank 40 the remaining 153 nations
+are not considered attractive enough markets for most multinationals based in rich
+nations to bother with directly, or invest in substantially. See Contractor, F. (2007). The
+Evolutionary or Multi-Stage Theory of Internationalization and its Relationship to the
+Regionalization of Firms. In Regional Aspects of Multinationality and Performance:
+Research in Global Strategic Management (pp. 11–30), Rugman, R. (Ed.), Oxford: Elsevier.
+Hence, the geographical breadth of coverage for most multinational firms is decidedly
+limited—even if the penetration, or depth of investment, in the favored 40-odd markets
+keeps increasing over time.
+4.
+Foreign Direct Investment (FDI) is the globalization category describing a multinational
+parent firm’s ownership of affiliates and subsidiaries in foreign nations. A “foreign
+affiliate” of a multinational company is a case where the foreign firm owns at least 10
+percent of the shares in the local company: 10–49 percent is a minority share, and 50–
+100 percent foreign ownership is considered to be majority control. In fact, most foreign
+affiliates of multinational companies are fully owned subsidiaries, with 100 percent of
+the shares controlled by the foreign firm. In the 18th century, the Dutch and English East
+India Companies had full control of their overseas operations—not by legally formed
+subsidiaries, but by royal charter.
+5.
+The UN has been tracking government policy changes since the 1980s; data shows an
+almost worldwide dismantling of barriers and restrictions on incoming FDI. Despite
+opinions voiced against multinational companies, most governments today have a
+welcome mat put out for them. See UN Conference on Trade and Development’s
+Investment Policy Monitor database at: http://investmentpolicyhub.unctad.org/IPM.
+
+--- Sayfa 21 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+183
+
+6.
+McCann, B.T., & Folta, T.B. (2008). Location Matters: Where We Have Been and Where
+We Might Go in Agglomeration Research. Journal of Management, 34(3), 532–565.
+7.
+Industrial clusters: Bleak times in bra town. (2016). The Economist (April 16). Retrieved
+from
+http://www.economist.com/news/china/21697004-one-product-towns-fuelled-
+chinas-export-boom-many-are-now-trouble-bleak-times-bra-town
+8.
+Lee, Y.M., Pinto, S., Simons, R., Stochniol, N., & Zverina, C. (2008). The Gujarat Diamond
+Cluster: Is It Forever? Harvard Business School Research Paper for Microeconomics of
+Competitiveness, Spring (May 2). Retrieved from http://www.isc.hbs.edu/resources/
+courses/moc-course-at-harvard/Documents/pdf/studentprojects/
+India_(Gujarat)_Diamonds_2008.pdf
+9.
+Huang, Y., Shen, C., & Contractor, N.S. (2013). Distance Matters: Exploring Proximity
+and Homophily in Virtual World Networks. Decision Support Systems, 55(4), 969–977.
+10. Kerala: Victim of moral policing on Valentine’s Day kills himself. (2017). The Indian
+Express (February 24). Retrieved from http://indianexpress.com/article/india/kerala-
+moral-policing-victim-kills-himself/
+11. Henry, C.  (2005). The Clash of Globalisations in the Middle East. In International
+Relations of the Middle East (pp. 104–128), Fawcett, L. (Ed.), Oxford: The University
+Press.
+12. Dobbs, R., Madgavkar, A., Manyika, J., Woetzal, J., Bughin, J., Labaye, E., & Kashyap, P.
+(2016). Poorer Than Their Parents? A New Perspective on Income Inequality. McKinsey
+Global
+Institute
+(July).
+Retrieved
+from
+http://www.mckinsey.com/global-
+themes/employment-and-growth/poorer-than-their-parents-a-new-perspective-on-
+income-inequality
+13. Can Trump—or Anyone—Bring Back American Manufacturing? (2016). Knowledge at
+Wharton (November 30). Retrieved from http://knowledge.wharton.upenn.edu/article/
+can-trump-anyone-bring-back-american-manufacturing/
+14. Contractor, F.J. (2012). Seven Reasons to Expect US Manufacturing Resurgence.
+YaleGlobal Online (August 7). Retrieved from http://yaleglobal.yale.edu/content/7-reasons-
+expect-us-manufacturing-resurgence
+15. Hundreds of travel agencies in China and other emerging countries specialize in travel
+to the US for the express purpose of shopping. Because of intense competition and one
+of the world’s most open markets, prices in the USA (on a wide range of items from
+iPhones to jeans to food) are among the lowest in the world. For the US consumer, this
+is an unmitigated boon. Of course, for the foreign visitor, the attractiveness of US prices
+depends on the strength or weakness of the US dollar. In 2017, the dollar is strong
+compared with the currencies of visitors from Latin America, and so shopping tourism
+has diminished somewhat from that region of the world. But the Chinese RMB (yuan),
+which has been appreciating against the dollar, continues to lure Chinese tourists to
+American shopping malls.
+16. For example, see Mishel, L., & Gee, K-F. (2012). Why Aren't Workers Benefiting from
+Labour Productivity Growth in the United States?. International Productivity Monitor,
+23, 31–43.
+17. Cooper, D., & Mishel, L. (2015). The Erosion of Collective Bargaining Has Widened the
+Gap between Productivity and Pay. Economic Policy Institute (January 6). Retrieved from
+http://www.epi.org/publication/collective-bargainings-erosion-expanded-the-
+productivity-pay-gap/
+
+--- Sayfa 22 ---
+Global Leadership in an Era of Anti-Globalization
+
+184
+Rutgers Business Review
+Summer 2017
+
+18. Contractor, F. (2017). What Is at Stake in China-US Relations? An Estimate of Jobs and
+Money Involved in the Bilateral Economic Tie. Rutgers Business Review, 2(1), 2–22.
+19. David, H., Dorn, D., & Hanson, G.H. (2013). The Geography of Trade and Technology
+Shocks in the United States. American Economic Review, 103(3), 220–225.
+20. Hillary Clinton won the 2016 US Presidential Election, receiving 3 million more votes
+than Don Trump. However, Trump won more congressional districts (many in
+depressed areas, or “rust belts” in Ohio, Pennsylvania, West Virginia, etc.). Under the
+American electoral college system, where the number of electors only roughly
+corresponds with the numbers of votes cast, Trump captured the presidency.
+21. See Orrenius, P. (2016). Benefits of Immigration Outweigh the Costs. George W. Bush
+Institute (2; Spring). Retrieved from http://www.bushcenter.org/catalyst/north-
+american-century/benefits-of-immigration-outweigh-costs.html.
+The
+author,
+Pia
+Orrenius, is Vice President and Senior Economist at the Dallas Federal Reserve Bank.
+22. Kirk, A. (2017). Which Country Has the Most Immigrants? The Telegraph (21 January).
+Retrieved from http://www.telegraph.co.uk/news/worldnews/middleeast/12111108/
+Mapped-Which-country-has-the-most-immigrants.html
+23. Much has been made by Don Trump about how the H-1B visa program illustrates the
+displacement of qualified Americans at the middle or upper end of the salary spectrum,
+$60–100,000 per year. The 2017 quota fixed by the US Congress was a maximum of 85,000
+temporary three-year H-1B visas; 85,000 temporary workers are a tiny fraction of the 123
+million US full-time work force. True, many of these temporary workers then apply to
+stay on in the US under permanent visas, and their applications are sponsored by their
+companies because of their talents. There are no reliable data on how many H-1B visas
+were converted to permanent visas. Even if we use the upper-end guesstimates that, over
+the years, cumulatively 600,000 US permanent residents immigrated originally via the
+H-1B program, this number is still less than one half of one percent of the US workforce.
+Moreover, H-1B visa holders are some of the planet’s most talented and skilled computer,
+bio-tech, and science-technology-engineering-math (STEM) specialists.
+24. Trump Country: Where the Immigrants Aren’t. (2017). Populyst (February 27). Retrieved
+from https://populyst.net/2017/02/17/trump-country-where-the-immigrants-arent/
+25. Wike, R. (2017). Five Charts Showing Where France’s National Front Draws Its Support.
+Pew Research Center (April 21). Retrieved from http://www.pewresearch.org/fact-
+tank/2017/04/21/5-charts-showing-where-frances-national-front-draws-its-support/
+26. In actuarial terms, the numbers speak for themselves. Yet I hesitate to use these numbers
+as an analogy because whereas accidents are not premeditated, terrorism involves
+premeditated, vicious, and politically symbolic acts that deserve vigilance and
+countermeasures, however small the numbers of fatalities may be.
+27. Mosher, D., & Gould, S. (2017). How Likely Are Foreign Terrorists to Kill Americans? The
+Odds
+May
+Surprise
+You.
+Business
+Insider
+(January
+31).
+Retrieved
+from
+http://www.businessinsider.com/death-risk-statistics-terrorism-disease-accidents-
+2017-1
+28. Motor Vehicle Deaths in 2016 Estimated to Be Highest in Nine Years (2017). National
+Safety Council (February 15). Retrieved from http://www.nsc.org/Connect/
+NSCNewsReleases/Lists/Posts/Post.aspx?ID=180
+29. After Silvio Berlusconi’s sex scandals, including with underage girls, were revealed, his
+ratings went up. See more here.
+
+--- Sayfa 23 ---
+Global Leadership in an Era of Anti-Globalization
+
+Rutgers Business Review   Vol. 2, No. 2
+185
+
+30. Mitchell, A., Gottifried, J., Barthel, M., & Shearer, E. (2016). The Modern News
+Consumer--New Attitudes and Practices in the Digital Era. Pew Research Center (July 7).
+Retrieved from http://www.journalism.org/2016/07/07/the-modern-news-consumer
+31. Ibid.
+32. Undercurrents of nationalism in China and Hindu fundamentalism have manifested in
+protests against Valentine’s Day; but they are not the dominant or driving factors
+affecting the attitudes of the rising consumer classes in China and India.
+33. Over the last decade, there has been considerable cross-investment by Chinese
+companies in Hollywood and in movie chains in the US, as well as US investment in
+Chinese studios. For example, see Toonkel, J. (2017). China Extends Hollywood Push
+with $1 Billion Paramount Investment. Reuters Business News (January 19). Retrieved
+from http://www.reuters.com/article/us-viacom-paramount-china-idUSKBN153335
+34. Ngai, J., Sneader, K., & Zecha, C.M. (2016). China’s One Belt, One Road: Will it reshape
+global trade? McKinsey & Co. Podcast (July). Retrieved from ttp://www.mckinsey.com/
+global-themes/china/chinas-one-belt-one-road-will-it-reshape-global-trade. Joe Ngai
+and Kevin Sneader are senior partners in McKinsey’s Hong Kong office. Cecilia Ma Zecha
+is the head of digital communications for Asia and is based in the Singapore office.
+35. See Asian Infrastructure Investment Bank at https://www.aiib.org/en/index.html
+36. Johnson, S. (2016). Trump’s Tariff Proposal Would Gut US Export Jobs. The Boston Globe
+(June 27). Retrieved from https://www.bostonglobe.com/opinion/2016/06/26/johnson/
+ZE8JJbSqqJb4pP2hE6rohM/story.html
+37. See figures in Contractor, F.J. (2012). Seven Reasons to Expect US Manufacturing
+Resurgence. YaleGlobal Online (August 7). Retrieved from http://yaleglobal.yale.edu/
+content/7-reasons-expect-us-manufacturing-resurgence
+38. The 28 EU nations combined appear to be highly export-oriented because they export
+to one another, compared with giant unified economies such as China and the US. This
+is to say that if, in 1787, the constitutional convention in Philadelphia had failed, and we
+had a DSA (Disunited States of America) as opposed to the USA (United States of
+America), each individual state in the “DSA,” like today’s EU, would be very export-
+oriented, with New Jersey selling to Pennsylvania and so on.
+39. See Honda in America Employment: Honda Employs More Than 30,000 Associates in
+the U.S. at https://hondainamerica.com/employment/
+40. Tyson, L., & Lund, S. (2017). Adapting to the New Globalization. Project Syndicate
+(February 8). Retrieved from https://www.project-syndicate.org/commentary/digital-
+globalization-policy-response-by-laura-tyson-and-susan-lund-2017-02
+41. The German word weltanschauung literally means “world perspective” and is
+denotatively the same as the English word “worldview.” But to a German,
+weltanschauung has a larger and broader connotation as “philosophy of life.”
+42. In January 2017, the city of Birmingham in the UK had the worst unemployment in that
+country. See Walker, J. (2017). Birmingham Has the Worst Unemployment in the
+Country. Birmingham Mail (18 January; updated 30 January). Retrieved from
+http://www.birminghammail.co.uk/news/midlands-news/birmingham-worst-
+unemployment-country-12471928
+43. For example, see Rand, D.G., & Nowak, M.A. (2013). Human Cooperation. Trends in
+Cognitive Sciences, 17(8), 413–425.

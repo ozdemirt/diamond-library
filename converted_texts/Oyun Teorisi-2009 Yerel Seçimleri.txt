@@ -1,0 +1,1764 @@
+--- Sayfa 1 ---
+Ege Akademik Bakış /  Ege Academic Review
+9 (4) 2009: 1225-1241
+
+OYUN TEORİSİNİN 2009 YEREL SEÇİMLER İÇİN
+UYARLANMASI:  İZMİR İLİ UYGULAMASI
+
+ADAPTING GAME THEORY FOR 2009 LOCAL ELECTIONS:  IZMIR
+PROVINCIAL APPLICATION
+
+Yrd.Doç.Dr. Yılmaz GÖKŞEN, Dokuz Eylül Üniversitesi, İİBF, İşletme Bölümü,
+yilmaz.goksen@deu.edu.tr
+
+Onur DOĞAN, Dokuz Eylül Üniversitesi, SBE, İşletme Anabilim Dalı,
+10urdogan@gmail.com
+
+Doç.Dr. Kaan YARALIOĞLU, Dokuz Eylül Üniversitesi, İİBF, Ekonometri
+Bölümü, kaan.yaralioglu@deu.edu.tr
+
+ÖZET
+
+Teknolojinin ve bilimin son yüzyıldaki hızlı geliĢimi ile kendini her platformda
+daha da belirgin bir biçimde hissettiren rekabet kavramı, siyasi arenada da daha
+belirgin bir biçimde baĢ göstermiĢtir. Rekabet olgusuyla birlikte daha önceleri
+sezgisel hareketlerde bulunan karar mekanizmaları bilimsel perspektiften
+bağımsız hareket edemez hale gelmiĢtir. Bilim insanları farklı karar verme
+teknikleri üreterek ve günden güne mevcut karar tekniklerini geliĢtirerek
+piyasadaki bu ihtiyaca cevap vermeye çalıĢmaktadırlar.
+
+Oyun Teorisi ise bu karar verme tekniklerinden en göze çarpanı ve etkileĢimli
+karar verme tekniklerinin en önde gelenlerindendir. Literatür incelendiğinde
+oldukça geniĢ bir çalıĢma sahası olan oyun teorisinin, siyasi arenadaki karar
+problemlerini çözme konusunda fazlaca çalıĢılmadığı görülmüĢtür.  Bu çalıĢma
+bu boĢluğu doldurmak, bundan sonraki çalıĢmalara önayak olmak ve genel
+olarak seçimlerinde siyasi partilerin karar vericilerine ve seçmenlere fikir katkı
+sağlamak amacı taĢımaktadır. ÇalıĢmada seçmenler için önem taĢıyan nitelikler
+belirlenmiĢ, parti stratejileri incelenmiĢ, hangi stratejinin seçmen üzerinde ne
+kadar etkili olduğu araĢtırılmıĢ ve oyun matrisine yerleĢtirilerek çözüme
+ulaĢtırılmaya çalıĢılmıĢ ve bu çözümlerin yorumları yapılmıĢtır
+
+Anahtar kelimeler: Oyun Teorisi, Yerel Seçimler, Analitik HiyerarĢi Süreci
+
+--- Sayfa 2 ---
+Yılmaz GÖKŞEN, Onur DOĞAN ve Kaan YARALIOĞLU
+1226
+ABSTRACT
+
+With the rapid development of technology and science by the last century term
+of competition which is felt obviously in each platform, also arise more obvious
+in the political arena. Decision mechanisms which is in action with intuitive
+phenomenon before, has become out of action indepently without scientific
+perspective. Scientists try to respond to these market needs with producing
+different decision making techniques and developing existent decision making
+techniques from day to day.
+
+Game Theory is the most conspicuous of these decision-making techniques and
+interactive decision-making techniques of the foremost. Review of the literature,
+a large work area of the game theory, in the political arena to solve the decision
+problem was not working too. This study to fill this gap, then take the initiative to
+work and generally contribute ideas to decision makers for political parties and
+voters in the elections. In the study which is identified important properties for
+voters, party strategies were examined on investigating which strategy is
+effectiveness on voters and the results can be placed in game matrix for trying
+to reach solutions and comments that were made.
+
+Key Words: Game Theory, Local Elections, Analytic Hierarchy Process
+
+1. GİRİŞ
+
+Ġnsanlık tarihi, 1500‟lü yıllardan beri temeli atılan bilimsel yaklaĢımların sanayi
+devriminden baĢlayarak pek çok yeni üretim sorununa çözümle sunduğunu
+göstermektedir.
+Özellikle
+II.
+Dünya
+SavaĢı
+sırasında
+Ģekillenen
+ve
+Disiplinlerarası içerik taĢıyan yöneylem araĢtırması teknikleri, sistem yaklaĢımı
+vb kavramlar, 20. yüzyılın II. Yarısında bilgisayar teknolojisiyle bütünleĢerek
+ekonomik düzenin ve dünya insanlığının yaĢam standardının iyileĢtirilmesine çok
+önemli katkılar getirmiĢtir. Bugün yönetim bilimi olarak adlandırılan bu bilimsel
+yöntemler, yönetim problemlerinin pek çoğunun çözümü için kullanılmaktadır
+(GümüĢoğlu, 2007, s.198).
+
+21. yüzyılın, artan rekabet koĢulları ve hızlı değiĢimin getirdiği karmaĢık yapıdaki
+sorunların üstesinden gelmek üzere birlikte hareket etmek için yoğun çabaların
+gösterileceği bir dönem olacağı söylenebilir. Yeni fikirlerin paylaĢıldığı, ortak
+çözüm arayıĢlarının süreçlere ve kararlara damgasını vurduğu, son yıllarda
+baĢarılı kurumların karar verme süreçlerinde pek çok bilimsel yaklaĢımın bir
+arada kullanıldığı görülmektedir (GümüĢoğlu, Özdemir, 2007/2008, s.287).
+
+Türkiye‟de çok partili sisteme geçildikten 16 yıl sonra seçimler konusunda
+akademik bir makale yazılmıĢtır (Aygen, 1962, Aktaran: Turan,2004, s.3).
+Seçmenlerin siyasi tutumları, seçim sonuçlarının çözümlenmesi, siyaset
+sosyolojisi çalıĢanların inceledikleri konulardır. Bu konulardaki araĢtırmalar ve
+
+--- Sayfa 3 ---
+OYUN TEORİSİNİN 2009 YEREL SEÇİMLER İÇİN UYARLANMASI:
+İZMİR İLİ UYGULAMASI
+1227
+seçim tahminlerine yönelik kamuoyu araĢtırmaları, siyaset bilimcilerin ve toplum
+bilimcilerin yanı sıra siyasetçilerin ve iletiĢimcilerin de ilgisini çekmektedir.
+Siyasetçiler daha etkin bir biçimde siyaset yapabilmek için bunlara ihtiyaç
+duymaktadırlar (Turan, 2004, s.3).
+
+Bilindiği üzere, yerel seçimler birçok anlamda genel seçimlerden farklı özellikler
+taĢımaktadır. Yerel seçimlerin sonuçları ülke genelinde genel seçimlerin
+sonuçlarından daha önemli ve halk açısından daha hissedilirdir.
+
+Türkiye açısından bakıldığında, yerel seçimlerin çok daha fazla önemsendiğin
+görülebilir. Çünkü Ġktidardaki parti ya da partiler, ülke yönetiminin bütün
+kademelerine yerleĢip, iktidarın gücünü buralarda da kurmayı amaçlayarak,
+halka daha yakın olan birimlerde kendi yandaĢlarını istihdam etmeye
+çalıĢmaktadırlar.
+Öte
+yandan
+muhalefetteki
+partiler
+de
+yerel yönetim
+seçimlerinde baĢarılı olup, daha sonra kendilerini iktidara taĢıyacak faaliyetlere
+giriĢmek için buraları kendi siyasal amaçlarına hizmet edecek birimler haline
+getirmeye çalıĢmaktadırlar.Bu tür amaçlar, yerel yönetim seçimlerinin Türkiyede
+daha fazla önemsenmesine neden olmaktadır (Altan, C., 2005,  s.174).
+
+2009 yerel seçimleri de bu açıdan oldukça önemli ve sonuçları en çok merak
+edilen seçimlerden biri konumuna gelmiĢtir.
+
+Adalet ve Kalkınma Partisi‟nin önceki yerel seçimde ve genel seçimdeki büyük
+baĢarısı, rakiplerinin yeni siyasi stratejilerle siyasi zemine girmeleri gerçeğini
+gözler önüne sermiĢtir. Ayrıca AKP bu baĢarıyı arkasına alarak Mart 2009
+seçimlerinde bütün yerel yönetimlerin yönetimini istemektedir.
+
+Cumhuriyet Halk Partisi ise geçtiğimiz yerel seçimlerdeki politik anlamdaki
+büyük yenilgisini, bu seçimlerde örtmek ve ileriki yıllardaki genel seçimleri içinde
+en büyük rakibine gözdağı vermek istemektedir. Bu da gözleri AKP nin seçim
+baĢarısı gösteremediği illerden biri olan siyasi uslüp ile değerlendirilirse CHP‟nin
+kalesi konumundaki Ġzmir iline çevirmiĢtir.
+
+Mart 2009 yerel seçimlerinde iktidar partisi ile ana muhalefet partisi için büyük
+önem taĢıyan; Türk siyasi tarihi yerel ve genel seçimleri el alındığında sürpriz
+sonuçlara imza atmıĢ olan Ġzmir ili için mevcut siyasi durumu ele almak ve seçim
+için bir öngörüleme yapmak oldukça yararlı olacaktır. Bu çalıĢma Ġzmir ili
+çerçevesinde baĢta olmak üzere siyasi partilerin yerel yönetimlerde aday
+belirleme süreçlerinde ve güçlü stratejilerini ortaya koyma yönündeki soru
+iĢaretlerine de ıĢık tutacaktır.
+
+--- Sayfa 4 ---
+Yılmaz GÖKŞEN, Onur DOĞAN ve Kaan YARALIOĞLU
+1228
+2. YÖNTEM
+
+2.1. Oyun Kuramı
+
+Karar verme en basit biçimiyle, karar vericilerin alternatifleri arasından birini
+tercih ederek seçmeleri olarak tanımlanabilir. Rasyonel seçim kuramının, fayda
+kuramı, rekabetçi denge kuramı, oyun kuramı, denge kuramı vb. içerdiği ifade
+edilmektedir (Nau, 2006).
+
+Oyunlar Kuramı etkileĢimli karar alma süreçlerinde etkin bir yöntemdir. Karar
+alma süreçlerinde Oyun Teorisi‟nin kullanılması ile karar vericiler, karar alma
+süreçlerinde kendi avantaj ve dezavantajlarını görebildikleri gibi, verecekleri
+karar sonucunda rakiplerinin bu kararlardan nasıl etkilenebileceklerini ve karĢı
+hamle olarak ne tür kararlar verebileceklerini tahmin edebilmektedir. Oyun
+Teorisinin bileĢenleri oyun, oyuncu, stratejiler kümesi, oyun sonunda ödemeler
+Ģeklinde kısaca özetlenebilir. Oyunda karĢılıklı taraflar oyuncular, oyuncuların
+sonlu veya sonsuz sayıdaki hamle seçeneklerine stratejiler ve stratejiler
+sonucunda bir oyuncunun diğerinden elde ettiği kazanca ödemeler denir
+(Hamdy, A.T., 2003,s.532)
+
+Oyun matrisi belirli strateji çiftlerinin oynanması sonucunda ortaya çıkacak olan
+ödemelerin
+gösterildiği
+matristir.Oyun
+değerleri
+sayısal
+olmalıdır.Ölçü
+birimlerinin her durumda aynı olması gerekmektedir.Modelden elde edilecek
+sonuçların güvenilirliği ödemelerin belirlenmesinde kullanılan verilerin güvenilir
+olması ile doğrudan iliĢkilidir.( Tuncer Ö,, 1998,s.44)
+
+Oyun matrisinin çözümü için bir çok farklı metod bulunmaktadır.Bu metodlardan
+biri de doğrusal programlama yardımıyla çözümdür.
+
+Doğrusal programlama modelinden tutarlı sonuç alınabilmesi için aĢağıdaki
+varsayımlara bağlıdır(Dantzig,G.B.,1963,p.3):
+
+ Doğrusallık varsayımı
+ Toplanabilirlik varsayımı
+ Sınırlılık varsayımı
+ Negatif olmama varsayımı
+
+Bu çalıĢmada oyun matrisi doğrusal programlama ile çözülecektir.Çünkü
+oyunun bileĢenleri varsayımları sağlamaktadır.
+
+Herhangi bir oyun ortamının oluĢması için öncelikle çakıĢan çıkarların olması
+gerekmektedir. Siyasette yerel seçimler ortamında amaç; belediye meclisinde, il
+genel meclisinde rakip siyasi partilerden fazla sayıda temsilci bulundurmak, o ile
+ait il ve ilçe belediye baĢkanlıklarını almak ve mahalli idareleri kendi yandaĢı
+siyasi oluĢumlar oluĢturmaktır. Bu yönüyle yerel seçimler bir oyun ortamıdır.
+
+--- Sayfa 5 ---
+OYUN TEORİSİNİN 2009 YEREL SEÇİMLER İÇİN UYARLANMASI:
+İZMİR İLİ UYGULAMASI
+1229
+Herhangi bir stratejik oyun, davranıĢa dayanan oyunun sonucudur. Oyun,
+oyuncunun stratejisine ve faaliyeti esnasındaki Ģansına bağlıdır. Oyun basit bir
+ifade ile iki ya da daha çok oyuncuyu içeren yarıĢımcı bir durumdur. Yani bir
+anlamda oyun, iki ya da daha çok kiĢi arasında herhangi bir çekiĢme durumunu
+gösterir. ÇekiĢmenin sonucu üzerinde oyunculardan hiçbirinin tam bir kontrolü
+yoktur. Ayrıca tüm oyuncular, faaliyetleri ve kendileri için elveriĢli olan
+seçenekleri (stratejileri) ve verilen herhangi bir faaliyetin seçimi ile ilgili
+mücadele sonuçlarını biliyor sayılır. Öte yandan, oyuna katılan her oyuncunun
+kendi kazancını en yüksek veya kaybını en az kılmak için akılcı hareket ettiği
+kabul edilir (Öztürk, 2005, s.692).
+
+Oyun Teorisinin bir diğer bileĢeni oyunculardır. Oyuncuların belirlenme
+aĢamasında oyundaki çakıĢan çıkarların hangi kiĢi veya grup arasında olduğu
+belirlenmelidir.
+
+1960 sonrası demokrasiye geçiĢ sürecini yerel seçimler örneğinde ilk baĢlatan
+seçimler 17 Kasım 1963‟te yapılmıĢtır. Bu seçim ülke genelinde olduğu gibi,
+Ġzmir‟de de tartıĢmalı geçmiĢtir. 1963 ve 1977 dönemleri incelendiğinde
+partilerin oy güçlerindeki değiĢimde ilk dikkati çeken, CHP oylarının ilk seçim
+temel alındığında 11 Aralık 1977 tarihli son seçimde 18 puan artmasıdır. AP
+oylarında ise 10 puanlık bir gerileme dikkati çekiyor (Tosun, 2009, s.66–74).
+
+Bu açıklamaların ıĢığında tarihsel süreç dikkatle incelendiğinde, Mart 2009 yerel
+seçimlerinin Ġzmir ayağının CHP ve AKP partileri arasında olacağı sezgisel
+olarak ortada olsada, geçmiĢ yılların verileri ile de bu tez desteklenebilir.
+
+Tablo 1:  2002, 2004 ve 2007 Seçim Sonuçları
+
+      Parti
+2002 Genel
+Seçimleri (%)
+2004 yerel seçimleri
+(%)
+2007 genel seçimleri
+(%)
+AKP
+             34.3
+40.13
+46.57
+CHP
+             19.4
+20.90
+20.88
+MHP
+                -
+10.10
+14.28
+DYP
+                -
+9.5
+-
+BAĞ.-DĠĞER
+             46.16
+10.37
+18.27
+Kaynak: www.yerel.org ve www.belge.net alınan verilerle oluĢturulmuĢtur
+
+Tablo 1‟de 2002,2004 ve 2007 yıllarına ait yerel ve genel seçim sonuçları
+gösterilmiĢtir. Seçimin Ģekli ne olursa olsun, muhafazakar kanadı temsil eden
+Necmettin Erbakan‟ın siyaset sahnesinden çekilmesi ve Bülent Ecevit‟in
+vefatıyla beraber son yıllarda seçimler bu iki liderin seçmenlerinin desteklediği
+(AKP ve CHP) oluĢumlar arasında geçmiĢtir. Ayrıca zaman olarak birbirine yakın
+tarihlerdeki genel ve yerel seçimlerin oy açısından benzerliği dikkat edilmesi
+gereken bir husustur.
+
+Bu bağlantıya istinaden, bu çalıĢmayla beraber bir nevi önümüzdeki genel
+seçimlerinde bir öngörüsü yapılıyor denebilir (Altan, C., 2005). Buna ek olarak
+
+--- Sayfa 6 ---
+Yılmaz GÖKŞEN, Onur DOĞAN ve Kaan YARALIOĞLU
+1230
+bu çalıĢmada analiz edilecek Ġzmir ili için 2004 Yerel Seçimlerinin verileri
+aĢağıda Tablo 2‟ de verilmektedir.
+
+Bir önceki seçimlerin Ġzmir ili sonuçları da oyunumuz için seçtiğimiz oyuncuları
+destekler niteliktedir. Tablo.2„de görüleceği üzere seçim, yalnızca yaklaĢık
+40000 civarında bir oy farkı ile CHP lehine sonuçlanmıĢtır.
+
+Tablo 2: 2004 Ġzmir Ġli Yerel Seçim Sonuçları
+
+DSP
+39.931
+2.16
+ANAP
+52.143
+2.82
+BTP
+5.819
+0.31
+AKP
+606.913
+32.81
+BBP
+8.406
+0.45
+IP
+5.710
+0.31
+TKP
+6.001
+0.32
+DYP
+130.959
+7.08
+CHP
+643.610
+34.80
+GP
+121.796
+6.58
+YTP
+16.623
+0.90
+SHP
+81.003
+4.38
+SP
+14.795
+0.80
+MHP
+112.956
+6.11
+BAGIMSIZ
+3.043
+0.16
+Kaynak: http://www.yerelnet.org.tr/iller/il.php 22.02.2009.
+
+Bu bilgiler ıĢığında oyun için oyuncular; Adalet ve Kalkınma Partisi ve
+Cumhuriyet Halk Partisi olarak belirlenmiĢtir. Oyun için temel unsurlardan biri de
+stratejilerin belirlenmesi basamağıdır. Bu çalıĢma baĢta da belirtildiği gibi hem
+aday belirleme açısından, hem de etkili parti stratejilerinin belirlenmesi açısından
+değerlendirileceği için bu stratejiler aynı zamanda aday özellikleri olarak da
+belirtilebilir.
+
+Stratejiler AKP ve CHP il ve ilçe baĢkanlıklarından yetkili kiĢilerden,
+gazetecilerden, konuyla ilgili akademisyenlerden oluĢan bir grup uzman ile
+birebir görüĢmeler sonucunda belirlenmiĢtir. Bu görüĢmeler neticesinde
+aĢağıdaki özelliklerin (stratejilerin), partilerin aday belirleme konusunda göz
+önünde bulundurmaları gereken özellikler olduğu sonucuna varılmıĢtır.
+
+Bir siyasi parti oyun matrisinin analizi neticesinde baskın çıkacak olan stratejiler
+kümesinin özelliklerini taĢıyan bir aday göstermesi durumunda seçim için
+
+--- Sayfa 7 ---
+OYUN TEORİSİNİN 2009 YEREL SEÇİMLER İÇİN UYARLANMASI:
+İZMİR İLİ UYGULAMASI
+1231
+rasyonel stratejiyi yapmıĢtır sonucuna ulaĢılabilir. Ayrıca seçim için baskın
+stratejilerin belirlenmesinden sonra herhangi bir siyasi parti kendi seçim
+propaganda programını bu stratejiler ekseninde değiĢikliğe uğratabilir. Sözü
+edilen özellikler Tablo 3‟ de gösterilmektedir:
+
+Tablo 3: Stratejiler Kümesi
+
+1.
+KentselleĢtirme projelerine verilen önem
+2.
+YaĢ
+3.
+Alt kimliğime yakın olmalı
+4.
+Kente turizm vizyonu kazandırmalı
+5.
+Kente sorunlarını bilmesi
+6.
+Önceki baĢkanlık
+7.
+Ulusal ve uluslarası projelere sahiplik
+8.
+Medyatiklik
+9.
+UlaĢtırma sorununu çözmeli
+10. Sağ veya sol görüĢ sahibi olma
+11. Eğitim, kültür ve spora destek vermeli
+12. Liderlik karizması
+13. Adayın birleĢtirici özelliği
+14. Hükümetin desteği(projelere maddi kaynak)
+15. Kamu veya özel sektörde baĢarılı yöneticilik yapmıĢ olma
+16. Siyasi üslup
+17. Partinin öne çıkması
+18. ÇalıĢanlarına önem verme
+19. Eğitim durumu
+20. Cumhuriyetçi kimlik
+21. Liberal demokrat kimlik
+22. Parti içinden gelmiĢ olması
+23. Yerli aday
+24. Gettolara/Hayır kurumlarına yardım dağıtma
+25. Ġyi bir kadroya sahip olma
+
+2.2. Analitik Hiyerarşi Süreci
+
+Bu stratejilerin yansıması, AKP ve CHP için ayrı anlamlar ifade edebileceğinden,
+bu
+partilerin
+ileri
+gelen
+siyasi
+uzmanlarına
+stratejiler
+baskınlıklarını
+değerlendirmeleri istenmiĢ ve bu baskınlıklar çalıĢmada, Analitik HiyerarĢi
+Süreci (AHS-Analytic Hierarchy Process-AHP) ile ortaya konulmuĢtur. Analitik
+HiyerarĢi Yöntemi (AHY), ilk olarak 1968 yılında Myers ve Alpert ikilisi tarafından
+ortaya atılmıĢ ve 1977 de ise Saaty tarafından bir model olarak geliĢtirilerek
+karar verme problemlerinin çözümünde kullanılabilir hale getirilmiĢtir. Saaty‟e
+
+--- Sayfa 8 ---
+Yılmaz GÖKŞEN, Onur DOĞAN ve Kaan YARALIOĞLU
+1232
+göre, AHS, özellikle çok ölçütlü karar verme konusunda yaygın kulanım bulmuĢ
+bir tekniktir.
+
+Çok sayıda seçeneği birden fazla kriter açısından değerlendirerek en iyi
+seçeneği belirleyebilir. Ġnsanoğlunun hiçbir Ģekilde kendisine öğretilmeyen fakat
+varoluĢundan bu yana karar verme sorunu ile karĢılaĢtığında içgüdüsel olarak
+benimsediği bir karar mekanizmasıdır (Saaty, 2000).
+
+AHS, sonlu sayıda seçeneğin yer aldığı çok ölçütlü karar problemlerinde
+kullanılan yöntemlerden biridir. Bu çalıĢmada AHP‟nin kriterler, alt kriterler ve
+seçenekler Ģeklinde devam eden hiyerarĢik düzeni kullanılmamıĢ bunu yerine
+dokuzlu ölçekte uzmanlardan stratejileri baskınlık açısından değerlendirmeleri
+istenmiĢtir. Ayrıca baskın strateji belirlenmesi sırasında AHP kullanımının
+seçilmesinin nedenlerinden biri de; Analitik HiyerarĢi Sürecinin, bir grup veya
+komisyonun birlikte karar vermek durumunda oldukları karar problemlerinde
+uygulanmasıdır (Harker P.T., Vargas, L.G., 1987. pp.1383-1403). AHS, bir
+karara iliĢkin veri ya da bilgiyi sistematik bir davranıĢta dikkate alan bir tekniktir
+(Schniederjans, Garvin, 1997, p.72).
+
+Özetle, AHY, karar seçenek ve kriterlerine göreceli önem değerleri verilmek
+suretiyle yönetsel karar mekanizmasının çalıĢtırılması esasına dayanan karar
+verme sürecidir. AHY, karar vericilerin karmaĢık problemleri, problemin ana
+hedefi, kriterleri, alt kriterler ve alternatifleri arasındaki iliĢkiyi gösteren bir
+hiyerarĢik yapıda modellemelerine olanak verir. AHY‟nin en önemli özelliği karar
+vericinin hem objektif hem de sübjektif düĢüncelerini karar sürecine dahil
+edebilmesidir biçiminde tanımlanabilir.
+
+Analitik hiyerarĢi yöntemi süreçlerinin temelinde sistem yaklaĢımı vardır. Bir
+sistem incelenirken, onun bileĢenlerinin fiziksel, sosyal yapısı, her bir bileĢenin
+yapısı, hangi amaca hizmet ettiği ve bu amaçların hangi daha üst amaçların
+parçası oldukları, sistemin ana amacının ne olduğu saptanmaya çalıĢılır. Bir
+sistemin yapısı ve iĢlevleri, birbirlerinden ayrılmaz bir bütün teĢkil ederler.
+
+Bu stratejilerin uzmanlar tarafından, baĢtada belirtildiği gibi Adalet ve Kalkınma
+Partisi ve Cumhuriyet Halk Partisi için ayrı ayrı değerlendirilmesi istenmiĢtir. Bu
+stratejiler için analitik hiyerarĢi sürecinin iĢleme sokulmasından sonra AKP için
+aĢağıdaki Tablo 4 elde edilmiĢtir.
+
+--- Sayfa 9 ---
+OYUN TEORİSİNİN 2009 YEREL SEÇİMLER İÇİN UYARLANMASI:
+İZMİR İLİ UYGULAMASI
+1233
+Tablo 4: AKP için Strateji Baskınlık Oranları
+
+KentselleĢtirme projelerine verilen önem
+5,5
+YaĢ
+1,2
+Alt kimliğe yakınlık
+7,1
+Kente turizm vizyonu kazandırması
+8,2
+Kent sorunlarını bilmesi
+3,8
+Önceki baĢkanlık
+6,1
+Ulusal/uluslar arası projelere sahiplik
+2,7
+Medyatik
+3,7
+UlaĢtırma sorununu çözmeli
+2,7
+Sağ veya sol görüĢ sahibi olma
+5,1
+Eğitim,kültür ve spora verilen destek
+6,7
+Liderlik karizması
+6,7
+Adayın birleĢtirici özelliği
+2,3
+Hükümet desteği
+1,0
+Kamu veya özel sektörde baĢarılı yöneticilik yapmıĢ olma
+3,6
+Siyasi üslup
+3,4
+Partinin öne çıkması
+2,2
+ÇalıĢanlarına önem verme
+3,3
+Eğitim durumu
+3,4
+Cumhuriyetçi kimlik
+4,6
+Liberal demokrat kimlik
+4,4
+Parti içinden gelmiĢ olması
+2,0
+Yerli aday
+8,0
+Gettolara/Hayır kurumlarına yardım dağıtma
+0,9
+Ġyi bir kadroya sahip olma
+1,4
+Toplam
+100
+
+Yine aynı yöntem kullanılarak Cumhuriyet Halk Partisi için ortaya çıkan sonuçlar
+Tablo 5‟te gösterilmiĢtir.
+
+--- Sayfa 10 ---
+Yılmaz GÖKŞEN, Onur DOĞAN ve Kaan YARALIOĞLU
+1234
+Tablo 5: CHP için Strateji Baskınlık Oranları
+
+KentselleĢtirme projelerine verilen önem
+5,4
+YaĢ
+1,5
+Alt kimliğe yakınlık
+9,9
+Kente turizm vizyonu kazandırması
+9,6
+Kente sorunlarını bilmesi
+4,2
+Önceki baĢkanlık
+8,9
+Ulusal/uluslar arası projelere sahiplik
+1,7
+Medyatik
+3,5
+UlaĢtırma sorununu çözmeli
+1,6
+Sağ veya sol görüĢ sahibi olma
+2,5
+Eğitim,kültür ve spora verilen destek
+8,4
+Liderlik karizması
+8,8
+Adayın birleĢtirici özelliği
+0,9
+Hükümet desteği
+1,0
+Kamu veya özel sektörde baĢarılı yöneticilik yapmıĢ olma
+3,5
+Siyasi üslup
+4,0
+Partinin öne çıkması
+2,8
+ÇalıĢanlarına önem verme
+2,2
+Eğitim durumu
+2,1
+Cumhuriyetçi kimlik
+3,1
+Liberal demokrat kimlik
+3,2
+Parti içinden gelmiĢ olması
+1,7
+Yerli aday
+7,3
+Gettolara/Hayır kurumlarına yardım dağıtma
+0,9
+Ġyi bir kadroya sahip olma
+1,4
+Toplam
+100
+
+Veriler dikkate alındığında oyun matrisinin boyutunun indirgenmesi ve benzer
+stratejilerin bir kümede incelenmesi için bu kriterlerin bazı ana baĢlıklar altında
+toplanabileceği görülmüĢtür. Hazan ve Rahat‟a göre, aday belirleme kriterleri
+dört grupta toplanabilir. Bunlar;
+
+--- Sayfa 11 ---
+OYUN TEORİSİNİN 2009 YEREL SEÇİMLER İÇİN UYARLANMASI:
+İZMİR İLİ UYGULAMASI
+1235
+ Katılım,
+ Temsil Edilme,
+ Rekabet ve
+ Sorumluluktur (Hazan, Rahat, 2006, s.109).
+
+Aday belirleme süreçlerinin dünyanın önde gelen ülkelerinde-aday belirleme
+sürecinin tam demokrasi altında iĢliyor olmasından dolayı- Türkiyede ki sistemle
+bir takım farklar taĢıyor olduğu açıktır.
+
+Ancak Türkiye‟de ki süreç daha farklı iĢlediğinden bu çalıĢmada yukarıdaki
+kriterler aĢağıdaki Ģekilde alt ana baĢlıklarda toplanmıĢtır.
+
+A.Kentle Ġlgili Stratejiler:
+
+- KentselleĢme projelerine verilen önem
+
+- Hükümet desteği (projelere maddi kaynak)
+- Eğitime Kültür sanat ve spora destek vermeli
+- UlaĢtırma sorununu çözmeli
+- Ulusal/uluslararası projelere sahiplik
+- Kente turizm vizyonu kazandırması
+
+B.Adayla Ġlgili Stratejiler
+
+- YaĢ
+- Liderlik karizması
+- Medyatik
+- Alt kimliğe yakınlık
+
+C.Adayın Siyasi Özellikleri
+
+- Liberal demokrat kimlik
+- Cumhuriyetçi kimlik
+- Partinin öne çıkması
+- Siyasi üslup
+- Sağ veya sol görüĢ sahibi olma
+
+D.Adayın ÖzgeçmiĢi
+
+- Önceki baĢkanlık
+- Kamu veya özel sektörde baĢarılı yöneticilik yapmıĢ olma
+- Eğitim durumu
+- Parti içinden gelmiĢ olması
+- Gettolara-Hayır kurumlarına vs. yardım dağıtma
+
+E.Yerli Aday/ Kent sorunlarını bilmesi
+
+F.Diğer
+
+--- Sayfa 12 ---
+Yılmaz GÖKŞEN, Onur DOĞAN ve Kaan YARALIOĞLU
+1236
+
+- Adayın birleĢtirici özelliği
+- Ġyi bir kadroya sahip olma
+- ÇalıĢanlarına önem verme
+
+Bu altı ana baĢlıkta toplanan stratejilerin her bir baĢlığın AKP ve CHP açısından
+puanları ayrı ayrı bulunmuĢtur.
+
+Bu baĢlıklara ait puanlar her bir alt stratejinin puanlarının toplamına eĢittir.
+
+Örneğin; AKP için Adayla Ġlgili Stratejiler baĢlığının puanı,
+
+YaĢ(1,2)+Liderlik karizması (6,7),Medyatiklik(3,7)+Alt kimliğe yakınlık(9,9)=18,7
+
+olarak bulunmuĢtur.
+
+Her bir baĢlık için bu puanlamanın yapılmasından sonra Tablo 6 oluĢturulmuĢtur.
+
+Tablo 6: Genel Strateji Kümeleri Puanları
+
+C H P
+A K P
+Kentle ilgili stratejiler  (1)
+27,6
+26,8
+Adayla ilgili stratejiler (2)
+23,7
+18,7
+Adayın Siyasi Özellikleri (3)
+15,6
+19,7
+Adayın ÖzgeçmiĢi  (4)
+17,1
+16
+Yerli aday/ Kent sorunlarını bilmesi (5)
+11,5
+11,8
+Diğer (6)
+4,5
+7
+Toplam
+100
+100
+
+Her iki parti içinde stratejilerin puanlanmasından sonra bu stratejiler oyun
+matrisine konulmuĢtur.
+
+Matris düzenlenirken, satıra Cumhuriyet Halk Partisi sütuna ise Adalet ve
+Kalkınma Partisi yerleĢtirilmiĢ ve oyun matrisi CHP‟ ye göre düzenlenmiĢtir.
+Bunun anlamı matristeki pozitif ifadeler CHP‟nin lehine olan durumları
+gösterirken,
+negatif
+ifadeler
+ise
+AKP‟nin
+avantajlı
+olduğu
+durumları
+göstermektedir.
+
+Matris değerleri ise iki stratejinin baskınlık değerlerinin farkları olarak alınmıĢtır.
+Matriste
+ija elemanı i. CHP stratejisi ile j. AKP stratejisinin baskınlık değerlerinin
+farkını belirtmektedir.
+
+( . )
+( . )
+ij
+a
+C i
+A j
+
+--- Sayfa 13 ---
+OYUN TEORİSİNİN 2009 YEREL SEÇİMLER İÇİN UYARLANMASI:
+İZMİR İLİ UYGULAMASI
+1237
+Örneğin;
+23
+a
+= CHP‟nin ikinci stratejisi ile Akp nin üçüncü stratejisinin farkı yani
+
+23
+( .2)
+( .3)
+a
+C
+A
+  = 23,7 – 19,7 = 4
+
+Bu değerin anlamı CHP‟nin ikinci stratejisi olan alt kimliğe yakınlık stratejisi,
+AKP‟nin üçüncü stratejisi ile karĢılaĢtırıldığında 4 puan oranında avantaj
+sağlamaktadır. Matris CHP için düzenlendiğinden negatif değerlerin AKP „nin
+nispeten güçlü stratejilerini gösteriyor olması açıktır. Bütün veriler matrise
+koyulduğunda oluĢan oyun matrisi Tablo 7‟de gösterilmiĢtir.
+
+Tablo  7:  Oyun Matrisi
+
+A1
+A2
+A3
+A4
+A5
+A6
+C1
+0,8
+8,9
+7,9
+11,6
+15,8
+20,6
+C2
+-3,1
+5
+4
+7,7
+11,9
+16,7
+C3
+-11,2
+-3,1
+-4,1
+-0,4
+3,8
+8,6
+C4
+-9,7
+-1,6
+-2,6
+1
+5,3
+10,1
+C5
+-15,3
+-7,2
+-8,2
+-4,5
+-0,3
+4,5
+C6
+-22,3
+-14,2
+-15,2
+-11,5
+-7,3
+-2,5
+
+3. ÇÖZÜM
+
+Bu çalıĢmada elde edilen ve Tablo 6‟da gösterilen Ödemeler Matrisi Doğrusal
+Programlama ile çözülmüĢtür. Ödemeler Matrisinin sütunlarında AKP stratejileri
+yer aldığı için çözüm AKP için gerçekleĢtirilmiĢtir.
+
+Amaç
+AKP
+açısından
+beklenen
+değeri
+en
+büyüklemek
+olduğu
+için,
+v
+B
+E
+)
+(
+max
+ kabulü yapılabilir. Bu durumda Ödemeler Matrisi için model
+aĢağıdaki gibi oluĢturulabilir.
+
+1
+6
+5
+4
+3
+2
+1
+max
+y
+y
+y
+y
+y
+y
+v
+
+v
+y
+y
+y
+y
+y
+y
+v
+y
+y
+y
+y
+y
+y
+v
+y
+y
+y
+y
+y
+y
+v
+y
+y
+y
+y
+y
+y
+v
+y
+y
+y
+y
+y
+y
+v
+y
+y
+y
+y
+y
+y
+n
+5,2
+3,7
+5,
+11
+2,
+15
+2,
+14
+3,
+22
+5,4
+3,0
+5,4
+2,8
+2,7
+3,
+15
+1,
+10
+3,5
+0,1
+6,2
+6,1
+7,9
+6,8
+8,3
+4,0
+1,4
+1,3
+2,
+11
+7,
+16
+9,
+11
+7,7
+0,4
+0,5
+1,3
+6,
+20
+8,
+15
+6,
+11
+9,7
+9,8
+8,0
+5
+4
+3
+2
+1
+6
+5
+4
+3
+2
+1
+6
+5
+4
+3
+2
+1
+6
+5
+4
+3
+2
+1
+6
+5
+4
+3
+2
+1
+6
+5
+4
+3
+2
+1
+
+0
+,
+,
+,
+,
+,
+6
+5
+4
+3
+2
+1
+y
+y
+y
+y
+y
+y
+
+--- Sayfa 14 ---
+Yılmaz GÖKŞEN, Onur DOĞAN ve Kaan YARALIOĞLU
+1238
+Bu modeli Doğrusal Programlama formatına dönüĢtürmek için ise
+v
+y
+y
+j
+j
+'
+
+kabulü yapılmıĢtır.
+
+Bu kabul sonrasında model,
+
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+1
+y
+y
+y
+y
+y
+y
+v
+Enb
+
+1
+5,2
+3,7
+5,
+11
+2,
+15
+2,
+14
+3,
+22
+1
+5,4
+3,0
+5,4
+2,8
+2,7
+3,
+15
+1
+'
+1,
+10
+3,5
+0,1
+6,2
+6,1
+7,9
+1
+6,8
+8,3
+4,0
+1,4
+1,3
+2,
+11
+1
+7,
+16
+9,
+11
+7,7
+0,4
+0,5
+1,3
+1
+6,
+20
+8,
+15
+6,
+11
+9,7
+9,8
+8,0
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+
+0
+,
+,
+,
+,
+,
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+y
+y
+y
+y
+y
+y
+
+biçiminde ifade edilebilir.
+
+Bu doğrusal programlama modelinin standart biçimi ise aĢağıda verilmiĢtir.
+
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+1
+y
+y
+y
+y
+y
+y
+v
+Enb
+
+1
+5,2
+3,7
+5,
+11
+2,
+15
+2,
+14
+3,
+22
+1
+5,4
+3,0
+5,4
+2,8
+2,7
+3,
+15
+1
+'
+1,
+10
+3,5
+0,1
+6,2
+6,1
+7,9
+1
+6,8
+8,3
+4,0
+1,4
+1,3
+2,
+11
+1
+7,
+16
+9,
+11
+7,7
+0,4
+0,5
+1,3
+1
+6,
+20
+8,
+15
+6,
+11
+9,7
+9,8
+8,0
+6
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+5
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+4
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+3
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+2
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+1
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+S
+y
+y
+y
+y
+y
+y
+S
+y
+y
+y
+y
+y
+y
+S
+y
+y
+y
+y
+y
+y
+S
+y
+y
+y
+y
+y
+y
+S
+y
+y
+y
+y
+y
+y
+S
+y
+y
+y
+y
+y
+y
+
+0
+,
+,
+,
+,
+,
+'
+6
+'
+5
+'
+4
+'
+3
+'
+2
+'
+1
+y
+y
+y
+y
+y
+y
+
+--- Sayfa 15 ---
+OYUN TEORİSİNİN 2009 YEREL SEÇİMLER İÇİN UYARLANMASI:
+İZMİR İLİ UYGULAMASI
+1239
+Yukarıda verilen modelin çözümü DS for Windows paket programında
+gerçekleĢtirilmiĢtir. Modelin baĢlangıç ve optimal çözümleri Tablo 8 ve Tablo
+9‟da gösterilmiĢtir.
+
+Tablo  8: BaĢlangıç Simplex Tablo
+
+jc
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+
+AK
+TD
+'
+1y
+'
+2y
+'
+3y
+'
+4y
+'
+5y
+'
+6y
+1S
+2
+S
+3S
+4
+S
+5S
+6
+S Çözüm
+0
+1S
+0,8
+8,9
+7,9 11,6 15,8 20,6
+1
+0
+0
+0
+0
+0
+1
+0
+2
+S
+-3,1 5,0
+4,0
+7,7 11,9 16,7
+0
+1
+0
+0
+0
+0
+1
+0
+3S
+-11,2 -3,1 -4,1 -0,4 3,8
+8,6
+0
+0
+1
+0
+0
+0
+1
+0
+4
+S
+-9,7 -1,6 -2,6 1,0
+5,3 10,1
+0
+0
+0
+1
+0
+0
+1
+0
+5S
+-15,3 -7,2 -8,2 -4,5 -0,3 4,5
+0
+0
+0
+0
+1
+0
+1
+0
+6
+S
+-22,3 -14,2 -15,2 -11,5 -7,3 -2,5
+0
+0
+0
+0
+0
+1
+1
+
+jz
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+j
+j
+z
+c
+
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+
+Tablo  9: Optimal Simplex Tablo
+
+jc
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+
+AK
+TD
+'
+1y
+'
+2y
+'
+3y
+'
+4y
+'
+5y
+'
+6y
+1S
+2
+S
+3S
+4
+S
+5S
+6
+S Çözüm
+1
+'
+1y
+1
+11,1 9,9 14,5 19,8 25,8 1,3
+0
+0
+0
+0
+0
+1,25
+0
+2
+S
+0
+39,5 34,6 52,7 73,1 96,5 3,9
+1
+0
+0
+0
+0
+4,88
+0
+3S
+0 121,5106,5162,0 225,0297,0 14,0 0
+1
+0
+0
+0
+15,0
+0
+4
+S
+0 106,3 93,2 141,7 196,9259,9 12,1 0
+0
+1
+0
+0
+13,13
+0
+5S
+0 163,0142,9217,4 301,9398,5 19,1 0
+0
+0
+1
+0
+20,13
+0
+6
+S
+0 233,9205,0311,9 433,1571,7 27,9 0
+0
+0
+0
+1
+28,88
+
+j
+j
+z
+c
+
+0
+-10,1 -8,9 -13,5 -18,8 -24,8 -1,3
+0
+0
+0
+0
+0
+
+4. SONUÇ
+
+Tablo 9, oyunun arı stratejili bir oyun olduğunu göstermektedir. Diğer bir deyiĢle
+ilgili oyuncu zamanın tamamında sadece tek bir stratejisiyle oyunda kalacak,
+buna karĢı diğer oyuncu da ona tek bir stratejiyle cevap verecektir.
+
+--- Sayfa 16 ---
+Yılmaz GÖKŞEN, Onur DOĞAN ve Kaan YARALIOĞLU
+1240
+Oyun AKP için çözümlendiği için AKP zamanın tamamında “Kentlerle Ġlgili
+Stratejileri”ni kullanacaktır.
+
+Buna karĢılık optimal Tablo‟nun
+j
+j
+z
+c
+ sırası incelendiğinde “Dual Çözümde”
+de 1 nolu değiĢkenin iĢlemde olacağı görülmektedir. Diğer bir deyiĢle CHP de,
+AKP‟nin 1 nolu stratejisine kendi 1 nolu stratejisiyle cevap verecektir.
+
+Oyunun çözümüne göre Ġzmir ilinde AKP ve CHP arasındaki seçim mücadelesi
+oyunun sonuna kadar sürecek ve rakipler Kentlerle Ġlgili Stratejilerini kullanarak
+birbirlerine üstünlük sağlamaya çalıĢacaklardır.
+Bu sonuç Tablo 7‟de verilen ve Analitik HiyerarĢi Süreci analizi sonuçlarını
+gösteren değerlerden de görüleceği gibi beklenen bir durum olarak
+yorumlanabilir. Çünkü her iki partinin seçim uzmanları da, kendi seçim
+stratejileri bütünlüğü içinde ağırlığı “Kentlerle Ġlgili Stratejilere” verdiği
+görülmektedir.
+Oyunun sonuçlarına göre vurgulanması gereken bir diğer nokta ise rakiplerin
+oyunda kullandıkları ve oyunun sonucuna göre baskın olduğu görülebilen
+stratejilerini terk edip baĢka stratejilerini devreye sokmaları ya da kullanmaları
+ilgili oyuncu açısından oyunun kaybedilmesi anlamına da gelebilecektir.
+Buna ek olarak oyun matrisinin yorumlaması yapıldığında stratejiler arası
+baskınlık değerleri partiler açısından hangi stratejiye hangi strateji ile cevap
+verilebileceği ve sonucunda ne kadar yarar sağlanabileceği de görülmektedir.
+Her strateji için diğer stratejilerle ilgili bu değerlendirme yapılabilir.Örneğin
+AKP‟nin Adayın Siyasi Özelliklerini ön plana çıkarma stratejisinin, CHP‟nin
+mevcut yedi stratejisinin beĢinden daha baskın oluĢu, AKP‟nin seçim sürecinin
+büyük kısmında seçim vaadi olarak yerel yönetimin merkez ve hükümet desteği
+alacağı yönündeki propagandası göz önünde bulundurulursa anlamlıdır.
+
+KAYNAKÇA
+
+Altan, C., “Genel Seçimler-Yerel Seçimler ĠliĢkisi (1983-2004)”; Elektronik
+Sosyal Bilimler Dergisi ISSN:1304-0278 Bahar 2005 C.3 S. 12 (174-190).
+Dantzig, G.B., “ Linear Programming an Extensions”, Princeton, N.J., Princeton
+University Pres,1963
+GümüĢoğlu ġ., “Rasyonel Karar Verme Süreçlerinde Oyun ve fayda Kuramı
+EtkileĢimi”, Sıtkı Gözlü‟ye Armağan, Ġstanbul 2007, s.:197-208.
+GümüĢoğlu, ġ., Özdemir A., “Rekabet Ortamında Karar Verme Süreçlerinde
+Oyun ve Fayda Kuramı ĠliĢkileri ve EtkileĢimi”, Review of Social, Economic ana
+Business Studies, Volume 9/10, Fall 2007/2008, s.:287-308.
+
+--- Sayfa 17 ---
+OYUN TEORİSİNİN 2009 YEREL SEÇİMLER İÇİN UYARLANMASI:
+İZMİR İLİ UYGULAMASI
+1241
+Hazan, Y. R., Rahat, G., “Candidate Selection: Methods And Consequences”,
+Handbook of Party Politics, SAGE Publications, 2006, p.109-121.
+Omkarprasad S. V., Kumar S., “Analytic Hierarcy Process: An Overview of
+Applications”, European Journal of Operational Research, Invited Review, 2004.
+Özdil,T., “Ekonomik Problemlerin Çözümünde Oyun teorisinin Yeri: Finansal
+Piyasalarda Bir Uygulama”, Doktora Tezi, Ġzmir, 1998
+Öztürk, A., “Yöneylem AraĢtırması”, GeniĢletilmiĢ 10. Baskı, Ekin Kitabevi-2005.
+Öztürk, A., “Yöneylem AraĢtırması”, 5. Baskı,Ekin Kitabevi Yayınları,1997
+P.T. Harker ve L.G. Vargas, 1987. “The Theory of Ratio Scale Estimation:
+Saaty‟s Analytic Hierarchy Process” .Management Science, Vol. 33, pp.1383-
+1403.
+Saaty, T. L., “Fundamentals of Decision Making and Priority Theory with AHP”,
+AHP Series, vol. VI, RWS Publications 2000.
+Taha, H. A., “Yöneylem AraĢtırması”, 6.Basımdan Çeviri, Çeviren ve
+Uyarlayanlar: ġ.Alp Baray – ġakir Esnaf, Literatür Yayınları:43, Ġstanbul 2000.
+Taha, H. A., “Operation Research An Introduction”, 7th. Edition,Pearson
+Education International,2003
+Tosun, T., “Türk Siyasal Hayatında Seçimler ve Ġzmir”, Orion Kitabevi, Ankara,
+2009.
+Turan, E. A., “Türkiye‟de Seçmen DavranıĢı- Önceki Kırılmalar ve 2002 Seçimi”,
+Ġstanbul Bilgi Üniversitesi Yayınları, Ġstanbul, 2004.
+Turan, E. A., “Türkiye‟de Yerel Seçimler”, Ġstanbul Bilgi Üniversitesi Yayınları,
+Ġstanbul, 2008.
+Wayne, L. Winston, “Operation Research Applications and Algorithms”, 2nd.
+Edition,1991
+Yaralıoğlu, K., “Uygulamada Karar Destek Yöntemleri”, Birinci Baskı,  Ġzmir
+2004.
+www.belgenet.org
+http://www.yerelnet.org.tr/iller/il.php 22.02.2009

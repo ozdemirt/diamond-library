@@ -1,0 +1,1074 @@
+--- Sayfa 1 ---
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/281814607
+Ekonomik Karar Almada Adalet Ve Oyun Teorisi
+Article  in  Maliye Finans Yazıları · April 2015
+DOI: 10.33203/mfy.307968
+CITATIONS
+8
+READS
+1,678
+1 author:
+Murat Yalçıntaş
+Istanbul Ticaret University
+29 PUBLICATIONS   155 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Murat Yalçıntaş on 16 September 2015.
+The user has requested enhancement of the downloaded file.
+
+--- Sayfa 2 ---
+247
+Maliye Finans Yazıları - 2015 - (103), 247-274
+Ekonomik Karar Almada Adalet
+Ve Oyun Teorisi
+Murat Yalçıntaş1
+Makale Gönderim Tarihi: 16.12.2014
+Makale Kabul Tarihi: 26.02.2015
+ÖZ
+Davranış bilimlerindeki ekonomik karar verme mekaniz-
+malarının incelenmesinde sıklıkla başvurulan oyun teorisi model-
+lemelerinden biri ültimatom oyunudur. Adam Smith’ten bu yana
+geleneksel ekonomik teori, bireyin karar verirken öncelikle ken-
+di menfaatini öne çıkardığını kabul eder. Fakat ültimatom oyunu
+modellemesiyle yapılan pek çok deney, bireyin ekonomik karar
+verirken, kendi menfaatini azami hale getirmekten ziyade, adalet
+kavramına uygun hareket etmeyi tercih ettiğini göstermiştir. Bu ça-
+lışmanın amacı, ekonomik bir karar modellemesi olan ültimatom
+oyunundaki adalet algısını incelemek ve ekonomik davranışa etki
+eden unsurlarını belirlemektir.
+Anahtar Sözcükler: Oyun teorisi, ültimatom oyunu; ekonomik
+karar alma; adalet
+ABSTRACT
+One of the models used in game theory is the ultimatum
+game, which has frequently been resorted to in the examination
+of economic decision-making mechanisms in the behavioral scien-
+ces. Since Adam Smith, traditional economic theory has acknow-
+ledged that individual agents focus more on expected utility in the
+decision-making process. However, many case studies conducted
+by using ultimatum game theory have demonstrated that many
+1
+İstanbul Ticaret Üniversitesi, İngilizce İşletme Bölümü myalcintas@ticaret.edu.tr
+
+--- Sayfa 3 ---
+248
+Maliye Finans Yazıları - 2015 - (103), 247-274
+individuals preferred to act with considerations such as fairness,
+rather than maximizing expected utility in the economic decisi-
+on-making process. The purpose of this study is to examine the
+perception of fairness in the ultimatum game, as well as determi-
+ning the factors, which have an overall impact on the economic
+behavior.
+Keywords: Game theory, ultimatum game; economic decisi-
+on-making; fairness
+1. GİRİŞ
+Adam Smith’ten bu yana geleneksel ekonomik teori bireyin
+karar verirken öncelikle kendi menfaatini öne çıkardığını kabul
+eder. Fakat deneysel ekonominin bulguları, insanların klasik eko-
+nominin öngördüğü kadar egoist davranmadığını göstermiştir. Bu
+çerçevede en kapsamlı netice veren araştırmalar, oyun teorisi kap-
+samındaki ültimatom oyunu kullanılarak yapılan çalışmalardır.
+Ültimatom oyununda birinci oyuncu ikinci oyuncuya belli bir
+miktar paranın ne şekilde paylaşılacağını teklif eder. Eğer ikinci
+oyuncu teklifi kabul ederse, para öngörüldüğü şekilde paylaşılır.
+Eğer ikinci oyuncu teklifi reddederse iki oyuncu da hiçbir şey ala-
+maz. Geriye doğru çıkarım (tümevarım) ikinci oyuncunun her teklifi
+kabul edeceğini tahmin eder. Birinci oyuncu da, ikinci oyuncunun
+bu şekilde akıl yürüteceğini tahmin edip, ona en küçük rakamı
+teklif eder. Ama klasik oyun teorisinin bu yaklaşımı oyun teorisi
+deneylerinde geçerli çıkmamıştır. Örneğin, ilk ültimatom oyunu
+deneylerinde (Güth, Schmittberger, & Schwarze, 1982) birinci
+oyuncu ikinciye paylaşılacak miktarın ortalamada %36.7’sini tek-
+lif etmiştir. Yapılan çalışmalar bu yaklaşımın bir kısmının adalet al-
+gısından, bir kısmının da yapılacak çok düşük tekliflerin reddedile-
+ceği endişesinden olduğunu ortaya çıkarmıştır (Suleiman, 1996).
+Ültimatom oyunu çok basit bir oyun olmakla beraber, daha
+karmaşık oyunların modellenmesinde ilk adımdır. Ayrıca basitliği
+dolayısı ile, neticelerin çok açık bir şekilde analiz edilmesine im-
+kan verir. Böylece maddi menfaatin (paranın) insanın kendisiyle
+başkaları arasındaki paylaşımında neler hissettiği ölçülebilir (Ca-
+merer, 2003, s. 9).
+
+--- Sayfa 4 ---
+249
+Maliye Finans Yazıları - 2015 - (103), 247-274
+Oyun teorisi alanındaki gelişmeler, özellikle Nash’in işbir-
+liksiz oyunlar üzerindeki çalışmaları, ekonomik teorinin gelişmesi-
+ne yeni bir istikamet vermiştir (Myerson, 1999). Myerson’a göre,
+Nash dengesi formülasyonu sosyal bilimler ve ekonomi tarihinde
+bir dönüm noktasıdır, biyolojideki DNA ikili sarmalın keşfine ben-
+zer temel ve yayılmacı bir etkisi olmuştur.
+Ültimatom oyunu, insanların ekonomik kararları nasıl aldık-
+larını basit ama etkili bir biçimde analiz etmemize imkan tanır. Bu
+çerçevede ültimatom oyununun deneysel ekonomide kullanılması
+ve sonuçların rasyonel oyun teorisi tahminlerine uymaması, evrim-
+sel oyun teorisi kavramının geliştirilmesine ve ekonomi biliminin
+yeni bir biçim almasına yol açmıştır (Rizvi, 2003).
+Bu makalenin amacı, bireydeki adalet temelli davranışı han-
+gi unsurların etkilediğini, ültimatom oyunu deneylerini inceleyerek
+tespit etmektir. Bu çerçevede, insanın ekonomik karar verirken
+sadece kendi maddi çıkarını değil, belli bir adalet kaygısını da
+gözettiğini bulgulayan deneysel ekonomi ve evrimsel oyun teorisi
+çalışmalarından yola çıkılmıştır.
+Makalede önce oyun teorisi, gelişimi ve ekonomik teoriye
+ne şekilde yön verdiği anlatılmıştır. Nash dengesinin bulunması
+ve işbirliksiz oyun teorisindeki gelişmelerin uygulamalı iktisat ça-
+lışmalarının alanını genişletmesi bu bölümde açıklanmıştır. Ayrıca
+ekonominin klasik fayda teorisi temelli yaklaşımdan, toplumdaki
+rekabetçi davranışı inceleyen bir bilim haline evrildiği belirtilmiştir.
+Takip eden bölümde, ültimatom oyunu açıklanmıştır. Ülti-
+matom oyunu, klasik iktisat teorisinin yaklaşımına paralel olarak,
+insanların akılcı olduğunu ve kendi maddi çıkarlarını düşünerek
+karar verdiğini varsayar. Ültimatom oyunu ile yapılan deney so-
+nuçlarının klasik ekonomi teorisinin varsayımlarına uymaması, in-
+sanların ekonomik kararlar alırken kendi maddi çıkarından başka
+unsurların da kararını etkilediğini göstermiştir. Bilim insanları, bu
+unsurun adalet kavramı olabileceği sonucuna varmıştır.
+Daha sonra, adalet kavramı ve bu kavramın bireyin aldığı
+ekonomik kararlara ne şekilde etki ettiği incelenmiştir. Bu çerçe-
+vede, ültimatom oyunu deneylerinin sonuçları irdelenerek, kişinin
+
+--- Sayfa 5 ---
+250
+Maliye Finans Yazıları - 2015 - (103), 247-274
+ekonomik karar alırken etkisinde kaldığı unsurlar belirlenmiştir. Bu
+unsurların en önemlileri; hakkında karar verilecek meblağın mikta-
+rı, karar veren kişinin kültürel altyapısı, kişinin toplumdan beklenti-
+si, kişinin karşısındakinden algıladığı niyet ve beklediği davranış,
+kişinin tercih ettiği davranış modeli ve kişinin idrak derecesidir.
+Bunların yanında, varlığını sürdürme ihtiyacı ve ekonomi bilimi
+hakkında bilgi sahibi olmak gibi etmenlerin ya hiç etkisinin olma-
+dığı ya da sınırlı etkisinin olduğu, fakat fiziksel güzelliğin önemli
+olduğu gözlenmiştir.
+Çalışmanın sonuç bölümünde, bulgular tablo haline getirile-
+rek özetlenmiş ve neticeler irdelenmiştir.
+2. Oyun Teorisi ve Ekonomik Teoriye Etkisi
+Oyun teorisi iki veya daha fazla kişi / kurumun (oyuncular)
+birinin hareketinin sonucunun, sadece kendi hareketine değil, di-
+ğer oyuncuların da hareketlerine bağlı olduğu durumları analiz
+etmek için kullanılan bir tekniktir (Carmichael, 2005, s. 3). Bu
+durumda oyuncuların stratejileri diğer oyuncuların olası hareket-
+lerine bağlı olacaktır. Oyuncuların kararlarının karşılıklı bağımlı
+olmasına stratejik bağımlılık, bu tür durumlara da, stratejik oyun
+veya sadece oyun denir.
+Bu çerçeveden bakıldığında, oyun teorisi farklı bilim dalla-
+rında farklı biçimlerde kullanılabilir hatta insan hayatı dahi bir
+oyun olarak kabul edilebilir. Her birey, diğer bireylerle karşılıklı
+bağımlılık içinde kararlar alır, ulaşmak istediği hedefler, bu hedef-
+lere ulaşmak için kullandığı stratejiler ve hedeflerine ulaştığında
+da elde ettiği neticeler vardır. İnsanoğlunun yürüdüğü yol, bazen
+diğer insanlarla işbirliğine girmesini, bazen de çatışmasını gerek-
+tirir. Dolayısı ile insanların etkileşim içinde olduğu her durum oyun
+teorisinin konusu içindedir ve yukarıdaki kavramlar da oyun teori-
+sinin birer parçasıdır.
+Tenis oyuncusunun servisi köşeye mi ortaya mı atacağı, pa-
+zarlık eden tarafların ne zaman geri adım atacağı, trafikte sıkışan
+sürücülerin hangi yolu seçecekleri, firmaların yeni geliştirdikleri
+ürünü hangi fiyattan piyasaya süreceği, petrol üreticisi ülkelerin
+petrol fiyatına karar vermeleri gibi birçok değişik durum oyun teo-
+
+--- Sayfa 6 ---
+251
+Maliye Finans Yazıları - 2015 - (103), 247-274
+risi ile analiz edilebilir. Tüm bu durumların ortak noktası, oyuncu-
+ların stratejilerinin (kararlarının) neticesinin diğer oyuncularınkine
+bağımlı olmasıdır.
+Bu yüzden oyun teorisi, rekabetin yer aldığı ekonomik piya-
+salarda karar alınmasında önemli ipuçları sağlar.
+Oyun teorisinin en önemli özelliği sezgisel anlayışların sayı-
+sal modellere dönüştürülebilmesidir (Davis, 1983, s. xv). Ayrıca
+bir amaç için tasarlanmış bir model, bambaşka bir durum için
+de kullanılabilir. Birbirine hiç benzemediği düşünülen iki problem
+aynı metot kullanılarak çözülebilir.
+Bununla birlikte, insanların birbirleriyle etkileşim içinde ol-
+dukları ortamların incelenmesi neticesinde, zaman zaman insan
+davranışlarının oyun teorisi kuramlarından sapabildiği, insanların
+yaptıkları seçimlerin tamamen rasyonel olmadığı gözlemlenmiştir.
+Bu gözlemler neticesinde analitik oyun teorisine, duygu, hata, sı-
+nırlı öngörü, diğer insanların idraki (anlama yeteneği) hakkındaki
+şüphe ve öğrenme gibi etmenler eklenerek, evrimsel (davranışsal)
+oyun teorisi geliştirilmiştir (Camerer, 2003, s. 3).
+Amerikalı matematikçi John Forbes Nash 1950 yılında iş-
+birliksiz oyunlar üzerine yazdığı 28 sayfalık doktora teziyle oyun
+teorisi alanında yeni bir çığır açmıştır. Bu tezinde Nash, oyun teo-
+risinde bir dönüm noktası olan “Nash dengesi” kavramını ortaya
+atmıştır. 1950-1953 yılları arasında toplam dört makale yazan
+Nash, bu çalışmaları ile oyun teorisinin gelişimine büyük katkı sağ-
+lamış ve daha sonra 1994 yılında, iki diğer oyun teoristi Reinhard
+Selten ve John Harsanyi ile beraber ekonomi dalında Nobel ödü-
+lünü kazanmıştır.
+ Nash dengesinin bulunması ve akabinde işbirliksiz oyun
+teorisindeki gelişmeler, uygulamalı iktisat çalışmalarının alanını
+genişletti. Ekonomi, toplum kurumlarında rasyonel rekabetçi dav-
+ranışın incelenmesi olarak yeniden tanımlandı. Böylece işbirliksiz
+oyun teorisini, fiyat teorisinin yanında temel analiz metodolojisi
+olarak kabul eden ekonomik analiz, bu bilime ismini veren antik
+Yunan filozoflarının vizyonuna tekrar kavuştu (Myerson, 1999).
+
+--- Sayfa 7 ---
+252
+Maliye Finans Yazıları - 2015 - (103), 247-274
+3. Ültimatom Oyunu
+Ültimatom oyunu deneysel ekonomi ile ilgilenen bilim adam-
+ları tarafından üzerinde çok çalışılmış basit bir pazarlık oyunudur.
+Oyun, belli bir paranın iki oyuncu tarafından nasıl paylaşılacağı
+üzerine kurgulanmıştır. Birinci oyuncu, miktarın nasıl bölüşülece-
+ğini ikinci oyuncuya teklif eder. İkinci oyuncu bu teklifi ya kabul
+ya da reddeder. İkinci oyuncu teklifi kabul ederse, para birinci
+oyuncunun teklif ettiği oranlarda paylaşılır. Eğer ikinci oyuncu tek-
+lifi reddederse her iki oyuncu da hiçbir şey alamaz. Mukabele
+olmaması için oyun aynı oyuncular arasında sadece bir kere oy-
+nanır. Oyunculara bu oyun gerçek para ile oynatılır ve oyuncular
+birbirlerinin kim olduğunu bilmezler.
+Örneğin, paylaşılacak miktar 100 TL ve birinci oyuncu ikinci
+oyuncuya “Ben 70 lira alayım, sana 30 lira vereyim” şeklinde bir
+teklif yapmış olsun. Eğer ikinci oyuncu bu teklifi kabul ederse, bi-
+rinci oyuncu 70 TL, ikinci oyuncu 30 TL alır. Eğer ikinci oyuncu bu
+teklifi kabul etmez ise, her iki oyuncu da sıfır TL alır.
+Düğünlerde davetlilerin fotoğraflarının çekilmesi ülkemizde
+çok rastlanan bir ültimatom oyunu örneğidir. Nikah akdinden son-
+ra gelinle damat masaları gezer ve davetlilerle fotoğraf çektirirler.
+Daha sonra fotoğrafçı, davetlilere çektiği fotoğrafları sabit bir fi-
+yattan teklif eder. Davetli ya fotoğrafı satın alır (teklifi kabul eder)
+ya da satın almaz (reddeder). Teklif kabul edilirse davetli fotoğra-
+fa, fotoğrafçı da paraya sahip olur. Teklif reddedilirse her ikisi de
+hiçbir şeye sahip olamaz.
+Analitik (rasyonel seçimli) oyun teorisi oyuncuların menfaat-
+çi olduğunu ve kendi kazançlarını maksimize etmek istediklerini
+kabul eder. Eğer oyuncular sadece kendi kazançlarını maksimize
+etmekle ilgileniyorsa, ikinci oyuncu kendisine teklif edilen miktarı,
+ne kadar küçük olursa olsun kabul edecektir; çünkü alternatifi hiç-
+bir şey elde etmemektir. İkinci oyuncunun bu şekilde akıl yürüte-
+ceğini tahmin eden birinci oyuncu da, kendi kazancını maksimize
+etmek için ikinci oyuncuya en düşük rakamı teklif edecektir. Örne-
+ğin paylaşılacak miktar 100 TL ise (100 adet 1 TL den oluşan),
+analitik (rasyonel seçimli) oyun teorisine göre rasyonel bir strateji,
+birinci oyuncunun ikinci oyuncuya 1 TL teklif edip, 99 TL’yi kendi-
+
+--- Sayfa 8 ---
+253
+Maliye Finans Yazıları - 2015 - (103), 247-274
+sine ayırmasıdır. İlk hamleyi yaptığından dolayı bu oyunda birinci
+oyuncu pazarlık gücüne sahiptir ve menfaatçi olduğundan kendi
+kazancını maksimize etmeye çalışacaktır. Aynı şekilde menfaat-
+çi (rasyonel) bir ikinci oyuncu da, ne koparabilirse ona razı ola-
+caktır. Ültimatom oyunu için yukarıdaki netice alt-oyun mükemmel
+denge noktasıdır.
+Bir alt-oyun, kendi başına bir oyun olarak düşünülebilen ve
+ana oyunun parçası olan bir oyundur. Geriye doğru çıkarım (tü-
+mevarım) metoduyla alt oyun için bulunan denge “alt-oyun mükem-
+mel dengesi” olarak adlandırılır (Dixit, Skeath, & Reiley, 2009).
+Yukarıdaki gibi 1-99 paylaşımı birçok kişi tarafından ada-
+letsiz olarak algılanır. Bu yüzden ültimatom oyunu bireyin adalet
+uğruna bir bedel ödeyip ödemeyeceğini gösteren güzel bir ör-
+nektir. Yukarıdaki düğün örneğinde, eğer davetliler fotoğrafçının
+adil olmayan bir fiyat istediğini düşünürlerse fotoğrafı satın almaz.
+Böylece hem fotoğrafçı kaybeder (para kazanamaz) hem de da-
+vetliler kaybeder (güzel bir anı fotoğrafına sahip olamazlar).
+Ekonominin dinamikleri içinde gerçekleşen birçok olay ülti-
+matom oyunu mantığı içerisinde irdelenebilir. Bu konuda literatüre
+girmiş örneklerden biri Reykjavik bankasının, Reykjavik Savings
+Bank (RSB), özelleştirme sürecidir (Baldursson, 2006). İzlanda’da
+özelleştirme politikaları çerçevesinde RSB’nin özel bir bankaya
+satılacağının duyulmasından sonra kamuoyunda aleyhte bir hava
+oluşmuş ve kamuoyunun baskısına dayanamayan İzlanda Parla-
+mentosu, oybirliği ile kabul ettiği bir kanunla, satışı askıya almıştır.
+Baldursson (2006), bu vakayı bir ültimatom oyunu olarak
+görmüştür. Özel banka teklifini yapmış, cevap veren oyuncu du-
+rumunda olan halk teklif edilen şartlarla yapılacak özelleştirmeyi
+adaletsiz bir teklif olarak algılamış ve reddetmiştir. Sonuçta ka-
+muoyu baskısı neticesinde özelleştirme askıya alınmıştır. RSB’nin
+özelleştirilmesi her ne kadar İzlanda finans sektörünü daha verimli
+hale getirecek ve halkın bundan maddi kazancı olacak olsa da,
+özelleştirme şartlarının RSB’yi satın alan özel bankaya haksız ka-
+zanç sağladığına inanan halk, kendi maddi menfaati pahasına,
+satış işlemine muhalefet etmiştir.
+
+--- Sayfa 9 ---
+254
+Maliye Finans Yazıları - 2015 - (103), 247-274
+4. Adalet Kavramı ve Ekonomik Karar Alma
+Adalet algısı insandaki en temel değerlerden biridir ve hat-
+ta başka canlılarda da olabileceği düşünülmüştür. Örneğin kah-
+verengi kapuçin maymunları, aynı görevi yerine getiren diğer
+maymunlardan daha düşük bir ödül aldıkları zaman kızgınlık ve
+hüsran belirtileri gösterir. Bilim insanları bu şekilde haksızlığa uğ-
+ratılan maymunların küstüğünü, başka görev yapmadığını hatta
+yiyeceklerini araştırmacılara geri fırlattığını gözlemlemiştir (Fisher,
+2008, s. 33). Fisher’ın bu iddiasına karşın, maymunlarda ada-
+let kavramının olmadığını gösteren çalışmalar da vardır ( Jensen,
+Call, & Tomasello, 2007).
+Sosyologlar da adalet kavramı üzerine teoriler geliştirmiş ve
+bu kavramı çeşitli açıdan analiz etmiştir. Metin (2014), Thomas
+Hobbes’in Leviathan isimli eserinden yola çıkarak, oyun teorisi
+perspektifinden analiz ettiği sosyal sözleşme kuramında aşağıdaki
+gibi bir adalet yorumu ortaya koyar;
+“Karşılıklı yarar yaklaşımının özü, başkalarına karşı hiçbir
+doğal sorumluluğumuz olmadığı düşüncesidir. Karşılıklı yarar ku-
+ramcıları, yaptığım iş ancak benim bir isteğimi karşılayacaksa bir
+şey yapma gerekçem olduğunu savunur. Ahlaki eylemler, benim
+isteğimin tatminini artırmıyorsa, bunları yapmak için hiçbir gerek-
+çem yoktur. Bu yüzden adalet de kişinin çıkarına olduğu takdir-
+de adil davranış ediminin bir gerekçesi olabilecektir. İnsanların
+adil davranması, adaleti bir değer olarak kabul ettikleri için değil,
+“karşı konulamayacak bir güce” sahip olmadıklarındandır. Güç-
+süz olanı koruma görevini görmezden gelen, savunmasızlara kar-
+şı hiçbir yükümlülüğümüz bulunmadığını öne süren bu yaklaşım,
+“kişisel farklılıkların yeterince büyük olduğu” noktalarda sömürüye
+göz yumacaktır.” (Metin, 2014)
+Öte yandan, insanların sadece kendi menfaatleri doğrul-
+tusunda değil, ama başkalarına da faydalı olmak için uğraştığı
+yadsınamaz bir gerçektir. Fakat bu başkalarına faydalı olabilmek
+arzusu, başkalarının kendisine nasıl davrandığı ile de doğru oran-
+tılıdır. Eğer biri size iyi davranırsa, adalet kavramı ona iyi dav-
+ranmanızı ister. Eğer biri size zarar verirse, adalet kavramının
+müsaadesi ve karşılıklılık mefhumunun isteği ile siz de ona zarar
+
+--- Sayfa 10 ---
+255
+Maliye Finans Yazıları - 2015 - (103), 247-274
+verirsiniz. Bu davranış modelinin ekonomik boyutları da mevcut-
+tur; iyi çalışan bir işçinin maaşını patronu yükseltmek ister, insan-
+lar faydalı olduğuna inandıkları vakıflara bağış yapar, müşteriler
+ihtiyaçları olsa dahi aşırı pahalı satış yapan firmadan alışveriş
+yapmak istemez vs. (Rabin, 1993).
+Adalet algısının ekonomik teoriye eklemlenmesi ültimatom
+oyunu ile yapılan deneyler sayesinde olmuştur (Roth, 1995). Ül-
+timatom oyunu ile yapılan ilk deneylerde (Güth, Schmittberger,
+& Schwarze, 1982) oyuncuların adil bir paylaşımı tercih ettikleri
+(yarıya yakın bir miktarı karşı oyuncuya teklif etmek) ve adaletsiz
+bir teklif karşısında (teklif edilen rakam paylaşılacak miktarın %20
+’sinden düşükse) teklifi reddederek, kendi kayıpları pahasına, di-
+ğer oyuncuyu cezalandırmakta tereddüt etmedikleri gözlenmiştir.
+Daha sonraki yıllarda yapılan benzer çalışmalar, Güth
+vd.’nin bulgularını desteklemekle beraber, oyuncuların rasyonel
+davranıştan saparak (maddi kazancı maksimize etme), alt-oyun
+mükemmel dengesi tahminine uygun hareket etmeme sebebinin
+sadece tek yönlü bir adalet algısı ile açıklanamayacağını ortaya
+koymuştur (Forsythe, Horowitz, Savin, & Sefton, 1994). Forsythe
+vd. göre başka bir sebep farklı tipte oyuncuların varlığı olabilir.
+Bazı oyuncular için adalet olgusu mühimken, bazı oyuncular sa-
+dece maddi güdülerle hareket edebilir. Aynı şekilde karşılıklılık
+olgusu da, bazı oyuncular için aşırı düşük teklifleri reddetmede
+geçerli bir sebep olabilir.
+Bireyin adalet algısının ekonomik davranışa ne kadar yansı-
+yacağını ölçmek ve bu algının bileşenlerini tanımlayabilmek için
+ültimatom oyunu kullanılarak pek çok deney yapılmıştır. Acaba
+ikinci oyuncu adaletsiz olduğuna inandığı bir teklifi reddederek
+maddi kayba uğramayı göze alacak mıdır? Acaba birinci oyuncu,
+ikinci oyuncunun adaletsiz teklifleri reddedeceğini düşünüp adil
+bir teklif yapacak mıdır? Paylaşılacak miktarın oyuncuların teklif-
+leri üzerinde bir etkisi var mıdır? Oyuncuların davranışları sadece
+adalet algısı ile mi güdülenmiştir yoksa başka etmenler de var mı-
+dır? Adalet algısı kişiden kişiye veya toplumdan topluma farklılık
+gösterir mi? Adalet algısının bileşenleri nelerdir?
+
+--- Sayfa 11 ---
+256
+Maliye Finans Yazıları - 2015 - (103), 247-274
+Ültimatom oyunu kullanılarak yapılan deneylerde, teklif eden
+oyuncunun teklif ettiği miktarı etkileyen ve cevap veren oyuncunun
+bu miktarı ret/kabul etmesini belirleyen birçok unsur bulunmuştur.
+Bu unsurların en önemlileri aşağıdakilerdir;
+4.1. Paylaşım Miktarı
+Oyuncuların davranışlarının paylaşılacak kazanç miktarın-
+dan etkilenip etkilenmediğini gözlemlemek için değişik ülkelerde
+yapılan ültimatom oyunu deneyleri hep benzer sonuçlar vermiştir.
+Birçok ülkede 10 USD üzerinden yapılan deneylerde, birinci oyun-
+cunun teklifi 4 USD ile 5 USD arasında yoğunlaşmıştır. 2 USD ve
+altı tekliflerin yarısı reddedilmiştir. İkinci oyuncular, yarının çok
+altında olan tekliflerin adaletsiz olduğunu düşünmekte ve böyle
+bir teklif yaptığı için, kendi kayıpları pahasına, birinci oyuncuyu
+cezalandırmaktadır. Paylaşılacak rakam bir miktar artsa dahi, bi-
+rinci oyuncular bu davranış şeklini fazla değiştirmemektedir.
+Camerer (2003, s.10) Hoffman, McCabe, ve Smith’in iki
+ayrı paylaşım miktarı (10 USD ve 100 USD) kullanarak yaptığı
+çalışmasının bulgularını (Hoffman, McCabe, & Vernon, On Ex-
+pectations and the Monetary Stakes in Ultimatum Games, 1996)
+aşağıdaki gibi özetlemiştir;
+
+--- Sayfa 12 ---
+257
+Maliye Finans Yazıları - 2015 - (103), 247-274
+Şekil 1: Düşük Miktar (10 USD) ve Yüksek Miktar (100 USD) için
+Ültimatom Oyunu Neticeleri
+Kaynak: Camerer, C. F. (2003). Behavioral Game Theory. Princeton University Press.
+X ekseni, birinci oyuncu tarafından teklif edilen miktarı, Y
+ekseni ise tekliflerin nisbi frekansını göstermektedir. Her frekans
+çubuğunun koyu kısmı reddedilen teklif sayısıdır. Şekil 1 de de gö-
+rüldüğü gibi tekliflerin çoğu yarı miktar civarındadır ve çok düşük
+teklifler genelde reddedilmektedir.
+Kazanç miktarları önemli ölçüde arttığı zaman neticenin tek-
+lif eden açısından çok fazla değişmediği, cevaplayan açısından
+ise farklılık gösterdiği başka çalışmalarda da ortaya çıkmıştır (List
+& Cherry, 2000);
+
+--- Sayfa 13 ---
+258
+Maliye Finans Yazıları - 2015 - (103), 247-274
+Tablo1: Teklif ve Ret Adetleri (USD 20 ve USD 400 için)
+Kaynak: List, J. A., & Cherry, T. L. (2000, Haziran). Learning to Accept in Ultimatum
+Games: Evidence from an Experimental Design that Generates Low Offers. Experi-
+mental Economics, s. 11-29.
+Sonuçlar açık olarak oyuncuların adaletle muamele edilmek
+istediklerini ortaya koymaktadır. Bu davranış olumsuz mütekabi-
+liyet / karşılıklılık (negative reciprocity) ilkesi ile de açıklanabilir
+(Camerer, 2003, s. 10); birey adaletsiz muameleye aynı şekilde
+karşılık verir. Birey kendisine adaletsiz davranarak zarar veren ki-
+şiye, kendi de zarara uğramak pahasına (o kişi daha fazla zarara
+uğradığı müddetçe) zarar verir. Gazetelerin üçüncü sayfalarında
+sık sık rastladığımız yüksek nafakalı boşanma haberleri, namus
+cinayetleri, anlaşılabilecekken uzatılan mahkemeler olumsuz mü-
+tekabiliyet örnekleridir.
+4.2. Kültürel Farklılık
+Ültimatom oyununun farklı ülkelerde farklı netice verip ver-
+meyeceğini görmek için birçok deney yapılmıştır (Oosterbeek, Slo-
+of, & van de Kuilen, 2004). Gözlemlenen değişikliklerin genelde
+
+--- Sayfa 14 ---
+259
+Maliye Finans Yazıları - 2015 - (103), 247-274
+kültürel farklılıktan kaynaklandığı kabul edilmiştir. Oosterbeek vd.
+(2004) 25 ayrı ülkeden 37 deneyi karşılaştırdığı çalışmasında,
+teklif eden oyuncuların davranışında anlamlı bir farklılık olmadı-
+ğını gözlemlemiştir. Mamafih, cevaplayan oyuncuların davranış-
+ları farklılık göstermiştir. Asyalı cevaplayan oyuncuların reddetme
+oranları ABD’li oyuncularınkinden yüksektir. Amerika’nın batı ta-
+rafındaki oyuncuların ret oranları da, Amerika’nın doğu tarafında-
+kilerden düşüktür. Ayrıca ülkelerin rekabetçilik endeksindeki yeri-
+nin, kişi başına düşen milli gelir miktarının ve gelir dağılımındaki
+eşitsizliğin oyuncuların davranışını etkilemediği anlaşılmıştır. Fakat
+paylaşılacak miktar hem teklif eden hem de cevaplayan oyuncu-
+nun davranışını etkilemektedir. Bu netice, yapılan bazı çalışmalar-
+la örtüşmekle beraber, bazılarıyla da örtüşmemektedir.
+Tablo 2: Ülke Sonuçları
+Ülke
+Deney Adedi
+Teklif Ortalaması
+Ret Ortalaması
+Avusturya
+1
+39,21
+16,10
+Bolivya
+1
+37,00
+0,00
+Şili
+1
+34,00
+6,70
+Ekvador
+2
+34,50
+7,50
+Fransa
+3
+40,24
+30,78
+Almanya
+1
+36,70
+9,52
+Honduras
+1
+45,70
+23,05
+Endonezya
+4
+46,63
+14,63
+İsrail
+5
+41,71
+17,73
+Japonya
+3
+44,73
+19,27
+Yugoslavya
+1
+44,33
+26,67
+Kenya
+1
+44,00
+4,00
+Moğolistan
+2
+35,50
+5,00
+Hollanda
+2
+42,25
+9,24
+Papua Yeni Gine
+2
+40,50
+33,50
+Paraguay
+1
+51,00
+0,00
+Peru
+1
+26,00
+4,80
+Romanya
+2
+36,95
+23,50
+
+--- Sayfa 15 ---
+260
+Maliye Finans Yazıları - 2015 - (103), 247-274
+Slovakya
+3
+43,17
+12,67
+İspanya
+1
+26,66
+29,17
+İsveç
+1
+35,23
+18,18
+Tanzanya
+4
+37,50
+19,25
+Birleşik Krallık
+2
+34,33
+23,38
+ABD-Doğu
+22
+40,54
+17,15
+ABD-Batı
+6
+42,64
+9,41
+Zimbabve
+2
+43,00
+8,50
+Kaynak: Oosterbeek, H., Sloof, R., & van de Kuilen, G. (2004). Cultural Differences in
+Ultimatum Game Experiments: Evidence from a Meta-Analysis. Experimental Econo-
+mics, 7, s. 171-188.
+Adalet algısının kültürden kültüre değişmesi, ültimatom oyu-
+nunun kültürel farklılık gösteren toplumlarda, batı toplumlarına na-
+zaran daha değişik neticeler vermesine yol açmıştır. Peru, Amazon
+yerlileri arasında yapılan bir ültimatom oyunu çalışması, kültürel
+farklılıkların temel ekonomik davranış şekillerini kökten etkilediğini
+göstermiştir (Henrich, 1998). Batı dünyasında %50 civarında olan
+teklif edilen paylaşım ortalaması Machiguenga yerlileri arasında
+%26’ya düşmüştür. Batı dünyasında %20’nin altında olan teklifler
+reddedilirken, Machiguenga yerlileri %20’nin altındaki tekliflerin
+neredeyse hepsini kabul etmişlerdir.
+Deney sonrası yapılan görüşmelerde Machiguenga yerlileri,
+teklif edenin ne kadar kazandığına hiç bakmadan, kendilerine
+teklif edilen her rakamı kabul edeceklerini ve teklif edenin kendile-
+rini kandırdığını düşünmediklerini, kendilerinin teklif edilen tarafta
+olmasını ise sadece şanssızlık olarak algıladıklarını belirtmişler-
+dir. Batı dünyasında ise bu deneye katılanlar, ortalama %20’nin
+altında olan teklifleri adaletli bulmadıklarından reddedeceklerini
+söylemiştir.
+%50 teklif eden az sayıda Machiguenga bu teklifi adaletli
+olduğu için yaptığını belirtmiştir. Kontrol grubunda (Los Angeles)
+%50 teklif eden batılı oyuncular ise bu teklifi, reddedilmekten kork-
+tukları için yaptıklarını belirtmişlerdir.
+
+--- Sayfa 16 ---
+261
+Maliye Finans Yazıları - 2015 - (103), 247-274
+4.3. Beklenti, Karşılıklılık ve Niyet
+Ültimatom oyunundaki eşite yakın tekliflerin adalet kaygısın-
+dan değil, beklentiden, mesela kıskançlık korkusundan kaynak-
+landığını savunan bağımsız çalışmalar da vardır (Kirchsteiger,
+1994). Kirchsteiger’e göre yarıya yakın bir paylaşım teklif eden
+oyuncuların kaygısı adil olmak değil, kıskanç oyuncular tarafın-
+dan reddedilme korkusudur.
+Ültimatom oyunu üzerine yapılan çalışmaların bir kısmı ada-
+let kaygısından ziyade, oyuncuların beklentilerinin neticeyi etki-
+lediğini göstermiştir (Hoffman E., McCabe, Shachat, & Vernon,
+1994). Adalet algısından kaynaklandığı düşünülen bir davranış
+aslında başkalarının ne düşündüğünü önemsemekten (sosyal endi-
+şe) ve başkalarınca iyi algılanmak arzusundan kaynaklanabilir. Di-
+ğer bir deyişle oyuncular şimdiki bir masraf karşılığında gelecekte
+kazanç elde etmeyi ummaktadır. Böylece oyuncu nihai toplamda
+bir getiri elde etmiş olur. Hoffman vd.’ye (1994) göre, dürüstlük,
+paylaşma gibi sosyal özellikler ancak birbirini tanıyan ve tekrar
+karşılaşacak olan insanlar arasında bir kazanç sağlar. Oyuncula-
+rın tek bir kez karşılaştıkları, tekrar etmeyen oyunlarda, kişiler ilk
+elden kendi maddi kazançlarını maksimize etmeye çalışır.
+Hoffman vd. (1994) tarafından geliştirilen beklenti hipotezini
+(paylaşımı teklif eden oyuncu, teklifini diğer oyuncunun vereceğini
+umduğu cevaba göre ayarlar ve toplumun onayını bekler) destek-
+leyen ve geliştiren çalışmalar, eşite yakın tekliflerin sadece ada-
+let olgusu ile açıklanamayacağını göstermiştir (Suleiman, 1996).
+Böylece ültimatom oyununun rasyonel netice vermeme sebebi iki
+temel teoriyle; adalet teorisi ve beklenti teorisiyle açıklanmaya
+başlanmıştır.
+Beklenti teorisinde güven kavramının yerini araştıran çalış-
+malar ilgi çekici bulgular ortaya koymuştur (Cox, 2004). Güven,
+bir oyuncunun diğer oyuncunun davranışı hakkındaki kanaatidir.
+Güven kaynaklı bir davranış, karşı taraf işbirliği yaptığı takdirde
+(beklentiye uygun davrandığı takdirde) karşılıklı kazanç, uygunsuz
+davrandığı takdirde ise kayıp getirir. Cox (2004), çalışmasında
+üç ayaklı bir oyun kurarak güven, karşılıklılık (mütekabiliyet) ve
+adalet (maddi getiriyi göz önüne almayan ve diğer oyuncudan
+
+--- Sayfa 17 ---
+262
+Maliye Finans Yazıları - 2015 - (103), 247-274
+bağımsız, eşitlik veya fedakarlık arzusu kaynaklı olgu) etmenlerini
+ayrı ayrı ölçmüştür. Pozitif karşılıklılık ve adalet kavramlarını karış-
+tırmamak gerekir. Pozitif karşılıklılık diğer oyuncunun cömertliğin-
+den kaynaklanan cömert bir davranıştır, dolayısı ile diğer oyuncu-
+ya bağlıdır. Adalet ise karşıdaki oyuncunun tutumundan bağımsız
+cömert bir davranıştır.
+Cox’un (2004) bulgularına göre kişinin adaletli davranma
+arzusu diğer oyuncunun algılanan niyetine bağlıdır. Ayrıca kar-
+şıdaki oyuncunun adalet ve karşılıklılık algısı temelli davranışları
+hakkındaki kanaat (beklenti) de kişinin kararını etkilemektedir.
+Adaleti önemseyen insanlar adil veya adil olmayan niyet-
+lere göre mi, yoksa adil veya adil olmayan neticelere göre mi
+davranışını düzenler? Niyetin hiçbir öneminin olmadığını savunan
+modeller olduğu gibi, niyetin davranışlar üzerinde önemli bir etkisi
+olduğunu savunan modeller de vardır (Falk, Fehr, & Fischbacher,
+2008). Bu sorunun cevabı ekonomik teori açısından önemlidir çün-
+kü klasik fayda kuramı (utility theory) ekonomik davranışın faydası-
+nın sadece sonucuna bağlı olduğunu, niyetin herhangi bir önemi
+olmadığını savunur. Fakat yukarıda da tartışıldığı gibi, ekonomik
+kararların nasıl alındığının anlaşılabilmesi açısından, diğer oyun-
+cunun niyetinin karar mekanizmasını nasıl etkilediğinin bilinmesi
+önemlidir.
+Falk vd. (2008), hem negatif hem de pozitif karşılıklılık (mü-
+tekabiliyet) davranışlarında, adalet niyetinin önemli olduğu sonu-
+cuna ulaşmıştır. İnsanlar bir hareketin adil olup olmadığına karar
+verirken sadece hareketin neticesine değil, davranışı gösteren ki-
+şinin niyetine de bakar. Bu sonuç, bir hareketin faydasını sadece
+neticesine göre ölçen klasik ekonomik teorisinin varsayımlarıyla
+ters düşmektedir.
+4.4. Davranış Modelleri
+İnsanların kendi maddi kazançlarının haricindeki şeylere
+adalet perspektifinden ne derece önem verdiği ve hangi davranış
+modellerine (kurallarına) göre karar verdiği bilim insanları tara-
+fından muhtelif sosyal tercih modellemeleri vasıtasıyla analiz edil-
+miştir.
+
+--- Sayfa 18 ---
+263
+Maliye Finans Yazıları - 2015 - (103), 247-274
+Temelde iki tip sosyal tercih modelinden söz edebiliriz. Birin-
+ci tip modellerde insanlar kazancın (netice / payoff) hangi oranda
+dağıtıldığı ile ilgilenir. Bu tip modellerde oyuncu için önemli olan
+hem kendi kazancı hem de kazancının diğer oyuncuların kazan-
+cına oranıdır.  İkinci tip modellerde ise insanlar diğer oyuncuların
+niyetlerine önem verir ve mütekabiliyet (karşılık verme) duygusuy-
+la hareket eder. Bu modellemeye göre, oyuncu maddi kazançtan
+fedakarlık ederek, adil yaklaşımı ödüllendirmek, haksız yaklaşı-
+mı ise cezalandırmak isteyebilir. Fakat yapılan çalışmalar her iki
+modelin de tek başına insan davranışını açıklayamadığı, her iki
+modelin özelliklerini bir araya getiren bir üçüncü modele ihtiyaç
+olduğunu göstermiştir. (Bereby-Meyer & Niederle, 2005).
+Bu çerçevede ekonomik alandaki tartışmaların bir tanesi de,
+gelir dağıtımındaki adaletin, yetenek ve çalışmayı ne derecede
+göz önüne aldığı ile ilgilidir. Standart ültimatom oyununda pay-
+laşılacak miktar herhangi bir çalışmanın neticesinde kazanılmadı-
+ğından, 50-50 bir paylaşım adil olarak algılanır. Fakat işin içine
+üretim ve üretimi etkileyen faktörler girdiğinde, acaba yine 50-50
+paylaşım adil olarak mı algılanacaktır? 2005 yılında yapılan bir
+çalışma değişik adalet anlayışlarını ve bu anlayışlara kişilerin ver-
+diği önemi analiz etmiştir (Cappelen, Hole, Sorensen, & Tungod-
+den, 2006).
+Katı eşitlikçi anlayışa göre, birey yetenek ve çalışmasından
+sorumlu tutulamaz. Dolayısıyla her şartta eşit bir bölüşüm adil bir
+bölüşümdür. Liberter yaklaşım ise kişinin yetenek ve çalışmasından
+sorumlu olduğuna inanır. Dolayısıyla adil bir paylaşım kişinin üret-
+tiği kadar almasıdır. Liberal eşitlikçiler ise kişinin çalışmasından
+sorumlu olduğunu ama yeteneğinin kendi kontrolünde olmadığını
+savunur. Bu akıma göre adil bir dağıtım, yetenek farklılıklarını eşit-
+lemeli ama çalışma farklılıklarını göz önüne almalıdır.
+Cappelen vd. (2006) bulgularına göre insanların çoğu ye-
+tenek ve çalışmanın ayrı ayrı değerlendirilmesi gerektiğine inanır.
+Bu çalışmada katılımcıların çoğu liberal eşitlikçi doktrinden yana
+olsa da, diğer yaklaşımlara inanan oyuncular da olmuştur.
+Bu yönde yapılan çalışmalar iki farklı bilim dalını, psikoloji
+ve ekonomiyi oyun teorisinin şemsiyesi altında bir araya getirmiş-
+
+--- Sayfa 19 ---
+264
+Maliye Finans Yazıları - 2015 - (103), 247-274
+tir. Yukarıda da görüldüğü gibi, birçok insan davranışının temelin-
+de kişisel çıkar kaygısı yatar. Kişisel çıkar kaygısı ile yapılan ha-
+reketler iki tiptir; saf bencil (pure selfishness) davranış ve kendine
+hizmet eden (self serving) davranış (Ubeda, 2014).
+Saf bencil davranış, kişinin maddi çıkarını maksimize etme-
+si üzerine odaklanmıştır ve rasyonel seçimli oyun teorisinin temel
+kabulüdür. Saf bencil davranış gösteren oyuncular karar alırken
+diğer oyuncuların çıkarları ile ilgilenmez, tek odak noktaları kendi
+maddi çıkarlarıdır.
+Kendine hizmet eden davranış biçiminde ise kişi kendi maddi
+çıkarının yanında, diğerlerinin çıkarları ile de ilgilidir. Oyuncunun
+beklentisi, diğerlerinin çıkarının kendi çıkarına hizmet etmesidir.
+Bu yüzden bu şekilde davranan bir oyuncu karar verirken birden
+fazla etmeni göz önüne almak zorundadır.
+Ubeda (2014), adil davranış biçimlerinin tutarlılığı üzerinde
+yaptığı çalışmada, kişilerin farklı adil davranış kuralları olduğunu
+belirlemiştir. Saf bencil davranış gösteren oyuncular bu davranış-
+larında tutarlı olurken, kendine hizmet eden davranışı gösteren
+oyuncularda zaman zaman tutarsızlık gözlemlenmiştir. Bu çer-
+çevede saf bencil davranış karar süresinin, kendine hizmet eden
+davranış karar süresinden daha kısa olduğu belirlenmiştir. Bu ça-
+lışmanın önemli bir bulgusu da, oyuncuların duruma göre, farklı
+adil davranış yaklaşımlarını benimsedikleridir.
+Tablo 3: Aynı Kuralı Tekrarlayan Oyuncuların Adedi ve Yüzdesi
+Kaynak: Ubeda, P. (2014). The consistency of fairness rules: An experimental study.
+Journal of Economic Psychology 41, s. 88-100.
+Tablo 3 tutarlı olarak 17 seferden fazla aynı davranışı gös-
+teren oyuncuların adet ve yüzdelerini göstermektedir. Sadece ben-
+cil, katı eşitlikçi ve cömert davranışlar tutarlı olarak tekrarlanmıştır.
+Hiçbir oyuncu liberal eşitlikçi ve liberter davranış biçimlerini tutarlı
+olarak tekrarlamamıştır. Bu tablo bencil, katı eşitlikçi ve cömert
+
+--- Sayfa 20 ---
+265
+Maliye Finans Yazıları - 2015 - (103), 247-274
+davranış sergileyen oyuncuların davranışlarında tutarlı olduğunu
+ama liberal eşitlikçi ve liberter davranış sergileyen oyuncuların her
+seferinde aynı tutumu göstermediğini ortaya koymaktadır.
+Şekil 2: Oyuncuların Ortalama Yanıt Süresi
+Kaynak: Ubeda, P. (2014). The consistency of fairness rules: An experimental study.
+Journal of Economic Psychology 41, s. 88-100.
+Şekil 2 bencil davranışların, oyuncular sadece maddi kazan-
+ca odaklı olduğundan, daha otomatik olduğunu, dolayısıyla karar
+sürelerinin daha kısa olduğunu göstermektedir. Kendine hizmet
+eden oyuncular kendi menfaatlerini öncelemekte ama toplum ta-
+rafından da iyi olarak görülmek istemektedir. Bu sebeple kendisi
+ile diğer oyuncu arasında çözmesi gereken bir menfaat çatışması
+yoktur. En yavaş karar veren, kendine hizmet etmeyen oyuncular
+ise her seferinde değişik adalet yaklaşımları (davranış kuralları)
+arasında bocalamaktadır.
+
+--- Sayfa 21 ---
+266
+Maliye Finans Yazıları - 2015 - (103), 247-274
+4.5. İdrak
+Adalet algısını psikolojik teoriler açısından inceleyen bilim
+insanlarının üzerinde çalıştıkları başka bir konu da, insan idraki-
+nin gelişimi ile adil davranış arasında bir bağ olup olmadığıdır
+(Takagishi, Kameshima, Schug, Koizumi, & Yamagishi, 2010).
+Toplum, sosyal normlara aykırı davrananları cezalandırarak,
+düzeni korumayı ve işbirliğini artırmayı amaçlar. Bireyin aykırı
+davrandığı, diğer bireylerle işbirliğine gitmediği zaman toplum
+tarafından cezalandırılacağını bilmesi onu işbirlikçi ve adil dav-
+ranmaya teşvik eder. Fakat bu teşvikin geçerli olabilmesi için kişi-
+nin diğer insanların sosyal tercihlerini bilmesi (anlaması), ve kendi
+davranışlarına nasıl tepki vereceklerini kavraması lazımdır.
+Bu teoriden yola çıkarak, Takagishi vd. (2010) idrak (an-
+layış) gelişiminin adalet algısına etkisini ölçmek için okul öncesi
+çocuklar üzerinde şeker kullanarak bir çalışma yapmıştır. Yapı-
+lan çalışma anlayış gelişiminin teklif eden oyuncunun adalet algı-
+sı üzerinde çok kuvvetli bir etkisi olduğunu göstermiştir. İdrakleri
+tam gelişmemiş daha genç oyuncuların şeker paylaşma teklifleri
+ağırlıklı olarak çok bencilken, yaşları biraz daha büyük oyuncu-
+lar daha adil teklifler yapabilmiştir. Diğer bir deyişle, yaşı biraz
+daha büyük olan ve karşıdakinin çok adaletsiz bir teklife olumsuz
+cevap vereceğini idrak edebilen okul öncesi çocuklar, daha adil
+paylaşım teklifleri yapmıştır. Takagishi vd. (2010) bu sonucun bu
+konuda yapılan diğer çalışmalarla uyum içinde olduğunu belirt-
+mektedir.
+Bu çerçevede insanların en yakın yaşayan akrabaları olan ve
+insani manada bir anlayışa (idrake) sahip olmayan şempanzelere
+ültimatom oyunu oynatan antropologlar, şempanzelerin adaletsiz
+teklif yaptıklarını ve adaletsiz teklifleri kabul ettiklerini gözlemle-
+miştir ( Jensen, Call, & Tomasello, 2007). Bu maymunların tam
+rasyonel oyuncu gibi davranmaları ve adalet kavramına duyarlı
+olmamaları, kendinden başkasını düşünme ve haksız kazançtan
+kaçınma gibi sosyal yaşamımızı düzenleyen temel değerlerin biz-
+leri diğer canlılardan ayıran temel özelliklerden olduğunu bir kez
+daha göstermiştir.
+
+--- Sayfa 22 ---
+267
+Maliye Finans Yazıları - 2015 - (103), 247-274
+4.6 Hayatta Kalma, Bilgi ve Fiziksel Güzellik
+Schotter vd. ültimatom oyunundaki adalet algısının hayatta
+kalma dürtüsü ile bağı olup olmadığını araştırmıştır (Schotter, We-
+iss, & Zapater, 1996). Şirketler rekabet içindedir ve rekabet üstün-
+lüklerini sürdürüp hayatta kalmak zorundadır. Ekonomik ortamda
+da oyuncular üzerinde hayatta kalma baskısı vardır. Kişisel menfa-
+ati önceleme haklı bir sebebe dayandığı sürece mazur görülebilir.
+Schotter vd. ültimatom oyununa varlığını sürdürme boyutu katarak
+deney yapmış ve sınırlı da olsa bu boyutun davranışlar üzerinde
+etkisi olduğunu gözlemlemiştir.
+Oyuncuların ekonomik teoriye hakimiyetlerinin neticeyi etki-
+leyip etkilemeyeceğini ölçmek için, ekonomi okuyan öğrencilere
+ve sanat okuyan öğrencilere ültimatom oyunu oynatılmıştır. Sonuç-
+ta ekonomik bilginin neticeyi etkilemediğini görülmüştür (Stanley
+& Tran, 1998).
+İlgi çekici bir çalışma da, fiziksel güzelliğin ekonomik karar
+vermeye etkisinin olup olmadığını görmek için yapılmıştır (Rosent-
+hal, 2011, s. 285). Birinci oyunculara, muhtemel ikinci oyuncula-
+rın fotoğrafları gösterilmiştir. Erkekler, çekici kadınlara çok yüksek
+teklifler yapmamakla beraber, kadınlar, yakışıklı erkeklere olduk-
+ça yüksek (ortalamada toplam miktarın %50’sinden fazla) teklif-
+lerde bulunmuştur.  Fiziksel güzelliğe sahip insanlar ortalamada
+%10 daha yüksek teklif almışlar, erkekler de kadınlardan ortala-
+ma %15 daha fazla teklif almışlardır.
+Yukarıda açıklanan ültimatom deneylerinin sonuçları Tablo
+4’de özetlenmiştir;
+
+--- Sayfa 23 ---
+268
+Maliye Finans Yazıları - 2015 - (103), 247-274
+Tablo 4: Oyuncuların Davranışlarını Belirleyen Unsurlar
+Unsur
+1. Oyuncu
+2. Oyuncu
+Miktar
+Sınırlı etkisi var.
+Paylaşılacak miktar arttıkça ret
+oranı azalıyor.
+Kültür
+Gelişmiş kültürlerde sınırlı
+etkisi var.
+Gelişmiş kültürlerde etkisi var.
+Gelişmiş kültürlerle, gelişmemiş kültürler arasında büyük farklılık
+var.
+Beklenti
+Etkisi var.
+Geçerli değil.
+Karşılıklılık
+Etkisi var.
+Etkisi var.
+Algılanan Niyet
+Geçerli değil.
+Etkisi var.
+Davranış Modeli
+Etkisi var.
+Etkisi var.
+İdrak
+Etkisi var.
+Etkisi var.
+Rekabet
+Sınırlı etkisi var.
+Sınırlı etkisi var.
+Bilgi
+Etkisi yok.
+Etkisi yok.
+Fiziksel Güzellik
+Etkisi var.
+Geçerli değil.
+5. Sonuç
+Bireyin ekonomik karar alırken, klasik ekonomik teorinin var-
+saydığı gibi benmerkezci mi davrandığı, yoksa başkasını da dü-
+şünüp düşünmediği, eğer düşünüyorsa hangi unsurların etkisinde
+kaldığı oyun teorisi yazınında farklı başlıklar altında ele alınmak-
+tadır. Bu başlıklardan biri olan ültimatom oyununun analiz edildiği
+çalışmamızda, yapılan deneylerin neticeleri insanların ekonomik
+karar alırken kendi çıkarını gözettiği, ama bazı unsurların etkisi ile
+de, fedakarlık yapabileceği şeklinde ortaya çıkmıştır.
+Ültimatom oyunu, teklif eden oyuncunun (birinci oyuncu),
+ikinci oyuncuya en düşük miktarı değil, ortalamada paylaşılacak
+miktarın %40’ını teklif etme eğiliminde olduğunu göstermiştir. Tek-
+lif edilen oyuncu (ikinci oyuncu) ise, ortalamada %35-50 arası
+teklifleri kabul, %20’den aşağı teklifleri ret etme eğilimindedir.
+Teklif miktarını ve teklif edilen miktarın kabul veya ret edilme-
+sini etkileyen unsurlar, yapılan çalışmalar neticesinde, aşağıdaki
+
+--- Sayfa 24 ---
+269
+Maliye Finans Yazıları - 2015 - (103), 247-274
+başlıklar altında belirlenmiştir. Bu unsurlar, daha genel bir yakla-
+şımla, bireyin aldığı ekonomik kararlara yön veren unsurlardır;
+• İnsanın umduğu maddi getirinin büyüklüğü kararını etki-
+lemektedir. Kişi adaletle muamele görmek ister ve adalet-
+siz muameleye aynı şekilde karşılık verir. Birey kendisine
+adaletsiz davranarak zarar veren kişiye, kendi de zara-
+ra uğramak pahasına (o kişi daha fazla zarara uğradığı
+müddetçe) zarar verir. Ama bireyin kendi uğradığı zara-
+rın boyutu büyüdükçe, bireyin adaletsiz muameleyi kabul-
+lenme oranı yükselir. Örneğin paylaşılacak miktar 100
+milyon TL olsa ve birinci oyuncu ikinci oyuncuya sadece
+bir milyon TL teklif etse, birçok kişi, rakamın yüksekliğin-
+den dolayı, bu teklifi kabul edecektir.
+•  Dünyanın değişik ülkelerinde yapılan ültimatom oyunu
+deneylerinde teklif edilen miktarlar ufak tefek sapmalar
+göstermiş, buna karşın reddedilen miktarlarda büyük fark-
+lılıklar ortaya çıkmıştır. Ülkeler arasındaki milli gelir ve
+gelir dağılımındaki adaletsizliğin ekonomik kararlara etki
+etmediği görülmüştür. Bu sonuç adalet olgusunun, kültürel
+farklılık sebebiyle, toplumdan topluma değişiklik göster-
+diğini ve bu durumun da kişilerin ekonomik kararlarında
+farklılıklara sebebiyet verdiğini bize göstermektedir.
+•  Antropologların ilkel kabilelerde yaptıkları deneyler, mo-
+dern kültürlerle ilkel kültürler arasındaki adalet algısı far-
+kını net bir şekilde ortaya koyar. İlkel kabileler klasik eko-
+nomik teoriye en uygun bir biçimde bencil (rasyonel) dav-
+ranmakta, karşı tarafa çok düşük rakamlar teklif etmekte,
+ve teklif edilen en düşük rakamları bile tereddütsüzce
+kabul etmektedir. Bu da, ilkel kültürlerde sosyal normlar
+ve dayanışma algısı fazla gelişmemiş olduğundan kişinin
+benmerkezci davranışa daha yatkın olduğunu gösterir.
+Toplum geliştikçe, birey davranışlarında toplumun baskı-
+sını daha  fazla hissetmeye başlar.
+•  Bireyin karşısındakinden beklentisi, kararını şekillendiren
+önemli etmenlerden biridir. Sosyal bir çevrede yaşayan
+
+--- Sayfa 25 ---
+270
+Maliye Finans Yazıları - 2015 - (103), 247-274
+insan başkalarının kendisi hakkında ne düşündüğünü
+önemser ve topum tarafından iyi algılanmak ister. Kişi
+ekonomik karar alırken bencil davranarak toplumun gö-
+zünden düşmek istemez. Bu yüzden birey ekonomik dav-
+ranışında başkalarına da fayda sağlayarak, onların da
+aldığı kararlarda kendine fayda sağlayacağını umar. Bi-
+reyin içinde yaşadığı toplum ne kadar sıkı ve ilişkiler ne
+kadar güçlü ise, beklenti olgusu da o kadar baskın olur.
+•  İnsan karşısındakinin kendisine benzer muamele edece-
+ğini bilir. Eğer kişi karşısındakine adil ve cömert bir dav-
+ranış gösterirse, muhatabının da kendisine adil ve cömert
+davranış göstereceğini umar. Karşısındakinden adaletsiz
+bir davranış gören insan, muhatabını bu davranışı dola-
+yısı ile cezalandırmak ister. Bu açıdan karşılıklılık ilkesi
+bireyin ekonomik kararlarında geçerli olan bir unsurdur.
+•  Karar verirken insan muhatabının hareketinin sonucunu
+mu yoksa muhatabının niyetini mi önemser? Yapılan ülti-
+matom oyunu deneyleri hem negatif hem de pozitif karşı-
+lıklılık (mütekabiliyet) davranışlarında, kişinin karşısında-
+kinin niyetine göre karar verdiğini göstermiştir. İnsanlar
+ekonomik davranışlarında, karşılarındaki kişinin niyetini
+önemser ve bu niyete göre karar verir.
+•  Bireyler ekonomik kararlarında çeşitli davranış modelleri
+(kuralları) çerçevesinde hareket eder. Katı eşitlikçi anlayışa
+göre kişinin ekonomik refahtan aldığı pay çalışması ve ye-
+teneği ile orantılı olmamalı, herkes zenginliği eşit paylaş-
+malıdır. Liberter bakış ise kişinin yetenek ve çalışmasından
+mesul olduğuna inanır; adil bir paylaşım kişini ürettiği ka-
+dar kazanmasıdır. Liberal eşitlikçiler ise kişinin çalışmasın-
+dan sorumlu olduğuna ama yeteneğinin kendi kontrolünde
+olmadığına inanır; adil bir dağıtım, yetenek farklılıklarını
+eşitlemeli ama çalışma farklılıklarını göz önüne almalıdır.
+Dolayısı ile farklı adalet anlayışında olan ve adaletli dav-
+ranmayı önemseyen insanlar, bakış açıları çerçevesinde,
+ekonomik kararlarını farklı önceliklerle alabilir.
+
+--- Sayfa 26 ---
+271
+Maliye Finans Yazıları - 2015 - (103), 247-274
+•  Aynı şekilde, saf bencil davranışı benimseyen insanlar ka-
+rar alırken diğerlerinin çıkarları ile ilgilenmez, tek odak
+noktaları kendi maddi çıkarlarıdır. Kendine hizmet eden
+davranış biçiminde ise kişi kendi maddi çıkarının yanın-
+da, diğerlerinin çıkarlarını da düşünür. Kişinin beklentisi,
+diğerlerinin çıkarının kendi çıkarına hizmet etmesidir. Bu
+yüzden bu şekilde davranan bir insan karar verirken bir-
+den fazla etmeni göz önüne almak zorundadır.
+•  Toplum, kendi içindeki işbirliğini teşvik ederek bireylerin
+refahını artırmayı amaçlar. Bireyin toplum içinde diğerle-
+ri ile işbirliğine gidebilmesi için, diğer insanların sosyal
+tercihlerini kavraması lazımdır. Bu açıdan idrakin (anlayı-
+şın) gelişmişlik derecesi, bireyin ekonomik kararlarına etki
+eder.
+•  İnsanın içinde bulunduğu rekabetin şiddeti ve maddi kay-
+nağa duyduğu ihtiyacın büyüklüğü, bireyin ekonomik ka-
+rarlarını sınırlı da olsa etkiler.
+•  Kişinin ekonomik alandaki bilgisi ekonomik kararlarını et-
+kilememektedir.
+•  İnsanlar fiziksel açıdan etkileyici insanlara karşı daha cö-
+mert davranmaktadır. Kadınlar erkeklere nazaran, karşı
+cinslerine daha cömerttir.
+
+--- Sayfa 27 ---
+272
+Maliye Finans Yazıları - 2015 - (103), 247-274
+KAYNAKÇA
+Jensen, K., Call, J., & Tomasello, M. 2007, Ekim 8. Chimpanzees Are Rational
+Maximizers in an Ultimatum Game. www.sciencemag.org: http://wkprc.
+eva.mpg.de/pdf/2007/Jensen_Call_Tomasello_2007_chimps_ultimatum_
+game.pdf adresinden alınmıştır.
+Baldursson, F. M. 2006. Rent-seeking and fairness: The case of the Reykjavik
+Savings Bank. International Review of Law and Economics 26, s. 123-142.
+Bereby-Meyer, Y., & Niederle, M. 2005. Fairness in Bargaining. Journal of
+Economic Behavior & Organization Vol. 56, s. 173-186.
+Camerer, C. F. 2003. Behavioral Game Theory. Princeton University Press.
+Cappelen, A. W., Hole, A. D., Sorensen, E. O., & Tungodden, B. 2006,
+Ocak 13. The pluralism of fairness ideals: An experimental approach.
+Social Science Research Network: http://papers.ssrn.com/sol3/papers.
+cfm?abstract_id=875303 adresinden alınmıştır
+Carmichael, F. 2005. A Guide to Game Theory. Essex: Pearson Education
+Limited.
+Cox, J. C. 2004. How to identify trust and reciprocity. Games and Economic
+Behavior 46, s. 260-281.
+Davis, M. D. 1983. Game Theory: A Nontechnical Introduction. New York:
+Dover Publications Inc.
+Dixit, A., Skeath, S., & Reiley, D. H. 2009. Games of Strategy, 3th ed. New
+York: W. W. Norton & Company Inc.
+Falk, A., Fehr, E., & Fischbacher, U. 2008. Testing theories of fairness—Intenti-
+ons matter. Games and Economic Behavior 62, s. 287-303.
+Fisher, L. 2008. Rock, Paper, Scissors. Game Theory in Everyday Life. New
+York: Basic Books.
+Forsythe, R., Horowitz, J. L., Savin, N. E., & Sefton, M. 1994. Fairness in Simp-
+le Bargaining Experiments. Games and Economic Behavior 6, s. 347-369.
+Güth, W., Schmittberger, R., & Schwarze, B. 1982. An Experimental Analysis
+of Ultimatum Bargaining. Journal of Economic Behaviour and Organization
+3, s. 367-388.
+Henrich, J. 1998, Ekim 26. Does culture matter in economic behavior? Ultima-
+tum Game Bargaining among the Machiguenga of the Peruvian Amazon.
+American Economic Review.
+Hoffman, E., McCabe, K. A., & Vernon, S. L. 1996. On Expectations and the
+Monetary Stakes in Ultimatum Games. International Journal of Game The-
+ory, s. 289-301.
+
+--- Sayfa 28 ---
+273
+Maliye Finans Yazıları - 2015 - (103), 247-274
+Hoffman, E., McCabe, K., Shachat, K., & Vernon, S. 1994, Kasım. Preferen-
+ces, Property Rights, and Anonymity in Bargaining Games. Games and
+Economic Behavior Volume 7, Issue 3, s. 346-380.
+Kirchsteiger, G. 1994. The role of envy in ultimatum games. Journal of Econo-
+mic Behavior and Organization Vol.25, s. 373-389.
+List, J. A., & Cherry, T. L. 2000, Haziran. Learning to Accept in Ultimatum
+Games: Evidence from an Experimental Design that Generates Low Offers.
+Experimental Economics, s. 11-29.
+Metin, S. 2014. Oyun Teorileri Işığında Thomas Hobbes’un Sosyal Sözleşme
+Kuramının Analiz ve Yorumu. İstanbul Üniversitesi Hukuk Fakültesi Mecmu-
+ası, s. 235-264.
+Myerson, R. B. 1999, Mart. Nash Equilibrium and the History of Economic
+Theory. Journal of Economic Literature, s. 1067-1082.
+Oosterbeek, H., Sloof, R., & van de Kuilen, G. 2004. Cultural Differences in Ul-
+timatum Game Experiments: Evidence from a Meta-Analysis. Experimental
+Economics, 7, s. 171-188.
+Rabin, M. 1993, Aralık. Incorporating Fairness into Game Theory and Econo-
+mics. The American Economic Review, s. 1281-1302.
+Rizvi, S. A. 2003. Postwar Neoclassical Microeconomics. W. J. Samuels, J.
+E. Biddle, & J. B. Davis içinde, A Companion to the History of Economic
+Thought, s. 377-394. Blackwell Publishing.
+Rosenthal, E. C. 2011. Game Theory, The fascinating math behind decision-
+making. New York: Alpha Books.
+Roth, A. E. 1995. Bargaining Experiments. J. H. Kagel, & A. E. Roth içinde,
+Handbook of Experimental Economics, s. 253-342. Princeton University
+Press.
+Schotter, A., Weiss, A., & Zapater, I. 1996. Fairness and Survival in Ultimatum
+and Dictatorship Games. Journal of Economic Behavior & Organization
+Vol. 31, s. 37-56.
+Stanley, T. D., & Tran, U. 1998. Economics Students Need Not Be Greedy:
+Fairness and the Ultimatum Game. Journal of Socio-Economics, Volume 27,
+No. 6, s. 657-664.
+Suleiman, R. 1996. Expectations and fairness in a modified Ultimatum game.
+Journal of Economic Psychology 17, s. 531-554.
+Takagishi, H., Kameshima, S., Schug, J., Koizumi, M., & Yamagishi, T. 2010.
+Theory of mind enhances preference for fairness. Journal of Experimental
+Child Psychology 105, s. 130-137.
+Ubeda, P. 2014. The consistency of fairness rules: An experimental study. Jour-
+nal of Economic Psychology 41, s. 88-100.
+
+--- Sayfa 29 ---
+Copyright of Maliye Finans Yazilari is the property of Finans Kulup and its content may not
+be copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for
+individual use.
+View publication stats

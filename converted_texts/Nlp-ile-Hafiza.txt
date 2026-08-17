@@ -1,0 +1,3822 @@
+--- Sayfa 2 ---
+Bülent Þenyürek - Z. Müge Kasaroðlu
+NLP ile
+Hafýza Teknikleri
+Hafýza Geliþtirmenin Pratik Yollarý
+D Ý K K A T Ç O K Ö N E M L Ý N O T :
+Bu e-kitap Süper Beyin dergisinin Þubat ayý hediyesidir. Kitap her dergi için
+sadece bir kez indirilebilir. Hiçbir þekilde baþkalarýna daðýtýlamaz ve hiçbir
+ortamda baþka kiþi ve kurumlarýn kullanýmýna sunulamaz. Aksi þekilde kullananlar
+T.C. kanunlarýna ve vicdani deðerlere göre suç iþlemiþ sayýlýr. Önemle duyurulur.
+
+--- Sayfa 3 ---
+Tüm yayýn haklarý SÜPER BEYÝN dergisine aittir. Kaynak gösterilerek tanýtým ve
+iktibas yapýlabilir. Çoðaltýlamaz, basýlamaz, senaryolaþtýrýlamaz ve farklý
+biçimlerde hazýrlanýp satýþa sunulamaz. Elektronik ortamlarda yayýnlanamaz.
+NLP ile Hafýza Teknikleri
+Bülent Þenyürek - Z. Müge Kasaroðlu
+Yayýn Yönetmeni: Adem Özbay
+Editör: Nurhan Baltalý
+Kapak Tasarým: Gökhan Koç
+Ýç Tasarým: Yeliz Yýldýz
+ISSN: 1308-9536
+SÜPER BEYÝN DERGÝSÝ
+Zekaevi Yayýncýlýk Ajansý
+Salkým Söðüt Sokak Birlik Han No: 7/1
+Caðaloðlu Eminönü ÝST.
+Tel: 0212 512 21 11 Faks: 0212 512 21 12
+www.superbeyin.net - superbeyindergisi@gmail.com
+
+--- Sayfa 4 ---
+NLP ile
+Hafýza Teknikleri
+Hafýza Geliþtirmenin Pratik Yollarý
+
+--- Sayfa 5 ---
+ÖNSÖZ
+Binlerce insan›n doldurdu¤u salonda bir kiﬂi sahneye ç›k›yor.
+O anda büyük bir alk›ﬂ tufan› kopuyor. Bu kiﬂinin birazdan yapa-
+ca¤› gösteriyi siz dâhil, oradaki hiç kimse inanam›yor. Bu kiﬂi ilk
+s›radaki insanlardan baﬂlayarak herkesin ad›n› ve soyad›n› soru-
+yor. 15 dakika sonra 1000 kiﬂinin ad›n› akl›na kodlam›ﬂ olarak
+kodlad›¤› isimleri tekrar etmeyi baﬂar›yor.
+Hayat›n›z›n tüm alanlar›nda kullanabilece¤iniz böylesine güç-
+lü bir haf›zaya sahip olabilmek ister miydiniz? Kim istemez, de-
+¤il mi? “Ama nerde! Onlar ﬂansl› insanlar, benim ise haf›zam çok
+zay›f.” m› diyorsunuz? Yan›l›yorsunuz.
+Herkesin beynindeki nöron say›s› eﬂittir. ‹nsan beyninin 1
+milyar nörondan (sinir hücresinden)oluﬂtu¤u bilinmektedir. Bil-
+gilerimizi bu nöronlara depolar›z. 1 milyar nörona dünyada üre-
+tilmiﬂ tüm bilgileri depolayabilirsiniz. Bir tek kiﬂinin kapasitesi
+buna yeter. Herkes dünyaya ayn› say›da nöron ile geldi¤ine göre,
+bu kiﬂi herhangi biri olabilir. Herkesin beynindeki nöron say›s›
+eﬂit oldu¤una göre herkes eﬂit bir potansiyele sahiptir.
+Diyebilirisiniz ki; çevremize ﬂöyle bir bakt›¤›m›zda hiç de
+birbirine eﬂit zihinsel kapasiteye, zihinsel eyleme sahip insanlar
+göremiyoruz. Hakl›s›n›z; kapasitenizin olmas› onu kullanabildi¤i-
+niz anlam›na gelmiyor. ‹çine istedi¤iniz gibi bilgi yükledi¤iniz ve
+NLP ‹le Haf›za Teknikleri 7
+
+--- Sayfa 6 ---
+istedi¤iniz zaman bu bilgileri ça¤›rabildi¤iniz anlam›na da gelmi-
+yor.
+ﬁöyle örneklendirelim: Bir fabrikan›z var ve birçok (1 milyar)
+deponuz var. Bu fabrika ve depolar aras›nda yollar›n›z var ve kimi-
+ne de daha yol oluﬂturmam›ﬂs›n›z. Baz› depolar birbiri ile ba¤lant›-
+l›, baz›lar› ise de¤il. Baz› depolar› belirli bir tür mal için kullan›yor-
+sunuz yani uzmanlaﬂm›ﬂlar. Baz›lar›n› ise çok kullanmad›¤›n›z için
+körelmiﬂler.
+Tüm yollarda yeterli çal›ﬂma yapt›¤›n›z da söylenemez. Baz› yol-
+lar› çok geliﬂtirirken, baz›lar›n› oldukça ihmal etmiﬂsiniz. Baz› depo-
+lara birden fazla yol yaparken, yollar›n kalitesini art›r›rken, baz›lar›-
+n›n aras›ndaki ba¤lant›y› tamamen koparm›ﬂ bile olabilirsiniz.
+‹ﬂte bu depolar, yani hücre say›s› herkeste eﬂitken, yollar yani
+nöronlar aras›ndaki ba¤lar kiﬂiden kiﬂiye de¤iﬂiklikler gösterir.
+Nörotransmitterler denen bu ba¤lar; beynimizdeki hücreler (nö-
+ron) aras›ndaki bilgi ak›ﬂ›n› sa¤lar. Duyu organlar›m›zdan ald›¤›m›z
+bilgilerin, iç dünyam›zda üretti¤imiz bilgilerin, hücrelere ve hücre-
+ler aras› transferinde bu ba¤lar rol oynar.
+E¤er beynimizdeki tüm nörotransmitterler ölürse beyin boﬂ bir
+çuvala döner ve hiçbir iﬂlem yapamaz. Çünkü bilgiyi depolamak ve
+bilgiyi taﬂ›mak (ça¤›rmak) mümkün olmaz. Nörotransmitterler hüc-
+re de¤ildirler, artabilir, ço¤alabilir ve ölebilirler.
+1 milyar nöronun hepsinin aras›nda bir ba¤ yoktur. Bütün ba¤-
+lar ö¤renmelerimize, zihnimizi geliﬂtirecek eylemlerde bulunmam›-
+za ba¤l›d›r. Zekâ bu ba¤lar›n artmas›yla do¤ru orant›l›d›r. Hücre sa-
+y›s›yla iliﬂkisi yoktur.
+Zihnimiz ayn› anda birçok hücredeki bir biriyle iliﬂkili veya iliﬂ-
+kisiz bilgilere ulaﬂabiliyor ve arada ba¤ kura biliyorsa, bu orana
+ba¤l› olarak düﬂünme ve üretme kapasitesine sahibizdir. Yani bir
+hücreden ayn› anda ne kadar çok ba¤ ç›k›yor ve ne kadar çok di¤er
+hücrelere ba¤lan›yorsa zihnimizi o kadar çok kullan›yoruz demektir.
+8 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 7 ---
+Öyleyse, yapman›z gereken, zihninizdeki hücre say›s›ndan, ge-
+netik özelliklerimizden ﬂikâyet etmeyi b›rak›p, nörotransmitter
+ba¤lar› art›rmak olmal›d›r. Kitapta okuyaca¤›n›z teknikler ve sis-
+temler size bu olana¤› sa¤layacakt›r.
+ﬁimdi birazda haf›za tekniklerinin ne kazand›raca¤› üzerinde
+dural›m:
+Zihinsel gücünüzün fark›nda olmak; yaﬂam potansiyelinizin
+fark›nda olman›z› sa¤lar ve olumsuzluklar karﬂ›s›nda, baﬂar›s›z-
+l›klar karﬂ›s›nda direnmeyi ve alternatif üretmeyi ö¤retir. Böylece
+gerçek gücünüzü keﬂfedersiniz.
+‹nsanlar›n zay›f ve yetersiz haf›zalar› oldu¤unu düﬂündükleri
+için neler kaybettiklerini fark etseniz inanamazs›n›z. Yapamaya-
+ca¤›na, baﬂaramayaca¤›na inand›¤›, kendine güvenmedi¤i için
+büyük f›rsatlar› kaç›r›r birçok insan.
+Güçlü bir haf›zas› oldu¤unu fark eden, onu güçlendiren in-
+sanlar ise kendilerine s›n›r koymaktan ve yapamad›klar›na dair
+listeler oluﬂturmaktan vazgeçerler.
+Haf›za tekniklerini ö¤rendi¤inizde s›n›rlar›n›z› kald›racak ve
+hayata berrak ve oldu¤u gibi bakmay› ö¤reneceksiniz.
+Genellikle ö¤rencilerin en çok ﬂikâyet ettikleri nokta çal›ﬂt›k-
+lar› halde unutmakt›r. Asl›nda unutmuyorsunuz, sadece hat›rla-
+mada zorluk çekiyorsunuz. Çünkü büyük bir orman›n içine geliﬂi
+güzel at›lm›ﬂ yapraklar› bulmak imkâns›zd›r. Ama türü ve yeri ke-
+sin olarak belirlenmiﬂ ﬂeyleri bulabilirsiniz.
+Haf›za teknikleri sizi tekrar derdinden kurtar›p, zihninizin el
+de¤memiﬂ noktalar›n› harekete geçirerek bilgileri belli yerlere
+depolaman›z› sa¤layacak ve günler, haftalar, aylar, y›llar bile geç-
+se istedi¤iniz an bilgilerinize ulaﬂabileceksiniz.
+Haf›za teknikleri k›sa sürede kolay ve h›zl› ö¤renmeyi sa¤lar
+ve böylece ﬂehir toplumlar›n›n ve ö¤rencilerin en büyük s›k›nt›-
+lar›ndan biri olan “zaman problemi”ni ortadan kald›r›r. Saatlerce
+ders çal›ﬂmak zorunda kalmazs›n›z.
+NLP ‹le Haf›za Teknikleri 9
+
+--- Sayfa 8 ---
+Haf›za tekniklerini ö¤renen ö¤renciler; hayat›n bir aﬂamas›n-
+da bile olsa baﬂar›l› olabileceklerini görüp, hayat›n her aﬂama-
+s›nda baﬂar›y› yakalamaya yöneleceklerdir.
+Özgüven eksikli¤ini giderip, zamanla her alanda kendine gü-
+venmeyi ö¤reneceklerdir.
+Baﬂar›l› olman›n verdi¤i, baﬂarabilmenin vermiﬂ oldu¤u zev-
+ki tadan örgenci, derslerden de¤il, dersler ö¤renciden korkmaya
+baﬂlar.
+Ö¤rendi¤iniz her ﬂey gelece¤inize de¤erli bir yat›r›md›r.
+Edindi¤iniz her kabiliyet yaﬂamda sizleri merdivenin üst basa-
+maklar›na ç›karacak bir araçt›r ve baﬂarmak, güçlü olmak için her
+zaman yeni araçlara ihtiyaç vard›r.
+Bülent ﬁENYÜREK
+Zeynep Müge KASARO⁄LU
+10 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 9 ---
+1. BÖLÜM
+1 + 1 = 4 EDER M‹?
+Y›llard›r süregelen araﬂt›rmalara ra¤men, halen beynimizin
+gizemi tam olarak çözülmüﬂ de¤il. Bilim adamlar› her gün bu ko-
+nuda birçok teori ileri sürmekteler.
+Örne¤in; okumay› gözümüzle de¤il de, beynimizde yaparsak,
+dakikada yüz bin kelime okuyacak bir kapasiteye sahip oldu¤u-
+muz bunlardan biri.
+Ayr›ca sürekli beynimizin yüzde kaç›n› kulland›¤›m›za dair de
+birçok söylenti dolaﬂmakta ortal›kta. Bir
+bak›yoruz % 11’ini, bir bak›yoruz % 1’ini,
+bir bak›yoruz %3’ünü kullan›yormuﬂuz.
+‹lginç olansa daha bütününü çözemedi-
+¤imiz bir yap›n›n, kaçta kaç›n› kulland›-
+¤›m›za dair sonuçlar üretebilmemiz.
+E¤er torbada kaç kilo elma oldu¤unu
+bilmiyorsak, nas›l oluyor da yedi¤imiz
+miktar›n yüzdesini hesap edebiliyoruz?
+Asl›nda yapmam›z gereken hesap da
+ne kadar›n› kulland›¤›m›z de¤il, ne ka-
+NLP ‹le Haf›za Teknikleri 11
+
+--- Sayfa 10 ---
+dar›n› kullanabilece¤imiz, daha fazla kullanmak için neler yapa-
+bilece¤imiz üzerine olmal›d›r. Kaçta kaç›n› kulland›¤›m›z de¤il,
+mümkün oldu¤unca ço¤unu nas›l kullanabilece¤imiz üzerine dü-
+ﬂünmek, araﬂt›rmak ve teknikler geliﬂtirmek bize fayda sa¤laya-
+cak oland›r.
+Beynimin ‹çinde Ne Var?
+20. yüzy›l›n ikinci yar›s›ndan itibaren, kendilerine bu soruyu
+daha s›kça sormaya baﬂlayan bilim dünyas›; araﬂt›rmalar›n› art›-
+rarak bu konuya a¤›rl›k vermeye baﬂlad›.
+Yap›lan çal›ﬂmalar neticesinde bu gizemli yap›n›n ne kadar›n›
+kulland›¤›m›z netleﬂmese de, gerçekten karmaﬂ›k ve bir o kadar
+da ola¤anüstü yeteneklere sahip oldu¤unu art›k biliyoruz.
+‹nsano¤lunun geldi¤i ve gitmekte oldu¤u yola bakarsan›z as-
+l›nda bunu kavramak o kadar da zor de¤il. Bundan elli y›l önce
+hayal olanlar, bugün gerçekli¤imizin ayr›lmaz bir parças›.
+‹lk bilgisayarlar evimize dahi s›¤mayacak büyüklükteyken,
+ﬂimdi onlardan çok daha güçlü ve h›zl› olanlar›n› cebimizde taﬂ›-
+yoruz.
+Cep telefonlar›yla görüntülü iletiﬂim kurmaktan, kredi talebi-
+ne kadar her ﬂeyi yap›yoruz. Sanal alem ile gerçek alem birbirine
+o kadar kar›ﬂt› ki, teknolojinin h›z›na yetiﬂmek için ne yapaca¤›-
+m›z› bile ﬂaﬂ›rm›ﬂ durumday›z.
+Dedelerimiz, babalar›m›z olanlar karﬂ›s›nda ﬂaﬂk›na dönüp,
+defalarca kullanma klavuzunu okuduklar› hal-
+de hiçbir ﬂey anlamazken, biz anne karn›nda
+e¤itim alm›ﬂ›z gibi iki dü¤meye bas›p bitiriyo-
+ruz iﬂi. Bir de üstüne üstlük, büyüklerin bunu
+nas›l çözemediklerine anlam veremiyoruz.
+Onlarsa bizim zekam›z karﬂ›s›nda gururla,
+bir tavus kuﬂu misali kabar›yorlar:
+12 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 11 ---
+“Bizim o¤lan çok zeki maﬂallah, ben bu DVD'nin altyaz› ayar-
+lar›n› yapay›m diye ders kitab› gibi k›lavuzu okurken, ald› kuman-
+day› eline baﬂlatt› filmi, yap›ﬂt›rd› altyaz›y›. Nerden anlad› ﬂaﬂt›m
+kald›m. Ben diyordum zaten televizyonun karﬂ›s›nda saatlerce
+oturup boﬂ boﬂ bakt›¤›na aldanmay›n, bu çocuk zeki!”
+ﬁimdi bu durum size üstünlük sa¤l›yor gençler ama fazla sür-
+meyecek saltanat›n›z. Beyin denen mucidin yapacaklar›na sizin-
+de yetiﬂmekte zorlanaca¤›n›z zaman gelecek elbet. Onun s›n›rs›z-
+l›¤›n›n fark›na vard›kça, sizin de solu¤unuz kesilecek.
+Beynimizle ilgili sorular her geçen gün cevaplan›rken, sahip
+oldu¤umuz bu muhteﬂem yap› karﬂ›s›nda heyecanlanmamak
+mümkün de¤il. Yapt›klar›m›z yapacaklar›m›z›n habercisi adeta.
+Sonu gelmeyecekmiﬂ gibi görünen bir geliﬂimin ard›na tak›lm›ﬂ
+gidiyoruz.
+Nas›l yap›yoruz tüm bunlar›? Aram›zdan ç›kan birkaç dahinin
+yapt›klar›n›n m› sefas›n› sürüyoruz? Yoksa dahilik sadece top-
+lumsal bir önyarg› m›? Bu sorular›n cevaplar›n› ilerleyen sayfa-
+larda bulacaks›n›z, ama önce beynimizin içindeki keﬂif yolculu-
+¤umuza devam edece¤iz.
+Sa¤ - Sol Beyin mi? Hani Benim Tek Beynim Vard›?
+Rahat olun, kand›r›lm›ﬂ de¤ilsiniz. Y›llarca tek beyninizin ol-
+du¤una inan›p, ﬂimdi iki tane oldu¤unu ö¤renip sars›lmayacak-
+s›n›z.
+Gerçekte iki yar›m küreden oluﬂan tek bir beyne sahipsiniz.
+Beyninizin bu yar›mküreleri aralar›nda iﬂ bölümü yaparak çal›ﬂ›r-
+lar. Her ikisinin de görevleri farkl›d›r.
+Sol beyin iﬂi matematiksel iﬂlemler, dil, mant›k, bilim, analiz
+iken, sa¤ beynin iﬂi; hayal gücü, sanat, sezgiler, bütünü görmek,
+üç boyutlu düﬂünme, müzik ve sentez üzerine kuruludur.
+Bu ikisini fabrikada çal›ﬂan iki iﬂçi gibi düﬂünebilirsiniz. Sahip
+olduklar› görevler do¤rultusunda üretim yaparlar. D›ﬂ dünyadan
+alg›lad›klar›n›, fabrikada iﬂler, yorumlar ve size sunarlar.
+NLP ‹le Haf›za Teknikleri 13
+
+--- Sayfa 12 ---
+Sol beyin kelimler ve say›lar yoluyla çal›ﬂ›r. Sa¤ beyin ise gö-
+rüntülerle düﬂünür. Ayr›ca sol beyin bedenin sa¤ yar›s›n› yönetir-
+ken, sa¤ beyin sol yar›y› yönetir.
+Sol beyni bir bilgisayara, sa¤ beyni de bir cam küreye benze-
+tebilirsiniz.
+Sol beyin mant›ksal analizlerle ad›m ad›m çal›ﬂ›rken sa¤ be-
+yin; hayal etmekte, kurgulamakta ve bütünü alg›lamaktad›r.
+Sonuçta her ikisi de tek bir fabrika da çal›ﬂan iﬂçilerdir ve o fab-
+rikaya yapt›¤›n›z yat›r›m ölçüsünde, üretim ve kar elde edersiniz.
+Hangisini Kullansam Acaba?
+Sa¤ ve sol beynin görevlerini okurken, muhtemelen kiminiz
+sol beyni daha iﬂlevsel bulurken, kiminiz “Sol beyin de neymiﬂ,
+sa¤ beyin en iyisi” gibi düﬂüncelere kap›ld›n›z.
+Özellikle belirtelim ki; hangisi size daha yak›n, daha iyi geldiy-
+se, yani hangisine içiniz daha çok ›s›nd›ysa, onu daha çok kulla-
+n›yor olma ihtimaliniz yüksektir.
+Baz› insanlar vard›r; hep mant›¤›n yolunu izlerler. En basit
+ﬂeyde bile hesaplar›n aras›na gömülürler. Ayr›nt›lar› kolayl›kla
+fark edip, detaya inebilirler. Ezbere çok yatk›nd›rlar ve say›larla
+aralar› çok iyidir.
+Baz› insanlar›n da hayal güçleri çok geliﬂmiﬂtir. Kimsenin um-
+mad›¤› bir anda çok ilginç fi-
+kirler ortaya atarlar. Yarat›c›-
+l›klar› geliﬂmiﬂtir. Bütünü ko-
+layl›kla alg›lay›p aktarabilirler.
+Enteresan benzetmeler kulla-
+n›p, olaylar› ﬂaﬂ›rt›c› bir ﬂekil-
+de birbirine ba¤larlar.
+Bunun sebebi zihinlerinde-
+ki terazinin bir kefesinin daha
+14 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 13 ---
+a¤›r basmas›d›r. Kimisi sol beynini kullanmaya daha yatk›nken,
+kimisi de a¤›rl›kl› olarak sa¤ beynini kullanmakt›r.
+Prof. Ornstein insanlar›n sa¤ ve sol beyinlerinden birini di¤e-
+rinden daha öncelikli olarak kullanabileceklerini ortaya koyan ve
+beynin sa¤ - sol yar›mküreleri üzerine yap›lan araﬂt›rmalar›n te-
+melini atan kiﬂidir.
+Ornstein ayn› zamanda; iki beyin birlikte çal›ﬂ›rsa, genel yete-
+nek ve etkide çok büyük bir art›ﬂ oldu¤unu da keﬂfetti.
+Eskiden zekan›n beynin büyüklü¤ü ve beyin hücrelerinin say›-
+s›yla do¤ru orant›l› oldu¤u zannediliyordu.
+Ancak günümüzde; zekan›n beyin hücrelerinin say›s›yla de¤il,
+beyin hücrelerinin aras›ndaki ba¤lar›n artmas›yla do¤ru orant›l›
+oldu¤u anlaﬂ›lm›ﬂ durumdad›r.
+Asl›nda bu son derece iyi bir haberdir. Çünkü zeka beyin hüc-
+relerinin say›s›na ba¤l› olsayd›, hiç ﬂans›m›z kalmazd›. Beyin
+hücreleri ço¤almad›¤› ve öldükten sonra yenilenmedi¤i için, zih-
+nimizin potansiyelini art›rmak, zekam›z› geliﬂtirmek gibi kavram-
+lar hayat›m›zda do¤madan ölmüﬂ olurdu.
+Oysa beyin hücreleri aras›ndaki ba¤lar güçlendirilebilir ve art-
+t›r›labilir bir yap›ya sahiptir. Yani zihinsel kapasitemizi ve yete-
+neklerimizi artt›rmak bizler için mümkün olan bir ﬂeydir.
+Ornstein'nin de ortaya koydu¤u gibi; “‹ki beyinden zay›f olan›,
+daha kuvvetli olan ile iﬂbirli¤i içinde çal›ﬂmak için harekete geçi-
+rilirse; genel kapasitede de büyük bir art›ﬂ olur.”
+Yani “Hangisini kullansam acaba?” sorusuna verece¤iniz ya-
+n›t; “Her ikisini de” olmal›d›r.
+Terazinin kefelerini dengeleyip, fabrikan›zda ki iﬂçilerin birlik-
+te iﬂbirli¤i içinde çal›ﬂmalar›n› sa¤lad›¤›n›z nokta da, zihinsel
+olarak geliﬂmeye baﬂlars›n›z. Alg›lamalar›n›z güçlenir, ö¤renme-
+leriniz h›zlan›r, yarat›c›l›¤›n›z artar ve karmaﬂ›k olaylar aras›nda
+bile ba¤lant› kurup, yorum yapabilirsiniz.
+Bu art›ﬂ sand›¤›n›zdan daha h›zl› ve katlanarak artan bir sü-
+reçtir.
+NLP ‹le Haf›za Teknikleri 15
+
+--- Sayfa 14 ---
+Diyelim ki sol elinizle 50 kg yük taﬂ›yorsunuz. Sa¤ elinizle de
+50 kg yükü kald›rabiliyorsunuz. Her ikisini kulland›¤›n›zda kald›-
+rabilece¤iniz yükün miktar› 100 kg de¤il, en az 200 kg’d›r.
+Sol ve sa¤ beyninizi de birlikte kulland›¤›n›zda geliﬂiminiz kat-
+lanarak artar. Yani beyniniz için art›ﬂ oran›; 1 + 1 = 2 de¤il; 1 + 1
+en az 4'tür. Baﬂka bir deyiﬂle aritmetik de¤il geometrik art›ﬂlar
+oluﬂur.
+Dahiler Asl›nda Dahi De¤iller
+“Dahilik” toplumsal olarak kap›ld›¤›m›z bir önyarg›d›r.
+Dahilik kavram›; korkular›m›z ve kendimize karﬂ› inançs›zl›¤›-
+m›z yüzünden ileri sürdü¤ümüz bir kaç›ﬂ yoludur.
+Kendi güvensizli¤imizden; baﬂkalar›na verilmiﬂ oldu¤una
+inand›¤›m›z bir arma¤and›r.
+Hepimiz dünyaya gelirken “Dahilik” kavram›n›n içine koydu-
+¤umuz her ﬂeyi yan›m›zda getiririz. Sahibizdir, kaybedene kadar.
+Bir çocu¤un ö¤renme h›z›n› düﬂünün. Yürümek, konuﬂmak,
+yorumlamak gibi o kadar çok ﬂeyi, o kadar k›sa sürede ö¤renir ki,
+tam bir dahidir!
+Bunu yapmalar›n› sa¤layan tek ﬂey; her iki beyni de birlikte ve
+ayn› oranda kullan›yor olmalar›d›r.
+16 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 15 ---
+Kabul edin ya da etmeyin; sizde bir zamanlar dahiydiniz. Da-
+hilik dedi¤iniz ﬂeye sahiptiniz.
+Tarihteki kaﬂiflere, mucitlere bir bak›n. Dahi olduklar› için mi
+tarihe geçtiler? Yoksa çabalad›klar›, araﬂt›rd›klar› ve ö¤rendikleri
+için mi?
+E¤er bizlerden farkl› olsalard›, o zaman bebek Newton'un ilk
+söyledi¤i sözcük “Yerçekimi” olurdu. Edison zihninde ampulün
+tasar›m›yla do¤ard›. Y›llarca çal›ﬂmalar›na, emek sarf etmelerine,
+defalarca baﬂar›s›z olmalar›na gerek kalmazd›.
+Sahip oldu¤unuza, sanki sahip de¤ilmiﬂsiniz gibi davranmak
+ve ad›n› da “Dahi” koymak sadece kendinizi kand›rmakt›r.
+Einstein izafiyet teorisini bir tepede hayal kururken bulmuﬂ-
+tur. Sa¤ beyniyle kurdu¤u hayali, sol beyninde iﬂleyerek baﬂar-
+m›ﬂt›r bunu.
+Galatasarayl› Hagi'yi iyi bir futbolcu yapan hem sol hem de
+sa¤ aya¤›n› ayn› ﬂekilde kullanabilmesidir. Bu da ancak beyninin
+sol ve sa¤ yar›m kürelerini iﬂbirli¤i içinde kullanmas›yla müm-
+kündür.
+Nike ayakkab›lar›n›n t›rt›kl› taban fikri bir tost makinesinden
+ç›km›ﬂt›. Bill Bowerman bozulan tost makinesi yüzünden söyle-
+nen kar›s›n›n sesi eﬂli¤inde bulmuﬂtu bu fikri. Her iki beynini de
+kullanarak tost makinesiyle, ayakkab› aras›nda kurdu¤u ba¤lant›
+sayesinde, milyonlarca tost makinesi alacak paray› kazanm›ﬂt›.
+‹mam Buhari üç yüz bin hadisi ezberlemiﬂtir. Onun için bir
+hadisi ezberlemesi için bir dinleme-
+si ya da okumas› yeterliydi.
+Tüm bu insanlar› ve niceleri dahi
+olarak dünyaya geldiklerinden de-
+¤il, bizler gibi içlerindeki dahiyi kö-
+reltmediklerinden baﬂard›lar.
+Dahisiniz, yani insans›n›z. Kafa-
+tas› kemi¤inin özenle korudu¤u bir
+NLP ‹le Haf›za Teknikleri 17
+
+--- Sayfa 16 ---
+dahi var içinizde. Onun s›n›r›n› belirleyen sizsiniz. Neleri yap›p,
+neleri yapamayaca¤›na da karar veren sizsiniz. O sizin sözünüzü
+dinleyip, ona koydu¤unuz s›n›rlar dahilinde çal›ﬂ›yor.
+Hayran oldu¤unuz, “Ne kadar da zeki”, “Adam bir dahi” dedik-
+lerinizin sizden tek fark›, sa¤ ve sol beyinleri aras›nda yapm›ﬂ ol-
+duklar› al›ﬂveriﬂtir. Her ikisini de özenle ve uyum içinde birlikte
+kullan›yor olmalar›d›r. Kendilerine “Ben dahi de¤ilim” “Benim
+kafam bunlar› almaz” gibi s›n›rlar koymamalar›d›r. Zihinlerine s›-
+n›r koymak yerine “Daha fazla ne yapabilirim?” diye sormalar›d›r.
+Hiç kimse sizden olmad›¤›n›z bir ﬂeye ulaﬂman›z› istemiyor.
+Yapman›z gereken tek ﬂey; bir zamanlar oldu¤unuz sizi yeniden
+bulmak ve o olmak.
+Neydik, Ne Olduk!
+E¤itim sürecimizi de¤erlendirdi¤imizde ilk karﬂ›m›za ç›kan
+tablo, yaz›k ki sürekli sol beyni e¤iten ve sa¤ beyni bast›ran bir
+yap›ya sahip olmas› gerçe¤idir.
+Tabi bu nokta da sevindirici olansa, son y›llarda ilkö¤retimde
+izlenen ve sa¤ beyni de devreye sokan yeni yöntemlerin kullan›l-
+mas›. Gerçi daha baﬂlang›ç aﬂamas›nda olundu¤u için “Kullan›l-
+ma” ifadesi biraz iyimser kaçabilir. Ama bir ad›m dahi at›lm›ﬂ ol-
+mas›, sol ve sa¤ beynini do¤ru ﬂekilde kullanan bir neslin yetiﬂe-
+ce¤i konusunda umutland›r›yor bizi.
+ﬁu an sol beyin a¤›rl›kl› bir sistemin içinde yo¤ruluyoruz. Sa-
+dece e¤itim sistemi aç›s›ndan de¤il, toplumsal kal›plar aç›s›n-
+dan da de¤erlendirdi¤imizde ayn› tablo ç›k›yor karﬂ›m›za.
+Resime, müzi¤e yani sanata ilgi duyman›n “Gereksiz” bulun-
+du¤u ama mühendis, doktor, avukat olman›n yüceltildi¤i bir top-
+lumda yaﬂ›yoruz.
+Sadece sol lobun yapabildiklerine mahkum kal›yoruz. Do¤du-
+¤umuz anda her ikisini de kullanan bir dahi iken, zamanla sade-
+18 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 17 ---
+ce sol beyni kullanmay› ö¤reniyoruz. Sanki hayal kurmak, yeni fi-
+kirler ortaya atmak tuhafm›ﬂ gibi d›ﬂl›yoruz sa¤ beynimizi.
+Bilimin ve teknolojinin son sürat geliﬂti¤i, bugün ald›¤›m›z bir
+cihaz›n üç ay sonra demode oldu¤u bir ça¤da, acaba neden biz
+yeteri kadar üretmiyoruz? Neden ça¤a ayak uydurmak yerine,
+baﬂkalar›n›n yapt›¤› haz›r› kullan›yoruz?
+Cevap belli de¤il mi? Çünkü yat›r›m yapm›yoruz. Çünkü yap-
+mak isteyenlerin önünü kapat›yoruz. Çünkü bilime ve teknoloji-
+ye gerekti¤i önemi vermiyoruz.
+Bu bahaneleri s›ralay›p gidebiliriz. Ama bizim derdimiz bu de-
+¤il. Bu alanlara yat›r›m yapsak da, geliﬂimi sa¤layacak beyinler
+yetiﬂtirmiyoruz ki.
+Küçük çocuklara bakt›¤›n›zda onlar›n üretkenli¤ine hayran ka-
+l›rs›n›z. ‹ki parça oyuncaktan, ne hikayeler yazar, ne oyunlar oynar.
+Sonra büyümeye baﬂlad›kça, sa¤ beynin neredeyse yok say›l-
+d›¤› bir sistem içinde, sol beynini geliﬂtirir de geliﬂtirir. En so-
+nunda yaratamayan, kendine verilenle yetinen, dahi olmad›¤›na
+inanan toplumsal kal›plar›n içine s›k›ﬂm›ﬂ bir bireye dönüﬂür.
+Sanki o hikayeyi yazan dahi o de¤ilmiﬂ gibi...
+Tabi bütün sorumlulu¤u sisteme yüklemek de hem haks›zl›k
+olur, hem de masum olmad›¤›m›z halde bizi masum k›laca¤›n-
+dan do¤ru bir yaklaﬂ›m de¤ildir.
+Sonuçta biz de sistemin izledi¤i yola katk›da bulunuyoruz.
+Sa¤ beynimizi iﬂlevsiz k›lmay› kendimize borç bilip, saatlerce bil-
+gisayar›n baﬂ›nda oyun oynuyoruz.
+Kahve köﬂelerinde okey oynay›p at yar›ﬂlar›n›n peﬂinden ko-
+ﬂuyoruz.
+Bahçede ip atlay›p uzuneﬂek oynuyoruz.
+Dersleri anlamay› umursamay›p, alaca¤›m›z not için ezberli-
+yoruz.
+Suçu ö¤retmene ya da sisteme at›p, sanki araﬂt›rmak diye bir
+ﬂey yokmuﬂ gibi sadece denileni yap›yoruz.
+NLP ‹le Haf›za Teknikleri 19
+
+--- Sayfa 18 ---
+Sistem bizi sol beyinli yani yar›m beyinli yetiﬂtirirken, biz de
+onun ekme¤ine ya¤ sürüyoruz.
+Hayal kurmak yerine, filmlerdeki haz›r hayalleri kullan›yoruz.
+Saatlerce beynimizi uyuﬂturan, tek yanl› çal›ﬂt›ran, yarat›c›l›¤›
+öldüren, korku ve yaln›zl›¤a sürükleyen bilgisayar oyunlar›n› oy-
+nuyoruz.
+“Nas›l geliﬂirim?” diye sormak yerine; “K›sa yoldan nas›l sonu-
+ca var›r›m?” diye sormay› tercih ediyoruz.
+Ö¤renmek, yaﬂamak, zevk almak yerine “Nas›l kurtulurum” di-
+ye düﬂünmeyi seçiyoruz.
+Netice de bir taraf› eksik kullanmam›z› sa¤layacak ne varsa
+onun ard›ndan gidiyoruz.
+Zeki Bir Adam
+Bundan birkaç y›l önce gazete de bir haber vard›. Haber, Turk-
+cell'in baﬂlatt›¤› bir kampanyadan binlerce bedava kontör kaza-
+nan uyan›k bir vatandaﬂla ilgiliydi.
+Kampanyaya göre, ne kadar çok aran›rsan›z, o kadar çok beda-
+va kontör kazan›yordunuz. Hatta bu kampanyadan sonra, kendi-
+sini arayan› uzun uzun lafa tutup, kontör kazanmay› amaç edinen
+bir grup da ortaya ç›km›ﬂt›.
+Ama bizim uyan›k vatandaﬂ›n yap-
+t›¤› hayranl›k uyand›r›c›yd›. Uyan›k va-
+tandaﬂ gazeteye sat›l›k ev ilan› ver-
+miﬂti. Ama evin fiyat›, özelliklerinin
+yan›nda “Bedava” denecek cinstendi.
+‹lana bir de “Acilen sat›l›k” diye not
+düﬂülmüﬂtü.
+Bu ilan› gören herkes, ilandaki cep
+telefonunu ar›yordu. Tahmin edece¤i-
+niz gibi bu telefon, asl›nda sat›l›k bir
+20 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 19 ---
+evi dahi olmayan bizim uyan›k vatandaﬂa aitti. Arayanlara uzun
+uzun evi anlat›yor, sonrada üzgün oldu¤unu dile getirerek sat›l-
+m›ﬂ oldu¤unu bildiriyordu.
+O kadar çok kiﬂi aram›ﬂt› ki, kampanya sayesinde hem binler-
+ce kontör kazanm›ﬂ, hem de gazetelere haber olmuﬂtu.
+Sizce bu sa¤ ve sol beynin birlikte kullan›ld›¤›nda ne kadar ya-
+rat›c› fikirler üretebilece¤inin ilginç bir örne¤i olmas›n da, ne ol-
+sun?
+Tabi beynimizi her zaman böylesine olumsuz olaylar için kul-
+lanmam›z do¤ru olan de¤ildir. Amaç istedi¤i zaman yarat›c› fikir-
+ler üretme konusunda s›n›rs›z potansiyeline sahip olan beynimizi
+bize ve herkese yarar sa¤layacak ﬂekilde kullanmay› ö¤renmektir.
+Haydi Spora!
+Vücut ﬂampiyonlar›n›n annelerinin karn›ndan öyle mi ç›kt›kla-
+r›n› zannediyorsunuz?
+Kanatlar› irileﬂmiﬂ, kaslar› geliﬂmiﬂ, bacaklar› irilikten kapan-
+mayan bir bebek olarak m› do¤dular?
+E¤er öyleyse, anneleri hala hayattaysa bu bir mucize olmal›.
+Onlar hepimiz gibi normal bir bebek olarak dünyaya geldiler.
+Zamanla ne olmak istediklerine karar verdiler ve yapm›ﬂ oldukla-
+r› egzersizlerle vücutlar›n› geliﬂtirdiler.
+Onlar›n durumunu düﬂündü¤ünüzde asl›nda ne kadar avan-
+tajl› oldu¤unuzu görürsünüz. Çünkü do¤duklar›nda bedensel
+olarak sahip olmad›klar› bir yap›ya ulaﬂmak için mücadele ettiler
+ve çal›ﬂt›lar. Oysa, siz do¤du¤unuzda zaten sahip oldu¤unuz
+özelli¤e tekrar ulaﬂmak için, egzersizler yaparak zihninizi geliﬂti-
+receksiniz.  Haf›za teknikleri zihinsel bir spordur. Spor salonlar›n-
+da yapt›klar›n›z›, zihninizin içinde yapmakt›r.
+K›zlara yak›ﬂ›kl› görünmek isteyen delikanl›lar, sizlere sesleni-
+yoruz! Bedeniniz için ay›rd›¤›n›z zaman›n bir k›sm›n› zihniniz de
+NLP ‹le Haf›za Teknikleri 21
+
+--- Sayfa 20 ---
+hak etmiyor mu?
+Güzel olmak için ya¤lar›ndan kurtulmak isteyen bayanlar; ver-
+di¤iniz çaban›n bir k›sm› da zihninizin hakk› de¤il mi?
+Televizyon seyredip, bilgisayar oynarken uyuﬂturdu¤unuz bey-
+ninizin size ihtiyac› yok mu?
+Kendi bak›m›n›z, giyiminiz önemli de, zihninizin bak›m› nere-
+de?
+Üstünüz kirlendi¤inde de¤iﬂtiriyor, y›kan›yor, temizleniyorsu-
+nuz da, zihninizdeki kirleri, t›kan›kl›klar› temizlemek açmak, ya¤-
+lamak cilalamak için neden vakit ay›rmay› geri plana itiyorsunuz?
+Klasik metotla ders çal›ﬂarak, sa¤ beyninizi ihmal etme hakk›-
+n› kim verdi? Ona yaz›k de¤il mi?
+Yapabileceklerinizin daha az›n› yaparak geçirdi¤iniz bir haya-
+t›n size bir faydas› var m›?
+Zihninizde özgür olmay› hak ediyor, de¤il mi?
+O zaman haydi bakal›m; al›n havlunuzu, suyunuzu, do¤ru
+spora…
+Kanuni Sultan Süleyman ad›n› taﬂ›yacak Süleymaniye Ca-
+mii'nin yap›laca¤› yeri seçer. Mimar Sinan'› ça¤›rt›r ve birlikte
+arazinin uygun olup olmad›¤›n› incelemeye giderler.
+Padiﬂah sorar:
+“Nas›l buldun Sinan, sence uygun mudur?”
+Mimar Sinan cevap vermez, Gözlerini araziye dikmiﬂ bakmak-
+tad›r.
+Herkes suspus olmuﬂ, gergin bir ﬂekilde Sinan'›n cevap ver-
+mesini beklemektedir. Sinirlenen Padiﬂah tekrar sorar:
+“Ne düﬂünürsün Sinan?”
+Mimar Sinan gözleri hala arazide, yine cevaps›z b›rak›r Padi-
+ﬂah›. Herkes korkmuﬂtur. Kanuni Sulatan Süleyman'›n öfkesini
+bilmeyen yoktur. Padiﬂah sessizce bekler.
+Aradan uzunca bir süre geçtikten sonra; Mimar Sinan baﬂ›n›
+e¤erek arazinin içine girer.
+22 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 21 ---
+O anda herkes; Sinan'›n asl›nda padiﬂah› duymad›¤›n›, o süre
+içinde zihninde tasar›m›n› yapt›¤› caminin hayalinde yaratt›¤› ke-
+merlerden birine çarpmamak için e¤ilerek boﬂ araziye girdi¤ini
+anlar.
+NLP ‹le Haf›za Teknikleri 23
+
+--- Sayfa 23 ---
+2. BÖLÜM
+BEY‹N DENEN B‹LG‹SAYAR
+
+--- Sayfa 25 ---
+Haf›za Testi - 1
+Aﬂa¤›da verilmiﬂ olan 40 kelimeyi beﬂ dakika içersinde akl›n›z-
+da tutmaya çal›ﬂ›n. Test sonunda sizden beklenen, belirlenen sü-
+re sonras›nda kelimeleri ayn› s›rada baﬂtan sona ve sondan ba-
+ﬂa sayabiliyor olman›zd›r.
+OTOBÜS
+HEYKEL
+DERG‹
+YA⁄MUR
+KAPI
+SAAT
+MEND‹L
+GÜBRE
+BANKA
+KASA
+DÜ⁄ÜN
+HAPﬁIRIK
+MOB‹LYA
+KAﬁIK
+ELMA
+ELMAS
+KAMYON
+HALI
+MA⁄ARA
+MISIR
+Süreniz doldu¤una göre hat›rlad›klar›n›z› sizden beklenene
+göre aﬂa¤›daki boﬂluklara doldurunuz. Ayn› s›rada olmas›na dik-
+kat ediniz.
+NLP ‹le Haf›za Teknikleri 27
+YASTIK
+AMPUL
+BÖCEK
+YANGIN
+F‹L
+B‹S‹KLET
+TREN
+KÖPEKBALI⁄I
+KREM
+ETEK
+ASLAN
+A⁄AÇ
+KELEPÇE
+EV
+SÜTLAÇ
+BASTON
+M‹DE
+MEYHANE
+ﬁEHR‹YE
+KAKTÜS
+
+--- Sayfa 26 ---
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+E¤er bu sürede 40 kelimeyi akl›n›zda tutmay› baﬂaramad›ysa-
+n›z üzülmeyin, ﬂu anda bu kitab› okuman›z›n nedeni bunu yapa-
+bilmeyi ö¤renmek. Sayfalar› okumaya devam edin, kim bilir bel-
+ki de size bunu ö¤retecek bir teknikle karﬂ›laﬂ›rs›n›z!
+Beynimizin Kapasitesi
+Beynimizin bütününü kulland›¤›m›zda neler yapabilece¤imizi
+tam olarak bilmesek de, sand›¤›m›zdan çok daha fazlas›n› yapa-
+bilecek bir kapasiteye sahip oldu¤umuzu biliyoruz.
+Beynimiz inan›lmaz bir iﬂlem kapasitesine sahiptir. Dünyaya
+28 NLP ‹le Haf›za Teknikleri
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+
+--- Sayfa 27 ---
+geldi¤imiz andan itibaren yaﬂad›¤›m›z her ﬂey, okuduklar›m›z,
+duyduklar›m›z, gördüklerimiz beynimizde kay›tl›d›r.
+Bir odaya girdi¤imizde asl›nda gördü¤ümüzü sand›¤›m›zdan
+çok daha fazlas›n› görür ve kaydederiz. Bir konuﬂmay› dinlerken,
+düﬂündü¤ümüzden çok daha fazla ayr›nt›n›n fark›na var›r›z.
+Bunu siz de deneyebilirsiniz. Bir mekana girip ﬂöyle bir dolan-
+d›ktan sonra gözlerinizi kapat›n. Orada gördüklerinizi zihninizde
+canland›r›n. O ana kadar gördü¤ünüzün dahi fark›nda olmad›¤›-
+n›z ayr›nt›lar› yakalayacaks›n›z.
+Beynimizi bilinç ve bilinçalt› olmak üzere iki farkl› aç›dan de-
+¤erlendirecek olursak; bilincimizin iﬂlem kapasitesi 7 +/- 2 iken
+yani en az 5, en fazla 9 birimlik bir iﬂlem yaparken, bilinçalt›m›-
+z›n iﬂlem kapasitesi 2,5 ile 5 milyon veri aras›ndad›r.
+Aradaki uçurumun fark›ndas›n›z, de¤il mi?
+Bilinçalt›n›z; neredeyse hiçbir ﬂeyi atlamadan sürekli kay›t ya-
+par. Siz uykudayken bile o çal›ﬂmaya devam eder.
+Hiç durmadan, dinlenmeden sürekli çal›ﬂmakta, kaydetmekte
+ve iﬂlem yapmaktad›r.
+Ancak bilinç düzeyinde biz bu olup bitenlerin fark›nda
+olmay›z. Bilinçalt›m›z›n mutfa¤›nda piﬂen yemeklerin, nas›l ha-
+z›rlan›p, sunuldu¤u bilmeden sadece yemeklerden görebildikle-
+rimizin tad›na bakabiliriz. Oysa zihnimizin derinliklerinde çal›ﬂan
+ustalar her gün binlerce çeﬂit ye-
+mek haz›rlamakta ve onlar› sürekli
+iﬂlemektedir.
+Dahi oldu¤unu ya da sizden da-
+ha zeki oldu¤unu düﬂündü¤ünüz
+insanlar, beyinlerinin her iki yar›m
+küresini de etkin bir ﬂekilde kulla-
+narak, bilinçaltlar›n›n çal›ﬂma kapa-
+sitesine daha çok ulaﬂmay› baﬂaran
+insanlard›r. Yani onlar bilinçaltlar›-
+NLP ‹le Haf›za Teknikleri 29
+
+--- Sayfa 28 ---
+n›n gücünün fark›ndad›rlar ve onu sizden daha çok kullanmakta-
+d›rlar.
+Bilinç ve bilinçalt›n›n ö¤renme ilkeleri de birbirinden oldukça
+farkl›d›r. Bilinçalt›n›z somut ve görüntülerle iﬂleneni daha rahat
+alg›lay›p hat›rlamay› sa¤larken, bilinç daha çok kelimelerle çal›ﬂ›r.
+ﬁimdi kendinize ﬂunu sorun; hangisinin ilkelerine göre ö¤re-
+nirseniz daha kolay ö¤renir, uzun süre hat›rlars›n›z? Hangisine
+göre çal›ﬂ›rsan›z ö¤renmeleriniz, alg›lamalar›n›z ve yorumlama
+gücünüz artar? Hangisini daha çok kullan›rsan›z, yarat›c›l›¤›n›z
+geliﬂir? E¤er bilinçalt›n›z›n milyonlarla ifade edilen çal›ﬂma ka-
+pasitesini mümkün oldu¤unca çok kullanmak istiyorsan›z, sa¤ ve
+sol beyninizin birlikte, el ele çal›ﬂabilmesi için beyninizi e¤itme-
+niz gerekiyor.
+Bedeninizin nas›l ki yoruldu¤unda dinlenmek, ac›kt›¤›nda ye-
+mek yemek, susad›¤›nda su içmek, iﬂlevselli¤ini korumak için ha-
+reket etmek gibi ihtiyaçlar› varsa, zihninizin de ihtiyaçlar› vard›r.
+Bedeninizi hiç kullanmad›¤›n›z› ya da az kulland›¤›n›z› düﬂü-
+nün. Oturdu¤unuz yerde bir süre sonra kilo almaya baﬂlars›n›z,
+hantallaﬂ›rs›n›z. Bedeninizle daha önce yapabildi¤iniz hareketle-
+ri yapamaz hale gelirsiniz. Sürekli yatmak ya da oturmaktan, be-
+deniniz bir zamanlar yapabildiklerini sanki unutur, yeteneklerini
+ve yeterlili¤ini kaybeder.
+Zihniniz içinde durum farkl› de¤ildir. E¤er onu uyuﬂturur, çal›ﬂ-
+t›rmaz tembelleﬂtirir, sadece verilenle yetinmesini sa¤larsan›z; bir
+süre sonra o da yapabildiklerini kaybetmeye baﬂlar. Hantallaﬂ›r.
+Bir bilgisayar ne kadar mükemmel olursa olsun, onu kullan-
+mad›¤›n›z sürece hiçbir iﬂinize yaramaz. Zihniniz de ne kadar ola-
+¤anüstü bir kapasiteye sahip olursa olsun, onu kullanmay›p
+uyuﬂturdu¤unuz sürece hiçbir iﬂinize yaramaz. Sürekli; “Yetene-
+¤im yok”, “Kiﬂili¤ime uymuyor”, “Bunu beceremem” gibi mazeret-
+ler üreterek zihnimizin o muhteﬂem kapasitesine hakaret ederiz.
+Onu yok sayar›z.
+30 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 29 ---
+Bu mazeretlerin içimize s›z›p, bizi olumsuz programlamas›n›n
+sebebi ise, beynimizi e¤itmek yerine, köreltmeyi tercih etmemizdir.
+Onun gücünü ihmal edip, s›n›rland›rd›¤›m›zda bu do¤rudan do¤ru-
+ya bizim becerilerimize, anlamam›za ve üretkenli¤imize yans›r.
+Bu yans›man›n sonucunda, olup bitene bir aç›klama getirme-
+miz gerekir. ‹ﬂte bu mazeretler asl›nda, yapt›¤›m›z ﬂeyi mazur gös-
+termek için yapt›¤›m›z aç›klamalard›r. “Ben zihnimi geliﬂtirmiyo-
+rum, ona yeteri özeni göstermeyip, ihmal ediyorum.” “Gerekli ça-
+bay›, çal›ﬂmay› yapm›yorum.” demek yerine, “Ben bundan anlam›-
+yorum.”, “Bu konuda yetene¤im yok.” gibi kaç›ﬂ yollar› üretiriz.
+‹stedi¤imiz kadar kendimizi kand›ral›m. Bu içimizde taﬂ›d›¤›-
+m›z dahinin, olmad›¤› anlam›na gelmez. O oradad›r. Onu kullan-
+mak ya da kullanmamaksa bizim tercihimizdir.
+Hangi tercihi yaparsak yapal›m, sonuçlar›na katlanacak olan;
+yine bizizdir.
+Test Sonuçlar›n›z
+Test sonuçlar›n›z› nas›l buldunuz? Gelin birlikte de¤erlendire-
+lim. Kaç tane kelimeyi do¤ru s›rada hat›rlad›n›z? Kendinizi yeter-
+siz mi buldunuz? Yoksa beklenilenin hepsini yapamad›¤›n›z için
+yeteri kadar zeki olmad›¤›n›z sonucuna m› vard›n›z?
+Ya da mazeretler üretip, verilen sürenin mi az oldu¤unu dü-
+ﬂündünüz? Bunu beﬂ dakika içinde yapmak imkans›z m› dediniz?
+Öyleyse Haf›za Teknikleri e¤itimimize kat›lan bir ö¤rencimi-
+zin, üçüncü günün sonunda yazd›klar›na bir bakal›m:
+“Ö¤retmenim siz ne yapt›n›z? Ben verdi¤iniz 60 kelimeyi 2 daki-
+ka 55 saniyede ö¤rendim ve herkese söyledim. Öyle ki, ailem art›k;
+“Tamam anlad›k, muhteﬂemsin” dediler.” - Özge DEM‹R (YAﬁ:15)
+Ne o? ﬁimdi de “O k›z zekiymiﬂ. Ben de¤ilim.” Demeye mi baﬂ-
+lad›n›z? ‹nsanlar›n mazeret üretmek konusunda ne kadar h›zl› ve
+baﬂar›l› oldu¤unu bir kez daha kan›tlam›ﬂ oldunuz öyleyse.
+NLP ‹le Haf›za Teknikleri 31
+
+--- Sayfa 30 ---
+Siz h›zla mazeretler üretmeye devam ederken, biz ﬂunu iddia
+ediyoruz: Bu kitapta verilen çal›ﬂmalar› siz de uygularsan›z, im-
+kans›z oldu¤unu ya da zor oldu¤unu düﬂündü¤ünüz ﬂeyleri nas›l
+da kolayl›kla yapt›¤›n›z› görecek ve ﬂaﬂ›racaks›n›z.
+E¤er bu teste zorland›ysan›z, bunun zor bir iﬂ oldu¤unu dü-
+ﬂündüyseniz; bunun tek sebebi nas›l yapman›z gerekti¤ini bilme-
+di¤inizden kaynaklan›yor.
+E¤er haf›za gücünüzü geliﬂtirmenin ve kullanman›n yollar›n›
+tam anlam›yla bilmiyorsan›z, sizden beklenen her ﬂey size zor ge-
+lecektir ve yapabilenlere hayran olurken, onlar›n sizden daha
+ak›ll› oldu¤u gibi bir yan›lsamaya kap›lacaks›n›zd›r.
+Gerçek olan ﬂu dur ki; ister yedi yaﬂ›nda olsun, ister yetmiﬂ;
+yolunu bildikten sonra herkes her ﬂeyi baﬂarabilir.
+Hat›rlamad›klar›m›z
+Dikkat çekmeyen, s›k›c›, monoton, s›radan, renksiz, zevksiz
+olan ﬂeyler hat›rlamakta zorland›klar›m›zd›r.
+Bundan birkaç y›l önce s›radan geçen bir gününüzü nas›l ha-
+t›rlars›n›z?
+Her zaman ki gibi kahvalt› edip iﬂe ya da okula gitti¤iniz, ak-
+ﬂam gelip, yemek yedikten sonra televizyon seyredip, uyudu¤u-
+nuz bir günün tarihini, detaylar›n› zihninizde bulmakta zorlan›r-
+s›n›z, de¤il mi?
+Bu haf›zan›z›n zay›f olmas›ndan de¤il gününüzün monotonlu-
+¤undan kaynaklan›r. Farkl› ya da ilginç hiçbir ﬂeyin olmad›¤› bir
+gün, zihnimizin derinliklerine itilir.
+Hat›rlad›klar›m›z
+Oysa; ilginç, hayal edebildi¤imiz, ko-
+mik, saçma, ruhumuza hitap eden, canl›,
+32 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 31 ---
+e¤lenceli, renkli, s›ra d›ﬂ›, garip, korkutucu, i¤renç, enteresan ve
+cinsellik içeren her türlü olay ve durumu sanki daha bugün ol-
+muﬂ gibi hat›rlar›z.
+Evde misafirlerinizle birlikte yemek sofras›nda otururken ka-
+zayla herkesin içinde gaz kaç›rd›¤›n›z o günü unutabilir misiniz?
+Evden kaçt›¤›n›z günü...
+Evinizden ilk kez ayr›ld›¤›n›z ve gurbete ç›kt›¤›n›z o günü.
+Arkadaﬂlar›n›zla birlikte kahkahalarla güldü¤ünüz anlar› sile-
+bilir misiniz haf›zan›zdan?
+‹lk çocu¤unuz dünyaya geldi¤inde, onu kollar›n›z›n aras›na
+al›p kokusunu içine çekti¤iniz o dakikalar hep akl›n›zda ve yüre-
+¤inizde de¤il mi?
+Sevgilinizin ilk kez dudaklar›ndan öptü¤ünüz, bedeninizin tat-
+l› bir heyecanla dalgaland›¤› o ilk öpüﬂmenizi itebilir misiniz ge-
+rilere?
+E¤er baz› ﬂeyleri bu kadar canl› hat›rlayabiliyorsan›z, neden
+bugün çal›ﬂt›¤›n›z ders ertesi gün akl›n›zdan uçup gidiyor?
+San›r›m cevab› hepiniz buldunuz. Çünkü s›k›c›, s›radan ve zor,
+öyle de¤il mi?
+O zaman art›k ne yapman›z gerekti¤ini de anlamaya baﬂlad›-
+n›z. Haf›za gücünüzü geliﬂtirmek ve ö¤renmelerinizi kal›c› hale
+dönüﬂtürmek için, hat›rlaman›z› sa¤layan ö¤eleri kullanmakla
+iﬂe baﬂlamal›s›n›z.
+Ba¤lama Tekni¤i
+ﬁimdi baﬂta vermiﬂ oldu¤umuz 40
+kelimeyi tekrar ele alal›m. Bu kelimele-
+ri ayn› s›rada akl›m›zda tutabilmek için
+farkl› bir yol izleyelim:
+Otobüs dura¤›nda bekleyen bir hey-
+kel dergi okuyor. Derken h›zla ya¤mur
+NLP ‹le Haf›za Teknikleri 33
+
+--- Sayfa 32 ---
+yamaya baﬂlay›nca yerinden kalk›yor ve yerdeki kap›y› aç›p içine
+atl›yor. Aﬂa¤›da devasa büyüklükte bir saatin üstüne düﬂüyor.
+Saat tik tak sesleri eﬂli¤inde hüngür hüngür a¤l›yor ve elinde-
+ki mendili az ileri deki gübre y›¤›n›n üstüne f›rlat›yor.
+‹¤renç koku burnunuza dolarken, gübreleri al›p, bankaya gö-
+türüyorsunuz. Kasay› açt›¤›n›zda orada bir dü¤ün yap›lmakta ol-
+du¤unu görüyorsunuz. Öyle bir hapﬂ›r›yorsunuz ki, a¤z›n›zdan ç›-
+kanlar yandaki mobilyan›n aln›na yap›ﬂ›yor.
+34 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 33 ---
+Mobilya elinde çap› beﬂ metre olan kaﬂ›kla bezelye büyüklü-
+¤ünde ekﬂi bir elma yiyor. Elman›n sular› yanaklar›ndan akarken
+elmasa dönüﬂüyorlar. Elmaslar “ﬂ›k›r ﬂ›k›r” sesler ç›kararak, bir
+kamyona doluyor. Kamyon duvarlar› hal› ile kapl› bir ma¤araya
+gidiyor. Ma¤aran›n tam ortas›nda m›s›r tarlas› var. M›s›rlar baﬂ-
+lar›n› yast›¤a koymuﬂ uyuyorlar ve bir taraftan da horluyorlar.
+Ampul gözlü böcekler tarlada yang›n ç›kar›yorlar. Korkan filler
+bisiklete binerek kaç›yorlar. Tren istasyonuna vard›klar›nda ilk
+terene biniyorlar. Trende köpekbal›¤›na rastl›yorlar. Köpekbal›¤›
+s›rt›na krem sürülmesini istiyor. Pembe f›rf›rl› etek giymiﬂ olan
+aslan ona yard›m ediyor ve elleri yap›ﬂ yap›ﬂ oluyor.
+Aslan durakta iniyor ve mutlulukla a¤ac›n gövdesine kelepçe-
+ledi¤i evine gidiyor. Evin camlar› sütlaçtan, her yana ak›yor. Bir
+NLP ‹le Haf›za Teknikleri 35
+
+--- Sayfa 34 ---
+baston geliyor ve bol ﬂekerli sütlac› yalamaya baﬂl›yor. Bastonun
+çok yemesinden rahats›z olan midesi onu terk ediyor ve meyha-
+neye gidiyor. Meyhanede bir duble ﬂehriye çorbas› içiyor. A¤z›
+yan›yor ve etrafa dikenli kaktüsler püskürtüyor.
+Bu hikayeyi zihninizde canland›r›n. Sonra tekrar baﬂa dönün
+ve hat›rlad›klar›n›z› yaz›n.
+Ne oldu? O kadar da zor de¤ilmiﬂ, de¤il mi? Buna ek olarak
+zihninizden hikayeyi tersine takip ederek kelimeleri sondan baﬂa
+do¤ruda sayabilirsiniz. Ayr›ca size aradan herhangi bir kelime so-
+ruldu¤unda bir öncesini ve bir sonras›n› da rahatl›kla söyleyebi-
+lirsiniz. Üstünden bir hafta hatta bir ay geçmesine ra¤men ayn›
+ﬂeyleri rahatl›kla yapabilirsiniz. Hem de daha h›zl› olarak. Çünkü
+ba¤lama tekni¤i ile yapaca¤›n›z kodlamalar, görsel ö¤renmeyi te-
+mel almaktad›r. Kelimelerle yapt›¤›n›z bir ezber çal›ﬂmas›n› bir-
+kaç hafta sonra hat›rlayamaz hale gelirken; görüntülerle yapt›¤›-
+n›z bir çal›ﬂma gün geçtikçe daha da güçlenir. Taﬂlar yerine otur-
+dukça daha h›zl› hat›rlar ve aktar›rs›n›z.
+Ba¤lama tekni¤i, hiçbir ortak noktas› olmayan kelimelerin,
+ﬂekle dökülerek; ilginç, s›ra d›ﬂ› ve saçma bir ﬂekilde birbirine
+ba¤lanmas›d›r.
+Ba¤lama tekni¤inde iliﬂkilendirme yap›l›rken dikkat edilmesi
+gereken baz› önemli noktalar vard›r.
+36 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 35 ---
+Ba¤lama Tekni¤inin Temel ‹lkeleri
+1) Abart›n ve saçmalay›n. Abartmak boyutlar›n büyütülmesi
+ya da küçültülmesidir:
+“Devasa büyüklükte bir saat”
+“Bezelye kadar elma”
+Saçmalamak ise mant›kl› olmayan› yaratmakt›r:
+“Bisiklete binen filler”
+“Krem sürdüren köpekbal›¤›”
+“A¤aca kelepçeli ev”
+“Banka da yap›lan dü¤ün”
+“Otobüs dura¤›nda bekleyen ve dergi okuyan heykel”
+“Pembe etek giyen aslan”
+“Otobüs dura¤›n›n yan›nda bir heykel vard›. Heykele yaslan-
+m›ﬂ dergi okuyordum. Bardaktan boﬂal›rcas›na ya¤mur ya¤›yor-
+du. Otobüs geldi ve kap›s› aç›ld›. Bindim ve saate bakt›m…” gi-
+bi mant›kl› yapaca¤›n›z bir ba¤lama, a¤›rl›kl› olarak sol beyne hi-
+tap edece¤inden arzulad›¤›n›z geliﬂimi ve hat›rlamay› zorlaﬂt›ra-
+cakt›r.
+2) Hayal edin: Yapt›¤›n›z ba¤lamay› akli gözünüzü kullanarak
+zihninizde canland›r›n. Akli gözümüz, gözlerimiz kapal›y-
+ken ya da bir noktaya odaklanm›ﬂken, olaylar› zihnimizde
+hayal etmemizi sa¤lar.
+Ne kadar canl›, tuhaf ve komik hayaller kurarsan›z o kadar ka-
+l›c› olacakt›r. Tekni¤in sonuç vermesi için, yapt›¤›n›z ba¤lamay›
+hayal ederek canland›rman›z ﬂartt›r.
+Hayal etmek; sadece ba¤lama tekni¤inde de¤il, tüm haf›za ça-
+l›ﬂmalar›n›z da dikkat etmeniz gereken önemli bir noktad›r.
+3) Görüntüleri renklendirin: Kurdu¤unuz hayal ne kadar renkli
+ve parlak olursa o kadar etkili olacakt›r. Sadece canl› renk-
+leri kullanmak dahi haf›zan›z› % 50 oran›nda güçlendirir.
+4) Görüntüleri hareketlendirin: Canland›rman›z, sabit bir fo-
+NLP ‹le Haf›za Teknikleri 37
+
+--- Sayfa 36 ---
+to¤raf gibi de¤il, ak›p giden bir film gibi olmal›d›r. Cisim-
+lere ve olaylara hareket kazand›r›n.
+5) Üç boyutlu görün: Nesneleri, kiﬂileri ve olaylar› üç boyutlu
+olarak hayal edin.
+6) Dönüﬂümler kullan›n:
+“Elma sular›n›n akarken elmasa dönüﬂmesi”
+7) Z›tl›klar kullan›n:
+“Beﬂ metre çap›nda kaﬂ›kla, bezelye büyüklü¤ünde elma
+yemek” gibi...
+8) Hikayenin bir yerine kendinizi ya da bir sevdi¤inizi dahil
+edin:
+“Gübreleri al›p bankaya götürüyorsunuz…”
+9) Nesne ve canl›lar› birleﬂtirin:
+“Gözleri ampulden olan böcek” gibi...
+10)  Cans›z varl›klara canl› özelli¤i giydirin:
+“Mobilyan›n elma yemesi"
+“Bastonun sütlaç yalamas›”
+“M›s›r›n baﬂ›n› yast›¤a koymas›”
+“Saatin a¤lamas›”
+11) Canland›rman›za tatlar, kokular, hisler ve sesler de ekle-
+yin.
+“Tik tak sesleri eﬂli¤inde hüngür hüngür a¤layan saat”
+“‹¤renç kokulu gübreler”
+“Ekﬂi bir elma”
+“ﬁ›k›r ﬂ›k›r sesler ç›kararak kamyona dolan elmaslar”
+“Horlayan m›s›rlar”
+“Bol ﬂekerli sütlaç”
+“Aslan›n ellerinin kremden yap›ﬂ yap›ﬂ olmas›”
+12) Ba¤laman›n kopuk olmamas›na özen gösterin:
+Kelimeler aras›nda geçiﬂlerde kopukluk yaﬂanmadan, ak›c›l›k
+sa¤lanmal›d›r. Kelimeler rasgele de¤il, s›ral› bir ﬂekilde ba¤lana-
+rak, bütünsellik oluﬂturulmal›d›r.
+38 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 37 ---
+Hayal Gücünüzü Geliﬂtirmek ‹çin...
+Sadece ba¤lama tekni¤i için de¤il, haf›zan›z›n genel geliﬂimi
+ve güçlenmesi için hayal gücünüzün ne ölçüde kulland›¤›n›z en
+önemli noktalardan biridir.
+Bu çal›ﬂmalar esnas›nda e¤er olaylar› renkli, canl›, hareketli ve
+üç boyutlu olarak zihninizde canland›rmakta zorlan›yorsan›z, hayal
+gücünüzü geliﬂtirmek konusunda çal›ﬂman›z gerekiyor demektir.
+Hayal gücünüzün geliﬂmesiyle haf›za gücünüzde geliﬂecek ve
+beyninizi kullanma kapasiteniz artacakt›r.
+1) Çeﬂitli resimlere bak›n. Sonra her birini gözünüzü kapata-
+rak zihninizde canland›r›n. Resmin tüm detaylar›na inene
+Yaﬂl› bilge ile ormana yeni gelen tavﬂan birlikte
+ormanda tur atarlar.
+Tavﬂan merakl› her gördü¤ünü sorar. Biraz sonra
+önlerine bir kat›r ç›kar. Tavﬂan:
+- Bilge bu nedir ne ilginç hayvan, diye sorar.
+- O kat›rd›r. Eﬂek ile At›n kar›ﬂ›m›d›r evlad›m, der
+yaﬂl› bilge.
+Belirli bir süre sonra bu sefer karﬂ›lar›na Kurtköpe¤i
+ç›kar. Tavﬂan tekrar sorar:
+- Peki ya bu nedir?
+Yaﬂl› bilge cevap verir:
+-O Kurtköpe¤i. Kurtla köpe¤in birleﬂimidir evlad›m.
+Tavﬂan›n akl›nda yavaﬂ yavaﬂ bir ﬂeyler belirir. K›sa süre
+sonra karﬂ›lar›na bir Devekuﬂu ç›kar. Tavﬂan tekrar sorar.
+Yaﬂl› bilge onun ad›n›n devekuﬂu oldu¤unu söyler.
+Tavﬂan uzun uzun bakar ve “pes” der.
+NLP ‹le Haf›za Teknikleri 39
+
+--- Sayfa 38 ---
+ve aﬂa¤›daki sorular›n yan›tlar›n› zihninizde görene kadar
+devam edin.
+Renkleri nas›l, büyüklükleri nas›l, nerede duruyorlar? Onlara
+nereden bak›yorsunuz? Resmin içinde neler var? ﬁekilleri nas›l?
+Resimdeki nesneler ya da kiﬂiler ne yap›yorlar? Onlar›n benzeri
+olan görüntüler haf›zan›zda var m›?
+2) Aﬂa¤›da isimleri verilen insanlar› zihninizde canland›r›n.
+Göz renkleri nas›l? Kaﬂlar›, saçlar›, yüzlerinin ve kulaklar›n›n
+ﬂekilleri, çene ve burun yap›lar›, omuzlar›, genel duruﬂlar›, yürü-
+yüﬂ biçimleri nas›l? Ne giymiﬂler? Giysileri ne renk?  Onlar› han-
+gi mekanlarda görüyorsunuz?
+Süleyman Demirel, Cüneyt Ark›n, Müslüm Gürses, Tayyip Er-
+do¤an, Hülya Avﬂar, Tarkan, Ali K›rca, Reha Muhtar...
+3) Yukar›daki egzersizi tan›d›¤›n›z insanlar üzerinde uygula-
+y›n. (Anne-baban›z, akrabalar›n›z, arkadaﬂlar›n›z, ö¤ret-
+menleriniz, Bakkal Salih efendi…)
+4) Zihninizde bir mekan görün ve orada dolaﬂ›n. (Eviniz, eski
+okullar›n›z, do¤du¤unuz mahalle, bakkal›n›z, bir al›ﬂveriﬂ
+merkezi, komﬂunuzun bahçesi…)
+Bu mekanlar nas›l görünüyor? E¤er d›ﬂar›da bir yerse; çevrede-
+ki binalar›, binalar›n büyüklüklerini, konumlar›n›, renklerini, so-
+kaklar›, a¤açlar›, çevrede dolaﬂanlar insanlar› görmeye çal›ﬂ›n.
+E¤er kapal› bir yerse; duvarlar›n rengini, odan›n ﬂeklini, odadaki
+nesnelerin ﬂekil, konum ve renklerini, birbirleri aras›ndaki mesa-
+feyi görmeye çal›ﬂ›n. Ulaﬂabildi¤iniz tüm ayr›nt›lara kadar canlan-
+d›r›n. En küçük bir rengi ve çizgiyi bile fark edebilmeyi hedefleyin.
+Zihninizde bir görüntüye bakmaya devam ettikçe netleﬂecektir.
+40 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 39 ---
+Ba¤lama Tekni¤i Size Ne Kazand›racak?
+Ba¤lama tekni¤i haf›za güçlendirme çal›ﬂmalar›n›n temelidir.
+Spora baﬂlamadan önce yapaca¤›n›z ›s›nma hareketleridir.
+Bildi¤iniz gibi ›s›nmadan spor yapmaya kalkarsan›z bedenini-
+ze kramplar girer, kaslar›n›z zorlan›r ve daha da ötesinde ciddi
+sakatl›klar yaﬂayabilirsiniz.
+Bu çal›ﬂma sayesinde sa¤ ve sol beyniniz aras›nda iliﬂki kurar
+ve onlar› birlikte üretmeye zorlars›n›z. Çünkü yapt›¤›n›z kay›tlar
+tek bir yere de¤il, ayn› anda birçok yere iﬂlenmektedir.
+Ayn› anda beynin bir den fazla merkezine yönelik yap›lan ça-
+l›ﬂmalar, haf›zay› güçlendirir ve geliﬂtirir.
+Birçok ö¤renci ﬂunu sorar: “Ba¤lama tekni¤inin benim mate-
+mati¤i anlamama ne katk›s› var?”
+Evet hakl›s›n›z. Bu teknikte matematik iﬂlemleri ile ilgi ipuç-
+lar› yok. Problemleri nas›l yorumlayaca¤›n›zdan hele hiç bahse-
+dilmiyor. Formülleri ak›lda tutmak deseniz, o da yok.
+Ama bu teknik kulland›¤›n›z sürece hepsini yapman›z› sa¤la-
+yacak. Çünkü ister matematik olsun ister sosyal, isterseniz de
+okudu¤unuz bir kitap; hepsi temelde alg›lamak, haf›zada tutmak,
+yorumlamak ve ö¤renme gücüyle ilgilidir. Bu nedenlerden dola-
+y› tekni¤in matemati¤e katk›s› tahmin edebilece¤inizden çok da-
+ha fazlas›d›r.
+Ba¤lama tekni¤i beyninizin sa¤ ve sol yar›m kürelerini etkin
+bir ﬂekilde birlikte kullanma becerinizi geliﬂtirece¤i için; haf›zan›-
+z›n güçlenmesi ve alg›lama gücünüzün artmas›yla; karmaﬂ›k
+problemleri çözebilir, ipuçlar›n› görebilir, formülleri akl›n›zda tu-
+tabilir ve bugüne kadar yapamad›¤›n›z yorumlar› üretebilir hale
+geleceksiniz.
+NLP ‹le Haf›za Teknikleri 41
+
+--- Sayfa 40 ---
+Yavrum; Büyü Art›k, Mant›kl› Ol!
+Y›llarca büyüklerinizden hep mant›kl› olman›z gerekti¤ini din-
+lediniz:
+“Ak›ll› ol çocu¤um, saçmalama!”
+“Biraz mant›kl› ol!”
+“Olgunlaﬂ art›k, b›rak hayalleri!”
+“Bu söyledi¤in sana mant›kl› geliyor mu?”
+“Saçmasapan fikirler üretmeyi kes de gerçekleri gör!"
+“Bak abine ne kadar da ak›ll›, senin gibi tuhaf fikirlere kap›l-
+m›yor.”
+“Bu memlekette sanatç›n›n karn› aç, kafan› kullan biraz!”
+“Akl›n bir kar›ﬂ havada.”
+“Mant›¤›n›n sesini dinle, o sana yol gösterecektir.”
+“Bu hayallerle kar›n doymaz, büyü art›k!”
+Bir mant›k hastal›¤›d›r tutturmuﬂ gidiyoruz. Elbette mant›kl›
+olmam›z gereken zamanlar var. Ama mant›kl› olmak ad›na hayal-
+leri bir kenara atmak niye?
+Bugüne kadar mant›kl› olarak ders çal›ﬂt›n›z. Elinizden geleni
+yapt›n›z. Daha do¤rusu; elinizden gelenin bu oldu¤unu zannede-
+rek yapt›n›z.
+Elinizden ne geldi¤iniz bilemeyiz ama zihninizden çok daha
+fazlas›n›n gelece¤inden emin olabilirsiniz.
+Bunun için ihtiyac›n›z olan biraz saçmalamak, hayal kurmak,
+abartmak ve tuhaf iliﬂkilendirmeler yapmak.
+Mant›kl› olmay› denediniz, ﬂimdi de biraz saçmalamay› dene-
+yin. E¤er saçmalamak size onlarca hatta yüzlerce kelimeyi k›sa
+sürede zihninize kodlamay› sa¤l›yorsa, haf›zan›z› geliﬂtiriyorsa
+denemeye de¤er, de¤il mi?
+42 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 41 ---
+ﬁimdi S›ra Sizde!
+Hadi bakal›m, ö¤rendiklerinizi kullanman›n tam zaman›!
+Aﬂa¤›da verilen kelimelerle; akli gözünüzü kullanarak kendi
+ba¤laman›z› yarat›n ve süre tutun.
+VAPUR
+POL‹S
+KUTUP
+HAMS‹
+BOT
+KEÇ‹
+MEYHANE
+P‹PO
+KEK
+MANDA
+T‹LK‹
+KAMERA
+ROMAN
+HALI
+DAL
+KIRBAÇ
+P‹PO
+ARMUT
+TENCERE
+MEKTUP
+NLP ‹le Haf›za Teknikleri 43
+YELEK
+DANTEL
+AHIR
+‹P
+AYRAN
+PARFÜM
+PENCERE
+ATEﬁ
+D‹REK
+BURUN
+CIMBIZ
+KOL
+TOPAL
+KATOLOG
+DOKTOR
+KAﬁKOL
+EﬁEK
+RADAR
+MARKET
+KAYMAK
+
+--- Sayfa 42 ---
+K‹BR‹T
+GEL‹N
+AYNA
+GÜL
+KÜRDAN
+Kelimelerinizi do¤ru s›rada verilen boﬂluklara listeleyin ve sü-
+renizi kaydedin. Süreyi belirlerken, boﬂluklar› doldururken geçir-
+di¤iniz yazma zaman›n› dahil etmeyin.
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+44 NLP ‹le Haf›za Teknikleri
+ODA
+ATAÇ
+MAYIN
+PORSELEN
+ROKET
+
+--- Sayfa 43 ---
+…………
+…………
+Toplam Süre:………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+NLP ‹le Haf›za Teknikleri 45
+
+--- Sayfa 44 ---
+Egzersiz Program›
+1) Her gün say›y› art›rarak kelime ba¤lay›n. Örne¤in birinci
+gün otuz, ikinci gün k›rk, beﬂinci gün seksen, alt›nc› gün
+yüz gibi...
+2) Bu egzersiz için kendinize belli bir saat belirleyece¤iniz gi-
+bi gün içerisine de yayabilirsiniz.
+Mazeret Saati
+“Çok Çabuk Unutuyorum”
+‹nsan zihni için unutmak diye bir kavram söz konusu de¤ildir.
+Beynimizdeki arﬂivde her ﬂey kaydedilmekte ve depolanmak-
+tad›r.
+Sizce bir gün içinde hat›rlad›klar›n›z›n say›s› kaçt›r diye sor-
+sam?
+Birço¤unuz buna yüzlü ya da binli rakamlarla cevap verecek-
+siniz.
+Do¤rusu ise milyarlard›r. Yanl›ﬂ okumad›n›z; bir gün içinde
+hat›rlad›klar›m›z milyarlar› geçmektedir.
+Beynimiz öylesine çal›ﬂ›r ki; bilinç düzeyinde söyledi¤imiz tek
+bir sözcü¤ün bile hat›rlanarak organize edilmesi için bilinçalt›
+düzeyde gerçekleﬂtirdi¤i yüzlerce iﬂlemden haberimiz bile olmaz.
+Sözcüklerin an›larla ba¤lant›lar›n› kurdu-
+¤umuzu, kullan›lacak yere ba¤l› olarak iﬂ-
+lendi¤ini fark etmeyiz bile. Sadece söyler
+geçeriz ve her ﬂeyin bundan ibaret oldu-
+¤unu zannederiz.
+Yaﬂad›¤›m›z her an›n, duygunun, dü-
+ﬂüncenin nas›l ortaya konup, hangi iﬂlem-
+lerden geçti¤inin dahi bilincinde olmadan
+sadece yaﬂar, hisseder ve düﬂünürüz.
+46 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 45 ---
+Haf›zam›za kaydedilmeden gidenler ise koskoca bir çöldeki
+birkaç kum tanesi kadard›r ancak.
+Unuttu¤umuz söylediklerimizi abartarak; “Haf›zam zay›f” “Çok
+çabuk unutuyorum” gibi inançlara dönüﬂtürmemizin tek sebebi
+ise “Unutma” eylemini nadiren yaﬂad›¤›m›z içindir.
+Çünkü s›k s›k yaﬂad›¤›m›z ﬂeyler kan›ksan›r. Kabul edilir ve s›-
+radanlaﬂ›r. Nadiren yaﬂad›¤›m›z ﬂeyler ise gözümüzde büyür ve
+biz de onu abartarak olumsuz inançlara ya da mazeretlere dö-
+nüﬂtürürüz.
+Mutlaka hat›rlayamad›¤›m›z ﬂeyler vard›r. Ama bunun sebebi
+unuttu¤umuz için de¤il, arﬂivde ki kayda o anda ulaﬂamad›¤›m›z
+içindir.
+E¤er unutuyorsak;
+O zaman neden rüyalar›m›zda y›llar öncesine ait bir an›y› tüm
+canl›l›¤›yla görebiliyoruz; ya da yapamad›¤›m›z› sand›¤›m›z bir
+sorunun cevab›n› rüyam›zda buluyoruz?
+Neden bir koku, tat, görüntü ya da ses bir anda unuttu¤umuzu
+sand›¤›m›z bir olay› tüm detaylar›yla zihnimize hücum ettiriyor?
+Neden y›llarca görmedi¤imiz varl›¤›n› bile unuttu¤umuz bir
+arkadaﬂ›m›z› gördü¤ümüzde; sanki onunla yaﬂad›¤›m›z an›lar
+dünmüﬂ gibi canlan›r, bir yerlerden ç›k›p gelir?
+Neden ölümden dönen bir insan›n tüm hayat› bir film ﬂeridi
+gibi gözlerinin önünden geçer?
+Unutmad›¤›m›zdan olmas›n sak›n?
+Bir ﬂeyi unutmak gibi bir ﬂans›n›z yok. Kafan›z›n içindeki o
+mucize yap› buna izin vermez.
+Ama hat›rlayamad›klar›n›z› hat›rlamak gibi bir ﬂansa sahipsi-
+niz. Yapman›z gereken ﬂey, “Unutuyorum” mazeretinin gölgesin-
+den ç›k›p, hat›rlama eylemini gerçekleﬂtirebilmek için beyninizi
+e¤itmek.
+NLP ‹le Haf›za Teknikleri 47
+
+--- Sayfa 46 ---
+Yap›lan araﬂt›rmalar göstermiﬂtir ki; bir insan on ﬂeyden do-
+kuzunu hat›rlamay› baﬂar›yorsa, zihnini e¤iterek; binde dokuz yü-
+zü, on binde dokuz bini, bir milyonda dokuz yüz bini hat›rlayabi-
+lecek kapasiteye ulaﬂabilir.
+Size yüz tane eﬂya gösterseler, belki hepsini tek tek sayamaz-
+s›n›z. Ama bu yüz eﬂyan›n içine fazladan on tane daha ekleyip
+tekrar gösterseler, ilk gösterilenden hangilerinin fakl› oldu¤unu
+rahatl›kla bulursunuz.
+Asl›nda beyniniz bir ﬂekilde o ilk yüz eﬂyay› kaydetti. Siz o kay-
+d›n hepsine ulaﬂ›p, hat›rlayamad›n›z. Ama ikinci çal›ﬂmada zih-
+ninizdeki o kay›t sayesinde farkl› olanlar› bulabildiniz.
+O zaman neden birkaç saniye içinde yapt›¤›n›z o kayda ulaﬂ›p,
+hepsini hat›rlamay› ö¤renemeyesiniz? Zaten o kayda sahip de¤il
+misiniz?
+BUNLARI B‹L‹YOR MUYDUNUZ?
+* Beynimiz toplam a¤›rl›¤›m›z›n %2’si kadard›r.
+* G›dalar›n %20’si, al›nan oksijenin % 25’i beyin için harca-
+n›r.
+* Enerji olarak ele al›n›rsa; beynin içinde ‹stanbul gibi büyük
+bir ﬂehri kurmaya yetecek güçte atom enerjisi vard›r.
+* Beyne bir saniyede on yeni bilgi kaydedilse bile, 75 y›ll›k
+ortalama bir ömürde bir insan›n haf›zas›n›n yar›s›ndan çok
+daha az› doldurulabilir.
+* Beynimizin yorulmas› fiziksel olarak imkans›zd›r. Yorulan
+bedenimizdir.
+* Beynin bir gram›nda bulunan nöronlar›n ba¤lant› kapasi-
+tesi, dünyadaki telefon a¤›na eﬂittir.
+* Dünyadaki en h›zl› bilgisayar; saniyede bir milyar iﬂlem ya-
+parken, beynimiz saniyede bir katrilyon h›zla iﬂlem yapa-
+bilmektedir.
+48 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 47 ---
+3. BÖLÜM
+BEYN‹N‹Z NEYE ‹NANIRSA
+ONU YAﬁAR
+
+--- Sayfa 49 ---
+Önyarg›lar›m›z
+Önyarg› gerçekte var olmayan, sadece beynimizde var olan
+ﬂeylerdir.
+Gerçekte var olmayan bu yarg›larla yapt›¤›n›z s›n›rland›rmalar
+ise beyninizin kapasitesini kullanman›z›n önündeki en büyük en-
+gellerdir.
+Kendinize dair o kadar çok önyarg›n›z vard›r ki; onlar›n getir-
+di¤i binlerce s›n›rland›rman›n içinde hapsolup kal›rs›n›z.
+Zeki olmad›¤›n›za, dersleri anlamad›¤›n›za, yaﬂland›kça haf›-
+zan›z›n zay›flad›¤›na, kafan›z›n almad›¤›na, çekingen, içe kapan›k
+oldu¤unuza, elinizden bir ﬂey gelmedi¤ine ve daha nicelerine da-
+ir geliﬂtirdi¤ini önyarg›lar; siz fark›nda olmadan, sahip oldu¤u-
+nuz potansiyelin bat›k bir gemi gibi okyanusunuzun derinlikle-
+rinde yosun tutmas›na neden olur.
+Ta ki siz onu bulup tekrar yüzeye ç›karana kadar.
+Filler ve Biz
+Filler nas›l e¤itilir bilir misiniz?
+Fil daha yavruyken aya¤›ndan bir
+iple a¤aca ba¤lan›r. ‹pi ne kadar çe-
+kiﬂtirse de a¤ac› devirmeye gücü yet-
+medi¤inden kurtulmay› baﬂaramaz.
+NLP ‹le Haf›za Teknikleri 51
+
+--- Sayfa 50 ---
+Zamanla büyüyen fil art›k mücadele etmekten vazgeçmiﬂtir.
+Öyle ki ipin a¤aca ba¤lanmas›na bile gerek kalmadan, sadece
+aya¤›na ba¤lanmas› onu durdurmakta ve kaçmamas› için yeterli
+olmaktad›r.
+Koca bir fili aya¤›na ip ba¤l›, öylece k›p›rdamadan dururken
+gördü¤ünüzde sak›n ﬂaﬂ›rmay›n. Çünkü o özgürlü¤üne engel
+olan bir ön yarg›ya sahiptir. Onun mahkumiyetinin sebebi aya-
+¤›ndaki ip de¤il, kafas›ndaki önyarg›d›r.
+‹ﬂte biz de ayn› o fil gibi mahkum ederiz önyarg›lar›m›za ken-
+dimizi.
+Do¤ru düzgün ﬂans tan›madan, sadece birkaç kez yaﬂad›¤›m›z
+olumsuzluklardan yola ç›karak yarg›lar›z kendimizi. Zihnimizdeki
+mahkeme o kadar k›sa sürer ki hakim hemen verir karar›: Ömür
+boyu hapis!
+Bir filin özgürlü¤ünü önyarg›lar›na teslim etmesi gibi; biz de
+teslim ederiz zihinsel özgürlü¤ümüzü.
+Ne Olur Amcalar, Yakmay›n Kolumu!
+Küçük bir çocu¤un gözlerini ba¤lam›ﬂlar. Kolunu zorla tutup,
+kaynar su dökeceklerini söylemiﬂler. Çocuk ba¤›rmaya ve a¤la-
+maya baﬂlam›ﬂ. Can haliyle kolunu kurtarmaya çal›ﬂm›ﬂ. Çocuk
+kaynar su dökülece¤ine yeterince inand›ktan sonra, bir bardak
+so¤uk suyu boﬂaltm›ﬂlar koluna.
+Çocuk tüm gücüyle ba¤›r›rken, kolu
+k›zarm›ﬂ ve k›sa bir süre sonra sanki kay-
+nar su dökülmüﬂ gibi su toplamaya baﬂ-
+lam›ﬂ.
+Okudu¤unuz bu tablo o kadar s›k ya-
+ﬂan›r ki, derin transta kolunda sigara
+söndürdü¤ünüze inand›rd›¤›n›z birinin,
+kolunda beliren yara izi karﬂ›s›nda ﬂaﬂ-
+52 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 51 ---
+k›nl›¤›n›z› ve heyecan›n›z› gizleyemezsiniz. Bu tür çal›ﬂmalar çok
+s›k yap›lmakta ve sonuçlar› insan› hayrete düﬂürmektedir.
+Bedenimizi kontrol eden zihnimizde yaratt›¤›m›z önyarg›lara
+bedenimizde inanmakta ve ona göre tepki vermektedir.
+Bu çal›ﬂmalar› de¤erlendirdi¤inizde; temel de iki sonuç ç›kar
+karﬂ›n›za. Biri zihnimizin ne kadar güçlü ve etkili oldu¤u, di¤eri
+de önyarg›lar›m›z›n bize neler yapabildi¤idir.
+Keﬂke kiﬂili¤imize, zihinsel kapasitemize dair geliﬂtirdi¤imiz
+önyarg›lar, sadece bir sigara ya da bir bardak kaynar su kadar za-
+rar verse bize.
+Yaz›k ki zekan›za, haf›zan›za dair yaratt›¤›n›z önyarg›lar bir ya-
+ra izinden çok daha fazlas›n› yaparlar. Fiziksel bir yara k›sa bir sü-
+re sonra iyileﬂirken, zihninizin içindeki yaralar›n etkisi e¤er teda-
+vi etmeye karar vermezseniz bir ömür sürer.
+Ayr›ca bu yaralar›n zararlar› sadece sizinle de s›n›rl› kalmaz.
+Önyarg›lar›n›z›n etkisiyle çevrenizdeki insanlar› da ister istemez
+programlar ve onlar›n da zihinlerinde benzer önyarg›lar üretme-
+lerine katk›da bulunursunuz.
+Okul y›llar›nda Türkçe dersiyle bir türlü y›ld›z› bar›ﬂmayan ba-
+ba, çocu¤u Türkçe'den kötü not ald›¤›nda; “Benim de senin gibi,
+kafam Türkçe'ye hiç basmazd›. Aynen bana çekmiﬂsin.” diyerek
+istemeden de olsa bu önyarg›s›n› çocu¤una miras olarak b›rak-
+m›ﬂ olur.
+“Art›k yaﬂland›m, her ﬂeyi unutuyorum.” diyen bir annenin ço-
+cu¤unun, annesinin yaﬂlar›na geldi¤inde unutmaya baﬂlamas› ve
+benzer bir söylemle kendi çocu¤unu da programlamas› son de-
+rece tan›d›k bir sondur.
+“Türkiye co¤rafyas› son derece kar›ﬂ›kt›r, iyi çal›ﬂ›n.” diyen bir
+ö¤retmenin; bir zamanlar kendisinin en çok zorland›¤› bu konu-
+ya dair ö¤rencileri uyarmak amaçl› dile getirdi¤i bu önyarg›s›, s›-
+n›fta bulunan çocuklar› daha çal›ﬂmadan konunun zor oldu¤una
+ﬂartland›racakt›r.
+NLP ‹le Haf›za Teknikleri 53
+
+--- Sayfa 52 ---
+Daha sonra o konuyu çal›ﬂmaya çal›ﬂan ö¤renci nedense an-
+lamad›¤›n› görecektir. Ard›ndan da “Bizim co¤rafya ö¤retmeni
+hakl›ym›ﬂ, bu konu gerçekten çok kar›ﬂ›k.” diyerek kardeﬂini de
+duruma haz›rlamak amaçl›; konunun zorlu¤unu onunla da payla-
+ﬂacakt›r.
+Okulda arkadaﬂlar› ile bu konuyu tart›ﬂacak ve hep birlikte ko-
+nunun ne kadar zor oldu¤una kanaat getireceklerdir. Di¤er s›n›f-
+larda okuyan ö¤rencilerinde bu durumdan haberdar olmas› çok
+uzun sürmeyecektir. Bu önyarg› zinciri böyle sürüp gidecektir.
+Bu Haplar Bir Harika
+Hani baz› teyzeler vard›r, sürekli hastad›rlar. Ne hikmetse dok-
+torlar hiçbir ﬂeyi olmad›¤›n› söyledikleri halde, onlar ›srarla has-
+ta olmaya devam ederler. Üstüne üstlük bir araya geldiklerinde,
+aralar›nda “Kim daha çok hasta?” adl› bir yar›ﬂma düzenlerler:
+“Bu baca¤›m var ya beni öldürecek, a¤r›s›ndan üstüne basa-
+m›yorum.”
+“Ay o da bir ﬂey mi, benim s›rt›m öyle kötü ki otursam kalka-
+m›yorum, kalksam oturam›yorum.”
+“Siz ne diyorsunuz; benim hem s›rt›m, hem iki baca¤›m birden
+neredeyse felç. B›rak oturup kalkmay›, tuvalete bile gidemiyo-
+rum.”
+‹ﬂte böyle bir teyzenin k›z› ne yapsa da annesini hasta olma-
+d›¤›na ikna edemiyormuﬂ. Annesini götürmedi¤i doktor kalma-
+m›ﬂ. Tüm doktorlar son derece sa¤l›kl› oldu¤unu söylemiﬂ olma-
+lar›na ra¤men, annesi sürekli a¤r›-
+dan k›vran›yormuﬂ.
+Midesi de sürekli rahats›z oldu-
+¤undan do¤ru düzgün hiçbir ﬂey ye-
+miyormuﬂ. K›z›na sürekli “Benim ar-
+t›k bir aya¤›m çukurda, hasta olma-
+54 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 53 ---
+yan yerim yok. Benim u¤raﬂmay› b›rak da, kendine bak.” demek-
+teymiﬂ.
+Ama annesinin haline k›z›n yüre¤i dayanm›yormuﬂ. Bir gün
+akl›na bir fikir gelmiﬂ. Eczaneye gitmiﬂ. Rasgele bir kutu ilaç al-
+m›ﬂ. Kutudan ilaçlar› ç›kar›p içine ilaç benzeri ﬂekerlerden koy-
+muﬂ. Akﬂam ilac› annesine götürüm neﬂe içinde ﬂöyle demiﬂ:
+“Anneci¤im nihayet senin derdinin derman›n› buldum. Bak
+bu ilac› senin için yurt d›ﬂ›ndan getirttim. Çok pahal› ve çok zor
+bulunan bir ilaç. Ama insan›n hastal›¤› ne olursa olsun bir hafta
+da aya¤a kald›r›yormuﬂ. Kanser hastalar› bile bu ilaçtan kullan›p,
+iyileﬂiyorlarm›ﬂ. Ama dikkatli ol. Günde üç defa içeceksin ve sa-
+atini sektirmeyeceksin. Yoksa faydas› olmaz.”
+Bunu duyan annesi baya heyecanlanm›ﬂ. O kadar ki ilac›n› sa-
+ati saatine kullanmaya inan›lmaz özen gösteriyormuﬂ.
+Derken daha bir hafta da dolmadan, “Yurtd›ﬂ›ndan gelen ve
+pahal› olan ilaçlar k›ymetlidir, iﬂe yarar” önyarg›s›; “Yaﬂl› insan-
+lar hep hastad›rlar” önyarg›s›ndan a¤›r basan teyzemiz iyileﬂmiﬂ.
+Mutlulukla k›z›na müjdeyi vermiﬂ:
+“Evlad›m bu ne mucize ilaçm›ﬂ böyle. Hiçbir ﬂeyci¤im kalma-
+d›. ‹lac› bizim üst komﬂu Neriman teyzene de verdim. Bir ayak-
+land›, tam ayakland›. Dünya turuna ç›kacakm›ﬂ!”
+Psikologlar›n verdi¤i ilaçlar›n baz›lar›n›n, bir ﬂekerden hiç far-
+k› olmad›¤›n› biliyorsunuz?
+Psikolojik tedavi amaçl› ilaçlar›n çok parlak ve can al›c› renk-
+lerden oluﬂtu¤unu görürsünüz. Buradaki amaç ilac›n varl›¤›n›
+vurgulamak ve dikkat çekmektedir. O ilaçlar› kullan›p iyileﬂen in-
+sanlar›n iyileﬂmesinin sebebi; ilac›n kendisi de¤il, “Hasta insan
+ilaç kullan›r ve iyileﬂir” yarg›s›ndan kaynaklanmaktad›r.
+Önyarg›lar iki tarafl› bir mekanizmad›r. Olumsuz kal›plardan
+do¤anlar bize zarar verirken, biz kontrolü ele ald›¤›m›zda fayda
+sa¤layabilirler.
+NLP ‹le Haf›za Teknikleri 55
+
+--- Sayfa 54 ---
+Hasta teyzemizin “Yaﬂl›lar hep hastad›rlar” önyarg›s› ona za-
+rar verip hasta ederken; “Yurtd›ﬂ›ndan gelen pahal› ilaçlar iﬂe ya-
+rar” önyarg›s› onu iyileﬂtirdi.
+Asl›nda her ikisi de gerçekte var olmayan. Teyzemizin zihnin-
+de yaratm›ﬂ oldu¤u kal›plard›.
+Sizde sahip oldu¤unuz zarar verici önyarg›lar›n›z› k›rmak için,
+“Çabuk unutuyorum” önyarg›n›z yerine “Haf›zam çok güçlü” ön-
+yarg›s›n› koyabilirsiniz.
+E¤er “Haf›zam›n güçlü oldu¤unu düﬂürsem ve bu do¤ru ç›k-
+mazsa ne olacak, sonuçta bu da bir önyarg›” diyorsan›z; ﬂu soru-
+lar›n ›ﬂ›¤›nda tekrar de¤erlendirin:
+Bugüne kadar olumsuz önyarg›lar›n›z iﬂe yarad›ysa, olumlu
+olan neden yaramas›n?
+Olumsuz önyarg›lar›n›z› do¤uﬂtan getirmedi¤inize ve sonra-
+dan edindi¤inize göre, neden ayn› süreç tersine iﬂlemesin?
+Olumsuzu da siz yaratt›¤›n›za göre ayn› ﬂeyi olumlu olan için
+yapman›za engel olan ne?
+Burada ﬂunu özellikle vurgulamak istiyoruz: Son soruya verdi-
+¤iniz cevap her ne olursa olsun, o da sadece önyarg›lar›n›zdan
+ar›nman›za engel olan baﬂka bir önyarg›n›zd›r.
+‹ngiltere'de Bir Araﬂt›rma
+‹ngiltere'de yap›lan bir araﬂt›rmada bir grup ö¤renciye zeka
+testi uygulanm›ﬂ. Test sonucunda yüksek zekal›lardan bir s›n›f,
+daha düﬂük zekal›lardan bir di¤er s›n›f oluﬂturulmuﬂ.
+Düﬂük zekal›lar›n oldu¤u s›n›fa; test sonuçlar›na göre yüksek
+zekal› ç›kt›klar›; bu yüzden zor dersler iﬂleyecekleri çünkü onlar›n
+zor dersleri bile kolayl›kla yapabilecekleri söylenmiﬂ.
+Yüksek zekal›lar›n oldu¤u s›n›fa ise; test sonuçlar›na göre dü-
+ﬂük zekal› ç›kt›klar› ve kolay dersler iﬂlenece¤i çünkü ancak o ka-
+dar›n› yapabilecekleri söylenmiﬂ.
+56 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 55 ---
+Bir y›l›n sonunda her iki s›n›fta ortak bir s›nava tabi tutulmuﬂ.
+S›nav sonunda düﬂük zekal›lar›n s›n›f› daha yüksek notlar al›r-
+ken, yüksek zekal›lar›n s›n›f› daha düﬂük notlar alm›ﬂlar.
+Zeka bile bir önyarg›d›r. Düﬂük zekal›lar “Yüksek zekal› olduk-
+lar›” önyarg›s›yla baﬂar›l› olurken; yüksek zekal›lar “Düﬂük zekal›”
+olduklar› önyarg›s›yla baﬂar›s›z oldular.
+Siz hangi gruptas›n›z? Yüksek zekal›s›n›z da düﬂük zekal› m›
+oldu¤unuza inan›yorsunuz, düﬂük zekal›s›n›z da yükse zekal› m›
+oldu¤unuza inan›yorsunuz? Eh hangisine inan›yorsan›z hakl›s›-
+n›z; çünkü inand›¤›n›z ﬂeysiniz.
+‹nand›¤›n›z ﬂey ise sizin gerçekli¤inizdir, bir baﬂkas›n›n de¤il.
+Beyninizde neye inan›yorsan›z onu yaﬂars›n›z. Yani kendi gerçe-
+¤inizi.
+Kendi Gerçekli¤inizi Yarat›n
+Söyledi¤iniz ya da düﬂündü¤ünüz her ﬂey zihninize verdi¤iniz
+bir komuttur. Bu yüzden hepsi sizi programlar ve sizin kal›plar›-
+n›za dönüﬂür.
+Zihniniz bu kal›plar› ve önyarg›lar› iﬂlerken içeri¤in çok fazla
+üstünde durmaz.
+Siz elinizdeki bir barda¤› yere düﬂürüp de kendinize; “Ne ka-
+dar da beceriksizim.” dedi¤inizde bunu “Bardak tutmak konusun-
+da beceriksizim.” olarak alg›lamaz.
+Do¤rudan bir genelleme yapar ve
+“Ben beceriksizim” kal›b›n› oluﬂtu-
+rur. Bu kal›p hayat›n›z›n her alan›-
+na; iﬂinize, okulunuza, iliﬂkilerinize
+dahi yans›r.
+Bir telefon numaras›n› hat›rla-
+yamayan bir kiﬂi; “Haf›zam çok za-
+y›flad›.” dedi¤i anda, baﬂka ﬂeyleri
+NLP ‹le Haf›za Teknikleri 57
+
+--- Sayfa 56 ---
+de hat›rlamamaya baﬂlar. Onlar› da hat›rlamay›nca; “Haf›zam
+gerçekten çok zay›flad›.” diyerek daha fazla ﬂeyi hat›rlamamaya
+devam eder. Art›k haf›zas›n›n zay›f olmas› geçekli¤ini yaratm›ﬂ
+durumdad›r.
+Bir tarih sorusunu yapamayan ö¤renci; “Ben tarihten anlam›-
+yorum.” der. Gerçekten de tarihten hiç anlamamaya baﬂlar. Bu-
+nunla da yetinmez; di¤er derslerde de “Anlamamaya” baﬂlar.
+Önyarg›lar›m›z tek bir alanla kalmay›p, her noktaya kanserli
+bir hücre gibi h›zla yay›l›r. K›sa bir süre içerisinde de bizim ger-
+çekli¤imiz olur.
+Bunu yaratan biz oldu¤umuza göre bu sistemi tersine iﬂletmek
+de yine bizim elimizdedir.
+‹lk ad›m söyledi¤imiz ve düﬂündü¤ümüz ﬂeylere dikkat etmektir.
+‹kinci ad›m ise; istedi¤imiz ﬂeye odaklanarak, onlar› tersine
+çevirmektir.
+Üçüncü ad›m ise, yeni ürettiklerimizi s›k s›k tekrarlamakt›r.
+“Akl›mda tutam›yorum”
+“Haf›zam hiç güçlü de¤il”
+“Çabuk unutuyorum”
+“Her ﬂeyi birbirine kar›ﬂt›r›yorum”
+“Ben zeki biri de¤ilim”
+“Çok geç ö¤reniyorum”
+“Dersi dinlerken, hiçbir ﬂey anlam›yorum”
+“Yaﬂland›kça unutkanl›¤›m art›yor”
+“Kafam bu dersleri alm›yor”
+...demek yerine, istediklerinizi dile getirin ve düﬂünün:
+“Bilgileri hat›rl›yorum”
+“Haf›zam çok güçlü”
+“Uzan süre hat›rl›yorum”
+“Her ﬂeyi düzenli bir ﬂekilde akl›mda tutuyorum”
+“Ben zeki biriyim ve zekam› geliﬂtiriyorum”
+“K›sa sürede ö¤reniyorum”
+58 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 57 ---
+“Dersi dinlerken, önemli noktalar› yakal›yorum”
+“Yaﬂlansam bile haf›zam gayet iyi”
+“Dersleri anl›yorum ve yap›yorum.”
+Tekrarlamak ise inanman›z› ve istedi¤iniz ﬂeye ulaﬂman›z için
+önünüzdeki önyarg› engelini kald›rman›z› sa¤lar.
+Bu yeni ifadeleri düﬂünmeye baﬂlad›¤›n›zda size gerçekçi gel-
+meyecektir. Bu çok do¤al bir durumdur. ﬁu an sahip oldu¤unuz
+ve sizi engelleyen önyarg›lar› gün içerisinde fark›nda dahi olma-
+dan, defalarca tekrarlayarak edindiniz.
+Zihnimizde bir kal›b›n oluﬂmas› ilk tohumun at›lmas›yla baﬂlar.
+O tohumu bir kez at›p sulamaya baﬂlad›lar m› filizlenir ve büyür.
+S›n›rlay›c› kal›plar›n›z›n tohumunu anlatt›¤›m›z durumlar›n
+benzerlerini yaﬂarak att›lar veya att›n›z. Zamanla o tohum benzer
+düﬂüncelerinizle geliﬂti.
+ﬁimdi kontrolü siz ele alacak ve bugüne kadar bilinçsizce ek-
+ti¤iniz tohumlar›, art›k bilinçli bir ﬂekilde ekip sulayacaks›n›z.
+‹nand›r›c› gelmese bile siz tekrar etmeye devam edin. Akl›n›-
+za olumsuz bir düﬂünce geldi¤i anda, kendinizi durdurun ve
+onun tam tersini düﬂünün.
+Dudaklar›n›zdan size zarar verecek cümleler döküldü¤ü anda,
+duda¤›n›z› ›s›r›n ve tam tersini söyleyin.
+Özen göstererek bu çal›ﬂmay› yapt›¤›n›z ve tekrar etti¤iniz sü-
+rece bir süre sonra yeni kal›plar›n›z oluﬂmaya baﬂlayacak. Onla-
+ra inanmaya ve hatta onlara göre davranmaya baﬂlad›¤›n›z› fark
+edeceksiniz.
+Ayn› çal›ﬂmay› olaylardan ç›kart-
+t›¤›n›z sonuçlar için de kullan›n. Ör-
+ne¤in bir s›navdan düﬂük not ald›¤›-
+n›zda
+“Baﬂar›s›z oldum” sonucunu ç›-
+kart›rsan›z, bu sonuç di¤er baﬂar›s›z-
+l›klar›n›z›n davetiyesi olacakt›r. Bu-
+NLP ‹le Haf›za Teknikleri 59
+
+--- Sayfa 58 ---
+nun yerine ifadeyi yumuﬂatarak söyleyin. “Daha az baﬂar›l›yd›m”
+gibi...
+Daha az baﬂar›l› olmak, baﬂar›s›zl›k kavram›n› içermedi¤in-
+den, olumlu ve daha çok baﬂar›l› olma ihtimalini do¤uran bir an-
+lat›md›r.
+“Kötü puan ald›m” demek yerine “Daha az puan ald›m” ifade-
+sini kullanmak da, yine daha yüksek puan alabilme ihtimalini ba-
+r›nd›ran bir söylemdir.
+Gelece¤e yönelik kararlar al›rken ve gelecek için de kendinizi
+programlarken zihninize herhangi olumsuz bir sonuç do¤uracak
+olas›l›klar sunmamaya dikkat etmelisiniz.
+“Baﬂar›l› olabilirim.”
+“Bu iﬂin üstesinden gelebilirim.”
+“Daha yüksek not alabilirim.”
+“Bilgileri akl›mda tutabilirim.”
+“Kazanabilirim.”
+“Dikkatimi toplayabilirim.”
+‹fadeleri içlerinde “Baﬂar›l› olmama”, “Üstesinden geleme-
+me”, “Daha yüksek not alamama”, “Bilgileri ak›lda tutamama”,
+“Kazanamama”, “Dikkati toplayamama” gibi olas›l›klar da taﬂ›-
+maktad›rlar. Bu olas›l›klar›n gerçekleﬂmesi ise sizi istedi¤inize
+de¤il, istemedi¤inize götürecektir.
+‹fadelerinizde hiçbir olas›l›¤a yer b›rakmayacak ﬂekilde kesin
+bir dil kullan›n:
+“Baﬂar›l› olaca¤›m.”
+“Bu iﬂin üstesinden gelece¤im.”
+“Daha yüksek not alaca¤›m.”
+“Bilgileri rahatl›kla akl›mda tutaca¤›m.”
+“Kazanaca¤›m.”
+“Dikkatimi toplayaca¤›m.”
+60 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 59 ---
+Oldu Da Bitti Maﬂallah!
+‹çinizde bu bölümü okuyup da “Ne kolaym›ﬂ, tek yapmam ge-
+reken istedi¤im ﬂeyi düﬂünüp onu tekrarlamakm›ﬂ.” diyenler var-
+sa kolaya kaç›yorlar haberiniz olsun.
+Önyarg›lar›m›z› k›rmak ve onlar›n yerine olumlu olan› koy-
+mak, bizim ö¤renmelerimizin ve haf›zam›z› güçlendirmemizin
+önündeki engelleri kald›r›r.
+Her ﬂeyi bir anda akl›m›zda tutaca¤›z, kolayca ö¤renece¤iz de-
+mek de¤ildir.
+Önyarg›lar bizi s›n›rlayan kal›plar oldu¤u için, haf›zam›z› ge-
+liﬂtirmek ve ö¤renmek için verdi¤imiz çabalar› boﬂa ç›kar›rlar.
+Çabalar›n›z›n boﬂa gitmemesi ve meyvesini yiyebilmeniz için üs-
+tünüzden atman›z gereken en a¤›r yük önyarg›lar›n›zd›r. Ayn› za-
+manda sizi s›n›rland›ran tek yük de önyarg›lar›n›z de¤ildir. Dikkat
+edin; “En a¤›r” dedik, “Tek” de¤il.
+Burada temel olarak anlat›lmak istenen; önyarg›lar›n›z› üstü-
+nüzden atmad›¤›n›z sürece, bir sonraki ad›mda yani haf›zan›z›
+geliﬂtirme aﬂamas›nda istedi¤iniz verimi elde edememe ihtima-
+linizin yüksekli¤idir.
+Her ﬂey netleﬂti¤ine göre egzersiz program›m›za geçebiliriz.
+Egzersiz Program›
+1) Bir ay boyunca her gün en az üç tane önyarg›n›z› belirleyin.
+2) Bu önyarg›lar›n›z› istedi¤inizi ifade edecek ﬂekilde de¤iﬂti-
+rin.
+3) Yeni ifadelerinizi her f›rsatta kendi kendinize tekrar edin.
+4) Ayn› çal›ﬂmay› olaylardan ç›kard›¤›n›z sonuçlar ve gelece-
+¤e yönelik kulland›¤›n›z ifadeler için de yap›n.
+5) Yeni kal›plar›n›z›n tad›n› ç›kararak, haf›zan›z› güçlendire-
+cek çal›ﬂmalar›n›za devam edin.
+NLP ‹le Haf›za Teknikleri 61
+
+--- Sayfa 60 ---
+KAPI
+Bir kral büyük bir kap› yapt›rm›ﬂ. Ülkenin her yan›na ferman-
+lar göndererek, kap›y› kim açmay› baﬂar›rsa a¤›rl›¤›nca alt›n vere-
+ce¤ini ama baﬂaramazsa da kellesini uçurtaca¤›n› duyurmuﬂ.
+Ülkedeki yaﬂl›s› genci nerdeyse herkes kap›n›n baﬂ›na toplan-
+m›ﬂ. Fakat kap›n›n büyüklü¤ü karﬂ›s›nda hiçbiri denemeyi göze
+alam›yormuﬂ. Kap› öylesine muhteﬂem ve a¤›r görünüyormuﬂ ki
+en yi¤it delikanl› bile korkmuﬂ denemekten. Ne de olsa iﬂin
+ucunda baﬂ›ndan olmak varm›ﬂ.
+Derken kalabal›¤›n aras›ndan küçük bir k›z çocu¤u sakin sakin
+kap›ya do¤ru yürümeye baﬂlam›ﬂ. Kap›ya ulaﬂt›¤›nda elini uzat›p
+hafifçe ittirmesiyle kap› ard›na kadar aç›lm›ﬂ.
+Me¤er kap› hem hafif hem de aral›km›ﬂ!
+62 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 61 ---
+4. BÖLÜM
+AH ﬁU GENLER NELERE KAD‹R!
+“Ayn› anneme çekmiﬂim, o da matematikten hiç anlamazm›ﬂ.”
+“Bizim ailede ezber gücü olan zaten yok ki!”
+“Babam›n unutkanl›¤› bana da geçmiﬂ.”
+“Dedemin de say›larla aras› hiç iyi de¤ilmiﬂ.”
+“Bizim çocuk fizik dehas›n› halas›ndan alm›ﬂ.”
+“Teyzesi gibi bizim o¤lan›n da müzik kula¤› çok iyi."
+“Day›m da liseden sonra okuyamam›ﬂ.”
+“Ders çal›ﬂmak benim genlerim de yok.”
+Siz hayat›n›zda bunun gibi kaç tane; genlerinizde oldu¤una ya
+da olmad›¤›na dair göndermeler yap›yorsunuz?
+Öyle gözünüzü sayfaya dikerek düﬂünmeyin. ‹ﬂte listeniz. Al›n
+kalemi elinize ve genleriniz sayesinde yapabildiklerinizi ve yapa-
+mad›klar›n›z› listeleyin.
+
+--- Sayfa 62 ---
+Yapabildiklerim
+1)………………………………
+2)………………………………
+3)………………………………
+4)………………………………
+5)………………………………
+6)………………………………
+7)………………………………
+8)………………………………
+Yapamad›klar›m
+1)………………………………
+2)………………………………
+3)………………………………
+4)………………………………
+5)………………………………
+6)………………………………
+7)………………………………
+8)………………………………
+Top Genlerde
+Kaﬂ›m›z›n, gözümüzün, boyumuzun, tüm fiziksel özelliklerimi-
+zin genler yoluyla getirildi¤ini ö¤renmiﬂiz bir kere. Ö¤rendi¤imiz
+gibi de her ﬂeyin faturas›n› genlerimize kesmeye baﬂlam›ﬂ›z.
+Yapamad›¤›m›z› düﬂündü¤ümüz konularda kendimizi kand›r-
+mak konusunda kulland›¤›m›z piyonlardan biri de genlerimizdir.
+Topu sahiplenip, sorumlulu¤unu üstlenmek yerine atar›z topu
+genlerimize, oyundan ç›k›p keyfimize bakar›z. Art›k o düﬂünsün
+ne yapaca¤›n›, bize ne?
+Hayat›n›zda sizi birçok kiﬂi kand›rabilir, sizi oyuna getirebilir.
+64 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 63 ---
+Ama emin olun ki hiç kimse sizin kendinizi kand›rd›¤›n›z kadar,
+sizi kand›ramaz. ‹çiniz rahat olsun!
+Bu, Genlerinizin De¤il Sizin ‹ﬂiniz!
+Her ne kadar fiziksel özelliklerimiz genlerimiz yoluyla aktar›l-
+sa da, zihinsel kapasitemiz ve haf›za gücümüz bize ba¤l›d›r.
+Anne ve babas› fizik ö¤retmeni olan bir çocu¤un fiziksen sü-
+rekli kalmas›, babas› mühendis olan çocu¤un say›lardan köﬂe bu-
+cak kaç›p, kendini müzi¤e vermesi çok s›k rastlanan bir durumdur.
+“Canl› Hesap Makinesi” denilen insanlar, birkaç saniye için-
+de, sizin hesap makinesiyle bile daha uzun sürede yapaca¤›n›z
+iﬂlemleri kafadan yaparlar. Araﬂt›rmalar bu insanlar›n akrabalar›-
+n›n hiç birinde benzer bir özellik olmad›¤›n› ortaya koymuﬂtur.
+Öte yandan ailesi resimle u¤raﬂan bir çocu¤un da resim bece-
+rilerinin geliﬂti¤ini gözlemleyebilirsiniz. Ya da aileden biri mate-
+matik ö¤retmenidir ve çocu¤unda matemati¤i oldukça iyidir.
+Ç›kan sonuç bize ﬂunu göstermektedir: Aile bireylerinin sahip
+oldu¤u nitelikler çocuklar›nda olabilir de olmayabilir de!
+Ama çocukta bu niteli¤in olmas›n› ya da olmamas›n› sa¤layan
+ﬂey genleri de¤il çevre faktörüdür.
+Anne babas› fizik ö¤retmeni olan çocuk, okulda fizik ö¤retme-
+ni ile yaﬂad›¤› bir sorun yüzünden fizi¤i sevmemeye ve do¤al ola-
+rak da anlamamaya baﬂlam›ﬂt›r.
+Babas› mühendis olan çocuksa, arka-
+daﬂ çevresinde müzikle ilgilenenlerin
+etkisinde kalm›ﬂ ve o alana yönelmiﬂtir.
+Ailesi resimle ilgilenen çocuk da on-
+lar› örnek alm›ﬂ ve o da resimle ilgilen-
+meye baﬂlam›ﬂt›r.
+Canl› hesap makinelerini daha çok
+küçükken; say›lara ilgi duymuﬂlard›r.
+NLP ‹le Haf›za Teknikleri 65
+
+--- Sayfa 64 ---
+Araﬂt›rmalar birço¤unun say›larla yapt›klar› oyunlar büyüklerin
+dikkatini çekti¤i için, ilgi oda¤› olmak amaçl› bu konunun üstüne
+gittiklerini göstermiﬂtir.
+Çevre faktörünün sizin üzerinizde b›rakm›ﬂ oldu¤u iz, yapabile-
+cekleriniz ve yapmakta olduklar›n›z üzerindeki en büyük etkendir.
+Bir dersi anlamayan ö¤rencilere bakt›¤›n›zda ya o dersin ö¤-
+retmeni ile ilgili yaﬂad›¤› bir soruna ulaﬂ›rs›n›z. Ya da birkaç kez
+baﬂar›s›z olunca “Anlam›yorum” diyerek edindikleri olumsuz ön-
+yarg›n›n etkisinde olduklar›n› fark edersiniz.
+Genlerinizi De¤il, Düﬂüncelerinizi De¤iﬂtirin
+E¤er gözünüzün renginden ya da vücudunuzdaki çillerden ﬂi-
+kayetçiyseniz; genlerinizi suçlayabilirsiniz.
+Ama zihninizle ilgili olup bitenlerden onlar›n hiçbir suçu yok.
+Masum birini mahkum etmek vicdan›n›z› rahats›z etmiyor mu?
+Derslerle, ö¤renmeyle, haf›zan›z›n etkinli¤i ile ilgili bir proble-
+miniz varsa ya da daha iyisini yapmay› arzuluyorsan›z, sorumlu-
+lu¤u üstünüze almak zorundas›n›z. Top sizde olmad›¤› sürece
+de¤iﬂim ve geliﬂim ad›na hiçbir ﬂey yapamazs›n›z.
+Sorumluluktan kaçmak için genlerinizi ﬂamar o¤lan›na çeviri-
+yorsunuz. Oysa gerçek sorumlu düﬂünceleriniz yani onu üreten
+sizsiniz.
+Kendinizle yüzleﬂin ve genlerinizin masum oldu¤unu, sizin
+geliﬂmeye ihtiyac›n›z oldu¤unu kabullenin.
+Aksi takdirde önyarg›lar›n›z gibi, genlere kabahat bulmak da
+sizin zihninizi geliﬂtirmek konusunda yapabileceklerinizin önün-
+de ciddi bir engeldir.
+Bir Marangozun Hikayesi
+Yaﬂl› bir marangozun emeklilik ça¤› gelmiﬂti. ‹ﬂveren müteah-
+hidine, çal›ﬂt›¤› konut yap›m iﬂinden ayr›larak eﬂi ve büyüyen ai-
+66 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 65 ---
+lesi ile birlikte daha özgür bir yaﬂam sürmek tasar›s›ndan söz et-
+ti. Çekle ald›¤› ücretini elbette özleyecekti. Ne var ki emekli ol-
+mas› gerekiyordu. Müteahhit, iyi iﬂçisinin ayr›lmas›na üzüldü ve
+ondan, kendine bir iyilik olarak, son bir ev yapmas›n› rica etti.
+Marangoz, kabul etti ve iﬂe giriﬂti, fakat gönlünün yapt›¤› iﬂte
+olmad›¤›n› görmek pek kolayd›. Baﬂtan savma bir iﬂçilik yapt› ve
+kalitesiz malzeme kulland›. Kendini adam›ﬂ oldu¤u mesle¤ine
+böyle son vermek ne büyük talihsizlikti!
+‹ﬂini bitirdi¤inde iﬂveren, evi gözden geçirmek için geldi. D›ﬂ
+kap›n›n anahtar›n› marangoza uzatt›. “Bu ev senin” dedi, “Sana
+benden emeklilik hediyesi”. Marangoz, ﬂoka girdi. Ne kadar utan-
+m›ﬂt›! Keﬂke yapt›¤› evin kendi evi oldu¤unu bilseydi! O zaman
+böyle yapar m›yd› hiç!
+Bizim için de bu tablo çok farkl› de¤ildir. Ço¤u zaman kendi
+içimizde yaratt›¤›m›z engellerle, elimizden gelenin çok daha az›n›
+ortaya koyar›z ve sadece bundan ibaret oldu¤umuzu zannederiz.
+Sahip olmay› umut etti¤imiz ﬂeye asl›nda zaten sahibiz. Daha
+zeki olabilmek için ihtiyac›m›z olan ﬂey beyin nakli de¤il, var olan
+beynimizi geliﬂtirmektir.
+O beyni geliﬂtirmek içinde tüm malzemeler elinizde. Bu mal-
+zemeleri do¤ru oranda kullan›p, sa¤lam bir ev inﬂa etmek baﬂka-
+s›na de¤il yine size fayda sa¤layacakt›r. Ayn› ﬂekilde dayan›ks›z
+bir ev inﬂa etti¤inizde de, hayat›n›zdaki ilk depremde evinizin ba-
+ﬂ›n›za y›k›lmas› kaç›n›lmaz bir son olacakt›r.
+Bugün yapt›klar›n›z, yar›n yaﬂayaca¤›n›z evi inﬂa edecektir.
+Bunu bilerek hareket edin.
+Suçu genlerinizde bularak yapt›¤›n›z tek ﬂey, yaﬂayaca¤›n›z
+evin malzemesinden çalmakt›r. Marangoz sizsiniz. Nas›l bir ev in-
+ﬂa edece¤iniz size ba¤l›.
+Kendinize sorun: Gelece¤inizi içine koyaca¤›n›z nas›l bir evde
+yaﬂamak istiyorsunuz?
+NLP ‹le Haf›za Teknikleri 67
+
+--- Sayfa 66 ---
+Haf›za Testi - 2
+Aﬂa¤›da verilen kelimeleri üç dakika içinde rakamlar› ile birlik-
+te akl›n›zda tutun.
+1)
+SALEP
+2)
+PATLICAN
+3)
+P‹RAM‹T
+4)
+ALEV
+5)
+YORGAN
+6)
+TOP
+7)
+MAYDANOZ
+8)
+BEBEK
+9)
+PASTA
+10)
+K‹TAP
+11) TEKERLEK
+12) MAYONEZ
+13) KRAVAT
+14) V‹DA
+15) EMZ‹K
+16) KÜMES
+17) DUﬁ
+18) TARKAN
+19) ﬁERBET
+20) PAPATYA
+Sizden beklenen; rakamlar› ile birlikte baﬂtan sona, sondan
+baﬂa ve kar›ﬂ›k olarak sayabilmenizdir.
+Yukardaki kelimeleri kapat›p, onlara bakmadan; kelimelerini-
+zi do¤ru s›rada rakamlar› ile birlikte verilen boﬂluklara listeleyin.
+68 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 67 ---
+Haf›za Çivileri
+Ceketinizi bomboﬂ bir duvara asmaya kalk›ﬂsan›z ne olur?
+Asacak herhangi bir ﬂey olmad›¤›ndan yere düﬂecektir, de¤il mi?
+Duvara bir toplu i¤ne çak›p, tekrar deneseniz? Elbette toplu
+i¤ne onu taﬂ›yamayacak ve tekrar düﬂecektir.
+Bilgileri de rasgele zihnimize kodluyorsak, zihnimizin duvar›n-
+dan düﬂecekler ve biz nerede oldu¤unu bilmedi¤imiz için hat›r-
+lamakta zorlanaca¤›zd›r.
+Ama duvara sa¤lam bir çivi çaksak, üzerine birden fazla ceke-
+ti rahatl›kla asabiliriz. Ve ne zaman ihtiyac›m›z olsa, ceketimizi
+kolayl›kla oradan alabiliriz.
+‹ﬂte haf›za çivileri; kodlamak iste¤iniz her ﬂeyi zihninize asma-
+n›z› ve ihtiyac›n›z oldu¤u zaman rahatl›kla onlara ulaﬂman›z› sa¤-
+layan, sa¤lam duvar çivilerinizdir.
+Bilgiler bilinçalt›m›zdaki eﬂsiz arﬂivde sürekli depolan›rlar. Bi-
+zim yapmam›z gerekende o arﬂivi kullan›ﬂl› hale getirmektir.
+Hangi dosyaya ihtiyac›m›z varsa, arﬂivimize ulaﬂ›p dosyay› bula-
+bilmektir.
+Haf›za çivileri arﬂivinizi organize ederek kullan›ﬂl› hale getir-
+menizi sa¤layaca¤› gibi, ayn› zamanda zihninizin etkinli¤ini art-
+t›rmak için kullanaca¤›n›z etkili tekniklerden biridir.
+‹ﬂe bilgilerinizi asaca¤›n›z duvar çivilerinizin ne olaca¤›n› ö¤-
+renmekle baﬂlamal›s›n›z.
+Aﬂa¤›da verilen 20 adet haf›za çivisi her türlü bilgiyi kodlamak
+için kullanaca¤›n›zdan, art›k sizin ayr›lmaz bir parçan›z olacaklar:
+NLP ‹le Haf›za Teknikleri 69
+
+--- Sayfa 68 ---
+70 NLP ‹le Haf›za Teknikleri
+1.elektrik dire¤i
+2. ördek
+3. tabure
+4. araba
+5. eldiven
+6. tabanca
+7. ö¤renci
+8. bisiklet
+9. kedi
+
+--- Sayfa 69 ---
+NLP ‹le Haf›za Teknikleri 71
+10. ton bal›¤›
+11. kale dire¤i
+12. kalem
+13. cad›
+14. yüzük
+15. para
+16. lise
+17. palyaço
+18. oy sand›¤›
+19. buharl› tren
+20. asker
+
+--- Sayfa 70 ---
+Haf›za çivilerinizi akl›n›zda tutmak için iliﬂkilendirme yap›n:
+1. Elektrik dire¤i: Elektrik dire¤inin gövdesi uzun dik bir çu-
+buk oldu¤undan bire benzer.
+2. Ku¤u: Ku¤ular›n boynu iki rakam›n› an›msat›r.
+3. Üçayakl› tabure: Taburenin ayak say›s› size üçü ça¤r›ﬂt›r›r.
+4. Jip: 4x4 jiplerin herkesin hayalini süsledi¤ini bilirsiniz.
+5. Eldiven: Bir eldivende beﬂ tane parmak vard›r.
+6. Tabanca: Kovboylar›n kulland›¤› eski tip tabancalarda alt›
+kurﬂun deli¤i vard›r.
+7. Ö¤renci: Okula baﬂlama yaﬂ› yedidir.
+8. Bisiklet: Bisikleti dik olarak çevirdi¤inizde sekize benzer.
+9. Kedi: Kediler dokuz canl›d›r.
+10.Ton bal›¤›: “On Bal›¤›” “Ton bal›¤›” olarak ça¤r›ﬂt›rabilirsi-
+niz.
+11.Kale dire¤i: Karﬂ›l›kl› duran iki kale dire¤i on biri hat›rlat›r.
+12.Kalem: Bir düzinede on iki kalem vard›r.
+13.Cad›: On üçün u¤ursuz rakam olmas›ndan cad› akla gelir.
+14.Yüzük: Niﬂanlanacak bir genç k›z on dört ayar alt›n yüzük
+ister.
+15.Para: Genelde memurlar›n maaﬂ alma günü ay›n on beﬂi-
+dir.
+16.Lise: Liseye baﬂlama yaﬂ› on alt›d›r.
+17.Palyaço: “On yedi” den “Komedi” yi ça¤r›ﬂt›rarak palyaçoyu
+hat›rlayabilirsiniz.
+18.Oy sand›¤›: Oy verme yaﬂ› on sekizdir.
+19.Buharl› Tren: ‹lk buharl› tren 19 yy. da yap›lm›ﬂt›r.
+20.Asker: Askere gitme yaﬂ› ortalama olarak yirmidir.
+Haydi Asal›m
+ﬁimdi testimizdeki kelimeleri çivilerimize asal›m:
+1) SALEP: Elektrik dire¤i güne gitmiﬂ. Orada bir fincan salep
+72 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 71 ---
+içerken; bir anda üstüne döküyor. O can ac›s›yla ba¤larken
+herkesi elektrik çarp›yor.
+2) PATLICAN: Anne ku¤u pazardan ald›¤› patl›canl› küpeleri
+tak›yor. Patl›canlar o kadar a¤›r geliyor ki bir kula¤›n› aﬂa-
+¤› do¤ru sündürüyor.
+3) P‹RAM‹T: M›s›rl›lar yeni bir tarz denemeye karar veriyorlar
+ve üçayakl› taburelerden bir piramit inﬂa ediyorlar.
+4) ALEV: Akﬂam yeme¤inde fasulye yiyen jip, öyle bir gaz ç›-
+kar›yor ki egzozundan alevler f›ﬂk›r›yor.
+5) YORGAN: Uykusu gelen eldiven, yorgan›n› üstüne çekip
+horlayarak, m›ﬂ›l m›ﬂ›l uyuyor.
+6) TABANCA: ‹ki kovboy düello için tabancalar›n› çekip ateﬂ
+etmeye baﬂl›yorlar. Ama o da ne, tabancalardan kurﬂun ye-
+rine rengarenk ve desenli toplar f›rl›yor.
+7) MAYDONOZ: Birinci s›n›f ö¤rencisi Ahmet, ö¤retmenleri
+gününde ö¤retmenine bir demet maydonoz hediye ediyor.
+8) BEBEK: Küçük bir bebek sevgilisinide atm›ﬂ arkaya bisikle-
+te biniyor.
+9) PASTA: Do¤um günü pastan›z bir anda havaya uçuyor ve
+içinden pembe renkli bir kedi ç›k›yor.
+10) K‹TAP: Ton bal›¤› denizin üstünde s›rt üstü uzanm›ﬂ, elin-
+de de “NLP ile Haf›za Teknikleri” kitab›, okuyor da okuyor.
+(Bal›k haf›zas›n›n 5 sn oldu¤u düﬂünülürse gerçekten ihti-
+yac› olsa gerek)
+11) TEKERLEK: Heyecanl› bir Galatasaray - Fenerbahçe derbi
+maç›. Oyuncular sahaya ç›k›yor. Fakat o da ne? Top yerine
+tekerlekle oynuyorlar. Oyunculardan bi-
+ri tekerle h›zla vuruyor ve tekerlek karﬂ›
+tak›m›n kale dire¤inden geri dönüyor.
+Heyecan dorukta, atak devam ediyor ve
+iﬂte Gooooooool!
+12) MAYONEZ: Bir çanak mayonezi eliniz-
+NLP ‹le Haf›za Teknikleri 73
+
+--- Sayfa 72 ---
+de kalem afiyetle yiyorsunuz. Tam o s›rada kalemin ucu di-
+linize bat›yor ve mayonezin oldu¤u gibi etrafa saç›yorsu-
+nuz.
+13) KRAVAT: Halkla ‹liﬂkiler Müdürlü¤ü için iﬂ baﬂvurusuna
+giden cad›; yeﬂil puanl› k›rm›z› kravat›yla gurur için de yü-
+rüyor. Öyle ki bu kravat›n onu iﬂe ald›raca¤›ndan hiç ﬂüp-
+hesi yok!
+14) V‹DA: Sevgilisine evlenme teklif eden delikanl›, yüzü¤ü
+sevgilisinin parma¤›na tak›yor. Yaz›k ki yüzük büyük geli-
+yor. Bu sorunu çözmek için akl›na parlak bir fikir gelen de-
+likanl›, yüzü¤ü sevgilisinin parma¤›na vidal›yor.
+15) EMZ‹K: Nakit s›k›nt›s› çeken devlet, maaﬂlar› para yerine
+emzikle ödüyor.
+16) KÜMES: Liseye baﬂlayan ö¤renciler okula vard›klar›nda
+bir de ne görsünler! Okul bir kümes ve içindeki ö¤retmen-
+ler de s›nav yumurtluyor!
+17) DUﬁ: Duﬂa giriyorsunuz. Muslu¤u ac›yorsunuz ve su yeri-
+ne kafan›za koca ayakkab›l›, k›rm›z› burunlu bir palyaço dü-
+ﬂüyor!
+18) TARKAN: Oy sand›klar› aç›l›yor ve o da ne? Yeni baﬂbakan
+Tarkan! Tarkan hakl›na teﬂekkür ediyor: “Beni seçti¤iniz
+için piﬂman olmayacaks›n›z. Öyle zengin olaca¤›z ki di¤er
+devletler, hepsi senin mi diye soracaklar. Hepinizi hüüp di-
+ye içime çekece¤im. Hortumcular› yakalarsam muck muck
+yapaca¤›m”
+19) ﬁERBET: Buharl› trenin makinis-
+ti, kazana kömür atmak yerine ﬂerbet
+döküyor. Her taraf yap›ﬂ, yap›ﬂ. Tre-
+nin bacas›ndan da buhar yerine tu-
+lumba tatl›lar› f›ﬂk›r›yor.
+20) PAPATYA: S›n›rda bekleyen as-
+kerlerin elinde silah yerine papatya
+74 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 73 ---
+var. Devlet yeni bir uygulama baﬂlatm›ﬂ: “Savaﬂma bar›ﬂ,
+ateﬂ etme papatya ver!”
+Haf›za Çivilerinin Temel ‹lkeleri
+1) Bilgileri çivi ile birbirine ba¤larken ba¤lama tekni¤inde ö¤-
+rendi¤iniz ilkeleri temel al›n.
+2) Hayal gücünüzü mutlaka kullan›n. Sadece sözlü olarak ifa-
+de etmeniz yeterli de¤ildir. Ayn› zamanda gözünüzde canland›r-
+mal›s›n›z.
+Haf›za Testi - 3
+Aﬂa¤›da verilen maddeleri üç dakika içerisinde rakamlar› ile
+birlikte haf›zan›za al›n. Sizden beklenen rakamlar kar›ﬂ›k olarak
+da sorulsa, ona ait maddeyi söyleyebilmenizdir. Bunun tersi ola-
+rak madde söylendi¤inde rakam›n›n kaç oldu¤unu da bilmeniz-
+dir.
+Sanayi ‹nk›lab›n›n Sonuçlar›
+1) Üretimin artmas›, insanlar›n yaﬂam standartlar›n›n geliﬂ-
+mesinde etkili oldu.
+2) Köyden kente büyük göçler yaﬂand›.
+3) Yaﬂam koﬂullar›n›n iyileﬂmesi h›zl› bir nüfus art›ﬂ›na sebep
+oldu.
+4) Büyük sanayi kentleri kuruldu.
+5) ‹ﬂsizlik artt›.
+6) Seri ve ucuz üretim baﬂlad›.
+7) ‹ﬂçi s›n›f› ortaya ç›kt›.
+8) Toprak iﬂçili¤i önemini kaybetti.
+9) Sa¤l›k ve temizlik anlay›ﬂ›nda büyük
+geliﬂmeler gözlemlendi.
+NLP ‹le Haf›za Teknikleri 75
+
+--- Sayfa 74 ---
+10) Kapitalizm, Sosyalizm ve Emperyalizm gibi fikir ak›mlar›
+ortaya ç›kt›.
+Sanayi ‹nk›lab›n›n Sonuçlar›
+1)…………………………………………………………………
+………………………………………………………………..
+2)…………………………………………………………………
+………………………………………………………………..
+3)…………………………………………………………………
+……….……………………………………………………….
+4)…………………………………………………………………
+……….……………………………………………………….
+5)…………………………………………………………………
+……….……………………………………………………….
+6)…………………………………………………………………
+……….……………………………………………………….
+7)…………………………………………………………………
+……….……………………………………………………….
+8)…………………………………………………………………
+……….……………………………………………………….
+9)…………………………………………………………………
+……….………………………………………………………
+10)………………………………………………………………
+…….…….……………………………………………………
+Haf›za Çivileri ve Maddeler
+Maddeleri de ayn› kelimelerde izledi¤iniz yolu kullanarak ha-
+f›zan›za asabilirsiniz.
+Maddeleri haf›za çivilerinize al›rken, dikkat etmeniz gereken
+dört temel kural vard›r:
+a) Anahtar kelimeler seçin: Akl›n›zda tutaca¤›n›z maddenin
+76 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 75 ---
+içerisinde geçen bir ya da iki kelimeyi anahtar kelimeniz
+olarak seçin. Anahtar kelimeler size maddenin bütününü
+ça¤r›ﬂt›racak kelimelerdir.
+b) Bu kelimeleri haf›za çivinize ba¤lay›n. Ayn› tek kelimelik
+al›ﬂt›rmada yapt›¤›m›z gibi, ba¤lama tekni¤inin kurallar›n›
+göz önünde bulundurarak, anahtar kelimelerinizi ona ait
+haf›za çivisi ile iliﬂkilendirin.
+c) Uzun laf›n k›sas› saçmayabildi¤iniz kadar, hatta daha fazla
+saçmalay›n ve hayal edin!
+Bu kurallar› dikkate alarak “Sanayi ‹nk›lab›n›n Sonuçlar›n›”
+haf›za çivilerimize asal›m:
+1) Üretimin artmas›, insanlar›n yaﬂam
+standartlar›n›n geliﬂmesinde etkili ol-
+du:
+Fabrikada kar›n toklu¤una çal›ﬂan elektrik
+direkleri, gece gündüz durmaks›z›n üretim
+yap›yorlar. Ürünler ise zenginlerin cebinde,
+günlerini gün ederek yaﬂ›yorlar.
+2) Köyden kente büyük göçler yaﬂand›.
+Ku¤u ailesi bohçalar›n›z s›rtlar›na al›p,
+taﬂ› topra¤› alt›n olan büyük ﬂehrin göllerine
+do¤ru göç ediyorlar.
+3) Yaﬂam koﬂullar›n›n iyileﬂmesi h›zl› bir
+nüfus art›ﬂ›na sebep oldu.
+Hamile olan üç ayakl› tabure do¤um ya-
+p›yor. Ama tek çocuk yerine dördüz do¤uru-
+yor. Sayesinde artan nüfusla aileye bir de¤il
+dört yeni bo¤az daha eklenmiﬂ oluyor. (Allah
+kolayl›k versin, ne diyelim)
+4) Büyük sanayi kentleri kuruldu.
+Üniversite s›navlar›na haz›rlanan jip'e ba-
+bas› motive etmek amaçl›; “E¤er bu y›l kazanamazsan, seni ken-
+NLP ‹le Haf›za Teknikleri 77
+
+--- Sayfa 76 ---
+te yollar sanayi de iﬂe baﬂlat›r›m” diyerek iyi niyetli önerilerde (!)
+bulunuyor.
+5) ‹ﬂsizlik artt›.
+Bir eldivenle bir çorap yolda karﬂ›laﬂ›yorlar. Çorap bak›yor ki el-
+diven dertli. “Neyin var kardeﬂ” diye soruyor. Eldiven baﬂl›yor anlat-
+maya: “Sen ﬂansl›s›n kardeﬂ, iﬂini bulmuﬂsun karn›n tok. Ama ben
+iﬂsizim. Beﬂ parma¤a da iﬂ bulmak kolay m›?
+ﬁu dünyaya çorap olarak gelmek varm›ﬂ. U¤ra-
+ﬂacak parmaklar›m olmazd› o zaman!”
+6)Seri ve ucuz üretim baﬂlad›.
+Kovboy; mutfak harçl›¤›ndan biriktirdi¤i
+para ile seri sonu sat›ﬂlardan ucuz bir taban-
+ca almay› baﬂar›yor!
+7) ‹ﬂçi s›n›f› ortaya ç›kt›.
+Diﬂçili¤i kazanan ö¤renci sevinç
+içinde s›n›fa koﬂuyor. Ama s›n›f›nda
+“Diﬂçi s›n›f›” yerine “‹ﬂçi s›n›f›” yazd›-
+¤›n› görünce neye u¤rad›¤›n› ﬂaﬂ›r›-
+yor. Me¤er tercih yaparken Diﬂçilik
+yerine yanl›ﬂl›kla ‹ﬂçili¤i seçmiﬂ!
+8)Toprak iﬂçili¤i önemini kaybetti.
+Ürünlerini satamayan çiftçi traktörünü satmak zorunda kal›-
+yor. Bu yüzden topra¤›n› bisikletle sürmeye baﬂl›yor.
+9) Sa¤l›k ve temizlik anlay›ﬂ›nda büyük geliﬂmeler gözlemlendi.
+Eﬂinden ayr›lan kedi ak›l sa¤l›¤›n› kaybediyor ve temizlik has-
+tal›¤›na yakalan›yor. Sabah akﬂam ç›lg›nlar gibi temizlik yapma-
+ya baﬂl›yor.
+10)Kapitalizm, Sosyalizm ve Emperyalizm gibi fikir ak›mlar›
+ortaya ç›kt›.
+Konserve ton bal›¤› üreten firma; kapitalistler, sosyalistler ve
+emperyalistler için üç yeni ürünü piyasaya sürüyor: “Her ﬂey zen-
+ginler için”, “Her ﬂey devlet için”, “Her ﬂey sömürmek için”
+78 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 77 ---
+Haf›za Testi - 4
+Aﬂa¤›da verilen paragraflar› dört dakika içerisinde zihninize
+kodlay›n. Sizden beklenen paragraflar› ezbere de¤il, kendi cüm-
+lelerinizi kullanarak anlatabilmenizdir. Dört dakikan›n sonunda
+akl›n›zda kalanlar› not edin.
+1) Gemilerin suyun üzerinde yüzmesi, balonun havada uçma-
+s› gibi olaylar günlük yaﬂant›m›z›n bir parças›d›rlar. Bu cisimle-
+rin su üzerinde ya da havada durabilmeleri ak›ﬂkanlar›n cisimle-
+re uygulad›¤› kald›rma kuvvetinden kaynaklanmaktad›r
+2) Yünlü eﬂyalar›m›z› güve denilen böceklerden korumak için
+aras›na konulan naftalinin bir süre sonra kayboldu¤unu görürüz.
+Naftalin kat› bir maddedir. Bu maddeler s›v› hale geçmeden do¤-
+rudan gaz hale geçerler. Kat› bir maddenin s›v› hale geçmeden,
+do¤rudan gaz haline geçmesine süblimleﬂme denir.
+3) Yeﬂil bitkilerin güneﬂ ›ﬂ›nlar›n› kullanarak karbon dioksit ve
+sudan organik besin maddesi üretmelerine ve oksijen gaz› aç›¤a
+ç›karmalar›na fotosentez denir.
+4) Volkan konilerinin üst k›sm›nda bulunan ve volkanik patla-
+mayla oluﬂan huni ﬂeklindeki çukurlara krater denir. Baz› krater-
+lerin diplerinde sular birikerek göller oluﬂmaktad›r. Bu tür gölle-
+re krater gölü denir.
+1)...………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………
+2)…………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+NLP ‹le Haf›za Teknikleri 79
+
+--- Sayfa 78 ---
+………………………
+3)…………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………
+4)…………………………………………………………………
+………………………………………………………………
+Haf›za Çivileri ve Paragraflar
+Kelimeler ve maddelerle oldu¤u gibi paragraflar› da haf›za çi-
+vilerini kullanarak kodlayabilirsiniz. Bu çal›ﬂmada;
+a) Bir paragraf içinden üç ila dört anahtar kelime seçin. (Pa-
+ragraf›n uzunlu¤una ba¤l› olarak bu say› de¤iﬂebilir. E¤er
+paragraf çok uzunsa ikiye bölün ve farkl› iki haf›za çivisine
+as›n.)
+b) Bu anahtar kelimelerle haf›za çivilerini birbirine ba¤lay›n.
+c) Oluﬂturdu¤unuz ba¤laman›n içinde paragraf›n konusunu
+ça¤r›ﬂt›racak genel bir esinti, hat›rlaman›z› ve kodlaman›z›
+kolaylaﬂt›racakt›r.
+1) Gemilerin suyun üzerinde yüzmesi, balonun havada uçma-
+s› gibi olaylar günlük yaﬂant›m›z›n bir parças›d›rlar. Bu ci-
+simlerin su üzerinde ya da havada durabilmeleri ak›ﬂkan-
+lar›n cisimlere uygulad›¤› kald›rma kuvvetinden kaynaklan-
+maktad›r:
+Süpermen misali k›rm›z› mavi kostümlü havada uçan elektrik
+dire¤i; bir elinde rengarenk balonlar› tutarak denizdeki savaﬂ ge-
+misine do¤ru süzülüyor. Gemidekiler kendilerine arma¤an getir-
+di¤ini zannederlerken, o ola¤anüstü kuvvetini kullanarak gemiyi
+havaya kald›r›yor ve f›rlat›yor. Havaya f›rlayan savaﬂ gemisini tel-
+lerinden ç›kan k›rm›z› ›ﬂ›nlarla eritiyor ve savaﬂ gemisi ak›ﬂkan
+bir s›v›ya dönüﬂüyor.
+80 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 79 ---
+2) Yünlü eﬂyalar›m›z› güve denilen böceklerden korumak için
+aras›na konulan naftalinin bir süre sonra kayboldu¤unu
+görürüz. Naftalin kat› bir maddedir. Bu maddeler s›v› hale
+geçmeden do¤rudan gaz hale geçerler. Kat› bir maddenin
+s›v› hale geçmeden, do¤rudan gaz haline geçmesine süb-
+limleﬂme denir.
+Ku¤u ailesinin küçük k›zlar› Sümbül'ün tüylerini güve yemiﬂ-
+tir. Annesi k›z›n› güvelerden korumak için pazardan naftalin al›r
+ve kanatlar›n›n alt›na koyar. Naftalinler bir süre sonra yok olmak-
+tad›rlar. Yavru ku¤u sümbül bu duruma çok ﬂaﬂ›r›r. Zaten ﬂaﬂk›n-
+l›¤› ve safl›¤›yla ün yapm›ﬂt›r. Ku¤ular aras›nda biri safl›k yapt›-
+¤›nda “Sümbülleﬂme Allah aﬂk›na, saçmalama” denmektedir.
+Sümbül, fizik ö¤retmeninden naftalinin s›v›laﬂmadan gaz olup
+uçtu¤unu ö¤renince rahatlar ama hala ﬂaﬂk›n ve saft›r.
+3) Yeﬂil bitkilerin güneﬂ ›ﬂ›nlar›n› kullanarak; karbon dioksit
+ve sudan organik besin maddesi üretmelerine ve oksijen
+gaz› aç›¤a ç›karmalar›na fotosentez denir.
+Gün s›ras›, meyveleri üçayakl› tabure olan a¤açtad›r. Misafir-
+leri gelecek ve birlikte fotosentez yapacaklard›r. Bu sebeple sü-
+permarkete al›ﬂveriﬂ yapmaya gider. Marketten bir kilo güneﬂ ›ﬂ›-
+¤›, iki kilo karbon dioksit ve yar›m kilo da su al›r. Karﬂ›l›¤›n›da ok-
+sijen gaz› olarak öder.
+4) Volkan konilerinin üst k›sm›nda bulunan ve volkanik patla-
+mayla oluﬂan huni ﬂeklindeki çukurlara krater denir. Baz›
+kraterlerin diplerinde sular birikerek göller oluﬂmaktad›r.
+Bu tür göllere krater gölü denir.
+Yeni üretilen “Volkan” markal› jiplerin direksiyonu huni ﬂek-
+lindedir. Yak›t olarak kraker kullan›lmaktad›r. Üzerinde krakerle-
+rin yetiﬂti¤i gölden toplanan bu krakerler huni direksiyonun dibi-
+ne konulmakta ve jip de bunlar› yiyerek çal›ﬂmaktad›r.
+NLP ‹le Haf›za Teknikleri 81
+
+--- Sayfa 80 ---
+Haf›za Çivileri Bana Ne Kazand›racak?
+Haf›za çivilerini kullanmak bilgileri organize etmenizi sa¤laya-
+ca¤› gibi, sa¤ ve sol beyninizin birlikte kullan›m›n› gerektirdi¤in-
+den zihinsel etkinli¤inizi de artt›r›r.
+Ayn› zamanda ders konular›n› e¤lenceli hale dönüﬂtürerek s›-
+k›lman›z›n önüne geçer. Daha keyifli ve zevk alarak çal›ﬂt›¤›n›z
+konular, zihninizde çok daha uzun süre hat›rlan›r.
+Haf›za çivileri sadece bilgileri depolamak de¤ildir. Depolad›-
+¤›n›z bilgileri uzun süre hat›rlaman›z› sa¤lar. Derslerdeki madde-
+ler olsun, ö¤renmeniz gereken paragraflar olsun, tek amaç bun-
+lar› k›sa süreli¤ine hat›rlamak de¤ildir. Haf›za çivileriyle zihnini-
+ze ald›¤›n›z her bilgi, klasik yöntemlerle k›yaslayamayaca¤›n›z ka-
+dar uzun süre ak›lda kal›r.
+Tüm bilgiler için ayn› haf›za çivilerini kullanacak olman›z; “Ka-
+r›ﬂmaz m›?” ﬂeklinde bir endiﬂeye kap›lman›za neden olabilir. Bu
+konuda rahat olun.
+Zihninizi bir bilgisayar gibi düﬂünecek olursan›z, her konuyla
+yapt›¤›n›z çivileme çal›ﬂmas›nda bir klasör açm›ﬂ olursunuz. Her
+konu farkl› baﬂl›klardaki klasörlere konaca¤›ndan kar›ﬂt›rmazs›-
+n›z.
+Zihnimizin bir di¤er özelli¤i de somut olan› daha rahat alg›la-
+mas›d›r. “Üzüntü”, “K›rm›z›”, “Kaﬂ›nt›” gibi kavramlar› dahi “Ken-
+dinizin üzgün hali” “K›rm›z› kaza¤›n›z” “Kaﬂ›nan bir hayvan” gibi
+görüntülerle somutlaﬂt›rarak kaydedersiniz.
+Bu sebeple haf›za çivilerini kullanmak; soyut kavramlar› so-
+mutlaﬂt›rman›z› sa¤lad›¤›ndan, bilgiler daha anlaﬂ›l›r ve uzun sü-
+re hat›rda kal›r bir yap›ya dönüﬂürler.
+82 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 81 ---
+ﬁimdi S›ra Sizde!
+A) Aﬂa¤›da verilen kelimeleri haf›za çivilerinize as›n ve süre
+tutun.
+1)
+ÇAYDANLIK
+2)
+KÜRE
+3)
+BAVUL
+4)
+ARMUT
+5)
+KEK
+6)
+ﬁ‹ﬁMAN
+7)
+Ç‹ZME
+8)
+P‹PO
+9)
+ÇENGEL
+10) AYNA
+11) DAL
+12) GEL‹N
+13) B‹LARDO
+14) K‹BR‹T
+15) KEÇ‹
+16) SANDALYE
+17) MEKTUP
+18) L‹MAN
+19) BOT
+20) M‹NDER
+Kelimelerinizi do¤ru s›rada rakamlar› ile birlikte verilen boﬂ-
+luklara listeleyin ve sürenizi kaydedin. Süreyi belirlerken, boﬂluk-
+lar› doldururken geçirdi¤iniz yazma zaman›n› dahil etmeyin.
+Süre:.........
+B) Aﬂa¤›da verilen maddeleri haf›za çivilerinizi kullanarak zih-
+ninize kodlay›n ve süre tutun.
+NLP ‹le Haf›za Teknikleri 83
+
+--- Sayfa 82 ---
+Divan Edebiyat›n›n Özellikleri
+1) Halktan kopuk, dar bir çevrenin edebiyat›d›r.
+2) Dil çok a¤›r olup Arapça ve Farsçaya oldukça yer verilmiﬂtir.
+3) Naz›m ölçüsü aruzdur.
+4) Naz›m birimi beyittir.
+5) Beyitler aras›nda konu birli¤i yoktur.
+6) Konular› aﬂk, ﬂarap ve tasavvuftur.
+7) Sanatl› bir anlat›m› benimsemiﬂlerdir.
+8) Kendilerinden yeni bir ﬂeyler katmadan, üstat ﬂairleri taklit
+etmiﬂlerdir.
+9) Tam ve zengin uyak kullanm›ﬂlard›r.
+Çiviledi¤iniz maddeleri listenize yaz›n. Sürenizi kaydedin. Sü-
+reyi kaydederken boﬂluklar› doldurmakla geçirdi¤iniz zaman› da-
+hil etmeyin.
+Divan Edebiyat›n›n Özellikleri
+1)…………………………………………………………………
+………………………………………………………………………
+2)…………………………………………………………………
+………………………………………………………………………
+3)…………………………………………………………………
+……….………………………………………………………………
+4)…………………………………………………………………
+……….………………………………………………………………
+5)…………………………………………………………………
+……….………………………………………………………………
+6)…………………………………………………………………
+……….………………………………………………………………
+7)…………………………………………………………………
+……….………………………………………………………………
+8)…………………………………………………………………
+84 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 83 ---
+……….………………………………………………………………
+9)…………………………………………………………………
+……….………………………………………………………………
+Süre:..........
+C) Verilen paragraflar› haf›za çivilerinizi kullanarak kodlay›n
+ve süre tutun.
+1) Metallerde de¤erlik elektronlar› atom çekirde¤i taraf›ndan
+çok zay›f bir kuvvetle çekilirler. Bu nedenle metallerin de-
+¤erlik elektronlar› oynakt›r ve metallerdeki boﬂ de¤erlik or-
+bitalleri aras›nda rahatça hareket edebilirler
+2) Ekvator d›ﬂ›ndaki alanlarda gece ve gündüz süreleri y›l
+içinde de¤iﬂir. Gece ve gündüz sürelerinin y›l içinde de¤iﬂ-
+mesine Güneﬂ'in do¤uﬂ ve bat›ﬂ saatlerinin farkl› olmas›
+etkilidir. Örne¤in ülkemizde yaz aylar›nda Güneﬂ erken do-
+¤up, geç batar. Dolay›s›yla ülkemizde yaz aylar›nda gündüz
+süresi gece süresinden daha uzundur.
+3) Cümle yarg›, anlam ve anlat›m bütünlü¤üne sahip dil bir-
+li¤idir. Anlat›m›n temel birimi olarak bir duygu, düﬂünce,
+olay veya yarg›n›n baﬂl› baﬂ›na anlat›m›na yarar. Cümle bu
+yönüyle iletiﬂimin en temel araçlar›ndan biridir.
+4) Anadolu Selçuklular›n devlet teﬂkilat› Büyük Selçuklular
+örnek al›narak düzenlenmiﬂtir. Ülke hükümdar ailesinin or-
+tak mal› sayl›yordu. Ancak Anadolu Selçuklular›, Anadolu
+co¤rafyas›n›n bir bütün olmas› sayesinde merkeziyetçi bir
+yöntem oluﬂturmuﬂlard›r.
+5) Bir organizman›n kendi kendisini döllenmesine veya ken-
+disiyle ayn› genetik yap›ya sahip bir organizmayla çapraz-
+lamas›na kendileﬂme denir.
+Paragraflar› listenize yaz›n. Sürenizi kaydedin. Süreyi kayde-
+derken boﬂluklar› doldurmakla geçirdi¤iniz zaman› dahil etmeyin.
+NLP ‹le Haf›za Teknikleri 85
+
+--- Sayfa 84 ---
+1)...………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………
+2)…………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………
+3)…………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………
+4)…………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………
+5)…………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………………………………………………
+………………………
+86 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 85 ---
+Egzersiz Program›
+1) En az iki tane 20 kelimeden oluﬂan maddeyi zihninize çivi-
+leyin. Bu çal›ﬂmay› zaman  zaman yapmaya özen gösterin.
+2) Ders kitaplar›n›zdaki maddeleri, tan›mlar› ve paragraflar›
+çal›ﬂ›rken haf›za çivilerinizi kullan›n.
+Mazeret Saati
+“Çal›ﬂsam da Anlam›yorum.”
+Çal›ﬂt›¤›n›z halde anlamaman›z›n iki temel sebebi vard›r. Bi-
+rincisi çal›ﬂt›¤›n›z halde anlamad›¤›n›za dair sahip oldu¤unuz
+önyarg›n›z, ikincisi ise verimli bir çal›ﬂma yöntemi kullanm›yor
+olman›zd›r.
+Ders çal›ﬂmay› verimli k›lan masan›n baﬂ›nda geçirdi¤iniz sa-
+atlerin toplam› de¤ildir. Sekiz saatinizi ders kitaplar›yla bo¤uﬂa-
+rak harcayabilirsiniz ve sonuçta hiçbir ﬂeyin akl›n›zda kalmad›¤›-
+n› görürsünüz.
+Zihnimiz sadece kelimelerle çal›ﬂmaz. Dersi kelimelerle dinle-
+mek, çal›ﬂmak ve tekrar etmek istedi¤iniz verimi elde etmeniz ko-
+nusunda yetersiz kal›r. Dersleri, görmeli, duymal›, hissetmeli ve
+yaﬂamal›s›n›z.
+Haf›za teknikleri size, sadece sol beyne yönelik klasik çal›ﬂma
+yöntemine alternatif olarak; sa¤ beyninizi çal›ﬂt›rmay› ö¤retmez.
+Size sa¤ ve sol beyninizi ayn› anda kullanarak çal›ﬂt›klar›n›z› an-
+lama ve haf›za gücünüzü geliﬂtirme ﬂans›n› sunar.
+“Hücre” konusunu y›llarca görüyorsunuz. Her y›l Fen Bilgisi ve
+Biyoloji derslerinde sürekli karﬂ›n›za ç›k›yor. Ama hala hücreyi
+anlamakta ve sorular›n› yapmakta sorun yaﬂ›yorsunuz. Neden
+acaba? Do¤ru tekniklerle çal›ﬂmad›¤›n›z için olmas›n?
+Çal›ﬂsan›z da anlamad›¤›n› düﬂüncesini önyarg› olmaktan
+kurtar›n ve durum tespiti olarak de¤erlendirin.
+Çok güzel bir tespit yapm›ﬂ ve çal›ﬂt›¤›n›z halde anlamakta
+NLP ‹le Haf›za Teknikleri 87
+
+--- Sayfa 86 ---
+zorland›¤›n›z› belirlemiﬂsiniz. ‹çinde bulundu¤unuz durumu or-
+taya koymay› baﬂard›¤›n›za göre, ﬂimdi yapman›z gereken; “Bu
+durumu de¤iﬂtirmek için ne yapmal›y›m?” sorusunu sormakt›r.
+Arad›¤›n›z cevap da tam burada, bu kitab›n sayfalar› aras›nda.
+YOLLAR ve AYAKLAR
+Çok eski zamanlarda, zengin say›labilecek bir ülkede hükme-
+den bir kral vard›. Bir gün, hayat›nda ilk kez, ülkesinin uzak böl-
+gelerini ziyarete gitti. Saray›na döndü¤ünde ayaklar›n›n çok ac›-
+d›¤›ndan ﬂikayet ediyordu. Çünkü hem böyle bir yolculu¤a ilk kez
+ç›km›ﬂt›, hem de at›ndan inip de yürümek zorunda kald›¤› yollar
+çok taﬂl› ve sertti.
+Kral, hemen bir ferman ç›kar›p halk›na ülkenin her taraf›nda-
+ki yollara deri kaplamas›n› emretti. Böyle bir ﬂeyin binlerce ine-
+¤in derisine mal olaca¤›, hem de fazlas›yla pahal›ya ç›kaca¤› bel-
+liydi.
+Kral›n bilge dan›ﬂman›, huzuruna gelerek ona ﬂöyle seslendi:
+'Kral hazretleri, neden o kadar gereksiz paray› harcamak zo-
+runda kalas›n›z? Neden küçük bir deri parças›n› kesip kendi ayak-
+lar›n›za sarm›yorsunuz?
+Kral önce ﬂaﬂ›rd›, ama daha sonra bu fikri be¤endi ve kendisi-
+ne inek derisinden bir ayakkab› yapt›rd›.
+Kral o gün, probleme odaklan›rsa a¤›r bir bedelin kaç›n›lmaz
+oldu¤unu, ancak çözüme odaklan›rsa, bazen çözümün sand›¤›n-
+dan çok daha kolay oldu¤unu ö¤renmiﬂti.
+88 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 87 ---
+5. BÖLÜM
+ORTADA KUYU VAR YANDAN GEÇ
+Dikkat kavram› duyu organlar›na gelen uyaran›n bir k›sm›n›n
+seçilme yetene¤idir. Dikkat temel olarak seçicili¤e dayanmaktad›r.
+E¤er gelen uyaranlar aras›nda seçici davranan bir mekaniz-
+maya sahip olmasayd›k; karﬂ› karﬂ›ya kald›¤›m›z uyaran ak›m› yü-
+zünden hiçbir ﬂeyi sa¤l›kl› yapamaz hale gelirdik.
+Gün içerisinde fark›nda olarak ya da olmayarak birçok prob-
+lemle u¤raﬂ›yoruz, kararlar veriyoruz ve eyleme geçiyoruz. En ba-
+sitinden yemek yeme eylemi bile benzer süreçlerden geçiyor.
+Zihnimiz uyaranlar ars›nda seçimler yaparak bizim bu kararla-
+r› vermemizi, sorunlar› aﬂmam›z› ve harekete geçmemizi sa¤l›yor.
+Sahip oldu¤umuz dikkat mekanizmas› sayesinde; içinde bu-
+lundu¤umuz koﬂullara ba¤l› olarak davran›ﬂlar›m›z› ve düﬂünce-
+lerimizi organize edebiliyoruz.
+Bende Dikkat Eksikli¤i Var!
+Birçok dan›ﬂan›m›z kendisine veya çocu¤una koymuﬂ oldu¤u
+“Dikkat Eksikli¤i” teﬂhisiyle bize geliyor. E¤er o bu teﬂhisi koyma-
+NLP ‹le Haf›za Teknikleri 89
+
+--- Sayfa 88 ---
+d›ysa, aile bireylerinden biri yak›n akrabalar veya bir komﬂuyla
+yap›lan çay sohbeti s›ras›nda buna karar veriliyor.
+Dikkat eksikli¤i problemi asl›nda ciddi bir rahats›zl›kt›r. Bu-
+nun tespiti için hastanelerde yap›lmas› gereken testler, uygula-
+malar vard›r.
+Oysa bizim karﬂ›laﬂt›¤›m›z dan›ﬂanlar›m›z›n ço¤unda gözlem-
+lemiﬂ oldu¤umuz temel nokta; oturduklar› yerden çocu¤un bir
+davran›ﬂ›ndan yola ç›karak “Dikkat eksikli¤i” teﬂhisi koyma e¤i-
+limleri oldu¤u yönünde.
+‹sterseniz f›kra gibi gerçekleﬂen ﬂu diyaloglara bir kulak vere-
+lim.
+Misafirli¤e gitmiﬂ iki komﬂunun konuﬂmalar›:
+“Çocu¤um ders çal›ﬂam›yor, oturuyor masaya daha on dakika
+geçmemiﬂ ki kalk›yor.”
+“Ay öylemi k›z benim o¤landa öyleydi. Götürdük doktora “dik-
+kat eksikli¤i” dediler”
+“Yapma! Peki ne yapaca¤›z.”
+“Bilmem ki vallah ! Allah kolayl›k versin iﬂiniz zor.”
+Akﬂam evin beyi gelince diyalogun devam› sürer:
+“Biliyor musun bey ne oldu?”
+“Ne oldu han›m rengin benzin atm›ﬂ?”
+“Sorma baﬂ›m›za gelenleri.”
+“Ne oldu ne gelmiﬂ baﬂ›m›za, bizden habersiz?”
+“Bizim o¤landa dikkat eksikli¤i varm›ﬂ.”
+“Nas›l anlad›n?”
+“Ben anlamad›m. Komﬂumuz Ayﬂe anlad›. Onunda o¤lunda
+da varm›ﬂ.”
+“Ya öylemi bende y›llarca nas›lda bilmeden yaﬂam›ﬂ›m.”
+“Ya sorma bizde çocu¤u suçlay›p dururduk, ders çal›ﬂm›yor-
+sun diye.”
+“Yok! Yok! Benim bilmedi¤im bizim komﬂu Ayﬂe'nin doktur
+oldu¤u gerçe¤i idi.”
+90 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 89 ---
+“Yok bee! Ayﬂe o¤lunu doktora götürmüﬂ, o demiﬂ.”
+“Öyle mi! Ha ﬂimdi oldu. Ayﬂe'ye söyle de bizim o¤lan›n bir de
+karn› a¤r›yor. Bari yar›n o¤lunu doktora götürsün de ö¤renivere-
+lim bizim o¤lan›n neyi varm›ﬂ.”
+Birde anne, çocu¤un dikkat eksikli¤i teﬂhislerine kulak kabar-
+tal›m:
+“Anne...”
+“Efendim yavrum.”
+“Galiba neden çal›ﬂamad›¤›m› buldum.”
+“Nedenmiﬂ yavrum?”
+“Ben dikkatimi toparlayam›yorum.”
+“Öyle mi, nas›l karar verdin buna?”
+“Ders çal›ﬂ›rken çan›m s›k›l›yor ya, oradan bu sonucu ç›kar-
+d›m.”
+“Ya do¤ru, dikkat et de belki bir dahaki sefere televizyon kar-
+ﬂ›s›nda dikkatini nas›l da¤›taca¤›n› keﬂfedersin.”
+Bu çocuklar›n temel sorunu dikkat eksikli¤ine de¤il ilgi eksik-
+li¤ine sahip olmalar›d›r.
+Masan›n baﬂ›na geçip, ders çal›ﬂmaya çal›ﬂan ö¤renci birkaç
+dakika sonra zihninin o dersle hiç alakas› olmayan konulara kay-
+d›¤›n› fark eder. Ne kadar odaklanmaya çal›ﬂsa da dikkati sürekli
+da¤›lmakta ve kendini baﬂka ﬂeylerle u¤raﬂ›rken bulmaktad›r. Ya-
+ﬂad›¤› bu durumu de¤erlendiren ö¤renci ya da ailesi hiç zaman
+kaybetmeden teﬂhisi koyarlar: “Dikkat Eksikli¤i”
+Kendine bu teﬂhisi koymuﬂ olanlar, lütfen ﬂunu sorun: “Tele-
+vizyon seyrederken, bilgisayar oynarken, spor yaparken, al›ﬂveriﬂ-
+teyken, yemek yerken de benzer durumlar› yaﬂ›yor musunuz?”
+“Zevk ald›¤›n›z bir aktiviteye odaklanmakta sorun yaﬂ›yor musu-
+nuz?”
+E¤er cevab›n›z hay›rsa sizin sorununuz dikkat eksikli¤i de¤il;
+ilgi eksikli¤idir.
+NLP ‹le Haf›za Teknikleri 91
+
+--- Sayfa 90 ---
+‹lgi Eksikli¤i
+‹lgi duydu¤umuz, zevk ald›¤›m›z bizi e¤lendiren aktivitelerde
+ço¤u zaman zaman›n nas›l geçti¤ini dahi anlamay›z.
+Bunun tersi olarak; bizi s›kan, zevksiz, monoton aktiviteler ise
+bir türlü bitmek bilmez, kalbimiz s›k›ﬂ›r, ruhumuz daral›r.
+Arkadaﬂlar› ile e¤lence merkezine giden bir ö¤renci için saat-
+ler dakikalar gibi geçer. Ama okul saatleri için ayn› ﬂeyi söylemek
+mümkün de¤ildir.
+Derslerden zevk almayan bir ö¤renci için; ders saatleri bitmek
+bilmeyen bir iﬂkence gibidir. Saatine bakar. Bekler. Uzunca bir
+süre geçmiﬂ gibi geldi¤inde tekrar saatine bakar ve sadece birkaç
+dakika geçmiﬂ oldu¤unu ac› içinde fark eder.
+Akﬂam eve gitti¤inde bütün gün güreﬂ tutmuﬂ gibi hissetmek-
+tedir. Zamanla verdi¤i mücadele onu yormuﬂtur ve bu mücadele
+henüz bitmemiﬂtir. Yeme¤ini yer ve çal›ﬂmak için odas›na çekilir.
+Kalbi yine a¤›rlaﬂm›ﬂt›r ama ders çal›ﬂmas› gerekiyordur. Kitab›n
+kapa¤›n› açar, birkaç sat›r okur ve hiçbir ﬂey anlamad›¤›n› hisse-
+der. Kendini zorlar ama içinden televizyon seyretmek ya da bilgi-
+sayar oynamak gelmektedir. Bu istekleriyle de savaﬂ›r. Savaﬂt›k-
+ça yorulur. Yoruldukça yaz›lanlara bir türlü odaklanamaz. Dakika-
+lar yine saatlere dönüﬂmüﬂtür ve ö¤renci hala derse odaklanma-
+ya çal›ﬂmaktad›r.
+Neden birçok ö¤renci için okul dönemi bitmek bilmezde, yaz
+tatili su gibi akar gider? Zaman hep ayn›d›r ve kendi seyrinde ak-
+maya devam eder. Ama bizim olaylar› alg›lay›ﬂ ﬂeklimiz zaman›
+alg›lay›ﬂ ﬂeklimizi do¤rudan etkiler ve biz onu sanki h›zlanm›ﬂ ya
+da yavaﬂlam›ﬂ olarak alg›lar›z.
+Yaﬂad›¤›m›z bu durumun temel sebebi ilgi eksikli¤idir.
+E¤er o ö¤renci ders çal›ﬂmaya da bilgisayara duydu¤u gibi il-
+gi duysayd›, ders çal›ﬂmak onun için e¤lenceli bir aktivite olurdu.
+Odaklanmakta hiç soru yaﬂamaz hatta zaman›n nas›l geçti¤ini
+dahi anlamazd›.
+92 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 91 ---
+Dersle ilgili olsun ya da olmas›n, dikkatinizi toplamakta zor-
+land›klar›n›z, ilgi duymad›klar›n›zd›r. Çünkü ilginiz neredeyse be-
+densel ve zihinsel enerjiniz oraya akacakt›r.
+Siz zevk almad›¤›n› bir aktiviteyi yaparken, ilginiz baﬂka ﬂeyde
+oldu¤u için enerjiniz o yöne do¤ru akacak ve yapt›¤›n›z iﬂe odak-
+lanmakta zorluk yaﬂayacaks›n›zd›r.
+Burada temel olarak çözmeniz gereken durum; dikkatinizi de-
+¤il, ilginizi artt›rmakt›r. Çünkü ilginiz artt›¤› anda do¤al olarak
+dikkatiniz de onu takip edecektir.
+Odaklanmak ya da Odaklanmamak;
+‹ﬂte Bütün Mesele Bu
+Bir konuyla ilgili odaklanma gücünüzü artt›rman›z› sa¤layacak
+istek duygusunu oluﬂturmak için, onu e¤lenceli, keyifli ve sizi
+güldüren bir hale dönüﬂtürmeniz gerekmektedir.
+Bunun için e¤itim sistemini de¤iﬂtiremezsiniz. De¤iﬂtirmek
+istiyorsan›z önce kendinizden baﬂlamal›s›n›z.
+Sisteme savaﬂ aç›p, bulundu¤unuz konumda müfredat› de¤iﬂ-
+tirmeniz, ö¤retmenlerinizi de¤iﬂtirmeniz, ders yöntemlerini de-
+¤iﬂtirmeniz mümkün de¤il. Bu yüzden ona uyum sa¤lamak ve
+kendiniz için en sa¤l›kl› çözümü üretmeniz gerekiyor.
+Suçu sisteme at›p, isyan etmek, sisteme hiçbir ﬂey kaybettir-
+mez. Ama siz bu sonuçsuz isyan›n›zla çok ﬂey kaybedersiniz.
+‹syan etmek yerine kendinize ç›k›ﬂ yolu bulmak konusunda
+harekete geçmelisiniz. Derslere ya odaklan›p, baﬂaracaks›n›z ya
+da odaklanamay›p baﬂar›s›z olacaks›n›z. Tüm mesele bundan
+ibaret.
+Sorunu ortaya koydu¤umuza göre ﬂimdi çözüm de s›ra.
+Bugüne kadar derslere ilgi duymad›¤›n›z ve isteksiz oldu¤u-
+nuz için odaklanmakta baﬂar›s›z oldunuz. Olsun. Her baﬂar›s›zl›k;
+NLP ‹le Haf›za Teknikleri 93
+
+--- Sayfa 92 ---
+yeniden baﬂlama f›rsat›d›r. Demek ki elinizde çok güzel bir f›rsat
+var. Tek yapman›z gereken onu kullan›p, bir daha denemek. Tabi
+farkl› yöntemler kullanarak.
+Bugüne kadar kulland›¤›n›z ve size sonuç getirmeyen yöntem-
+lerle tekrar denemeye kalkarsan›z bir öncekilerde ne sonuç elde
+ettiyseniz, yine ayn›s›n› elde edersiniz. Dolay›s›yla elinizdeki f›r-
+sat› en iyi ﬂekilde de¤erlendirebilmek için yeni bir yöntem kul-
+lanmak zorundas›n›z.
+Bu kitab›; okudu¤unuza göre bunu baﬂarmak için ilk ad›m› at-
+m›ﬂ bulunmaktas›n›z. ﬁimdi s›ra di¤er ad›mlarda. Onlar›n ne ol-
+du¤unu pekala biliyorsunuz. Burada size anlat›lan teknikleri kul-
+lanmak.
+Baﬂta bu teknikleri uygularken zorlanabilirsiniz. Hakl›s›n›z da.
+Yeni kavramlarla tan›ﬂ›yorsunuz. Ama ﬂunu hep hat›rlay›n ki bu
+bir zihin e¤itimidir. E¤er zorlan›yorsan›z, zihninizin gerçekten
+e¤itilmeye ihtiyac› var demektir.
+Bu tekniklerle zihninizi e¤itmeye baﬂlad›¤›n›zda ve zaman za-
+man zorlansan›z da pes etmeyip devam etti¤iniz sürece elde ede-
+cekleriniz ise sand›¤›n›zdan çok daha fazlas›.
+E ne duruyorsunuz o zaman? Haydi devam edin; yolun sonun-
+da; tüm s›k›nt›lar›n›zdan kurtulaca¤›n›z büyük bir ödül bekliyor
+sizi. Ad› da baﬂar›, mutluluk, gurur, tatmin, güç... Yani siz ona ne
+isim vermek istiyorsan›z o.
+KURAB‹YE HIRSIZI
+Bir gece kad›n›n biri bekliyordu havaalan›nda, daha epeyce
+zaman vard›, uça¤›n kalkmas›na...
+Havaalan›ndaki dükkandan bir kitap ve bir paket kurabiye
+al›p, kendisine oturacak bir yer buldu. Kendisini kitab›na öyle
+kapt›rm›ﬂt› ki, yine de yan›nda oturan adam›n olabildi¤ince cü-
+retkar bir ﬂekilde aralar›nda duran paketten birer birer kurabiye
+94 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 93 ---
+ald›¤›n› gördü. Ne kadar görmezden gelse de.
+Bir taraftan kitab›n› okuyup, bir taraftan kurabiyesini yerken,
+gözü saatteydi. "Kurabiye H›rs›z›" yavaﬂ yavaﬂ tüketirken kurabi-
+yelerini, kula¤› saatin “tik tak” lar›ndayd›. Ama yine de engelleye-
+miyordu “tik tak” lar sinirlenmesini...
+Düﬂünüyordu kendi kendine, "Kibar bir insan olmasayd›m,
+morart›rd›m ﬂu adam›n gözlerini!" Her kurabiyeye uzand›¤›nda,
+adam da uzat›yordu elini...
+Sonunda pakette tek bir kurabiye kal›nca "Bakal›m ﬂimdi ne
+yapacak?" dedi kendi kendine. Adam, yüzünde asabi bir gülüm-
+semeyle uzand› son kurabiyeye ve böldü kurabiyeyi ikiye. Yar›s›-
+n› kurabiyenin atarken a¤z›na, verdi di¤er yar›y› kad›na.
+Kad›n kapar gibi ald› kurabiyeyi adam›n elinden ve "Aman Al-
+lah'›m, ne cüretkar ve ne kaba bir adam, üstelik bir teﬂekkür bile
+etmiyor!"
+An›msam›yordu bu kadar sinirlendi¤ini hayat›nda. Uça¤›n›n
+kalkaca¤› anons edilince bir iç çekti rahatlamayla... Toplad› eﬂya-
+lar›n› ve yürüdü ç›k›ﬂ kap›s›na... Dönüp bakmad› bile "Kurabiye
+H›rs›z›"na...
+Uça¤a bindi ve oturdu rahat koltu¤una. Sonra uzand›, bitmek
+üzere olan kitab›na...
+Çantas›na elini uzat›nca, gözleri aç›ld› ﬂaﬂk›nl›kla...
+Duruyordu gözlerinin önünde bir paket kurabiye!..
+Çaresizlik içinde inledi, "Bunlar benim kurabiyelerimse e¤er;
+ötekiler de onundu ve paylaﬂt› benimle her bir kurabiyesini!"
+Özür dilemek için çok geç kald›¤›n› anlad› üzüntüyle. Kaba ve
+cüretkâr olan, "Kurabiye H›rs›z›" kendisiydi iﬂte.
+NLP ‹le Haf›za Teknikleri 95
+
+--- Sayfa 94 ---
+Haf›za Testi - 5
+Verilen periyodik cetvele ait element gruplar›n› do¤ru s›rayla
+üç dakika içinde haf›zan›za kodlay›n.
+Akrostiﬂ Tekni¤i
+Akrostiﬂ tekni¤i belki de zaman zaman sizinde kulland›¤›n›z ve
+çok da yabanc›s› olmad›¤›n›z bir tekniktir. Ancak kullan›m alan›-
+n› daha da geniﬂletmeniz ve çal›ﬂmalar›n›zda daha fazla önem
+vermeniz gereken önemli bir tekniktir.
+“Hasan iki salak Osman dört”ü ço¤unuz bilirsiniz. Sülfürik asit
+dedi¤imiz H2SO4 formülü ile gösterilen bir maddedir. Ama onu
+sadece formülüyle hat›rlamaya kalkarsan›z di¤er maddelerin for-
+mülleriyle kar›ﬂma riski yüksektir.
+Onun yerine “Hasan iki salak Osman Dört” olarak ça¤r›ﬂt›rd›-
+1A
+GRUBU
+........
+........
+........
+........
+........
+2A
+GRUBU
+........
+........
+........
+........
+........
+7A
+GRUBU
+........
+........
+........
+........
+........
+8A
+GRUBU
+........
+........
+........
+........
+........
+1A
+GRUBU
+H
+Li
+Na
+K
+R b
+2A
+GRUBU
+Be
+Mg
+Ca
+Sr
+Ba
+7A
+GRUBU
+F
+Cl
+Br
+I
+At
+8A
+GRUBU
+He
+Ne
+Ar
+Kr
+Xe
+96 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 95 ---
+¤›n›zda bir ömür isteseniz de unutamazs›n›z.
+Buradan ç›karaca¤›n›z en temel sonuç ﬂu olmal›d›r: Bugüne
+kadar ara s›rada olsa bu teknikle çal›ﬂt›klar›n›z sizin için kal›c› ol-
+du. O zaman haf›za tekniklerinin bütününü kullanarak çal›ﬂt›¤›n›z
+takdirde hem zamandan kazanacak hem de haf›zan›z› geliﬂtire-
+ceksiniz.
+E¤er daha önce buna benzer bir teknik kulland›ysan›z, bu ha-
+f›za tekniklerinin hepsinin size kazand›racaklar›n›n en büyük is-
+pat› olmal›d›r.
+Akrostiﬂ tekni¤i bir bilgiyi somutlaﬂt›rarak ö¤renmek ve zor
+olan bilgileri bile haf›zaya kodlamak amac›yla yap›lan ça¤r›ﬂ›m-
+lard›r.
+ﬁimdi birlikte bu tekni¤in uygulan›ﬂ› ile ilgili örnekler yapaca-
+¤›z:
+K‹MYA
+PV = nRT (Para Ver Nurettin ya da Paran Varsa Ne Rahat
+1A GRUBU
+H
+aydarpaﬂa
+Li sesinin
+Na m›k
+K imyac›s›
+R a b ian›n
+2A GRUBU
+Be ymen
+M a g
+azas›n›n
+Ca m›nda
+S › r al›
+7A GRUBU
+F ›st›k
+C e l al
+B a r da
+I p
+At lam›ﬂ
+8A GRUBU
+He rgele
+Ne dim
+Ar s›z
+K›r o
+Xe nefonu
+NLP ‹le Haf›za Teknikleri 97
+
+--- Sayfa 96 ---
+CO⁄RAFYA
+Marmara'n›n Gölleri
+‹ç Anadolu'da Yetiﬂen Ürünler
+M anyas
+U lubat
+S apanca
+T erkoz
+‹ znik
+Türkiye'nin Rüzgarlar›
+Burada kulland›¤›m›z “Kay›p Sakal” akrostiﬂin de üç bilgi ayn›
+anda kodlanm›ﬂt›r.
+1) Türkiye'nin rüzgarlar›; Karayel, Y›ld›z, Poyraz, Lodos, K›ble
+ve Samyelidir.
+2) Karayel; kuzeybat›dan, Y›ld›z; kuzeyden, Poyraz; kuzeydo-
+¤udan, Lodos; güneybat›dan, K›ble; güneyden, Samyeli;
+güneydo¤udan esen rüzgarlard›r.
+3) Türkiye'nin kuzeyi; kuzey kutup yönünde oldu¤undan; Ka-
+rayel, Y›ld›z ve Poyraz so¤uk esen, Türkiye'nin güneyi ekva-
+tor yönünde oldu¤undan; Lodos, K›ble ve Samyeli s›cak
+esen rüzgarlard›r.
+Do¤al Göller
+Tektonik Göller
+Karstik Göller
+Buzul Göller
+Krater Gölleri
+Set Gölleri
+98 NLP ‹le Haf›za Teknikleri
+B u¤day
+A rpa
+ﬁekerpancar›
+KAYIP
+LaKa
+
+--- Sayfa 97 ---
+T e k n i k K a r s l › B u z d a n
+K r a k e r i G ö l e S e r d i .
+TAR‹H
+Osmanl›larda Duraklama Dönemi Savaﬂlar›
+V enedik
+A vustralya
+R usya
+‹ ran
+L ehistan
+Osmanl›lar hiç cephaneleri kalmad›¤› için VAR‹L ile savaﬂm›ﬂlar.
+Duraklama Dönemi Osmanl› - ‹ran Savaﬂlar›
+F erhat Paﬂa
+N asuh Paﬂa
+S erav
+K asr-› ﬁirin
+F enerli N alan S ema'y› K ast›.
+2. Dönem Anadolu Türk Beylikleri
+Osmano¤ullar›Candaro¤ullar›
+Karamano¤ullar›Ayd›no¤ullar›
+Germiyano¤ullar›Saruhano¤ullar›
+Karesio¤ullar›Eretano¤ullar›
+Hamito¤ullar›Dulkadiro¤ullar›
+Menteﬂeo¤ullar›
+Osman, Karamanl›y› Gerip, Karesini Hamit'e
+Menteﬂelerken Can› yanan Ayd›n Sarar›nca Eniﬂtesi Dul
+NLP ‹le Haf›za Teknikleri 99
+
+--- Sayfa 98 ---
+MATEMAT‹K
+Trigonometrik fonksiyonlar›n hangisinin, hangi bölgede iﬂare-
+tinin ne oldu¤unu hat›rlamak için tek yapman›z gereken; Bütün
+S›n›flar›n Kara Tahtas›n›n Cilal› oldu¤unu bilmek.
+FELSEFE
+Bilgi Türleri
+Gündelik BilgiDinsel Bilgi
+Sanat BilgisiTeknik Bilgi
+Felsefi Bilgi
+Bilimsel Bilgi
+G ü zel S a finaz F e s le¤eni B i çince D i li
+B‹YOLOJ‹
+Enzimlerin S›n›fland›r›lmas›
+Oksiredüktazlar
+Hidroksilazlar
+Transferazlar
+Mutazlar
+Karboksilazlar
+O k umuﬂ H i l mi T r a n s par an M u zlar›
+100 NLP ‹le Haf›za Teknikleri
+(+) Sinüs
+(S›n›flar›n)
+(+) Kotanjant, Tanjant
+(Kara Tahtas›)
+(+) Cosinüs
+(Cilal›d›r)
+(+) bütün
+
+--- Sayfa 99 ---
+Mitoz Bölünmenin Aﬂamalar›
+‹nterfaz
+Profaz
+Metafaz
+Anafaz
+Telofaz
+‹ n ek P r o fesör M e hmet A n a s›n›
+EDEB‹YAT
+Divan Edebiyat› Naz›m Biçimleri
+Gazel
+Mesnevi
+Müstezat
+Kaside
+K›t'a
+G a z e teci M e lek M ü mtaz K a s ay›
+D‹N
+Dört Melek
+C ebrail
+A zrail
+M ikail
+‹ srafil
+Akrostiﬂ Tekni¤inin Temel ‹lkeleri
+1) Yapt›¤›n›z ça¤r›ﬂ›mlarda mant›k aramay›n. Ne kadar tuhaf
+ve ilginç yaparsan›z o kadar kal›c› olacakt›r.
+2) Ça¤r›ﬂ›m›n›za sadece ilk harfi de¤il ikinci harfleri de dahil
+NLP ‹le Haf›za Teknikleri 101
+
+--- Sayfa 100 ---
+etmeye çal›ﬂ›n. Bu ﬂart olan bir kural de¤ildir. Ça¤r›ﬂ›m›
+daha da kolaylaﬂt›raca¤› için önerilmektedir.
+3) Ayn› harf ile baﬂlayan sözcüklerde mutlaka ikinci harfleri
+de yapaca¤›n›z ça¤r›ﬂ›mda kullan›n.
+Mesnevi - Müstezat / Melek Mümtaz gibi.
+4) Ça¤r›ﬂ›m›n›z› canl›, hareketli, renkli ve üç boyutlu olarak
+gözünüzde canland›r›n.
+5) Bir konu baﬂl›¤›n›n içerisinde birden fazla akrostiﬂ yapt›y-
+san›z; zihninizde organize edebilmek için bu akrostiﬂleri
+konu baﬂl›¤›yla birlikte haf›za çivilerinize asabilirsiniz.
+Akrostiﬂ Tekni¤i Bana Ne Kazand›racak?
+Derslerde akl›n›zda tutman›z gereken birçok soyut kavram ve
+özel isim vard›r. Bu özel isimleri do¤rudan haf›za çivileriyle as-
+man›z zordur.
+Bu sebeple akrostiﬂ tekni¤i ile yapaca¤›n›z bu ça¤r›ﬂ›mlar zor
+görünen kavramlar›n isimlerini akl›n›zda tutman›z› kolaylaﬂt›ra-
+cakt›r.
+Ayr›ca ça¤r›ﬂ›m› oluﬂtururken, izledi¤iniz yol sa¤ ve sol beyni-
+nizi ayn› anda çal›ﬂt›raca¤› için, sadece o sözcükleri ö¤renmekle
+kalmayacak ayn› zaman da haf›zan›z› da geliﬂtirmiﬂ olacaks›n›z.
+ﬁimdi S›ra Sizde!
+Aﬂa¤›da verilen bilgilerden Akrostiﬂ Tekni¤i'ni kullanarak ça¤-
+r›ﬂ›m oluﬂturunuz.
+102 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 101 ---
+Türklerin Tarih Boyunca Kulland›¤› Takvimler
+Hicri Takvim
+Celali Takvim
+Rumi Takvim
+Miladi Takvim
+Bentlerde Kullan›lan Naz›m Biçimleri
+Rubai
+Tuyu¤
+Murabba
+ﬁark›
+Mersiye
+Terkib-i Bend
+Do¤u Karadeniz Bölgesinin Da¤lar›
+Yaln›zçam
+Giresun
+Rize
+Mescit
+Çimen
+Kop
+Canl›lar›n S›n›fland›r›lmas›
+Tür
+Cins
+Aile
+Tak›m
+S›n›f
+ﬁube
+Alem
+NLP ‹le Haf›za Teknikleri 103
+..............................................................
+..............................................................
+..............................................................
+..........................................................
+
+--- Sayfa 102 ---
+Karadenize Dökülen Akarsular
+Yeﬂil›rmak
+K›z›l›rmak
+Sakarya
+Çoruh
+Do¤ankent
+Yenice
+Bart›n
+Omurgas›z Hayvanlar
+Süngerler
+Sölenterler
+Solucanlar
+Yumuﬂakcalar
+Eklem Bacakl›lar
+Derisidikenliler
+Egzersiz Program›
+1) Ça¤r›ﬂ›m yetene¤inizi geliﬂtirmek için yolda giderken ara-
+ba plakalar›ndan kelimeler türetin. Gördü¤ünüz tabelalar-
+daki firma isimlerini akl›n›zda tutmak için ça¤r›ﬂ›m yap›n.
+Bu çal›ﬂma zihinsel etkinli¤inizi artt›racak ve ça¤r›ﬂ›m tü-
+retme yetene¤inizi geliﬂtirecektir.
+2) Ders çal›ﬂ›rken özel isimlere ve soyut kavramlara Akrostiﬂ
+Tekni¤ini uygulay›n.
+104 NLP ‹le Haf›za Teknikleri
+..............................................................
+.............................................................
+
+--- Sayfa 103 ---
+Mazeret Saati
+“Dikkatim Çok Çabuk Da¤›l›yor”
+AH MEHMET VAH MEHMET
+Tarih ikiye ayr›l›r MÖ ve MS - ya s›nav› kazanamazsam babam de-
+di¤ini yapar m› acaba- ikiye ayr›l›r MÖ ve MS - k›z satt› beni, gitti onun
+tüysüzün yan›na oturdu- MÖ ve MS - bilgisayarda oyun oynamak vard›-
+Tarih ikiye ayr›l›r -ﬂu s›nav› bir kazansam neler yapaca¤›m neler- ayr›l›r
+MÖ ve MS...
+- Mehmet aferin o¤lum 4 saattir çal›ﬂ›yorsun, neler ö¤rendin
+bakal›m?
+- Tarih ikiye ayr›l›yormuﬂ babac›¤›m.
+- Neymiﬂ bunlar yavrum?
+- Mehmet'ten Önce ve Mehmet'ten Sonra….
+- Ben ﬂimdi sana….SANSÜR!
+Eminiz ki ço¤unuz Mehmet'in haline çok üzüldünüz. Üzülme-
+yenlerde ac›nacak haline güldüler.
+Peki, siz hayat›n›zda buna benzer bir tabloyu ne kadar s›kl›kla
+yaﬂ›yorsunuz? Buna çeﬂitli cevaplar verebilirsiniz ama az ya da
+çok birço¤umuz buna benzer durumlara düﬂüyoruz.
+Bu durumun neden kaynakland›¤›na bu bölümüz de geniﬂçe
+yer ay›rd›k. Ne yapman›z gerekti¤ine de de¤indik.
+Ancak ciddi bir endiﬂemiz var; o da al›ﬂkanl›k kal›plar›n›z› k›r-
+mak konusunda ne kadar kararl› olaca¤›n›z.
+‹nsano¤lu al›ﬂkanl›klar›na ba¤l› kalmak e¤ilimi içindedir. Öy-
+le ki biz zor olan› yaparken, bize daha kolay bir yol sunuldu¤un-
+da dahi elimizdeki zordan vazgeçmek istemeyiz. Ona al›ﬂm›ﬂ›zd›r
+y›llarca. ‹stedi¤i kadar haf›zam›z› köreltsin, iﬂi yokuﬂa sürsün biz
+yine de ona sahip ç›kmak isteriz.
+ﬁu anda zihninizle bir mücadele aﬂamas›ndas›n›z. O eski al›ﬂ-
+kanl›¤›n›za as›l›rken, siz yenisine adapte olmaya çal›ﬂacaks›n›z.
+Ama size güzel bir haberimiz var. Zihniniz belirsizliklerden nefret
+eder.
+NLP ‹le Haf›za Teknikleri 105
+
+--- Sayfa 104 ---
+Siz yeni al›ﬂkanl›kta diretirken, onun eskiye ba¤l› kalma dür-
+tüsünden do¤an belirsizlik; onu son derece rahats›z edecektir.
+Bu yüzden k›sa zamanda vazgeçmeyip devam ederseniz, zihni-
+nizde bir k›r›lma noktas› yaﬂanacak. Belirsizli¤e daha fazla ta-
+hammül edemeyen zihniniz, direncini k›racak ve yeni al›ﬂkanl›¤›
+kabullenecek.
+Siz de kazand›¤›n›z yeni al›ﬂkanl›¤›n›z›n hakl› mutlulu¤unu ya-
+ﬂayacaks›n›z.
+106 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 105 ---
+6. BÖLÜM
+NEYD‹ BU ADAMIN ADI?
+‹nsan özel olmak ister, hat›rlanmak ister. Sizin onunla birlikte
+ayn› anda otuz kiﬂi ile tan›ﬂm›ﬂ olman›z onun için bir ﬂey ifade
+etmez. “Hakl›s›n›z kim olsa unuturdu” demesine ra¤men içten
+içe k›r›l›r.
+‹nsanlar›n isimlerini kolayl›kla haf›zan›za alabilmeniz ve
+onunla karﬂ›laﬂt›¤›n›zda hat›rlayabilmeniz size gerek iﬂinizde ge-
+rekse özel hayat›n›zda etkin k›lar.
+Ama ço¤u insan; isimleri kolay unuttu¤undan, ne kadar u¤-
+raﬂsa da bir türlü hat›rlayamad›¤›ndan ﬂikayetçidir.
+ﬁikayet etmenin bizi götürece¤i nokta ise problemimizin da-
+ha da artmas› olacakt›r.
+ﬁikayeti bir kenara b›rak›p; insanlar›n isimlerini akl›n›zda tut-
+maya çal›ﬂmak hem sizin onlar üzerindeki etkinizi artt›racak hem
+de haf›za gücünüzü geliﬂtirecektir.
+NLP ‹le Haf›za Teknikleri 107
+
+--- Sayfa 106 ---
+Haf›za Testi - 7
+Aﬂa¤›da verilen yüzlere ait isimleri en fazla 90 saniye boyun-
+ca inceleyin ve hat›rlad›klar›n›z› verilen listeye yaz›n.
+Mergip
+AKÇALI
+Dilhan
+BOYACI
+Burçin
+KAPAN
+Sinan
+EKER
+108 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 107 ---
+Gözde
+ÇA⁄LAYAN
+Türker
+TIBIK
+Elif
+D‹VARCI
+Aynur
+KOCATEPE
+Jale
+ASLAN
+Cansu
+‹K‹ZER
+NLP ‹le Haf›za Teknikleri 109
+
+--- Sayfa 108 ---
+.....................
+.....................
+.....................
+.....................
+.....................
+.....................
+110 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 109 ---
+‹simleri Haf›zaya Kodlamak
+1) ‹smini akl›n›zda tutabilece¤inize inan›n:“‹simleri çok çabuk
+unutuyorum.” “O kadar adam›n ad›n› akl›mda tutmam
+mümkün de¤il” “‹simleri hat›rlamak konusunda hep kötüy-
+düm zaten” gibi düﬂünceler daha baﬂtan kaybetmenize ne-
+den olan düﬂüncelerdir.
+‹nsanlarla tan›ﬂt›¤›n›z anda isimlerini akl›n›zda tutabilece¤i-
+nize ve daha sonra da hat›rlayabilece¤inize inan›n ve kendinizi
+bu iﬂi baﬂaraca¤›na ﬂartland›r›n.
+2) Tan›ﬂt›¤›n›z kiﬂinin gözlerinin içine bak›n: Onun gözlerinin
+derinliklerine bakarken içinizden “Bu kiﬂi benim için çok
+.....................
+.....................
+.....................
+.....................
+NLP ‹le Haf›za Teknikleri 111
+
+--- Sayfa 110 ---
+de¤erli ve önemli bir insan” diye düﬂünün. Çünkü de¤erli
+ve önemli oldu¤unu düﬂündü¤ünüz insanlar›n isimlerini
+kolay kolay unutmazs›n›z.
+3) ‹smini söyledi¤i ilk ana odaklan›n. Karﬂ›n›zdaki kiﬂi ilk kez
+ad›n› söyledi¤inde ço¤u zaman bunu öylesine dinleriz. Ak-
+l›m›z ya onun söyledi¤i di¤er ﬂeylerdedir ya da o susunca
+bizim söyleyeceklerimizdedir. Oysa o ilk ad›n› söyledi¤in-
+de; söyledi¤i sözcü¤e odaklanman›z hat›rlaman›z› kolay-
+laﬂt›racakt›r.
+4) Tekrar ettirin: Karﬂ›n›zdaki kiﬂi ad›n› söyledi¤inde bulundu-
+¤unuz ortam›n koﬂullar›na ba¤l› olarak e¤er uygunsa “Par-
+don, duyamad›m, tekrar eder misiniz?” diyerek ona ad›n›
+tekrar ettirin.
+5) Siz tekrar edin: Onunla konuﬂurken zihninizin içinden bir-
+kaç kez ad›n› tekrar edin.
+6) Ad›n›n anlam›n› sorun: ‹nsanlar isimleriyle ilgilenilmesin-
+den hoﬂlan›rlar. Kendilerini de¤erli hissederler. Karﬂ›n›z-
+daki kiﬂiye hem bu duygular› yaﬂatmak hem de haf›zan›za
+daha iyi kodlayabilmek amaçl›; ad›n›n anlam›n› sorun. Ta-
+bi bunu çok bilinen isimlere uygulamaktan kaç›n›n.
+7) Kullan›n: Onunla konuﬂurken birkaç kez mutlaka ismini
+kullan›n. Vedalaﬂ›rken de ismini söylemeye mutlaka özen
+gösterin.
+8) Görsel imgeler yarat›n: Karﬂ›n›zdaki kiﬂinin ilk ad›n› duydu-
+¤unuz anda, onun ad› ve soy ismi ile ilgili ça¤r›ﬂ›mlar, iliﬂ-
+kilendirmeler kullan›n ve ona bakarken bunu gözünüzde
+canland›r›n. Bu canland›rmay› yapt›ktan sonra yukar›daki
+ilkeleri uygulay›n.
+Sinan Eker: Eker'i ﬁeker ile ça¤r›ﬂt›ral›m. Sinan'› da Mimar Si-
+nan olarak düﬂünelim. Bebek Mimar Sinan'›n alt›nda bezi elinde
+ﬂekeri afiyetle yalad›¤›n› hayal edelim.
+Mergip Akçal›: Mergip'i Dergiden hat›rlayal›m. Mergip beyin,
+112 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 111 ---
+saçlar›n›n beyaz çal›lardan oluﬂtu¤unu ve bu çal›larda dergi ye-
+tiﬂti¤ini zihnimizde canland›ral›m.
+Burçin Kapan: Burma tatl›s›n›n fare kapan›na k›s›ld›¤›n› ve kur-
+tulmak için “Çin Çin” diye ba¤›rd›¤›n› canland›ral›m. Bu olay› ta-
+n›ﬂt›¤›m›z Burçin isimli kiﬂinin kafas›n›n üstünde gerçekleﬂti¤ini
+hayal edelim.
+Dilhan Boyac›: Bir han›n dilini ç›kar›p, diliyle duvarlar› boyad›-
+¤›n› düﬂünelim.
+Jale Aslan: Jale'yi jöleden ça¤r›ﬂt›raca¤›z ve Jale han›m›n aslan
+yelesine benzeyen saçlar›n› kullanaca¤›z. Jale han›m›n saçlar› gi-
+bi yelesi olan bir aslan›n t›rnaklar›yla jöle yedi¤ini hayal edelim.
+Cansu ‹kizer: Cansu han›m›n bir cam›n arkas›ndan su içmeye
+çal›ﬂt›¤›n›, iki erinde onun bu komik u¤raﬂs›na kahkahalarla gül-
+dü¤ünü canland›ral›m.
+Elif Divarc›: Elif'i liften, Divarc›'y›da divandan hat›rlayaca¤›z.
+Elif han›m›n evindeki divan› lifle y›kad›¤›n› zihnimizde canland›-
+ral›m.
+Aynur Kocatepe: Aynur han›m›n ayda kocaman bir tepenin üs-
+tünde oturdu¤unu ve nur gibi bir ›ﬂ›¤›n baﬂ›ndan aﬂa¤› akt›¤›n›
+hayal edelim.
+Gözde Ça¤layan: Gözde han›m›n gözlerinin irili¤inden yola ç›ka-
+rak, a¤larken iri gözlerinden yaﬂlar›n ça¤layan gibi akt›¤›n› zihni-
+mizde canland›ral›m.
+Türker T›b›k: T›b›k'› t›rm›ktan hat›rlayaca¤›z. Bir Türk erinin sa-
+vaﬂta silah olarak t›rm›k kulland›¤›n› düﬂünelim.
+NLP ‹le Haf›za Teknikleri 113
+
+--- Sayfa 112 ---
+ﬁimdi S›ra Sizde!
+Aﬂa¤›da verilen isimleri görsel olarak ça¤r›ﬂt›r›n ve süre tutun.
+Ece Dursun
+Özge
+Karataﬂ
+Didem
+Y›ld›z
+Asl›
+Y›rulmaz
+114 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 113 ---
+Ayla Demir
+Mümin
+Çomak
+Cem Bostan
+Filiz ﬁirin
+NLP ‹le Haf›za Teknikleri 115
+
+--- Sayfa 114 ---
+Liste
+Süreyi belirlerken, boﬂluklar› doldururken geçirdi¤iniz yazma
+zaman›n› dahil etmeyin.
+.....................
+....................
+....................
+....................
+116 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 115 ---
+Süre:...............
+.....................
+....................
+.....................
+.....................
+NLP ‹le Haf›za Teknikleri 117
+
+--- Sayfa 117 ---
+7. BÖLÜM
+PARAD‹GMA
+Paradigma bak›ﬂ aç›m›z›n de¤iﬂmesidir. Yaﬂam›m›z boyunca
+fark›nda olmadan birçok konu, olay ya da insan hakk›nda fikirle-
+rimiz s›kça de¤iﬂir.
+Bir olay› üç y›l önce ve üç y›l sonra de¤erlendirdi¤imizde ç›-
+kard›¤›m›z sonuçlar, yapt›¤›m›z yorumlar t›pa t›p birbirinin ayn›
+olmaz. Çünkü yaﬂam sürekli de¤iﬂmekte, biz de¤iﬂmekteyiz ve
+bunlara ba¤l› olarak bak›ﬂ aç›m›zda de¤iﬂmekte.
+Kaç Para
+Küçük bir k›z pastaneye gitmiﬂ ve kenardaki masaya oturmuﬂ.
+Bayan garson yan›na yaklaﬂm›ﬂ ve ne istedi¤ini sormuﬂ.
+Küçük k›z çikolatal› pastan›n ne kadar oldu¤unu sordu¤unda
+garson “6 ytl” diye cevap vermiﬂ. Bunun üzerine küçük k›z cebin-
+deki bozukluklar› ç›karm›ﬂ ve saymaya baﬂlam›ﬂ.
+Bu arada garson bayan sab›rs›zlanmaktaym›ﬂ. ‹lgilenmesi ge-
+reken baﬂka müﬂteriler varm›ﬂ.
+Küçük k›z; “Dondurma ne kadar?” diye sormuﬂ. Garson biraz sert-
+çe “5 ytl” diye cevap vermiﬂ. Küçük k›z tekrar paralar›n› saymaya ve
+NLP ‹le Haf›za Teknikleri 119
+
+--- Sayfa 118 ---
+hesap yapmaya baﬂlam›ﬂ. Garson bayan iyice sinirlenmiﬂ ve “Bir
+bebek bak›c›l›¤› eksikti” diye içinden söylenmeye baﬂlam›ﬂ.
+En sonunda küçük k›z sipariﬂini vermiﬂ ve dondurma istedi¤i-
+ni söyleyerek paray› uzatm›ﬂ. Garson “Nihayet” diyerek 5 ytl'yi al-
+m›ﬂ ve dondurmay› getirip, di¤er müﬂterilerle ilgilenmeye baﬂla-
+m›ﬂ.
+Küçük k›z dondurmas›n› yiyip gidince, garson bayan onun
+masas›n› temizlemeye gelmiﬂ. Ve masan›n üzerinde kendisine
+bahﬂiﬂ olarak b›rakan 1 ytl'yi görmüﬂ.
+Gördü¤ü anda gözleri dolmuﬂ ve gözyaﬂlar›ndan ›slanan ma-
+say› titreyen elleriyle temizlemeye baﬂlam›ﬂ. Biraz evvel “Küçük
+bebek” diyerek öfkelendi¤i o küçük k›z, sayg› duydu¤u küçük bir
+han›mefendiymiﬂ art›k.
+Kar›nca ve Dev
+Derslerle ilgili yapt›¤›n›z yorumlar da bak›ﬂ aç›n›za ba¤l›d›r.
+Çünkü dersler hep ayn›d›r. Temelde ayn› konular iﬂlenir ve sizin
+gibi milyonlarca insanla ayn› sistemin içinden geçersiniz.
+Ama bu geçiﬂi zorlaﬂt›ran ya da kolaylaﬂt›ran olaya hangi çer-
+çeveden bakt›¤›n›zla iliﬂkilidir.
+E¤er dersleri büyük bir göl ve kendinizi de bir kar›nca olarak
+görüyorsan›z elbette ki o aﬂ›lmaz ve geçilemezdir. Bir kar›ncan›n
+büyük bir gölü geçmesi imkans›zla neredeyse akrabad›r.
+Ama siz bir devseniz ve derslerde bir su birikintisiyse yapma-
+n›z gereken tek ﬂey bir ad›m atmakt›r.
+Gördü¤ünüz gibi dersler asl›nda hep ayn› kalmaktad›r. Sade-
+ce ona bakan kar›ncaya ya da deve göre anlam› de¤iﬂmektedir.
+Bir kar›ncan›n bak›ﬂ aç›s›na göre aﬂ›lmaz bir gölken, dev için bir
+ad›mda geçece¤i bir su birikintisidir.
+Sizin bak›ﬂ aç›n›z dersler karﬂ›s›nda ne oldu¤unuzu belirler.
+Ya çaresiz bir kar›ncas›n›zd›r ya da güçlü bir dev.
+120 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 119 ---
+Bu sadece dersler için geçerli olan bir durumda de¤ildir. Ha-
+yat›n içindeki her türlü olayda da ya kar›nca olmay› seçeriz, ya da
+dev olmay› seçip, yolumuza devam ederiz.
+Buradaki en tehlikeli girdap ise kar›nca olmaya al›ﬂmakt›r.
+Herhangi bir zorluk karﬂ›s›nda bir kez kar›nca olmay› seçerseniz,
+art›k sadece kar›nca oldu¤unuza inanmaya baﬂlars›n›z. Yaﬂam›-
+n›zdaki tüm zorluklar› da geçemeyece¤iniz bir göl olarak alg›lar-
+s›n›z. Bir kez dersler karﬂ›s›nda kar›ncalaﬂ›p, küçülmüﬂseniz,
+meslek hayat›n›zda karﬂ›n›za ç›kacak engeller karﬂ›s›nda da eski-
+den seçti¤iniz yolu seçip yine küçülürsünüz.
+Çünkü zihnimiz geçmiﬂ deneyimlerimizden referans al›r. Hiç
+yapmad›¤›m›z bir ﬂeyi denemektense eskiden yapt›¤›m›z ve ka-
+y›tlar›m›zda var olan yolu seçme e¤ilimindedir. Oysa kay›tta var
+olan eski yöntemimiz her zaman en do¤ru yol demek de¤ildir.
+E¤er kar›ncadan bir ﬂeyler almak istiyorsan›z, onun gölün kar-
+ﬂ›s›ndaki çaresizli¤i yerine, çal›ﬂkanl›¤›n› al›n ve onun çal›ﬂkanl›-
+¤›n› bir dev olarak harekete geçirin.
+E¤er Siz E¤ilmezseniz Kimse Sizi E¤emez
+Kar›nca olman›z›n sebebini kendinizin d›ﬂ›nda bir yerlerde
+ar›yorsan›z, yapt›¤›n›z tek ﬂey kendinize geçemeyece¤iniz bir göl
+daha yaratmakt›r.
+“Ailem beni böyle yetiﬂtirdi”
+“Sistem bizi kar›ncalaﬂt›r›yor”
+“Dersler çok zor”
+“Ö¤retmenler çok ödev veriyor”
+“Zaman çok az”
+“Ailem fazla bask› yap›yor”
+“Ailem benimle yeteri kadar ilgilenmiyor”
+“Ö¤retmen konular› çok h›zl› geçiyor”
+Diyerek birçok günah keçisi bulabilirsiniz. Zaten en kolay yol
+NLP ‹le Haf›za Teknikleri 121
+
+--- Sayfa 120 ---
+da birilerini suçlamakt›r. Ama kestirme yollar her zaman bizi git-
+mek istedi¤imiz noktaya ulaﬂt›rmaz. Bazen daha zor olan› seçme-
+li ve onu sorumlulu¤unu üstümüze almal›y›z.
+‹çinde bulundu¤unuz durum için suçlayacak birçok kiﬂi bula-
+bilirsiniz. O zaman ﬂunu sorun kendinize; “Baﬂar›l› oldu¤una
+inand›¤›n›z insanlar›n yaﬂam öyküleri hiç de parlak de¤ilken, da-
+ha dünyaya geldikleri andan itibaren birçok s›k›nt› çekmiﬂken ve
+sizinle ayn› sistemin içinden geçmiﬂken nas›l oluyor da onlar dev
+olarak kalmay› baﬂar›yorlar?”
+Cevap hemen yan› baﬂ›n›zda: Çünkü onlar kar›nca olmay›, kü-
+çülmeyi seçmiyorlar. Onlar hayatta her ne olursa olsun içlerinde-
+kine sahip ç›k›yorlar. Bir baﬂkas›n›n içlerindeki hazineyi çalmas›-
+na izin vermiyorlar.
+D›ﬂardan bak›ld›¤›nda birileri size bunlar› yap›yormuﬂ gibi gö-
+rünse de asl›nda yap›klar› ﬂeyin size zarar vermesine izin veren
+yine sizsinizdir.
+Siz izin vermedi¤iniz sürece kimse sizi ezemez. Belki sözleriy-
+le aﬂa¤›lar, küçümser, hakaret eder hatta döver. Ama onun bu
+davran›ﬂlar› karﬂ›s›nda ezilmek ya da ayakta kalmak sizin seçimi-
+nizdir. Bu davran›ﬂlar›n› ya onun küçüklü¤ü olarak görürsünüz ya
+da kendi küçüklü¤ünüz olarak kabul edersiniz.
+Birileri size yapamayaca¤›n›z› söyledi¤inde ya yapma gücünü-
+zü orada b›rak›rs›n›z ya da yapars›n›z.
+Birileri e¤ilmeniz için zor kulland›¤›nda ya gerçekten e¤ilirsi-
+niz ya da e¤iliyor görünür ama içinizdeki güce sahip ç›kars›n›z.
+Her ﬂekilde seçim size aittir. Neyi seçerseniz onu yaﬂars›n›z ve
+o olursunuz. Formül bu kadar basittir asl›nda.
+122 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 121 ---
+‹SOAT
+Ders çal›ﬂ›rken hepinizin kendinize göre yöntemleri vard›r. Bu
+yöntemler bazen ortak bir payda da buluﬂurken bazen birbirin-
+den çok farkl›d›r.
+Genelde iﬂe çal›ﬂaca¤›n›z konuyu okumakla baﬂlars›n›z. Kimi-
+niz bu okuma s›ras›nda önemli buldu¤u noktalar›n alt›n› çizer-
+ken, kiminiz özet ç›karma yolunu tercih eder.
+Konuya do¤rudan sorularla baﬂlayanlar da vard›r. Ya konudan
+sorular ç›kar›rlar ya da konu sonundaki sorular›n cevaplar›n› bu-
+larak ö¤renmeyi tercih ederler.
+Ders çal›ﬂmadaki en temel nokta ise zihni o konuyu anlama-
+ya programlayabilmektir. Zihninizi konuya haz›rlamadan hangi
+yolla baﬂlarsan›z baﬂlay›n mutlaka eksikleriniz kalacakt›r.
+‹SOAT tekni¤i; bir konuyu bütün olarak çal›ﬂ›rken zihninizi
+ona tam olarak adapte etmenizi ve verimli bir çal›ﬂma süreci ge-
+çirmenizi sa¤layan bir sistemdir.
+‹SOAT' ›n aç›l›m›;
+‹ zle
+S or
+O ku
+A nlat
+T ekrar et
+ﬂeklindedir. Her basamak ayr› bir amaca hizmet eder ve her
+biri en az di¤eri kadar önemlidir. ﬁimdi tek tek bu basamaklar›
+ele alaca¤›z ve nas›l uygulaman›z gerekti¤i konusunda hiçbir ki-
+tap da bulamayaca¤›n›z önemli ipuçlar› verece¤iz.
+‹zle (30 - 60 sn)
+Ne de¤ildir?
+* ‹zlemek okumak de¤ildir.
+NLP ‹le Haf›za Teknikleri 123
+
+--- Sayfa 122 ---
+* ‹zlemek anlamak de¤ildir.
+* ‹zlemek konular›n aras›nda kaybolmak de¤ildir.
+‹zleme aﬂamas›nda sizden konuyu anlaman›z ya da okuman›z
+beklenmez. Sat›r sat›r okuyarak özet ya da soru ç›karmak daha
+sonra yapaca¤›n›z bir iﬂ olmal›d›r. ‹zle aﬂamas›nda sapaca¤›n›z
+en yanl›ﬂ yol konuya gömülüp, anlamak için kendinizi zorlaman›z
+olacakt›r.
+Nedir?
+* ‹zlemek zihne konuya dair bir ﬂablon, bir çerçeve sunmak-
+t›r.
+* ‹zlemek zihni konuya ›s›nd›rmakt›r.
+* ‹zlemek h›zl› bir göz gezdirmedir.
+Kiminiz bir konuya çal›ﬂmaya baﬂlamadan önce ne kadar say-
+fa çal›ﬂaca¤›n› önceden bilmek için sayfalar› h›zl› bir ﬂekilde çe-
+virip, göz atabilir. Bu ilk baﬂta izlemek gibi alg›lansa da “‹zle” ça-
+l›ﬂmas›n›n temel ilkelerini bar›nd›rmad›¤›ndan zihninize yeterli
+ﬂablonu sa¤lamaz.
+Nas›l Uygulan›r?
+“‹zle” nin uygulan›ﬂ›nda temel ilke “S” taranas› yapmakt›r.
+“S” taramas› parma¤›n›z› sayfada S ﬂekli çizecek ﬂekilde gez-
+dirmektir. Burada dikkat etmeniz gereken sat›r sat›r yapmak yeri-
+ne biraz daha geniﬂ S'ler çizerek 3 - 4 sat›r› içine alacak ﬂekilde
+parma¤›n›z› gezdirmenizdir.
+Bir di¤er önemli nokta ise bunu sayfan›n bütününe uygula-
+man›zd›r. Yani sa¤ ve sol yanda sat›rlar›n baﬂlang›c› ve sonunu
+da içine alacak ﬂekilde geniﬂçe taraman›zd›r.
+Çal›ﬂaca¤›n›z konunun bütününe “S” taramas›n› uygulad›ktan
+sonra, ayn› iﬂlemi sondan baﬂa da uygulay›n. Taramay› yaparken
+124 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 123 ---
+baﬂl›klarda, koyu yaz›lm›ﬂ yerlerde, çerçeve içine al›nm›ﬂ cümle-
+lerde, ﬂemalarda biraz daha yavaﬂlayarak ilerleyin.
+Çok h›zl› yapman›z zihninize yeterli uyar›y› vermez. E¤er çok
+a¤›r yaparsan›z fark›nda olmadan okumaya geçersiniz. Orta bir
+tempoda; okumadan, vurgulanm›ﬂ noktalar› görerek sadece izle-
+me yap›n.
+Ne sa¤lar?
+Lütfen aﬂa¤›da yazan kelimeyi okuyun.
+Ço¤unuz bunu “Baﬂar›” olarak okudunuz. Oysa buradaki baﬂa-
+r› de¤il, sadece birkaç çizginin aralar›nda boﬂluklarla bir araya
+geldi¤i bir ﬂekildi.
+Rahat olun, bu anormal oldu¤unuzu de¤il, aksine normal ol-
+du¤unuzu gösteriyor. Çünkü zihnimiz boﬂluklar› doldurma e¤ili-
+mindedir.
+‹ﬂte izlemek, zihninize doldurabilece¤i bir boﬂluk sunmakt›r.
+E¤er size bomboﬂ bir sayfa gösterip ne yaz›yor diye sorsayd›k,
+muhtemelen ne cevap verece¤inizi hakl› olarak bilemezdiniz.
+Zihninize de bir ﬂablon sunmadan do¤rudan okumaya geçmeniz,
+ondan dolduraca¤› boﬂluklar olmadan boﬂ sayfada ne yazd›¤›n›
+bulmas›n› istemenizle ayn›d›r.
+‹zlemek; zihninize en genel hatlar›yla çal›ﬂaca¤›n›z konu hak-
+k›nda bir fikir vererek çerçeveyi oluﬂturur. Zihin bu ﬂablona sahip
+oldu¤unda daha h›zl› ve kolay ö¤renir.
+NLP ‹le Haf›za Teknikleri 125
+
+--- Sayfa 124 ---
+Ayn› zamanda zihniniz boﬂluklar› doldurmay› hedefleyece¤i
+için anlamakta zorlanaca¤›n›z bölümlerin say›s› azalar› ve alg›la-
+ma gücünüz artar.
+Sor (3 - 5 dk)
+Ne de¤ildir?
+* Konuyu tamamen inceleyip, soru ç›karmak de¤ildir.
+* Konu içindeki sorular› çözmek de¤ildir.
+* Konu içerisinde cevab› oldu¤unu bildi¤iniz sorular üret-
+mek de¤ildir.
+“Sor” çal›ﬂmas› klasik yöntemde oldu¤u gibi cevab›n› konu-
+nun içinde bulaca¤›n›z›n garantisi olan sorular türetmek ve ko-
+nuyu okudukça soru oluﬂturmaktan çok farkl› ve çok daha etkili
+bir yöntemdir.
+Nedir?
+* Baﬂl›klar› soruya çevirmektir.
+* Konu içinde koyu yaz›larak ya da çerçeve içine al›nan bö-
+lümleri soruya dönüﬂtürmektir.
+* Sorulardan yeni sorular ç›karmakt›r.
+K›saca özgürce ve h›zl› bir ﬂekilde konuyu okumadan sadece
+yarat›c› sorular üretmektir.
+Nas›l uygulan›r?
+a) Tüm baﬂl›klar› soruya dönüﬂtürün.
+Lale Devrinin Özellikleri - Lale Devrinin Özellikleri Nelerdir?
+Gibi
+b) Konu içinde koyu yaz›lm›ﬂ ya da çerçeve içine al›nm›ﬂ cüm-
+leleri, formülleri, tarihleri soruya dönüﬂtürün.
+126 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 125 ---
+c) Kitab› kapat›n ve bu sorulardan baﬂka sorular üretin. Soru-
+lar›n›z›n hepsinin cevaplar›n›n konu içinde olup olmad›¤›-
+na ald›rmadan, her sorudan baﬂka sorular ç›kar›n.
+Ne sa¤lar?
+Zihnimizin en hoﬂlanmad›¤› ﬂeylerin baﬂ›nda belirsizlikler ve
+cevaplanmam›ﬂ sorular gelir.
+Bir konuda karars›z kald›¤›n›zda kendinizi nas›l hissedersiniz?
+Herhalde içinizde “Çok mutlu olurum” diyen yoktur. Diyen varsa
+bildi¤imiz iyi tedavi yöntemleri var.
+Karars›zl›kta temelde belirsizliktir ve zihnimizi rahats›z eder.
+Bir konuda karars›z kald›¤›m›zda kendimizi huzursuz hissederiz.
+Sürekli tedirginizdir ve akl›m›z o noktaya tak›lm›ﬂt›r.
+“Sor” çal›ﬂmas› zihninizin bu özelli¤ini kendi lehinize kullan-
+man›z› sa¤lar.
+Klasik yöntemdeki soru ç›karma çal›ﬂmas›nda, zihniniz cevap-
+lar›n konuda var oldu¤unu zaten bildi¤i için bir belirsizlik söz ko-
+nusu de¤ildir.
+Oysa bu çal›ﬂmada daha konuyu okumadan soru üretti¤iniz
+için cevaplar›n olup olmad›¤› ya da nas›l aç›kland›¤› konusunda
+net bir fikriniz olmad›¤›ndan bu zihniniz için rahats›z edici bir be-
+lirsizliktir.
+Bu sebeple siz konuyu okumaya geçti¤inizde, bu rahats›zl›k-
+tan kurtulmak isteyen zihniniz; sorular›n cevaplar›n› bulmaya
+programlanacakt›r.
+Elinizde “‹zle” çal›ﬂmas›yla bir çerçeveniz, “Sor” çal›ﬂmas›yla
+cevab› bulunmas› gereken ve zihninizi huzursuz eden sorular ol-
+du¤u için dikkatiniz artacak ve ö¤renmeleriniz çok daha kal›c›
+olacakt›r.
+NLP ‹le Haf›za Teknikleri 127
+
+--- Sayfa 126 ---
+Oku (30 - 35 dk)
+Ne de¤ildir?
+* Sadece kelimelerle çal›ﬂmak de¤ildir.
+* Ezberlemek de¤ildir.
+Konuyu düz bir ﬂekilde okumak, okuduklar›n›zdan özet ç›kar-
+mak elbette ki ö¤renmenizi kolaylaﬂt›racakt›r. Ama sadece keli-
+melerle yapaca¤›n›z bu çal›ﬂma kal›c› ve h›zl› ö¤renme için yeter-
+li de¤ildir.
+Nedir?
+* Konuyu çal›ﬂmakt›r.
+* Çal›ﬂ›rken haf›za tekniklerini kullanmakt›r.
+* Konu içerisinde verilen örnekleri incelemktir.
+* Konuyu sanki bir baﬂkas›na anlatacakm›ﬂ gibi çal›ﬂmakt›r.
+Nas›l uygulan›r?
+a) Konuyu okumaya baﬂlay›n.
+b) Maddeleri ya da önemli paragraflar› zihninize çivileyin.
+c) Soyut kavramlar ve özel isimler için akrostiﬂ tekni¤ini kul-
+lan›n.
+d) Anlat›lan olaylar› gözlerinizi kapatarak, içine komik ve tu-
+haf ö¤eler de ekleyerek zihninizde canland›r›n.
+e) Konunun genel bir özetini ç›kar›n ama bu özeti sadece ya-
+z›yla de¤il, resimlerle de yap›n.
+f) Tüm bu çal›ﬂmalar› yaparken, biraz sonra baﬂka birine an-
+lataca¤›n›za ve ona en iyi ﬂekilde ö¤retmeniz gerekti¤ine
+kendinizi ﬂarland›r›n.
+128 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 127 ---
+Ne sa¤lar?
+* Konuyu sadece kelimelerle de¤il resimler, abart›lar ve es-
+pirilerle çal›ﬂt›¤›n›z için zihninize kal›c› olarak yerleﬂir.
+* Hat›rlayamad›¤›n›z bilgilerin say›s› oldukça azal›r.
+* Konuya tekrar için döndü¤ünüzde s›f›rdan baﬂla
+mak zorunda kalmazs›n›z. K›sa sürede bilgilerinizi tazelersi-
+niz.
+Anlat (7 - 10 dk)
+Ne de¤ildir?
+* Konuyu oldu¤u gibi kitaptan anlatmak de¤ildir.
+* Konuyu kendi kendine anlatmak de¤ildir.
+Nedir?
+Konuyu bir ö¤retmen gibi, hiç bilmeyen birine anlat›yormuﬂ
+gibi anlatmakt›r.
+Nas›l uygulan›r?
+* Bir eﬂyay› ya da zihninizde canland›rd›¤›n›z birini dinleyici
+olarak seçin.
+* Onun konuyu hiç bilmedi¤ini varsayarak ona anlat›n.
+* Anlat›m›n›za bir ö¤retmen gibi kendi yorumlar›n›z› kat›n.
+* Anlat›m›n›z› haf›za teknikleriyle yapt›¤›n›z çal›ﬂmay› kulla-
+narak yap›n.
+* Mutlaka sesli olarak yap›n.
+* K›sa, öz ve genel hatlar›yla önemli noktalar› kullan›n.
+NLP ‹le Haf›za Teknikleri 129
+
+--- Sayfa 128 ---
+Ne sa¤lar?
+* Bir baﬂkas›na anlatmak için çal›ﬂ›lan bilgiler zihinde daha
+güçlü iﬂlenir.
+* Sesli anlat›m s›ras›nda çal›ﬂ›rken fark›nda olmad›¤›n›z ye-
+ni yorumlar yapars›n›z.
+* Birine ö¤retmeye çal›ﬂmak zihni konuya en iyi ﬂekilde ha-
+kim olmaya programlar.
+* Bir kez anlat›lan bilgi zihne köklü ﬂekilde yerleﬂir.
+Tekrar Et (3 - 5 dk)
+Ne de¤ildir?
+* Konuyu en baﬂtan tekrar çal›ﬂmak de¤ildir.
+* Sadece bir-iki kez yap›lan bir çal›ﬂma de¤ildir.
+Nedir?
+* Çal›ﬂma notlar›n›za ve konu içerisindeki önemli örneklere
+h›zl› bir göz gezdirmedir.
+* Günlük, haftal›k ve ayl›k yap›lan düzenli bir çal›ﬂmad›r.
+Nas›l uygulan›r?
+* 5-10 dk ara verdikten sonra yap›n.
+* Haf›za tekniklerini kullanarak oluﬂturdu¤unuz çal›ﬂmaya
+h›zla göz gezdirin.
+* ‹lk çal›ﬂman›zda önemli oldu¤unu düﬂündü¤ünüz örnekle-
+ri h›zla inceleyin.
+* Bu tekrar› ayn› konu için bir gün, bir hafta, iki hafta, bir ay,
+üç ay ve alt› ay sonra yineleyin.
+130 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 129 ---
+Ne sa¤lar?
+* Tekrar edilmeyen bilgilerin birkaç gün sonra yar›s›, bir ay
+sonrada %80’ini kaybolur.
+* Konular› aradan zaman geçtikten sonra en baﬂtan uzun za-
+man ay›rarak tekrar çal›ﬂmaya ihtiyaç duyman›z›n sebebi
+budur.
+* Belli aral›klarla k›sa sürelerde(en fazla 5 dk) yap›lan tekrar-
+lar, en baﬂtan çal›ﬂman›za gerek kalmadan bilgilerin %80-
+%90’›n› hat›rlaman›z› sa¤lar.
+Tekrar Program›
+* 1 GÜN SONRA 3-5 DK
+* 1 HAFTA SONRA 3-5 DK
+* 2 HAFTA SONRA 3-5 DK
+* 1 AY SONRA 3-5 DK
+* 3 AY SONRA 3-5 DK
+* 6 AY SONRA 3-5 DK
+Bir Konu ‹çin Çal›ﬂma Program›
+‹ZLE
+: 30 - 60 sn
+SOR
+: 3  -   5 dk
+OKU
+: 30 - 35 dk
+ANLAT
+: 7  -  10 dk
+ARA
+: 5 - 10 dk
+TEKRAR ET : 3 - 4 dk
+ORTALAMA: 60 dk
+E¤er çal›ﬂman›z gereken konu çok uzunsa ikiye bölün ve her
+iki bölüm için ayr› ‹SOAT uygulay›n.
+NLP ‹le Haf›za Teknikleri 131
+
+--- Sayfa 131 ---
+8. BÖLÜM
+B‹Z SUSTUK, SIRA S‹ZDE
+NLP ile Haf›za Teknikleri E¤itimi alan ö¤rencilerimizin e¤itim
+sonras›nda bizlerle paylaﬂt›klar›n› onlar›n anlat›mlar›n› hiç boz-
+madan sizlerle paylaﬂaca¤›z. ﬁunu hat›rlay›n ki bu teknikleri ve
+daha fazlas›n› ö¤renip, uygulad›¤›n›z sürece sizde onlardan biri
+olabilirsiniz.
+Bu kursla birlikte düﬂüncelerim çok de¤iﬂti. Buraya gelmeden
+önce kafamdaki önyarg›lar zihnimi o kadar kemiriyordu ki; baﬂla-
+d›¤›m her iﬂin sonunu getiremiyordum. Dersin baﬂ›na oturdu-
+¤um anda, hemen s›k›l›rd›m. Akl›ma bir sürü olumsuz düﬂünce-
+ler gelirdi.
+Bu kursa geldikten sonra ders çal›ﬂmak daha zevkli bir hale
+geldi. Önyarg›lar›mdan kurtularak, yapabilece¤imi, baﬂarabilece-
+¤imi gördüm. Teknikleri derse uygulad›¤›m zaman her ﬂey daha
+rahat, kolay oluyor. Çünkü bu iﬂi isteyerek ve zihnimdeki bütün
+olumsuz düﬂüncelerden kurtularak yap›yorum.
+NLP ‹le Haf›za Teknikleri 133
+
+--- Sayfa 132 ---
+Bütün gördü¤ümüz teknikleri kullanarak iyi bir üni-
+versiteyi kazanaca¤›m› biliyorum. Gerçekten çok yarar›
+oldu. Her ﬂey için teﬂekkür ederim.
+Cansu YUNUSO⁄LU (19 )
+Kursun son günü… Art›k kurstan ö¤rendiklerimi
+hayata uygulaman›n zaman› geldi. Bundan sonra bu
+kurs sayesinde zay›f oldu¤um derslerden korkmayaca-
+¤›m. Derste iken s›k›lmayacak, art›k onlardan zevk ala-
+ca¤›m ve inan›yorum ki bu e¤itimi almakta amac›ma
+ulaﬂmak için büyük bir ad›m att›m.
+Sabri ERTAN (17)
+Derslerde art›k pratik olarak hoca anlat›rken ben
+bilgileri sadece çivilemekle u¤raﬂaca¤›m. Çünkü baﬂ›-
+boﬂ kal›rlarsa kaybolup gideceklerdir. Bunca zaman
+mant›kl› olmak için u¤raﬂ›rken ﬂimdi sizler bana saç-
+mala diyorsunuz, iyi ki de diyorsunuz. Bundan sonra
+bilgileri daha iyi kavr›yorum. Saçmalamak için u¤raﬂ›-
+yorum.
+Yusuf GÜVEN (15)
+Sanki içimden bir ﬂey O¤uzhan bunu baﬂar›r diyor.
+Herkes seninle gurur duyacak..
+O¤uzhan GÜLMEZ (10)
+Hocam ilk olarak ﬂunu söylemek istiyorum, Burada
+bugün son günüm bunu biliyorum ve e¤itimin bitme-
+sinden de çok hoﬂnutsuzum. Keﬂke 6 veya 7 ay sürse
+süper olurdu. Neyse olaca¤a ve ölece¤e çare yokmuﬂ,
+size ve bu e¤itimi almamda vesile olan herkese teﬂek-
+kür ederim.
+‹simsiz
+134 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 133 ---
+Evet, iﬂte geldim buraday›m. Bugün buradan gide-
+meyece¤imi anlad›m, bir ay süre çok azm›ﬂ gibi geldi
+ama ne yapal›m bu kadarm›ﬂ. Söyledi¤im gibi “s›k› dur
+hayat ben geliyorum” Kendinizin d›ﬂ›ndaki insanlar-
+dan bir ad›m daha ileride olmak güzel olsa gerek…
+Evet, ben bu güzelli¤i yaﬂamak istiyorum.
+‹rem KATRANCI (16 )
+Asl›nda ilk baﬂta buraya gelmeye çekinmiﬂtim. Ama
+art›k bitmesini istemiyorum. Ö¤retti¤iniz bütün tek-
+nikleri derslerimde ve hayat›mda uyguluyorum. Bana
+çok ﬂey kazand›rd›¤›n›z› düﬂünüyorum. Her ﬂey art›k
+çok kolay geliyor, hiçbir ﬂeyden korkmuyorum. Arka-
+daﬂlar›mla birlikte ders çal›ﬂ›rken ben bu teknikleri uy-
+guluyorum, arkadaﬂ›m ya ezberliyor ya da okuyor art›k
+bu iki kavram bana çok uzak geliyor. Okumak ve ezber-
+lemek benim hayat›mda art›k çivileme, çan e¤risi, gibi
+birçok teknik var  Size çok teﬂekkür ederim.
+‹simsiz
+Sn: Müge ve Bülent Hocalar›m›z;
+4 haftal›k e¤itimin sonunda bana hayat›m boyunca
+yard›mc› olacak ﬂeyler ö¤rettiniz. E¤lenerek ö¤renmek
+çok zevkliydi. Bu teknikler bana dersleri ö¤renmemi
+kolaylaﬂt›rd›. Ö¤retmenler derste anlat›rken ö¤retti¤i-
+niz tekniklerle not almay› ve bilgileri kafamda resimle-
+yerek, canland›rarak ö¤renmeyi ö¤rendim Bu da evde
+tekrar ederken çok büyük kolayl›k sa¤l›yor. Kendime
+güvenmeyi ö¤retti¤iniz için her ikinize de çok teﬂekkür
+ederim.
+Mine YILMAZ  (14)
+NLP ‹le Haf›za Teknikleri 135
+
+--- Sayfa 134 ---
+Bugün hayat›m›n dönüm noktas›, yapamad›¤›m,
+edemedi¤im, ﬂeyleri ﬂimdi çok k›sa bir sürede kavra-
+d›m yapaca¤›ma inand›m. Yeteneksizim sözü hayat›m-
+dan kalkt›, uzun, uzun ders çal›ﬂma ve UNUTMAK gibi
+kavramlar art›k yok. Çok mutluyum
+Ali YALÇIN (12)
+Vay be! Yavaﬂ yavaﬂ oluyooo.......
+‹simsiz
+Bugüne kadar baz› zorluklar›n karﬂ›s›nda ne yapa-
+ca¤›m› ﬂaﬂ›r›rd›m, bazen de vazgeçerdim, üstüne düﬂ-
+mezdim. Çünkü yapamayaca¤›m›, zaman›m›n tümünü
+ona yo¤unlaﬂt›rsam da olmayaca¤›n› düﬂünürdüm.
+Ama bugün ö¤rendim ki o benim için ufak bir havuz…
+Ve ben bu havuzu kolayca geçebilirim. Art›k onlar ben-
+den korksun ben onlardan de¤il…
+Gözde ÇIKAN (18)
+Bur da çok e¤lendim güzel ﬂeyler ö¤rendim. Kendi-
+me güvenmeyi, derslerime nas›l çal›ﬂa bilece¤imi,
+dersleri kolaylaﬂt›r›p ta nas›l zevkli bir hale getire bile-
+ce¤imi ö¤rendim. Günlerim burada çok zevkli geçti.
+Bitti¤i için üzgünüm. Kendimde farklar görüyorum. ‹lk
+geldi¤imde çok heyecanl› ve tedirgindim hatta gelme-
+sem mi diye düﬂünmüﬂtüm ama bugünlerde bitti¤i
+için üzülüyorum. Bu ö¤rendi¤im teknikler iﬂime yar›-
+yor ve yarad›¤›n› da görüyorum. Derslerimde art›k da-
+ha fazla baﬂar›l›y›m.
+Özge ÂﬁIK (13)
+136 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 135 ---
+Ben dün nas›l saçmalan›r diye düﬂünmüﬂtüm. Saç-
+mal›k nedir? Bu sorunun cevab›n› arad›m hatta kom-
+pozisyon yazmay› bile düﬂündüm. O zaman dedim ki
+benim yapabilece¤im hiçbir ﬂey saçma de¤il yani ben
+ﬂimdi arkadaﬂ›ma ÖSS'de Türkiye 1.’si olaca¤›m de-
+sem inanmaz çok saçma bulur ama Türkiye 1.’si olur-
+sam saçmal›k olmaktan ç›kar ve ola¤anüstü hal al›r.
+Yani yapa bilece¤im hiçbir ﬂey saçmal›k de¤ildir.
+Özge DEM‹R (15 )
+Ben geçen süre içinde size bu kadar al›ﬂabilece¤imi
+,bir gülüﬂünüz ve bize ö¤rettiklerinize bu kadar ba¤la-
+naca¤›m› hiç düﬂünmemiﬂtim. E¤itimden sonra her
+eve giriﬂimde aynaya bak›p ,farkl› bir ben görmek ,biri-
+lerinin bana özgüvenimi kazand›r›p ta yürüyüﬂümün,
+olaylara, insanlara bak›ﬂ›m›n de¤iﬂimini görmek müt-
+hiﬂ bir ﬂey. Bence insanlar sizinle tan›ﬂmad›klar›, bu
+e¤itimi almad›klar› için çok ﬂans›zlar. Birileri onlar›n
+at gözlüklerini ç›karmal› ki, bu yenili¤e, bambaﬂka bir
+yaﬂama ad›m ats›nlar. Kal›plaﬂm›ﬂ yarg›lar›m›z, s›k›n-
+t›lar›m›z bitsin. Tüm insanlar bir gün sizin fark›n›za va-
+r›r umar›m. Sizi çok seviyorum!!!!
+Naz SARIKAYA (17)
+NLP ‹le Haf›za Teknikleri 137
+
+--- Sayfa 137 ---
+KAYNAKÇA
+1. Alder, Harry: NLP El Kitab›, Kariyer Yay›nc›l›k, ‹stanbul,
+2005.
+2. Al›c›, Ak›n: Hayata Yön Veren Öyküler, Epsilon Yay›nlar›,
+‹stanbul, 2004.
+3. Andreas, Steve: Faulkner, Charles: NLP Baﬂar›n›n Yeni Tek-
+nolojisi, Beyaz Yay›nlar›, ‹stanbul, 2001.
+4. Arkonaç, Sibel: Psikoloji Zihin Süreçleri Bilimi, Alfa Bas›m
+Yay›m Da¤›t›m, 2.Bask›, ‹stanbul, 1998
+5. Baltaﬂ, Acar: Üstün Baﬂar›, Remzi Kitabevi , ‹stanbul, 2003.
+6. Bandler, Richard: Structure of Magic, Science & Behavior
+Books, 1975.
+7. Baran, Ziya: Haf›za Gücünüzü Keﬂfedin, Edinka, ‹zmir, 2003
+8. Burley-Allen, Madelyn: Zihinsel Becerileri Geliﬂtirmek, Ro-
+ta Yay›nlar›, ‹stanbul, 1997.
+9. Buzan, Tony: Bellek E¤itimiyle An›msama Yöntemleri, Ep-
+silon Yay›nlar›, ‹stanbul, 1997
+10. Buzan, Tony: Use Your Head, Ariel Book, BBC Boks, Lon-
+don, 1982.
+11. Buzan, Tony, Keene Raymond: Dehan›n El k‹tab›, Sabah
+Kitaplar›, ‹stanbul, 1996.
+12. Buzan, Tony/Duyar, Melih: Dinamik H›zl› Okuma, Mega
+Haf›za, Ankara, 2000
+NLP ‹le Haf›za Teknikleri 139
+
+--- Sayfa 138 ---
+13. Cücelo¤lu, Do¤an: ‹çimizdeki Biz, Sistem Yay›nc›l›k, 12.
+Bas›m, ‹stanbul, 1997.
+14. Çiftkaya, Murat: Baﬂar› Öyküleri, Timaﬂ Yay›nlar›, ‹stanbul,
+2003.
+15. Çiftkaya, Murat: Gülümseyen Öyküler, Timaﬂ Yay›nlar›, ‹s-
+tanbul, 2003.
+16. Davies, D.: Maximizing Examination Performance. A
+Psychological Approach, Kogan Page, London, 1986.
+17. Dudley, G.A.: Double Your Learning Power, Thorsons
+Publ, Group, Northamptonshire, 1986.
+18. Erdo¤an, Abdüllatif: Mevlana'dan Hikayeler, Ares Kitap,
+‹stanbul 2005
+19. Fenker, M.R.: Stop Studying Start Learning, Tangram Pres,
+Texas, 1981.
+20. Geisselhart, Roland, Marion Zerbst: Bellek Geliﬂtirme,
+Unutmay› Unutun, Evrim Yay›nevi, 2.Bas›m, ‹stanbul,
+1998.
+21. Goleman, Daniel: Duygusal Zeka, Varl›k Yay›nlar›, 7. Ba-
+s›m, ‹stanbul, 1999.
+22. Helmstetter, Shad: ‹çe Dönük Konuﬂman›n Gücü, Sistem
+Yay›nc›l›k, ‹stanbul, 2001.
+23. Hirsch, Peter: Tutkuyla Yaﬂamak, Beyaz Yay›nlar›, ‹stanbul,
+1998.
+24. King Kahili, Serge: Hayal Mühendisli¤i, Kurald›ﬂ› Yay›nc›-
+l›k, ‹stanbul, 2005.
+25. Linden, Anne: Sihirli Anahtar, Boyner Holding Yay›nlar›,
+‹stanbul, 1999.
+26. Maviﬂ, Adil: Telkin ve Hipnozla Ö¤renme Teknikleri, Hayat
+Yay›nlar›, ‹stanbul, 2004.
+27. Naparstek, Belleruth: Alt›nc› Duyunuz, Beyaz Yay›nlar›, ‹s-
+tanbul, 1998.
+28. Ramsland, Katherine: Ö¤renme Sanat›, Beyaz Yay›nlar›, ‹s-
+tanbul, 1998.
+140 NLP ‹le Haf›za Teknikleri
+
+--- Sayfa 139 ---
+29. Reca, Faruk: Muhteﬂem Hayatlar, Ares Kitap, ‹stanbul
+2005
+30. Rifenbary, Jay: Mazeret Yok, Sistem Yay›nc›l›k, ‹stanbul,
+1998.
+31. Robbins, Anthony: S›n›rs›z Güç, ‹nkilap Kitabevi, ‹stanbul,
+1998.
+32. Sekman, Mümin: Kesintisiz Ö¤renme, Alfa Bas›m Yay›m
+Da¤›t›m, ‹stanbul, 1998.
+33. Savant, Marilyn: Beyin Geliﬂtirme - Kendinizi Ak›lland›rma
+Egzersizleri, ‹m Yay›n Tasar›m, ‹stanbul, 1998.
+34. Sezik, Nejat: S›n›rs›z Beyin Gücü, Hayat Yay›nc›l›k, ‹stan-
+bul, 2003
+35. Tolle, Eckhart: ﬁimdi'nin Gücü, Akaﬂa Yay›n Da¤›t›m, ‹s-
+tanbul, 2001.
+36. Weiss, H.Donald: Bellek Güçlendirme Teknikleri, Rota Ya-
+y›nlar›, ‹stanbul, 1993.
+37. Vester, Frederic: Düﬂünmek, Ö¤renmek, Unutmak, Ar›tan
+Yay›nevi, 1997.
+NLP ‹le Haf›za Teknikleri 141

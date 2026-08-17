@@ -1,0 +1,28 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+
+# Temporary / OS Files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# SQLite Database Files (>100MB, built on server via index_search.py)
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+
+# Large Original Archive Folders (ZIPs) and Standalone Binaries
+Books/
+Converted_PDFs/
+extensions/
+cloudflared.exe
+mingit.zip
+gh.zip
+.git-bin/

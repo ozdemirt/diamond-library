@@ -1,0 +1,1346 @@
+--- Sayfa 1 ---
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler
+Yaz›n›na Katk›lar›
+Özgür ÖZDAMAR*
+ÖZET
+Bu makale, oyun kuram›n›n uluslararas› iliﬂkilerdeki uygulamalar›na bir giriﬂ ve kat -
+k›lar›n›n tart›ﬂmas› olarak tasarlanm›ﬂt›r. Oyun kuram›n›n araçsal ak›lc›l›¤› ve formel
+metotlar› kullanmas›n›n uluslararas› iliﬂkilerin stratejik do¤as›n› anlamaya nas›l ve
+ne kadar yard›mc› oldu¤u yaz›ndan örnekler verilerek tart›ﬂ›lm›ﬂt›r. Buna göre, oyun
+kuram› son elli y›lda uluslararas› iliﬂkileri anlamam›za ve aç›klamam›za büyük katk› -
+larda bulunmuﬂlard›r. Makale ilk olarak ak›lc›l›k belitinin bir tart›ﬂmas›n› yapmakta -
+d›r. Daha sonra oyun kuram›n›n yaz›nda nas›l kullan›ld›¤› örnekler verilerek gösteril -
+miﬂtir. K›sa bir yaz›n taramas›n›, oyun kuram› kullanman›n uluslararas› iliﬂkiler ça -
+l›ﬂmalar›na katk›lar›n›n tart›ﬂ›ld›¤› bölüm izlemektedir. Son olarak kurama getirilen
+eleﬂtiriler ve kuram›n s›n›rlar› ve gelece¤i üzerine düﬂünceler tart›ﬂ›lm›ﬂt›r.
+Anahtar Kelimeler: Oyun kuram›, formel ak›lc› tercih kuram›, ak›lc›l›k beliti, stratejik
+etkileﬂimler.
+Contributions of Game Theory to International Relations Literature
+ABSTRACT
+This article is an introduction to the applications of game theory in international stud -
+ies and makes an evaluation of what is added by using it. I illustrate the benefits of
+incorporating the instrumental rationality assumption and formal methods to inter -
+national studies via giving examples from the literature. I argue that despite its rela -
+tive infancy in the field, use of game theory have greatly contributed to our under -
+standing and explanations of international relations. First, the assumptions of the
+theory are discussed. Second, some commonly used games from the  literature are
+presented. A short literature review is followed by a discussion of what is added by
+using game theory in international relations studies. F‹nally, criticisms, limitations
+and future of game theory are discussed.
+Keywords: Game theory, formal rational choice theory, rationality assumption, strate -
+gic interactions.
+*
+Ö¤retim görevlisi, TOBB-ETÜ Uluslararas› ‹liﬂkiler Bölümü, Ankara. ozdamar@etu.edu.tr
+33
+
+--- Sayfa 2 ---
+Giriﬂ
+Savaﬂlar› kazanan, muharebeden önce karargâh›nda çok hesap yapan generaldir. Az
+hesap yapansa kaybedendir. Öyleyse zafer için çok, yenilgi içinse az hesap yap: hele hiç
+yapmayanlar›n vay haline!1
+MÖ 6. yüzy›lda yaﬂam›ﬂ ünlü Çinli General Sun Tzu, Savaﬂ Sanat› eserinde,
+devletleraras› iliﬂkilerde stratejik hesaplar›n hayati önemini ﬂöyle dile getirmiﬂ-
+tir: Çok hesap zaferi, az hesap yenilgiyi garantiler! ‹ki bin beﬂ yüz y›l sonra,
+uluslararas› iliﬂkilerin stratejik do¤as›n›n çok de¤iﬂti¤ini söyleyemeyiz.
+Güncel akademik uluslararas› iliﬂkiler çal›ﬂmalar›n› inceledi¤imizde bu stra-
+tejik etkileﬂimleri hakk›yla anlayabilmek için geliﬂmiﬂ analiz biçimlerinin yayg›n
+kullan›lmad›¤› görülür. Bu eksikli¤e en büyük istisna ise formel ak›lc› tercih ku-
+ram› ve bunun kollar› olan oyun teorisi ve beklenen fayda teorileridir. Göreli ye-
+niliklerine2 ra¤men, formel kuramlar›n kullan›m› uluslararas› iliﬂkileri anlama-
+m›za büyük katk›larda bulunmuﬂtur. Bu makalenin amac›, oyun kuram›n›n ne
+oldu¤u ve uluslararas› iliﬂkileri anlamam›za nas›l yard›m etti¤i üzerine bir giriﬂ
+ve tart›ﬂma yapmakt›r. Bunun için ilk önce ak›lc› tercih kuram›ndan ne anlaﬂ›l-
+d›¤› anlat›lacakt›r. Takiben ak›lc› tercih kuram›n›n belitsel temellerinin bir tar-
+t›ﬂmas› yap›lacak ve oyun kuram›n›n uluslarararas› iliﬂkiler çal›ﬂmalar›nda na-
+s›l kullan›ld›¤› incelenecektir. Son olarak oyun kuram›n›n uluslararas› iliﬂkiler
+disiplininin geliﬂimine nas›l katk› yapt›¤› ve oyun kuram›n›n zay›f noktalar› tar-
+t›ﬂ›lacakt›r.
+Ak›lc› Tercih Kuram› ve Makalenin Oda¤›
+Tart›ﬂmaya baﬂlamadan önce ak›lc› tercih kuram›ndan ne kastedildi¤inin aç›k-
+lanmas› gerekir. En temelde ak›lc› tercihlere sahip siyasi aktörleri varsayan ve
+buna göre siyasal analiz yapan her yaklaﬂ›ma ak›lc› tercih kuram› denir. Tan›m
+bu ﬂekilde yap›ld›¤›nda, örne¤in analiz birimi olarak devleti seçen ve devletlerin
+uluslararas› sistemde ‘ak›lc›’ davrand›¤›n› var sayan bir realist, neoliberal ku-
+rumsalc› ya da neorealistin de, ak›lc› tercih paradigmas› içinde çal›ﬂt›¤› öne sü-
+rülebilir. Bu ba¤lamda karﬂ›laﬂt›rmal› siyaset literatüründe rastlad›¤›m›z, ak›l-
+c›l›k belitinden yararlanan, ancak formel metot ve modelleme kullanmadan ana-
+litik metinlerle nitel analiz yapan araﬂt›rmac›lar da bu okula ait say›lmal›d›r.
+Çünkü san›ld›¤›n›n aksine, ak›lc› tercih kuram› formel dil ve/veya model kulla-
+n›m›n› gerektirmez.
+Ancak ak›lc› tercih kuram›n› kullanan birçok araﬂt›rmac› formel dilleri3 kul-
+lanmay› seçti¤i için birçok kiﬂi -yanl›ﬂ olarak- ak›lc› tercih kuram›n› oyun kura-
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+1
+Sun Tzu. The Art of War. http://classics.mit.edu/Tzu/artwar.html (2007, çev. Ö. Özdamar)
+2
+Bat› yaz›n›nda uluslararas› iliﬂkilerin ilk bilimsel incelemesinin Tukidides (MÖ 5. yy) ile
+baﬂlad›¤›n› kabul edersek formel kuram göreli yeni bir çal›ﬂma alan›d›r.
+3
+Formel dilden kas›t, do¤al dillerden (Türkçe gibi) baﬂka herhangi bir dildir. Yani matematiksel,
+diagramatik veya sembolik dilleri kullanarak uluslararas› iliﬂkiler çal›ﬂmalar› yapan çal›ﬂmalar›n
+ortak ismidir. Ancak siyaset bilimi yaz›n›nda s›kl›kla kullan›lan di¤er dil matematik oldu¤u için
+34
+
+--- Sayfa 3 ---
+m› ve beklenen fayda kuramlar›na eﬂ tutmuﬂtur. Bu iki teoriyi, daha büyük bir
+küme olan ak›lc› tercihin bir altkümesi olarak de¤erlendirip, isimlerini formel
+ak›lc› tercih kuram› olarak koymak daha do¤ru olacakt›r. Makalenin oda¤›n› da
+formel ak›lc› tercih kuramlar›ndan biri olan oyun kuram›n›n ne oldu¤unun tar-
+t›ﬂ›lmas› ve kuram›n uluslararas› iliﬂkiler4 yaz›n›na katk›lar› oluﬂturmaktad›r.
+Türkçe uluslararas› iliﬂkiler yaz›n›nda formel kuramlar ya da oyun kuram›n›n
+uluslararas› iliﬂkiler disiplininde kullan›m›n› ele alan eser say›s› azd›r. Buna bir
+istisna Güner’in (2003) “Oyun Kuram› ve Uluslararas› Politika” isimli makalesi-
+dir.5 Oyun teorisinin uyguland›¤› as›l alanlardan baz›lar›n› ve de¤iﬂik analiz dü-
+zeylerini ayr›nt›l› incelemek isteyen okuyucular bu makaleden yararlanabilir-
+ler.6 Bu çal›ﬂman›n oda¤› ise daha çok formel kuramlar›n –ortak- varsay›mlar›-
+n›n tespiti ve tart›ﬂ›lmas›, oyun teorisinden örnekler verilere kuram›n uluslara-
+ras› iliﬂkiler kuramlar› ile ba¤lant›lar›n›n kurulmas›, kuram›n uluslararas› iliﬂ-
+kileri anlamaya özel olarak yapt›¤› katk›lar›n tart›ﬂ›lmas› ve kurama yöneltilen
+eleﬂtirilerin belirlenmesi olacakt›r.
+Ak›lc› Tercih Kuram›n›n Belitsel Temelleri
+Ak›lc› tercih kuram›na yöneltilen en büyük eleﬂtirilerin, bu kuram›n belitsel te-
+mellerinden kaynakland›¤›n› söylemek yanl›ﬂ olmaz. 1960’lardan itibaren ulus-
+lararas› iliﬂkiler literatüründe kullan›lan oyun kuram› ve beklenen fayda kura-
+m›, en baﬂ›ndan beri geleneksel siyasal analizciler taraf›ndan ﬂiddetle eleﬂtiril-
+miﬂtir. Ak›lc› tercih kuram› içerisindeki çal›ﬂmalar›n h›zla artmas› ve özellikle
+ABD’deki siyaset bilimi yaz›n›nda çok s›k yer almas›yla, eleﬂtiriler de ﬂiddetini
+artt›rm›ﬂ ve son yirmi y›lda en üst düzeye ulaﬂm›ﬂt›r7. Eleﬂtirilerin odak nokta-
+s›n› da, birçok siyaset bilimcinin –neredeyse- kerih gördü¤ü ‘ak›lc›’ sözcü¤ü ve
+‘ak›lc›l›k’ beliti oluﬂturur.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+genellikle formel dil matematiksel modellerle özdeﬂleﬂtirilmiﬂtir. Bu konuda bkz. Michael
+Nicholson, “Formal Models in International Relations”, Michael Brecher ve Frank P. Harvey (der.),
+Millennial Reflections on International Studies, Ann Arbor: University of Michigan Press, 2002,
+s. 345-360.
+4
+Formel kuram›n genel olarak siyaset biliminin her alan›na katk› yapt›¤›n› (oy verme
+davran›ﬂ›ndan kurumsal düzenlemelerin iktisada olan etkisine kadar geniﬂ bir alan) belirtmeliy-
+iz. Formel kuram›n siyaset bilimine katk›lar›n›n daha geniﬂ bir incelemesi için bkz. Lalman,
+David, Piotr Swistak ve Joe Oppenheimer, “Formal Rational Choice Theory: A Cumulative Science
+of Politics”, Ada Finifter (der.), Political Science: The State of the Discipline II, American Political
+Science Association: Washington DC,  1993, s.77-104.
+5
+Serdar ﬁ. Güner, “Oyun Kuram› ve Uluslararas› Politika (Game Theory and International
+Politics)”, ODTÜ Geliﬂme Dergisi, Cilt 30, No 2, 2003, s.163-180.
+6
+Bu makalede tart›ﬂ›lmayan kapsaml› düzey oyunlar için Güner’in bir önceki dipnotta ifade edilen
+makalesine baﬂvurulabilir.
+7
+En s›k okunanlardan iki örnek için bkz. Donald Green ve Ian Shapiro, The Pathologies of
+Rational Choice, New Haven: Yale University Press, 1994; Stephen M. Walt, “Rigor or Rigor
+Mortis? Rational Choice and Security Studies”, International Security, 23, No 4, Spring 1999,
+s. 5-48.
+35
+
+--- Sayfa 4 ---
+Asl›nda, ak›lc› tercih paradigmas› içinde çal›ﬂan araﬂt›rmac›lar için bu eleﬂtiri
+bir hayli ﬂaﬂ›rt›c›d›r. Çünkü en temelde ak›lc›l›k beliti; 1) aktörlerin amaçlar› oldu-
+¤unu ve 2) bu amaçlara ulaﬂmak için tercihler yapacaklar›n› öne sürer.8 Bu ka-
+dar basit, zarars›z ve birçoklar› için apaç›k bir önermenin nas›l bu kadar yanl›ﬂ
+anlaﬂ›ld›¤›n› ve sald›r›ya u¤rad›¤›n› anlamak zordur. Kan›mca, bu kar›ﬂ›kl›k süre-
+gelen bir yanl›ﬂ anlamadan kaynaklanmaktad›r. Bu yanl›ﬂ anlaman›n en büyük
+nedeni de yaz›ndaki yordamsal ak›lc›l›k ile araçsal ak›lc›l›k (procedural rationali-
+ty ve inrtrumental rationality) kavramlar›n›n iyi anlaﬂ›lmamas›d›r.
+Yordamsal ak›lc›l›k kavram›na göre, her ﬂeyi bilen ve her ﬂeyden haberli –ne-
+redeyse tanr›sal- aktörler ak›ll›ca araç-amaç hesaplamalar› yaparlar.9 Bu sü-
+reçte aktörler bütün olas› tercihlerin bilgisine sahiptirler ve aralar›ndan en iyi-
+sini seçebilirler ve seçerler. Dolay›s›yla, gerçek hayatta karﬂ›laﬂt›¤›m›z karar ve-
+riciler, yanl›ﬂ alg›lar veya insanlar›n psikolojik ve alg›sal s›n›rlar› nedeniyle yor-
+damsal ak›lc›l›¤a sahip olamazlar.10 Kendi ad›ma, karar vericiler üzerindeki bu
+s›n›rlamalar› en ‘sad›k’ ve ‘tutkulu’ ak›lc› tercih kuramc›s›n›n bile reddedebile-
+ce¤ini düﬂünmüyorum. Ancak ak›lc› tercih kuram›na gelen en büyük eleﬂtiriler
+-birçok kez öyle olmad›¤› anlat›lmas›na ra¤men- sanki yordamsal ak›lc›l›k beli-
+ti paradigman›n genel geçer bir kural›ym›ﬂ gibi alg›lanmas›ndan kaynaklan›r.
+Oysa ak›lc› tercih kuram›n›n ak›lc›l›¤› yordamsal ak›lc›l›k de¤ildir.
+Peki, o zaman ak›lc› tercih kuram›n›n ak›lc›l›¤› neye karﬂ›l›k gelir? Paradig-
+man›n kuramc›lar›n›n büyük bir ço¤unlu¤u taraf›ndan kabul gören ak›lc›l›k
+araçsal ak›lc›l›kt›r.11 Ak›lc› tercih kuram›n›n –Lakatos’cu anlamda- de¤iﬂmez
+özü, araçsal ak›lc›l›k belitine dayan›r.12 Bu belite göre: 1) ak›lc› aktörler sonuç-
+lara yol açacak iki seçenek aras›nda tercih yapmalar› gerekti¤inde daha çok ye¤-
+lenen sonuca götürecek alternatifi tercih ederler ve 2) ak›lc› aktörlerin tam ve
+geçiﬂli tercihleri vard›r. Burada tam tercih demek aktörlerin her çift sonuç ara-
+s›nda karﬂ›laﬂt›rma yapabilmesidir. Yani, herhangi bir aktör bir sonucu di¤eri-
+ne tercih edebilir, ya da, aralar›nda kay›ts›z kalabilir. Bir tan›m yapmak gere-
+kirse13:
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+8
+Rebecca B. Morton, Methods and Models: A Guide to the Empirical Analysis of Formal Models in
+Political Science, Cambridge: Cambridge University Press, 1999.
+9
+Steven Quackenbush, “The Rationality of Rational Choice Theory”, International Interactions,
+Cilt 30, Say› 2, 2004, s. 87-107.
+10 Queckenburh, “The Rationality”
+11 Oyun teorisi çal›ﬂmalar›n›n hepsi ak›lc›l›k belitini bu ﬂekilde kabul etmezler ya da etmek zorun-
+da de¤ildirler. Örne¤in evrimsel oyun teorisi çal›ﬂmalar› ya hiç ak›lc›l›k varsaymaz ya da sadece
+‘s›n›rl› ak›lc›l›k’ varsayarlar. Yani evrimsel oyun kuramc›lar›na göre ak›lc›l›k, oyun kuram›n›n
+‘olmazsa olmaz’ bir beliti de¤ildir.
+12 Frank C. Zagare, “Rationality and Deterrence”, World Politics, Cilt 42, 1990, s. 238–260; James
+D. Morrow, Game Theory for Political Scientists., Princeton: Princeton University Press, 1994;
+Quackenbush, The Rationality of Rational Choice Theory.
+13 Tan›mlardaki formel ifadelerde, “T” ve “>”, tercih edilir; “K”, kay›ts›zd›r anlamlar›nda
+kullan›lm›ﬂt›r.
+36
+
+--- Sayfa 5 ---
+x ve y alternatifleri aras›ndaki bir tercih s›ralamas›, sadece ve sadece, bütün
+sonuç çiftleri için xTy, yTx, veya xKy tercihlerinin tümü mevcut ise tamd›r.
+Öte yandan geçiﬂlilik beliti ﬂunu temsil eder:
+x, y ve z alternatifleri aras›ndaki bir tercih s›ralamas›, sadece ve sadece, x,
+y’ye, y, z’ye tercih ediliyorsa, x, z’ye de tercih edilir ﬂart›n› yerine getirirse geçiﬂ-
+lidir.
+Formel bir biçimde geçiﬂlilik belitini anlatmak gerekirse:
+E¤er xTy ve yTz, öyleyse xTz.
+veya
+E¤er x>y ve y>z, öyleyse x>z.
+Geçiﬂlilik beliti, e¤er bir sonuç (x) en az ikinci sonuç (y) kadar iyiyse ve ikin-
+ci sonuç (y) en az üçüncü (z) kadar iyiyse, o zaman birinci sonuç (x) en az üçün-
+cüsü (z) kadar iyi olmal›d›r demektir.14
+Tabii bu tercihler aras›ndaki seçimlerden bahsederken söz edilmesi gereken
+çok önemli nokta, bu tercihlerin sadece s›ra belirten tercihler olduklar›d›r. Yani
+bu tercihler bazen say›larla (1, 2, 3, 4 gibi) ifade edilse de bunlar faydalara kar-
+ﬂ›l›k gelen gerçek say›lar gibi alg›lanmamal› sadece tercihler aras› fayda s›rala-
+mas›n› belirttikleri unutulmamal›d›r.
+Öte yandan, baz› baﬂka araﬂt›rmac›lar, ak›lc› tercih ve oyun kuramlar›n›n
+yukar›da belirtilenlerden fazla beliti oldu¤unu da iddia etmiﬂlerdir.15 Bunlar›
+özetlemek gerekirse: 1) Bireylerin karar verme ortamlar›n›n belirsizliklerle dolu
+oldu¤u ve bu yüzden bireylerin beklenen faydalar›n› maksimize etmeye çal›ﬂt›k-
+lar›; 2) Kuram›n, toplu kararlar› birey davran›ﬂ› üzerinden aç›klamaya çal›ﬂt›¤›
+ve 3) Kuram›n evrensel insan davran›ﬂlar› üzerine genellemeler yapt›¤›d›r.
+Ancak birçok kereler ifade edildi¤i gibi, ak›lc› tercih kuram›n›n de¤iﬂmez özü-
+nü ancak yukar›da söz edilen iki belit oluﬂturur.16 Di¤er belit oldu¤u iddia edi-
+len maddeler, esas iki belitten türetilen önermelerdir ve geçerlilikleri ya da do¤-
+ruluklar› ancak yanl›ﬂlama yöntemiyle test edilebilir.  Baﬂka bir ifade ile, bu iki
+ana belit d›ﬂ›ndaki, ak›lc› tercih kuram›na ithaf edilen önermeler kendinden
+do¤ru olarak kabul edilemezler ve ancak teorem ya da hipotez niteli¤inde de¤er-
+lendirilmelidirler.
+Bu noktaya kadar kuram›n belitlerinin ne olduklar› anlat›ld›. Kurama yap›-
+lan sert eleﬂtiriler ve araﬂt›rmac›lar›n insanlar›n genelde ak›lc› davranmad›¤›na
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+14 Morrow, Game Theory for Political Scientists, 18.
+15 Green ve Shapiro, The Pathologies of Rational Choice, bölüm 1-3.
+16 William H. Riker ve Peter C. Ordeshook, An Introduction to Positive Political Theory, Englewood
+Cliffs, NJ: Prentice-Hall, 1973; Melvin Hinich ve Michael C. Munger, Analytical Politics,
+Cambridge University Press, 1997; Zagare, Rationality and Deterrence; Morrow, Game Theory for
+Political Scientists; Quackenbush, The Rationality of Rational Choice Theory; Morton, Methods
+and Models.
+37
+
+--- Sayfa 6 ---
+dair iddialar› sebebiyle kafa kar›ﬂ›kl›klar›n› önlemek için biraz da bu belitlerin
+ne olmad›klar›n› tart›ﬂmak yararl› olacakt›r.
+Her ﬂeyden önce, araçsal ak›lc›l›k beliti aktörlerin davran›ﬂlar› hakk›nda nor-
+matif bir yorum getirmez. ‹kincisi, bu belit, tercihlerin do¤uraca¤› sonuçlara iliﬂ-
+kin yarg›lar da yapmaz. Üçüncüsü, ak›lc› tercih kuramc›lar›, siyasal aktörlerin
+gerçekten ellerine kalem kâ¤›t al›p kendi yarar fonksiyonlar›n› ç›kart›p, bunlar›
+çözüp, ç›kan sonuçlara göre karar ald›klar›n› kesinlikle varsaymaz. Varsay›lan,
+aktörlerin öncelikli amaçlar›na ve do¤an›n getirdi¤i k›s›tlamalara göre tercihler
+yapt›klar›d›r. Matematiksel hesaplar araﬂt›rmac›lar›n aktör davran›ﬂlar›n› mo-
+delleyebilmek için kulland›klar› bir araçt›r, daha fazlas› de¤il.
+Dördüncü ve son olarak, ak›lc›l›k, hata yapmamak anlam›nda kullan›lma-
+maktad›r. James Morrow, üç temel neden yüzünden ak›lc› aktörlerin de hata ya-
+pabilece¤ini iddia eder.17 Birincisi, karar al›nan durumlar kesinlikli de¤il risk-
+li durumlard›r. Bir aktör riskli durumlarda tercih yapt›¤›nda do¤al olarak isten-
+meyen sonuçlara ulaﬂabilir. ‹kincisi aktörlerin ellerindeki bilgi eksik olabilir.
+Hemen her karar alma ortam›nda, tam ve kusursuz bilgi eriﬂilmesi güç bir ni-
+mettir. Dolay›s›yla eksik bilgi hata yapmaya sebep olabilir. Son olarak aktörle-
+rin ellerindeki bilgi yanl›ﬂ olabilir ki bu da yap›lan tercihlere etki edecek ve op-
+timal alt› sonuçlara yol açabilecektir.
+Ak›lc› tercih kuram›n›n belitlerinin iyi anlaﬂ›lmas›n›n, sonraki bölümde ele
+ald›¤›m›z paradigman›n yaz›na katk›lar› konusunun anlaﬂ›lmas›na yard›m ede-
+ce¤ini umuyorum.
+Ak›lc› Tercih Kuram›yla Çal›ﬂan Araﬂt›rmac›lar›n Amaçlar› ve Analiz
+Düzeyi Problemi
+Bu k›s›mda, ak›lc› tercih kuram›n›n neden kullan›ld›¤› çok k›saca tart›ﬂ›lmaya
+çal›ﬂ›lacak ve sonras›nda teoride genellikle kullan›lan analiz düzeyi anlat›lacak.
+Bu tart›ﬂma Lalman et al., Nicholson ve Bueno de Mesquita’n›n argümanlar›n›n
+bir sentezinden yararlanacakt›r. 18.
+Her ﬂeyden önce formel kuramda tümdengelimci metodun kullan›lmas›n›n
+en büyük yarar›n›n teoriler ve bunlardan türetilen önermelerde tutarl›l›k sa¤la-
+mas› oldu¤unu belirtelim. Tümdengelim do¤ru uyguland›¤› takdirde, türetilen
+teorem ve önermelerin mant›ksal geçerlili¤ini ve tutarl›l›¤›n› garanti eder. Bu sa-
+yede tüm teorinin mant›ksal tutarl›l›¤› sa¤lanm›ﬂ olur. Do¤al diller semantik
+aç›dan bizlere büyük imkânlar sa¤lar ve çok geliﬂmiﬂ betimlemeler yapmam›za
+mümkün k›lar. Ancak do¤al dillerin kapasitesi, sözdizimi19 tutarl›l›¤› kapasite-
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+17 Morrow, Game Theory for Political Scientists.
+18 David Lalman, “Conflict Resolution and Peace”, American Journal of Political Science,Cilt  32,
+1988, s. 590-615; Nicholson, Formal Models in International Relations; Bruce Bueno de
+Mesquita, “Accomplishments and Limitations of a Game-Theoretic Approach to International
+Relations”, Michael Brecher ve Frank P. Harvey (der.), Millennial Reflections on International
+Studies, Ann Arbor: University of Michigan Press, 2002, s. 374-391.
+19 Syntax ya da dahili tutarl›l›k.
+38
+
+--- Sayfa 7 ---
+si göz önüne al›nd›¤›nda s›n›rl›d›r. Semantik metotlarla yap›lan çal›ﬂmalarda bir
+argüman›n silsilesini ve dolay›s›yla kuram›n tutarl›l›¤›n› kaybetmek çok daha
+kolayd›r. Ancak formel metotlar ve matematiksel dil,  argümanlar›m›z› çok da-
+ha aç›k, kesin ve kusursuz olmaya zorlar.20
+‹kincisi, formel kuramc›lar, formel mant›kla türetilen hipotezlerin görgül testi-
+ni savunurlar. Yani formel yollarla türetilen önermeler, gerçek hayattan verilerin
+›ﬂ›¤›nda test edilmeli ve yanl›ﬂlanmal›d›r. Bu anlamda formel kuram normatif ol-
+maktan çok, sosyal olaylara dair betimleyicidir. Normatif kuramlar bir aktörün
+nas›l davranmas› gerekti¤ini tart›ﬂ›rken, betimleyici ve aç›klay›c› kuramlar nas›l
+davrand›¤›n› aç›klamaya çal›ﬂ›r. Birçoklar› için formel kuram, ak›lc›l›k beliti yü-
+zünden normatif bir kuram olarak kabullenilmiﬂtir. Buna kat›lmak mümkün de-
+¤ildir; çünkü, formel kuramc›lar aktörlerin ak›lc› davranmas› gerekti¤ini iddia et-
+mez; ak›lc› aktörler kuram›n bir belitidir. Belitler do¤rulu¤u kabul edilen önerme-
+ler olduklar›na göre bunlar›n test edilmesini savunmak felsefi bir yanl›ﬂl›kt›r. Ku-
+ram›n baﬂar›s›n› belitlerin testiyle de¤il, ancak belitlerden türetilen önermelerin
+gerçek olgular› ne kadar ‘do¤ru’ aç›klayabildi¤i ile inceleyebiliriz.
+Özetlersek, bu paradigmada çal›ﬂan araﬂt›rmac›lar›n amac›, tümdengelimci
+formel metodun yard›m›yla, karmaﬂ›k semantik yap›lar›, geçerli sözdizimsel
+önermeler kullanarak test edilebilir ve deneye tabi tutulabilir bir ﬂekilde incele-
+mektir.
+Son olarak, formel kuramlarda analiz düzeyi genellikle (ama sadece genellik-
+le) bireydir. Bireylerin ve onlar›n karar verme davran›ﬂlar›n› aç›klayan önerme-
+lerle, gruplar›n ve devletlerin davran›ﬂlar› hakk›nda sonuçlara varmaya çal›ﬂ›r.
+Bunun da belki en büyük nedeni, kuram›n daha en baﬂta bireylerin davran›ﬂ-
+lar›n› aç›klamak için ortaya konulmas›d›r.21 Öte yandan bu, formel kuram sa-
+dece tek bir analiz düzeyinde iﬂler demek de¤ildir. Asl›nda gruplar›n ak›lc›l›¤›n›
+varsaymak da mümkündür. Ancak grup ak›lc›l›¤›n›n hem teoride hem de pra-
+tikte sa¤lanmas›n›n zorlu¤u yüzünden genellikle de¤iﬂik analiz düzeyleri daha
+az kullan›lm›ﬂt›r.22
+Oyun Kuram›na K›sa Bir Giriﬂ
+Bu bölümde, oyun kuram›n›n pratikte nas›l kullan›ld›¤›na dair k›sa bir giriﬂ ya-
+p›lacakt›r. Oyun kuram›, sonuçlar›n (getirilerin) oyuncular›n birbirleriyle olan
+stratejik etkileﬂimlerinden ortaya ç›kt›¤› durumlar› modelleyen uygulamal› ma-
+temati¤in bir dal›d›r.23 Bu demektir ki oyunlarda sonuca etki edebilen ve ken-
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+20 Nicholson, Formal Models in International Relations.
+21 Bu konuda ilk örnek için bkz. John von Neumann ve Oskar Morgenstern, Theory of Games and
+Economic Behavior, Princeton: Princeton University Press, 1944.
+22 Grup ak›lc›l›¤›n›n sa¤lanmas› konusundaki klasik çal›ﬂma için bkz. Mancur Olson, The Logic of
+Collective Action,Cambridge: Harvard University Press, 1971.
+23 Jeffrey Baldani, Jeffrey Baldant, James Bradfield ve Robert Walter Turner, Mathematical
+Economics, Harcourt Press, 1996.
+39
+
+--- Sayfa 8 ---
+di tercihlerini gerçekleﬂtirmeye çal›ﬂan ve sonucu salt kendisi de¤iﬂtiremeyecek
+iki ya da daha fazla aktör bulunur. Aktörlerden hiç biri oyunun sonucunu ken-
+di kendine belirleyemeyece¤i için her aktör di¤er aktörlerin davran›ﬂlar›n› hesa-
+ba katmal›d›r. Farz edelim A ve B diye iki oyuncu olsun. A’n›n en iyi stratejisi
+B’nin ne yapaca¤›na ba¤l› olsun ve tam tersi de do¤ru olsun. Bu durumda A da
+B de hareketlerini di¤erinin ne yapaca¤›n› hesaba katarak belirlemek zorunda
+kalacakt›r. Bu tip stratejik etkileﬂim durumlar› do¤al olarak beraberinde tehdit,
+yan›ltma, blöf, yar› blöf veya karﬂ› blöf davran›ﬂlar› olas›l›klar› do¤uracakt›r.24
+Oyun kuram› iﬂte bu etkileﬂimlerin basit, soyut, ancak olabildi¤ince gerçe¤e ya-
+k›n modellenmesidir Bu matematiksel yaklaﬂ›m satranç ya da poker gibi e¤len-
+ce oyunlar›n› inceleyebildi¤i gibi, uluslararas› ya da iktisadi iliﬂkilerdeki strate-
+jik etkileﬂimleri de çal›ﬂ›r. Uluslararas› iliﬂkilerin do¤as› gere¤i stratejik oldu¤u
+düﬂünülürse, oyun kuram›n›n disipline ne kadar büyük f›rsatlar sa¤lad›¤› anla-
+ﬂ›l›r.
+Oyun Kuram› Yaz›n›nda bir Oyun Neleri ‹çerir?
+Oyun kuram›nda stratejik düzeyde incelenen modeller genellikle ﬂu dört ö¤eyi
+bar›nd›r›r25:
+1. ‹ki veya daha fazla oyuncu, yani oyunla ilgili aktörler. Bu aktörler çal›ﬂma-
+n›n sahas›na göre bireyler, kurumlar, ya da devletler olabilir.
+2. Aktörlerin takip edebilece¤i tüm olas› davran›ﬂlar› içeren bir stratejiler küme-
+si.
+3. Oyuncular›n seçebilece¤i her strateji göz önüne al›narak haz›rlanm›ﬂ olas›
+tüm sonuçlar.
+4. Oyuncular için her sonucun ne kadar iyi ya da kötü oldu¤unu belirten ter-
+cih s›ralamas› (ya da tercih fonksiyonu).
+Tüm bu ﬂartlar› yerine getiren bir kaç oyundan örnek vermek oyun içerikle-
+rinin daha iyi anlaﬂ›lmas› aç›s›ndan yaral› olacakt›r. Bu amaçla, uluslararas›
+iliﬂkilerde aktörlerin: 1) birbirlerine çok büyük zararlar verebilecekleri bir krize
+girdikleri durumlar› modellemek için kullan›lan korkak tavuk oyununu
+(Chicken game); 2) aralar›ndaki güven sorunlar› nedeniyle ortaklaﬂa politika uy-
+gulayamad›klar› durumlar› anlatmak için kullan›lan mahkûmlar açmaz› ve 3)
+ancak politikalar›n› koordine ederlerse baﬂar›l› sonuçlar alabilecekleri güven
+oyununu (assurance game) ele al›nacakt›r.
+Korkak Tavuk Oyunu
+Tablo 1. stratejik düzey korkak tavuk oyununu göstermektedir. Oyunun ismi ve
+kurallar› baﬂrolünü James Dean’in oynad›¤› 1955 yap›m› Asi Gençlik filmiyle
+özdeﬂleﬂtirilir. Filmin en unutulmaz sahnesinde Jim ve Buzz adl› iki delikanl›
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+24 Peter G. Bennett, “Modelling Decisions in IR: Game Theory and Beyond”, Mershon International
+Studies Review: 39, 1995, s. 19-52.
+25 Bennett, Modelling Decisions in IR: Game Theory and Beyond.
+40
+
+--- Sayfa 9 ---
+Judy adl› bir genç k›z› kazanabilmek için korkak tavuk oyununu oynarlar.
+Oyunda iki araba, iki ﬂoför ve sonu uçurumla biten bir yol vard›r. Buna göre ve-
+rilen iﬂaretle ayn› anda Jim ve Buzz gaza basarlar ve uçuruma do¤ru son sürat
+arabalar›n› sürerler. Her oyuncu için de iki strateji vard›r. Kendini tehlikede his-
+sedince di¤er oyuncudan önce arabadan atlamak (ve dolay›s›yla ‘korkak tavuk’
+olup Judy’yi kaybetmek) veya di¤er oyuncunun ilk atlamas›n› bekleyip son at-
+layan olmak (ve ‘kahraman’ olup Judy’yi kazanmak). Her iki oyuncunun da son-
+radan atlamay› stratejisi yapmas› halinde ikisi birden arabalar›yla uçurumdan
+aﬂa¤›ya yuvarlanacak ve kendileri için en kötü sonucu alacaklard›r26.
+Bu stratejilere karﬂ›l›k gelen tüm sonuçlar›n kümesi ise ﬂöyledir:
+A - (Jim önceden atlar; Buzz önceden atlar)
+B - (Jim önceden atlar; Buzz sonradan atlar)
+C - (Jim sonradan atlar; Buzz önceden atlar)
+D - (Jim ve Buzz sonradan atlamay› seçip uçurumdan birlikte yuvarlan›rlar)
+Son olarak da her bir oyuncu için tercih s›ralamas› belirlenmelidir. Buna gö-
+re Jim için tercih s›ralamas›;
+C > A > B > D
+Buzz için tercih s›ralamas› ise;
+B > A > C > D
+ﬂeklinde olacakt›r. Yani her iki oyuncu için de kendinin son atlay›p rakibin
+ilk atlad›¤› durumlar en çok tercih edilen, uçurumdan yuvarlan›lan seçenek ise
+en az tercih edilen olacakt›r.
+Tablo 1’de verilen oyun matrisi yukar›da verilen tüm bu bilgileri içerir ve ko-
+nuyu kolayca inceleyebilmemizi sa¤lar. Sol alt hücrede aktör (Jim), yan›ndaki
+iki hücrede de aktörün sahip oldu¤u tüm stratejiler (Önce atla - Sonra atla) gös-
+terilmiﬂtir.  Sa¤ üst hücrede ise di¤er aktör (Buzz) ve alt›ndaki iki hücrede de
+onun sahip oldu¤u iki strateji gösterilmiﬂtir. Bu stratejilere karﬂ›l›k gelen getiri-
+ler ise sa¤ altta dört hücrede (A, B, C, D hücreleri) belirtilmiﬂtir. Burada dikkat
+edilmesi gereken, her hücrenin, aktörlerin stratejik etkileﬂimlerine göre ç›kan
+sonuçlar› içerdi¤idir. Örne¤in C hücresi, Jim sonra, Buzz önce atlad›¤› durum-
+daki aktörlerin getirilerini gösterir. Her hücrede parantez içinde yaz›lan sonuç-
+larda ilk rakam soldaki aktörün getirilerini (Jim’in), sa¤daki ise üstteki aktörün
+(Buzz) getirilerini göstermektedir.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+41
+26 Oyunun baﬂka popüler bir versiyonu, birbirlerine do¤ru son sürat arabalar›n› süren iki ﬂoför
+aras›nda oynanan›d›r. Kurallara göre yoldan ilk sapan korkak tavuk olacak, di¤eri oyunu
+kazanacakt›r. Belki de Küba Krizi gibi uluslararas› kriz durumlar› için bu daha iyi bir analojidir.
+
+--- Sayfa 10 ---
+Tablo 1. Korkak Tavuk Oyunu27
+Buna göre, aktörler için en iyi sonuç kendilerinin sonra atlad›klar›d›r. Örne-
+¤in C hücresinde Jim sonra atlayarak (10), Buzz önce atlayarak (-10) alm›ﬂt›r.
+Daha ilginci ise simetrik A ve D hücreleridir. E¤er her iki aktör de erkenden ve
+ayn› anda atlarlarsa en az›ndan yar›ﬂmaya cesaret ettikleri için az da olsa bir
+getiri alabilirler (her biri 5). Ama iki aktör de uzlaﬂmaya yanaﬂmazsa kendileri-
+ni felakete götürürler, yani D hücresindeki arabalar›n içinde uçurumdan yuvar-
+lanma durumu meydana gelir.
+Peki korkak tavuk oyununun uluslararas› iliﬂkileri anlamada yarar› nedir?
+Bu oyun, uluslararas› aktörlerin (ço¤u zaman devletlerin) birbirlerine çok büyük
+zarar verebilecekleri bir kriz veya çat›ﬂma yoluna girdikleri durumlar› modelle-
+mek için kullan›l›r. Birçok araﬂt›rmac›ya göre krizin do¤as›n› –yani iki aktörün
+birbirlerini büyük y›k›mlara götürebilecek bir yola girmeleri- bu oyun çok iyi
+yans›t›r. Özellikle Küba füze krizi’ne iliﬂkin tarihsel dokümanlar›n ABD’li karar
+vericilerin oyunu bu ﬂekilde gördü¤ünü ispatlamas› bunda etkili olmuﬂtur.28
+16–28 Ekim 1962 tarihleri aras›nda yaﬂanan Küba Füze Krizi, So¤uk Sa-
+vaﬂ’›n nükleer bir çat›ﬂmaya dönmesi en muhtemel, en ciddi kriziydi. SSCB’nin
+Küba’ya Amerika’n›n büyük bir k›sm›n› vurma menziline (2000 km) sahip füze-
+ler yerleﬂtirdi¤inin anlaﬂ›lmas› krizin ana nedeniydi. Kriz esnas›nda ABD’nin iki
+ana stratejik hareketi vard›. Bunlar; 1) Küba’y› denizden blokaj alt›na almak ve
+daha fazla füzenin Sovyetler Birli¤i’nden Küba’ya transferine engel olmak; veya
+2) hava harekât›yla füzeleri vurmak ve büyük ihtimalle akabinde Küba’y› iﬂgal
+etmekti. ‹kinci strateji, Sovyetler’in böyle bir iﬂgale nükleer karﬂ›l›k vermesi ha-
+linde en büyük faciaya sebep olacak seçenekti. Öte yandan Sovyetler Birli¤i ya
+füzeleri geri çekebilir ya da füzeleri Küba’da tutmaya devam edebilirdi (Senaryo-
+nun soyutlama ve karmaﬂ›k gerçek dünyay› modellemek için ne denli basitleﬂ-
+tirildi¤ine dikkat edin.).
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+27 Korkak tavuk oyununun bu tablodaki betimlemesi http://www.egwald.com/operationsre-
+search/chickengame.php web sitesinden uyarlanm›ﬂt›r.
+28 Her ne kadar baz› araﬂt›rmac›lar korkak tavuk oyununun Küba Füze Krizini modellemek için iyi
+bir seçim olmad›¤›n› iddia etmiﬂse de yine de yaz›n›n klasiklerinden olmas› dolay›s›yla incelen-
+mesinde yarar oldu¤unu düﬂünüyorum. (Bu konuda daha fazla bilgi için bkz. Jean-Pierre
+Langlois, “Rational Deterrence and Crisis Stability”, American Journal of Political Science, Cilt
+35, No 4 (Nov., 1991), s.801-832.)
+42
+
+--- Sayfa 11 ---
+Bu stratejilere karﬂ›l›k gelen tüm sonuçlar kümesi de ﬂöyledir:
+A - (ABD blokaj yapar; SSCB füzeleri geri çeker)
+B - (ABD blokaj yapar; SSCB füzeleri tutmaya devam eder)
+C - (ABD hava harekât›; SSCB füzeleri geri çeker)
+D - (ABD hava harekât›; SSCB füzeleri tutmaya devam eder)
+Tablo 2. Küba Füze Krizi Oyunu
+Matristeki dört hücre (A, B, C, D), birbirine karﬂ›l›k gelen stratejilerin do¤u-
+raca¤› sonuçlar› gösterir. Buna göre ABD’nin blokaj stratejisini izlemesi duru-
+munda Sovyetler; A) Füzeleri geri çekebilir (uzlaﬂma sonucu) veya B) füzeleri
+tutmaya devam eder ve zafer kazan›r. ABD’nin hava harekât›n› seçmesi duru-
+munda ise Sovyetler; C) füzeleri geri çekebilir ve ABD zafer kazan›r; ya da D) fü-
+zeleri tutmay› seçer ve Amerikan iﬂgali olursa nükleer karﬂ›l›k verebilir. Ayr›ca,
+bu oyunda iki Nash dengesi29 mevcuttur (B ve C hücrelerindeki altlar› çizili so-
+nuçlar). Ancak oyun –birçok analiste göre- uzlaﬂma seçene¤i olan A hücresinde
+bitmiﬂtir.
+Korkak tavuk oyununun bu çerçevede kullan›m› uluslararas› iliﬂkiler yaz›-
+n›nda çat›ﬂma ve nükleer cayd›r›c›l›k çal›ﬂmalar›n›n bir örne¤idir. Küba füze kri-
+zini bu ﬂekilde modellemenin birçok yarar› vard›r. Bu ﬂekilde hem aktörlerin el-
+de edilebilir tüm strateji ve bunlara ba¤l› tüm sonuçlar› gösterilebilir hem de
+oyunun sonucunun tutarl› olup olmad›¤› tart›ﬂ›labilir. Özellikle, birbirine ba¤l›
+davran›ﬂlar›n krizin sonucuna nas›l etki edebilece¤ini bu tip modellemeler kul-
+lanarak çok daha kesin bir ﬂekilde tahmin edebiliriz. Daha kuramsal olarak, ya-
+z›n›n daha klasik -örne¤in neorealizm gibi- teorilerinin, devletlerin kriz durum-
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+29 Bu makaledeki oyunlar kurama bir giriﬂ sa¤lamas› amac›yla örnek olarak verildi¤inden Nash
+dengesi gibi teknik konular incelenmemektedir. Bu konularda daha çok bilgi için bkz. Morrow,
+Game Theory for Political Scientists.
+43
+
+--- Sayfa 12 ---
+lar›nda tutumlar›, rakiplerinin ve uluslararas› sistemin o an gerektirdi¤i k›s›tla-
+r›n devletlerin davran›ﬂ› üzerine etkileri gibi analizlerine, tüm strateji kümesini
+ve ayn› zamandan mant›ksal ve içsel tutarl›l›¤› da göz önüne alarak analize yar-
+d›m eder.
+Mahkûmlar Açmaz› Oyunu
+Ele alaca¤›m›z ikinci oyunun uluslararas› iliﬂkiler yaz›n›nda en çok ele al›nan ve
+tart›ﬂ›lan oyun oldu¤unu söylemek yanl›ﬂ olmaz. Mahkûmlar açmaz› oyunu,
+devletleraras› iﬂbirli¤i ve ortak eylem sorunlar›n› ele al›r. Bu yüzden de ulusla-
+raras› iliﬂkiler kuramlar›ndan en çok liberalizmin ilgi alan›na girer. Liberallere
+göre, uluslararas› iliﬂkilerde iﬂbirli¤ini artt›rman›n iki yolu vard›r: Hegemon gü-
+cün sistemdeki tüm devletlerin ortak eylemlerini kolaylaﬂt›rmak için kamu mal-
+lar›30 sa¤lamay› üstlenmesi ve tekrar eden etkileﬂimler sonucu taraflar›n uzun
+vadeli düﬂünüp iﬂbirli¤ine yanaﬂmas›. Mahkûmlar açmaz› oyununun kullan›m›-
+n›n, tekrar eden etkileﬂimlerin iﬂbirli¤ine katk›lar›n› anlamam›za büyük yard›m-
+lar› olmuﬂtur. Çünkü realistlerin aksine liberaller, kiﬂisel ç›karlar›n, asl›nda
+uzun vadede aktörleri iﬂbirli¤ine yöneltece¤ini göstermiﬂlerdir. ‘Gelece¤in gölge-
+si’ olarak isimlendirilen bu kavrama göre, k›sa vadede dar, kiﬂisel (veya ulusal)
+ç›karlar yüzünden iﬂbirli¤ine yanaﬂmayan veya çat›ﬂmay› seçen aktörlere, iﬂbir-
+li¤ine yanaﬂmalar› halinde uzun vadede daha fazla yarar elde edebilecekleri gös-
+terilebilir.31
+Oyunun hikâyesine göre polis iki zanl›y› ayr› odalarda sorgulamakta ve ortak
+iﬂlediklerine inand›klar› suçlar› itiraf ettirmeye çal›ﬂmaktad›r. Buna göre polisin
+elinde iki mahkûmun iﬂlediklerini düﬂündü¤ü daha küçük suça iliﬂkin yeterin-
+ce delil varken, di¤er daha ciddi suça dair yeterli delil yoktur. Polisin zanl›lara
+yapt›¤› teklif ﬂunlar› içerir: E¤er iki suçlu da iﬂbirli¤i yapar ve daha büyük su-
+çu kabul etmezlerse (ayr› odalarda olduklar›na ve aralar›nda iletiﬂim olmad›¤›-
+na dikkat), sadece küçük suçtan az bir ceza alacaklard›r. E¤er ikisi de büyük
+suçu iﬂlediklerini itiraf ederse yüksek bir ceza alacaklard›r. Ancak zanl›lardan
+birisi büyük suçu itiraf ederken di¤eri etmezse, itiraf eden hafif bir cezayla kur-
+tulurken, etmeyen en a¤›r cezaya çarpt›r›lacakt›r. Buna göre stratejik düzey
+oyun matrisi ﬂu ﬂekilde gösterilebilir:
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+30 Örne¤in dünya bar›ﬂ›n›n, küresel finans piyasalar› istikrar›n›n sa¤lanmas›, küresel ›s›nman›n
+önlenmesi gibi.
+31 Bruce Bueno de Mesquita, Principles of International Politics: People’s Power, Preferences and
+Perceptions, Washington, D.C.: CQ Pres, 2003.
+44
+
+--- Sayfa 13 ---
+Tablo 3. Mahkûmlar Açmaz› Oyunu
+Oyun matrisinin gösterdi¤i üzere, e¤er iki zanl› da iﬂbirli¤i yap›p büyük suçu
+itiraf etmezlerse sadece 1’er y›l, ikisi de itiraf ederse 10’ar y›l hapis cezas› ala-
+caklar. Öte yandan, her zanl› için kendisinin itiraf etmeyip di¤erinin etti¤i du-
+rumlarda kendisi 20 y›l, di¤eri 3 ay alaca¤›ndan bu en az tercih edilen senaryo-
+dur.
+Bu oyunun dikkat çekici yan›, her iki oyuncu için de itiraf etme seçene¤inin
+bask›n strateji olmas›d›r. Yani, di¤er oyuncu ne seçerse seçsin, itiraf etmek da-
+ha tercih edilir cezalar getirecektir. Bu yüzden, mahkûmlar›n ikisinin de itiraf
+stratejisini seçti¤i A hücresi bu oyunun Nash dengesidir.
+Bu oyunda uluslararas› iliﬂkilerin do¤as›na dair iki ilginç nokta vard›r. Birin-
+cisi, iki aktörün ak›lc› ve kendi ç›karlar›n› gözettikleri stratejilerin optimal olma-
+yan sonuçlara yol açmas›d›r. Mahkûmlar aralar›nda iletiﬂim yoklu¤u ve birbir-
+lerine güvenememeleri yüzünden, di¤erinin itiraf etmesi korkusuyla itiraf yolu-
+nu seçerler. E¤er iﬂbirli¤ine gitseler 1’er y›l hapisle kurtulabilecekken (D hücre-
+si), bu oyunda denge noktas› mahkûmlar›n onar y›l ceza almalar›d›r (A hücre-
+si). Birçok uluslararas› durum da böyledir; ak›lc› tercihler aktörleri çat›ﬂmaya ve
+pareto-etkin olmayan sonuçlara ulaﬂt›rabilir. Bu oyunun uluslararas› iliﬂkileri
+anlamak için kullan›m› da iﬂte bu açmaz yüzündendir. Bu açmaz uluslararas›
+iliﬂkilerde aktörlerin neden çat›ﬂmaya yönelip kendileri için daha az yararl› po-
+litikalar geliﬂtirdiklerini ve neden bazen de iﬂbirli¤ini seçtiklerini inceler.  ‹kinci
+ilginç nokta ise bu oyun yap›n›n aktörlerin davran›ﬂlar›n› nas›l etkiledi¤ini gös-
+terir. E¤er oyunun kurallar› (yap›) de¤iﬂik olsa, aktörler iﬂbirli¤i için daha fazla
+sebep ve olanak bulabilirlerdi.
+Mahkûmlar açmaz› oyunu literatürde silahlanma yar›ﬂlar›ndan çevre kirlili-
+¤inin önlenmesine, birçok devletleraras› ortak eylem gerektiren problemi model-
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+45
+
+--- Sayfa 14 ---
+lemek için kullan›lm›ﬂt›r. Bu genel oyunun özeldeki uygulamalar›ndan bir örnek
+vermek yararl› olacakt›r. Örne¤in, son y›llarda tehlikeleri iyice gündeme taﬂ›nan
+ve küresel ›s›nman›n birinci sorumlusu olarak gösterilen atmosferdeki karbon
+emisyonlar›n› ele alal›m.
+Mahkûmlar açmaz› ile sadece iki aktör aras›ndaki de¤il, çok aktörlü durum-
+lar› da modelleyebiliriz. Ulusal üretimlerini azaltarak atmosfere yayd›klar› kar-
+bon emisyonlar›n› %10 azaltmay› düﬂünen sekiz devlet oldu¤unu ve –kolayl›k
+için- bunlar›n kirletme kapasitelerinin ve çevre düzenlemesinden alacaklar› ya-
+rar›n ayn› oldu¤unu varsayal›m.32 Buna göre her ülke gerçekten emisyonu %10
+azalt›p azaltmamak konusunda bir hesap yap›p karara varmal›d›r. Her ülke için
+emisyonu azaltman›n zarar›n›n 5 birim, herhangi bir ülkenin emisyonlar› %10
+azaltmas›n›n ise di¤er her bir ülkeye yarar›n›n 3 birim oldu¤unu varsayal›m. Ya-
+ni, herhangi bir ülkenin emisyonlar› azaltmas›, kendi dâhil, di¤er her ülkeye 3
+birim yarar sa¤las›n. Baﬂka bir deyiﬂle, di¤er birçok kamu mal› tipinde oldu¤u
+gibi, emisyonlar›n azalt›lmas›ndan do¤acak yarar eﬂit ve kimseyi d›ﬂar›da b›rak-
+mayacak biçimde aktörlere yans›r.
+Tablo 4. Sekiz Uluslu Mahkûmlar Açmaz› Oyunu
+Tablo 4 sekiz ulusun dâhil oldu¤u bir mahkûmlar açmaz› oyununu gösterir.
+Tüm hücrelerde i ulusunun kendisinin ve di¤er devletlerin emisyon azaltma ka-
+rarlar›na göre ne getiri alaca¤› gösterilmiﬂtir. Yukar›da verilen oyunun varsa-
+y›mlar›na göre hesaplama da ﬂöyle gerçekleﬂir: i ulusu kendinden baﬂka emis-
+yon azaltan her ulus için 3’er getiri elde ederken, kendisi de azaltma yoluna gi-
+derse bir seferlik beﬂ birim zarar elde edecektir. Örne¤in beﬂ baﬂka ülke emis-
+yon azaltma konusunda verdi¤i sözde dursun. Bu durumda i için 15 birim ya-
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+32 Mahkumlar açmaz›n›n bu uyarlamas› ﬂu eserden aynen adapte edilmiﬂtir: Todd Sandler, Global
+Challenges: An Approach to Environmental, Political and Economic Problems, Cambridge
+University Press, 1997.
+46
+
+--- Sayfa 15 ---
+rar (=5x3) kendi karar› ne olursa olsun sa¤lan›r. E¤er i azaltmama yolunu se-
+çerse 15 birim yarar›n hepsini elinde tutar. Ancak i de sözünü tutarsa alaca¤›
+yarar alt› ülke kat›ld›¤› için 18 olurken (=6x3), kendisinin kaybedece¤i 5 birim
+yüzünden toplam yarar› 13’e düﬂer (=18-5). Yani i ülkesi için di¤erleri karbon
+emisyonlar›n› azalt›rken kendisi üretime aynen devam etmek en karl› sonuçlar›
+getirir.
+Tablo 4’teki getiriler de i ulusu için emisyonlar› azaltmaman›n bask›n strate-
+ji oldu¤unu gösterir. ‹ ulusunun emisyonlar› azaltmad›¤› (birinci sat›rdaki) geti-
+rilerin hepsi azaltt›¤› durumlardaki (ikinci sat›rdaki) getirilerden fazlad›r. Yani
+bu ortak eylemde bedavac›l›k (freeriding) en rasyonel ve k›sa vadede getirisi en
+yüksek seçenektir. Uluslararas› birçok etkileﬂim de bu özelliktedir.
+Peki, bu açmazdan ülkeler nas›l kurtulur? Herhangi bir zorlay›c› mekanizma
+veya ülkenin olmas› bu açmazdan ülkeleri kurtarabilir. Örne¤in tart›ﬂt›¤›m›z bu
+oyunda ülkelerden herhangi birinin, emisyonu azaltmayan ülkeleri 4 birim ce-
+zaland›rd›¤›n› varsayal›m. Bu durumda üst sat›rdaki getiriler -4, -1, 2, 5, 8, 11,
+14, 17 ﬂeklinde olacak ve üst sat›r›n tüm getirileri alt sat›rdan daha az olacak-
+t›r. Bu durumda i için emisyonlar› azaltmak bask›n strateji haline gelecektir.
+Böyle bir zorlay›c› ülkenin ya da mekanizman›n olmamas› Kyoto Protokolü gibi
+anlaﬂmalar›n uygulanmas›n›n önündeki en büyük engellerdendir. Uluslararas›
+iliﬂkilerin liberal ve oyun kuramlar›, izleme ve cezaland›rma mekanizmalar› ve
+sonsuza dek tekrar eden etkileﬂimlerin ülkeleri mahkûmlar açmaz› tuza¤›ndan
+ço¤u zaman nas›l kurtarabilece¤ini tart›ﬂarak yaz›na katk›da bulunmuﬂlard›r.
+Güven Oyunu
+Son olarak, mahkûmlar açmaz›na benzer ama farkl› özelliklere de sahip güven
+oyununu ele alal›m. Baz› düﬂünürler ve siyaset bilimciler, güven oyununun, as-
+l›nda uluslararas› iliﬂkileri mahkûmlar açmaz›ndan daha iyi betimledi¤ini iddia
+ederler.
+Bu oyun Jean Jacques Rousseau’nun bir öyküsünde sosyal açmazlar› tasvir
+için kulland›¤› geyik av› (stag hunt game) hikâyesine dayan›r. Hikâyeye göre
+baﬂka bir kiﬂiyle ava ç›kt›¤›n›z› varsay›n. Bireysel hareket ederseniz sadece ya-
+ban tavﬂan› avlayabilecekken, di¤er avc›yla iﬂbirli¤ine giderseniz çok daha bü-
+yük ve de¤erli olan geyik avlayabilirsiniz. Bu öykü toplumsal iﬂbirli¤inin neden
+zor elde edildi¤ini inceler ve baﬂka filozoflar taraf›ndan da kullan›lm›ﬂt›r. Örne-
+¤in David Hume bir kay›¤› çeken iki kiﬂinin ancak iﬂbirli¤ine yanaﬂ›rlarsa etkin
+sonuçlara ulaﬂabileceklerini, yoksa gidecekleri yere ulaﬂamayacaklar›n› anlat›r.
+Uluslararas› iliﬂkilerde ise bu oyun, bir politikan›n baﬂar›l› olabilmesi için iki
+veya daha fazla taraf›n katk›da bulunmas›n›n zorunlu oldu¤u durumlar› anla-
+t›r. Örne¤in iki ülkenin s›n›rlar›n›n ormanl›k bir arazinin içinden geçti¤ini; bi-
+rinci ülke s›n›rlar›nda bir orman yang›n› baﬂlad›¤›n› ve bu yang›n›n sadece ve
+sadece iki ülkenin ortak çaba ve kapasitelerini birleﬂtirmeleriyle söndürebile-
+ceklerini varsayal›m. Burada ancak iki ülke de yang›n› söndürmek için katk›da
+bulunursa etkin bir sonuç elde edilebilir. Yani maliyetlere kat›lmamak di¤er ül-
+ke için bask›n strateji de¤ildir.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+47
+
+--- Sayfa 16 ---
+Uluslararas› terörle ortak savaﬂ da bu tip bir kamu mal›d›r ve aktörlerin kar-
+ﬂ›laﬂt›klar› açmaz güven oyunu kullanarak incelenebilir. Örne¤in El-kaide örgü-
+tüne karﬂ› kürsel savaﬂ› ele alal›m. ABD, 11 Eylül sald›r›lar› sonras› El-Kaide te-
+rör örgütüne karﬂ› savaﬂ›nda bir koalisyon oluﬂturup teröre karﬂ› savaﬂ›n ken-
+disine maliyetlerini düﬂürmeyi ve artan iﬂbirli¤i sayesinde daha etkin bir müca-
+dele yürütmeyi amaçlam›ﬂt›r. Her ne kadar terörizme karﬂ› koalisyon oyunlar›
+genellikle mahkûmlar açmaz› çerçevesinde de¤erlendirilmiﬂse de, 11 Eylül sal-
+d›r›lar›n›n ac›mas›zl›¤› ve yaratt›¤› büyük y›k›m aktörlerin alg›lar›n›, iﬂbirli¤ine
+bak›ﬂlar›n› ve dolay›s›yla teorik olarak da durumu modelleyen oyunun do¤as›n›
+de¤iﬂtirmiﬂtir. Sandler ve Enders bu durumun güven oyunu olarak modellen-
+mesinin daha do¤ru olaca¤›n› ifade etmiﬂlerdir.33 Tablo 5, El Kaide’ye savaﬂta
+birlikte hareket eden ABD ve Birleﬂik Krall›k aras›ndaki güven oyununu göste-
+rir.
+Tablo 5. Güven Oyunu (Uluslararas› terörizme karﬂ› savaﬂ)
+Getirilerin s›ralamas›na bakt›¤›m›zda en yüksek getirinin aktörlerin teröriz-
+me birlikte karﬂ›l›k verdikleri durum (A hücresi) oldu¤unu görürüz. ‹kinci en
+yüksek getiri di¤er aktör terörizme karﬂ›l›k verirken ilkinin bedavac›l›k yapt›¤›
+durumlarda elde edilir (B hücresinde ABD’nin karﬂ›l›k verip [1] Birleﬂik Kral-
+l›k’›n vermedi¤i [3] durum). En kötü ikinci durum, iki oyuncunun da terörizme
+karﬂ›l›k vermemeleri iken (D hücresi), en kötü getiriler terörizme karﬂ› harekât›
+taraflardan sadece birinin üstlendi¤i durumdur (B hücresinde ABD’nin, C hüc-
+resinde Birleﬂik Krall›k’›n getirileri gibi). Ayr›ca oyunun tek bir bask›n stratejisi
+olmad›¤› gibi iki tane yal›n strateji Nash dengesi vard›r. Bunlar her iki oyuncu-
+nun da karﬂ›l›k verdikleri (A hücresi) ve her ikisinin de vermedikleri (D hücresi)
+stratejilerdir.
+Güven oyununun mahkûmlar açmaz›ndan en büyük fark›, terörizmin yarat-
+t›¤› tehlikelerin anormal derecede büyümesiyle, koalisyon kurman›n getirisinin
+artmas› ve bedavac›l›k seçene¤inin getirisinin düﬂmesidir. Oysa yukar›da tart›ﬂ-
+t›¤›m›z mahkûmlar açmaz› oyununda tüm aktörler için bask›n strateji bedava-
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+33 Todd Sandler ve Walter Enders, “An Economic Perspective on Transnational Terrorism”,
+European Journal of Political Economy, Cilt  20, No 2, Haziran 2004, s. 301-316.
+48
+
+--- Sayfa 17 ---
+c›l›kt›. Güven oyununda ise taraflar aras›ndaki sözleri tutmak her aktörün ken-
+disi için daha iyi sonuçlar elde etmesi demektir. Yani bu oyun do¤as› gere¤i ta-
+raflar› iﬂbirli¤ine özendirir; mahkûmlar açmaz›nda oldu¤u gibi verilen sözleri
+tutmaman›n getirece¤i bir avantaj yoktur. Ayr›ca, iﬂbirli¤inin getirdi¤i denge
+noktas›ndaki getirilerin en yüksek ve taraflar›n iﬂbirli¤ine yanaﬂmad›¤› duru-
+mun ancak en kötüden bir iyi getiriyi sa¤lamas› taraflar› iﬂbirli¤ine özendirici et-
+kenlerdendir.
+Oyun teorisinin kullan›m›na iliﬂkin verilen bu üç örnekte uluslararas› etkile-
+ﬂimlerde çok rastlanan üç iliﬂki tipine e¤ildik. Taraflar›n çat›ﬂma halinde olduk-
+lar› kriz durumlar›n› korkak tavuk oyunu, taraflar aras› güvensizlik ve ulusla-
+raras› yap›n›n özellikleri yüzünden iﬂbirli¤ine yanaﬂ›lmad›¤› durumlar› anlat-
+mak için mahkûmlar açmaz›n› ve taraflar›n ancak iﬂbirli¤i yapmalar› halinde
+küresel politikalar› baﬂar›yla uygulayabilecekleri durumlar için de güven oyu-
+nunu ele ald›k.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+Makalenin bu bölümünde oyun kuram›n›n uluslararas› iliﬂkiler yaz›n›na katk›-
+lar›n›n k›sa bir taramas›n› yap›p bir tart›ﬂma ﬂeklinde inceleyece¤iz. Aﬂa¤›da ya-
+p›lan taraman›n eksiksiz olmad›¤› belirtilmelidir. Sadece yaz›nda en çok okun-
+du¤u düﬂünülen eserler yeri geldikçe argümanlar› desteklemek amac›yla kulla-
+n›lm›ﬂt›r.
+K›sa Bir Yaz›n Taramas›
+Matematiksel modellemelerin çat›ﬂma ve iﬂbirli¤ini inceleyen örnekleri 20. yüz-
+y›l›n ilk çeyre¤inde Avrupa’da ortaya ç›km›ﬂt›r. I. Dünya Savaﬂ›’n›n yaratt›¤› gö-
+rülmemiﬂ y›k›m, devletleraras› çat›ﬂmalar›n matematiksel incelemelerinin baﬂ-
+lamas›n› etkilemiﬂtir. Bu tip analizlerin öncüleri ise ‹ngiliz Frederick Lanchaster
+(1878-1946) ve Lewis Richardson’dur (1881-1953) diyebiliriz.
+Bir mühendis olan Lanchaster, I. Dünya Savaﬂ› s›ras›nda, hava savaﬂlar›n›
+kazanmak için en uygun stratejileri diferansiyel denklemler kullanarak araﬂt›r-
+m›ﬂt›r. Richardson’un çal›ﬂmalar› ise tam tersine, bar›ﬂ›n nas›l sa¤lanabilece¤i
+üzerinedir. Bir matematikçi, fizikçi ve Quaker34 olan Richardson savaﬂta am-
+bülâns ﬂoförlü¤ü yaparken gördüklerinden fazlas›yla etkilenmiﬂ ve savaﬂlar›n
+ç›k›ﬂ nedenlerini araﬂt›rm›ﬂt›r. Richardson’un diferansiyel denklemleri silahlan-
+ma yar›ﬂlar›n›, istatistikî hesaplar› ise savaﬂlar›n patlak verme zamanlar›n› an-
+lamaya ve tahmin etmeye çal›ﬂm›ﬂt›r.35
+Bu iki erken örnekten sonra ayr› bir alan olarak oyun teorisinin evrimini ve
+teorinin iktisadi hayattaki çat›ﬂma ve iﬂbirli¤inin analizine devletleraras› siyaset
+konusunun incelenmesini de ekledi¤ini görürüz. John von Neumann ve Oscar
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+34 ‹ngiltere’de 17. yüzy›lda ortaya ç›km›ﬂ pasifist ve bar›ﬂç› bir mezhep.
+35 Mary-Ann Dimand, The History of Game Theory: Volume 1, Routledge, 1996.
+49
+
+--- Sayfa 18 ---
+Morgenstern’in (1944) Theory of Games and Economic Behavior baﬂl›kl› çal›ﬂ-
+mas› ile birlikte oyun kuram› gerçek bir araﬂt›rma alan› olarak ortaya ç›kar.
+John von Neumann’›n, 1957’de ölümüne kadar RAND Corporation ve ABD hü-
+kümetine nükleer silahlanma yar›ﬂ› ve cayd›r›c›l›k konusunda yapt›¤› dan›ﬂ-
+manl›klar oyun teorisinin devletleraras› olgular› incelemedeki ilk örneklerinden-
+dir.36
+Uluslararas› iliﬂkiler akademik çal›ﬂmalar›nda oyun kuram›n›n kullan›m›
+1960 y›l›nda Thomas Schelling’in The Strategy of Conflict çal›ﬂmas›n› yay›nla-
+mas›yla baﬂlar diyebiliriz.37 Schelling’in 2005 Nobel ‹ktisat Ödülü’nü kazanma-
+s›n›n sebeplerinden olan bu kitap bir baﬂyap›t özelli¤i taﬂ›r. Bu kitapla birlikte,
+uluslararas› iliﬂkilerde nükleer cayd›r›c›l›¤›n ve stratejik etkileﬂimlerin do¤as› ilk
+kez sistematik ve derin bir incelemeye tabi tutulur. Bugün halen kullan›lan kor-
+kak tavuk oyunu ve mahkûmlar açmaz› oyunlar›n›n uluslararas› iliﬂkilere uy-
+gulanmas› gerçek anlamda ilk kez Schelling’le baﬂlam›ﬂt›r denebilir. Öte yan-
+dan, Kenneth Boulding’in Conflict and Defense, ve Anatol Rapoport’un Fights,
+Games and Debates kitaplar›, ekonomik modelleri ve Richardson’un silahlanma
+yar›ﬂ› çal›ﬂmalar›n› kullanarak, formel analizin çat›ﬂma çal›ﬂmalar›nda kullan›l-
+mas›n›n temellerini att›lar.38 Erken örneklerden Glenn Snyder’in39 çal›ﬂmala-
+r› hem cayd›r›c›l›k literatürüne katk›da bulunmuﬂ hem de spesifik olarak ulus-
+lararas› krizlerin modellenmesine eﬂsiz katk›larda bulunmuﬂtur. Yaz›nda formel
+modellerin ve oyun kuram›n›n kullan›m› 1960’larla birlikte bir patlama yaﬂasa
+da takip eden on y›llarda kullan›m›nda bir yavaﬂlama görülür. Bu dönemde ye-
+nilik olarak Nigel Howard’›n meta oyunlar ve drama kuram› ile iliﬂkili eserleri et-
+kili olsa da bunlar beklendi¤i kadar büyük iz b›rakmam›ﬂt›r.40 Oyun kuram›-
+n›n kullan›m›nda son y›llarda görülen en büyük geliﬂme Steven J. Brams’›n
+1990’larda popülerleﬂen Theory of Moves (1994) kitab›yla olmuﬂtur.41 Bu kitap-
+ta Brams, oyunlar›n kapsaml› düzey olarak incelenmesinin ve oyuncular›n ha-
+reketlerinin sadece bir sonraki harekete göre de¤il, daha sonras›n› da düﬂüne-
+rek yap›ld›¤›n›n varsay›lmas›n›n uygulamas›n› ve yararlar›n› anlat›r. Gerçekten
+de, klasik oyun kuram›n›n izin verdi¤i hamleler, oyun yap›s› ve dinamikleri, ak-
+törleri uza¤› göremeyen (Brams’›n terimiyle miyop) unsurlar varsaymakta ve bu
+da oyunlar›n stratejik etkileﬂimleri aç›klama gücünü azaltmaktad›r. Aktörlerin
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+36 John von Neumann ve Oskar Morgenstern, Theory of Games and Economic Behavior, Princeton:
+Princeton University Press, 1944.
+37 Thomas Schelling, The Strategy of Conflict, Cambridge:  Harvard University Press, 1960.
+38 Kenneth Boulding, Conflict and Defense, New York: Harper and Row, 1962; Anatol Rapoport,
+Fights, Games and Debates, Ann Arbor: University of Michigan Press, 1965.
+39 Glenn H. Snyder, Deterrence and Defense, Princeton, NJ: Princeton University Press, 1961.
+40
+Snyder ve Howard’›n katk›lar›n›n bir tart›ﬂmas› için bkz. Nicholson, Formal Models in
+International Relations.
+41 Stephen Brams, Theory of Moves, Cambridge, UK: Cambridge University Press, 1994
+50
+
+--- Sayfa 19 ---
+miyop olmad›¤›n›n varsay›lmas› ve oyun yap›lar›n›n daha dinamik hale getiril-
+mesi (örne¤in ard›ﬂ›k hareketlerin analize girmesi) kurama yeni bir boyut kazan-
+d›rm›ﬂ ve uygulama sahas›n› geniﬂletmiﬂtir.
+Oyun kuram›n›n yaz›na en büyük katk›lar›ndan birisi de devletleri esas ana-
+liz birimi olarak alan gelenekten kurtulup, karar verici gruplar› uluslararas› iliﬂ-
+kiler analizine kazand›rmas›d›r. Klasik uluslararas› iliﬂkiler kuram› devletleri
+kapal› bir kutu gibi kabul edip, bunlar› birbirine benzer amaçlar› olan ve sis-
+temde de¤iﬂik büyüklüklerdeki bilardo toplar› gibi birbirleriyle çarp›ﬂan birimler
+olarak kabul etmiﬂtir. Ancak yaz›ndaki karar odakl› formel kuram çal›ﬂmalar›
+uluslar›n birbirlerinden de¤iﬂik karakterleri, bürokrasileri ve karar verme meka-
+nizmalar›n›n önemini ortaya ç›kartm›ﬂt›r. Bu konudaki klasik çal›ﬂma, Graham
+Allison’un (1969) “Conceptual Models of Cuban Missile Crisis” isimli makalesi-
+dir. Realistlerin aksine Allison, savaﬂ baﬂlatma kararlar›nda elitlerin ve bürok-
+ratik yap›lar›n önemine dikkat çeker. Allison d›ﬂ politika krizleri ve savaﬂ du-
+rumlar›nda bu bürokratik karar odaklar›n›n en az realistlerin vurgulad›¤› sis-
+temdeki güç dengeleri kadar önemi oldu¤unu gösterir. Allison’un bu makalesin-
+de tan›tt›¤› üç politika modeli42 ve bunlara ba¤l› hipotezleri, d›ﬂ politika yap›-
+m›nda karar verici bireylerin ve ç›kar gruplar›n›n etkisi üzerine çal›ﬂmalar ya-
+p›lmas›n› sa¤lam›ﬂt›r.
+Oyun kuram›ndan baﬂka formel kuramlar da uluslararas› iliﬂkiler yaz›n›na
+katk›larda bulunmuﬂtur. Beklenen fayda kuram› çerçevesinde yap›lm›ﬂ birçok
+çal›ﬂma da uluslararas› çat›ﬂmalar›n ve d›ﬂ politika karar süreçlerinin anlaﬂ›l-
+mas›na çok büyük katk›lar yapm›ﬂt›r. Bruce Bueno de Mesquita’n›n The War
+Trap adl› eseri ile birlikte yaz›nda tümdengelimci çal›ﬂmalar›n önü aç›lm›ﬂt›r.43
+Bu eserde Bueno de Mesquita savaﬂlar›n ortaya ç›kmas› için gerekli nedenleri
+formel tümdengelimci yaklaﬂ›mla çok spesifik ve kesin bir biçimde belirleyerek
+daha önce hiç yap›lmam›ﬂ bir katk›ya imza atm›ﬂt›r. Çal›ﬂman›n varsay›mlar›na
+göre; 1) Uluslar çat›ﬂmalarda net kazançlar›n› maksimize etmeye çal›ﬂan güçlü
+liderler taraf›ndan yönetilirler; 2) uluslar›n risk alma de¤iﬂkeni karar al›c› aktör-
+lerin risk fonksiyonlar› taraf›ndan temsil edilirler ve 3) savaﬂlar›n ana sebebi,
+karar al›c›lar›n farkl› tercihlerinin getirdi¤i birbirleriyle rekabet halindeki amaç-
+lard›r. Buna göre savaﬂ, uluslararas› güç dengelerinin incelenmesinden çok,
+elitlerin ve liderin politik amaçlar›, sorumluluklar› ve risk e¤ilimleri göz önüne
+al›narak incelenmelidir. Güç, realistlerin iddia etti¤i gibi, amaç de¤il, elitlerin
+net politika kazançlar›n› maksimize etmek için kulland›klar› bir araçt›r.44 Diye-
+biliriz ki, Bueno de Mesquita, Graham Allison’un modellerinin ilk sistematik
+analizini yap›p onlar› daha da geliﬂtirmiﬂtir. The War Trap teorik çerçevesinde
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+42 “Ak›lc› politika modeli”, “örgütsel süreç modeli” ve “bürokratik politika modeli”. Graham T.
+Allison, “Conceptual Models and the Cuban Missile Crisis”, American Political Science Review,
+Cilt 63, No 3, 1969, s. 689-718.
+43 Bruce Bueno de Mesquita, The War Trap, New Haven: Yale University Press, 1981.
+44 Bruce Bueno de Mesquita, The War Trap; Jacek Kugler, “Political Conflict, War and Peace”, Ada
+Finifter (der.), Political Science:  The State of the Discipline, APSA, 1993, s.483-509.
+51
+
+--- Sayfa 20 ---
+yap›lan birçok yay›n45 savaﬂa dair birçok spesifik olguyu46 araﬂt›rm›ﬂ ve
+Kuhn’cu ve Popper’ci anlamda bilimin geliﬂmesi için gerekli olan birbirinin üs-
+tüne inﬂa edilen ve birikerek ço¤alan bir yaz›n oluﬂumuna yol açm›ﬂt›r.47
+Oyun kuram›na dönersek, daha ça¤daﬂ uygulamalar, denge kavram›n›n ve ak-
+törlere iliﬂkin uzak görüﬂlülük belitlerinin daha ‘ince’ analizlerini yapm›ﬂt›r.4 8
+Eric Rasmusen4 9 oyun kuram›nda oyuncular›n sahip oldu¤u bilgiye e¤ilmiﬂ ve
+eksik bilgi kavram›n› geliﬂtirmiﬂ ve belki de en önemlisi, oyun kuramc›lar duruk
+oyunlardansa uluslararas› iliﬂkilerin do¤as›na çok daha uygun dinamik do¤al›
+oyunlar›n kuram›n› geliﬂtirmiﬂ ve uygulamas›n› yapm›ﬂlard›r.50 Literatürün bu
+varyant›nda Bueno de Mesquita ve Lalman’nin War and Reason51 isimli çal›ﬂma-
+lar› beklenen fayda ve oyun kuramlar›n› birleﬂtirmesi ve çok at›f alan uluslarara-
+s› etkileﬂim oyununu (international interaction game) yaz›na kazand›rmas› aç›s›n-
+dan önemlidir.
+Son olarak bu k›s›mda belirtilmesi gereken, 1970’lerden günümüze yap›lan
+birçok çal›ﬂma, kuram›n uygulama alan›n›n ne kadar geniﬂ oldu¤unu gözler
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+45 Örne¤in, James Morrow, “A Continuous Outcome Expected Utility Theory of War”, Journal of
+Conflict Resolution Cilt 29, 1985, s. 473-502; David Lalman, “Conflict Resolution and Peace”,
+American Journal of Political Science Cilt 32, 1988, s. 590-615.
+46 Örne¤in ticaret, insan haklar›, diplomatik tan›nma gibi konular ya da savaﬂ baﬂlatma ve savaﬂ›n
+ﬂiddetini artt›rmas› gibi.
+47 Oyun kuram› kullanan çal›ﬂmalar›n siyaset biliminin gelﬂimine katk›lar›n›n bir tart›ﬂmas› için
+bkz. Jacek Kugler, Political Conflict, War and Peace.
+48
+Stephen Brams ve Donald Wittman, “Nonmyopic Equilibria in 2 x 2 Games”, Conflict
+Management and Peace Science Cilt 6, 1981, s. 39-62; David Kreps ve R. Wilson, “Sequential
+Equilibria”, Econometrica Cilt 50, 1982, s. 863-894; David M. Kreps, Game Theory and
+Economic Modelling, Oxford: Oxford University Press, 1990.
+49 Eric Rasmusen, Games and Information: An Introduction to Game Theory, Oxford: Basic
+Blackwell, 1989.
+50 Bu gibi çal›ﬂmalardan örnekler için bkz. Stephen Brams, Superpower Games, New Haven: Yale
+University Press, 1985; Frank C. Zagare, “Toward a Reformulation of the Theory of Mutual
+Deterrence”, International Studies Quarterly Cilt 29 No 2, 1985, s. 155-69; Brams, Theory of
+Moves; R. Harrison Wagner, “Uncertainty, Rational Learning and Bargaining in the Cuban
+Missile Crisis”, Peter Ordeshook (der.) Models of Strategic Choice in Politics, Ann Arbor:
+University of Michigan Press, 1989; Bruce Bueno de Mesquita ve David Lalman, War and Reason,
+New Haven: Yale University Press, 1992; Frank P. Harvey ve Patrick James, “Nuclear Crisis as a
+Multi-Stage Threat Game: Toward an Agenda for Comparative Research”, International Political
+Science Review / Revue internationale de science politique, Cilt 17, No 2, 1996, s.197-214; Frank
+C. Zagare ve D. Marc Kilgour, “Asymmetric Deterrence”, International Studies Quarterly Cilt 37,
+No 1, 1993, s. 1-27; Stephen Quackenbush ve Frank Zagare, “Game Theory: Modeling Interstate
+Conflict”, Jennifer Sterling-Folker (der.), Making Sense of International Relations Theory,
+Boulder, CO: Lynne Rienner, 2006, s. 98-114.
+51 Bruce Bueno de Mesquita ve David Lalman, War and Reason.
+52
+
+--- Sayfa 21 ---
+önüne sermiﬂtir. Yani oyun kuram› sadece savaﬂ çal›ﬂmalar›nda de¤il, hemen
+her tür uluslararas› etkileﬂimi analiz için kullan›lm›ﬂ ve bunlar› kavray›ﬂ›m›z›
+çok geliﬂtirmiﬂtir. Uygulamalar›n içeri¤ine bakt›¤›m›zda, sistemik denge analiz-
+lerinden insan haklar› ihlallerine; nükleer cayd›r›c›l›ktan Birleﬂmiﬂ Milletler’in
+örgütsel yap›s›na; güç dengesi kuramlar›n›n testinden iç politikadaki ç›kar
+gruplar›n›n d›ﬂ politikaya etkisine; ekonomik yapt›r›mlardan NAFTA, AB, DTÖ
+müzakere süreçlerine kadar hem analiz düzeyi hem de uygulanan konular›n çe-
+ﬂitlili¤i bak›m›ndan formel kuramlar›n katk›s› tart›ﬂ›lmazd›r.
+Uluslararas› ‹liﬂkiler Çal›ﬂmalar›nda Oyun Kuram› Kullanman›n Katk›lar›
+Buraya kadar yer yer oyun kuram› kullanman›n uluslararas› iliﬂkileri anlama-
+ya ne katk› sa¤lad›¤›ndan bahsedildi. Bu bölümde bu katk›lar› daha ayr›nt›l› in-
+celenecektir.
+Bruce Bueno de Mesquita uluslararas› iliﬂkiler yaz›n›nda oyun kuram› ve for-
+mel modellemeler kullanman›n faydalar›n› beﬂ baﬂl›k alt›nda özetlemiﬂtir.52
+Bunlar; 1) davran›ﬂlar›n alt›nda yatan motivasyonlar›n anlaﬂ›lmas› için gerekli
+çerçevenin sa¤lanmas›; 2) stratejik etkileﬂimlerin aç›klanmas›; 3) formel teorinin
+baﬂka yaklaﬂ›m ve kuramlar› birleﬂtirme yetene¤i; 4) kümülâtif bilgi birikimi; ve
+5) karar verme mekanizmalar›n›n incelenmesinde metodolojik anlay›ﬂ›m›z› geliﬂ-
+tirme olarak belirtilmiﬂtir. Teslim etmek gerekir ki, oyun kuram›n›n bu alanlar-
+dan her birinde di¤er uluslararas› iliﬂkiler kuramlar›ndan daha çok katk› sa¤la-
+d›¤›n› söylemek çok da do¤ru olmaz. Çünkü hiçbir uluslararas› iliﬂkiler kuram›
+bunu yapamaz. Ancak oyun kuram›n›n bu beﬂ alan›n beﬂinde birden yapt›¤›
+katk›lar ve böylece disiplinin geliﬂmesine yard›m etmesi onu di¤erlerinden ay›-
+r›r ve öne ç›kar›r.53
+Her ﬂeyden önce, ak›lc› tercih kuram› aktörlerin davran›ﬂlar›n›n motivasyo-
+nel temellerini anlamam›za büyük katk›larda bulunmuﬂtur. Bu çok önemli bir
+noktad›r, çünkü ba¤l›laﬂ›m ve neden-sonuç iliﬂkisi ve aras›ndaki ayr›m›n çok
+daha aç›k ortaya konmas› bu sayede olur.54 Formel kuramlar, neden-sonuç
+iliﬂkilerinin çok aç›k ve kesinlikle ortaya konmas›n› zorunlu k›ld›¤› için sadece
+ba¤l›laﬂ›m› olan iki de¤iﬂken aras›ndaki iliﬂkinin sahte iliﬂki olmas› durumunda
+bizi yan›lg›ya düﬂmekten korur. Bunu da en iyi biçimde aktörler taraf›ndan ya-
+p›lan hareketlerin amaçlarla olan ba¤lar›n› çok iyi kurarak yapar.
+Oyun kuram› kullanman›n baﬂka belirgin bir yarar› da kuram›n stratejik et-
+kileﬂimlerin aç›klanmas›na verdi¤i önem ve bunlar için sundu¤u tekniklerdir.
+Daha evvel de belirtildi¤i üzere oyun kuram›n›n ve hareketli beklenen fayda mo-
+dellerinin ana belitlerinden birisi, herhangi bir aktörün hamlelerin di¤er aktör-
+lerin nas›l davranaca¤›n› düﬂünülerek yapmas›d›r. Bu anlamda kuram›n öner-
+meleri birbirine ba¤l› önermelerdir. Yani, bir aktörün tüm davran›ﬂlar› ‘di¤erle-
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+52 Bueno de Mesquita. Accomplishments and Limitations
+53 Bueno de Mesquita, Accomplishments and Limitations
+54
+Ibid.
+53
+
+--- Sayfa 22 ---
+rinin’ bu davran›ﬂa nas›l bir cevap verece¤ine ba¤l›d›r. Bu ﬂekilde önermelerle
+uluslararas› iliﬂkileri aç›klamaya çal›ﬂmak, konunun do¤as›na çok daha uygun-
+dur. Yaz›ndan bir örnek vermek gerekirse, realistler genellikle birbirine ba¤l› ol-
+mayan ve do¤rusal iliﬂkiler varsayarlar; örne¤in, daha büyük askeri güçlerin da-
+ha ufak askeri güçlere göre her zaman daha avantajl› oldu¤unu savunurlar. An-
+cak tarih, daha küçük kuvvetlerin daha büyük kuvvetleri ma¤lup ediﬂlerinin ör-
+nekleriyle doludur.  Demek ki daha üstün askeri kuvvet, onu kullanma iste¤i,
+motivasyonu ve yeteneklerine ba¤l›d›r. Oyun kuram› kullanan bir araﬂt›rmac›
+sadece askeri dengeleri de¤il, bunlar›n ba¤l› oldu¤u faktörleri de hesaba katmak
+zorundad›r.55
+Nicholson ve Bueno de Mesquita’n›n tart›ﬂt›¤› bir baﬂka katk› ise, oyun ku-
+ram›n›n, baﬂka teori ve yaklaﬂ›mlardan gelen bilgi ve kavramlar› birbirine ba¤-
+lama ve bir arada kullanma yetene¤idir.56 Uluslararas› iliﬂkileri inceleyen yap›-
+salc› (Örne¤in realizm, neorealizm, neoliberal kurumsalc›l›k, Marksizm gibi),
+davran›ﬂsalc›, psikolojik ve hatta inﬂac› kuramlar oyun teorisine entegre edile-
+bilir. Çünkü ço¤u zaman bu kuramlar›n belitsel temelleri oyun kuram›n›nkiler-
+le çeliﬂmez. Örne¤in, bir realist sistemdeki güç dengesindeki de¤iﬂmelerin siste-
+mik savaﬂlar› nas›l tetikledi¤ini araﬂt›rs›n. Oyun kuram› kendi güçlü belitsel te-
+meli üzerine yap›salc› realistlerin nispi kazanç varsay›mlar›n› ekleyerek -realist-
+lerin analizlerine çok iyi entegre edemedikleri- aktörlerin birbirlerine ba¤l› iliﬂ-
+kilerine dair neden-sonuç iliﬂkisi içeren tezler ortaya atabilir. Veya ümit kura-
+m›n›n varsay›mlar›n› oyunlar›n stratejik yap›s›na uygulayarak psikolojik teori-
+lerin büyük eksikli¤i olan stratejik etkileﬂim faktörünü analizlerde devreye so-
+kabilir. Formel kuram›n di¤er yaklaﬂ›mlarla iﬂbirli¤inin en baﬂar›l› örneklerin-
+den birisi Mark Schafer ve Stephen Walker’›n çal›ﬂmas›d›r.57 Schafer ve Walker
+karar al›c›lar›n inanç sistemlerinin psikolojik incelemesiyle liderlerin operasyo-
+nel kodlar›n› belirleyip, edindikleri bulgular› stratejik olarak incelemek için
+Brams’›n hamleler kuram› çerçevesinde kullanm›ﬂ ve d›ﬂ politika çal›ﬂmalar›na
+çok yenilikçi bir biçimde bakm›ﬂlard›r.58
+Uluslararas› iliﬂkiler çal›ﬂmalar›n›n bilimsel geliﬂimine katk› bak›m›ndan
+ak›lc› kuram yaklaﬂ›mlar› önemli avantajlar sa¤larlar. Çünkü, kuram›n belitsel
+temellerinin çok aç›k ve tam olarak belirtilmesi araﬂt›rmac›lara etkin kümülâtif
+bilgi birikiminin oluﬂmas› ve yaz›n›n bilimsel bir ﬂekilde geliﬂmesi için gerekli or-
+tam› sa¤lar. Yeni belitlerin kullan›l›p kuram›n daha da s›n›rlanmas›n›n veya ba-
+z› klasik belitlerin ‘gevﬂetilmesinin’ sonuçlar› çok daha rahat bir ﬂekilde incele-
+nebilir. Bu sayede anomali gösteren vakalar daha ayr›nt›l› incelenip, bu olayla-
+r›n gerçekten mi yoksa görünüﬂte mi anomali oldu¤u incelenip yeni önermeler
+türetilebilir.59
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+56 Nicholson, Formal Models in International Relations; Bueno de Mesquita, Accomplishments and
+Limitations.
+57 Mark Schafer ve Stephen G. Walker, Beliefs and Leadership in World Politics: Methods and
+Applications of Operational Code Analysis, New York:  Palgrave Macmillan, 2006.
+58 Brams, Theory of Moves.
+59 Bueno de Mesquita. Accomplishments and Limitations
+54
+
+--- Sayfa 23 ---
+Son olarak, oyun kuram› kullanmak baz› özel metodolojik sorunlar›n üste-
+sinden gelinmesine yard›m eder. Bunlar, 1) endojenlik varsay›mlar› yap›l›rken
+daha dikkatli davran›lmas›; 2) seçim yanl›l›¤› konusundaki uyar›lar›; 3) savlar
+ve savlar› destek için getirilen kan›tlar aras›ndaki ayr›m›n iyi tan›mlanmas›; 4)
+ve daha sa¤lam tahminler yapmam›za olanak sa¤layacak metodolojik temellerin
+haz›rlamas›d›r.60 Her ﬂeyden önce uluslararas› iliﬂkilerin aç›klanmas›nda endo-
+jen varsay›mlar›n çok dikkatli yap›lmas› ak›lc› kuram›n do¤as› gere¤idir. Di¤er
+kuramlar›n bu anlamda ak›lc› tercih kuram›n›n spesifik varsay›mlar›n› örnek
+almaya baﬂlad›klar› gözlemlenmektedir. Örne¤in, bir neorealist sistem yap›s›n›
+do¤al ve endojen sayar ve yap›daki de¤iﬂimleri aç›klamay› amaç edinir. Ancak
+bu endojen kabul edilen sistemik yap›n›n neden endojen kabul edildi¤i ve karar
+verici bireylerin davran›ﬂlar›ndan bu yap›n›n nas›l etkilendi¤i (mikro-makro dü-
+zey iliﬂkisi) realistlerce aç›klanmaz. Oysa ak›lc› tercih kuram› bu konu üzerine
+birçok aç›l›m yapm›ﬂ ve iki-seviyeli oyunlar gibi, ‘iç politika – karar verici – sis-
+temik faktörler’ aras› iliﬂkilere aç›kl›k kazand›rmaya çal›ﬂm›ﬂt›r.61 Benzer bir
+ﬂekilde, ak›lc› tercih kuram›n›n birbirine ba¤l› hareketleri aç›klayan hipotezleri
+seçim yanl›l›¤›n›n sonuçlar›m›z› sapt›rmas›n› bir ölçüde önleyebilmiﬂtir. Özellik-
+le güvenlik, savaﬂ, ittifak ve nükleer cayd›r›c›l›k konular›nda gözlemlenmesi zor
+sonuçlar, gözlenebilen sonuçlardan daha fazlad›r. Birçok zaman uluslararas›
+iliﬂkilerde bir hareketi yapmamak ince hesaplar›n ve di¤er aktörlerin davran›ﬂ-
+lar›n›n bir sonucudur. Ancak bunlar gözlemleri zor oldu¤u veya araﬂt›rmac›la-
+r›n bilgisizli¤i yüzünden analize al›nmaz ve seçim yanl›l›¤› oluﬂur. Örne¤in bir
+savaﬂ› baﬂlatmak-baﬂlatmamak; di¤er bir aktörün tehdidinden dolay› bir iﬂten
+caymak-caymamak gibi örneklerde savaﬂa baﬂlamamak ve caymak gibi hareket
+gerektirmeyen davran›ﬂlar analize al›nmazsa seçim yanl›l›¤› olur. Ancak aktör-
+lerin davran›ﬂlar›n›n birbirlerine etki etti¤i hipotezlerin kullan›lmas› halinde bu
+tip durumlar da gözönüne al›n›r.
+Öte yandan, test edilecek savlar ve veriler aras›ndaki ba¤›ms›zl›k, hipotezle-
+rin yanl›ﬂlanabilirli¤ini incelemek için etkin bir yoldur. Bunu yapman›n etkin
+yollar›ndan birisi de ak›lc› kuram›n tümdengelimci yaklaﬂ›m›d›r. E¤er test ede-
+ce¤imiz hipotezlerimizi gözlemlerden ve verilerden yola ç›karak oluﬂturmaz isek
+(yani tümevar›mc› metot kullanmazsak), sadece belitlerden gelen (tümdengelen)
+hipotezlerin gözlemlerden ba¤›ms›zl›¤›n› garanti edebilir ve gerçek dünyan›n
+aç›klanmas›nda daha güvenilir sonuçlar elde edebiliriz. Buna ba¤l› olarak, ak›l-
+c› kuram›m tümdengelimci metoduyla türetilen hipotezler datadan ba¤›ms›z ol-
+duklar› için, datadan yola ç›k›p onu tekrarlayan hipotezler yerine, tümdengelim
+yoluyla türetilmiﬂ aç›k ve kesin nedensellik iliﬂkileri öne sürebilirler.62 Bu ﬂe-
+kilde uluslararas› olaylara dair tahmin yapma kabiliyeti daha yüksek hipotezler
+de türetebiliriz.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+60 Bueno de Mesquita. Accomplishments and Limitations.
+61 Robert Putnam, “Diplomacy and Domestic Politics: The Logic of Two-Level Games”, International
+Organization, Cilt 42, 1988, s. 427-460.
+62 Bueno de Mesquita. Accomplishments and Limitations
+55
+
+--- Sayfa 24 ---
+Ak›lc› Tercih ve Oyun Kuram› Üzerine Eleﬂtiriler ve Savunmalar
+Ak›lc› tercih kuram›na birçok eleﬂtiri yöneltilmiﬂtir. Bunlar› iki grupta incele-
+mek yaral› olacakt›r. Birinci grup araﬂt›rmac›lar›n daha öznel nedenlerle getir-
+dikleri eleﬂtirilerden oluﬂurken, ikinci grupta kuram›n aksiyomatik temelleri ve
+metodolojisine yönelik daha teknik eleﬂtiriler vard›r.
+Birinci gruptaki eleﬂtirileri üç baﬂl›k alt›nda inceleyebiliriz.63 Herﬂeyden ön-
+ce, uluslararas› iliﬂkiler gibi nitel analizin hakim oldu¤u bir alanda nicel yön-
+temler kullanan oyun kuram› birçok araﬂt›rmac›ya çal›ﬂ›lan konuyla alakas›z,
+gereksiz ve hatta rahats›z edici gelmiﬂtir. Kabul etmek gerekir ki, oyun kuram›
+çerçevesinde yaz›lm›ﬂ bir çok makale fazlas›yla teknik olup, konuya hiç aﬂikar-
+l›¤› bulunmayanlar için kapal› ve anlaﬂ›lmazd›r. Ancak bu alg›y› k›rmak için ça-
+balayan ve çal›ﬂmalar›n› en geniﬂ kitlelerin anlayabilece¤i ﬂekilde yapan araﬂt›r-
+mac›lar da vard›r. Ay›rca, daha önce belirtti¤imiz gibi, ak›lc› tercih kuram›n›
+kullanmak sadece yarar fonksiyonlar›yla de¤il, sadece tercih s›ralamalar› ve ni-
+cel analitik aç›klamalarla da yap›labilir.
+Öte yandan, kullan›lan kelimeler ve terminoloji de bir çok araﬂt›rmac›n›n
+‘zevklerine’ ters düﬂmektedir. Çok önemli, insani dram içeren savaﬂ gibi olgula-
+r› aç›klamak için kullan›lan ‘oyun’, ‘kazanan’, ‘kaybeden’, ‘yarar’, ‘getiri’ gibi te-
+rimler bir çok araﬂt›rmac›y› rahats›z etmektedir. Fakat bunlar›n sadece pratik
+amaçlarla kullan›lan ve de¤er yarg›s› taﬂ›mayan teknik terimler olduklar›n› bir
+kez daha belirtmek gerekir.
+Üçüncü öznel eleﬂtiri siyasal tercihlerle ilgilidir. Ak›lc› tercih kuram› ve oyun
+teorisi iktisatta serbest piyasa ekonomisi, uluslararas› iliﬂkilerde ise savaﬂ ve
+nükleer cayd›r›c›l›k çal›ﬂmalar›yla özdeﬂleﬂtirildi¤inden, siyasal çizginin solun-
+daki araﬂt›rmac›lar taraf›ndan en baﬂtan, araﬂt›r›l›p katk›lar› anlaﬂ›lmadan ya-
+rars›z kabul edilmiﬂtir. Gerçekten de, oyun kuram›n›n alanda uygulanmaya
+baﬂlad›¤› zamana bakarsak So¤uk Savaﬂ›n en gergin dönemine denk geldi¤ini ve
+dolay›s›yla kuram›n daha ‘ﬂahin’ savunma stratejileri tavsiye eden eserler üret-
+ti¤ini görebiliriz. Ancak bunu dönemsel kabul etmek gerekir. Oyun kuram› kul-
+lanan bir çok çal›ﬂma sadece savaﬂlar› de¤il, uluslararas› iﬂbirli¤inin hangi du-
+rumlarda iﬂlemedi¤i ve nas›l iﬂletilebilece¤i üzerine ürünler vererek yaz›na çok
+büyük katk›lar yapm›ﬂt›r. Örne¤in Robert Axelrod, mahkûmlar açmaz› gibi bi-
+reysel ak›lc›l›¤›n nas›l optimal alt› kollektif sonuçlara yol açt›¤›n› anlatan oyun-
+lar›n do¤as›n› araﬂt›rm›ﬂt›r.64 Axelrod’a göre gerçek hayatta iﬂbirli¤inin sa¤la-
+nabilmesi için karﬂ›l›kl›l›k ilkesi çerçevesinde ilerleyen iﬂbirlikleri gerekir. Böy-
+lece, gelecekteki ç›karlar›n› da gözeten aktörler, son tahlilde iﬂbirliklerinin art-
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+63 Bennett, Modelling Decisions in IR.
+64 Robert Axelrod, “Effective Choice in the Prisoner’s Dilemma”, Journal of Conflict Resolution Cilt
+24, March 1980, s. 3-25; Robert Axelrod, The Evolution of Cooperation, New York: Basic Books,
+1984; Robert Axelrod ve Robert O. Keohane, “Achieving Cooperation under Anarchy”, World
+Politics, Cilt 38, 1985, s. 226–254.
+56
+
+--- Sayfa 25 ---
+mas›na ve hatta iﬂbirli¤ini bozan aktör ve davran›ﬂlara karﬂ› önlemler al›nmas›-
+na yol açacakt›r. Ayr›ca ﬂunu da belirtmek gerekir ki, oyun kuram› içinde çal›-
+ﬂan bir çok araﬂt›rmac› muhafazakar olmad›klar› halde, normatif de¤il betimle-
+yici araﬂt›rmay› benimsedikleri için araﬂt›rmalar›n›n sonuçlar› baz›lar›na ‘can
+s›k›c›’ gelse de bunlar› objektif olarak dile getirmiﬂlerdir.
+‹kinci grup eleﬂtiriler ise daha çok kuram›n belitsel temelleri ve oyunlar›n
+teknik yap›lar› üzerine yo¤unlaﬂm›ﬂt›r. Kuram›n felsefi temelleri üzerine en bü-
+yük eleﬂtiri, tabii ki, ak›lc›l›k beliti üzerinden gerçekleﬂtirilmiﬂtir. Bu makalenin
+üçüncü bölümünde daha ayr›nt›l› tart›ﬂt›¤›m›z gibi bu belit büyük yanl›ﬂ anla-
+ﬂ›lmalara yol açm›ﬂ ve siyasal aktörlerin davran›ﬂlar›n› bencil, ahlak çerçevesi
+d›ﬂ›nda ve hatta ahlaks›z olarak tan›mlamakla suçlanm›ﬂt›r. Tart›ﬂmay› uzat-
+mak anlams›zd›r. Ancak bir kez daha belirtelim ki, ak›lc› tercih kuram›n›n araç-
+sal ak›lc›l›k beliti en temelde ﬂunu iddia eder: aktörlerin amaçlara ba¤l› bir ter-
+cih s›ras› vard›r ve aktörler bu s›raya göre hareket ederler. Bu belit, Adolf Hit-
+ler’in oldu¤u kadar Rahibe Teresa’n›n da yapt›klar›n› aç›klamam›za yard›m eder.
+Öte yandan, kurama yöneltilen ciddi ve meﬂru eleﬂtiriler de mevcuttur. Bun-
+lardan en önemlisi ve en çok dile getirileni aktörlerin alg›lar›na dair olan›d›r.
+Klasik oyun teorisinde oyuna dahil tüm aktörlerin oyunu ayn› alg›lad›klar› farz
+edilir. Yani oyunun her karakteristi¤i her aktör taraf›ndan ayn› ﬂekilde alg›lan-
+d›¤› farz edilerek çözümler yap›l›r. Uluslararas› iliﬂkiler gibi eldeki bilgilerin az
+güvenilir ve aktörlerin alg›lar›n›n birbirinden çok farkl› oldu¤u bir alanda bu tip
+varsay›mlar araﬂt›rmalar›n sonuçlar›n› olumsuz etkileyebilir. Bunu fark eden
+araﬂt›rmac›lar 1960’lar›n sonlar›ndan itibaren sorunu aﬂmak için de¤iﬂik ku-
+ramsal modeller geliﬂtirmiﬂlerdir. Örne¤in Harsanyi’nin eksik bilgili oyunlara
+iliﬂkin kuram›, birbirinden de¤iﬂik bilgiye ve karakterlere sahip aktörlerin var-
+say›labilmesini sa¤lam›ﬂt›r.65 Bu buluﬂ, belirsizlik ve yanl›ﬂ alg›lama durumla-
+r›n›n modellenmesinde çok yaral› olmuﬂtur. Bu tarz, de¤iﬂik alg› modellerinin
+daha da ileriye götürülmesi Bennett’in hiper oyunlar kuram›yla ilerlemiﬂ ve ta-
+mamen ayr›, subjektif alg›lara sahip aktörlerin oluﬂturdu¤u oyunlar›n nas›l çö-
+zülece¤i anlaﬂ›lm›ﬂt›r.66
+Benzer bir baﬂka eleﬂtiri de birden fazla Nash dengesinin oyunlarda ortaya
+ç›k›ﬂ› ve klasik oyun kuram›n›n bunu bu ﬂekilde kabul etmesidir. Korkak tavuk
+oyunu gibi en basit oyunlarda bile birden fazla denge noktas› bulunabilmekte-
+dir. Bu durumlarda kuram, oyunun sonucuna iliﬂkin kesin bir tahmin de¤il
+davran›ﬂlar hakk›nda bir olas›l›k da¤›l›m› verebilmektedir. Ancak bu problem de
+son 50 y›lda yaz›ndaki bir çok geliﬂmeyle birlikte daha iyi ele al›nmaktad›r. Bun-
+lardan en önemlisi, daha s›n›rlay›c› denge tan›mlar›n›n ve çözümlerinin geliﬂti-
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+65 John C. Harsanyi, “Games with Incomplete Information Played by Bayesian Players. Part I - III.
+Part I - The Basic Model”, Managament Science, Cilt 14, No 3, 1967-1968, s. 159-182.
+66 Peter Bennett, “Developing a Model of Conflict”, Futures, Cilt 12, 1980, s. 489-507.
+57
+
+--- Sayfa 26 ---
+rilmesidir. Örne¤in alt-yetkin Nash dengesinin keﬂfi ve oyunlar›n stratejik dü-
+zeyden kapsaml› düzeye döndürülüp çözümlenmesi bu geliﬂmelerden biridir.
+Kurama getirilen son iki teknik eleﬂtiri de kuram›n gerçek dünyay› fazla basit-
+leﬂtirdi¤ine dairdir. Bunlardan birincisi, oyunlar›n, modelledi¤i gerçek dünyada-
+ki stratejik etkileﬂimleri çok basitleﬂtirdi¤idir. Eleﬂtirilere göre, her stratejiye
+karﬂ›l›k gelen tüm hamleler ve bunlara karﬂ›l›k gelen di¤er aktörlerin davran›ﬂ-
+lar›n›n kesin ve tam belirlenmesine imkân yoktur. Eleﬂtiriler oyun kuram›n›n
+bu konuda çok da iyi bir iﬂ ç›karamad›¤›n› ve bu zorlu¤u aﬂmak yerine gerçek
+dünyay› fazlas›yla basitleﬂtirdi¤ini iddia ederler.67 Bunda bir miktar gerçeklik
+pay› oldu¤unu kabul etmek gerekirse de modellemelerin mant›¤›n›n gerçekli¤i
+en azla en ço¤u anlatmak oldu¤unu da hat›rlamak gerekir. Daha geniﬂ analiz-
+ler, bilgisayarlar ve hatta simülasyonlar yard›m›yla bu tip zorluklar›n aﬂmaya
+çal›ﬂan çal›ﬂmalar mevcuttur.
+Son olarak, eleﬂtiriler oyun kuram›n› birbirine ba¤l› ve çok seviyeli uluslara-
+ras› konular›n karmaﬂ›kl›¤›n› iyi ele alamamakla suçlam›ﬂlard›r.68 Ancak bu
+eleﬂtirilerin çok da yerinde olmad›¤›n› belirtmek gerekir. Özellikle Robert Put-
+nam’›n iki-seviyeli oyunlar eseriyle birlikte, gerçek dünyan›n karmaﬂ›k iç politi-
+ka-d›ﬂ politika iliﬂkileri kadar, hükümetlerin dâhil olmak zorunda olduklar› çok
+boyutlu iç politika pazarl›klar›n› da bir arada oyuna dâhil edip birleﬂtirebilen
+modeller geliﬂmiﬂ ve baﬂar›l› örnekler vermiﬂlerdir.69
+Formel kuram yaz›n›na genel olarak bakt›¤›m›zda iki ana e¤ilimden söz et-
+mek mümkündür. Birincisi, oyun kuram› teknik olarak çok büyük geliﬂmeler
+göstermiﬂ, oyunlara dinamizmin entegre edilmesi, bilgi faktörünün daha gerçek-
+çi kullan›lmas› ve denge kavram›n›n rafine edilmesinde büyük yol alm›ﬂt›r. ‹kin-
+cisi, modellemenin do¤as› gere¤i yap›lan basitleﬂtirmelerin baz› ciddi sorunlara
+yol açt›¤› görülmüﬂ ve bunlar› aﬂmak için yeni kuramsal aç›l›mlara ve simülas-
+yon gibi yeni tekniklerden yararlan›lmas›na do¤ru çabalar fazlalaﬂm›ﬂt›r. Formel
+kuram›n kendini geliﬂtirmesi gereken daha çok nokta vard›r. Bu sorunlar›n, pa-
+radigman›n özünü ihlal edip post-hoc kuramsallaﬂt›rmaya gitmeden çözülmeye
+çal›ﬂ›lmas› teori aç›s›ndan ümit vericidir.
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+67 Raymond Dacey ve Lisa J. Carlson, “The Normative, Behavioral, and Prescriptive Problems of
+Game Theory in International Relations”, Mershon International Studies Review, Cilt 40, No 1,
+1996, s. 161-170.
+68 Dacey ve Lisa, The Normative, Behavioral, and Prescriptive Problems..
+69 Robert Putnam, “Diplomacy and Domestic Politics: The Logic of Two-Level Games”, International
+Organization Cilt 42, 1988, s. 427-460; Karar vericiler üzerindeki iç ve d›ﬂ politika bask›lar›n› göz
+önüne alan di¤er çal›ﬂmalar için bkz. Bruce Bueno de Mesquita ve Frans Stokman, European
+Community Decision Making: Models, Applications, and Comparisons, New Haven: Yale
+University Press, 1994; Javier Arregui, Frans Stokman ve Robert Thomson, “Bargaining in the
+European Union and Shifts in Actors’ Policy Positions”, European Union Politics Cilt 5, 2004, s.
+47-72.
+58
+
+--- Sayfa 27 ---
+Sonuç ve Gelecek
+Oyun kuram›n›n uluslararas› iliﬂkiler literatüründe kullan›m› di¤er yaklaﬂ›m-
+larla karﬂ›laﬂt›r›ld›¤›nda bir hayli yenidir. Ancak bu yenili¤ine ra¤men, birbirine
+ba¤l› önermelerle stratejik etkileﬂimleri anlamaya çal›ﬂan bu yaklaﬂ›m uluslara-
+ras› iliﬂkilerin anlaﬂ›lmas›na çok büyük katk›lar sa¤lam›ﬂt›r. Özellikle kuram›n
+belitlerinin aç›kl›¤› ve kesinli¤i en büyük avantajlar›ndan biri olmuﬂtur. Teorik
+ve metodolojik geliﬂmelerin yan›nda, kuram›n uygulama sahas›n›n geniﬂli¤i ay-
+r›ca etkileyicidir. Özellikle, formel kuramlarla çal›ﬂan araﬂt›rmac›lar›n azl›¤›na
+ra¤men verdikleri eserlerin çoklu¤u ve kalitesi kuram›n gelece¤inin ne kadar
+parlak oldu¤una bir iﬂarettir.
+Formel ak›lc› tercih kuram›n›n (ve özelde oyun kuram›n›n) gelece¤ine iliﬂkin
+çeﬂitli spekülasyonlar vard›r. Bunlar›n baﬂ›nda teorinin tümdengelimci anlam-
+da daha da karmaﬂ›klaﬂaca¤› beklentisi gelir. Karmaﬂ›klaﬂma kaç›n›lmaz olsa
+bile, bu gelenekten gelmeyen araﬂt›rmac›lara bulgular›n nas›l daha kolay anla-
+t›laca¤› bir endiﬂe konusu olmal›d›r. Ayr›ca, yönteme verilen önem gere¤inden
+fazlas›na gidip, içeri¤in önüne geçmemelidir. Belki de formel kuramlar› bekleyen
+en büyük tehlike, metodolojik kusursuzluk u¤runa içerikten ödün verilmesidir.
+Öte yandan modelleri karmaﬂ›k uluslararas› iliﬂkilere yak›nsayabilmek için
+bilgisayar teknolojilerinden ve simülasyonlardan yararlanmak kaç›n›lmazd›r.
+Bu sayede disiplin, istatistikî modellemelerden çok daha kuvvetli aksiyomlar›
+bar›nd›ran yar›-deneysel mecralara girebilecek ve uluslararas› iliﬂkilerin daha
+iyi anlaﬂ›lmas› yolunda büyük ad›mlar atacakt›r.70
+Bu çerçevede, bilgisayar simülasyonlar› yard›m›yla formel modellemelerin
+uluslararas› iliﬂkiler alan›na iki büyük katk› yapabilece¤ini düﬂünüyorum. Bun-
+lardan birincisi, uluslararas› iliﬂkiler yaz›n›nda çözüm bekleyen en önemli ko-
+nulardan olan aktör-yap› iliﬂkilerinin do¤as›na ›ﬂ›k tutmak olabilir. Formel ku-
+ram›n kendi do¤as› gere¤i aktör-temelli modellemeler konusundaki geliﬂmiﬂli¤i
+malumdur. Bu alandaki bilgi birikimi ve uzmanl›k, aktörlerin yap›ya etkileri
+(mikro-makro), ve yap›n›n aktörlerin davran›ﬂlar›n› nas›l biçimlendirip s›n›rlad›-
+¤› (makro-mikro) iliﬂkilerine uyguland›¤›nda uluslararas› iliﬂkilerin do¤as›n› da-
+ha etkin aç›klayacak önermeler elde edilebilir. ‹kincisi, uluslararas› iliﬂkileri il-
+gilendiren her konuya uygulanabilecek bu simülasyonlar, yap›salc› kuramlar›n
+da formel kuram›n avantajlar›ndan yararlanmas›na ve daha analitik bir çerçe-
+vede çal›ﬂma olana¤› bulmas›na yard›mc› olabilir.71 Bu sayede realizm, libera-
+lizm ve Marksizm gibi yap›salc› kuramlar mant›k tutars›zl›klar›, post-hoc kuram
+geliﬂtirme ve bu teorilerin belitlerinin sürekli ihlali gibi sorunlarla baﬂa ç›kabi-
+lirler.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+70 Bkz. Nicholson, Formal Models in International Relations
+71 Harvey Star, “Cumulation, Synthesis, and Research Design for the post-Fourth Wave”, Michael
+Brecher ve Frank P. Harvey (der.), Millennial Reflections on International Studies, Ann Arbor:
+University of Michigan Press, 2002, s. 361-373.
+59
+
+--- Sayfa 28 ---
+Son olarak, oyun kuram›yla çal›ﬂan tüm araﬂt›rmac›lar›n, kurama yöneltilen
+eleﬂtirilerden ç›karmas› gereken dersleri ve kuram›n tahmin ve bulgular›yla çe-
+liﬂen gerçeklikleri dürüstçe kabul etmesi gerekmektedir. Bunun en büyük yara-
+r›, di¤er d›ﬂ politika ve uluslararas› iliﬂkiler araﬂt›rma alanlar›ndan baz› teorik
+ve metodolojik kavray›ﬂlar›n oyun kuram›na kazand›r›lmas› olacakt›r. Buna en
+güzel örnek, niçin baz› aktörlerin beklendi¤i gibi ak›lc› davranmad›klar›n› araﬂ-
+t›r›rken, formel kuramc›lar›n psikoloji ve d›ﬂ politika analizinin alg›sal araﬂt›r-
+malar› gibi alanlardan yararlanmalar› olacakt›r. Liderlerin inanç sistemlerinin
+analizinden elde edilen bulgular›, oyun kuram›n›n dinamik pazarl›klar› aç›kla-
+yan yap›s›na oturtmak, yaz›na eﬂsiz kazan›mlar getirecektir. Formel kuramlar›n
+uluslararas› iliﬂkiler yaz›n›na son elli y›ldaki katk›lar› önemlidir. Ancak daha da
+heyecan verici olan›, teorinin geliﬂimine bilgisayar teknolojilerinin de yard›m›y-
+la oluﬂacak ikinci elli y›ldaki kazan›mlard›r.
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+60
+
+--- Sayfa 29 ---
+K a y n a k ç a
+Allison, Graham T, “Conceptual Models and the Cuban Missile Crisis”, A m e r i c a n
+Political Science Review, Cilt 63, No 3, 1969, s. 689-718.
+Arregui, Javier, Frans Stokman ve Robert Thomson, “Bargaining in the European Union
+and Shifts in Actors’ Policy Positions”, European Union Politics Cilt 5, 2004, s. 47-72.
+Axelrod, Robert, “Effective Choice in the Prisoner’s Dilemma”, Journal of Conflict
+R e s o l u t i o n Cilt 24, 1980, s. 3-25.
+Axelrod, Robert, The Evolution of Cooperation, New York: Basic Books, 1984.
+Axelrod, Robert ve Robert O. Keohane, “Achieving Cooperation under Anarchy”, W o r l d
+P o l i t i c s, Cilt 38, 1985, s. 226–254.
+Baldani, Jeffrey, Jeffrey Baldant, James Bradfield ve Robert Walter Turner,
+Mathematical Economics, Harcourt Press, 1996.
+Bennett, Peter, “Developing a Model of Conflict”, F u t u r e s , Cilt 12, 1980, s. 489-507.
+Bennett, Peter G., “Modelling Decisions in IR: Game Theory and Beyond”, M e r s h o n
+International Studies Review Cilt 39, 1995, s.19-52.
+Boulding, Kenneth, Conflict and Defense, New York: Harper and Row, 1962.
+Brams, Stephen ve Donald Wittman, “Nonmyopic Equilibria in 2 x 2 Games”, C o n f l i c t
+Management and Peace Science Cilt 6, 1981, s. 39-62.
+Brams, Stephen, Superpower Games, New Haven: Yale University Press, 1985.
+Brams, Stephen, Theory of Moves, Cambridge, UK: Cambridge University Press, 1994.
+Bueno de Mesquita, Bruce, The War Trap, New Haven: Yale University Press, 1981.
+Bueno de Mesquita, Bruce, David Newman ve Alvin Rabushka, Forecasting Political
+Events: The Future of Hong Kong, New Haven: Yale University Press, 1985.
+Bueno de Mesquita, Bruce ve David Lalman, War and Reason, New Haven: Yale
+University Press, 1992.
+Bueno de Mesquita, Bruce ve Frans Stokman, European Community Decision Making:
+Models, Applications, and Comparisons, New Haven: Yale University Press, 1994.
+Bueno de Mesquita, Bruce, “Accomplishments and Limitations of a
+Game-Theoretic Approach to International Relations”, Michael Brecher and Frank
+P.Harvey (der.), Millennial Reflections on International Studies, Ann Arbor:University
+of Michigan Press, 2002, s. 374-391.
+Bueno de Mesquita, Bruce, Principles of International Politics: People’s Power,
+Preferences and Perceptions, Washington, D.C.: CQ Press, 2003.
+Dacey, Raymond ve Lisa J. Carlson, ”The Normative, Behavioral, and Prescriptive
+Problems of Game Theory in International Relations”, Mershon International Studies
+Review, Cilt 40, No 1, Apr. 1996, s. 161-170.
+Dimand, Mary-Ann, The History Of Game Theory: Volume 1, Routledge,1996.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+61
+
+--- Sayfa 30 ---
+Green, Donald ve Ian Shapiro, The Pathologies of Rational Choice, New Haven: Yale
+University Press, 1994.
+Güner, Serdar ﬁ., “Oyun Kuram› ve Uluslararas› Politika (Game Theory and
+International Politics)”, ODTÜ Geliﬂme Dergisi Cilt 30, 2003, s. 163-180.
+Harsanyi, John C., “Games with Incomplete Information played by Bayesian
+Players. Part I - III. Part I - The Basic Model”, Managament Science, Vol 14, No: 3, Nov
+1967-1968, s. 159-182.
+Harvey, Frank P. ve Patrick James, “Nuclear Crisis as a Multi-Stage Threat Game:
+Toward an Agenda for Comparative Research”, International Political Science Review
+/ Revue internationale de science politique, Cilt 17, No 2, Apr. 1996, s. 197-214.
+Hinich, Melvin ve Michael C. Munger, Analytical Politics, Cambridge University Press,
+1997.
+Kreps, David ve R. Wilson, “Sequential Equilibria”, Econometrica, Cilt 50, 1982, s.
+863-894.
+Kreps, David M., Game Theory and Economic Modelling, Oxford: Oxford University
+Press,1990.
+Kugler, Jacek, “Political Conflict, War and Peace”, Ada Finifter (der.), Political Science:
+The State of the Discipline, APSA, 1993, s 483-509.
+Lalman, David, “Conflict Resolution and Peace”, American Journal of Political
+Science, Cilt 32, 1988, s. 590-615.
+Lalman, David, Piotr Swistak ve Joe Oppenheimer, “Formal Rational Choice Theory:
+A Cumulative Science of Politics”, Ada Finifter (der.), Political Science: The State of the
+Discipline II, American Political Science Association: Washington DC,  1993, s.77-
+104.
+Langlois, Jean-Pierre, “Rational Deterrence and Crisis Stability”, American Journal of
+Political Science, Cilt 35, No 4, (Nov., 1991), s.801-832.
+Morrow, James, “A Continuous Outcome Expected Utility Theory of War”, Journal of
+Conflict Resolution Cilt 29, 1985, s. 473-502.
+Morrow, James D., Game Theory for Political Scientists, Princeton: Princeton
+University Press, 1994.
+Morton, Rebecca B., Methods and Models: A Guide to the Empirical Analysis of
+Formal Models in Political Science, Cambridge: Cambridge University Press, 1999.
+Nicholson, Michael, “Formal Models in International Relations”, Michael Brecher ve
+Frank P. Harvey (der.), Millennial Reflections on International Studies, Ann Arbor:
+University of Michigan Press, 2002, s. 345-360.
+Olson, Mancur, The Logic of Collective Action, Cambridge: Harvard University Press,
+1971.
+Putnam, Robert, “Diplomacy and Domestic Politics: The Logic of Two-Level Games”,
+International Organization Cilt 42, 1988, s. 427-460.
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+62
+
+--- Sayfa 31 ---
+Quackenbush, Steven, “The Rationality of Rational Choice Theory”, International
+Interactions Cilt 30, No 2, 2004, s. 87-107.
+Quackenbush, Steven ve F. Zagare, “Game Theory: Modeling Interstate Conflict”
+Jennifer Sterling-Folker (der.), Making Sense of International Relations Theory,
+Boulder, CO: Lynne Rienner, 2006, s. 98-114.
+Rapoport, Anatol, Fights, Games and Debates, Ann Arbor: University of Michigan
+Press,1965.
+Rasmusen, Eric, Games and Information: An Introduction to Game Theory, Oxford:
+Basic Blackwell, 1989.
+Riker, William H. ve Peter C. Ordeshook, An Introduction to Positive Political Theory,
+Englewood Cliffs, NJ: Prentice-Hall, 1973.
+Sandler, Todd, Global Challenges: An Approach to Environmental, Political and
+Economic Problems, Cambridge University Press, 1997
+Sandler, Todd ve Walter Enders, “An Economic Perspective on Transnational
+Terrorism”, European Journal of Political Economy, Cilt 20, No 2, June 2004, s. 301-
+316.
+Schafer, Mark ve Stephen G. Walker, Beliefs and Leadership in World Politics:
+Methods and Applications of Operational Code Analysis,
+New York:  Palgrave
+Macmillan, 2006.
+Schelling, Thomas, The Strategy of Conflict, Cambridge:  Harvard University
+Press,1960.
+Schelling, Thomas C., Arms and Influence, New Haven: Yale University Press, 1966.
+Snyder, Glenn H., Deterrence and Defense, Princeton, NJ: Princeton University Press,
+1961.
+Sun Tzu, The Art of War, http://classics.mit.edu/Tzu/artwar.html
+Starr, Harvey, “Cumulation, Synthesis, and Research Design for the post-Fourth
+Wave”, Michael Brecher ve Frank P. Harvey (der.), Millennial Reflections on
+International Studies, Ann Arbor: University of Michigan Press, 2002, s. 361-373.
+von Neumann, John ve Oskar Morgenstern, Theory of Games and Economic Behavior,
+Princeton: Princeton University Press, 1944.
+Wagner, R. Harrison, “Uncertainty, Rational Learning and Bargaining in the Cuban
+Missile Crisis”, Peter Ordeshook (der.), Models of Strategic Choice in Politics, Ann
+Arbor: University of Michigan Press, 1989.
+Walt, Stephen M.,
+“Rigor or Rigor Mortis? Rational Choice and Security
+Studies”, International Security Cilt 23, No 4, Spring 1999, s. 5-48.
+Zagare, Frank C., “Toward a Reformulation of the Theory of Mutual Deterrence”,
+International Studies Quarterly Cilt 29, No. 2, 1985, s. 155-69.
+Zagare, Frank C., “Rationality and Deterrence”, World Politics, Cilt 42, 1990, s.
+238–260.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+63
+
+--- Sayfa 32 ---
+Zagare, Frank C., ve D. Marc Kilgour, “Asymmetric Deterrence”, International Studies
+Quarterly, Cilt 37, No 1, 1993, s. 1-27.
+Zagare, Frank C., “Classical Deterrence Theory: A Critical Assessment”, International
+Interactions Cilt 21, 1996, s. 365-387.
+ULUSLARARASI‹L‹ﬁK‹LER/INTERNATIONALRELATIONS
+64
+
+--- Sayfa 33 ---
+Summary
+This article is an introduction to the application of formal rational choice and game the-
+ories to international studies and makes an evaluation of its contribution. The article
+attempts to illustrate the benefits of incorporating the instrumental rationality assump-
+tion and formal methods to international studies via giving examples from the literature.
+It is argued that  despite its relative infancy in the field, the use of game theory and
+expected utility theory have greatly contributed to our understanding and explanations
+of international relations.
+First, different rational choice theories are presented. The argument is that any the-
+ory that makes a rationality assumption for the political actors belongs to the rational
+choice paradigm. However, game theory and expected utility theory must be treated as
+branches of formal rational choice theories for they use formal languages in theorizing.
+The focus of the article is game theory.
+Second, the article discusses the most misunderstood part of the theory: its rational-
+ity assumption. Rationality of the rational choice theory does not mean procedural
+rationality. Rather, it is the instrumental rationality. This assumption, in fact, is sur-
+prisingly simple and fits to the characteristics of many decision-makers: it means that
+agents have ordered preferences associated with outcomes and they follow this prefer-
+ence order when making decisions.
+The following part makes an introduction to how the game theory is used by
+researchers. Here I illustrate the connections between the game theory and IR theories
+via using chicken, prisonners dilemma and assurance games.
+A brief review of the important examples from the formal literature in international
+studies follows. I discuss how they began and evolved during the past five decades.  The
+main questions evaluated in this part are why formal theories are used and what is real-
+ly added by incorporating them. The discussion suggests that the use of formal theories
+have been useful for various reasons. The theory gives researchers a framework to under-
+stand and explain the causal logic and motivations behind actions. Therefore it has the
+capability to account for the strategic nature of international relations. Clarity of its
+assumptions, rigorous theorizing and ability to create cumulative knowledge are the
+most important features of the approach.
+Lastly, the limitations on the formal theories and the possible venues to overcome
+these problems are presented. In the conclusion the findings and thoughts about the
+future developments in the field are discussed.
+Oyun Kuram›n›n Uluslararas› ‹liﬂkiler Yaz›n›na Katk›lar›
+65
